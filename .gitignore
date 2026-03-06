@@ -30,15 +30,28 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files (never commit secrets)
 .env*
-#!.env.local
+.env.local
+.env.*.local
 
-# allow api key files to be tracked
-#!api_keys*
+# secrets / keys
+secrets/
+*api*key*
+*apikey*
+*api_key*
+*.pem
+*.key
+*.p8
+*.p12
+*.crt
+*.cer
+*.der
+*.jks
+*.keystore
 
 # vercel
-#.vercel
+.vercel
 
 # typescript
 *.tsbuildinfo
