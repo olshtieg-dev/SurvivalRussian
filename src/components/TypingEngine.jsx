@@ -76,12 +76,6 @@ export default function TypingEngine({
           </span>
         </div>
         
-        <div className="flex items-center gap-4 text-[9px] font-mono text-slate-700 uppercase tracking-[0.2em]">
-          <span>POS: {userInput.length}/{targetText.length}</span>
-          <span className="bg-slate-900 px-2 py-1 rounded border border-slate-800">
-            {Math.round((userInput.length / targetText.length) * 100)}%
-          </span>
-        </div>
       </div>
 
       {/* 2. THE CORE TYPING FIELD */}
@@ -110,6 +104,15 @@ export default function TypingEngine({
               </span>
             );
           })}
+        </div>
+      </div>
+
+      <div className="mt-4 flex justify-end">
+        <div className="flex items-center gap-4 text-[9px] font-mono text-slate-700 uppercase tracking-[0.2em]">
+          <span>POS: {userInput.length}/{targetText.length}</span>
+          <span className="bg-slate-900 px-2 py-1 rounded border border-slate-800">
+            {Math.round((userInput.length / targetText.length) * 100)}%
+          </span>
         </div>
       </div>
       
