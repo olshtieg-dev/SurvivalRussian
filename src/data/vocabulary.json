@@ -1,0 +1,324 @@
+{
+  "я": {
+    "cyrillic": "я",
+    "literal": "I",
+    "natural": "Me, myself.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/person/default/48px.svg",
+    "analysis": "Pronoun. The first letter of the alphabet and the word for 'I'."
+  },
+  "еду": {
+    "cyrillic": "еду",
+    "literal": "riding (vehicle)",
+    "natural": "Moving by wheels.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/directions_car/default/48px.svg",
+    "analysis": "Verb. Use this for bikes, cars, or buses."
+  },
+  "иду": {
+    "cyrillic": "иду",
+    "literal": "going (on foot)",
+    "natural": "Walking.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/directions_walk/default/48px.svg",
+    "analysis": "Verb. Used specifically for walking on your own two feet."
+  },
+  "в": {
+    "cyrillic": "в",
+    "literal": "in / into",
+    "natural": "Destination bound.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/login/default/48px.svg",
+    "analysis": "Preposition. Indicates entering a space or direction."
+  },
+  "магазин": {
+    "cyrillic": "магазин",
+    "literal": "shop",
+    "natural": "A store.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/shopping_cart/default/48px.svg",
+    "analysis": "Noun, Masculine. Fun fact: This is where the English word 'magazine' (a storehouse for info) comes from."
+  },
+  "на": {
+    "cyrillic": "на",
+    "literal": "on",
+    "natural": "Surface / Mode of travel.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/layers/default/48px.svg",
+    "analysis": "Preposition. Used here to show you are 'on' the bicycle."
+  },
+  "велосипеде": {
+    "cyrillic": "велосипеде",
+    "literal": "bicycle",
+    "natural": "On a bike.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/pedal_bike/default/48px.svg",
+    "analysis": "Noun. The 'е' ending is the prepositional case marker."
+  },
+  "мне": {
+    "cyrillic": "мне",
+    "literal": "to me",
+    "natural": "Myself (recipient).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/front_hand/default/48px.svg",
+    "analysis": "Pronoun (Dative). Literally: 'To me [there is] a need'."
+  },
+  "нужна": {
+    "cyrillic": "нужна",
+    "literal": "necessary",
+    "natural": "Need / Require.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/priority_high/default/48px.svg",
+    "analysis": "Short adjective. It changes based on the gender of the thing you need."
+  },
+  "вода": {
+    "cyrillic": "вода",
+    "literal": "water",
+    "natural": "H2O.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/water_drop/default/48px.svg",
+    "analysis": "Noun, Feminine. Stressed on the 'а' (va-DA)."
+  },
+  "где": {
+    "cyrillic": "где",
+    "literal": "where",
+    "natural": "A location query.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/location_on/default/48px.svg",
+    "analysis": "Adverb. Use this for static locations. If you’re asking 'Where to?' (direction), you’d use 'куда' instead."
+  },
+  "находится": {
+    "cyrillic": "находится",
+    "literal": "finds itself",
+    "natural": "Is located.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/pin_drop/default/48px.svg",
+    "analysis": "Reflexive Verb. The '-ся' ending means 'self.' So the pharmacy is literally 'finding itself' in a location. Very common for buildings."
+  },
+  "ближайшая": {
+    "cyrillic": "ближайшая",
+    "literal": "closest",
+    "natural": "The nearest one.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/near_me/default/48px.svg",
+    "analysis": "Superlative Adjective (Feminine). Root is 'близко' (near). The '-айшая' suffix is the 'super-mode' that makes it the *most* near."
+  },
+  "аптека": {
+    "cyrillic": "аптека",
+    "literal": "pharmacy",
+    "natural": "A drug store.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/local_pharmacy/default/48px.svg",
+    "analysis": "Noun, Feminine. Cognate with 'apothecary.' In Russia, these are often green-lit crosses and are everywhere."
+  },
+  "плохо": {
+    "cyrillic": "плохо",
+    "literal": "badly",
+    "natural": "Poorly.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/thumb_down/default/48px.svg",
+    "analysis": "Adverb. Modifies how you perform an action (like speaking)."
+  },
+  "говорю": {
+    "cyrillic": "говорю",
+    "literal": "speak",
+    "natural": "I am speaking.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/chat/default/48px.svg",
+    "analysis": "Verb. 1st Person Singular. Root: говорить."
+  },
+  "по-русски": {
+    "cyrillic": "по-русски",
+    "literal": "in Russian",
+    "natural": "Using the Russian language.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/translate/default/48px.svg",
+    "analysis": "Adverb. The 'по-' prefix and '-и' suffix create the 'in the manner of' form for languages."
+  },
+  "повторите": {
+    "cyrillic": "повторите",
+    "literal": "repeat",
+    "natural": "Say it again.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/replay/default/48px.svg",
+    "analysis": "Imperative (Formal/Plural). The '-те' ending makes it polite or addressed to a group."
+  },
+  "пожалуйста": {
+    "cyrillic": "пожалуйста",
+    "literal": "please",
+    "natural": "Please / You're welcome.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/volunteer_activism/default/48px.svg",
+    "analysis": "Particle. The 'й' and 'ст' are often swallowed in fast speech—sounds like 'pa-ZHAL-sta'."
+  },
+  "сколько": {
+    "cyrillic": "сколько",
+    "literal": "how much",
+    "natural": "Quantity query.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/calculate/default/48px.svg",
+    "analysis": "Question word. Use for both price and quantity."
+  },
+  "стоит": {
+    "cyrillic": "стоит",
+    "literal": "costs",
+    "natural": "It costs.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/payments/default/48px.svg",
+    "analysis": "Verb. 3rd Person Singular. Be careful: 'стои́т' means costs, 'сто́ит' means stands."
+  },
+  "этот": {
+    "cyrillic": "этот",
+    "literal": "this",
+    "natural": "This specific one.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/ads_click/default/48px.svg",
+    "analysis": "Demonstrative Pronoun. Masculine form to match 'билет'."
+  },
+  "билет": {
+    "cyrillic": "билет",
+    "literal": "ticket",
+    "natural": "A pass/ticket.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/confirmation_number/default/48px.svg",
+    "analysis": "Noun, Masculine. Direct object here."
+  },
+  "москву": {
+    "cyrillic": "москву",
+    "literal": "Moscow",
+    "natural": "To Moscow.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/location_city/default/48px.svg",
+    "analysis": "Proper Noun. The '-у' ending is Accusative Case, showing direction of travel."
+  },
+  "нужно": {
+    "cyrillic": "нужно",
+    "literal": "needed",
+    "natural": "It is necessary.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/task_alt/default/48px.svg",
+    "analysis": "Adverbial/Impersonal. Unlike 'нужна', this neutral form is used for 'it is necessary [to do something]'."
+  },
+  "вызвать": {
+    "cyrillic": "вызвать",
+    "literal": "to call",
+    "natural": "To summon/call.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/call/default/48px.svg",
+    "analysis": "Verb, Perfective. Root 'звать'. 'Вы-' prefix implies calling out or summoning to you."
+  },
+  "врача": {
+    "cyrillic": "врача",
+    "literal": "doctor",
+    "natural": "A physician.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/medical_services/default/48px.svg",
+    "analysis": "Noun, Masculine. The '-а' ending is Accusative here because you are 'calling' the doctor (direct object)."
+  },
+  "как": {
+    "cyrillic": "как",
+    "literal": "how / as",
+    "natural": "As.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/compare/default/48px.svg",
+    "analysis": "Adverb/Conjunction. Used here in the set phrase 'как можно скорее'."
+  },
+  "можно": {
+    "cyrillic": "можно",
+    "literal": "possible",
+    "natural": "One may / possible.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/check_circle/default/48px.svg",
+    "analysis": "Impersonal word. Indicates permission or possibility."
+  },
+  "скорее": {
+    "cyrillic": "скорее",
+    "literal": "sooner",
+    "natural": "Asap / Faster.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/speed/default/48px.svg",
+    "analysis": "Comparative Adverb. Root: скоро (fast)."
+  },
+  "у": {
+    "cyrillic": "у",
+    "literal": "by / near",
+    "natural": "In possession of.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/house/default/48px.svg",
+    "analysis": "Preposition. Used with Genitive case to show ownership (At me there is...)."
+  },
+  "меня": {
+    "cyrillic": "меня",
+    "literal": "me",
+    "natural": "Of me.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/person/default/48px.svg",
+    "analysis": "Pronoun. Genitive case of 'я'."
+  },
+  "нет": {
+    "cyrillic": "нет",
+    "literal": "no / not present",
+    "natural": "There is no...",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/block/default/48px.svg",
+    "analysis": "Negation. In possession sentences, it triggers the Genitive case for the thing you don't have."
+  },
+  "паспорта": {
+    "cyrillic": "паспорта",
+    "literal": "passport",
+    "natural": "ID document.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/badge/default/48px.svg",
+    "analysis": "Noun. Genitive singular form because of the negation 'нет'."
+  },
+  "и": {
+    "cyrillic": "и",
+    "literal": "and",
+    "natural": "And.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/add/default/48px.svg",
+    "analysis": "Conjunction. Simple connector."
+  },
+  "телефона": {
+    "cyrillic": "телефона",
+    "literal": "phone",
+    "natural": "Mobile phone.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/smartphone/default/48px.svg",
+    "analysis": "Noun. Genitive singular form because of 'нет'."
+  },
+  "хочу": {
+    "cyrillic": "хочу",
+    "literal": "want",
+    "natural": "I want.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/favorite/default/48px.svg",
+    "analysis": "Verb. 1st Person Singular. Root: хотеть."
+  },
+  "заказать": {
+    "cyrillic": "заказать",
+    "literal": "to order",
+    "natural": "To place an order.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/list_alt/default/48px.svg",
+    "analysis": "Verb, Infinitive. Perfective form of 'to order'."
+  },
+  "чашку": {
+    "cyrillic": "чашку",
+    "literal": "cup",
+    "natural": "A cup of.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/local_cafe/default/48px.svg",
+    "analysis": "Noun, Feminine. Accusative Case (ending in -у) as the direct object of 'заказать'."
+  },
+  "горячего": {
+    "cyrillic": "горячего",
+    "literal": "hot",
+    "natural": "Hot (temp).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/thermostat/default/48px.svg",
+    "analysis": "Adjective, Masculine Genitive. Modifies 'кофе'. In Genitive, '-го' is pronounced like 'v' (ga-RYA-che-va)."
+  },
+  "кофе": {
+    "cyrillic": "кофе",
+    "literal": "coffee",
+    "natural": "Java/Coffee.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/coffee/default/48px.svg",
+    "analysis": "Noun, Masculine. Indeclinable—it never changes its spelling regardless of the case!"
+  },
+  "вы": {
+    "cyrillic": "вы",
+    "literal": "you",
+    "natural": "You (Formal).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/group/default/48px.svg",
+    "analysis": "Pronoun. Use this for strangers, bosses, or groups. Much safer than 'ты' for survival."
+  },
+  "понимаете": {
+    "cyrillic": "понимаете",
+    "literal": "understand",
+    "natural": "You understand.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/psychology/default/48px.svg",
+    "analysis": "Verb, Formal/Plural. Root: понимать."
+  },
+  "что": {
+    "cyrillic": "что",
+    "literal": "what / that",
+    "natural": "What / That.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/help_outline/default/48px.svg",
+    "analysis": "Pronoun/Conjunction. Pronounced like 'SHTO'."
+  },
+  "сейчас": {
+    "cyrillic": "сейчас",
+    "literal": "now",
+    "natural": "At this moment.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/schedule/default/48px.svg",
+    "analysis": "Adverb. Literally 'this hour'."
+  },
+  "сказал": {
+    "cyrillic": "сказал",
+    "literal": "said",
+    "natural": "Said/Spoke.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/record_voice_over/default/48px.svg",
+    "analysis": "Verb, Past Tense (Masculine). The '-л' suffix is the marker for the past tense."
+  }
+}

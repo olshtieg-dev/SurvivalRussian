@@ -1,0 +1,42 @@
+[
+  {
+    "id": "M-01",
+    "phrase": "я еду в магазин на велосипеде мне нужна вода",
+    "fullAnalysis": "Strategic focus: Logistics & Motion. 1. 'Еду' is a 'Determinate' verb of motion, used for a single trip by vehicle. 2. 'В магазин' uses the Accusative case to mark the destination. 3. 'На велосипеде' uses the Prepositional case to indicate the 'mode' of travel. 4. 'Нужна' is a short-form adjective matching the feminine gender of 'вода'."
+  },
+  {
+    "id": "M-02",
+    "phrase": "где находится ближайшая аптека",
+    "fullAnalysis": "Strategic focus: Navigation. 1. 'Находится' is a reflexive verb (-ся); it literally means 'finds itself,' used for static locations of buildings. 2. 'Ближайшая' is a superlative adjective. Note the 'ш' sound—this is the highest degree of 'near' (близко). 3. Word order is flexible, but putting 'аптека' at the end emphasizes the object you are searching for."
+  },
+  {
+    "id": "M-03",
+    "phrase": "я плохо говорю по-русски повторите пожалуйста",
+    "fullAnalysis": "Strategic focus: Communication Protocol. 1. 'По-русски' is an adverbial form used with verbs of communication. Never say 'Я говорю русский.' 2. 'Повторите' uses the '-те' suffix, which is the formal/plural imperative. This is the 'Safe Mode' for interacting with strangers. 3. 'Плохо' (badly) precedes the verb to modify the action's quality."
+  },
+  {
+    "id": "M-04",
+    "phrase": "сколько стоит этот билет в москву",
+    "fullAnalysis": "Strategic focus: Transactional Logic. 1. 'Сколько стоит' literally translates to 'How much does [it] stand?'. 2. 'Этот' is the masculine demonstrative matching 'билет'. 3. 'В Москву' illustrates the Accusative shift: 'Москва' (Nominative) ends in -а, but as a destination of movement, it must end in -у."
+  },
+  {
+    "id": "M-05",
+    "phrase": "мне нужно вызвать врача как можно скорее",
+    "fullAnalysis": "Strategic focus: Emergency Procedures. 1. 'Мне нужно' is a Dative construction; the subject is actually 'To me.' 2. 'Вызвать' is the Perfective aspect, meaning you are focused on the *result* (the doctor actually arriving), not just the act of calling. 3. 'Как можно скорее' is a fixed idiom for maximum urgency."
+  },
+  {
+    "id": "M-06",
+    "phrase": "у меня нет паспорта и телефона",
+    "fullAnalysis": "Strategic focus: Resource Depletion. 1. This mission utilizes the 'Genitive of Negation.' 2. The word 'нет' (there is not) acts like a vacuum, pulling the objects into the Genitive case. 3. 'Паспорт' and 'телефон' (Masculine) both gain the '-а' suffix to signal their absence. Without this ending, a native speaker will feel the sentence is 'unfinished'."
+  },
+  {
+    "id": "M-07",
+    "phrase": "я хочу заказать чашку горячего кофе",
+    "fullAnalysis": "Strategic focus: Sustenance Acquisition. 1. 'Хочу' (1st person) governs the following infinitive 'заказать'. 2. 'Чашку' is the direct object (Accusative). 3. 'Горячего кофе' is the Genitive of quality. 4. Note: 'Кофе' is a 'loanword' and is indeclinable—it never changes its ending, but it is grammatically masculine."
+  },
+  {
+    "id": "M-08",
+    "phrase": "вы понимаете что я сейчас сказал",
+    "fullAnalysis": "Strategic focus: Verification. 1. 'Вы' is the formal 'You'—essential for avoiding offense. 2. 'Что' acts as a 'conjunction' linking two clauses. 3. 'Сказал' is the past tense masculine. If the speaker is female, they must say 'сказала'. The past tense in Russian functions more like an adjective, matching the gender of the person who did the action."
+  }
+]
