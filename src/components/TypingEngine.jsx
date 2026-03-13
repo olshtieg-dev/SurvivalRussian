@@ -9,7 +9,8 @@ export default function TypingEngine({
   onProgress = () => {}, 
   onWordComplete = () => {},
   voiceTranscript = "", // From Gemini Bridge
-  voiceAnalysis = ""    // From Gemini Bridge
+  voiceAnalysis = "",    // From Gemini Bridge
+  activeData = null
 }) {
   const [userInput, setUserInput] = useState('');
   const [errorIndex, setErrorIndex] = useState(null);
@@ -53,7 +54,7 @@ export default function TypingEngine({
         <div className="flex items-center gap-3">
           <Activity size={14} className="text-blue-500 animate-pulse" />
           <span className="text-[10px] font-black text-blue-500 uppercase tracking-[0.4em]">SIGNAL:</span>
-          <span className="text-[11px] font-mono text-slate-400 uppercase tracking-widest italic">
+          <span className="text-[11px] font-mono text-blue-400 uppercase tracking-widest italic">
             {voiceTranscript ? `"${voiceTranscript}"` : "AWAITING PHONETIC INPUT..."}
           </span>
         </div>
@@ -76,6 +77,7 @@ export default function TypingEngine({
           </span>
         </div>
         
+        
       </div>
 
       {/* 2. THE CORE TYPING FIELD */}
@@ -93,7 +95,7 @@ export default function TypingEngine({
                     ? "text-green-400 drop-shadow-[0_0_10px_rgba(34,197,94,0.65)] font-mono"
                     : isError 
                       ? "text-red-500 bg-red-500/10" 
-                      : "text-blue-900/60"
+                      : "text-blue-900/60c"
                 }`}>
                   {char}
                 </span>
@@ -107,14 +109,30 @@ export default function TypingEngine({
         </div>
       </div>
 
-      <div className="mt-4 flex justify-end">
-        <div className="flex items-center gap-4 text-[9px] font-mono text-slate-700 uppercase tracking-[0.2em]">
-          <span>POS: {userInput.length}/{targetText.length}</span>
-          <span className="bg-slate-900 px-2 py-1 rounded border border-slate-800">
-            {Math.round((userInput.length / targetText.length) * 100)}%
-          </span>
+      {/* FOOTER: SYNONYMS & ANTONYMS */}
+      <div className="mt-6 w-full flex justify-between items-center gap-4 px-2">
+        <div className="flex-1">
+          <div className="flex items-center gap-2 group">
+            <div className={`h-1 w-1 rounded-full ${activeData?.synonym ? 'bg-green-400 animate-pulse' : 'bg-slate-700'}`} />
+            <span className="text-[10px] font-black text-green-400 uppercase tracking-tighter">Synonym:</span>
+            <span className={`text-xs font-mono transition-colors ${activeData?.synonym ? 'text-green-300/80 group-hover:text-green-200' : 'text-slate-600'}`}>
+              {activeData?.synonym || '—'}
+            </span>
+          </div>
+        </div>
+
+        <div className="flex-1 flex justify-end">
+          <div className="flex items-center gap-2 group">
+            <span className="text-[10px] font-black text-rose-400 uppercase tracking-tighter">Antonym:</span>
+            <span className={`text-xs font-mono transition-colors ${activeData?.antonym ? 'text-rose-400/80 group-hover:text-rose-300' : 'text-slate-600'}`}>
+              {activeData?.antonym || '—'}
+            </span>
+            <div className={`h-1 w-1 rounded-full ${activeData?.antonym ? 'bg-rose-500 animate-pulse' : 'bg-slate-700'}`} />
+          </div>
         </div>
       </div>
+
+      
       
       {/* Corner "Hardware" Aesthetics */}
       <div className="absolute top-0 left-0 w-2 h-2 border-t border-l border-slate-700" />

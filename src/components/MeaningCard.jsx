@@ -30,7 +30,7 @@ export default function MeaningCard({ activeWord }) {
 
       {/* 3. Natural Translation */}
       <p className="text-sm text-emerald-400 italic max-w-[240px] text-center font-sans border-b border-slate-800 pb-4">
-       Natural: '{activeWord.natural}'
+       Natural: &apos;{activeWord.natural}&apos;
       </p>
 
       {/* 4. Visual Asset */}

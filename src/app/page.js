@@ -8,13 +8,20 @@ import SentenceStructuralAnalysis from '../components/SentenceStructuralAnalysis
 import SpeechInterface from '../components/SpeechInterface'; 
 import vocabularyData from '../data/vocabulary.json';
 import missions from '../data/missions.json';
+import SuggestionShredder from '../components/SuggestionShredder';
 
 export default function Home() {
+  const initialWordKey = (() => {
+    const phrase = missions[0]?.phrase || "";
+    const firstWord = phrase.split(' ')[0];
+    return firstWord && vocabularyData[firstWord] ? firstWord : "";
+  })();
+
   const [missionIndex, setMissionIndex] = useState(0);
   const [isMissionComplete, setIsMissionComplete] = useState(false);
   const [voiceMode, setVoiceMode] = useState('echo'); 
   const [lastPlayedIndex, setLastPlayedIndex] = useState(-1);
-  const [activeWordKey, setActiveWordKey] = useState("");
+  const [activeWordKey, setActiveWordKey] = useState(initialWordKey);
   const [voiceFeedback, setVoiceFeedback] = useState({ transcript: '', analysis: '' });
 
   const currentMission = missions[missionIndex];
@@ -39,11 +46,6 @@ export default function Home() {
       setActiveWordKey("");
     }
   }, [getFirstWord]);
-
-  // Initial load effect
-  useEffect(() => {
-    resetSystem(0);
-  }, [resetSystem]);
 
   const nextMission = useCallback(() => {
     if (missionIndex < missions.length - 1) {
@@ -199,6 +201,8 @@ export default function Home() {
             fullPhrase={currentPhrase} 
             onFeedbackReceived={handleSpeechFeedback} 
           />
+          {/* THE NEW SHREDDER BUTTON */}
+          <SuggestionShredder />
         </div>
       </aside>
 
@@ -214,7 +218,8 @@ export default function Home() {
             onProgress={handleProgress} 
             onWordComplete={handleWordComplete}
             voiceTranscript={voiceFeedback.transcript} 
-            voiceAnalysis={voiceFeedback.analysis}     
+            voiceAnalysis={voiceFeedback.analysis}
+            activeData={activeData}
           />
 
           <div className={`transition-all duration-1000 w-full ${isMissionComplete ? 'opacity-100 scale-100' : 'opacity-0 translate-y-4 pointer-events-none'}`}>
