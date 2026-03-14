@@ -160,7 +160,7 @@ export default function Home() {
           <button 
             onClick={prevMission}
             disabled={missionIndex === 0}
-            className="w-10 h-10 rounded-xl flex items-center justify-center hover:bg-slate-800 text-slate-400 hover:text-white transition-all disabled:opacity-10 active:scale-90"
+            className="w-10 h-10 rounded-xl flex items-center justify-center border border-slate-800 hover:bg-slate-800 text-slate-400 hover:text-white transition-all disabled:opacity-10 active:scale-90"
           >
             <ChevronUp size={20} />
           </button>
@@ -175,11 +175,17 @@ export default function Home() {
           <button 
             onClick={nextMission}
             disabled={missionIndex === missions.length - 1}
-            className="w-10 h-10 rounded-xl flex items-center justify-center hover:bg-slate-800 text-slate-400 hover:text-white transition-all disabled:opacity-10 active:scale-90"
+            className="w-10 h-10 rounded-xl flex items-center justify-center border border-slate-800 hover:bg-slate-800 text-slate-400 hover:text-white transition-all disabled:opacity-10 active:scale-90"
           >
             <ChevronDown size={20} />
           </button>
         </div>
+
+        <SpeechInterface 
+          targetWord={activeData?.cyrillic || ""} 
+          fullPhrase={currentPhrase} 
+          onFeedbackReceived={handleSpeechFeedback} 
+        />
         
         {/* VOICE MODES */}
         <div className="flex flex-col gap-3">
@@ -187,7 +193,7 @@ export default function Home() {
             <button
               key={mode}
               onClick={() => setVoiceMode(mode)}
-              className={`w-10 h-10 rounded-xl flex items-center justify-center transition-all ${
+              className={`w-10 h-10 rounded-xl flex items-center justify-center border border-slate-800 transition-all ${
                 voiceMode === mode ? 'bg-blue-600 text-white shadow-lg' : 'text-slate-600 hover:text-slate-300'
               }`}
             >
@@ -196,15 +202,8 @@ export default function Home() {
           ))}
         </div>
 
-        <div className="mt-auto">
-
+        <div className="mt-auto flex flex-col items-center gap-4">
           <GameOverlay />
-
-          <SpeechInterface 
-            targetWord={activeData?.cyrillic || ""} 
-            fullPhrase={currentPhrase} 
-            onFeedbackReceived={handleSpeechFeedback} 
-          />
           {/* THE NEW SHREDDER BUTTON */}
           <SuggestionShredder />
         </div>

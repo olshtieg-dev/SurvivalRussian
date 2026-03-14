@@ -55,7 +55,7 @@ export default function TypingEngine({
           <Activity size={14} className="text-blue-500 animate-pulse" />
           <span className="text-[10px] font-black text-blue-500 uppercase tracking-[0.4em]">SIGNAL:</span>
           <span className="text-[11px] font-mono text-blue-400 uppercase tracking-widest italic">
-            {voiceTranscript ? `"${voiceTranscript}"` : "AWAITING PHONETIC INPUT..."}
+            {voiceTranscript ? `"${voiceTranscript}"` : "AWAITING PHONETIC INPUT: USE MIC BUTTON TO THE LEFT..."}
           </span>
         </div>
         

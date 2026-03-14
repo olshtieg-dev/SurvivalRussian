@@ -33,10 +33,12 @@ export default function GameOverlay() {
     <>
       <button
         onClick={() => setIsOpen(true)}
-        className="w-10 h-10 rounded-xl flex items-center justify-center text-slate-600 hover:text-orange-500 hover:bg-orange-500/10 transition-all active:scale-90"
+        className="group relative flex flex-col items-center"
         title="Play Games"
       >
-        <Gamepad2 size={20} />
+        <div className="p-3 rounded-xl border bg-slate-900 border-slate-700 hover:border-green-500 transition-all duration-300 shadow-inner">
+          <Gamepad2 size={20} className="text-slate-500 group-hover:text-green-400 transition-colors" />
+        </div>
       </button>
 
       {isOpen && (
