@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, 
+      maximum-scale=1.0, user-scalable=no">  
+    <title>TETRIS</title>
+    
+    <link rel="stylesheet" type="text/css" href="tetris.css" />
+  
+  </head>
+  <body>
+  <div id="game-wrapper">
+    <div id="game-scale">
+      <h1 id="title">ТЕТРИС</h1>
+
+      <div id="topButtons">
+        <button id="prevSongBtn">⏮</button>
+        <button id="refreshBtn">🔄Перезапуск</button>
+        <button id="nextSongBtn">⏭</button>
+      </div>
+<div id="tetris-wrapper"></div>
+      
+        <div id="tetris">
+          <div id="canvas"></div>
+          <div id="info">
+            <div id="next_shape"></div>
+            <p id="level">Уровень: <span></span></p>
+            <p id="lines">Линии: <span></span></p>
+            <p id="score">Очки: <span></span></p>
+            <p id="time">Время: <span></span></p>
+            <button id="start">►Старт</button>
+            <p class="red">Нажмите Esc для паузы</p>
+            <button id="pauseBtn">⏸Пауза</button>
+          </div>
+        </div>
+
+        <div id="controls">
+          <button id="leftBtn">⟵</button>
+          <button id="rotateBtn">⟳</button>
+          <button id="rightBtn">⟶</button>
+          <button id="downBtn">⟱</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <audio id="theme" src="tetris-theme.mp3" loop></audio>
+  <script src="tetris.js"></script>
+</body>

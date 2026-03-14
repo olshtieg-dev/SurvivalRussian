@@ -1,8 +1,10 @@
 'use client';
-import React from 'react';
+import React, { useState } from 'react';
+import Image from 'next/image';
 import { BookOpen, AlertCircle } from 'lucide-react';
 
 export default function MeaningCard({ activeWord }) {
+  const [thumbError, setThumbError] = useState(false);
   // Fallback for missing vocabulary data
   if (!activeWord) return (
     <div className="flex flex-col items-center justify-center space-y-4 bg-slate-800/20 p-6 rounded-3xl border border-dashed border-slate-700 w-full max-w-md h-[450px]">
@@ -37,12 +39,19 @@ export default function MeaningCard({ activeWord }) {
       <div className="relative group">
         <div className="absolute inset-0 bg-blue-500/20 rounded-full blur-xl group-hover:bg-blue-500/40 transition-all"></div>
         <div className="relative w-28 h-28 bg-slate-900 rounded-full flex items-center justify-center overflow-hidden border-2 border-slate-700 shadow-inner">
-          <img 
-            src={activeWord.thumbnail} 
-            alt={activeWord.cyrillic} 
-            className="w-20 h-20 invert brightness-200 opacity-80" 
-            onError={(e) => { e.target.style.display = 'none'; }} 
-          />
+          {activeWord.thumbnail && activeWord.thumbnail !== 'null' && !thumbError ? (
+            <Image
+              src={activeWord.thumbnail}
+              alt={activeWord.cyrillic}
+              width={80}
+              height={80}
+              unoptimized
+              className="w-20 h-20 invert brightness-200 opacity-80"
+              onError={() => setThumbError(true)}
+            />
+          ) : (
+            <div className="w-20 h-20 rounded-full border border-slate-700/70" />
+          )}
         </div>
       </div>
 

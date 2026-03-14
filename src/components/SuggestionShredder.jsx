@@ -1,5 +1,6 @@
 'use client';
 import React, { useState, useEffect } from 'react';
+import Image from 'next/image';
 import { Trash2, X, Terminal } from 'lucide-react';
 
 export default function SuggestionShredder() {
@@ -80,10 +81,12 @@ export default function SuggestionShredder() {
         title="Submit Feedback"
       >
         <div className="p-3 rounded-xl border bg-slate-900 border-slate-700 hover:border-red-500 transition-all duration-300 shadow-inner">
-          <img 
-            src="/shredder-icon.png" 
-            alt="shred" 
-            className="w-5 h-5 invert opacity-60 group-hover:opacity-100 group-hover:-translate-y-1 transition-all" 
+          <Image
+            src="/shredder-icon.png"
+            alt="shred"
+            width={20}
+            height={20}
+            className="w-5 h-5 invert opacity-60 group-hover:opacity-100 group-hover:-translate-y-1 transition-all"
           />
         </div>
       </button>
@@ -124,11 +127,13 @@ export default function SuggestionShredder() {
               // Processing / Shredding State
               <div className="h-44 flex flex-col items-center justify-center gap-4 animate-in fade-in zoom-in-95 duration-300">
                {/* Replace <Trash2 size={32} ... /> with this: */}
-<img 
-  src="/shredder-icon.png" 
-  alt="processing" 
-  className="w-8 h-8 invert brightness-150 animate-pulse" 
-/>
+                <Image
+                  src="/shredder-icon.png"
+                  alt="processing"
+                  width={32}
+                  height={32}
+                  className="w-8 h-8 invert brightness-150 animate-pulse"
+                />
                 <div className="w-full px-8">
                   <div className="flex justify-between text-[9px] font-mono text-red-400 mb-1 uppercase tracking-widest">
                     <span>Nullifying Data</span>

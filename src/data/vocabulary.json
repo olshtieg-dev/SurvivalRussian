@@ -1,4 +1,4 @@
-{
+﻿{
   "я": {
     "cyrillic": "я",
     "literal": "I",
@@ -249,15 +249,6 @@
     "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/compare/default/48px.svg",
     "analysis": "Adverb/Conjunction. Used here in the set phrase 'как можно скорее'.",
     "synonym": "в виде, подобно, точно",
-    "antonym": "null"
-  },
-  "можно": {
-    "cyrillic": "можно",
-    "literal": "possible",
-    "natural": "One may / possible.",
-    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/check_circle/default/48px.svg",
-    "analysis": "Impersonal word. Indicates permission or possibility. ant. нельзя.",
-    "synonym": "позволяется, дозволительно, реально",
     "antonym": "null"
   },
   "скорее": {
@@ -2716,5 +2707,185 @@
     "analysis": "Noun, Masculine. The first meal of the day. ant. ужин.",
     "synonym": "ленч, фриштык, фриштых",
     "antonym": "null"
+  },
+  "обед": {
+    "cyrillic": "обед",
+    "literal": "lunch",
+    "natural": "Midday meal.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/restaurant/default/48px.svg",
+    "analysis": "The main meal of the day in Russia, usually eaten between 1 PM and 3 PM.",
+    "synonym": "ланч, трапеза",
+    "antonym": "null"
+  },
+  "ужин": {
+    "cyrillic": "ужин",
+    "literal": "dinner",
+    "natural": "Evening meal.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/dinner_dining/default/48px.svg",
+    "analysis": "The final meal of the day.",
+    "synonym": "вечеря",
+    "antonym": "завтрак"
+  },
+  "вкусно": {
+    "cyrillic": "вкусно",
+    "literal": "tastily",
+    "natural": "Delicious / It tastes good.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/thumb_up/default/48px.svg",
+    "analysis": "Essential for being a polite guest. Use it after eating.",
+    "synonym": "аппетитно, лакомо",
+    "antonym": "невкусно, гадко"
+  },
+  "счёт": {
+    "cyrillic": "счёт",
+    "literal": "account / bill",
+    "natural": "The check / The bill.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/receipt/default/48px.svg",
+    "analysis": "Used at restaurants. 'Счёт, пожалуйста' is the magic phrase.",
+    "synonym": "чек, квитанция",
+    "antonym": "null"
+  },
+  "направо": {
+    "cyrillic": "направо",
+    "literal": "to the right",
+    "natural": "Turn right.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/turn_right/default/48px.svg",
+    "analysis": "Directional adverb. Don't confuse it with 'прямо'.",
+    "synonym": "одесную",
+    "antonym": "налево"
+  },
+  "налево": {
+    "cyrillic": "налево",
+    "literal": "to the left",
+    "natural": "Turn left.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/turn_left/default/48px.svg",
+    "analysis": "Directional adverb. Also used in the idiom 'ходить налево' (to cheat), so watch the context!",
+    "synonym": "ошуюю",
+    "antonym": "направо"
+  },
+  "прямо": {
+    "cyrillic": "прямо",
+    "literal": "straight / directly",
+    "natural": "Straight ahead.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/straight/default/48px.svg",
+    "analysis": "Used for directions and also to mean 'honestly' or 'frankly'.",
+    "synonym": "ровно, непосредственно",
+    "antonym": "криво, вбок"
+  },
+  "карта": {
+    "cyrillic": "карта",
+    "literal": "map / card",
+    "natural": "Map or Bank card.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/credit_card/default/48px.svg",
+    "analysis": "Context is key. Most likely refers to your payment card in a shop.",
+    "synonym": "схема, карточка",
+    "antonym": "null"
+  },
+  "метро": {
+    "cyrillic": "метро",
+    "literal": "metro",
+    "natural": "Subway / Underground.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/subway/default/48px.svg",
+    "analysis": "The lifeblood of major Russian cities. Invariable noun (it doesn't change endings).",
+    "synonym": "подземка",
+    "antonym": "null"
+  },
+  "остановка": {
+    "cyrillic": "остановка",
+    "literal": "stop",
+    "natural": "Bus/Tram stop.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/departure_board/default/48px.svg",
+    "analysis": "Where you wait for public transport. Also means a 'pause' in general.",
+    "synonym": "станция, привал",
+    "antonym": "движение"
+  },
+  "вчера": {
+    "cyrillic": "вчера",
+    "literal": "yesterday",
+    "natural": "The day before today.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/history/default/48px.svg",
+    "analysis": "Crucial for past tense conversations.",
+    "synonym": "накануне",
+    "antonym": "завтра"
+  },
+  "завтра": {
+    "cyrillic": "завтра",
+    "literal": "tomorrow",
+    "natural": "The day after today.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/event/default/48px.svg",
+    "analysis": "Commonly used in 'До завтра' (Until tomorrow).",
+    "synonym": "null",
+    "antonym": "вчера"
+  },
+  "извините": {
+    "cyrillic": "извините",
+    "literal": "excuse (me)",
+    "natural": "I'm sorry / Excuse me.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/person/default/48px.svg",
+    "analysis": "Polite form. Use this to get someone's attention or apologize for a bump.",
+    "synonym": "простите",
+    "antonym": "null"
+  },
+  "можно": {
+    "cyrillic": "можно",
+    "literal": "possible",
+    "natural": "May I? / Can I?",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/check_circle/default/48px.svg",
+    "analysis": "The most useful word for permission. Point at a chair and say 'Можно?' to ask if it's free.",
+    "synonym": "разрешено, позволительно",
+    "antonym": "нельзя"
+  },
+  "круто": {
+    "cyrillic": "круто",
+    "literal": "steeply",
+    "natural": "Cool / Awesome.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/mood/default/48px.svg",
+    "analysis": "Slang that became standard. Use it to react positively to anything.",
+    "synonym": "классно, здорово",
+    "antonym": "отстойно, плохо"
+  },
+  "давай": {
+    "cyrillic": "давай",
+    "literal": "give",
+    "natural": "Let's go / Come on / OK / Bye.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/play_arrow/default/48px.svg",
+    "analysis": "The ultimate Swiss Army knife word. Often said at the end of a phone call to mean 'Bye'.",
+    "synonym": "вперёд, ладно",
+    "antonym": "null"
+  },
+  "зарядка": {
+    "cyrillic": "зарядка",
+    "literal": "charging",
+    "natural": "Phone charger / Morning exercise.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/battery_charging_full/default/48px.svg",
+    "analysis": "Dual meaning: it's either your phone cable or your 5-minute morning workout.",
+    "synonym": "зарядное устройство",
+    "antonym": "null"
+  },
+  "пакет": {
+    "cyrillic": "пакет",
+    "literal": "packet / package",
+    "natural": "Plastic shopping bag.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/shopping_bag/default/48px.svg",
+    "analysis": "You will be asked if you need one every single time you go to the store.",
+    "synonym": "сумка, кулёк",
+    "antonym": "null"
+  },
+  "пиво": {
+    "cyrillic": "пиво",
+    "literal": "beer",
+    "natural": "Beer.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/local_drink/default/48px.svg",
+    "analysis": "A popular alcoholic beverage in Russia. Often enjoyed with friends or at meals.",
+    "synonym": "лагер, эль, пивко",
+    "antonym": "вино"
+},
+"идите": {
+    "cyrillic": "идите",
+    "literal": "go",
+    "natural": "Go / Walk (Formal/Plural).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/directions_walk/default/48px.svg",
+    "analysis": "The formal/plural imperative of 'идти'. Use this when giving directions to a stranger or a group.",
+    "synonym": "ступайте, иди",
+    "antonym": "стойте"
   }
 }

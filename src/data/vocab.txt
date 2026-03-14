@@ -1,0 +1,2720 @@
+{
+  "я": {
+    "cyrillic": "я",
+    "literal": "I",
+    "natural": "Me, myself.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/person/default/48px.svg",
+    "analysis": "Pronoun. The first letter of the alphabet and the word for 'I'. ant. ты, он, она, etc.",
+    "synonym": "моя персона, пишущий эти строки, автор этих строк",
+    "antonym": "null"
+  },
+  "еду": {
+    "cyrillic": "еду",
+    "literal": "riding (vehicle)",
+    "natural": "Moving by wheels.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/directions_car/default/48px.svg",
+    "analysis": "Verb. Use this for bikes, cars, or buses. syn. иду (in some contexts).",
+    "synonym": "кушанье, пища, провизия",
+    "antonym": "null"
+  },
+  "иду": {
+    "cyrillic": "иду",
+    "literal": "going (on foot)",
+    "natural": "Walking.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/directions_walk/default/48px.svg",
+    "analysis": "Verb. Used specifically for walking on your own two feet. syn. еду (in some contexts).",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "в": {
+    "cyrillic": "в",
+    "literal": "in / into",
+    "natural": "Destination bound.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/login/default/48px.svg",
+    "analysis": "Preposition. Indicates entering a space or direction. ant. из.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "магазин": {
+    "cyrillic": "магазин",
+    "literal": "shop",
+    "natural": "A store.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/shopping_cart/default/48px.svg",
+    "analysis": "Noun, Masculine. Fun fact: This is where the English word 'magazine' (a storehouse for info) comes from. syn. лавка.",
+    "synonym": "лавка, торговая точка, супермаркет",
+    "antonym": "null"
+  },
+  "на": {
+    "cyrillic": "на",
+    "literal": "on",
+    "natural": "Surface / Mode of travel.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/layers/default/48px.svg",
+    "analysis": "Preposition. Used here to show you are 'on' the bicycle. ant. под.",
+    "synonym": "получай, сверху, получи",
+    "antonym": "null"
+  },
+  "велосипеде": {
+    "cyrillic": "велосипеде",
+    "literal": "bicycle",
+    "natural": "On a bike.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/pedal_bike/default/48px.svg",
+    "analysis": "Noun. The 'е' ending is the prepositional case marker.",
+    "synonym": "велотранспорт, велик, двухколесный конь",
+    "antonym": "null"
+  },
+  "мне": {
+    "cyrillic": "мне",
+    "literal": "to me",
+    "natural": "Myself (recipient).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/front_hand/default/48px.svg",
+    "analysis": "Pronoun (Dative). Literally: 'To me [there is] a need'. ant. тебе, ему, ей, etc.",
+    "synonym": "лично",
+    "antonym": "null"
+  },
+  "нужна": {
+    "cyrillic": "нужна",
+    "literal": "necessary",
+    "natural": "Need / Require.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/priority_high/default/48px.svg",
+    "analysis": "Short adjective. It changes based on the gender of the thing you need. syn. необходима. ant. не нужна.",
+    "synonym": "необходимый, желательный, надобный",
+    "antonym": "null"
+  },
+  "вода": {
+    "cyrillic": "вода",
+    "literal": "water",
+    "natural": "H2O.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/water_drop/default/48px.svg",
+    "analysis": "Noun, Feminine. Stressed on the 'а' (va-DA).",
+    "synonym": "жидкость, ручей, водичка",
+    "antonym": "null"
+  },
+  "где": {
+    "cyrillic": "где",
+    "literal": "where",
+    "natural": "A location query.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/location_on/default/48px.svg",
+    "analysis": "Adverb. Use this for static locations. If you’re asking 'Where to?' (direction), you’d use 'куда' instead. ant. здесь, там.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "находится": {
+    "cyrillic": "находится",
+    "literal": "finds itself",
+    "natural": "Is located.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/pin_drop/default/48px.svg",
+    "analysis": "Reflexive Verb. The '-ся' ending means 'self.' So the pharmacy is literally 'finding itself' in a location. Very common for buildings. syn. есть.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ближайшая": {
+    "cyrillic": "ближайшая",
+    "literal": "closest",
+    "natural": "The nearest one.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/near_me/default/48px.svg",
+    "analysis": "Superlative Adjective (Feminine). Root is 'близко' (near). The '-айшая' suffix is the 'super-mode' that makes it the *most* near. ant. самая дальняя.",
+    "synonym": "ближний, граничащий, сходный",
+    "antonym": "null"
+  },
+  "аптека": {
+    "cyrillic": "аптека",
+    "literal": "pharmacy",
+    "natural": "A drug store.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/local_pharmacy/default/48px.svg",
+    "analysis": "Noun, Feminine. Cognate with 'apothecary.' In Russia, these are often green-lit crosses and are everywhere.",
+    "synonym": "аптечка, аптечный магазин, радиоаптека",
+    "antonym": "null"
+  },
+  "плохо": {
+    "cyrillic": "плохо",
+    "literal": "badly",
+    "natural": "Poorly.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/thumb_down/default/48px.svg",
+    "analysis": "Adverb. Modifies how you perform an action (like speaking). syn. нехорошо. ant. хорошо.",
+    "synonym": "скверно, тяжело, бог знает как",
+    "antonym": "null"
+  },
+  "говорю": {
+    "cyrillic": "говорю",
+    "literal": "speak",
+    "natural": "I am speaking.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/chat/default/48px.svg",
+    "analysis": "Verb. 1st Person Singular. Root: говорить. syn. произношу. ant. молчу.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "по-русски": {
+    "cyrillic": "по-русски",
+    "literal": "in Russian",
+    "natural": "Using the Russian language.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/translate/default/48px.svg",
+    "analysis": "Adverb. The 'по-' prefix and '-и' suffix create the 'in the manner of' form for languages.",
+    "synonym": "по-российски, по-кацапски",
+    "antonym": "null"
+  },
+  "повторите": {
+    "cyrillic": "повторите",
+    "literal": "repeat",
+    "natural": "Say it again.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/replay/default/48px.svg",
+    "analysis": "Imperative (Formal/Plural). The '-те' ending makes it polite or addressed to a group.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пожалуйста": {
+    "cyrillic": "пожалуйста",
+    "literal": "please",
+    "natural": "Please / You're welcome.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/volunteer_activism/default/48px.svg",
+    "analysis": "Particle. The 'й' and 'ст' are often swallowed in fast speech—sounds like 'pa-ZHAL-sta'.",
+    "synonym": "будь так любезен, добро пожаловать, извольте",
+    "antonym": "null"
+  },
+  "сколько": {
+    "cyrillic": "сколько",
+    "literal": "how much",
+    "natural": "Quantity query.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/calculate/default/48px.svg",
+    "analysis": "Question word. Use for both price and quantity.",
+    "synonym": "как много, насколько, сколь",
+    "antonym": "null"
+  },
+  "стоит": {
+    "cyrillic": "стоит",
+    "literal": "costs",
+    "natural": "It costs.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/payments/default/48px.svg",
+    "analysis": "Verb. 3rd Person Singular. Be careful: 'стои́т' means costs, 'сто́ит' means stands.",
+    "synonym": "игра стоит свеч, достаточно, стоит только",
+    "antonym": "null"
+  },
+  "этот": {
+    "cyrillic": "этот",
+    "literal": "this",
+    "natural": "This specific one.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/ads_click/default/48px.svg",
+    "analysis": "Demonstrative Pronoun. Masculine form to match 'билет'. ant. тот.",
+    "synonym": "сей, данный, оный",
+    "antonym": "null"
+  },
+  "билет": {
+    "cyrillic": "билет",
+    "literal": "ticket",
+    "natural": "A pass/ticket.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/confirmation_number/default/48px.svg",
+    "analysis": "Noun, Masculine. Direct object here.",
+    "synonym": "талон, купон, проездной документ",
+    "antonym": "null"
+  },
+  "москву": {
+    "cyrillic": "москву",
+    "literal": "Moscow",
+    "natural": "To Moscow.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/location_city/default/48px.svg",
+    "analysis": "Proper Noun. The '-у' ending is Accusative Case, showing direction of travel.",
+    "synonym": "столица, город, река",
+    "antonym": "null"
+  },
+  "нужно": {
+    "cyrillic": "нужно",
+    "literal": "needed",
+    "natural": "It is necessary.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/task_alt/default/48px.svg",
+    "analysis": "Adverbial/Impersonal. Unlike 'нужна', this neutral form is used for 'it is necessary [to do something]'. syn. надо. ant. не нужно.",
+    "synonym": "необходимо, следует, нельзя не",
+    "antonym": "null"
+  },
+  "вызвать": {
+    "cyrillic": "вызвать",
+    "literal": "to call",
+    "natural": "To summon/call.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/call/default/48px.svg",
+    "analysis": "Verb, Perfective. Root 'звать'. 'Вы-' prefix implies calling out or summoning to you.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "врача": {
+    "cyrillic": "врача",
+    "literal": "doctor",
+    "natural": "A physician.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/medical_services/default/48px.svg",
+    "analysis": "Noun, Masculine. The '-а' ending is Accusative here because you are 'calling' the doctor (direct object). syn. доктор.",
+    "synonym": "доктор, медик, лекарь",
+    "antonym": "null"
+  },
+  "как": {
+    "cyrillic": "как",
+    "literal": "how / as",
+    "natural": "As.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/compare/default/48px.svg",
+    "analysis": "Adverb/Conjunction. Used here in the set phrase 'как можно скорее'.",
+    "synonym": "в виде, подобно, точно",
+    "antonym": "null"
+  },
+  "можно": {
+    "cyrillic": "можно",
+    "literal": "possible",
+    "natural": "One may / possible.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/check_circle/default/48px.svg",
+    "analysis": "Impersonal word. Indicates permission or possibility. ant. нельзя.",
+    "synonym": "позволяется, дозволительно, реально",
+    "antonym": "null"
+  },
+  "скорее": {
+    "cyrillic": "скорее",
+    "literal": "sooner",
+    "natural": "Asap / Faster.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/speed/default/48px.svg",
+    "analysis": "Comparative Adverb. Root: скоро (fast). syn. быстрее. ant. медленнее.",
+    "synonym": "вернее, бойче, живо",
+    "antonym": "null"
+  },
+  "у": {
+    "cyrillic": "у",
+    "literal": "by / near",
+    "natural": "In possession of.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/house/default/48px.svg",
+    "analysis": "Preposition. Used with Genitive case to show ownership (At me there is...).",
+    "synonym": "возле, около, буква",
+    "antonym": "null"
+  },
+  "меня": {
+    "cyrillic": "меня",
+    "literal": "me",
+    "natural": "Of me.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/person/default/48px.svg",
+    "analysis": "Pronoun. Genitive case of 'я'.",
+    "synonym": "моя персона, пишущий эти строки, автор этих строк",
+    "antonym": "null"
+  },
+  "нет": {
+    "cyrillic": "нет",
+    "literal": "no / not present",
+    "natural": "There is no...",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/block/default/48px.svg",
+    "analysis": "Negation. In possession sentences, it triggers the Genitive case for the thing you don't have. ant. да, есть.",
+    "synonym": "только через мой труп, ни за какие коврижки, очень нужно",
+    "antonym": "null"
+  },
+  "паспорта": {
+    "cyrillic": "паспорта",
+    "literal": "passport",
+    "natural": "ID document.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/badge/default/48px.svg",
+    "analysis": "Noun. Genitive singular form because of the negation 'нет'.",
+    "synonym": "документ, свидетельство, вид",
+    "antonym": "null"
+  },
+  "и": {
+    "cyrillic": "и",
+    "literal": "and",
+    "natural": "And.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/add/default/48px.svg",
+    "analysis": "Conjunction. Simple connector. syn. а, да.",
+    "synonym": "также",
+    "antonym": "null"
+  },
+  "телефона": {
+    "cyrillic": "телефона",
+    "literal": "phone",
+    "natural": "Mobile phone.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/smartphone/default/48px.svg",
+    "analysis": "Noun. Genitive singular form because of 'нет'.",
+    "synonym": "гаджет, смартфон, мобильник",
+    "antonym": "null"
+  },
+  "хочу": {
+    "cyrillic": "хочу",
+    "literal": "want",
+    "natural": "I want.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/favorite/default/48px.svg",
+    "analysis": "Verb. 1st Person Singular. Root: хотеть. syn. желаю.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "заказать": {
+    "cyrillic": "заказать",
+    "literal": "to order",
+    "natural": "To place an order.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/list_alt/default/48px.svg",
+    "analysis": "Verb, Infinitive. Perfective form of 'to order'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "чашку": {
+    "cyrillic": "чашку",
+    "literal": "cup",
+    "natural": "A cup of.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/local_cafe/default/48px.svg",
+    "analysis": "Noun, Feminine. Accusative Case (ending in -у) as the direct object of 'заказать'.",
+    "synonym": "чаша, чашечка, патра",
+    "antonym": "null"
+  },
+  "горячего": {
+    "cyrillic": "горячего",
+    "literal": "hot",
+    "natural": "Hot (temp).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/thermostat/default/48px.svg",
+    "analysis": "Adjective, Masculine Genitive. Modifies 'кофе'. In Genitive, '-го' is pronounced like 'v' (ga-RYA-che-va). ant. холодного.",
+    "synonym": "пылче",
+    "antonym": "null"
+  },
+  "кофе": {
+    "cyrillic": "кофе",
+    "literal": "coffee",
+    "natural": "Java/Coffee.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/coffee/default/48px.svg",
+    "analysis": "Noun, Masculine. Indeclinable—it never changes its spelling regardless of the case!",
+    "synonym": "напиток бодрости, эспрессо, кофеек",
+    "antonym": "null"
+  },
+  "вы": {
+    "cyrillic": "вы",
+    "literal": "you",
+    "natural": "You (Formal).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/group/default/48px.svg",
+    "analysis": "Pronoun. Use this for strangers, bosses, or groups. Much safer than 'ты' for survival. ant. ты.",
+    "synonym": "вам, вас",
+    "antonym": "null"
+  },
+  "понимаете": {
+    "cyrillic": "понимаете",
+    "literal": "understand",
+    "natural": "You understand.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/psychology/default/48px.svg",
+    "analysis": "Verb, Formal/Plural. Root: понимать. ant. не понимаете.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "что": {
+    "cyrillic": "что",
+    "literal": "what / that",
+    "natural": "What / That.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/help_outline/default/48px.svg",
+    "analysis": "Pronoun/Conjunction. Pronounced like 'SHTO'.",
+    "synonym": "словно, как, чего",
+    "antonym": "null"
+  },
+  "сейчас": {
+    "cyrillic": "сейчас",
+    "literal": "now",
+    "natural": "At this moment.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/schedule/default/48px.svg",
+    "analysis": "Adverb. Literally 'this hour'. syn. теперь. ant. потом, тогда.",
+    "synonym": "немедленно, в настоящее время, ныне",
+    "antonym": "null"
+  },
+  "сказал": {
+    "cyrillic": "сказал",
+    "literal": "said",
+    "natural": "Said/Spoke.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/record_voice_over/default/48px.svg",
+    "analysis": "Verb, Past Tense (Masculine). The '-л' suffix is the marker for the past tense. syn. произнёс.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "не": {
+    "cyrillic": "не",
+    "literal": "not",
+    "natural": "Not.",
+    "analysis": "Particle. Used for negation.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "быть": {
+    "cyrillic": "быть",
+    "literal": "to be",
+    "natural": "To be.",
+    "analysis": "Verb. Infinitive form of 'to be'. syn. существовать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "он": {
+    "cyrillic": "он",
+    "literal": "he",
+    "natural": "He.",
+    "analysis": "Pronoun. Third person singular, masculine.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "а": {
+    "cyrillic": "а",
+    "literal": "and",
+    "natural": "And.",
+    "analysis": "Conjunction. Used to contrast or connect clauses, similar to 'but' or 'and'. syn. но.",
+    "synonym": "но, чего, что такое",
+    "antonym": "null"
+  },
+  "по": {
+    "cyrillic": "по",
+    "literal": "along",
+    "natural": "Along.",
+    "analysis": "Preposition. Can mean 'along', 'according to', or indicate motion over a surface.",
+    "synonym": "вдоль, в области, река",
+    "antonym": "null"
+  },
+  "это": {
+    "cyrillic": "это",
+    "literal": "it",
+    "natural": "It.",
+    "analysis": "Pronoun/Particle. Can mean 'this is' or 'it is'.",
+    "synonym": "данное, сие",
+    "antonym": "null"
+  },
+  "она": {
+    "cyrillic": "она",
+    "literal": "she",
+    "natural": "She.",
+    "analysis": "Pronoun. Third person singular, feminine.",
+    "synonym": "девчонка, женщина, бабушка",
+    "antonym": "null"
+  },
+  "они": {
+    "cyrillic": "они",
+    "literal": "they",
+    "natural": "They.",
+    "analysis": "Pronoun. Third person plural.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мы": {
+    "cyrillic": "мы",
+    "literal": "we",
+    "natural": "We.",
+    "analysis": "Pronoun. First person plural.",
+    "synonym": "вместе",
+    "antonym": "null"
+  },
+  "из": {
+    "cyrillic": "из",
+    "literal": "from",
+    "natural": "From.",
+    "analysis": "Preposition. Means 'from' or 'out of'. ant. в.",
+    "synonym": "изо",
+    "antonym": "null"
+  },
+  "который": {
+    "cyrillic": "который",
+    "literal": "which",
+    "natural": "Which.",
+    "analysis": "Relative pronoun. Means 'which' or 'who'.",
+    "synonym": "какой-либо, тот или иной, некоторый",
+    "antonym": "null"
+  },
+  "то": {
+    "cyrillic": "то",
+    "literal": "piece",
+    "natural": "Piece.",
+    "analysis": "Conjunction/Particle. Can mean 'then', 'in that case', or be used for emphasis.",
+    "synonym": "в таком случае, мера, так",
+    "antonym": "null"
+  },
+  "за": {
+    "cyrillic": "за",
+    "literal": "behind",
+    "natural": "Behind.",
+    "analysis": "Preposition. Can mean 'behind', 'for', or 'after'. ant. перед.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "свой": {
+    "cyrillic": "свой",
+    "literal": "own",
+    "natural": "Own.",
+    "analysis": "Possessive pronoun. Means 'one's own'. ant. чужой.",
+    "synonym": "личный, нестандартный, особый",
+    "antonym": "null"
+  },
+  "весь": {
+    "cyrillic": "весь",
+    "literal": "whole",
+    "natural": "Whole.",
+    "analysis": "Pronoun/Adjective. Means 'all' or 'whole'. syn. целый. ant. часть.",
+    "synonym": "полный, целый, поголовно",
+    "antonym": "null"
+  },
+  "год": {
+    "cyrillic": "год",
+    "literal": "year",
+    "natural": "Year.",
+    "analysis": "Noun, Masculine. Means 'year'.",
+    "synonym": "годок, година, время",
+    "antonym": "null"
+  },
+  "от": {
+    "cyrillic": "от",
+    "literal": "from",
+    "natural": "From.",
+    "analysis": "Preposition. Means 'from'. ant. к.",
+    "synonym": "ото",
+    "antonym": "null"
+  },
+  "так": {
+    "cyrillic": "так",
+    "literal": "so",
+    "natural": "So.",
+    "analysis": "Adverb/Particle. Means 'so', 'thus', or 'like that'.",
+    "synonym": "разумеется, просто так, круглым счетом",
+    "antonym": "null"
+  },
+  "для": {
+    "cyrillic": "для",
+    "literal": "for",
+    "natural": "For.",
+    "analysis": "Preposition. Means 'for'.",
+    "synonym": "с целью, ради, чтобы",
+    "antonym": "null"
+  },
+  "ты": {
+    "cyrillic": "ты",
+    "literal": "you",
+    "natural": "You.",
+    "analysis": "Pronoun. Second person singular, informal 'you'. ant. вы.",
+    "synonym": "вы",
+    "antonym": "null"
+  },
+  "все": {
+    "cyrillic": "все",
+    "literal": "everything",
+    "natural": "Everything.",
+    "analysis": "Pronoun/Adjective. Means 'all' or 'everyone'. ant. никто, ничто.",
+    "synonym": "целиком, все без исключения, от мала до велика",
+    "antonym": "null"
+  },
+  "тот": {
+    "cyrillic": "тот",
+    "literal": "layman",
+    "natural": "Layman.",
+    "analysis": "Demonstrative pronoun. Means 'that'. ant. этот.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мочь": {
+    "cyrillic": "мочь",
+    "literal": "pot",
+    "natural": "Pot.",
+    "analysis": "Verb. Infinitive form of 'to be able'.",
+    "synonym": "возможность, сила",
+    "antonym": "null"
+  },
+  "человек": {
+    "cyrillic": "человек",
+    "literal": "person",
+    "natural": "Person.",
+    "analysis": "Noun, Masculine. Means 'person' or 'human being'. syn. личность.",
+    "synonym": "личность, индивидуум, персона",
+    "antonym": "null"
+  },
+  "такой": {
+    "cyrillic": "такой",
+    "literal": "such",
+    "natural": "Such.",
+    "analysis": "Adjective/Pronoun. Means 'such' or 'so'.",
+    "synonym": "данный, подобный, таковой",
+    "antonym": "null"
+  },
+  "его": {
+    "cyrillic": "его",
+    "literal": "his",
+    "natural": "His.",
+    "analysis": "Pronoun. Possessive, 'his', or genitive/accusative of 'он' (him).",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сказать": {
+    "cyrillic": "сказать",
+    "literal": "tell",
+    "natural": "Tell.",
+    "analysis": "Verb. Perfective infinitive, 'to say' or 'to tell'. syn. произнести. ant. промолчать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "только": {
+    "cyrillic": "только",
+    "literal": "only",
+    "natural": "Only.",
+    "analysis": "Adverb/Particle. Means 'only' or 'just'. syn. лишь.",
+    "synonym": "лишь, исключительно, всего только",
+    "antonym": "null"
+  },
+  "или": {
+    "cyrillic": "или",
+    "literal": "or",
+    "natural": "Or.",
+    "analysis": "Conjunction. Means 'or'. syn. либо.",
+    "synonym": "либо, иначе, иначе говоря",
+    "antonym": "null"
+  },
+  "еще": {
+    "cyrillic": "еще",
+    "literal": "still",
+    "natural": "Still.",
+    "analysis": "Adverb. Can mean 'still', 'yet', or 'more'. ant. уже.",
+    "synonym": "а еще, до сего времени, до сего часа",
+    "antonym": "null"
+  },
+  "бы": {
+    "cyrillic": "бы",
+    "literal": "would",
+    "natural": "Would.",
+    "analysis": "Particle. Used to form the subjunctive mood, expressing hypothetical or desired actions.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "себя": {
+    "cyrillic": "себя",
+    "literal": "herself",
+    "natural": "Herself.",
+    "analysis": "Reflexive pronoun. Refers back to the subject, 'oneself'.",
+    "synonym": "себе",
+    "antonym": "null"
+  },
+  "один": {
+    "cyrillic": "один",
+    "literal": "single",
+    "natural": "Single.",
+    "analysis": "Numeral/Pronoun. Means 'one' or 'alone'. syn. единственный.",
+    "synonym": "одна, одним, одно",
+    "antonym": "null"
+  },
+  "уже": {
+    "cyrillic": "уже",
+    "literal": "already",
+    "natural": "Already.",
+    "analysis": "Adverb. Means 'already'. ant. еще.",
+    "synonym": "сейчас, уж, ранее",
+    "antonym": "null"
+  },
+  "до": {
+    "cyrillic": "до",
+    "literal": "before",
+    "natural": "Before.",
+    "analysis": "Preposition. Means 'until', 'before', or 'up to'. ant. после.",
+    "synonym": "нота, до самого, вплоть до",
+    "antonym": "null"
+  },
+  "время": {
+    "cyrillic": "время",
+    "literal": "time",
+    "natural": "Time.",
+    "analysis": "Noun, Neuter. Means 'time'.",
+    "synonym": "период, момент, срок",
+    "antonym": "null"
+  },
+  "если": {
+    "cyrillic": "если",
+    "literal": "if",
+    "natural": "If.",
+    "analysis": "Conjunction. Introduces a conditional clause.",
+    "synonym": "разве что, ежели, в случае если",
+    "antonym": "null"
+  },
+  "сам": {
+    "cyrillic": "сам",
+    "literal": "himself",
+    "natural": "Himself.",
+    "analysis": "Pronoun. Emphasizes the subject, 'oneself'.",
+    "synonym": "самолично, собственноручно, самовольно",
+    "antonym": "null"
+  },
+  "когда": {
+    "cyrillic": "когда",
+    "literal": "when",
+    "natural": "When.",
+    "analysis": "Adverb/Conjunction. Asks 'when' or introduces a time clause.",
+    "synonym": "коли, порой, иногда",
+    "antonym": "null"
+  },
+  "другой": {
+    "cyrillic": "другой",
+    "literal": "other",
+    "natural": "Other.",
+    "analysis": "Adjective/Pronoun. Means 'other' or 'another'. syn. иной. ant. этот же.",
+    "synonym": "иной, прочий, второй",
+    "antonym": "null"
+  },
+  "вот": {
+    "cyrillic": "вот",
+    "literal": "here",
+    "natural": "Here.",
+    "analysis": "Particle. Means 'here is/are' or 'this is'.",
+    "synonym": "вона, чисто, видишь",
+    "antonym": "null"
+  },
+  "говорить": {
+    "cyrillic": "говорить",
+    "literal": "speak",
+    "natural": "Speak.",
+    "analysis": "Verb. Imperfective infinitive, 'to speak' or 'to talk'. syn. разговаривать. ant. молчать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "наш": {
+    "cyrillic": "наш",
+    "literal": "ours",
+    "natural": "Ours.",
+    "analysis": "Possessive pronoun. Means 'our'.",
+    "synonym": "свой, отечественный",
+    "antonym": "null"
+  },
+  "мой": {
+    "cyrillic": "мой",
+    "literal": "mine",
+    "natural": "Mine.",
+    "analysis": "Possessive pronoun. Means 'my' or 'mine'.",
+    "synonym": "мои, моего, собственный",
+    "antonym": "null"
+  },
+  "знать": {
+    "cyrillic": "знать",
+    "literal": "know",
+    "natural": "Know.",
+    "analysis": "Verb. Imperfective infinitive, 'to know'. ant. не знать.",
+    "synonym": "понимать, очевидно, должно",
+    "antonym": "null"
+  },
+  "стать": {
+    "cyrillic": "стать",
+    "literal": "become",
+    "natural": "Become.",
+    "analysis": "Verb. Perfective infinitive, 'to become'.",
+    "synonym": "выступить, выступать, комплекция",
+    "antonym": "null"
+  },
+  "при": {
+    "cyrillic": "при",
+    "literal": "upon",
+    "natural": "Upon.",
+    "analysis": "Preposition. Can mean 'at', 'in the presence of', or 'attached to'.",
+    "synonym": "в виду, подле, в глаза",
+    "antonym": "null"
+  },
+  "чтобы": {
+    "cyrillic": "чтобы",
+    "literal": "if",
+    "natural": "If.",
+    "analysis": "Conjunction. Means 'in order to' or 'so that'.",
+    "synonym": "дабы, для, ради",
+    "antonym": "null"
+  },
+  "дело": {
+    "cyrillic": "дело",
+    "literal": "case",
+    "natural": "Case.",
+    "analysis": "Noun, Neuter. Means 'business', 'matter', or 'affair'.",
+    "synonym": "ремесло, дельце, деятельность",
+    "antonym": "null"
+  },
+  "жизнь": {
+    "cyrillic": "жизнь",
+    "literal": "life",
+    "natural": "Life.",
+    "analysis": "Noun, Feminine. Means 'life'. ant. смерть.",
+    "synonym": "существование, жизненный путь, действительность",
+    "antonym": "null"
+  },
+  "кто": {
+    "cyrillic": "кто",
+    "literal": "who",
+    "natural": "Who.",
+    "analysis": "Pronoun. Interrogative 'who' or relative 'who'.",
+    "synonym": "кто такой, кто именно",
+    "antonym": "null"
+  },
+  "первый": {
+    "cyrillic": "первый",
+    "literal": "first",
+    "natural": "First.",
+    "analysis": "Ordinal numeral. Means 'first'. ant. последний.",
+    "synonym": "начальный",
+    "antonym": "последний"
+  },
+  "очень": {
+    "cyrillic": "очень",
+    "literal": "very",
+    "natural": "Very.",
+    "analysis": "Adverb. Means 'very'.",
+    "synonym": "весьма, крайне, необычайно",
+    "antonym": "null"
+  },
+  "два": {
+    "cyrillic": "два",
+    "literal": "two",
+    "natural": "Two.",
+    "analysis": "Cardinal numeral. Means 'two'.",
+    "synonym": "пара, двоечка, неуд",
+    "antonym": "null"
+  },
+  "день": {
+    "cyrillic": "день",
+    "literal": "day",
+    "natural": "Day.",
+    "analysis": "Noun, Masculine. Means 'day'. ant. ночь.",
+    "synonym": "дневное время",
+    "antonym": "ночь"
+  },
+  "новый": {
+    "cyrillic": "новый",
+    "literal": "new",
+    "natural": "New.",
+    "analysis": "Adjective. Means 'new'. syn. свежий. ant. старый.",
+    "synonym": "свежий, современный",
+    "antonym": "старый"
+  },
+  "рука": {
+    "cyrillic": "рука",
+    "literal": "hand",
+    "natural": "Hand.",
+    "analysis": "Noun, Feminine. Means 'hand' or 'arm'.",
+    "synonym": "кисть, ручка, лапка",
+    "antonym": "null"
+  },
+  "даже": {
+    "cyrillic": "даже",
+    "literal": "even",
+    "natural": "Even.",
+    "analysis": "Particle. Means 'even'.",
+    "synonym": "аж, хоть, пусть даже",
+    "antonym": "null"
+  },
+  "во": {
+    "cyrillic": "во",
+    "literal": "into",
+    "natural": "Into.",
+    "analysis": "Preposition. Variant of 'в', used before certain consonant clusters.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "со": {
+    "cyrillic": "со",
+    "literal": "with",
+    "natural": "With.",
+    "analysis": "Preposition. Variant of 'с', used before certain consonant clusters.",
+    "synonym": "с",
+    "antonym": "null"
+  },
+  "раз": {
+    "cyrillic": "раз",
+    "literal": "once",
+    "natural": "Once.",
+    "analysis": "Noun, Masculine. Means 'time' or 'occasion'.",
+    "synonym": "разок, однажды, единожды",
+    "antonym": "null"
+  },
+  "там": {
+    "cyrillic": "там",
+    "literal": "there",
+    "natural": "There.",
+    "analysis": "Adverb. Means 'there'. ant. здесь.",
+    "synonym": "после, засим, вслед за тем",
+    "antonym": "null"
+  },
+  "под": {
+    "cyrillic": "под",
+    "literal": "below",
+    "natural": "Below.",
+    "analysis": "Preposition. Means 'under' or 'below'. ant. над.",
+    "synonym": "подо, подина, по-под",
+    "antonym": "null"
+  },
+  "ну": {
+    "cyrillic": "ну",
+    "literal": "well",
+    "natural": "Well.",
+    "analysis": "Particle/Interjection. Expresses encouragement, impatience, or hesitation.",
+    "synonym": "допустим, положим, неужели",
+    "antonym": "null"
+  },
+  "какой": {
+    "cyrillic": "какой",
+    "literal": "what",
+    "natural": "What.",
+    "analysis": "Pronoun/Adjective. Asks 'what' or 'which'.",
+    "synonym": "экий, который, кой",
+    "antonym": "null"
+  },
+  "после": {
+    "cyrillic": "после",
+    "literal": "later",
+    "natural": "Later.",
+    "analysis": "Preposition. Means 'after'. ant. до.",
+    "synonym": "по окончании, вслед за тем, за",
+    "antonym": "null"
+  },
+  "их": {
+    "cyrillic": "их",
+    "literal": "their",
+    "natural": "Their.",
+    "analysis": "Pronoun. Possessive 'their' or genitive/accusative of 'они' (them).",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "работа": {
+    "cyrillic": "работа",
+    "literal": "job",
+    "natural": "Job.",
+    "analysis": "Noun, Feminine. Means 'work' or 'job'. syn. труд. ant. отдых.",
+    "synonym": "труд",
+    "antonym": "отдых"
+  },
+  "без": {
+    "cyrillic": "без",
+    "literal": "without",
+    "natural": "Without.",
+    "analysis": "Preposition. Means 'without'. ant. с.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "самый": {
+    "cyrillic": "самый",
+    "literal": "most",
+    "natural": "Most.",
+    "analysis": "Adjective/Pronoun. Used to form the superlative, 'the most'.",
+    "synonym": "в наибольшей степени, непосредственно, самый-самый",
+    "antonym": "null"
+  },
+  "потом": {
+    "cyrillic": "потом",
+    "literal": "later",
+    "natural": "Later.",
+    "analysis": "Adverb. Means 'then' or 'afterwards'. syn. затем. ant. сначала.",
+    "synonym": "следом, после, далее",
+    "antonym": "null"
+  },
+  "надо": {
+    "cyrillic": "надо",
+    "literal": "should",
+    "natural": "Should.",
+    "analysis": "Predicate. Means 'it is necessary'. syn. нужно.",
+    "synonym": "нужно, необходимо, потребно",
+    "antonym": "null"
+  },
+  "хотеть": {
+    "cyrillic": "хотеть",
+    "literal": "desire",
+    "natural": "Desire.",
+    "analysis": "Verb. Imperfective infinitive, 'to want'. syn. желать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "слово": {
+    "cyrillic": "слово",
+    "literal": "word",
+    "natural": "Word.",
+    "analysis": "Noun, Neuter. Means 'word'.",
+    "synonym": "термин, понятие, синоним",
+    "antonym": "null"
+  },
+  "идти": {
+    "cyrillic": "идти",
+    "literal": "walk",
+    "natural": "Walk.",
+    "analysis": "Verb. Imperfective infinitive, 'to go' on foot. syn. шагать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "большой": {
+    "cyrillic": "большой",
+    "literal": "large",
+    "natural": "Large.",
+    "analysis": "Adjective. Means 'big' or 'large'. syn. огромный. ant. маленький.",
+    "synonym": "крупный, огромный",
+    "antonym": "маленький"
+  },
+  "должен": {
+    "cyrillic": "должен",
+    "literal": "ought",
+    "natural": "Ought.",
+    "analysis": "Predicate adjective. Means 'must' or 'have to'. syn. обязан.",
+    "synonym": "обязан, необходимо",
+    "antonym": "null"
+  },
+  "место": {
+    "cyrillic": "место",
+    "literal": "place",
+    "natural": "Place.",
+    "analysis": "Noun, Neuter. Means 'place' or 'seat'.",
+    "synonym": "пространство, участок, край",
+    "antonym": "null"
+  },
+  "иметь": {
+    "cyrillic": "иметь",
+    "literal": "have",
+    "natural": "Have.",
+    "analysis": "Verb. Imperfective infinitive, 'to have'. syn. обладать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ничто": {
+    "cyrillic": "ничто",
+    "literal": "nothing",
+    "natural": "Nothing.",
+    "analysis": "Pronoun. Means 'nothing'. ant. всё.",
+    "synonym": "нуль, никто, ничтожество",
+    "antonym": "null"
+  },
+  "тут": {
+    "cyrillic": "тут",
+    "literal": "here",
+    "natural": "Here.",
+    "analysis": "Adverb. Means 'here', colloquial. syn. здесь.",
+    "synonym": "здесь, на этом месте, тогда",
+    "antonym": "null"
+  },
+  "лицо": {
+    "cyrillic": "лицо",
+    "literal": "person",
+    "natural": "Person.",
+    "analysis": "Noun, Neuter. Means 'face' or 'person'.",
+    "synonym": "лик, обличие, физиономия",
+    "antonym": "null"
+  },
+  "каждый": {
+    "cyrillic": "каждый",
+    "literal": "each",
+    "natural": "Each.",
+    "analysis": "Pronoun/Adjective. Means 'each' or 'every'. syn. всякий.",
+    "synonym": "всякий, любой, отдельный",
+    "antonym": "null"
+  },
+  "друг": {
+    "cyrillic": "друг",
+    "literal": "friend",
+    "natural": "Friend.",
+    "analysis": "Noun, Masculine. Means 'friend'. syn. товарищ. ant. враг.",
+    "synonym": "товарищ, приятель, дружище",
+    "antonym": "null"
+  },
+  "теперь": {
+    "cyrillic": "теперь",
+    "literal": "now",
+    "natural": "Now.",
+    "analysis": "Adverb. Means 'now', as opposed to before. syn. сейчас.",
+    "synonym": "сейчас, отныне, ныне",
+    "antonym": "null"
+  },
+  "глаз": {
+    "cyrillic": "глаз",
+    "literal": "eye",
+    "natural": "Eye.",
+    "analysis": "Noun, Masculine. Means 'eye'.",
+    "synonym": "око, зрительный орган, надсмотр",
+    "antonym": "null"
+  },
+  "ни": {
+    "cyrillic": "ни",
+    "literal": "neither",
+    "natural": "Neither.",
+    "analysis": "Particle/Conjunction. Used for negation, 'neither...nor'.",
+    "synonym": "буква",
+    "antonym": "null"
+  },
+  "тоже": {
+    "cyrillic": "тоже",
+    "literal": "too",
+    "natural": "Too.",
+    "analysis": "Adverb. Means 'also' or 'too'. syn. также.",
+    "synonym": "как и, также, в свою очередь",
+    "antonym": "null"
+  },
+  "тогда": {
+    "cyrillic": "тогда",
+    "literal": "then",
+    "natural": "Then.",
+    "analysis": "Adverb. Means 'then' or 'at that time'.",
+    "synonym": "в таком случае, позднее, в то время",
+    "antonym": "null"
+  },
+  "видеть": {
+    "cyrillic": "видеть",
+    "literal": "see",
+    "natural": "See.",
+    "analysis": "Verb. Imperfective infinitive, 'to see'. ant. не видеть.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вопрос": {
+    "cyrillic": "вопрос",
+    "literal": "question",
+    "natural": "Question.",
+    "analysis": "Noun, Masculine. Means 'question'. ant. ответ.",
+    "synonym": "запрос",
+    "antonym": "ответ"
+  },
+  "через": {
+    "cyrillic": "через",
+    "literal": "through",
+    "natural": "Through.",
+    "analysis": "Preposition. Means 'through' or 'across'.",
+    "synonym": "посредством, сквозь, спустя",
+    "antonym": "null"
+  },
+  "да": {
+    "cyrillic": "да",
+    "literal": "yes",
+    "natural": "Yes.",
+    "analysis": "Particle/Conjunction. Means 'yes' or can mean 'and'. ant. нет.",
+    "synonym": "разумеется, несомненно, неужели",
+    "antonym": "null"
+  },
+  "здесь": {
+    "cyrillic": "здесь",
+    "literal": "here",
+    "natural": "Here.",
+    "analysis": "Adverb. Means 'here'. syn. тут. ant. там.",
+    "synonym": "в этом месте, тут, на этом месте",
+    "antonym": "null"
+  },
+  "дом": {
+    "cyrillic": "дом",
+    "literal": "house",
+    "natural": "House.",
+    "analysis": "Noun, Masculine. Means 'house' or 'home'.",
+    "synonym": "здание, жилье, жилище",
+    "antonym": "null"
+  },
+  "потому": {
+    "cyrillic": "потому",
+    "literal": "because",
+    "natural": "Because.",
+    "analysis": "Adverb. Often part of 'потому что', meaning 'because'.",
+    "synonym": "оттого, оттого что, затем",
+    "antonym": "null"
+  },
+  "сторона": {
+    "cyrillic": "сторона",
+    "literal": "party",
+    "natural": "Party.",
+    "analysis": "Noun, Feminine. Means 'side'.",
+    "synonym": "направление, бок, момент",
+    "antonym": "null"
+  },
+  "думать": {
+    "cyrillic": "думать",
+    "literal": "think",
+    "natural": "Think.",
+    "analysis": "Verb. Imperfective infinitive, 'to think'. syn. размышлять.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сделать": {
+    "cyrillic": "сделать",
+    "literal": "do",
+    "natural": "Do.",
+    "analysis": "Verb. Perfective infinitive, 'to do' or 'to make'. syn. выполнить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "жить": {
+    "cyrillic": "жить",
+    "literal": "live",
+    "natural": "Live.",
+    "analysis": "Verb. Imperfective infinitive, 'to live'. syn. существовать. ant. умирать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "страна": {
+    "cyrillic": "страна",
+    "literal": "country",
+    "natural": "Country.",
+    "analysis": "Noun, Feminine. Means 'country'.",
+    "synonym": "край, государство, держава",
+    "antonym": "null"
+  },
+  "чем": {
+    "cyrillic": "чем",
+    "literal": "more",
+    "natural": "More.",
+    "analysis": "Conjunction. Used in comparisons, 'than'.",
+    "synonym": "нежели",
+    "antonym": "null"
+  },
+  "мир": {
+    "cyrillic": "мир",
+    "literal": "world",
+    "natural": "World.",
+    "analysis": "Noun, Masculine. Means 'world' or 'peace'. ant. война.",
+    "synonym": "космос, земля, планета",
+    "antonym": "null"
+  },
+  "об": {
+    "cyrillic": "об",
+    "literal": "on",
+    "natural": "On.",
+    "analysis": "Preposition. Variant of 'о', means 'about' or 'concerning'.",
+    "synonym": "обо, о, касательно",
+    "antonym": "null"
+  },
+  "последний": {
+    "cyrillic": "последний",
+    "literal": "last",
+    "natural": "Last.",
+    "analysis": "Adjective. Means 'last' or 'final'. ant. первый.",
+    "synonym": "крайний",
+    "antonym": "первый"
+  },
+  "случай": {
+    "cyrillic": "случай",
+    "literal": "chance",
+    "natural": "Chance.",
+    "analysis": "Noun, Masculine. Means 'case' or 'occasion'.",
+    "synonym": "прецедент, ситуация, эпизод",
+    "antonym": "null"
+  },
+  "голова": {
+    "cyrillic": "голова",
+    "literal": "head",
+    "natural": "Head.",
+    "analysis": "Noun, Feminine. Means 'head'.",
+    "synonym": "рассудок, разум, колбан",
+    "antonym": "null"
+  },
+  "более": {
+    "cyrillic": "более",
+    "literal": "more",
+    "natural": "More.",
+    "analysis": "Adverb. Means 'more'. ant. менее.",
+    "synonym": "больше, в большей степени, сильнее",
+    "antonym": "null"
+  },
+  "делать": {
+    "cyrillic": "делать",
+    "literal": "perform",
+    "natural": "Perform.",
+    "analysis": "Verb. Imperfective infinitive, 'to do' or 'to make'. syn. выполнять.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "смотреть": {
+    "cyrillic": "смотреть",
+    "literal": "look",
+    "natural": "Look.",
+    "analysis": "Verb. Imperfective infinitive, 'to look' or 'to watch'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ребенок": {
+    "cyrillic": "ребенок",
+    "literal": "baby",
+    "natural": "Baby.",
+    "analysis": "Noun, Masculine. Means 'child'. syn. дитя. ant. взрослый.",
+    "synonym": "малыш, малец, чадо",
+    "antonym": "null"
+  },
+  "просто": {
+    "cyrillic": "просто",
+    "literal": "simple",
+    "natural": "Simple.",
+    "analysis": "Adverb. Means 'simply' or 'just'. ant. сложно.",
+    "synonym": "с легкостью, попросту, и к бабке не ходи",
+    "antonym": "null"
+  },
+  "конечно": {
+    "cyrillic": "конечно",
+    "literal": "sure",
+    "natural": "Sure.",
+    "analysis": "Adverb/Particle. Means 'of course'. syn. разумеется.",
+    "synonym": "разумеется, безусловно, бесспорно",
+    "antonym": "null"
+  },
+  "сила": {
+    "cyrillic": "сила",
+    "literal": "strength",
+    "natural": "Strength.",
+    "analysis": "Noun, Feminine. Means 'strength' or 'force'. ant. слабость.",
+    "synonym": "мощь",
+    "antonym": "слабость"
+  },
+  "конец": {
+    "cyrillic": "конец",
+    "literal": "ending",
+    "natural": "Ending.",
+    "analysis": "Noun, Masculine. Means 'end'. syn. окончание. ant. начало.",
+    "synonym": "окончание, финиш",
+    "antonym": "начало"
+  },
+  "перед": {
+    "cyrillic": "перед",
+    "literal": "beforehand",
+    "natural": "Beforehand.",
+    "analysis": "Preposition. Means 'in front of' or 'before'. ant. за, сзади.",
+    "synonym": "впереди, ранее, пред",
+    "antonym": "null"
+  },
+  "несколько": {
+    "cyrillic": "несколько",
+    "literal": "few",
+    "natural": "Few.",
+    "analysis": "Adverb. Means 'several' or 'a few'. ant. много.",
+    "synonym": "ряд, немного, отчасти",
+    "antonym": "null"
+  },
+  "вид": {
+    "cyrillic": "вид",
+    "literal": "species",
+    "natural": "Species.",
+    "analysis": "Noun, Masculine. Means 'view' or 'type'.",
+    "synonym": "тип, облик, образ",
+    "antonym": "null"
+  },
+  "система": {
+    "cyrillic": "система",
+    "literal": "system",
+    "natural": "System.",
+    "analysis": "Noun, Feminine. Means 'system'.",
+    "synonym": "структура, конструкция, способ",
+    "antonym": "null"
+  },
+  "всегда": {
+    "cyrillic": "всегда",
+    "literal": "always",
+    "natural": "Always.",
+    "analysis": "Adverb. Means 'always'. ant. никогда.",
+    "synonym": "постоянно, неизменно, испокон веку",
+    "antonym": "null"
+  },
+  "работать": {
+    "cyrillic": "работать",
+    "literal": "work",
+    "natural": "Work.",
+    "analysis": "Verb. Imperfective infinitive, 'to work'. syn. трудиться. ant. отдыхать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "между": {
+    "cyrillic": "между",
+    "literal": "between",
+    "natural": "Between.",
+    "analysis": "Preposition. Means 'between' or 'among'.",
+    "synonym": "посередине, промеж, посередке",
+    "antonym": "null"
+  },
+  "три": {
+    "cyrillic": "три",
+    "literal": "three",
+    "natural": "Three.",
+    "analysis": "Cardinal numeral. Means 'three'.",
+    "synonym": "трех, уд, тремя",
+    "antonym": "null"
+  },
+  "понять": {
+    "cyrillic": "понять",
+    "literal": "understand",
+    "natural": "Understand.",
+    "analysis": "Verb. Perfective infinitive, 'to understand'. syn. осознать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пойти": {
+    "cyrillic": "пойти",
+    "literal": "go ahead",
+    "natural": "Go ahead.",
+    "analysis": "Verb. Perfective infinitive, 'to go' on foot.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "часть": {
+    "cyrillic": "часть",
+    "literal": "portion",
+    "natural": "Portion.",
+    "analysis": "Noun, Feminine. Means 'part'. ant. целое.",
+    "synonym": "фрагмент, доля, составляющая",
+    "antonym": "null"
+  },
+  "спросить": {
+    "cyrillic": "спросить",
+    "literal": "ask",
+    "natural": "Ask.",
+    "analysis": "Verb. Perfective infinitive, 'to ask'. ant. ответить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "город": {
+    "cyrillic": "город",
+    "literal": "city",
+    "natural": "City.",
+    "analysis": "Noun, Masculine. Means 'city' or 'town'. ant. деревня.",
+    "synonym": "град, гурьевск, гусиноозерск",
+    "antonym": "null"
+  },
+  "дать": {
+    "cyrillic": "дать",
+    "literal": "give",
+    "natural": "Give.",
+    "analysis": "Verb. Perfective infinitive, 'to give'. ant. взять, получить.",
+    "synonym": "вручить, предоставить",
+    "antonym": "взять"
+  },
+  "также": {
+    "cyrillic": "также",
+    "literal": "also",
+    "natural": "Also.",
+    "analysis": "Adverb. Means 'also' or 'as well'. syn. тоже.",
+    "synonym": "кроме того, в свою очередь, к тому же",
+    "antonym": "null"
+  },
+  "никто": {
+    "cyrillic": "никто",
+    "literal": "nobody",
+    "natural": "Nobody.",
+    "analysis": "Pronoun. Means 'nobody' or 'no one'. ant. все, каждый.",
+    "synonym": "ничтожество, пешка, ничто",
+    "antonym": "null"
+  },
+  "понимать": {
+    "cyrillic": "понимать",
+    "literal": "understand",
+    "natural": "Understand.",
+    "analysis": "Verb. Imperfective infinitive, 'to understand'. ant. не понимать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "получить": {
+    "cyrillic": "получить",
+    "literal": "obtain",
+    "natural": "Obtain.",
+    "analysis": "Verb. Perfective infinitive, 'to get' or 'to receive'. ant. дать, отдать.",
+    "synonym": "приобрести, обрести, извлечь",
+    "antonym": "null"
+  },
+  "отношение": {
+    "cyrillic": "отношение",
+    "literal": "relationship",
+    "natural": "Relationship.",
+    "analysis": "Noun, Neuter. Means 'relation' or 'attitude'.",
+    "synonym": "соотношение, связь, касательство",
+    "antonym": "null"
+  },
+  "лишь": {
+    "cyrillic": "лишь",
+    "literal": "only",
+    "natural": "Only.",
+    "analysis": "Particle. Means 'only' or 'just'. syn. только.",
+    "synonym": "токмо, всего, всего-навсего",
+    "antonym": "null"
+  },
+  "второй": {
+    "cyrillic": "второй",
+    "literal": "second",
+    "natural": "Second.",
+    "analysis": "Ordinal numeral. Means 'second'.",
+    "synonym": "другой",
+    "antonym": "первый"
+  },
+  "именно": {
+    "cyrillic": "именно",
+    "literal": "precisely",
+    "natural": "Precisely.",
+    "analysis": "Particle. Means 'namely' or 'precisely'.",
+    "synonym": "собственно, как раз, особенно",
+    "antonym": "null"
+  },
+  "ваш": {
+    "cyrillic": "ваш",
+    "literal": "yours",
+    "natural": "Yours.",
+    "analysis": "Possessive pronoun. Means 'your' (formal or plural).",
+    "synonym": "твой",
+    "antonym": "null"
+  },
+  "хотя": {
+    "cyrillic": "хотя",
+    "literal": "though",
+    "natural": "Though.",
+    "analysis": "Conjunction. Means 'although' or 'though'.",
+    "synonym": "однако, правда, даром что",
+    "antonym": "null"
+  },
+  "сидеть": {
+    "cyrillic": "сидеть",
+    "literal": "sit down",
+    "natural": "Sit down.",
+    "analysis": "Verb. Imperfective infinitive, 'to sit'. ant. стоять, вставать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "над": {
+    "cyrillic": "над",
+    "literal": "above",
+    "natural": "Above.",
+    "analysis": "Preposition. Means 'above' or 'over'. ant. под.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "женщина": {
+    "cyrillic": "женщина",
+    "literal": "woman",
+    "natural": "Woman.",
+    "analysis": "Noun, Feminine. Means 'woman'. ant. мужчина.",
+    "synonym": "дама",
+    "antonym": "мужчина"
+  },
+  "оказаться": {
+    "cyrillic": "оказаться",
+    "literal": "emerge",
+    "natural": "Emerge.",
+    "analysis": "Verb. Perfective infinitive, 'to turn out to be' or 'to find oneself'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "взять": {
+    "cyrillic": "взять",
+    "literal": "pick up",
+    "natural": "Pick up.",
+    "analysis": "Verb. Perfective infinitive, 'to take'. ant. дать, положить.",
+    "synonym": "получить",
+    "antonym": "дать"
+  },
+  "прийти": {
+    "cyrillic": "прийти",
+    "literal": "come",
+    "natural": "Come.",
+    "analysis": "Verb. Perfective infinitive, 'to come' or 'to arrive' on foot. ant. уйти.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "являться": {
+    "cyrillic": "являться",
+    "literal": "appear",
+    "natural": "Appear.",
+    "analysis": "Verb. Imperfective infinitive, 'to be' or 'to appear'. syn. быть.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "деньги": {
+    "cyrillic": "деньги",
+    "literal": "money",
+    "natural": "Money.",
+    "analysis": "Noun, Plural. Means 'money'.",
+    "synonym": "средства, финансы, богатство",
+    "antonym": "null"
+  },
+  "почему": {
+    "cyrillic": "почему",
+    "literal": "why",
+    "natural": "Why.",
+    "analysis": "Adverb. Asks 'why'. ant. потому.",
+    "synonym": "чего, по какой причине, какими судьбами",
+    "antonym": "null"
+  },
+  "вдруг": {
+    "cyrillic": "вдруг",
+    "literal": "suddenly",
+    "natural": "Suddenly.",
+    "analysis": "Adverb. Means 'suddenly'. syn. неожиданно.",
+    "synonym": "внезапно, неожиданно, нежданно",
+    "antonym": "null"
+  },
+  "любить": {
+    "cyrillic": "любить",
+    "literal": "love",
+    "natural": "Love.",
+    "analysis": "Verb. Imperfective infinitive, 'to love'. ant. ненавидеть.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "почти": {
+    "cyrillic": "почти",
+    "literal": "nearly",
+    "natural": "Nearly.",
+    "analysis": "Adverb. Means 'almost' or 'nearly'.",
+    "synonym": "практически, приблизительно, примерно",
+    "antonym": "null"
+  },
+  "стоить": {
+    "cyrillic": "стоить",
+    "literal": "worth",
+    "natural": "Worth.",
+    "analysis": "Verb. Imperfective infinitive, 'to cost'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "земля": {
+    "cyrillic": "земля",
+    "literal": "land",
+    "natural": "Land.",
+    "analysis": "Noun, Feminine. Means 'earth' or 'land'. ant. небо.",
+    "synonym": "поле, место, почва",
+    "antonym": "null"
+  },
+  "ведь": {
+    "cyrillic": "ведь",
+    "literal": "though",
+    "natural": "Though.",
+    "analysis": "Particle/Conjunction. Emphasizes a reason, 'after all'.",
+    "synonym": "все-таки, фактически, все же",
+    "antonym": "null"
+  },
+  "общий": {
+    "cyrillic": "общий",
+    "literal": "general",
+    "natural": "General.",
+    "analysis": "Adjective. Means 'common' or 'general'. ant. частный, индивидуальный.",
+    "synonym": "единый, суммарный, обобщенный",
+    "antonym": "null"
+  },
+  "машина": {
+    "cyrillic": "машина",
+    "literal": "machine",
+    "natural": "Machine.",
+    "analysis": "Noun, Feminine. Means 'car' or 'machine'.",
+    "synonym": "автомобиль, оборудование, комплекс",
+    "antonym": "null"
+  },
+  "однако": {
+    "cyrillic": "однако",
+    "literal": "however",
+    "natural": "However.",
+    "analysis": "Conjunction/Particle. Means 'however' or 'but'. syn. но.",
+    "synonym": "тем не менее, впрочем, как бы то ни было",
+    "antonym": "null"
+  },
+  "сразу": {
+    "cyrillic": "сразу",
+    "literal": "immediately",
+    "natural": "Immediately.",
+    "analysis": "Adverb. Means 'immediately'. syn. немедленно.",
+    "synonym": "сразу же, вмиг, мгновенно",
+    "antonym": "null"
+  },
+  "хорошо": {
+    "cyrillic": "хорошо",
+    "literal": "fine",
+    "natural": "Fine.",
+    "analysis": "Adverb. The standard way to say things are fine. syn. норм. ant. плохо.",
+    "synonym": "достойно, достаточно, благодатно",
+    "antonym": "null"
+  },
+  "отец": {
+    "cyrillic": "отец",
+    "literal": "father",
+    "natural": "Father.",
+    "analysis": "Noun, Masculine. Means 'father'. syn. папа. ant. мать.",
+    "synonym": "папа",
+    "antonym": "мать"
+  },
+  "высокий": {
+    "cyrillic": "высокий",
+    "literal": "high",
+    "natural": "High.",
+    "analysis": "Adjective. Means 'high' or 'tall'. ant. низкий.",
+    "synonym": "высоченный, рослый",
+    "antonym": "низкий"
+  },
+  "остаться": {
+    "cyrillic": "остаться",
+    "literal": "stay",
+    "natural": "Stay.",
+    "analysis": "Verb. Perfective infinitive, 'to remain' or 'to stay'. ant. уйти.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "выйти": {
+    "cyrillic": "выйти",
+    "literal": "exit",
+    "natural": "Exit.",
+    "analysis": "Verb. Perfective infinitive, 'to go out' or 'to exit'. ant. войти.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "много": {
+    "cyrillic": "много",
+    "literal": "much",
+    "natural": "Much.",
+    "analysis": "Adverb. Means 'many' or 'much'. ant. мало.",
+    "synonym": "масса, множество",
+    "antonym": "мало"
+  },
+  "проблема": {
+    "cyrillic": "проблема",
+    "literal": "problem",
+    "natural": "Problem.",
+    "analysis": "Noun, Feminine. Means 'problem'. syn. задача.",
+    "synonym": "трудность, вопрос, затруднение",
+    "antonym": "null"
+  },
+  "начать": {
+    "cyrillic": "начать",
+    "literal": "begin",
+    "natural": "Begin.",
+    "analysis": "Verb. Perfective infinitive, 'to begin'. ant. закончить, кончить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "хороший": {
+    "cyrillic": "хороший",
+    "literal": "good",
+    "natural": "Good.",
+    "analysis": "Adjective. Means 'good'. syn. добрый. ant. плохой.",
+    "synonym": "добрый, отличный",
+    "antonym": "плохой"
+  },
+  "час": {
+    "cyrillic": "час",
+    "literal": "hour",
+    "natural": "Hour.",
+    "analysis": "Noun, Masculine. Means 'hour'.",
+    "synonym": "момент, период, пора",
+    "antonym": "null"
+  },
+  "сегодня": {
+    "cyrillic": "сегодня",
+    "literal": "today",
+    "natural": "Today.",
+    "analysis": "Adverb. Means 'today'. ant. вчера, завтра.",
+    "synonym": "сегодняшний день, на данный момент, сейчас",
+    "antonym": "null"
+  },
+  "право": {
+    "cyrillic": "право",
+    "literal": "right",
+    "natural": "Right.",
+    "analysis": "Noun, Neuter. Means 'right' or 'law'. ant. обязанность.",
+    "synonym": "прерогатива, возможность, привилегия",
+    "antonym": "null"
+  },
+  "совсем": {
+    "cyrillic": "совсем",
+    "literal": "completely",
+    "natural": "Completely.",
+    "analysis": "Adverb. Means 'completely' or 'at all'.",
+    "synonym": "вовсе, ровно, в корне",
+    "antonym": "null"
+  },
+  "нога": {
+    "cyrillic": "нога",
+    "literal": "leg",
+    "natural": "Leg.",
+    "analysis": "Noun, Feminine. Means 'leg' or 'foot'.",
+    "synonym": "конечность, стопа, ножка",
+    "antonym": "null"
+  },
+  "главный": {
+    "cyrillic": "главный",
+    "literal": "chief",
+    "natural": "Chief.",
+    "analysis": "Adjective. Means 'main' or 'chief'. syn. основной. ant. второстепенный.",
+    "synonym": "важнейший, ведущий, основной",
+    "antonym": "null"
+  },
+  "считать": {
+    "cyrillic": "считать",
+    "literal": "consider",
+    "natural": "Consider.",
+    "analysis": "Verb. Imperfective infinitive, 'to count' or 'to consider'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "решение": {
+    "cyrillic": "решение",
+    "literal": "decision",
+    "natural": "Decision.",
+    "analysis": "Noun, Neuter. Means 'decision' or 'solution'. ant. проблема, задача.",
+    "synonym": "урегулирование, выход, предложение",
+    "antonym": "null"
+  },
+  "увидеть": {
+    "cyrillic": "увидеть",
+    "literal": "see",
+    "natural": "See.",
+    "analysis": "Verb. Perfective infinitive, 'to see'. syn. заметить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дверь": {
+    "cyrillic": "дверь",
+    "literal": "door",
+    "natural": "Door.",
+    "analysis": "Noun, Feminine. Means 'door'.",
+    "synonym": "дверца, калитка, врата",
+    "antonym": "null"
+  },
+  "казаться": {
+    "cyrillic": "казаться",
+    "literal": "appear",
+    "natural": "Appear.",
+    "analysis": "Verb. Imperfective infinitive, 'to seem' or 'to appear'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "образ": {
+    "cyrillic": "образ",
+    "literal": "figure",
+    "natural": "Figure.",
+    "analysis": "Noun, Masculine. Means 'image' or 'way'.",
+    "synonym": "облик, имидж, тип",
+    "antonym": "null"
+  },
+  "история": {
+    "cyrillic": "история",
+    "literal": "history",
+    "natural": "History.",
+    "analysis": "Noun, Feminine. Means 'history' or 'story'.",
+    "synonym": "очерк, прошлое, описание",
+    "antonym": "null"
+  },
+  "писать": {
+    "cyrillic": "писать",
+    "literal": "write",
+    "natural": "Write.",
+    "analysis": "Verb. Imperfective infinitive, 'to write'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лучший": {
+    "cyrillic": "лучший",
+    "literal": "best",
+    "natural": "Best.",
+    "analysis": "Adjective. Superlative of 'хороший', means 'best'. ant. худший.",
+    "synonym": "образцовый, идеальный, безупречный",
+    "antonym": "null"
+  },
+  "власть": {
+    "cyrillic": "власть",
+    "literal": "authority",
+    "natural": "Authority.",
+    "analysis": "Noun, Feminine. Means 'power' or 'authority'.",
+    "synonym": "правление, господство, кормило власти",
+    "antonym": "null"
+  },
+  "закон": {
+    "cyrillic": "закон",
+    "literal": "law",
+    "natural": "Law.",
+    "analysis": "Noun, Masculine. Means 'law'. ant. беззаконие.",
+    "synonym": "норма, указ, дхарма",
+    "antonym": "null"
+  },
+  "голос": {
+    "cyrillic": "голос",
+    "literal": "voice",
+    "natural": "Voice.",
+    "analysis": "Noun, Masculine. Means 'voice'.",
+    "synonym": "глас, голосина, голосище",
+    "antonym": "null"
+  },
+  "найти": {
+    "cyrillic": "найти",
+    "literal": "find out",
+    "natural": "Find out.",
+    "analysis": "Verb. Perfective infinitive, 'to find'. ant. потерять.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "поэтому": {
+    "cyrillic": "поэтому",
+    "literal": "therefore",
+    "natural": "Therefore.",
+    "analysis": "Adverb. Means 'therefore' or 'that's why'.",
+    "synonym": "следовательно, в связи с этим, ввиду этого",
+    "antonym": "null"
+  },
+  "стоять": {
+    "cyrillic": "стоять",
+    "literal": "stand up",
+    "natural": "Stand up.",
+    "analysis": "Verb. Imperfective infinitive, 'to stand'. ant. лежать, сидеть.",
+    "synonym": "стоп, не двигаться!, ни шагу дальше!",
+    "antonym": "null"
+  },
+  "вообще": {
+    "cyrillic": "вообще",
+    "literal": "generally",
+    "natural": "Generally.",
+    "analysis": "Adverb. Means 'in general' or 'at all'.",
+    "synonym": "в целом, по большому счету, по идее",
+    "antonym": "null"
+  },
+  "тысяча": {
+    "cyrillic": "тысяча",
+    "literal": "thousand",
+    "natural": "Thousand.",
+    "analysis": "Cardinal numeral. Means 'thousand'.",
+    "synonym": "тысчонка, число, тыща",
+    "antonym": "null"
+  },
+  "больше": {
+    "cyrillic": "больше",
+    "literal": "more",
+    "natural": "More.",
+    "analysis": "Adverb. Comparative of 'много', means 'more'. ant. меньше.",
+    "synonym": "более, значительнее, крупнее",
+    "antonym": "null"
+  },
+  "вместе": {
+    "cyrillic": "вместе",
+    "literal": "together",
+    "natural": "Together.",
+    "analysis": "Adverb. Means 'together'. ant. отдельно, порознь.",
+    "synonym": "заодно, совместно, коллективно",
+    "antonym": "null"
+  },
+  "книга": {
+    "cyrillic": "книга",
+    "literal": "book",
+    "natural": "Book.",
+    "analysis": "Noun, Feminine. Means 'book'.",
+    "synonym": "книжища, букварь, повесть",
+    "antonym": "null"
+  },
+  "маленький": {
+    "cyrillic": "маленький",
+    "literal": "small",
+    "natural": "Small.",
+    "analysis": "Adjective. Means 'small' or 'little'. syn. небольшой. ant. большой, огромный.",
+    "synonym": "малый, небольшой",
+    "antonym": "большой"
+  },
+  "некоторый": {
+    "cyrillic": "некоторый",
+    "literal": "some",
+    "natural": "Some.",
+    "analysis": "Pronoun/Adjective. Means 'some' or 'certain'.",
+    "synonym": "немногий, некий, определенный",
+    "antonym": "null"
+  },
+  "решить": {
+    "cyrillic": "решить",
+    "literal": "decide",
+    "natural": "Decide.",
+    "analysis": "Verb. Perfective infinitive, 'to decide' or 'to solve'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "любой": {
+    "cyrillic": "любой",
+    "literal": "anyone",
+    "natural": "Anyone.",
+    "analysis": "Pronoun/Adjective. Means 'any' or 'anyone'.",
+    "synonym": "всякий, тот или иной, тот или другой",
+    "antonym": "null"
+  },
+  "возможность": {
+    "cyrillic": "возможность",
+    "literal": "possibility",
+    "natural": "Possibility.",
+    "analysis": "Noun, Feminine. Means 'possibility' or 'opportunity'.",
+    "synonym": "шанс, вероятность, удобный случай",
+    "antonym": "null"
+  },
+  "ночь": {
+    "cyrillic": "ночь",
+    "literal": "night",
+    "natural": "Night.",
+    "analysis": "Noun, Feminine. Means 'night'. ant. день.",
+    "synonym": "ночное время",
+    "antonym": "день"
+  },
+  "результат": {
+    "cyrillic": "результат",
+    "literal": "result",
+    "natural": "Result.",
+    "analysis": "Noun, Masculine. Means 'result'. syn. итог.",
+    "synonym": "итог, последствие, достижение",
+    "antonym": "null"
+  },
+  "стол": {
+    "cyrillic": "стол",
+    "literal": "table",
+    "natural": "Table.",
+    "analysis": "Noun, Masculine. Means 'table' or 'desk'.",
+    "synonym": "столешница, столик, мебель",
+    "antonym": "null"
+  },
+  "имя": {
+    "cyrillic": "имя",
+    "literal": "name",
+    "natural": "Name.",
+    "analysis": "Noun, Neuter. Means 'name'.",
+    "synonym": "кличка, название, лилиана",
+    "antonym": "null"
+  },
+  "никогда": {
+    "cyrillic": "никогда",
+    "literal": "never",
+    "natural": "Never.",
+    "analysis": "Adverb. Means 'never'. ant. всегда.",
+    "synonym": "ни в коем случае, отродясь, вовек",
+    "antonym": "null"
+  },
+  "молодой": {
+    "cyrillic": "молодой",
+    "literal": "young",
+    "natural": "Young.",
+    "analysis": "Adjective. Means 'young'. ant. старый.",
+    "synonym": "юный, младой, сопливый",
+    "antonym": "null"
+  },
+  "область": {
+    "cyrillic": "область",
+    "literal": "region",
+    "natural": "Region.",
+    "analysis": "Noun, Feminine. Means 'region' or 'area'. syn. сфера.",
+    "synonym": "сфера, край, территория",
+    "antonym": "null"
+  },
+  "например": {
+    "cyrillic": "например",
+    "literal": "for example",
+    "natural": "For example.",
+    "analysis": "Adverb. Means 'for example'.",
+    "synonym": "в частности, к примеру, скажем",
+    "antonym": "null"
+  },
+  "пройти": {
+    "cyrillic": "пройти",
+    "literal": "pass",
+    "natural": "Pass.",
+    "analysis": "Verb. Perfective infinitive, 'to pass' or 'to go through'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "оно": {
+    "cyrillic": "оно",
+    "literal": "it",
+    "natural": "It.",
+    "analysis": "Pronoun. Third person singular, neuter.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "статья": {
+    "cyrillic": "статья",
+    "literal": "article",
+    "natural": "Article.",
+    "analysis": "Noun, Feminine. Means 'article'.",
+    "synonym": "публикация, артикул, очерк",
+    "antonym": "null"
+  },
+  "число": {
+    "cyrillic": "число",
+    "literal": "number",
+    "natural": "Number.",
+    "analysis": "Noun, Neuter. Means 'number' or 'date'.",
+    "synonym": "количество, численность, наличность",
+    "antonym": "null"
+  },
+  "компания": {
+    "cyrillic": "компания",
+    "literal": "company",
+    "natural": "Company.",
+    "analysis": "Noun, Feminine. Means 'company'.",
+    "synonym": "организация, предприятие, фирма",
+    "antonym": "null"
+  },
+  "про": {
+    "cyrillic": "про",
+    "literal": "pro",
+    "natural": "Pro.",
+    "analysis": "Preposition. Means 'about' (colloquial).",
+    "synonym": "насчет, относительно, для",
+    "antonym": "null"
+  },
+  "государственный": {
+    "cyrillic": "государственный",
+    "literal": "state",
+    "natural": "State.",
+    "analysis": "Adjective. Means 'state' or 'national'. ant. частный.",
+    "synonym": "правительственный, национальный, казенный",
+    "antonym": "null"
+  },
+  "полный": {
+    "cyrillic": "полный",
+    "literal": "complete",
+    "natural": "Complete.",
+    "analysis": "Adjective. Means 'full' or 'complete'. ant. пустой.",
+    "synonym": "абсолютный, законченный, целый",
+    "antonym": "null"
+  },
+  "принять": {
+    "cyrillic": "принять",
+    "literal": "accept",
+    "natural": "Accept.",
+    "analysis": "Verb. Perfective infinitive, 'to accept' or 'to take'. ant. отказаться.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "народ": {
+    "cyrillic": "народ",
+    "literal": "people",
+    "natural": "People.",
+    "analysis": "Noun, Masculine. Means 'people' or 'nation'.",
+    "synonym": "люди, люд, массы",
+    "antonym": "null"
+  },
+  "никакой": {
+    "cyrillic": "никакой",
+    "literal": "none",
+    "natural": "None.",
+    "analysis": "Pronoun. Means 'no' or 'not any'.",
+    "synonym": "дрянной, плохой, негожий",
+    "antonym": "null"
+  },
+  "жена": {
+    "cyrillic": "жена",
+    "literal": "wife",
+    "natural": "Wife.",
+    "analysis": "Noun, Feminine. Means 'wife'. ant. муж.",
+    "synonym": "моя, благоверная, подруга жизни",
+    "antonym": "null"
+  },
+  "настоящий": {
+    "cyrillic": "настоящий",
+    "literal": "genuine",
+    "natural": "Genuine.",
+    "analysis": "Adjective. Means 'real' or 'present'. syn. реальный. ant. поддельный.",
+    "synonym": "реальный, натуральный, истинный",
+    "antonym": "null"
+  },
+  "всякий": {
+    "cyrillic": "всякий",
+    "literal": "anyone",
+    "natural": "Anyone.",
+    "analysis": "Pronoun/Adjective. Means 'every' or 'any'. syn. каждый, любой.",
+    "synonym": "всяческий, любой, каждый",
+    "antonym": "null"
+  },
+  "группа": {
+    "cyrillic": "группа",
+    "literal": "group",
+    "natural": "Group.",
+    "analysis": "Noun, Feminine. Means 'group'.",
+    "synonym": "категория, объединение, альянс",
+    "antonym": "null"
+  },
+  "развитие": {
+    "cyrillic": "развитие",
+    "literal": "development",
+    "natural": "Development.",
+    "analysis": "Noun, Neuter. Means 'development'.",
+    "synonym": "формирование, совершенствование, становление",
+    "antonym": "null"
+  },
+  "процесс": {
+    "cyrillic": "процесс",
+    "literal": "process",
+    "natural": "Process.",
+    "analysis": "Noun, Masculine. Means 'process'.",
+    "synonym": "процедура, операция, развитие",
+    "antonym": "null"
+  },
+  "давать": {
+    "cyrillic": "давать",
+    "literal": "lend",
+    "natural": "Lend.",
+    "analysis": "Verb. Imperfective infinitive, 'to give'. ant. брать, получать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "суд": {
+    "cyrillic": "суд",
+    "literal": "trial",
+    "natural": "Trial.",
+    "analysis": "Noun, Masculine. Means 'court' or 'trial'.",
+    "synonym": "судопроизводство, разбирательство, юстиция",
+    "antonym": "null"
+  },
+  "ответить": {
+    "cyrillic": "ответить",
+    "literal": "respond",
+    "natural": "Respond.",
+    "analysis": "Verb. Perfective infinitive, 'to answer'. ant. спросить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "старый": {
+    "cyrillic": "старый",
+    "literal": "old",
+    "natural": "Old.",
+    "analysis": "Adjective. Means 'old'. ant. новый, молодой.",
+    "synonym": "древний, пожилой",
+    "antonym": "новый"
+  },
+  "условие": {
+    "cyrillic": "условие",
+    "literal": "condition",
+    "natural": "Condition.",
+    "analysis": "Noun, Neuter. Means 'condition'.",
+    "synonym": "требование, нюанс, соглашение",
+    "antonym": "null"
+  },
+  "твой": {
+    "cyrillic": "твой",
+    "literal": "yours",
+    "natural": "Yours.",
+    "analysis": "Possessive pronoun. Means 'your' (informal).",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пока": {
+    "cyrillic": "пока",
+    "literal": "while",
+    "natural": "While.",
+    "analysis": "Adverb/Conjunction. Means 'while' or 'for now'.",
+    "synonym": "поколе, прощевай, до тех пор пока",
+    "antonym": "null"
+  },
+  "средство": {
+    "cyrillic": "средство",
+    "literal": "remedy",
+    "natural": "Remedy.",
+    "analysis": "Noun, Neuter. Means 'means' or 'remedy'.",
+    "synonym": "способ, метод, продукт",
+    "antonym": "null"
+  },
+  "помнить": {
+    "cyrillic": "помнить",
+    "literal": "remember",
+    "natural": "Remember.",
+    "analysis": "Verb. Imperfective infinitive, 'to remember'. ant. забывать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "начало": {
+    "cyrillic": "начало",
+    "literal": "beginning",
+    "natural": "Beginning.",
+    "analysis": "Noun, Neuter. Means 'beginning'. ant. конец.",
+    "synonym": "старт",
+    "antonym": "конец"
+  },
+  "ждать": {
+    "cyrillic": "ждать",
+    "literal": "wait",
+    "natural": "Wait.",
+    "analysis": "Verb. Imperfective infinitive, 'to wait'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "свет": {
+    "cyrillic": "свет",
+    "literal": "light",
+    "natural": "Light.",
+    "analysis": "Noun, Masculine. Means 'light' or 'world'. ant. тьма, темнота.",
+    "synonym": "сияние, блеск, свечение",
+    "antonym": "null"
+  },
+  "пора": {
+    "cyrillic": "пора",
+    "literal": "time",
+    "natural": "Time.",
+    "analysis": "Noun, Feminine. Means 'time' or 'it's time to'.",
+    "synonym": "сушь, время, микропора",
+    "antonym": "null"
+  },
+  "душа": {
+    "cyrillic": "душа",
+    "literal": "soul",
+    "natural": "Soul.",
+    "analysis": "Noun, Feminine. Means 'soul'. ant. тело.",
+    "synonym": "внутренний мир, сущность, естество",
+    "antonym": "null"
+  },
+  "путь": {
+    "cyrillic": "путь",
+    "literal": "path",
+    "natural": "Path.",
+    "analysis": "Noun, Masculine. Means 'way' or 'path'. syn. дорога.",
+    "synonym": "дорога, путь-дорога, способ",
+    "antonym": "null"
+  },
+  "куда": {
+    "cyrillic": "куда",
+    "literal": "where",
+    "natural": "Where.",
+    "analysis": "Adverb. Asks 'where to?'. ant. откуда.",
+    "synonym": "докуда, значительно, слабо",
+    "antonym": "null"
+  },
+  "разный": {
+    "cyrillic": "разный",
+    "literal": "different",
+    "natural": "Different.",
+    "analysis": "Adjective. Means 'different' or 'various'. syn. различный. ant. одинаковый.",
+    "synonym": "различный, всевозможный, разнообразный",
+    "antonym": "null"
+  },
+  "нужный": {
+    "cyrillic": "нужный",
+    "literal": "necessary",
+    "natural": "Necessary.",
+    "analysis": "Adjective. Means 'necessary' or 'needed'. syn. необходимый. ant. ненужный.",
+    "synonym": "необходимый, желательный, надобный",
+    "antonym": "null"
+  },
+  "уровень": {
+    "cyrillic": "уровень",
+    "literal": "level",
+    "natural": "Level.",
+    "analysis": "Noun, Masculine. Means 'level'.",
+    "synonym": "степень, ступень, количество",
+    "antonym": "null"
+  },
+  "иной": {
+    "cyrillic": "иной",
+    "literal": "different",
+    "natural": "Different.",
+    "analysis": "Adjective/Pronoun. Means 'other' or 'different'. syn. другой.",
+    "synonym": "прочий, другой, некоторый",
+    "antonym": "null"
+  },
+  "форма": {
+    "cyrillic": "форма",
+    "literal": "shape",
+    "natural": "Shape.",
+    "analysis": "Noun, Feminine. Means 'form' or 'shape'.",
+    "synonym": "вид, модель, тип",
+    "antonym": "null"
+  },
+  "связь": {
+    "cyrillic": "связь",
+    "literal": "linkage",
+    "natural": "Linkage.",
+    "analysis": "Noun, Feminine. Means 'connection' or 'link'.",
+    "synonym": "союз, отношение, контакт",
+    "antonym": "null"
+  },
+  "кроме": {
+    "cyrillic": "кроме",
+    "literal": "except",
+    "natural": "Except.",
+    "analysis": "Preposition. Means 'except' or 'besides'.",
+    "synonym": "помимо, за исключением, исключая",
+    "antonym": "null"
+  },
+  "минута": {
+    "cyrillic": "минута",
+    "literal": "minute",
+    "natural": "Minute.",
+    "analysis": "Noun, Feminine. Means 'minute'.",
+    "synonym": "единица, момент, время",
+    "antonym": "null"
+  },
+  "находиться": {
+    "cyrillic": "находиться",
+    "literal": "lie",
+    "natural": "Lie.",
+    "analysis": "Verb. Imperfective infinitive, 'to be located'. syn. быть, располагаться.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "опять": {
+    "cyrillic": "опять",
+    "literal": "again",
+    "natural": "Again.",
+    "analysis": "Adverb. Means 'again'. syn. снова.",
+    "synonym": "вновь, вторично, еще",
+    "antonym": "null"
+  },
+  "многий": {
+    "cyrillic": "многий",
+    "literal": "large",
+    "natural": "Large.",
+    "analysis": "Adjective/Pronoun. Means 'many'.",
+    "synonym": "значительный",
+    "antonym": "null"
+  },
+  "белый": {
+    "cyrillic": "белый",
+    "literal": "white",
+    "natural": "White.",
+    "analysis": "Adjective. Means 'white'. ant. черный.",
+    "synonym": "светлый",
+    "antonym": "черный"
+  },
+  "собственный": {
+    "cyrillic": "собственный",
+    "literal": "own",
+    "natural": "Own.",
+    "analysis": "Adjective. Means 'own'. syn. свой. ant. чужой.",
+    "synonym": "персональный, личный, собственноличный",
+    "antonym": "null"
+  },
+  "улица": {
+    "cyrillic": "улица",
+    "literal": "street",
+    "natural": "Street.",
+    "analysis": "Noun, Feminine. Means 'street'.",
+    "synonym": "прогон, улочка, корсо",
+    "antonym": "null"
+  },
+  "черный": {
+    "cyrillic": "черный",
+    "literal": "black",
+    "natural": "Black.",
+    "analysis": "Adjective. Means 'black'. ant. белый.",
+    "synonym": "темный",
+    "antonym": "белый"
+  },
+  "написать": {
+    "cyrillic": "написать",
+    "literal": "write down",
+    "natural": "Write down.",
+    "analysis": "Verb. Perfective infinitive, 'to write'.",
+    "synonym": "подготовить, создать, твитнуть",
+    "antonym": "null"
+  },
+  "вечер": {
+    "cyrillic": "вечер",
+    "literal": "evening",
+    "natural": "Evening.",
+    "analysis": "Noun, Masculine. Means 'evening'. ant. утро.",
+    "synonym": "огонек, вечерок, вечерочек",
+    "antonym": "null"
+  },
+  "основной": {
+    "cyrillic": "основной",
+    "literal": "basic",
+    "natural": "Basic.",
+    "analysis": "Adjective. Means 'main' or 'basic'. syn. главный.",
+    "synonym": "ключевой, главный, существенный",
+    "antonym": "null"
+  },
+  "снова": {
+    "cyrillic": "снова",
+    "literal": "again",
+    "natural": "Again.",
+    "analysis": "Adverb. Means 'again'. syn. опять.",
+    "synonym": "вторично, опять, вновь",
+    "antonym": "null"
+  },
+  "качество": {
+    "cyrillic": "качество",
+    "literal": "quality",
+    "natural": "Quality.",
+    "analysis": "Noun, Neuter. Means 'quality'.",
+    "synonym": "свойство, особенность, надежность",
+    "antonym": "null"
+  },
+  "мысль": {
+    "cyrillic": "мысль",
+    "literal": "thought",
+    "natural": "Thought.",
+    "analysis": "Noun, Feminine. Means 'thought'. syn. идея.",
+    "synonym": "идея, замысел, раздумье",
+    "antonym": "null"
+  },
+  "дорога": {
+    "cyrillic": "дорога",
+    "literal": "roadway",
+    "natural": "Roadway.",
+    "analysis": "Noun, Feminine. Means 'road'. syn. путь.",
+    "synonym": "путь, автотрасса, тракт",
+    "antonym": "null"
+  },
+  "мать": {
+    "cyrillic": "мать",
+    "literal": "mother",
+    "natural": "Mother.",
+    "analysis": "Noun, Feminine. Means 'mother'. syn. мама. ant. отец.",
+    "synonym": "мама",
+    "antonym": "отец"
+  },
+  "действие": {
+    "cyrillic": "действие",
+    "literal": "action",
+    "natural": "Action.",
+    "analysis": "Noun, Neuter. Means 'action'. ant. бездействие.",
+    "synonym": "поступок, деяние, шаг",
+    "antonym": "null"
+  },
+  "месяц": {
+    "cyrillic": "месяц",
+    "literal": "month",
+    "natural": "Month.",
+    "analysis": "Noun, Masculine. Means 'month'.",
+    "synonym": "луна, нисан, месяцочек",
+    "antonym": "null"
+  },
+  "оставаться": {
+    "cyrillic": "оставаться",
+    "literal": "stay",
+    "natural": "Stay.",
+    "analysis": "Verb. Imperfective infinitive, 'to remain' or 'to stay'. ant. уходить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "государство": {
+    "cyrillic": "государство",
+    "literal": "state",
+    "natural": "State.",
+    "analysis": "Noun, Neuter. Means 'state' or 'government'.",
+    "synonym": "страна, держава, империя",
+    "antonym": "null"
+  },
+  "язык": {
+    "cyrillic": "язык",
+    "literal": "tongue",
+    "natural": "Tongue.",
+    "analysis": "Noun, Masculine. Means 'language' or 'tongue'.",
+    "synonym": "речь, диалект, манипури",
+    "antonym": "null"
+  },
+  "взгляд": {
+    "cyrillic": "взгляд",
+    "literal": "glance",
+    "natural": "Glance.",
+    "analysis": "Noun, Masculine. Means 'glance' or 'view'.",
+    "synonym": "взор, мнение, зырк",
+    "antonym": "null"
+  },
+  "любовь": {
+    "cyrillic": "любовь",
+    "literal": "love",
+    "natural": "Love.",
+    "analysis": "Noun, Feminine. Means 'love'. ant. ненависть.",
+    "synonym": "привязанность",
+    "antonym": "ненависть"
+  },
+  "мама": {
+    "cyrillic": "мама",
+    "literal": "mother",
+    "natural": "Mother.",
+    "analysis": "Noun, Feminine. Means 'mom' or 'mother'. syn. мать.",
+    "synonym": "мамочка, мать, мамуля",
+    "antonym": "null"
+  },
+  "играть": {
+    "cyrillic": "играть",
+    "literal": "play",
+    "natural": "Play.",
+    "analysis": "Verb. Imperfective infinitive, 'to play'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "далекий": {
+    "cyrillic": "далекий",
+    "literal": "distant",
+    "natural": "Distant.",
+    "analysis": "Adjective. Means 'far' or 'distant'. ant. близкий.",
+    "synonym": "дальний, удаленный",
+    "antonym": "близкий"
+  },
+  "лежать": {
+    "cyrillic": "лежать",
+    "literal": "lie down",
+    "natural": "Lie down.",
+    "analysis": "Verb. Imperfective infinitive, 'to lie down'. ant. стоять, сидеть.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "нельзя": {
+    "cyrillic": "нельзя",
+    "literal": "cannot",
+    "natural": "Cannot.",
+    "analysis": "Predicate. Means 'it is not allowed' or 'one cannot'. ant. можно.",
+    "synonym": "запрещено, невозможно, немыслимо",
+    "antonym": "null"
+  },
+  "век": {
+    "cyrillic": "век",
+    "literal": "century",
+    "natural": "Century.",
+    "analysis": "Noun, Masculine. Means 'century'.",
+    "synonym": "столетие, жизнь, энеолит",
+    "antonym": "null"
+  },
+  "подумать": {
+    "cyrillic": "подумать",
+    "literal": "think",
+    "natural": "Think.",
+    "analysis": "Verb. Perfective infinitive, 'to think'. syn. поразмыслить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "уйти": {
+    "cyrillic": "уйти",
+    "literal": "quit",
+    "natural": "Quit.",
+    "analysis": "Verb. Perfective infinitive, 'to leave' on foot. ant. прийти.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "цель": {
+    "cyrillic": "цель",
+    "literal": "goal",
+    "natural": "Goal.",
+    "analysis": "Noun, Feminine. Means 'goal' or 'aim'.",
+    "synonym": "задача, стремление, ориентир",
+    "antonym": "null"
+  },
+  "школа": {
+    "cyrillic": "школа",
+    "literal": "school",
+    "natural": "School.",
+    "analysis": "Noun, Feminine. Means 'school'.",
+    "synonym": "учреждение, питомник, гимназия",
+    "antonym": "null"
+  },
+  "общество": {
+    "cyrillic": "общество",
+    "literal": "society",
+    "natural": "Society.",
+    "analysis": "Noun, Neuter. Means 'society'.",
+    "synonym": "социум, человечество, организация",
+    "antonym": "null"
+  },
+  "здравствуйте": {
+    "cyrillic": "здравствуйте",
+    "literal": "hello",
+    "natural": "Hello.",
+    "analysis": "Interjection. Formal greeting, means \"hello\". ant. до свидания.",
+    "synonym": "приветствую, наше почтение, доброго здоровья",
+    "antonym": "null"
+  },
+  "пожи": {
+    "cyrillic": "пожи",
+    "literal": "liv- (clipping)",
+    "natural": "How's it?",
+    "analysis": "Slang clipping of 'поживаешь' (you live/are doing). Very casual.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "здрасьте": {
+    "cyrillic": "здрасьте",
+    "literal": "hello (clipping)",
+    "natural": "Hey / 'Lo.",
+    "analysis": "Colloquial contraction of 'Здравствуйте'. Common in fast, everyday speech.",
+    "synonym": "добрый день, мое почтение, привет",
+    "antonym": "null"
+  },
+  "чё": {
+    "cyrillic": "чё",
+    "literal": "what (slang)",
+    "natural": "What?",
+    "analysis": "Informal/slang version of 'что'. Used heavily in casual spoken Russian.",
+    "synonym": "словно, как, чего",
+    "antonym": "null"
+  },
+  "норм": {
+    "cyrillic": "норм",
+    "literal": "norm",
+    "natural": "It's fine.",
+    "analysis": "Adverbial clipping of 'нормально'. The universal neutral response. ant. плохо.",
+    "synonym": "правило, величина, мера",
+    "antonym": "null"
+  },
+  "пойдёт": {
+    "cyrillic": "пойдёт",
+    "literal": "it will go",
+    "natural": "It'll do / It works.",
+    "analysis": "Verb. Used idiomatically to mean something is 'alright' or 'acceptable'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "медведь": {
+    "cyrillic": "медведь",
+    "literal": "bear",
+    "natural": "Bear.",
+    "analysis": "Noun, Masculine. Refers to a large forest animal.",
+    "synonym": "косолапый, мишка, миша",
+    "antonym": "null"
+  },
+  "завтрак": {
+    "cyrillic": "завтрак",
+    "literal": "breakfast",
+    "natural": "Breakfast.",
+    "analysis": "Noun, Masculine. The first meal of the day. ant. ужин.",
+    "synonym": "ленч, фриштык, фриштых",
+    "antonym": "null"
+  }
+}

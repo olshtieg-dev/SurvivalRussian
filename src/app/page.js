@@ -9,6 +9,7 @@ import SpeechInterface from '../components/SpeechInterface';
 import vocabularyData from '../data/vocabulary.json';
 import missions from '../data/missions.json';
 import SuggestionShredder from '../components/SuggestionShredder';
+import GameOverlay from '../components/GameOverlay';
 
 export default function Home() {
   const initialWordKey = (() => {
@@ -196,6 +197,9 @@ export default function Home() {
         </div>
 
         <div className="mt-auto">
+
+          <GameOverlay />
+
           <SpeechInterface 
             targetWord={activeData?.cyrillic || ""} 
             fullPhrase={currentPhrase} 
