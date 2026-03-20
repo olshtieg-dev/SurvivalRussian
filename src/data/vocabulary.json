@@ -197,6 +197,15 @@
     "synonym": "сей, данный, оный",
     "antonym": "null"
   },
+  "рыба": {
+    "cyrillic": "рыба",
+    "literal": "fish",
+    "natural": "Fish.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/fish/default/48px.svg",
+    "analysis": "Noun, Feminine. Stressed on the 'ы' (RI-ba).",
+    "synonym": "рыбка, рыбёшка, водная живность",
+    "antonym": "null"
+  },
   "билет": {
     "cyrillic": "билет",
     "literal": "ticket",
@@ -8481,3 +8490,4 @@
     "antonym": "null"
   }
 }
+
