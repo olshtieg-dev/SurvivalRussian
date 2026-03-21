@@ -1,0 +1,17 @@
+[
+    {
+        "id":  "HH-01",
+        "phrase":  "где моя зарядка мне она очень нужна",
+        "fullAnalysis":  "Strategic focus: Digital Survival. 1. \u0027Моя\u0027 is the feminine possessive matching \u0027зарядка\u0027. 2. \u0027Она\u0027 (she/it) replaces the noun in the second clause to avoid repetition. 3. \u0027Нужна\u0027 returns here, matching the feminine gender of the \u0027it\u0027 you are looking for."
+    },
+    {
+        "id":  "HH-02",
+        "phrase":  "где лежат ключи и кошелёк",
+        "fullAnalysis":  "Strategic focus: Household Search Pattern. 1. \u0027Где лежат\u0027 is more native-like than a generic existence phrase when you are searching for misplaced objects at home. 2. The plural verb is triggered by \u0027ключи\u0027, the first listed noun, so the sentence naturally leans plural even though \u0027кошелёк\u0027 is singular. 3. This mission is useful because it models a real apartment panic sentence you can reuse every week."
+    },
+    {
+        "id":  "HH-03",
+        "phrase":  "мне нужны чистое полотенце и мыло",
+        "fullAnalysis":  "Strategic focus: Household Essentials. 1. \u0027Мне нужны\u0027 keeps the same practical need pattern, but now in a home-and-bathroom context. 2. \u0027Чистое полотенце\u0027 shows neuter adjective agreement with a common household item. 3. Pairing \u0027полотенце\u0027 and \u0027мыло\u0027 gives the lesson set concrete domestic vocabulary instead of abstract object names."
+    }
+]

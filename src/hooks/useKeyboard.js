@@ -4,6 +4,10 @@ import alphabetData from '../data/alphabet.json';
 export const useKeyboard = (onKeyPress) => {
   useEffect(() => {
     const handleKeyDown = (event) => {
+      if (typeof document !== 'undefined' && document.body?.dataset.keyboardLock === 'true') {
+        return;
+      }
+
       const target = event.target;
       if (target && (target.tagName === 'INPUT' || target.tagName === 'TEXTAREA')) return;
 

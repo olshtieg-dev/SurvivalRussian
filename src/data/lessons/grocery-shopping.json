@@ -1,0 +1,22 @@
+[
+    {
+        "id":  "GR-01",
+        "phrase":  "я еду в магазин на велосипеде мне нужна вода",
+        "fullAnalysis":  "Strategic focus: Logistics \u0026 Motion. 1. \u0027Еду\u0027 is a \u0027Determinate\u0027 verb of motion, used for a single trip by vehicle. 2. \u0027В магазин\u0027 uses the Accusative case to mark the destination. 3. \u0027На велосипеде\u0027 uses the Prepositional case to indicate the \u0027mode\u0027 of travel. 4. \u0027Нужна\u0027 is a short-form adjective matching the feminine gender of \u0027вода\u0027."
+    },
+    {
+        "id":  "GR-02",
+        "phrase":  "мне нужен пакет я плачу картой",
+        "fullAnalysis":  "Strategic focus: Retail Logistics. 1. \u0027Нужен\u0027 is the masculine form matching \u0027пакет\u0027. 2. \u0027Плачу\u0027 is the first-person \u0027I pay\u0027. 3. \u0027Картой\u0027 is the Instrumental case of \u0027карта\u0027. In Russian, when you use a tool (like a card or a pen), the word gets an \u0027-ой\u0027 or \u0027-ом\u0027 ending."
+    },
+    {
+        "id":  "GR-03",
+        "phrase":  "мне нужны яйца, хлеб и молоко",
+        "fullAnalysis":  "Strategic focus: Grocery List Building. 1. \u0027Мне нужны\u0027 uses the dative-needs pattern again, but here the predicate is plural because several items are required. 2. \u0027Яйца, хлеб и молоко\u0027 gives you a practical mixed shopping list with plural, masculine, and neuter nouns in one line. 3. This sentence trains the kind of compact store language you can actually say out loud while planning a quick grocery run."
+    },
+    {
+        "id":  "GR-04",
+        "phrase":  "скажите где отдел с овощами и фруктами",
+        "fullAnalysis":  "Strategic focus: In-Store Navigation. 1. \u0027Скажите\u0027 works as a polite request opener, much safer than a bare command when talking to staff. 2. \u0027Где отдел\u0027 asks for the location of a section inside the store. 3. \u0027С овощами и фруктами\u0027 uses the Instrumental plural after \u0027с\u0027 to describe the department by what it contains, which is a very natural Russian store pattern."
+    }
+]

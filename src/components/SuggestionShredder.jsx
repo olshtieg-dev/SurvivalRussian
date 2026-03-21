@@ -81,12 +81,9 @@ export default function SuggestionShredder() {
         title="Submit Feedback"
       >
         <div className="p-3 rounded-xl border bg-slate-900 border-slate-700 hover:border-red-500 transition-all duration-300 shadow-inner">
-          <Image
-            src="/shredder-icon.png"
-            alt="shred"
-            width={20}
-            height={20}
-            className="w-5 h-5 invert opacity-60 group-hover:opacity-100 group-hover:-translate-y-1 transition-all"
+          <Trash2
+            size={20}
+            className="text-slate-300 opacity-70 group-hover:opacity-100 group-hover:-translate-y-1 transition-all"
           />
         </div>
       </button>
@@ -110,12 +107,24 @@ export default function SuggestionShredder() {
             {!isProcessing ? (
               // Normal Input State
               <div className="animate-in fade-in duration-300">
-                <textarea 
-                  value={suggestion}
-                  onChange={(e) => setSuggestion(e.target.value)}
-                  placeholder="Enter suggestion to be processed..."
-                  className="w-full h-32 bg-slate-900/50 border border-slate-800 rounded-lg p-3 text-sm font-mono text-blue-400 focus:outline-none focus:border-red-500/50 transition-colors resize-none custom-scrollbar"
-                />
+                <div className="relative">
+                  <div className="pointer-events-none absolute inset-0 flex items-center justify-center overflow-hidden rounded-lg">
+                    <Image
+                      src="/shredder-icon.png"
+                      alt=""
+                      aria-hidden="true"
+                      width={220}
+                      height={220}
+                      className="w-44 h-44 invert opacity-[0.08]"
+                    />
+                  </div>
+                  <textarea 
+                    value={suggestion}
+                    onChange={(e) => setSuggestion(e.target.value)}
+                    placeholder="We value your feedback! Please share your thoughts here before we send them to the shredder..."
+                    className="relative z-10 w-full h-68 bg-slate-900/50 border border-slate-800 rounded-lg p-3 text-sm font-mono text-blue-400 focus:outline-none focus:border-red-500/50 transition-colors resize-none custom-scrollbar"
+                  />
+                </div>
                 <button 
                   onClick={handleShred}
                   className="w-full mt-4 py-3 bg-red-950/30 border border-red-900/50 text-red-500 font-black uppercase text-[10px] tracking-[.2em] hover:bg-red-900/40 hover:border-red-500/50 hover:text-red-400 transition-all rounded-lg"
@@ -126,7 +135,6 @@ export default function SuggestionShredder() {
             ) : (
               // Processing / Shredding State
               <div className="h-44 flex flex-col items-center justify-center gap-4 animate-in fade-in zoom-in-95 duration-300">
-               {/* Replace <Trash2 size={32} ... /> with this: */}
                 <Image
                   src="/shredder-icon.png"
                   alt="processing"

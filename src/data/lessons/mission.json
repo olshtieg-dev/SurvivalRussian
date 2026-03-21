@@ -1,0 +1,42 @@
+[
+    {
+        "id":  "M-02",
+        "phrase":  "где находится ближайшая аптека",
+        "fullAnalysis":  "Strategic focus: Navigation. 1. \u0027Находится\u0027 is a reflexive verb (-ся); it literally means \u0027finds itself,\u0027 used for static locations of buildings. 2. \u0027Ближайшая\u0027 is a superlative adjective. Note the \u0027ш\u0027 sound—this is the highest degree of \u0027near\u0027 (близко). 3. Word order is flexible, but putting \u0027аптека\u0027 at the end emphasizes the object you are searching for."
+    },
+    {
+        "id":  "M-03",
+        "phrase":  "я плохо говорю по-русски повторите пожалуйста",
+        "fullAnalysis":  "Strategic focus: Communication Protocol. 1. \u0027По-русски\u0027 is an adverbial form used with verbs of communication. Never say \u0027Я говорю русский.\u0027 2. \u0027Повторите\u0027 uses the \u0027-те\u0027 suffix, which is the formal/plural imperative. This is the \u0027Safe Mode\u0027 for interacting with strangers. 3. \u0027Плохо\u0027 (badly) precedes the verb to modify the action\u0027s quality."
+    },
+    {
+        "id":  "M-04",
+        "phrase":  "сколько стоит этот билет в москву",
+        "fullAnalysis":  "Strategic focus: Transactional Logic. 1. \u0027Сколько стоит\u0027 literally translates to \u0027How much does [it] stand?\u0027. 2. \u0027Этот\u0027 is the masculine demonstrative matching \u0027билет\u0027. 3. \u0027В Москву\u0027 illustrates the Accusative shift: \u0027Москва\u0027 (Nominative) ends in -а, but as a destination of movement, it must end in -у."
+    },
+    {
+        "id":  "M-05",
+        "phrase":  "мне нужно вызвать врача как можно скорее",
+        "fullAnalysis":  "Strategic focus: Emergency Procedures. 1. \u0027Мне нужно\u0027 is a Dative construction; the subject is actually \u0027To me.\u0027 2. \u0027Вызвать\u0027 is the Perfective aspect, meaning you are focused on the *result* (the doctor actually arriving), not just the act of calling. 3. \u0027Как можно скорее\u0027 is a fixed idiom for maximum urgency."
+    },
+    {
+        "id":  "M-06",
+        "phrase":  "у меня нет паспорта и телефона",
+        "fullAnalysis":  "Strategic focus: Resource Depletion. 1. This mission utilizes the \u0027Genitive of Negation.\u0027 2. The word \u0027нет\u0027 (there is not) acts like a vacuum, pulling the objects into the Genitive case. 3. \u0027Паспорт\u0027 and \u0027телефон\u0027 (Masculine) both gain the \u0027-а\u0027 suffix to signal their absence. Without this ending, a native speaker will feel the sentence is \u0027unfinished\u0027."
+    },
+    {
+        "id":  "M-08",
+        "phrase":  "вы понимаете что я сейчас сказал",
+        "fullAnalysis":  "Strategic focus: Verification. 1. \u0027Вы\u0027 is the formal \u0027You\u0027—essential for avoiding offense. 2. \u0027Что\u0027 acts as a \u0027conjunction\u0027 linking two clauses. 3. \u0027Сказал\u0027 is the past tense masculine. If the speaker is female, they must say \u0027сказала\u0027. The past tense in Russian functions more like an adjective, matching the gender of the person who did the action."
+    },
+    {
+        "id":  "M-10",
+        "phrase":  "идите прямо потом направо там метро",
+        "fullAnalysis":  "Strategic focus: Directional Flow. 1. \u0027Идите\u0027 is the formal imperative (Go). 2. \u0027Потом\u0027 (then/later) is the glue for multi-step directions. 3. \u0027Там\u0027 (there) identifies the destination. This is a high-frequency pattern you\u0027ll hear when asking for help on the street."
+    },
+    {
+        "id":  "M-12",
+        "phrase":  "вчера было круто давай встретимся завтра",
+        "fullAnalysis":  "Strategic focus: Social Planning. 1. \u0027Вчера\u0027 and \u0027Завтра\u0027 anchor the timeline. 2. \u0027Круто\u0027 acts as the predicate here (It was cool). 3. \u0027Давай\u0027 functions as \u0027Let’s\u0027. It turns the following verb into a proposal. This is the most natural way to suggest a plan to a friend."
+    }
+]

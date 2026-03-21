@@ -1,6 +1,6 @@
 [
   {
-    "id": "M-01",
+    "id": "GR-01",
     "phrase": "я еду в магазин на велосипеде мне нужна вода",
     "fullAnalysis": "Strategic focus: Logistics & Motion. 1. 'Еду' is a 'Determinate' verb of motion, used for a single trip by vehicle. 2. 'В магазин' uses the Accusative case to mark the destination. 3. 'На велосипеде' uses the Prepositional case to indicate the 'mode' of travel. 4. 'Нужна' is a short-form adjective matching the feminine gender of 'вода'."
   },
@@ -30,7 +30,7 @@
     "fullAnalysis": "Strategic focus: Resource Depletion. 1. This mission utilizes the 'Genitive of Negation.' 2. The word 'нет' (there is not) acts like a vacuum, pulling the objects into the Genitive case. 3. 'Паспорт' and 'телефон' (Masculine) both gain the '-а' suffix to signal their absence. Without this ending, a native speaker will feel the sentence is 'unfinished'."
   },
   {
-    "id": "M-07",
+    "id": "KT-01",
     "phrase": "я хочу заказать чашку горячего кофе",
     "fullAnalysis": "Strategic focus: Sustenance Acquisition. 1. 'Хочу' (1st person) governs the following infinitive 'заказать'. 2. 'Чашку' is the direct object (Accusative). 3. 'Горячего кофе' is the Genitive of quality. 4. Note: 'Кофе' is a 'loanword' and is indeclinable—it never changes its ending, but it is grammatically masculine."
   },
@@ -66,7 +66,7 @@
     "fullAnalysis": "Strategic focus: The 'Default' Response. 1. 'Норм' is clipped from 'Нормально' (Normal/Fine). 2. 'Пойдёт' literally means 'It will go', but idiomatically means 'It works' or 'It's alright'. 3. Combining them is a very authentic way to say 'Things are fine/good enough'."
   },
   {
-    "id": "M-09",
+    "id": "KT-02",
     "phrase": "извините было очень вкусно можно счёт",
     "fullAnalysis": "Strategic focus: Dining Etiquette. 1. 'Извините' is used here as an 'attention-getter' for the waiter. 2. 'Было' is the past tense of 'to be'; note how it precedes 'вкусно' (delicious) to describe the meal. 3. 'Можно счёт' is the standard, polite way to ask for the bill without using a full verb like 'bring'."
   },
@@ -76,7 +76,7 @@
     "fullAnalysis": "Strategic focus: Directional Flow. 1. 'Идите' is the formal imperative (Go). 2. 'Потом' (then/later) is the glue for multi-step directions. 3. 'Там' (there) identifies the destination. This is a high-frequency pattern you'll hear when asking for help on the street."
   },
   {
-    "id": "M-11",
+    "id": "GR-02",
     "phrase": "мне нужен пакет я плачу картой",
     "fullAnalysis": "Strategic focus: Retail Logistics. 1. 'Нужен' is the masculine form matching 'пакет'. 2. 'Плачу' is the first-person 'I pay'. 3. 'Картой' is the Instrumental case of 'карта'. In Russian, when you use a tool (like a card or a pen), the word gets an '-ой' or '-ом' ending."
   },
@@ -86,9 +86,39 @@
     "fullAnalysis": "Strategic focus: Social Planning. 1. 'Вчера' and 'Завтра' anchor the timeline. 2. 'Круто' acts as the predicate here (It was cool). 3. 'Давай' functions as 'Let’s'. It turns the following verb into a proposal. This is the most natural way to suggest a plan to a friend."
   },
   {
-    "id": "M-13",
+    "id": "HH-01",
     "phrase": "где моя зарядка мне она очень нужна",
     "fullAnalysis": "Strategic focus: Digital Survival. 1. 'Моя' is the feminine possessive matching 'зарядка'. 2. 'Она' (she/it) replaces the noun in the second clause to avoid repetition. 3. 'Нужна' returns here, matching the feminine gender of the 'it' you are looking for."
+  },
+  {
+    "id": "GR-03",
+    "phrase": "мне нужны яйца, хлеб и молоко",
+    "fullAnalysis": "Strategic focus: Grocery List Building. 1. 'Мне нужны' uses the dative-needs pattern again, but here the predicate is plural because several items are required. 2. 'Яйца, хлеб и молоко' gives you a practical mixed shopping list with plural, masculine, and neuter nouns in one line. 3. This sentence trains the kind of compact store language you can actually say out loud while planning a quick grocery run."
+  },
+  {
+    "id": "GR-04",
+    "phrase": "скажите где отдел с овощами и фруктами",
+    "fullAnalysis": "Strategic focus: In-Store Navigation. 1. 'Скажите' works as a polite request opener, much safer than a bare command when talking to staff. 2. 'Где отдел' asks for the location of a section inside the store. 3. 'С овощами и фруктами' uses the Instrumental plural after 'с' to describe the department by what it contains, which is a very natural Russian store pattern."
+  },
+  {
+    "id": "KT-03",
+    "phrase": "я хочу приготовить рис с овощами на ужин",
+    "fullAnalysis": "Strategic focus: Kitchen Intent. 1. 'Я хочу приготовить' combines desire with a perfective infinitive, so the sentence points toward a completed meal rather than vague cooking activity. 2. 'Рис с овощами' uses a simple food-plus-Instrumental pattern that sounds natural and reusable with many dishes. 3. 'На ужин' is a high-frequency phrase meaning 'for dinner,' which makes this mission useful both for speaking and for everyday planning."
+  },
+  {
+    "id": "KT-04",
+    "phrase": "где нож и большая сковорода",
+    "fullAnalysis": "Strategic focus: Tool Retrieval. 1. Russian often drops 'is' in quick object-search questions, so this short structure sounds normal rather than incomplete. 2. 'Большая сковорода' reinforces feminine adjective agreement, because the adjective must match the noun in gender and number. 3. This is the kind of sentence you actually say in a shared kitchen when you are ready to cook but still hunting for equipment."
+  },
+  {
+    "id": "HH-02",
+    "phrase": "где лежат ключи и кошелёк",
+    "fullAnalysis": "Strategic focus: Household Search Pattern. 1. 'Где лежат' is more native-like than a generic existence phrase when you are searching for misplaced objects at home. 2. The plural verb is triggered by 'ключи', the first listed noun, so the sentence naturally leans plural even though 'кошелёк' is singular. 3. This mission is useful because it models a real apartment panic sentence you can reuse every week."
+  },
+  {
+    "id": "HH-03",
+    "phrase": "мне нужны чистое полотенце и мыло",
+    "fullAnalysis": "Strategic focus: Household Essentials. 1. 'Мне нужны' keeps the same practical need pattern, but now in a home-and-bathroom context. 2. 'Чистое полотенце' shows neuter adjective agreement with a common household item. 3. Pairing 'полотенце' and 'мыло' gives the lesson set concrete domestic vocabulary instead of abstract object names."
   },
   {
     "id": "SL-06",

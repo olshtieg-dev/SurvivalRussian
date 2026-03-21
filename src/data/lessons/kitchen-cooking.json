@@ -1,0 +1,22 @@
+[
+    {
+        "id":  "KT-01",
+        "phrase":  "я хочу заказать чашку горячего кофе",
+        "fullAnalysis":  "Strategic focus: Sustenance Acquisition. 1. \u0027Хочу\u0027 (1st person) governs the following infinitive \u0027заказать\u0027. 2. \u0027Чашку\u0027 is the direct object (Accusative). 3. \u0027Горячего кофе\u0027 is the Genitive of quality. 4. Note: \u0027Кофе\u0027 is a \u0027loanword\u0027 and is indeclinable—it never changes its ending, but it is grammatically masculine."
+    },
+    {
+        "id":  "KT-02",
+        "phrase":  "извините было очень вкусно можно счёт",
+        "fullAnalysis":  "Strategic focus: Dining Etiquette. 1. \u0027Извините\u0027 is used here as an \u0027attention-getter\u0027 for the waiter. 2. \u0027Было\u0027 is the past tense of \u0027to be\u0027; note how it precedes \u0027вкусно\u0027 (delicious) to describe the meal. 3. \u0027Можно счёт\u0027 is the standard, polite way to ask for the bill without using a full verb like \u0027bring\u0027."
+    },
+    {
+        "id":  "KT-03",
+        "phrase":  "я хочу приготовить рис с овощами на ужин",
+        "fullAnalysis":  "Strategic focus: Kitchen Intent. 1. \u0027Я хочу приготовить\u0027 combines desire with a perfective infinitive, so the sentence points toward a completed meal rather than vague cooking activity. 2. \u0027Рис с овощами\u0027 uses a simple food-plus-Instrumental pattern that sounds natural and reusable with many dishes. 3. \u0027На ужин\u0027 is a high-frequency phrase meaning \u0027for dinner,\u0027 which makes this mission useful both for speaking and for everyday planning."
+    },
+    {
+        "id":  "KT-04",
+        "phrase":  "где нож и большая сковорода",
+        "fullAnalysis":  "Strategic focus: Tool Retrieval. 1. Russian often drops \u0027is\u0027 in quick object-search questions, so this short structure sounds normal rather than incomplete. 2. \u0027Большая сковорода\u0027 reinforces feminine adjective agreement, because the adjective must match the noun in gender and number. 3. This is the kind of sentence you actually say in a shared kitchen when you are ready to cook but still hunting for equipment."
+    }
+]
