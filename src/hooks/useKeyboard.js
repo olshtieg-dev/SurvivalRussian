@@ -28,7 +28,13 @@ export const useKeyboard = (onKeyPress) => {
 
       const mappedData = alphabetData[lookupKey];
 
-      if (mappedData) {
+      if (code === 'Space') {
+        event.preventDefault();
+        onKeyPress(' ');
+      } else if (code === 'Backspace') {
+        event.preventDefault();
+        onKeyPress('backspace');
+      } else if (mappedData) {
         event.preventDefault();
         
         let charToSend;
@@ -41,12 +47,9 @@ export const useKeyboard = (onKeyPress) => {
         }
         
         onKeyPress(charToSend);
-      } else if (code === 'Space') {
+      } else if (event.key?.length === 1) {
         event.preventDefault();
-        onKeyPress(' ');
-      } else if (code === 'Backspace') {
-        event.preventDefault();
-        onKeyPress('backspace');
+        onKeyPress(event.key);
       }
     };
 

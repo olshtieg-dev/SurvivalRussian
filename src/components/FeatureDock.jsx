@@ -3,6 +3,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { Bot, Keyboard, Lock, MessageSquare, X } from 'lucide-react';
 import TypingTutorPanel from './TypingTutorPanel';
+import ChatroomPanel from './ChatroomPanel';
 
 const featureDefinitions = [
   {
@@ -44,11 +45,11 @@ const featureDefinitions = [
     icon: MessageSquare,
     accent: 'amber',
     description:
-      'This is the placeholder shell for the in-app chatroom where learners can compare notes, ask questions, and practice live once the social layer is wired in.',
+      'The live chatroom is now the shared practice box: collaborative drafts, commits, quick replies, and room-wide chatter without leaving the app.',
     details: [
-      'A shared space for quick questions and mutual help.',
-      'A natural place for practice prompts and live exchanges.',
-      'Built to sit beside lessons instead of replacing them.',
+      'Drafts show up live before a message is committed.',
+      'Click a user label to inject a fast reply tag.',
+      'Presence, room history, and a built-in RU helper now make the room usable right away.',
     ],
   },
 ];
@@ -134,7 +135,13 @@ export default function FeatureDock() {
             }
           }}
         >
-          <div className={`mx-auto mt-4 mb-8 w-full rounded-[1.75rem] border border-slate-800 bg-slate-950/95 shadow-2xl overflow-hidden ${activeFeature.id === 'typing' ? 'max-w-6xl' : 'max-w-lg'}`}>
+          <div className={`mx-auto mt-4 mb-8 w-full rounded-[1.75rem] border border-slate-800 bg-slate-950/95 shadow-2xl overflow-hidden ${
+            activeFeature.id === 'typing'
+              ? 'max-w-6xl'
+              : activeFeature.id === 'chat'
+                ? 'max-w-6xl'
+                : 'max-w-lg'
+          }`}>
             <div className="flex items-center justify-between border-b border-slate-800 bg-slate-900/80 px-5 py-4">
               <div className="flex items-center gap-3">
                 <div className={`inline-flex items-center gap-2 rounded-full border px-3 py-1 text-[10px] font-black uppercase tracking-[0.3em] ${accentClasses[activeFeature.accent].badge}`}>
@@ -165,6 +172,10 @@ export default function FeatureDock() {
             {activeFeature.id === 'typing' ? (
               <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar p-6">
                 <TypingTutorPanel />
+              </div>
+            ) : activeFeature.id === 'chat' ? (
+              <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar">
+                <ChatroomPanel />
               </div>
             ) : (
               <div className="space-y-5 p-6">

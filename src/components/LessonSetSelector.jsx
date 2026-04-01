@@ -1,14 +1,17 @@
 'use client';
 
 import React from 'react';
-import { Bot, ChevronDown, ChevronRight, Layers3, Lock } from 'lucide-react';
+import { Bot, ChevronDown, ChevronRight, GitBranchPlus, Layers3, Lock } from 'lucide-react';
 
 export default function LessonSetSelector({
   lessonSets,
   selectedLessonSetId,
   isOpen,
+  isMorphologyActive,
+  activeMorphologyModuleLabel,
   onToggle,
   onSelectLessonSet,
+  onOpenMorphologyLab,
 }) {
   return (
     <div className="w-full px-2">
@@ -69,6 +72,38 @@ export default function LessonSetSelector({
                 </button>
               );
             })}
+            <button
+              type="button"
+              title="Open Morphology Lab"
+              aria-label="Open morphology lab module picker"
+              onClick={onOpenMorphologyLab}
+              className={`snap-start rounded-xl border px-3 py-3 text-left transition-all ${
+                isMorphologyActive
+                  ? 'border-emerald-500/40 bg-emerald-500/15 text-white shadow-[0_0_18px_rgba(16,185,129,0.14)]'
+                  : 'border-emerald-500/25 bg-emerald-950/20 text-slate-300 hover:border-emerald-400/40 hover:bg-emerald-500/10'
+              }`}
+            >
+              <div className="flex items-center justify-between gap-3">
+                <span className="flex items-center gap-2 min-w-0">
+                  <GitBranchPlus size={14} className="text-emerald-300 shrink-0" />
+                  <span className="text-[10px] font-black uppercase tracking-[0.25em] text-emerald-200 truncate">
+                    Morphology Lab
+                  </span>
+                </span>
+                <span className="text-[10px] font-black uppercase text-emerald-300">
+                  {isMorphologyActive ? activeMorphologyModuleLabel : 'Open'}
+                </span>
+              </div>
+              <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
+                Launch a non-typing grammar module for cases, prefix-root-suffix rollers, and future word-building experiments.
+              </p>
+              <p className="mt-2 text-[10px] leading-relaxed text-slate-500">
+                Current slots include Morphology Trees, Linguistic Rolodex, and a wildcard bay for whatever strange lesson idea lands next.
+              </p>
+              <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-emerald-300">
+                {isMorphologyActive ? 'Module Loaded' : 'Open Module Picker'}
+              </p>
+            </button>
             <button
               type="button"
               disabled

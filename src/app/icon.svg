@@ -1,0 +1,61 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="64" y1="8" x2="64" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FDE68A" />
+      <stop offset="48%" stop-color="#FCA5A5" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <linearGradient id="base" x1="64" y1="76" x2="64" y2="116" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F97316" />
+      <stop offset="100%" stop-color="#7C2D12" />
+    </linearGradient>
+    <linearGradient id="dome" x1="22" y1="18" x2="62" y2="92" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F766E" />
+      <stop offset="45%" stop-color="#14532D" />
+      <stop offset="100%" stop-color="#052E16" />
+    </linearGradient>
+    <linearGradient id="dome2" x1="72" y1="28" x2="106" y2="86" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#60A5FA" />
+      <stop offset="100%" stop-color="#1E3A8A" />
+    </linearGradient>
+  </defs>
+
+  <rect width="128" height="128" rx="24" fill="url(#sky)" />
+
+  <path d="M14 82H114V112C114 116 111 118 107 118H21C17 118 14 116 14 112V82Z" fill="url(#base)" />
+  <path d="M22 88H36V110H22V88Z" fill="#F8FAFC" opacity="0.7" />
+  <path d="M44 88H58V110H44V88Z" fill="#F8FAFC" opacity="0.7" />
+  <path d="M70 88H84V110H70V88Z" fill="#F8FAFC" opacity="0.7" />
+  <path d="M92 88H106V110H92V88Z" fill="#F8FAFC" opacity="0.7" />
+
+  <g clip-path="url(#domeClip)">
+    <path
+      d="M22 72C22 40 38 16 56 16C74 16 90 40 90 72C90 86 77 96 56 96C35 96 22 86 22 72Z"
+      fill="url(#dome)"
+    />
+    <path d="M30 70C33 56 43 44 53 40V96C42 94 32 86 30 70Z" fill="#22C55E" opacity="0.75" />
+    <path d="M38 66C41 52 48 40 58 34V96C48 93 40 82 38 66Z" fill="#0EA5A5" opacity="0.62" />
+    <path d="M46 62C49 48 55 38 64 32V96C56 93 48 79 46 62Z" fill="#EAB308" opacity="0.58" />
+    <path d="M54 58C57 46 62 36 71 28V96C64 93 56 76 54 58Z" fill="#A3E635" opacity="0.5" />
+    <path d="M62 52C66 42 72 34 80 28V90C72 88 65 70 62 52Z" fill="#F8FAFC" opacity="0.2" />
+    <path d="M22 74C27 52 38 36 54 22C70 36 80 52 84 74" stroke="#FDE68A" stroke-width="2" stroke-linecap="round" opacity="0.85" />
+  </g>
+
+  <path
+    d="M72 74C72 52 84 30 100 24C112 20 121 31 121 46C121 72 105 90 92 90C81 90 72 83 72 74Z"
+    fill="url(#dome2)"
+  />
+  <path d="M80 72C83 58 90 46 98 40V90C90 88 82 81 80 72Z" fill="#93C5FD" opacity="0.6" />
+  <path d="M89 68C92 56 97 46 104 40V88C98 86 91 78 89 68Z" fill="#FDE68A" opacity="0.35" />
+
+  <path d="M56 12V4" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+  <path d="M50 8H62" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+  <path d="M100 22V14" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+  <path d="M94 18H106" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+
+  <defs>
+    <clipPath id="domeClip">
+      <path d="M22 72C22 40 38 16 56 16C74 16 90 40 90 72C90 86 77 96 56 96C35 96 22 86 22 72Z" />
+    </clipPath>
+  </defs>
+</svg>
