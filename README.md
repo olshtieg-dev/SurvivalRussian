@@ -1,38 +1,86 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+SurvivalRussian
 
-## Getting Started
+AI-assisted multimodal Russian learning system focused on real-world language production.
 
-First, run the development server:
+🧠 Overview
 
-```bash
+SurvivalRussian is a full-stack language learning platform designed around active recall and output-based learning, rather than passive recognition.
+
+The system integrates typing, speaking, listening, and contextual understanding into a single feedback loop to accelerate practical language acquisition.
+
+⚙️ Core Features
+⌨️ Cyrillic Typing Engine
+Learn Russian through direct keyboard input (RU layout)
+Built-in typing trainer for users unfamiliar with Cyrillic
+Reinforces spelling, muscle memory, and recall simultaneously
+🔊 Speech + Pronunciation Feedback
+Text-to-speech playback for all words and phrases
+User voice recording and sampling
+Audio is sent to an AI API for pronunciation analysis
+Returns concise feedback on:
+mispronounced sounds
+stress issues
+phonetic inaccuracies
+🧠 Contextual Vocabulary System
+
+Each word includes:
+
+Natural meaning + literal meaning
+Grammatical usage
+Synonyms & antonyms
+Visual association (image-based reinforcement)
+📖 Grammar Breakdown Engine
+Sentences include AI-generated grammatical explanations
+Short-form (1–2 paragraph) breakdowns
+Focused on practical understanding, not academic overload
+🤖 AI-Generated Lessons
+Dynamically generated typing and practice exercises
+Adapts to user interaction and learning flow
+💬 Collaborative Learning
+Live chat system for shared learning and discussion
+Enables real-time interaction between users
+🧩 (In Progress) Morphology Tools
+Interactive exploration of:
+prefixes
+roots
+suffixes
+Planned “slot-machine” style interface for constructing words
+Case manipulation tools for understanding inflection patterns
+🎯 Learning Philosophy
+
+SurvivalRussian is built around a few core principles:
+
+Output over input → typing and speaking > recognition
+Recall over review → memory is built through effort
+Context over memorization → meaning is learned in use
+Mobility over static study → designed for use during real-life activity
+
+The system is heavily inspired by audio-first learning approaches (e.g., Pimsleur), while extending them with interactive and AI-driven feedback loops.
+
+🛠️ Tech Stack
+Next.js (App Router)
+JavaScript / React
+Text-to-Speech APIs
+Speech analysis via AI API integration
+Real-time communication (chat)
+
+(Expand this if you want to flex more specifics)
+
+🚧 Status
+
+Proof of concept with core systems implemented.
+Currently expanding:
+
+sentence database
+morphology tools
+lesson generation depth
+🚀 Running Locally
+npm install
 npm run dev
-# WSL users (fixes SWC native crashes + polling on /mnt/c):
+
+WSL users:
+
 npm run dev:wsl
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `src/app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Then open:
+http://localhost:3000

@@ -1,4 +1,4 @@
-{
+﻿{
   "я": {
     "cyrillic": "я",
     "literal": "I",
@@ -8478,6 +8478,14 @@
     "literal": "to occupy",
     "natural": "To occupy.",
     "analysis": "Verb. Infinitive form, means 'to occupy'.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "было": {
+    "cyrillic": "было",
+    "literal": "was",
+    "natural": "Was.",
+    "analysis": "Verb. Past tense, neuter form of 'to be'. Means 'was'.",
     "synonym": "null",
     "antonym": "null"
   },
