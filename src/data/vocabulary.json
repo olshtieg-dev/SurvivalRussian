@@ -369,6 +369,15 @@
     "synonym": "напиток бодрости, эспрессо, кофеек",
     "antonym": "null"
   },
+  "вас": {
+    "cyrillic": "вас",
+    "literal": "you (accusative)",
+    "natural": "You (Formal, Accusative).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/group/default/48px.svg",
+    "analysis": "Pronoun. Accusative case of 'вы'. Use this when 'you' is the direct object of a verb.",
+    "synonym": "вам, вы",
+    "antonym": "null"
+  },
   "вы": {
     "cyrillic": "вы",
     "literal": "you",
@@ -2835,6 +2844,101 @@
     "synonym": "простите",
     "antonym": "null"
   },
+  "могу": {
+    "cyrillic": "могу",
+    "literal": "I can / am able",
+    "natural": "I can.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/fitness_center/default/48px.svg",
+    "analysis": "1st person singular of 'мочь'. Indicates internal ability or capacity. Subject must be 'Я'.",
+    "synonym": "сумею, в состоянии",
+    "antonym": "не могу"
+  },
+  "корзины": {
+    "cyrillic": "корзины",
+    "literal": "baskets",
+    "natural": "Baskets.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/shopping_cart/default/48px.svg",
+    "analysis": "Plural of 'корзина'. Refers to shopping baskets or carts.",
+    "synonym": "тележки, корзинки",
+    "antonym": "null"
+  },
+  "лежат": {
+    "cyrillic": "лежат",
+    "literal": "are lying",
+    "natural": "They lie; they are lying.",
+    "analysis": "3rd person plural of 'лежать'. Used to describe the position of multiple objects.",
+    "synonym": "покоятся, находятся",
+    "antonym": "стоят"
+  },
+  "ключи": {
+    "cyrillic": "ключи",
+    "literal": "keys",
+    "natural": "Keys.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/key/default/48px.svg",
+    "analysis": "Plural of 'ключ'. Refers to keys for doors, cars, etc.",
+    "synonym": "замки, ключики",
+    "antonym": "null"
+  },
+  "кошелёк": {
+    "cyrillic": "кошелёк",
+    "literal": "wallet",
+    "natural": "Wallet.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/account_balance_wallet/default/48px.svg",
+    "analysis": "A small case for carrying money and cards.",
+    "synonym": "бумажник, портмоне",
+    "antonym": "null"
+  },
+  "полотенце": {
+    "cyrillic": "полотенце",
+    "literal": "towel",
+    "natural": "Towel.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/towels/default/48px.svg",
+    "analysis": "A piece of absorbent fabric used for drying or wiping.",
+    "synonym": "рушник, тряпка",
+    "antonym": "null"
+  },
+  "моя": {
+    "cyrillic": "моя",
+    "literal": "my (feminine)",
+    "natural": "My (feminine).",
+    "analysis": "Feminine singular form of 'мой'. Used to indicate possession.",
+    "synonym": "моя собственная, моя личная",
+    "antonym": "твоя"
+  },
+  "мыло": {
+    "cyrillic": "мыло",
+    "literal": "soap",
+    "natural": "Soap.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/bathroom/default/48px.svg",
+    "analysis": "A substance used for cleaning.",
+    "synonym": "гель для душа, мыльце",
+    "antonym": "null"
+  },
+  "тележки": {
+    "cyrillic": "тележки",
+    "literal": "carts",
+    "natural": "Carts.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/shopping_cart/default/48px.svg",
+    "analysis": "Plural of 'тележка'. Refers to shopping carts or trolleys.",
+    "synonym": "корзины, телеги",
+    "antonym": "null"
+  },
+  "нужны": {
+    "cyrillic": "нужны",
+    "literal": "are needed",
+    "natural": "They are needed.",
+    "analysis": "3rd person plural of 'нужный'. Indicates that multiple items are necessary.",
+    "synonym": "требуются, необходимы",
+    "antonym": "не нужны"
+  },
+  "чистое": {
+    "cyrillic": "чистое",
+    "literal": "clean (neuter)",
+    "natural": "Clean (neuter).",
+    "analysis": "Neuter form of 'чистый'. Refers to something that is clean or pure.",
+    "synonym": "безупречное, незапятнанное",
+    "antonym": "грязное"
+  },
   "можно": {
     "cyrillic": "можно",
     "literal": "possible",
@@ -5290,6 +5394,23 @@
     "synonym": "мелодия",
     "antonym": "тишина"
   },
+  "свежеее": {
+    "cyrillic": "свежее",
+    "literal": "fresh",
+    "natural": "Fresher; more recent.",
+    "analysis": "Comparative adjective. Fresher/more recent.",
+    "synonym": "новее, свежее",
+    "antonym": "старее"
+  },
+
+  "есть" : {
+    "cyrillic": "есть",
+    "literal": "to eat",
+    "natural": "To eat; to have (food).",
+    "analysis": "Verb, imperfective. To eat.",
+    "synonym": "кушать, питаться",
+    "antonym": "голодать"
+  },
   "сесть": {
     "cyrillic": "сесть",
     "literal": "to sit down",
@@ -5297,6 +5418,70 @@
     "analysis": "Verb, perfective. To sit down.",
     "synonym": "присесть",
     "antonym": "встать"
+  },
+  "мясо": {
+    "cyrillic": "мясо",
+    "literal": "meat",
+    "natural": "Meat; flesh.",
+    "analysis": "Noun, neuter. Meat/flesh.",
+    "synonym": "плоть",
+    "antonym": "null"
+  },
+  "красная": {
+    "cyrillic": "красная",
+    "literal": "red",
+    "natural": "Red (feminine).",
+    "analysis": "Adjective, feminine. Red.",
+    "synonym": "алый, красный",
+    "antonym": "зеленая"
+  },
+  "взвесьте": {
+    "cyrillic": "взвесьте",
+    "literal": "weigh",
+    "natural": "Weigh (imperative).",
+    "analysis": "Verb, perfective, imperative. To weigh.",
+    "synonym": "весить",
+    "antonym": "null"
+  },
+  "огурецов": {
+    "cyrillic": "огурецов",
+    "literal": "cucumbers",
+    "natural": "Cucumbers (genitive plural).",
+    "analysis": "Noun, masculine, genitive plural. Cucumbers.",
+    "synonym": "огурцы",
+    "antonym": "null"
+  },
+  "огурецы": {
+    "cyrillic": "огурцы",
+    "literal": "cucumbers",
+    "natural": "Cucumbers (nominative plural).",
+    "analysis": "Noun, masculine, nominative plural. Cucumbers.",
+    "synonym": "огурецов",
+    "antonym": "null"
+  },
+  "килограмм": {
+    "cyrillic": "килограмм",
+    "literal": "kilogram",
+    "natural": "Kilogram; kg.",
+    "analysis": "Noun, masculine. Unit of mass.",
+    "synonym": "кг",
+    "antonym": "null"
+  },
+  "Помидоров": {
+    "cyrillic": "Помидоров",
+    "literal": "tomatoes",
+    "natural": "Tomatoes (genitive plural).",
+    "analysis": "Noun, masculine, genitive plural. Tomatoes.",
+    "synonym": "помидоры",
+    "antonym": "null"
+  },
+  "Помидор": {
+    "cyrillic": "Помидор",
+    "literal": "tomato",
+    "natural": "Tomato (nominative singular).",
+    "analysis": "Noun, masculine, nominative singular. Tomato.",
+    "synonym": "помидор",
+    "antonym": "null"
   },
   "случиться": {
     "cyrillic": "случиться",

@@ -13,5 +13,55 @@
         "id":  "HH-03",
         "phrase":  "мне нужны чистое полотенце и мыло",
         "fullAnalysis":  "Strategic focus: Household Essentials. 1. \u0027Мне нужны\u0027 keeps the same practical need pattern, but now in a home-and-bathroom context. 2. \u0027Чистое полотенце\u0027 shows neuter adjective agreement with a common household item. 3. Pairing \u0027полотенце\u0027 and \u0027мыло\u0027 gives the lesson set concrete domestic vocabulary instead of abstract object names."
+    },
+    { 
+        "id": "HH-04",
+        "phrase": "мне нужно помыть посуду и вынести мусор",
+        "fullAnalysis": "Strategic focus: Domestic Chores. 1. 'Мне нужно' acts as a universal impersonal trigger for verbs (I need to do). 2. 'Помыть' and 'вынести' are perfective verbs indicating a specific, one-time task that needs completion. 3. 'Мусор' (trash) is a critical everyday vocabulary word."
+    },
+    {
+        "id": "HH-05",
+        "phrase": "ты можешь выключить свет на кухне",
+        "fullAnalysis": "Strategic focus: Polite Requests & Locations. 1. 'Ты можешь' (you can) uses the 'Ж' stem mutation we discussed earlier. 2. 'Выключить' is the perfective 'to turn off'. 3. 'На кухне' uses the Prepositional case for a location, famously taking 'на' instead of 'в' for the kitchen."
+    },
+    {
+        "id": "HH-06",
+        "phrase": "стиральная машина сломалась нужно вызвать мастера",
+        "fullAnalysis": "Strategic focus: Domestic Emergencies. 1. 'Стиральная машина' is the standard compound noun for washing machine. 2. 'Сломалась' uses the reflexive '-ся' ending to mean 'it broke itself'. 3. 'Вызвать мастера' (call a repairman) is a highly practical, culturally authentic survival phrase."
+    },
+    {
+        "id": "HH-07",
+        "phrase": "закрой окно в комнате очень холодно",
+        "fullAnalysis": "Strategic focus: Imperatives & States. 1. 'Закрой' is the direct imperative command to close something. 2. 'В комнате' is Prepositional for 'in the room'. 3. 'Холодно' is an impersonal adverb describing the environmental state ('it is cold'), not an adjective attached to a specific noun."
+    },
+    {
+        "id": "HH-08",
+        "phrase": "что мы будем готовить на ужин сегодня",
+        "fullAnalysis": "Strategic focus: Future Planning. 1. 'Будем готовить' constructs the compound future tense for imperfective verbs (what will we be cooking). 2. 'На ужин' (for dinner) uses the Accusative case to indicate the purpose or destination of the meal. 3. 'Сегодня' (today) places the time marker naturally at the end."
+    },
+    {
+        "id": "HH-09",
+        "phrase": "я оставил телефон на столе в спальне",
+        "fullAnalysis": "Strategic focus: Tracking Belongings. 1. 'Оставил' is the past tense masculine verb for 'left behind'. 2. 'На столе' uses Prepositional for 'on the table'. 3. 'В спальне' also uses Prepositional for the room (bedroom), stacking the location modifiers efficiently."
+    },
+    {
+        "id": "HH-10",
+        "phrase": "положи грязную одежду в корзину",
+        "fullAnalysis": "Strategic focus: Spatial Commands. 1. 'Положи' is the perfective imperative for placing something flat or inside. 2. 'Грязную одежду' uses Accusative feminine endings for the direct object. 3. 'В корзину' shifts to the Accusative case to show the destination/direction of the motion."
+    },
+    {
+        "id": "HH-11",
+        "phrase": "у нас закончилась туалетная бумага и зубная паста",
+        "fullAnalysis": "Strategic focus: Inventory Depletion. 1. 'У нас закончилась' is the perfect native way to say 'we ran out of' (literally: 'at us it finished itself'). 2. 'Туалетная бумага' and 'зубная паста' are absolute mandatory survival nouns. 3. The verb matches the feminine gender of the first item."
+    },
+    {
+        "id": "HH-12",
+        "phrase": "ты уже покормил кота и собаку",
+        "fullAnalysis": "Strategic focus: Animate Accusative. 1. 'Уже' (already) acts as a temporal check. 2. 'Покормил' is the perfective past tense for feeding. 3. 'Кота' and 'собаку' demonstrate how living things (animate nouns) get specific Accusative endings to show they are the target of the action."
+    },
+    {
+        "id": "HH-13",
+        "phrase": "разбуди меня завтра в семь утра",
+        "fullAnalysis": "Strategic focus: Time Management. 1. 'Разбуди' is the imperative command to wake someone up. 2. 'В семь' uses 'в' + Accusative for exact clock times. 3. 'Утра' uses the Genitive case to specify 'of the morning' (A.M.), which is how Russians handle the 12-hour clock."
     }
 ]
