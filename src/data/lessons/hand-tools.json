@@ -1,0 +1,52 @@
+[
+    {
+        "id": "HT-01",
+        "phrase": "дай мне молоток я забью этот гвоздь",
+        "fullAnalysis": "Strategic focus: Basic Fastening. 1. 'Дай мне' (give me) is the imperative + dative combo you use constantly when working with someone. 2. 'Забью' is the perfective future of 'to hammer/drive in'. 3. 'Гвоздь' (nail) is masculine accusative, retaining its dictionary form because it is an inanimate object."
+    },
+    {
+        "id": "HT-02",
+        "phrase": "где крестовая отвёртка и саморезы",
+        "fullAnalysis": "Strategic focus: Modern Hardware. 1. 'Крестовая' specifies a Phillips-head (cross) screwdriver, which is highly authentic shop vocabulary. 2. 'Отвёртка' is the noun for screwdriver. 3. 'Саморезы' refers specifically to self-tapping screws, which is much more common in modern Russian DIY than the generic word 'шурупы'."
+    },
+    {
+        "id": "HT-03",
+        "phrase": "этот гаечный ключ не подходит для этой гайки",
+        "fullAnalysis": "Strategic focus: Sizing & Genitive Alignment. 1. 'Гаечный ключ' is the literal translation of 'nut key', meaning wrench. 2. 'Не подходит' means 'does not fit' or 'isn't suitable'. 3. 'Для этой гайки' uses the Genitive case after the preposition 'для', changing 'гайка' (nut) to 'гайки'."
+    },
+    {
+        "id": "HT-04",
+        "phrase": "затяни болт гаечным ключом",
+        "fullAnalysis": "Strategic focus: The Instrumental Case. 1. 'Затяни' is the imperative command 'tighten'. 2. 'Болт' is the direct object. 3. 'Гаечным ключом' is the Instrumental case of the wrench. The '-ым' and '-ом' endings are how Russian expresses 'WITH a wrench' without needing a separate preposition."
+    },
+    {
+        "id": "HT-05",
+        "phrase": "мне нужно отпилить доску пилой",
+        "fullAnalysis": "Strategic focus: Woodworking & Instruments. 1. 'Отпилить' is the perfective verb to saw off a piece of something. 2. 'Доску' is the Accusative case of 'доска' (wooden board). 3. 'Пилой' is the Instrumental form of 'пила' (saw), demonstrating the feminine '-ой' ending for tool usage."
+    },
+    {
+        "id": "HT-06",
+        "phrase": "возьми угольник и измерь угол",
+        "fullAnalysis": "Strategic focus: Measurement & Root Words. 1. 'Возьми' (take) is another crucial imperative for passing tools. 2. 'Угольник' is the carpenter's square. 3. 'Угол' means angle or corner. Seeing them side-by-side trains your brain to recognize the shared root word."
+    },
+    {
+        "id": "HT-07",
+        "phrase": "труба течёт принеси газовый ключ",
+        "fullAnalysis": "Strategic focus: Plumbing Emergencies. 1. 'Труба течёт' cleanly translates to 'the pipe is leaking' (literally: flowing). 2. 'Принеси' is the imperative 'bring'. 3. 'Газовый ключ' (literally 'gas key') is the standard Russian colloquialism for a heavy-duty pipe wrench or monkey wrench."
+    },
+    {
+        "id": "HT-08",
+        "phrase": "держи деталь плоскогубцами",
+        "fullAnalysis": "Strategic focus: Gripping Tools. 1. 'Держи' is the imperative 'hold'. 2. 'Деталь' is a highly versatile word referring to any part, piece, or component you are currently working on. 3. 'Плоскогубцами' is the Instrumental plural of 'плоскогубцы' (pliers), literally translating to 'flat-lips'."
+    },
+    {
+        "id": "HT-09",
+        "phrase": "мы будем сверлить стену дрелью",
+        "fullAnalysis": "Strategic focus: Power Tools & Soft Signs. 1. 'Будем сверлить' is the imperfective future 'we will be drilling'. 2. 'Стену' is Accusative for wall. 3. 'Дрелью' is the Instrumental case of 'дрель' (power drill). Because 'дрель' is a feminine noun ending in a soft sign, its Instrumental ending is '-ью'."
+    },
+    {
+        "id": "HT-10",
+        "phrase": "передай мне рулетку пожалуйста",
+        "fullAnalysis": "Strategic focus: Polite Handoffs. 1. 'Передай' means 'pass' or 'hand over' (across a distance). 2. 'Рулетку' is the Accusative form of 'рулетка' (tape measure). 3. 'Пожалуйста' keeps the interaction polite, proving that 'survival' Russian doesn't have to mean barking rude orders."
+    }
+]
