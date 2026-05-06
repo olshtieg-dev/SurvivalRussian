@@ -1,0 +1,14 @@
+
+> cyrillic-type-speak@0.1.0 dev:wsl
+> node dev-wsl.js
+
+> Chat socket listening at ws://0.0.0.0:3001/ws/chat
+▲ Next.js 16.1.6 (webpack)
+- Local:         http://localhost:3000
+- Network:       http://0.0.0.0:3000
+- Environments: .env.local
+
+✓ Starting...
+✓ Ready in 2.5s
+ GET / 200 in 1443ms (compile: 1223ms, render: 221ms)
+ GET / 200 in 46ms (compile: 7ms, render: 39ms)

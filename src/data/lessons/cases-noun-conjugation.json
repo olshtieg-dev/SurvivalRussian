@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CASE-DOM-01",
+    "phrase": "Это дом. У меня нет дома. Я иду к дому. Я вижу дом. Я доволен домом. Я говорю о доме.",
+    "fullAnalysis": "This mission walks one noun through all six core Russian cases. Nominative: 'дом' marks the subject in 'Это дом.' Genitive: 'дома' appears after negation in 'У меня нет дома.' Dative: 'дому' marks direction toward or recipient-like meaning in 'Я иду к дому.' Accusative: 'дом' is the direct object in 'Я вижу дом.' Instrumental: 'домом' appears after 'доволен' in 'Я доволен домом.' Prepositional: 'о доме' follows the preposition 'о' in 'Я говорю о доме.'"
+  },
+  {
+    "id": "CASE-KNIGA-01",
+    "phrase": "Это книга. У меня нет книги. Я даю книге место. Я читаю книгу. Я горжусь книгой. Я думаю о книге.",
+    "fullAnalysis": "This mission uses a feminine noun to show a full six-case pattern. Nominative: 'книга' is the basic dictionary form in 'Это книга.' Genitive: 'книги' follows negation in 'У меня нет книги.' Dative: 'книге' appears in 'Я даю книге место,' where the noun receives an indirect relationship. Accusative: 'книгу' is the direct object in 'Я читаю книгу.' Instrumental: 'книгой' follows a state or relation in 'Я горжусь книгой.' Prepositional: 'о книге' follows 'о' in 'Я думаю о книге.'"
+  },
+  {
+    "id": "CASE-GOROD-01",
+    "phrase": "Это город. У меня нет города. Я еду к городу. Я вижу город. Я восхищаюсь городом. Я мечтаю о городе.",
+    "fullAnalysis": "This mission repeats the six-case cycle with another masculine noun. Nominative: 'город' names the subject in 'Это город.' Genitive: 'города' appears after negation in 'У меня нет города.' Dative: 'городу' follows the directional preposition in 'Я еду к городу.' Accusative: 'город' functions as the direct object in 'Я вижу город.' Instrumental: 'городом' appears after the verb in 'Я восхищаюсь городом.' Prepositional: 'о городе' follows 'о' in 'Я мечтаю о городе.'"
+  }
+]

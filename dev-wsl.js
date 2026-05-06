@@ -5,17 +5,31 @@ const chatPort = process.env.CHAT_PORT || '3001';
 const host = process.env.HOST || '0.0.0.0';
 
 function spawnChild(command, args, extraEnv = {}) {
-  return spawn(command, args, {
+  const child = spawn(command, args, {
     stdio: 'inherit',
     env: {
       ...process.env,
       ...extraEnv,
     },
   });
+
+  child.on('error', (error) => {
+    console.error(`Failed to start ${command}:`, error.message);
+    process.exitCode = 1;
+  });
+
+  return child;
 }
 
-const nextProcess = spawnChild(
-  'npx',
+function spawnNpx(args, extraEnv = {}) {
+  if (process.platform === 'win32') {
+    return spawnChild('cmd.exe', ['/c', 'npx', ...args], extraEnv);
+  }
+
+  return spawnChild('npx', args, extraEnv);
+}
+
+const nextProcess = spawnNpx(
   ['next', 'dev', '--webpack', '--hostname', host, '--port', nextPort],
   {
     NEXT_PUBLIC_CHAT_WS_PORT: chatPort,

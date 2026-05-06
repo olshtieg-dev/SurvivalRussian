@@ -1,5 +1,6 @@
 import missionLessons from './mission.json';
 import slangLessons from './slang.json';
+import casesNounLessons from './cases-noun-conjugation.json';
 import groceryLessons from './grocery-shopping.json';
 import kitchenLessons from './kitchen-cooking.json';
 import householdLessons from './household-items.json';
@@ -25,6 +26,13 @@ export const lessonSets = [
     badge: 'GR',
     description: 'Buying essentials, asking prices, and handling checkout.',
     missions: groceryLessons,
+  },
+  {
+    id: 'cases-nouns',
+    label: 'Cases & Nouns',
+    badge: 'CN',
+    description: 'Dense six-case noun drills packed into single passage missions.',
+    missions: casesNounLessons,
   },
   {
     id: 'kitchen',
