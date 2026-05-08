@@ -1,1 +1,7 @@
-export { lessonSets, defaultLessonSetId, getLessonSet } from './lessons';
+export {
+  lessonSets,
+  defaultLessonSetId,
+  generateRandomVocabularyMissions,
+  getLessonSet,
+  randomVocabularyLessonSetId,
+} from './lessons';

@@ -9,6 +9,15 @@
     "synonym": "моя персона, пишущий эти строки, автор этих строк",
     "antonym": "null"
   },
+  "встретимся": {
+    "cyrillic": "встретимся",
+    "literal": "we will meet",
+    "natural": "Let's meet.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/group/default/48px.svg",
+    "analysis": "Verb. First person plural future of встретиться.",
+    "synonym": "познакомимся, увидимся, соберёмся",
+    "antonym": "расстанемся"
+  },
   "еду": {
     "cyrillic": "еду",
     "literal": "riding (vehicle)",
@@ -18,6 +27,26 @@
     "synonym": "кушанье, пища, провизия",
     "antonym": "null"
   },
+  "плачу": {
+    "cyrillic": "плачу",
+    "literal": "paying",
+    "natural": "I pay.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/payments/default/48px.svg",
+    "analysis": "Verb. 1st person singular of платить.",
+    "synonym": "оплачиваю, рассчитываюсь",
+    "antonym": "не плачу"
+  },
+
+  "картой": {
+    "cyrillic": "картой",
+    "literal": "card",
+    "natural": "A card (for payment).",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/payments/default/48px.svg",
+    "analysis": "Noun. The 'ой' ending is the instrumental case marker.",
+    "synonym": "банковская карта, пластиковая карта",
+    "antonym": "null"
+  },
+
   "иду": {
     "cyrillic": "иду",
     "literal": "going (on foot)",

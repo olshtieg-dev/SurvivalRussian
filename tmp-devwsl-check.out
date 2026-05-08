@@ -1,0 +1,6 @@
+
+> cyrillic-type-speak@0.1.0 dev:wsl
+> node dev-wsl.js
+
+> Ready on http://0.0.0.0:3000
+> Chat socket listening at ws://0.0.0.0:3000/ws/chat

@@ -67,7 +67,7 @@ export default function LessonSetSelector({
                     {lessonSet.description}
                   </p>
                   <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
-                    {lessonSet.missions.length} missions
+                    {lessonSet.missionCount ?? lessonSet.missions.length} missions
                   </p>
                 </button>
               );

@@ -7,7 +7,13 @@ import MeaningCard from '../components/MeaningCard';
 import SentenceStructuralAnalysis from '../components/SentenceStructuralAnalysis';
 import SpeechInterface from '../components/SpeechInterface';
 import vocabularyData from '../data/vocabulary.json';
-import { defaultLessonSetId, getLessonSet, lessonSets } from '../data/lessonSets';
+import {
+  defaultLessonSetId,
+  generateRandomVocabularyMissions,
+  getLessonSet,
+  lessonSets,
+  randomVocabularyLessonSetId,
+} from '../data/lessonSets';
 import LessonSetSelector from '../components/LessonSetSelector';
 import SuggestionShredder from '../components/SuggestionShredder';
 import GameOverlay from '../components/GameOverlay';
@@ -48,9 +54,11 @@ function readPersistedAppState() {
 
 export default function Home() {
   const sidebarRef = useRef(null);
+  const initialRandomVocabularyMissionsRef = useRef(null);
   const [isBootstrapped, setIsBootstrapped] = useState(false);
   const [hasStarted, setHasStarted] = useState(false);
   const [selectedLessonSetId, setSelectedLessonSetId] = useState(defaultLessonSetId);
+  const [randomVocabularyMissions, setRandomVocabularyMissions] = useState(() => generateRandomVocabularyMissions());
   const [activeSurface, setActiveSurface] = useState('typing');
   const [isLessonSelectorOpen, setIsLessonSelectorOpen] = useState(false);
   const [isMorphologyModuleSelectorOpen, setIsMorphologyModuleSelectorOpen] = useState(false);
@@ -66,11 +74,22 @@ export default function Home() {
     return getStartingWordKey(initialLessonSet?.missions || []);
   });
 
+  if (initialRandomVocabularyMissionsRef.current == null) {
+    initialRandomVocabularyMissionsRef.current = randomVocabularyMissions;
+  }
+
   const currentLessonSet = getLessonSet(selectedLessonSetId);
   const activeMorphologyModule = getMorphologyModule(selectedMorphologyModuleId);
   const isMorphologyActive = activeSurface === 'morphology';
+  const missions = useMemo(() => {
+    if (selectedLessonSetId === randomVocabularyLessonSetId) {
+      return randomVocabularyMissions;
+    }
+
+    return currentLessonSet?.missions || [];
+  }, [currentLessonSet, randomVocabularyMissions, selectedLessonSetId]);
   const canAdvanceMission = isMissionComplete && !isMorphologyActive;
-  const missions = useMemo(() => currentLessonSet?.missions || [], [currentLessonSet]);
+  const isRandomVocabularyLessonSet = selectedLessonSetId === randomVocabularyLessonSetId;
   const currentMission = missions[missionIndex];
   const currentPhrase = currentMission?.phrase || '';
   const currentLessonLabel = isMorphologyActive ? 'Morphology Lab' : currentLessonSet?.label || 'Lesson Set';
@@ -90,10 +109,18 @@ export default function Home() {
 
   const selectLessonSet = useCallback((lessonSetId) => {
     const nextLessonSet = getLessonSet(lessonSetId);
+    const nextMissions = lessonSetId === randomVocabularyLessonSetId
+      ? generateRandomVocabularyMissions()
+      : nextLessonSet.missions;
+
+    if (lessonSetId === randomVocabularyLessonSetId) {
+      setRandomVocabularyMissions(nextMissions);
+    }
+
     setActiveSurface('typing');
     setSelectedLessonSetId(nextLessonSet.id);
     setMissionIndex(0);
-    resetSystem(nextLessonSet.missions, 0);
+    resetSystem(nextMissions, 0);
     setIsLessonSelectorOpen(false);
   }, [resetSystem]);
 
@@ -117,8 +144,16 @@ export default function Home() {
       const newIndex = missionIndex + 1;
       setMissionIndex(newIndex);
       resetSystem(missions, newIndex);
+      return;
     }
-  }, [missionIndex, missions, resetSystem]);
+
+    if (isRandomVocabularyLessonSet && missions.length) {
+      const nextBatch = generateRandomVocabularyMissions();
+      setRandomVocabularyMissions(nextBatch);
+      setMissionIndex(0);
+      resetSystem(nextBatch, 0);
+    }
+  }, [isRandomVocabularyLessonSet, missionIndex, missions, resetSystem]);
 
   const prevMission = useCallback(() => {
     if (missionIndex > 0) {
@@ -131,6 +166,14 @@ export default function Home() {
   const randomMission = useCallback(() => {
     if (!missions.length) return;
 
+    if (isRandomVocabularyLessonSet) {
+      const nextBatch = generateRandomVocabularyMissions();
+      setRandomVocabularyMissions(nextBatch);
+      setMissionIndex(0);
+      resetSystem(nextBatch, 0);
+      return;
+    }
+
     let newIndex;
     do {
       newIndex = Math.floor(Math.random() * missions.length);
@@ -138,7 +181,7 @@ export default function Home() {
 
     setMissionIndex(newIndex);
     resetSystem(missions, newIndex);
-  }, [missionIndex, missions, resetSystem]);
+  }, [isRandomVocabularyLessonSet, missionIndex, missions, resetSystem]);
 
   useEffect(() => {
     const persistedState = readPersistedAppState();
@@ -146,9 +189,12 @@ export default function Home() {
       if (persistedState) {
         const restoredLessonSet =
           getLessonSet(persistedState.selectedLessonSetId) || getLessonSet(defaultLessonSetId);
+        const restoredMissions = restoredLessonSet.id === randomVocabularyLessonSetId
+          ? initialRandomVocabularyMissionsRef.current || []
+          : restoredLessonSet?.missions || [];
         const restoredMissionIndex = clampMissionIndex(
           persistedState.missionIndex,
-          restoredLessonSet?.missions?.length || 0
+          restoredMissions.length
         );
         const restoredMorphologyModule =
           getMorphologyModule(persistedState.selectedMorphologyModuleId) ||
@@ -171,7 +217,7 @@ export default function Home() {
             ? persistedState.isQuickGuideVisible
             : true
         );
-        setActiveWordKey(getStartingWordKey(restoredLessonSet.missions.slice(restoredMissionIndex)));
+        setActiveWordKey(getStartingWordKey(restoredMissions.slice(restoredMissionIndex)));
       }
 
       setIsBootstrapped(true);
@@ -418,8 +464,8 @@ export default function Home() {
 
               <button
                 onClick={randomMission}
-                title="Random lesson"
-                aria-label="Random lesson"
+                title={isRandomVocabularyLessonSet ? 'New random vocab batch' : 'Random lesson'}
+                aria-label={isRandomVocabularyLessonSet ? 'New random vocab batch' : 'Random lesson'}
                 className="w-10 h-10 rounded-xl flex items-center justify-center bg-blue-600/10 border border-blue-500/20 text-blue-500 hover:bg-blue-600 hover:text-white transition-all shadow-inner active:rotate-12"
               >
                 <Dice5 size={18} />
@@ -427,9 +473,9 @@ export default function Home() {
 
               <button
                 onClick={nextMission}
-                disabled={missionIndex === missions.length - 1}
-                title="Next lesson"
-                aria-label="Next lesson"
+                disabled={!isRandomVocabularyLessonSet && missionIndex === missions.length - 1}
+                title={isRandomVocabularyLessonSet ? 'Next word or new random batch' : 'Next lesson'}
+                aria-label={isRandomVocabularyLessonSet ? 'Next word or new random batch' : 'Next lesson'}
                 className="w-10 h-10 rounded-xl flex items-center justify-center border border-slate-800 hover:bg-slate-800 text-slate-400 hover:text-white transition-all disabled:opacity-10 active:scale-90"
               >
                 <ChevronDown size={20} />
@@ -504,7 +550,9 @@ export default function Home() {
                 <div className="flex justify-center items-center gap-4 mt-8">
                   <div className="h-[1px] w-20 bg-gradient-to-r from-transparent to-blue-500/50" />
                   <p className="text-blue-400 font-mono text-[10px] animate-pulse tracking-[.5em] uppercase">
-                    Mission Complete: Press [Enter] or [Down]
+                    {isRandomVocabularyLessonSet && missionIndex === missions.length - 1
+                      ? 'Batch Complete: Press [Enter] or [Down] for a new set'
+                      : 'Mission Complete: Press [Enter] or [Down]'}
                   </p>
                   <div className="h-[1px] w-20 bg-gradient-to-l from-transparent to-blue-500/50" />
                 </div>
