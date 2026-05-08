@@ -15,6 +15,8 @@ export default function TypingEngine({
   const [userInput, setUserInput] = useState('');
   const [errorIndex, setErrorIndex] = useState(null);
 
+  const normalizeChar = (value) => (typeof value === 'string' ? value.toLocaleLowerCase() : value);
+
   const handleKeyPress = (char) => {
     if (char === 'backspace') {
       const newPath = userInput.slice(0, -1);
@@ -28,14 +30,15 @@ export default function TypingEngine({
     if (nextIndex >= targetText.length) return; 
 
     const expectedChar = targetText[nextIndex];
+    const matchesExpected = normalizeChar(char) === normalizeChar(expectedChar);
 
-    if (char === expectedChar) {
-      const newPath = userInput + char;
+    if (matchesExpected) {
+      const newPath = userInput + expectedChar;
       setUserInput(newPath);
       setErrorIndex(null);
       onProgress(newPath);
 
-      if (char === ' ' || newPath.length === targetText.length) {
+      if (expectedChar === ' ' || newPath.length === targetText.length) {
         const words = newPath.trim().split(' ');
         onWordComplete(words[words.length - 1]);
       }

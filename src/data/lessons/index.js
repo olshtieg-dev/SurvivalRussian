@@ -26,15 +26,26 @@ function shuffleList(items) {
 }
 
 export function generateRandomVocabularyMissions(count = randomVocabularyMissionCount) {
-  return shuffleList(vocabularyPool)
-    .slice(0, count)
-    .map(([wordKey, entry], index) => ({
-      id: `RV-${index + 1}-${wordKey}`,
-      phrase: entry.cyrillic.trim(),
-      fullAnalysis: entry.analysis
-        ? `Random vocabulary drill. ${entry.analysis}`
-        : `Random vocabulary drill. Literal: ${entry.literal || entry.cyrillic}. Natural: ${entry.natural || entry.cyrillic}.`,
-    }));
+  const selectedWords = shuffleList(vocabularyPool).slice(0, count);
+  const phrase = selectedWords
+    .map(([, entry]) => entry.cyrillic.trim())
+    .join(' ');
+  const wordBreakdown = selectedWords
+    .map(([, entry]) => {
+      const word = entry.cyrillic.trim();
+      const literal = entry.literal || word;
+      const natural = entry.natural || word;
+      return `${word}: ${literal} -> ${natural}`;
+    })
+    .join(' ');
+
+  return [
+    {
+      id: `RV-BATCH-${selectedWords.map(([wordKey]) => wordKey).join('-')}`,
+      phrase,
+      fullAnalysis: `Random vocabulary batch. Type the whole line, then a fresh set rolls in. ${wordBreakdown}`,
+    },
+  ];
 }
 
 export const lessonSets = [
@@ -84,9 +95,10 @@ export const lessonSets = [
     id: randomVocabularyLessonSetId,
     label: 'Random Vocab',
     badge: 'RV',
-    description: 'Twelve fresh one-word drills pulled from the vocabulary bank. Finish the batch and a new one rolls in.',
+    description: 'One rolling mission made of twelve random vocabulary words. Finish the line and a new set rolls in.',
     missions: [],
-    missionCount: randomVocabularyMissionCount,
+    missionCount: 1,
+    missionCountLabel: `${randomVocabularyMissionCount}-word batch`,
     isDynamic: true,
   },
 ];
