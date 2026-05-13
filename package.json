@@ -6,14 +6,17 @@
     "dev": "node server.js",
     "dev:turbo": "node server.js",
     "dev:wsl": "node dev-wsl.js",
+    "durak:server": "node server/index.js",
     "build": "next build",
     "start": "node server.js",
     "lint": "eslint"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "boardgame.io": "^0.50.2",
     "lucide-react": "^0.577.0",
     "next": "16.1.6",
+    "node-persist": "^4.0.4",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "ws": "^8.20.0"

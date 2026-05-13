@@ -1,6 +1,17 @@
 'use client';
+
+import dynamic from 'next/dynamic';
 import React, { useState } from 'react';
 import { Gamepad2, X } from 'lucide-react';
+
+const DurakBoard = dynamic(() => import('./DurakBoard'), {
+  ssr: false,
+  loading: () => (
+    <div className="flex h-full items-center justify-center rounded-[1.75rem] border border-slate-800 bg-slate-950/85 p-8 text-sm text-slate-400">
+      Подключаем Durak...
+    </div>
+  ),
+});
 
 export default function GameOverlay() {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,14 +23,19 @@ export default function GameOverlay() {
       path: 'asteroids/index.html',
       width: 800,
       height: 600,
-      title: '🚀 ASTEROIDS'
+      title: 'ASTEROIDS',
     },
     bricklayer: {
       path: 'bricklayer/index.html',
-      width: 400, // Narrower
-      height: 700, // Taller
-      title: '🧱 BRICK LAYER'
-    }
+      width: 400,
+      height: 700,
+      title: 'BRICK LAYER',
+    },
+    cardclash: {
+      width: 1080,
+      height: 840,
+      title: 'DURAK',
+    },
   };
 
   const closeGame = () => {
@@ -36,27 +52,34 @@ export default function GameOverlay() {
         className="group relative flex flex-col items-center"
         title="Play Games"
       >
-        <div className="p-3 rounded-xl border bg-slate-900 border-slate-700 hover:border-green-500 transition-all duration-300 shadow-inner">
-          <Gamepad2 size={20} className="text-slate-500 group-hover:text-green-400 transition-colors" />
+        <div className="rounded-xl border border-slate-700 bg-slate-900 p-3 shadow-inner transition-all duration-300 hover:border-green-500">
+          <Gamepad2 size={20} className="text-slate-500 transition-colors group-hover:text-green-400" />
         </div>
       </button>
 
       {isOpen && (
-        <div 
-          onClick={(e) => e.target.id === 'modal-overlay' && closeGame()}
+        <div
           id="modal-overlay"
-          className="fixed inset-0 z-[100] bg-slate-950/90 backdrop-blur-sm flex items-center justify-center p-4"
+          onClick={(e) => e.target.id === 'modal-overlay' && closeGame()}
+          className="fixed inset-0 z-[100] flex items-center justify-center bg-slate-950/90 p-4 backdrop-blur-sm"
         >
-          <div 
-            className="bg-slate-900 border border-slate-800 rounded-2xl shadow-2xl overflow-hidden relative transition-all duration-300 ease-in-out"
-            style={{ 
-              width: activeGame ? `${currentConfig.width}px` : '500px',
-              height: activeGame ? 'auto' : '400px' 
+          <div
+            className="relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-900 shadow-2xl transition-all duration-300 ease-in-out"
+            style={{
+              width: activeGame
+                ? activeGame === 'cardclash'
+                  ? 'min(1100px, calc(100vw - 2rem))'
+                  : `${currentConfig.width}px`
+                : '500px',
+              height: activeGame
+                ? activeGame === 'cardclash'
+                  ? 'min(92vh, 900px)'
+                  : `${currentConfig.height}px`
+                : '400px',
             }}
           >
-            {/* Header */}
-            <div className="flex justify-between items-center p-4 border-b border-slate-800 bg-slate-900">
-              <h2 className="text-xs font-black tracking-[0.3em] text-slate-400 uppercase">
+            <div className="flex items-center justify-between border-b border-slate-800 bg-slate-900 p-4">
+              <h2 className="text-xs font-black uppercase tracking-[0.3em] text-slate-400">
                 {activeGame ? currentConfig.title : 'System Arcade'}
               </h2>
               <button onClick={closeGame} className="text-slate-500 hover:text-white">
@@ -66,33 +89,47 @@ export default function GameOverlay() {
 
             <div className="flex flex-col items-center justify-center">
               {!activeGame ? (
-                <div className="grid grid-cols-2 gap-4 p-8 w-full">
-                  <button 
+                <div className="grid w-full grid-cols-1 gap-4 p-8 sm:grid-cols-3">
+                  <button
                     onClick={() => setActiveGame('asteroids')}
-                    className="group bg-slate-800/50 border border-slate-700 p-6 rounded-xl hover:bg-blue-600/20 hover:border-blue-500 transition-all"
+                    className="group rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition-all hover:border-blue-500 hover:bg-blue-600/20"
                   >
-                    <span className="text-3xl block mb-2">🚀</span>
-                    <span className="font-bold text-xs tracking-widest uppercase">Asteroids</span>
+                    <span className="mb-2 block text-3xl">🚀</span>
+                    <span className="text-xs font-bold uppercase tracking-widest">Asteroids</span>
                   </button>
-                  <button 
+                  <button
                     onClick={() => setActiveGame('bricklayer')}
-                    className="group bg-slate-800/50 border border-slate-700 p-6 rounded-xl hover:bg-orange-600/20 hover:border-orange-500 transition-all"
+                    className="group rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition-all hover:border-orange-500 hover:bg-orange-600/20"
                   >
-                    <span className="text-3xl block mb-2">🧱</span>
-                    <span className="font-bold text-xs tracking-widest uppercase">Brick Layer</span>
+                    <span className="mb-2 block text-3xl">🧱</span>
+                    <span className="text-xs font-bold uppercase tracking-widest">Brick Layer</span>
+                  </button>
+                  <button
+                    onClick={() => setActiveGame('cardclash')}
+                    className="group rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition-all hover:border-emerald-500 hover:bg-emerald-600/20"
+                  >
+                    <span className="mb-2 block text-3xl">🃏</span>
+                    <span className="text-xs font-bold uppercase tracking-widest">Durak</span>
+                    <span className="mt-2 block text-[10px] uppercase tracking-[0.2em] text-slate-500 group-hover:text-emerald-300">
+                      Multiplayer websocket
+                    </span>
                   </button>
                 </div>
+              ) : activeGame === 'cardclash' ? (
+                <div className="h-full w-full p-6 sm:p-8">
+                  <DurakBoard />
+                </div>
               ) : (
-                <div 
-                  className="bg-black relative"
-                  style={{ 
-                    width: `${currentConfig.width}px`, 
-                    height: `${currentConfig.height}px` 
+                <div
+                  className="relative bg-black"
+                  style={{
+                    width: `${currentConfig.width}px`,
+                    height: `${currentConfig.height}px`,
                   }}
                 >
-                  <iframe 
+                  <iframe
                     src={`/games/${currentConfig.path}`}
-                    className="w-full h-full"
+                    className="h-full w-full"
                     frameBorder="0"
                     scrolling="no"
                   />
