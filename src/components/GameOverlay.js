@@ -8,7 +8,7 @@ const DurakBoard = dynamic(() => import('./DurakBoard'), {
   ssr: false,
   loading: () => (
     <div className="flex h-full items-center justify-center rounded-[1.75rem] border border-slate-800 bg-slate-950/85 p-8 text-sm text-slate-400">
-      Подключаем Durak...
+      Loading Durak...
     </div>
   ),
 });
@@ -17,7 +17,6 @@ export default function GameOverlay() {
   const [isOpen, setIsOpen] = useState(false);
   const [activeGame, setActiveGame] = useState(null);
 
-  // Configuration for each game's unique dimensions
   const gameConfigs = {
     asteroids: {
       path: 'asteroids/index.html',
@@ -64,7 +63,7 @@ export default function GameOverlay() {
           className="fixed inset-0 z-[100] flex items-center justify-center bg-slate-950/90 p-4 backdrop-blur-sm"
         >
           <div
-            className="relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-900 shadow-2xl transition-all duration-300 ease-in-out"
+            className="relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-900 shadow-2xl transition-all duration-300 ease-in-out flex flex-col"
             style={{
               width: activeGame
                 ? activeGame === 'cardclash'
@@ -78,7 +77,7 @@ export default function GameOverlay() {
                 : '400px',
             }}
           >
-            <div className="flex items-center justify-between border-b border-slate-800 bg-slate-900 p-4">
+            <div className="flex items-center justify-between border-b border-slate-800 bg-slate-900 p-4 shrink-0">
               <h2 className="text-xs font-black uppercase tracking-[0.3em] text-slate-400">
                 {activeGame ? currentConfig.title : 'System Arcade'}
               </h2>
@@ -87,9 +86,9 @@ export default function GameOverlay() {
               </button>
             </div>
 
-            <div className="flex flex-col items-center justify-center">
+            <div className="flex min-h-0 flex-1 flex-col items-stretch justify-stretch overflow-hidden">
               {!activeGame ? (
-                <div className="grid w-full grid-cols-1 gap-4 p-8 sm:grid-cols-3">
+                <div className="grid w-full grid-cols-1 gap-4 overflow-y-auto p-8 pb-10 sm:grid-cols-3">
                   <button
                     onClick={() => setActiveGame('asteroids')}
                     className="group rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition-all hover:border-blue-500 hover:bg-blue-600/20"
@@ -116,12 +115,14 @@ export default function GameOverlay() {
                   </button>
                 </div>
               ) : activeGame === 'cardclash' ? (
-                <div className="h-full w-full p-6 sm:p-8">
-                  <DurakBoard />
+                <div className="flex-1 min-h-0 w-full overflow-y-auto p-6 pb-20 sm:p-8">
+                  <div className="min-h-full pb-16">
+                    <DurakBoard />
+                  </div>
                 </div>
               ) : (
                 <div
-                  className="relative bg-black"
+                  className="relative bg-black overflow-y-auto"
                   style={{
                     width: `${currentConfig.width}px`,
                     height: `${currentConfig.height}px`,

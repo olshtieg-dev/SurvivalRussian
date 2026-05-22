@@ -12,5 +12,9 @@ const DurakBoardClient = dynamic(() => import('./DurakBoardClient'), {
 });
 
 export default function DurakBoard() {
-  return <DurakBoardClient />;
+  return (
+    <div className="h-full min-h-0">
+      <DurakBoardClient />
+    </div>
+  );
 }

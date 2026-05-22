@@ -1,9 +1,20 @@
 'use client';
 
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useMemo, useState } from 'react';
 import { Client } from 'boardgame.io/react';
-import { SocketIO } from 'boardgame.io/multiplayer';
-import { AlertCircle, BadgeInfo, CirclePlay, Crown, Shuffle, Users, Wifi, WifiOff } from 'lucide-react';
+import { Local, SocketIO } from 'boardgame.io/multiplayer';
+import { MCTSBot, RandomBot } from 'boardgame.io/ai';
+import {
+  AlertCircle,
+  BadgeInfo,
+  CirclePlay,
+  Clock3,
+  Crown,
+  Shuffle,
+  Users,
+  Wifi,
+  WifiOff,
+} from 'lucide-react';
 
 const {
   DEFAULT_RULE_MODE,
@@ -15,11 +26,21 @@ const {
 } = require('../../lib/durak/game');
 
 const DURAK_SERVER = 'localhost:4001';
-const DURAK_STORAGE_KEY = 'survival-russian-durak-ui-v1';
-const DISPLAY_SEAT_NAMES = ['Alice', 'Bob', 'Charlie'];
+const STORAGE_KEY = 'survival-russian-durak-ui-v1';
+const SEAT_NAMES = ['Alice', 'Bob', 'Charlie'];
+const DIFFICULTIES = ['Easy', 'Normal', 'Hard'];
+const DIFFICULTY_DELAYS = {
+  Easy: 2800,
+  Normal: 2000,
+  Hard: 1400,
+};
+
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
 
 function seatLabelFromID(seatID) {
-  return DISPLAY_SEAT_NAMES[Number(seatID)] || `Player ${Number(seatID) + 1}`;
+  return SEAT_NAMES[Number(seatID)] || `Player ${Number(seatID) + 1}`;
 }
 
 function suitColorClass(suit) {
@@ -30,6 +51,66 @@ function suitAccentClass(suit) {
   return suit === 'hearts' || suit === 'diamonds'
     ? 'border-rose-300 bg-rose-50'
     : 'border-slate-300 bg-slate-50';
+}
+
+function PracticeBotClass(difficulty) {
+  const delay = DIFFICULTY_DELAYS[difficulty] ?? DIFFICULTY_DELAYS.Normal;
+
+  switch (difficulty) {
+    case 'Easy':
+      return class EasyBot extends RandomBot {
+        async play(state, playerID) {
+          await sleep(delay);
+          return super.play(state, playerID);
+        }
+      };
+    case 'Hard':
+      return class HardBot extends MCTSBot {
+        constructor(opts) {
+          super({ ...opts, iterations: 600, playoutDepth: 30 });
+        }
+
+        async play(state, playerID) {
+          await sleep(delay);
+          return super.play(state, playerID);
+        }
+      };
+    case 'Normal':
+    default:
+      return class NormalBot extends MCTSBot {
+        constructor(opts) {
+          super({ ...opts, iterations: 180, playoutDepth: 20 });
+        }
+
+        async play(state, playerID) {
+          await sleep(delay);
+          return super.play(state, playerID);
+        }
+      };
+  }
+}
+
+function createPracticeBots(humanSeat, difficulty) {
+  const Bot = PracticeBotClass(difficulty);
+  return SEAT_NAMES.reduce((bots, _, index) => {
+    const seat = String(index);
+    if (seat !== String(humanSeat)) {
+      bots[seat] = Bot;
+    }
+    return bots;
+  }, {});
+}
+
+function createPracticeTransport(humanSeat, difficulty) {
+  return Local({
+    bots: createPracticeBots(humanSeat, difficulty),
+    persist: true,
+    storageKey: `durak-practice-${difficulty.toLowerCase()}-${humanSeat}`,
+  });
+}
+
+function createOnlineTransport() {
+  return SocketIO({ server: DURAK_SERVER });
 }
 
 function CardFace({ card, selected = false, onClick, interactive = false, compact = false }) {
@@ -118,15 +199,28 @@ function StatusPill({ icon: Icon, label, value }) {
 }
 
 function DurakArena(props) {
-  const { G, ctx, moves, playerID, isConnected } = props;
+  const {
+    G,
+    ctx,
+    moves,
+    playerID,
+    isConnected,
+    practiceMode,
+    humanSeat,
+    aiDelay,
+  } = props;
   const [selectedCardId, setSelectedCardId] = useState(null);
   const myHand = G?.hands?.[playerID] || [];
   const selectedCard = myHand.find((card) => card.id === selectedCardId) || null;
   const isMyTurn = String(ctx?.currentPlayer) === String(playerID);
+  const isAIThinking = Boolean(
+    practiceMode && !G?.roundResult && String(ctx?.currentPlayer) !== String(humanSeat)
+  );
   const turnMode = G?.turnState?.mode || 'attack';
   const canAttack = Boolean(isMyTurn && turnMode === 'attack' && !G?.roundResult);
   const canDefend = Boolean(isMyTurn && turnMode === 'defend' && !G?.roundResult);
   const roundComplete = Boolean(G?.roundResult);
+  const discardTail = G?.discard?.slice(-1)?.[0] || null;
 
   const trumpCard = G?.trumpCard || null;
   const tablePairs = G?.table || [];
@@ -134,6 +228,7 @@ function DurakArena(props) {
   const tokens = G?.tokens || {};
   const activeSeatLabel = seatLabelFromID(ctx?.currentPlayer || playerID || '0');
   const ruleModeLabel = G?.ruleMode || DEFAULT_RULE_MODE;
+  const lastActionLabel = G?.turnState?.lastAction || 'start';
 
   const doAttack = () => {
     if (!selectedCard) return;
@@ -157,10 +252,8 @@ function DurakArena(props) {
     setSelectedCardId(null);
   };
 
-  const seatNames = DISPLAY_SEAT_NAMES;
-
   return (
-    <div className="flex h-full min-h-0 flex-col gap-4">
+    <div className="flex h-full min-h-0 flex-col gap-4 overflow-y-auto pr-2 pb-8 [scrollbar-gutter:stable]">
       <div className="rounded-[1.75rem] border border-slate-800 bg-slate-950/90 p-4 shadow-2xl shadow-slate-950/40">
         <div className="flex flex-wrap items-center justify-between gap-4">
           <div>
@@ -171,7 +264,7 @@ function DurakArena(props) {
             <p className="mt-2 max-w-3xl text-sm leading-relaxed text-slate-400">
               {roundComplete
                 ? `Durak: ${seatLabelFromID(G.roundResult?.durakPlayerID ?? '0')}. Token balances have been updated for all players.`
-                : `Mode ${ruleModeLabel}. The table syncs over websocket. Choose a card and press an action.`}
+                : `Mode ${ruleModeLabel}. The table syncs through either websocket play or local AI practice.`}
             </p>
           </div>
 
@@ -179,6 +272,13 @@ function DurakArena(props) {
             <StatusPill icon={isConnected ? Wifi : WifiOff} label="Network" value={isConnected ? 'Online' : 'Offline'} />
             <StatusPill icon={CirclePlay} label="Role" value={isMyTurn ? 'Your turn' : 'Waiting'} />
             <StatusPill icon={Crown} label="Trump" value={G?.trump ? SUIT_SYMBOLS[G.trump] : '—'} />
+            {isAIThinking ? (
+              <StatusPill
+                icon={CirclePlay}
+                label="AI"
+                value={`Thinking ${Math.round((aiDelay || 0) / 100) / 10}s`}
+              />
+            ) : null}
           </div>
         </div>
       </div>
@@ -209,7 +309,7 @@ function DurakArena(props) {
               Token balance
             </div>
             <div className="mt-4 space-y-3">
-              {seatNames.slice(0, G?.hands?.length || 0).map((name, index) => {
+              {SEAT_NAMES.slice(0, G?.hands?.length || 0).map((name, index) => {
                 const id = String(index);
                 return (
                   <div key={id} className="flex items-center justify-between rounded-2xl border border-slate-800 bg-slate-950/80 px-4 py-3">
@@ -246,17 +346,21 @@ function DurakArena(props) {
             )}
           </div>
 
-          <div className="mt-4 rounded-[1.5rem] border border-slate-800 bg-slate-900/60 p-4">
-            <div className="flex items-center justify-between gap-3">
-              <p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-400">Discard</p>
-              <div className="text-[10px] font-black uppercase tracking-[0.28em] text-slate-500">
-                {discardCount} cards
+          <div className="mt-4 rounded-[1.25rem] border border-slate-800 bg-slate-900/50 px-4 py-3">
+            <div className="flex flex-wrap items-center justify-between gap-3">
+              <div>
+                <p className="text-[10px] font-black uppercase tracking-[0.3em] text-slate-400">
+                  Discard
+                </p>
+                <p className="mt-1 text-xs text-slate-500">
+                  {discardCount
+                    ? `${discardCount} card${discardCount === 1 ? '' : 's'} in the pile.`
+                    : 'The discard pile is empty.'}
+                </p>
               </div>
-            </div>
-            <div className="mt-4 flex flex-wrap gap-2">
-              {G?.discard?.slice(-6).map((card) => (
-                <CardFace key={card.id} card={card} compact />
-              ))}
+              <div className="rounded-full border border-slate-800 bg-slate-950/80 px-3 py-2 text-[10px] font-black uppercase tracking-[0.24em] text-slate-400">
+                {discardTail ? `Latest: ${cardLabel(discardTail)}` : 'Hidden'}
+              </div>
             </div>
           </div>
         </section>
@@ -278,6 +382,19 @@ function DurakArena(props) {
               <p className="mt-4 text-sm text-slate-500">Pick a card from your hand to play.</p>
             )}
           </div>
+
+          {isAIThinking ? (
+            <div className="mt-4 rounded-[1.5rem] border border-amber-500/30 bg-amber-500/10 p-4 shadow-lg shadow-amber-950/20">
+              <div className="flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.28em] text-amber-200">
+                <Clock3 size={12} className="text-amber-300" />
+                AI timeout phase
+              </div>
+              <p className="mt-3 text-sm leading-relaxed text-amber-50/85">
+                The table is paused for about {Math.max(1, Math.ceil((aiDelay || 0) / 1000))} seconds so
+                you can watch the move resolve before the next player acts.
+              </p>
+            </div>
+          ) : null}
 
           <div className="mt-4 grid gap-3">
             <button
@@ -315,10 +432,13 @@ function DurakArena(props) {
           </div>
 
           <div className="mt-4 rounded-[1.5rem] border border-dashed border-slate-700 bg-slate-900/40 p-4 text-sm text-slate-400">
+            <p className="mb-2 text-[10px] font-black uppercase tracking-[0.3em] text-slate-500">
+              Last action: {lastActionLabel}
+            </p>
             {roundComplete ? (
               <p>
-                This round is closed. Token balances have already been updated. Use the mode switch
-                above to start a fresh match on the same server.
+                This round is closed. Token balances have already been updated. Change the mode or
+                start a new practice table if you want a fresh game.
               </p>
             ) : (
               <p>
@@ -363,42 +483,54 @@ function DurakArena(props) {
   );
 }
 
-const BoardClient = Client({
-  game: durakGame,
-  board: DurakArena,
-  multiplayer: SocketIO({ server: DURAK_SERVER }),
-  numPlayers: 3,
-  debug: false,
-  loading: () => (
-    <div className="flex h-full items-center justify-center rounded-[1.75rem] border border-slate-800 bg-slate-950/85 p-8 text-sm text-slate-400">
-      Connecting to the Durak table...
-    </div>
-  ),
-});
+function buildGameClient(multiplayer) {
+  return Client({
+    game: durakGame,
+    board: DurakArena,
+    multiplayer,
+    numPlayers: 3,
+    debug: false,
+    loading: () => (
+      <div className="flex h-full items-center justify-center rounded-[1.75rem] border border-slate-800 bg-slate-950/85 p-8 text-sm text-slate-400">
+        Connecting to the Durak table...
+      </div>
+    ),
+  });
+}
 
 export default function DurakBoardClient() {
   const [mounted, setMounted] = useState(false);
-  const [playerSeat, setPlayerSeat] = useState('0');
+  const [mode, setMode] = useState('practice');
   const [ruleMode, setRuleMode] = useState(DEFAULT_RULE_MODE);
+  const [playerSeat, setPlayerSeat] = useState('0');
+  const [difficulty, setDifficulty] = useState('Normal');
+  const [started, setStarted] = useState(false);
+  const [practiceSession, setPracticeSession] = useState(1);
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
 
     try {
-      const rawState = window.localStorage.getItem(DURAK_STORAGE_KEY);
+      const rawState = window.localStorage.getItem(STORAGE_KEY);
       if (rawState) {
         const parsed = JSON.parse(rawState);
         if (parsed && typeof parsed === 'object') {
-          if (['0', '1', '2'].includes(parsed.playerSeat)) {
-            setPlayerSeat(parsed.playerSeat);
+          if (parsed.mode === 'online' || parsed.mode === 'practice') {
+            setMode(parsed.mode);
           }
           if (parsed.ruleMode === 'Professional' || parsed.ruleMode === 'Standard') {
             setRuleMode(parsed.ruleMode);
           }
+          if (['0', '1', '2'].includes(parsed.playerSeat)) {
+            setPlayerSeat(parsed.playerSeat);
+          }
+          if (DIFFICULTIES.includes(parsed.difficulty)) {
+            setDifficulty(parsed.difficulty);
+          }
         }
       }
     } catch (error) {
-      // Ignore storage issues and fall back to defaults.
+      // Ignore storage problems and keep defaults.
     } finally {
       setMounted(true);
     }
@@ -409,18 +541,39 @@ export default function DurakBoardClient() {
 
     try {
       window.localStorage.setItem(
-        DURAK_STORAGE_KEY,
+        STORAGE_KEY,
         JSON.stringify({
-          playerSeat,
+          mode,
           ruleMode,
+          playerSeat,
+          difficulty,
         })
       );
     } catch (error) {
       // Keep the UI usable even if storage is blocked.
     }
-  }, [mounted, playerSeat, ruleMode]);
+  }, [mounted, mode, ruleMode, playerSeat, difficulty]);
 
-  const matchID = ruleMode === 'Professional' ? PROFESSIONAL_MATCH_ID : STANDARD_MATCH_ID;
+  useEffect(() => {
+    setStarted(false);
+  }, [mode, ruleMode, playerSeat, difficulty]);
+
+  const matchID =
+    mode === 'online'
+      ? ruleMode === 'Professional'
+        ? PROFESSIONAL_MATCH_ID
+        : STANDARD_MATCH_ID
+      : `practice-${ruleMode.toLowerCase()}-${difficulty.toLowerCase()}-${playerSeat}-${practiceSession}`;
+
+  const multiplayer = useMemo(() => {
+    if (mode === 'online') {
+      return createOnlineTransport();
+    }
+    return createPracticeTransport(playerSeat, difficulty);
+  }, [mode, playerSeat, difficulty]);
+
+  const GameClient = useMemo(() => buildGameClient(multiplayer), [multiplayer]);
+  const practiceDelay = DIFFICULTY_DELAYS[difficulty] ?? DIFFICULTY_DELAYS.Normal;
 
   return (
     <div className="flex h-full min-h-0 flex-col gap-4">
@@ -428,21 +581,46 @@ export default function DurakBoardClient() {
         <div className="flex flex-wrap items-center justify-between gap-4">
           <div>
             <p className="text-[10px] font-black uppercase tracking-[0.35em] text-blue-300">
-              Network Durak
+              Durak Table Setup
             </p>
             <h3 className="mt-2 text-2xl font-black uppercase tracking-[0.18em] text-white">
-              Choose a mode and seat
+              Join an online table or play against AI
             </h3>
             <p className="mt-2 max-w-2xl text-sm leading-relaxed text-slate-400">
-              This match runs through a separate boardgame.io websocket server. Open a second tab
-              and pick a different seat to test synchronization.
+              Online play uses the websocket server. Practice mode runs locally with AI bots so
+              you always have a playable fallback.
             </p>
           </div>
 
           <div className="flex items-center gap-2 rounded-full border border-slate-800 bg-slate-900 px-3 py-2 text-[10px] font-black uppercase tracking-[0.24em] text-slate-400">
             <Wifi size={12} className="text-emerald-300" />
-            {DURAK_SERVER}
+            {mode === 'online' ? DURAK_SERVER : `Practice ${difficulty}`}
           </div>
+        </div>
+
+        <div className="mt-4 flex flex-wrap items-center gap-2">
+          <button
+            type="button"
+            onClick={() => setMode('practice')}
+            className={`rounded-full border px-4 py-2 text-[10px] font-black uppercase tracking-[0.28em] transition-all ${
+              mode === 'practice'
+                ? 'border-emerald-500/40 bg-emerald-600/15 text-emerald-200'
+                : 'border-slate-800 bg-slate-900 text-slate-400 hover:text-white'
+            }`}
+          >
+            Play vs AI
+          </button>
+          <button
+            type="button"
+            onClick={() => setMode('online')}
+            className={`rounded-full border px-4 py-2 text-[10px] font-black uppercase tracking-[0.28em] transition-all ${
+              mode === 'online'
+                ? 'border-blue-500/40 bg-blue-600/15 text-blue-200'
+                : 'border-slate-800 bg-slate-900 text-slate-400 hover:text-white'
+            }`}
+          >
+            Join Online Table
+          </button>
         </div>
 
         <div className="mt-4 flex flex-wrap items-center gap-2">
@@ -470,8 +648,27 @@ export default function DurakBoardClient() {
           </button>
         </div>
 
+        {mode === 'practice' && (
+          <div className="mt-4 flex flex-wrap items-center gap-2">
+            {DIFFICULTIES.map((level) => (
+              <button
+                key={level}
+                type="button"
+                onClick={() => setDifficulty(level)}
+                className={`rounded-full border px-4 py-2 text-[10px] font-black uppercase tracking-[0.28em] transition-all ${
+                  difficulty === level
+                    ? 'border-amber-500/40 bg-amber-600/15 text-amber-200'
+                    : 'border-slate-800 bg-slate-900 text-slate-400 hover:text-white'
+                }`}
+              >
+                {level}
+              </button>
+            ))}
+          </div>
+        )}
+
         <div className="mt-4 flex flex-wrap items-center gap-2">
-          {DISPLAY_SEAT_NAMES.map((name, index) => (
+          {SEAT_NAMES.map((name, index) => (
             <button
               key={name}
               type="button"
@@ -486,23 +683,57 @@ export default function DurakBoardClient() {
             </button>
           ))}
         </div>
+
+        <div className="mt-5 flex flex-wrap items-center gap-3">
+          <button
+            type="button"
+            onClick={() => {
+              if (mode === 'practice') {
+                setPracticeSession((current) => current + 1);
+              }
+              setStarted(true);
+            }}
+            className="rounded-2xl border border-emerald-500/30 bg-emerald-600/15 px-4 py-3 text-sm font-black uppercase tracking-[0.24em] text-emerald-200 transition-all hover:bg-emerald-600/25"
+          >
+            {mode === 'online' ? 'Join Table' : 'Shuffle & Deal'}
+          </button>
+          {started && (
+            <button
+              type="button"
+              onClick={() => setStarted(false)}
+              className="rounded-2xl border border-slate-700 bg-slate-900 px-4 py-3 text-sm font-black uppercase tracking-[0.24em] text-slate-200 transition-all hover:bg-slate-800"
+            >
+              Leave Table
+            </button>
+          )}
+          <p className="text-xs text-slate-500">
+            Seat: {seatLabelFromID(playerSeat)}. Mode: {mode === 'online' ? 'online' : 'practice'}.
+            {mode === 'practice' ? ' Each start creates a fresh shuffled deck.' : ''}
+          </p>
+        </div>
       </div>
 
       <div className="min-h-0 flex-1 overflow-hidden rounded-[1.75rem] border border-slate-800 bg-slate-950/80 p-4 shadow-2xl shadow-slate-950/40">
-        {mounted ? (
-          <BoardClient
-            key={`${matchID}-${playerSeat}`}
+        {mounted && started ? (
+          <GameClient
+            key={`${mode}-${matchID}-${playerSeat}-${difficulty}`}
             matchID={matchID}
             playerID={playerSeat}
             credentials=""
             debug={false}
+            practiceMode={mode === 'practice'}
+            humanSeat={playerSeat}
+            aiDelay={practiceDelay}
           />
         ) : (
           <div className="flex h-full items-center justify-center rounded-[1.5rem] border border-dashed border-slate-700 bg-slate-900/40 p-8 text-sm text-slate-400">
-            Preparing the network table...
+            {mode === 'online'
+              ? 'Click Join Table to connect to the websocket game.'
+              : 'Click Shuffle & Deal to start a fresh local AI table.'}
           </div>
         )}
       </div>
+      <div className="h-6 shrink-0" aria-hidden="true" />
     </div>
   );
 }
