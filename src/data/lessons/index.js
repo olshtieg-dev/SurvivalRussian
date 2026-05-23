@@ -4,6 +4,7 @@ import casesNounLessons from './cases-noun-conjugation.json';
 import groceryLessons from './grocery-shopping.json';
 import kitchenLessons from './kitchen-cooking.json';
 import householdLessons from './household-items.json';
+import { conversationLessonSets, conversationFolder } from './conversation';
 import { lexicalLessonSets, lexicalSetFolder } from './lexical-sets';
 import { nounsLessonSets, nounsFolder, nounsGroupFolders } from './nouns';
 import { verbsLessonSets, verbsFolder, verbsGroupFolders } from './verbs';
@@ -105,6 +106,7 @@ export const lessonSets = [
     description: 'Daily home objects and small errands around the house.',
     missions: householdLessons,
   },
+  ...conversationLessonSets,
   {
     id: randomVocabularyLessonSetId,
     label: 'Random Vocab',
@@ -140,6 +142,7 @@ export const defaultLessonSetId = lessonSets[0]?.id || 'mission';
 
 export const lessonFolders = [
   lexicalSetFolder,
+  conversationFolder,
   nounsFolder,
   ...nounsGroupFolders,
   verbsFolder,

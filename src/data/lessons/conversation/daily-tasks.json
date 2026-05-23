@@ -1,0 +1,35 @@
+[
+  {
+    "id": "CV-DT",
+    "label": "Daily Tasks",
+    "badge": "DT",
+    "description": "Everyday to-do language for errands, reminders, schedules, and simple planning.",
+    "missions": [
+      {
+        "id": "CV-DT-01",
+        "phrase": "мне нужно купить хлеб",
+        "fullAnalysis": "Strategic focus: Errand planning. 1. 'Мне нужно' is the standard necessity construction. 2. 'Купить хлеб' is a very practical real-life task. 3. This sentence belongs in any everyday survival deck."
+      },
+      {
+        "id": "CV-DT-02",
+        "phrase": "я должен позвонить маме",
+        "fullAnalysis": "Strategic focus: Obligation. 1. 'Я должен' expresses a clear task or responsibility. 2. 'Позвонить маме' gives the line a personal, realistic goal. 3. This is useful for describing plans and reminders."
+      },
+      {
+        "id": "CV-DT-03",
+        "phrase": "сегодня я убираю комнату",
+        "fullAnalysis": "Strategic focus: Current task. 1. 'Сегодня' anchors the action in the present day. 2. 'Я убираю' is a basic first-person task verb. 3. 'Комнату' makes the chore concrete and easy to visualize."
+      },
+      {
+        "id": "CV-DT-04",
+        "phrase": "после работы я иду в магазин",
+        "fullAnalysis": "Strategic focus: Routine schedule. 1. 'После работы' gives a natural time sequence. 2. 'Я иду' is the basic motion verb for walking somewhere. 3. 'В магазин' is one of the most common everyday destinations."
+      },
+      {
+        "id": "CV-DT-05",
+        "phrase": "я записываю дела на завтра",
+        "fullAnalysis": "Strategic focus: Planning ahead. 1. 'Я записываю' shows an intentional planning action. 2. 'Дела' is a broad but very useful word for tasks. 3. 'На завтра' makes the sentence about future organization rather than immediate action."
+      }
+    ]
+  }
+]

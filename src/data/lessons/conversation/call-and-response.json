@@ -1,0 +1,35 @@
+[
+  {
+    "id": "CV-CR",
+    "label": "Call and Response",
+    "badge": "CR",
+    "description": "Short request-and-reply lines for quick help, acknowledgements, and easy spoken responses.",
+    "missions": [
+      {
+        "id": "CV-CR-01",
+        "phrase": "можешь открыть дверь? да, сейчас",
+        "fullAnalysis": "Strategic focus: Request and reply. 1. 'Можешь' makes the request direct but still friendly. 2. 'Открыть дверь' is a concrete action that is easy to picture. 3. 'Да, сейчас' gives the answer half of the exchange, so the line works like a tiny dialogue."
+      },
+      {
+        "id": "CV-CR-02",
+        "phrase": "я понял, уже иду",
+        "fullAnalysis": "Strategic focus: Quick acknowledgement. 1. 'Я понял' is the basic 'got it' response in everyday Russian. 2. 'Уже иду' adds immediate action and keeps the pace of the exchange moving. 3. This is the kind of line you say when someone needs help right away."
+      },
+      {
+        "id": "CV-CR-03",
+        "phrase": "повтори, пожалуйста, я не услышал",
+        "fullAnalysis": "Strategic focus: Repair and clarification. 1. 'Повтори, пожалуйста' is a polite way to ask for repetition. 2. 'Я не услышал' gives the reason without sounding harsh. 3. This line is useful any time the first pass of a conversation needs another try."
+      },
+      {
+        "id": "CV-CR-04",
+        "phrase": "окей, сейчас сделаю",
+        "fullAnalysis": "Strategic focus: Immediate acceptance. 1. 'Окей' keeps the tone casual and natural. 2. 'Сейчас сделаю' shows that the action will happen right away. 3. This is a strong response pattern for simple household or work requests."
+      },
+      {
+        "id": "CV-CR-05",
+        "phrase": "всё, готово",
+        "fullAnalysis": "Strategic focus: Completion. 1. 'Всё' is a short closure marker that feels very natural in spoken Russian. 2. 'Готово' confirms the task is finished. 3. This is the clean ending line for a call-and-response exchange."
+      }
+    ]
+  }
+]

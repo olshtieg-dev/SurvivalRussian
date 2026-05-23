@@ -58,6 +58,17 @@ function getStartingWordKey(missions) {
   return getVocabularyKeyForPhrase(phrase);
 }
 
+function getCursorWordKey(phrase, currentWordIndex = 0) {
+  const wordsInPhrase = typeof phrase === 'string' ? phrase.split(' ') : [];
+  const targetWord = wordsInPhrase[currentWordIndex] || wordsInPhrase[0] || '';
+
+  return (
+    findVocabularyKey(targetWord) ||
+    normalizeVocabularyKey(targetWord) ||
+    targetWord
+  );
+}
+
 function clampMissionIndex(index, missionCount) {
   if (!Number.isInteger(index)) return 0;
   if (missionCount <= 0) return 0;
@@ -125,7 +136,7 @@ export default function Home() {
   const currentPhrase = currentMission?.phrase || '';
   const currentLessonLabel = isMorphologyActive ? 'Morphology Lab' : currentLessonSet?.label || 'Lesson Set';
 
-  const resetSystem = useCallback((missionList, index) => {
+  const resetSystem = useCallback((missionList, index, lessonSetId = selectedLessonSetId) => {
     setIsMissionComplete(false);
     setLastPlayedIndex(-1);
     setVoiceFeedback({ transcript: '', analysis: '' });
@@ -133,15 +144,16 @@ export default function Home() {
     const nextMission = missionList[index] || {};
     const focusWord = nextMission.focusWord || nextMission.word || '';
     const nextPhrase = nextMission.phrase || '';
-    const nextWordKey =
-      findVocabularyKey(focusWord) ||
-      focusWord ||
-      getVocabularyKeyForPhrase(nextPhrase) ||
-      normalizeVocabularyKey(nextPhrase.split(' ')[0] || '') ||
-      nextPhrase.split(' ')[0] ||
-      '';
+    const nextWordKey = lessonSetId === frequencyGulagLessonSetId
+      ? getCursorWordKey(nextPhrase, 0)
+      : findVocabularyKey(focusWord) ||
+        focusWord ||
+        getVocabularyKeyForPhrase(nextPhrase) ||
+        normalizeVocabularyKey(nextPhrase.split(' ')[0] || '') ||
+        nextPhrase.split(' ')[0] ||
+        '';
     setActiveWordKey(nextWordKey);
-  }, []);
+  }, [selectedLessonSetId]);
 
   const selectLessonSet = useCallback((lessonSetId) => {
     const nextLessonSet = getLessonSet(lessonSetId);
@@ -160,7 +172,7 @@ export default function Home() {
     setActiveSurface('typing');
     setSelectedLessonSetId(nextLessonSet.id);
     setMissionIndex(0);
-    resetSystem(nextMissions, 0);
+    resetSystem(nextMissions, 0, nextLessonSet.id);
     setIsLessonSelectorOpen(false);
   }, [resetSystem]);
 
@@ -183,7 +195,7 @@ export default function Home() {
     if (missionIndex < missions.length - 1) {
       const newIndex = missionIndex + 1;
       setMissionIndex(newIndex);
-      resetSystem(missions, newIndex);
+      resetSystem(missions, newIndex, currentLessonSet.id);
       return;
     }
 
@@ -194,7 +206,7 @@ export default function Home() {
         [currentLessonSet.id]: nextBatch,
       }));
       setMissionIndex(0);
-      resetSystem(nextBatch, 0);
+      resetSystem(nextBatch, 0, currentLessonSet.id);
     }
   }, [currentLessonSet, isRollingLessonSet, missionIndex, missions, resetSystem]);
 
@@ -202,9 +214,9 @@ export default function Home() {
     if (missionIndex > 0) {
       const newIndex = missionIndex - 1;
       setMissionIndex(newIndex);
-      resetSystem(missions, newIndex);
+      resetSystem(missions, newIndex, currentLessonSet.id);
     }
-  }, [missionIndex, missions, resetSystem]);
+  }, [currentLessonSet, missionIndex, missions, resetSystem]);
 
   const randomMission = useCallback(() => {
     if (!missions.length) return;
@@ -216,7 +228,7 @@ export default function Home() {
         [currentLessonSet.id]: nextBatch,
       }));
       setMissionIndex(0);
-      resetSystem(nextBatch, 0);
+      resetSystem(nextBatch, 0, currentLessonSet.id);
       return;
     }
 
@@ -226,7 +238,7 @@ export default function Home() {
     } while (newIndex === missionIndex && missions.length > 1);
 
     setMissionIndex(newIndex);
-    resetSystem(missions, newIndex);
+    resetSystem(missions, newIndex, currentLessonSet.id);
   }, [currentLessonSet, isRollingLessonSet, missionIndex, missions, resetSystem]);
 
   useEffect(() => {
@@ -369,7 +381,12 @@ export default function Home() {
       }
     }
 
-    if (selectedLessonSetId !== frequencyGulagLessonSetId) {
+    if (selectedLessonSetId === frequencyGulagLessonSetId) {
+      const matchedWordKey = getCursorWordKey(currentPhrase, currentWordIndex);
+      if (matchedWordKey) {
+        setActiveWordKey(matchedWordKey);
+      }
+    } else {
       const matchedWordKey =
         findVocabularyKey(currentPhrase) ||
         findVocabularyKey(targetWord) ||

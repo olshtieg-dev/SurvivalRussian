@@ -1,0 +1,35 @@
+[
+  {
+    "id": "CV-CH",
+    "label": "Chores",
+    "badge": "CH",
+    "description": "Practical home chores for cleaning, tidying, trash, and basic upkeep language.",
+    "missions": [
+      {
+        "id": "CV-CH-01",
+        "phrase": "я мою посуду",
+        "fullAnalysis": "Strategic focus: Dishwashing. 1. 'Мою' is a very common first-person household verb. 2. 'Посуду' is a practical object noun that learners need constantly. 3. This is a simple, high-frequency chore sentence."
+      },
+      {
+        "id": "CV-CH-02",
+        "phrase": "мы выносим мусор",
+        "fullAnalysis": "Strategic focus: Shared responsibility. 1. 'Мы выносим' keeps the sentence in plural form. 2. 'Мусор' is an everyday home vocabulary item. 3. This is the sort of line you hear in family routines."
+      },
+      {
+        "id": "CV-CH-03",
+        "phrase": "я пылесошу пол",
+        "fullAnalysis": "Strategic focus: Cleaning action. 1. 'Пылесошу' is a useful household verb for vacuuming. 2. 'Пол' keeps the sentence concrete and easy to picture. 3. This phrase broadens the chore vocabulary beyond basic washing and tidying."
+      },
+      {
+        "id": "CV-CH-04",
+        "phrase": "нужно помыть ванну",
+        "fullAnalysis": "Strategic focus: Impersonal task. 1. 'Нужно' turns the sentence into a general task that needs doing. 2. 'Помыть' gives a completed-action goal. 3. 'Ванну' is a common bathroom chore object, so the sentence feels very usable."
+      },
+      {
+        "id": "CV-CH-05",
+        "phrase": "я убираю на кухне",
+        "fullAnalysis": "Strategic focus: Room-based cleanup. 1. 'Я убираю' is a broad and reusable cleaning verb. 2. 'На кухне' gives the location and makes the chore feel realistic. 3. This is a strong umbrella sentence for household cleaning."
+      }
+    ]
+  }
+]

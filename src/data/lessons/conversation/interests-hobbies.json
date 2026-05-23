@@ -1,0 +1,35 @@
+[
+  {
+    "id": "CV-IH",
+    "label": "Interests & Hobbies",
+    "badge": "IH",
+    "description": "Simple interest statements for reading, music, sports, and low-stress personal conversation.",
+    "missions": [
+      {
+        "id": "CV-IH-01",
+        "phrase": "я люблю читать книги",
+        "fullAnalysis": "Strategic focus: Personal interest. 1. 'Я люблю' is the basic way to express a hobby or preference. 2. 'Читать книги' gives a clear, everyday activity. 3. This is a strong first sentence for talking about yourself."
+      },
+      {
+        "id": "CV-IH-02",
+        "phrase": "мне нравится слушать музыку",
+        "fullAnalysis": "Strategic focus: Preference expression. 1. 'Мне нравится' is a very common Russian pattern for likes. 2. 'Слушать музыку' is concrete and high-frequency. 3. The sentence is easy to reuse with many other hobbies."
+      },
+      {
+        "id": "CV-IH-03",
+        "phrase": "по выходным я играю в футбол",
+        "fullAnalysis": "Strategic focus: Routine hobby. 1. 'По выходным' anchors the activity in a regular schedule. 2. 'Я играю' keeps the sentence personal and simple. 3. 'В футбол' gives a common social activity that most learners can picture quickly."
+      },
+      {
+        "id": "CV-IH-04",
+        "phrase": "я увлекаюсь фотографией",
+        "fullAnalysis": "Strategic focus: Interest vocabulary. 1. 'Увлекаюсь' is a natural verb for being interested in something. 2. 'Фотографией' gives a concrete hobby noun in the instrumental case. 3. This helps the deck move beyond only 'I like' statements."
+      },
+      {
+        "id": "CV-IH-05",
+        "phrase": "вечером я рисую и читаю",
+        "fullAnalysis": "Strategic focus: Quiet evening activities. 1. 'Вечером' gives the line a time frame. 2. 'Рисую и читаю' combines two simple hobbies in one sentence. 3. This is a useful everyday pattern for describing how you spend free time."
+      }
+    ]
+  }
+]
