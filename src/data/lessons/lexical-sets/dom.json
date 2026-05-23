@@ -1,0 +1,60 @@
+[
+  {
+    "id": "LX-DOM",
+    "label": "Дом",
+    "badge": "ДО",
+    "description": "House and home sentences for the most common everyday surroundings.",
+    "missions": [
+      {
+        "id": "LX-DOM-01",
+        "phrase": "мой дом большой",
+        "fullAnalysis": "Strategic focus: Basic description. 1. 'Мой' marks the noun as yours. 2. 'Дом' is the core target word. 3. 'Большой' gives a simple but natural property description."
+      },
+      {
+        "id": "LX-DOM-02",
+        "phrase": "я иду домой",
+        "fullAnalysis": "Strategic focus: Movement toward home. 1. 'Иду' is the walking motion verb. 2. 'Домой' is the natural destination form for 'home'. 3. This sentence is highly practical and common in speech."
+      },
+      {
+        "id": "LX-DOM-03",
+        "phrase": "в доме тепло",
+        "fullAnalysis": "Strategic focus: Location and state. 1. 'В доме' places the sentence inside the house. 2. 'Тепло' is a useful state word. 3. The structure is short and extremely reusable."
+      },
+      {
+        "id": "LX-DOM-04",
+        "phrase": "у меня есть дом",
+        "fullAnalysis": "Strategic focus: Possession. 1. 'У меня есть' is the standard possession pattern. 2. 'Дом' stays concrete and familiar. 3. This sentence helps the learner hear and use a very common Russian structure."
+      },
+      {
+        "id": "LX-DOM-05",
+        "phrase": "дом стоит на улице",
+        "fullAnalysis": "Strategic focus: Placement. 1. 'Дом' is the noun under focus. 2. 'Стоит' gives a static location frame. 3. 'На улице' makes the sentence practical and spatially clear."
+      },
+      {
+        "id": "LX-DOM-06",
+        "phrase": "в этом доме тихо",
+        "fullAnalysis": "Strategic focus: Demonstrative location. 1. 'В этом доме' points to a specific house. 2. 'Тихо' adds a natural environmental description. 3. This is a great pattern for real-life observations."
+      },
+      {
+        "id": "LX-DOM-07",
+        "phrase": "дом рядом со школой",
+        "fullAnalysis": "Strategic focus: Relative location. 1. 'Рядом' is a very common location word. 2. 'Со школой' teaches a practical spatial relation. 3. This sentence sounds like something you'd hear in directions or neighborhood talk."
+      },
+      {
+        "id": "LX-DOM-08",
+        "phrase": "я люблю этот дом",
+        "fullAnalysis": "Strategic focus: Emotional evaluation. 1. 'Люблю' gives the learner a high-frequency first-person verb. 2. 'Этот дом' ties the demonstrative to the target noun. 3. This sentence is short, usable, and natural."
+      },
+      {
+        "id": "LX-DOM-09",
+        "phrase": "дом у реки",
+        "fullAnalysis": "Strategic focus: Simple descriptive phrase. 1. 'Дом' stays central. 2. 'У реки' gives a useful location construction. 3. This is a compact way to train noun + preposition combinations."
+      },
+      {
+        "id": "LX-DOM-10",
+        "phrase": "мы вернулись домой",
+        "fullAnalysis": "Strategic focus: Return motion. 1. 'Вернулись' is a completed return action. 2. 'Домой' again reinforces the destination form for 'home'. 3. This sentence is practical for everyday storytelling."
+      }
+    ]
+  }
+]

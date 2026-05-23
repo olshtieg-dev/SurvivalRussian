@@ -1,0 +1,16 @@
+[
+  {
+    "id": "VB-BYT",
+    "label": "Быть",
+    "badge": "BE",
+    "description": "Scaffold verb card for irregular survival grammar. Expand each person into five sentences for the full 30-line deck.",
+    "missions": [
+      { "id": "VB-BYT-01", "phrase": "я был дома", "fullAnalysis": "Strategic focus: Past tense. 1. 'Был' is the masculine past form. 2. 'Дома' gives a natural location. 3. This is one of the most useful survival patterns." },
+      { "id": "VB-BYT-02", "phrase": "ты была занята", "fullAnalysis": "Strategic focus: Feminine past tense. 1. 'Была' changes with gender. 2. 'Занята' is a concise state adjective. 3. The sentence is practical for everyday conversation." },
+      { "id": "VB-BYT-03", "phrase": "он будет готов", "fullAnalysis": "Strategic focus: Future form. 1. 'Будет' is the irregular future stem. 2. 'Готов' gives a clear state result. 3. This is a core planning sentence." },
+      { "id": "VB-BYT-04", "phrase": "мы были там", "fullAnalysis": "Strategic focus: Plural past tense. 1. 'Были' is the plural past form. 2. 'Там' is a short and useful location adverb. 3. The sentence is compact and reusable." },
+      { "id": "VB-BYT-05", "phrase": "вы будете готовы", "fullAnalysis": "Strategic focus: Polite/plural future. 1. 'Будете' is the plural future form. 2. 'Готовы' keeps the outcome clear. 3. This is useful for planning and instruction." },
+      { "id": "VB-BYT-06", "phrase": "они будут здесь", "fullAnalysis": "Strategic focus: Third-person plural future. 1. 'Будут' closes the irregular scaffold. 2. 'Здесь' makes the sentence easy to visualize. 3. This is a clean ending point for the card." }
+    ]
+  }
+]

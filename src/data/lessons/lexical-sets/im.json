@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-IM",
+    "label": "Им",
+    "badge": "DAT",
+    "description": "Dative sentences that train 'to them' / 'for them' as recipient, experiencer, and possessor.",
+    "missions": [
+      { "id": "LX-IM-01", "phrase": "им нужна вода", "fullAnalysis": "Strategic focus: Need construction. 1. 'Им' marks the person who needs something. 2. 'Нужна' agrees with the feminine noun 'вода'. 3. This is one of the most useful survival phrases in the language." },
+      { "id": "LX-IM-02", "phrase": "им нужен чай", "fullAnalysis": "Strategic focus: Gender agreement in the predicate. 1. 'Им' stays in the dative. 2. 'Нужен' changes because 'чай' is masculine. 3. This sentence teaches that the predicate adapts to the noun being needed." },
+      { "id": "LX-IM-03", "phrase": "им нужно время", "fullAnalysis": "Strategic focus: Neuter need construction. 1. 'Им' is the experiencer. 2. 'Нужно' matches the neuter noun 'время'. 3. The sentence is clean, compact, and very common in real speech." },
+      { "id": "LX-IM-04", "phrase": "им нравится этот дом", "fullAnalysis": "Strategic focus: Verb of liking with dative experiencer. 1. 'Им' is the one who likes something. 2. 'Нравится' stays singular because 'дом' is singular. 3. 'Этот дом' stays concrete and easy to picture." },
+      { "id": "LX-IM-05", "phrase": "им кажется, что он прав", "fullAnalysis": "Strategic focus: Perception and opinion. 1. 'Им кажется' is a fixed Russian frame for personal impression. 2. 'Что он прав' adds a full clause. 3. This sentence is useful because it sounds like real spoken Russian." },
+      { "id": "LX-IM-06", "phrase": "им холодно", "fullAnalysis": "Strategic focus: Experiencer predicate. 1. 'Им' marks the person experiencing the state. 2. 'Холодно' is the predicate and does not agree with gender the way English adjectives do. 3. This is a very important Russian pattern to internalize." },
+      { "id": "LX-IM-07", "phrase": "им жарко", "fullAnalysis": "Strategic focus: Weather-like bodily state. 1. 'Им' stays in dative. 2. 'Жарко' is an impersonal predicate. 3. The sentence shows how Russian often talks about internal states without a direct subject pronoun." },
+      { "id": "LX-IM-08", "phrase": "им скучно дома", "fullAnalysis": "Strategic focus: Emotion plus location. 1. 'Им' marks the experiencer. 2. 'Скучно' is an impersonal predicate. 3. 'Дома' makes the sentence feel natural and practical." },
+      { "id": "LX-IM-09", "phrase": "им дали книгу", "fullAnalysis": "Strategic focus: Dative recipient with past tense. 1. 'Им' is the recipient. 2. 'Дали' is plural past tense and does not name the giver. 3. 'Книгу' is the direct object and keeps the sentence concrete." },
+      { "id": "LX-IM-10", "phrase": "им прислали письмо", "fullAnalysis": "Strategic focus: Dative recipient plus direct object. 1. 'Им' marks the person receiving the message. 2. 'Прислали' is plural past tense. 3. 'Письмо' is the delivered item." },
+      { "id": "LX-IM-11", "phrase": "им сказали правду", "fullAnalysis": "Strategic focus: Reported information. 1. 'Им' is the recipient of the statement. 2. 'Сказали' keeps the giver unspecified. 3. 'Правду' is a direct object and makes the sentence feel conversational." },
+      { "id": "LX-IM-12", "phrase": "им помогли друзья", "fullAnalysis": "Strategic focus: Assistance with plural subject. 1. 'Им' marks the person who receives help. 2. 'Помогли' is plural past tense. 3. 'Друзья' gives the sentence a human and practical meaning." },
+      { "id": "LX-IM-13", "phrase": "им звонят каждый день", "fullAnalysis": "Strategic focus: Ongoing action directed at the listener. 1. 'Им' is the target of the calls. 2. 'Звонят' is plural present tense. 3. 'Каждый день' gives useful time-frequency information." },
+      { "id": "LX-IM-14", "phrase": "им пишут из дома", "fullAnalysis": "Strategic focus: Receiving communication. 1. 'Им' is the recipient. 2. 'Пишут' stays plural and unspecified. 3. 'Из дома' adds a source phrase and makes the sentence feel real." },
+      { "id": "LX-IM-15", "phrase": "им пора идти", "fullAnalysis": "Strategic focus: Need to leave. 1. 'Им пора' is a fixed Russian structure for obligation or readiness. 2. 'Идти' keeps the sentence grounded in motion. 3. This is a very high-value conversational phrase." },
+      { "id": "LX-IM-16", "phrase": "им приятно это слышать", "fullAnalysis": "Strategic focus: Emotional response. 1. 'Им приятно' is an impersonal predicate with dative experiencer. 2. 'Это слышать' gives a full response clause. 3. This sentence is great for natural conversational fluency." },
+      { "id": "LX-IM-17", "phrase": "им нужна помощь", "fullAnalysis": "Strategic focus: Need plus abstract noun. 1. 'Им нужна' is the standard need pattern. 2. 'Помощь' is a feminine noun, so the predicate agrees with it. 3. This is a critical practical sentence in any language." },
+      { "id": "LX-IM-18", "phrase": "им не хватает времени", "fullAnalysis": "Strategic focus: Lack construction. 1. 'Им не хватает' is a fixed Russian pattern for shortage. 2. 'Времени' appears in genitive after the lack expression. 3. This is a very useful sentence for describing limited resources." },
+      { "id": "LX-IM-19", "phrase": "им интересно слушать нас", "fullAnalysis": "Strategic focus: Interest plus infinitive phrase. 1. 'Им интересно' marks personal curiosity or interest. 2. 'Слушать нас' gives the reason. 3. The sentence is useful because it combines a dative experiencer with another object-form pronoun." },
+      { "id": "LX-IM-20", "phrase": "им нужен билет на поезд", "fullAnalysis": "Strategic focus: Need plus concrete object. 1. 'Им нужен' agrees with 'билет', which is masculine. 2. 'На поезд' adds a travel purpose phrase. 3. This is a very practical sentence for travel and ticket buying." }
+    ]
+  }
+]

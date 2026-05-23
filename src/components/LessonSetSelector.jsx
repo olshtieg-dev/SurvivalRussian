@@ -1,10 +1,11 @@
 'use client';
 
-import React from 'react';
-import { Bot, ChevronDown, ChevronRight, GitBranchPlus, Layers3, Lock } from 'lucide-react';
+import React, { useMemo, useState } from 'react';
+import { ArrowLeft, Bot, ChevronDown, ChevronRight, GitBranchPlus, Layers3, Lock } from 'lucide-react';
 
 export default function LessonSetSelector({
   lessonSets,
+  lessonFolders = [],
   selectedLessonSetId,
   isOpen,
   isMorphologyActive,
@@ -13,6 +14,30 @@ export default function LessonSetSelector({
   onSelectLessonSet,
   onOpenMorphologyLab,
 }) {
+  const [activeFolderId, setActiveFolderId] = useState(null);
+
+  const visibleLessonSets = useMemo(
+    () => lessonSets.filter((lessonSet) => !lessonSet.hiddenInMainMenu),
+    [lessonSets]
+  );
+
+  const activeFolder = lessonFolders.find((folder) => folder.id === activeFolderId) || null;
+  const parentFolder = activeFolder
+    ? lessonFolders.find((folder) => folder.id === activeFolder.parentId) || null
+    : null;
+  const rootFolders = useMemo(
+    () => lessonFolders.filter((folder) => !folder.parentId),
+    [lessonFolders]
+  );
+  const folderLessonSets = useMemo(() => {
+    if (!activeFolder) return [];
+    return lessonSets.filter((lessonSet) => lessonSet.groupId === activeFolder.id);
+  }, [activeFolder, lessonSets]);
+  const childFolders = useMemo(() => {
+    if (!activeFolder) return [];
+    return lessonFolders.filter((folder) => folder.parentId === activeFolder.id);
+  }, [activeFolder, lessonFolders]);
+
   return (
     <div className="w-full px-2">
       <button
@@ -41,95 +66,211 @@ export default function LessonSetSelector({
         <div className="overflow-hidden">
           <div className="max-h-[32rem] overflow-y-auto overscroll-contain pr-1 scroll-smooth snap-y snap-mandatory custom-scrollbar">
             <div className="flex flex-col gap-2">
-            {lessonSets.map((lessonSet) => {
-              const isSelected = lessonSet.id === selectedLessonSetId;
+              {activeFolder ? (
+                <>
+                  <button
+                    type="button"
+                    onClick={() => setActiveFolderId(parentFolder ? parentFolder.id : null)}
+                    className="snap-start rounded-xl border border-slate-800 bg-slate-950/60 px-3 py-2 text-left transition-all hover:border-slate-700 hover:bg-slate-800/80"
+                  >
+                    <span className="flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.25em] text-slate-300">
+                      <ArrowLeft size={12} className="shrink-0" />
+                      {parentFolder ? `Back to ${parentFolder.label}` : 'Back to lesson cards'}
+                    </span>
+                  </button>
 
-              return (
-                <button
-                  key={lessonSet.id}
-                  type="button"
-                  onClick={() => onSelectLessonSet(lessonSet.id)}
-                  className={`snap-start rounded-xl border px-3 py-2 text-left transition-all ${
-                    isSelected
-                      ? 'border-blue-500 bg-blue-600/15 text-white shadow-[0_0_18px_rgba(37,99,235,0.18)]'
-                      : 'border-slate-800 bg-slate-950/60 text-slate-300 hover:border-slate-700 hover:bg-slate-800/80'
-                  }`}
-                >
-                  <div className="flex items-center justify-between gap-3">
-                    <span className="text-[10px] font-black uppercase tracking-[0.25em] truncate">
-                      {lessonSet.label}
-                    </span>
-                    <span className={`text-[10px] font-black ${isSelected ? 'text-blue-300' : 'text-slate-500'}`}>
-                      {lessonSet.badge}
-                    </span>
+                  <div className="rounded-2xl border border-blue-500/20 bg-blue-500/10 px-3 py-3">
+                    <p className="text-[10px] font-black uppercase tracking-[0.3em] text-blue-300">
+                      {activeFolder.label}
+                    </p>
+                    <p className="mt-2 text-[10px] leading-relaxed text-slate-300">
+                      {activeFolder.description}
+                    </p>
+                    <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-blue-300">
+                      {activeFolder.missionCountLabel}
+                    </p>
                   </div>
-                  <p className="mt-1 text-[10px] leading-relaxed text-slate-500">
-                    {lessonSet.description}
-                  </p>
-                  <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
-                    {lessonSet.missionCountLabel || `${lessonSet.missionCount ?? lessonSet.missions.length} missions`}
-                  </p>
-                </button>
-              );
-            })}
-            <button
-              type="button"
-              title="Open Morphology Lab"
-              aria-label="Open morphology lab module picker"
-              onClick={onOpenMorphologyLab}
-              className={`snap-start rounded-xl border px-3 py-3 text-left transition-all ${
-                isMorphologyActive
-                  ? 'border-emerald-500/40 bg-emerald-500/15 text-white shadow-[0_0_18px_rgba(16,185,129,0.14)]'
-                  : 'border-emerald-500/25 bg-emerald-950/20 text-slate-300 hover:border-emerald-400/40 hover:bg-emerald-500/10'
-              }`}
-            >
-              <div className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-2 min-w-0">
-                  <GitBranchPlus size={14} className="text-emerald-300 shrink-0" />
-                  <span className="text-[10px] font-black uppercase tracking-[0.25em] text-emerald-200 truncate">
-                    Morphology Lab
-                  </span>
-                </span>
-                <span className="text-[10px] font-black uppercase text-emerald-300">
-                  {isMorphologyActive ? activeMorphologyModuleLabel : 'Open'}
-                </span>
-              </div>
-              <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
-                Launch a non-typing grammar module for cases, prefix-root-suffix rollers, and future word-building experiments.
-              </p>
-              <p className="mt-2 text-[10px] leading-relaxed text-slate-500">
-                Current slots include Morphology Trees, Linguistic Rolodex, and a wildcard bay for whatever strange lesson idea lands next.
-              </p>
-              <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-emerald-300">
-                {isMorphologyActive ? 'Module Loaded' : 'Open Module Picker'}
-              </p>
-            </button>
-            <button
-              type="button"
-              disabled
-              title="AI lessons: access with Premium"
-              aria-label="AI lessons locked until premium access"
-              className="snap-start rounded-xl border border-red-500/25 bg-red-950/20 px-3 py-3 text-left opacity-75 cursor-not-allowed"
-            >
-              <div className="flex items-center justify-between gap-3">
-                <span className="flex items-center gap-2 min-w-0">
-                  <Bot size={14} className="text-red-300 shrink-0" />
-                  <span className="text-[10px] font-black uppercase tracking-[0.25em] text-red-200 truncate">
-                    AI Lessons
-                  </span>
-                </span>
-                <span className="inline-flex items-center gap-1 text-[10px] font-black uppercase text-red-300">
-                  <Lock size={10} />
-                  Premium
-                </span>
-              </div>
-              <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
-                Custom AI-built missions will live here once premium access is enabled.
-              </p>
-              <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-red-300">
-                Access with Premium
-              </p>
-            </button>
+
+                  {childFolders.map((folder) => (
+                    <button
+                      key={folder.id}
+                      type="button"
+                      onClick={() => setActiveFolderId(folder.id)}
+                      className="snap-start rounded-xl border border-blue-500/25 bg-blue-950/20 px-3 py-3 text-left transition-all hover:border-blue-400/40 hover:bg-blue-500/10"
+                    >
+                      <div className="flex items-center justify-between gap-3">
+                        <span className="flex items-center gap-2 min-w-0">
+                          <Layers3 size={14} className="text-blue-300 shrink-0" />
+                          <span className="text-[10px] font-black uppercase tracking-[0.25em] text-blue-200 truncate">
+                            {folder.label}
+                          </span>
+                        </span>
+                        <span className="text-[10px] font-black uppercase text-blue-300">
+                          {folder.missionCountLabel}
+                        </span>
+                      </div>
+                      <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
+                        {folder.description}
+                      </p>
+                      <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-blue-300">
+                        Open Folder
+                      </p>
+                    </button>
+                  ))}
+
+                  {folderLessonSets.map((lessonSet) => {
+                    const isSelected = lessonSet.id === selectedLessonSetId;
+
+                    return (
+                      <button
+                        key={lessonSet.id}
+                        type="button"
+                        onClick={() => onSelectLessonSet(lessonSet.id)}
+                        className={`snap-start rounded-xl border px-3 py-2 text-left transition-all ${
+                          isSelected
+                            ? 'border-blue-500 bg-blue-600/15 text-white shadow-[0_0_18px_rgba(37,99,235,0.18)]'
+                            : 'border-slate-800 bg-slate-950/60 text-slate-300 hover:border-slate-700 hover:bg-slate-800/80'
+                        }`}
+                      >
+                        <div className="flex items-center justify-between gap-3">
+                          <span className="text-[10px] font-black uppercase tracking-[0.25em] truncate">
+                            {lessonSet.label}
+                          </span>
+                          <span className={`text-[10px] font-black ${isSelected ? 'text-blue-300' : 'text-slate-500'}`}>
+                            {lessonSet.badge}
+                          </span>
+                        </div>
+                        <p className="mt-1 text-[10px] leading-relaxed text-slate-500">
+                          {lessonSet.description}
+                        </p>
+                        <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
+                          {lessonSet.missionCountLabel || `${lessonSet.missions.length} missions`}
+                        </p>
+                      </button>
+                    );
+                  })}
+                </>
+              ) : (
+                <>
+                  {rootFolders.map((folder) => (
+                    <button
+                      key={folder.id}
+                      type="button"
+                      onClick={() => setActiveFolderId(folder.id)}
+                      className="snap-start rounded-xl border border-blue-500/25 bg-blue-950/20 px-3 py-3 text-left transition-all hover:border-blue-400/40 hover:bg-blue-500/10"
+                    >
+                      <div className="flex items-center justify-between gap-3">
+                        <span className="flex items-center gap-2 min-w-0">
+                          <Layers3 size={14} className="text-blue-300 shrink-0" />
+                          <span className="text-[10px] font-black uppercase tracking-[0.25em] text-blue-200 truncate">
+                            {folder.label}
+                          </span>
+                        </span>
+                        <span className="text-[10px] font-black uppercase text-blue-300">
+                          {folder.missionCountLabel}
+                        </span>
+                      </div>
+                      <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
+                        {folder.description}
+                      </p>
+                      <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-blue-300">
+                        Open Folder
+                      </p>
+                    </button>
+                  ))}
+
+                  {visibleLessonSets.map((lessonSet) => {
+                    const isSelected = lessonSet.id === selectedLessonSetId;
+
+                    return (
+                      <button
+                        key={lessonSet.id}
+                        type="button"
+                        onClick={() => onSelectLessonSet(lessonSet.id)}
+                        className={`snap-start rounded-xl border px-3 py-2 text-left transition-all ${
+                          isSelected
+                            ? 'border-blue-500 bg-blue-600/15 text-white shadow-[0_0_18px_rgba(37,99,235,0.18)]'
+                            : 'border-slate-800 bg-slate-950/60 text-slate-300 hover:border-slate-700 hover:bg-slate-800/80'
+                        }`}
+                      >
+                        <div className="flex items-center justify-between gap-3">
+                          <span className="text-[10px] font-black uppercase tracking-[0.25em] truncate">
+                            {lessonSet.label}
+                          </span>
+                          <span className={`text-[10px] font-black ${isSelected ? 'text-blue-300' : 'text-slate-500'}`}>
+                            {lessonSet.badge}
+                          </span>
+                        </div>
+                        <p className="mt-1 text-[10px] leading-relaxed text-slate-500">
+                          {lessonSet.description}
+                        </p>
+                        <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
+                          {lessonSet.missionCountLabel || `${lessonSet.missionCount ?? lessonSet.missions.length} missions`}
+                        </p>
+                      </button>
+                    );
+                  })}
+
+                  <button
+                    type="button"
+                    title="Open Morphology Lab"
+                    aria-label="Open morphology lab module picker"
+                    onClick={onOpenMorphologyLab}
+                    className={`snap-start rounded-xl border px-3 py-3 text-left transition-all ${
+                      isMorphologyActive
+                        ? 'border-emerald-500/40 bg-emerald-500/15 text-white shadow-[0_0_18px_rgba(16,185,129,0.14)]'
+                        : 'border-emerald-500/25 bg-emerald-950/20 text-slate-300 hover:border-emerald-400/40 hover:bg-emerald-500/10'
+                    }`}
+                  >
+                    <div className="flex items-center justify-between gap-3">
+                      <span className="flex items-center gap-2 min-w-0">
+                        <GitBranchPlus size={14} className="text-emerald-300 shrink-0" />
+                        <span className="text-[10px] font-black uppercase tracking-[0.25em] text-emerald-200 truncate">
+                          Morphology Lab
+                        </span>
+                      </span>
+                      <span className="text-[10px] font-black uppercase text-emerald-300">
+                        {isMorphologyActive ? activeMorphologyModuleLabel : 'Open'}
+                      </span>
+                    </div>
+                    <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
+                      Launch a non-typing grammar module for cases, prefix-root-suffix rollers, and future word-building experiments.
+                    </p>
+                    <p className="mt-2 text-[10px] leading-relaxed text-slate-500">
+                      Current slots include Morphology Trees, Linguistic Rolodex, and a wildcard bay for whatever strange lesson idea lands next.
+                    </p>
+                    <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-emerald-300">
+                      {isMorphologyActive ? 'Module Loaded' : 'Open Module Picker'}
+                    </p>
+                  </button>
+                  <button
+                    type="button"
+                    disabled
+                    title="AI lessons: access with Premium"
+                    aria-label="AI lessons locked until premium access"
+                    className="snap-start rounded-xl border border-red-500/25 bg-red-950/20 px-3 py-3 text-left opacity-75 cursor-not-allowed"
+                  >
+                    <div className="flex items-center justify-between gap-3">
+                      <span className="flex items-center gap-2 min-w-0">
+                        <Bot size={14} className="text-red-300 shrink-0" />
+                        <span className="text-[10px] font-black uppercase tracking-[0.25em] text-red-200 truncate">
+                          AI Lessons
+                        </span>
+                      </span>
+                      <span className="inline-flex items-center gap-1 text-[10px] font-black uppercase text-red-300">
+                        <Lock size={10} />
+                        Premium
+                      </span>
+                    </div>
+                    <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
+                      Custom AI-built missions will live here once premium access is enabled.
+                    </p>
+                    <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-red-300">
+                      Access with Premium
+                    </p>
+                  </button>
+                </>
+              )}
             </div>
           </div>
         </div>

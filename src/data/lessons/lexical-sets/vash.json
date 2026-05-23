@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-VASH",
+    "label": "Ваш",
+    "badge": "2PL.POSS",
+    "description": "Possessive patterns for the formal/plural 'your' that teach agreement and polite address.",
+    "missions": [
+      { "id": "LX-VASH-01", "phrase": "ваш дом большой", "fullAnalysis": "Strategic focus: Masculine possessive agreement. 1. 'Ваш' agrees with the masculine noun 'дом'. 2. 'Большой' also matches the masculine noun. 3. The sentence is a straightforward model for polite possession." },
+      { "id": "LX-VASH-02", "phrase": "ваш брат читает книгу", "fullAnalysis": "Strategic focus: Possessive subject and third-person verb. 1. 'Ваш брат' is a polite or plural family phrase. 2. 'Читает' stays third person singular because the brother is the subject. 3. 'Книгу' is the direct object." },
+      { "id": "LX-VASH-03", "phrase": "ваш стол стоит у окна", "fullAnalysis": "Strategic focus: Placement and possession. 1. 'Ваш' marks ownership or polite reference. 2. 'Стоит' gives a stable location frame. 3. 'У окна' adds a common spatial relation." },
+      { "id": "LX-VASH-04", "phrase": "ваш друг говорит по-русски", "fullAnalysis": "Strategic focus: Possessive with identity verb. 1. 'Ваш друг' is a common masculine noun phrase. 2. 'Говорит' remains third person singular. 3. 'По-русски' is practical for language-use drills." },
+      { "id": "LX-VASH-05", "phrase": "ваш чай уже остыл", "fullAnalysis": "Strategic focus: Possession plus past state. 1. 'Ваш чай' is a familiar daily phrase. 2. 'Уже' adds a time marker. 3. 'Остыл' shows masculine past tense agreement." },
+      { "id": "LX-VASH-06", "phrase": "ваша книга новая", "fullAnalysis": "Strategic focus: Feminine possessive agreement. 1. 'Ваша' changes to match the feminine noun 'книга'. 2. 'Новая' also agrees with the feminine noun. 3. The sentence demonstrates parallel agreement in a clean way." },
+      { "id": "LX-VASH-07", "phrase": "ваша сестра работает дома", "fullAnalysis": "Strategic focus: Feminine subject with possessive ownership. 1. 'Ваша сестра' sets the sentence in polite or plural possession. 2. 'Работает' is third-person singular. 3. 'Дома' is a natural location word." },
+      { "id": "LX-VASH-08", "phrase": "ваша машина стоит у дома", "fullAnalysis": "Strategic focus: Feminine noun and location. 1. 'Машина' requires the feminine possessive form. 2. 'Стоит' gives a stable location. 3. 'У дома' is a common spatial phrase." },
+      { "id": "LX-VASH-09", "phrase": "ваша мама любит чай", "fullAnalysis": "Strategic focus: Family phrase with a simple verb. 1. 'Ваша мама' is an everyday possessive construction. 2. 'Любит' is a third-person singular verb. 3. 'Чай' keeps the sentence easy to picture and type." },
+      { "id": "LX-VASH-10", "phrase": "ваша комната тихая", "fullAnalysis": "Strategic focus: Feminine adjective agreement. 1. 'Комната' is feminine, so 'ваша' is correct. 2. 'Тихая' also matches the feminine noun. 3. This is a useful phrase for describing a space naturally." },
+      { "id": "LX-VASH-11", "phrase": "ваше окно открыто", "fullAnalysis": "Strategic focus: Neuter possessive agreement. 1. 'Ваше' is the neuter form. 2. 'Окно' requires the neuter possessive. 3. 'Открыто' gives a concise state description." },
+      { "id": "LX-VASH-12", "phrase": "ваше письмо уже отправлено", "fullAnalysis": "Strategic focus: Neuter noun with result state. 1. 'Ваше' matches the neuter noun 'письмо'. 2. 'Уже' adds a time marker. 3. 'Отправлено' gives a completed-result feel." },
+      { "id": "LX-VASH-13", "phrase": "ваше место рядом с окном", "fullAnalysis": "Strategic focus: Neuter noun and spatial phrase. 1. 'Место' is neuter, so 'ваше' is required. 2. 'Рядом с окном' is a common relation phrase. 3. This sentence is practical for seating or placement descriptions." },
+      { "id": "LX-VASH-14", "phrase": "ваше сердце спокойно", "fullAnalysis": "Strategic focus: Abstract neuter noun. 1. 'Сердце' is neuter, which selects 'ваше'. 2. 'Спокойно' gives a compact state predicate. 3. The line shows how possessives apply to abstract nouns too." },
+      { "id": "LX-VASH-15", "phrase": "ваши книги на столе", "fullAnalysis": "Strategic focus: Plural possessive agreement. 1. 'Ваши' is the plural possessive form. 2. 'Книги' is plural, so the agreement is visible. 3. 'На столе' keeps the sentence grounded in a real location." },
+      { "id": "LX-VASH-16", "phrase": "ваши друзья ждут вас", "fullAnalysis": "Strategic focus: Plural possessive and object pronoun. 1. 'Ваши друзья' is a standard plural possessive phrase. 2. 'Ждут' is third-person plural. 3. 'Вас' shows the object form of polite/plural 'you'." },
+      { "id": "LX-VASH-17", "phrase": "ваши родители дома", "fullAnalysis": "Strategic focus: Plural family noun. 1. 'Ваши' matches the plural noun 'родители'. 2. 'Дома' gives a simple location state. 3. This is highly practical everyday language." },
+      { "id": "LX-VASH-18", "phrase": "ваши руки холодные", "fullAnalysis": "Strategic focus: Plural body-part noun. 1. 'Руки' requires the plural possessive 'ваши'. 2. 'Холодные' also agrees in plural. 3. This line is good for feeling agreement across the full noun phrase." },
+      { "id": "LX-VASH-19", "phrase": "ваши мысли о работе", "fullAnalysis": "Strategic focus: Plural abstract noun and case control. 1. 'Ваши' agrees with the plural noun 'мысли'. 2. 'О работе' shows prepositional governance after 'о'. 3. The sentence demonstrates agreement and case behavior together." },
+      { "id": "LX-VASH-20", "phrase": "ваша задача ясна", "fullAnalysis": "Strategic focus: Feminine noun plus short predicate. 1. 'Задача' is feminine, so 'ваша' is correct. 2. 'Ясна' gives a concise predicate. 3. This is a natural model for short, practical speech." }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-MENYA",
+    "label": "Меня",
+    "badge": "OBJ",
+    "description": "Object-form sentences that train how 'me' behaves after verbs, prepositions, and negation.",
+    "missions": [
+      { "id": "LX-MENYA-01", "phrase": "он видит меня", "fullAnalysis": "Strategic focus: Object pronoun after a verb. 1. 'Меня' is the object form of 'я'. 2. 'Видит' is third-person singular and stays stable. 3. This sentence teaches how pronouns shift when they stop being the subject." },
+      { "id": "LX-MENYA-02", "phrase": "она ждет меня", "fullAnalysis": "Strategic focus: Simple transitive verb. 1. 'Меня' is the direct object. 2. 'Ждет' is third-person singular. 3. This is a common real-life sentence for timing and meeting." },
+      { "id": "LX-MENYA-03", "phrase": "они знают меня", "fullAnalysis": "Strategic focus: Plural subject plus object pronoun. 1. 'Они' forces the plural verb form. 2. 'Знают' stays plural while 'меня' remains the object form. 3. The sentence is ideal for hearing the contrast between subject and object roles." },
+      { "id": "LX-MENYA-04", "phrase": "он ждет меня дома", "fullAnalysis": "Strategic focus: Object pronoun with location. 1. 'Меня' is the object being waited for. 2. 'Дома' adds an everyday location. 3. This line is useful because it combines verb government with a stable place word." },
+      { "id": "LX-MENYA-05", "phrase": "мама зовет меня", "fullAnalysis": "Strategic focus: Direct object in a family sentence. 1. 'Меня' is the person being called. 2. 'Зовет' is a common high-frequency verb. 3. The sentence is natural and easy to remember." },
+      { "id": "LX-MENYA-06", "phrase": "друзья ждут меня у двери", "fullAnalysis": "Strategic focus: Object pronoun in a plural environment. 1. 'Меня' remains the object form. 2. 'Ждут' is plural and matches 'друзья'. 3. 'У двери' adds a practical spatial phrase." },
+      { "id": "LX-MENYA-07", "phrase": "без меня не начинайте", "fullAnalysis": "Strategic focus: Preposition plus object form. 1. 'Без' requires the object form. 2. 'Меня' follows the preposition naturally. 3. 'Не начинайте' gives the line a real conversational feel." },
+      { "id": "LX-MENYA-08", "phrase": "для меня это важно", "fullAnalysis": "Strategic focus: Relevance through preposition. 1. 'Для меня' expresses purpose or relevance. 2. 'Это' introduces the topic. 3. 'Важно' closes the sentence with a concise evaluation." },
+      { "id": "LX-MENYA-09", "phrase": "ко мне пришли гости", "fullAnalysis": "Strategic focus: Motion toward the speaker. 1. 'Ко мне' uses a preposition that takes the object form. 2. 'Пришли' is plural past tense. 3. 'Гости' is a practical plural noun that keeps the sentence vivid." },
+      { "id": "LX-MENYA-10", "phrase": "рядом со мной сидит учитель", "fullAnalysis": "Strategic focus: Prepositional phrase with object form. 1. 'Со мной' is the standard form after 'с'. 2. 'Сидит' gives a clear spatial relation. 3. 'Учитель' is a concrete noun that makes the sentence easy to picture." },
+      { "id": "LX-MENYA-11", "phrase": "у меня есть книга", "fullAnalysis": "Strategic focus: Possession construction. 1. 'У меня есть' is the standard Russian possession pattern. 2. 'Книга' is a simple feminine noun. 3. The sentence is useful because it contrasts possession with English-style subject ownership." },
+      { "id": "LX-MENYA-12", "phrase": "у меня нет времени", "fullAnalysis": "Strategic focus: Negation of possession. 1. 'У меня нет' is the negative possession pattern. 2. 'Времени' shows the genitive form after negation. 3. This is one of the most practical everyday sentences in Russian." },
+      { "id": "LX-MENYA-13", "phrase": "после меня пришел сосед", "fullAnalysis": "Strategic focus: Preposition with object form. 1. 'После' requires the object/prepositional reference form. 2. 'Меня' appears naturally after the preposition. 3. 'Сосед' is a common noun that keeps the sentence concrete." },
+      { "id": "LX-MENYA-14", "phrase": "передо мной лежит письмо", "fullAnalysis": "Strategic focus: Fixed prepositional phrase. 1. 'Передо мной' is the standard shape of the phrase. 2. 'Лежит' provides a stable visual action. 3. 'Письмо' is a compact object noun that works well with the scene." },
+      { "id": "LX-MENYA-15", "phrase": "мама спрашивает меня о книге", "fullAnalysis": "Strategic focus: Object pronoun plus prepositional complement. 1. 'Меня' is the person being asked. 2. 'Спрашивает' is a common interaction verb. 3. 'О книге' shows how a verb can add a second grammatical target after the object." },
+      { "id": "LX-MENYA-16", "phrase": "они слушают меня внимательно", "fullAnalysis": "Strategic focus: Object pronoun with adverb. 1. 'Меня' is the object being listened to. 2. 'Слушают' is plural and matches the subject. 3. 'Внимательно' makes the sentence feel alive and natural." },
+      { "id": "LX-MENYA-17", "phrase": "меня зовут Антон", "fullAnalysis": "Strategic focus: Identity statement. 1. 'Меня зовут' is a fixed naming construction. 2. The phrase does not use a subject pronoun the way English does. 3. This is one of the most important survival phrases to internalize." },
+      { "id": "LX-MENYA-18", "phrase": "меня не было дома", "fullAnalysis": "Strategic focus: Past absence. 1. 'Меня не было' is a very common Russian absence pattern. 2. 'Дома' keeps the location simple. 3. The sentence teaches that Russian can express absence without a direct English-style subject." },
+      { "id": "LX-MENYA-19", "phrase": "меня ждет работа", "fullAnalysis": "Strategic focus: Passive-like expectation. 1. 'Меня' is the person who is waited for or expected. 2. 'Ждет' is singular and matches 'работа'. 3. This sentence is useful for seeing how roles can feel reversed from English." },
+      { "id": "LX-MENYA-20", "phrase": "без меня встреча началась", "fullAnalysis": "Strategic focus: Preposition plus past event. 1. 'Без меня' keeps the object form after the preposition. 2. 'Встреча началась' gives a natural event clause. 3. This is a very useful real-world sentence for explaining absence." }
+    ]
+  }
+]

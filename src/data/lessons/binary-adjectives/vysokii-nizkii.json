@@ -1,0 +1,15 @@
+[
+  {
+    "id": "BA-VYSOKII-NIZKII",
+    "label": "Высокий / Низкий",
+    "badge": "TALL/LOW",
+    "description": "Height and level contrasts for trees, shelves, ceilings, and people.",
+    "missions": [
+      { "id": "BA-VN-01", "phrase": "высокое дерево", "fullAnalysis": "Strategic focus: A classic tall-object image. 1. 'Высокое' matches the neuter noun here through the form pattern. 2. 'Дерево' gives a very clear visual target. 3. This is one of the easiest high-value examples." },
+      { "id": "BA-VN-02", "phrase": "низкий стол", "fullAnalysis": "Strategic focus: Low object description. 1. 'Низкий' matches the masculine noun 'стол'. 2. The image is simple and everyday. 3. This is good for teaching how English 'low' becomes Russian adjective agreement." },
+      { "id": "BA-VN-03", "phrase": "высокая полка", "fullAnalysis": "Strategic focus: Shelf height. 1. 'Высокая' matches the feminine noun 'полка'. 2. The sentence is practical for home and kitchen contexts. 3. It reinforces one adjective across multiple noun genders." },
+      { "id": "BA-VN-04", "phrase": "низкий потолок", "fullAnalysis": "Strategic focus: Spatial environment. 1. 'Низкий' makes the ceiling feel physically close. 2. 'Потолок' is a highly concrete noun. 3. This is useful for describing rooms and places." },
+      { "id": "BA-VN-05", "phrase": "высокий человек, низкий забор", "fullAnalysis": "Strategic focus: Two linked contrasts. 1. 'Высокий' and 'низкий' give an immediate height opposition. 2. The two nouns are easy to picture. 3. This sentence is a strong future drill template." }
+    ]
+  }
+]

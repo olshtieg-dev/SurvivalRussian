@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-IH",
+    "label": "Их",
+    "badge": "3P.POSS",
+    "description": "Possessive and reference patterns for 'their' / 'them' with plural nouns and shared ownership.",
+    "missions": [
+      { "id": "LX-IH-01", "phrase": "их дом большой", "fullAnalysis": "Strategic focus: Possessive reference with masculine noun. 1. 'Их' means 'their' or 'them' as a possessive reference and does not change form. 2. 'Дом' is the owned item. 3. 'Большой' gives the sentence a natural descriptive shape." },
+      { "id": "LX-IH-02", "phrase": "их брат читает книгу", "fullAnalysis": "Strategic focus: Possessive reference plus third-person verb. 1. 'Их брат' is a common family construction. 2. 'Читает' stays third-person singular. 3. 'Книгу' is the direct object and keeps the sentence concrete." },
+      { "id": "LX-IH-03", "phrase": "их стол стоит у окна", "fullAnalysis": "Strategic focus: Possession and placement. 1. 'Их' stays unchanged regardless of the noun. 2. 'Стоит' gives a stable location frame. 3. 'У окна' adds a simple, practical spatial phrase." },
+      { "id": "LX-IH-04", "phrase": "их друг говорит по-русски", "fullAnalysis": "Strategic focus: Possessive plus identity verb. 1. 'Их друг' is a natural masculine noun phrase. 2. 'Говорит' remains third-person singular. 3. 'По-русски' is useful for language-use drills." },
+      { "id": "LX-IH-05", "phrase": "их чай уже остыл", "fullAnalysis": "Strategic focus: Possession plus past state. 1. 'Их чай' is a very common everyday phrase. 2. 'Уже' adds a time marker. 3. 'Остыл' shows masculine past tense agreement." },
+      { "id": "LX-IH-06", "phrase": "их книга новая", "fullAnalysis": "Strategic focus: Feminine noun with invariant possessive. 1. 'Их' does not change for gender. 2. 'Книга' is feminine, so the possessive stays the same. 3. 'Новая' is the word that agrees with the noun here." },
+      { "id": "LX-IH-07", "phrase": "их сестра работает дома", "fullAnalysis": "Strategic focus: Feminine subject with possession. 1. 'Их сестра' can mean 'their sister'. 2. 'Работает' is third-person singular. 3. 'Дома' is a natural location word." },
+      { "id": "LX-IH-08", "phrase": "их машина стоит у дома", "fullAnalysis": "Strategic focus: Feminine noun and location. 1. 'Машина' is feminine, but 'их' stays unchanged. 2. 'Стоит' gives a stable location. 3. 'У дома' is a common spatial phrase." },
+      { "id": "LX-IH-09", "phrase": "их мама любит чай", "fullAnalysis": "Strategic focus: Family phrase with simple verb. 1. 'Их мама' is a useful possessive construction. 2. 'Любит' is third-person singular. 3. 'Чай' keeps the sentence easy to picture and type." },
+      { "id": "LX-IH-10", "phrase": "их комната тихая", "fullAnalysis": "Strategic focus: Feminine noun with descriptive adjective. 1. 'Их' does not change. 2. 'Комната' is feminine. 3. 'Тихая' agrees with the feminine noun and carries the descriptive load." },
+      { "id": "LX-IH-11", "phrase": "их окно открыто", "fullAnalysis": "Strategic focus: Neuter noun and state description. 1. 'Окно' is neuter. 2. 'Их' remains unchanged. 3. 'Открыто' gives a concise state description that is easy to reuse." },
+      { "id": "LX-IH-12", "phrase": "их письмо уже отправлено", "fullAnalysis": "Strategic focus: Neuter noun with result state. 1. 'Их' can refer to their letter or simply the letter belonging to them. 2. 'Письмо' is neuter. 3. 'Отправлено' gives a completed-result feel." },
+      { "id": "LX-IH-13", "phrase": "их место рядом с окном", "fullAnalysis": "Strategic focus: Neuter noun and spatial phrase. 1. 'Место' is neuter and works naturally with 'их'. 2. 'Рядом с окном' is a common relation phrase. 3. This sentence is practical for seating or placement descriptions." },
+      { "id": "LX-IH-14", "phrase": "их сердце спокойно", "fullAnalysis": "Strategic focus: Abstract neuter noun. 1. 'Сердце' is neuter. 2. 'Их' stays unchanged. 3. 'Спокойно' gives a compact predicate and makes the line feel expressive." },
+      { "id": "LX-IH-15", "phrase": "их книги на столе", "fullAnalysis": "Strategic focus: Plural noun with invariant possessive. 1. 'Их' stays the same with plural nouns too. 2. 'Книги' is plural and clear. 3. 'На столе' grounds the sentence in a physical space." },
+      { "id": "LX-IH-16", "phrase": "их друзья ждут их", "fullAnalysis": "Strategic focus: Possessive plus object pronoun. 1. The first 'их' means 'their'. 2. The second 'их' means 'them' as an object, and the form is the same. 3. 'Ждут' is plural, so the sentence also trains plural verb agreement." },
+      { "id": "LX-IH-17", "phrase": "их родители дома", "fullAnalysis": "Strategic focus: Plural family noun. 1. 'Их' stays unchanged. 2. 'Родители' is plural and makes the phrase feel natural. 3. 'Дома' gives a simple location state." },
+      { "id": "LX-IH-18", "phrase": "их руки холодные", "fullAnalysis": "Strategic focus: Plural body-part noun. 1. 'Их' does not decline. 2. 'Руки' is plural and feminine in form. 3. 'Холодные' agrees in plural and makes the noun phrase feel complete." },
+      { "id": "LX-IH-19", "phrase": "их мысли о работе", "fullAnalysis": "Strategic focus: Plural abstract noun and case control. 1. 'Их' remains unchanged. 2. 'Мысли' is plural. 3. 'О работе' shows prepositional governance after 'о'." },
+      { "id": "LX-IH-20", "phrase": "их задача ясна", "fullAnalysis": "Strategic focus: Feminine noun plus short predicate. 1. 'Задача' is feminine, while 'их' stays fixed. 2. 'Ясна' gives a concise predicate. 3. This is a natural model for short, practical speech." }
+    ]
+  }
+]

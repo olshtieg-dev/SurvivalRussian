@@ -1,0 +1,16 @@
+[
+  {
+    "id": "VB-GOVORIT",
+    "label": "Говорить",
+    "badge": "SAY",
+    "description": "Scaffold verb card for second-conjugation typing practice. Expand each person into five sentences for the full 30-line deck.",
+    "missions": [
+      { "id": "VB-GOVORIT-01", "phrase": "я говорю по-русски", "fullAnalysis": "Strategic focus: First-person singular. 1. 'Говорю' is the standard present form. 2. 'По-русски' is a high-value adverbial phrase. 3. This is a core identity sentence for the learner." },
+      { "id": "VB-GOVORIT-02", "phrase": "ты говоришь тихо", "fullAnalysis": "Strategic focus: Second-person singular. 1. 'Говоришь' shows the -ишь ending. 2. 'Тихо' adds a very common adverb. 3. The sentence is short and useful for speech practice." },
+      { "id": "VB-GOVORIT-03", "phrase": "он говорит правду", "fullAnalysis": "Strategic focus: Third-person singular. 1. 'Говорит' is the core second-conjugation form. 2. 'Правду' gives the line semantic weight. 3. This is a practical, common sentence." },
+      { "id": "VB-GOVORIT-04", "phrase": "мы говорим о книге", "fullAnalysis": "Strategic focus: First-person plural. 1. 'Говорим' reinforces the plural pattern. 2. 'О книге' adds a prepositional complement. 3. This is useful for discussion language." },
+      { "id": "VB-GOVORIT-05", "phrase": "вы говорите медленно", "fullAnalysis": "Strategic focus: Polite/plural form. 1. 'Говорите' trains the respectful form. 2. 'Медленно' keeps the sentence simple and flexible. 3. This is useful in live conversations." },
+      { "id": "VB-GOVORIT-06", "phrase": "они говорят громко", "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Говорят' closes the person ladder for the family. 2. 'Громко' makes the sentence vivid. 3. It is a clean ending point for the scaffold." }
+    ]
+  }
+]

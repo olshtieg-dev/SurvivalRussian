@@ -1,0 +1,16 @@
+[
+  {
+    "id": "VB-KHOTET",
+    "label": "Хотеть",
+    "badge": "WANT",
+    "description": "Scaffold verb card for mixed-pattern / stem-shift practice. Expand each person into five sentences for the full 30-line deck.",
+    "missions": [
+      { "id": "VB-KHOTET-01", "phrase": "я хочу чай", "fullAnalysis": "Strategic focus: First-person singular. 1. 'Хочу' shows the stem-shifted present form. 2. 'Чай' keeps the line concrete and reusable. 3. This is a high-frequency desire sentence." },
+      { "id": "VB-KHOTET-02", "phrase": "ты хочешь воды", "fullAnalysis": "Strategic focus: Second-person singular. 1. 'Хочешь' follows the same family but with a different stem shape. 2. 'Воды' gives a useful genitive-like noun form after desire. 3. This teaches verb-driven noun behavior." },
+      { "id": "VB-KHOTET-03", "phrase": "он хочет домой", "fullAnalysis": "Strategic focus: Third-person singular. 1. 'Хочет' is a core mixed-form pattern. 2. 'Домой' is a very common destination word. 3. The sentence feels immediately natural." },
+      { "id": "VB-KHOTET-04", "phrase": "мы хотим идти", "fullAnalysis": "Strategic focus: First-person plural. 1. 'Хотим' closes the plural present slot. 2. 'Идти' gives the sentence motion. 3. This is a clean everyday intention phrase." },
+      { "id": "VB-KHOTET-05", "phrase": "вы хотите знать", "fullAnalysis": "Strategic focus: Polite/plural form. 1. 'Хотите' trains the respectful form. 2. 'Знать' keeps the sentence abstract but practical. 3. This is useful in live explanations and questions." },
+      { "id": "VB-KHOTET-06", "phrase": "они хотят помочь", "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Хотят' completes the scaffold. 2. 'Помочь' makes the sentence socially useful. 3. The line is short and easy to reuse." }
+    ]
+  }
+]

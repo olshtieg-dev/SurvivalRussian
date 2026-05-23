@@ -1,0 +1,20 @@
+[
+  {
+    "id": "NN-ABSTRACT-MNENIE",
+    "label": "Мнение",
+    "badge": "OPINION",
+    "description": "A 10-sentence usage card for мнение with argument, contrast, and social talk.",
+    "missions": [
+      { "id": "NN-ABSTRACT-MNENIE-01", "phrase": "мое мнение", "fullAnalysis": "Strategic focus: Possessive opinion. 1. 'Мое' agrees with the neuter noun. 2. 'Мнение' is a core abstract noun for discussion. 3. This is one of the most useful opinion frames." },
+      { "id": "NN-ABSTRACT-MNENIE-02", "phrase": "твое мнение важно", "fullAnalysis": "Strategic focus: Social evaluation. 1. 'Твое' personalizes the noun. 2. 'Важно' gives the statement weight. 3. The sentence is natural in conversations and meetings." },
+      { "id": "NN-ABSTRACT-MNENIE-03", "phrase": "мнение друга", "fullAnalysis": "Strategic focus: Ownership and source. 1. 'Друга' tells whose opinion it is. 2. The sentence is short and concrete. 3. This is a very reusable relational noun phrase." },
+      { "id": "NN-ABSTRACT-MNENIE-04", "phrase": "у меня есть мнение", "fullAnalysis": "Strategic focus: Possession frame. 1. 'У меня есть' gives the standard Russian structure. 2. 'Мнение' is the thing possessed. 3. This is a strong talk-and-debate sentence." },
+      { "id": "NN-ABSTRACT-MNENIE-05", "phrase": "по моему мнению", "fullAnalysis": "Strategic focus: Fixed opinion phrase. 1. 'По моему мнению' is one of the most important Russian opinion markers. 2. The phrase is a high-frequency discourse tool. 3. It belongs in any serious language set." },
+      { "id": "NN-ABSTRACT-MNENIE-06", "phrase": "я не согласен с мнением", "fullAnalysis": "Strategic focus: Argument language. 1. 'Не согласен' signals disagreement. 2. 'С мнением' gives the target of the disagreement. 3. This is a very useful real conversational sentence." },
+      { "id": "NN-ABSTRACT-MNENIE-07", "phrase": "мнение меняется", "fullAnalysis": "Strategic focus: Change over time. 1. 'Мнение' is the thing that changes. 2. 'Меняется' gives the sentence motion and flexibility. 3. This is useful for reasoning and discussion." },
+      { "id": "NN-ABSTRACT-MNENIE-08", "phrase": "спрашиваю мнение", "fullAnalysis": "Strategic focus: Requesting input. 1. 'Спрашиваю' is a practical first-person verb. 2. 'Мнение' is the object being requested. 3. The line is simple, social, and very reusable." },
+      { "id": "NN-ABSTRACT-MNENIE-09", "phrase": "мнение о книге", "fullAnalysis": "Strategic focus: Aboutness phrase. 1. 'О книге' is the standard 'about the book' shape. 2. 'Мнение' stays central and abstract. 3. This is ideal for review and discussion language." },
+      { "id": "NN-ABSTRACT-MNENIE-10", "phrase": "разное мнение", "fullAnalysis": "Strategic focus: Contrast in thought. 1. 'Разное' describes differing views. 2. 'Мнение' remains the noun anchor. 3. This is a strong phrase for debate and comparison." }
+    ]
+  }
+]

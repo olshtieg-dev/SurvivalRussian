@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-EE",
+    "label": "Её",
+    "badge": "3F.POSS",
+    "description": "Possessive and reference patterns for 'her' with feminine nouns and everyday speech.",
+    "missions": [
+      { "id": "LX-EE-01", "phrase": "её дом большой", "fullAnalysis": "Strategic focus: Possessive reference with masculine noun. 1. 'Её' here means 'her' and does not change form. 2. 'Дом' is the owned item. 3. 'Большой' gives the sentence a natural descriptive shape." },
+      { "id": "LX-EE-02", "phrase": "её брат читает книгу", "fullAnalysis": "Strategic focus: Possessive reference plus third-person verb. 1. 'Её брат' is a common family construction. 2. 'Читает' stays third-person singular. 3. 'Книгу' is the direct object and keeps the sentence concrete." },
+      { "id": "LX-EE-03", "phrase": "её стол стоит у окна", "fullAnalysis": "Strategic focus: Possession and placement. 1. 'Её' stays unchanged regardless of the noun. 2. 'Стоит' gives a stable location frame. 3. 'У окна' adds a simple, practical spatial phrase." },
+      { "id": "LX-EE-04", "phrase": "её друг говорит по-русски", "fullAnalysis": "Strategic focus: Possessive plus identity verb. 1. 'Её друг' is a natural masculine noun phrase. 2. 'Говорит' remains third-person singular. 3. 'По-русски' is useful for language-use drills." },
+      { "id": "LX-EE-05", "phrase": "её чай уже остыл", "fullAnalysis": "Strategic focus: Possession plus past state. 1. 'Её чай' is a very common everyday phrase. 2. 'Уже' adds a time marker. 3. 'Остыл' shows masculine past tense agreement." },
+      { "id": "LX-EE-06", "phrase": "её книга новая", "fullAnalysis": "Strategic focus: Feminine noun with invariant possessive. 1. 'Её' does not change for gender. 2. 'Книга' is feminine, so the possessive stays the same. 3. 'Новая' is the word that agrees with the noun here." },
+      { "id": "LX-EE-07", "phrase": "её сестра работает дома", "fullAnalysis": "Strategic focus: Feminine subject with possession. 1. 'Её сестра' can mean 'her sister'. 2. 'Работает' is third-person singular. 3. 'Дома' is a natural location word." },
+      { "id": "LX-EE-08", "phrase": "её машина стоит у дома", "fullAnalysis": "Strategic focus: Feminine noun and location. 1. 'Машина' is feminine, but 'её' stays unchanged. 2. 'Стоит' gives a stable location. 3. 'У дома' is a common spatial phrase." },
+      { "id": "LX-EE-09", "phrase": "её мама любит чай", "fullAnalysis": "Strategic focus: Family phrase with simple verb. 1. 'Её мама' is a useful possessive construction. 2. 'Любит' is third-person singular. 3. 'Чай' keeps the sentence easy to picture and type." },
+      { "id": "LX-EE-10", "phrase": "её комната тихая", "fullAnalysis": "Strategic focus: Feminine noun with descriptive adjective. 1. 'Её' does not change. 2. 'Комната' is feminine. 3. 'Тихая' agrees with the feminine noun and carries the descriptive load." },
+      { "id": "LX-EE-11", "phrase": "её окно открыто", "fullAnalysis": "Strategic focus: Neuter noun and state description. 1. 'Окно' is neuter. 2. 'Её' remains unchanged. 3. 'Открыто' gives a concise state description that is easy to reuse." },
+      { "id": "LX-EE-12", "phrase": "её письмо уже отправлено", "fullAnalysis": "Strategic focus: Neuter noun with result state. 1. 'Её' can refer to her letter or simply the letter belonging to her. 2. 'Письмо' is neuter. 3. 'Отправлено' gives a completed-result feel." },
+      { "id": "LX-EE-13", "phrase": "её место рядом с окном", "fullAnalysis": "Strategic focus: Neuter noun and spatial phrase. 1. 'Место' is neuter and works naturally with 'её'. 2. 'Рядом с окном' is a common relation phrase. 3. This sentence is practical for seating or placement descriptions." },
+      { "id": "LX-EE-14", "phrase": "её сердце спокойно", "fullAnalysis": "Strategic focus: Abstract neuter noun. 1. 'Сердце' is neuter. 2. 'Её' stays unchanged. 3. 'Спокойно' gives a compact predicate and makes the line feel expressive." },
+      { "id": "LX-EE-15", "phrase": "её книги на столе", "fullAnalysis": "Strategic focus: Plural noun with invariant possessive. 1. 'Её' stays the same with plural nouns too. 2. 'Книги' is plural and clear. 3. 'На столе' grounds the sentence in a physical space." },
+      { "id": "LX-EE-16", "phrase": "её друзья ждут её", "fullAnalysis": "Strategic focus: Possessive plus object pronoun. 1. The first 'её' means 'her'. 2. The second 'её' means 'her' as an object, and the form is the same. 3. 'Ждут' is plural, so the sentence also trains plural verb agreement." },
+      { "id": "LX-EE-17", "phrase": "её родители дома", "fullAnalysis": "Strategic focus: Plural family noun. 1. 'Её' stays unchanged. 2. 'Родители' is plural and makes the phrase feel natural. 3. 'Дома' gives a simple location state." },
+      { "id": "LX-EE-18", "phrase": "её руки холодные", "fullAnalysis": "Strategic focus: Plural body-part noun. 1. 'Её' does not decline. 2. 'Руки' is plural and feminine in form. 3. 'Холодные' agrees in plural and makes the noun phrase feel complete." },
+      { "id": "LX-EE-19", "phrase": "её мысли о работе", "fullAnalysis": "Strategic focus: Plural abstract noun and case control. 1. 'Её' remains unchanged. 2. 'Мысли' is plural. 3. 'О работе' shows prepositional governance after 'о'." },
+      { "id": "LX-EE-20", "phrase": "её задача ясна", "fullAnalysis": "Strategic focus: Feminine noun plus short predicate. 1. 'Задача' is feminine, while 'её' stays fixed. 2. 'Ясна' gives a concise predicate. 3. This is a natural model for short, practical speech." }
+    ]
+  }
+]

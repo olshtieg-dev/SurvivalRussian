@@ -30,6 +30,12 @@ export default function GameOverlay() {
       height: 700,
       title: 'BRICK LAYER',
     },
+    typerspace: {
+      path: 'typer-space/index.html',
+      width: 520,
+      height: 820,
+      title: 'TYPERSPACE RU',
+    },
     cardclash: {
       width: 1080,
       height: 840,
@@ -102,6 +108,16 @@ export default function GameOverlay() {
                   >
                     <span className="mb-2 block text-3xl">🧱</span>
                     <span className="text-xs font-bold uppercase tracking-widest">Brick Layer</span>
+                  </button>
+                  <button
+                    onClick={() => setActiveGame('typerspace')}
+                    className="group rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition-all hover:border-fuchsia-500 hover:bg-fuchsia-600/20"
+                  >
+                    <span className="mb-2 block text-3xl">🚀</span>
+                    <span className="text-xs font-bold uppercase tracking-widest">TyperSpace RU</span>
+                    <span className="mt-2 block text-[10px] uppercase tracking-[0.2em] text-slate-500 group-hover:text-fuchsia-300">
+                      Russian typing shooter
+                    </span>
                   </button>
                   <button
                     onClick={() => setActiveGame('cardclash')}

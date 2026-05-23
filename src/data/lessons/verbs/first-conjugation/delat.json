@@ -1,0 +1,16 @@
+[
+  {
+    "id": "VB-DELAT",
+    "label": "Делать",
+    "badge": "DO",
+    "description": "Scaffold verb card for first-conjugation typing practice. Expand each person into five sentences for the full 30-line deck.",
+    "missions": [
+      { "id": "VB-DELAT-01", "phrase": "я делаю работу", "fullAnalysis": "Strategic focus: First-person singular. 1. 'Делаю' is the standard present form. 2. 'Работу' keeps the sentence concrete. 3. This is the core template for the verb family." },
+      { "id": "VB-DELAT-02", "phrase": "ты делаешь задачу", "fullAnalysis": "Strategic focus: Second-person singular. 1. 'Делаешь' shows the -ешь ending. 2. 'Задачу' is a simple direct object. 3. This sentence starts the same-person conjugation ladder." },
+      { "id": "VB-DELAT-03", "phrase": "он делает дело", "fullAnalysis": "Strategic focus: Third-person singular. 1. 'Делает' is the standard first-conjugation third-person form. 2. 'Дело' keeps the grammar clear. 3. The line is short and easy to repeat." },
+      { "id": "VB-DELAT-04", "phrase": "мы делаем план", "fullAnalysis": "Strategic focus: First-person plural. 1. 'Делаем' reinforces the plural ending. 2. 'План' is a practical noun for real-life use. 3. This is the natural 'we' form for the family." },
+      { "id": "VB-DELAT-05", "phrase": "вы делаете выбор", "fullAnalysis": "Strategic focus: Polite/plural form. 1. 'Делаете' trains the respectful or plural address. 2. 'Выбор' makes the sentence abstract enough to matter. 3. This is a very reusable communication pattern." },
+      { "id": "VB-DELAT-06", "phrase": "они делают шаг", "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Делают' closes the basic conjugation set. 2. 'Шаг' gives a simple physical object/action anchor. 3. This completes the six-person scaffold for the verb." }
+    ]
+  }
+]

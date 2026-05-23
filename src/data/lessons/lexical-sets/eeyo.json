@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-EEYO",
+    "label": "Её",
+    "badge": "OBJ",
+    "description": "Object-form sentences for the invariant pronoun 'её' meaning 'her'.",
+    "missions": [
+      { "id": "LX-EEYO-01", "phrase": "он видит её", "fullAnalysis": "Strategic focus: Object pronoun after a verb. 1. 'Её' is the object form meaning 'her'. 2. 'Видит' is third-person singular and stays stable. 3. This sentence teaches how pronouns shift when they stop being the subject." },
+      { "id": "LX-EEYO-02", "phrase": "она ждет её", "fullAnalysis": "Strategic focus: Simple transitive verb. 1. 'Её' is the direct object. 2. 'Ждет' is third-person singular. 3. This is a common real-life sentence for timing and meeting." },
+      { "id": "LX-EEYO-03", "phrase": "они знают её", "fullAnalysis": "Strategic focus: Plural subject plus object pronoun. 1. 'Они' forces the plural verb form. 2. 'Знают' stays plural while 'её' remains the object form. 3. The sentence is ideal for hearing the contrast between subject and object roles." },
+      { "id": "LX-EEYO-04", "phrase": "он ждет её дома", "fullAnalysis": "Strategic focus: Object pronoun with location. 1. 'Её' is the object being waited for. 2. 'Дома' adds an everyday location. 3. This line is useful because it combines verb government with a stable place word." },
+      { "id": "LX-EEYO-05", "phrase": "мама зовет её", "fullAnalysis": "Strategic focus: Direct object in a family sentence. 1. 'Её' is the person being called. 2. 'Зовет' is a common high-frequency verb. 3. The sentence is natural and easy to remember." },
+      { "id": "LX-EEYO-06", "phrase": "друзья ждут её у двери", "fullAnalysis": "Strategic focus: Object pronoun in a plural environment. 1. 'Её' remains the object form. 2. 'Ждут' is plural and matches 'друзья'. 3. 'У двери' adds a practical spatial phrase." },
+      { "id": "LX-EEYO-07", "phrase": "без неё не начинайте", "fullAnalysis": "Strategic focus: Preposition plus object form. 1. 'Без' requires the object form. 2. 'Неё' is the prepositional-object form after the preposition. 3. 'Не начинайте' gives the line a real conversational feel." },
+      { "id": "LX-EEYO-08", "phrase": "для неё это важно", "fullAnalysis": "Strategic focus: Relevance through preposition. 1. 'Для неё' expresses purpose or relevance. 2. 'Это' introduces the topic. 3. 'Важно' closes the sentence with a concise evaluation." },
+      { "id": "LX-EEYO-09", "phrase": "к ней пришли гости", "fullAnalysis": "Strategic focus: Motion toward the target. 1. 'К ней' uses the object-form variant after the preposition. 2. 'Пришли' is plural past tense. 3. 'Гости' keeps the sentence vivid and practical." },
+      { "id": "LX-EEYO-10", "phrase": "рядом с ней сидит учитель", "fullAnalysis": "Strategic focus: Prepositional phrase with object form. 1. 'С ней' is the stable form used after 'с'. 2. 'Сидит' gives a clear spatial relation. 3. 'Учитель' is a concrete noun that makes the sentence easy to picture." },
+      { "id": "LX-EEYO-11", "phrase": "у неё есть книга", "fullAnalysis": "Strategic focus: Possession construction. 1. 'У неё есть' is the standard Russian possession pattern. 2. 'Книга' is a simple feminine noun. 3. The sentence is useful because it contrasts possession with English-style subject ownership." },
+      { "id": "LX-EEYO-12", "phrase": "у неё нет времени", "fullAnalysis": "Strategic focus: Negation of possession. 1. 'У неё нет' is the negative possession pattern. 2. 'Времени' shows the genitive form after negation. 3. This is one of the most practical everyday sentences in Russian." },
+      { "id": "LX-EEYO-13", "phrase": "после неё пришел сосед", "fullAnalysis": "Strategic focus: Preposition with object form. 1. 'После' requires the object/prepositional reference form. 2. 'Неё' appears naturally after the preposition. 3. 'Сосед' is a common noun that keeps the sentence concrete." },
+      { "id": "LX-EEYO-14", "phrase": "перед ней лежит письмо", "fullAnalysis": "Strategic focus: Fixed prepositional phrase. 1. 'Перед ней' is the standard shape of the phrase. 2. 'Лежит' provides a stable visual action. 3. 'Письмо' is a compact object noun that works well with the scene." },
+      { "id": "LX-EEYO-15", "phrase": "мама спрашивает её о книге", "fullAnalysis": "Strategic focus: Object pronoun plus prepositional complement. 1. 'Её' is the person being asked. 2. 'Спрашивает' is a common interaction verb. 3. 'О книге' shows how a verb can add a second grammatical target after the object." },
+      { "id": "LX-EEYO-16", "phrase": "они слушают её внимательно", "fullAnalysis": "Strategic focus: Object pronoun with adverb. 1. 'Её' is the object being listened to. 2. 'Слушают' is plural and matches the subject. 3. 'Внимательно' makes the sentence feel alive and natural." },
+      { "id": "LX-EEYO-17", "phrase": "её зовут Антон", "fullAnalysis": "Strategic focus: Identity statement. 1. 'Её зовут' is a fixed naming construction. 2. The phrase does not use a subject pronoun the way English does. 3. This is a crucial survival phrase to internalize." },
+      { "id": "LX-EEYO-18", "phrase": "её не было дома", "fullAnalysis": "Strategic focus: Past absence. 1. 'Её не было' is a common Russian absence pattern. 2. 'Дома' keeps the location simple. 3. The sentence teaches that Russian can express absence without a direct English-style subject." },
+      { "id": "LX-EEYO-19", "phrase": "её ждет работа", "fullAnalysis": "Strategic focus: Passive-like expectation. 1. 'Её' is the person who is waited for or expected. 2. 'Ждет' is singular and matches 'работа'. 3. This sentence is useful for seeing how roles can feel reversed from English." },
+      { "id": "LX-EEYO-20", "phrase": "без неё встреча началась", "fullAnalysis": "Strategic focus: Preposition plus past event. 1. 'Без неё' keeps the object form after the preposition. 2. 'Встреча началась' gives a natural event clause. 3. This is a very useful real-world sentence for explaining absence." }
+    ]
+  }
+]

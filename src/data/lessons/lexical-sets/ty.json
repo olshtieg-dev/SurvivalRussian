@@ -1,0 +1,110 @@
+[
+  {
+    "id": "LX-TY",
+    "label": "Ты",
+    "badge": "2S",
+    "description": "Second-person singular sentences focused on command, advice, and direct address.",
+    "missions": [
+      {
+        "id": "LX-TY-01",
+        "phrase": "ты идешь домой",
+        "fullAnalysis": "Strategic focus: Second-person present tense. 1. 'Ты' sets the sentence in direct address. 2. 'Идешь' changes to match the second person singular subject. 3. 'Домой' keeps the motion goal clear and realistic."
+      },
+      {
+        "id": "LX-TY-02",
+        "phrase": "ты читаешь книгу",
+        "fullAnalysis": "Strategic focus: Subject-driven verb ending. 1. 'Читаешь' is the second-person form of 'читать'. 2. 'Книгу' stays as the direct object and makes the sentence concrete. 3. This is a clean model for how Russian verbs react to the subject."
+      },
+      {
+        "id": "LX-TY-03",
+        "phrase": "ты пишешь письмо",
+        "fullAnalysis": "Strategic focus: Second-person action. 1. 'Пишешь' is the distinct -ешь ending for 'ты'. 2. 'Письмо' gives the learner a simple object to track. 3. This sentence is excellent for feeling the difference between 'я пишу' and 'ты пишешь'."
+      },
+      {
+        "id": "LX-TY-04",
+        "phrase": "ты видишь стол",
+        "fullAnalysis": "Strategic focus: Perception with direct address. 1. 'Видишь' marks second person singular. 2. 'Стол' stays as a simple visible object. 3. This sentence is useful because it shows the verb form changing while the noun remains stable."
+      },
+      {
+        "id": "LX-TY-05",
+        "phrase": "ты любишь этот дом",
+        "fullAnalysis": "Strategic focus: Emotion plus demonstrative. 1. 'Любишь' is the direct-address form. 2. 'Этот дом' gives a clear masculine noun target. 3. This is a natural sentence for drilling the -ишь ending pattern."
+      },
+      {
+        "id": "LX-TY-06",
+        "phrase": "ты ешь хлеб",
+        "fullAnalysis": "Strategic focus: Irregular present tense. 1. 'Ешь' is the second-person form of 'есть'. 2. 'Хлеб' is a practical object noun. 3. This sentence helps the learner memorize one of the most common irregular present-tense forms."
+      },
+      {
+        "id": "LX-TY-07",
+        "phrase": "ты пьешь воду",
+        "fullAnalysis": "Strategic focus: Everyday survival phrase. 1. 'Пьешь' shows the second-person singular ending. 2. 'Воду' gives a feminine object in accusative. 3. This is a clean pair for hearing how the subject and object each do their own grammatical job."
+      },
+      {
+        "id": "LX-TY-08",
+        "phrase": "ты не понимаешь",
+        "fullAnalysis": "Strategic focus: Negation with a direct-address subject. 1. 'Не' negates the verb rather than the subject. 2. 'Понимаешь' is the proper second-person form. 3. This sentence is extremely useful in real conversation when you need clarification."
+      },
+      {
+        "id": "LX-TY-09",
+        "phrase": "ты хочешь кофе",
+        "fullAnalysis": "Strategic focus: Desire and direct speech. 1. 'Хочешь' is the second-person present tense. 2. 'Кофе' is a practical everyday noun. 3. This sentence is useful because it sounds exactly like something a person might ask or answer."
+      },
+      {
+        "id": "LX-TY-10",
+        "phrase": "ты работаешь дома",
+        "fullAnalysis": "Strategic focus: Action plus location. 1. 'Работаешь' matches the second-person subject. 2. 'Дома' gives a natural adverbial location. 3. The sentence helps learners see that the verb changes, but the location word does not."
+      },
+      {
+        "id": "LX-TY-11",
+        "phrase": "ты говоришь по-русски",
+        "fullAnalysis": "Strategic focus: Language use. 1. 'Говоришь' is the second-person singular form. 2. 'По-русски' is the natural adverbial phrase for language mode. 3. This is one of the most practical identity sentences for learners."
+      },
+      {
+        "id": "LX-TY-12",
+        "phrase": "ты знаешь это",
+        "fullAnalysis": "Strategic focus: Knowledge and reference. 1. 'Знаешь' is the proper second-person verb form. 2. 'Это' points at the known item. 3. This sentence is simple but very useful for reinforcing subject-verb agreement."
+      },
+      {
+        "id": "LX-TY-13",
+        "phrase": "ты берешь книгу",
+        "fullAnalysis": "Strategic focus: Taking an object. 1. 'Берешь' shows the second-person present tense. 2. 'Книгу' is the object being taken. 3. The sentence is great for drilling the -ешь pattern while staying concrete."
+      },
+      {
+        "id": "LX-TY-14",
+        "phrase": "ты открываешь дверь",
+        "fullAnalysis": "Strategic focus: Physical action. 1. 'Открываешь' is second person singular. 2. 'Дверь' is a common object that makes the action easy to picture. 3. This line is excellent for repeating the -аешь / -яешь style of present forms."
+      },
+      {
+        "id": "LX-TY-15",
+        "phrase": "ты слышишь музыку",
+        "fullAnalysis": "Strategic focus: Perception plus object. 1. 'Слышишь' is the correct second-person form. 2. 'Музыку' is the object of hearing. 3. This sentence is useful because it sounds natural in everyday conversation."
+      },
+      {
+        "id": "LX-TY-16",
+        "phrase": "ты видишь меня",
+        "fullAnalysis": "Strategic focus: Object pronoun form. 1. 'Видишь' is the verb form for 'ты'. 2. 'Меня' shows the object form of 'я'. 3. This sentence teaches that pronouns also decline when they move out of subject position."
+      },
+      {
+        "id": "LX-TY-17",
+        "phrase": "ты делаешь чай",
+        "fullAnalysis": "Strategic focus: Routine action. 1. 'Делаешь' is a very common second-person present form. 2. 'Чай' is a simple object and easy target. 3. This sentence is practical for daily life and easy repetition."
+      },
+      {
+        "id": "LX-TY-18",
+        "phrase": "ты несешь сумку",
+        "fullAnalysis": "Strategic focus: Carrying motion. 1. 'Несешь' is the second-person present form. 2. 'Сумку' is the direct object and gives clear meaning. 3. This sentence reinforces the idea that the subject drives the verb ending."
+      },
+      {
+        "id": "LX-TY-19",
+        "phrase": "ты находишь ключ",
+        "fullAnalysis": "Strategic focus: Discovering something. 1. 'Находишь' is the second-person form of 'находить'. 2. 'Ключ' keeps the object practical and familiar. 3. This helps learners hear how 'ты' triggers a very different verb form from 'я'."
+      },
+      {
+        "id": "LX-TY-20",
+        "phrase": "ты думаешь о работе",
+        "fullAnalysis": "Strategic focus: Verb governance and prepositional case. 1. 'Думаешь' is second person singular. 2. 'О работе' shows the prepositional form after 'о'. 3. This sentence is especially good for showing how verbs can force case changes in the words that follow."
+      }
+    ]
+  }
+]

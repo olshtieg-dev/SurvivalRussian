@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-TVOI",
+    "label": "Твой",
+    "badge": "2SG.POSS",
+    "description": "Possessive patterns for 'your' in second person, with agreement across noun genders and numbers.",
+    "missions": [
+      { "id": "LX-TVOI-01", "phrase": "твой дом большой", "fullAnalysis": "Strategic focus: Masculine possessive agreement. 1. 'Твой' agrees with the masculine noun 'дом'. 2. 'Большой' also matches the masculine noun. 3. The sentence trains ownership plus adjective agreement in a single line." },
+      { "id": "LX-TVOI-02", "phrase": "твой брат читает книгу", "fullAnalysis": "Strategic focus: Possessive subject and third-person verb. 1. 'Твой брат' is a natural family phrase. 2. 'Читает' stays third person singular because the brother is the subject. 3. 'Книгу' is the concrete object." },
+      { "id": "LX-TVOI-03", "phrase": "твой стол стоит у окна", "fullAnalysis": "Strategic focus: Placement and possession. 1. 'Твой' marks ownership. 2. 'Стоит' gives a stable location frame. 3. 'У окна' adds a practical spatial relation." },
+      { "id": "LX-TVOI-04", "phrase": "твой друг говорит по-русски", "fullAnalysis": "Strategic focus: Possessive with identity verb. 1. 'Твой друг' is a natural masculine noun phrase. 2. 'Говорит' remains third person singular. 3. 'По-русски' is a practical language-use adverb." },
+      { "id": "LX-TVOI-05", "phrase": "твой чай уже остыл", "fullAnalysis": "Strategic focus: Possession plus past state. 1. 'Твой чай' is a familiar daily phrase. 2. 'Уже' adds a time marker. 3. 'Остыл' shows masculine past tense agreement." },
+      { "id": "LX-TVOI-06", "phrase": "твоя книга новая", "fullAnalysis": "Strategic focus: Feminine possessive agreement. 1. 'Твоя' changes to match the feminine noun 'книга'. 2. 'Новая' also agrees with the feminine noun. 3. The sentence cleanly demonstrates possessive and adjective agreement together." },
+      { "id": "LX-TVOI-07", "phrase": "твоя сестра работает дома", "fullAnalysis": "Strategic focus: Feminine subject with possessive ownership. 1. 'Твоя сестра' sets the sentence in second-person possession. 2. 'Работает' is third-person singular. 3. 'Дома' is a natural location word." },
+      { "id": "LX-TVOI-08", "phrase": "твоя машина стоит у дома", "fullAnalysis": "Strategic focus: Feminine noun and location. 1. 'Машина' requires the feminine possessive form. 2. 'Стоит' gives a static location. 3. 'У дома' is a common spatial phrase." },
+      { "id": "LX-TVOI-09", "phrase": "твоя мама любит чай", "fullAnalysis": "Strategic focus: Family phrase with a simple verb. 1. 'Твоя мама' is an everyday possessive construction. 2. 'Любит' is a third-person singular verb. 3. 'Чай' keeps the sentence easy to picture and type." },
+      { "id": "LX-TVOI-10", "phrase": "твоя комната тихая", "fullAnalysis": "Strategic focus: Feminine adjective agreement. 1. 'Комната' is feminine, so 'твоя' is correct. 2. 'Тихая' also matches the feminine noun. 3. The sentence is useful for describing space and atmosphere." },
+      { "id": "LX-TVOI-11", "phrase": "твое окно открыто", "fullAnalysis": "Strategic focus: Neuter possessive agreement. 1. 'Твое' is the neuter form. 2. 'Окно' requires the neuter possessive. 3. 'Открыто' gives a concise and natural state description." },
+      { "id": "LX-TVOI-12", "phrase": "твое письмо уже отправлено", "fullAnalysis": "Strategic focus: Neuter noun with result state. 1. 'Твое' matches the neuter noun 'письмо'. 2. 'Уже' adds a time marker. 3. 'Отправлено' gives a completed-state feel that fits real conversation." },
+      { "id": "LX-TVOI-13", "phrase": "твое место рядом с окном", "fullAnalysis": "Strategic focus: Neuter noun and spatial phrase. 1. 'Место' is neuter, so 'твое' is required. 2. 'Рядом с окном' is a common relation phrase. 3. This sentence is practical for seating or placement descriptions." },
+      { "id": "LX-TVOI-14", "phrase": "твое сердце спокойно", "fullAnalysis": "Strategic focus: Abstract neuter noun. 1. 'Сердце' is neuter, which selects 'твое'. 2. 'Спокойно' gives a compact state predicate. 3. The line shows how possessives apply to abstract nouns too." },
+      { "id": "LX-TVOI-15", "phrase": "твои книги на столе", "fullAnalysis": "Strategic focus: Plural possessive agreement. 1. 'Твои' is the plural possessive form. 2. 'Книги' is plural, so the agreement is visible. 3. 'На столе' keeps the sentence grounded in a real location." },
+      { "id": "LX-TVOI-16", "phrase": "твои друзья ждут тебя", "fullAnalysis": "Strategic focus: Plural possessive and object pronoun. 1. 'Твои друзья' is a standard plural possessive phrase. 2. 'Ждут' is third-person plural. 3. 'Тебя' shows the object form of 'ты'." },
+      { "id": "LX-TVOI-17", "phrase": "твои родители дома", "fullAnalysis": "Strategic focus: Plural family noun. 1. 'Твои' matches the plural noun 'родители'. 2. 'Дома' gives a simple location state. 3. This is highly practical everyday language." },
+      { "id": "LX-TVOI-18", "phrase": "твои руки холодные", "fullAnalysis": "Strategic focus: Plural body-part noun. 1. 'Руки' requires the plural possessive 'твои'. 2. 'Холодные' also agrees in plural. 3. This line is good for feeling agreement across the full noun phrase." },
+      { "id": "LX-TVOI-19", "phrase": "твои мысли о работе", "fullAnalysis": "Strategic focus: Plural abstract noun and case control. 1. 'Твои' agrees with the plural noun 'мысли'. 2. 'О работе' shows prepositional governance after 'о'. 3. The sentence demonstrates agreement and case behavior together." },
+      { "id": "LX-TVOI-20", "phrase": "твоя задача ясна", "fullAnalysis": "Strategic focus: Feminine noun plus short predicate. 1. 'Задача' is feminine, so 'твоя' is correct. 2. 'Ясна' gives a concise predicate. 3. This is a natural model for short, practical speech." }
+    ]
+  }
+]

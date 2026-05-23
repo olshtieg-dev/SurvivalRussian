@@ -1,0 +1,30 @@
+[
+  {
+    "id": "SM-S",
+    "label": "С",
+    "badge": "FROM/COMP",
+    "description": "Motion away from a place or person, plus 'with' as a companion relation.",
+    "missions": [
+      { "id": "SM-S-01", "phrase": "я с тобой", "fullAnalysis": "Strategic focus: Companion relation. 1. 'С тобой' means with you. 2. The phrase is short and extremely common. 3. It’s a core building block for real conversation." },
+      { "id": "SM-S-02", "phrase": "я иду с тобой", "fullAnalysis": "Strategic focus: Motion with a companion. 1. 'С тобой' keeps the companion relation clear. 2. 'Иду' is walking motion. 3. This sentence pairs movement with togetherness." },
+      { "id": "SM-S-03", "phrase": "он пришел с работы", "fullAnalysis": "Strategic focus: Coming from a place. 1. 'С работы' marks departure from work. 2. 'Пришел' is completed motion. 3. This is one of the most natural everyday patterns." },
+      { "id": "SM-S-04", "phrase": "он идет с работы", "fullAnalysis": "Strategic focus: Ongoing departure. 1. 'С работы' is the source. 2. 'Идет' is present motion. 3. This sentence is the ongoing counterpart to 'пришел с работы'." },
+      { "id": "SM-S-05", "phrase": "мы вернулись с моря", "fullAnalysis": "Strategic focus: Return from a source. 1. 'С моря' marks the place you came back from. 2. 'Вернулись' is plural completed motion. 3. This is a common travel-memory sentence." },
+      { "id": "SM-S-06", "phrase": "мы идем с вокзала", "fullAnalysis": "Strategic focus: Leaving a station. 1. 'С вокзала' marks the source. 2. 'Идем' is plural walking motion. 3. The sentence pairs nicely with 'мы идем на вокзал'." },
+      { "id": "SM-S-07", "phrase": "она взяла книгу с полки", "fullAnalysis": "Strategic focus: Removing something from a surface. 1. 'С полки' marks the source. 2. 'Взяла' is completed past tense. 3. This sentence is a strong source contrast with 'на полке'." },
+      { "id": "SM-S-08", "phrase": "я беру книгу с полки", "fullAnalysis": "Strategic focus: Ongoing removal from a surface. 1. 'С полки' marks the source. 2. 'Беру' is present tense. 3. This sentence is practical and easy to picture." },
+      { "id": "SM-S-09", "phrase": "они сняли картину со стены", "fullAnalysis": "Strategic focus: Removing from a surface. 1. 'Со стены' marks the source. 2. 'Сняли' is a completed action. 3. The sentence is vivid and useful for household description." },
+      { "id": "SM-S-10", "phrase": "я снимаю картину со стены", "fullAnalysis": "Strategic focus: Ongoing removal from a surface. 1. 'Со стены' is the source. 2. 'Снимаю' is present tense. 3. This is the ongoing counterpart to the completed version." },
+      { "id": "SM-S-11", "phrase": "он ушел с улицы", "fullAnalysis": "Strategic focus: Leaving a place. 1. 'С улицы' marks the source. 2. 'Ушел' is completed motion. 3. This sentence is useful for street and location contrasts." },
+      { "id": "SM-S-12", "phrase": "он идет с улицы", "fullAnalysis": "Strategic focus: Ongoing departure from a place. 1. 'С улицы' marks the source. 2. 'Идет' is present tense motion. 3. This sentence reinforces the exit idea." },
+      { "id": "SM-S-13", "phrase": "я пришел с другом", "fullAnalysis": "Strategic focus: Companion relation. 1. 'С другом' means with a friend. 2. 'Пришел' is completed motion. 3. The sentence teaches the companion use of 'с'." },
+      { "id": "SM-S-14", "phrase": "мы идем с другом", "fullAnalysis": "Strategic focus: Motion with a companion. 1. 'С другом' keeps the companion relation clear. 2. 'Идем' is plural walking motion. 3. This sentence is a useful conversational everyday phrase." },
+      { "id": "SM-S-15", "phrase": "она вышла с работы", "fullAnalysis": "Strategic focus: Exit from work. 1. 'С работы' marks departure. 2. 'Вышла' is a completed motion verb. 3. This is an extremely common Russian daily-life pattern." },
+      { "id": "SM-S-16", "phrase": "я иду с урока", "fullAnalysis": "Strategic focus: Leaving class. 1. 'С урока' marks the source. 2. 'Иду' is present tense motion. 3. The sentence fits school life very naturally." },
+      { "id": "SM-S-17", "phrase": "мы вышли с урока", "fullAnalysis": "Strategic focus: Completed departure from class. 1. 'Вышли' is plural past motion. 2. 'С урока' marks the source. 3. This is a perfect contrast to 'идем с урока'." },
+      { "id": "SM-S-18", "phrase": "он пришел с ним", "fullAnalysis": "Strategic focus: Coming together with someone. 1. 'С ним' is the companion form. 2. 'Пришел' is completed motion. 3. This is a useful relation phrase in conversation." },
+      { "id": "SM-S-19", "phrase": "они живут с родителями", "fullAnalysis": "Strategic focus: Living with someone. 1. 'С родителями' is a stable companion relation. 2. 'Живут' is plural present. 3. This sentence is great for everyday family context." },
+      { "id": "SM-S-20", "phrase": "я ушел с ним из дома", "fullAnalysis": "Strategic focus: Complex departure with companion and source. 1. 'С ним' marks the companion. 2. 'Из дома' marks the source. 3. This sentence combines two major movement ideas in one clean line." }
+    ]
+  }
+]

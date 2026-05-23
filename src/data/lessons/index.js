@@ -4,10 +4,20 @@ import casesNounLessons from './cases-noun-conjugation.json';
 import groceryLessons from './grocery-shopping.json';
 import kitchenLessons from './kitchen-cooking.json';
 import householdLessons from './household-items.json';
+import { lexicalLessonSets, lexicalSetFolder } from './lexical-sets';
+import { nounsLessonSets, nounsFolder, nounsGroupFolders } from './nouns';
+import { verbsLessonSets, verbsFolder, verbsGroupFolders } from './verbs';
+import { proFormsLessonSets, proFormsFolder, proFormsGroupFolders } from './pro-forms';
+import { spatialMotionLessonSets, spatialMotionFolder } from './spatial-motion';
+import { comparisonsLessonSets, comparisonsFolder } from './comparisons';
+import { binaryAdjectivesLessonSets, binaryAdjectivesFolder } from './binary-adjectives';
+import frequencyGulagLessons from './frequency-gulag.json';
 import vocabularyData from '../vocabulary.json';
 
 export const randomVocabularyLessonSetId = 'random-vocab';
 export const randomVocabularyMissionCount = 12;
+export const frequencyGulagLessonSetId = 'frequency-gulag';
+export const frequencyGulagMissionCount = frequencyGulagLessons.missions.length;
 
 const vocabularyPool = Object.entries(vocabularyData).filter(([, entry]) => {
   const phrase = entry?.cyrillic;
@@ -46,6 +56,10 @@ export function generateRandomVocabularyMissions(count = randomVocabularyMission
       fullAnalysis: `Random vocabulary batch. Type the whole line, then a fresh set rolls in. ${wordBreakdown}`,
     },
   ];
+}
+
+export function generateFrequencyGulagMissions() {
+  return shuffleList(frequencyGulagLessons.missions);
 }
 
 export const lessonSets = [
@@ -100,10 +114,42 @@ export const lessonSets = [
     missionCount: 1,
     missionCountLabel: `${randomVocabularyMissionCount}-word batch`,
     isDynamic: true,
+    generateMissions: generateRandomVocabularyMissions,
   },
+  {
+    id: frequencyGulagLessonSetId,
+    label: '1000 Word Gulag',
+    badge: '1K',
+    description: 'One sentence per high-frequency word. The full deck shuffles every time, and nothing repeats until the run is done.',
+    missions: [],
+    missionCount: frequencyGulagMissionCount,
+    missionCountLabel: `${frequencyGulagMissionCount.toLocaleString('en-US')} sentences`,
+    isDynamic: true,
+    generateMissions: generateFrequencyGulagMissions,
+  },
+  ...lexicalLessonSets,
+  ...nounsLessonSets,
+  ...verbsLessonSets,
+  ...proFormsLessonSets,
+  ...spatialMotionLessonSets,
+  ...comparisonsLessonSets,
+  ...binaryAdjectivesLessonSets,
 ];
 
 export const defaultLessonSetId = lessonSets[0]?.id || 'mission';
+
+export const lessonFolders = [
+  lexicalSetFolder,
+  nounsFolder,
+  ...nounsGroupFolders,
+  verbsFolder,
+  ...verbsGroupFolders,
+  proFormsFolder,
+  ...proFormsGroupFolders,
+  spatialMotionFolder,
+  comparisonsFolder,
+  binaryAdjectivesFolder,
+];
 
 export function getLessonSet(lessonSetId) {
   return lessonSets.find((lessonSet) => lessonSet.id === lessonSetId) || lessonSets[0];

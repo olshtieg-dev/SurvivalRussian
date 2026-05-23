@@ -1,0 +1,15 @@
+[
+  {
+    "id": "BA-KOROTKII-DLINNYI",
+    "label": "Короткий / Длинный",
+    "badge": "SHORT/LONG",
+    "description": "Practical length contrasts for objects, paths, and actions.",
+    "missions": [
+      { "id": "BA-KD-01", "phrase": "короткая палка", "fullAnalysis": "Strategic focus: Simple noun agreement. 1. 'Короткая' matches the feminine noun 'палка'. 2. The sentence is short enough to type quickly. 3. This is the basic shape of a length contrast." },
+      { "id": "BA-KD-02", "phrase": "длинная дорога", "fullAnalysis": "Strategic focus: Clear visual contrast. 1. 'Длинная' agrees with the feminine noun 'дорога'. 2. The image is easy to picture and reuse. 3. This is a high-value core adjective pair." },
+      { "id": "BA-KD-03", "phrase": "короткий путь домой", "fullAnalysis": "Strategic focus: Compact route phrase. 1. 'Короткий' matches the masculine noun 'путь'. 2. 'Домой' adds a destination and keeps the sentence practical. 3. This is a very natural everyday line." },
+      { "id": "BA-KD-04", "phrase": "длинный рассказ", "fullAnalysis": "Strategic focus: Abstract length. 1. 'Длинный' works on a noun that is not physical in the same way as a rope. 2. 'Рассказ' is a useful noun for stories and explanations. 3. This teaches that length words extend beyond objects." },
+      { "id": "BA-KD-05", "phrase": "короткая заметка, но длинное письмо", "fullAnalysis": "Strategic focus: Side-by-side comparison. 1. The first noun is feminine, so 'короткая' matches it. 2. The second noun is neuter, so 'длинное' must switch form. 3. The sentence shows how one contrast can drive two different agreements." }
+    ]
+  }
+]

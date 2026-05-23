@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-NASH",
+    "label": "Наш",
+    "badge": "1PL.POSS",
+    "description": "Possessive patterns for 'our' with singular and plural agreement across everyday nouns.",
+    "missions": [
+      { "id": "LX-NASH-01", "phrase": "наш дом большой", "fullAnalysis": "Strategic focus: Masculine possessive agreement. 1. 'Наш' agrees with the masculine noun 'дом'. 2. 'Большой' also matches the masculine noun. 3. The sentence is a straightforward model for collective ownership." },
+      { "id": "LX-NASH-02", "phrase": "наш брат читает книгу", "fullAnalysis": "Strategic focus: Possessive subject and third-person verb. 1. 'Наш брат' is a natural family phrase. 2. 'Читает' stays third person singular because the brother is the subject. 3. 'Книгу' is the direct object." },
+      { "id": "LX-NASH-03", "phrase": "наш стол стоит у окна", "fullAnalysis": "Strategic focus: Placement and possession. 1. 'Наш' marks ownership. 2. 'Стоит' gives a stable location frame. 3. 'У окна' adds a common spatial relation." },
+      { "id": "LX-NASH-04", "phrase": "наш друг говорит по-русски", "fullAnalysis": "Strategic focus: Possessive with identity verb. 1. 'Наш друг' is a common masculine noun phrase. 2. 'Говорит' remains third person singular. 3. 'По-русски' is practical for language-use drills." },
+      { "id": "LX-NASH-05", "phrase": "наш чай уже остыл", "fullAnalysis": "Strategic focus: Possession plus past state. 1. 'Наш чай' is a familiar daily phrase. 2. 'Уже' adds a time marker. 3. 'Остыл' shows masculine past tense agreement." },
+      { "id": "LX-NASH-06", "phrase": "наша книга новая", "fullAnalysis": "Strategic focus: Feminine possessive agreement. 1. 'Наша' changes to match the feminine noun 'книга'. 2. 'Новая' also agrees with the feminine noun. 3. The sentence demonstrates parallel agreement in a clean way." },
+      { "id": "LX-NASH-07", "phrase": "наша сестра работает дома", "fullAnalysis": "Strategic focus: Feminine subject with possessive ownership. 1. 'Наша сестра' sets the sentence in collective possession. 2. 'Работает' is third-person singular. 3. 'Дома' is a natural location word." },
+      { "id": "LX-NASH-08", "phrase": "наша машина стоит у дома", "fullAnalysis": "Strategic focus: Feminine noun and location. 1. 'Машина' requires the feminine possessive form. 2. 'Стоит' gives a stable location. 3. 'У дома' is a common spatial phrase." },
+      { "id": "LX-NASH-09", "phrase": "наша мама любит чай", "fullAnalysis": "Strategic focus: Family phrase with a simple verb. 1. 'Наша мама' is an everyday possessive construction. 2. 'Любит' is a third-person singular verb. 3. 'Чай' keeps the sentence easy to picture and type." },
+      { "id": "LX-NASH-10", "phrase": "наша комната тихая", "fullAnalysis": "Strategic focus: Feminine adjective agreement. 1. 'Комната' is feminine, so 'наша' is correct. 2. 'Тихая' also matches the feminine noun. 3. This is a useful phrase for describing a space naturally." },
+      { "id": "LX-NASH-11", "phrase": "наше окно открыто", "fullAnalysis": "Strategic focus: Neuter possessive agreement. 1. 'Наше' is the neuter form. 2. 'Окно' requires the neuter possessive. 3. 'Открыто' gives a concise state description." },
+      { "id": "LX-NASH-12", "phrase": "наше письмо уже отправлено", "fullAnalysis": "Strategic focus: Neuter noun with result state. 1. 'Наше' matches the neuter noun 'письмо'. 2. 'Уже' adds a time marker. 3. 'Отправлено' gives a completed-result feel." },
+      { "id": "LX-NASH-13", "phrase": "наше место рядом с окном", "fullAnalysis": "Strategic focus: Neuter noun and spatial phrase. 1. 'Место' is neuter, so 'наше' is required. 2. 'Рядом с окном' is a common relation phrase. 3. This sentence is practical for seating or placement descriptions." },
+      { "id": "LX-NASH-14", "phrase": "наше сердце спокойно", "fullAnalysis": "Strategic focus: Abstract neuter noun. 1. 'Сердце' is neuter, which selects 'наше'. 2. 'Спокойно' gives a compact state predicate. 3. The line shows how possessives apply to abstract nouns too." },
+      { "id": "LX-NASH-15", "phrase": "наши книги на столе", "fullAnalysis": "Strategic focus: Plural possessive agreement. 1. 'Наши' is the plural possessive form. 2. 'Книги' is plural, so the agreement is visible. 3. 'На столе' keeps the sentence grounded in a real location." },
+      { "id": "LX-NASH-16", "phrase": "наши друзья ждут нас", "fullAnalysis": "Strategic focus: Plural possessive and object pronoun. 1. 'Наши друзья' is a standard plural possessive phrase. 2. 'Ждут' is third-person plural. 3. 'Нас' shows the object form of 'мы'." },
+      { "id": "LX-NASH-17", "phrase": "наши родители дома", "fullAnalysis": "Strategic focus: Plural family noun. 1. 'Наши' matches the plural noun 'родители'. 2. 'Дома' gives a simple location state. 3. This is highly practical everyday language." },
+      { "id": "LX-NASH-18", "phrase": "наши руки холодные", "fullAnalysis": "Strategic focus: Plural body-part noun. 1. 'Руки' requires the plural possessive 'наши'. 2. 'Холодные' also agrees in plural. 3. This line is good for feeling agreement across the full noun phrase." },
+      { "id": "LX-NASH-19", "phrase": "наши мысли о работе", "fullAnalysis": "Strategic focus: Plural abstract noun and case control. 1. 'Наши' agrees with the plural noun 'мысли'. 2. 'О работе' shows prepositional governance after 'о'. 3. The sentence demonstrates agreement and case behavior together." },
+      { "id": "LX-NASH-20", "phrase": "наша задача ясна", "fullAnalysis": "Strategic focus: Feminine noun plus short predicate. 1. 'Задача' is feminine, so 'наша' is correct. 2. 'Ясна' gives a concise predicate. 3. This is a natural model for short, practical speech." }
+    ]
+  }
+]

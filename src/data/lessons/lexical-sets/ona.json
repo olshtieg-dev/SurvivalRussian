@@ -1,0 +1,110 @@
+[
+  {
+    "id": "LX-ONA",
+    "label": "Она",
+    "badge": "3F",
+    "description": "Third-person feminine singular sentences focused on verb agreement and feminine predicate forms.",
+    "missions": [
+      {
+        "id": "LX-ONA-01",
+        "phrase": "она идет домой",
+        "fullAnalysis": "Strategic focus: Third-person feminine singular motion. 1. 'Она' marks the subject as feminine singular. 2. 'Идет' matches third person singular. 3. 'Домой' keeps the direction of motion clear."
+      },
+      {
+        "id": "LX-ONA-02",
+        "phrase": "она читает книгу",
+        "fullAnalysis": "Strategic focus: Verb agreement with feminine subject. 1. 'Читает' is the proper third-person singular form. 2. 'Книгу' stays as the direct object. 3. This sentence trains the learner to listen for the verb change after the subject changes."
+      },
+      {
+        "id": "LX-ONA-03",
+        "phrase": "она пишет письмо",
+        "fullAnalysis": "Strategic focus: Simple active sentence. 1. 'Пишет' is third-person singular and does not change for gender in the present tense. 2. 'Письмо' is a straightforward direct object. 3. This sentence gives a stable base for pattern recognition."
+      },
+      {
+        "id": "LX-ONA-04",
+        "phrase": "она видит стол",
+        "fullAnalysis": "Strategic focus: Perception verb in third person. 1. 'Видит' is the correct feminine singular subject form. 2. 'Стол' keeps the object practical. 3. This sentence is useful for building automatic agreement recognition."
+      },
+      {
+        "id": "LX-ONA-05",
+        "phrase": "она любит этот дом",
+        "fullAnalysis": "Strategic focus: Emotion plus demonstrative noun. 1. 'Любит' is third-person singular. 2. 'Этот дом' remains masculine and stable. 3. This sentence shows that the subject gender changes the verb choice only where the form allows it."
+      },
+      {
+        "id": "LX-ONA-06",
+        "phrase": "она ест хлеб",
+        "fullAnalysis": "Strategic focus: Irregular present tense. 1. 'Ест' is the third-person form of 'есть'. 2. 'Хлеб' is a simple object. 3. This sentence is practical and helps learners memorize a high-frequency irregular form."
+      },
+      {
+        "id": "LX-ONA-07",
+        "phrase": "она пьет воду",
+        "fullAnalysis": "Strategic focus: Survival action. 1. 'Пьет' keeps the sentence in third person singular. 2. 'Воду' is the feminine object in accusative. 3. This is an extremely useful everyday sentence."
+      },
+      {
+        "id": "LX-ONA-08",
+        "phrase": "она не понимает",
+        "fullAnalysis": "Strategic focus: Negation. 1. 'Не' directly negates the verb. 2. 'Понимает' is the proper third-person form. 3. This line is good for real-life situations where understanding is the main issue."
+      },
+      {
+        "id": "LX-ONA-09",
+        "phrase": "она хочет кофе",
+        "fullAnalysis": "Strategic focus: Desire plus noun. 1. 'Хочет' is the correct third-person singular present tense. 2. 'Кофе' is an everyday item and easy to remember. 3. This sentence sounds natural and conversational."
+      },
+      {
+        "id": "LX-ONA-10",
+        "phrase": "она работает дома",
+        "fullAnalysis": "Strategic focus: Activity and place. 1. 'Работает' is the third-person singular form. 2. 'Дома' functions as a natural location word. 3. This sentence is useful because it demonstrates the contrast between subject agreement and stable adverbial location."
+      },
+      {
+        "id": "LX-ONA-11",
+        "phrase": "она говорит по-русски",
+        "fullAnalysis": "Strategic focus: Language use. 1. 'Говорит' is the correct feminine singular subject form. 2. 'По-русски' is the natural adverbial language marker. 3. This sentence is a high-value identity line for learners."
+      },
+      {
+        "id": "LX-ONA-12",
+        "phrase": "она знает это",
+        "fullAnalysis": "Strategic focus: Knowledge. 1. 'Знает' is third-person singular. 2. 'Это' is the referenced object or idea. 3. This line shows the sentence core very clearly and cleanly."
+      },
+      {
+        "id": "LX-ONA-13",
+        "phrase": "она берет книгу",
+        "fullAnalysis": "Strategic focus: Taking an object. 1. 'Берет' is the third-person singular form. 2. 'Книгу' is the direct object and stays easy to picture. 3. This sentence reinforces the object-verb relationship."
+      },
+      {
+        "id": "LX-ONA-14",
+        "phrase": "она открывает дверь",
+        "fullAnalysis": "Strategic focus: Physical action. 1. 'Открывает' is the feminine singular present form. 2. 'Дверь' keeps the action grounded. 3. This sentence is strong for repetition because it is vivid and practical."
+      },
+      {
+        "id": "LX-ONA-15",
+        "phrase": "она слышит музыку",
+        "fullAnalysis": "Strategic focus: Perception. 1. 'Слышит' is third-person singular. 2. 'Музыку' is the heard object in accusative. 3. This sentence helps learners treat perception verbs just like other transitive verbs."
+      },
+      {
+        "id": "LX-ONA-16",
+        "phrase": "она видит меня",
+        "fullAnalysis": "Strategic focus: Object pronoun form. 1. 'Видит' is the third-person singular present tense. 2. 'Меня' is the object form of 'я'. 3. This is a good sentence for understanding how pronouns shift when they are not the subject."
+      },
+      {
+        "id": "LX-ONA-17",
+        "phrase": "она делает чай",
+        "fullAnalysis": "Strategic focus: Everyday routine. 1. 'Делает' is a flexible and high-frequency verb. 2. 'Чай' is a practical, memorable noun. 3. This sentence is useful because it is simple without being artificial."
+      },
+      {
+        "id": "LX-ONA-18",
+        "phrase": "она несет сумку",
+        "fullAnalysis": "Strategic focus: Carrying action. 1. 'Несет' is the correct feminine singular verb form. 2. 'Сумку' is the carried object. 3. This sentence makes the verb-object relation very easy to see."
+      },
+      {
+        "id": "LX-ONA-19",
+        "phrase": "она находит ключ",
+        "fullAnalysis": "Strategic focus: Finding something. 1. 'Находит' is third-person singular. 2. 'Ключ' is a very familiar noun. 3. This sentence is useful for reinforcing the same pattern across pronouns."
+      },
+      {
+        "id": "LX-ONA-20",
+        "phrase": "она думает о работе",
+        "fullAnalysis": "Strategic focus: Verb governance and prepositional case. 1. 'Думает' is third-person singular. 2. 'О работе' shows the prepositional form after 'о'. 3. This sentence is strong for teaching how verbs control the form of adjacent nouns."
+      }
+    ]
+  }
+]

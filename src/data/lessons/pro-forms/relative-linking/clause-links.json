@@ -1,0 +1,15 @@
+[
+  {
+    "id": "PF-RELATIVE-LINKING",
+    "label": "Clause Links",
+    "badge": "CL",
+    "description": "A starter deck for which/that/so that/how clauses and Russian clause-linking logic.",
+    "missions": [
+      { "id": "PF-R-01", "phrase": "дом, который я купил", "fullAnalysis": "Strategic focus: Relative clause. 1. 'Который' links the noun to its description. 2. 'Я купил' gives the clause a concrete action. 3. This is the classic Russian relative-attachment pattern." },
+      { "id": "PF-R-02", "phrase": "книга, которую читаешь ты", "fullAnalysis": "Strategic focus: Relative object form. 1. 'Которую' shows that the relative pronoun changes with case. 2. 'Читаешь ты' keeps the structure compact. 3. This is a very important noun-modification pattern." },
+      { "id": "PF-R-03", "phrase": "человек, который пришел", "fullAnalysis": "Strategic focus: Relative subject form. 1. 'Который' agrees with the noun it modifies. 2. 'Пришел' gives the relative clause a clean action. 3. This is a common sentence shape in spoken and written Russian." },
+      { "id": "PF-R-04", "phrase": "я знаю, что ты прав", "fullAnalysis": "Strategic focus: Reported content. 1. 'Что' introduces the content of knowing. 2. 'Ты прав' completes the statement. 3. This is a key clause-linking use of 'что'." },
+      { "id": "PF-R-05", "phrase": "я хочу, чтобы ты пришел", "fullAnalysis": "Strategic focus: Purpose and desire. 1. 'Чтобы' introduces the desired result. 2. 'Ты пришел' gives the subordinate clause. 3. This is one of the most important Russian linking constructions." }
+    ]
+  }
+]

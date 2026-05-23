@@ -1,4 +1,3 @@
-
 {
   "я": {
     "cyrillic": "я",
@@ -36,7 +35,6 @@
     "synonym": "оплачиваю, рассчитываюсь",
     "antonym": "не плачу"
   },
-
   "картой": {
     "cyrillic": "картой",
     "literal": "card",
@@ -46,7 +44,6 @@
     "synonym": "банковская карта, пластиковая карта",
     "antonym": "null"
   },
-
   "иду": {
     "cyrillic": "иду",
     "literal": "going (on foot)",
@@ -1215,8 +1212,8 @@
   "потому": {
     "cyrillic": "потому",
     "literal": "because",
-    "natural": "Because.",
-    "analysis": "Adverb. Often part of 'потому что', meaning 'because'.",
+    "natural": "Because",
+    "analysis": "Conjunction / adverb. Because; for that reason.",
     "synonym": "оттого, оттого что, затем",
     "antonym": "null"
   },
@@ -3290,8 +3287,8 @@
   "внимание": {
     "cyrillic": "внимание",
     "literal": "attention",
-    "natural": "Attention.",
-    "analysis": "Noun.",
+    "natural": "Attention",
+    "analysis": "Noun. Attention; notice.",
     "synonym": "сосредоточенность, внимательность",
     "antonym": "рассеянность"
   },
@@ -3945,9 +3942,9 @@
   },
   "ко": {
     "cyrillic": "ко",
-    "literal": "so",
-    "natural": "To/toward (variant of к).",
-    "analysis": "Preposition variant.",
+    "literal": "to",
+    "natural": "To",
+    "analysis": "Preposition. To; toward; before certain consonants.",
     "synonym": "к",
     "antonym": "от"
   },
@@ -5431,8 +5428,7 @@
     "synonym": "новее, свежее",
     "antonym": "старее"
   },
-
-  "есть" : {
+  "есть": {
     "cyrillic": "есть",
     "literal": "to eat",
     "natural": "To eat; to have (food).",
@@ -8711,6 +8707,3047 @@
     "analysis": "Noun, Masculine. Means 'ship'.",
     "synonym": "null",
     "antonym": "null"
+  },
+  "это дом у": {
+    "cyrillic": "это дом у",
+    "literal": "this house",
+    "natural": "This is the house.",
+    "thumbnail": "https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/home/default/48px.svg",
+    "analysis": "Phrase entry. Matching now ignores capitalization and punctuation, so variants like 'Это дом у.' still resolve here.",
+    "synonym": "это дом",
+    "antonym": "null"
+  },
+  "???????": {
+    "cyrillic": "???????",
+    "literal": "a dozen / ten",
+    "natural": "A dozen.",
+    "thumbnail": "null",
+    "analysis": "Noun. A group of ten; a dozen.",
+    "synonym": "??????, ???????",
+    "antonym": "null"
+  },
+  "с": {
+    "cyrillic": "с",
+    "literal": "with",
+    "natural": "With",
+    "thumbnail": "null",
+    "analysis": "Preposition. With; from.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "но": {
+    "cyrillic": "но",
+    "literal": "but",
+    "natural": "But",
+    "thumbnail": "null",
+    "analysis": "Conjunction. But.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "к": {
+    "cyrillic": "к",
+    "literal": "to",
+    "natural": "To",
+    "thumbnail": "null",
+    "analysis": "Preposition. To; toward.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "же": {
+    "cyrillic": "же",
+    "literal": "same",
+    "natural": "Same",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "о": {
+    "cyrillic": "о",
+    "literal": "about",
+    "natural": "About",
+    "thumbnail": "null",
+    "analysis": "Preposition. About, on, concerning.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "свое": {
+    "cyrillic": "свое",
+    "literal": "yours",
+    "natural": "Yours",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ли": {
+    "cyrillic": "ли",
+    "literal": "whether",
+    "natural": "Whether",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "должный": {
+    "cyrillic": "должный",
+    "literal": "due",
+    "natural": "Due",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "конечный": {
+    "cyrillic": "конечный",
+    "literal": "finite",
+    "natural": "Finite",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "уж": {
+    "cyrillic": "уж",
+    "literal": "really",
+    "natural": "Really",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "война": {
+    "cyrillic": "война",
+    "literal": "war",
+    "natural": "War",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "Москва": {
+    "cyrillic": "Москва",
+    "literal": "Moscow",
+    "natural": "Moscow",
+    "thumbnail": "null",
+    "analysis": "Proper noun. Moscow.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "далёкий": {
+    "cyrillic": "далёкий",
+    "literal": "far",
+    "natural": "Far",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "таки": {
+    "cyrillic": "таки",
+    "literal": "after all",
+    "natural": "After all",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "бог": {
+    "cyrillic": "бог",
+    "literal": "god",
+    "natural": "God",
+    "thumbnail": "null",
+    "analysis": "Noun. God.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "советский": {
+    "cyrillic": "советский",
+    "literal": "Soviet",
+    "natural": "Soviet",
+    "thumbnail": "null",
+    "analysis": "Adjective. Soviet.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "русский": {
+    "cyrillic": "русский",
+    "literal": "Russian",
+    "natural": "Russian",
+    "thumbnail": "null",
+    "analysis": "Adjective / noun. Russian.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "Россия": {
+    "cyrillic": "Россия",
+    "literal": "Russia",
+    "natural": "Russia",
+    "thumbnail": "null",
+    "analysis": "Proper noun. Russia.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ж": {
+    "cyrillic": "ж",
+    "literal": "and / well",
+    "natural": "And / well",
+    "thumbnail": "null",
+    "analysis": "Particle. Emphatic and connective.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "солдат": {
+    "cyrillic": "солдат",
+    "literal": "soldier",
+    "natural": "Soldier",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "чтоб": {
+    "cyrillic": "чтоб",
+    "literal": "so that",
+    "natural": "So that",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "послать": {
+    "cyrillic": "послать",
+    "literal": "send",
+    "natural": "Send",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "равно": {
+    "cyrillic": "равно",
+    "literal": "equals",
+    "natural": "Equals",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "капитан": {
+    "cyrillic": "капитан",
+    "literal": "captain",
+    "natural": "Captain",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тяжёлый": {
+    "cyrillic": "тяжёлый",
+    "literal": "heavy",
+    "natural": "Heavy",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "генерал": {
+    "cyrillic": "генерал",
+    "literal": "general",
+    "natural": "General",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "зелёный": {
+    "cyrillic": "зелёный",
+    "literal": "green",
+    "natural": "Green",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ладно": {
+    "cyrillic": "ладно",
+    "literal": "OK",
+    "natural": "OK",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дядя": {
+    "cyrillic": "дядя",
+    "literal": "uncle",
+    "natural": "Uncle",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "армия": {
+    "cyrillic": "армия",
+    "literal": "army",
+    "natural": "Army",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "кой": {
+    "cyrillic": "кой",
+    "literal": "which one / some",
+    "natural": "Which one / some",
+    "thumbnail": "null",
+    "analysis": "Particle / pronoun fragment.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "рота": {
+    "cyrillic": "рота",
+    "literal": "company",
+    "natural": "Company",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "военный": {
+    "cyrillic": "военный",
+    "literal": "military",
+    "natural": "Military",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "медленный": {
+    "cyrillic": "медленный",
+    "literal": "slow",
+    "natural": "Slow",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "возле": {
+    "cyrillic": "возле",
+    "literal": "near",
+    "natural": "Near",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "черта": {
+    "cyrillic": "черта",
+    "literal": "trait",
+    "natural": "Trait",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лёгкий": {
+    "cyrillic": "лёгкий",
+    "literal": "easy",
+    "natural": "Easy",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "серый": {
+    "cyrillic": "серый",
+    "literal": "grey",
+    "natural": "Grey",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "командир": {
+    "cyrillic": "командир",
+    "literal": "commander",
+    "natural": "Commander",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "партия": {
+    "cyrillic": "партия",
+    "literal": "party",
+    "natural": "Party",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мимо": {
+    "cyrillic": "мимо",
+    "literal": "by",
+    "natural": "By",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "толстый": {
+    "cyrillic": "толстый",
+    "literal": "thick",
+    "natural": "Thick",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сквозь": {
+    "cyrillic": "сквозь",
+    "literal": "through",
+    "natural": "Through",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "прежний": {
+    "cyrillic": "прежний",
+    "literal": "former",
+    "natural": "Former",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "профессор": {
+    "cyrillic": "профессор",
+    "literal": "professor",
+    "natural": "Professor",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "худой": {
+    "cyrillic": "худой",
+    "literal": "thin",
+    "natural": "Thin",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "больной": {
+    "cyrillic": "больной",
+    "literal": "sick",
+    "natural": "Sick",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "след": {
+    "cyrillic": "след",
+    "literal": "track",
+    "natural": "Track",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "улыбаться": {
+    "cyrillic": "улыбаться",
+    "literal": "smile",
+    "natural": "Smile",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "всякое": {
+    "cyrillic": "всякое",
+    "literal": "various things",
+    "natural": "Various things",
+    "thumbnail": "null",
+    "analysis": "Pronoun / adjective-like noun. Various things; all sorts of things.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "колено": {
+    "cyrillic": "колено",
+    "literal": "knee",
+    "natural": "Knee",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "коридор": {
+    "cyrillic": "коридор",
+    "literal": "corridor",
+    "natural": "Corridor",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "хватить": {
+    "cyrillic": "хватить",
+    "literal": "that's enough",
+    "natural": "That's enough",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "многие": {
+    "cyrillic": "многие",
+    "literal": "many",
+    "natural": "Many",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вниз": {
+    "cyrillic": "вниз",
+    "literal": "down",
+    "natural": "Down",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "хлеб": {
+    "cyrillic": "хлеб",
+    "literal": "bread",
+    "natural": "Bread",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "убить": {
+    "cyrillic": "убить",
+    "literal": "kill",
+    "natural": "Kill",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "желтый": {
+    "cyrillic": "желтый",
+    "literal": "yellow",
+    "natural": "Yellow",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "крикнуть": {
+    "cyrillic": "крикнуть",
+    "literal": "shout",
+    "natural": "Shout",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "трубка": {
+    "cyrillic": "трубка",
+    "literal": "tube",
+    "natural": "Tube",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "враг": {
+    "cyrillic": "враг",
+    "literal": "enemy",
+    "natural": "Enemy",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "двое": {
+    "cyrillic": "двое",
+    "literal": "two",
+    "natural": "Two",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ладонь": {
+    "cyrillic": "ладонь",
+    "literal": "palm",
+    "natural": "Palm",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "спокойно": {
+    "cyrillic": "спокойно",
+    "literal": "calmly",
+    "natural": "Calmly",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лейтенант": {
+    "cyrillic": "лейтенант",
+    "literal": "lieutenant",
+    "natural": "Lieutenant",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "служба": {
+    "cyrillic": "служба",
+    "literal": "service",
+    "natural": "Service",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сорок": {
+    "cyrillic": "сорок",
+    "literal": "fourty",
+    "natural": "Fourty",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "молодая": {
+    "cyrillic": "молодая",
+    "literal": "young",
+    "natural": "Young",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тридцать": {
+    "cyrillic": "тридцать",
+    "literal": "thirty",
+    "natural": "Thirty",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "российский": {
+    "cyrillic": "российский",
+    "literal": "Russian",
+    "natural": "Russian",
+    "thumbnail": "null",
+    "analysis": "Adjective. Of Russia; Russian.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "синий": {
+    "cyrillic": "синий",
+    "literal": "blue",
+    "natural": "Blue",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "столько": {
+    "cyrillic": "столько",
+    "literal": "so many",
+    "natural": "So many",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "теплый": {
+    "cyrillic": "теплый",
+    "literal": "warm",
+    "natural": "Warm",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "достать": {
+    "cyrillic": "достать",
+    "literal": "get it",
+    "natural": "Get it",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "железный": {
+    "cyrillic": "железный",
+    "literal": "iron",
+    "natural": "Iron",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "упасть": {
+    "cyrillic": "упасть",
+    "literal": "fell",
+    "natural": "Fell",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "остальной": {
+    "cyrillic": "остальной",
+    "literal": "the rest",
+    "natural": "The rest",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "московский": {
+    "cyrillic": "московский",
+    "literal": "Moscow",
+    "natural": "Moscow",
+    "thumbnail": "null",
+    "analysis": "Adjective. Of Moscow; Moscow.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "бой": {
+    "cyrillic": "бой",
+    "literal": "fight",
+    "natural": "Fight",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "шея": {
+    "cyrillic": "шея",
+    "literal": "neck",
+    "natural": "Neck",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вон": {
+    "cyrillic": "вон",
+    "literal": "over there",
+    "natural": "Over there",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "достаточный": {
+    "cyrillic": "достаточный",
+    "literal": "sufficient",
+    "natural": "Sufficient",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "трава": {
+    "cyrillic": "трава",
+    "literal": "grass",
+    "natural": "Grass",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дед": {
+    "cyrillic": "дед",
+    "literal": "grandfather",
+    "natural": "Grandfather",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "простить": {
+    "cyrillic": "простить",
+    "literal": "forgive",
+    "natural": "Forgive",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "бить": {
+    "cyrillic": "бить",
+    "literal": "beat",
+    "natural": "Beat",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "чай": {
+    "cyrillic": "чай",
+    "literal": "tea",
+    "natural": "Tea",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "кивнуть": {
+    "cyrillic": "кивнуть",
+    "literal": "nod",
+    "natural": "Nod",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "исчезнуть": {
+    "cyrillic": "исчезнуть",
+    "literal": "disappear",
+    "natural": "Disappear",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тонкий": {
+    "cyrillic": "тонкий",
+    "literal": "thin",
+    "natural": "Thin",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "звук": {
+    "cyrillic": "звук",
+    "literal": "sound",
+    "natural": "Sound",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "президент": {
+    "cyrillic": "президент",
+    "literal": "president",
+    "natural": "President",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "спасибо": {
+    "cyrillic": "спасибо",
+    "literal": "thanks",
+    "natural": "Thanks",
+    "thumbnail": "null",
+    "analysis": "Interjection / noun. Thanks; thank you.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "болезнь": {
+    "cyrillic": "болезнь",
+    "literal": "disease",
+    "natural": "Disease",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "кожа": {
+    "cyrillic": "кожа",
+    "literal": "leather",
+    "natural": "Leather",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "слать": {
+    "cyrillic": "слать",
+    "literal": "send",
+    "natural": "Send",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "молча": {
+    "cyrillic": "молча",
+    "literal": "silently",
+    "natural": "Silently",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "верный": {
+    "cyrillic": "верный",
+    "literal": "loyal",
+    "natural": "Loyal",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "оружие": {
+    "cyrillic": "оружие",
+    "literal": "weapon",
+    "natural": "Weapon",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "запах": {
+    "cyrillic": "запах",
+    "literal": "smell",
+    "natural": "Smell",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "неожиданно": {
+    "cyrillic": "неожиданно",
+    "literal": "suddenly",
+    "natural": "Suddenly",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вчерашний": {
+    "cyrillic": "вчерашний",
+    "literal": "yesterday's",
+    "natural": "Yesterday's",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вздохнуть": {
+    "cyrillic": "вздохнуть",
+    "literal": "to sigh",
+    "natural": "To sigh",
+    "thumbnail": "null",
+    "analysis": "Verb. Perfective infinitive.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "садиться": {
+    "cyrillic": "садиться",
+    "literal": "sit down",
+    "natural": "Sit down",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "выше": {
+    "cyrillic": "выше",
+    "literal": "higher",
+    "natural": "Higher",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "офицер": {
+    "cyrillic": "офицер",
+    "literal": "officer",
+    "natural": "Officer",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "толпа": {
+    "cyrillic": "толпа",
+    "literal": "crowd",
+    "natural": "Crowd",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "перестать": {
+    "cyrillic": "перестать",
+    "literal": "stop",
+    "natural": "Stop",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "придтись": {
+    "cyrillic": "придтись",
+    "literal": "have to",
+    "natural": "Have to",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "неизвестный": {
+    "cyrillic": "неизвестный",
+    "literal": "unknown",
+    "natural": "Unknown",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "кресло": {
+    "cyrillic": "кресло",
+    "literal": "armchair",
+    "natural": "Armchair",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "баба": {
+    "cyrillic": "баба",
+    "literal": "woman",
+    "natural": "Woman",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "секунда": {
+    "cyrillic": "секунда",
+    "literal": "second",
+    "natural": "Second",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пожаловать": {
+    "cyrillic": "пожаловать",
+    "literal": "welcome",
+    "natural": "Welcome",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тихий": {
+    "cyrillic": "тихий",
+    "literal": "quiet",
+    "natural": "Quiet",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сапог": {
+    "cyrillic": "сапог",
+    "literal": "boot",
+    "natural": "Boot",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "стекло": {
+    "cyrillic": "стекло",
+    "literal": "glass",
+    "natural": "Glass",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "протянуть": {
+    "cyrillic": "протянуть",
+    "literal": "stretch out",
+    "natural": "Stretch out",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "десяток": {
+    "cyrillic": "десяток",
+    "literal": "ten",
+    "natural": "Ten",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "цветок": {
+    "cyrillic": "цветок",
+    "literal": "flower",
+    "natural": "Flower",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ах": {
+    "cyrillic": "ах",
+    "literal": "ah",
+    "natural": "Ah",
+    "thumbnail": "null",
+    "analysis": "Interjection. Ah; oh.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дождь": {
+    "cyrillic": "дождь",
+    "literal": "rain",
+    "natural": "Rain",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "впереди": {
+    "cyrillic": "впереди",
+    "literal": "ahead",
+    "natural": "Ahead",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лоб": {
+    "cyrillic": "лоб",
+    "literal": "forehead",
+    "natural": "Forehead",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "улыбка": {
+    "cyrillic": "улыбка",
+    "literal": "smile",
+    "natural": "Smile",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ворот": {
+    "cyrillic": "ворот",
+    "literal": "gate",
+    "natural": "Gate",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ящик": {
+    "cyrillic": "ящик",
+    "literal": "box",
+    "natural": "Box",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "этаж": {
+    "cyrillic": "этаж",
+    "literal": "floor",
+    "natural": "Floor",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "голубой": {
+    "cyrillic": "голубой",
+    "literal": "blue",
+    "natural": "Blue",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "нечего": {
+    "cyrillic": "нечего",
+    "literal": "nothing",
+    "natural": "Nothing",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "революция": {
+    "cyrillic": "революция",
+    "literal": "revolution",
+    "natural": "Revolution",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сосед": {
+    "cyrillic": "сосед",
+    "literal": "neighbour",
+    "natural": "Neighbour",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "чей": {
+    "cyrillic": "чей",
+    "literal": "whose",
+    "natural": "Whose",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "поверить": {
+    "cyrillic": "поверить",
+    "literal": "believe",
+    "natural": "Believe",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "взглянуть": {
+    "cyrillic": "взглянуть",
+    "literal": "to glance",
+    "natural": "To glance",
+    "thumbnail": "null",
+    "analysis": "Verb. Perfective infinitive.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "слабый": {
+    "cyrillic": "слабый",
+    "literal": "weak",
+    "natural": "Weak",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "уверенный": {
+    "cyrillic": "уверенный",
+    "literal": "confident",
+    "natural": "Confident",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дурак": {
+    "cyrillic": "дурак",
+    "literal": "fool",
+    "natural": "Fool",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пришлый": {
+    "cyrillic": "пришлый",
+    "literal": "newcomer",
+    "natural": "Newcomer",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "висеть": {
+    "cyrillic": "висеть",
+    "literal": "hang",
+    "natural": "Hang",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "серьёзный": {
+    "cyrillic": "серьёзный",
+    "literal": "serious",
+    "natural": "Serious",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "стул": {
+    "cyrillic": "стул",
+    "literal": "chair",
+    "natural": "Chair",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "поезд": {
+    "cyrillic": "поезд",
+    "literal": "train",
+    "natural": "Train",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тень": {
+    "cyrillic": "тень",
+    "literal": "shadow",
+    "natural": "Shadow",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лошадь": {
+    "cyrillic": "лошадь",
+    "literal": "horse",
+    "natural": "Horse",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "разговаривать": {
+    "cyrillic": "разговаривать",
+    "literal": "talk",
+    "natural": "Talk",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "связанный": {
+    "cyrillic": "связанный",
+    "literal": "connected",
+    "natural": "Connected",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "горячий": {
+    "cyrillic": "горячий",
+    "literal": "hot",
+    "natural": "Hot",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "повернуться": {
+    "cyrillic": "повернуться",
+    "literal": "turn around",
+    "natural": "Turn around",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "острый": {
+    "cyrillic": "острый",
+    "literal": "spicy",
+    "natural": "Spicy",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "король": {
+    "cyrillic": "король",
+    "literal": "king",
+    "natural": "King",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "полковник": {
+    "cyrillic": "полковник",
+    "literal": "Colonel",
+    "natural": "Colonel",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мелкий": {
+    "cyrillic": "мелкий",
+    "literal": "small",
+    "natural": "Small",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "бок": {
+    "cyrillic": "бок",
+    "literal": "side",
+    "natural": "Side",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мозг": {
+    "cyrillic": "мозг",
+    "literal": "brain",
+    "natural": "Brain",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "крыша": {
+    "cyrillic": "крыша",
+    "literal": "roof",
+    "natural": "Roof",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "обратно": {
+    "cyrillic": "обратно",
+    "literal": "back",
+    "natural": "Back",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дама": {
+    "cyrillic": "дама",
+    "literal": "lady",
+    "natural": "Lady",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "семь": {
+    "cyrillic": "семь",
+    "literal": "seven",
+    "natural": "Seven",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "веселый": {
+    "cyrillic": "веселый",
+    "literal": "funny",
+    "natural": "Funny",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "прислать": {
+    "cyrillic": "прислать",
+    "literal": "send",
+    "natural": "Send",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "милый": {
+    "cyrillic": "милый",
+    "literal": "sweet / cute",
+    "natural": "Sweet / cute",
+    "thumbnail": "null",
+    "analysis": "Adjective. Sweet; cute; dear.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мол": {
+    "cyrillic": "мол",
+    "literal": "they say",
+    "natural": "They say",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "повторить": {
+    "cyrillic": "повторить",
+    "literal": "repeat",
+    "natural": "Repeat",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "невозможно": {
+    "cyrillic": "невозможно",
+    "literal": "impossible",
+    "natural": "Impossible",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "зеркало": {
+    "cyrillic": "зеркало",
+    "literal": "mirror",
+    "natural": "Mirror",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "погибнуть": {
+    "cyrillic": "погибнуть",
+    "literal": "die",
+    "natural": "Die",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "американский": {
+    "cyrillic": "американский",
+    "literal": "American",
+    "natural": "American",
+    "thumbnail": "null",
+    "analysis": "Adjective. American.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дым": {
+    "cyrillic": "дым",
+    "literal": "smoke",
+    "natural": "Smoke",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "гореть": {
+    "cyrillic": "гореть",
+    "literal": "burn",
+    "natural": "Burn",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "плакать": {
+    "cyrillic": "плакать",
+    "literal": "cry",
+    "natural": "Cry",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "двигаться": {
+    "cyrillic": "двигаться",
+    "literal": "move",
+    "natural": "Move",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "удивиться": {
+    "cyrillic": "удивиться",
+    "literal": "be surprised",
+    "natural": "Be surprised",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "бабушка": {
+    "cyrillic": "бабушка",
+    "literal": "grandmother",
+    "natural": "Grandmother",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вино": {
+    "cyrillic": "вино",
+    "literal": "wine",
+    "natural": "Wine",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "осторожно": {
+    "cyrillic": "осторожно",
+    "literal": "carefully",
+    "natural": "Carefully",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "правильно": {
+    "cyrillic": "правильно",
+    "literal": "correctly",
+    "natural": "Correctly",
+    "thumbnail": "null",
+    "analysis": "Adverb. Correctly; right.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "держаться": {
+    "cyrillic": "держаться",
+    "literal": "keep",
+    "natural": "Keep",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лететь": {
+    "cyrillic": "лететь",
+    "literal": "fly",
+    "natural": "Fly",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лагерь": {
+    "cyrillic": "лагерь",
+    "literal": "camp",
+    "natural": "Camp",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "птица": {
+    "cyrillic": "птица",
+    "literal": "bird",
+    "natural": "Bird",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ночной": {
+    "cyrillic": "ночной",
+    "literal": "night",
+    "natural": "Night",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "здоровый": {
+    "cyrillic": "здоровый",
+    "literal": "healthy",
+    "natural": "Healthy",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "зима": {
+    "cyrillic": "зима",
+    "literal": "winter",
+    "natural": "Winter",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сухой": {
+    "cyrillic": "сухой",
+    "literal": "dry",
+    "natural": "Dry",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "километр": {
+    "cyrillic": "километр",
+    "literal": "kilometer",
+    "natural": "Kilometer",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "кровать": {
+    "cyrillic": "кровать",
+    "literal": "bed",
+    "natural": "Bed",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "привыкнуть": {
+    "cyrillic": "привыкнуть",
+    "literal": "to get used to",
+    "natural": "To get used to",
+    "thumbnail": "null",
+    "analysis": "Verb. Perfective infinitive.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "прочее": {
+    "cyrillic": "прочее",
+    "literal": "other",
+    "natural": "Other",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лестница": {
+    "cyrillic": "лестница",
+    "literal": "ladder",
+    "natural": "Ladder",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "неужели": {
+    "cyrillic": "неужели",
+    "literal": "really",
+    "natural": "Really",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вверх": {
+    "cyrillic": "вверх",
+    "literal": "up",
+    "natural": "Up",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "детство": {
+    "cyrillic": "детство",
+    "literal": "childhood",
+    "natural": "Childhood",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "остров": {
+    "cyrillic": "остров",
+    "literal": "island",
+    "natural": "Island",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мешать": {
+    "cyrillic": "мешать",
+    "literal": "interfere",
+    "natural": "Interfere",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "водка": {
+    "cyrillic": "водка",
+    "literal": "vodka",
+    "natural": "Vodka",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "темнота": {
+    "cyrillic": "темнота",
+    "literal": "darkness",
+    "natural": "Darkness",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "станция": {
+    "cyrillic": "станция",
+    "literal": "station",
+    "natural": "Station",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "попробовать": {
+    "cyrillic": "попробовать",
+    "literal": "try",
+    "natural": "Try",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "странно": {
+    "cyrillic": "странно",
+    "literal": "strangely",
+    "natural": "Strangely",
+    "thumbnail": "null",
+    "analysis": "Adverb. Strangely; oddly.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вскоре": {
+    "cyrillic": "вскоре",
+    "literal": "soon",
+    "natural": "Soon",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "заболевание": {
+    "cyrillic": "заболевание",
+    "literal": "disease",
+    "natural": "Disease",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "живот": {
+    "cyrillic": "живот",
+    "literal": "stomach",
+    "natural": "Stomach",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ради": {
+    "cyrillic": "ради",
+    "literal": "for the sake of",
+    "natural": "For the sake of",
+    "thumbnail": "null",
+    "analysis": "Preposition. For the sake of; for.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тишина": {
+    "cyrillic": "тишина",
+    "literal": "silence",
+    "natural": "Silence",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "понятно": {
+    "cyrillic": "понятно",
+    "literal": "clear / understood",
+    "natural": "Clear / understood",
+    "thumbnail": "null",
+    "analysis": "Predicative. Clear; understood.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "фронт": {
+    "cyrillic": "фронт",
+    "literal": "front",
+    "natural": "Front",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "щека": {
+    "cyrillic": "щека",
+    "literal": "cheek",
+    "natural": "Cheek",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "страшно": {
+    "cyrillic": "страшно",
+    "literal": "scary",
+    "natural": "Scary",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "наверно": {
+    "cyrillic": "наверно",
+    "literal": "maybe",
+    "natural": "Maybe",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "выражение": {
+    "cyrillic": "выражение",
+    "literal": "expression",
+    "natural": "Expression",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "слегка": {
+    "cyrillic": "слегка",
+    "literal": "slightly",
+    "natural": "Slightly",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мешок": {
+    "cyrillic": "мешок",
+    "literal": "bag",
+    "natural": "Bag",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "обещать": {
+    "cyrillic": "обещать",
+    "literal": "promise",
+    "natural": "Promise",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "собраться": {
+    "cyrillic": "собраться",
+    "literal": "get together",
+    "natural": "Get together",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "колоть": {
+    "cyrillic": "колоть",
+    "literal": "prick",
+    "natural": "Prick",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мокрый": {
+    "cyrillic": "мокрый",
+    "literal": "wet",
+    "natural": "Wet",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "приказ": {
+    "cyrillic": "приказ",
+    "literal": "order",
+    "natural": "Order",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "закричать": {
+    "cyrillic": "закричать",
+    "literal": "scream",
+    "natural": "Scream",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "кончиться": {
+    "cyrillic": "кончиться",
+    "literal": "end",
+    "natural": "End",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "куст": {
+    "cyrillic": "куст",
+    "literal": "bush",
+    "natural": "Bush",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "стрелять": {
+    "cyrillic": "стрелять",
+    "literal": "fire",
+    "natural": "Fire",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "знак": {
+    "cyrillic": "знак",
+    "literal": "sign",
+    "natural": "Sign",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "кулак": {
+    "cyrillic": "кулак",
+    "literal": "fist",
+    "natural": "Fist",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "стакан": {
+    "cyrillic": "стакан",
+    "literal": "cup",
+    "natural": "Cup",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пахнуть": {
+    "cyrillic": "пахнуть",
+    "literal": "smell",
+    "natural": "Smell",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "отсюда": {
+    "cyrillic": "отсюда",
+    "literal": "from here",
+    "natural": "From here",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лечение": {
+    "cyrillic": "лечение",
+    "literal": "treatment",
+    "natural": "Treatment",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сутки": {
+    "cyrillic": "сутки",
+    "literal": "day",
+    "natural": "Day",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вставать": {
+    "cyrillic": "вставать",
+    "literal": "get up",
+    "natural": "Get up",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "читаю": {
+    "cyrillic": "читаю",
+    "literal": "I read / am reading",
+    "natural": "I read / am reading",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular present of читать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пишу": {
+    "cyrillic": "пишу",
+    "literal": "I write / am writing",
+    "natural": "I write / am writing",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular present of писать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лежит": {
+    "cyrillic": "лежит",
+    "literal": "lies",
+    "natural": "Lies",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сумке": {
+    "cyrillic": "сумке",
+    "literal": "bag",
+    "natural": "Bag",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "опаздывать": {
+    "cyrillic": "опаздывать",
+    "literal": "be late",
+    "natural": "Be late",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "приходит": {
+    "cyrillic": "приходит",
+    "literal": "comes",
+    "natural": "Comes",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "Кошка": {
+    "cyrillic": "Кошка",
+    "literal": "cat",
+    "natural": "Cat",
+    "thumbnail": "null",
+    "analysis": "Noun. Cat.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сидит": {
+    "cyrillic": "сидит",
+    "literal": "sitting",
+    "natural": "Sitting",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "окне": {
+    "cyrillic": "окне",
+    "literal": "window",
+    "natural": "Window",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "учусь": {
+    "cyrillic": "учусь",
+    "literal": "I study / am studying",
+    "natural": "I study / am studying",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular present of учиться.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "видишь": {
+    "cyrillic": "видишь",
+    "literal": "you see",
+    "natural": "You see",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "внимательным": {
+    "cyrillic": "внимательным",
+    "literal": "attentive",
+    "natural": "Attentive",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "важно": {
+    "cyrillic": "важно",
+    "literal": "important",
+    "natural": "Important",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пришёл": {
+    "cyrillic": "пришёл",
+    "literal": "came",
+    "natural": "Came",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "другом": {
+    "cyrillic": "другом",
+    "literal": "friend",
+    "natural": "Friend",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "работе": {
+    "cyrillic": "работе",
+    "literal": "work",
+    "natural": "Work",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "делаешь": {
+    "cyrillic": "делаешь",
+    "literal": "you do",
+    "natural": "You do",
+    "thumbnail": "null",
+    "analysis": "Verb. Second person singular present of делать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "читает": {
+    "cyrillic": "читает",
+    "literal": "reads",
+    "natural": "Reads",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "книгу": {
+    "cyrillic": "книгу",
+    "literal": "book",
+    "natural": "Book",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "гуляем": {
+    "cyrillic": "гуляем",
+    "literal": "we're walking",
+    "natural": "We're walking",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "парку": {
+    "cyrillic": "парку",
+    "literal": "park",
+    "natural": "Park",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "хотел": {
+    "cyrillic": "хотел",
+    "literal": "wanted",
+    "natural": "Wanted",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пошёл": {
+    "cyrillic": "пошёл",
+    "literal": "let's go",
+    "natural": "Let's go",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ждут": {
+    "cyrillic": "ждут",
+    "literal": "waiting",
+    "natural": "Waiting",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "автобус": {
+    "cyrillic": "автобус",
+    "literal": "bus",
+    "natural": "Bus",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дому": {
+    "cyrillic": "дому",
+    "literal": "home",
+    "natural": "Home",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "готов": {
+    "cyrillic": "готов",
+    "literal": "ready",
+    "natural": "Ready",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вышел": {
+    "cyrillic": "вышел",
+    "literal": "came out",
+    "natural": "Came out",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "работаем": {
+    "cyrillic": "работаем",
+    "literal": "we work",
+    "natural": "We work",
+    "thumbnail": "null",
+    "analysis": "Verb. First person plural present of работать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "спрятались": {
+    "cyrillic": "спрятались",
+    "literal": "hid",
+    "natural": "Hid",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "деревом": {
+    "cyrillic": "деревом",
+    "literal": "tree",
+    "natural": "Tree",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "идёте": {
+    "cyrillic": "идёте",
+    "literal": "come on",
+    "natural": "Come on",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мной": {
+    "cyrillic": "мной",
+    "literal": "me",
+    "natural": "Me",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "делает": {
+    "cyrillic": "делает",
+    "literal": "does",
+    "natural": "Does",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "Сделай": {
+    "cyrillic": "Сделай",
+    "literal": "do it",
+    "natural": "Do it",
+    "thumbnail": "null",
+    "analysis": "Verb. Imperative singular of сделать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пришло": {
+    "cyrillic": "пришло",
+    "literal": "it's arrived",
+    "natural": "It's arrived",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "друга": {
+    "cyrillic": "друга",
+    "literal": "friend",
+    "natural": "Friend",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "вижу": {
+    "cyrillic": "вижу",
+    "literal": "I see",
+    "natural": "I see",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular present of видеть.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "говорим": {
+    "cyrillic": "говорим",
+    "literal": "we talk",
+    "natural": "We talk",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тебе": {
+    "cyrillic": "тебе",
+    "literal": "you",
+    "natural": "You",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "времени": {
+    "cyrillic": "времени",
+    "literal": "time",
+    "natural": "Time",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "начал": {
+    "cyrillic": "начал",
+    "literal": "started",
+    "natural": "Started",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "бережёт": {
+    "cyrillic": "бережёт",
+    "literal": "protects",
+    "natural": "Protects",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "берёт": {
+    "cyrillic": "берёт",
+    "literal": "beret",
+    "natural": "Beret",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пальто": {
+    "cyrillic": "пальто",
+    "literal": "coat",
+    "natural": "Coat",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "выберешь": {
+    "cyrillic": "выберешь",
+    "literal": "you will choose",
+    "natural": "You will choose",
+    "thumbnail": "null",
+    "analysis": "Verb. Second person singular future of выбрать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "придёшь": {
+    "cyrillic": "придёшь",
+    "literal": "you'll come",
+    "natural": "You'll come",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ушёл": {
+    "cyrillic": "ушёл",
+    "literal": "left",
+    "natural": "Left",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "подарок": {
+    "cyrillic": "подарок",
+    "literal": "present",
+    "natural": "Present",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тебя": {
+    "cyrillic": "тебя",
+    "literal": "you",
+    "natural": "You",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ключ": {
+    "cyrillic": "ключ",
+    "literal": "key",
+    "natural": "Key",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "согласен": {
+    "cyrillic": "согласен",
+    "literal": "agree",
+    "natural": "Agree",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "русски": {
+    "cyrillic": "русски",
+    "literal": "in Russian",
+    "natural": "In Russian",
+    "thumbnail": "null",
+    "analysis": "Adverb. In Russian.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "был": {
+    "cyrillic": "был",
+    "literal": "was",
+    "natural": "Was",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "трудным": {
+    "cyrillic": "трудным",
+    "literal": "difficult",
+    "natural": "Difficult",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дошли": {
+    "cyrillic": "дошли",
+    "literal": "got there",
+    "natural": "Got there",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "моста": {
+    "cyrillic": "моста",
+    "literal": "bridge",
+    "natural": "Bridge",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "останемся": {
+    "cyrillic": "останемся",
+    "literal": "let's stay",
+    "natural": "Let's stay",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "устала": {
+    "cyrillic": "устала",
+    "literal": "tired",
+    "natural": "Tired",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "шагу": {
+    "cyrillic": "шагу",
+    "literal": "step",
+    "natural": "Step",
+    "thumbnail": "null",
+    "analysis": "Noun. Dative / genitive / prepositional of шаг.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лучше": {
+    "cyrillic": "лучше",
+    "literal": "better",
+    "natural": "Better",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "спорю": {
+    "cyrillic": "спорю",
+    "literal": "I argue / disagree",
+    "natural": "I argue / disagree",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular present of спорить.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "него": {
+    "cyrillic": "него",
+    "literal": "him",
+    "natural": "Him",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "открыт": {
+    "cyrillic": "открыт",
+    "literal": "open",
+    "natural": "Open",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "начнём": {
+    "cyrillic": "начнём",
+    "literal": "let's start",
+    "natural": "Let's start",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "столом": {
+    "cyrillic": "столом",
+    "literal": "table",
+    "natural": "Table",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "важное": {
+    "cyrillic": "важное",
+    "literal": "important",
+    "natural": "Important",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "нас": {
+    "cyrillic": "нас",
+    "literal": "us",
+    "natural": "Us",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "всё": {
+    "cyrillic": "всё",
+    "literal": "everything",
+    "natural": "Everything",
+    "thumbnail": "null",
+    "analysis": "Pronoun / quantifier. Everything; all.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "сделаю": {
+    "cyrillic": "сделаю",
+    "literal": "I will do it",
+    "natural": "I will do it",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular future of сделать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "билета": {
+    "cyrillic": "билета",
+    "literal": "ticket",
+    "natural": "Ticket",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "темно": {
+    "cyrillic": "темно",
+    "literal": "dark",
+    "natural": "Dark",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "занят": {
+    "cyrillic": "занят",
+    "literal": "busy",
+    "natural": "Busy",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "идёт": {
+    "cyrillic": "идёт",
+    "literal": "coming",
+    "natural": "Coming",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дальше": {
+    "cyrillic": "дальше",
+    "literal": "further",
+    "natural": "Further",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "дворе": {
+    "cyrillic": "дворе",
+    "literal": "yard",
+    "natural": "Yard",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пусто": {
+    "cyrillic": "пусто",
+    "literal": "empty",
+    "natural": "Empty",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мешает": {
+    "cyrillic": "мешает",
+    "literal": "interferes",
+    "natural": "Interferes",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "обсудим": {
+    "cyrillic": "обсудим",
+    "literal": "let's discuss",
+    "natural": "Let's discuss",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "устал": {
+    "cyrillic": "устал",
+    "literal": "tired",
+    "natural": "Tired",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "свете": {
+    "cyrillic": "свете",
+    "literal": "light",
+    "natural": "Light",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "лампы": {
+    "cyrillic": "лампы",
+    "literal": "lamps",
+    "natural": "Lamps",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "легче": {
+    "cyrillic": "легче",
+    "literal": "easier",
+    "natural": "Easier",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "болит": {
+    "cyrillic": "болит",
+    "literal": "hurts",
+    "natural": "Hurts",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "воды": {
+    "cyrillic": "воды",
+    "literal": "water",
+    "natural": "Water",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пойду": {
+    "cyrillic": "пойду",
+    "literal": "I will go",
+    "natural": "I will go",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular future of пойти.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "двери": {
+    "cyrillic": "двери",
+    "literal": "doors",
+    "natural": "Doors",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "холме": {
+    "cyrillic": "холме",
+    "literal": "hill",
+    "natural": "Hill",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "урока": {
+    "cyrillic": "урока",
+    "literal": "lesson",
+    "natural": "Lesson",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "уйдём": {
+    "cyrillic": "уйдём",
+    "literal": "let's leave",
+    "natural": "Let's leave",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "тепло": {
+    "cyrillic": "тепло",
+    "literal": "warm",
+    "natural": "Warm",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "удобное": {
+    "cyrillic": "удобное",
+    "literal": "comfortable",
+    "natural": "Comfortable",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "идём": {
+    "cyrillic": "идём",
+    "literal": "let's go",
+    "natural": "Let's go",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "мост": {
+    "cyrillic": "мост",
+    "literal": "bridge",
+    "natural": "Bridge",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "спокойное": {
+    "cyrillic": "спокойное",
+    "literal": "calm",
+    "natural": "Calm",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "понимаешь": {
+    "cyrillic": "понимаешь",
+    "literal": "understand",
+    "natural": "Understand",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "важен": {
+    "cyrillic": "важен",
+    "literal": "important",
+    "natural": "Important",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "Нам": {
+    "cyrillic": "Нам",
+    "literal": "to us",
+    "natural": "To us",
+    "thumbnail": "null",
+    "analysis": "Pronoun. Dative plural of мы.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "молчишь": {
+    "cyrillic": "молчишь",
+    "literal": "you are silent",
+    "natural": "You are silent",
+    "thumbnail": "null",
+    "analysis": "Verb. Second person singular present of молчать.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "нашли": {
+    "cyrillic": "нашли",
+    "literal": "found",
+    "natural": "Found",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "должны": {
+    "cyrillic": "должны",
+    "literal": "should",
+    "natural": "Should",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "ответил": {
+    "cyrillic": "ответил",
+    "literal": "replied",
+    "natural": "Replied",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "опаздывает": {
+    "cyrillic": "опаздывает",
+    "literal": "is late",
+    "natural": "Is late",
+    "thumbnail": "null",
+    "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "Эти": {
+    "cyrillic": "Эти",
+    "literal": "these",
+    "natural": "These",
+    "thumbnail": "null",
+    "analysis": "Demonstrative pronoun. Plural of this.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "пойму": {
+    "cyrillic": "пойму",
+    "literal": "I will understand",
+    "natural": "I will understand",
+    "thumbnail": "null",
+    "analysis": "Verb. First person singular future of понять.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "Эта": {
+    "cyrillic": "Эта",
+    "literal": "this",
+    "natural": "This",
+    "thumbnail": "null",
+    "analysis": "Demonstrative pronoun. Feminine singular of this.",
+    "synonym": "null",
+    "antonym": "null"
   }
 }
-

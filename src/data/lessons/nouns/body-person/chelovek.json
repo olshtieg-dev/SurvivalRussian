@@ -1,0 +1,20 @@
+[
+  {
+    "id": "NN-BODY-CHELOVEK",
+    "label": "Человек",
+    "badge": "PERSON",
+    "description": "A 10-sentence usage card for человек with role, number, and case movement.",
+    "missions": [
+      { "id": "NN-BODY-CHELOVEK-01", "phrase": "один человек", "fullAnalysis": "Strategic focus: Basic countable noun. 1. 'Человек' is one of the most important Russian person nouns. 2. 'Один' keeps the line simple. 3. This is the cleanest count-and-name starter." },
+      { "id": "NN-BODY-CHELOVEK-02", "phrase": "этот человек", "fullAnalysis": "Strategic focus: Demonstrative reference. 1. 'Этот' points at a specific person. 2. 'Человек' stays central and unambiguous. 3. The phrase is useful in conversation and description." },
+      { "id": "NN-BODY-CHELOVEK-03", "phrase": "человек в комнате", "fullAnalysis": "Strategic focus: Person plus location. 1. 'В комнате' gives a clear physical scene. 2. 'Человек' remains the noun focus. 3. This is a simple but high-frequency structure." },
+      { "id": "NN-BODY-CHELOVEK-04", "phrase": "человека ждут", "fullAnalysis": "Strategic focus: Accusative object use. 1. 'Человека' shows the object form. 2. 'Ждут' is plural and unspecified. 3. This sentence teaches role shift without changing the core noun." },
+      { "id": "NN-BODY-CHELOVEK-05", "phrase": "у человека есть имя", "fullAnalysis": "Strategic focus: Possession frame. 1. 'У человека есть' is a standard Russian pattern. 2. 'Имя' makes the sentence personal and useful. 3. This is a very natural identity sentence." },
+      { "id": "NN-BODY-CHELOVEK-06", "phrase": "помог человеку", "fullAnalysis": "Strategic focus: Dative recipient. 1. 'Человеку' is the person receiving help. 2. 'Помог' is a high-value social verb. 3. The sentence is small but grammatically rich." },
+      { "id": "NN-BODY-CHELOVEK-07", "phrase": "с человеком разговаривают", "fullAnalysis": "Strategic focus: Instrumental relation. 1. 'С человеком' is a common prepositional/instrumental frame. 2. 'Разговаривают' gives the sentence social meaning. 3. It is a great pattern for interaction language." },
+      { "id": "NN-BODY-CHELOVEK-08", "phrase": "о человеке говорят", "fullAnalysis": "Strategic focus: Prepositional case. 1. 'О человеке' is the standard 'about a person' shape. 2. 'Говорят' keeps the sentence general. 3. This is useful for reading and discussion contexts." },
+      { "id": "NN-BODY-CHELOVEK-09", "phrase": "человек и люди", "fullAnalysis": "Strategic focus: Singular versus plural. 1. The sentence contrasts one person with many people. 2. It is short and highly memorable. 3. This is a good anchor for semantic number training." },
+      { "id": "NN-BODY-CHELOVEK-10", "phrase": "хороший человек", "fullAnalysis": "Strategic focus: Basic evaluation. 1. 'Хороший' is a common adjective that learners use immediately. 2. 'Человек' is the core social noun. 3. The phrase is useful in daily praise and description." }
+    ]
+  }
+]

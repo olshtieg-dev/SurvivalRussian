@@ -1,0 +1,60 @@
+[
+  {
+    "id": "LX-VODA",
+    "label": "Вода",
+    "badge": "ВД",
+    "description": "High-utility water sentences for everyday survival and conversation.",
+    "missions": [
+      {
+        "id": "LX-VODA-01",
+        "phrase": "мне нужна вода",
+        "fullAnalysis": "Strategic focus: Immediate need. 1. 'Мне нужна' is the standard necessity pattern. 2. 'Вода' keeps the sentence practical and survival-oriented. 3. This is one of the most useful early phrases in any language."
+      },
+      {
+        "id": "LX-VODA-02",
+        "phrase": "вода холодная",
+        "fullAnalysis": "Strategic focus: Direct description. 1. 'Вода' is the target noun. 2. 'Холодная' teaches feminine adjective agreement. 3. Short sentences like this are ideal for rapid reading and typing drills."
+      },
+      {
+        "id": "LX-VODA-03",
+        "phrase": "я пью воду",
+        "fullAnalysis": "Strategic focus: Everyday action. 1. 'Пью' is a first-person present tense verb. 2. 'Воду' shows the accusative form of the noun. 3. This is a very high-frequency real-life sentence."
+      },
+      {
+        "id": "LX-VODA-04",
+        "phrase": "где вода",
+        "fullAnalysis": "Strategic focus: Simple question. 1. 'Где' gives a fast location query. 2. 'Вода' is the core target noun. 3. This is a practical survival sentence for travel and home use."
+      },
+      {
+        "id": "LX-VODA-05",
+        "phrase": "вода в стакане",
+        "fullAnalysis": "Strategic focus: Container relation. 1. 'Вода' stays visible as the target word. 2. 'В стакане' teaches location inside a container. 3. This pattern is useful for describing objects on a table or in a kitchen."
+      },
+      {
+        "id": "LX-VODA-06",
+        "phrase": "я наливаю воду",
+        "fullAnalysis": "Strategic focus: Controlled action. 1. 'Наливаю' is a practical verb for pouring. 2. 'Воду' reinforces the object form. 3. This sentence is especially useful in kitchen and household lessons."
+      },
+      {
+        "id": "LX-VODA-07",
+        "phrase": "нам нужна чистая вода",
+        "fullAnalysis": "Strategic focus: Group need plus adjective agreement. 1. 'Нам нужна' keeps the dative need frame. 2. 'Чистая' agrees with the feminine noun. 3. 'Вода' stays a real, useful survival word."
+      },
+      {
+        "id": "LX-VODA-08",
+        "phrase": "вода нужна каждый день",
+        "fullAnalysis": "Strategic focus: Practical necessity. 1. 'Нужна' keeps the sentence direct. 2. 'Каждый день' gives useful time frequency. 3. This is a strong sentence for making the word stick in memory."
+      },
+      {
+        "id": "LX-VODA-09",
+        "phrase": "это вода из колодца",
+        "fullAnalysis": "Strategic focus: Source description. 1. 'Это' sets the sentence up clearly. 2. 'Вода из колодца' adds a source phrase. 3. This pattern is useful for descriptive and narrative speech."
+      },
+      {
+        "id": "LX-VODA-10",
+        "phrase": "моя вода уже остыла",
+        "fullAnalysis": "Strategic focus: State change. 1. 'Моя вода' anchors the noun with possession. 2. 'Уже' adds a very common time/state marker. 3. 'Остыла' is a natural completion-style verb for a drink going cold."
+      }
+    ]
+  }
+]

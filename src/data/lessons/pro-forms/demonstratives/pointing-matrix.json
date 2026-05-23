@@ -1,0 +1,67 @@
+[
+  {
+    "id": "PF-D-ETO",
+    "label": "Это",
+    "badge": "THIS",
+    "description": "Five short drills for the basic pointing word that anchors visible reference.",
+    "missions": [
+      { "id": "PF-D-ETO-01", "phrase": "это дом", "fullAnalysis": "Strategic focus: Basic pointing. 1. 'Это' points at something concrete. 2. 'Дом' keeps the referent easy to picture. 3. This is the simplest demonstrative frame in Russian." },
+      { "id": "PF-D-ETO-02", "phrase": "это моя книга", "fullAnalysis": "Strategic focus: Pointing plus possession. 1. 'Это' anchors the object. 2. 'Моя книга' makes the noun personal. 3. The sentence is natural and reusable." },
+      { "id": "PF-D-ETO-03", "phrase": "это важно для нас", "fullAnalysis": "Strategic focus: Abstract pointing. 1. 'Это' points to a concept or situation. 2. 'Важно' gives the sentence weight. 3. 'Для нас' makes the relevance clear." },
+      { "id": "PF-D-ETO-04", "phrase": "это окно открыто", "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Это' works naturally with neuter nouns. 2. 'Окно открыто' gives a clear state. 3. The line is compact and visual." },
+      { "id": "PF-D-ETO-05", "phrase": "это было вчера", "fullAnalysis": "Strategic focus: Time reference. 1. 'Это' marks the event or thing being discussed. 2. 'Было вчера' gives the temporal frame. 3. This is a useful memory and narration sentence." }
+    ]
+  },
+  {
+    "id": "PF-D-ZDES",
+    "label": "Здесь",
+    "badge": "HERE",
+    "description": "Five short drills for near-location reference.",
+    "missions": [
+      { "id": "PF-D-ZDES-01", "phrase": "здесь тихо сейчас", "fullAnalysis": "Strategic focus: Near-place state. 1. 'Здесь' marks the immediate location. 2. 'Тихо' gives the environmental feeling. 3. 'Сейчас' pins it to the moment." },
+      { "id": "PF-D-ZDES-02", "phrase": "здесь моя книга", "fullAnalysis": "Strategic focus: Near-place possession. 1. 'Здесь' points to the speaker's area. 2. 'Моя книга' is the concrete object. 3. This is a simple, very reusable sentence." },
+      { "id": "PF-D-ZDES-03", "phrase": "здесь нет света", "fullAnalysis": "Strategic focus: Absence in place. 1. 'Здесь' anchors the location. 2. 'Нет света' gives a clear absence. 3. This is practical in homes and travel." },
+      { "id": "PF-D-ZDES-04", "phrase": "здесь мы ждем", "fullAnalysis": "Strategic focus: Shared action at location. 1. 'Здесь' sets the scene. 2. 'Мы ждем' makes the action concrete. 3. This is a good meeting-place sentence." },
+      { "id": "PF-D-ZDES-05", "phrase": "здесь все готово", "fullAnalysis": "Strategic focus: Readiness. 1. 'Здесь' gives the location. 2. 'Все готово' states completion. 3. The sentence is useful for setup and planning." }
+    ]
+  },
+  {
+    "id": "PF-D-TAM",
+    "label": "Там",
+    "badge": "THERE",
+    "description": "Five short drills for distant-location reference.",
+    "missions": [
+      { "id": "PF-D-TAM-01", "phrase": "там шумно сейчас", "fullAnalysis": "Strategic focus: Far-place state. 1. 'Там' marks the distant location. 2. 'Шумно' gives the scene atmosphere. 3. 'Сейчас' makes the observation immediate." },
+      { "id": "PF-D-TAM-02", "phrase": "там стоит дом", "fullAnalysis": "Strategic focus: Far-place object. 1. 'Там' points away from the speaker. 2. 'Стоит дом' gives a clear visual target. 3. This is a clean location statement." },
+      { "id": "PF-D-TAM-03", "phrase": "там лежит ключ", "fullAnalysis": "Strategic focus: Object placement. 1. 'Там' sets the distant field. 2. 'Лежит ключ' keeps the sentence concrete. 3. This is practical for finding things." },
+      { "id": "PF-D-TAM-04", "phrase": "там они работают", "fullAnalysis": "Strategic focus: Activity at distance. 1. 'Там' locates the action elsewhere. 2. 'Они работают' gives a clear ongoing process. 3. The sentence is simple and natural." },
+      { "id": "PF-D-TAM-05", "phrase": "там все иначе", "fullAnalysis": "Strategic focus: Contrastive place. 1. 'Там' points to another place. 2. 'Все иначе' shows difference. 3. This is a useful conversational observation." }
+    ]
+  },
+  {
+    "id": "PF-D-SEICHAS",
+    "label": "Сейчас",
+    "badge": "NOW",
+    "description": "Five short drills for present-time anchoring.",
+    "missions": [
+      { "id": "PF-D-SEICHAS-01", "phrase": "сейчас мы идем", "fullAnalysis": "Strategic focus: Immediate action. 1. 'Сейчас' anchors the action now. 2. 'Мы идем' keeps the motion concrete. 3. This is a core planning sentence." },
+      { "id": "PF-D-SEICHAS-02", "phrase": "сейчас я читаю", "fullAnalysis": "Strategic focus: Current activity. 1. 'Сейчас' narrows the time frame. 2. 'Я читаю' gives a simple present activity. 3. This is ideal for talking about what you are doing." },
+      { "id": "PF-D-SEICHAS-03", "phrase": "сейчас он спит", "fullAnalysis": "Strategic focus: Current state. 1. 'Сейчас' keeps the sentence immediate. 2. 'Он спит' is a common real-life action. 3. The line is short and easy to reuse." },
+      { "id": "PF-D-SEICHAS-04", "phrase": "сейчас идет дождь", "fullAnalysis": "Strategic focus: Present weather. 1. 'Сейчас' anchors the moment. 2. 'Идет дождь' is a classic Russian weather frame. 3. The sentence is very practical." },
+      { "id": "PF-D-SEICHAS-05", "phrase": "сейчас все ясно", "fullAnalysis": "Strategic focus: Present understanding. 1. 'Сейчас' makes the timing explicit. 2. 'Все ясно' gives a clean state. 3. This is useful in explanations and confirmations." }
+    ]
+  },
+  {
+    "id": "PF-D-TOGDA",
+    "label": "Тогда",
+    "badge": "THEN",
+    "description": "Five short drills for past-reference and sequence timing.",
+    "missions": [
+      { "id": "PF-D-TOGDA-01", "phrase": "тогда было тихо", "fullAnalysis": "Strategic focus: Past state. 1. 'Тогда' points to a previous time. 2. 'Было тихо' gives the state. 3. This is a useful memory sentence." },
+      { "id": "PF-D-TOGDA-02", "phrase": "тогда мы пришли", "fullAnalysis": "Strategic focus: Sequence in time. 1. 'Тогда' marks the moment in the past. 2. 'Мы пришли' gives the completed action. 3. The sentence is simple and narrative." },
+      { "id": "PF-D-TOGDA-03", "phrase": "тогда он молчал", "fullAnalysis": "Strategic focus: Past behavior. 1. 'Тогда' sets the time frame. 2. 'Он молчал' gives the state or action. 3. This is a good story-telling sentence." },
+      { "id": "PF-D-TOGDA-04", "phrase": "тогда все изменилось", "fullAnalysis": "Strategic focus: Turning point. 1. 'Тогда' identifies the pivot time. 2. 'Все изменилось' shows the result. 3. This is a powerful narrative pattern." },
+      { "id": "PF-D-TOGDA-05", "phrase": "тогда я понял", "fullAnalysis": "Strategic focus: Insight moment. 1. 'Тогда' marks the moment of realization. 2. 'Я понял' gives a clear mental event. 3. This is useful for explanation and memoir language." }
+    ]
+  }
+]

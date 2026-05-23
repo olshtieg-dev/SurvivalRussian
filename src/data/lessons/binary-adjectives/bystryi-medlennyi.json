@@ -1,0 +1,15 @@
+[
+  {
+    "id": "BA-BYSTRYI-MEDLENNYI",
+    "label": "Быстрый / Медленный",
+    "badge": "FAST/SLOW",
+    "description": "Speed contrasts for movement, response, and everyday pacing.",
+    "missions": [
+      { "id": "BA-BM-01", "phrase": "быстрый шаг", "fullAnalysis": "Strategic focus: Motion speed. 1. 'Быстрый' matches the masculine noun 'шаг'. 2. The phrase is short and physically intuitive. 3. This is a clean entry into speed adjectives." },
+      { "id": "BA-BM-02", "phrase": "медленная речь", "fullAnalysis": "Strategic focus: Speaking pace. 1. 'Медленная' matches the feminine noun 'речь'. 2. The sentence is useful for sound and conversation training. 3. It describes speed without needing a verb." },
+      { "id": "BA-BM-03", "phrase": "быстрая машина", "fullAnalysis": "Strategic focus: Vehicle speed. 1. 'Быстрая' matches the feminine noun 'машина'. 2. The image is immediate and easy to remember. 3. This is a classic everyday adjective pair." },
+      { "id": "BA-BM-04", "phrase": "медленный поезд", "fullAnalysis": "Strategic focus: Transit contrast. 1. 'Медленный' matches the masculine noun 'поезд'. 2. The sentence works well in travel lessons. 3. It trains the learner to hear speed as a descriptive adjective." },
+      { "id": "BA-BM-05", "phrase": "быстрое решение, медленный ответ", "fullAnalysis": "Strategic focus: Abstract speed. 1. 'Быстрое' and 'медленный' switch agreement based on noun gender. 2. The sentence contrasts action and reaction. 3. It is a useful future pattern for mixed grammar and meaning." }
+    ]
+  }
+]

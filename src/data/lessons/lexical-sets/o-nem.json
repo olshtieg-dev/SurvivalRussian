@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-O-NEM",
+    "label": "О нём",
+    "badge": "PREP",
+    "description": "Prepositional sentences that train 'about him' after о/обо in real conversation.",
+    "missions": [
+      { "id": "LX-O-NEM-01", "phrase": "о нём говорят", "fullAnalysis": "Strategic focus: About-him reference. 1. 'О нём' is the standard prepositional shape after 'о'. 2. 'Говорят' is plural and leaves the speaker unspecified. 3. This sentence trains the core idea of being discussed." },
+      { "id": "LX-O-NEM-02", "phrase": "они говорят о нём", "fullAnalysis": "Strategic focus: Prepositional phrase with plural subject. 1. 'О нём' is the object of discussion. 2. 'Говорят' is plural present tense. 3. This is a high-value sentence for real-life speech and listening." },
+      { "id": "LX-O-NEM-03", "phrase": "я думаю о нём", "fullAnalysis": "Strategic focus: Self-reference in thought. 1. 'О нём' is the prepositional form. 2. 'Думаю' is first-person singular. 3. This line shows the prepositional case after a common mental verb." },
+      { "id": "LX-O-NEM-04", "phrase": "песня о нём", "fullAnalysis": "Strategic focus: Noun phrase with prepositional complement. 1. 'О нём' describes the topic of the song. 2. 'Песня' keeps the sentence vivid and concrete. 3. This pattern is common in titles, descriptions, and conversation." },
+      { "id": "LX-O-NEM-05", "phrase": "книга о нём", "fullAnalysis": "Strategic focus: Written about the listener. 1. 'О нём' names the subject matter. 2. 'Книга' keeps the sentence concrete. 3. This sentence helps the learner notice that prepositional phrases can modify nouns too." },
+      { "id": "LX-O-NEM-06", "phrase": "они спрашивают о нём", "fullAnalysis": "Strategic focus: Query or concern. 1. 'О нём' is the topic being asked about. 2. 'Спрашивают' is plural present tense. 3. This is a very natural sentence for social situations." },
+      { "id": "LX-O-NEM-07", "phrase": "никто не знает о нём", "fullAnalysis": "Strategic focus: Negation with prepositional phrase. 1. 'О нём' remains after 'о'. 2. 'Никто не знает' creates a clear negative frame. 3. This sentence is useful for understanding how prepositional complements stay stable." },
+      { "id": "LX-O-NEM-08", "phrase": "все думают о нём", "fullAnalysis": "Strategic focus: Generalized subject plus prepositional object. 1. 'О нём' is the topic. 2. 'Все думают' gives a broad subject. 3. The sentence is simple but powerful for practicing prepositional placement." },
+      { "id": "LX-O-NEM-09", "phrase": "мама заботится о нём", "fullAnalysis": "Strategic focus: Care and responsibility. 1. 'Заботится' commonly requires 'о'. 2. 'О нём' is the person cared for. 3. This sentence is warm, common, and very good for memorization." },
+      { "id": "LX-O-NEM-10", "phrase": "они рассказали о нём", "fullAnalysis": "Strategic focus: Past tense reporting. 1. 'О нём' stays in prepositional form. 2. 'Рассказали' is plural past tense. 3. This sentence is useful for real narrative speech." },
+      { "id": "LX-O-NEM-11", "phrase": "фильм о нём", "fullAnalysis": "Strategic focus: Topic naming. 1. 'О нём' labels the subject of the film. 2. 'Фильм' is a concrete noun. 3. This is a compact phrase that teaches how prepositional complements modify nouns." },
+      { "id": "LX-O-NEM-12", "phrase": "статья о нём", "fullAnalysis": "Strategic focus: Written description. 1. 'О нём' remains stable. 2. 'Статья' is a practical noun. 3. This sentence is useful for titles, bios, and commentary." },
+      { "id": "LX-O-NEM-13", "phrase": "они знают о нём слишком много", "fullAnalysis": "Strategic focus: Prepositional topic plus intensifier. 1. 'О нём' remains the target of knowledge. 2. 'Знают' is plural present. 3. 'Слишком много' adds a natural everyday evaluation." },
+      { "id": "LX-O-NEM-14", "phrase": "мало говорят о нём", "fullAnalysis": "Strategic focus: Quantifier plus prepositional phrase. 1. 'О нём' stays in prepositional case. 2. 'Говорят' remains unspecified. 3. 'Мало' adds a simple quantitative judgment." },
+      { "id": "LX-O-NEM-15", "phrase": "хорошо говорят о нём", "fullAnalysis": "Strategic focus: Positive evaluation. 1. 'О нём' is the topic. 2. 'Говорят' keeps the sentence conversational. 3. 'Хорошо' gives a useful quality judgment." },
+      { "id": "LX-O-NEM-16", "phrase": "мне интересно, что говорят о нём", "fullAnalysis": "Strategic focus: Dative experiencer plus prepositional clause. 1. 'Мне интересно' frames the reaction. 2. 'Что говорят о нём' gives the content. 3. This sentence combines two high-value structures." },
+      { "id": "LX-O-NEM-17", "phrase": "я помню, что говорили о нём", "fullAnalysis": "Strategic focus: Memory and reported speech. 1. 'О нём' stays stable after 'о'. 2. 'Говорили' is past plural and unspecified. 3. The sentence is useful for narrative practice." },
+      { "id": "LX-O-NEM-18", "phrase": "вопросы о нём", "fullAnalysis": "Strategic focus: Noun phrase with prepositional complement. 1. 'О нём' modifies the noun 'вопросы'. 2. The phrase is compact and common. 3. This is useful for titles and labels." },
+      { "id": "LX-O-NEM-19", "phrase": "спорят о нём", "fullAnalysis": "Strategic focus: Prepositional phrase with plural verb. 1. 'О нём' is the topic. 2. 'Спорят' is plural present tense. 3. This sentence is useful because it sounds like actual social life." },
+      { "id": "LX-O-NEM-20", "phrase": "я не хочу говорить о нём", "fullAnalysis": "Strategic focus: Negation plus infinitive. 1. 'О нём' stays after the preposition. 2. 'Не хочу говорить' is a very natural refusal phrase. 3. This line is good for teaching clause stacking." }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CL-I",
+    "label": "И",
+    "badge": "AND",
+    "description": "Additive sentences that train how Russian chains ideas with 'and'.",
+    "missions": [
+      { "id": "CL-I-01", "phrase": "я читаю и пишу", "fullAnalysis": "Strategic focus: Two linked actions. 1. 'И' joins two verbs without changing the subject. 2. 'Читаю' and 'пишу' both stay in first person singular. 3. This is a clean entry point for additive logic." },
+      { "id": "CL-I-02", "phrase": "ты идешь и слушаешь", "fullAnalysis": "Strategic focus: Parallel actions. 1. 'Ты' forces both verbs into second person singular. 2. 'Идешь' and 'слушаешь' are easy to compare. 3. The sentence trains smooth coordination." },
+      { "id": "CL-I-03", "phrase": "он берет книгу и сумку", "fullAnalysis": "Strategic focus: One subject, two objects. 1. 'Берет' is a direct action verb. 2. 'Книгу и сумку' shows that one verb can govern a list. 3. This is useful for everyday carrying language." },
+      { "id": "CL-I-04", "phrase": "мы покупаем хлеб и молоко", "fullAnalysis": "Strategic focus: Shopping list logic. 1. 'Мы покупаем' is a very common present-tense frame. 2. 'Хлеб и молоко' are simple, reusable nouns. 3. The line is practical and easy to remember." },
+      { "id": "CL-I-05", "phrase": "мама и папа дома", "fullAnalysis": "Strategic focus: Joined subjects. 1. 'И' can join two nouns into a compound subject. 2. 'Дома' closes the sentence naturally. 3. This teaches that 'and' works on subject level too." },
+      { "id": "CL-I-06", "phrase": "дверь и окно открыты", "fullAnalysis": "Strategic focus: Plural predicate agreement. 1. Two nouns make the predicate plural. 2. 'Открыты' is the matching short-form adjective. 3. The sentence is a good grammar test for agreement." },
+      { "id": "CL-I-07", "phrase": "я вижу дом и сад", "fullAnalysis": "Strategic focus: Visual object list. 1. 'Вижу' stays in first person singular. 2. 'Дом и сад' gives two concrete objects at once. 3. This is simple but dense enough to train focus." },
+      { "id": "CL-I-08", "phrase": "он говорит по-русски и по-английски", "fullAnalysis": "Strategic focus: Coordinated adverbs. 1. 'По-русски и по-английски' shows two modes of speech. 2. The sentence is useful for language identity and bilingual contexts. 3. It also reinforces the adverbial pattern with 'по-'." },
+      { "id": "CL-I-09", "phrase": "книга и тетрадь на столе", "fullAnalysis": "Strategic focus: Joined nouns with location. 1. Two nouns are treated as a pair. 2. 'На столе' gives the shared location. 3. This is an everyday visual sentence that learners can picture instantly." },
+      { "id": "CL-I-10", "phrase": "они работают и отдыхают", "fullAnalysis": "Strategic focus: Contrast within one subject. 1. 'Они' drives both verbs. 2. 'Работают и отдыхают' is a very natural life pattern. 3. The sentence is good for practicing balance and rhythm." }
+    ]
+  }
+]

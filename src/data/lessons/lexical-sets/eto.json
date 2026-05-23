@@ -1,0 +1,60 @@
+[
+  {
+    "id": "LX-ETO",
+    "label": "Это",
+    "badge": "ЭТ",
+    "description": "High-frequency demonstrative patterns for practical, everyday statements.",
+    "missions": [
+      {
+        "id": "LX-ETO-01",
+        "phrase": "это мой дом",
+        "fullAnalysis": "Strategic focus: Demonstrative identification. 1. 'Это' points to a specific thing without overcomplicating the sentence. 2. 'Мой' marks possession and helps anchor the noun. 3. 'Дом' keeps the sentence concrete and useful for real-world speech."
+      },
+      {
+        "id": "LX-ETO-02",
+        "phrase": "это не моя книга",
+        "fullAnalysis": "Strategic focus: Basic negation. 1. 'Это' introduces the statement. 2. 'Не моя' shows the standard negative possession pattern. 3. 'Книга' gives the sentence an everyday object target."
+      },
+      {
+        "id": "LX-ETO-03",
+        "phrase": "это очень важно",
+        "fullAnalysis": "Strategic focus: Emphasis and evaluation. 1. 'Это' frames the thing being judged. 2. 'Очень' is a useful intensifier. 3. 'Важно' gives a high-frequency reaction phrase you can actually say in conversation."
+      },
+      {
+        "id": "LX-ETO-04",
+        "phrase": "это для тебя",
+        "fullAnalysis": "Strategic focus: Handing something over. 1. 'Это' points to the item or idea. 2. 'Для тебя' is a practical recipient phrase. 3. This pattern is useful when giving, offering, or explaining purpose."
+      },
+      {
+        "id": "LX-ETO-05",
+        "phrase": "это было вчера",
+        "fullAnalysis": "Strategic focus: Time anchoring. 1. 'Это было' gives a past-state frame. 2. 'Вчера' locks the event to yesterday. 3. This is a compact, conversational way to answer 'when?'"
+      },
+      {
+        "id": "LX-ETO-06",
+        "phrase": "это правда",
+        "fullAnalysis": "Strategic focus: Confirmation. 1. 'Это' points at the statement. 2. 'Правда' turns the line into a useful truth claim. 3. This is the kind of short sentence that shows up constantly in live conversation."
+      },
+      {
+        "id": "LX-ETO-07",
+        "phrase": "это новый стол",
+        "fullAnalysis": "Strategic focus: Describing an object. 1. 'Это' introduces the item. 2. 'Новый' agrees with the masculine noun. 3. 'Стол' keeps the vocabulary grounded in a simple household object."
+      },
+      {
+        "id": "LX-ETO-08",
+        "phrase": "это не проблема",
+        "fullAnalysis": "Strategic focus: Reassurance. 1. 'Это' frames the issue. 2. 'Не проблема' is a practical, reassuring response. 3. This kind of sentence is useful in service, travel, and social situations."
+      },
+      {
+        "id": "LX-ETO-09",
+        "phrase": "это мой брат",
+        "fullAnalysis": "Strategic focus: Personal identification. 1. 'Это' introduces the person. 2. 'Мой' keeps possession clear. 3. 'Брат' is a common family word that makes the sentence socially useful."
+      },
+      {
+        "id": "LX-ETO-10",
+        "phrase": "это самое важное",
+        "fullAnalysis": "Strategic focus: Ranking importance. 1. 'Это' points to the topic. 2. 'Самое' marks the superlative. 3. 'Важное' is a simple, high-value adjective that works in many practical contexts."
+      }
+    ]
+  }
+]

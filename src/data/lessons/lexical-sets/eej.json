@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-EEJ",
+    "label": "Ей",
+    "badge": "DAT",
+    "description": "Dative sentences that train 'to her' / 'for her' as recipient, experiencer, and possessor.",
+    "missions": [
+      { "id": "LX-EEJ-01", "phrase": "ей нужна вода", "fullAnalysis": "Strategic focus: Need construction. 1. 'Ей' marks the person who needs something. 2. 'Нужна' agrees with the feminine noun 'вода'. 3. This is one of the most useful survival phrases in the language." },
+      { "id": "LX-EEJ-02", "phrase": "ей нужен чай", "fullAnalysis": "Strategic focus: Gender agreement in the predicate. 1. 'Ей' stays in the dative. 2. 'Нужен' changes because 'чай' is masculine. 3. This sentence teaches that the predicate adapts to the noun being needed." },
+      { "id": "LX-EEJ-03", "phrase": "ей нужно время", "fullAnalysis": "Strategic focus: Neuter need construction. 1. 'Ей' is the experiencer. 2. 'Нужно' matches the neuter noun 'время'. 3. The sentence is clean, compact, and very common in real speech." },
+      { "id": "LX-EEJ-04", "phrase": "ей нравится этот дом", "fullAnalysis": "Strategic focus: Verb of liking with dative experiencer. 1. 'Ей' is the one who likes something. 2. 'Нравится' stays singular because 'дом' is singular. 3. 'Этот дом' stays concrete and easy to picture." },
+      { "id": "LX-EEJ-05", "phrase": "ей кажется, что он прав", "fullAnalysis": "Strategic focus: Perception and opinion. 1. 'Ей кажется' is a fixed Russian frame for personal impression. 2. 'Что он прав' adds a full clause. 3. This sentence is useful because it sounds like real spoken Russian." },
+      { "id": "LX-EEJ-06", "phrase": "ей холодно", "fullAnalysis": "Strategic focus: Experiencer predicate. 1. 'Ей' marks the person experiencing the state. 2. 'Холодно' is the predicate and does not agree with gender the way English adjectives do. 3. This is a very important Russian pattern to internalize." },
+      { "id": "LX-EEJ-07", "phrase": "ей жарко", "fullAnalysis": "Strategic focus: Weather-like bodily state. 1. 'Ей' stays in dative. 2. 'Жарко' is an impersonal predicate. 3. The sentence shows how Russian often talks about internal states without a direct subject pronoun." },
+      { "id": "LX-EEJ-08", "phrase": "ей скучно дома", "fullAnalysis": "Strategic focus: Emotion plus location. 1. 'Ей' marks the experiencer. 2. 'Скучно' is an impersonal predicate. 3. 'Дома' makes the sentence feel natural and practical." },
+      { "id": "LX-EEJ-09", "phrase": "ей дали книгу", "fullAnalysis": "Strategic focus: Dative recipient with past tense. 1. 'Ей' is the recipient. 2. 'Дали' is plural past tense and does not name the giver. 3. 'Книгу' is the direct object and keeps the sentence concrete." },
+      { "id": "LX-EEJ-10", "phrase": "ей прислали письмо", "fullAnalysis": "Strategic focus: Dative recipient plus direct object. 1. 'Ей' marks the person receiving the message. 2. 'Прислали' is plural past tense. 3. 'Письмо' is the delivered item." },
+      { "id": "LX-EEJ-11", "phrase": "ей сказали правду", "fullAnalysis": "Strategic focus: Reported information. 1. 'Ей' is the recipient of the statement. 2. 'Сказали' keeps the giver unspecified. 3. 'Правду' is a direct object and makes the sentence feel conversational." },
+      { "id": "LX-EEJ-12", "phrase": "ей помогли друзья", "fullAnalysis": "Strategic focus: Assistance with plural subject. 1. 'Ей' marks the person who receives help. 2. 'Помогли' is plural past tense. 3. 'Друзья' gives the sentence a human and practical meaning." },
+      { "id": "LX-EEJ-13", "phrase": "ей звонят каждый день", "fullAnalysis": "Strategic focus: Ongoing action directed at the speaker. 1. 'Ей' is the target of the calls. 2. 'Звонят' is plural present tense. 3. 'Каждый день' gives useful time-frequency information." },
+      { "id": "LX-EEJ-14", "phrase": "ей пишут из дома", "fullAnalysis": "Strategic focus: Receiving communication. 1. 'Ей' is the recipient. 2. 'Пишут' stays plural and unspecified. 3. 'Из дома' adds a source phrase and makes the sentence feel real." },
+      { "id": "LX-EEJ-15", "phrase": "ей пора идти", "fullAnalysis": "Strategic focus: Need to leave. 1. 'Ей пора' is a fixed Russian structure for obligation or readiness. 2. 'Идти' keeps the sentence grounded in motion. 3. This is a very high-value conversational phrase." },
+      { "id": "LX-EEJ-16", "phrase": "ей приятно это слышать", "fullAnalysis": "Strategic focus: Emotional response. 1. 'Ей приятно' is an impersonal predicate with dative experiencer. 2. 'Это слышать' gives a full response clause. 3. This sentence is great for natural conversational fluency." },
+      { "id": "LX-EEJ-17", "phrase": "ей нужна помощь", "fullAnalysis": "Strategic focus: Need plus abstract noun. 1. 'Ей нужна' is the standard need pattern. 2. 'Помощь' is a feminine noun, so the predicate agrees with it. 3. This is a critical practical sentence in any language." },
+      { "id": "LX-EEJ-18", "phrase": "ей не хватает времени", "fullAnalysis": "Strategic focus: Lack construction. 1. 'Ей не хватает' is a fixed Russian pattern for shortage. 2. 'Времени' appears in genitive after the lack expression. 3. This is a very useful sentence for describing limited resources." },
+      { "id": "LX-EEJ-19", "phrase": "ей интересно слушать меня", "fullAnalysis": "Strategic focus: Interest plus infinitive phrase. 1. 'Ей интересно' marks personal curiosity or interest. 2. 'Слушать меня' gives the reason. 3. The sentence is useful because it combines a dative experiencer with another object-form pronoun." },
+      { "id": "LX-EEJ-20", "phrase": "ей нужен билет на поезд", "fullAnalysis": "Strategic focus: Need plus concrete object. 1. 'Ей нужен' agrees with 'билет', which is masculine. 2. 'На поезд' adds a travel purpose phrase. 3. This is a very practical sentence for travel and ticket buying." }
+    ]
+  }
+]

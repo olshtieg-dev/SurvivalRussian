@@ -1,0 +1,30 @@
+[
+  {
+    "id": "LX-EGO-OBJ",
+    "label": "Его",
+    "badge": "OBJ",
+    "description": "Object-form sentences for the invariant pronoun 'его' meaning 'him'.",
+    "missions": [
+      { "id": "LX-EGO-OBJ-01", "phrase": "он видит его", "fullAnalysis": "Strategic focus: Object pronoun after a verb. 1. 'Его' is the object form meaning 'him'. 2. 'Видит' is third-person singular and stays stable. 3. This sentence teaches how the same spelling can function as a possessive or an object depending on context." },
+      { "id": "LX-EGO-OBJ-02", "phrase": "она ждет его", "fullAnalysis": "Strategic focus: Simple transitive verb. 1. 'Его' is the direct object. 2. 'Ждет' is third-person singular. 3. This is a common real-life sentence for timing and meeting." },
+      { "id": "LX-EGO-OBJ-03", "phrase": "они знают его", "fullAnalysis": "Strategic focus: Plural subject plus object pronoun. 1. 'Они' forces the plural verb form. 2. 'Знают' stays plural while 'его' remains the object form. 3. The sentence is ideal for hearing the contrast between subject and object roles." },
+      { "id": "LX-EGO-OBJ-04", "phrase": "он ждет его дома", "fullAnalysis": "Strategic focus: Object pronoun with location. 1. 'Его' is the object being waited for. 2. 'Дома' adds an everyday location. 3. This line is useful because it combines verb government with a stable place word." },
+      { "id": "LX-EGO-OBJ-05", "phrase": "мама зовет его", "fullAnalysis": "Strategic focus: Direct object in a family sentence. 1. 'Его' is the person being called. 2. 'Зовет' is a common high-frequency verb. 3. The sentence is natural and easy to remember." },
+      { "id": "LX-EGO-OBJ-06", "phrase": "друзья ждут его у двери", "fullAnalysis": "Strategic focus: Object pronoun in a plural environment. 1. 'Его' remains the object form. 2. 'Ждут' is plural and matches 'друзья'. 3. 'У двери' adds a practical spatial phrase." },
+      { "id": "LX-EGO-OBJ-07", "phrase": "без него не начинайте", "fullAnalysis": "Strategic focus: Preposition plus object form. 1. 'Без' requires the object form. 2. 'Него' is the prepositional-object form after the preposition. 3. 'Не начинайте' gives the line a real conversational feel." },
+      { "id": "LX-EGO-OBJ-08", "phrase": "для него это важно", "fullAnalysis": "Strategic focus: Relevance through preposition. 1. 'Для него' expresses purpose or relevance. 2. 'Это' introduces the topic. 3. 'Важно' closes the sentence with a concise evaluation." },
+      { "id": "LX-EGO-OBJ-09", "phrase": "к нему пришли гости", "fullAnalysis": "Strategic focus: Motion toward the target. 1. 'К нему' uses the object-form variant after the preposition. 2. 'Пришли' is plural past tense. 3. 'Гости' keeps the sentence vivid and practical." },
+      { "id": "LX-EGO-OBJ-10", "phrase": "рядом с ним сидит учитель", "fullAnalysis": "Strategic focus: Prepositional phrase with object form. 1. 'С ним' is the stable form used after 'с'. 2. 'Сидит' gives a clear spatial relation. 3. 'Учитель' is a concrete noun that makes the sentence easy to picture." },
+      { "id": "LX-EGO-OBJ-11", "phrase": "у него есть книга", "fullAnalysis": "Strategic focus: Possession construction. 1. 'У него есть' is the standard Russian possession pattern. 2. 'Книга' is a simple feminine noun. 3. The sentence is useful because it contrasts possession with English-style subject ownership." },
+      { "id": "LX-EGO-OBJ-12", "phrase": "у него нет времени", "fullAnalysis": "Strategic focus: Negation of possession. 1. 'У него нет' is the negative possession pattern. 2. 'Времени' shows the genitive form after negation. 3. This is one of the most practical everyday sentences in Russian." },
+      { "id": "LX-EGO-OBJ-13", "phrase": "после него пришел сосед", "fullAnalysis": "Strategic focus: Preposition with object form. 1. 'После' requires the object/prepositional reference form. 2. 'Него' appears naturally after the preposition. 3. 'Сосед' is a common noun that keeps the sentence concrete." },
+      { "id": "LX-EGO-OBJ-14", "phrase": "перед ним лежит письмо", "fullAnalysis": "Strategic focus: Fixed prepositional phrase. 1. 'Перед ним' is the standard shape of the phrase. 2. 'Лежит' provides a stable visual action. 3. 'Письмо' is a compact object noun that works well with the scene." },
+      { "id": "LX-EGO-OBJ-15", "phrase": "мама спрашивает его о книге", "fullAnalysis": "Strategic focus: Object pronoun plus prepositional complement. 1. 'Его' is the person being asked. 2. 'Спрашивает' is a common interaction verb. 3. 'О книге' shows how a verb can add a second grammatical target after the object." },
+      { "id": "LX-EGO-OBJ-16", "phrase": "они слушают его внимательно", "fullAnalysis": "Strategic focus: Object pronoun with adverb. 1. 'Его' is the object being listened to. 2. 'Слушают' is plural and matches the subject. 3. 'Внимательно' makes the sentence feel alive and natural." },
+      { "id": "LX-EGO-OBJ-17", "phrase": "его зовут Антон", "fullAnalysis": "Strategic focus: Identity statement. 1. 'Его зовут' is a fixed naming construction. 2. The phrase does not use a subject pronoun the way English does. 3. This is a crucial survival phrase to internalize." },
+      { "id": "LX-EGO-OBJ-18", "phrase": "его не было дома", "fullAnalysis": "Strategic focus: Past absence. 1. 'Его не было' is a common Russian absence pattern. 2. 'Дома' keeps the location simple. 3. The sentence teaches that Russian can express absence without a direct English-style subject." },
+      { "id": "LX-EGO-OBJ-19", "phrase": "его ждет работа", "fullAnalysis": "Strategic focus: Passive-like expectation. 1. 'Его' is the person who is waited for or expected. 2. 'Ждет' is singular and matches 'работа'. 3. This sentence is useful for seeing how roles can feel reversed from English." },
+      { "id": "LX-EGO-OBJ-20", "phrase": "без него встреча началась", "fullAnalysis": "Strategic focus: Preposition plus past event. 1. 'Без него' keeps the object form after the preposition. 2. 'Встреча началась' gives a natural event clause. 3. This is a very useful real-world sentence for explaining absence." }
+    ]
+  }
+]

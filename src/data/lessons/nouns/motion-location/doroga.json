@@ -1,0 +1,20 @@
+[
+  {
+    "id": "NN-MOTION-DOROGA",
+    "label": "Дорога",
+    "badge": "ROAD",
+    "description": "A 10-sentence usage card for дорога with routes, surfaces, and travel logic.",
+    "missions": [
+      { "id": "NN-MOTION-DOROGA-01", "phrase": "длинная дорога", "fullAnalysis": "Strategic focus: Core adjective agreement. 1. 'Длинная' matches the feminine noun 'дорога'. 2. The phrase is easy to picture. 3. It is the basic descriptive form for route language." },
+      { "id": "NN-MOTION-DOROGA-02", "phrase": "дорога в город", "fullAnalysis": "Strategic focus: Destination framing. 1. 'В город' turns the noun into a path toward a place. 2. 'Дорога' remains the central noun. 3. This is a very common travel sentence." },
+      { "id": "NN-MOTION-DOROGA-03", "phrase": "по дороге домой", "fullAnalysis": "Strategic focus: Motion route phrase. 1. 'По дороге' is a highly reusable travel frame. 2. 'Домой' completes the direction. 3. This is one of the most useful movement patterns in Russian." },
+      { "id": "NN-MOTION-DOROGA-04", "phrase": "на дороге машина", "fullAnalysis": "Strategic focus: Object on a route. 1. 'На дороге' gives a clear physical location. 2. 'Машина' makes the sentence vivid. 3. The phrase is perfect for map and traffic language." },
+      { "id": "NN-MOTION-DOROGA-05", "phrase": "у дороги дерево", "fullAnalysis": "Strategic focus: Landmark relation. 1. 'У дороги' shows a location beside the road. 2. 'Дерево' is simple and concrete. 3. This sentence helps learners imagine a scene." },
+      { "id": "NN-MOTION-DOROGA-06", "phrase": "через дорогу мост", "fullAnalysis": "Strategic focus: Crossing relation. 1. 'Через дорогу' describes a crossing alignment. 2. 'Мост' gives the sentence a strong visual object. 3. This is useful for navigation and directions." },
+      { "id": "NN-MOTION-DOROGA-07", "phrase": "с дороги снег", "fullAnalysis": "Strategic focus: Source relation. 1. 'С дороги' gives a source or removal context. 2. 'Снег' makes the scene seasonal and concrete. 3. The sentence is short but useful." },
+      { "id": "NN-MOTION-DOROGA-08", "phrase": "вдоль дороги дома", "fullAnalysis": "Strategic focus: Linear placement. 1. 'Вдоль дороги' is a strong spatial phrase. 2. 'Дома' gives the scene real scale. 3. This is a great route-description pattern." },
+      { "id": "NN-MOTION-DOROGA-09", "phrase": "дорога ведет к станции", "fullAnalysis": "Strategic focus: Functional path. 1. 'Ведет к' creates movement toward a target. 2. 'Станции' is a useful travel destination. 3. The sentence is practical for directions and maps." },
+      { "id": "NN-MOTION-DOROGA-10", "phrase": "на этой дороге тихо", "fullAnalysis": "Strategic focus: Descriptive environment. 1. 'На этой дороге' adds specificity. 2. 'Тихо' gives the scene atmosphere. 3. This is a strong sentence for observation and narration." }
+    ]
+  }
+]
