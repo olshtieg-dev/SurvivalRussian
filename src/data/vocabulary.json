@@ -8717,15 +8717,6 @@
     "synonym": "это дом",
     "antonym": "null"
   },
-  "???????": {
-    "cyrillic": "???????",
-    "literal": "a dozen / ten",
-    "natural": "A dozen.",
-    "thumbnail": "null",
-    "analysis": "Noun. A group of ten; a dozen.",
-    "synonym": "??????, ???????",
-    "antonym": "null"
-  },
   "с": {
     "cyrillic": "с",
     "literal": "with",
@@ -9065,6 +9056,15 @@
     "natural": "Grey",
     "thumbnail": "null",
     "analysis": "Frequency backfill entry.",
+    "synonym": "null",
+    "antonym": "null"
+  },
+  "столе": {
+    "cyrillic": "столе",
+    "literal": "table",
+    "natural": "Table",
+    "thumbnail": "null",
+    "analysis": "test",
     "synonym": "null",
     "antonym": "null"
   },
