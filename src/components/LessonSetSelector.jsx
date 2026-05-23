@@ -41,35 +41,49 @@ export default function LessonSetSelector({
         <div className="overflow-hidden">
           <div className="max-h-[32rem] overflow-y-auto overscroll-contain pr-1 scroll-smooth snap-y snap-mandatory custom-scrollbar">
             <div className="flex flex-col gap-2">
-            {lessonSets.map((lessonSet) => {
+            {lessonSets.map((lessonSet, index) => {
               const isSelected = lessonSet.id === selectedLessonSetId;
+              const currentGroup = lessonSet.group || 'Core Lessons';
+              const previousGroup = lessonSets[index - 1]?.group || 'Core Lessons';
+              const showGroupDivider = index === 0 || currentGroup !== previousGroup;
 
               return (
-                <button
-                  key={lessonSet.id}
-                  type="button"
-                  onClick={() => onSelectLessonSet(lessonSet.id)}
-                  className={`snap-start rounded-xl border px-3 py-2 text-left transition-all ${
-                    isSelected
-                      ? 'border-blue-500 bg-blue-600/15 text-white shadow-[0_0_18px_rgba(37,99,235,0.18)]'
-                      : 'border-slate-800 bg-slate-950/60 text-slate-300 hover:border-slate-700 hover:bg-slate-800/80'
-                  }`}
-                >
-                  <div className="flex items-center justify-between gap-3">
-                    <span className="text-[10px] font-black uppercase tracking-[0.25em] truncate">
-                      {lessonSet.label}
-                    </span>
-                    <span className={`text-[10px] font-black ${isSelected ? 'text-blue-300' : 'text-slate-500'}`}>
-                      {lessonSet.badge}
-                    </span>
-                  </div>
-                  <p className="mt-1 text-[10px] leading-relaxed text-slate-500">
-                    {lessonSet.description}
-                  </p>
-                  <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
-                    {lessonSet.missionCountLabel || `${lessonSet.missionCount ?? lessonSet.missions.length} missions`}
-                  </p>
-                </button>
+                <React.Fragment key={lessonSet.id}>
+                  {showGroupDivider && (
+                    <div className="flex items-center gap-2 px-1 pt-3 first:pt-0">
+                      <div className="h-px flex-1 bg-slate-800/80" />
+                      <span className="text-[9px] font-black uppercase tracking-[0.35em] text-slate-500">
+                        {currentGroup}
+                      </span>
+                      <div className="h-px flex-1 bg-slate-800/80" />
+                    </div>
+                  )}
+
+                  <button
+                    type="button"
+                    onClick={() => onSelectLessonSet(lessonSet.id)}
+                    className={`snap-start rounded-xl border px-3 py-2 text-left transition-all ${
+                      isSelected
+                        ? 'border-blue-500 bg-blue-600/15 text-white shadow-[0_0_18px_rgba(37,99,235,0.18)]'
+                        : 'border-slate-800 bg-slate-950/60 text-slate-300 hover:border-slate-700 hover:bg-slate-800/80'
+                    }`}
+                  >
+                    <div className="flex items-center justify-between gap-3">
+                      <span className="text-[10px] font-black uppercase tracking-[0.25em] truncate">
+                        {lessonSet.label}
+                      </span>
+                      <span className={`text-[10px] font-black ${isSelected ? 'text-blue-300' : 'text-slate-500'}`}>
+                        {lessonSet.badge}
+                      </span>
+                    </div>
+                    <p className="mt-1 text-[10px] leading-relaxed text-slate-500">
+                      {lessonSet.description}
+                    </p>
+                    <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
+                      {lessonSet.missionCountLabel || `${lessonSet.missionCount ?? lessonSet.missions.length} missions`}
+                    </p>
+                  </button>
+                </React.Fragment>
               );
             })}
             <button

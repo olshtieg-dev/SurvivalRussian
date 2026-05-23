@@ -258,7 +258,15 @@ export default function Home() {
 
   useEffect(() => {
     const handleGlobalKeyDown = (e) => {
-      if (e.key === 'Enter' && canAdvanceMission) nextMission();
+      const isAdvanceKey =
+        e.key === 'Enter' ||
+        e.key === 'ArrowDown' ||
+        e.code === 'NumpadEnter';
+
+      if (!isAdvanceKey || !canAdvanceMission) return;
+
+      e.preventDefault();
+      nextMission();
     };
 
     window.addEventListener('keydown', handleGlobalKeyDown);
@@ -535,7 +543,7 @@ export default function Home() {
             <MeaningCard activeWord={activeData} />
 
             <TypingEngine
-              key={`${selectedLessonSetId}-${missionIndex}`}
+              key={`${selectedLessonSetId}-${missionIndex}-${currentPhrase}`}
               targetText={currentPhrase}
               onProgress={handleProgress}
               onWordComplete={handleWordComplete}

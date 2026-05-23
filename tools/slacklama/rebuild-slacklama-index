@@ -1,0 +1,100 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const path = require('path');
+
+const archiveDir =
+  process.argv[2] ||
+  process.env.SLACKLAMA_ARCHIVE_DIR ||
+  path.join(__dirname, '..', '..', 'docs', 'slacklama');
+const outputPath = path.join(archiveDir, 'index.json');
+
+function parseFrontMatter(text, filePath) {
+  if (!text.startsWith('---\n')) {
+    throw new Error(`Missing front matter in ${filePath}`);
+  }
+
+  const end = text.indexOf('\n---\n', 4);
+  if (end === -1) {
+    throw new Error(`Unterminated front matter in ${filePath}`);
+  }
+
+  const body = text.slice(4, end);
+  const lines = body.split(/\r?\n/);
+  const data = {};
+  let currentArrayKey = null;
+
+  for (const line of lines) {
+    if (!line.trim()) {
+      continue;
+    }
+
+    const scalarMatch = line.match(/^([A-Za-z0-9_-]+):\s*(.*)$/);
+    if (scalarMatch) {
+      const [, key, rawValue] = scalarMatch;
+      if (rawValue === '') {
+        data[key] = [];
+        currentArrayKey = key;
+      } else {
+        data[key] = rawValue.trim();
+        currentArrayKey = null;
+      }
+      continue;
+    }
+
+    const arrayMatch = line.match(/^\s*-\s*(.*)$/);
+    if (arrayMatch && currentArrayKey) {
+      data[currentArrayKey].push(arrayMatch[1].trim());
+      continue;
+    }
+
+    throw new Error(`Unsupported front matter line in ${filePath}: ${line}`);
+  }
+
+  return data;
+}
+
+function collectTopic(fileName) {
+  const filePath = path.join(archiveDir, fileName);
+  const text = fs.readFileSync(filePath, 'utf8');
+  const meta = parseFrontMatter(text, filePath);
+
+  const required = ['id', 'title', 'tags', 'summary', 'sources'];
+  for (const key of required) {
+    if (!(key in meta)) {
+      throw new Error(`Missing ${key} in ${filePath}`);
+    }
+  }
+
+  if (!Array.isArray(meta.tags) || !Array.isArray(meta.sources)) {
+    throw new Error(`tags and sources must be arrays in ${filePath}`);
+  }
+
+  return {
+    id: meta.id,
+    title: meta.title,
+    file: fileName,
+    tags: meta.tags,
+    summary: meta.summary,
+    sources: meta.sources,
+  };
+}
+
+function main() {
+  const files = fs
+    .readdirSync(archiveDir)
+    .filter((file) => file.endsWith('.md') && file !== 'README.md')
+    .sort();
+
+  const topics = files.map(collectTopic);
+  const output = {
+    name: 'SlackLlama Knowledge Archive',
+    version: '0.1.0',
+    generated_at: new Date().toISOString().slice(0, 10),
+    topics,
+  };
+
+  fs.writeFileSync(outputPath, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
+}
+
+main();

@@ -1,4 +1,8 @@
 import missionLessons from './mission.json';
+import homeLifeLessons from './home-life.json';
+import familyLifeLessons from './family-life.json';
+import dailyRoutineLessons from './daily-routine.json';
+import communicationLessons from './communication.json';
 import slangLessons from './slang.json';
 import casesNounLessons from './cases-noun-conjugation.json';
 import groceryLessons from './grocery-shopping.json';
@@ -53,6 +57,7 @@ export const lessonSets = [
     id: 'mission',
     label: 'Mission Set',
     badge: 'M',
+    group: 'Core Lessons',
     description: 'Core travel, survival, and utility drills.',
     missions: missionLessons,
   },
@@ -60,6 +65,7 @@ export const lessonSets = [
     id: 'slang',
     label: 'Street Set',
     badge: 'SL',
+    group: 'Core Lessons',
     description: 'Casual greetings and everyday conversation.',
     missions: slangLessons,
   },
@@ -67,6 +73,7 @@ export const lessonSets = [
     id: 'grocery',
     label: 'Grocery Shopping',
     badge: 'GR',
+    group: 'Core Lessons',
     description: 'Buying essentials, asking prices, and handling checkout.',
     missions: groceryLessons,
   },
@@ -74,6 +81,7 @@ export const lessonSets = [
     id: 'cases-nouns',
     label: 'Cases & Nouns',
     badge: 'CN',
+    group: 'Core Lessons',
     description: 'Dense six-case noun drills packed into single passage missions.',
     missions: casesNounLessons,
   },
@@ -81,6 +89,7 @@ export const lessonSets = [
     id: 'kitchen',
     label: 'Kitchen & Cooking',
     badge: 'KT',
+    group: 'Core Lessons',
     description: 'Ordering drinks, food, and cooking-adjacent vocabulary.',
     missions: kitchenLessons,
   },
@@ -88,13 +97,47 @@ export const lessonSets = [
     id: 'household',
     label: 'Household Items',
     badge: 'HH',
+    group: 'Core Lessons',
     description: 'Daily home objects and small errands around the house.',
     missions: householdLessons,
+  },
+  {
+    id: 'home-life',
+    label: 'Home Life',
+    badge: 'HL',
+    group: 'Everyday Material',
+    description: 'Everyday housing, keys, and basic home supplies.',
+    missions: homeLifeLessons,
+  },
+  {
+    id: 'family-life',
+    label: 'Family Life',
+    badge: 'FL',
+    group: 'Everyday Material',
+    description: 'Core family words and simple relationship talk.',
+    missions: familyLifeLessons,
+  },
+  {
+    id: 'daily-routine',
+    label: 'Daily Routine',
+    badge: 'DR',
+    group: 'Everyday Material',
+    description: 'Morning, work, and sleep patterns you use every day.',
+    missions: dailyRoutineLessons,
+  },
+  {
+    id: 'communication',
+    label: 'Communication',
+    badge: 'CM',
+    group: 'Everyday Material',
+    description: 'Messages, phone status, and written contact basics.',
+    missions: communicationLessons,
   },
   {
     id: randomVocabularyLessonSetId,
     label: 'Random Vocab',
     badge: 'RV',
+    group: 'Special Sets',
     description: 'One rolling mission made of twelve random vocabulary words. Finish the line and a new set rolls in.',
     missions: [],
     missionCount: 1,

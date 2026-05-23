@@ -1,0 +1,183 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+OLLAMA_BIN="${OLLAMA_BIN:-$HOME/.local/bin/ollama}"
+OLLAMA_HOST_URL="${OLLAMA_HOST_URL:-http://127.0.0.1:11434}"
+MODEL="${SLACKLAMA_MODEL:-codellama:13b-instruct}"
+LOG_FILE="${SLACKLAMA_LOG:-$HOME/.local/share/slacklama-ollama.log}"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
+ARCHIVE_DIR="${SLACKLAMA_ARCHIVE_DIR:-$REPO_ROOT/docs/slacklama}"
+
+ensure_server() {
+  if curl -fsS "$OLLAMA_HOST_URL/api/tags" >/dev/null 2>&1; then
+    return 0
+  fi
+
+  mkdir -p "$(dirname "$LOG_FILE")"
+  nohup "$OLLAMA_BIN" serve >"$LOG_FILE" 2>&1 &
+
+  for _ in $(seq 1 30); do
+    if curl -fsS "$OLLAMA_HOST_URL/api/tags" >/dev/null 2>&1; then
+      return 0
+    fi
+    sleep 1
+  done
+
+  echo "slacklama: timed out waiting for Ollama server at $OLLAMA_HOST_URL" >&2
+  echo "slacklama: check $LOG_FILE" >&2
+  exit 1
+}
+
+archive_index() {
+  cat "$ARCHIVE_DIR/index.json"
+}
+
+archive_system_prompt() {
+  cat <<'EOF'
+You are SlackLlama, a local Slackware maintenance and reference assistant.
+Use the provided archive excerpts as the source of truth.
+When helpful, draft shell commands and scripts, but do not execute anything.
+If the archive does not cover the answer, say so plainly and suggest the next
+local file or topic to inspect.
+Keep the tone concise, practical, and sysadmin-friendly.
+EOF
+}
+
+extract_keywords() {
+  printf '%s\n' "$1" \
+    | tr '[:upper:]' '[:lower:]' \
+    | tr -cs '[:alnum:]' '\n' \
+    | awk 'length($0) >= 4 { print }' \
+    | head -n 12
+}
+
+select_topics() {
+  local query="$1"
+  local -a keywords=()
+  local keyword
+  while IFS= read -r keyword; do
+    [ -n "$keyword" ] && keywords+=("$keyword")
+  done < <(extract_keywords "$query")
+
+  local -a selected=()
+  local row file title tags summary haystack matched
+  while IFS=$'\t' read -r file title tags summary; do
+    haystack="${title} ${tags} ${summary}"
+    haystack="${haystack,,}"
+    matched=false
+    for keyword in "${keywords[@]}"; do
+      if [[ "$haystack" == *"$keyword"* ]]; then
+        matched=true
+        break
+      fi
+    done
+    if [ "$matched" = true ]; then
+      selected+=("$file")
+    fi
+  done < <(jq -r '.topics[] | [.file, .title, (.tags|join(" ")), .summary] | @tsv' "$ARCHIVE_DIR/index.json")
+
+  if [ "${#selected[@]}" -eq 0 ]; then
+    selected+=("README.md" "index.json" "package-management.md" "booting-kernels.md")
+  fi
+
+  printf '%s\n' "${selected[@]}" | awk '!seen[$0]++' | head -n 4
+}
+
+build_archive_context() {
+  local query="$1"
+  local context
+  context="$(archive_index)"
+
+  SLACKLAMA_LAST_SOURCES=()
+  local topic
+  while IFS= read -r topic; do
+    [ -z "$topic" ] && continue
+    SLACKLAMA_LAST_SOURCES+=("$topic")
+    context="$context"
+    context="$context"$'\n\n'"### ARCHIVE FILE: $topic"$'\n'
+    context="$context$(sed -n '1,220p' "$ARCHIVE_DIR/$topic")"
+  done < <(select_topics "$query")
+
+  printf '%s\n' "$context"
+}
+
+conversation_messages='[]'
+base_messages=''
+
+ask_turn() {
+  local user_text="$1"
+  local context_blob response
+  local request_messages
+
+  context_blob="$(build_archive_context "$user_text")"
+  request_messages="$(jq -nc \
+    --argjson base "$base_messages" \
+    --argjson history "$conversation_messages" \
+    --arg archive "$context_blob" \
+    --arg user "$user_text" \
+    '$base + $history + [{role:"system",content:$archive},{role:"user",content:$user}]')"
+
+  response="$(
+    curl -s "$OLLAMA_HOST_URL/api/chat" \
+      -H 'Content-Type: application/json' \
+      -d "$(jq -nc --arg model "$MODEL" --argjson messages "$request_messages" --argjson stream false '{model:$model,messages:$messages,stream:$stream}')" \
+      | jq -r '.message.content // empty'
+  )"
+
+  conversation_messages="$(jq -nc \
+    --argjson history "$conversation_messages" \
+    --arg user "$user_text" \
+    --arg assistant "$response" \
+    '$history + [{role:"user",content:$user},{role:"assistant",content:$assistant}]')"
+
+  printf '%s\n' "$response"
+  if [ "${#SLACKLAMA_LAST_SOURCES[@]}" -gt 0 ]; then
+    printf 'Sources: %s\n' "$(printf '%s\n' "${SLACKLAMA_LAST_SOURCES[@]}" | paste -sd ', ' -)"
+  fi
+}
+
+main() {
+  if [ ! -x "$OLLAMA_BIN" ]; then
+    echo "slacklama: cannot find ollama at $OLLAMA_BIN" >&2
+    exit 1
+  fi
+
+  if [ ! -f "$ARCHIVE_DIR/index.json" ]; then
+    echo "slacklama: archive not found at $ARCHIVE_DIR" >&2
+    exit 1
+  fi
+
+  ensure_server
+
+  base_messages="$(jq -nc --arg system "$(archive_system_prompt)" '[{role:"system",content:$system}]')"
+
+  echo "slacklama ready. Type /bye to exit." >&2
+
+  local input response
+  if [ "$#" -gt 0 ]; then
+    input="$*"
+    response="$(ask_turn "$input")"
+    printf '%s\n' "$response"
+  fi
+
+  while true; do
+    read -r -p "Slackware> " input || break
+    if [ "${input:-}" = "/bye" ]; then
+      break
+    fi
+    if [ "${input:-}" = "/reset" ]; then
+      conversation_messages='[]'
+      echo "slacklama: conversation cleared." >&2
+      continue
+    fi
+    if [ -z "${input//[[:space:]]/}" ]; then
+      continue
+    fi
+
+    response="$(ask_turn "$input")"
+    printf '%s\n' "$response"
+  done
+}
+
+main "$@"
