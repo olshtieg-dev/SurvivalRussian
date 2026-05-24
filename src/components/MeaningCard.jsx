@@ -10,7 +10,7 @@ export default function MeaningCard({ activeWord }) {
     <div className="flex flex-col items-center justify-center space-y-4 bg-slate-800/20 p-6 rounded-3xl border border-dashed border-slate-700 w-full max-w-md h-[450px]">
       <AlertCircle size={32} className="text-slate-600 animate-pulse" />
       <p className="text-slate-600 font-mono text-xs uppercase tracking-widest">
-        Vocabulary Intel Missing
+        No vocabulary entry
       </p>
     </div>
   );
@@ -25,7 +25,6 @@ export default function MeaningCard({ activeWord }) {
         </p>
       </div>
 
-      {/* 2. Tactical Cyrillic Display */}
       <h2 className="text-8xl font-black text-white tracking-tighter font-mono drop-shadow-[0_0_15px_rgba(255,255,255,0.1)]">
         {activeWord.cyrillic}
       </h2>
@@ -61,14 +60,14 @@ export default function MeaningCard({ activeWord }) {
           <div className="h-[1px] flex-1 bg-blue-900/50"></div>
           <BookOpen size={12} className="text-blue-500" />
           <h4 className="text-blue-500 font-bold uppercase text-[9px] tracking-[0.3em]">
-            Linguistic Intel
+            Notes
           </h4>
           <div className="h-[1px] flex-1 bg-blue-900/50"></div>
         </div>
         
         <div className="bg-slate-900/80 border border-blue-500/20 p-4 rounded-2xl">
           <p className="text-amber-300 leading-relaxed text-sm font-mono">
-            {activeWord.analysis || "Parsing grammatical structure..."}
+            {activeWord.analysis || "No notes available."}
           </p>
         </div>
       </div>

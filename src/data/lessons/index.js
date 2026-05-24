@@ -65,15 +65,15 @@ export function generateFrequencyGulagMissions() {
 
 export const lessonSets = [
   {
-    id: 'mission',
-    label: 'Mission Set',
+    id: 'essentials',
+    label: 'Essentials',
     badge: 'M',
     description: 'Core travel, survival, and utility drills.',
     missions: missionLessons,
   },
   {
     id: 'slang',
-    label: 'Street Set',
+    label: 'Street Russian',
     badge: 'SL',
     description: 'Casual greetings and everyday conversation.',
     missions: slangLessons,
@@ -111,7 +111,7 @@ export const lessonSets = [
     id: randomVocabularyLessonSetId,
     label: 'Random Vocab',
     badge: 'RV',
-    description: 'One rolling mission made of twelve random vocabulary words. Finish the line and a new set rolls in.',
+    description: 'One rolling lesson made of twelve random vocabulary words. Finish the line and a new set rolls in.',
     missions: [],
     missionCount: 1,
     missionCountLabel: `${randomVocabularyMissionCount}-word batch`,
@@ -138,7 +138,7 @@ export const lessonSets = [
   ...binaryAdjectivesLessonSets,
 ];
 
-export const defaultLessonSetId = lessonSets[0]?.id || 'mission';
+export const defaultLessonSetId = lessonSets[0]?.id || 'essentials';
 
 export const lessonFolders = [
   lexicalSetFolder,

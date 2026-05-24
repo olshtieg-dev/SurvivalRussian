@@ -23,7 +23,7 @@ const learningLoop = [
 
 const quickStart = [
   'Pick a lesson set on the left rail.',
-  'Type the mission exactly as shown.',
+  'Type the lesson exactly as shown.',
   'Use the mic to test pronunciation when you are ready.',
 ];
 
@@ -39,7 +39,7 @@ export default function WelcomeOverlay({ onStart }) {
               <div className="max-w-2xl">
                 <div className="inline-flex items-center gap-2 rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.35em] text-blue-300">
                   <Sparkles size={12} />
-                  Triple-Threat Learning Loop
+                  Multimodal Russian
                 </div>
 
                 <h1 className="mt-5 max-w-xl text-4xl font-black uppercase tracking-[0.08em] text-white sm:text-5xl">
@@ -47,7 +47,7 @@ export default function WelcomeOverlay({ onStart }) {
                 </h1>
 
                 <p className="mt-5 max-w-2xl text-base leading-relaxed text-slate-300 sm:text-lg">
-                  This app teaches Russian by hitting multiple dimensions of learning in unison, so every mission trains recognition, motor memory, pronunciation, meaning, and structure at the same time.
+                  This app teaches Russian by hitting multiple dimensions of learning in unison, so every lesson trains recognition, motor memory, pronunciation, meaning, and structure at the same time.
                 </p>
 
                 <div className="mt-8 grid gap-3 sm:grid-cols-3">

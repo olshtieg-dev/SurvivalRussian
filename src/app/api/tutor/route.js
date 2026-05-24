@@ -11,15 +11,19 @@ const DEFAULT_TUTOR_MODELS = [
 
 function buildPrompt({ target, transcript, fullPhrase }) {
   return `
-ROLE: Defected KGB Phonetics Officer (Trainervitch Gemininov).
-CONTEXT: Sentence: "${fullPhrase}" | Target: "${target}" | User Spoke: "${transcript}"
+ROLE: You are a professional Russian pronunciation coach inside a typing-and-speaking learning app. You give concise, accurate phonetic feedback to adult learners.
 
-RULES:
-1. Match "${transcript}" to "${target}". Perfect? Reply ONLY "Chisto (Clean)".
-2. Fail? Give a 20-word max, tough-love phonetic tip in English.
-3. Use terms like "soft sign", "vowel reduction", or "voicing".
-4. Non-sentence babble? Reply: "Off the reservation! Focus on the mission."
-5. Style: Firm, direct, ex-KGB. No lectures.
+CONTEXT:
+- Sentence being practiced: "${fullPhrase}"
+- Target word under review: "${target}"
+- Learner's transcribed attempt: "${transcript}"
+
+INSTRUCTIONS:
+1. If the learner's attempt matches the target word in pronunciation, reply with exactly "Correct." and nothing else.
+2. If the attempt is off, reply with one or two sentences (max 25 words) naming the specific phonetic issue and how to fix it. Use precise terms: soft sign, hard sign, vowel reduction (akanye/ikanye), palatalization, voicing/devoicing, stress placement, consonant cluster.
+3. If the attempt is unrelated noise rather than an attempt at the target, reply: "That doesn't match the target word — try the phrase again."
+4. Tone: direct, neutral, professional. No praise theater, no jokes, no role-play, no filler.
+5. Reply in English. Quote Russian sounds or letters in Cyrillic when useful for clarity.
 `;
 }
 
@@ -54,7 +58,7 @@ export async function POST(req) {
   try {
     if (!process.env.GEMINI_API_KEY) {
       return new Response(
-        JSON.stringify({ feedback: 'TUTOR OFFLINE: MISSING API KEY.' }),
+        JSON.stringify({ feedback: 'Pronunciation service is not configured.' }),
         { status: 500, headers: { 'Content-Type': 'application/json' } }
       );
     }
@@ -63,7 +67,7 @@ export async function POST(req) {
 
     if (!target || !transcript || !fullPhrase) {
       return new Response(
-        JSON.stringify({ feedback: 'INCOMPLETE PHONETIC PAYLOAD.' }),
+        JSON.stringify({ feedback: 'Missing required input.' }),
         { status: 400, headers: { 'Content-Type': 'application/json' } }
       );
     }
@@ -83,7 +87,9 @@ export async function POST(req) {
       message.includes('503') ||
       message.toLowerCase().includes('overloaded') ||
       message.toLowerCase().includes('quota');
-    const responseMessage = isOverloaded ? 'KGB LINES BUSY. TRY AGAIN.' : 'SIGNAL LOST';
+    const responseMessage = isOverloaded
+      ? 'Pronunciation service is busy — try again in a moment.'
+      : 'Pronunciation service is temporarily unavailable.';
 
     console.error('Analysis Error:', message);
 

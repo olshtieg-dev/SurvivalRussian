@@ -461,14 +461,14 @@ export default function Home() {
               <div className="text-[10px] text-slate-500 mt-1">
                 {isMorphologyActive
                   ? activeMorphologyModule?.label || 'Module picker'
-                  : `Mission ${missionIndex + 1} of ${missions.length}`}
+                  : `Lesson ${missionIndex + 1} of ${missions.length}`}
               </div>
             </div>
           ) : (
             <div className={`text-[10px] font-black rotate-180 [writing-mode:vertical-lr] tracking-[0.5em] mb-2 opacity-70 ${
               isMorphologyActive ? 'text-emerald-400' : 'text-blue-500'
             }`}>
-              {isMorphologyActive ? 'LAB' : `MISSION ${missionIndex + 1}`}
+              {isMorphologyActive ? 'LAB' : `LESSON ${missionIndex + 1}`}
             </div>
           )}
         </div>
@@ -629,8 +629,8 @@ export default function Home() {
                   <div className="h-[1px] w-20 bg-gradient-to-r from-transparent to-blue-500/50" />
                   <p className="text-blue-400 font-mono text-[10px] animate-pulse tracking-[.5em] uppercase">
                     {isRollingLessonSet && missionIndex === missions.length - 1
-                      ? 'Deck Complete: Press [Enter] or [Down] for a new shuffle'
-                      : 'Mission Complete: Press [Enter] or [Down]'}
+                      ? 'Deck complete — press [Enter] or [Down] for a new shuffle'
+                      : 'Lesson complete — press [Enter] or [Down]'}
                   </p>
                   <div className="h-[1px] w-20 bg-gradient-to-l from-transparent to-blue-500/50" />
                 </div>

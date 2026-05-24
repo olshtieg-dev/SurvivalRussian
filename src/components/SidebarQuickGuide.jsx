@@ -7,7 +7,7 @@ const guideItems = [
   {
     icon: Layers3,
     label: 'Lessons',
-    description: 'Choose the mission set you want to work through.',
+    description: 'Choose the lesson set you want to work through.',
   },
   {
     icon: Mic,
@@ -37,7 +37,7 @@ export default function SidebarQuickGuide({ isVisible, onDismiss }) {
             Quick Guide
           </p>
           <p className="mt-2 text-xs leading-relaxed text-slate-300">
-            Your taskbar is the control deck. Pick a lesson, type the line, then use voice tools when you want audio support.
+            Your taskbar holds the controls. Pick a lesson, type the line, then use voice tools when you want audio support.
           </p>
           <p className="mt-2 text-[11px] leading-relaxed text-slate-500">
             It is also a clean home for the built-in tutor, AI input, and chatroom as those systems come online.

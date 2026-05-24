@@ -37,12 +37,12 @@ export const morphologyModules = [
   },
   {
     id: 'wildcard',
-    label: 'Wildcard Bay',
-    shortLabel: 'Wildcard',
+    label: 'Wildcards',
+    shortLabel: 'Wildcards',
     badge: 'Ideas',
     accent: 'blue',
     description:
-      'A parking bay for the next wacky grammar contraption before it grows into its own full module.',
+      'A parking slot for the next wacky grammar contraption before it grows into its own full module.',
     focusAreas: ['Compound builders', 'Stress games', 'Word surgery'],
     prototype:
       'A flexible shell for experiments that do not fit the normal typing pipeline but still teach how Russian works.',

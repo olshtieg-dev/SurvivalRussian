@@ -144,7 +144,7 @@ export default function LessonSetSelector({
                           {lessonSet.description}
                         </p>
                         <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
-                          {lessonSet.missionCountLabel || `${lessonSet.missions.length} missions`}
+                          {lessonSet.missionCountLabel || `${lessonSet.missions.length} drills`}
                         </p>
                       </button>
                     );
@@ -205,7 +205,7 @@ export default function LessonSetSelector({
                           {lessonSet.description}
                         </p>
                         <p className={`mt-2 text-[10px] font-black uppercase tracking-[0.25em] ${isSelected ? 'text-blue-300' : 'text-slate-600'}`}>
-                          {lessonSet.missionCountLabel || `${lessonSet.missionCount ?? lessonSet.missions.length} missions`}
+                          {lessonSet.missionCountLabel || `${lessonSet.missionCount ?? lessonSet.missions.length} drills`}
                         </p>
                       </button>
                     );
@@ -237,7 +237,7 @@ export default function LessonSetSelector({
                       Launch a non-typing grammar module for cases, prefix-root-suffix rollers, and future word-building experiments.
                     </p>
                     <p className="mt-2 text-[10px] leading-relaxed text-slate-500">
-                      Current slots include Morphology Trees, Linguistic Rolodex, and a wildcard bay for whatever strange lesson idea lands next.
+                      Current slots include Morphology Trees, Linguistic Rolodex, and a wildcard slot for whatever strange lesson idea lands next.
                     </p>
                     <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-emerald-300">
                       {isMorphologyActive ? 'Module Loaded' : 'Open Module Picker'}
@@ -263,7 +263,7 @@ export default function LessonSetSelector({
                       </span>
                     </div>
                     <p className="mt-2 text-[10px] leading-relaxed text-slate-400">
-                      Custom AI-built missions will live here once premium access is enabled.
+                      Custom AI-built lessons will live here once premium access is enabled.
                     </p>
                     <p className="mt-2 text-[10px] font-black uppercase tracking-[0.25em] text-red-300">
                       Access with Premium

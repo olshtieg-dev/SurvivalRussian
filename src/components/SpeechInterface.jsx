@@ -33,7 +33,7 @@ export default function SpeechInterface({ targetWord, fullPhrase, onFeedbackRece
           onFeedbackReceived(transcript, data.feedback);
         } catch (error) {
           console.error("Analysis Error:", error);
-          onFeedbackReceived(transcript, "SIGNAL INTERFERENCE");
+          onFeedbackReceived(transcript, "Couldn't process that recording.");
         } finally {
           setIsAnalyzing(false);
         }
@@ -60,7 +60,7 @@ export default function SpeechInterface({ targetWord, fullPhrase, onFeedbackRece
       onClick={toggleMic} 
       disabled={isAnalyzing} 
       className="group relative flex flex-col items-center"
-      title={isListening ? "Stop Recording" : "Start Voice Analysis"}
+      title={isListening ? "Stop recording" : "Record pronunciation"}
     >
       <div className={`p-3 rounded-xl border transition-all duration-300 ${
         isListening 

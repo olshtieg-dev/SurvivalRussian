@@ -172,7 +172,7 @@ export default function SentenceStructuralAnalysis({ sentenceData }) {
       <div className="flex items-center gap-2 mb-3 px-2">
         <BookOpen size={16} className="text-emerald-400" />
         <h4 className="text-emerald-400 font-bold uppercase text-xs tracking-[0.3em]">
-          Mission Structural Intel
+          Sentence Breakdown
         </h4>
       </div>
 

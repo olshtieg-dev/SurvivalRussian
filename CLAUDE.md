@@ -2,6 +2,46 @@
 
 Self-note for future Claude sessions. Owner is `fordted438@gmail.com`. Working dir `/home/c/Code/SurvivalRussian`.
 
+## Pickup for next session (last touched 2026-05-23 evening)
+
+Owner said we'd pick up tomorrow. Start by re-orienting: read this file top-to-bottom, then `git status` to see what's still uncommitted from the last working session.
+
+**Top of pile — pending work the owner has acknowledged but deferred:**
+
+1. **`vocabulary.json` `literal`/`natural` cleanup pass.** During the analysis-field pass, subagents caught ~95 entries with bad glosses but I reverted their fixes to honor the strict "preserve other fields" rule. Owner agreed it should be a separate pass. Three categories of issues to fix:
+   - **~6 clearly wrong glosses** (high-confidence corrections):
+     - `рот`: `literal: "mouthpiece"` → "mouth"
+     - `комплекс`: `literal: "complexion"` → "complex"
+     - `лист`: `literal: "leaflet"` → "leaf; sheet"
+     - `тихо`: `literal: "quiet on"` → "quietly" (broken source)
+     - `сотрудник`: `literal: "staffer"` → "employee" or "colleague"
+     - `мочь`: `literal: "pot"` → "to be able to" (and probably `рыба`: "pot" too — verify)
+   - **~30 entries with Cyrillic leaked into the English `natural` field.** Run `jq -r 'to_entries | [.[] | select(.value.natural | test("[А-Яа-яЁё]"))] | .[] | "\(.key): \(.value.natural)"' src/data/vocabulary.json` to list them all. Examples: `начальник` → `"Boss; начальник."`, `берег` → `"Shore; берег; bank (of river)."`, `пусть` → `"Let; пусть (permission/insistence)."`. Strip the Cyrillic; keep the English.
+   - **~55 single-word `natural` glosses** where agents wanted to expand (e.g. "Again." → "Again; anew."). Default: **skip these** unless owner asks. They're not bugs, just terse.
+   
+   Recommended approach: same 10-parallel-Opus pattern as the analysis pass. Pre-existing chunk infrastructure was at `/tmp/vocab-chunks/` but may be gone after reboot — re-slice from current `src/data/vocabulary.json`. Bias hard toward "only fix clear bugs"; do NOT auto-expand short glosses.
+
+**Repo state snapshot (uncommitted as of last session):**
+- Branch: `stash` (working branch, several commits ahead of `origin/main`)
+- Modified: `src/data/lessons/frequency-gulag.json`, `src/data/vocabulary.json`, `src/data/lessons/index.js`, `src/data/morphologyModules.js`, `src/app/page.js`, `src/app/api/tutor/route.js`, ~8 components in `src/components/`, `CLAUDE.md`
+- Untracked: `src/data/lessons/conversation/` (new folder of conversation lessons, owner-authored), `src/data/vocabulary.json.bak`, `src/data/vocabulary.json.syn-ant-clean.bak`, `src/data/lessons/frequency-gulag.json.bak`
+- Owner runs their own git workflow. **Do NOT commit unless explicitly asked.**
+- Dev server was running (`node server.js`, PID 9914 last seen) — edits hot-reload
+
+**Closed threads — don't reopen unless owner brings them up:**
+- KGB tutor persona → replaced with clinical pronunciation coach
+- Internal lesson ID `'mission'` → `'essentials'`
+- App-wide UI tone normalization (~30 string edits)
+- `SentenceStructuralAnalysis.jsx` stub → parser-driven 4-mode renderer
+- frequency-gulag.json 1000-entry rewrite
+- vocabulary.json synonym/antonym cleanup
+- vocabulary.json analysis-field cleanup
+
+The work log further down is current. If owner asks "where did we leave off," the answer is this section plus the `## Work done previously` log.
+
+---
+
+
 ## What this is
 
 Next.js 16 (App Router, React 19, **JS not TS**, Tailwind v4) Russian typing trainer with TTS, voice-pronunciation grading, interlinear-style grammar analysis, a `MeaningCard` vocab popup, a morphology lab UI, a live chatroom, and (yes, really) a Durak card game implementation. Sprawling proof-of-concept. Owner is iterating with multiple AI tools (Claude, codex, gemini, continue.dev). Expect inconsistent code provenance.
@@ -91,7 +131,8 @@ The per-token parser expects: `Focus word: X (blurb). Per-token: A (tags) | B (t
 ## Landmines / codex caveats (verify each before assuming)
 
 1. **Heterogeneous lesson schemas.** Some lessons have `word`+`rank`, some don't. Some `fullAnalysis` follow "Strategic focus" pedagogy style, others follow per-token gloss style. The renderer handles all four (see "Lesson analysis formats" above), but if you add a fifth style it'll fall through to plain prose with no special formatting.
-2. **vocabulary.json sense mixups.** Example: `еду` is glossed as "riding (vehicle)" but its `synonym` field lists food synonyms (кушанье, пища, провизия) — wrong sense. Probably more like this. Worth flagging when touching vocab data.
+2. **vocabulary.json cleanup completed 2026-05-23 in two passes**: (1) synonym/antonym fields — blank values use a single space `" "` (not `""`, not literal `"null"`) so the UI's truthy check renders blank instead of the em-dash fallback; (2) analysis field — all 291 backfill stubs ("Frequency backfill entry.") rewritten, all stale inline `syn./ant.` notes stripped, all "Fun fact:" / "super-mode" Gemini-isms removed. Voice is now clinical: leads with POS (m/f/n for nouns; impf/perf + reference form for verbs; agreement for adjectives; role for function words); inflected entries name their lemma; adds usage notes only when they earn their keep. Average analysis length grew 33 → 95 chars. If you add new entries, follow the same conventions.
+3. **vocabulary.json `literal`/`natural` fields still have data bugs** the analysis-pass subagents flagged but didn't touch (preservation rule held): `рот`→"mouthpiece" (means mouth), `комплекс`→"complexion" (means complex), `лист`→"leaflet" (means leaf/sheet), `тихо`→"quiet on" (broken; means quietly), `сотрудник`→"staffer" (more naturally employee), plus ~30 entries with embedded Cyrillic leaked into the English `natural` field (e.g. `начальник` → `"Boss; начальник."`, `берег` → `"Shore; берег; bank (of river)."`). Owner hasn't decided whether to do a separate literal/natural cleanup pass.
 3. **ё/е inconsistency.** Source data sometimes uses bare `e` where modern orthography wants `ё` (e.g. `черный`, `темный`, `желтый`, `ребенок`). My frequency-gulag rewrite uses `ё` in `phrase` while keeping the source spelling in `word`. The TypingEngine matches char-by-char case-insensitive, so `ё` must be typed as `ё` — if owner mentions typing-engine ё/е friction, that's the source.
 4. **Two parallel lesson registries** — `lessons/index.js` is the source of truth, `lessonSets.js` is a re-export. Edit `lessons/index.js`.
 5. **TypingEngine input is case-insensitive but otherwise strict** — em-dash `—` (U+2014) must be typed as em-dash; commas/periods all must be typed. Spelled-out numerals only (no digits).
@@ -100,6 +141,10 @@ The per-token parser expects: `Focus word: X (blurb). Per-token: A (tags) | B (t
 
 ## Work done previously (most recent first)
 
+- **vocabulary.json analysis-field pass** (2026-05-23). Rewrote 291 "Frequency backfill entry." stubs from scratch; stripped 134 stale inline `syn./ant.` cross-refs; trimmed 3 Gemini-isms ("Fun fact:", "super-mode"); enriched thin one-liners across the board. New voice: clinical, POS-led, lemma-referenced for inflected forms, ~95 chars avg (was 33). 10 parallel Opus subagents. Subagents took initiative on ~95 entries to also edit `literal`/`natural`; force-reverted those to source backup to honor strict preservation rule — left their findings as flag list for a future pass. Backups: `vocabulary.json.bak` (original) and `vocabulary.json.syn-ant-clean.bak` (post syn/ant, pre analysis).
+- **vocabulary.json synonym/antonym pass** (2026-05-23). Cleaned all 1417 entries with 10 parallel Opus subagents, bias hard toward blank. Replaced 1454 literal-`"null"`-string placeholders (bug: was rendering as text in UI) with single-space `" "`. Stripped florid/wrong-sense/proverb/slur/negation-as-antonym slop. Final distribution: 523 filled synonyms / 894 blanked; 479 filled antonyms / 938 blanked. All other fields preserved byte-for-byte.
+- **Tutor prompt + lesson ID cleanup** (2026-05-23). Rewrote `src/app/api/tutor/route.js` Gemini prompt from the "Defected KGB Phonetics Officer" role-play into a clinical Russian pronunciation coach (kept all piping: model fallback chain, error handling, request/response shape — only the prompt body changed). API has been broken for a while on Google's side; new prompt is ready for when it comes back. Also renamed internal lesson-set id `'mission'` → `'essentials'` in `lessons/index.js` (definition + fallback) to match the new label. Persisted localStorage with the old `'mission'` id falls through `getLessonSet` to `lessonSets[0]` (Essentials) automatically — no migration needed.
+- **App-wide UI tone normalization** (2026-05-23). Stripped generic military/hacker jargon ("MISSION INTEL", "SIGNAL", "ANALYSIS", "PHONETIC INPUT", "Linguistic Intel", "Vocabulary Intel Missing", "Wildcard Bay", etc.) across TypingEngine, SentenceStructuralAnalysis, MeaningCard, SpeechInterface, WelcomeOverlay, SidebarQuickGuide, LessonSetSelector, FeatureDock, page.js, api/tutor/route.js, lessons/index.js, morphologyModules.js. Lesson-set renames: "Mission Set" → "Essentials", "Street Set" → "Street Russian". Kept the intentional dark-Russian thread (1000 Word Gulag set name, SuggestionShredder gag).
 - **Upgraded `SentenceStructuralAnalysis.jsx`** (2026-05-23). Was a 30-line stub that only showed `Focus word: X` and `Literal: Y`. Now parses `fullAnalysis` into one of 4 modes (see "Lesson analysis formats") and renders per-token gloss as color-coded POS chips. Hot-reloads into the owner's running dev server.
 - **Rewrote all 1000 entries in `src/data/lessons/frequency-gulag.json`** (2026-05-23). Original was templated (`Этот дом X`, `У меня есть X`, `Мы нашли X`) and frequently ungrammatical (`Мы нашли Россия` etc.). New entries: natural 4–10 word sentences, per-token morphology breakdown in `fullAnalysis`, refreshed `literal`. Backup at `frequency-gulag.json.bak`. Used 10 parallel Opus subagents (100 entries each), then stitched.
 
@@ -109,7 +154,7 @@ The per-token parser expects: `Focus word: X (blurb). Per-token: A (tags) | B (t
 - `'use client'` directive on every interactive component.
 - File extensions: components in `.jsx`, hooks/utils in `.js`. (`GameOverlay.js` is the one inconsistency.)
 - Comment style: terse — mostly section-header comments inside JSX, no JSDoc, no big block headers.
-- Owner-facing copy uses heavy aesthetic terminology ("SIGNAL", "ANALYSIS", "Mission Structural Intel") — preserve that voice when editing UI strings.
+- **UI tone (post 2026-05-23 normalization)**: plain professional language, no military/hacker jargon. Section labels stay tracked-uppercase but say what they are ("VOICE", "PRONUNCIATION", "SENTENCE BREAKDOWN"). Drop "Intel", "Signal", "Mission", "Protocol", "Tactical" if you see them sneak back in. Two dark-Russian threads are owner-authored and stay: (1) "1000 Word Gulag" lesson-set name, (2) the entire SuggestionShredder gag (fake IP-fetch / "you are now in gulag" alert). The Gemini tutor prompt in `src/app/api/tutor/route.js` has been rewritten as a clinical pronunciation coach (was the "KGB Phonetics Officer" gimmick).
 - The `gemini.md` file in repo root is a stale Phase-1 execplan from project inception. Ignore for current state.
 
 ## Things to verify before acting

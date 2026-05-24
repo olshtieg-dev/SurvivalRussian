@@ -52,35 +52,31 @@ export default function TypingEngine({
  return (
     <div className="w-full max-w-4xl bg-slate-950/80 border border-slate-800 p-8 rounded-2xl shadow-2xl backdrop-blur-xl relative overflow-hidden">
       
-      {/* 1. TOP LINE: REPURPOSED FOR SIGNAL (Speech Recognition) */}
       <div className="flex justify-between items-center border-b border-slate-800/50 pb-3">
         <div className="flex items-center gap-3">
           <Activity size={14} className="text-blue-500 animate-pulse" />
-          <span className="text-[10px] font-black text-blue-500 uppercase tracking-[0.4em]">SIGNAL:</span>
-          <span className="text-[11px] font-mono text-blue-400 uppercase tracking-widest italic">
-            {voiceTranscript ? `"${voiceTranscript}"` : "AWAITING PHONETIC INPUT: USE MIC BUTTON TO THE LEFT..."}
+          <span className="text-[10px] font-black text-blue-500 uppercase tracking-[0.4em]">Voice:</span>
+          <span className="text-[11px] font-mono text-blue-400 italic">
+            {voiceTranscript ? `"${voiceTranscript}"` : "Tap the mic to record yourself."}
           </span>
         </div>
-        
+
         {errorIndex !== null && (
           <div className="flex items-center text-red-500 animate-bounce">
             <AlertCircle size={14} className="mr-2" />
-            <span className="text-[10px] font-black uppercase tracking-widest">Input Mismatch</span>
+            <span className="text-[10px] font-black uppercase tracking-widest">Wrong key</span>
           </div>
         )}
       </div>
 
-      {/* 3. ANALYSIS LINE: NOW DIRECTLY UNDER SIGNAL */}
       <div className="flex justify-between items-center py-3 border-b border-slate-800/20 mb-8">
         <div className="flex items-center gap-3">
           <ShieldCheck size={14} className="text-red-500" />
-          <span className="text-[10px] font-black text-red-500 uppercase tracking-[0.4em]">ANALYSIS:</span>
-          <span className="text-[11px] font-mono text-blue-300 italic uppercase tracking-wider">
-            {voiceAnalysis || "READY FOR PHONETIC INSTRUCTION"}
+          <span className="text-[10px] font-black text-red-500 uppercase tracking-[0.4em]">Pronunciation:</span>
+          <span className="text-[11px] font-mono text-blue-300 italic">
+            {voiceAnalysis || "Feedback will appear here."}
           </span>
         </div>
-        
-        
       </div>
 
       {/* 2. THE CORE TYPING FIELD */}
