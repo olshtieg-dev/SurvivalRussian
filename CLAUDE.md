@@ -2,14 +2,14 @@
 
 Self-note for future Claude sessions. Owner is `fordted438@gmail.com`. Working dir `/home/c/Code/SurvivalRussian`.
 
-## Pickup for next session (last touched 2026-05-23 evening)
+## Pickup for next session (last touched 2026-05-24 evening)
 
-Owner said we'd pick up tomorrow. Start by re-orienting: read this file top-to-bottom, then `git status` to see what's still uncommitted from the last working session.
+Working tree is clean as of commit `300ce79` on branch `stash` (which is now 1 commit ahead of `origin/stash`). Start by re-orienting: read this file top-to-bottom, then `git status` to confirm.
 
 **Top of pile — pending work the owner has acknowledged but deferred:**
 
-1. **`vocabulary.json` `literal`/`natural` cleanup pass.** During the analysis-field pass, subagents caught ~95 entries with bad glosses but I reverted their fixes to honor the strict "preserve other fields" rule. Owner agreed it should be a separate pass. Three categories of issues to fix:
-   - **~6 clearly wrong glosses** (high-confidence corrections):
+1. **`vocabulary.json` `literal`/`natural` cleanup pass for the originally-flagged entries** (carried over from 2026-05-23). The missing-words problem was solved separately in the 2026-05-24 pass, but the specific bad-gloss entries the analysis-field subagents flagged are still untouched in the pre-existing vocab:
+   - **~6 clearly wrong glosses**:
      - `рот`: `literal: "mouthpiece"` → "mouth"
      - `комплекс`: `literal: "complexion"` → "complex"
      - `лист`: `literal: "leaflet"` → "leaf; sheet"
@@ -17,16 +17,18 @@ Owner said we'd pick up tomorrow. Start by re-orienting: read this file top-to-b
      - `сотрудник`: `literal: "staffer"` → "employee" or "colleague"
      - `мочь`: `literal: "pot"` → "to be able to" (and probably `рыба`: "pot" too — verify)
    - **~30 entries with Cyrillic leaked into the English `natural` field.** Run `jq -r 'to_entries | [.[] | select(.value.natural | test("[А-Яа-яЁё]"))] | .[] | "\(.key): \(.value.natural)"' src/data/vocabulary.json` to list them all. Examples: `начальник` → `"Boss; начальник."`, `берег` → `"Shore; берег; bank (of river)."`, `пусть` → `"Let; пусть (permission/insistence)."`. Strip the Cyrillic; keep the English.
-   - **~55 single-word `natural` glosses** where agents wanted to expand (e.g. "Again." → "Again; anew."). Default: **skip these** unless owner asks. They're not bugs, just terse.
+   - **~55 single-word `natural` glosses** — default skip; not bugs, just terse.
    
-   Recommended approach: same 10-parallel-Opus pattern as the analysis pass. Pre-existing chunk infrastructure was at `/tmp/vocab-chunks/` but may be gone after reboot — re-slice from current `src/data/vocabulary.json`. Bias hard toward "only fix clear bugs"; do NOT auto-expand short glosses.
+   Recommended approach: same 10-parallel-Opus pattern. Bias hard toward "only fix clear bugs"; do NOT auto-expand short glosses. New per-form entries (added 2026-05-24) already follow the clinical voice, so they're not in scope for this pass.
 
-**Repo state snapshot (uncommitted as of last session):**
-- Branch: `stash` (working branch, several commits ahead of `origin/main`)
-- Modified: `src/data/lessons/frequency-gulag.json`, `src/data/vocabulary.json`, `src/data/lessons/index.js`, `src/data/morphologyModules.js`, `src/app/page.js`, `src/app/api/tutor/route.js`, ~8 components in `src/components/`, `CLAUDE.md`
-- Untracked: `src/data/lessons/conversation/` (new folder of conversation lessons, owner-authored), `src/data/vocabulary.json.bak`, `src/data/vocabulary.json.syn-ant-clean.bak`, `src/data/lessons/frequency-gulag.json.bak`
-- Owner runs their own git workflow. **Do NOT commit unless explicitly asked.**
-- Dev server was running (`node server.js`, PID 9914 last seen) — edits hot-reload
+2. **Remaining ё-less inflected forms in vocab** (new, surfaced 2026-05-24). The phrase normalization touched only the 25 (e-form, ё-form) pairs where both forms had vocab entries. Some ё-less forms still exist as standalone entries because their ё-counterpart was never written in any lesson (e.g. `легкая`, `тяжелая` — f. sg. of лёгкий/тяжёлый). Each has a "Spelled without ё; cf. X" note in analysis but is otherwise treated as its own entry. If owner wants stricter normalization: sweep all lesson phrases for plausible ё-stand-in e-forms (broader than the 25 pairs), substitute, then dedupe vocab. Not in scope until owner asks.
+
+**Repo state (as of 2026-05-24 commit `300ce79`):**
+- Branch: `stash`, 1 commit ahead of `origin/stash`. `stash` itself is still several commits ahead of `origin/main`.
+- Working tree: clean. No uncommitted changes from this session.
+- Untracked: `src/data/vocabulary.json.bak`, `src/data/vocabulary.json.syn-ant-clean.bak`, `src/data/lessons/frequency-gulag.json.bak` (owner-authored older backups, intentionally untracked).
+- Owner runs their own git workflow. **Do NOT commit unless explicitly asked.** Owner has not pushed; do not push unless asked.
+- Dev server may or may not be running; check before starting one.
 
 **Closed threads — don't reopen unless owner brings them up:**
 - KGB tutor persona → replaced with clinical pronunciation coach
@@ -36,6 +38,9 @@ Owner said we'd pick up tomorrow. Start by re-orienting: read this file top-to-b
 - frequency-gulag.json 1000-entry rewrite
 - vocabulary.json synonym/antonym cleanup
 - vocabulary.json analysis-field cleanup
+- vocabulary.json missing-per-form-entry fill (1417→3085; case variants, verb conjugations, agreement variants — no blank MeaningCards now)
+- ё-normalization of 86 phrase tokens across 30 lesson files; 26 orphaned е-form entries dropped; 3 genuine semantic pairs (все/всё, всем/всём, берет/берёт) rewritten with disambiguating analyses
+- 11 hyphenated compounds (что-то, всё-таки, из-за, etc.): JSON key kept as space-tokenized form for page.js lookup, `cyrillic` field overridden to canonical hyphenated form for display
 
 The work log further down is current. If owner asks "where did we leave off," the answer is this section plus the `## Work done previously` log.
 
@@ -58,7 +63,7 @@ Opens at http://localhost:3000.
 
 - Current branch: **`stash`** (also remote: stash, testing, staging, main)
 - `stash` is ahead of `origin/main` by several commits — owner does work here, periodically merges to main
-- Modified-but-uncommitted on entry was: `src/app/page.js`, `src/data/lessons/index.js`, `src/data/lessons/frequency-gulag.json`. Untracked: `src/data/lessons/conversation/` (a whole new lesson folder), plus `frequency-gulag.json.bak` (my backup from the rewrite)
+- See the "Pickup for next session" section above for the up-to-date snapshot.
 - **Don't commit unless asked.** Owner runs their own git workflow.
 
 ## Layout (the bits that matter)
@@ -131,9 +136,12 @@ The per-token parser expects: `Focus word: X (blurb). Per-token: A (tags) | B (t
 ## Landmines / codex caveats (verify each before assuming)
 
 1. **Heterogeneous lesson schemas.** Some lessons have `word`+`rank`, some don't. Some `fullAnalysis` follow "Strategic focus" pedagogy style, others follow per-token gloss style. The renderer handles all four (see "Lesson analysis formats" above), but if you add a fifth style it'll fall through to plain prose with no special formatting.
-2. **vocabulary.json cleanup completed 2026-05-23 in two passes**: (1) synonym/antonym fields — blank values use a single space `" "` (not `""`, not literal `"null"`) so the UI's truthy check renders blank instead of the em-dash fallback; (2) analysis field — all 291 backfill stubs ("Frequency backfill entry.") rewritten, all stale inline `syn./ant.` notes stripped, all "Fun fact:" / "super-mode" Gemini-isms removed. Voice is now clinical: leads with POS (m/f/n for nouns; impf/perf + reference form for verbs; agreement for adjectives; role for function words); inflected entries name their lemma; adds usage notes only when they earn their keep. Average analysis length grew 33 → 95 chars. If you add new entries, follow the same conventions.
-3. **vocabulary.json `literal`/`natural` fields still have data bugs** the analysis-pass subagents flagged but didn't touch (preservation rule held): `рот`→"mouthpiece" (means mouth), `комплекс`→"complexion" (means complex), `лист`→"leaflet" (means leaf/sheet), `тихо`→"quiet on" (broken; means quietly), `сотрудник`→"staffer" (more naturally employee), plus ~30 entries with embedded Cyrillic leaked into the English `natural` field (e.g. `начальник` → `"Boss; начальник."`, `берег` → `"Shore; берег; bank (of river)."`). Owner hasn't decided whether to do a separate literal/natural cleanup pass.
-3. **ё/е inconsistency.** Source data sometimes uses bare `e` where modern orthography wants `ё` (e.g. `черный`, `темный`, `желтый`, `ребенок`). My frequency-gulag rewrite uses `ё` in `phrase` while keeping the source spelling in `word`. The TypingEngine matches char-by-char case-insensitive, so `ё` must be typed as `ё` — if owner mentions typing-engine ё/е friction, that's the source.
+2. **vocabulary.json cleanup history**:
+   - **2026-05-23 (two passes)**: (1) synonym/antonym fields — blank values use a single space `" "` (not `""`, not literal `"null"`) so the UI's truthy check renders blank instead of the em-dash fallback; (2) analysis field — all 291 backfill stubs ("Frequency backfill entry.") rewritten, all stale inline `syn./ant.` notes stripped, all "Fun fact:" / "super-mode" Gemini-isms removed. Voice clinical, POS-led, lemma-referenced.
+   - **2026-05-24 (per-form fill)**: 1417 → 3085 entries. Every surface form appearing in any lesson phrase now has an entry — case variants, verb conjugations, agreement variants are each their own entry (this is intentional, powers interlinear gloss). Same clinical voice. 26 е-form duplicates dropped after lesson normalization.
+   - **If you add new entries**, follow conventions: clinical POS-led analysis (~80-120 chars), lemma-referenced; blank synonym/antonym as single space `" "`; omit `thumbnail` field entirely unless you have a confident Material Symbols match for a concrete noun/action (do NOT write `"thumbnail": "null"` — old bug). Hyphenated compounds: JSON key uses the punctuation-stripped space form (что то); `cyrillic` field is the canonical hyphenated form (что-то).
+3. **vocabulary.json `literal`/`natural` fields still have data bugs** in the pre-existing entries (the per-form fill did not touch these): `рот`→"mouthpiece" (means mouth), `комплекс`→"complexion" (means complex), `лист`→"leaflet" (means leaf/sheet), `тихо`→"quiet on" (broken; means quietly), `сотрудник`→"staffer" (more naturally employee), plus ~30 entries with embedded Cyrillic leaked into the English `natural` field. See the "Pickup for next session" section for the full list and recommended approach. New per-form entries are not affected.
+4. **ё/е inconsistency (mostly resolved 2026-05-24).** Source data sometimes uses bare `e` where modern orthography wants `ё`. As of 2026-05-24, 86 phrase tokens across 30 lesson files were normalized e→ё for the 25 spelling-variant pairs where both forms existed (черный/чёрный, идет/идёт, пришел/пришёл, ребенок/ребёнок, etc.). The TypingEngine matches char-by-char case-insensitive, so `ё` must be typed as `ё`. Genuine semantic distinctions kept separate: все/всё, всем/всём, берет (beret) / берёт (takes). Some ё-less inflected forms (e.g. `легкая`, `тяжелая`) still exist as standalone entries because their ё-counterpart was never used in lessons — handled by per-entry "Spelled without ё; cf. X" notes in analysis.
 4. **Two parallel lesson registries** — `lessons/index.js` is the source of truth, `lessonSets.js` is a re-export. Edit `lessons/index.js`.
 5. **TypingEngine input is case-insensitive but otherwise strict** — em-dash `—` (U+2014) must be typed as em-dash; commas/periods all must be typed. Spelled-out numerals only (no digits).
 6. **Branch chaos.** `stash` is the live working branch; `main` lags behind. Commits like `"????? error fixed"` exist. Don't assume `git log` reads like a clean changelog.
@@ -141,6 +149,7 @@ The per-token parser expects: `Focus word: X (blurb). Per-token: A (tags) | B (t
 
 ## Work done previously (most recent first)
 
+- **vocabulary.json missing-per-form-entry fill + ё-normalization** (2026-05-24, commit `300ce79`). Owner found during testing that lesson phrases frequently included words missing from `vocabulary.json` (case variants, verb conjugations, agreement forms), producing blank MeaningCards. Scanned all 85 lesson files with a Node script mirroring `page.js`'s exact tokenizer (NFC + lowercase + punctuation/symbol stripping); found 1694 unique missing tokens, 3524 occurrences. Sliced into 10 ~170-entry chunks, ran 10 parallel Opus subagents to write entries in the established clinical voice (POS-led, lemma-referenced, ~87 char avg analysis). Merged: vocab grew 1417 → 3111. Then 29 ё/е pairs surfaced; classified as 4 genuine semantic distinctions (kept and tightened: все/всё, всем/всём, берет/берёт; note берет/берёт had been agent-conflated and was fixed) vs. 25 spelling-only variants. For spelling-only: normalized 86 phrase tokens across 30 lesson files (e→ё whole-word substitution preserving capitalization), then dropped 26 orphaned е-form vocab entries (vocab settled at 3085). Final cleanup: 11 punctuation-stripped compound entries (что-то, всё-таки, из-за, по-английски, ярко-зелёной, etc.) got `cyrillic` field overridden to their canonical hyphenated form for MeaningCard display while keeping the space-tokenized JSON key for `page.js` lookup. Verified: 0 missing tokens across all 85 lesson files. Backup at `vocabulary.json.bak.pre-missing-fill`.
 - **vocabulary.json analysis-field pass** (2026-05-23). Rewrote 291 "Frequency backfill entry." stubs from scratch; stripped 134 stale inline `syn./ant.` cross-refs; trimmed 3 Gemini-isms ("Fun fact:", "super-mode"); enriched thin one-liners across the board. New voice: clinical, POS-led, lemma-referenced for inflected forms, ~95 chars avg (was 33). 10 parallel Opus subagents. Subagents took initiative on ~95 entries to also edit `literal`/`natural`; force-reverted those to source backup to honor strict preservation rule — left their findings as flag list for a future pass. Backups: `vocabulary.json.bak` (original) and `vocabulary.json.syn-ant-clean.bak` (post syn/ant, pre analysis).
 - **vocabulary.json synonym/antonym pass** (2026-05-23). Cleaned all 1417 entries with 10 parallel Opus subagents, bias hard toward blank. Replaced 1454 literal-`"null"`-string placeholders (bug: was rendering as text in UI) with single-space `" "`. Stripped florid/wrong-sense/proverb/slur/negation-as-antonym slop. Final distribution: 523 filled synonyms / 894 blanked; 479 filled antonyms / 938 blanked. All other fields preserved byte-for-byte.
 - **Tutor prompt + lesson ID cleanup** (2026-05-23). Rewrote `src/app/api/tutor/route.js` Gemini prompt from the "Defected KGB Phonetics Officer" role-play into a clinical Russian pronunciation coach (kept all piping: model fallback chain, error handling, request/response shape — only the prompt body changed). API has been broken for a while on Google's side; new prompt is ready for when it comes back. Also renamed internal lesson-set id `'mission'` → `'essentials'` in `lessons/index.js` (definition + fallback) to match the new label. Persisted localStorage with the old `'mission'` id falls through `getLessonSet` to `lessonSets[0]` (Essentials) automatically — no migration needed.
