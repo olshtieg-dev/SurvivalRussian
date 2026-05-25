@@ -5,11 +5,31 @@
     "badge": "SOMEONE",
     "description": "Five short drills for an unspecified person.",
     "missions": [
-      { "id": "PF-I-KTOT-01", "phrase": "кто-то звонит сейчас", "fullAnalysis": "Strategic focus: Unknown caller. 1. 'Кто-то' marks an unspecified person. 2. 'Звонит сейчас' makes the event immediate. 3. This is a very useful everyday sentence." },
-      { "id": "PF-I-KTOT-02", "phrase": "кто-то стучит в дверь", "fullAnalysis": "Strategic focus: Unknown visitor. 1. 'Кто-то' keeps the person hidden. 2. 'Стучит в дверь' gives a vivid scene. 3. The sentence is easy to picture and type." },
-      { "id": "PF-I-KTOT-03", "phrase": "кто-то ждет тебя", "fullAnalysis": "Strategic focus: Hidden subject. 1. 'Кто-то' is the unknown person. 2. 'Ждет тебя' keeps the grammar simple. 3. This is practical in everyday conversation." },
-      { "id": "PF-I-KTOT-04", "phrase": "кто-то пришел рано", "fullAnalysis": "Strategic focus: Unexpected arrival. 1. 'Кто-то' stays indefinite. 2. 'Пришел рано' gives the event a clear time. 3. The line is natural and memorable." },
-      { "id": "PF-I-KTOT-05", "phrase": "кто-то оставил записку", "fullAnalysis": "Strategic focus: Unknown source. 1. 'Кто-то' hides the person. 2. 'Оставил записку' gives the action. 3. This is a useful mystery-like sentence." }
+      {
+        "id": "PF-I-KTOT-01",
+        "phrase": "кто-то звонит сейчас",
+        "fullAnalysis": "Strategic focus: Unknown caller. 1. 'Кто-то' marks an unspecified person. 2. 'Звонит сейчас' makes the event immediate. 3. This is a very useful everyday sentence."
+      },
+      {
+        "id": "PF-I-KTOT-02",
+        "phrase": "кто-то стучит в дверь",
+        "fullAnalysis": "Strategic focus: Unknown visitor. 1. 'Кто-то' keeps the person hidden. 2. 'Стучит в дверь' gives a vivid scene. 3. The sentence is easy to picture and type."
+      },
+      {
+        "id": "PF-I-KTOT-03",
+        "phrase": "кто-то ждёт тебя",
+        "fullAnalysis": "Strategic focus: Hidden subject. 1. 'Кто-то' is the unknown person. 2. 'Ждет тебя' keeps the grammar simple. 3. This is practical in everyday conversation."
+      },
+      {
+        "id": "PF-I-KTOT-04",
+        "phrase": "кто-то пришёл рано",
+        "fullAnalysis": "Strategic focus: Unexpected arrival. 1. 'Кто-то' stays indefinite. 2. 'Пришел рано' gives the event a clear time. 3. The line is natural and memorable."
+      },
+      {
+        "id": "PF-I-KTOT-05",
+        "phrase": "кто-то оставил записку",
+        "fullAnalysis": "Strategic focus: Unknown source. 1. 'Кто-то' hides the person. 2. 'Оставил записку' gives the action. 3. This is a useful mystery-like sentence."
+      }
     ]
   },
   {
@@ -18,11 +38,31 @@
     "badge": "SOMETHING",
     "description": "Five short drills for an unspecified thing or event.",
     "missions": [
-      { "id": "PF-I-CHTOT-01", "phrase": "что-то упало там", "fullAnalysis": "Strategic focus: Unknown object. 1. 'Что-то' marks an unidentified thing. 2. 'Упало там' makes the scene visual. 3. This is a common spoken pattern." },
-      { "id": "PF-I-CHTOT-02", "phrase": "что-то лежит здесь", "fullAnalysis": "Strategic focus: Unknown object in place. 1. 'Что-то' keeps the object unspecified. 2. 'Лежит здесь' grounds it in the room. 3. The sentence is useful and simple." },
-      { "id": "PF-I-CHTOT-03", "phrase": "что-то мне мешает", "fullAnalysis": "Strategic focus: Unclear obstacle. 1. 'Что-то' refers to an unknown source. 2. 'Мне мешает' is a practical complaint pattern. 3. This is very natural everyday Russian." },
-      { "id": "PF-I-CHTOT-04", "phrase": "что-то случилось вчера", "fullAnalysis": "Strategic focus: Unknown event. 1. 'Что-то' can point to an unspecified occurrence. 2. 'Случилось вчера' gives the time frame. 3. This is a good narrative line." },
-      { "id": "PF-I-CHTOT-05", "phrase": "что-то блестит рядом", "fullAnalysis": "Strategic focus: Unspecified object. 1. 'Что-то' keeps the referent vague. 2. 'Блестит рядом' is a vivid visual description. 3. This sentence is excellent for observation language." }
+      {
+        "id": "PF-I-CHTOT-01",
+        "phrase": "что-то упало там",
+        "fullAnalysis": "Strategic focus: Unknown object. 1. 'Что-то' marks an unidentified thing. 2. 'Упало там' makes the scene visual. 3. This is a common spoken pattern."
+      },
+      {
+        "id": "PF-I-CHTOT-02",
+        "phrase": "что-то лежит здесь",
+        "fullAnalysis": "Strategic focus: Unknown object in place. 1. 'Что-то' keeps the object unspecified. 2. 'Лежит здесь' grounds it in the room. 3. The sentence is useful and simple."
+      },
+      {
+        "id": "PF-I-CHTOT-03",
+        "phrase": "что-то мне мешает",
+        "fullAnalysis": "Strategic focus: Unclear obstacle. 1. 'Что-то' refers to an unknown source. 2. 'Мне мешает' is a practical complaint pattern. 3. This is very natural everyday Russian."
+      },
+      {
+        "id": "PF-I-CHTOT-04",
+        "phrase": "что-то случилось вчера",
+        "fullAnalysis": "Strategic focus: Unknown event. 1. 'Что-то' can point to an unspecified occurrence. 2. 'Случилось вчера' gives the time frame. 3. This is a good narrative line."
+      },
+      {
+        "id": "PF-I-CHTOT-05",
+        "phrase": "что-то блестит рядом",
+        "fullAnalysis": "Strategic focus: Unspecified object. 1. 'Что-то' keeps the referent vague. 2. 'Блестит рядом' is a vivid visual description. 3. This sentence is excellent for observation language."
+      }
     ]
   },
   {
@@ -31,11 +71,31 @@
     "badge": "SOMEWHERE",
     "description": "Five short drills for an unspecified place.",
     "missions": [
-      { "id": "PF-I-GDET-01", "phrase": "где-то слышен шум", "fullAnalysis": "Strategic focus: Unknown location. 1. 'Где-то' marks an unspecified place. 2. 'Слышен шум' gives the ambient event. 3. This is useful for listening and environment talk." },
-      { "id": "PF-I-GDET-02", "phrase": "где-то горит свет", "fullAnalysis": "Strategic focus: Distant location. 1. 'Где-то' keeps the place vague. 2. 'Горит свет' gives a concrete cue. 3. The sentence is practical and visual." },
-      { "id": "PF-I-GDET-03", "phrase": "где-то идет дождь", "fullAnalysis": "Strategic focus: Unknown weather location. 1. 'Где-то' points to some place. 2. 'Идет дождь' is a common weather frame. 3. This is a simple and reusable sentence." },
-      { "id": "PF-I-GDET-04", "phrase": "где-то они ждут", "fullAnalysis": "Strategic focus: Hidden location of people. 1. 'Где-то' makes the location unknown. 2. 'Они ждут' gives the human action. 3. The line is easy to say and remember." },
-      { "id": "PF-I-GDET-05", "phrase": "где-то лежит ключ", "fullAnalysis": "Strategic focus: Missing object search. 1. 'Где-то' marks an unknown place. 2. 'Лежит ключ' gives a concrete object. 3. This is a natural finding-things sentence." }
+      {
+        "id": "PF-I-GDET-01",
+        "phrase": "где-то слышен шум",
+        "fullAnalysis": "Strategic focus: Unknown location. 1. 'Где-то' marks an unspecified place. 2. 'Слышен шум' gives the ambient event. 3. This is useful for listening and environment talk."
+      },
+      {
+        "id": "PF-I-GDET-02",
+        "phrase": "где-то горит свет",
+        "fullAnalysis": "Strategic focus: Distant location. 1. 'Где-то' keeps the place vague. 2. 'Горит свет' gives a concrete cue. 3. The sentence is practical and visual."
+      },
+      {
+        "id": "PF-I-GDET-03",
+        "phrase": "где-то идёт дождь",
+        "fullAnalysis": "Strategic focus: Unknown weather location. 1. 'Где-то' points to some place. 2. 'Идет дождь' is a common weather frame. 3. This is a simple and reusable sentence."
+      },
+      {
+        "id": "PF-I-GDET-04",
+        "phrase": "где-то они ждут",
+        "fullAnalysis": "Strategic focus: Hidden location of people. 1. 'Где-то' makes the location unknown. 2. 'Они ждут' gives the human action. 3. The line is easy to say and remember."
+      },
+      {
+        "id": "PF-I-GDET-05",
+        "phrase": "где-то лежит ключ",
+        "fullAnalysis": "Strategic focus: Missing object search. 1. 'Где-то' marks an unknown place. 2. 'Лежит ключ' gives a concrete object. 3. This is a natural finding-things sentence."
+      }
     ]
   },
   {
@@ -44,11 +104,31 @@
     "badge": "NO ONE",
     "description": "Five short drills for negative person reference.",
     "missions": [
-      { "id": "PF-I-NIKTO-01", "phrase": "никто не пришел", "fullAnalysis": "Strategic focus: Absence of people. 1. 'Никто' negates the person slot. 2. 'Не пришел' gives the event outcome. 3. This is a vital absence sentence." },
-      { "id": "PF-I-NIKTO-02", "phrase": "никто ничего не сказал", "fullAnalysis": "Strategic focus: Double negation pattern. 1. 'Никто' and 'ничего' reinforce the lack. 2. 'Не сказал' closes the speech event. 3. This is a very important Russian structure." },
-      { "id": "PF-I-NIKTO-03", "phrase": "никто тебя не видел", "fullAnalysis": "Strategic focus: Negative observation. 1. 'Никто' blocks the subject. 2. 'Тебя' stays in object form. 3. The sentence is natural and useful." },
-      { "id": "PF-I-NIKTO-04", "phrase": "никто здесь не спит", "fullAnalysis": "Strategic focus: Location plus absence. 1. 'Никто' negates the person slot. 2. 'Здесь не спит' gives a simple state. 3. This is a useful household and dormitory sentence." },
-      { "id": "PF-I-NIKTO-05", "phrase": "никто не ответил", "fullAnalysis": "Strategic focus: Unanswered action. 1. 'Никто' gives the negative subject. 2. 'Не ответил' closes the interaction. 3. This is a very natural conversation sentence." }
+      {
+        "id": "PF-I-NIKTO-01",
+        "phrase": "никто не пришёл",
+        "fullAnalysis": "Strategic focus: Absence of people. 1. 'Никто' negates the person slot. 2. 'Не пришел' gives the event outcome. 3. This is a vital absence sentence."
+      },
+      {
+        "id": "PF-I-NIKTO-02",
+        "phrase": "никто ничего не сказал",
+        "fullAnalysis": "Strategic focus: Double negation pattern. 1. 'Никто' and 'ничего' reinforce the lack. 2. 'Не сказал' closes the speech event. 3. This is a very important Russian structure."
+      },
+      {
+        "id": "PF-I-NIKTO-03",
+        "phrase": "никто тебя не видел",
+        "fullAnalysis": "Strategic focus: Negative observation. 1. 'Никто' blocks the subject. 2. 'Тебя' stays in object form. 3. The sentence is natural and useful."
+      },
+      {
+        "id": "PF-I-NIKTO-04",
+        "phrase": "никто здесь не спит",
+        "fullAnalysis": "Strategic focus: Location plus absence. 1. 'Никто' negates the person slot. 2. 'Здесь не спит' gives a simple state. 3. This is a useful household and dormitory sentence."
+      },
+      {
+        "id": "PF-I-NIKTO-05",
+        "phrase": "никто не ответил",
+        "fullAnalysis": "Strategic focus: Unanswered action. 1. 'Никто' gives the negative subject. 2. 'Не ответил' closes the interaction. 3. This is a very natural conversation sentence."
+      }
     ]
   },
   {
@@ -57,11 +137,31 @@
     "badge": "NOTHING",
     "description": "Five short drills for negative thing reference.",
     "missions": [
-      { "id": "PF-I-NICHTO-01", "phrase": "ничто не мешает", "fullAnalysis": "Strategic focus: No obstacle. 1. 'Ничто' negates the thing slot. 2. 'Не мешает' is a very practical predicate. 3. The sentence is useful for confidence and explanation." },
-      { "id": "PF-I-NICHTO-02", "phrase": "ничто не осталось", "fullAnalysis": "Strategic focus: Total absence. 1. 'Ничто' blocks the object slot. 2. 'Не осталось' gives finality. 3. This is a strong completion sentence." },
-      { "id": "PF-I-NICHTO-03", "phrase": "ничто не важно", "fullAnalysis": "Strategic focus: Zero importance. 1. 'Ничто' negates the thing. 2. 'Не важно' creates a blunt evaluation. 3. This is useful for emphasis and debate." },
-      { "id": "PF-I-NICHTO-04", "phrase": "ничто не пугает", "fullAnalysis": "Strategic focus: Fearless state. 1. 'Ничто' keeps the target absent. 2. 'Не пугает' gives the emotional result. 3. The sentence is compact and expressive." },
-      { "id": "PF-I-NICHTO-05", "phrase": "ничто не изменилось", "fullAnalysis": "Strategic focus: No change. 1. 'Ничто' negates the thing or event. 2. 'Не изменилось' shows stability. 3. This is a very useful narrative sentence." }
+      {
+        "id": "PF-I-NICHTO-01",
+        "phrase": "ничто не мешает",
+        "fullAnalysis": "Strategic focus: No obstacle. 1. 'Ничто' negates the thing slot. 2. 'Не мешает' is a very practical predicate. 3. The sentence is useful for confidence and explanation."
+      },
+      {
+        "id": "PF-I-NICHTO-02",
+        "phrase": "ничто не осталось",
+        "fullAnalysis": "Strategic focus: Total absence. 1. 'Ничто' blocks the object slot. 2. 'Не осталось' gives finality. 3. This is a strong completion sentence."
+      },
+      {
+        "id": "PF-I-NICHTO-03",
+        "phrase": "ничто не важно",
+        "fullAnalysis": "Strategic focus: Zero importance. 1. 'Ничто' negates the thing. 2. 'Не важно' creates a blunt evaluation. 3. This is useful for emphasis and debate."
+      },
+      {
+        "id": "PF-I-NICHTO-04",
+        "phrase": "ничто не пугает",
+        "fullAnalysis": "Strategic focus: Fearless state. 1. 'Ничто' keeps the target absent. 2. 'Не пугает' gives the emotional result. 3. The sentence is compact and expressive."
+      },
+      {
+        "id": "PF-I-NICHTO-05",
+        "phrase": "ничто не изменилось",
+        "fullAnalysis": "Strategic focus: No change. 1. 'Ничто' negates the thing or event. 2. 'Не изменилось' shows stability. 3. This is a very useful narrative sentence."
+      }
     ]
   },
   {
@@ -70,11 +170,31 @@
     "badge": "NOWHERE",
     "description": "Five short drills for negative place reference.",
     "missions": [
-      { "id": "PF-I-NIGDE-01", "phrase": "нигде нет света", "fullAnalysis": "Strategic focus: No-light environment. 1. 'Нигде' means nowhere. 2. 'Нет света' gives the concrete absence. 3. This is a very useful environmental sentence." },
-      { "id": "PF-I-NIGDE-02", "phrase": "нигде не слышно", "fullAnalysis": "Strategic focus: No sound anywhere. 1. 'Нигде' blocks all places. 2. 'Не слышно' gives the sensory result. 3. This is useful for atmosphere and narration." },
-      { "id": "PF-I-NIGDE-03", "phrase": "нигде никто не ждет", "fullAnalysis": "Strategic focus: Double absence. 1. 'Нигде' and 'никто' stack the negative logic. 2. 'Не ждет' completes the scene. 3. This is a strong structural drill." },
-      { "id": "PF-I-NIGDE-04", "phrase": "нигде нет ответа", "fullAnalysis": "Strategic focus: No answer anywhere. 1. 'Нигде' negates place. 2. 'Нет ответа' gives the result. 3. The sentence is useful in search and conversation." },
-      { "id": "PF-I-NIGDE-05", "phrase": "нигде не осталось", "fullAnalysis": "Strategic focus: Exhaustion or depletion. 1. 'Нигде' indicates the absence of any location. 2. 'Не осталось' gives a final state. 3. This is a very practical phrasing." }
+      {
+        "id": "PF-I-NIGDE-01",
+        "phrase": "нигде нет света",
+        "fullAnalysis": "Strategic focus: No-light environment. 1. 'Нигде' means nowhere. 2. 'Нет света' gives the concrete absence. 3. This is a very useful environmental sentence."
+      },
+      {
+        "id": "PF-I-NIGDE-02",
+        "phrase": "нигде не слышно",
+        "fullAnalysis": "Strategic focus: No sound anywhere. 1. 'Нигде' blocks all places. 2. 'Не слышно' gives the sensory result. 3. This is useful for atmosphere and narration."
+      },
+      {
+        "id": "PF-I-NIGDE-03",
+        "phrase": "нигде никто не ждёт",
+        "fullAnalysis": "Strategic focus: Double absence. 1. 'Нигде' and 'никто' stack the negative logic. 2. 'Не ждет' completes the scene. 3. This is a strong structural drill."
+      },
+      {
+        "id": "PF-I-NIGDE-04",
+        "phrase": "нигде нет ответа",
+        "fullAnalysis": "Strategic focus: No answer anywhere. 1. 'Нигде' negates place. 2. 'Нет ответа' gives the result. 3. The sentence is useful in search and conversation."
+      },
+      {
+        "id": "PF-I-NIGDE-05",
+        "phrase": "нигде не осталось",
+        "fullAnalysis": "Strategic focus: Exhaustion or depletion. 1. 'Нигде' indicates the absence of any location. 2. 'Не осталось' gives a final state. 3. This is a very practical phrasing."
+      }
     ]
   },
   {
@@ -83,11 +203,31 @@
     "badge": "NEVER",
     "description": "Five short drills for negative time reference.",
     "missions": [
-      { "id": "PF-I-NIKOGDA-01", "phrase": "никогда не опаздывай", "fullAnalysis": "Strategic focus: Negative time plus imperative. 1. 'Никогда' means never. 2. 'Не опаздывай' gives a direct instruction. 3. This is a high-value everyday rule sentence." },
-      { "id": "PF-I-NIKOGDA-02", "phrase": "никогда не молчи", "fullAnalysis": "Strategic focus: Behavioral rule. 1. 'Никогда' sets an absolute time rule. 2. 'Не молчи' is a direct imperative. 3. The sentence is short and memorable." },
-      { "id": "PF-I-NIKOGDA-03", "phrase": "никогда не сдавайся", "fullAnalysis": "Strategic focus: Motivation phrase. 1. 'Никогда' marks the absolute limit. 2. 'Не сдавайся' is a classic encouragement. 3. This is useful for motivational language." },
-      { "id": "PF-I-NIKOGDA-04", "phrase": "никогда не забывай", "fullAnalysis": "Strategic focus: Memory rule. 1. 'Никогда' creates a strong absolute. 2. 'Не забывай' gives a practical directive. 3. The sentence is very reusable in conversation." },
-      { "id": "PF-I-NIKOGDA-05", "phrase": "никогда так не делай", "fullAnalysis": "Strategic focus: Strong prohibition. 1. 'Никогда' makes the rule absolute. 2. 'Так' points to the specific behavior. 3. This is a common parental or instructional sentence." }
+      {
+        "id": "PF-I-NIKOGDA-01",
+        "phrase": "никогда не опаздывай",
+        "fullAnalysis": "Strategic focus: Negative time plus imperative. 1. 'Никогда' means never. 2. 'Не опаздывай' gives a direct instruction. 3. This is a high-value everyday rule sentence."
+      },
+      {
+        "id": "PF-I-NIKOGDA-02",
+        "phrase": "никогда не молчи",
+        "fullAnalysis": "Strategic focus: Behavioral rule. 1. 'Никогда' sets an absolute time rule. 2. 'Не молчи' is a direct imperative. 3. The sentence is short and memorable."
+      },
+      {
+        "id": "PF-I-NIKOGDA-03",
+        "phrase": "никогда не сдавайся",
+        "fullAnalysis": "Strategic focus: Motivation phrase. 1. 'Никогда' marks the absolute limit. 2. 'Не сдавайся' is a classic encouragement. 3. This is useful for motivational language."
+      },
+      {
+        "id": "PF-I-NIKOGDA-04",
+        "phrase": "никогда не забывай",
+        "fullAnalysis": "Strategic focus: Memory rule. 1. 'Никогда' creates a strong absolute. 2. 'Не забывай' gives a practical directive. 3. The sentence is very reusable in conversation."
+      },
+      {
+        "id": "PF-I-NIKOGDA-05",
+        "phrase": "никогда так не делай",
+        "fullAnalysis": "Strategic focus: Strong prohibition. 1. 'Никогда' makes the rule absolute. 2. 'Так' points to the specific behavior. 3. This is a common parental or instructional sentence."
+      }
     ]
   },
   {
@@ -96,11 +236,31 @@
     "badge": "NOWHERE",
     "description": "Five short drills for negative motion and destination.",
     "missions": [
-      { "id": "PF-I-NIKUDA-01", "phrase": "никуда не иди", "fullAnalysis": "Strategic focus: Negative motion. 1. 'Никуда' blocks any destination. 2. 'Не иди' is a direct imperative. 3. This is a very clear motion-control sentence." },
-      { "id": "PF-I-NIKUDA-02", "phrase": "никуда не спеши", "fullAnalysis": "Strategic focus: Calm instruction. 1. 'Никуда' removes the destination. 2. 'Не спеши' keeps the sentence simple. 3. This is useful in everyday advice." },
-      { "id": "PF-I-NIKUDA-03", "phrase": "никуда не звони", "fullAnalysis": "Strategic focus: Communication control. 1. 'Никуда' blocks the target. 2. 'Не звони' is a concise imperative. 3. The line is easy to type and remember." },
-      { "id": "PF-I-NIKUDA-04", "phrase": "никуда не выходи", "fullAnalysis": "Strategic focus: Stay put. 1. 'Никуда' negates movement outward. 2. 'Не выходи' gives a direct instruction. 3. This is a strong practical sentence." },
-      { "id": "PF-I-NIKUDA-05", "phrase": "никуда не уходи", "fullAnalysis": "Strategic focus: Do not leave. 1. 'Никуда' keeps the destination absent. 2. 'Не уходи' is a common spoken request. 3. This is a very useful conversational phrase." }
+      {
+        "id": "PF-I-NIKUDA-01",
+        "phrase": "никуда не иди",
+        "fullAnalysis": "Strategic focus: Negative motion. 1. 'Никуда' blocks any destination. 2. 'Не иди' is a direct imperative. 3. This is a very clear motion-control sentence."
+      },
+      {
+        "id": "PF-I-NIKUDA-02",
+        "phrase": "никуда не спеши",
+        "fullAnalysis": "Strategic focus: Calm instruction. 1. 'Никуда' removes the destination. 2. 'Не спеши' keeps the sentence simple. 3. This is useful in everyday advice."
+      },
+      {
+        "id": "PF-I-NIKUDA-03",
+        "phrase": "никуда не звони",
+        "fullAnalysis": "Strategic focus: Communication control. 1. 'Никуда' blocks the target. 2. 'Не звони' is a concise imperative. 3. The line is easy to type and remember."
+      },
+      {
+        "id": "PF-I-NIKUDA-04",
+        "phrase": "никуда не выходи",
+        "fullAnalysis": "Strategic focus: Stay put. 1. 'Никуда' negates movement outward. 2. 'Не выходи' gives a direct instruction. 3. This is a strong practical sentence."
+      },
+      {
+        "id": "PF-I-NIKUDA-05",
+        "phrase": "никуда не уходи",
+        "fullAnalysis": "Strategic focus: Do not leave. 1. 'Никуда' keeps the destination absent. 2. 'Не уходи' is a common spoken request. 3. This is a very useful conversational phrase."
+      }
     ]
   },
   {
@@ -109,11 +269,31 @@
     "badge": "NO WAY",
     "description": "Five short drills for negative manner, inability, and frustration.",
     "missions": [
-      { "id": "PF-I-NIKAK-01", "phrase": "никак не могу понять", "fullAnalysis": "Strategic focus: Inability. 1. 'Никак' means in no way or not at all. 2. 'Не могу понять' makes the emotion clear. 3. This is a very natural learner sentence." },
-      { "id": "PF-I-NIKAK-02", "phrase": "никак не получится сейчас", "fullAnalysis": "Strategic focus: Impossible timing. 1. 'Никак' negates the possibility. 2. 'Не получится' gives the core inability. 3. 'Сейчас' makes the time constraint explicit." },
-      { "id": "PF-I-NIKAK-03", "phrase": "никак не выходит", "fullAnalysis": "Strategic focus: Failed attempt. 1. 'Никак' signals strong negation. 2. 'Не выходит' is a common colloquial complaint. 3. The sentence is short and highly reusable." },
-      { "id": "PF-I-NIKAK-04", "phrase": "никак не успею", "fullAnalysis": "Strategic focus: Time pressure. 1. 'Никак' blocks success. 2. 'Не успею' gives a clear deadline issue. 3. This is a practical everyday sentence." },
-      { "id": "PF-I-NIKAK-05", "phrase": "никак не могу решить", "fullAnalysis": "Strategic focus: Decision difficulty. 1. 'Никак' keeps the ability blocked. 2. 'Не могу решить' gives the exact problem. 3. The sentence is useful for planning and discussion." }
+      {
+        "id": "PF-I-NIKAK-01",
+        "phrase": "никак не могу понять",
+        "fullAnalysis": "Strategic focus: Inability. 1. 'Никак' means in no way or not at all. 2. 'Не могу понять' makes the emotion clear. 3. This is a very natural learner sentence."
+      },
+      {
+        "id": "PF-I-NIKAK-02",
+        "phrase": "никак не получится сейчас",
+        "fullAnalysis": "Strategic focus: Impossible timing. 1. 'Никак' negates the possibility. 2. 'Не получится' gives the core inability. 3. 'Сейчас' makes the time constraint explicit."
+      },
+      {
+        "id": "PF-I-NIKAK-03",
+        "phrase": "никак не выходит",
+        "fullAnalysis": "Strategic focus: Failed attempt. 1. 'Никак' signals strong negation. 2. 'Не выходит' is a common colloquial complaint. 3. The sentence is short and highly reusable."
+      },
+      {
+        "id": "PF-I-NIKAK-04",
+        "phrase": "никак не успею",
+        "fullAnalysis": "Strategic focus: Time pressure. 1. 'Никак' blocks success. 2. 'Не успею' gives a clear deadline issue. 3. This is a practical everyday sentence."
+      },
+      {
+        "id": "PF-I-NIKAK-05",
+        "phrase": "никак не могу решить",
+        "fullAnalysis": "Strategic focus: Decision difficulty. 1. 'Никак' keeps the ability blocked. 2. 'Не могу решить' gives the exact problem. 3. The sentence is useful for planning and discussion."
+      }
     ]
   }
 ]

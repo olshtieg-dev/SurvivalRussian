@@ -286,7 +286,7 @@
       "id": "FG-0036",
       "rank": 36,
       "word": "еще",
-      "phrase": "Налей мне еще чашку чая.",
+      "phrase": "Налей мне ещё чашку чая.",
       "fullAnalysis": "Focus word: еще (adv., 'more/still/another'; also spelled ещё). Per-token: Налей (2sg imp of налить perf., 'to pour') | мне (1sg pers. pron., dat., indirect object) | еще (adv. of quantity, 'another') | чашку (f. noun, acc.sg. of чашка, direct object) | чая (m. noun, gen.sg. of чай, partitive genitive). With еще + a measure noun, the substance is in the partitive genitive: 'another cup of tea'.",
       "literal": "Pour me another cup of tea."
     },
@@ -3646,7 +3646,7 @@
       "id": "FG-0456",
       "rank": 456,
       "word": "черный",
-      "phrase": "Он носит черный костюм на работу.",
+      "phrase": "Он носит чёрный костюм на работу.",
       "fullAnalysis": "Focus word: черный (adj., 'black'; modern spelling чёрный). Per-token: Он (3sg.m pers. pron., nom.) | носит (3sg pres. of носить, multidirectional 'to wear') | черный (adj., m.acc.sg. inanim., agrees with костюм) | костюм (m. noun, acc.sg., direct object) | на (prep., + acc. for purpose/destination) | работу (f. noun, acc.sg. of работа). Носить (impf.) signals habitual/regular wearing.",
       "literal": "He wears a black suit to work."
     },
@@ -4062,7 +4062,7 @@
       "id": "FG-0508",
       "rank": 508,
       "word": "вперед",
-      "phrase": "Шагай смело вперед, не бойся!",
+      "phrase": "Шагай смело вперёд, не бойся!",
       "fullAnalysis": "Focus word: вперед (adv. of direction, 'forward/ahead'). Per-token: Шагай (impf. 2sg.imp. of шагать, 'to step/walk') | смело (adv., manner, 'boldly') | вперед (adv., direction) | не (neg. particle) | бойся (impf. 2sg.imp. of бояться, refl., 'don't be afraid'). Imperatives of reflexive verbs keep the -ся ending; negated imperative typically uses the imperfective.",
       "literal": "Step boldly forward, don't be afraid!"
     },

@@ -5,11 +5,31 @@
     "badge": "WHO",
     "description": "Five short drills for asking about people and identities.",
     "missions": [
-      { "id": "PF-Q-KTO-01", "phrase": "кто здесь?", "fullAnalysis": "Strategic focus: Presence question. 1. 'Кто' asks for a person. 2. 'Здесь' keeps the location immediate. 3. The line is short and very reusable." },
-      { "id": "PF-Q-KTO-02", "phrase": "кто это?", "fullAnalysis": "Strategic focus: Identification. 1. 'Кто' asks for identity. 2. 'Это' points to the referent. 3. This is the basic Russian identity question." },
-      { "id": "PF-Q-KTO-03", "phrase": "кто пришел домой?", "fullAnalysis": "Strategic focus: Past event. 1. 'Кто' asks about a person. 2. 'Пришел' gives a clear completed action. 3. 'Домой' keeps the scene practical." },
-      { "id": "PF-Q-KTO-04", "phrase": "кто ждет нас?", "fullAnalysis": "Strategic focus: Waiting frame. 1. 'Кто' pulls the subject slot open. 2. 'Ждет нас' gives a concrete interaction. 3. The sentence is easy to imagine in real life." },
-      { "id": "PF-Q-KTO-05", "phrase": "кто сказал это?", "fullAnalysis": "Strategic focus: Source of information. 1. 'Кто' asks who said something. 2. 'Сказал' anchors the sentence in speech. 3. 'Это' is the thing being referred to." }
+      {
+        "id": "PF-Q-KTO-01",
+        "phrase": "кто здесь?",
+        "fullAnalysis": "Strategic focus: Presence question. 1. 'Кто' asks for a person. 2. 'Здесь' keeps the location immediate. 3. The line is short and very reusable."
+      },
+      {
+        "id": "PF-Q-KTO-02",
+        "phrase": "кто это?",
+        "fullAnalysis": "Strategic focus: Identification. 1. 'Кто' asks for identity. 2. 'Это' points to the referent. 3. This is the basic Russian identity question."
+      },
+      {
+        "id": "PF-Q-KTO-03",
+        "phrase": "кто пришёл домой?",
+        "fullAnalysis": "Strategic focus: Past event. 1. 'Кто' asks about a person. 2. 'Пришел' gives a clear completed action. 3. 'Домой' keeps the scene practical."
+      },
+      {
+        "id": "PF-Q-KTO-04",
+        "phrase": "кто ждёт нас?",
+        "fullAnalysis": "Strategic focus: Waiting frame. 1. 'Кто' pulls the subject slot open. 2. 'Ждет нас' gives a concrete interaction. 3. The sentence is easy to imagine in real life."
+      },
+      {
+        "id": "PF-Q-KTO-05",
+        "phrase": "кто сказал это?",
+        "fullAnalysis": "Strategic focus: Source of information. 1. 'Кто' asks who said something. 2. 'Сказал' anchors the sentence in speech. 3. 'Это' is the thing being referred to."
+      }
     ]
   },
   {
@@ -18,11 +38,31 @@
     "badge": "WHAT",
     "description": "Five short drills for asking about objects, facts, and meanings.",
     "missions": [
-      { "id": "PF-Q-CHTO-01", "phrase": "что это?", "fullAnalysis": "Strategic focus: Object identity. 1. 'Что' asks for a thing or concept. 2. 'Это' points at the target. 3. This is one of the most important Russian questions." },
-      { "id": "PF-Q-CHTO-02", "phrase": "что ты видишь?", "fullAnalysis": "Strategic focus: Perception. 1. 'Что' asks about the object of seeing. 2. 'Ты видишь' keeps the frame personal. 3. The sentence is direct and useful." },
-      { "id": "PF-Q-CHTO-03", "phrase": "что лежит на столе?", "fullAnalysis": "Strategic focus: Object location. 1. 'Что' asks for an unknown item. 2. 'Лежит на столе' gives the spatial frame. 3. This is a practical household question." },
-      { "id": "PF-Q-CHTO-04", "phrase": "что он купил?", "fullAnalysis": "Strategic focus: Past action. 1. 'Что' asks for the purchased item. 2. 'Он купил' gives the event. 3. This is a clean everyday question." },
-      { "id": "PF-Q-CHTO-05", "phrase": "что нам нужно?", "fullAnalysis": "Strategic focus: Need and planning. 1. 'Что' asks for the required thing. 2. 'Нам нужно' is a high-value practical pattern. 3. The sentence is useful for shopping and planning." }
+      {
+        "id": "PF-Q-CHTO-01",
+        "phrase": "что это?",
+        "fullAnalysis": "Strategic focus: Object identity. 1. 'Что' asks for a thing or concept. 2. 'Это' points at the target. 3. This is one of the most important Russian questions."
+      },
+      {
+        "id": "PF-Q-CHTO-02",
+        "phrase": "что ты видишь?",
+        "fullAnalysis": "Strategic focus: Perception. 1. 'Что' asks about the object of seeing. 2. 'Ты видишь' keeps the frame personal. 3. The sentence is direct and useful."
+      },
+      {
+        "id": "PF-Q-CHTO-03",
+        "phrase": "что лежит на столе?",
+        "fullAnalysis": "Strategic focus: Object location. 1. 'Что' asks for an unknown item. 2. 'Лежит на столе' gives the spatial frame. 3. This is a practical household question."
+      },
+      {
+        "id": "PF-Q-CHTO-04",
+        "phrase": "что он купил?",
+        "fullAnalysis": "Strategic focus: Past action. 1. 'Что' asks for the purchased item. 2. 'Он купил' gives the event. 3. This is a clean everyday question."
+      },
+      {
+        "id": "PF-Q-CHTO-05",
+        "phrase": "что нам нужно?",
+        "fullAnalysis": "Strategic focus: Need and planning. 1. 'Что' asks for the required thing. 2. 'Нам нужно' is a high-value practical pattern. 3. The sentence is useful for shopping and planning."
+      }
     ]
   },
   {
@@ -31,11 +71,31 @@
     "badge": "WHERE",
     "description": "Five short drills for asking about place and location.",
     "missions": [
-      { "id": "PF-Q-GDE-01", "phrase": "где ты?", "fullAnalysis": "Strategic focus: Basic location question. 1. 'Где' asks for place. 2. 'Ты' keeps the sentence immediate and personal. 3. This is the shortest useful Russian location query." },
-      { "id": "PF-Q-GDE-02", "phrase": "где моя книга?", "fullAnalysis": "Strategic focus: Missing object. 1. 'Где' asks where something is. 2. 'Моя книга' makes the target concrete. 3. This is a very natural everyday question." },
-      { "id": "PF-Q-GDE-03", "phrase": "где мы встретимся?", "fullAnalysis": "Strategic focus: Meeting point. 1. 'Где' asks for a place. 2. 'Мы встретимся' gives the future action. 3. The sentence is perfect for arranging plans." },
-      { "id": "PF-Q-GDE-04", "phrase": "где твой дом?", "fullAnalysis": "Strategic focus: Residence location. 1. 'Где' asks about location. 2. 'Твой дом' keeps the target simple. 3. This is a high-value real-world question." },
-      { "id": "PF-Q-GDE-05", "phrase": "где идет дождь?", "fullAnalysis": "Strategic focus: Environment question. 1. 'Где' asks for the location of the weather. 2. 'Идет дождь' is a standard weather frame. 3. The line is useful in travel and conversation." }
+      {
+        "id": "PF-Q-GDE-01",
+        "phrase": "где ты?",
+        "fullAnalysis": "Strategic focus: Basic location question. 1. 'Где' asks for place. 2. 'Ты' keeps the sentence immediate and personal. 3. This is the shortest useful Russian location query."
+      },
+      {
+        "id": "PF-Q-GDE-02",
+        "phrase": "где моя книга?",
+        "fullAnalysis": "Strategic focus: Missing object. 1. 'Где' asks where something is. 2. 'Моя книга' makes the target concrete. 3. This is a very natural everyday question."
+      },
+      {
+        "id": "PF-Q-GDE-03",
+        "phrase": "где мы встретимся?",
+        "fullAnalysis": "Strategic focus: Meeting point. 1. 'Где' asks for a place. 2. 'Мы встретимся' gives the future action. 3. The sentence is perfect for arranging plans."
+      },
+      {
+        "id": "PF-Q-GDE-04",
+        "phrase": "где твой дом?",
+        "fullAnalysis": "Strategic focus: Residence location. 1. 'Где' asks about location. 2. 'Твой дом' keeps the target simple. 3. This is a high-value real-world question."
+      },
+      {
+        "id": "PF-Q-GDE-05",
+        "phrase": "где идёт дождь?",
+        "fullAnalysis": "Strategic focus: Environment question. 1. 'Где' asks for the location of the weather. 2. 'Идет дождь' is a standard weather frame. 3. The line is useful in travel and conversation."
+      }
     ]
   },
   {
@@ -44,11 +104,31 @@
     "badge": "WHEN",
     "description": "Five short drills for asking about time and timing.",
     "missions": [
-      { "id": "PF-Q-KOGDA-01", "phrase": "когда мы начнем?", "fullAnalysis": "Strategic focus: Planning time. 1. 'Когда' asks for timing. 2. 'Мы начнем' is a practical future action. 3. This is a very common coordination question." },
-      { "id": "PF-Q-KOGDA-02", "phrase": "когда ты придешь?", "fullAnalysis": "Strategic focus: Arrival time. 1. 'Когда' asks for time. 2. 'Ты придешь' gives a clear future event. 3. The sentence is natural and conversational." },
-      { "id": "PF-Q-KOGDA-03", "phrase": "когда будет ужин?", "fullAnalysis": "Strategic focus: Scheduled event. 1. 'Когда' introduces timing. 2. 'Будет ужин' keeps the sentence simple and concrete. 3. This is useful in daily household speech." },
-      { "id": "PF-Q-KOGDA-04", "phrase": "когда поезд уходит?", "fullAnalysis": "Strategic focus: Transit timing. 1. 'Когда' asks for departure time. 2. 'Поезд уходит' gives the event. 3. The sentence is excellent for travel practice." },
-      { "id": "PF-Q-KOGDA-05", "phrase": "когда все готово?", "fullAnalysis": "Strategic focus: Readiness time. 1. 'Когда' asks for completion point. 2. 'Все готово' marks readiness. 3. This is a very useful planning and cooking line." }
+      {
+        "id": "PF-Q-KOGDA-01",
+        "phrase": "когда мы начнём?",
+        "fullAnalysis": "Strategic focus: Planning time. 1. 'Когда' asks for timing. 2. 'Мы начнем' is a practical future action. 3. This is a very common coordination question."
+      },
+      {
+        "id": "PF-Q-KOGDA-02",
+        "phrase": "когда ты придёшь?",
+        "fullAnalysis": "Strategic focus: Arrival time. 1. 'Когда' asks for time. 2. 'Ты придешь' gives a clear future event. 3. The sentence is natural and conversational."
+      },
+      {
+        "id": "PF-Q-KOGDA-03",
+        "phrase": "когда будет ужин?",
+        "fullAnalysis": "Strategic focus: Scheduled event. 1. 'Когда' introduces timing. 2. 'Будет ужин' keeps the sentence simple and concrete. 3. This is useful in daily household speech."
+      },
+      {
+        "id": "PF-Q-KOGDA-04",
+        "phrase": "когда поезд уходит?",
+        "fullAnalysis": "Strategic focus: Transit timing. 1. 'Когда' asks for departure time. 2. 'Поезд уходит' gives the event. 3. The sentence is excellent for travel practice."
+      },
+      {
+        "id": "PF-Q-KOGDA-05",
+        "phrase": "когда все готово?",
+        "fullAnalysis": "Strategic focus: Readiness time. 1. 'Когда' asks for completion point. 2. 'Все готово' marks readiness. 3. This is a very useful planning and cooking line."
+      }
     ]
   },
   {
@@ -57,11 +137,31 @@
     "badge": "WHY",
     "description": "Five short drills for asking about causes, reasons, and motives.",
     "missions": [
-      { "id": "PF-Q-POSCHEMU-01", "phrase": "почему он молчит?", "fullAnalysis": "Strategic focus: Reason question. 1. 'Почему' asks for cause or explanation. 2. 'Он молчит' gives a common situation. 3. The sentence feels natural in real conversation." },
-      { "id": "PF-Q-POSCHEMU-02", "phrase": "почему ты ушел?", "fullAnalysis": "Strategic focus: Departure reason. 1. 'Почему' asks for the reason. 2. 'Ты ушел' keeps the event clear. 3. This is a classic conversation repair question." },
-      { "id": "PF-Q-POSCHEMU-03", "phrase": "почему дверь открыта?", "fullAnalysis": "Strategic focus: State explanation. 1. 'Почему' asks about a condition. 2. 'Дверь открыта' gives the thing to explain. 3. This is a useful household question." },
-      { "id": "PF-Q-POSCHEMU-04", "phrase": "почему мы ждем?", "fullAnalysis": "Strategic focus: Group delay. 1. 'Почему' asks for the reason. 2. 'Мы ждем' gives the shared action. 3. The line is short and useful for planning." },
-      { "id": "PF-Q-POSCHEMU-05", "phrase": "почему это важно?", "fullAnalysis": "Strategic focus: Importance question. 1. 'Почему' asks for explanation. 2. 'Это важно' frames the issue. 3. This is a great sentence for discussion and argument." }
+      {
+        "id": "PF-Q-POSCHEMU-01",
+        "phrase": "почему он молчит?",
+        "fullAnalysis": "Strategic focus: Reason question. 1. 'Почему' asks for cause or explanation. 2. 'Он молчит' gives a common situation. 3. The sentence feels natural in real conversation."
+      },
+      {
+        "id": "PF-Q-POSCHEMU-02",
+        "phrase": "почему ты ушёл?",
+        "fullAnalysis": "Strategic focus: Departure reason. 1. 'Почему' asks for the reason. 2. 'Ты ушел' keeps the event clear. 3. This is a classic conversation repair question."
+      },
+      {
+        "id": "PF-Q-POSCHEMU-03",
+        "phrase": "почему дверь открыта?",
+        "fullAnalysis": "Strategic focus: State explanation. 1. 'Почему' asks about a condition. 2. 'Дверь открыта' gives the thing to explain. 3. This is a useful household question."
+      },
+      {
+        "id": "PF-Q-POSCHEMU-04",
+        "phrase": "почему мы ждем?",
+        "fullAnalysis": "Strategic focus: Group delay. 1. 'Почему' asks for the reason. 2. 'Мы ждем' gives the shared action. 3. The line is short and useful for planning."
+      },
+      {
+        "id": "PF-Q-POSCHEMU-05",
+        "phrase": "почему это важно?",
+        "fullAnalysis": "Strategic focus: Importance question. 1. 'Почему' asks for explanation. 2. 'Это важно' frames the issue. 3. This is a great sentence for discussion and argument."
+      }
     ]
   },
   {
@@ -70,11 +170,31 @@
     "badge": "HOW",
     "description": "Five short drills for asking about method, manner, and process.",
     "missions": [
-      { "id": "PF-Q-KAK-01", "phrase": "как ты это сделал?", "fullAnalysis": "Strategic focus: Method question. 1. 'Как' asks about manner. 2. 'Ты это сделал' points to a completed act. 3. This is a classic explanatory question." },
-      { "id": "PF-Q-KAK-02", "phrase": "как это работает?", "fullAnalysis": "Strategic focus: Process question. 1. 'Как' asks for mechanism. 2. 'Это работает' gives the object of inquiry. 3. The line is short and very reusable." },
-      { "id": "PF-Q-KAK-03", "phrase": "как ты говоришь?", "fullAnalysis": "Strategic focus: Manner of speaking. 1. 'Как' asks about style or method. 2. 'Ты говоришь' keeps the verb simple. 3. This is useful for pronunciation and register talk." },
-      { "id": "PF-Q-KAK-04", "phrase": "как мы идем?", "fullAnalysis": "Strategic focus: Shared movement. 1. 'Как' asks about the way of moving. 2. 'Мы идем' keeps the action concrete. 3. The sentence is easy to say in real life." },
-      { "id": "PF-Q-KAK-05", "phrase": "как это называется?", "fullAnalysis": "Strategic focus: Naming question. 1. 'Как' asks for the name. 2. 'Это называется' is a common explanatory frame. 3. This is a core learner question." }
+      {
+        "id": "PF-Q-KAK-01",
+        "phrase": "как ты это сделал?",
+        "fullAnalysis": "Strategic focus: Method question. 1. 'Как' asks about manner. 2. 'Ты это сделал' points to a completed act. 3. This is a classic explanatory question."
+      },
+      {
+        "id": "PF-Q-KAK-02",
+        "phrase": "как это работает?",
+        "fullAnalysis": "Strategic focus: Process question. 1. 'Как' asks for mechanism. 2. 'Это работает' gives the object of inquiry. 3. The line is short and very reusable."
+      },
+      {
+        "id": "PF-Q-KAK-03",
+        "phrase": "как ты говоришь?",
+        "fullAnalysis": "Strategic focus: Manner of speaking. 1. 'Как' asks about style or method. 2. 'Ты говоришь' keeps the verb simple. 3. This is useful for pronunciation and register talk."
+      },
+      {
+        "id": "PF-Q-KAK-04",
+        "phrase": "как мы идём?",
+        "fullAnalysis": "Strategic focus: Shared movement. 1. 'Как' asks about the way of moving. 2. 'Мы идем' keeps the action concrete. 3. The sentence is easy to say in real life."
+      },
+      {
+        "id": "PF-Q-KAK-05",
+        "phrase": "как это называется?",
+        "fullAnalysis": "Strategic focus: Naming question. 1. 'Как' asks for the name. 2. 'Это называется' is a common explanatory frame. 3. This is a core learner question."
+      }
     ]
   }
 ]

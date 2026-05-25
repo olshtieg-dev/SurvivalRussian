@@ -5,16 +5,56 @@
     "badge": "IF",
     "description": "Conditional sentences that teach how Russian builds real-world 'if / then' logic.",
     "missions": [
-      { "id": "CL-ESLI-01", "phrase": "если ты придешь, мы начнем", "fullAnalysis": "Strategic focus: Basic conditional. 1. 'Если' introduces the condition. 2. 'Придешь' is future and matches 'ты'. 3. 'Мы начнем' gives the result, showing the full if-then structure." },
-      { "id": "CL-ESLI-02", "phrase": "если будет дождь, останемся дома", "fullAnalysis": "Strategic focus: Weather condition. 1. 'Будет дождь' sets a realistic trigger. 2. 'Останемся' is the future/reflexive response. 3. 'Дома' keeps the outcome practical and natural." },
-      { "id": "CL-ESLI-03", "phrase": "если у тебя есть время, позвони мне", "fullAnalysis": "Strategic focus: Polite condition plus request. 1. 'Если у тебя есть время' is a very common everyday condition. 2. 'Позвони' is the imperative form. 3. 'Мне' is the dative target of the call." },
-      { "id": "CL-ESLI-04", "phrase": "если хочешь, я помогу", "fullAnalysis": "Strategic focus: Soft offer. 1. 'Если хочешь' makes the offer feel natural instead of forceful. 2. 'Я помогу' is a clear future-help response. 3. This is a high-value conversational pattern." },
-      { "id": "CL-ESLI-05", "phrase": "если он не отвечает, я жду", "fullAnalysis": "Strategic focus: Negated condition. 1. 'Не отвечает' shows a common real-life situation. 2. 'Я жду' is a simple present response. 3. The sentence is useful because it combines timing with uncertainty." },
-      { "id": "CL-ESLI-06", "phrase": "если нужно, мы вернемся позже", "fullAnalysis": "Strategic focus: Impersonal condition. 1. 'Если нужно' is a short, flexible trigger phrase. 2. 'Мы вернемся' is future and plural. 3. 'Позже' adds a very common time adverb." },
-      { "id": "CL-ESLI-07", "phrase": "если цена высокая, я не покупаю", "fullAnalysis": "Strategic focus: Decision logic. 1. 'Цена высокая' creates a clear evaluation. 2. 'Я не покупаю' shows the resulting choice. 3. This sentence teaches practical logic, not just grammar." },
-      { "id": "CL-ESLI-08", "phrase": "если книга интересная, я читаю ее быстро", "fullAnalysis": "Strategic focus: Condition plus object pronoun. 1. 'Книга интересная' sets the condition. 2. 'Я читаю ее' keeps the object visible and concrete. 3. 'Быстро' gives a simple but useful speed modifier." },
-      { "id": "CL-ESLI-09", "phrase": "если они опоздают, встреча начнется без них", "fullAnalysis": "Strategic focus: Future result. 1. 'Опоздают' and 'начнется' are both future, so the sentence feels real. 2. 'Без них' reinforces the object form after a preposition. 3. This is a strong everyday planning sentence." },
-      { "id": "CL-ESLI-10", "phrase": "если хочешь чай, я налью чай", "fullAnalysis": "Strategic focus: Repeated noun for reinforcement. 1. The repeated 'чай' keeps the line easy to type and remember. 2. 'Налью' is a practical action verb. 3. This is a compact, useful household sentence." }
+      {
+        "id": "CL-ESLI-01",
+        "phrase": "если ты придёшь, мы начнём",
+        "fullAnalysis": "Strategic focus: Basic conditional. 1. 'Если' introduces the condition. 2. 'Придешь' is future and matches 'ты'. 3. 'Мы начнем' gives the result, showing the full if-then structure."
+      },
+      {
+        "id": "CL-ESLI-02",
+        "phrase": "если будет дождь, останемся дома",
+        "fullAnalysis": "Strategic focus: Weather condition. 1. 'Будет дождь' sets a realistic trigger. 2. 'Останемся' is the future/reflexive response. 3. 'Дома' keeps the outcome practical and natural."
+      },
+      {
+        "id": "CL-ESLI-03",
+        "phrase": "если у тебя есть время, позвони мне",
+        "fullAnalysis": "Strategic focus: Polite condition plus request. 1. 'Если у тебя есть время' is a very common everyday condition. 2. 'Позвони' is the imperative form. 3. 'Мне' is the dative target of the call."
+      },
+      {
+        "id": "CL-ESLI-04",
+        "phrase": "если хочешь, я помогу",
+        "fullAnalysis": "Strategic focus: Soft offer. 1. 'Если хочешь' makes the offer feel natural instead of forceful. 2. 'Я помогу' is a clear future-help response. 3. This is a high-value conversational pattern."
+      },
+      {
+        "id": "CL-ESLI-05",
+        "phrase": "если он не отвечает, я жду",
+        "fullAnalysis": "Strategic focus: Negated condition. 1. 'Не отвечает' shows a common real-life situation. 2. 'Я жду' is a simple present response. 3. The sentence is useful because it combines timing with uncertainty."
+      },
+      {
+        "id": "CL-ESLI-06",
+        "phrase": "если нужно, мы вернемся позже",
+        "fullAnalysis": "Strategic focus: Impersonal condition. 1. 'Если нужно' is a short, flexible trigger phrase. 2. 'Мы вернемся' is future and plural. 3. 'Позже' adds a very common time adverb."
+      },
+      {
+        "id": "CL-ESLI-07",
+        "phrase": "если цена высокая, я не покупаю",
+        "fullAnalysis": "Strategic focus: Decision logic. 1. 'Цена высокая' creates a clear evaluation. 2. 'Я не покупаю' shows the resulting choice. 3. This sentence teaches practical logic, not just grammar."
+      },
+      {
+        "id": "CL-ESLI-08",
+        "phrase": "если книга интересная, я читаю её быстро",
+        "fullAnalysis": "Strategic focus: Condition plus object pronoun. 1. 'Книга интересная' sets the condition. 2. 'Я читаю ее' keeps the object visible and concrete. 3. 'Быстро' gives a simple but useful speed modifier."
+      },
+      {
+        "id": "CL-ESLI-09",
+        "phrase": "если они опоздают, встреча начнется без них",
+        "fullAnalysis": "Strategic focus: Future result. 1. 'Опоздают' and 'начнется' are both future, so the sentence feels real. 2. 'Без них' reinforces the object form after a preposition. 3. This is a strong everyday planning sentence."
+      },
+      {
+        "id": "CL-ESLI-10",
+        "phrase": "если хочешь чай, я налью чай",
+        "fullAnalysis": "Strategic focus: Repeated noun for reinforcement. 1. The repeated 'чай' keeps the line easy to type and remember. 2. 'Налью' is a practical action verb. 3. This is a compact, useful household sentence."
+      }
     ]
   }
 ]

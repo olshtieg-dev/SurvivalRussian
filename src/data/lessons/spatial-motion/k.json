@@ -5,26 +5,106 @@
     "badge": "TOWARD",
     "description": "Motion toward a person, place, or goal. This pack focuses on going to or toward something or someone.",
     "missions": [
-      { "id": "SM-K-01", "phrase": "я иду к дому", "fullAnalysis": "Strategic focus: Motion toward a target. 1. 'К дому' means toward the house. 2. 'Иду' is motion on foot. 3. This is a classic direction phrase." },
-      { "id": "SM-K-02", "phrase": "я иду к тебе", "fullAnalysis": "Strategic focus: Direction toward a person. 1. 'К тебе' is the target person. 2. 'Иду' is first-person motion. 3. The sentence is very common in real conversation." },
-      { "id": "SM-K-03", "phrase": "он идет к врачу", "fullAnalysis": "Strategic focus: Motion toward a person with a role. 1. 'К врачу' means to the doctor. 2. 'Идет' is the motion verb. 3. This is a strong practical survival sentence." },
-      { "id": "SM-K-04", "phrase": "мы идем к машине", "fullAnalysis": "Strategic focus: Motion toward an object/location. 1. 'К машине' marks the destination. 2. 'Идем' is plural motion. 3. This sentence is easy to picture and type." },
-      { "id": "SM-K-05", "phrase": "она подошла к окну", "fullAnalysis": "Strategic focus: Completed approach. 1. 'Подошла' is a completed movement verb. 2. 'К окну' marks the destination. 3. This sentence shows the use of 'к' with movement toward a point." },
-      { "id": "SM-K-06", "phrase": "они подошли к двери", "fullAnalysis": "Strategic focus: Plural completed approach. 1. 'Подошли' is plural past. 2. 'К двери' marks the endpoint of movement. 3. The sentence is practical and easy to reuse." },
-      { "id": "SM-K-07", "phrase": "я подхожу к столу", "fullAnalysis": "Strategic focus: Ongoing approach. 1. 'Подхожу' is present tense. 2. 'К столу' marks the thing approached. 3. This sentence contrasts ongoing and completed motion." },
-      { "id": "SM-K-08", "phrase": "мы возвращаемся к работе", "fullAnalysis": "Strategic focus: Returning to an activity. 1. 'К работе' marks the thing you return to. 2. 'Возвращаемся' is a reflexive motion verb. 3. This is a useful real-world work phrase." },
-      { "id": "SM-K-09", "phrase": "он привык к шуму", "fullAnalysis": "Strategic focus: Fixed verb-governed direction-like relation. 1. 'Привык к' is a very common Russian pattern. 2. 'К шуму' marks the thing one adapts to. 3. This sentence is valuable because it broadens the meaning of 'к'." },
-      { "id": "SM-K-10", "phrase": "она готовится к экзамену", "fullAnalysis": "Strategic focus: Preparation toward an event. 1. 'К экзамену' marks a future target. 2. 'Готовится' is reflexive and common. 3. This is a very practical student sentence." },
-      { "id": "SM-K-11", "phrase": "мы готовимся к поездке", "fullAnalysis": "Strategic focus: Group preparation. 1. 'К поездке' marks the upcoming event. 2. 'Готовимся' is first-person plural reflexive. 3. This sentence is useful for travel planning." },
-      { "id": "SM-K-12", "phrase": "они идут к школе", "fullAnalysis": "Strategic focus: Direction toward a building/place. 1. 'К школе' means toward the school. 2. 'Идут' is plural motion. 3. The sentence contrasts with 'в школу' in a subtle way." },
-      { "id": "SM-K-13", "phrase": "я подошел к двери", "fullAnalysis": "Strategic focus: Completed approach in the past. 1. 'Подошел' is the masculine past form. 2. 'К двери' marks the endpoint. 3. This sentence is a strong motion contrast example." },
-      { "id": "SM-K-14", "phrase": "я подойду к тебе", "fullAnalysis": "Strategic focus: Future approach. 1. 'Подойду' is future tense. 2. 'К тебе' marks the target person. 3. This sentence is excellent for conversational planning." },
-      { "id": "SM-K-15", "phrase": "он идет к другу", "fullAnalysis": "Strategic focus: Motion toward a person. 1. 'К другу' means to a friend. 2. 'Идет' is motion on foot. 3. The sentence is short and highly reusable." },
-      { "id": "SM-K-16", "phrase": "мы пошли к соседу", "fullAnalysis": "Strategic focus: Completed motion toward a person. 1. 'Пошли' is plural past motion. 2. 'К соседу' marks the person being approached. 3. This is a common real-life visiting sentence." },
-      { "id": "SM-K-17", "phrase": "она пришла к выводу", "fullAnalysis": "Strategic focus: Fixed abstract phrase. 1. 'К выводу' means to a conclusion. 2. 'Пришла' is a completed event. 3. This sentence teaches that 'к' can lead into abstract destinations too." },
-      { "id": "SM-K-18", "phrase": "я пришел к тебе домой", "fullAnalysis": "Strategic focus: Motion toward a person and place. 1. 'К тебе' marks the person. 2. 'Домой' clarifies the destination as the home. 3. This sentence is rich but still very natural." },
-      { "id": "SM-K-19", "phrase": "они едут к нам", "fullAnalysis": "Strategic focus: Vehicle motion toward a group. 1. 'К нам' marks the direction. 2. 'Едут' is vehicle motion, not walking. 3. This sentence is ideal for travel and visits." },
-      { "id": "SM-K-20", "phrase": "она идет к нему на работу", "fullAnalysis": "Strategic focus: Direction plus purpose. 1. 'К нему' is the target person. 2. 'На работу' adds the purpose or destination context. 3. This sentence combines two important movement ideas cleanly." }
+      {
+        "id": "SM-K-01",
+        "phrase": "я иду к дому",
+        "fullAnalysis": "Strategic focus: Motion toward a target. 1. 'К дому' means toward the house. 2. 'Иду' is motion on foot. 3. This is a classic direction phrase."
+      },
+      {
+        "id": "SM-K-02",
+        "phrase": "я иду к тебе",
+        "fullAnalysis": "Strategic focus: Direction toward a person. 1. 'К тебе' is the target person. 2. 'Иду' is first-person motion. 3. The sentence is very common in real conversation."
+      },
+      {
+        "id": "SM-K-03",
+        "phrase": "он идёт к врачу",
+        "fullAnalysis": "Strategic focus: Motion toward a person with a role. 1. 'К врачу' means to the doctor. 2. 'Идет' is the motion verb. 3. This is a strong practical survival sentence."
+      },
+      {
+        "id": "SM-K-04",
+        "phrase": "мы идём к машине",
+        "fullAnalysis": "Strategic focus: Motion toward an object/location. 1. 'К машине' marks the destination. 2. 'Идем' is plural motion. 3. This sentence is easy to picture and type."
+      },
+      {
+        "id": "SM-K-05",
+        "phrase": "она подошла к окну",
+        "fullAnalysis": "Strategic focus: Completed approach. 1. 'Подошла' is a completed movement verb. 2. 'К окну' marks the destination. 3. This sentence shows the use of 'к' with movement toward a point."
+      },
+      {
+        "id": "SM-K-06",
+        "phrase": "они подошли к двери",
+        "fullAnalysis": "Strategic focus: Plural completed approach. 1. 'Подошли' is plural past. 2. 'К двери' marks the endpoint of movement. 3. The sentence is practical and easy to reuse."
+      },
+      {
+        "id": "SM-K-07",
+        "phrase": "я подхожу к столу",
+        "fullAnalysis": "Strategic focus: Ongoing approach. 1. 'Подхожу' is present tense. 2. 'К столу' marks the thing approached. 3. This sentence contrasts ongoing and completed motion."
+      },
+      {
+        "id": "SM-K-08",
+        "phrase": "мы возвращаемся к работе",
+        "fullAnalysis": "Strategic focus: Returning to an activity. 1. 'К работе' marks the thing you return to. 2. 'Возвращаемся' is a reflexive motion verb. 3. This is a useful real-world work phrase."
+      },
+      {
+        "id": "SM-K-09",
+        "phrase": "он привык к шуму",
+        "fullAnalysis": "Strategic focus: Fixed verb-governed direction-like relation. 1. 'Привык к' is a very common Russian pattern. 2. 'К шуму' marks the thing one adapts to. 3. This sentence is valuable because it broadens the meaning of 'к'."
+      },
+      {
+        "id": "SM-K-10",
+        "phrase": "она готовится к экзамену",
+        "fullAnalysis": "Strategic focus: Preparation toward an event. 1. 'К экзамену' marks a future target. 2. 'Готовится' is reflexive and common. 3. This is a very practical student sentence."
+      },
+      {
+        "id": "SM-K-11",
+        "phrase": "мы готовимся к поездке",
+        "fullAnalysis": "Strategic focus: Group preparation. 1. 'К поездке' marks the upcoming event. 2. 'Готовимся' is first-person plural reflexive. 3. This sentence is useful for travel planning."
+      },
+      {
+        "id": "SM-K-12",
+        "phrase": "они идут к школе",
+        "fullAnalysis": "Strategic focus: Direction toward a building/place. 1. 'К школе' means toward the school. 2. 'Идут' is plural motion. 3. The sentence contrasts with 'в школу' in a subtle way."
+      },
+      {
+        "id": "SM-K-13",
+        "phrase": "я подошел к двери",
+        "fullAnalysis": "Strategic focus: Completed approach in the past. 1. 'Подошел' is the masculine past form. 2. 'К двери' marks the endpoint. 3. This sentence is a strong motion contrast example."
+      },
+      {
+        "id": "SM-K-14",
+        "phrase": "я подойду к тебе",
+        "fullAnalysis": "Strategic focus: Future approach. 1. 'Подойду' is future tense. 2. 'К тебе' marks the target person. 3. This sentence is excellent for conversational planning."
+      },
+      {
+        "id": "SM-K-15",
+        "phrase": "он идёт к другу",
+        "fullAnalysis": "Strategic focus: Motion toward a person. 1. 'К другу' means to a friend. 2. 'Идет' is motion on foot. 3. The sentence is short and highly reusable."
+      },
+      {
+        "id": "SM-K-16",
+        "phrase": "мы пошли к соседу",
+        "fullAnalysis": "Strategic focus: Completed motion toward a person. 1. 'Пошли' is plural past motion. 2. 'К соседу' marks the person being approached. 3. This is a common real-life visiting sentence."
+      },
+      {
+        "id": "SM-K-17",
+        "phrase": "она пришла к выводу",
+        "fullAnalysis": "Strategic focus: Fixed abstract phrase. 1. 'К выводу' means to a conclusion. 2. 'Пришла' is a completed event. 3. This sentence teaches that 'к' can lead into abstract destinations too."
+      },
+      {
+        "id": "SM-K-18",
+        "phrase": "я пришёл к тебе домой",
+        "fullAnalysis": "Strategic focus: Motion toward a person and place. 1. 'К тебе' marks the person. 2. 'Домой' clarifies the destination as the home. 3. This sentence is rich but still very natural."
+      },
+      {
+        "id": "SM-K-19",
+        "phrase": "они едут к нам",
+        "fullAnalysis": "Strategic focus: Vehicle motion toward a group. 1. 'К нам' marks the direction. 2. 'Едут' is vehicle motion, not walking. 3. This sentence is ideal for travel and visits."
+      },
+      {
+        "id": "SM-K-20",
+        "phrase": "она идёт к нему на работу",
+        "fullAnalysis": "Strategic focus: Direction plus purpose. 1. 'К нему' is the target person. 2. 'На работу' adds the purpose or destination context. 3. This sentence combines two important movement ideas cleanly."
+      }
     ]
   }
 ]

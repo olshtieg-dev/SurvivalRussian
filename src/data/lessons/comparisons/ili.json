@@ -5,16 +5,56 @@
     "badge": "OR",
     "description": "Choice and branching sentences that teach Russian 'or' logic.",
     "missions": [
-      { "id": "CL-ILI-01", "phrase": "чай или кофе", "fullAnalysis": "Strategic focus: Simple choice. 1. 'Или' is the cleanest way to present alternatives. 2. The nouns stay compact and familiar. 3. This is a very fast drill for typing and reading." },
-      { "id": "CL-ILI-02", "phrase": "ты хочешь суп или салат", "fullAnalysis": "Strategic focus: Either-or request. 1. 'Хочешь' makes the choice personal. 2. 'Суп или салат' gives two common menu options. 3. The line feels like a real conversation in a restaurant or kitchen." },
-      { "id": "CL-ILI-03", "phrase": "мы идем пешком или едем на автобусе", "fullAnalysis": "Strategic focus: Travel choice. 1. 'Идем' and 'едем' contrast two motion patterns. 2. 'Пешком' versus 'на автобусе' gives a practical route decision. 3. This is exactly the kind of sentence learners actually use." },
-      { "id": "CL-ILI-04", "phrase": "он читает или слушает музыку", "fullAnalysis": "Strategic focus: Activity choice. 1. 'Или' separates two possible actions. 2. 'Слушает музыку' keeps the second option concrete. 3. The sentence is useful for downtime, study, or commute talk." },
-      { "id": "CL-ILI-05", "phrase": "сегодня или завтра", "fullAnalysis": "Strategic focus: Time contrast. 1. Two basic time words are easy to compare. 2. The lack of a verb keeps the drill tight. 3. This is useful for scheduling and planning language." },
-      { "id": "CL-ILI-06", "phrase": "дома или в офисе", "fullAnalysis": "Strategic focus: Location choice. 1. 'Дома' versus 'в офисе' gives a natural contrast. 2. The sentence is short and very reusable. 3. It also reinforces location prepositions in context." },
-      { "id": "CL-ILI-07", "phrase": "я могу написать или позвонить", "fullAnalysis": "Strategic focus: Communication choice. 1. 'Могу' introduces capability. 2. 'Написать или позвонить' gives two realistic options. 3. This is a great everyday coordination sentence." },
-      { "id": "CL-ILI-08", "phrase": "это правда или ложь", "fullAnalysis": "Strategic focus: Binary evaluation. 1. 'Это' points at the thing being judged. 2. 'Правда или ложь' is a very clean contrast. 3. The line is short but strongly meaningful." },
-      { "id": "CL-ILI-09", "phrase": "ты берешь ключи или телефон", "fullAnalysis": "Strategic focus: Object selection. 1. 'Берешь' stays in second person singular. 2. 'Ключи или телефон' is a very practical pair of options. 3. The sentence is easy to imagine and type." },
-      { "id": "CL-ILI-10", "phrase": "мы остаемся или уходим", "fullAnalysis": "Strategic focus: Decision-making. 1. 'Остаемся' and 'уходим' are opposite choices. 2. The sentence captures a very common social moment. 3. This is ideal for teaching how Russian handles branching choices." }
+      {
+        "id": "CL-ILI-01",
+        "phrase": "чай или кофе",
+        "fullAnalysis": "Strategic focus: Simple choice. 1. 'Или' is the cleanest way to present alternatives. 2. The nouns stay compact and familiar. 3. This is a very fast drill for typing and reading."
+      },
+      {
+        "id": "CL-ILI-02",
+        "phrase": "ты хочешь суп или салат",
+        "fullAnalysis": "Strategic focus: Either-or request. 1. 'Хочешь' makes the choice personal. 2. 'Суп или салат' gives two common menu options. 3. The line feels like a real conversation in a restaurant or kitchen."
+      },
+      {
+        "id": "CL-ILI-03",
+        "phrase": "мы идём пешком или едем на автобусе",
+        "fullAnalysis": "Strategic focus: Travel choice. 1. 'Идем' and 'едем' contrast two motion patterns. 2. 'Пешком' versus 'на автобусе' gives a practical route decision. 3. This is exactly the kind of sentence learners actually use."
+      },
+      {
+        "id": "CL-ILI-04",
+        "phrase": "он читает или слушает музыку",
+        "fullAnalysis": "Strategic focus: Activity choice. 1. 'Или' separates two possible actions. 2. 'Слушает музыку' keeps the second option concrete. 3. The sentence is useful for downtime, study, or commute talk."
+      },
+      {
+        "id": "CL-ILI-05",
+        "phrase": "сегодня или завтра",
+        "fullAnalysis": "Strategic focus: Time contrast. 1. Two basic time words are easy to compare. 2. The lack of a verb keeps the drill tight. 3. This is useful for scheduling and planning language."
+      },
+      {
+        "id": "CL-ILI-06",
+        "phrase": "дома или в офисе",
+        "fullAnalysis": "Strategic focus: Location choice. 1. 'Дома' versus 'в офисе' gives a natural contrast. 2. The sentence is short and very reusable. 3. It also reinforces location prepositions in context."
+      },
+      {
+        "id": "CL-ILI-07",
+        "phrase": "я могу написать или позвонить",
+        "fullAnalysis": "Strategic focus: Communication choice. 1. 'Могу' introduces capability. 2. 'Написать или позвонить' gives two realistic options. 3. This is a great everyday coordination sentence."
+      },
+      {
+        "id": "CL-ILI-08",
+        "phrase": "это правда или ложь",
+        "fullAnalysis": "Strategic focus: Binary evaluation. 1. 'Это' points at the thing being judged. 2. 'Правда или ложь' is a very clean contrast. 3. The line is short but strongly meaningful."
+      },
+      {
+        "id": "CL-ILI-09",
+        "phrase": "ты берешь ключи или телефон",
+        "fullAnalysis": "Strategic focus: Object selection. 1. 'Берешь' stays in second person singular. 2. 'Ключи или телефон' is a very practical pair of options. 3. The sentence is easy to imagine and type."
+      },
+      {
+        "id": "CL-ILI-10",
+        "phrase": "мы остаемся или уходим",
+        "fullAnalysis": "Strategic focus: Decision-making. 1. 'Остаемся' and 'уходим' are opposite choices. 2. The sentence captures a very common social moment. 3. This is ideal for teaching how Russian handles branching choices."
+      }
     ]
   }
 ]

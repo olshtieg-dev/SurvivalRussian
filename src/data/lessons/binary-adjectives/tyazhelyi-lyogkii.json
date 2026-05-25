@@ -5,11 +5,31 @@
     "badge": "HEAVY/LIGHT",
     "description": "Weight contrasts that work for objects, bags, books, and load-bearing language.",
     "missions": [
-      { "id": "BA-TL-01", "phrase": "тяжелая сумка", "fullAnalysis": "Strategic focus: Everyday weight. 1. 'Тяжелая' matches the feminine noun 'сумка'. 2. This is a common practical phrase. 3. It is easy to imagine in a real-life context." },
-      { "id": "BA-TL-02", "phrase": "легкий рюкзак", "fullAnalysis": "Strategic focus: Lightweight object. 1. 'Легкий' matches the masculine noun 'рюкзак'. 2. The phrase is useful for travel and school talk. 3. It is a clean opposite to 'тяжелая сумка'." },
-      { "id": "BA-TL-03", "phrase": "тяжелая книга", "fullAnalysis": "Strategic focus: Familiar object weight. 1. 'Тяжелая' matches 'книга'. 2. The noun is concrete and easy to picture. 3. This sentence is good for daily vocabulary and typing speed." },
-      { "id": "BA-TL-04", "phrase": "легкое письмо", "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Легкое' matches the neuter noun 'письмо'. 2. This reinforces the neutral adjective ending. 3. The sentence is small but grammatically useful." },
-      { "id": "BA-TL-05", "phrase": "тяжелый камень, легкая палка", "fullAnalysis": "Strategic focus: Two-object comparison. 1. The sentence forces two different adjective endings. 2. The noun pair creates a strong visual contrast. 3. This is a very useful future model for mixed adjective drills." }
+      {
+        "id": "BA-TL-01",
+        "phrase": "тяжелая сумка",
+        "fullAnalysis": "Strategic focus: Everyday weight. 1. 'Тяжелая' matches the feminine noun 'сумка'. 2. This is a common practical phrase. 3. It is easy to imagine in a real-life context."
+      },
+      {
+        "id": "BA-TL-02",
+        "phrase": "лёгкий рюкзак",
+        "fullAnalysis": "Strategic focus: Lightweight object. 1. 'Легкий' matches the masculine noun 'рюкзак'. 2. The phrase is useful for travel and school talk. 3. It is a clean opposite to 'тяжелая сумка'."
+      },
+      {
+        "id": "BA-TL-03",
+        "phrase": "тяжелая книга",
+        "fullAnalysis": "Strategic focus: Familiar object weight. 1. 'Тяжелая' matches 'книга'. 2. The noun is concrete and easy to picture. 3. This sentence is good for daily vocabulary and typing speed."
+      },
+      {
+        "id": "BA-TL-04",
+        "phrase": "легкое письмо",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Легкое' matches the neuter noun 'письмо'. 2. This reinforces the neutral adjective ending. 3. The sentence is small but grammatically useful."
+      },
+      {
+        "id": "BA-TL-05",
+        "phrase": "тяжёлый камень, легкая палка",
+        "fullAnalysis": "Strategic focus: Two-object comparison. 1. The sentence forces two different adjective endings. 2. The noun pair creates a strong visual contrast. 3. This is a very useful future model for mixed adjective drills."
+      }
     ]
   }
 ]

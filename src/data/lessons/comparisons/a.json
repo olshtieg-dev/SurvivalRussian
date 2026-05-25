@@ -5,16 +5,56 @@
     "badge": "ALT",
     "description": "Soft contrast and topic-shift sentences that use Russian 'a' naturally.",
     "missions": [
-      { "id": "CL-A-01", "phrase": "я дома, а ты на работе", "fullAnalysis": "Strategic focus: Parallel contrast. 1. 'А' introduces a side-by-side comparison. 2. The two locations are clear and practical. 3. This is a very common spoken pattern." },
-      { "id": "CL-A-02", "phrase": "он пьет чай, а она кофе", "fullAnalysis": "Strategic focus: Light contrast. 1. 'А' links two different preferences. 2. The sentence is short and natural. 3. It is good for type-speed practice because the pattern is easy to repeat." },
-      { "id": "CL-A-03", "phrase": "мы идем пешком, а они едут", "fullAnalysis": "Strategic focus: Motion contrast. 1. The first clause uses walking. 2. The second clause uses vehicle motion. 3. 'А' keeps the contrast smooth rather than sharp." },
-      { "id": "CL-A-04", "phrase": "это не дом, а школа", "fullAnalysis": "Strategic focus: Corrective contrast. 1. 'Не дом' sets up a false guess. 2. 'А школа' corrects it. 3. This is a very important everyday Russian pattern." },
-      { "id": "CL-A-05", "phrase": "я читаю, а ты пишешь", "fullAnalysis": "Strategic focus: Split activity. 1. 'А' contrasts two simultaneous actions. 2. The two verbs match their subjects cleanly. 3. This sentence is simple but very useful." },
-      { "id": "CL-A-06", "phrase": "у меня есть вода, а у тебя нет", "fullAnalysis": "Strategic focus: Possession contrast. 1. 'У меня есть' is positive possession. 2. 'У тебя нет' is the negative mirror. 3. The sentence is excellent for case practice and everyday meaning." },
-      { "id": "CL-A-07", "phrase": "дверь открыта, а окно закрыто", "fullAnalysis": "Strategic focus: Opposed states. 1. Two short-form adjectives make the contrast crisp. 2. 'Открыта' and 'закрыто' are easy to compare. 3. This is a strong visual training sentence." },
-      { "id": "CL-A-08", "phrase": "сегодня холодно, а вчера было тепло", "fullAnalysis": "Strategic focus: Time-based contrast. 1. 'Сегодня' and 'вчера' anchor the comparison. 2. 'Было тепло' gives a past-state frame. 3. This sentence is useful for weather talk." },
-      { "id": "CL-A-09", "phrase": "он старший, а брат младший", "fullAnalysis": "Strategic focus: Family comparison. 1. 'Старший' and 'младший' are common comparative labels. 2. 'А' links them as a natural pair. 3. The sentence is short and highly reusable." },
-      { "id": "CL-A-10", "phrase": "здесь тихо, а там шумно", "fullAnalysis": "Strategic focus: Environmental contrast. 1. 'Здесь' and 'там' give a clear spatial split. 2. 'Тихо' and 'шумно' are a useful adjective pair. 3. The line is ideal for rhythm and comparison practice." }
+      {
+        "id": "CL-A-01",
+        "phrase": "я дома, а ты на работе",
+        "fullAnalysis": "Strategic focus: Parallel contrast. 1. 'А' introduces a side-by-side comparison. 2. The two locations are clear and practical. 3. This is a very common spoken pattern."
+      },
+      {
+        "id": "CL-A-02",
+        "phrase": "он пьет чай, а она кофе",
+        "fullAnalysis": "Strategic focus: Light contrast. 1. 'А' links two different preferences. 2. The sentence is short and natural. 3. It is good for type-speed practice because the pattern is easy to repeat."
+      },
+      {
+        "id": "CL-A-03",
+        "phrase": "мы идём пешком, а они едут",
+        "fullAnalysis": "Strategic focus: Motion contrast. 1. The first clause uses walking. 2. The second clause uses vehicle motion. 3. 'А' keeps the contrast smooth rather than sharp."
+      },
+      {
+        "id": "CL-A-04",
+        "phrase": "это не дом, а школа",
+        "fullAnalysis": "Strategic focus: Corrective contrast. 1. 'Не дом' sets up a false guess. 2. 'А школа' corrects it. 3. This is a very important everyday Russian pattern."
+      },
+      {
+        "id": "CL-A-05",
+        "phrase": "я читаю, а ты пишешь",
+        "fullAnalysis": "Strategic focus: Split activity. 1. 'А' contrasts two simultaneous actions. 2. The two verbs match their subjects cleanly. 3. This sentence is simple but very useful."
+      },
+      {
+        "id": "CL-A-06",
+        "phrase": "у меня есть вода, а у тебя нет",
+        "fullAnalysis": "Strategic focus: Possession contrast. 1. 'У меня есть' is positive possession. 2. 'У тебя нет' is the negative mirror. 3. The sentence is excellent for case practice and everyday meaning."
+      },
+      {
+        "id": "CL-A-07",
+        "phrase": "дверь открыта, а окно закрыто",
+        "fullAnalysis": "Strategic focus: Opposed states. 1. Two short-form adjectives make the contrast crisp. 2. 'Открыта' and 'закрыто' are easy to compare. 3. This is a strong visual training sentence."
+      },
+      {
+        "id": "CL-A-08",
+        "phrase": "сегодня холодно, а вчера было тепло",
+        "fullAnalysis": "Strategic focus: Time-based contrast. 1. 'Сегодня' and 'вчера' anchor the comparison. 2. 'Было тепло' gives a past-state frame. 3. This sentence is useful for weather talk."
+      },
+      {
+        "id": "CL-A-09",
+        "phrase": "он старший, а брат младший",
+        "fullAnalysis": "Strategic focus: Family comparison. 1. 'Старший' and 'младший' are common comparative labels. 2. 'А' links them as a natural pair. 3. The sentence is short and highly reusable."
+      },
+      {
+        "id": "CL-A-10",
+        "phrase": "здесь тихо, а там шумно",
+        "fullAnalysis": "Strategic focus: Environmental contrast. 1. 'Здесь' and 'там' give a clear spatial split. 2. 'Тихо' and 'шумно' are a useful adjective pair. 3. The line is ideal for rhythm and comparison practice."
+      }
     ]
   }
 ]

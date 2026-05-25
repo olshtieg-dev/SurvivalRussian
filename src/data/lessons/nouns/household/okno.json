@@ -5,16 +5,56 @@
     "badge": "WINDOW",
     "description": "A 10-sentence usage card for окно with opening, looking, and room placement.",
     "missions": [
-      { "id": "NN-HOUSEHOLD-OKNO-01", "phrase": "окно открыто", "fullAnalysis": "Strategic focus: Basic state. 1. 'Окно' is the main noun. 2. 'Открыто' gives a compact descriptive state. 3. This is a clean noun-plus-state sentence." },
-      { "id": "NN-HOUSEHOLD-OKNO-02", "phrase": "смотрю в окно", "fullAnalysis": "Strategic focus: Visual action. 1. 'В окно' is a very common everyday phrase. 2. 'Смотрю' is a first-person present verb. 3. The line is simple and highly reusable." },
-      { "id": "NN-HOUSEHOLD-OKNO-03", "phrase": "у окна кресло", "fullAnalysis": "Strategic focus: Location near a landmark. 1. 'У окна' anchors the object in the room. 2. 'Кресло' is a useful household noun. 3. This trains learners to pair nouns with spatial relations." },
-      { "id": "NN-HOUSEHOLD-OKNO-04", "phrase": "закрываю окно", "fullAnalysis": "Strategic focus: Practical action. 1. 'Закрываю' is a very common first-person verb. 2. 'Окно' stays in direct object position. 3. This is an everyday home sentence worth memorizing." },
-      { "id": "NN-HOUSEHOLD-OKNO-05", "phrase": "большое окно в комнате", "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Большое' matches the neuter noun 'окно'. 2. 'В комнате' places the noun in a clear household scene. 3. This is a basic description frame." },
-      { "id": "NN-HOUSEHOLD-OKNO-06", "phrase": "из окна видно двор", "fullAnalysis": "Strategic focus: Source viewpoint. 1. 'Из окна' marks the view source. 2. 'Видно' is a common impersonal construction. 3. 'Двор' gives the sentence a concrete outside image." },
-      { "id": "NN-HOUSEHOLD-OKNO-07", "phrase": "перед окном стол", "fullAnalysis": "Strategic focus: Position in front of an object. 1. 'Перед окном' is a useful spatial phrase. 2. 'Стол' keeps the noun chain concrete. 3. The sentence is short and easy to visualize." },
-      { "id": "NN-HOUSEHOLD-OKNO-08", "phrase": "за окном идет дождь", "fullAnalysis": "Strategic focus: Weather viewpoint. 1. 'За окном' is a very natural Russian frame. 2. 'Идет дождь' is high-frequency weather language. 3. This sentence is excellent for everyday description." },
-      { "id": "NN-HOUSEHOLD-OKNO-09", "phrase": "мыть окно нужно часто", "fullAnalysis": "Strategic focus: Need construction. 1. 'Мыть окно' is practical household language. 2. 'Нужно' gives the line a clean necessity feel. 3. This is a useful chores sentence." },
-      { "id": "NN-HOUSEHOLD-OKNO-10", "phrase": "рядом с окном стоит лампа", "fullAnalysis": "Strategic focus: Relative position. 1. 'Рядом с окном' gives a precise relation. 2. 'Стоит лампа' creates a clear scene. 3. This sentence is ideal for room description." }
+      {
+        "id": "NN-HOUSEHOLD-OKNO-01",
+        "phrase": "окно открыто",
+        "fullAnalysis": "Strategic focus: Basic state. 1. 'Окно' is the main noun. 2. 'Открыто' gives a compact descriptive state. 3. This is a clean noun-plus-state sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-02",
+        "phrase": "смотрю в окно",
+        "fullAnalysis": "Strategic focus: Visual action. 1. 'В окно' is a very common everyday phrase. 2. 'Смотрю' is a first-person present verb. 3. The line is simple and highly reusable."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-03",
+        "phrase": "у окна кресло",
+        "fullAnalysis": "Strategic focus: Location near a landmark. 1. 'У окна' anchors the object in the room. 2. 'Кресло' is a useful household noun. 3. This trains learners to pair nouns with spatial relations."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-04",
+        "phrase": "закрываю окно",
+        "fullAnalysis": "Strategic focus: Practical action. 1. 'Закрываю' is a very common first-person verb. 2. 'Окно' stays in direct object position. 3. This is an everyday home sentence worth memorizing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-05",
+        "phrase": "большое окно в комнате",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Большое' matches the neuter noun 'окно'. 2. 'В комнате' places the noun in a clear household scene. 3. This is a basic description frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-06",
+        "phrase": "из окна видно двор",
+        "fullAnalysis": "Strategic focus: Source viewpoint. 1. 'Из окна' marks the view source. 2. 'Видно' is a common impersonal construction. 3. 'Двор' gives the sentence a concrete outside image."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-07",
+        "phrase": "перед окном стол",
+        "fullAnalysis": "Strategic focus: Position in front of an object. 1. 'Перед окном' is a useful spatial phrase. 2. 'Стол' keeps the noun chain concrete. 3. The sentence is short and easy to visualize."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-08",
+        "phrase": "за окном идёт дождь",
+        "fullAnalysis": "Strategic focus: Weather viewpoint. 1. 'За окном' is a very natural Russian frame. 2. 'Идет дождь' is high-frequency weather language. 3. This sentence is excellent for everyday description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-09",
+        "phrase": "мыть окно нужно часто",
+        "fullAnalysis": "Strategic focus: Need construction. 1. 'Мыть окно' is practical household language. 2. 'Нужно' gives the line a clean necessity feel. 3. This is a useful chores sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-OKNO-10",
+        "phrase": "рядом с окном стоит лампа",
+        "fullAnalysis": "Strategic focus: Relative position. 1. 'Рядом с окном' gives a precise relation. 2. 'Стоит лампа' creates a clear scene. 3. This sentence is ideal for room description."
+      }
     ]
   }
 ]

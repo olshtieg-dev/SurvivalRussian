@@ -5,16 +5,56 @@
     "badge": "BUT",
     "description": "Contrast sentences that teach how Russian turns the corner with 'but'.",
     "missions": [
-      { "id": "CL-NO-01", "phrase": "я хочу идти, но устал", "fullAnalysis": "Strategic focus: Desire versus limitation. 1. 'Но' creates a clean contrast. 2. 'Устал' explains why the action changes. 3. This is a very natural everyday sentence." },
-      { "id": "CL-NO-02", "phrase": "он пришел, но не остался", "fullAnalysis": "Strategic focus: Two-step contrast. 1. The first clause gives the expected event. 2. The second clause reverses the outcome. 3. This is a strong, reusable spoken pattern." },
-      { "id": "CL-NO-03", "phrase": "день холодный, но солнечный", "fullAnalysis": "Strategic focus: Mixed description. 1. Two adjectives build a contrast in one image. 2. 'Холодный' and 'солнечный' are easy to feel. 3. The sentence is compact and vivid." },
-      { "id": "CL-NO-04", "phrase": "я читаю, но ничего не понимаю", "fullAnalysis": "Strategic focus: Action versus result. 1. 'Читаю' does not guarantee understanding. 2. 'Ничего не понимаю' is a realistic learner sentence. 3. This one is both useful and emotionally memorable." },
-      { "id": "CL-NO-05", "phrase": "ты говоришь быстро, но ясно", "fullAnalysis": "Strategic focus: Speed and clarity. 1. 'Быстро' and 'ясно' form a natural contrast pair. 2. 'Говоришь' keeps the sentence in second person. 3. The line is useful in real conversation." },
-      { "id": "CL-NO-06", "phrase": "мы ждали долго, но они не пришли", "fullAnalysis": "Strategic focus: Expectation versus reality. 1. 'Ждали долго' sets up the expectation. 2. 'Не пришли' drops the result. 3. This is a very practical social sentence." },
-      { "id": "CL-NO-07", "phrase": "она любит кофе, но пьет чай", "fullAnalysis": "Strategic focus: Habit contrast. 1. The sentence separates preference from actual behavior. 2. 'Любит' and 'пьет' keep the grammar simple. 3. This is a classic everyday contrast line." },
-      { "id": "CL-NO-08", "phrase": "магазин открыт, но людей мало", "fullAnalysis": "Strategic focus: State plus quantity contrast. 1. 'Открыт' gives the status. 2. 'Людей мало' is a very common observation. 3. The sentence is practical for travel and errands." },
-      { "id": "CL-NO-09", "phrase": "я хотел помочь, но опоздал", "fullAnalysis": "Strategic focus: Intention versus failure. 1. 'Хотел помочь' shows good intent. 2. 'Опоздал' explains why it did not happen. 3. This is a realistic conversational sentence." },
-      { "id": "CL-NO-10", "phrase": "книга маленькая, но интересная", "fullAnalysis": "Strategic focus: Size versus value. 1. The sentence contrasts physical size with content value. 2. 'Маленькая' and 'интересная' are easy adjectives to compare. 3. This is a nice compact reading sentence." }
+      {
+        "id": "CL-NO-01",
+        "phrase": "я хочу идти, но устал",
+        "fullAnalysis": "Strategic focus: Desire versus limitation. 1. 'Но' creates a clean contrast. 2. 'Устал' explains why the action changes. 3. This is a very natural everyday sentence."
+      },
+      {
+        "id": "CL-NO-02",
+        "phrase": "он пришёл, но не остался",
+        "fullAnalysis": "Strategic focus: Two-step contrast. 1. The first clause gives the expected event. 2. The second clause reverses the outcome. 3. This is a strong, reusable spoken pattern."
+      },
+      {
+        "id": "CL-NO-03",
+        "phrase": "день холодный, но солнечный",
+        "fullAnalysis": "Strategic focus: Mixed description. 1. Two adjectives build a contrast in one image. 2. 'Холодный' and 'солнечный' are easy to feel. 3. The sentence is compact and vivid."
+      },
+      {
+        "id": "CL-NO-04",
+        "phrase": "я читаю, но ничего не понимаю",
+        "fullAnalysis": "Strategic focus: Action versus result. 1. 'Читаю' does not guarantee understanding. 2. 'Ничего не понимаю' is a realistic learner sentence. 3. This one is both useful and emotionally memorable."
+      },
+      {
+        "id": "CL-NO-05",
+        "phrase": "ты говоришь быстро, но ясно",
+        "fullAnalysis": "Strategic focus: Speed and clarity. 1. 'Быстро' and 'ясно' form a natural contrast pair. 2. 'Говоришь' keeps the sentence in second person. 3. The line is useful in real conversation."
+      },
+      {
+        "id": "CL-NO-06",
+        "phrase": "мы ждали долго, но они не пришли",
+        "fullAnalysis": "Strategic focus: Expectation versus reality. 1. 'Ждали долго' sets up the expectation. 2. 'Не пришли' drops the result. 3. This is a very practical social sentence."
+      },
+      {
+        "id": "CL-NO-07",
+        "phrase": "она любит кофе, но пьет чай",
+        "fullAnalysis": "Strategic focus: Habit contrast. 1. The sentence separates preference from actual behavior. 2. 'Любит' and 'пьет' keep the grammar simple. 3. This is a classic everyday contrast line."
+      },
+      {
+        "id": "CL-NO-08",
+        "phrase": "магазин открыт, но людей мало",
+        "fullAnalysis": "Strategic focus: State plus quantity contrast. 1. 'Открыт' gives the status. 2. 'Людей мало' is a very common observation. 3. The sentence is practical for travel and errands."
+      },
+      {
+        "id": "CL-NO-09",
+        "phrase": "я хотел помочь, но опоздал",
+        "fullAnalysis": "Strategic focus: Intention versus failure. 1. 'Хотел помочь' shows good intent. 2. 'Опоздал' explains why it did not happen. 3. This is a realistic conversational sentence."
+      },
+      {
+        "id": "CL-NO-10",
+        "phrase": "книга маленькая, но интересная",
+        "fullAnalysis": "Strategic focus: Size versus value. 1. The sentence contrasts physical size with content value. 2. 'Маленькая' and 'интересная' are easy adjectives to compare. 3. This is a nice compact reading sentence."
+      }
     ]
   }
 ]
