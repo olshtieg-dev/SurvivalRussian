@@ -7,6 +7,10 @@ const distDir = process.env.NEXT_DIST_DIR || '.next-wsl';
 const durakPort = process.env.DURAK_PORT || '4001';
 const appOrigin = `http://localhost:${port}`;
 
+// The standalone durak child below owns port 4001, so tell the app's server.js
+// not to also embed one.
+process.env.DURAK_EXTERNAL = '1';
+
 let shuttingDown = false;
 const children = [];
 

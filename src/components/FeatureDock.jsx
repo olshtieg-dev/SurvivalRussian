@@ -1,9 +1,10 @@
 'use client';
 
 import React, { useEffect, useMemo, useState } from 'react';
-import { Bot, Keyboard, Lock, MessageSquare, X } from 'lucide-react';
+import { FlaskConical, Keyboard, Lock, MessageSquare, X } from 'lucide-react';
 import TypingTutorPanel from './TypingTutorPanel';
 import ChatroomPanel from './ChatroomPanel';
+import AiInputPanel from './AiInputPanel';
 
 const featureDefinitions = [
   {
@@ -23,19 +24,13 @@ const featureDefinitions = [
   },
   {
     id: 'ai',
-    label: 'AI Input',
-    shortLabel: 'AI',
-    title: 'AI input: premium access',
-    icon: Bot,
-    accent: 'red',
-    isPremium: true,
+    label: 'Phrase Lab',
+    shortLabel: 'Lab',
+    title: 'Open phrase lab',
+    icon: FlaskConical,
+    accent: 'blue',
     description:
-      'This window is the future home for AI-built phrases, guided prompts, and custom lesson generation before those phrases graduate into the main lesson system.',
-    details: [
-      'Generate phrase sets from a topic or scenario.',
-      'Save useful results locally as a stopgap before the full database arrives.',
-      'Turn rough ideas into drills without leaving the app.',
-    ],
+      'Compose custom drills from the vocabulary deck, or paste your own Russian. Everything is stored locally as JSON — sentences plus any words you stage by hand.',
   },
   {
     id: 'chat',
@@ -140,7 +135,9 @@ export default function FeatureDock() {
               ? 'max-w-6xl'
               : activeFeature.id === 'chat'
                 ? 'max-w-6xl'
-                : 'max-w-lg'
+                : activeFeature.id === 'ai'
+                  ? 'max-w-3xl'
+                  : 'max-w-lg'
           }`}>
             <div className="flex items-center justify-between border-b border-slate-800 bg-slate-900/80 px-5 py-4">
               <div className="flex items-center gap-3">
@@ -176,6 +173,10 @@ export default function FeatureDock() {
             ) : activeFeature.id === 'chat' ? (
               <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar">
                 <ChatroomPanel />
+              </div>
+            ) : activeFeature.id === 'ai' ? (
+              <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar p-6">
+                <AiInputPanel />
               </div>
             ) : (
               <div className="space-y-5 p-6">

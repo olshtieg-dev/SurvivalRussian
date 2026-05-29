@@ -13,6 +13,17 @@ export const useKeyboard = (onKeyPress) => {
 
       const { code, shiftKey } = event;
 
+      // Layout-aware passthrough for the 6 punctuation chars used in lesson phrases.
+      // Honors the OS keyboard layout (Dvorak, QWERTY, etc.) — pressing the key
+      // labeled `.` on your keycap produces `.` regardless of physical position.
+      // Trade-off: JCUKEN ю/б unreachable from physical Period/Comma on QWERTY.
+      const PUNCT_PASSTHROUGH = new Set(['.', ',', '?', '!', '-', '—']);
+      if (PUNCT_PASSTHROUGH.has(event.key)) {
+        event.preventDefault();
+        onKeyPress(event.key);
+        return;
+      }
+
       // Helper for symbol/number mapping
       const codeToKeyMap = {
         "Semicolon": "Semicolon", "Quote": "Quote", "Comma": "Comma",

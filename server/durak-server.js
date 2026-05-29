@@ -7,12 +7,11 @@ const {
   DEFAULT_RULE_MODE,
   DEFAULT_SEAT_NAMES,
   GAME_NAME,
+  PROFESSIONAL_MATCH_ID,
   RULE_MODES,
+  STANDARD_MATCH_ID,
   durakGame,
 } = require('../lib/durak/game');
-
-const STANDARD_MATCH_ID = 'durak-standard';
-const PROFESSIONAL_MATCH_ID = 'durak-professional';
 const DEFAULT_PORT = parseInt(process.env.DURAK_PORT || '4001', 10);
 const DEFAULT_HOST = process.env.DURAK_HOST || '0.0.0.0';
 const DEFAULT_ORIGINS = (process.env.DURAK_ORIGINS || 'http://localhost:3000,http://127.0.0.1:3000,http://0.0.0.0:3000')

@@ -13,6 +13,18 @@ const DurakBoard = dynamic(() => import('./DurakBoard'), {
   ),
 });
 
+const ChessPuzzleBoard = dynamic(() => import('./chess/ChessPuzzleBoard'), {
+  ssr: false,
+  loading: () => (
+    <div className="flex h-full items-center justify-center rounded-[1.75rem] border border-slate-800 bg-slate-950/85 p-8 text-sm text-slate-400">
+      Loading chess puzzles...
+    </div>
+  ),
+});
+
+// React-component games (not iframes) get responsive sizing.
+const REACT_GAMES = new Set(['cardclash', 'chesspuzzles']);
+
 export default function GameOverlay() {
   const [isOpen, setIsOpen] = useState(false);
   const [activeGame, setActiveGame] = useState(null);
@@ -40,6 +52,11 @@ export default function GameOverlay() {
       width: 1080,
       height: 840,
       title: 'DURAK',
+    },
+    chesspuzzles: {
+      width: 560,
+      height: 860,
+      title: 'CHESS PUZZLES',
     },
   };
 
@@ -72,12 +89,12 @@ export default function GameOverlay() {
             className="relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-900 shadow-2xl transition-all duration-300 ease-in-out flex flex-col"
             style={{
               width: activeGame
-                ? activeGame === 'cardclash'
-                  ? 'min(1100px, calc(100vw - 2rem))'
+                ? REACT_GAMES.has(activeGame)
+                  ? `min(${currentConfig.width}px, calc(100vw - 2rem))`
                   : `${currentConfig.width}px`
                 : '500px',
               height: activeGame
-                ? activeGame === 'cardclash'
+                ? REACT_GAMES.has(activeGame)
                   ? 'min(92vh, 900px)'
                   : `${currentConfig.height}px`
                 : '400px',
@@ -129,12 +146,26 @@ export default function GameOverlay() {
                       Multiplayer websocket
                     </span>
                   </button>
+                  <button
+                    onClick={() => setActiveGame('chesspuzzles')}
+                    className="group rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition-all hover:border-indigo-500 hover:bg-indigo-600/20"
+                  >
+                    <span className="mb-2 block text-3xl">♟️</span>
+                    <span className="text-xs font-bold uppercase tracking-widest">Chess Puzzles</span>
+                    <span className="mt-2 block text-[10px] uppercase tracking-[0.2em] text-slate-500 group-hover:text-indigo-300">
+                      Forced-mate tactics
+                    </span>
+                  </button>
                 </div>
               ) : activeGame === 'cardclash' ? (
                 <div className="flex-1 min-h-0 w-full overflow-y-auto p-6 pb-20 sm:p-8">
                   <div className="min-h-full pb-16">
                     <DurakBoard />
                   </div>
+                </div>
+              ) : activeGame === 'chesspuzzles' ? (
+                <div className="flex-1 min-h-0 w-full overflow-y-auto">
+                  <ChessPuzzleBoard />
                 </div>
               ) : (
                 <div

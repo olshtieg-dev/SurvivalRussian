@@ -41,4 +41,17 @@ app.prepare().then(() => {
     console.log(`> Ready on http://${displayHost}:${port}`);
     console.log(`> Chat socket listening at ws://${displayHost}:${port}/ws/chat`);
   });
+
+  // Start the Durak websocket server in-process so online play works under
+  // `npm run dev`. dev-wsl.js runs its own standalone instance and sets
+  // DURAK_EXTERNAL=1 to skip this embedded one (avoids a port clash on 4001).
+  if (process.env.DURAK_EXTERNAL !== '1') {
+    const { startDurakServer } = require('./server/durak-server');
+    const appOrigin = `http://${displayHost}:${port}`;
+    startDurakServer({
+      origins: [appOrigin, `http://127.0.0.1:${port}`, `http://localhost:${port}`],
+    }).catch((error) => {
+      console.error('> Durak server failed to start (online play disabled):', error.message);
+    });
+  }
 });
