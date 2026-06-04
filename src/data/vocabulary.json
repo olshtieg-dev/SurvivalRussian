@@ -5375,8 +5375,8 @@
   "есть": {
     "cyrillic": "есть",
     "literal": "to eat",
-    "natural": "To eat; to have (food).",
-    "analysis": "Impf. verb (perf. съесть), 'to eat'. Irregular conjugation: ем, ешь, ест, едим, едите, едят. Homograph with есть ('there is').",
+    "natural": "To eat; also used in basic possession.",
+    "analysis": "Impf. verb (perf. съесть), 'to eat'. Irregular conjugation: ем, ешь, ест, едим, едите, едят. In possession statements, Russian uses у + gen. + есть (у меня есть хлеб, 'I have bread'). Homograph with есть ('there is').",
     "synonym": "кушать",
     "antonym": " "
   },
