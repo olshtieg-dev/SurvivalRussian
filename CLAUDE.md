@@ -4,7 +4,7 @@ Self-note for future Claude sessions. Owner is `fordted438@gmail.com`. Working d
 
 ## Pickup for next session (last touched 2026-06-05)
 
-On branch `main`. **As of the end of the 2026-06-05 session the owner is committing this session's work** (it was a large working-tree diff on top of `b61cb12`: the lesson-phrase expansion, the per-form vocab fills, and the new `adverbs/` family — see the two newest work-log entries). The previous-session in-progress lesson taxonomy was also still uncommitted and rolled into this same commit. **Next session: run `git log --oneline -5` to get the actual commit hash and update this paragraph** (it was not known at write time). Start by re-orienting: read this file top-to-bottom, then `git status`/`git log` to confirm.
+On branch `main`, pushed to `origin/main`. **The 2026-06-05 session's work is committed as `9859f59`** ("feat(lessons): natural-sentence expansion, adverbs family, vocab fills"), parent `b32ba0f`. That single commit rolled up the lesson-phrase expansion, the per-form vocab fills, the new `adverbs/` family, AND the previous session's still-uncommitted lesson taxonomy (253 files). A follow-up doc commit records this hash. Start by re-orienting: read this file top-to-bottom, then `git status`/`git log` to confirm.
 
 What went into this commit (working-tree snapshot at session end): ~88 modified tracked files + the new untracked taxonomy — including 158 untracked lesson `.json` files (98 of them the new `adverbs/`, the rest the prior session's binary-adjectives/comparisons/nouns/pro-forms additions) and 7 new `adverbs/**/index.js` files, plus `src/data/vocabulary.json` grown to **4618 entries**. The `.bak` files (`vocabulary.json.bak.pre-expand-fill`, `.bak.pre-adverb-fill`, and older ones) are intentionally untracked — confirm with the owner before adding them to git.
 
@@ -45,9 +45,9 @@ Each target word gets its own lesson with **~10 example sentences** (missions) �
 
 2. **Remaining ё-less inflected forms in vocab** (new, surfaced 2026-05-24). The phrase normalization touched only the 25 (e-form, ё-form) pairs where both forms had vocab entries. Some ё-less forms still exist as standalone entries because their ё-counterpart was never written in any lesson (e.g. `легкая`, `тяжелая` — f. sg. of лёгкий/тяжёлый). Each has a "Spelled without ё; cf. X" note in analysis but is otherwise treated as its own entry. If owner wants stricter normalization: sweep all lesson phrases for plausible ё-stand-in e-forms (broader than the 25 pairs), substitute, then dedupe vocab. Not in scope until owner asks.
 
-**Repo state (as of 2026-06-05, owner committing now — hash TBD, was `b61cb12` before):**
+**Repo state (as of 2026-06-05, committed `9859f59` + a doc follow-up, pushed to `origin/main`):**
 - Branch: `main`. (Other branches `stash`/`staging`/`testing` still exist; `main` is the active working branch.)
-- Working tree at session end: the new lesson taxonomy (binary-adjectives, comparisons, conversation, lexical-sets, nouns/*, pro-forms/*, spatial-motion, verbs/*, **adverbs/** ) and `vocabulary.json` (now **4618 entries**) — being committed by the owner this session. Re-confirm with `git status` next time.
+- The full lesson taxonomy (binary-adjectives, comparisons, conversation, lexical-sets, nouns/*, pro-forms/*, spatial-motion, verbs/*, **adverbs/** ) and `vocabulary.json` (**4618 entries**) are now committed and on GitHub. Working tree should be clean except the intentionally-untracked `.bak` files. Re-confirm with `git status`.
 - Backups from the 2026-06-05 work: `src/data/vocabulary.json.bak.pre-expand-fill` (pre first vocab fill), `src/data/vocabulary.json.bak.pre-adverb-fill` (pre adverb fill), and a full lessons-dir snapshot at `/tmp/lessons-backup-preexpand` (pre phrase-expansion; ephemeral — `/tmp`).
 - Untracked: `src/data/vocabulary.json.bak`, `src/data/vocabulary.json.syn-ant-clean.bak`, `src/data/lessons/frequency-gulag.json.bak` (owner-authored older backups, intentionally untracked).
 - Owner runs their own git workflow. **Do NOT commit unless explicitly asked.** Do not push unless asked.
