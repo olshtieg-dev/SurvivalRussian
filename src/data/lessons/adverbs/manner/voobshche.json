@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-VOOBSHCHE",
+    "label": "Вообще",
+    "badge": "ATALL",
+    "description": "A 10-sentence usage card for вообще (in general, at all) covering generalisation, emphasis, and negation.",
+    "missions": [
+      {
+        "id": "AD-MANNER-VOOBSHCHE-01",
+        "phrase": "Я вообще не люблю кофе.",
+        "fullAnalysis": "Strategic focus: Reinforcing negation. 'Вообще' here means 'at all' and strengthens 'не люблю', making the dislike total. With negation it intensifies the denial."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-02",
+        "phrase": "Вообще, мне нравится эта идея.",
+        "fullAnalysis": "Strategic focus: Discourse opener. As a sentence opener 'вообще' means 'generally' or 'actually', framing a personal view. It softly introduces an opinion."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-03",
+        "phrase": "Он вообще ничего не сказал.",
+        "fullAnalysis": "Strategic focus: Total negation. 'Вообще' reinforces 'ничего не сказал', meaning he said absolutely nothing. It piles emphasis onto the negative."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-04",
+        "phrase": "Вообще говоря, ты прав.",
+        "fullAnalysis": "Strategic focus: Set discourse phrase. 'Вообще говоря' is a fixed expression meaning 'generally speaking', introducing a measured judgement. It frames the statement as a broad truth."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-05",
+        "phrase": "Ты вообще меня слушаешь?",
+        "fullAnalysis": "Strategic focus: Emotional emphasis. Here 'вообще' adds irritation to the question, meaning roughly 'are you even listening?'. It heightens the speaker's frustration."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-06",
+        "phrase": "Вообще это очень интересно.",
+        "fullAnalysis": "Strategic focus: General assessment. 'Вообще' means 'in general' and frames the following evaluation as broadly true. It opens a summarising remark."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-07",
+        "phrase": "Я вообще забыл про встречу.",
+        "fullAnalysis": "Strategic focus: Total lapse. 'Вообще' intensifies 'забыл', meaning the meeting slipped the mind completely. It stresses the totality of forgetting."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-08",
+        "phrase": "Здесь вообще нет людей.",
+        "fullAnalysis": "Strategic focus: Absolute absence. 'Вообще' reinforces 'нет людей', meaning there is nobody at all. It makes the emptiness complete."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-09",
+        "phrase": "Он вообще странный человек.",
+        "fullAnalysis": "Strategic focus: Generalising judgement. 'Вообще' means 'in general' and frames 'странный' as an overall trait. It widens the description to his whole character."
+      },
+      {
+        "id": "AD-MANNER-VOOBSHCHE-10",
+        "phrase": "Это вообще другая история.",
+        "fullAnalysis": "Strategic focus: Emphatic distinction. 'Вообще' intensifies 'другая', meaning 'a completely different story'. The fixed phrase sets the topic firmly apart."
+      }
+    ]
+  }
+]

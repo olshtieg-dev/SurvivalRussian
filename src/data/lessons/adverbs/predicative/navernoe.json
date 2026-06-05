@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-NAVERNOE",
+    "label": "Наверное",
+    "badge": "MAYBE",
+    "description": "A 10-sentence usage card for наверное (probably / I suppose).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-01",
+        "phrase": "Он наверное уже дома.",
+        "fullAnalysis": "Strategic focus: Parenthetical probability. 'Наверное' is a modal word meaning probably, framing the whole clause as a guess. It floats beside the statement without changing the case of 'он', softening the claim that he is home."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-02",
+        "phrase": "Наверное, завтра будет дождь.",
+        "fullAnalysis": "Strategic focus: Hedging a prediction. 'Наверное' at the front, set off by a comma, marks the forecast as likely but uncertain. The future 'будет дождь' is the predicted event the speaker hedges."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-03",
+        "phrase": "Ты наверное устал сегодня.",
+        "fullAnalysis": "Strategic focus: Inferring about another person. 'Наверное' marks the speaker's guess about the listener's state. It frames 'устал' as an inference rather than a certainty, a polite way to suppose someone is tired."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-04",
+        "phrase": "Наверное, я останусь дома.",
+        "fullAnalysis": "Strategic focus: Tentative intention. 'Наверное' softens the speaker's own plan, signalling I suppose or probably. The perfective 'останусь' states the likely choice to stay home, but without full commitment."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-05",
+        "phrase": "Это наверное было трудно.",
+        "fullAnalysis": "Strategic focus: Guessing about the past. 'Наверное' frames a supposition, and the past 'было трудно' is itself an impersonal predicative. Together they mean that must have been hard."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-06",
+        "phrase": "Они наверное не знают адрес.",
+        "fullAnalysis": "Strategic focus: Probable negation. 'Наверное' frames the negative guess that they probably do not know. The negation 'не знают' carries the meaning, with the accusative 'адрес' as the object."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-07",
+        "phrase": "Наверное, она забыла позвонить.",
+        "fullAnalysis": "Strategic focus: Excusing with probability. 'Наверное' offers a likely explanation, and the past 'забыла' with the infinitive 'позвонить' names what was probably forgotten. A gentle way to account for silence."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-08",
+        "phrase": "Мы наверное опоздаем на поезд.",
+        "fullAnalysis": "Strategic focus: Anxious prediction. 'Наверное' marks the worried guess, and the perfective 'опоздаем' with 'на поезд' in the accusative names the feared outcome of missing the train."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-09",
+        "phrase": "Наверное, тебе лучше отдохнуть.",
+        "fullAnalysis": "Strategic focus: Softened advice. 'Наверное' makes the suggestion tentative, while 'тебе' is the dative experiencer of the predicative 'лучше'. The infinitive 'отдохнуть' frames the recommended rest gently."
+      },
+      {
+        "id": "AD-PREDICATIVE-NAVERNOE-10",
+        "phrase": "Он наверное хочет есть.",
+        "fullAnalysis": "Strategic focus: Reading someone's needs. 'Наверное' frames the assumption about another's state, and 'хочет есть' uses a conjugated verb plus infinitive to mean he is probably hungry."
+      }
+    ]
+  }
+]

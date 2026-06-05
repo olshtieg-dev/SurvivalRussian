@@ -1,0 +1,65 @@
+[
+  {
+    "id": "CL-CHTOBY",
+    "label": "Чтобы",
+    "badge": "SO THAT",
+    "description": "The purpose conjunction чтобы: + infinitive for same subject, + past-tense (subjunctive) for different subjects, with the comma rule.",
+    "missions": [
+      {
+        "id": "CL-CHTOBY-01",
+        "phrase": "Я пришёл пораньше, чтобы тебе помочь.",
+        "fullAnalysis": "Strategic focus: Same-subject purpose. One subject 'я' acts in both clauses, so чтобы takes the infinitive 'помочь'. A comma always precedes чтобы, and пришёл keeps the ё."
+      },
+      {
+        "id": "CL-CHTOBY-02",
+        "phrase": "Я много учусь, чтобы всё хорошо знать.",
+        "fullAnalysis": "Strategic focus: Purpose of study. The subject stays the same across both clauses, so чтобы links to the infinitive 'знать'. The comma sits before чтобы as usual."
+      },
+      {
+        "id": "CL-CHTOBY-03",
+        "phrase": "Я иду в магазин, чтобы купить хлеб.",
+        "fullAnalysis": "Strategic focus: Errand purpose. One actor performs both verbs, so чтобы governs the infinitive 'купить'. A comma precedes чтобы, joining the goal to the motion clause."
+      },
+      {
+        "id": "CL-CHTOBY-04",
+        "phrase": "Я встал очень рано, чтобы всё успеть.",
+        "fullAnalysis": "Strategic focus: Goal of waking early. The same 'я' does both actions, so чтобы takes the infinitive 'успеть'. The comma marks the boundary before чтобы."
+      },
+      {
+        "id": "CL-CHTOBY-05",
+        "phrase": "Я звоню тебе, чтобы кое-что спросить.",
+        "fullAnalysis": "Strategic focus: Reason for calling. The subject is the same in both halves, so чтобы means чтобы + infinitive 'спросить'. A comma precedes чтобы."
+      },
+      {
+        "id": "CL-CHTOBY-06",
+        "phrase": "Я хочу, чтобы ты остался ещё немного.",
+        "fullAnalysis": "Strategic focus: Different-subject purpose. The subjects differ: 'я' wants while 'ты' stays, so чтобы takes the PAST form 'остался' despite its future meaning. The comma precedes чтобы."
+      },
+      {
+        "id": "CL-CHTOBY-07",
+        "phrase": "Скажи ему, чтобы он пришёл сюда.",
+        "fullAnalysis": "Strategic focus: Relaying a request. The subjects differ: 'ты' tells and 'он' comes, so the different subjects force чтобы + PAST 'пришёл', not an infinitive. A comma stands before чтобы."
+      },
+      {
+        "id": "CL-CHTOBY-08",
+        "phrase": "Нужно, чтобы все об этом знали.",
+        "fullAnalysis": "Strategic focus: Impersonal need. The subjects differ across the clauses, so чтобы requires the PAST 'знали' even though the sense points to the future. The comma precedes чтобы."
+      },
+      {
+        "id": "CL-CHTOBY-09",
+        "phrase": "Я прошу, чтобы вы немного подождали.",
+        "fullAnalysis": "Strategic focus: Polite request. The subjects differ: 'я' asks while 'вы' wait, so чтобы takes the PAST form 'подождали' despite the future intent. A comma precedes чтобы."
+      },
+      {
+        "id": "CL-CHTOBY-10",
+        "phrase": "Я записываю всё, чтобы лучше запомнить.",
+        "fullAnalysis": "Strategic focus: Purpose of writing. The same subject acts in both clauses, so чтобы links to the infinitive 'запомнить'. The comma marks the link before чтобы."
+      },
+      {
+        "id": "CL-CHTOBY-11",
+        "phrase": "Я молчу, чтобы тебе не мешать.",
+        "fullAnalysis": "Strategic focus: Negated same-subject purpose. One subject performs both actions, so чтобы takes the infinitive phrase 'не мешать' with negation 'не'. A comma precedes чтобы."
+      }
+    ]
+  }
+]

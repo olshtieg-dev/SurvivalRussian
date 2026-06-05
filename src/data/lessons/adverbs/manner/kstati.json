@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-KSTATI",
+    "label": "Кстати",
+    "badge": "BTW",
+    "description": "A 10-sentence usage card for кстати (by the way).",
+    "missions": [
+      {
+        "id": "AD-MANNER-KSTATI-01",
+        "phrase": "Кстати, я вчера видел Машу.",
+        "fullAnalysis": "Strategic focus: Discourse connector. 'Кстати' opens the sentence as a parenthetical, signalling a related thought that just came to mind. Set off by a comma, it works exactly like English 'by the way' and is very common in casual speech."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-02",
+        "phrase": "А кстати, где твой брат?",
+        "fullAnalysis": "Strategic focus: Topic shift. After 'а', the connector 'кстати' introduces a sudden question on a new but loosely linked topic. This 'а кстати' opener is a natural way to jump to something you just remembered."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-03",
+        "phrase": "Этот фильм, кстати, очень хороший.",
+        "fullAnalysis": "Strategic focus: Mid-sentence parenthetical. 'Кстати' sits inside the clause, fenced by two commas, adding an aside about the film. Placing it mid-sentence highlights the noun it follows as the relevant topic."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-04",
+        "phrase": "Кстати, спасибо за твою помощь.",
+        "fullAnalysis": "Strategic focus: Adding a remark. 'Кстати' frames the thanks as an afterthought tied to the previous conversation. It softens the gratitude into something casual rather than formal."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-05",
+        "phrase": "Кстати, ты не забыл купить хлеб?",
+        "fullAnalysis": "Strategic focus: Reminder connector. 'Кстати' opens a gentle reminder that the topic prompted. The parenthetical placement keeps the question light and conversational."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-06",
+        "phrase": "Кстати, завтра у нас встреча.",
+        "fullAnalysis": "Strategic focus: Introducing new information. 'Кстати' marks the announcement as relevant to what was just said. It is the standard opener for slipping in a useful fact mid-conversation."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-07",
+        "phrase": "Кстати, эта книга мне понравилась.",
+        "fullAnalysis": "Strategic focus: Personal aside. 'Кстати' presents the opinion as a connected afterthought, with 'мне' as the dative experiencer of 'понравилась'. The connector keeps the remark informal and spontaneous."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-08",
+        "phrase": "Кстати, она тоже придёт сегодня.",
+        "fullAnalysis": "Strategic focus: Linked addition. 'Кстати' ties this news to the ongoing topic, while 'тоже' adds her to a group already mentioned. A natural way to extend who is involved."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-09",
+        "phrase": "Кстати, как прошёл твой экзамен?",
+        "fullAnalysis": "Strategic focus: Casual inquiry. 'Кстати' launches a friendly question that the conversation reminded the speaker to ask. It is the go-to opener for checking in on someone's news."
+      },
+      {
+        "id": "AD-MANNER-KSTATI-10",
+        "phrase": "Кстати, я давно хотел сказать спасибо.",
+        "fullAnalysis": "Strategic focus: Delayed remark. 'Кстати' frames a long-held thought as finally being voiced, with 'давно хотел' stressing how overdue it is. The connector makes the confession feel natural and unforced."
+      }
+    ]
+  }
+]

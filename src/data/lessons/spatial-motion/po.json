@@ -1,0 +1,85 @@
+[
+  {
+    "id": "SM-PO",
+    "label": "По",
+    "badge": "ALONG",
+    "description": "The preposition по + dative: motion along a surface, channels (по телефону), and regularity (по утрам).",
+    "missions": [
+      {
+        "id": "SM-PO-01",
+        "phrase": "Я медленно иду по улице.",
+        "fullAnalysis": "Strategic focus: Motion along a surface. 1. 'Иду' is on-foot motion. 2. 'По улице' is dative and means along the street. 3. A core motion-along-a-path pattern."
+      },
+      {
+        "id": "SM-PO-02",
+        "phrase": "Утром я гуляю по парку.",
+        "fullAnalysis": "Strategic focus: Strolling over an area. 1. 'Гуляю' is leisurely motion. 2. 'По парку' is dative and means around the park. 3. По covers movement spread over a space."
+      },
+      {
+        "id": "SM-PO-03",
+        "phrase": "По дороге домой я купил хлеб.",
+        "fullAnalysis": "Strategic focus: Along a route. 1. 'По дороге' is dative and means along the road. 2. 'Домой' marks the direction home. 3. A set phrase for things done on the way."
+      },
+      {
+        "id": "SM-PO-04",
+        "phrase": "Мы едем по городу на машине.",
+        "fullAnalysis": "Strategic focus: Vehicle motion over an area. 1. 'Едем' is travel by vehicle. 2. 'По городу' is dative and means around the city. 3. По marks movement covering the whole space."
+      },
+      {
+        "id": "SM-PO-05",
+        "phrase": "Кот нервно ходит по комнате.",
+        "fullAnalysis": "Strategic focus: Pacing within a space. 1. 'Ходит' is repeated walking. 2. 'По комнате' is dative and means around the room. 3. По expresses motion back and forth over a surface."
+      },
+      {
+        "id": "SM-PO-06",
+        "phrase": "Мы идём по старому мосту.",
+        "fullAnalysis": "Strategic focus: Crossing along a surface. 1. 'Идём' is on-foot motion. 2. 'По мосту' is dative and means across the bridge. 3. По names the surface the motion follows."
+      },
+      {
+        "id": "SM-PO-07",
+        "phrase": "Мы часто говорим по телефону.",
+        "fullAnalysis": "Strategic focus: Channel of communication. 1. 'Говорим' is speaking. 2. 'По телефону' is dative and names the means: by phone. 3. По marks the channel an action travels through."
+      },
+      {
+        "id": "SM-PO-08",
+        "phrase": "Я слушаю музыку по радио.",
+        "fullAnalysis": "Strategic focus: Means of broadcast. 1. 'Слушаю' is listening. 2. 'По радио' is dative and means on the radio. 3. По names the medium carrying the signal."
+      },
+      {
+        "id": "SM-PO-09",
+        "phrase": "Я отправил письмо по почте.",
+        "fullAnalysis": "Strategic focus: Channel of delivery. 1. 'Письмо' is the letter. 2. 'По почте' is dative and means by mail. 3. По marks the means by which something is sent."
+      },
+      {
+        "id": "SM-PO-10",
+        "phrase": "Мы общаемся по интернету.",
+        "fullAnalysis": "Strategic focus: Means of contact. 1. 'Общаемся' is communicating. 2. 'По интернету' is dative and means over the internet. 3. По names the channel the message travels through."
+      },
+      {
+        "id": "SM-PO-11",
+        "phrase": "По утрам я пью кофе.",
+        "fullAnalysis": "Strategic focus: Regular timing. 1. 'Пью' is drinking. 2. 'По утрам' is dative plural and means in the mornings. 3. По with time expresses a repeated habit."
+      },
+      {
+        "id": "SM-PO-12",
+        "phrase": "По вечерам мы гуляем в парке.",
+        "fullAnalysis": "Strategic focus: Recurring schedule. 1. 'Гуляем' is strolling. 2. 'По вечерам' is dative plural and means in the evenings. 3. По marks an action done regularly at that time."
+      },
+      {
+        "id": "SM-PO-13",
+        "phrase": "По понедельникам я хожу в спортзал.",
+        "fullAnalysis": "Strategic focus: Weekly regularity. 1. 'Хожу' is going. 2. 'По понедельникам' is dative plural and means on Mondays. 3. По with weekdays signals a repeating routine."
+      },
+      {
+        "id": "SM-PO-14",
+        "phrase": "Я работаю по чёткому плану.",
+        "fullAnalysis": "Strategic focus: According to a guide. 1. 'Работаю' is the action. 2. 'По плану' is dative and means according to plan. 3. По marks the standard an action conforms to."
+      },
+      {
+        "id": "SM-PO-15",
+        "phrase": "Мы всегда играем по правилам.",
+        "fullAnalysis": "Strategic focus: Conforming to rules. 1. 'Играем' is playing. 2. 'По правилам' is dative plural and means by the rules. 3. По names the norms the action follows."
+      }
+    ]
+  }
+]

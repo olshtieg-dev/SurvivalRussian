@@ -1,0 +1,30 @@
+[
+  {
+    "id": "VB-IDTI",
+    "label": "Идти",
+    "badge": "GO",
+    "description": "A full deck for irregular идти: present иду/идёшь/идёт, the SUPPLETIVE past шёл/шла/шло/шли, imperative иди, and the perfective пойти.",
+    "missions": [
+      { "id": "VB-IDTI-01", "phrase": "После работы я иду домой.", "fullAnalysis": "Strategic focus: First-person present. 1. 'Иду' is the irregular 1sg present of идти (present root ид-). 2. 'Домой' is the directional 'homeward'. 3. A core daily motion pattern: after work, heading home." },
+      { "id": "VB-IDTI-02", "phrase": "Ты всегда идёшь очень быстро.", "fullAnalysis": "Strategic focus: Second-person present. 1. 'Идёшь' is the 2sg present of идти, stressed on the ё. 2. 'Быстро' is the adverb 'quickly'. 3. The ё is mandatory and must be typed exactly." },
+      { "id": "VB-IDTI-03", "phrase": "Каждое утро он идёт на работу.", "fullAnalysis": "Strategic focus: Third-person present. 1. 'Идёт' is the 3sg present of идти. 2. 'На работу' uses на + accusative for direction 'to work'. 3. A practical daily-routine scene." },
+      { "id": "VB-IDTI-04", "phrase": "В выходные мы идём в парк.", "fullAnalysis": "Strategic focus: First-person plural present. 1. 'Идём' is the 1pl present of идти, end-stressed. 2. 'В парк' uses в + accusative for 'into the park'. 3. A clean weekend direction scene." },
+      { "id": "VB-IDTI-05", "phrase": "Вы идёте сюда или туда?", "fullAnalysis": "Strategic focus: Polite/plural present. 1. 'Идёте' is the 2pl present of идти. 2. 'Сюда' is the directional 'to here', contrasted with 'туда'. 3. The ё stays stressed throughout this stem." },
+      { "id": "VB-IDTI-06", "phrase": "Они дружно идут вместе по улице.", "fullAnalysis": "Strategic focus: Third-person plural present. 1. 'Идут' is the 3pl present, completing the present scaffold. 2. 'Вместе' means 'together'. 3. Note the present root ид- across all six persons." },
+      { "id": "VB-IDTI-07", "phrase": "Старик шёл очень медленно.", "fullAnalysis": "Strategic focus: SUPPLETIVE masculine past. 1. 'Шёл' switches to a completely different root, ш-, with no и. 2. It is the masculine past of идти. 3. 'Медленно' means 'slowly'." },
+      { "id": "VB-IDTI-08", "phrase": "Она шла домой пешком.", "fullAnalysis": "Strategic focus: SUPPLETIVE feminine past. 1. 'Шла' uses the suppletive past root ш-, not ид-. 2. It marks a female subject. 3. 'Пешком' means 'on foot'." },
+      { "id": "VB-IDTI-09", "phrase": "Время шло удивительно быстро.", "fullAnalysis": "Strategic focus: SUPPLETIVE neuter past. 1. 'Шло' is the neuter past of идти, again on the irregular ш- root. 2. It agrees with neuter 'время'. 3. Past tense tracks gender, not person." },
+      { "id": "VB-IDTI-10", "phrase": "Они шли по лесу очень долго.", "fullAnalysis": "Strategic focus: SUPPLETIVE plural past. 1. 'Шли' is the plural past on the suppletive ш- root, sharing nothing with present ид-. 2. 'Долго' means 'for a long time'. 3. This closes the four suppletive past forms." },
+      { "id": "VB-IDTI-11", "phrase": "Иди скорее сюда, пожалуйста!", "fullAnalysis": "Strategic focus: Singular imperative. 1. 'Иди' is the informal command 'go/come' from идти. 2. 'Сюда' gives the direction 'to here'. 3. A compact, high-frequency phrase." },
+      { "id": "VB-IDTI-12", "phrase": "Идите за мной, я покажу дорогу.", "fullAnalysis": "Strategic focus: Plural/polite imperative. 1. 'Идите' is the formal or plural command of идти. 2. 'За мной' means 'after me / follow me'. 3. Useful for guiding a group." },
+      { "id": "VB-IDTI-13", "phrase": "Вечером я обязательно пойду домой.", "fullAnalysis": "Strategic focus: Perfective future. 1. 'Пойду' is the 1sg future of perfective пойти ('set off'). 2. The prefix по- adds completion and onset. 3. 'Домой' keeps the direction clear." },
+      { "id": "VB-IDTI-14", "phrase": "Утром он пошёл в магазин за хлебом.", "fullAnalysis": "Strategic focus: SUPPLETIVE perfective past. 1. 'Пошёл' = prefix по- on the suppletive past root ш-, masculine. 2. 'В магазин' is в + accusative 'to the shop'. 3. It reports a completed departure." },
+      { "id": "VB-IDTI-15", "phrase": "Давай пойдём в кино вместе!", "fullAnalysis": "Strategic focus: Hortative imperative. 1. 'Пойдём' is the perfective 'let's go' from пойти. 2. 'Вместе' means 'together'. 3. This is the standard everyday invitation form." },
+      { "id": "VB-IDTI-16", "phrase": "Сегодня она пошла к врачу.", "fullAnalysis": "Strategic focus: SUPPLETIVE feminine perfective past. 1. 'Пошла' uses the irregular ш- root with the perfective prefix, female subject. 2. 'К врачу' is к + dative 'toward the doctor'. 3. A completed motion toward someone." },
+      { "id": "VB-IDTI-17", "phrase": "Сегодня вечером идём в кино.", "fullAnalysis": "Strategic focus: First-person plural present. 1. 'Идём' here doubles as a casual 'let's go'. 2. 'В кино' uses в + accusative 'to the cinema'. 3. Present form of идти often serves as a soft invitation." },
+      { "id": "VB-IDTI-18", "phrase": "Утром дети идут в школу.", "fullAnalysis": "Strategic focus: Third-person plural present. 1. 'Идут' is the 3pl present of идти with plural subject 'дети'. 2. 'В школу' is в + accusative 'to school'. 3. A direction scene with a real subject." },
+      { "id": "VB-IDTI-19", "phrase": "Сегодня я иду в гости к другу.", "fullAnalysis": "Strategic focus: Government with к. 1. 'Иду' is the 1sg present of идти. 2. 'К другу' uses к + dative for 'toward a friend'. 3. Идти к marks motion toward a person." },
+      { "id": "VB-IDTI-20", "phrase": "Вчера снег шёл всю ночь.", "fullAnalysis": "Strategic focus: SUPPLETIVE past, weather idiom. 1. 'Шёл' (suppletive ш- root) pairs with 'снег' to mean 'it snowed'. 2. 'Всю ночь' means 'all night'. 3. Motion verb идти also expresses falling precipitation." }
+    ]
+  }
+]

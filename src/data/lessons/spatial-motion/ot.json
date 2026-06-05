@@ -1,0 +1,85 @@
+[
+  {
+    "id": "SM-OT",
+    "label": "От",
+    "badge": "FROM",
+    "description": "The preposition от ('from/away from') + genitive: motion away, source/sender, and cause.",
+    "missions": [
+      {
+        "id": "SM-OT-01",
+        "phrase": "Отойди от двери, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Motion away from a point. 'Отойди' commands stepping back, and 'от двери' takes the genitive (дверь) to mark the spot left behind. От signals moving away from an object's vicinity."
+      },
+      {
+        "id": "SM-OT-02",
+        "phrase": "Он медленно отошёл от окна.",
+        "fullAnalysis": "Strategic focus: Moving away from a spot. 'Отошёл' is past motion, and 'от окна' is genitive (окно), the starting point of the walk. От signals departure from the vicinity of an object."
+      },
+      {
+        "id": "SM-OT-03",
+        "phrase": "Мы живём далеко от дома.",
+        "fullAnalysis": "Strategic focus: Distance from a place. 'Далеко' measures remoteness, and 'от дома' takes the genitive (дом) as the reference point. От fixes the origin from which the distance is measured."
+      },
+      {
+        "id": "SM-OT-04",
+        "phrase": "Беги от опасности как можно быстрее.",
+        "fullAnalysis": "Strategic focus: Fleeing away from. 'Беги' commands running, and 'от опасности' is genitive (опасность), the thing fled. От marks separation from a source of threat."
+      },
+      {
+        "id": "SM-OT-05",
+        "phrase": "Наша дача недалеко от реки.",
+        "fullAnalysis": "Strategic focus: Nearness to a point. 'Недалеко' marks short distance, and 'от реки' takes the genitive (река) landmark. От anchors the measured distance to its origin."
+      },
+      {
+        "id": "SM-OT-06",
+        "phrase": "Я получил письмо от друга.",
+        "fullAnalysis": "Strategic focus: Sender of an item. 'Письмо' is the thing sent, and 'от друга' is genitive (друг), the source. От names the person the letter came from."
+      },
+      {
+        "id": "SM-OT-07",
+        "phrase": "Это подарок от мамы на праздник.",
+        "fullAnalysis": "Strategic focus: Source of a gift. 'Подарок' is the object given, and 'от мамы' takes the genitive (мама) giver. От marks the person the gift originates from."
+      },
+      {
+        "id": "SM-OT-08",
+        "phrase": "Где ключ от входной двери?",
+        "fullAnalysis": "Strategic focus: Belonging to an object. 'Ключ' is the key, and 'от двери' is genitive (дверь), what it opens. От links the key to its matching lock."
+      },
+      {
+        "id": "SM-OT-09",
+        "phrase": "Передай ей привет от него.",
+        "fullAnalysis": "Strategic focus: Greeting from a person. 'Привет' is the message, and 'от него' is the genitive pronoun (он) source. От identifies who sends the greeting."
+      },
+      {
+        "id": "SM-OT-10",
+        "phrase": "Купи мне лекарство от кашля.",
+        "fullAnalysis": "Strategic focus: Remedy against a thing. 'Лекарство' is the medicine, and 'от кашля' takes the genitive (кашель) ailment. От marks what the cure works against."
+      },
+      {
+        "id": "SM-OT-11",
+        "phrase": "Я очень устал от работы.",
+        "fullAnalysis": "Strategic focus: Cause of a state. 'Устал' is the resulting tiredness, and 'от работы' is genitive (работа), the cause. От marks the reason behind the condition."
+      },
+      {
+        "id": "SM-OT-12",
+        "phrase": "Ребёнок дрожит от холода.",
+        "fullAnalysis": "Strategic focus: Cause of a reaction. 'Дрожит' is the trembling, and 'от холода' takes the genitive (холод) cause. От links the shaking to the cold."
+      },
+      {
+        "id": "SM-OT-13",
+        "phrase": "Она плачет от радости.",
+        "fullAnalysis": "Strategic focus: Cause of an emotion. 'Плачет' is the crying, and 'от радости' is genitive (радость), the trigger. От marks the feeling that produces the tears."
+      },
+      {
+        "id": "SM-OT-14",
+        "phrase": "Мальчик покраснел от стыда.",
+        "fullAnalysis": "Strategic focus: Cause of a change. 'Покраснел' is the blushing, and 'от стыда' takes the genitive (стыд) cause. От names the emotion driving the reaction."
+      },
+      {
+        "id": "SM-OT-15",
+        "phrase": "Кот спрятался ото всех под кроватью.",
+        "fullAnalysis": "Strategic focus: Fixed ото variant. 'Спрятался' is hiding, and 'ото всех' uses ото before a consonant cluster, genitive (все). От marks separation from everyone."
+      }
+    ]
+  }
+]

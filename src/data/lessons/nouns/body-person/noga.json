@@ -1,0 +1,28 @@
+[
+  {
+    "id": "NN-BODY-NOGA",
+    "label": "Нога",
+    "badge": "LEG",
+    "description": "A usage card for нога walking the full case ladder with everyday collocations.",
+    "missions": [
+      { "id": "NN-BODY-NOGA-01", "phrase": "После пробежки нога болит.", "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Нога' is the subject in its dictionary form. 2. 'Болит' is a state verb agreeing in the singular. 3. The body part performs the action of the clause." },
+      { "id": "NN-BODY-NOGA-02", "phrase": "После долгого бега левая нога устала.", "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Нога' stays nominative as subject. 2. 'Левая' agrees in feminine singular nominative. 3. 'Устала' matches the feminine subject with its -а ending." },
+      { "id": "NN-BODY-NOGA-03", "phrase": "Зимой он сломал ногу.", "fullAnalysis": "Strategic focus: Accusative object. 1. 'Ногу' is the direct object of the action. 2. The nominative 'нога' shifts to 'ногу' in the accusative. 3. 'Сломал' is a high-value past-tense verb." },
+      { "id": "NN-BODY-NOGA-04", "phrase": "Танцор медленно поднял правую ногу.", "fullAnalysis": "Strategic focus: Accusative with adjective. 1. 'Ногу' is the accusative object being lifted. 2. 'Правую' agrees in feminine singular accusative. 3. 'Поднял' is a concrete physical verb." },
+      { "id": "NN-BODY-NOGA-05", "phrase": "У этого стула нет ноги.", "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Ноги' is genitive after the negation 'нет'. 2. The construction 'у ... нет' demands the genitive. 3. The clause states that something is missing." },
+      { "id": "NN-BODY-NOGA-06", "phrase": "Врач изучил форму ноги.", "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Ноги' is genitive marking belonging. 2. 'Форму' is the head noun the genitive modifies. 3. The pair reads as 'the shape of the leg'." },
+      { "id": "NN-BODY-NOGA-07", "phrase": "Массаж помог больной ноге.", "fullAnalysis": "Strategic focus: Dative recipient. 1. 'Ноге' is the dative target receiving aid. 2. 'Больной' agrees in feminine singular dative. 3. 'Помог' is a verb governing the dative." },
+      { "id": "NN-BODY-NOGA-08", "phrase": "В тёплых носках ноге тепло.", "fullAnalysis": "Strategic focus: Dative experiencer. 1. 'Ноге' is dative, the part feeling the state. 2. 'Тепло' is an impersonal predicate. 3. The clause says the leg is warm without a grammatical subject." },
+      { "id": "NN-BODY-NOGA-09", "phrase": "Сердитый мальчик топнул ногой.", "fullAnalysis": "Strategic focus: Instrumental means. 1. 'Ногой' is instrumental, the tool of the action. 2. 'Топнул' pairs naturally with the instrumental. 3. The leg is the means by which the stamp is made." },
+      { "id": "NN-BODY-NOGA-10", "phrase": "Он толкнул тяжёлую дверь ногой.", "fullAnalysis": "Strategic focus: Instrumental instrument. 1. 'Ногой' is instrumental, showing how the push is done. 2. 'Дверь' is the accusative object pushed. 3. The sentence packs object and instrument together." },
+      { "id": "NN-BODY-NOGA-11", "phrase": "У спортсмена была рана на ноге.", "fullAnalysis": "Strategic focus: Prepositional location. 1. 'Ноге' is prepositional after 'на' for a static place. 2. 'Рана' is the thing located on the leg. 3. The phrase fixes a wound to a spot." },
+      { "id": "NN-BODY-NOGA-12", "phrase": "Йог долго стоял на одной ноге.", "fullAnalysis": "Strategic focus: Prepositional scene. 1. 'Ноге' is prepositional after 'на'. 2. 'Одной' agrees in feminine singular prepositional. 3. 'Стоял' sets a balanced standing pose." },
+      { "id": "NN-BODY-NOGA-13", "phrase": "У этой модели длинные ноги.", "fullAnalysis": "Strategic focus: Plural nominative. 1. 'Ноги' is the plural nominative form. 2. 'Длинные' agrees in plural nominative. 3. The pair describes both legs as a visible trait." },
+      { "id": "NN-BODY-NOGA-14", "phrase": "После болезни он встал на ноги.", "fullAnalysis": "Strategic focus: Plural accusative idiom. 1. 'Ноги' is plural accusative after 'на'. 2. 'Встал на ноги' means to get on one's feet. 3. The idiom reads both literally and figuratively." },
+      { "id": "NN-BODY-NOGA-15", "phrase": "Мягкая трава шелестела под ногами.", "fullAnalysis": "Strategic focus: Plural instrumental scene. 1. 'Ногами' is plural instrumental after 'под'. 2. 'Трава' is the thing under the feet. 3. The preposition 'под' sets a spatial picture." },
+      { "id": "NN-BODY-NOGA-16", "phrase": "Официант целый день на ногах.", "fullAnalysis": "Strategic focus: Plural prepositional idiom. 1. 'Ногах' is plural prepositional after 'на'. 2. 'На ногах' means being on one's feet. 3. 'Целый день' stresses the duration." },
+      { "id": "NN-BODY-NOGA-17", "phrase": "Атлет уверенно бежал на сильных ногах.", "fullAnalysis": "Strategic focus: Plural prepositional with adjective. 1. 'Ногах' is plural prepositional after 'на'. 2. 'Сильных' agrees in plural prepositional. 3. 'Бежал' adds motion to the strong-legged image." },
+      { "id": "NN-BODY-NOGA-18", "phrase": "Магазин продаёт обувь для длинных ног.", "fullAnalysis": "Strategic focus: Plural genitive. 1. 'Ног' is the bare plural genitive after 'для'. 2. 'Длинных' agrees in plural genitive. 3. 'Обувь' is the head noun the phrase serves." }
+    ]
+  }
+]

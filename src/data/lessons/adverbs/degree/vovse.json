@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-VOVSE",
+    "label": "Вовсе",
+    "badge": "AT ALL",
+    "description": "A 10-sentence usage card for вовсе (at all), usually in вовсе не.",
+    "missions": [
+      {
+        "id": "AD-DEGREE-VOVSE-01",
+        "phrase": "Я вовсе не устал.",
+        "fullAnalysis": "Strategic focus: Emphatic negation. 'Вовсе' almost always pairs with 'не' to mean not at all. Here 'вовсе не' strengthens the denial of 'устал', insisting the speaker is not tired in the least."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-02",
+        "phrase": "Это вовсе не трудно.",
+        "fullAnalysis": "Strategic focus: Denying a degree. 'Вовсе не' negates 'трудно' emphatically, meaning not difficult at all. The pair stands before the word and rejects the quality completely."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-03",
+        "phrase": "Он вовсе не хотел тебя обидеть.",
+        "fullAnalysis": "Strategic focus: Strong denial of intent. 'Вовсе не' before 'хотел' insists he did not at all want to offend. The construction reassures and forcefully rejects the assumption."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-04",
+        "phrase": "Она вовсе не виновата.",
+        "fullAnalysis": "Strategic focus: Clearing of blame. 'Вовсе не' negates 'виновата', meaning not guilty at all. The emphatic pair stands before the predicate and firmly defends the person."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-05",
+        "phrase": "Я вовсе не это имел в виду.",
+        "fullAnalysis": "Strategic focus: Correcting a misunderstanding. 'Вовсе не' before 'это' stresses that the speaker meant nothing of the sort. It is a common, emphatic way to reject a wrong interpretation."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-06",
+        "phrase": "Погода вовсе не плохая.",
+        "fullAnalysis": "Strategic focus: Rejecting a judgement. 'Вовсе не' negates 'плохая', meaning not bad at all. The pair stands before the adjective and turns away a negative assessment of the weather."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-07",
+        "phrase": "Это вовсе не значит, что я согласен.",
+        "fullAnalysis": "Strategic focus: Denying an implication. 'Вовсе не' before 'значит' insists that something does not mean what was assumed. The construction is emphatic and common in argument."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-08",
+        "phrase": "Мне вовсе не скучно здесь.",
+        "fullAnalysis": "Strategic focus: Denying a state. 'Вовсе не' negates the predicate 'скучно', meaning not bored at all. The pair stands before the word and rejects the feeling completely."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-09",
+        "phrase": "Он вовсе не такой, как ты думаешь.",
+        "fullAnalysis": "Strategic focus: Contradicting an image. 'Вовсе не' before 'такой' insists he is not at all as imagined. The emphatic pair sets up a firm correction of someone's view."
+      },
+      {
+        "id": "AD-DEGREE-VOVSE-10",
+        "phrase": "Я вовсе не против твоей идеи.",
+        "fullAnalysis": "Strategic focus: Denying opposition. 'Вовсе не' negates 'против', meaning not at all opposed. The construction reassures the listener and rejects any suggestion of objection."
+      }
+    ]
+  }
+]

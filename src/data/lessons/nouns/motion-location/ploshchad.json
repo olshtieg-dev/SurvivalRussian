@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-MOTION-PLOSHCHAD",
+    "label": "Площадь",
+    "badge": "SQUARE",
+    "description": "The feminine 3rd-declension noun площадь through its full case ladder, contrasting location and motion and exercising plural and adjective agreement.",
+    "missions": [
+      {
+        "id": "NN-MOTION-PLOSHCHAD-01",
+        "phrase": "В центре города большая площадь.",
+        "fullAnalysis": "Strategic focus: Adjective plus noun. 1. 'Площадь' stands in nominative as the subject. 2. 'Большая' shows feminine agreement. 3. A clean baseline for the 3rd-declension lemma; nom = acc for this noun."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-02",
+        "phrase": "Это главная площадь города.",
+        "fullAnalysis": "Strategic focus: Naming the square. 1. 'Площадь' is nominative, the predicate noun. 2. 'Главная' agrees in feminine nominative. 3. 'Это' frames a simple identifying statement; 'города' is genitive."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-03",
+        "phrase": "Мы быстро перешли площадь.",
+        "fullAnalysis": "Strategic focus: Direct object. 1. 'Площадь' is accusative here, syncretic with nominative for this 3rd-decl noun. 2. 'Перешли' takes it as the thing crossed. 3. Motion across an area."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-04",
+        "phrase": "В центре площади стоит памятник.",
+        "fullAnalysis": "Strategic focus: Possession by genitive. 1. 'Площади' is genitive, marking 'of the square'. 2. Note 3rd-decl syncretism: gen = dat = prep площади. 3. 'Памятник' is the subject."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-05",
+        "phrase": "До площади идти совсем недалеко.",
+        "fullAnalysis": "Strategic focus: Distance to a goal. 1. 'Площади' is genitive after 'до'. 2. The same площади serves gen, dat and prep by 3rd-decl syncretism. 3. 'Недалеко' sets the scene."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-06",
+        "phrase": "Я медленно иду к площади.",
+        "fullAnalysis": "Strategic focus: Approach with dative. 1. 'Площади' is dative after 'к'. 2. Form matches genitive and prepositional by 3rd-decl syncretism. 3. 'Иду' signals movement toward."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-07",
+        "phrase": "Давай встретимся на площади вечером.",
+        "fullAnalysis": "Strategic focus: Location scene. 1. 'Площади' is prepositional after 'на', meaning at the square. 2. Static position, no movement. 3. Syncretic with gen and dat площади."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-08",
+        "phrase": "Мы выходим на площадь.",
+        "fullAnalysis": "Strategic focus: Motion onto. 1. 'Площадь' is accusative after 'на', marking destination. 2. Contrast 'на площади' (location) with 'на площадь' (motion). 3. Direction outward."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-09",
+        "phrase": "Мы стоим на площади и ждём.",
+        "fullAnalysis": "Strategic focus: Standing in place. 1. 'Площади' is prepositional after 'на', a static location. 2. Reinforces location vs motion against 'на площадь'. 3. 'Стоим' fixes the scene."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-10",
+        "phrase": "Дети бегут через площадь.",
+        "fullAnalysis": "Strategic focus: Passage across. 1. 'Площадь' is accusative after 'через'. 2. Form coincides with nominative for this 3rd-decl noun. 3. 'Через' frames movement straight across the area."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-11",
+        "phrase": "Я долго любуюсь этой площадью.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 1. 'Площадью' is instrumental, the distinctive -ью ending of 3rd-decl nouns. 2. 'Любуюсь' governs the instrumental. 3. Admiring the square."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-12",
+        "phrase": "Перед площадью бьёт фонтан.",
+        "fullAnalysis": "Strategic focus: Spatial relation. 1. 'Площадью' is instrumental after 'перед'. 2. The -ью form is unique to the instrumental here. 3. 'Фонтан' sets the scene before the square."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-13",
+        "phrase": "Красная площадь действительно огромна.",
+        "fullAnalysis": "Strategic focus: Famous square. 1. 'Площадь' is the nominative subject. 2. 'Красная' agrees in feminine nominative. 3. 'Огромна' is a short-form predicate adjective."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-14",
+        "phrase": "Наша площадь очень красивая.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Площадь' is the nominative subject. 2. Both 'наша' and 'красивая' take feminine nominative endings. 3. A simple descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-15",
+        "phrase": "В нашем городе три площади.",
+        "fullAnalysis": "Strategic focus: Counted plural. 1. 'Площади' follows 'три', taking the genitive-singular-like form after a small numeral. 2. 'В городе' gives location. 3. Note 3rd-decl form площади."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-16",
+        "phrase": "Утром городские площади пусты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Площади' is the plural subject. 2. 'Городские' agrees in plural; 'пусты' is a short-form predicate. 3. A wide scene-setting statement."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-17",
+        "phrase": "В столице очень много площадей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Площадей' is genitive plural after 'много'. 2. The stressed -ей ending marks the plural genitive. 3. 'В столице' anchors the scene."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHAD-18",
+        "phrase": "Мы дойдём до площади пешком.",
+        "fullAnalysis": "Strategic focus: Reaching a goal. 1. 'Площади' is genitive after 'до'. 2. Recall gen = dat = prep площади by 3rd-decl syncretism. 3. 'Пешком' adds the manner of motion."
+      }
+    ]
+  }
+]

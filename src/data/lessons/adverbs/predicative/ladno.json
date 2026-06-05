@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-LADNO",
+    "label": "Ладно",
+    "badge": "OK",
+    "description": "A 10-sentence usage card for ладно (okay / fine / all right).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-LADNO-01",
+        "phrase": "Ладно, я согласен.",
+        "fullAnalysis": "Strategic focus: Colloquial agreement. 'Ладно' is a discourse word meaning fine or okay, signalling that the speaker accepts a proposal. It stands at the front, followed by the explicit consent 'я согласен'."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-02",
+        "phrase": "Ладно, давай встретимся завтра.",
+        "fullAnalysis": "Strategic focus: Agreeing to a plan. 'Ладно' yields to a suggestion, and 'давай' with the perfective 'встретимся' proposes the joint action. A relaxed everyday way to settle on meeting tomorrow."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-03",
+        "phrase": "Ну ладно, я подожду.",
+        "fullAnalysis": "Strategic focus: Reluctant acceptance. The pairing 'ну ладно' softens into a sigh of resignation, meaning oh all right. The following 'я подожду' shows the speaker giving in and agreeing to wait."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-04",
+        "phrase": "Ладно, не будем спорить.",
+        "fullAnalysis": "Strategic focus: Closing a disagreement. 'Ладно' here ends the argument, signalling let it go. The construction 'не будем спорить' uses the future of быт plus an infinitive to refuse further dispute."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-05",
+        "phrase": "Хорошо, ладно, я приду.",
+        "fullAnalysis": "Strategic focus: Stacked agreement words. Both 'хорошо' and 'ладно' confirm consent, reinforcing acceptance. The perfective 'приду' then commits the speaker to coming, a very colloquial chain of yielding."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-06",
+        "phrase": "Ладно тебе, не сердись.",
+        "fullAnalysis": "Strategic focus: Soothing idiom. The phrase 'ладно тебе' with the dative 'тебе' means come on or take it easy, calming the listener. The imperative 'не сердись' tells them not to be angry."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-07",
+        "phrase": "Ладно, делай как хочешь.",
+        "fullAnalysis": "Strategic focus: Yielding control. 'Ладно' concedes the point, and 'делай как хочешь' hands the decision to the listener. A slightly resigned phrase meaning fine, do as you like."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-08",
+        "phrase": "Ладно, я попробую ещё раз.",
+        "fullAnalysis": "Strategic focus: Agreeing to try again. 'Ладно' accepts the request, and the perfective 'попробую' commits to one more attempt. A natural, low-key way to express willingness."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-09",
+        "phrase": "Ладно, поговорим об этом позже.",
+        "fullAnalysis": "Strategic focus: Postponing politely. 'Ладно' settles the matter for now, and the perfective 'поговорим' with 'позже' defers the discussion. 'Об этом' uses the prepositional case for the topic."
+      },
+      {
+        "id": "AD-PREDICATIVE-LADNO-10",
+        "phrase": "Ладно, спокойной ночи.",
+        "fullAnalysis": "Strategic focus: Closing a conversation. 'Ладно' rounds off the exchange before the farewell. The genitive 'спокойной ночи' is the fixed wish for a good night, a warm way to end the day."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-ABSTRACT-VREMYA",
+    "label": "Время",
+    "badge": "TIME",
+    "description": "The heteroclitic neuter noun время (\"time\"). Oblique singular forms insert the -ен- stem (времени, временем), a hallmark of the -мя declension class.",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-VREMYA-01",
+        "phrase": "Время идёт очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Время' is the neuter subject in its base nominative form (no -ен- stem). 2. 'Идёт' agrees as a 3rd-person singular verb. 3. The sentence means time goes by very fast."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-02",
+        "phrase": "У меня совсем нет времени.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Нет' forces the genitive. 2. 'Времени' uses the heteroclitic -ен- oblique stem, not 'врема'. 3. The core phrase means I have no time at all."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-03",
+        "phrase": "На это уйдёт много времени.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 1. 'Много' governs the genitive. 2. 'Времени' shows the -ен- oblique stem of this -мя noun. 3. The sentence means this will take a lot of time."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-04",
+        "phrase": "Скажи, сколько сейчас времени?",
+        "fullAnalysis": "Strategic focus: Genitive question. 1. 'Сколько' takes the genitive. 2. 'Времени' again inserts the heteroclitic -ен- oblique stem. 3. The question asks what time it is now."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-05",
+        "phrase": "К этому времени все уже ушли.",
+        "fullAnalysis": "Strategic focus: Dative of deadline. 1. 'К' governs the dative. 2. 'Времени' is the dative with the -ен- oblique stem. 3. 'Этому' agrees as a dative neuter pronoun: by this time everyone had left."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-06",
+        "phrase": "Постарайся следить за временем.",
+        "fullAnalysis": "Strategic focus: Instrumental with за. 1. 'За' here takes the instrumental. 2. 'Временем' shows the -ен- oblique stem plus instrumental ending -ем. 3. The sentence means try to keep track of time."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-07",
+        "phrase": "Со временем всё постепенно меняется.",
+        "fullAnalysis": "Strategic focus: Instrumental idiom. 1. 'Со' takes the instrumental. 2. 'Временем' uses the heteroclitic -ен- oblique stem. 3. A common idiom meaning over time everything gradually changes."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-08",
+        "phrase": "Мы договорились о времени встречи.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'О' governs the prepositional. 2. 'Времени' is the prepositional with the -ен- oblique stem. 3. The sentence means we agreed on the time of the meeting."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-09",
+        "phrase": "Не разговаривай во время урока.",
+        "fullAnalysis": "Strategic focus: Prepositional idiom. 1. 'Во время' is a fixed phrase taking a genitive complement. 2. Here 'урока' is genitive. 3. The whole unit means don't talk during the lesson."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-10",
+        "phrase": "Я взял эту книгу на время.",
+        "fullAnalysis": "Strategic focus: Accusative idiom. 1. 'На' here takes the accusative. 2. 'Время' is accusative, identical to the nominative for this neuter noun. 3. 'На время' means for a while, temporarily."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-11",
+        "phrase": "В выходные у меня есть свободное время.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Свободное' agrees with 'время' as neuter nominative. 2. The noun stays in its base form (no -ен- stem). 3. The sentence means on weekends I have free time."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-12",
+        "phrase": "В наше время все пользуются интернетом.",
+        "fullAnalysis": "Strategic focus: Adjective agreement idiom. 1. 'Наше' agrees with 'время' as neuter. 2. 'В' takes the accusative in this fixed phrase. 3. 'В наше время' means nowadays, in our day."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-13",
+        "phrase": "Боюсь потерять много времени.",
+        "fullAnalysis": "Strategic focus: Genitive object. 1. 'Много' governs the genitive. 2. 'Времени' carries the heteroclitic -ен- oblique stem. 3. The sentence means I'm afraid of wasting a lot of time."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-14",
+        "phrase": "Я всё время работаю без отдыха.",
+        "fullAnalysis": "Strategic focus: Accusative adverbial. 1. 'Всё время' is an accusative time-phrase acting as an adverb. 2. The noun keeps its base neuter form. 3. The sentence means I work all the time without rest."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-15",
+        "phrase": "Эти тяжёлые времена наконец прошли.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Времена́' is the irregular plural with end stress. 2. 'Тяжёлые' agrees as plural. 3. 'Прошли' agrees in the plural: these hard times have finally passed."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-16",
+        "phrase": "Этот обычай известен с давних времён.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'С' here governs the genitive. 2. 'Времён' is the genitive plural with ё. 3. 'Давних' agrees as plural: this custom is known since ancient times."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-17",
+        "phrase": "Нам пора найти время для отдыха.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Найти' takes a direct object. 2. 'Время' is accusative, matching the nominative for this neuter noun. 3. The sentence means it's time to find time to rest."
+      },
+      {
+        "id": "NN-ABSTRACT-VREMYA-18",
+        "phrase": "Будь готов к этому времени.",
+        "fullAnalysis": "Strategic focus: Dative deadline. 1. 'К' governs the dative. 2. 'Времени' uses the heteroclitic -ен- oblique stem in the dative. 3. The sentence means be ready by this time."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-OBYAZATELNO",
+    "label": "Обязательно",
+    "badge": "FORSURE",
+    "description": "A 10-sentence usage card for обязательно (definitely; without fail).",
+    "missions": [
+      {
+        "id": "AD-MANNER-OBYAZATELNO-01",
+        "phrase": "Я обязательно тебе позвоню.",
+        "fullAnalysis": "Strategic focus: Firm promise. 'Обязательно' assures the listener that the call will happen without fail. It modifies the future verb 'позвоню' and typically stands just before it for a confident, reassuring tone."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-02",
+        "phrase": "Приходи обязательно, мы тебя ждём.",
+        "fullAnalysis": "Strategic focus: Insistent invitation. 'Обязательно' strengthens the imperative 'приходи' into an urging that the person must come. Placed after the verb here, it adds warm insistence to a friendly request."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-03",
+        "phrase": "Это нужно сделать обязательно.",
+        "fullAnalysis": "Strategic focus: Marking necessity. 'Обязательно' underlines that the task is not optional and must be done. It reinforces 'нужно', giving the obligation extra weight in a neutral or formal register."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-04",
+        "phrase": "Я обязательно прочитаю эту книгу.",
+        "fullAnalysis": "Strategic focus: Strong intention. 'Обязательно' conveys a determined plan to read the book. It modifies the perfective future 'прочитаю', signalling that the speaker will follow through for certain."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-05",
+        "phrase": "Не забудь обязательно взять зонт.",
+        "fullAnalysis": "Strategic focus: Emphatic reminder. 'Обязательно' heightens the warning not to forget the umbrella. Inserted into the imperative phrase, it makes the advice feel essential and pressing."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-06",
+        "phrase": "Мы обязательно встретимся завтра.",
+        "fullAnalysis": "Strategic focus: Confident arrangement. 'Обязательно' guarantees that the meeting will take place. It modifies the reflexive future 'встретимся' and gives a plan an air of certainty."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-07",
+        "phrase": "Ты обязательно должен попробовать борщ.",
+        "fullAnalysis": "Strategic focus: Pressing recommendation. 'Обязательно' reinforces 'должен', urging the listener to try the borscht. The pairing produces a strong, enthusiastic suggestion typical of spoken Russian."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-08",
+        "phrase": "Она обязательно сдаст экзамен.",
+        "fullAnalysis": "Strategic focus: Expressing confidence in an outcome. 'Обязательно' shows the speaker's certainty that she will pass. It modifies 'сдаст' and conveys optimistic assurance about the future."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-09",
+        "phrase": "Запишите это обязательно в тетрадь.",
+        "fullAnalysis": "Strategic focus: Formal instruction. 'Обязательно' makes the command to write it down non-negotiable. It strengthens the imperative 'запишите', fitting a classroom or workplace register."
+      },
+      {
+        "id": "AD-MANNER-OBYAZATELNO-10",
+        "phrase": "Я обязательно вернусь сюда летом.",
+        "fullAnalysis": "Strategic focus: Heartfelt resolve. 'Обязательно' expresses a sincere determination to return in summer. It modifies the reflexive future 'вернусь', lending the statement emotional weight."
+      }
+    ]
+  }
+]

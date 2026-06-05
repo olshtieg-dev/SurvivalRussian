@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-MENEE",
+    "label": "Менее",
+    "badge": "LESS",
+    "description": "A 10-sentence usage card for менее (less), the comparative degree adverb.",
+    "missions": [
+      {
+        "id": "AD-DEGREE-MENEE-01",
+        "phrase": "Эта дорога менее опасная.",
+        "fullAnalysis": "Strategic focus: Comparative with less. 'Менее' means less and forms an analytic comparative with the adjective 'опасная'. It stands before the word it lowers, marking a reduced degree of danger."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-02",
+        "phrase": "Сегодня менее холодно, чем вчера.",
+        "fullAnalysis": "Strategic focus: Comparison with than. 'Менее' lowers the adverb 'холодно', and 'чем' introduces the standard of comparison. Together they express less cold than before in a clean comparative frame."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-03",
+        "phrase": "Этот фильм менее интересный.",
+        "fullAnalysis": "Strategic focus: Reduced quality. 'Менее' forms the comparative of 'интересный', meaning less interesting. The adverb precedes the adjective and is the standard analytic way to say less plus a long-form adjective."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-04",
+        "phrase": "Он работает менее усердно.",
+        "fullAnalysis": "Strategic focus: Comparative of manner. 'Менее' lowers the adverb 'усердно', meaning less diligently. It stands before the manner adverb to scale the effort down by comparison."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-05",
+        "phrase": "Новая модель менее тяжёлая.",
+        "fullAnalysis": "Strategic focus: Comparative of weight. 'Менее' forms the comparative of 'тяжёлая', meaning less heavy. The adverb keeps the adjective in its long form and reduces its degree."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-06",
+        "phrase": "Чем меньше слов, тем менее понятно.",
+        "fullAnalysis": "Strategic focus: Менее versus меньше. 'Менее' grades the adverb 'понятно' as less clear, while 'меньше' is the comparative of much or few. The pair shows the contrast learners must keep straight."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-07",
+        "phrase": "Её ответ был менее уверенный.",
+        "fullAnalysis": "Strategic focus: Comparative in the past. 'Менее' lowers 'уверенный' to mean less confident. The adverb precedes the adjective and forms the analytic comparative within a past-tense statement."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-08",
+        "phrase": "Здесь менее шумно по утрам.",
+        "fullAnalysis": "Strategic focus: Comparative of a state. 'Менее' grades the predicate adverb 'шумно', meaning less noisy. Standing before the word, it marks a quieter degree relative to other times."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-09",
+        "phrase": "Этот вариант менее удобный для нас.",
+        "fullAnalysis": "Strategic focus: Comparative judgement. 'Менее' forms the comparative of 'удобный', meaning less convenient. The adverb precedes the adjective, presenting the option as the weaker choice."
+      },
+      {
+        "id": "AD-DEGREE-MENEE-10",
+        "phrase": "Со временем боль стала менее сильной.",
+        "fullAnalysis": "Strategic focus: Diminishing degree. 'Менее' lowers the instrumental adjective 'сильной', meaning less strong. The adverb marks a decrease over time and stays before the word it grades."
+      }
+    ]
+  }
+]

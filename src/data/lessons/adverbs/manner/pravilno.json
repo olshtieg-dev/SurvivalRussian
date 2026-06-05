@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-PRAVILNO",
+    "label": "Правильно",
+    "badge": "CORRECT",
+    "description": "A 10-sentence usage card for правильно (correctly, that's right).",
+    "missions": [
+      {
+        "id": "AD-MANNER-PRAVILNO-01",
+        "phrase": "Ты правильно решил эту задачу.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Правильно' modifies 'решил', telling us the problem was solved correctly. Before the verb, it judges how well the action was carried out."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-02",
+        "phrase": "Правильно, я полностью с тобой согласен.",
+        "fullAnalysis": "Strategic focus: Confirming response. Used alone, 'правильно' means 'that's right' or 'correct', affirming what was said. It is a common one-word way to signal agreement."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-03",
+        "phrase": "Говори правильно по-русски.",
+        "fullAnalysis": "Strategic focus: Imperative manner. 'Правильно' modifies the command 'говори', urging correct speech. It often appears in language-learning contexts about doing something the right way."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-04",
+        "phrase": "Это правильно, что ты остался.",
+        "fullAnalysis": "Strategic focus: Impersonal predicative. Here 'правильно' is the predicate meaning 'it is right', evaluating the action in the 'что' clause. There is no subject, just a moral judgement."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-05",
+        "phrase": "Он правильно ответил на все вопросы.",
+        "fullAnalysis": "Strategic focus: Correct performance. 'Правильно' modifies 'ответил', showing every answer was right. The adverb is the natural way to praise accuracy."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-06",
+        "phrase": "Ты всё сделал правильно сегодня.",
+        "fullAnalysis": "Strategic focus: Post-verbal manner. 'Правильно' follows the object 'всё' and modifies 'сделал', meaning everything was done right. This word order stresses the positive result."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-07",
+        "phrase": "Если я правильно понимаю, ты устал.",
+        "fullAnalysis": "Strategic focus: Hedged understanding. 'Правильно' modifies 'понимаю' inside a polite 'если' clause, meaning 'if I understand correctly'. This is a common softening frame for a guess."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-08",
+        "phrase": "Часы показывают время правильно.",
+        "fullAnalysis": "Strategic focus: Accurate function. 'Правильно' modifies 'показывают', stating the clock tells time correctly. The adverb describes a device working as it should."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-09",
+        "phrase": "Правильно ли я написал твоё имя?",
+        "fullAnalysis": "Strategic focus: Question with particle. 'Правильно' fronts the question and pairs with 'ли' to ask whether the name was spelled right. This adverb-plus-'ли' frame is a polite verification."
+      },
+      {
+        "id": "AD-MANNER-PRAVILNO-10",
+        "phrase": "Важно правильно выбрать свой путь.",
+        "fullAnalysis": "Strategic focus: Adverb with infinitive. 'Правильно' modifies the infinitive 'выбрать', meaning to choose correctly. Under the predicative 'важно', it stresses making the right choice."
+      }
+    ]
+  }
+]

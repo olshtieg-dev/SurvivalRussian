@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-ABSTRACT-VOPROS",
+    "label": "Вопрос",
+    "badge": "QUESTION",
+    "description": "Decline вопрос (question / issue) through the full case ladder, plus plurals, adjective agreement, and high-frequency collocations.",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-VOPROS-01",
+        "phrase": "Это очень важный вопрос.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Вопрос' is the subject in its dictionary form. 2. The adjective 'важный' agrees masculine singular nominative. 3. 'Это' frames a simple predicate statement of identity."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-02",
+        "phrase": "Он задал мне неожиданный вопрос.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Вопрос' is the direct object; for inanimate masculine, accusative equals nominative. 2. 'Задал' is the core verb 'to pose'. 3. 'Он' is the nominative subject, 'мне' the recipient."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-03",
+        "phrase": "Давай разберём суть вопроса.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Вопроса' is genitive, marking the essence 'of the question'. 2. The noun 'суть' governs the genitive. 3. A compact noun-of-noun phrase inside an invitation."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-04",
+        "phrase": "Теперь перейдём к главному вопросу.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 1. 'Вопросу' is dative, the goal of motion 'to the issue'. 2. The preposition 'к' demands the dative case. 3. 'Перейдём' signals a transition in discussion."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-05",
+        "phrase": "Завтра займёмся этим вопросом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 1. 'Вопросом' is instrumental, governed by the verb 'заняться'. 2. 'Этим' agrees instrumental masculine. 3. The case marks the thing one busies oneself with."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-06",
+        "phrase": "Я часто думаю об этом вопросе.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'о'. 1. 'Вопросе' is prepositional, the topic of thought. 2. The preposition 'об' requires this case. 3. 'Думаю' is first-person singular present."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-07",
+        "phrase": "Я не знаю ответа на вопрос.",
+        "fullAnalysis": "Strategic focus: Accusative with 'на'. 1. 'Вопрос' is accusative after directional 'на', as 'answer to a question'. 2. 'Ответа' is genitive under negation. 3. A fixed, very common collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-08",
+        "phrase": "Это очень трудный вопрос.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Вопрос' is nominative. 2. 'Трудный' agrees masculine singular nominative, meaning 'difficult'. 3. The phrase predicates a quality of the subject."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-09",
+        "phrase": "Это очень хороший вопрос.",
+        "fullAnalysis": "Strategic focus: Nominative with adjective. 1. 'Вопрос' stands in nominative. 2. 'Хороший' agrees masculine singular, a frequent praise formula. 3. 'Это' frames a complete reply to an interlocutor."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-10",
+        "phrase": "Решение по этому вопросу уже принято.",
+        "fullAnalysis": "Strategic focus: Dative with 'по'. 1. 'Вопросу' is dative, governed by 'по' meaning 'regarding'. 2. 'Этому' agrees dative masculine. 3. A bureaucratic collocation for 'on this matter'."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-11",
+        "phrase": "Он сделал всё без лишних вопросов.",
+        "fullAnalysis": "Strategic focus: Genitive plural with 'без'. 1. 'Вопросов' is genitive plural after 'без' (without). 2. 'Лишних' agrees genitive plural, 'extra'. 3. An idiomatic phrase for unquestioning action."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-12",
+        "phrase": "У меня к тебе много вопросов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 1. 'Вопросов' is genitive plural, required after the quantifier 'много'. 2. The construction counts an unspecified large number. 3. A core quantity pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-13",
+        "phrase": "У меня есть вопросы к докладчику.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 1. 'Вопросы' is nominative plural, the existing thing in a 'у меня есть' frame. 2. 'У меня' marks the possessor. 3. A standard 'I have' construction."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-14",
+        "phrase": "Журналисты любят задавать сложные вопросы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 1. 'Вопросы' is accusative plural, equal to nominative for inanimate nouns. 2. 'Сложные' agrees accusative plural. 3. 'Задавать' is the imperfective of posing questions."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-15",
+        "phrase": "Этот вопрос пока остаётся открытым.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental predicate. 1. 'Вопрос' is the nominative subject. 2. 'Остаётся' links it to 'открытым', instrumental. 3. An idiom: 'the question remains open'."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-16",
+        "phrase": "Давайте обсудим этот вопрос вместе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Вопрос' is the direct object of 'обсудить', accusative equal to nominative. 2. 'Этот' agrees masculine accusative. 3. 'Обсудим' is perfective future, first plural."
+      },
+      {
+        "id": "NN-ABSTRACT-VOPROS-17",
+        "phrase": "Мы вернёмся к этому вопросу позже.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 1. 'Вопросу' is dative, the goal after 'к'. 2. 'Вернёмся' marks a return to the topic. 3. 'Позже' is an adverb of time fixing the deferral."
+      }
+    ]
+  }
+]

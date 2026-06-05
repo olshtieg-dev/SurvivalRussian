@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-BODY-GLAZ",
+    "label": "Глаз",
+    "badge": "EYE",
+    "description": "Singular and plural forms of глаз (eye), with adjective agreement and prepositional scenes.",
+    "missions": [
+      {
+        "id": "NN-BODY-GLAZ-01",
+        "phrase": "У неё красивые голубые глаза.",
+        "fullAnalysis": "Strategic focus: Adjective agreement in the nominative plural. 1. 'Глаза' is the nominative plural of 'глаз'. 2. 'Красивые' and 'голубые' take plural endings to agree. 3. A natural way to describe eye colour."
+      },
+      {
+        "id": "NN-BODY-GLAZ-02",
+        "phrase": "У моего брата карие глаза.",
+        "fullAnalysis": "Strategic focus: Adjective agreement in the nominative plural. 1. 'Глаза' is the nominative plural subject. 2. 'Карие' is the plural form used specifically for brown eyes. 3. A fixed collocation worth memorising."
+      },
+      {
+        "id": "NN-BODY-GLAZ-03",
+        "phrase": "У ребёнка большие тёмные глаза.",
+        "fullAnalysis": "Strategic focus: Stacked adjectives in the nominative plural. 1. 'Глаза' is the nominative plural noun. 2. Both 'большие' and 'тёмные' take plural endings to agree. 3. Note the ё in 'тёмные'."
+      },
+      {
+        "id": "NN-BODY-GLAZ-04",
+        "phrase": "У бабушки очень добрые глаза.",
+        "fullAnalysis": "Strategic focus: Adjective agreement in the nominative plural. 1. 'Глаза' is the nominative plural noun. 2. 'Добрые' carries the plural ending to agree. 3. A warm, figurative description of someone's gaze."
+      },
+      {
+        "id": "NN-BODY-GLAZ-05",
+        "phrase": "Он устал и закрыл глаза.",
+        "fullAnalysis": "Strategic focus: Accusative plural as direct object. 1. 'Глаза' is the accusative plural, identical to the nominative here. 2. 'Закрыл' is the past-tense verb governing it. 3. A high-frequency action pattern."
+      },
+      {
+        "id": "NN-BODY-GLAZ-06",
+        "phrase": "Утром она медленно открыла глаза.",
+        "fullAnalysis": "Strategic focus: Accusative plural as direct object. 1. 'Глаза' is the accusative plural object. 2. 'Открыла' is the feminine past-tense verb. 3. Mirrors 'закрыть глаза' as its natural opposite."
+      },
+      {
+        "id": "NN-BODY-GLAZ-07",
+        "phrase": "Посмотри мне прямо в глаза.",
+        "fullAnalysis": "Strategic focus: Accusative plural after the preposition 'в'. 1. 'В глаза' uses the accusative plural to mark direction. 2. 'Посмотри' is the imperative verb of perception. 3. A set idiom for meeting someone's gaze."
+      },
+      {
+        "id": "NN-BODY-GLAZ-08",
+        "phrase": "Эта картина стоит перед глазами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'перед'. 1. 'Глазами' is the instrumental plural form. 2. The preposition 'перед' requires the instrumental case. 3. A common spatial phrase meaning 'before one's eyes'."
+      },
+      {
+        "id": "NN-BODY-GLAZ-09",
+        "phrase": "Я видел это своими глазами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of means. 1. 'Глазами' is the instrumental plural. 2. 'Своими' agrees in instrumental plural. 3. An idiom meaning 'with one's own eyes', i.e. as a witness."
+      },
+      {
+        "id": "NN-BODY-GLAZ-10",
+        "phrase": "У неё были слёзы в глазах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural after 'в'. 1. 'Глазах' is the prepositional plural marking location. 2. 'В' here denotes place, not direction. 3. 'Слёзы' supplies a vivid, idiomatic scene."
+      },
+      {
+        "id": "NN-BODY-GLAZ-11",
+        "phrase": "Мне нравится цвет её глаз.",
+        "fullAnalysis": "Strategic focus: Genitive plural of possession. 1. 'Глаз' is the genitive plural, with a bare-stem ending. 2. It depends on 'цвет' to mean 'the colour of'. 3. A clean example of zero-ending genitive plural."
+      },
+      {
+        "id": "NN-BODY-GLAZ-12",
+        "phrase": "Я не свожу с тебя глаз.",
+        "fullAnalysis": "Strategic focus: Genitive plural under negation. 1. 'Глаз' is the genitive plural after the negated verb. 2. 'Свожу' is the first-person form of 'сводить'. 3. An idiom meaning to stare without looking away."
+      },
+      {
+        "id": "NN-BODY-GLAZ-13",
+        "phrase": "У этого пирата один глаз.",
+        "fullAnalysis": "Strategic focus: Nominative singular with a numeral. 1. 'Глаз' is the nominative singular here. 2. 'Один' agrees as a masculine numeral. 3. Shows the singular base form against the usual plural."
+      },
+      {
+        "id": "NN-BODY-GLAZ-14",
+        "phrase": "Со вчера правый глаз болит.",
+        "fullAnalysis": "Strategic focus: Nominative singular as subject. 1. 'Глаз' is the nominative singular subject. 2. 'Правый' agrees as a masculine singular adjective. 3. 'Болит' is the third-person verb of complaint."
+      },
+      {
+        "id": "NN-BODY-GLAZ-15",
+        "phrase": "У меня соринка в глазу.",
+        "fullAnalysis": "Strategic focus: Prepositional singular after 'в'. 1. 'Глазу' is the special locative prepositional singular. 2. 'В' marks the location inside the eye. 3. A telling exception to the regular '-е' ending."
+      },
+      {
+        "id": "NN-BODY-GLAZ-16",
+        "phrase": "Я плохо вижу левым глазом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular of means. 1. 'Глазом' is the instrumental singular. 2. 'Левым' agrees in instrumental singular. 3. 'Вижу' is the first-person verb of seeing."
+      },
+      {
+        "id": "NN-BODY-GLAZ-17",
+        "phrase": "Я не поверил своим глазам.",
+        "fullAnalysis": "Strategic focus: Dative plural as indirect object. 1. 'Глазам' is the dative plural. 2. 'Своим' agrees in dative plural. 3. 'Поверить' governs the dative, giving the idiom 'believe one's eyes'."
+      },
+      {
+        "id": "NN-BODY-GLAZ-18",
+        "phrase": "От счастья слёзы текут по глазам.",
+        "fullAnalysis": "Strategic focus: Dative plural after 'по'. 1. 'Глазам' is the dative plural required by 'по'. 2. 'Текут' is the third-person plural verb. 3. 'По' here traces movement across a surface."
+      }
+    ]
+  }
+]

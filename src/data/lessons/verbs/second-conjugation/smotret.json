@@ -1,0 +1,110 @@
+[
+  {
+    "id": "VB-SMOTRET",
+    "label": "Смотреть",
+    "badge": "WATCH",
+    "description": "A full conjugation deck for смотреть: present persons, past, future, the high-value imperative смотри, and на+acc government.",
+    "missions": [
+      {
+        "id": "VB-SMOTRET-01",
+        "phrase": "Вечером я смотрю интересный фильм.",
+        "fullAnalysis": "Strategic focus: First-person present. 1. 'Смотрю' is the я-form of смотреть. 2. 'Интересный фильм' is a direct object in the accusative. 3. This is the core pattern смотреть + accusative."
+      },
+      {
+        "id": "VB-SMOTRET-02",
+        "phrase": "Ты часто смотришь телевизор дома.",
+        "fullAnalysis": "Strategic focus: Second-person present. 1. 'Смотришь' is the ты-form. 2. 'Телевизор' is an accusative object. 3. 'Часто' adds frequency to this casual everyday action."
+      },
+      {
+        "id": "VB-SMOTRET-03",
+        "phrase": "Этот мальчик пристально смотрит на меня.",
+        "fullAnalysis": "Strategic focus: Third-person present. 1. 'Смотрит' is the он/она-form. 2. 'На меня' uses смотреть на + accusative meaning to look at. 3. This is a key government pattern."
+      },
+      {
+        "id": "VB-SMOTRET-04",
+        "phrase": "Утром она смотрит в окно.",
+        "fullAnalysis": "Strategic focus: Third-person present with в. 1. 'Смотрит' is the она-form. 2. 'В окно' uses смотреть в + accusative meaning to look into. 3. This trains directional government."
+      },
+      {
+        "id": "VB-SMOTRET-05",
+        "phrase": "Каждый вечер мы смотрим новости.",
+        "fullAnalysis": "Strategic focus: First-person plural. 1. 'Смотрим' is the мы-form. 2. 'Новости' is a plural accusative object. 3. 'Каждый вечер' frames this common daily routine."
+      },
+      {
+        "id": "VB-SMOTRET-06",
+        "phrase": "Сегодня вы смотрите новый спектакль.",
+        "fullAnalysis": "Strategic focus: Polite/plural form. 1. 'Смотрите' is the respectful вы-form. 2. 'Новый спектакль' is an accusative object. 3. This suits a formal cultural setting."
+      },
+      {
+        "id": "VB-SMOTRET-07",
+        "phrase": "Друзья вместе смотрят важный матч.",
+        "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Смотрят' is the они-form. 2. 'Важный матч' is an accusative object. 3. This completes all six present persons."
+      },
+      {
+        "id": "VB-SMOTRET-08",
+        "phrase": "Вчера я смотрел старый фильм.",
+        "fullAnalysis": "Strategic focus: Masculine past. 1. 'Смотрел' is the masculine past of смотреть. 2. 'Вчера' anchors the action in the past. 3. The speaker is male here."
+      },
+      {
+        "id": "VB-SMOTRET-09",
+        "phrase": "Мама долго смотрела на детей.",
+        "fullAnalysis": "Strategic focus: Feminine past. 1. 'Смотрела' is the feminine past. 2. 'На детей' uses смотреть на + accusative. 3. The subject is female."
+      },
+      {
+        "id": "VB-SMOTRET-10",
+        "phrase": "Большое окно смотрело во двор.",
+        "fullAnalysis": "Strategic focus: Neuter past. 1. 'Смотрело' is the neuter past, agreeing with neuter 'окно'. 2. 'Окно смотрело во двор' is a real Russian idiom for a window facing somewhere. 3. This trains rare neuter agreement."
+      },
+      {
+        "id": "VB-SMOTRET-11",
+        "phrase": "В субботу мы смотрели хорошее кино.",
+        "fullAnalysis": "Strategic focus: Plural past. 1. 'Смотрели' is the plural past for any gender mix. 2. 'Кино' is an indeclinable accusative object. 3. This completes the four past forms."
+      },
+      {
+        "id": "VB-SMOTRET-12",
+        "phrase": "Завтра я буду смотреть важный матч.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 1. 'Буду смотреть' is буду plus the infinitive. 2. 'Важный матч' is an accusative object. 3. This expresses an ongoing future action."
+      },
+      {
+        "id": "VB-SMOTRET-13",
+        "phrase": "Смотри, какая яркая радуга!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 1. 'Смотри' is the command form of смотреть. 2. Here it draws attention to something striking. 3. This is a very high-value everyday word."
+      },
+      {
+        "id": "VB-SMOTRET-14",
+        "phrase": "Дети, смотрите сюда внимательно.",
+        "fullAnalysis": "Strategic focus: Plural imperative. 1. 'Смотрите' is the polite/plural command. 2. 'Сюда' means here, as a direction. 3. This is useful for getting attention."
+      },
+      {
+        "id": "VB-SMOTRET-15",
+        "phrase": "Внимательно смотри на дорогу.",
+        "fullAnalysis": "Strategic focus: Imperative with government. 1. 'Смотри' is the singular command. 2. 'На дорогу' uses смотреть на + accusative. 3. This is a real warning to watch the road."
+      },
+      {
+        "id": "VB-SMOTRET-16",
+        "phrase": "Я почти не смотрю телевизор.",
+        "fullAnalysis": "Strategic focus: Negated present. 1. 'Не' negates the verb смотрю. 2. 'Телевизор' stays accusative after a simple negation. 3. This states a habit you barely have."
+      },
+      {
+        "id": "VB-SMOTRET-17",
+        "phrase": "По утрам он смотрит в зеркало.",
+        "fullAnalysis": "Strategic focus: Government with в. 1. 'Смотрит' is the он-form. 2. 'В зеркало' uses смотреть в + accusative. 3. This trains looking into something."
+      },
+      {
+        "id": "VB-SMOTRET-18",
+        "phrase": "Завтра я посмотрю новый фильм.",
+        "fullAnalysis": "Strategic focus: Perfective future. 1. 'Посмотрю' is the perfective посмотреть, signalling a completed action. 2. 'Завтра' sets it in the future. 3. This contrasts with the imperfective."
+      },
+      {
+        "id": "VB-SMOTRET-19",
+        "phrase": "Посмотри на это красивое здание.",
+        "fullAnalysis": "Strategic focus: Perfective imperative. 1. 'Посмотри' is the perfective command. 2. 'На это' uses смотреть на + accusative meaning at this. 3. This asks for a quick single look."
+      },
+      {
+        "id": "VB-SMOTRET-20",
+        "phrase": "Скоро она посмотрит в окно.",
+        "fullAnalysis": "Strategic focus: Perfective third-person. 1. 'Посмотрит' is the perfective future она-form. 2. 'В окно' uses смотреть в + accusative. 3. This implies one glance, not a process."
+      }
+    ]
+  }
+]

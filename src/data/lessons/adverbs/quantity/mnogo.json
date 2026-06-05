@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-QUANTITY-MNOGO",
+    "label": "Много",
+    "badge": "A LOT",
+    "description": "A 10-sentence usage card for много (much; many; a lot).",
+    "missions": [
+      {
+        "id": "AD-QUANTITY-MNOGO-01",
+        "phrase": "У меня много работы сегодня.",
+        "fullAnalysis": "Strategic focus: Quantity with genitive. 'Много' takes the genitive complement 'работы' to mean a large amount of work. This is the core pattern: 'много' plus a genitive noun expresses abundance."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-02",
+        "phrase": "Он очень много работает.",
+        "fullAnalysis": "Strategic focus: Modifying a verb. Here 'много' attaches directly to the verb 'работает' to mean he works a great deal. With verbs it needs no genitive noun and is often intensified by 'очень'."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-03",
+        "phrase": "В городе много людей.",
+        "fullAnalysis": "Strategic focus: Counting people. 'Много' governs the genitive plural 'людей' to state that there are many people. The pattern 'много' plus genitive plural is standard for countable nouns."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-04",
+        "phrase": "Я читаю много книг.",
+        "fullAnalysis": "Strategic focus: Object quantity in genitive. 'Много книг' is the object of 'читаю', with 'книг' in the genitive plural after 'много'. It shows large quantity rather than a definite number."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-05",
+        "phrase": "У нас было много времени.",
+        "fullAnalysis": "Strategic focus: Quantity in the past. 'Много времени' uses the genitive singular 'времени' to mean plenty of time. The neuter past 'было' agrees with the quantity expression, which behaves as neuter."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-06",
+        "phrase": "Она много путешествует по миру.",
+        "fullAnalysis": "Strategic focus: Frequency through quantity. 'Много' modifies 'путешествует' to mean she travels a lot. With a verb it conveys high frequency or extent without any genitive complement."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-07",
+        "phrase": "На столе много вкусной еды.",
+        "fullAnalysis": "Strategic focus: Genitive of an uncountable. 'Много' takes the genitive 'вкусной еды' to describe a lot of tasty food. With mass nouns it pairs with the genitive singular, including any agreeing adjective."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-08",
+        "phrase": "Мы много говорили вчера.",
+        "fullAnalysis": "Strategic focus: Verb modification in the past. 'Много' attaches to 'говорили' to mean we talked a great deal yesterday. Placed before the verb, it measures the extent of the action."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-09",
+        "phrase": "У него много друзей в школе.",
+        "fullAnalysis": "Strategic focus: Possession of many. 'Много друзей' uses the genitive plural 'друзей' in a possession frame with 'у него'. It states that he has a large number of friends."
+      },
+      {
+        "id": "AD-QUANTITY-MNOGO-10",
+        "phrase": "Это слишком много для меня.",
+        "fullAnalysis": "Strategic focus: Standalone excess. 'Много' stands alone as a predicate meaning 'a lot', intensified by 'слишком' to mean too much. No genitive noun is needed when the amount is clear from context."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-DAVNO",
+    "label": "Давно",
+    "badge": "LONGAGO",
+    "description": "A 10-sentence usage card for давно (long ago; for a long time).",
+    "missions": [
+      {
+        "id": "AD-TIME-DAVNO-01",
+        "phrase": "Я давно тебя не видел.",
+        "fullAnalysis": "Strategic focus: For a long time with negation. With 'не видел' the adverb 'давно' means for a long time up to now, stressing a gap since the last meeting. It is the core of the everyday greeting about not having met."
+      },
+      {
+        "id": "AD-TIME-DAVNO-02",
+        "phrase": "Это было очень давно.",
+        "fullAnalysis": "Strategic focus: Long ago in the past. With a past verb 'давно' means long ago, placing the event far back in time. Here 'очень' intensifies just how distant it was."
+      },
+      {
+        "id": "AD-TIME-DAVNO-03",
+        "phrase": "Мы давно знаем друг друга.",
+        "fullAnalysis": "Strategic focus: For a long time and ongoing. With a present-tense verb 'давно' means for a long time and still, covering a span that continues now. The acquaintance began long ago and persists."
+      },
+      {
+        "id": "AD-TIME-DAVNO-04",
+        "phrase": "Как давно ты здесь живёшь?",
+        "fullAnalysis": "Strategic focus: How long. The question 'как давно' asks for how long an ongoing situation has lasted. With a present verb it inquires about duration up to the present."
+      },
+      {
+        "id": "AD-TIME-DAVNO-05",
+        "phrase": "Я давно хотел тебе сказать это.",
+        "fullAnalysis": "Strategic focus: For a long time with intention. Here 'давно хотел' means have wanted for a long time, a desire held over a stretch leading to now. It often introduces something finally being said."
+      },
+      {
+        "id": "AD-TIME-DAVNO-06",
+        "phrase": "Поезд давно ушёл.",
+        "fullAnalysis": "Strategic focus: Long since done. With a perfective past 'давно' stresses that the departure happened well in the past. It conveys that the event is firmly over."
+      },
+      {
+        "id": "AD-TIME-DAVNO-07",
+        "phrase": "Ты давно ждёшь?",
+        "fullAnalysis": "Strategic focus: Long in a question. 'Давно' asks whether the waiting has gone on for a while up to now. With the present ждёшь it covers a continuing action."
+      },
+      {
+        "id": "AD-TIME-DAVNO-08",
+        "phrase": "Давно пора начинать.",
+        "fullAnalysis": "Strategic focus: Long overdue. In the impersonal phrase 'давно пора' the adverb means it is high time, something should have started long ago. It expresses mild urgency or impatience."
+      },
+      {
+        "id": "AD-TIME-DAVNO-09",
+        "phrase": "Они давно живут в этом городе.",
+        "fullAnalysis": "Strategic focus: For a long time and still. With a present verb 'давно' marks living that began long ago and continues. The span reaches from the past into the present."
+      },
+      {
+        "id": "AD-TIME-DAVNO-10",
+        "phrase": "Я уже давно всё понял.",
+        "fullAnalysis": "Strategic focus: Long since with уже. Combined with 'уже' the adverb 'давно' stresses that understanding came a long time ago. Together they underline that this is old news to the speaker."
+      }
+    ]
+  }
+]

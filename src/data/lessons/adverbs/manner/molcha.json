@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-MOLCHA",
+    "label": "Молча",
+    "badge": "SILENT",
+    "description": "A 10-sentence usage card for молча (silently, without speaking).",
+    "missions": [
+      {
+        "id": "AD-MANNER-MOLCHA-01",
+        "phrase": "Он молча вышел из комнаты.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Молча' modifies 'вышел', telling us he left without saying a word. Placed before the verb, it is a vivid manner adverb describing silence in action."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-02",
+        "phrase": "Она молча слушала его рассказ.",
+        "fullAnalysis": "Strategic focus: Silent attention. 'Молча' modifies 'слушала', showing she listened without interrupting. The adverb stresses her quiet, attentive manner."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-03",
+        "phrase": "Мы молча сидели за столом.",
+        "fullAnalysis": "Strategic focus: Shared silence. 'Молча' modifies 'сидели', describing a wordless scene at the table. The adverb conveys an unspoken mood among the group."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-04",
+        "phrase": "Он молча кивнул в ответ.",
+        "fullAnalysis": "Strategic focus: Wordless reply. 'Молча' modifies 'кивнул', showing he answered with a nod instead of speech. It pairs naturally with gestures that replace words."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-05",
+        "phrase": "Дети молча смотрели на учителя.",
+        "fullAnalysis": "Strategic focus: Quiet observation. 'Молча' modifies 'смотрели', painting the children as watching in silence. The adverb adds tension or focus to the gaze."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-06",
+        "phrase": "Она молча взяла свою сумку.",
+        "fullAnalysis": "Strategic focus: Silent action. 'Молча' modifies 'взяла', showing she picked up the bag without comment. The adverb often hints at emotion held back."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-07",
+        "phrase": "Они молча шли домой вместе.",
+        "fullAnalysis": "Strategic focus: Silent motion. 'Молча' modifies 'шли', describing a quiet walk home. Combined with 'вместе', it suggests a thoughtful, unspoken companionship."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-08",
+        "phrase": "Я молча согласился с ним.",
+        "fullAnalysis": "Strategic focus: Tacit agreement. 'Молча' modifies 'согласился', meaning the agreement was given without words. The adverb expresses consent shown only by manner."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-09",
+        "phrase": "Не сиди молча, скажи что-нибудь.",
+        "fullAnalysis": "Strategic focus: Negated silence. 'Молча' modifies 'сиди' in a command not to stay silent. The contrast with 'скажи' urges the listener to finally speak up."
+      },
+      {
+        "id": "AD-MANNER-MOLCHA-10",
+        "phrase": "Бабушка молча читала свою газету.",
+        "fullAnalysis": "Strategic focus: Quiet routine. 'Молча' modifies 'читала', describing the grandmother reading without a sound. The adverb sets a calm, settled domestic scene."
+      }
+    ]
+  }
+]

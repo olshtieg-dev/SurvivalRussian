@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-SLISHKOM",
+    "label": "Слишком",
+    "badge": "TOO",
+    "description": "A 10-sentence usage card for слишком (too, excessively).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-SLISHKOM-01",
+        "phrase": "Этот кофе слишком горький.",
+        "fullAnalysis": "Strategic focus: Excess with an adjective. 'Слишком' means too or excessively, marking 'горький' as beyond the acceptable level. It precedes the adjective to signal an unwanted excess."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-02",
+        "phrase": "Ты говоришь слишком быстро.",
+        "fullAnalysis": "Strategic focus: Excess with an adverb. 'Слишком' scales 'быстро' to mean too fast. It precedes the manner adverb to mark the speed as more than is comfortable."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-03",
+        "phrase": "Здесь слишком много людей.",
+        "fullAnalysis": "Strategic focus: Excess of quantity. 'Слишком' combines with 'много' to mean too many. It precedes the quantity word to flag an amount past what is wanted."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-04",
+        "phrase": "Эта сумка слишком тяжёлая.",
+        "fullAnalysis": "Strategic focus: Excess as a problem. 'Слишком' marks 'тяжёлая' as too heavy to manage. The adverb implies a negative consequence beyond the limit."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-05",
+        "phrase": "Он слишком устал, чтобы идти.",
+        "fullAnalysis": "Strategic focus: Too plus a result clause. 'Слишком' before 'устал' pairs with 'чтобы' to mean too tired to go. This frame expresses excess that blocks an action."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-06",
+        "phrase": "Не ешь слишком много сладкого.",
+        "fullAnalysis": "Strategic focus: Excess in a warning. 'Слишком много' before 'сладкого' means too much sweet food. The adverb marks the amount as harmful when exceeded."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-07",
+        "phrase": "Платье слишком дорогое для меня.",
+        "fullAnalysis": "Strategic focus: Excess against a standard. 'Слишком' lifts 'дорогое' past the affordable point, meaning too expensive. It precedes the adjective to mark the overshoot."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-08",
+        "phrase": "Ты слишком много работаешь.",
+        "fullAnalysis": "Strategic focus: Excessive degree of a verb. 'Слишком много' scales 'работаешь' to mean work too much. The pair marks the amount of activity as excessive."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-09",
+        "phrase": "На улице слишком шумно.",
+        "fullAnalysis": "Strategic focus: Excess in an impersonal state. 'Слишком' intensifies the predicative 'шумно' to mean too noisy. It precedes the state word in the impersonal frame."
+      },
+      {
+        "id": "AD-DEGREE-SLISHKOM-10",
+        "phrase": "Это слишком сложно для новичка.",
+        "fullAnalysis": "Strategic focus: Excess relative to ability. 'Слишком' marks 'сложно' as too difficult for a beginner. The adverb signals the difficulty exceeds what the person can handle."
+      }
+    ]
+  }
+]

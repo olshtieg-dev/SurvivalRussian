@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-POL",
+    "label": "Пол",
+    "badge": "FLOOR",
+    "description": "Russian noun 'пол' (floor): full case ladder with the stressed -у́ locative 'на полу́', adjective agreement, and accusative motion. Not to be confused with 'поле' (field).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-POL-01",
+        "phrase": "В нашей комнате тёплый деревянный пол.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Пол' is masculine nominative singular, the floor named. 2. 'Тёплый деревянный' are adjectives agreeing in masculine nominative. 3. Useful for describing room surfaces."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-02",
+        "phrase": "На кухне всегда чистый пол.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Чистый пол' pairs a masculine nominative adjective with the noun. 2. 'На кухне' adds prepositional location. 3. Good for describing a clean home."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-03",
+        "phrase": "Каждое утро мама моет пол.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Пол' is accusative singular, identical to nominative for this inanimate masculine noun. 2. 'Моет' is the verb taking the object. 3. Common chore phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-04",
+        "phrase": "Малыш споткнулся и упал на пол.",
+        "fullAnalysis": "Strategic focus: Accusative of motion. 1. 'На пол' uses accusative after 'на' to mark movement onto a surface. 2. Contrast with locative 'на полу́' for static position. 3. Describes falling down."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-05",
+        "phrase": "Рыжая кошка спит на полу.",
+        "fullAnalysis": "Strategic focus: Locative -у́. 1. 'На полу́' is the stressed locative singular, not the regular prepositional 'о поле'. 2. It marks static location on the floor. 3. Distinct from 'поле' (field)."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-06",
+        "phrase": "Детские игрушки лежат на полу.",
+        "fullAnalysis": "Strategic focus: Locative -у́. 1. 'На полу́' takes the stressed locative ending for position. 2. 'Игрушки лежат' is the plural subject and verb. 3. A typical scene of toys on the floor."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-07",
+        "phrase": "Мы сидим на полу все вместе.",
+        "fullAnalysis": "Strategic focus: Locative -у́. 1. 'На полу́' again uses the stressed locative for static location. 2. 'Сидим' marks first-person plural. 3. Reinforces the special -у ending after 'на'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-08",
+        "phrase": "Цвет пола в комнате очень светлый.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Пола' is genitive singular, naming the floor's attribute. 2. 'Цвет пола' means 'the colour of the floor'. 3. Genitive links the two nouns."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-09",
+        "phrase": "Край пола у стены немного потёрся.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Пола' is genitive singular after 'край'. 2. 'У стены' adds another genitive of location. 3. Describes where the floor edge meets the wall."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-10",
+        "phrase": "Подними книгу с пола, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Genitive after 'с'. 1. 'С пола' is genitive singular marking movement off a surface. 2. 'Подними книгу' is an imperative with accusative object. 3. Common 'pick up from the floor' phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-11",
+        "phrase": "По полу медленно ползёт большой жук.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 1. 'Полу' is dative singular after 'по', marking motion across a surface. 2. 'Ползёт жук' is the verb and subject. 3. Describes a beetle crawling along the floor."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-12",
+        "phrase": "Иди по полу очень тихо.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 1. 'По полу' takes dative singular to mean 'along the floor'. 2. 'Иди тихо' is an imperative with adverb. 3. Reinforces 'по' plus dative for path."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-13",
+        "phrase": "Под полом проходит старая труба.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'под'. 1. 'Полом' is instrumental singular after 'под', meaning 'under the floor'. 2. 'Проходит труба' states what is there. 3. Useful for describing hidden plumbing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-14",
+        "phrase": "Над полом висит яркая лампа.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 1. 'Полом' is instrumental singular after 'над', meaning 'above the floor'. 2. 'Висит лампа' is the verb and subject. 3. Builds spatial vocabulary."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-15",
+        "phrase": "В полу появилась большая щель.",
+        "fullAnalysis": "Strategic focus: Locative -у́ after 'в'. 1. 'В полу́' uses the stressed locative for position inside the floor structure. 2. 'Большая щель' is the nominative subject. 3. Describes a gap in the floorboards."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-16",
+        "phrase": "Мы часто вспоминаем о поле дома.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 1. 'О поле' is the regular prepositional singular used for 'about', distinct from the locative 'на полу́'. 2. 'Мы вспоминаем' is subject and verb. 3. Shows the non-locative ending."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-17",
+        "phrase": "Полы здесь зимой очень холодные.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Полы' is the nominative plural of 'пол'. 2. 'Холодные' is a plural adjective agreeing with it. 3. Useful when speaking of all the floors in a place."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POL-18",
+        "phrase": "Новым полом я очень доволен.",
+        "fullAnalysis": "Strategic focus: Instrumental of content. 1. 'Полом' is instrumental singular required by 'доволен' (pleased with). 2. 'Новым' is an instrumental adjective agreeing with it. 3. Common pattern for satisfaction."
+      }
+    ]
+  }
+]

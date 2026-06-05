@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-VOKRUG",
+    "label": "Вокруг",
+    "badge": "AROUND",
+    "description": "A 10-sentence usage card for вокруг (around, all around).",
+    "missions": [
+      {
+        "id": "AD-PLACE-VOKRUG-01",
+        "phrase": "Вокруг было очень тихо.",
+        "fullAnalysis": "Strategic focus: All-around surroundings. 'Вокруг' means all around and works as an adverb here, describing the silence on every side. Standing alone, it paints the whole environment rather than one fixed point."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-02",
+        "phrase": "Дети весело бегали вокруг.",
+        "fullAnalysis": "Strategic focus: Circular motion. 'Вокруг' modifies 'бегали' to show the children running round and round. As a bare adverb it marks movement encircling the area."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-03",
+        "phrase": "Он удивлённо огляделся вокруг.",
+        "fullAnalysis": "Strategic focus: Looking all around. 'Вокруг' modifies 'огляделся' to show the gaze sweeping in every direction. The adverb captures a full visual scan of the surroundings."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-04",
+        "phrase": "Земля вращается вокруг солнца.",
+        "fullAnalysis": "Strategic focus: Orbiting motion. Here 'вокруг' acts as a preposition taking the genitive 'солнца', meaning around the sun. It marks a path that circles a central object."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-05",
+        "phrase": "Вокруг дома растут высокие деревья.",
+        "fullAnalysis": "Strategic focus: Encircling location. 'Вокруг' is a preposition with the genitive 'дома', meaning around the house. It places the trees on all sides of a fixed central point."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-06",
+        "phrase": "Посмотри, как красиво вокруг!",
+        "fullAnalysis": "Strategic focus: Admiring the surroundings. 'Вокруг' is a bare adverb naming everything on every side. Paired with 'красиво', it turns the whole environment into the thing being praised."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-07",
+        "phrase": "Туристы собрались вокруг гида.",
+        "fullAnalysis": "Strategic focus: Gathering in a ring. 'Вокруг' is a preposition with the genitive 'гида', meaning around the guide. It shows the tourists forming a circle about the central figure."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-08",
+        "phrase": "Кот тихо ходит вокруг стола.",
+        "fullAnalysis": "Strategic focus: Circling an object. 'Вокруг' is a preposition taking the genitive 'стола', meaning around the table. It marks the cat's path tracing a loop about it."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-09",
+        "phrase": "Вокруг не было ни души.",
+        "fullAnalysis": "Strategic focus: Empty surroundings. 'Вокруг' is a bare adverb describing the whole area, here completely deserted. It frames the emptiness extending in all directions."
+      },
+      {
+        "id": "AD-PLACE-VOKRUG-10",
+        "phrase": "Мы обошли вокруг озера пешком.",
+        "fullAnalysis": "Strategic focus: Going all the way around. 'Вокруг' is a preposition with the genitive 'озера', meaning around the lake. With 'обошли' it shows a full circuit on foot."
+      }
+    ]
+  }
+]

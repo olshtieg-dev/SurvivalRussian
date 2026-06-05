@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-MOTION-GOROD",
+    "label": "Город",
+    "badge": "CITY",
+    "description": "The noun город (city/town) through its full case ladder, contrasting location and motion and stepping into the stressed plural.",
+    "missions": [
+      {
+        "id": "NN-MOTION-GOROD-01",
+        "phrase": "Это мой родной город.",
+        "fullAnalysis": "Strategic focus: Naming the noun. 1. 'Город' stands in the nominative as the subject. 2. 'Мой' and 'родной' agree as masculine singular. 3. A clean nominative baseline before the cases shift."
+      },
+      {
+        "id": "NN-MOTION-GOROD-02",
+        "phrase": "Я очень люблю этот город.",
+        "fullAnalysis": "Strategic focus: Direct object. 1. 'Город' is accusative here, the thing loved. 2. For this inanimate masculine noun the accusative matches the nominative. 3. 'Люблю' takes a plain object."
+      },
+      {
+        "id": "NN-MOTION-GOROD-03",
+        "phrase": "Мы живём в центре города.",
+        "fullAnalysis": "Strategic focus: Possessive genitive. 1. 'Города' is genitive, marking belonging — 'the centre of the city'. 2. Genitive after a noun of part or whole is very common. 3. Note 'в центре' is a static location."
+      },
+      {
+        "id": "NN-MOTION-GOROD-04",
+        "phrase": "Мы медленно идём к городу.",
+        "fullAnalysis": "Strategic focus: Dative goal. 1. 'Городу' is dative after 'к', the target approached. 2. 'Идём' shows motion toward. 3. Dative with 'к' marks direction without entry into the space."
+      },
+      {
+        "id": "NN-MOTION-GOROD-05",
+        "phrase": "Самолёт летит над городом.",
+        "fullAnalysis": "Strategic focus: Instrumental position. 1. 'Городом' is instrumental after 'над', meaning 'above the city'. 2. Spatial 'над' always selects the instrumental. 3. A static position, not motion into."
+      },
+      {
+        "id": "NN-MOTION-GOROD-06",
+        "phrase": "Я давно живу в этом городе.",
+        "fullAnalysis": "Strategic focus: Static location. 1. 'В городе' is prepositional, the place where one lives. 2. 'В' plus prepositional answers 'where?'. 3. This is the core location pattern for город."
+      },
+      {
+        "id": "NN-MOTION-GOROD-07",
+        "phrase": "Завтра мы едем в город.",
+        "fullAnalysis": "Strategic focus: Motion into. 1. 'В город' is accusative after 'в', the destination entered. 2. Contrast with 'в городе': accusative answers 'where to?'. 3. Same preposition, different case, different meaning."
+      },
+      {
+        "id": "NN-MOTION-GOROD-08",
+        "phrase": "Он только что приехал из города.",
+        "fullAnalysis": "Strategic focus: Origin point. 1. 'Из города' is genitive after 'из', the source left behind. 2. 'Из' pairs with the genitive for motion out of. 3. This mirrors the entry phrase 'в город'."
+      },
+      {
+        "id": "NN-MOTION-GOROD-09",
+        "phrase": "Мы долго гуляли по городу.",
+        "fullAnalysis": "Strategic focus: Motion around. 1. 'По городу' is dative after 'по', movement across an area. 2. 'Гуляли' means strolling through. 3. 'По' plus dative spreads the action over the space."
+      },
+      {
+        "id": "NN-MOTION-GOROD-10",
+        "phrase": "У нас есть дом за городом.",
+        "fullAnalysis": "Strategic focus: Out of town. 1. 'За городом' is instrumental, an idiom meaning outside the city. 2. 'За' plus instrumental marks a static position beyond. 3. A fixed everyday collocation."
+      },
+      {
+        "id": "NN-MOTION-GOROD-11",
+        "phrase": "Москва — очень большой город.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Город' is the nominative predicate noun. 2. 'Большой' agrees as masculine singular nominative. 3. The hard adjective ending matches the noun's form."
+      },
+      {
+        "id": "NN-MOTION-GOROD-12",
+        "phrase": "Это мой любимый родной город.",
+        "fullAnalysis": "Strategic focus: Layered modifiers. 1. 'Город' stays nominative. 2. 'Любимый' and 'родной' both agree as masculine singular. 3. Two agreeing words stack before one noun head."
+      },
+      {
+        "id": "NN-MOTION-GOROD-13",
+        "phrase": "В России есть красивые города.",
+        "fullAnalysis": "Strategic focus: Stressed plural. 1. 'Города́' is nominative plural with a shifted, stressed ending -а́, worth flagging. 2. 'Красивые' agrees as plural. 3. Many masculine nouns take this -а́ plural."
+      },
+      {
+        "id": "NN-MOTION-GOROD-14",
+        "phrase": "Я видел много разных городов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Городо́в' is genitive plural after 'много', a quantity word. 2. The ending -ов is the hard-stem masculine default. 3. 'Много' always governs the genitive."
+      },
+      {
+        "id": "NN-MOTION-GOROD-15",
+        "phrase": "В нашем городе всегда тихо.",
+        "fullAnalysis": "Strategic focus: Located scene. 1. 'В городе' is prepositional, the setting. 2. 'Нашем' agrees as masculine singular prepositional. 3. 'Тихо' completes a small, calm located scene."
+      },
+      {
+        "id": "NN-MOTION-GOROD-16",
+        "phrase": "Дай мне карту города, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Genitive of reference. 1. 'Города' is genitive — 'the map of the city'. 2. A noun pairs with a following genitive to show relation. 3. A practical, high-frequency phrase."
+      },
+      {
+        "id": "NN-MOTION-GOROD-17",
+        "phrase": "Вечером он вернулся в город.",
+        "fullAnalysis": "Strategic focus: Return motion. 1. 'В город' is accusative, the place re-entered. 2. 'Вернулся' reinforces motion toward an enclosed space. 3. Echoes the entry contrast with 'в городе'."
+      }
+    ]
+  }
+]

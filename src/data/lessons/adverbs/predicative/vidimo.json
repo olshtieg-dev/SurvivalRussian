@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-VIDIMO",
+    "label": "Видимо",
+    "badge": "SEEMS",
+    "description": "A 10-sentence usage card for видимо (apparently / evidently).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-01",
+        "phrase": "Видимо, он не придёт.",
+        "fullAnalysis": "Strategic focus: Parenthetical inference. 'Видимо' is a modal word meaning apparently, framing the clause as a conclusion drawn from evidence. Set off by a comma, it marks the speaker's reasoned guess that he will not come."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-02",
+        "phrase": "Магазин видимо уже закрыт.",
+        "fullAnalysis": "Strategic focus: Evidential within a clause. 'Видимо' sits inside the sentence to mark an inference, signalling evidently. The short adjective 'закрыт' states the apparent fact that the shop is closed."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-03",
+        "phrase": "Видимо, мы пошли не туда.",
+        "fullAnalysis": "Strategic focus: Realising a mistake. 'Видимо' frames the dawning conclusion, and the past 'пошли' with 'не туда' states that the group apparently went the wrong way. A natural realisation phrase."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-04",
+        "phrase": "Она видимо очень занята.",
+        "fullAnalysis": "Strategic focus: Inferring a state. 'Видимо' marks the judgement as based on signs, framing 'занята' as something deduced rather than known directly. A measured way to suppose she is busy."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-05",
+        "phrase": "Видимо, было поздно звонить.",
+        "fullAnalysis": "Strategic focus: Inference about a past condition. 'Видимо' frames the conclusion, while 'было поздно' is itself a past impersonal predicative with the infinitive 'звонить'. Together they reason that it had apparently been too late to call."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-06",
+        "phrase": "Поезд видимо опоздал.",
+        "fullAnalysis": "Strategic focus: Drawing a conclusion from absence. 'Видимо' marks the inference, and the past 'опоздал' states the deduced fact that the train was apparently late. A compact evidential statement."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-07",
+        "phrase": "Видимо, ему не понравилось.",
+        "fullAnalysis": "Strategic focus: Reading a reaction. 'Видимо' frames the conclusion, and the impersonal 'понравилось' with the dative 'ему' means he apparently did not like it. The negation 'не' carries the judgement."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-08",
+        "phrase": "Они видимо забыли о встрече.",
+        "fullAnalysis": "Strategic focus: Inferring forgetfulness. 'Видимо' marks the deduction, and the past 'забыли' with 'о встрече' in the prepositional case states that they apparently forgot about the meeting."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-09",
+        "phrase": "Видимо, придётся ждать.",
+        "fullAnalysis": "Strategic focus: Inferred necessity. 'Видимо' frames the resigned conclusion, and the impersonal future 'придётся' with the infinitive 'ждать' states that waiting will apparently be unavoidable."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDIMO-10",
+        "phrase": "Свет видимо отключили.",
+        "fullAnalysis": "Strategic focus: Explaining a situation. 'Видимо' marks the inference, and the impersonal past 'отключили' states that the power was apparently cut off. A common way to reason about a sudden blackout."
+      }
+    ]
+  }
+]

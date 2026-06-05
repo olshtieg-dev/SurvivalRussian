@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-DAZHE",
+    "label": "Даже",
+    "badge": "EVEN",
+    "description": "A 10-sentence usage card for даже (even).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-DAZHE-01",
+        "phrase": "Даже дети знают эту песню.",
+        "fullAnalysis": "Strategic focus: Marking an unexpected case. 'Даже' is a focus particle meaning even, signalling that the next item is surprising. It stands directly before 'дети', the unlikely group it highlights."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-02",
+        "phrase": "Он даже не позвонил мне.",
+        "fullAnalysis": "Strategic focus: Even with negation. Here 'даже' scales down expectation before the negated verb, meaning he did not even call. It pairs naturally with 'не' to express disappointment."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-03",
+        "phrase": "Здесь холодно даже летом.",
+        "fullAnalysis": "Strategic focus: Highlighting a time. 'Даже' marks 'летом' as the surprising case, since cold in summer is unexpected. The particle sits right before the word it foregrounds."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-04",
+        "phrase": "Я могу даже петь по-русски.",
+        "fullAnalysis": "Strategic focus: Even with an ability. 'Даже' raises the surprise around the verb 'петь', presenting singing in Russian as an impressive extra. It precedes the highlighted action."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-05",
+        "phrase": "Это знает даже маленький ребёнок.",
+        "fullAnalysis": "Strategic focus: End-position focus. 'Даже' attaches to 'маленький ребёнок' at the end of the sentence, stressing how obvious the fact is. Placement before the noun phrase carries the emphasis."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-06",
+        "phrase": "Он работает даже в выходные.",
+        "fullAnalysis": "Strategic focus: Surprising circumstance. 'Даже' flags 'в выходные' as beyond the normal expectation of working days. The particle stands just before the prepositional phrase it scales."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-07",
+        "phrase": "Даже я не понимаю это.",
+        "fullAnalysis": "Strategic focus: Self-emphasis. 'Даже' before 'я' presents the speaker as the least likely person to fail, heightening the point. Fronting the particle gives it strong emphasis."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-08",
+        "phrase": "Она прочитала книгу даже дважды.",
+        "fullAnalysis": "Strategic focus: Scaling a quantity. 'Даже' intensifies 'дважды', framing two readings as surprisingly many. The particle precedes the number expression it highlights."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-09",
+        "phrase": "Мне даже стало немного грустно.",
+        "fullAnalysis": "Strategic focus: Even with an emotional state. 'Даже' marks the appearance of sadness as unexpected within the impersonal 'мне стало грустно' frame. It sits before the predicative state."
+      },
+      {
+        "id": "AD-DEGREE-DAZHE-10",
+        "phrase": "Он купил даже самый дорогой билет.",
+        "fullAnalysis": "Strategic focus: Highlighting an extreme. 'Даже' stresses 'самый дорогой', presenting the most expensive ticket as the surprising choice. The particle leads the noun phrase it foregrounds."
+      }
+    ]
+  }
+]

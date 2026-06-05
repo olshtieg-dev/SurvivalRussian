@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-YASNO",
+    "label": "Ясно",
+    "badge": "CLEARLY",
+    "description": "A 10-sentence usage card for ясно (clearly, it's clear, got it).",
+    "missions": [
+      {
+        "id": "AD-MANNER-YASNO-01",
+        "phrase": "Он ясно объяснил новое правило.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Ясно' modifies 'объяснил', describing a clear, easy-to-follow explanation. Before the verb, it judges the clarity of the action."
+      },
+      {
+        "id": "AD-MANNER-YASNO-02",
+        "phrase": "Ясно, я всё понял.",
+        "fullAnalysis": "Strategic focus: Acknowledgement. Used alone, 'ясно' means 'got it' or 'I see', confirming understanding. It is an extremely common one-word reply in conversation."
+      },
+      {
+        "id": "AD-MANNER-YASNO-03",
+        "phrase": "Теперь всё стало ясно.",
+        "fullAnalysis": "Strategic focus: Impersonal predicative. Here 'ясно' is the predicate after 'стало', meaning everything became clear. There is no subject, just a shift into understanding."
+      },
+      {
+        "id": "AD-MANNER-YASNO-04",
+        "phrase": "Мне не совсем ясно, что делать.",
+        "fullAnalysis": "Strategic focus: Predicative with dative. 'Ясно' is the predicate paired with the dative 'мне', meaning it is not fully clear to me. The dative names who lacks clarity."
+      },
+      {
+        "id": "AD-MANNER-YASNO-05",
+        "phrase": "Говори ясно и не спеши.",
+        "fullAnalysis": "Strategic focus: Imperative manner. 'Ясно' modifies the command 'говори', urging clear speech. It pairs naturally with advice about being understood."
+      },
+      {
+        "id": "AD-MANNER-YASNO-06",
+        "phrase": "Сегодня небо совершенно ясно.",
+        "fullAnalysis": "Strategic focus: Weather predicative. 'Ясно' describes a clear, cloudless sky, intensified by 'совершенно'. This is the standard impersonal way to report bright weather."
+      },
+      {
+        "id": "AD-MANNER-YASNO-07",
+        "phrase": "Ясно ли тебе моё объяснение?",
+        "fullAnalysis": "Strategic focus: Question with particle. 'Ясно' fronts the question and pairs with 'ли' to ask whether the explanation was clear, with 'тебе' as the dative addressee. A polite check for comprehension."
+      },
+      {
+        "id": "AD-MANNER-YASNO-08",
+        "phrase": "Я ясно вижу твою проблему.",
+        "fullAnalysis": "Strategic focus: Manner of perception. 'Ясно' modifies 'вижу', meaning I see the issue clearly. The adverb stresses a sharp, distinct understanding."
+      },
+      {
+        "id": "AD-MANNER-YASNO-09",
+        "phrase": "Ясно, что он очень устал.",
+        "fullAnalysis": "Strategic focus: Predicative with clause. 'Ясно' is the impersonal predicate governing a 'что' clause, meaning it is obvious that he is tired. The construction draws a clear conclusion."
+      },
+      {
+        "id": "AD-MANNER-YASNO-10",
+        "phrase": "Напиши свой адрес ясно и чётко.",
+        "fullAnalysis": "Strategic focus: Stacked manner adverbs. 'Ясно' modifies 'напиши', joined by 'и' to 'чётко' for emphasis. Together they urge writing the address legibly and distinctly."
+      }
+    ]
+  }
+]

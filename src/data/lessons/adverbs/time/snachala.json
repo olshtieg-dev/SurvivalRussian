@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-SNACHALA",
+    "label": "Сначала",
+    "badge": "FIRST",
+    "description": "A 10-sentence usage card for сначала (at first, first of all, from the start).",
+    "missions": [
+      {
+        "id": "AD-TIME-SNACHALA-01",
+        "phrase": "Сначала вымой руки, потом ешь.",
+        "fullAnalysis": "Strategic focus: First step in order. 'Сначала' marks the opening action in a sequence, paired with 'потом'. It tells the listener which thing must happen before the rest."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-02",
+        "phrase": "Сначала было трудно, потом легче.",
+        "fullAnalysis": "Strategic focus: Initial state changing. 'Сначала' contrasts an early condition with a later one. Here it sets up the impersonal predicate 'трудно' against the later 'легче'."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-03",
+        "phrase": "Давай начнём всё сначала.",
+        "fullAnalysis": "Strategic focus: From the very beginning. In the set phrase 'начать сначала', the adverb means to start over from the start. It modifies 'начнём' and is extremely common in speech."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-04",
+        "phrase": "Что мы сделаем сначала?",
+        "fullAnalysis": "Strategic focus: Asking the first step. In a question 'сначала' asks which action comes first. It modifies the future verb 'сделаем' and sits at the end here."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-05",
+        "phrase": "Сначала прочитай задание внимательно.",
+        "fullAnalysis": "Strategic focus: Priority instruction. 'Сначала' fronts an imperative to stress what should be done before anything else. It modifies 'прочитай' with a clear ordering force."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-06",
+        "phrase": "Я сначала не поверил ему.",
+        "fullAnalysis": "Strategic focus: Initial reaction. 'Сначала' marks a first attitude that later changed, modifying 'не поверил'. It implies an unstated reversal of belief over time."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-07",
+        "phrase": "Сначала подумай о последствиях.",
+        "fullAnalysis": "Strategic focus: Think before acting. 'Сначала' fronts the imperative 'подумай', urging reflection as the first step. The register is neutral and works as everyday advice."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-08",
+        "phrase": "Сначала мне здесь не нравилось.",
+        "fullAnalysis": "Strategic focus: Early impression. 'Сначала' sets up a first feeling with the dative experiencer 'мне', modifying 'нравилось'. It hints that the impression shifted afterwards."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-09",
+        "phrase": "Объясни мне всё сначала.",
+        "fullAnalysis": "Strategic focus: Repeat from the start. Here 'сначала' means from the beginning again, modifying the imperative 'объясни'. It asks the speaker to restart the whole explanation."
+      },
+      {
+        "id": "AD-TIME-SNACHALA-10",
+        "phrase": "Сначала зима, затем приходит весна.",
+        "fullAnalysis": "Strategic focus: Natural ordering. 'Сначала' opens a two-part sequence answered by 'затем'. It frames winter as coming first before spring follows."
+      }
+    ]
+  }
+]

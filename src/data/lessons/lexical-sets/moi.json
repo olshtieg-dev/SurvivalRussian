@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "LX-MOI-01",
-        "phrase": "мой дом большой",
-        "fullAnalysis": "Strategic focus: Masculine possessive agreement. 1. 'Мой' agrees with the masculine noun 'дом'. 2. 'Большой' also matches the masculine noun. 3. The sentence trains how possessive adjectives and descriptive adjectives work together."
+        "phrase": "Мой дом стоит на углу.",
+        "fullAnalysis": "Strategic focus: Masculine possessive agreement. 'Мой' takes its masculine form to match 'дом', and 'стоит' gives a stable location. 'На углу' shows the prepositional case used for a fixed position."
       },
       {
         "id": "LX-MOI-02",
-        "phrase": "мой стол стоит у окна",
-        "fullAnalysis": "Strategic focus: Placement and possession. 1. 'Мой' marks ownership clearly. 2. 'Стоит' gives a stable location frame. 3. 'У окна' adds a practical spatial phrase that is common in everyday Russian."
+        "phrase": "Мой рабочий стол стоит у окна.",
+        "fullAnalysis": "Strategic focus: Placement and possession. 'Мой' marks ownership of the masculine 'стол', and 'стоит' frames a static location. 'У окна' adds a common spatial phrase in the genitive."
       },
       {
         "id": "LX-MOI-03",
-        "phrase": "мой брат читает книгу",
-        "fullAnalysis": "Strategic focus: Possessive noun plus verb agreement. 1. 'Мой брат' is a natural masculine noun phrase. 2. 'Читает' stays in third-person singular because the brother is the subject. 3. 'Книгу' is the direct object and keeps the sentence concrete."
+        "phrase": "Мой старший брат читает книгу.",
+        "fullAnalysis": "Strategic focus: Possessive subject plus verb agreement. 'Мой старший брат' is a masculine noun phrase where both modifiers agree, and 'читает' stays third-person singular. 'Книгу' is the accusative direct object."
       },
       {
         "id": "LX-MOI-04",
-        "phrase": "мой друг говорит по-русски",
-        "fullAnalysis": "Strategic focus: Possessive with a high-frequency identity verb. 1. 'Мой друг' is a common social phrase. 2. 'Говорит' shows third-person singular agreement. 3. 'По-русски' makes the sentence practical for learner identity and conversation."
+        "phrase": "Мой друг хорошо говорит по-русски.",
+        "fullAnalysis": "Strategic focus: Possessive with an identity verb. 'Мой друг' is a common social phrase, and 'говорит' shows third-person singular agreement. 'По-русски' names the language and makes the sentence practical."
       },
       {
         "id": "LX-MOI-05",
-        "phrase": "мой чай уже остыл",
-        "fullAnalysis": "Strategic focus: Possession with state change. 1. 'Мой чай' is a very natural everyday phrase. 2. 'Уже' adds a timeline marker. 3. 'Остыл' shows past tense masculine agreement with 'чай'."
+        "phrase": "Мой чай уже совсем остыл.",
+        "fullAnalysis": "Strategic focus: Possession with a change of state. 'Мой чай' is a very natural everyday phrase, and 'остыл' shows masculine past-tense agreement with 'чай'. 'Уже' marks that the change is complete."
       },
       {
         "id": "LX-MOI-06",
-        "phrase": "моя книга новая",
-        "fullAnalysis": "Strategic focus: Feminine possessive agreement. 1. 'Моя' changes form to match the feminine noun 'книга'. 2. 'Новая' also agrees with the feminine noun. 3. This sentence is a clean model for adjective agreement around a possessed noun."
+        "phrase": "Моя книга совсем новая.",
+        "fullAnalysis": "Strategic focus: Feminine possessive agreement. 'Моя' shifts to the feminine form to match 'книга', and the adjective 'новая' agrees as well. This is a clean model for stacked feminine agreement."
       },
       {
         "id": "LX-MOI-07",
-        "phrase": "моя сестра работает дома",
-        "fullAnalysis": "Strategic focus: Feminine subject with stable verb agreement. 1. 'Моя сестра' gives a clear feminine subject. 2. 'Работает' is third-person singular and does not change for gender in the present tense. 3. 'Дома' is a natural location word."
+        "phrase": "Моя сестра сейчас работает дома.",
+        "fullAnalysis": "Strategic focus: Feminine subject with stable verb. 'Моя сестра' is a clear feminine subject, and 'работает' is third-person singular without gender marking in the present. 'Дома' is a natural location adverb."
       },
       {
         "id": "LX-MOI-08",
-        "phrase": "моя машина стоит у дома",
-        "fullAnalysis": "Strategic focus: Feminine noun and location. 1. 'Моя машина' uses the feminine possessive form. 2. 'Стоит' gives a static location. 3. 'У дома' builds a common spatial construction."
+        "phrase": "Моя машина стоит прямо у дома.",
+        "fullAnalysis": "Strategic focus: Feminine noun and location. 'Моя машина' uses the feminine possessive, and 'стоит' gives a static position. 'У дома' is a common spatial construction in the genitive."
       },
       {
         "id": "LX-MOI-09",
-        "phrase": "моя мама любит чай",
-        "fullAnalysis": "Strategic focus: Possession plus shared object. 1. 'Моя мама' creates a natural family phrase. 2. 'Любит' is a simple third-person singular verb. 3. 'Чай' keeps the sentence highly practical."
+        "phrase": "Моя мама очень любит зелёный чай.",
+        "fullAnalysis": "Strategic focus: Possession plus a shared object. 'Моя мама' is a natural family phrase, and 'любит' is a simple third-person singular verb. 'Зелёный чай' keeps the sentence concrete and everyday."
       },
       {
         "id": "LX-MOI-10",
-        "phrase": "моя комната тихая",
-        "fullAnalysis": "Strategic focus: Feminine noun plus adjective agreement. 1. 'Комната' is feminine, so 'моя' is the correct form. 2. 'Тихая' also matches the feminine noun. 3. The sentence is useful for describing a space naturally."
+        "phrase": "Моя комната светлая и тихая.",
+        "fullAnalysis": "Strategic focus: Feminine noun plus adjective agreement. 'Комната' is feminine, so 'моя' is correct, and both 'светлая' and 'тихая' agree with it. The line is useful for describing a space naturally."
       },
       {
         "id": "LX-MOI-11",
-        "phrase": "моё окно открыто",
-        "fullAnalysis": "Strategic focus: Neuter possessive agreement. 1. 'Мое' is the neuter form of the possessive adjective. 2. 'Окно' is neuter, so the form is required. 3. 'Открыто' gives a concise state description."
+        "phrase": "Моё окно сейчас открыто.",
+        "fullAnalysis": "Strategic focus: Neuter possessive agreement. 'Моё' is the neuter form, required by the neuter noun 'окно'. The short form 'открыто' gives a concise state description."
       },
       {
         "id": "LX-MOI-12",
-        "phrase": "моё письмо уже отправлено",
-        "fullAnalysis": "Strategic focus: Neuter noun with passive/result state. 1. 'Мое' matches the neuter noun 'письмо'. 2. 'Уже' adds a time marker. 3. 'Отправлено' gives a completed-result feel that is useful in practical conversation."
+        "phrase": "Моё письмо уже отправлено.",
+        "fullAnalysis": "Strategic focus: Neuter noun with a result state. 'Моё' matches the neuter 'письмо', and 'отправлено' is a short passive participle giving a completed-result feel. 'Уже' marks that the action is done."
       },
       {
         "id": "LX-MOI-13",
-        "phrase": "моё место рядом с окном",
-        "fullAnalysis": "Strategic focus: Neuter noun and spatial phrase. 1. 'Мое' matches the neuter noun 'место'. 2. 'Рядом с окном' gives a common relation phrase. 3. This sentence is useful for describing seating or placement."
+        "phrase": "Моё место как раз рядом с окном.",
+        "fullAnalysis": "Strategic focus: Neuter noun and spatial phrase. 'Моё' matches the neuter 'место', and 'рядом с окном' shows the instrumental after 'с'. This is useful for describing seating or placement."
       },
       {
         "id": "LX-MOI-14",
-        "phrase": "моё сердце спокойно",
-        "fullAnalysis": "Strategic focus: Abstract neuter noun. 1. 'Сердце' is neuter, so 'мое' is the correct possessive form. 2. 'Спокойно' gives a short predicate-like description. 3. The sentence shows that possessive agreement works on abstract nouns too."
+        "phrase": "Сегодня моё сердце спокойно.",
+        "fullAnalysis": "Strategic focus: Abstract neuter noun. 'Сердце' is neuter, so 'моё' is the correct possessive, and 'спокойно' serves as a short predicate. The line shows that possessive agreement works on abstract nouns too."
       },
       {
         "id": "LX-MOI-15",
-        "phrase": "мои книги на столе",
-        "fullAnalysis": "Strategic focus: Plural possessive agreement. 1. 'Мои' is the plural possessive form. 2. 'Книги' shows the plural noun that it agrees with. 3. 'На столе' adds a very practical location phrase."
+        "phrase": "Мои книги лежат на столе.",
+        "fullAnalysis": "Strategic focus: Plural possessive agreement. 'Мои' is the plural possessive form matching 'книги', and 'лежат' is the plural present. 'На столе' adds a practical location in the prepositional case."
       },
       {
         "id": "LX-MOI-16",
-        "phrase": "мои друзья ждут меня",
-        "fullAnalysis": "Strategic focus: Plural ownership and object pronoun. 1. 'Мои друзья' is plural and therefore uses 'мои'. 2. 'Ждут' is third-person plural. 3. 'Меня' shows the object form of 'я' and gives the sentence extra usefulness."
+        "phrase": "Мои друзья уже ждут меня внизу.",
+        "fullAnalysis": "Strategic focus: Plural ownership plus object pronoun. 'Мои друзья' is plural and so takes 'мои', and 'ждут' is third-person plural. 'Меня' is the accusative form of 'я', adding a second case to track."
       },
       {
         "id": "LX-MOI-17",
-        "phrase": "мои родители дома",
-        "fullAnalysis": "Strategic focus: Plural family noun. 1. 'Мои' matches the plural noun 'родители'. 2. 'Дома' gives a simple location state. 3. This sentence is natural and high-frequency in everyday speech."
+        "phrase": "Сейчас мои родители дома.",
+        "fullAnalysis": "Strategic focus: Plural family noun. 'Мои' matches the plural 'родители', and 'дома' gives a simple location state with no verb needed. This is high-frequency everyday speech."
       },
       {
         "id": "LX-MOI-18",
-        "phrase": "мои руки холодные",
-        "fullAnalysis": "Strategic focus: Plural body-part noun. 1. 'Руки' requires the plural possessive 'мои'. 2. 'Холодные' also agrees in plural. 3. This sentence is good for seeing how agreement stacks across the whole noun phrase."
+        "phrase": "Мои руки совсем холодные.",
+        "fullAnalysis": "Strategic focus: Plural body-part noun. 'Руки' takes the plural possessive 'мои', and 'холодные' also agrees in the plural. The line shows agreement stacking across the whole noun phrase."
       },
       {
         "id": "LX-MOI-19",
-        "phrase": "мои мысли о работе",
-        "fullAnalysis": "Strategic focus: Plural abstract noun and case control. 1. 'Мои' agrees with the plural noun 'мысли'. 2. 'О работе' shows the prepositional case after 'о'. 3. This line is strong for teaching that possessive agreement and case governance can happen together."
+        "phrase": "Все мои мысли только о работе.",
+        "fullAnalysis": "Strategic focus: Plural abstract noun plus case control. 'Мои' agrees with the plural 'мысли', and 'о работе' shows the prepositional case after 'о'. Agreement and case governance appear together here."
       },
       {
         "id": "LX-MOI-20",
-        "phrase": "моя задача ясна",
-        "fullAnalysis": "Strategic focus: Feminine noun plus short predicate. 1. 'Задача' is feminine, so 'моя' is correct. 2. 'Ясна' gives a compact state description. 3. The sentence is useful for modeling concise real-world speech."
+        "phrase": "Теперь моя задача совершенно ясна.",
+        "fullAnalysis": "Strategic focus: Feminine noun plus short predicate. 'Задача' is feminine, so 'моя' is correct, and the short adjective 'ясна' serves as a compact predicate. The line models concise real-world speech."
       }
     ]
   }

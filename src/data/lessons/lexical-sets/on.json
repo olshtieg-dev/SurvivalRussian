@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "LX-ON-01",
-        "phrase": "он идёт домой",
-        "fullAnalysis": "Strategic focus: Third-person singular motion. 1. 'Он' makes the subject masculine singular. 2. 'Идет' is the correct third-person form of motion on foot. 3. 'Домой' keeps the destination natural and clear."
+        "phrase": "Он уже идёт домой с работы.",
+        "fullAnalysis": "Strategic focus: Third-person singular motion. 'Он' makes the subject masculine singular, and 'идёт' is the matching present-tense form of one-directional motion on foot. The phrase 'с работы' adds a natural source of the journey in the genitive."
       },
       {
         "id": "LX-ON-02",
-        "phrase": "он читает книгу",
-        "fullAnalysis": "Strategic focus: Third-person present tense. 1. 'Читает' marks the subject as third person singular. 2. 'Книгу' is the direct object and stays concrete. 3. This sentence helps learners hear how the verb changes when the subject shifts from I/you/we to he."
+        "phrase": "Он целый вечер читает эту книгу.",
+        "fullAnalysis": "Strategic focus: Third-person present tense. 'Читает' marks the subject as third-person singular and governs the accusative object 'эту книгу'. The time phrase 'целый вечер' shows how naturally an ongoing action sits beside the 'он' subject."
       },
       {
         "id": "LX-ON-03",
-        "phrase": "он пишет письмо",
-        "fullAnalysis": "Strategic focus: Simple transitive action. 1. 'Пишет' is the correct masculine singular present form. 2. 'Письмо' stays easy to picture. 3. The sentence is practical and keeps attention on the verb ending."
+        "phrase": "Он пишет письмо своему брату.",
+        "fullAnalysis": "Strategic focus: Transitive action with a recipient. 'Пишет' is the masculine singular present form and takes 'письмо' in the accusative. 'Своему брату' is a dative recipient that turns the bare fragment into a full everyday sentence."
       },
       {
         "id": "LX-ON-04",
-        "phrase": "он видит стол",
-        "fullAnalysis": "Strategic focus: Perception in third person. 1. 'Видит' is the masculine singular form. 2. 'Стол' is a stable direct object. 3. This sentence helps establish that third-person verbs still carry clear agreement markers."
+        "phrase": "Он не видит, где стоит стол.",
+        "fullAnalysis": "Strategic focus: Perception in the third person. 'Видит' is the masculine singular form of seeing, here negated by 'не'. The subordinate clause 'где стоит стол' shows how 'он' anchors a perception verb that opens onto a fuller thought."
       },
       {
         "id": "LX-ON-05",
-        "phrase": "он любит этот дом",
-        "fullAnalysis": "Strategic focus: Emotion plus demonstrative. 1. 'Любит' is the third-person singular present form. 2. 'Этот дом' matches the masculine noun. 3. This sentence is natural and useful for seeing demonstrative agreement."
+        "phrase": "Он очень любит этот старый дом.",
+        "fullAnalysis": "Strategic focus: Emotion plus demonstrative. 'Любит' is the third-person singular present form, and 'этот старый дом' agrees as a masculine accusative phrase. The adverb 'очень' makes the statement sound like real spoken affection."
       },
       {
         "id": "LX-ON-06",
-        "phrase": "он ест хлеб",
-        "fullAnalysis": "Strategic focus: Irregular verb in third person. 1. 'Ест' is the correct third-person form of 'есть'. 2. 'Хлеб' keeps the object practical. 3. This sentence is important because it trains one of the most common irregular forms in Russian."
+        "phrase": "Он ест хлеб с маслом на завтрак.",
+        "fullAnalysis": "Strategic focus: Irregular verb in the third person. 'Ест' is the high-frequency third-person form of 'есть'. The additions 'с маслом' and 'на завтрак' build a natural breakfast scene around the masculine subject."
       },
       {
         "id": "LX-ON-07",
-        "phrase": "он пьет воду",
-        "fullAnalysis": "Strategic focus: Survival vocabulary and aspect of action. 1. 'Пьет' is third-person singular. 2. 'Воду' remains a clear accusative object. 3. This sentence is highly useful in everyday conversation and easy to remember."
+        "phrase": "Он пьёт воду прямо из бутылки.",
+        "fullAnalysis": "Strategic focus: Survival action with manner. 'Пьёт' is the third-person singular present of 'пить' and governs 'воду' in the accusative. 'Прямо из бутылки' gives a vivid, everyday manner phrase in the genitive."
       },
       {
         "id": "LX-ON-08",
-        "phrase": "он не понимает",
-        "fullAnalysis": "Strategic focus: Negation in third person. 1. 'Не' negates the verb. 2. 'Понимает' is the correct third-person form. 3. This sentence is extremely useful for communication and problem-solving."
+        "phrase": "Он совсем не понимает по-английски.",
+        "fullAnalysis": "Strategic focus: Negation in the third person. 'Не' negates 'понимает', the correct third-person singular form. 'Совсем' strengthens the negation and 'по-английски' names the language, making this a useful real-world line."
       },
       {
         "id": "LX-ON-09",
-        "phrase": "он хочет кофе",
-        "fullAnalysis": "Strategic focus: Desire and direct address. 1. 'Хочет' is the proper third-person singular form. 2. 'Кофе' keeps the sentence practical. 3. This is a common, natural line that models ordinary Russian conversation."
+        "phrase": "Он хочет кофе без сахара.",
+        "fullAnalysis": "Strategic focus: Desire with a qualifier. 'Хочет' is the irregular third-person singular form of 'хотеть'. 'Без сахара' adds a genitive phrase after the preposition, turning a plain wish into a natural cafe request."
       },
       {
         "id": "LX-ON-10",
-        "phrase": "он работает дома",
-        "fullAnalysis": "Strategic focus: Activity and place. 1. 'Работает' is third-person singular. 2. 'Дома' makes the location adverbial and natural. 3. This sentence helps learners see how the verb changes while the place word remains unchanged."
+        "phrase": "Он теперь работает дома каждый день.",
+        "fullAnalysis": "Strategic focus: Activity and place. 'Работает' is the third-person singular form, while 'дома' stays a fixed adverb of location. The time words 'теперь' and 'каждый день' make the routine feel real and conversational."
       },
       {
         "id": "LX-ON-11",
-        "phrase": "он говорит по-русски",
-        "fullAnalysis": "Strategic focus: Language use. 1. 'Говорит' is the correct masculine singular form. 2. 'По-русски' is the natural adverbial language phrase. 3. This sentence is a core identity statement for learners."
+        "phrase": "Он хорошо говорит по-русски.",
+        "fullAnalysis": "Strategic focus: Language ability. 'Говорит' is the masculine singular present form, and 'по-русски' is the standard adverbial way to name a language of speech. 'Хорошо' adds a natural judgement of skill."
       },
       {
         "id": "LX-ON-12",
-        "phrase": "он знает это",
-        "fullAnalysis": "Strategic focus: Knowledge statement. 1. 'Знает' is third-person singular. 2. 'Это' points at the known item. 3. The sentence is compact and very useful for practicing subject-verb-object flow."
+        "phrase": "Он точно знает, что делать.",
+        "fullAnalysis": "Strategic focus: Knowledge statement. 'Знает' is third-person singular and opens onto the clause 'что делать'. The adverb 'точно' makes the line sound confident and spoken rather than textbook-flat."
       },
       {
         "id": "LX-ON-13",
-        "phrase": "он берет книгу",
-        "fullAnalysis": "Strategic focus: Taking an object. 1. 'Берет' marks third-person singular. 2. 'Книгу' is the object being taken. 3. This sentence reinforces how a single noun can be acted on by a verb that changes with the subject."
+        "phrase": "Он берёт книгу с полки.",
+        "fullAnalysis": "Strategic focus: Taking an object. 'Берёт' is the third-person singular present form and governs 'книгу' in the accusative. 'С полки' adds a genitive source phrase, grounding the action in a concrete place."
       },
       {
         "id": "LX-ON-14",
-        "phrase": "он открывает дверь",
-        "fullAnalysis": "Strategic focus: Physical action. 1. 'Открывает' is the masculine singular present form. 2. 'Дверь' is a simple object. 3. This sentence is ideal for repeated typing practice because it is vivid and easy to understand."
+        "phrase": "Он медленно открывает входную дверь.",
+        "fullAnalysis": "Strategic focus: Physical action. 'Открывает' is the masculine singular present form acting on the accusative 'входную дверь'. The adverb 'медленно' adds manner and makes the scene easy to picture during repetition."
       },
       {
         "id": "LX-ON-15",
-        "phrase": "он слышит музыку",
-        "fullAnalysis": "Strategic focus: Perception verb. 1. 'Слышит' is third-person singular. 2. 'Музыку' is the object heard. 3. This sentence shows how perception verbs also follow the same person-number system."
+        "phrase": "Он слышит музыку из соседней комнаты.",
+        "fullAnalysis": "Strategic focus: Perception verb. 'Слышит' is third-person singular and takes 'музыку' in the accusative. 'Из соседней комнаты' is a genitive source phrase that shows perception verbs behave like other transitive verbs."
       },
       {
         "id": "LX-ON-16",
-        "phrase": "он видит меня",
-        "fullAnalysis": "Strategic focus: Object pronoun form. 1. 'Видит' is the masculine singular present form. 2. 'Меня' is the object form of 'я'. 3. This sentence teaches pronoun alternation when the pronoun stops being the subject."
+        "phrase": "Он часто видит меня в парке.",
+        "fullAnalysis": "Strategic focus: Object pronoun form. 'Видит' is the masculine singular present, and 'меня' is the object form of 'я'. 'В парке' adds a prepositional location and 'часто' a frequency adverb for natural speech."
       },
       {
         "id": "LX-ON-17",
-        "phrase": "он делает чай",
-        "fullAnalysis": "Strategic focus: Routine action. 1. 'Делает' is a highly flexible third-person verb. 2. 'Чай' gives the sentence a practical everyday object. 3. This is a good sentence for showing how ordinary Russian can be very compact."
+        "phrase": "Он делает чай для гостей.",
+        "fullAnalysis": "Strategic focus: Routine action with purpose. 'Делает' is a flexible third-person verb governing the accusative 'чай'. 'Для гостей' adds a genitive purpose phrase that makes the everyday situation concrete."
       },
       {
         "id": "LX-ON-18",
-        "phrase": "он несет сумку",
-        "fullAnalysis": "Strategic focus: Carrying. 1. 'Несет' is the correct third-person singular form. 2. 'Сумку' is the carried object. 3. This sentence is useful for action verbs that naturally require an object."
+        "phrase": "Он несёт тяжёлую сумку в руке.",
+        "fullAnalysis": "Strategic focus: Carrying. 'Несёт' is the correct third-person singular form of one-directional carrying, governing 'тяжёлую сумку' in the accusative. 'В руке' adds a prepositional location that completes the image."
       },
       {
         "id": "LX-ON-19",
-        "phrase": "он находит ключ",
-        "fullAnalysis": "Strategic focus: Finding something. 1. 'Находит' is the masculine singular present form. 2. 'Ключ' is a common everyday noun. 3. The sentence is practical and reinforces the person-number contrast with other pronouns."
+        "phrase": "Он наконец находит свой ключ.",
+        "fullAnalysis": "Strategic focus: Finding something. 'Находит' is the masculine singular present form and governs the accusative 'свой ключ'. The adverb 'наконец' gives the moment a real sense of relief and timing."
       },
       {
         "id": "LX-ON-20",
-        "phrase": "он думает о работе",
-        "fullAnalysis": "Strategic focus: Verb governance and prepositional case. 1. 'Думает' is third-person singular. 2. 'О работе' demonstrates the prepositional form after 'о'. 3. This sentence is especially good for teaching that verbs shape the form of the words they govern."
+        "phrase": "Он постоянно думает о работе.",
+        "fullAnalysis": "Strategic focus: Verb governance and the prepositional case. 'Думает' is third-person singular and the preposition 'о' forces 'работе' into the prepositional. The adverb 'постоянно' shows how a governed phrase fits into natural speech."
       }
     ]
   }

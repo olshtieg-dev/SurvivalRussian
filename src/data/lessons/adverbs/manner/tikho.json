@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-TIKHO",
+    "label": "Тихо",
+    "badge": "QUIETLY",
+    "description": "A 10-sentence usage card for тихо (quietly, it is quiet).",
+    "missions": [
+      {
+        "id": "AD-MANNER-TIKHO-01",
+        "phrase": "Она тихо говорила по телефону.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Тихо' modifies 'говорила', describing how softly she spoke. Before the verb, it is the standard slot for a manner adverb of volume."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-02",
+        "phrase": "Тихо! Ребёнок уже спит.",
+        "fullAnalysis": "Strategic focus: Standalone command. Used alone, 'тихо' works as 'quiet!' or 'hush', a one-word order. The following sentence gives the reason for the demand for silence."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-03",
+        "phrase": "В библиотеке всегда очень тихо.",
+        "fullAnalysis": "Strategic focus: Impersonal predicative. Here 'тихо' is the predicate meaning 'it is quiet', describing the atmosphere of the library. There is no subject, only the state of the place."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-04",
+        "phrase": "Говори тихо, нас могут услышать.",
+        "fullAnalysis": "Strategic focus: Manner of speaking. 'Тихо' modifies the imperative 'говори', telling how to speak — quietly. The warning clause explains why a low voice is needed."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-05",
+        "phrase": "Музыка тихо играла на кухне.",
+        "fullAnalysis": "Strategic focus: Soft sound. 'Тихо' modifies 'играла', describing music playing at low volume. The adverb sets a calm background to the scene."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-06",
+        "phrase": "Он тихо закрыл за собой дверь.",
+        "fullAnalysis": "Strategic focus: Quiet action. 'Тихо' modifies 'закрыл', showing he shut the door without a sound. The adverb suggests care not to disturb anyone."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-07",
+        "phrase": "Ночью на улице совсем тихо.",
+        "fullAnalysis": "Strategic focus: Impersonal stillness. 'Тихо' is a predicative describing the silence of the street at night, intensified by 'совсем'. There is no subject, just the quiet of the setting."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-08",
+        "phrase": "Дети тихо играли в углу.",
+        "fullAnalysis": "Strategic focus: Quiet play. 'Тихо' modifies 'играли', showing the children played without noise. The adverb conveys a peaceful, undisturbed scene."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-09",
+        "phrase": "Пожалуйста, веди себя тихо здесь.",
+        "fullAnalysis": "Strategic focus: Polite request. 'Тихо' modifies the phrase 'веди себя', meaning behave quietly. Softened by 'пожалуйста', it is a courteous appeal for calm."
+      },
+      {
+        "id": "AD-MANNER-TIKHO-10",
+        "phrase": "Стало тихо после долгого дня.",
+        "fullAnalysis": "Strategic focus: Predicative with 'стало'. 'Тихо' is the predicate after 'стало', meaning it became quiet. This impersonal frame marks a shift into stillness."
+      }
+    ]
+  }
+]

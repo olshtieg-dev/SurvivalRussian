@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-VPERVYE",
+    "label": "Впервые",
+    "badge": "FIRST",
+    "description": "A 10-sentence usage card for впервые (for the first time).",
+    "missions": [
+      {
+        "id": "AD-TIME-VPERVYE-01",
+        "phrase": "Я впервые увидел море.",
+        "fullAnalysis": "Strategic focus: A first experience. 'Впервые' means for the first time, modifying the perfective 'увидел'. It marks an action that had never happened before this moment."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-02",
+        "phrase": "Впервые в жизни я летел на самолёте.",
+        "fullAnalysis": "Strategic focus: Lifetime first. The phrase 'впервые в жизни' stresses a once-in-a-lifetime first, modifying 'летел'. Fronting it gives the experience extra weight."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-03",
+        "phrase": "Она впервые выступила на сцене.",
+        "fullAnalysis": "Strategic focus: Debut. 'Впервые' frames a debut performance, modifying 'выступила'. It is the standard adverb for marking a first public appearance."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-04",
+        "phrase": "Ты впервые здесь?",
+        "fullAnalysis": "Strategic focus: First visit. In this short question 'впервые' asks whether it is the listener's first time here. It modifies the implied verb of being present in a casual register."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-05",
+        "phrase": "Мы впервые встретились прошлым летом.",
+        "fullAnalysis": "Strategic focus: First meeting. 'Впервые' marks the very first encounter, modifying 'встретились'. The time phrase 'прошлым летом' anchors when that first time occurred."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-06",
+        "phrase": "Ребёнок впервые сказал слово мама.",
+        "fullAnalysis": "Strategic focus: A milestone. 'Впервые' marks a developmental first, modifying 'сказал'. The adverb highlights an action achieved for the very first time."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-07",
+        "phrase": "Я впервые пробую эту еду.",
+        "fullAnalysis": "Strategic focus: First time, present. 'Впервые' works with the present-tense 'пробую' to mean I am trying this for the first time right now. It conveys a fresh, ongoing first experience."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-08",
+        "phrase": "Впервые за долгое время он улыбнулся.",
+        "fullAnalysis": "Strategic focus: First in a long while. 'Впервые за долгое время' frames a first occurrence after a long gap, modifying 'улыбнулся'. It carries a quietly emotional tone."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-09",
+        "phrase": "Этот фильм показали впервые вчера.",
+        "fullAnalysis": "Strategic focus: Premiere. 'Впервые' modifies 'показали', marking the film's first screening. End placement before 'вчера' keeps the focus on the act of premiering."
+      },
+      {
+        "id": "AD-TIME-VPERVYE-10",
+        "phrase": "Впервые я почувствовал себя свободным.",
+        "fullAnalysis": "Strategic focus: A first feeling. Fronted 'впервые' stresses a first emotional experience, modifying 'почувствовал'. It introduces a meaningful personal turning point."
+      }
+    ]
+  }
+]

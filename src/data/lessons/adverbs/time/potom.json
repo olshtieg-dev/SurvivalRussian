@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-POTOM",
+    "label": "Потом",
+    "badge": "LATER",
+    "description": "A 10-sentence usage card for потом (then; afterwards; later).",
+    "missions": [
+      {
+        "id": "AD-TIME-POTOM-01",
+        "phrase": "Сначала поедим, потом погуляем.",
+        "fullAnalysis": "Strategic focus: Sequencing with сначала. Paired with 'сначала' the adverb 'потом' marks the second step in a sequence, what happens afterwards. It orders two future actions in time."
+      },
+      {
+        "id": "AD-TIME-POTOM-02",
+        "phrase": "Я позвоню тебе потом.",
+        "fullAnalysis": "Strategic focus: Vague later. Here 'потом' means later, at some unspecified future moment. Placed at the end it postpones the call without naming a time."
+      },
+      {
+        "id": "AD-TIME-POTOM-03",
+        "phrase": "Давай поговорим об этом потом.",
+        "fullAnalysis": "Strategic focus: Deferring a topic. 'Потом' pushes the conversation to a later point, a common way to set something aside. It implies now is not the right moment."
+      },
+      {
+        "id": "AD-TIME-POTOM-04",
+        "phrase": "А что было потом?",
+        "fullAnalysis": "Strategic focus: Then in a narrative question. In a story 'потом' asks what happened next, advancing the sequence of events. It invites the speaker to continue the tale."
+      },
+      {
+        "id": "AD-TIME-POTOM-05",
+        "phrase": "Мы пообедали, а потом пошли в кино.",
+        "fullAnalysis": "Strategic focus: Then in the past. With past verbs 'а потом' chains a second completed action after the first. It is the everyday connector for telling what came afterwards."
+      },
+      {
+        "id": "AD-TIME-POTOM-06",
+        "phrase": "Об этом подумаем потом.",
+        "fullAnalysis": "Strategic focus: Postponed decision. 'Потом' defers the thinking to a later time, fronting the topic for emphasis. It signals the matter is not urgent right now."
+      },
+      {
+        "id": "AD-TIME-POTOM-07",
+        "phrase": "Сделай уроки, а потом играй.",
+        "fullAnalysis": "Strategic focus: Order in commands. With imperatives 'а потом' sets the required order, homework first and play afterwards. It enforces a sequence between two instructions."
+      },
+      {
+        "id": "AD-TIME-POTOM-08",
+        "phrase": "Потом будет уже поздно.",
+        "fullAnalysis": "Strategic focus: A warning about delay. Fronted 'потом' points to a later moment that will be too late, urging action now. It frames the future as a closing window."
+      },
+      {
+        "id": "AD-TIME-POTOM-09",
+        "phrase": "Сначала подумай, потом говори.",
+        "fullAnalysis": "Strategic focus: Proverbial sequencing. In this aphoristic command 'потом' orders speaking after thinking. The сначала-потом frame gives the advice its rhythmic, instructive feel."
+      },
+      {
+        "id": "AD-TIME-POTOM-10",
+        "phrase": "Я объясню всё потом.",
+        "fullAnalysis": "Strategic focus: A promise for later. With a perfective future 'потом' promises a full explanation at a later time. It reassures while still postponing the details."
+      }
+    ]
+  }
+]

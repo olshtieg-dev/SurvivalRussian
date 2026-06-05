@@ -1,0 +1,115 @@
+[
+  {
+    "id": "VB-ZNAT",
+    "label": "Знать",
+    "badge": "KNOW",
+    "description": "A full conjugation deck for знать: present persons, past, future, and common knowledge contexts.",
+    "missions": [
+      {
+        "id": "VB-ZNAT-01",
+        "phrase": "Я точно знаю правильный ответ.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 1. 'Знаю' is the я-form of знать. 2. 'Точно' adds certainty. 3. 'Правильный ответ' is the accusative object — a clean everyday statement of confident knowledge."
+      },
+      {
+        "id": "VB-ZNAT-02",
+        "phrase": "Ты хорошо знаешь дорогу домой.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 1. 'Знаешь' is the ты-form of знать. 2. 'Хорошо' modifies the verb. 3. 'Дорогу домой' is the accusative object — a practical sentence about knowing the way."
+      },
+      {
+        "id": "VB-ZNAT-03",
+        "phrase": "Он думает, что знает всё.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 1. 'Знает' is the он/она-form of знать. 2. 'Думает, что' frames the clause. 3. 'Всё' is the emphatic object — a common claim of total knowledge."
+      },
+      {
+        "id": "VB-ZNAT-04",
+        "phrase": "Она хорошо знает меня лично.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 1. 'Знает' is the он/она-form of знать. 2. 'Меня' is the accusative pronoun object. 3. 'Лично' reinforces personal acquaintance."
+      },
+      {
+        "id": "VB-ZNAT-05",
+        "phrase": "Мы все знаем горькую правду.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 1. 'Знаем' is the мы-form of знать. 2. 'Все' is the subject quantifier. 3. 'Горькую правду' is the accusative object — a weighty collective assertion."
+      },
+      {
+        "id": "VB-ZNAT-06",
+        "phrase": "Вы хорошо знаете этот город?",
+        "fullAnalysis": "Strategic focus: Second-person plural present. 1. 'Знаете' is the polite or plural вы-form. 2. 'Этот город' is the accusative object. 3. Framed as a practical question about a place."
+      },
+      {
+        "id": "VB-ZNAT-07",
+        "phrase": "Они свободно знают русский язык.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 1. 'Знают' is the они-form of знать. 2. 'Свободно' means fluently. 3. 'Русский язык' is the accusative object — a common sentence about knowing a language."
+      },
+      {
+        "id": "VB-ZNAT-08",
+        "phrase": "Извини, я этого не знаю.",
+        "fullAnalysis": "Strategic focus: First-person singular negation. 1. 'Не знаю' negates the я-form of знать. 2. 'Этого' takes the genitive under negation. 3. One of the most high-value everyday phrases in Russian."
+      },
+      {
+        "id": "VB-ZNAT-09",
+        "phrase": "Этого пока никто не знает.",
+        "fullAnalysis": "Strategic focus: Negated third-person singular. 1. 'Не знает' is the он/она-form negated. 2. 'Никто' forms the required double negative. 3. 'Этого' is genitive under negation — a natural idiomatic statement."
+      },
+      {
+        "id": "VB-ZNAT-10",
+        "phrase": "Он давно знал это секрет.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 1. 'Знал' is the masculine past of знать. 2. 'Давно' sets the time frame. 3. 'Это секрет' is the object — a simple past statement of prior knowledge."
+      },
+      {
+        "id": "VB-ZNAT-11",
+        "phrase": "Она уже знала его имя.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 1. 'Знала' is the feminine past of знать. 2. 'Уже' marks completion. 3. 'Его имя' is the accusative object — a natural past-tense sentence."
+      },
+      {
+        "id": "VB-ZNAT-12",
+        "phrase": "Сердце давно знало всю правду.",
+        "fullAnalysis": "Strategic focus: Neuter past tense. 1. 'Знало' is the neuter past of знать, agreeing with neuter 'сердце'. 2. 'Всю правду' is the accusative object. 3. Drills rare but required neuter agreement."
+      },
+      {
+        "id": "VB-ZNAT-13",
+        "phrase": "Они хорошо знали меня раньше.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 1. 'Знали' is the plural past of знать. 2. 'Меня' is the accusative pronoun. 3. 'Раньше' sets the past frame — a common statement of former acquaintance."
+      },
+      {
+        "id": "VB-ZNAT-14",
+        "phrase": "Скоро я буду знать всё.",
+        "fullAnalysis": "Strategic focus: First-person imperfective future. 1. 'Буду' is the future auxiliary. 2. 'Знать' stays in the infinitive. 3. 'Скоро' and 'всё' fill out the compound imperfective future."
+      },
+      {
+        "id": "VB-ZNAT-15",
+        "phrase": "Завтра мы будем знать результат.",
+        "fullAnalysis": "Strategic focus: First-person plural imperfective future. 1. 'Будем' is the мы-form auxiliary. 2. 'Знать' remains the infinitive. 3. 'Результат' is the object — reinforces the compound future pattern."
+      },
+      {
+        "id": "VB-ZNAT-16",
+        "phrase": "Скоро я узнаю всю правду.",
+        "fullAnalysis": "Strategic focus: Perfective future of узнать. 1. 'Узнаю' is the я-form meaning 'will find out'. 2. 'Всю правду' is the accusative object. 3. Contrasts perfective узнать with imperfective знать."
+      },
+      {
+        "id": "VB-ZNAT-17",
+        "phrase": "Завтра ты узнаешь точный ответ.",
+        "fullAnalysis": "Strategic focus: Perfective future of узнать. 1. 'Узнаешь' is the ты-form, 'will find out'. 2. 'Точный ответ' is the accusative object. 3. Reinforces the perfective find-out meaning."
+      },
+      {
+        "id": "VB-ZNAT-18",
+        "phrase": "Знай своё место, молодой человек.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 1. 'Знай' is the informal command form of знать. 2. 'Своё место' is a fixed idiomatic object. 3. 'Молодой человек' is a vivid vocative address."
+      },
+      {
+        "id": "VB-ZNAT-19",
+        "phrase": "Знайте это раз и навсегда.",
+        "fullAnalysis": "Strategic focus: Plural imperative. 1. 'Знайте' is the polite or plural command form. 2. 'Это' is the neuter object. 3. 'Раз и навсегда' is a firm idiomatic adverbial — a direct instruction."
+      },
+      {
+        "id": "VB-ZNAT-20",
+        "phrase": "Я давно знаю об этом.",
+        "fullAnalysis": "Strategic focus: First-person singular with prepositional clause. 1. 'Знаю' is the я-form of знать. 2. 'Об этом' uses the prepositional case after об. 3. 'Давно' sets the time — a common knowledge-about construction."
+      },
+      {
+        "id": "VB-ZNAT-21",
+        "phrase": "Мы давно знаем друг друга.",
+        "fullAnalysis": "Strategic focus: First-person plural with reciprocal object. 1. 'Знаем' is the мы-form of знать. 2. 'Друг друга' is the fixed reciprocal phrase. 3. 'Давно' deepens the mutual acquaintance."
+      }
+    ]
+  }
+]

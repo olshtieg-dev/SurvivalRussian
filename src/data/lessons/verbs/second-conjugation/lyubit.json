@@ -1,0 +1,120 @@
+[
+  {
+    "id": "VB-LYUBIT",
+    "label": "Любить",
+    "badge": "LOVE",
+    "description": "A full conjugation deck for любить: present persons (note люблю with epenthetic л), past, future, and acc/infinitive objects.",
+    "missions": [
+      {
+        "id": "VB-LYUBIT-01",
+        "phrase": "Я очень люблю тебя.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Люблю' shows the epenthetic л (б→бл) unique to the 1sg present. 'Тебя' is the accusative of ты. 'Очень' intensifies the core declaration of love."
+      },
+      {
+        "id": "VB-LYUBIT-02",
+        "phrase": "Я очень люблю свою маму.",
+        "fullAnalysis": "Strategic focus: First-person singular present with object. 'Люблю' carries the epenthetic л (б→бл), present only in the 1sg. 'Маму' is the accusative of мама, modified by reflexive 'свою'. A warm everyday scene."
+      },
+      {
+        "id": "VB-LYUBIT-03",
+        "phrase": "Ты очень любишь современную музыку.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Любишь' is the standard 2sg present, no epenthesis. 'Музыку' is the accusative of музыка, with adjective 'современную'. A common preference statement."
+      },
+      {
+        "id": "VB-LYUBIT-04",
+        "phrase": "Он любит крепкий чёрный кофе.",
+        "fullAnalysis": "Strategic focus: Third-person singular masculine present. 'Любит' is the 3sg present form. 'Кофе' is an indeclinable noun functioning as accusative, modified by 'крепкий чёрный'. A simple statement of taste."
+      },
+      {
+        "id": "VB-LYUBIT-05",
+        "phrase": "Она любит читать перед сном.",
+        "fullAnalysis": "Strategic focus: Third-person singular feminine present. 'Любит' is the 3sg present. The infinitive 'читать' forms the love-to-do construction. 'Перед сном' adds a habitual time frame."
+      },
+      {
+        "id": "VB-LYUBIT-06",
+        "phrase": "Мы очень любим наш старый город.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Любим' is the 1pl present, no epenthesis. 'Город' is masculine inanimate, accusative equal to nominative, modified by 'наш старый'. A shared-affection scene."
+      },
+      {
+        "id": "VB-LYUBIT-07",
+        "phrase": "Вы любите гулять по вечерам?",
+        "fullAnalysis": "Strategic focus: Second-person plural or polite present. 'Любите' is the 2pl present. The infinitive 'гулять' forms the love-to-do construction. 'По вечерам' frames it as a regular pastime in a polite question."
+      },
+      {
+        "id": "VB-LYUBIT-08",
+        "phrase": "Они очень любят зимний спорт.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Любят' is the 3pl present, ending -ят. 'Спорт' is masculine inanimate, accusative equal to nominative, modified by 'зимний'. A group preference with an acc object."
+      },
+      {
+        "id": "VB-LYUBIT-09",
+        "phrase": "Я люблю гулять по парку.",
+        "fullAnalysis": "Strategic focus: First-person singular present with infinitive. 'Люблю' again displays the epenthetic л (б→бл) unique to the 1sg. 'Гулять' is the dependent infinitive. 'По парку' adds a concrete setting."
+      },
+      {
+        "id": "VB-LYUBIT-10",
+        "phrase": "Скажи, ты любишь меня?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Любишь' is the regular 2sg present, no epenthesis. 'Меня' is the accusative of я. The lead-in 'Скажи' frames a direct emotional question."
+      },
+      {
+        "id": "VB-LYUBIT-11",
+        "phrase": "Я совсем не люблю спорить.",
+        "fullAnalysis": "Strategic focus: Negated first-person singular present. 'Не' negates the 1sg 'люблю' with its epenthetic л (б→бл). 'Спорить' is the infinitive. 'Совсем' strengthens this idiomatic way to decline a quarrel."
+      },
+      {
+        "id": "VB-LYUBIT-12",
+        "phrase": "Он всем сердцем любил её.",
+        "fullAnalysis": "Strategic focus: Past tense, masculine subject. 'Любил' is the masculine singular past, stem люби- plus -л. 'Её' is the accusative of она. 'Всем сердцем' deepens the past-love narrative line."
+      },
+      {
+        "id": "VB-LYUBIT-13",
+        "phrase": "В юности она любила танцевать.",
+        "fullAnalysis": "Strategic focus: Past tense, feminine subject. 'Любила' is the feminine singular past, ending -ла. 'Танцевать' is the infinitive forming a past love-to-do construction. 'В юности' sets the time frame."
+      },
+      {
+        "id": "VB-LYUBIT-14",
+        "phrase": "Дитя очень любило старые сказки.",
+        "fullAnalysis": "Strategic focus: Past tense, neuter subject. 'Любило' is the neuter singular past, ending -ло, agreeing with neuter 'дитя'. 'Сказки' is the accusative plural object, modified by 'старые'. Completes the gender set."
+      },
+      {
+        "id": "VB-LYUBIT-15",
+        "phrase": "В детстве они любили море.",
+        "fullAnalysis": "Strategic focus: Past tense, plural subject. 'Любили' is the plural past, ending -ли. 'Море' is neuter inanimate, accusative equal to nominative. 'В детстве' anchors a shared past-affection scene."
+      },
+      {
+        "id": "VB-LYUBIT-16",
+        "phrase": "Я всегда буду любить тебя.",
+        "fullAnalysis": "Strategic focus: Imperfective future, first-person singular. 'Буду' is the future of быть. 'Любить' stays in the infinitive after буду. 'Тебя' is the accusative object; 'всегда' expresses lasting devotion."
+      },
+      {
+        "id": "VB-LYUBIT-17",
+        "phrase": "Мы будем любить эту жизнь.",
+        "fullAnalysis": "Strategic focus: Imperfective future, first-person plural. 'Будем' is the 1pl future of быть. 'Любить' remains an infinitive. 'Жизнь' is the accusative object, with demonstrative 'эту', in the compound future."
+      },
+      {
+        "id": "VB-LYUBIT-18",
+        "phrase": "Люби свою родную страну.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Люби' is the gentle, slightly poetic singular command form. 'Свою родную страну' is the accusative reflexive-possessive object. A call to love one's own land."
+      },
+      {
+        "id": "VB-LYUBIT-19",
+        "phrase": "Любите друг друга всегда.",
+        "fullAnalysis": "Strategic focus: Plural or polite imperative. 'Любите' is the plural command form. 'Друг друга' is the reciprocal accusative 'each other'. 'Всегда' frames a classic exhortation to mutual love."
+      },
+      {
+        "id": "VB-LYUBIT-20",
+        "phrase": "Я сразу полюбила его.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine subject. 'Полюбила' is полюбить, the perfective 'came to love'. 'Его' is the accusative of он. 'Сразу' underscores the onset of love as a single event."
+      },
+      {
+        "id": "VB-LYUBIT-21",
+        "phrase": "Ты очень любишь долго спать.",
+        "fullAnalysis": "Strategic focus: Second-person singular present with infinitive. 'Любишь' is the regular 2sg present, no epenthesis. 'Спать' is the dependent infinitive. 'Долго' adds a casual love-to-do remark."
+      },
+      {
+        "id": "VB-LYUBIT-22",
+        "phrase": "Они все искренне любят меня.",
+        "fullAnalysis": "Strategic focus: Third-person plural present with object. 'Любят' is the 3pl present, ending -ят. 'Меня' is the accusative of я. 'Все искренне' reassures about being loved by a group."
+      }
+    ]
+  }
+]

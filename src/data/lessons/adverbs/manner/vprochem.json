@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-VPROCHEM",
+    "label": "Впрочем",
+    "badge": "THOUGH",
+    "description": "A 10-sentence usage card for впрочем (however, then again, anyway).",
+    "missions": [
+      {
+        "id": "AD-MANNER-VPROCHEM-01",
+        "phrase": "Впрочем, это уже неважно.",
+        "fullAnalysis": "Strategic focus: Discourse connector. 'Впрочем' opens the sentence as a parenthetical, signalling the speaker is reconsidering or dismissing the prior point. Set off by a comma, it means roughly 'anyway' or 'then again'."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-02",
+        "phrase": "Впрочем, ты сам всё знаешь.",
+        "fullAnalysis": "Strategic focus: Self-correction. 'Впрочем' introduces a backing-off from what was about to be explained, conceding the listener already knows. It softens the statement into an afterthought."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-03",
+        "phrase": "Я хотел остаться. Впрочем, неважно.",
+        "fullAnalysis": "Strategic focus: Dismissive turn. After a full thought, 'впрочем' opens a clause that waves the idea away. This 'впрочем, неважно' pairing is a natural way to drop a topic."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-04",
+        "phrase": "Он опоздал. Впрочем, как всегда.",
+        "fullAnalysis": "Strategic focus: Resigned comment. 'Впрочем' introduces a wry concession, here 'as always', marking the lateness as unsurprising. The connector adds a tone of weary acceptance."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-05",
+        "phrase": "Впрочем, давай поговорим об этом завтра.",
+        "fullAnalysis": "Strategic focus: Shifting course. 'Впрочем' signals the speaker is changing their mind about when to talk. It smoothly redirects the plan to another time."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-06",
+        "phrase": "Погода плохая. Впрочем, мне всё равно.",
+        "fullAnalysis": "Strategic focus: Concessive contrast. 'Впрочем' opens a clause that dismisses the relevance of the prior fact, here meaning the speaker does not care. It works like a softened 'but then again'."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-07",
+        "phrase": "Впрочем, может быть, ты прав.",
+        "fullAnalysis": "Strategic focus: Reconsideration. 'Впрочем' introduces a yielding second thought, conceding the other person might be right. Combined with 'может быть', it expresses tentative agreement."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-08",
+        "phrase": "Это долгая история. Впрочем, неинтересная.",
+        "fullAnalysis": "Strategic focus: Adding a qualification. 'Впрочем' opens a clause that adds a dismissive detail to what was just said. The connector tags on a remark that downgrades the topic."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-09",
+        "phrase": "Впрочем, решать только тебе.",
+        "fullAnalysis": "Strategic focus: Deferring decision. 'Впрочем' marks a final concession, handing the choice over to the listener. It steps the speaker back from insisting on their view."
+      },
+      {
+        "id": "AD-MANNER-VPROCHEM-10",
+        "phrase": "Я думаю так. Впрочем, решай сам.",
+        "fullAnalysis": "Strategic focus: Backing off an opinion. After stating a view, 'впрочем' opens a clause that releases the listener to decide for themselves. The connector tempers the earlier assertion."
+      }
+    ]
+  }
+]

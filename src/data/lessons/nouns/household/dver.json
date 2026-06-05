@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-DVER",
+    "label": "Дверь",
+    "badge": "DOOR",
+    "description": "Case ladder, plurals, and prepositional scenes for the feminine 3rd-declension noun дверь.",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-DVER-01",
+        "phrase": "Утром дверь была широко открыта.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Дверь' is the grammatical subject in the nominative case. 2. The short adjective 'открыта' agrees as feminine singular. 3. A clean baseline for the lemma."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-02",
+        "phrase": "Я тихо открыл входную дверь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Дверь' is the direct object; for this 3rd-decl noun nom and acc are identical. 2. 'Открыл' is a high-frequency action verb. 3. The most common collocation with this word."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-03",
+        "phrase": "Он быстро закрыл за собой дверь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Дверь' takes the accusative, unchanged from the nominative form. 2. 'Закрыл' pairs with it as a core household verb. 3. The mirror action to opening."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-04",
+        "phrase": "Я потерял ключ от двери.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 1. 'Двери' is genitive after 'от', marking source. 2. In 3rd declension gen, dat and prep all collapse to 'двери'. 3. Notice the syncretic ending."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-05",
+        "phrase": "Ручка двери совсем расшаталась.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Двери' is genitive, showing whose handle it is. 2. The bare possessive needs no preposition. 3. Same form as dative and prepositional here."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-06",
+        "phrase": "Он осторожно подошёл к двери.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 1. 'Двери' is dative after 'к', marking the goal of motion. 2. Identical in form to the genitive 'двери'. 3. The preposition signals which case is meant."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-07",
+        "phrase": "Кто-то начал громко стучать в дверь.",
+        "fullAnalysis": "Strategic focus: Accusative with motion. 1. 'Дверь' is accusative after 'в', here the surface struck. 2. 'Стучать' governs 'в' plus accusative. 3. A fixed everyday collocation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-08",
+        "phrase": "За дверью кто-то тихо стоял.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 1. 'Дверью' is instrumental after 'за', meaning behind. 2. The distinctive '-ью' ending marks the instrumental. 3. A vivid spatial scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-09",
+        "phrase": "Перед дверью лежал старый коврик.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 1. 'Дверью' stays instrumental after 'перед', meaning in front of. 2. The '-ью' form is unique to this case. 3. Pairs naturally with 'за дверью'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-10",
+        "phrase": "На двери висит тяжёлый замок.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 1. 'Двери' is prepositional after 'на', marking surface. 2. Same form as genitive and dative in this declension. 3. The static 'на' triggers the prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-11",
+        "phrase": "На двери кто-то оставил записку.",
+        "fullAnalysis": "Strategic focus: Prepositional surface. 1. 'Двери' is prepositional after 'на', locating the note. 2. The ending matches gen, dat and prep across 3rd declension. 3. A small realistic phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-12",
+        "phrase": "Входная дверь снова громко скрипит.",
+        "fullAnalysis": "Strategic focus: Adjective agreement, nominative. 1. 'Входная' agrees with 'дверь' as feminine singular. 2. 'Дверь' is the nominative subject. 3. A common compound naming the front entrance."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-13",
+        "phrase": "Открытая дверь раскачивалась на ветру.",
+        "fullAnalysis": "Strategic focus: Adjective agreement, nominative. 1. 'Открытая' is a feminine singular adjective matching 'дверь'. 2. The phrase stands as a noun group in the nominative. 3. Reinforces feminine endings."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-14",
+        "phrase": "Вечером все двери были закрыты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Двери' is nominative plural, the subject. 2. The short adjective 'закрыты' agrees as plural. 3. Singular gen and plural nom look alike but differ in number."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-15",
+        "phrase": "Летом мы покрасили все двери.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 1. 'Двери' is accusative plural, the direct object. 2. For this inanimate noun nom and acc plural coincide. 3. 'Покрасили' is a concrete household verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-16",
+        "phrase": "В этом доме много дверей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Дверей' is genitive plural after the quantifier 'много'. 2. The '-ей' ending marks the plural genitive. 3. Quantity words demand this case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVER-17",
+        "phrase": "Я давно стою у двери.",
+        "fullAnalysis": "Strategic focus: Genitive of proximity. 1. 'Двери' is genitive after 'у', meaning by or near. 2. The ending repeats the gen-dat-prep syncretism. 3. A frequent way to say standing at a door."
+      }
+    ]
+  }
+]

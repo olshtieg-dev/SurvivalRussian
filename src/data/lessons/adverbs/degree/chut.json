@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-CHUT",
+    "label": "Чуть",
+    "badge": "SLIGHT",
+    "description": "A 10-sentence usage card for чуть (slightly, a little).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-CHUT-01",
+        "phrase": "Подвинься чуть левее.",
+        "fullAnalysis": "Strategic focus: Slightly with a comparative. 'Чуть' means slightly or a little, here softening the comparative 'левее' to mean a touch more to the left. It precedes the word it scales down."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-02",
+        "phrase": "Сегодня чуть теплее, чем вчера.",
+        "fullAnalysis": "Strategic focus: Small comparative difference. 'Чуть' modifies 'теплее' to mark a slight rise in warmth. It marks a minimal degree of change before the comparative adverb."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-03",
+        "phrase": "Он чуть не опоздал на поезд.",
+        "fullAnalysis": "Strategic focus: The set phrase чуть не. 'Чуть не' before a verb means almost or nearly did, here nearly missed the train. The pairing always describes a near-miss event."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-04",
+        "phrase": "Говори чуть громче, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Softening a request. 'Чуть' scales the comparative adverb 'громче' to mean a little louder. It keeps the request gentle by limiting the degree."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-05",
+        "phrase": "Я чуть устал после прогулки.",
+        "fullAnalysis": "Strategic focus: A small degree of a state. 'Чуть' marks 'устал' as only slightly tired. It precedes the predicate to keep the intensity low."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-06",
+        "phrase": "Окно открыто чуть-чуть.",
+        "fullAnalysis": "Strategic focus: The reduplicated form. 'Чуть-чуть' is a common doubled variant meaning just a tiny bit. The reduplication emphasises how minimal the degree is."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-07",
+        "phrase": "Суп чуть солёный.",
+        "fullAnalysis": "Strategic focus: Lightly scaling an adjective. 'Чуть' lowers 'солёный' to mean slightly salty. It sits before the adjective to mark a faint, partial degree."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-08",
+        "phrase": "Она чуть не заплакала от радости.",
+        "fullAnalysis": "Strategic focus: Near-miss with emotion. 'Чуть не' before 'заплакала' means almost burst into tears. The phrase describes an action that very nearly took place."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-09",
+        "phrase": "Подожди чуть дольше.",
+        "fullAnalysis": "Strategic focus: A small extension of time. 'Чуть' modifies the comparative 'дольше' to mean a little longer. It limits the added duration to a slight amount."
+      },
+      {
+        "id": "AD-DEGREE-CHUT-10",
+        "phrase": "Чай ещё чуть горячий.",
+        "fullAnalysis": "Strategic focus: Faint residual state. 'Чуть' marks 'горячий' as only slightly hot, with 'ещё' adding that warmth lingers. The adverb keeps the degree minimal."
+      }
+    ]
+  }
+]

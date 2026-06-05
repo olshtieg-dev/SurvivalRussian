@@ -1,0 +1,70 @@
+[
+  {
+    "id": "BA-SVETLYI-TYOMNYI",
+    "label": "Светлый / Тёмный",
+    "badge": "LIGHT/DARK",
+    "description": "Oppositional adjective drill: светлый vs тёмный across gender, number, the comparatives светлее/темнее, and impersonal светло/темно.",
+    "missions": [
+      {
+        "id": "BA-SVETLYI-TYOMNYI-01",
+        "phrase": "Сегодня выдался ясный светлый день.",
+        "fullAnalysis": "Strategic focus: Masculine light. 1. 'Светлый' agrees with masculine 'день'. 2. Hard-stem masculine ending -ый. 3. The base form of the pair, here in a full sentence."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-02",
+        "phrase": "За деревней начинался тёмный лес.",
+        "fullAnalysis": "Strategic focus: Masculine dark. 1. 'Тёмный' agrees with masculine 'лес'. 2. The ё is mandatory in the positive form. 3. Mirrors 'светлый день'."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-03",
+        "phrase": "У нас большая светлая комната.",
+        "fullAnalysis": "Strategic focus: Feminine light. 1. 'Светлая' takes the feminine ending -ая. 2. It agrees with 'комната'. 3. Feminine counterpart of 'светлый'."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-04",
+        "phrase": "На дворе стояла тёмная ночь.",
+        "fullAnalysis": "Strategic focus: Feminine dark. 1. 'Тёмная' takes the feminine ending -ая. 2. The ё stays in the positive form. 3. Agrees with soft-sign feminine 'ночь'."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-05",
+        "phrase": "Над городом раскинулось светлое небо.",
+        "fullAnalysis": "Strategic focus: Neuter light. 1. 'Светлое' takes the neuter ending -ое. 2. It agrees with 'небо'. 3. Neuter member of the set."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-06",
+        "phrase": "На стене появилось тёмное пятно.",
+        "fullAnalysis": "Strategic focus: Neuter dark. 1. 'Тёмное' takes the neuter ending -ое. 2. The ё is kept in the positive form. 3. Agrees with neuter 'пятно'."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-07",
+        "phrase": "У сестры красивые светлые волосы.",
+        "fullAnalysis": "Strategic focus: Plural light. 1. 'Светлые' takes the plural ending -ые. 2. It agrees with plural 'волосы'. 3. Number, not gender, drives this form."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-08",
+        "phrase": "Он надел тёмные очки.",
+        "fullAnalysis": "Strategic focus: Plural dark. 1. 'Тёмные' takes the plural ending -ые. 2. The ё remains in the positive plural. 3. Agrees with plural-only 'очки'."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-09",
+        "phrase": "К утру на улице стало светлее.",
+        "fullAnalysis": "Strategic focus: Comparative brighter. 1. 'Светлее' is the comparative of 'светлый'. 2. It is invariable. 3. Contrast with the base 'светлый'."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-10",
+        "phrase": "К вечеру небо стало темнее.",
+        "fullAnalysis": "Strategic focus: Comparative darker. 1. 'Темнее' is the comparative of 'тёмный'. 2. Critically, it loses the ё and uses е. 3. Contrast with positive 'тёмный'."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-11",
+        "phrase": "Утром на улице уже светло.",
+        "fullAnalysis": "Strategic focus: Impersonal light. 1. 'Светло' is an impersonal predicative. 2. No noun to agree with. 3. States ambient brightness, not a thing."
+      },
+      {
+        "id": "BA-SVETLYI-TYOMNYI-12",
+        "phrase": "За окном уже совсем темно.",
+        "fullAnalysis": "Strategic focus: Impersonal dark. 1. 'Темно' is the impersonal predicative. 2. Note it uses е, not ё. 3. Describes ambient darkness."
+      }
+    ]
+  }
+]

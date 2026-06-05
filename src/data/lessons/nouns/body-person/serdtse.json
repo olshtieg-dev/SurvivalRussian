@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-BODY-SERDTSE",
+    "label": "Сердце",
+    "badge": "HEART",
+    "description": "The neuter noun сердце ('heart') through its case ladder and its rich idiomatic life.",
+    "missions": [
+      {
+        "id": "NN-BODY-SERDTSE-01",
+        "phrase": "Моё сердце бьётся очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Сердце' is the nominative neuter subject doing the action. 2. 'Бьётся' (3sg, reflexive бить-ся) means 'beats' and needs the ё. 3. 'Моё' agrees in the neuter; the most literal heart sentence you can build."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-02",
+        "phrase": "У меня сильно болит сердце.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Сердце' is again the nominative neuter subject. 2. 'Болит' (3sg) means 'aches', literal or emotional. 3. A high-frequency complaint frame that also reads idiomatically."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-03",
+        "phrase": "Я внимательно слушаю своё сердце.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Сердце' is the direct object of 'слушаю'. 2. For neuter nouns the accusative equals the nominative, so the form does not change. 3. Note this nom=acc syncretism every time сердце is an object."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-04",
+        "phrase": "Врач внимательно слушает моё сердце.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Сердце' is the accusative object of 'слушает'. 2. Neuter nom=acc syncretism means the bare form сердце stands here too. 3. A clinical, everyday examination scene."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-05",
+        "phrase": "У этого человека совсем нет сердца.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 1. 'Нет' forces the genitive, so сердце becomes 'сердца'. 2. The genitive ending -а is the neuter singular marker here. 3. Said figuratively it means 'he is heartless' — pure idiom."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-06",
+        "phrase": "В глубине сердца я всё понимаю.",
+        "fullAnalysis": "Strategic focus: Genitive in idiom. 1. 'Глубине' governs the genitive 'сердца' ('depth of the heart'). 2. The set phrase means 'deep down, in one's heart of hearts'. 3. This noun lives in idiom — memorize the whole expression."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-07",
+        "phrase": "Я благодарю тебя от всего сердца.",
+        "fullAnalysis": "Strategic focus: Genitive idiom. 1. 'От' takes the genitive, giving 'всего сердца'. 2. The phrase means 'with all my heart, sincerely'. 3. One of the most common Russian idioms — both words are genitive."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-08",
+        "phrase": "Я рад вам всем сердцем.",
+        "fullAnalysis": "Strategic focus: Instrumental idiom. 1. 'Сердцем' is the instrumental singular (ending -ем after soft ц). 2. 'Всем сердцем' means 'with all one's heart, wholeheartedly'. 3. A core idiom — the instrumental marks the means of feeling."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-09",
+        "phrase": "Я чувствую эту музыку всем сердцем.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 1. 'Сердцем' is instrumental singular, here meaning 'with the heart'. 2. 'Всем сердцем' is fixed idiom for total sincerity. 3. The soft-stem ending is -ем, not -ом."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-10",
+        "phrase": "Сегодня у меня тяжело на сердце.",
+        "fullAnalysis": "Strategic focus: Prepositional idiom. 1. 'На' here takes the prepositional 'сердце'. 2. The impersonal frame 'тяжело на сердце' means 'my heart is heavy'. 3. Note this noun overwhelmingly appears inside such set scenes."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-11",
+        "phrase": "В моём сердце живёт надежда.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 1. 'В сердце' is the prepositional of place ('in the heart'). 2. The form сердце also serves the prepositional here. 3. 'Надежда' is the nominative subject; needs the ё in живёт."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-12",
+        "phrase": "У неё очень доброе сердце.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Доброе' is the neuter nominative form of добрый, agreeing with сердце. 2. 'A kind heart' is a stock characterization. 3. The -ое ending marks neuter singular agreement."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-13",
+        "phrase": "У моего деда золотое сердце.",
+        "fullAnalysis": "Strategic focus: Neuter agreement idiom. 1. 'Золотое' is the neuter form of золотой agreeing with сердце. 2. 'A heart of gold' is a fixed praise idiom. 3. The -ое ending again signals neuter singular agreement."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-14",
+        "phrase": "У этой женщины большое доброе сердце.",
+        "fullAnalysis": "Strategic focus: Stacked neuter agreement. 1. Both 'большое' and 'доброе' carry the neuter -ое ending agreeing with сердце. 2. As nominative this could also be accusative — neuter nom=acc. 3. Two adjectives, one neuter head noun."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-15",
+        "phrase": "Я всегда доверяю своему сердцу.",
+        "fullAnalysis": "Strategic focus: Dative complement. 1. 'Доверяю' governs the dative, giving 'сердцу'. 2. The neuter dative singular ending is -у. 3. 'Своему' is the neuter dative possessive agreeing with сердцу."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-16",
+        "phrase": "Благодаря доброму сердцу он всем помогает.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 1. 'Благодаря' takes the dative, so сердце becomes 'сердцу'. 2. 'Доброму' is the neuter dative adjective agreeing with it. 3. The phrase means 'thanks to a kind heart'."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-17",
+        "phrase": "Их два сердца бьются вместе.",
+        "fullAnalysis": "Strategic focus: Genitive after numeral. 1. After 'два' the noun takes сердца. 2. 'Бьются' is the plural reflexive ('beat'); needs the ё. 3. A romantic idiom of two hearts as one."
+      },
+      {
+        "id": "NN-BODY-SERDTSE-18",
+        "phrase": "Наши сердца всегда открыты людям.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Сердца' is the nominative plural here (ending -а). 2. 'Наши' and 'открыты' agree in the plural. 3. Contrast with singular genitive сердца — same spelling, different stress and role."
+      }
+    ]
+  }
+]

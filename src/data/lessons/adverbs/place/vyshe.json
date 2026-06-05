@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-VYSHE",
+    "label": "Выше",
+    "badge": "HIGHER",
+    "description": "A 10-sentence usage card for выше (higher, above).",
+    "missions": [
+      {
+        "id": "AD-PLACE-VYSHE-01",
+        "phrase": "Подними картину немного выше.",
+        "fullAnalysis": "Strategic focus: Comparative direction. 'Выше' is the comparative of высоко, marking a higher position. It modifies 'подними', telling how much further up to move the picture."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-02",
+        "phrase": "Облака плывут высоко, выше гор.",
+        "fullAnalysis": "Strategic focus: Comparison of height. 'Выше' here takes the genitive 'гор', marking the clouds as positioned above the mountains. It states a static relative location higher than something."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-03",
+        "phrase": "Орёл летит выше всех птиц.",
+        "fullAnalysis": "Strategic focus: Superlative-like comparison. 'Выше' with the genitive 'всех птиц' marks the eagle flying above every other bird. It names the highest relative position in flight."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-04",
+        "phrase": "Наша квартира этажом выше.",
+        "fullAnalysis": "Strategic focus: One level up. 'Выше' marks a position higher than the current one, here one floor up. The instrumental 'этажом' measures the difference in height."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-05",
+        "phrase": "Солнце поднимается всё выше.",
+        "fullAnalysis": "Strategic focus: Rising ever higher. 'Выше' marks an increasingly high position, modifying 'поднимается'. The 'всё' stresses a continuous rise to a greater height."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-06",
+        "phrase": "Повесь полку чуть выше окна.",
+        "fullAnalysis": "Strategic focus: Relative placement. 'Выше' takes the genitive 'окна', marking the shelf as positioned above the window. It states where to hang it, higher than a reference point."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-07",
+        "phrase": "Прыгай выше, ты можешь.",
+        "fullAnalysis": "Strategic focus: Encouraging greater height. 'Выше' modifies 'прыгай', urging a jump that reaches higher than before. It marks a comparative degree of upward motion."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-08",
+        "phrase": "Самолёт набрал высоту выше облаков.",
+        "fullAnalysis": "Strategic focus: Above a reference point. 'Выше' takes the genitive 'облаков', marking the plane as positioned above the clouds. It names a static relative height after the climb."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-09",
+        "phrase": "Смотри выше, там летит самолёт.",
+        "fullAnalysis": "Strategic focus: Directing the gaze higher. 'Выше' marks a higher target for looking, modifying 'смотри'. It tells the listener to raise the eyes to a greater height."
+      },
+      {
+        "id": "AD-PLACE-VYSHE-10",
+        "phrase": "Гора стоит выше, чем холм.",
+        "fullAnalysis": "Strategic focus: Explicit comparison. 'Выше' here pairs with 'чем' to compare the mountain's height against the hill. The construction marks one thing as positioned higher than another."
+      }
+    ]
+  }
+]

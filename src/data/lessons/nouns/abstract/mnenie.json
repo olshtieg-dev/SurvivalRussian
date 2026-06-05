@@ -7,53 +7,53 @@
     "missions": [
       {
         "id": "NN-ABSTRACT-MNENIE-01",
-        "phrase": "моё мнение",
-        "fullAnalysis": "Strategic focus: Possessive opinion. 1. 'Мое' agrees with the neuter noun. 2. 'Мнение' is a core abstract noun for discussion. 3. This is one of the most useful opinion frames."
+        "phrase": "Это только моё личное мнение.",
+        "fullAnalysis": "Strategic focus: Possessive opinion (nominative). 1. 'Моё' agrees with neuter 'мнение' in the nominative. 2. 'Личное' adds a softening hedge. 3. A high-frequency frame for stating a view without claiming authority."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-02",
-        "phrase": "твоё мнение важно",
-        "fullAnalysis": "Strategic focus: Social evaluation. 1. 'Твое' personalizes the noun. 2. 'Важно' gives the statement weight. 3. The sentence is natural in conversations and meetings."
+        "phrase": "Для меня твоё мнение очень важно.",
+        "fullAnalysis": "Strategic focus: Social evaluation (nominative subject). 1. 'Твоё мнение' is the neuter nominative subject. 2. 'Важно' carries the predicate weight. 3. Natural in meetings and personal conversations alike."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-03",
-        "phrase": "мнение друга",
-        "fullAnalysis": "Strategic focus: Ownership and source. 1. 'Друга' tells whose opinion it is. 2. The sentence is short and concrete. 3. This is a very reusable relational noun phrase."
+        "phrase": "Мне интересно мнение друга.",
+        "fullAnalysis": "Strategic focus: Source of a view (nominative). 1. 'Мнение' stays nominative as the logical subject of 'интересно'. 2. 'Друга' (genitive) names whose opinion it is. 3. A reusable relational phrase."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-04",
-        "phrase": "у меня есть мнение",
-        "fullAnalysis": "Strategic focus: Possession frame. 1. 'У меня есть' gives the standard Russian structure. 2. 'Мнение' is the thing possessed. 3. This is a strong talk-and-debate sentence."
+        "phrase": "У меня есть своё мнение об этом.",
+        "fullAnalysis": "Strategic focus: Possession frame (nominative). 1. 'У меня есть' is the standard Russian have-structure, taking the nominative. 2. 'Мнение' is the thing possessed. 3. Strong sentence for debate."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-05",
-        "phrase": "по моему мнению",
-        "fullAnalysis": "Strategic focus: Fixed opinion phrase. 1. 'По моему мнению' is one of the most important Russian opinion markers. 2. The phrase is a high-frequency discourse tool. 3. It belongs in any serious language set."
+        "phrase": "По моему мнению, он совершенно прав.",
+        "fullAnalysis": "Strategic focus: Fixed opinion marker (prepositional). 1. 'По' here governs the dative 'мнению' in this set phrase. 2. 'По моему мнению' is a top discourse opener. 3. Essential for any serious set."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-06",
-        "phrase": "я не согласен с мнением",
-        "fullAnalysis": "Strategic focus: Argument language. 1. 'Не согласен' signals disagreement. 2. 'С мнением' gives the target of the disagreement. 3. This is a very useful real conversational sentence."
+        "phrase": "Я совсем не согласен с этим мнением.",
+        "fullAnalysis": "Strategic focus: Argument language (instrumental). 1. 'Не согласен' signals disagreement. 2. 'С мнением' takes the instrumental after 'с'. 3. A very useful real conversational sentence."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-07",
-        "phrase": "мнение меняется",
-        "fullAnalysis": "Strategic focus: Change over time. 1. 'Мнение' is the thing that changes. 2. 'Меняется' gives the sentence motion and flexibility. 3. This is useful for reasoning and discussion."
+        "phrase": "Со временем моё мнение меняется.",
+        "fullAnalysis": "Strategic focus: Change over time (nominative subject). 1. 'Мнение' is the neuter nominative subject of 'меняется'. 2. 'Со временем' frames the gradual shift. 3. Useful for reasoning and discussion."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-08",
-        "phrase": "спрашиваю мнение",
-        "fullAnalysis": "Strategic focus: Requesting input. 1. 'Спрашиваю' is a practical first-person verb. 2. 'Мнение' is the object being requested. 3. The line is simple, social, and very reusable."
+        "phrase": "Я часто спрашиваю мнение коллег.",
+        "fullAnalysis": "Strategic focus: Requesting input (accusative). 1. 'Мнение' is the direct object; neuter accusative matches the nominative. 2. 'Спрашиваю' is a practical first-person verb. 3. Simple and social."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-09",
-        "phrase": "мнение о книге",
-        "fullAnalysis": "Strategic focus: Aboutness phrase. 1. 'О книге' is the standard 'about the book' shape. 2. 'Мнение' stays central and abstract. 3. This is ideal for review and discussion language."
+        "phrase": "Какое у тебя мнение о книге?",
+        "fullAnalysis": "Strategic focus: Aboutness question (nominative). 1. 'Мнение' is nominative inside the 'у тебя' frame. 2. 'О книге' is the standard 'about the book' shape. 3. Ideal for review and discussion language."
       },
       {
         "id": "NN-ABSTRACT-MNENIE-10",
-        "phrase": "разное мнение",
-        "fullAnalysis": "Strategic focus: Contrast in thought. 1. 'Разное' describes differing views. 2. 'Мнение' remains the noun anchor. 3. This is a strong phrase for debate and comparison."
+        "phrase": "У всех нас разное мнение об этом.",
+        "fullAnalysis": "Strategic focus: Contrast in thought (nominative). 1. 'Разное' describes differing views, agreeing with neuter 'мнение'. 2. 'Мнение' is the nominative anchor. 3. Strong phrase for debate and comparison."
       }
     ]
   }

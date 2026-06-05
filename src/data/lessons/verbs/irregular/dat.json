@@ -1,0 +1,120 @@
+[
+  {
+    "id": "VB-DAT",
+    "label": "Дать",
+    "badge": "GIVE",
+    "description": "A full deck for irregular дать (perf., future-meaning дам/дашь/даст/дадим/дадите/дадут) and its imperfective давать, plus the imperatives дай and давай.",
+    "missions": [
+      {
+        "id": "VB-DAT-01",
+        "phrase": "Завтра я дам тебе ответ.",
+        "fullAnalysis": "Strategic focus: 1sg perfective. 1. 'Дам' is the irregular 1sg of дать. 2. Perfective дать has FUTURE meaning here: 'I will give'. 3. 'Тебе' is dative recipient, 'ответ' accusative thing given."
+      },
+      {
+        "id": "VB-DAT-02",
+        "phrase": "Ты дашь мне честное слово?",
+        "fullAnalysis": "Strategic focus: 2sg perfective. 1. 'Дашь' is the irregular 2sg of дать. 2. Perfective form is future: 'you will give'. 3. Idiom дать слово = to promise; 'слово' is accusative."
+      },
+      {
+        "id": "VB-DAT-03",
+        "phrase": "Он обязательно даст знать о приезде.",
+        "fullAnalysis": "Strategic focus: 3sg perfective. 1. 'Даст' is the irregular 3sg of дать. 2. Perfective: future meaning 'he will let know'. 3. Дать знать = to let someone know; 'о приезде' is prepositional."
+      },
+      {
+        "id": "VB-DAT-04",
+        "phrase": "Надеюсь, она даст немного денег.",
+        "fullAnalysis": "Strategic focus: 3sg perfective. 1. 'Даст' is the irregular 3sg of дать. 2. Perfective form means future: 'she will give'. 3. 'Денег' is partitive genitive after 'немного': some money."
+      },
+      {
+        "id": "VB-DAT-05",
+        "phrase": "Мы дадим ему ещё один шанс.",
+        "fullAnalysis": "Strategic focus: 1pl perfective. 1. 'Дадим' is the irregular 1pl of дать. 2. Perfective: future meaning 'we will give'. 3. 'Ему' is dative recipient, 'шанс' accusative thing given."
+      },
+      {
+        "id": "VB-DAT-06",
+        "phrase": "Вы дадите нам немного времени?",
+        "fullAnalysis": "Strategic focus: 2pl perfective. 1. 'Дадите' is the irregular 2pl of дать. 2. Perfective form is future: 'you will give'. 3. 'Времени' is partitive genitive after 'немного': some time."
+      },
+      {
+        "id": "VB-DAT-07",
+        "phrase": "Они дадут нам полезный совет.",
+        "fullAnalysis": "Strategic focus: 3pl perfective. 1. 'Дадут' is the irregular 3pl of дать. 2. Perfective: future meaning 'they will give'. 3. 'Нам' is dative recipient, 'совет' accusative thing given."
+      },
+      {
+        "id": "VB-DAT-08",
+        "phrase": "Вчера я дал ей твёрдое обещание.",
+        "fullAnalysis": "Strategic focus: masc. past. 1. 'Дал' is the masculine singular past of дать. 2. Perfective past: a completed act, 'I gave'. 3. 'Ей' is dative recipient, 'обещание' accusative thing given."
+      },
+      {
+        "id": "VB-DAT-09",
+        "phrase": "Она дала мне ключ от квартиры.",
+        "fullAnalysis": "Strategic focus: fem. past. 1. 'Дала' is the feminine past of дать, end-stressed дала́. 2. Perfective past: completed 'she gave'. 3. 'Мне' is dative recipient, 'ключ' accusative thing given."
+      },
+      {
+        "id": "VB-DAT-10",
+        "phrase": "Старое радио вдруг дало сигнал.",
+        "fullAnalysis": "Strategic focus: neuter past. 1. 'Дало' is the neuter past of дать. 2. Perfective past: completed 'gave'. 3. The neuter subject 'радио' triggers the -о ending; 'сигнал' is accusative."
+      },
+      {
+        "id": "VB-DAT-11",
+        "phrase": "Они дали друг другу обещание.",
+        "fullAnalysis": "Strategic focus: plural past. 1. 'Дали' is the plural past of дать. 2. Perfective past: completed act 'they gave'. 3. 'Друг другу' is dative reciprocal, 'обещание' accusative thing given."
+      },
+      {
+        "id": "VB-DAT-12",
+        "phrase": "По вторникам я даю урок музыки.",
+        "fullAnalysis": "Strategic focus: 1sg imperfective. 1. 'Даю' is the 1sg of imperfective давать. 2. Imperfective present is TRUE present: 'I give'. 3. Habitual sense; 'урок музыки' is accusative thing given."
+      },
+      {
+        "id": "VB-DAT-13",
+        "phrase": "Ты даёшь детям слишком много свободы.",
+        "fullAnalysis": "Strategic focus: 2sg imperfective. 1. 'Даёшь' is the 2sg of imperfective давать (note ё). 2. Present tense, true present: 'you give'. 3. 'Детям' is dative, 'свободы' genitive after 'много'."
+      },
+      {
+        "id": "VB-DAT-14",
+        "phrase": "Каждый день он даёт уроки английского.",
+        "fullAnalysis": "Strategic focus: 3sg imperfective. 1. 'Даёт' is the 3sg of imperfective давать (note ё). 2. Present tense, true present: 'he gives'. 3. Habitual; 'уроки' is accusative plural thing given."
+      },
+      {
+        "id": "VB-DAT-15",
+        "phrase": "Сегодня вечером мы даём концерт.",
+        "fullAnalysis": "Strategic focus: 1pl imperfective. 1. 'Даём' is the 1pl of imperfective давать (note ё). 2. Present tense, true present: 'we give'. 3. 'Концерт' is accusative thing given."
+      },
+      {
+        "id": "VB-DAT-16",
+        "phrase": "Родители всегда дают ему деньги.",
+        "fullAnalysis": "Strategic focus: 3pl imperfective. 1. 'Дают' is the 3pl of imperfective давать. 2. Present tense, true present: 'they give'. 3. 'Ему' is dative recipient, 'деньги' accusative thing given."
+      },
+      {
+        "id": "VB-DAT-17",
+        "phrase": "Пожалуйста, дай мне эту книгу.",
+        "fullAnalysis": "Strategic focus: imperative + government. 1. 'Дай' is the perfective imperative of дать. 2. 'Мне' is dative recipient. 3. 'Книгу' is accusative thing: dative + accusative government."
+      },
+      {
+        "id": "VB-DAT-18",
+        "phrase": "Дайте нам, пожалуйста, воды.",
+        "fullAnalysis": "Strategic focus: plural imperative. 1. 'Дайте' is the polite/plural perfective imperative of дать. 2. 'Нам' is dative recipient. 3. 'Воды' is partitive genitive: some water."
+      },
+      {
+        "id": "VB-DAT-19",
+        "phrase": "Давай поужинаем сегодня вместе.",
+        "fullAnalysis": "Strategic focus: imperfective imperative. 1. 'Давай' is the imperative of давать. 2. With a perfective verb it forms the hortative 'let's…'. 3. 'Поужинаем' is 1pl perfective: 'let's have dinner'."
+      },
+      {
+        "id": "VB-DAT-20",
+        "phrase": "Давайте наконец начнём собрание.",
+        "fullAnalysis": "Strategic focus: hortative. 1. 'Давайте' is the plural imperative of давать. 2. Here it means 'let's…', inviting joint action. 3. 'Начнём' is 1pl perfective: 'we will begin'; 'собрание' accusative."
+      },
+      {
+        "id": "VB-DAT-21",
+        "phrase": "Он дал старому другу мудрый совет.",
+        "fullAnalysis": "Strategic focus: dative + accusative. 1. 'Дал' is the masc. past of дать. 2. 'Другу' is dative recipient. 3. 'Совет' is accusative thing: the verb governs dative + accusative."
+      },
+      {
+        "id": "VB-DAT-22",
+        "phrase": "Завтра утром я дам тебе книгу.",
+        "fullAnalysis": "Strategic focus: future + government. 1. 'Дам' is the irregular 1sg of perfective дать, future meaning 'I will give'. 2. 'Тебе' is dative recipient. 3. 'Книгу' is accusative thing given."
+      }
+    ]
+  }
+]

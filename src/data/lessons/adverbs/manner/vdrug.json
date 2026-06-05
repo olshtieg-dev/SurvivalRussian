@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-VDRUG",
+    "label": "Вдруг",
+    "badge": "SUDDEN",
+    "description": "A 10-sentence usage card for вдруг (suddenly) covering abrupt action and the 'what if' conditional use.",
+    "missions": [
+      {
+        "id": "AD-MANNER-VDRUG-01",
+        "phrase": "Вдруг пошёл сильный дождь.",
+        "fullAnalysis": "Strategic focus: Sudden onset. 'Вдруг' means 'suddenly' and modifies 'пошёл', marking an abrupt, unexpected start. Placed at the front, it signals surprise from the first word."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-02",
+        "phrase": "Она вдруг замолчала.",
+        "fullAnalysis": "Strategic focus: Abrupt change. 'Вдруг' modifies the verb 'замолчала', showing a sudden break in speaking. It conveys that the silence came without warning."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-03",
+        "phrase": "Вдруг кто-то постучал в дверь.",
+        "fullAnalysis": "Strategic focus: Narrative surprise. 'Вдруг' opens the clause and modifies 'постучал', a classic device in storytelling to introduce an unexpected event."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-04",
+        "phrase": "А вдруг он не придёт?",
+        "fullAnalysis": "Strategic focus: The 'what if' use. Here 'вдруг' means 'what if', expressing worry about a possibility. The frame 'а вдруг' opens an anxious hypothetical question."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-05",
+        "phrase": "Машина вдруг остановилась.",
+        "fullAnalysis": "Strategic focus: Unexpected stop. 'Вдруг' modifies 'остановилась', marking a sudden halt. The adverb sits between subject and verb, a natural middle position."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-06",
+        "phrase": "Вдруг я вспомнил твоё имя.",
+        "fullAnalysis": "Strategic focus: Sudden realisation. 'Вдруг' modifies 'вспомнил', showing a memory that arrived all at once. It frames the recall as spontaneous."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-07",
+        "phrase": "Возьми зонт, вдруг будет дождь.",
+        "fullAnalysis": "Strategic focus: Precautionary 'in case'. Here 'вдруг' means 'in case', justifying a precaution. It introduces a possible future situation worth preparing for."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-08",
+        "phrase": "Свет вдруг погас в комнате.",
+        "fullAnalysis": "Strategic focus: Sudden event. 'Вдруг' modifies 'погас', stressing that the light went out without warning. It heightens the drama of an everyday moment."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-09",
+        "phrase": "Он вдруг начал громко смеяться.",
+        "fullAnalysis": "Strategic focus: Abrupt reaction. 'Вдруг' modifies 'начал', marking a laughter that broke out unexpectedly. The adverb conveys spontaneity of the reaction."
+      },
+      {
+        "id": "AD-MANNER-VDRUG-10",
+        "phrase": "Вдруг всё стало понятно.",
+        "fullAnalysis": "Strategic focus: Sudden clarity. 'Вдруг' modifies the change verb 'стало', showing that understanding came in an instant. A common way to describe a flash of insight."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-SNOVA",
+    "label": "Снова",
+    "badge": "AGAIN",
+    "description": "A 10-sentence usage card for снова (again, anew).",
+    "missions": [
+      {
+        "id": "AD-TIME-SNOVA-01",
+        "phrase": "На улице снова идёт дождь.",
+        "fullAnalysis": "Strategic focus: Repetition of an event. 'Снова' means again and modifies 'идёт', showing the rain has returned. It signals a fresh recurrence, a slightly more neutral and literary alternative to 'опять'."
+      },
+      {
+        "id": "AD-TIME-SNOVA-02",
+        "phrase": "Он снова забыл свои ключи.",
+        "fullAnalysis": "Strategic focus: Repeated mistake. 'Снова' modifies 'забыл' to mark a recurrence of the same action. Placed before the verb, it stresses that this has happened before, here with a faint sigh of frustration."
+      },
+      {
+        "id": "AD-TIME-SNOVA-03",
+        "phrase": "Мы снова встретились через год.",
+        "fullAnalysis": "Strategic focus: Renewed meeting. 'Снова' modifies 'встретились' to show the meeting happened once more. The adverb conveys a return to an earlier state, fitting for a reunion."
+      },
+      {
+        "id": "AD-TIME-SNOVA-04",
+        "phrase": "Попробуй снова, не сдавайся!",
+        "fullAnalysis": "Strategic focus: Encouragement to retry. 'Снова' modifies the imperative 'попробуй', urging another attempt. Here it follows the verb for emphasis, a natural spot in spoken encouragement."
+      },
+      {
+        "id": "AD-TIME-SNOVA-05",
+        "phrase": "Весной природа снова оживает.",
+        "fullAnalysis": "Strategic focus: Cyclical renewal. 'Снова' modifies 'оживает' to mark the return of life each spring. The adverb suits this poetic, recurring image and sits naturally before the verb."
+      },
+      {
+        "id": "AD-TIME-SNOVA-06",
+        "phrase": "Я снова прочитал эту книгу.",
+        "fullAnalysis": "Strategic focus: Repeated completed action. 'Снова' modifies the perfective 'прочитал' to mean the book was read once more. The adverb pairs cleanly with the past tense to show a second full reading."
+      },
+      {
+        "id": "AD-TIME-SNOVA-07",
+        "phrase": "Телефон снова не работает.",
+        "fullAnalysis": "Strategic focus: Recurring problem. 'Снова' modifies the negated 'не работает' to stress that the fault has come back. Placed before the negation, it underlines the repetition of the breakdown."
+      },
+      {
+        "id": "AD-TIME-SNOVA-08",
+        "phrase": "После болезни она снова улыбается.",
+        "fullAnalysis": "Strategic focus: Return to a former state. 'Снова' modifies 'улыбается' to show that the smiling has resumed after the illness. The adverb marks the comeback of a previous condition."
+      },
+      {
+        "id": "AD-TIME-SNOVA-09",
+        "phrase": "Давай снова послушаем эту песню.",
+        "fullAnalysis": "Strategic focus: Suggesting a repeat. 'Снова' modifies 'послушаем' inside a 'давай' proposal, suggesting another listen. The adverb sits before the verb, framing a friendly invitation to repeat."
+      },
+      {
+        "id": "AD-TIME-SNOVA-10",
+        "phrase": "Зачем ты снова это спрашиваешь?",
+        "fullAnalysis": "Strategic focus: Repetition in a question. 'Снова' modifies 'спрашиваешь' to ask why the question is being repeated. With 'зачем' it carries a mild reproach about the recurrence."
+      }
+    ]
+  }
+]

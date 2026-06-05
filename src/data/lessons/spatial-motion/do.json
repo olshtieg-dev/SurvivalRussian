@@ -1,0 +1,85 @@
+[
+  {
+    "id": "SM-DO",
+    "label": "До",
+    "badge": "UNTIL",
+    "description": "The preposition до ('up to/until/before') + genitive: spatial and temporal limits, plus the от…до pairing.",
+    "missions": [
+      {
+        "id": "SM-DO-01",
+        "phrase": "Иди прямо до угла.",
+        "fullAnalysis": "Strategic focus: Spatial limit. 1. 'До угла' marks the endpoint of the movement. 2. The genitive case follows до. 3. The imperative иди names reaching that limit."
+      },
+      {
+        "id": "SM-DO-02",
+        "phrase": "До города ещё очень далеко.",
+        "fullAnalysis": "Strategic focus: Spatial distance. 1. 'До города' sets the far endpoint. 2. The genitive case follows до. 3. Далеко measures the span to that limit."
+      },
+      {
+        "id": "SM-DO-03",
+        "phrase": "Я проводил гостя до двери.",
+        "fullAnalysis": "Strategic focus: Spatial limit. 1. 'До двери' marks the endpoint reached. 2. The genitive case follows до. 3. The verb проводил names accompanying to that limit."
+      },
+      {
+        "id": "SM-DO-04",
+        "phrase": "Мы дошли до конца улицы.",
+        "fullAnalysis": "Strategic focus: Spatial limit. 1. 'До конца' names the far endpoint. 2. The genitive case follows до, and улицы is also genitive. 3. The chain marks how far."
+      },
+      {
+        "id": "SM-DO-05",
+        "phrase": "Я работаю до вечера.",
+        "fullAnalysis": "Strategic focus: Temporal limit. 1. 'До вечера' bounds the time until evening. 2. The genitive case follows до. 3. A clean until-when line."
+      },
+      {
+        "id": "SM-DO-06",
+        "phrase": "Отложим этот разговор до завтра.",
+        "fullAnalysis": "Strategic focus: Temporal limit. 1. 'До завтра' bounds the time until tomorrow. 2. The genitive form follows до. 3. It postpones the matter."
+      },
+      {
+        "id": "SM-DO-07",
+        "phrase": "Магазин открыт только до обеда.",
+        "fullAnalysis": "Strategic focus: Temporal limit. 1. 'До обеда' bounds the time until lunch. 2. The genitive case follows до. 3. It frames the morning span."
+      },
+      {
+        "id": "SM-DO-08",
+        "phrase": "Нужно закончить проект до конца недели.",
+        "fullAnalysis": "Strategic focus: Temporal limit. 1. 'До конца' bounds the time at week's end. 2. The genitive case follows до, and недели is also genitive. 3. A deadline span."
+      },
+      {
+        "id": "SM-DO-09",
+        "phrase": "Этот дом построили ещё до войны.",
+        "fullAnalysis": "Strategic focus: 'Before' sense. 1. 'До войны' places the event before the war. 2. The genitive case follows до. 3. Here до means prior to, not until."
+      },
+      {
+        "id": "SM-DO-10",
+        "phrase": "Я волнуюсь до встречи с ним.",
+        "fullAnalysis": "Strategic focus: 'Before' sense. 1. 'До встречи' marks the time before the meeting. 2. The genitive case follows до. 3. Here до means prior to that event."
+      },
+      {
+        "id": "SM-DO-11",
+        "phrase": "До свидания, увидимся завтра.",
+        "fullAnalysis": "Strategic focus: Farewell. 1. 'До свидания' is the standard goodbye. 2. The genitive case follows до. 3. Literally 'until the next seeing'."
+      },
+      {
+        "id": "SM-DO-12",
+        "phrase": "Ну, до скорого, пиши мне.",
+        "fullAnalysis": "Strategic focus: Farewell. 1. 'До скорого' is a casual 'see you soon'. 2. The genitive form follows до. 3. The adjective stands in for a noun."
+      },
+      {
+        "id": "SM-DO-13",
+        "phrase": "От дома до работы всего час.",
+        "fullAnalysis": "Strategic focus: От…до pairing. 1. 'От дома' gives the start, 'до работы' the end. 2. Both prepositions take the genitive case. 3. The pair frames the full span."
+      },
+      {
+        "id": "SM-DO-14",
+        "phrase": "Мы танцевали до самого утра.",
+        "fullAnalysis": "Strategic focus: Temporal limit. 1. 'До утра' bounds the time until morning. 2. The genitive case follows до; самого agrees with утра. 3. Самого intensifies the limit."
+      },
+      {
+        "id": "SM-DO-15",
+        "phrase": "Спасибо за вечер, до новых встреч.",
+        "fullAnalysis": "Strategic focus: Farewell. 1. 'До новых встреч' is a warm 'until we meet again'. 2. The genitive plural follows до. 3. Новых agrees with встреч."
+      }
+    ]
+  }
+]

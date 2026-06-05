@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-PRYAMO",
+    "label": "Прямо",
+    "badge": "STRGHT",
+    "description": "A 10-sentence usage card for прямо (straight, directly).",
+    "missions": [
+      {
+        "id": "AD-PLACE-PRYAMO-01",
+        "phrase": "Идите прямо до светофора.",
+        "fullAnalysis": "Strategic focus: Direction of travel. 'Прямо' means straight ahead and modifies the imperative 'идите', marking the line of motion. It is the core word for giving walking directions."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-02",
+        "phrase": "Машина едет прямо по дороге.",
+        "fullAnalysis": "Strategic focus: Straight movement. 'Прямо' modifies 'едет' to show the car moving in a straight line. The adverb fixes the direction, while 'по дороге' names the surface of travel."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-03",
+        "phrase": "Смотри прямо мне в глаза.",
+        "fullAnalysis": "Strategic focus: Direct gaze. 'Прямо' modifies 'смотри' to mean looking directly, without turning aside. It intensifies the directness of the eye contact in this firm imperative."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-04",
+        "phrase": "Дом находится прямо за углом.",
+        "fullAnalysis": "Strategic focus: Right at a spot. 'Прямо' here means right or just, intensifying the location 'за углом'. In this use it sharpens the precision of where the house is."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-05",
+        "phrase": "Иди прямо, потом поверни налево.",
+        "fullAnalysis": "Strategic focus: Step-by-step directions. 'Прямо' modifies 'иди' to mark the first straight stretch before a turn. It is the natural opener in a chain of route instructions."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-06",
+        "phrase": "Скажи мне прямо, что случилось.",
+        "fullAnalysis": "Strategic focus: Speaking frankly. 'Прямо' modifies 'скажи' to mean directly or bluntly, with no evasion. This figurative sense extends the straight-line image to honest speech."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-07",
+        "phrase": "Окно выходит прямо на площадь.",
+        "fullAnalysis": "Strategic focus: Direct outlook. 'Прямо' modifies 'выходит' to show the window facing straight onto the square. The adverb stresses an unobstructed, direct orientation."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-08",
+        "phrase": "Мяч полетел прямо в ворота.",
+        "fullAnalysis": "Strategic focus: Straight trajectory. 'Прямо' modifies 'полетел' to mark a direct flight path. With 'в ворота' it shows the ball heading straight into the goal."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-09",
+        "phrase": "Поставь стул прямо у окна.",
+        "fullAnalysis": "Strategic focus: Right by a place. 'Прямо' here means right, intensifying the location 'у окна'. It tells exactly where to put the chair, close against the window."
+      },
+      {
+        "id": "AD-PLACE-PRYAMO-10",
+        "phrase": "Как мне пройти прямо к вокзалу?",
+        "fullAnalysis": "Strategic focus: Asking for a direct route. 'Прямо' modifies 'пройти' to ask for the straight way to the station. In this question it requests a direct path toward the goal."
+      }
+    ]
+  }
+]

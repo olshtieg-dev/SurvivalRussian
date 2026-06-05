@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-OPYAT",
+    "label": "Опять",
+    "badge": "AGAIN",
+    "description": "A 10-sentence usage card for опять (again).",
+    "missions": [
+      {
+        "id": "AD-TIME-OPYAT-01",
+        "phrase": "Ты опять опоздал на урок!",
+        "fullAnalysis": "Strategic focus: Annoyed repetition. 'Опять' means again and modifies 'опоздал', stressing that the lateness has happened once more. It is the colloquial twin of 'снова' and often carries a tone of irritation."
+      },
+      {
+        "id": "AD-TIME-OPYAT-02",
+        "phrase": "На небе опять собираются тучи.",
+        "fullAnalysis": "Strategic focus: Recurring weather. 'Опять' modifies 'собираются' to show the clouds are gathering again. The adverb sits before the verb, marking a familiar repeat of the scene."
+      },
+      {
+        "id": "AD-TIME-OPYAT-03",
+        "phrase": "Он опять рассказывает ту же историю.",
+        "fullAnalysis": "Strategic focus: Tiresome repetition. 'Опять' modifies 'рассказывает' to mark the retelling as one more in a series. The adverb conveys mild weariness, very natural in casual speech."
+      },
+      {
+        "id": "AD-TIME-OPYAT-04",
+        "phrase": "Лифт опять сломался сегодня утром.",
+        "fullAnalysis": "Strategic focus: Repeated breakdown. 'Опять' modifies 'сломался' to stress that the lift has failed again. Placed before the verb, it underlines a recurring everyday annoyance."
+      },
+      {
+        "id": "AD-TIME-OPYAT-05",
+        "phrase": "Мы опять заблудились в лесу.",
+        "fullAnalysis": "Strategic focus: Repeating a mistake. 'Опять' modifies 'заблудились' to show getting lost happened once more. The adverb hugs the verb and gives the sentence a rueful, conversational feel."
+      },
+      {
+        "id": "AD-TIME-OPYAT-06",
+        "phrase": "Почему ты опять плачешь?",
+        "fullAnalysis": "Strategic focus: Repetition in a question. 'Опять' modifies 'плачешь' to ask why the crying has resumed. With 'почему' it gives the question a worried or impatient tone."
+      },
+      {
+        "id": "AD-TIME-OPYAT-07",
+        "phrase": "Сосед опять громко слушает музыку.",
+        "fullAnalysis": "Strategic focus: Recurring nuisance. 'Опять' modifies 'слушает' to mark the loud music as a repeat offence. The adverb sits before the verb and carries clear everyday exasperation."
+      },
+      {
+        "id": "AD-TIME-OPYAT-08",
+        "phrase": "Я опять забыл, как тебя зовут.",
+        "fullAnalysis": "Strategic focus: Repeated forgetting. 'Опять' modifies 'забыл' to admit the lapse has happened before. Placed before the verb, it adds a self-deprecating, apologetic note."
+      },
+      {
+        "id": "AD-TIME-OPYAT-09",
+        "phrase": "Цены опять выросли в этом месяце.",
+        "fullAnalysis": "Strategic focus: Renewed change. 'Опять' modifies 'выросли' to show the prices rose once more. The adverb marks an unwelcome repetition, common in everyday complaints."
+      },
+      {
+        "id": "AD-TIME-OPYAT-10",
+        "phrase": "Давай опять сыграем в шахматы.",
+        "fullAnalysis": "Strategic focus: Proposing a repeat. 'Опять' modifies 'сыграем' inside a 'давай' suggestion to play once more. Here the adverb carries a neutral, friendly wish to do it again."
+      }
+    ]
+  }
+]

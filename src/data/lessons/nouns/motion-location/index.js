@@ -1,8 +1,27 @@
 import dorogaSet from './doroga.json';
 import putSet from './put.json';
+import gorodSet from './gorod.json';
+import ulitsaSet from './ulitsa.json';
+import domSet from './dom.json';
+import mestoSet from './mesto.json';
+import mostSet from './most.json';
+import ugolSet from './ugol.json';
+import ploshchadSet from './ploshchad.json';
+import stantsiyaSet from './stantsiya.json';
 
 export const motionLocationNounsFolderId = 'nouns-motion-location';
-const motionLocationNounsData = [...dorogaSet, ...putSet];
+const motionLocationNounsData = [
+  ...dorogaSet,
+  ...putSet,
+  ...gorodSet,
+  ...ulitsaSet,
+  ...domSet,
+  ...mestoSet,
+  ...mostSet,
+  ...ugolSet,
+  ...ploshchadSet,
+  ...stantsiyaSet,
+];
 
 export const motionLocationNounsFolder = {
   id: motionLocationNounsFolderId,

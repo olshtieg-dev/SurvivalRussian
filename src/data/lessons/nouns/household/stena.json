@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-STENA",
+    "label": "Стена",
+    "badge": "WALL",
+    "description": "Full declension ladder for стена (wall): all six singular cases plus plural, adjective agreement, and common prepositional placement scenes.",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-STENA-01",
+        "phrase": "В зале стена очень высокая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Стена' is the dictionary form, nominative feminine singular, the subject of the sentence. 2. 'Высокая' is the agreeing nominative adjective. 3. A plain descriptive sentence with no verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-02",
+        "phrase": "В комнате гладкая белая стена.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Стена' is nominative feminine singular, the subject. 2. 'Белая' and 'гладкая' are nominative feminine adjectives matching the noun. 3. A simple colour sentence showing adjective-noun agreement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-03",
+        "phrase": "Вокруг сада тянется высокая стена.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Стена' remains nominative feminine singular, the subject. 2. 'Высокая' is the agreeing nominative adjective. 3. Another agreement pattern describing a tall wall."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-04",
+        "phrase": "Сегодня я крашу стену в спальне.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Стену' is accusative singular, the direct object being painted. 2. 'Крашу' is first-person singular of красить. 3. A transitive sentence with a direct object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-05",
+        "phrase": "Я повесил зеркало на стену.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 1. 'На стену' uses accusative after 'на' to show motion onto a surface. 2. 'Повесил' is past tense of повесить. 3. A common sentence about hanging something up."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-06",
+        "phrase": "Мне очень нравится цвет стены.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Стены' is genitive singular, expressing 'of the wall'. 2. 'Цвет' is the nominative head noun. 3. A short sentence showing the genitive of belonging."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-07",
+        "phrase": "Он любит стоять у стены.",
+        "fullAnalysis": "Strategic focus: Genitive after 'у'. 1. 'У стены' takes genitive singular to mean 'by the wall'. 2. 'Стоять' is the infinitive 'to stand'. 3. A spatial sentence placing someone beside the wall."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-08",
+        "phrase": "Ребёнок начал идти к стене.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 1. 'К стене' uses dative singular after 'к' to show movement toward. 2. 'Идти' is the infinitive 'to go'. 3. A motion sentence aimed at the wall."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-09",
+        "phrase": "Художник медленно подошёл к стене.",
+        "fullAnalysis": "Strategic focus: Dative goal. 1. 'К стене' is dative singular marking the goal of approach. 2. 'Подошёл' is past tense of подойти. 3. A sentence describing a completed approach toward the wall."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-10",
+        "phrase": "За стеной слышен громкий шум.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 1. 'За стеной' takes instrumental singular meaning 'behind the wall'. 2. 'Шум' is the nominative subject 'noise'. 3. A vivid scene of sound behind a wall."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-11",
+        "phrase": "Большой шкаф стоит за стеной.",
+        "fullAnalysis": "Strategic focus: Instrumental location. 1. 'За стеной' is instrumental singular, locating an object behind the wall. 2. 'Шкаф' is the nominative subject. 3. A static placement sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-12",
+        "phrase": "На стене висит старинная картина.",
+        "fullAnalysis": "Strategic focus: Prepositional of place. 1. 'На стене' uses prepositional singular after 'на' to show location on a surface. 2. 'Картина' is the nominative subject. 3. A classic household placement scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-13",
+        "phrase": "На стене тикают старые часы.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 1. 'На стене' is prepositional singular marking position on the wall. 2. 'Часы' is the nominative subject 'clock'. 3. A common everyday placement sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-14",
+        "phrase": "В замке стены очень высокие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Стены' is the nominative plural form, the subject. 2. 'Высокие' is the agreeing plural adjective. 3. A descriptive plural sentence about tall walls."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-15",
+        "phrase": "Нас окружают белые стены вокруг.",
+        "fullAnalysis": "Strategic focus: Nominative plural agreement. 1. 'Стены' is nominative plural, the subject. 2. 'Белые' agrees in plural; 'вокруг' adds the sense 'all around'. 3. A simple scene of white walls."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-16",
+        "phrase": "В крепости много старых стен.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Стен' is the genitive plural after 'много'. 2. 'Старых' is the agreeing genitive plural adjective. 3. A quantity sentence counting old walls."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENA-17",
+        "phrase": "Кот любит сидеть у стены.",
+        "fullAnalysis": "Strategic focus: Genitive after 'у'. 1. 'У стены' uses genitive singular to mean 'by the wall'. 2. 'Сидеть' is the infinitive 'to sit'. 3. A relaxed spatial sentence beside the wall."
+      }
+    ]
+  }
+]

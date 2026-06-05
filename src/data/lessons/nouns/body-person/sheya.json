@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-BODY-SHEYA",
+    "label": "Шея",
+    "badge": "NECK",
+    "description": "The feminine noun шея ('neck') through its full singular case ladder, with adjective agreement and common prepositional scenes.",
+    "missions": [
+      {
+        "id": "NN-BODY-SHEYA-01",
+        "phrase": "У жирафа очень длинная шея.",
+        "fullAnalysis": "Strategic focus: Nominative with adjective agreement. 1. 'Шея' is nominative singular, the subject of the sentence. 2. 'Длинная' is a feminine nominative adjective matching it in gender, number, and case. 3. This is the baseline citation form of the noun."
+      },
+      {
+        "id": "NN-BODY-SHEYA-02",
+        "phrase": "У этой балерины тонкая шея.",
+        "fullAnalysis": "Strategic focus: Nominative with adjective agreement. 1. 'Шея' stays nominative singular as the subject. 2. 'Тонкая' is feminine nominative, agreeing in gender, number, and case. 3. Reinforces adjective-noun concord."
+      },
+      {
+        "id": "NN-BODY-SHEYA-03",
+        "phrase": "После сна у меня больная шея.",
+        "fullAnalysis": "Strategic focus: Nominative describing a condition. 1. 'Шея' is nominative singular, the subject. 2. 'Больная' is a feminine nominative adjective meaning 'sore'. 3. Common phrasing when describing pain or discomfort."
+      },
+      {
+        "id": "NN-BODY-SHEYA-04",
+        "phrase": "Сегодня у меня сильно болит шея.",
+        "fullAnalysis": "Strategic focus: Nominative subject with verb. 1. 'Шея' is the nominative subject of the clause. 2. 'Болит' is third-person singular, agreeing with the singular subject. 3. A high-frequency 'it hurts' structure."
+      },
+      {
+        "id": "NN-BODY-SHEYA-05",
+        "phrase": "Водитель резко повернул шею.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 1. 'Шею' is the accusative singular, the object turned. 2. 'Повернул' is past tense, masculine, governing the accusative. 3. Shows the -а to -у object ending."
+      },
+      {
+        "id": "NN-BODY-SHEYA-06",
+        "phrase": "Жираф вытянул шею к листьям.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 1. 'Шею' remains accusative singular as the affected object. 2. 'Вытянул' is masculine past, meaning 'stretched out'. 3. Reinforces the accusative form of the noun."
+      },
+      {
+        "id": "NN-BODY-SHEYA-07",
+        "phrase": "Дедушка устало потёр шею.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 1. 'Шею' is accusative singular, the thing rubbed. 2. 'Потёр' is masculine past tense with the ё required by spelling. 3. Another transitive verb taking the accusative."
+      },
+      {
+        "id": "NN-BODY-SHEYA-08",
+        "phrase": "Он застегнул куртку до шеи.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 1. 'Шеи' is genitive singular, required by 'до'. 2. 'До' marks a limit, 'up to the neck'. 3. Shows the -и genitive ending of this noun."
+      },
+      {
+        "id": "NN-BODY-SHEYA-09",
+        "phrase": "У этой статуи нет шеи.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 1. 'Шеи' is genitive singular after 'нет'. 2. 'У этой статуи' marks the possessor in genitive. 3. Negated existence forces the genitive, a core rule."
+      },
+      {
+        "id": "NN-BODY-SHEYA-10",
+        "phrase": "Художник нарисовал линию шеи.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Шеи' is genitive singular, marking 'of the neck'. 2. 'Линию' is the head noun governed by the verb. 3. A noun-of-noun possessive chain using the genitive."
+      },
+      {
+        "id": "NN-BODY-SHEYA-11",
+        "phrase": "Бабочка села близко к шее.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 1. 'Шее' is dative singular, governed by 'к'. 2. 'К' expresses motion toward something. 3. Shows the -е dative ending of this feminine noun."
+      },
+      {
+        "id": "NN-BODY-SHEYA-12",
+        "phrase": "Зимой я ношу шарф на шее.",
+        "fullAnalysis": "Strategic focus: Prepositional locative scene. 1. 'Шее' is prepositional singular after 'на'. 2. 'Шарф' is the nominative object worn there. 3. 'На' plus prepositional marks a static location."
+      },
+      {
+        "id": "NN-BODY-SHEYA-13",
+        "phrase": "У неё блестит цепочка на шее.",
+        "fullAnalysis": "Strategic focus: Prepositional locative scene. 1. 'Шее' stays prepositional singular after 'на'. 2. 'Цепочка' is the nominative subject, a chain. 3. Reinforces 'на' plus prepositional for location."
+      },
+      {
+        "id": "NN-BODY-SHEYA-14",
+        "phrase": "Ребёнок обнял маму за шею.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 1. 'Шею' is accusative singular after 'за'. 2. 'Обнял' is masculine past, 'hugged'. 3. 'За' plus accusative marks grasping around something."
+      },
+      {
+        "id": "NN-BODY-SHEYA-15",
+        "phrase": "Борец схватил соперника за шею.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 1. 'Шею' is accusative singular governed by 'за'. 2. 'Схватил' is masculine past, 'grabbed'. 3. Repeats the 'за' plus accusative grasp pattern."
+      },
+      {
+        "id": "NN-BODY-SHEYA-16",
+        "phrase": "Он спрятал шарф под шеей.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 1. 'Шеей' is instrumental singular after 'под'. 2. 'Шарф' is the accusative object positioned there. 3. 'Под' plus instrumental marks location beneath."
+      },
+      {
+        "id": "NN-BODY-SHEYA-17",
+        "phrase": "У лебедей очень тонкие шеи.",
+        "fullAnalysis": "Strategic focus: Nominative plural with agreement. 1. 'Шеи' is nominative plural, the subject form. 2. 'Тонкие' is the plural nominative adjective matching it. 3. Introduces the plural alongside the singular ladder."
+      }
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "id": "SM-NAD",
+    "label": "Над",
+    "badge": "OVER",
+    "description": "The preposition над/надо ('over/above') + instrumental: physical position above and the figurative работать над / смеяться над.",
+    "missions": [
+      {
+        "id": "SM-NAD-01",
+        "phrase": "Лампа висит над столом.",
+        "fullAnalysis": "Strategic focus: Spatial position above. 1. 'Над столом' is над plus the instrumental of стол. 2. 'Лампа висит' names the subject hanging above. 3. A clean physical above-line."
+      },
+      {
+        "id": "SM-NAD-02",
+        "phrase": "Синее небо раскинулось над городом.",
+        "fullAnalysis": "Strategic focus: Position above. 1. 'Над городом' uses над with the instrumental of город. 2. 'Небо раскинулось' sits over the city. 3. A wide spatial scene."
+      },
+      {
+        "id": "SM-NAD-03",
+        "phrase": "Старый мост висит над рекой.",
+        "fullAnalysis": "Strategic focus: Spatial span above. 1. 'Над рекой' is над with the instrumental of река. 2. 'Мост висит' crosses above the water. 3. A concrete above-position phrase."
+      },
+      {
+        "id": "SM-NAD-04",
+        "phrase": "Птица кружит над водой.",
+        "fullAnalysis": "Strategic focus: Position above. 1. 'Над водой' uses над plus the instrumental of вода. 2. 'Птица кружит' flies over the surface. 3. A simple spatial line."
+      },
+      {
+        "id": "SM-NAD-05",
+        "phrase": "Тёмное облако плывёт над лесом.",
+        "fullAnalysis": "Strategic focus: Position above. 1. 'Над лесом' is над with the instrumental of лес. 2. 'Облако плывёт' floats over the forest. 3. A vertical spatial relation."
+      },
+      {
+        "id": "SM-NAD-06",
+        "phrase": "У нас есть крыша над головой.",
+        "fullAnalysis": "Strategic focus: Position above. 1. 'Над головой' uses над plus the instrumental of голова. 2. 'Крыша' shelters from above. 3. An everyday above-line idiom."
+      },
+      {
+        "id": "SM-NAD-07",
+        "phrase": "Солнце садится над морем.",
+        "fullAnalysis": "Strategic focus: Position above. 1. 'Над морем' is над with the instrumental of море. 2. 'Солнце садится' hangs over the sea. 3. A bright spatial scene."
+      },
+      {
+        "id": "SM-NAD-08",
+        "phrase": "Яркий свет горит над дверью.",
+        "fullAnalysis": "Strategic focus: Position above. 1. 'Над дверью' uses над plus the instrumental of дверь. 2. 'Свет горит' marks the spot above. 3. A compact above-line."
+      },
+      {
+        "id": "SM-NAD-09",
+        "phrase": "Я работаю над новым проектом.",
+        "fullAnalysis": "Strategic focus: Figurative над. 1. 'Над проектом' is над with the instrumental of проект. 2. 'Работаю над' means working on something. 3. Same case, abstract sense."
+      },
+      {
+        "id": "SM-NAD-10",
+        "phrase": "Она смеётся над твоей шуткой.",
+        "fullAnalysis": "Strategic focus: Figurative над. 1. 'Над шуткой' uses над plus the instrumental of шутка. 2. Над here marks what one laughs at. 3. Abstract, not spatial."
+      },
+      {
+        "id": "SM-NAD-11",
+        "phrase": "Я долго думаю над этой задачей.",
+        "fullAnalysis": "Strategic focus: Figurative над. 1. 'Над задачей' is над with the instrumental of задача. 2. Над here means pondering over a problem. 3. Same case, mental sense."
+      },
+      {
+        "id": "SM-NAD-12",
+        "phrase": "Девочка плачет над грустной книгой.",
+        "fullAnalysis": "Strategic focus: Figurative над. 1. 'Над книгой' uses над plus the instrumental of книга. 2. Над marks what moves one to tears. 3. Abstract emotional sense."
+      },
+      {
+        "id": "SM-NAD-13",
+        "phrase": "Мы трудимся над важным докладом.",
+        "fullAnalysis": "Strategic focus: Figurative над. 1. 'Над докладом' is над with the instrumental of доклад. 2. 'Трудимся над' means labouring on a report. 3. Abstract working sense."
+      },
+      {
+        "id": "SM-NAD-14",
+        "phrase": "Яркие звёзды горят надо мной.",
+        "fullAnalysis": "Strategic focus: Position above with надо. 1. Before the cluster 'мной' над becomes надо. 2. 'Мной' is the instrumental of я. 3. Spatial above-position."
+      },
+      {
+        "id": "SM-NAD-15",
+        "phrase": "Он громко смеётся надо всеми.",
+        "fullAnalysis": "Strategic focus: Figurative надо. 1. Before 'всеми' над becomes надо. 2. 'Всеми' is the instrumental of все. 3. Над marks who is mocked."
+      }
+    ]
+  }
+]

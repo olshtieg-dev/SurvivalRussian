@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "SM-NA-01",
-        "phrase": "я на столе",
-        "fullAnalysis": "Strategic focus: Static surface location. 1. 'На столе' means on the table. 2. The sentence is a clean location-only frame. 3. It contrasts directly with motion toward the table."
+        "phrase": "Книга лежит на столе.",
+        "fullAnalysis": "Strategic focus: Static surface location. 1. 'На столе' uses the prepositional case to show where the book lies. 2. The verb 'лежит' marks a fixed position. 3. Contrast with motion onto the table."
       },
       {
         "id": "SM-NA-02",
-        "phrase": "я кладу книгу на стол",
-        "fullAnalysis": "Strategic focus: Motion onto a surface. 1. 'Кладу' is the action verb. 2. 'На стол' marks destination to the surface. 3. This is one of the most practical everyday Russian patterns."
+        "phrase": "Я кладу книгу на стол.",
+        "fullAnalysis": "Strategic focus: Motion onto a surface. 1. 'На стол' takes the accusative to mark destination. 2. 'Кладу' is the placement verb. 3. One of the most practical everyday Russian patterns."
       },
       {
         "id": "SM-NA-03",
-        "phrase": "мы на работе",
-        "fullAnalysis": "Strategic focus: Static place-of-activity. 1. 'На работе' is a fixed and very common location phrase. 2. 'Мы' makes the statement collective. 3. This sentence is useful for talking about current status."
+        "phrase": "Мы весь день на работе.",
+        "fullAnalysis": "Strategic focus: Static place-of-activity. 1. 'На работе' is prepositional, marking location. 2. 'Весь день' frames duration. 3. Contrasts with motion toward work in the accusative."
       },
       {
         "id": "SM-NA-04",
-        "phrase": "мы идём на работу",
-        "fullAnalysis": "Strategic focus: Motion toward work. 1. 'Идем' is plural motion. 2. 'На работу' is the destination phrase. 3. The pair 'на работе' versus 'на работу' is a core contrast."
+        "phrase": "Каждое утро мы идём на работу.",
+        "fullAnalysis": "Strategic focus: Motion toward work. 1. 'На работу' is accusative, marking destination. 2. 'Идём' is plural motion. 3. The pair 'на работе' versus 'на работу' is a core case contrast."
       },
       {
         "id": "SM-NA-05",
-        "phrase": "он на улице",
-        "fullAnalysis": "Strategic focus: Static outdoor location. 1. 'На улице' places him outside. 2. The phrase is extremely common. 3. It’s useful for location contrast with 'идет на улицу'."
+        "phrase": "Сегодня он гуляет на улице.",
+        "fullAnalysis": "Strategic focus: Static outdoor location. 1. 'На улице' is prepositional, placing him outside. 2. 'Гуляет' is a stationary-area activity. 3. Contrasts with motion onto the street."
       },
       {
         "id": "SM-NA-06",
-        "phrase": "он выходит на улицу",
-        "fullAnalysis": "Strategic focus: Motion onto/out to the street. 1. 'Выходит' is an exit motion verb. 2. 'На улицу' marks the destination. 3. This is a high-frequency daily-life sentence."
+        "phrase": "Он выходит на улицу.",
+        "fullAnalysis": "Strategic focus: Motion onto the street. 1. 'На улицу' is accusative, marking destination. 2. 'Выходит' is an exit-motion verb. 3. A high-frequency daily-life sentence."
       },
       {
         "id": "SM-NA-07",
-        "phrase": "она на сцене",
-        "fullAnalysis": "Strategic focus: Static platform location. 1. 'На сцене' means on the stage. 2. This is a very common phrase in performance contexts. 3. The sentence is short and vivid."
+        "phrase": "Певица стоит на сцене.",
+        "fullAnalysis": "Strategic focus: Static platform location. 1. 'На сцене' is prepositional, meaning on the stage. 2. 'Стоит' marks a fixed position. 3. Common in performance contexts; contrasts with motion onto the stage."
       },
       {
         "id": "SM-NA-08",
-        "phrase": "она выходит на сцену",
-        "fullAnalysis": "Strategic focus: Motion onto a stage. 1. 'Выходит' shows direction or emergence. 2. 'На сцену' marks the destination. 3. The sentence is useful for describing performance movement."
+        "phrase": "Актриса выходит на сцену.",
+        "fullAnalysis": "Strategic focus: Motion onto a stage. 1. 'На сцену' is accusative, marking destination. 2. 'Выходит' shows emergence and direction. 3. Useful for describing performance movement."
       },
       {
         "id": "SM-NA-09",
-        "phrase": "книга на полке",
-        "fullAnalysis": "Strategic focus: Static shelf location. 1. 'На полке' means on the shelf. 2. The sentence is visual and concrete. 3. It teaches the surface-based static use of 'на'."
+        "phrase": "Старая книга стоит на полке.",
+        "fullAnalysis": "Strategic focus: Static shelf location. 1. 'На полке' is prepositional, meaning on the shelf. 2. 'Стоит' marks a fixed position. 3. Teaches the surface-based static use of 'на'."
       },
       {
         "id": "SM-NA-10",
-        "phrase": "я кладу книгу на полку",
-        "fullAnalysis": "Strategic focus: Motion onto storage surface. 1. 'Кладу' is the action verb. 2. 'На полку' marks placement. 3. This sentence is practical and easy to imagine."
+        "phrase": "Я ставлю книгу на полку.",
+        "fullAnalysis": "Strategic focus: Motion onto a storage surface. 1. 'На полку' is accusative, marking placement. 2. 'Ставлю' is the upright-placement verb. 3. A practical, easy-to-picture sentence."
       },
       {
         "id": "SM-NA-11",
-        "phrase": "мы на вокзале",
-        "fullAnalysis": "Strategic focus: Static location at a station. 1. 'На вокзале' is a classic location phrase. 2. 'Мы' keeps the sentence compact. 3. This is a travel-ready phrase that comes up often."
+        "phrase": "Мы ждём поезд на вокзале.",
+        "fullAnalysis": "Strategic focus: Static location at a station. 1. 'На вокзале' is prepositional, marking location. 2. 'Ждём поезд' grounds the scene. 3. A travel-ready phrase that comes up often."
       },
       {
         "id": "SM-NA-12",
-        "phrase": "мы идём на вокзал",
-        "fullAnalysis": "Strategic focus: Motion toward the station. 1. 'Идем' is plural movement. 2. 'На вокзал' marks the destination. 3. The contrast with 'на вокзале' is very useful."
+        "phrase": "Мы спешим на вокзал.",
+        "fullAnalysis": "Strategic focus: Motion toward the station. 1. 'На вокзал' is accusative, marking destination. 2. 'Спешим' is plural hurried motion. 3. The contrast with 'на вокзале' is very useful."
       },
       {
         "id": "SM-NA-13",
-        "phrase": "они на площади",
-        "fullAnalysis": "Strategic focus: Static public space location. 1. 'На площади' is a common location phrase. 2. 'Они' keeps the sentence plural. 3. The line is good for everyday direction and city talk."
+        "phrase": "Туристы фотографируют на площади.",
+        "fullAnalysis": "Strategic focus: Static public-space location. 1. 'На площади' is prepositional, marking location. 2. 'Фотографируют' anchors the activity. 3. Good for everyday city talk."
       },
       {
         "id": "SM-NA-14",
-        "phrase": "они идут на площадь",
-        "fullAnalysis": "Strategic focus: Motion toward a public space. 1. 'Идут' is plural motion. 2. 'На площадь' gives destination. 3. This sentence reinforces the surface/public-space use of 'на'."
+        "phrase": "Люди идут на площадь.",
+        "fullAnalysis": "Strategic focus: Motion toward a public space. 1. 'На площадь' is accusative, marking destination. 2. 'Идут' is plural motion. 3. Reinforces the public-space use of 'на'."
       },
       {
         "id": "SM-NA-15",
-        "phrase": "я на кухне",
-        "fullAnalysis": "Strategic focus: Static room/location phrase. 1. 'На кухне' is a very common place phrase in Russian household talk. 2. The sentence is short and immediate. 3. It pairs well with motion into the kitchen."
+        "phrase": "Мама готовит обед на кухне.",
+        "fullAnalysis": "Strategic focus: Static room location. 1. 'На кухне' is prepositional, marking location. 2. 'Готовит обед' grounds the scene. 3. Common in household talk; pairs with motion into the kitchen."
       },
       {
         "id": "SM-NA-16",
-        "phrase": "я иду на кухню",
-        "fullAnalysis": "Strategic focus: Motion toward the kitchen. 1. 'Иду' is first-person motion. 2. 'На кухню' marks the destination. 3. This is a useful household phrase for daily life."
+        "phrase": "Я иду на кухню за чаем.",
+        "fullAnalysis": "Strategic focus: Motion toward the kitchen. 1. 'На кухню' is accusative, marking destination. 2. 'Иду' is first-person motion. 3. A useful household phrase for daily life."
       },
       {
         "id": "SM-NA-17",
-        "phrase": "он на море",
-        "fullAnalysis": "Strategic focus: Static holiday/location phrase. 1. 'На море' is a very common Russian expression. 2. The sentence is concise and vivid. 3. It is a good contrast to motion toward the sea."
+        "phrase": "Летом он отдыхает на море.",
+        "fullAnalysis": "Strategic focus: Static holiday location. 1. 'На море' is prepositional, marking location. 2. 'Отдыхает' frames the vacation. 3. A vivid contrast to motion toward the sea."
       },
       {
         "id": "SM-NA-18",
-        "phrase": "он едет на море",
-        "fullAnalysis": "Strategic focus: Motion by transport toward a destination. 1. 'Едет' is vehicle motion. 2. 'На море' gives the destination. 3. This sentence teaches that 'на' can mark travel goals."
+        "phrase": "Этим летом он едет на море.",
+        "fullAnalysis": "Strategic focus: Motion toward a destination. 1. 'На море' is accusative here, marking the travel goal. 2. 'Едет' is vehicle motion. 3. Shows that 'на' can mark trip destinations."
       },
       {
         "id": "SM-NA-19",
-        "phrase": "мы на уроке",
-        "fullAnalysis": "Strategic focus: Static classroom activity location. 1. 'На уроке' is a common class phrase. 2. 'Мы' keeps it collective. 3. The sentence is useful for real study contexts."
+        "phrase": "Мы сидим на уроке русского языка.",
+        "fullAnalysis": "Strategic focus: Static classroom location. 1. 'На уроке' is prepositional, marking the activity location. 2. 'Сидим' anchors the scene. 3. Useful for real study contexts."
       },
       {
         "id": "SM-NA-20",
-        "phrase": "мы идём на урок",
-        "fullAnalysis": "Strategic focus: Motion toward class activity. 1. 'Идем' is plural motion. 2. 'На урок' marks destination toward the lesson. 3. The sentence nicely mirrors the static phrase 'на уроке'."
+        "phrase": "Мы опаздываем на урок.",
+        "fullAnalysis": "Strategic focus: Motion toward a class. 1. 'На урок' is accusative, marking destination. 2. 'Опаздываем' adds everyday urgency. 3. Mirrors the static phrase 'на уроке'."
       }
     ]
   }

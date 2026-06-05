@@ -1,0 +1,110 @@
+[
+  {
+    "id": "VB-SLYSHAT",
+    "label": "Слышать",
+    "badge": "HEAR",
+    "description": "A full conjugation deck for слышать: 2nd-conj endings on an -ать verb, present persons, past, future, and the perfective услышать.",
+    "missions": [
+      {
+        "id": "VB-SLYSHAT-01",
+        "phrase": "Я слышу красивую музыку.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Слышу' takes the 2nd-conjugation -у despite the -ать infinitive. 'Красивую музыку' is the accusative object — the core government слышать + accusative."
+      },
+      {
+        "id": "VB-SLYSHAT-02",
+        "phrase": "Ты слышишь меня сейчас?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Слышишь' shows the telltale -ишь, a 2nd-conjugation ending on an -ать verb. 'Меня' is accusative; the question is a common spoken check-in."
+      },
+      {
+        "id": "VB-SLYSHAT-03",
+        "phrase": "Он слышит странный шум.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Слышит' ends in -ит, the 2nd-conjugation marker despite the -ать infinitive. 'Странный шум' is the accusative object in a plain statement."
+      },
+      {
+        "id": "VB-SLYSHAT-04",
+        "phrase": "Она слышит знакомый голос.",
+        "fullAnalysis": "Strategic focus: Third-person singular present, feminine subject. 'Слышит' keeps the 2nd-conjugation -ит. 'Знакомый голос' is the accusative object; the verb form is identical regardless of subject gender."
+      },
+      {
+        "id": "VB-SLYSHAT-05",
+        "phrase": "Мы слышим здесь всё.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Слышим' takes the 2nd-conjugation -им. 'Всё' is the accusative object; the ё is required and must be typed exactly."
+      },
+      {
+        "id": "VB-SLYSHAT-06",
+        "phrase": "Вы слышите мой вопрос?",
+        "fullAnalysis": "Strategic focus: Second-person plural present. 'Слышите' takes the 2nd-conjugation -ите. 'Мой вопрос' is accusative; this form also serves as the polite singular 'you'."
+      },
+      {
+        "id": "VB-SLYSHAT-07",
+        "phrase": "Они слышат громкий смех.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Слышат' takes -ат, not -ют — a 2nd-conjugation ending on an -ать verb. 'Громкий смех' is the accusative object, closing the person ladder."
+      },
+      {
+        "id": "VB-SLYSHAT-08",
+        "phrase": "Я часто слышу о тебе.",
+        "fullAnalysis": "Strategic focus: Government with the preposition о. 'Слышу' is first-person singular present. 'О тебе' is prepositional: слышать о + prep means hear about — a second valid pattern alongside the accusative."
+      },
+      {
+        "id": "VB-SLYSHAT-09",
+        "phrase": "Говори громче, я ничего не слышу.",
+        "fullAnalysis": "Strategic focus: Negation with the genitive. 'Слышу' is first-person singular present. 'Не слышу' triggers the genitive 'ничего' — a high-frequency everyday complaint."
+      },
+      {
+        "id": "VB-SLYSHAT-10",
+        "phrase": "Он ясно слышал дверной звонок.",
+        "fullAnalysis": "Strategic focus: Past tense, masculine. 'Слышал' is the masculine past, formed from the -а- stem. 'Дверной звонок' is the accusative object; past endings agree with gender, not person."
+      },
+      {
+        "id": "VB-SLYSHAT-11",
+        "phrase": "Она слышала эту песню вчера.",
+        "fullAnalysis": "Strategic focus: Past tense, feminine. 'Слышала' adds the feminine -а. 'Эту песню' is the accusative of песня; the stem -слыша- stays constant across past forms."
+      },
+      {
+        "id": "VB-SLYSHAT-12",
+        "phrase": "Чуткое ухо слышало каждый звук.",
+        "fullAnalysis": "Strategic focus: Past tense, neuter. 'Слышало' takes the neuter -о, agreeing with neuter 'ухо'. 'Каждый звук' is the accusative object; the neuter past is rare but regular."
+      },
+      {
+        "id": "VB-SLYSHAT-13",
+        "phrase": "Ночью мы слышали далёкий гром.",
+        "fullAnalysis": "Strategic focus: Past tense, plural. 'Слышали' takes the plural -и for all genders. 'Далёкий гром' is accusative; plural past ignores person entirely."
+      },
+      {
+        "id": "VB-SLYSHAT-14",
+        "phrase": "Скоро я буду слышать лучше.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Буду' carries the person and number. 'Слышать' stays in the infinitive; this compound future describes ongoing future hearing."
+      },
+      {
+        "id": "VB-SLYSHAT-15",
+        "phrase": "Ты будешь слышать каждое слово.",
+        "fullAnalysis": "Strategic focus: Imperfective future, second person. 'Будешь' marks second-person singular. The lexical verb 'слышать' remains an infinitive — only the auxiliary conjugates."
+      },
+      {
+        "id": "VB-SLYSHAT-16",
+        "phrase": "Вдруг я услышал чьи-то шаги.",
+        "fullAnalysis": "Strategic focus: Perfective past. 'Услышал' adds the prefix у- to mark a completed act of hearing. 'Шаги' is accusative plural; the perfective signals a single finished moment."
+      },
+      {
+        "id": "VB-SLYSHAT-17",
+        "phrase": "Ты скоро услышишь это сам.",
+        "fullAnalysis": "Strategic focus: Perfective future. 'Услышишь' is perfective present-form but future in meaning, with the 2nd-conjugation -ишь. 'Сам' adds emphasis; no auxiliary is needed for perfective future."
+      },
+      {
+        "id": "VB-SLYSHAT-18",
+        "phrase": "Она скоро услышит важный ответ.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Услышит' keeps the 2nd-conjugation -ит and means will hear once. 'Важный ответ' is accusative; contrast with imperfective 'слышит' (hears generally)."
+      },
+      {
+        "id": "VB-SLYSHAT-19",
+        "phrase": "Сегодня мы услышали хорошую новость.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Услышали' is the completed plural past. 'Хорошую новость' is the accusative object; the у- prefix frames the news as a single received event."
+      },
+      {
+        "id": "VB-SLYSHAT-20",
+        "phrase": "Они до сих пор слышат хорошо.",
+        "fullAnalysis": "Strategic focus: Third-person plural present with an adverb. 'Слышат' uses -ат, the 2nd-conjugation plural on this -ать verb. 'Хорошо' is an adverb, so no object follows."
+      }
+    ]
+  }
+]

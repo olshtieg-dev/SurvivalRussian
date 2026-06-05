@@ -7,28 +7,28 @@
     "missions": [
       {
         "id": "BA-TL-01",
-        "phrase": "тяжелая сумка",
-        "fullAnalysis": "Strategic focus: Everyday weight. 1. 'Тяжелая' matches the feminine noun 'сумка'. 2. This is a common practical phrase. 3. It is easy to imagine in a real-life context."
+        "phrase": "У меня очень тяжёлая сумка.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Тяжёлая' takes the feminine nominative ending to match 'сумка'. 2. 'Очень' adds natural emphasis. 3. A common everyday complaint about a heavy bag."
       },
       {
         "id": "BA-TL-02",
-        "phrase": "лёгкий рюкзак",
-        "fullAnalysis": "Strategic focus: Lightweight object. 1. 'Легкий' matches the masculine noun 'рюкзак'. 2. The phrase is useful for travel and school talk. 3. It is a clean opposite to 'тяжелая сумка'."
+        "phrase": "Это совсем лёгкий рюкзак.",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 1. 'Лёгкий' takes the masculine nominative ending to match 'рюкзак'. 2. 'Совсем' reinforces the lightness. 3. A clean opposite to the heavy bag above."
       },
       {
         "id": "BA-TL-03",
-        "phrase": "тяжелая книга",
-        "fullAnalysis": "Strategic focus: Familiar object weight. 1. 'Тяжелая' matches 'книга'. 2. The noun is concrete and easy to picture. 3. This sentence is good for daily vocabulary and typing speed."
+        "phrase": "Эта тяжёлая книга лежит на столе.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Тяжёлая' matches the feminine noun 'книга' in the nominative. 2. The verb 'лежит' anchors a real scene. 3. Concrete and easy to picture for daily vocabulary."
       },
       {
         "id": "BA-TL-04",
-        "phrase": "легкое письмо",
-        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Легкое' matches the neuter noun 'письмо'. 2. This reinforces the neutral adjective ending. 3. The sentence is small but grammatically useful."
+        "phrase": "Я написал лёгкое письмо другу.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Лёгкое' takes the neuter nominative ending to match 'письмо'. 2. The verb 'написал' makes it a full action. 3. Reinforces the neuter adjective ending in context."
       },
       {
         "id": "BA-TL-05",
-        "phrase": "тяжёлый камень, легкая палка",
-        "fullAnalysis": "Strategic focus: Two-object comparison. 1. The sentence forces two different adjective endings. 2. The noun pair creates a strong visual contrast. 3. This is a very useful future model for mixed adjective drills."
+        "phrase": "Здесь лежит тяжёлый камень и лёгкая палка.",
+        "fullAnalysis": "Strategic focus: Two-gender comparison. 1. 'Тяжёлый' matches masculine 'камень', 'лёгкая' matches feminine 'палка'. 2. The pair forces two different endings side by side. 3. A strong visual contrast for mixed drills."
       }
     ]
   }

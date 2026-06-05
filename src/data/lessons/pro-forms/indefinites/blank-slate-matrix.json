@@ -7,28 +7,28 @@
     "missions": [
       {
         "id": "PF-I-KTOT-01",
-        "phrase": "кто-то звонит сейчас",
-        "fullAnalysis": "Strategic focus: Unknown caller. 1. 'Кто-то' marks an unspecified person. 2. 'Звонит сейчас' makes the event immediate. 3. This is a very useful everyday sentence."
+        "phrase": "Кажется, кто-то звонит тебе сейчас.",
+        "fullAnalysis": "Strategic focus: Unknown caller. 'Кто-то' marks an unspecified person as the subject of 'звонит'. The caller stays anonymous while 'сейчас' makes the moment immediate."
       },
       {
         "id": "PF-I-KTOT-02",
-        "phrase": "кто-то стучит в дверь",
-        "fullAnalysis": "Strategic focus: Unknown visitor. 1. 'Кто-то' keeps the person hidden. 2. 'Стучит в дверь' gives a vivid scene. 3. The sentence is easy to picture and type."
+        "phrase": "Слышишь, кто-то стучит в дверь?",
+        "fullAnalysis": "Strategic focus: Unknown visitor. 'Кто-то' keeps the visitor hidden as the subject. The question frame and 'стучит в дверь' paint a vivid everyday scene at the door."
       },
       {
         "id": "PF-I-KTOT-03",
-        "phrase": "кто-то ждёт тебя",
-        "fullAnalysis": "Strategic focus: Hidden subject. 1. 'Кто-то' is the unknown person. 2. 'Ждет тебя' keeps the grammar simple. 3. This is practical in everyday conversation."
+        "phrase": "Внизу тебя кто-то ждёт.",
+        "fullAnalysis": "Strategic focus: Hidden subject. 'Кто-то' is the unknown person waiting, and 'тебя' is the accusative object. The line is practical for reporting that someone unnamed has arrived."
       },
       {
         "id": "PF-I-KTOT-04",
-        "phrase": "кто-то пришёл рано",
-        "fullAnalysis": "Strategic focus: Unexpected arrival. 1. 'Кто-то' stays indefinite. 2. 'Пришел рано' gives the event a clear time. 3. The line is natural and memorable."
+        "phrase": "Сегодня кто-то пришёл очень рано.",
+        "fullAnalysis": "Strategic focus: Unexpected arrival. 'Кто-то' stays indefinite as the subject of past-tense 'пришёл'. 'Очень рано' gives the event a clear time and a hint of surprise."
       },
       {
         "id": "PF-I-KTOT-05",
-        "phrase": "кто-то оставил записку",
-        "fullAnalysis": "Strategic focus: Unknown source. 1. 'Кто-то' hides the person. 2. 'Оставил записку' gives the action. 3. This is a useful mystery-like sentence."
+        "phrase": "Кто-то оставил мне записку на столе.",
+        "fullAnalysis": "Strategic focus: Unknown source. 'Кто-то' hides the writer behind the past-tense verb 'оставил'. 'Мне записку на столе' adds the recipient and place, giving a small mystery."
       }
     ]
   },
@@ -40,28 +40,28 @@
     "missions": [
       {
         "id": "PF-I-CHTOT-01",
-        "phrase": "что-то упало там",
-        "fullAnalysis": "Strategic focus: Unknown object. 1. 'Что-то' marks an unidentified thing. 2. 'Упало там' makes the scene visual. 3. This is a common spoken pattern."
+        "phrase": "Там, в коридоре, что-то упало.",
+        "fullAnalysis": "Strategic focus: Unknown object. 'Что-то' marks an unidentified thing as the subject of past-tense 'упало'. The neuter verb agrees with что-то, and 'в коридоре' makes the scene visual."
       },
       {
         "id": "PF-I-CHTOT-02",
-        "phrase": "что-то лежит здесь",
-        "fullAnalysis": "Strategic focus: Unknown object in place. 1. 'Что-то' keeps the object unspecified. 2. 'Лежит здесь' grounds it in the room. 3. The sentence is useful and simple."
+        "phrase": "Здесь под столом что-то лежит.",
+        "fullAnalysis": "Strategic focus: Unknown object in place. 'Что-то' keeps the object unspecified as subject of 'лежит'. 'Под столом' grounds it in the room without naming what it is."
       },
       {
         "id": "PF-I-CHTOT-03",
-        "phrase": "что-то мне мешает",
-        "fullAnalysis": "Strategic focus: Unclear obstacle. 1. 'Что-то' refers to an unknown source. 2. 'Мне мешает' is a practical complaint pattern. 3. This is very natural everyday Russian."
+        "phrase": "Мне что-то мешает спать.",
+        "fullAnalysis": "Strategic focus: Unclear obstacle. 'Что-то' names an unknown source of trouble; 'мне мешает' is the dative-plus-verb complaint pattern. The infinitive 'спать' shows what is disrupted."
       },
       {
         "id": "PF-I-CHTOT-04",
-        "phrase": "что-то случилось вчера",
-        "fullAnalysis": "Strategic focus: Unknown event. 1. 'Что-то' can point to an unspecified occurrence. 2. 'Случилось вчера' gives the time frame. 3. This is a good narrative line."
+        "phrase": "Вчера дома что-то случилось.",
+        "fullAnalysis": "Strategic focus: Unknown event. 'Что-то' points to an unspecified occurrence as subject of 'случилось'. 'Вчера' and 'дома' frame the time and place of the mystery."
       },
       {
         "id": "PF-I-CHTOT-05",
-        "phrase": "что-то блестит рядом",
-        "fullAnalysis": "Strategic focus: Unspecified object. 1. 'Что-то' keeps the referent vague. 2. 'Блестит рядом' is a vivid visual description. 3. This sentence is excellent for observation language."
+        "phrase": "Смотри, что-то блестит на снегу.",
+        "fullAnalysis": "Strategic focus: Unspecified object. 'Что-то' keeps the referent vague while 'блестит' describes it. The imperative 'смотри' and 'на снегу' turn it into a vivid observation."
       }
     ]
   },
@@ -73,28 +73,28 @@
     "missions": [
       {
         "id": "PF-I-GDET-01",
-        "phrase": "где-то слышен шум",
-        "fullAnalysis": "Strategic focus: Unknown location. 1. 'Где-то' marks an unspecified place. 2. 'Слышен шум' gives the ambient event. 3. This is useful for listening and environment talk."
+        "phrase": "Где-то вдалеке слышен странный шум.",
+        "fullAnalysis": "Strategic focus: Unknown location. 'Где-то' marks an unspecified place for the static state 'слышен шум'. It answers where without naming the spot, ideal for talking about ambient sounds."
       },
       {
         "id": "PF-I-GDET-02",
-        "phrase": "где-то горит свет",
-        "fullAnalysis": "Strategic focus: Distant location. 1. 'Где-то' keeps the place vague. 2. 'Горит свет' gives a concrete cue. 3. The sentence is practical and visual."
+        "phrase": "В доме где-то ещё горит свет.",
+        "fullAnalysis": "Strategic focus: Static location. 'Где-то' keeps the place vague while 'горит свет' is a fixed state, not motion. 'Ещё' adds that the light is still on somewhere inside."
       },
       {
         "id": "PF-I-GDET-03",
-        "phrase": "где-то идёт дождь",
-        "fullAnalysis": "Strategic focus: Unknown weather location. 1. 'Где-то' points to some place. 2. 'Идет дождь' is a common weather frame. 3. This is a simple and reusable sentence."
+        "phrase": "Где-то сейчас идёт сильный дождь.",
+        "fullAnalysis": "Strategic focus: Unknown weather location. 'Где-то' points to some unnamed place for the weather frame 'идёт дождь'. The construction is static in location, common when describing distant weather."
       },
       {
         "id": "PF-I-GDET-04",
-        "phrase": "где-то они ждут",
-        "fullAnalysis": "Strategic focus: Hidden location of people. 1. 'Где-то' makes the location unknown. 2. 'Они ждут' gives the human action. 3. The line is easy to say and remember."
+        "phrase": "Они уже где-то ждут нас.",
+        "fullAnalysis": "Strategic focus: Hidden location of people. 'Где-то' fixes the unknown place where 'они ждут'. The verb stays static, and 'нас' marks who is being awaited."
       },
       {
         "id": "PF-I-GDET-05",
-        "phrase": "где-то лежит ключ",
-        "fullAnalysis": "Strategic focus: Missing object search. 1. 'Где-то' marks an unknown place. 2. 'Лежит ключ' gives a concrete object. 3. This is a natural finding-things sentence."
+        "phrase": "Ключ где-то лежит на полке.",
+        "fullAnalysis": "Strategic focus: Static location of an object. 'Где-то' marks the unknown spot where 'ключ лежит'. 'На полке' narrows it down a little, a natural finding-things sentence."
       }
     ]
   },
@@ -106,28 +106,28 @@
     "missions": [
       {
         "id": "PF-I-NIKTO-01",
-        "phrase": "никто не пришёл",
-        "fullAnalysis": "Strategic focus: Absence of people. 1. 'Никто' negates the person slot. 2. 'Не пришел' gives the event outcome. 3. This is a vital absence sentence."
+        "phrase": "На встречу никто не пришёл.",
+        "fullAnalysis": "Strategic focus: Absence of people. 'Никто' negates the subject slot and forces the obligatory 'не' on 'пришёл'. Russian requires this double negation to state that nobody came."
       },
       {
         "id": "PF-I-NIKTO-02",
-        "phrase": "никто ничего не сказал",
-        "fullAnalysis": "Strategic focus: Double negation pattern. 1. 'Никто' and 'ничего' reinforce the lack. 2. 'Не сказал' closes the speech event. 3. This is a very important Russian structure."
+        "phrase": "Никто ничего мне не сказал.",
+        "fullAnalysis": "Strategic focus: Double negation pattern. 'Никто' and 'ничего' both reinforce the negative, and 'не сказал' carries the mandatory verbal 'не'. Stacking negatives is the normal Russian structure here."
       },
       {
         "id": "PF-I-NIKTO-03",
-        "phrase": "никто тебя не видел",
-        "fullAnalysis": "Strategic focus: Negative observation. 1. 'Никто' blocks the subject. 2. 'Тебя' stays in object form. 3. The sentence is natural and useful."
+        "phrase": "Тебя там никто не видел.",
+        "fullAnalysis": "Strategic focus: Negative observation. 'Никто' blocks the subject and triggers 'не видел'. 'Тебя' stays in the accusative object form, giving a natural reassurance or alibi."
       },
       {
         "id": "PF-I-NIKTO-04",
-        "phrase": "никто здесь не спит",
-        "fullAnalysis": "Strategic focus: Location plus absence. 1. 'Никто' negates the person slot. 2. 'Здесь не спит' gives a simple state. 3. This is a useful household and dormitory sentence."
+        "phrase": "В этой комнате никто не спит.",
+        "fullAnalysis": "Strategic focus: Location plus absence. 'Никто' negates the person slot with obligatory 'не спит'. 'В этой комнате' sets the place, a useful household observation."
       },
       {
         "id": "PF-I-NIKTO-05",
-        "phrase": "никто не ответил",
-        "fullAnalysis": "Strategic focus: Unanswered action. 1. 'Никто' gives the negative subject. 2. 'Не ответил' closes the interaction. 3. This is a very natural conversation sentence."
+        "phrase": "Я звонил, но никто не ответил.",
+        "fullAnalysis": "Strategic focus: Unanswered action. 'Никто' is the negative subject paired with 'не ответил'. The clause after 'но' closes a very common everyday situation of an unanswered call."
       }
     ]
   },
@@ -139,28 +139,28 @@
     "missions": [
       {
         "id": "PF-I-NICHTO-01",
-        "phrase": "ничто не мешает",
-        "fullAnalysis": "Strategic focus: No obstacle. 1. 'Ничто' negates the thing slot. 2. 'Не мешает' is a very practical predicate. 3. The sentence is useful for confidence and explanation."
+        "phrase": "Теперь ничто нам не мешает.",
+        "fullAnalysis": "Strategic focus: No obstacle. 'Ничто' negates the thing slot and requires 'не' on 'мешает'. 'Нам' is the dative of who is unhindered, a confident, reassuring statement."
       },
       {
         "id": "PF-I-NICHTO-02",
-        "phrase": "ничто не осталось",
-        "fullAnalysis": "Strategic focus: Total absence. 1. 'Ничто' blocks the object slot. 2. 'Не осталось' gives finality. 3. This is a strong completion sentence."
+        "phrase": "От дома ничто не осталось.",
+        "fullAnalysis": "Strategic focus: Total absence. 'Ничто' blocks the subject slot with obligatory 'не осталось'. 'От дома' gives the source, conveying complete finality."
       },
       {
         "id": "PF-I-NICHTO-03",
-        "phrase": "ничто не важно",
-        "fullAnalysis": "Strategic focus: Zero importance. 1. 'Ничто' negates the thing. 2. 'Не важно' creates a blunt evaluation. 3. This is useful for emphasis and debate."
+        "phrase": "Сейчас для меня ничто не важно.",
+        "fullAnalysis": "Strategic focus: Zero importance. 'Ничто' negates the subject, and the short adjective 'важно' takes 'не'. 'Для меня' marks whose view it is, a blunt emotional statement."
       },
       {
         "id": "PF-I-NICHTO-04",
-        "phrase": "ничто не пугает",
-        "fullAnalysis": "Strategic focus: Fearless state. 1. 'Ничто' keeps the target absent. 2. 'Не пугает' gives the emotional result. 3. The sentence is compact and expressive."
+        "phrase": "Меня уже ничто не пугает.",
+        "fullAnalysis": "Strategic focus: Fearless state. 'Ничто' keeps the subject absent while 'не пугает' carries the negation. 'Меня' is the accusative object, expressing a calm, fearless mood."
       },
       {
         "id": "PF-I-NICHTO-05",
-        "phrase": "ничто не изменилось",
-        "fullAnalysis": "Strategic focus: No change. 1. 'Ничто' negates the thing or event. 2. 'Не изменилось' shows stability. 3. This is a very useful narrative sentence."
+        "phrase": "За эти годы ничто не изменилось.",
+        "fullAnalysis": "Strategic focus: No change. 'Ничто' negates the subject with the obligatory 'не изменилось'. 'За эти годы' frames the span of time, stressing stability."
       }
     ]
   },
@@ -172,28 +172,28 @@
     "missions": [
       {
         "id": "PF-I-NIGDE-01",
-        "phrase": "нигде нет света",
-        "fullAnalysis": "Strategic focus: No-light environment. 1. 'Нигде' means nowhere. 2. 'Нет света' gives the concrete absence. 3. This is a very useful environmental sentence."
+        "phrase": "Нигде в доме нет света.",
+        "fullAnalysis": "Strategic focus: No-light environment. 'Нигде' means nowhere and pairs with the negative 'нет'. 'В доме нет света' states a concrete absence everywhere inside."
       },
       {
         "id": "PF-I-NIGDE-02",
-        "phrase": "нигде не слышно",
-        "fullAnalysis": "Strategic focus: No sound anywhere. 1. 'Нигде' blocks all places. 2. 'Не слышно' gives the sensory result. 3. This is useful for atmosphere and narration."
+        "phrase": "Нигде вокруг ничего не слышно.",
+        "fullAnalysis": "Strategic focus: No sound anywhere. 'Нигде' blocks all places and 'ничего' the things, both requiring 'не слышно'. The stacked negatives describe total silence around you."
       },
       {
         "id": "PF-I-NIGDE-03",
-        "phrase": "нигде никто не ждёт",
-        "fullAnalysis": "Strategic focus: Double absence. 1. 'Нигде' and 'никто' stack the negative logic. 2. 'Не ждет' completes the scene. 3. This is a strong structural drill."
+        "phrase": "Нас нигде никто не ждёт.",
+        "fullAnalysis": "Strategic focus: Double absence. 'Нигде' and 'никто' stack the negative logic, both demanding 'не ждёт'. 'Нас' is the accusative object, painting a bleak, lonely scene."
       },
       {
         "id": "PF-I-NIGDE-04",
-        "phrase": "нигде нет ответа",
-        "fullAnalysis": "Strategic focus: No answer anywhere. 1. 'Нигде' negates place. 2. 'Нет ответа' gives the result. 3. The sentence is useful in search and conversation."
+        "phrase": "Я искал, но нигде нет ответа.",
+        "fullAnalysis": "Strategic focus: No answer anywhere. 'Нигде' negates place and joins the negative 'нет ответа'. The clause after 'но' fits searching and frustrated conversation."
       },
       {
         "id": "PF-I-NIGDE-05",
-        "phrase": "нигде не осталось",
-        "fullAnalysis": "Strategic focus: Exhaustion or depletion. 1. 'Нигде' indicates the absence of any location. 2. 'Не осталось' gives a final state. 3. This is a very practical phrasing."
+        "phrase": "Денег нигде больше не осталось.",
+        "fullAnalysis": "Strategic focus: Depletion. 'Нигде' marks the absence of any place, with obligatory 'не осталось'. 'Денег' in the genitive and 'больше' stress that the money is fully gone."
       }
     ]
   },
@@ -205,28 +205,28 @@
     "missions": [
       {
         "id": "PF-I-NIKOGDA-01",
-        "phrase": "никогда не опаздывай",
-        "fullAnalysis": "Strategic focus: Negative time plus imperative. 1. 'Никогда' means never. 2. 'Не опаздывай' gives a direct instruction. 3. This is a high-value everyday rule sentence."
+        "phrase": "Никогда больше не опаздывай на работу.",
+        "fullAnalysis": "Strategic focus: Negative time plus imperative. 'Никогда' means never and pairs with the negated imperative 'не опаздывай'. 'Больше на работу' makes it a firm everyday rule."
       },
       {
         "id": "PF-I-NIKOGDA-02",
-        "phrase": "никогда не молчи",
-        "fullAnalysis": "Strategic focus: Behavioral rule. 1. 'Никогда' sets an absolute time rule. 2. 'Не молчи' is a direct imperative. 3. The sentence is short and memorable."
+        "phrase": "Никогда не молчи, если тебе больно.",
+        "fullAnalysis": "Strategic focus: Behavioral rule. 'Никогда' sets an absolute time limit on the negated imperative 'не молчи'. The 'если' clause gives the condition, making it warm advice."
       },
       {
         "id": "PF-I-NIKOGDA-03",
-        "phrase": "никогда не сдавайся",
-        "fullAnalysis": "Strategic focus: Motivation phrase. 1. 'Никогда' marks the absolute limit. 2. 'Не сдавайся' is a classic encouragement. 3. This is useful for motivational language."
+        "phrase": "Никогда не сдавайся так легко.",
+        "fullAnalysis": "Strategic focus: Motivation. 'Никогда' marks the absolute limit and forces 'не' on the reflexive imperative 'сдавайся'. 'Так легко' sharpens this classic encouragement."
       },
       {
         "id": "PF-I-NIKOGDA-04",
-        "phrase": "никогда не забывай",
-        "fullAnalysis": "Strategic focus: Memory rule. 1. 'Никогда' creates a strong absolute. 2. 'Не забывай' gives a practical directive. 3. The sentence is very reusable in conversation."
+        "phrase": "Никогда не забывай своих друзей.",
+        "fullAnalysis": "Strategic focus: Memory rule. 'Никогда' creates a strong absolute over the negated imperative 'не забывай'. 'Своих друзей' is the accusative object, a reusable piece of advice."
       },
       {
         "id": "PF-I-NIKOGDA-05",
-        "phrase": "никогда так не делай",
-        "fullAnalysis": "Strategic focus: Strong prohibition. 1. 'Никогда' makes the rule absolute. 2. 'Так' points to the specific behavior. 3. This is a common parental or instructional sentence."
+        "phrase": "Никогда так больше не делай!",
+        "fullAnalysis": "Strategic focus: Strong prohibition. 'Никогда' makes the ban absolute, and 'так' points to the specific behavior. 'Больше не делай' is the negated imperative of a sharp scolding."
       }
     ]
   },
@@ -238,28 +238,28 @@
     "missions": [
       {
         "id": "PF-I-NIKUDA-01",
-        "phrase": "никуда не иди",
-        "fullAnalysis": "Strategic focus: Negative motion. 1. 'Никуда' blocks any destination. 2. 'Не иди' is a direct imperative. 3. This is a very clear motion-control sentence."
+        "phrase": "Стой здесь и никуда не иди.",
+        "fullAnalysis": "Strategic focus: Negative motion. 'Никуда' blocks any destination, the directional counterpart to static 'нигде'. It pairs with the negated imperative 'не иди' to hold someone in place."
       },
       {
         "id": "PF-I-NIKUDA-02",
-        "phrase": "никуда не спеши",
-        "fullAnalysis": "Strategic focus: Calm instruction. 1. 'Никуда' removes the destination. 2. 'Не спеши' keeps the sentence simple. 3. This is useful in everyday advice."
+        "phrase": "У нас много времени, никуда не спеши.",
+        "fullAnalysis": "Strategic focus: Calm instruction. 'Никуда' removes any destination for 'не спеши'. The first clause supplies the reason, making this gentle everyday advice to slow down."
       },
       {
         "id": "PF-I-NIKUDA-03",
-        "phrase": "никуда не звони",
-        "fullAnalysis": "Strategic focus: Communication control. 1. 'Никуда' blocks the target. 2. 'Не звони' is a concise imperative. 3. The line is easy to type and remember."
+        "phrase": "Пока никуда не звони, прошу.",
+        "fullAnalysis": "Strategic focus: Communication control. 'Никуда' blocks the directional target of the negated imperative 'не звони'. 'Пока' and 'прошу' soften it into an urgent request."
       },
       {
         "id": "PF-I-NIKUDA-04",
-        "phrase": "никуда не выходи",
-        "fullAnalysis": "Strategic focus: Stay put. 1. 'Никуда' negates movement outward. 2. 'Не выходи' gives a direct instruction. 3. This is a strong practical sentence."
+        "phrase": "На улице холодно, никуда не выходи.",
+        "fullAnalysis": "Strategic focus: Stay put. 'Никуда' negates outward movement for 'не выходи'. The first clause gives the reason, a practical warning to stay inside."
       },
       {
         "id": "PF-I-NIKUDA-05",
-        "phrase": "никуда не уходи",
-        "fullAnalysis": "Strategic focus: Do not leave. 1. 'Никуда' keeps the destination absent. 2. 'Не уходи' is a common spoken request. 3. This is a very useful conversational phrase."
+        "phrase": "Подожди меня, никуда не уходи.",
+        "fullAnalysis": "Strategic focus: Do not leave. 'Никуда' keeps the destination absent for the negated imperative 'не уходи'. 'Подожди меня' frames it as a common spoken plea to stay."
       }
     ]
   },
@@ -271,28 +271,228 @@
     "missions": [
       {
         "id": "PF-I-NIKAK-01",
-        "phrase": "никак не могу понять",
-        "fullAnalysis": "Strategic focus: Inability. 1. 'Никак' means in no way or not at all. 2. 'Не могу понять' makes the emotion clear. 3. This is a very natural learner sentence."
+        "phrase": "Я никак не могу это понять.",
+        "fullAnalysis": "Strategic focus: Inability. 'Никак' means in no way at all and intensifies the negated 'не могу понять'. It conveys real frustration, a very natural learner sentence."
       },
       {
         "id": "PF-I-NIKAK-02",
-        "phrase": "никак не получится сейчас",
-        "fullAnalysis": "Strategic focus: Impossible timing. 1. 'Никак' negates the possibility. 2. 'Не получится' gives the core inability. 3. 'Сейчас' makes the time constraint explicit."
+        "phrase": "Сегодня это никак не получится.",
+        "fullAnalysis": "Strategic focus: Impossible timing. 'Никак' negates the very possibility of 'получится'. 'Сегодня' makes the time constraint explicit, a flat refusal of feasibility."
       },
       {
         "id": "PF-I-NIKAK-03",
-        "phrase": "никак не выходит",
-        "fullAnalysis": "Strategic focus: Failed attempt. 1. 'Никак' signals strong negation. 2. 'Не выходит' is a common colloquial complaint. 3. The sentence is short and highly reusable."
+        "phrase": "У меня никак не выходит этот рисунок.",
+        "fullAnalysis": "Strategic focus: Failed attempt. 'Никак' signals strong negation on the colloquial 'не выходит'. 'У меня этот рисунок' frames a common complaint that something just won't work."
       },
       {
         "id": "PF-I-NIKAK-04",
-        "phrase": "никак не успею",
-        "fullAnalysis": "Strategic focus: Time pressure. 1. 'Никак' blocks success. 2. 'Не успею' gives a clear deadline issue. 3. This is a practical everyday sentence."
+        "phrase": "Я никак не успею к вечеру.",
+        "fullAnalysis": "Strategic focus: Time pressure. 'Никак' blocks success on the perfective 'не успею'. 'К вечеру' names the deadline, a practical statement of being out of time."
       },
       {
         "id": "PF-I-NIKAK-05",
-        "phrase": "никак не могу решить",
-        "fullAnalysis": "Strategic focus: Decision difficulty. 1. 'Никак' keeps the ability blocked. 2. 'Не могу решить' gives the exact problem. 3. The sentence is useful for planning and discussion."
+        "phrase": "Я никак не могу решить, что выбрать.",
+        "fullAnalysis": "Strategic focus: Decision difficulty. 'Никак' keeps the ability blocked on 'не могу решить'. The embedded 'что выбрать' names the exact dilemma, useful for planning talk."
+      }
+    ]
+  },
+  {
+    "id": "PF-I-KTO-NIBUD",
+    "label": "Кто-нибудь",
+    "badge": "ANYONE",
+    "description": "The non-specific indefinite кто-нибудь ('anyone'), for questions/conditions/future, vs the specific кто-то.",
+    "missions": [
+      {
+        "phrase": "Тут есть кто-нибудь живой?",
+        "fullAnalysis": "Strategic focus: Calling out. 'Кто-нибудь' is non-specific 'anyone', natural in questions where 'кто-то' would not fit. Unlike specific 'кто-то', it simply asks whether any person at all is present."
+      },
+      {
+        "phrase": "Кто-нибудь мне поможет с этим?",
+        "fullAnalysis": "Strategic focus: Asking for help. 'Кто-нибудь' means 'anyone at all', perfect for an open request. 'Поможет' is future tense, where non-specific '-нибудь' is preferred over specific 'кто-то'."
+      },
+      {
+        "phrase": "Позвони кому-нибудь из друзей.",
+        "fullAnalysis": "Strategic focus: An open suggestion. 'Кому-нибудь' is the dative oblique form of 'кто-нибудь'. The imperative 'позвони' calls for action toward any person, not one you have in mind."
+      },
+      {
+        "phrase": "Лучше спроси кого-нибудь на улице.",
+        "fullAnalysis": "Strategic focus: Seeking an answer. 'Кого-нибудь' is the accusative oblique form of 'кто-нибудь'. It is non-specific, ask just anyone, contrasting with 'кого-то', one particular person."
+      },
+      {
+        "phrase": "Эй, есть кто-нибудь дома?",
+        "fullAnalysis": "Strategic focus: Anyone home? 'Кто-нибудь' fits this yes/no question about any person at all. 'Дома' is the adverb 'at home', the classic phrase called out when entering a house."
+      },
+      {
+        "phrase": "Скажите, есть тут кто-нибудь ещё?",
+        "fullAnalysis": "Strategic focus: Is anyone here? 'Кто-нибудь' asks about any unspecified person present. 'Тут' adds location and 'ещё' means 'else', used when you sense someone might be around."
+      },
+      {
+        "phrase": "Кто-нибудь вообще знает ответ?",
+        "fullAnalysis": "Strategic focus: Polling the room. 'Кто-нибудь' is open and non-specific, fitting this question. Compare 'кто-то знает', a statement that some particular person knows, not a query."
+      },
+      {
+        "phrase": "Если кто-нибудь придёт, открой дверь.",
+        "fullAnalysis": "Strategic focus: A condition. After 'если' ('if'), non-specific 'кто-нибудь' is required, not specific 'кто-то'. 'Придёт' is future, reinforcing the indefinite in this conditional."
+      }
+    ]
+  },
+  {
+    "id": "PF-I-CHTO-NIBUD",
+    "label": "Что-нибудь",
+    "badge": "ANYTHING",
+    "description": "The non-specific indefinite что-нибудь ('anything'), for offers/requests/future, vs the specific что-то.",
+    "missions": [
+      {
+        "phrase": "Хочешь что-нибудь попить?",
+        "fullAnalysis": "Strategic focus: Open offer. 'Хочешь' opens the question and 'что-нибудь' means anything at all, non-specific. Contrast 'что-то', which would hint at one specific unknown thing."
+      },
+      {
+        "phrase": "Ну скажи хоть что-нибудь!",
+        "fullAnalysis": "Strategic focus: Any words. 'Скажи' is the imperative and 'что-нибудь' leaves the content fully open. 'Хоть' adds urgency, used when any answer at all will do."
+      },
+      {
+        "phrase": "Принеси мне что-нибудь из кухни.",
+        "fullAnalysis": "Strategic focus: Open request. 'Принеси' commands to bring and 'что-нибудь' means whatever you find. The non-specific что-нибудь fits requests aimed at the future."
+      },
+      {
+        "phrase": "Купи нам что-нибудь поесть.",
+        "fullAnalysis": "Strategic focus: Buy food. 'Купи' is the imperative buy and 'что-нибудь поесть' means anything to eat. что-нибудь suits the open future buy; что-то would imply a thing already in mind."
+      },
+      {
+        "phrase": "У тебя что-нибудь случилось?",
+        "fullAnalysis": "Strategic focus: Anything wrong. 'Случилось' asks if something happened and 'что-нибудь' keeps it fully open. A neutral check-in covering any possible event."
+      },
+      {
+        "phrase": "Дай мне что-нибудь почитать.",
+        "fullAnalysis": "Strategic focus: Give anything. 'Дай' is the imperative give and 'что-нибудь' means whatever, no specific item. The infinitive 'почитать' shows the open, casual purpose."
+      },
+      {
+        "phrase": "Найди в сети что-нибудь интересное.",
+        "fullAnalysis": "Strategic focus: Find anything. 'Найди' commands to find and 'что-нибудь интересное' means anything interesting. что-нибудь opens the search; что-то would mean one thing already sensed."
+      },
+      {
+        "phrase": "Расскажи нам что-нибудь смешное.",
+        "fullAnalysis": "Strategic focus: Any joke. 'Расскажи' is the imperative tell and 'что-нибудь смешное' means anything funny at all. The open что-нибудь invites any story, with no particular one expected."
+      }
+    ]
+  },
+  {
+    "id": "PF-I-KAKOI-TO",
+    "label": "Какой-то",
+    "badge": "SOME",
+    "description": "The agreeing indefinite какой-то ('some/a certain') across gender and number.",
+    "missions": [
+      {
+        "phrase": "У ворот какой-то человек ждёт.",
+        "fullAnalysis": "Strategic focus: A vague stranger. 'Какой-то' is masculine, agreeing with 'человек'. It marks an unknown, slightly dismissive figure, and 'ждёт' adds quiet tension."
+      },
+      {
+        "phrase": "Тебе какая-то женщина звонит.",
+        "fullAnalysis": "Strategic focus: An unnamed caller. 'Какая-то' takes the feminine form to match 'женщина'. The speaker does not know who she is, and 'звонит' sets a live scene."
+      },
+      {
+        "phrase": "Здесь рядом есть какое-то место.",
+        "fullAnalysis": "Strategic focus: A nearby somewhere. 'Какое-то' is neuter, agreeing with 'место'. It points at a vague, unidentified spot, and 'рядом' anchors it close by."
+      },
+      {
+        "phrase": "Во дворе какие-то люди шумят.",
+        "fullAnalysis": "Strategic focus: A noisy crowd. 'Какие-то' is plural, matching 'люди'. It keeps the group anonymous and dismissive, while 'шумят' makes them easy to picture."
+      },
+      {
+        "phrase": "Снаружи слышен какой-то шум.",
+        "fullAnalysis": "Strategic focus: An odd noise. 'Какой-то' is masculine, agreeing with 'шум'. It signals a vague, unidentified sound, and 'снаружи' places it just outside."
+      },
+      {
+        "phrase": "У нас осталась какая-то проблема.",
+        "fullAnalysis": "Strategic focus: A lingering issue. 'Какая-то' is feminine, matching 'проблема'. It hints at an unclear, unresolved trouble, and 'осталась' gives it weight."
+      },
+      {
+        "phrase": "Мы встретимся в какой-то день.",
+        "fullAnalysis": "Strategic focus: On some day. 'Какой-то' is masculine, agreeing with 'день' in the prepositional phrase. It marks an indefinite, unspecified time, like the start of a story."
+      },
+      {
+        "phrase": "У меня какое-то странное чувство.",
+        "fullAnalysis": "Strategic focus: An odd feeling. 'Какое-то' is neuter, agreeing with 'чувство'. It conveys a vague, hard-to-name emotion, and 'странное' deepens the mood."
+      }
+    ]
+  },
+  {
+    "id": "PF-I-KUDA-TO",
+    "label": "Куда-то",
+    "badge": "SOMEWHERE",
+    "description": "The indefinite directional куда-то ('to somewhere'), motion to an unknown place, vs static где-то.",
+    "missions": [
+      {
+        "phrase": "Он опять ушёл куда-то.",
+        "fullAnalysis": "Strategic focus: Motion away. 'Ушёл' is past-tense motion, and 'куда-то' marks an unknown destination, not a location. Compare static 'где-то', which would fix him in place."
+      },
+      {
+        "phrase": "Она вечно куда-то спешит.",
+        "fullAnalysis": "Strategic focus: Direction of hurry. 'Спешит' shows movement toward a goal, and 'куда-то' names that goal as unknown. Directional куда-то, never static где-то, pairs with rushing."
+      },
+      {
+        "phrase": "Я опять положил ключи куда-то.",
+        "fullAnalysis": "Strategic focus: Misplaced object. 'Положил' is a placing verb implying motion, and 'куда-то' marks where, unknown. Russians say 'куда-то положил', not 'где-то', for the act of putting."
+      },
+      {
+        "phrase": "Они уехали куда-то на юг.",
+        "fullAnalysis": "Strategic focus: Departure by transport. 'Уехали' is plural past motion, and 'куда-то' gives an unknown destination. Direction takes куда-то; 'где-то' would only place them somewhere."
+      },
+      {
+        "phrase": "Смотри, он идёт куда-то один.",
+        "fullAnalysis": "Strategic focus: Ongoing motion. 'Идёт' is present-tense walking, and 'куда-то' supplies an unknown target. 'Один' adds that he goes alone, a frequent everyday pattern."
+      },
+      {
+        "phrase": "Кот вдруг исчез куда-то.",
+        "fullAnalysis": "Strategic focus: Vanishing away. 'Исчез' implies he went off, and 'куда-то' marks the unknown direction of his exit. Natural with motion verbs in casual talk."
+      },
+      {
+        "phrase": "Давай поедем куда-нибудь вместе.",
+        "fullAnalysis": "Strategic focus: Shared trip. 'Поедем' is future plural motion, and 'куда-нибудь', the non-specific directional, keeps the destination fully open. 'Вместе' adds togetherness for an open plan."
+      },
+      {
+        "phrase": "Мальчик побежал куда-то очень быстро.",
+        "fullAnalysis": "Strategic focus: Sudden run. 'Побежал' is a past-tense dash, and 'куда-то' marks an unknown direction. The motion verb takes куда-то, not static где-то."
+      }
+    ]
+  },
+  {
+    "id": "PF-I-NICHEGO",
+    "label": "Ничего",
+    "badge": "NOTHING",
+    "description": "The negative ничего ('nothing'), its obligatory double negation with не, and the idiom 'it's okay'.",
+    "missions": [
+      {
+        "phrase": "Я об этом ничего не знаю.",
+        "fullAnalysis": "Strategic focus: Double negation. 'Ничего' is the negative pronoun 'nothing' and the verb 'знаю' still requires 'не'. Both negatives are mandatory in Russian, not optional."
+      },
+      {
+        "phrase": "В темноте я ничего не вижу.",
+        "fullAnalysis": "Strategic focus: Negative pronoun plus 'не'. 'Ничего' means 'nothing', yet 'вижу' must keep 'не'. 'В темноте' gives the reason, and dropping either negative would be ungrammatical."
+      },
+      {
+        "phrase": "Я тут совсем ничего не понимаю.",
+        "fullAnalysis": "Strategic focus: Mandatory double negation. 'Ничего' carries the negation 'nothing' and 'не понимаю' repeats it on the verb. 'Совсем' intensifies, but both the pronoun and 'не' stay required."
+      },
+      {
+        "phrase": "Не волнуйся, ничего не случилось.",
+        "fullAnalysis": "Strategic focus: Past-tense double negation. 'Ничего' is the negative subject and 'не случилось' keeps the obligatory 'не'. Russian pairs the negative pronoun with 'не' even in the past."
+      },
+      {
+        "phrase": "Здесь больше ничего нет.",
+        "fullAnalysis": "Strategic focus: Absence with 'нет'. 'Здесь' sets the place, and 'ничего нет' pairs the negative pronoun with negative 'нет' (is-not). Both negatives are required to say there is nothing here."
+      },
+      {
+        "phrase": "Ничего страшного, всё хорошо.",
+        "fullAnalysis": "Strategic focus: Idiom. Literally 'nothing scary', 'ничего страшного' actually means 'it's okay, no problem'. It is a fixed reassurance phrase used without a verb."
+      },
+      {
+        "phrase": "Нет, спасибо, мне ничего не нужно.",
+        "fullAnalysis": "Strategic focus: Polite decline. 'Ничего' is the negative pronoun, with 'не нужно' carrying the obligatory negation. 'Спасибо' softens the refusal, a common way to turn something down."
+      },
+      {
+        "phrase": "Для нас это всё или ничего.",
+        "fullAnalysis": "Strategic focus: Fixed contrast. 'Всё' (everything) opposes 'ничего' (nothing), and 'или' links them as 'all or nothing'. It is a set phrase with no verb and no 'не'."
       }
     ]
   }

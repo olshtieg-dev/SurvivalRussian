@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-UZHE",
+    "label": "Уже",
+    "badge": "ALREADY",
+    "description": "A 10-sentence usage card for уже (already; by now).",
+    "missions": [
+      {
+        "id": "AD-TIME-UZHE-01",
+        "phrase": "Я уже сделал домашнее задание.",
+        "fullAnalysis": "Strategic focus: Completed ahead of time. With a perfective past verb 'уже' means already, marking that the task is finished sooner than expected. It stresses the result as accomplished."
+      },
+      {
+        "id": "AD-TIME-UZHE-02",
+        "phrase": "Уже поздно, пора домой.",
+        "fullAnalysis": "Strategic focus: A point reached. Fronted 'уже' signals that a moment has arrived earlier than one might wish, here that it is already late. It motivates the decision to leave."
+      },
+      {
+        "id": "AD-TIME-UZHE-03",
+        "phrase": "Ты уже обедал?",
+        "fullAnalysis": "Strategic focus: Already in a question. 'Уже' asks whether an action has been completed by now, checking on lunch. It expects either a yes-it-is-done or not-yet answer."
+      },
+      {
+        "id": "AD-TIME-UZHE-04",
+        "phrase": "Его уже нет дома.",
+        "fullAnalysis": "Strategic focus: A state already in effect. With the negative existential 'нет' the adverb 'уже' means he is no longer home, a state that has already set in. It marks a change that has taken place."
+      },
+      {
+        "id": "AD-TIME-UZHE-05",
+        "phrase": "Мне уже двадцать лет.",
+        "fullAnalysis": "Strategic focus: Age reached. In an age statement 'уже' underlines that a number has already been attained. It can carry a tone of how time has passed."
+      },
+      {
+        "id": "AD-TIME-UZHE-06",
+        "phrase": "Поезд уже ушёл.",
+        "fullAnalysis": "Strategic focus: Too late to act. 'Уже' with a perfective past stresses that the train has already departed, so the chance is gone. It conveys finality and missed timing."
+      },
+      {
+        "id": "AD-TIME-UZHE-07",
+        "phrase": "Сейчас уже всё понятно.",
+        "fullAnalysis": "Strategic focus: A change of state by now. With 'всё понятно' the adverb 'уже' marks that clarity has finally been reached. It contrasts the clear present with an earlier confused state."
+      },
+      {
+        "id": "AD-TIME-UZHE-08",
+        "phrase": "Она уже не работает здесь.",
+        "fullAnalysis": "Strategic focus: No longer with не. The pairing 'уже не' means no longer, marking that the employment has stopped. It is the standard way to express a state that has ended."
+      },
+      {
+        "id": "AD-TIME-UZHE-09",
+        "phrase": "Мы знакомы уже три года.",
+        "fullAnalysis": "Strategic focus: Duration up to now. With a time span 'уже' stresses that the acquaintance has lasted three years and continues. It frames the period as accumulated by the present."
+      },
+      {
+        "id": "AD-TIME-UZHE-10",
+        "phrase": "Завтра уже будет суббота.",
+        "fullAnalysis": "Strategic focus: Already in the future. Even with a future verb 'уже' marks that a point will arrive soon and inevitably. It lends a sense that the weekend is practically upon us."
+      }
+    ]
+  }
+]

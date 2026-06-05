@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-NAZAD",
+    "label": "Назад",
+    "badge": "BACK",
+    "description": "A 10-sentence usage card for назад (back, backwards).",
+    "missions": [
+      {
+        "id": "AD-PLACE-NAZAD-01",
+        "phrase": "Сделай два шага назад.",
+        "fullAnalysis": "Strategic focus: Direction of motion. 'Назад' means backwards and modifies the imperative 'сделай', marking the direction of the steps. It shows real movement away from the front, toward the rear."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-02",
+        "phrase": "Машина медленно поехала назад.",
+        "fullAnalysis": "Strategic focus: Reverse movement. 'Назад' modifies 'поехала' to show the car moving in reverse. The adverb marks the backward direction of travel and follows the verb naturally."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-03",
+        "phrase": "Он обернулся и посмотрел назад.",
+        "fullAnalysis": "Strategic focus: Turning the gaze backward. 'Назад' modifies 'посмотрел' to show the look directed behind. The pairing with 'обернулся' makes the backward orientation vivid and physical."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-04",
+        "phrase": "Верни мне книгу назад.",
+        "fullAnalysis": "Strategic focus: Returning an object. 'Назад' modifies the imperative 'верни', reinforcing the idea of giving something back. Here it stresses the return to the original owner."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-05",
+        "phrase": "Дети побежали назад к дому.",
+        "fullAnalysis": "Strategic focus: Running back. 'Назад' modifies 'побежали' to mark the backward, returning direction of the run. It works with 'к дому' to show both the direction and the goal."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-06",
+        "phrase": "Это случилось три года назад.",
+        "fullAnalysis": "Strategic focus: Time in the past. 'Назад' here marks time, meaning ago, following the duration 'три года'. In this temporal use it always comes after the time expression, not before it."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-07",
+        "phrase": "Пожалуйста, отойди немного назад.",
+        "fullAnalysis": "Strategic focus: Stepping back politely. 'Назад' modifies the imperative 'отойди' to mark moving away to the rear. Softened by 'пожалуйста', it is a polite request to give space."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-08",
+        "phrase": "Поезд вдруг тронулся назад.",
+        "fullAnalysis": "Strategic focus: Sudden reverse. 'Назад' modifies 'тронулся' to show the train starting to move backward. The adverb fixes the direction, while 'вдруг' adds the suddenness."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-09",
+        "phrase": "Мы пошли назад той же дорогой.",
+        "fullAnalysis": "Strategic focus: Retracing a path. 'Назад' modifies 'пошли' to mark the return journey. Combined with 'той же дорогой', it shows movement back along the same route."
+      },
+      {
+        "id": "AD-PLACE-NAZAD-10",
+        "phrase": "Не оглядывайся назад, иди вперёд.",
+        "fullAnalysis": "Strategic focus: Backward versus forward. 'Назад' modifies 'оглядывайся' to mark looking behind, set in direct contrast with 'вперёд'. The pair captures the opposition between past and future direction."
+      }
+    ]
+  }
+]

@@ -5,11 +5,11 @@
     "badge": "BIG/SMALL",
     "description": "Size contrasts for houses, objects, and everyday observation.",
     "missions": [
-      { "id": "BA-BM-01", "phrase": "большой дом", "fullAnalysis": "Strategic focus: Basic masculine agreement. 1. 'Большой' matches 'дом'. 2. The phrase is one of the simplest size pairs in Russian. 3. It is easy to see, say, and type." },
-      { "id": "BA-BM-02", "phrase": "маленькая комната", "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Маленькая' matches 'комната'. 2. The sentence is concrete and household-friendly. 3. This is a very common descriptive pattern." },
-      { "id": "BA-BM-03", "phrase": "большое окно", "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Большое' matches the neuter noun 'окно'. 2. The sentence trains the learner to switch endings. 3. It stays visually simple and useful." },
-      { "id": "BA-BM-04", "phrase": "маленький стол", "fullAnalysis": "Strategic focus: Masculine noun pair. 1. 'Маленький' matches 'стол'. 2. The sentence is short but still grammatical. 3. It is a good anchor for swapping in other household nouns." },
-      { "id": "BA-BM-05", "phrase": "большой город, маленькая деревня", "fullAnalysis": "Strategic focus: Contrast across two nouns. 1. The adjective form changes because the nouns are different genders. 2. The sentence gives a strong urban-rural image. 3. This is a useful future template for comparative practice." }
+      { "id": "BA-BM-01", "phrase": "У них очень большой дом.", "fullAnalysis": "Strategic focus: Masculine nominative agreement. 1. 'Большой' takes the masculine ending to match 'дом'. 2. The full sentence frames the size in a natural possessive context." },
+      { "id": "BA-BM-02", "phrase": "Это совсем маленькая комната.", "fullAnalysis": "Strategic focus: Feminine nominative agreement. 1. 'Маленькая' takes the feminine ending to match 'комната'. 2. The sentence anchors the form in a concrete household observation." },
+      { "id": "BA-BM-03", "phrase": "В спальне большое окно.", "fullAnalysis": "Strategic focus: Neuter nominative agreement. 1. 'Большое' takes the neuter ending to match 'окно'. 2. The sentence shows the learner switching endings inside a real room description." },
+      { "id": "BA-BM-04", "phrase": "У окна стоит маленький стол.", "fullAnalysis": "Strategic focus: Masculine nominative agreement. 1. 'Маленький' takes the masculine ending to match 'стол'. 2. The sentence anchors the form in a simple spatial scene." },
+      { "id": "BA-BM-05", "phrase": "Рядом большой город и маленькая деревня.", "fullAnalysis": "Strategic focus: Contrast across two genders. 1. 'Большой' matches masculine 'город'; 'маленькая' matches feminine 'деревня'. 2. The sentence pairs both endings in one vivid urban-rural image." }
     ]
   }
 ]

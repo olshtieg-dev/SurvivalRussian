@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-BODY-NOS",
+    "label": "Нос",
+    "badge": "NOSE",
+    "description": "Full-sentence usage card walking нос (nose) through the singular case ladder, with adjective agreement and the -у locative на носу / в носу.",
+    "missions": [
+      {
+        "id": "NN-BODY-NOS-01",
+        "phrase": "Это её нос.",
+        "fullAnalysis": "Strategic focus: Naming the body part. 1. 'Это' is the pointing word for identification. 2. 'Её' marks possession. 3. 'Нос' is the masculine noun in the nominative case as the named subject of the sentence."
+      },
+      {
+        "id": "NN-BODY-NOS-02",
+        "phrase": "У дедушки длинный нос.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'У дедушки' marks the possessor in the genitive. 2. 'Длинный' is a masculine adjective in the nominative. 3. 'Нос' is the masculine noun it modifies, agreeing in gender, number and case."
+      },
+      {
+        "id": "NN-BODY-NOS-03",
+        "phrase": "На морозе у него красный нос.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'У него' shows the possessor. 2. 'Красный' is the masculine nominative adjective. 3. 'Нос' is the noun it agrees with in gender and case; the sentence describes a red nose in the cold."
+      },
+      {
+        "id": "NN-BODY-NOS-04",
+        "phrase": "У этого клоуна большой нос.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'У этого клоуна' marks the possessor in the genitive. 2. 'Большой' is a high-frequency masculine adjective. 3. 'Нос' is the masculine noun in the nominative the adjective modifies."
+      },
+      {
+        "id": "NN-BODY-NOS-05",
+        "phrase": "У меня сегодня заложен нос.",
+        "fullAnalysis": "Strategic focus: Health complaint. 1. 'У меня' marks the possessor with the genitive of я. 2. 'Заложен' is the short-form participle 'blocked'. 3. 'Нос' stays nominative as the subject; the sentence means a stuffy nose."
+      },
+      {
+        "id": "NN-BODY-NOS-06",
+        "phrase": "У меня очень болит нос.",
+        "fullAnalysis": "Strategic focus: Sensation. 1. 'У меня' marks the possessor. 2. 'Болит' is the third-person verb 'hurts'. 3. 'Нос' is the nominative subject of the verb; the sentence reports that the nose aches."
+      },
+      {
+        "id": "NN-BODY-NOS-07",
+        "phrase": "Я вытер нос платком.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Я' is the subject pronoun. 2. 'Вытер' is the past-tense verb 'wiped'. 3. 'Нос' is the direct object in the accusative, which equals the nominative for this inanimate noun."
+      },
+      {
+        "id": "NN-BODY-NOS-08",
+        "phrase": "На холоде я не чувствую свой нос.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Чувствую' is the first-person verb 'I feel'. 2. 'Свой' is the reflexive possessive. 3. 'Нос' is the accusative direct object, identical in form to the nominative for this inanimate noun."
+      },
+      {
+        "id": "NN-BODY-NOS-09",
+        "phrase": "У него родинка на кончике носа.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Кончик' is the head noun 'tip'. 2. 'Носа' is the genitive of нос, marking 'of the nose'. 3. The genitive phrase names the very tip of the nose."
+      },
+      {
+        "id": "NN-BODY-NOS-10",
+        "phrase": "Мне не нравится форма моего носа.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Форма' is the head noun 'shape'. 2. 'Носа' is the genitive of нос. 3. The genitive links the two nouns to mean the shape of the nose."
+      },
+      {
+        "id": "NN-BODY-NOS-11",
+        "phrase": "У этой статуи нет носа.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Нет' requires the genitive for the missing thing. 2. 'Носа' is the genitive of нос. 3. The sentence, 'this statue has no nose', drills the negation construction."
+      },
+      {
+        "id": "NN-BODY-NOS-12",
+        "phrase": "Он поднёс платок к носу.",
+        "fullAnalysis": "Strategic focus: Dative direction. 1. 'Поднёс' is the past-tense verb 'brought up'. 2. 'К' is a preposition meaning 'toward' that governs the dative. 3. 'Носу' is the dative of нос, marking motion toward the nose."
+      },
+      {
+        "id": "NN-BODY-NOS-13",
+        "phrase": "Ребёнок громко шмыгает носом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 1. 'Шмыгает' is a vivid everyday verb for sniffling. 2. 'Носом' is the instrumental of нос, the organ performing the action. 3. The sentence drills the instrumental ending -ом on a natural collocation."
+      },
+      {
+        "id": "NN-BODY-NOS-14",
+        "phrase": "Я спокойно дышу носом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 1. 'Дышу' is the first-person verb 'I breathe'. 2. 'Носом' is the instrumental of нос, expressing breathing through the nose. 3. The sentence models the instrumental of body parts."
+      },
+      {
+        "id": "NN-BODY-NOS-15",
+        "phrase": "У меня вскочил прыщ на носу.",
+        "fullAnalysis": "Strategic focus: -у locative. 1. 'На' here marks location. 2. 'Носу' is the special locative ending -у, not the regular prepositional носе. 3. The sentence places a pimple on the nose, drilling на носу."
+      },
+      {
+        "id": "NN-BODY-NOS-16",
+        "phrase": "У бабушки очки сидят на носу.",
+        "fullAnalysis": "Strategic focus: -у locative. 1. 'На' marks location on a surface. 2. 'Носу' uses the locative -у ending after на, not prepositional носе. 3. The sentence, 'glasses sit on the nose', reinforces на носу."
+      },
+      {
+        "id": "NN-BODY-NOS-17",
+        "phrase": "У него растут волосы в носу.",
+        "fullAnalysis": "Strategic focus: -у locative. 1. 'В' marks location inside. 2. 'Носу' takes the locative -у after в, parallel to на носу. 3. The sentence, 'hair grows in the nose', drills the в носу form."
+      },
+      {
+        "id": "NN-BODY-NOS-18",
+        "phrase": "Ключи лежали у меня под носом.",
+        "fullAnalysis": "Strategic focus: Instrumental after под. 1. 'Под' meaning 'under' a static location governs the instrumental. 2. 'Носом' is the instrumental of нос. 3. The idiom под носом means 'right under one's nose'."
+      }
+    ]
+  }
+]

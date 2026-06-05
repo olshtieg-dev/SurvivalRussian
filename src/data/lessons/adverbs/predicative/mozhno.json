@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-MOZHNO",
+    "label": "Можно",
+    "badge": "CAN",
+    "description": "A 10-sentence usage card for можно (may / can / is allowed).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-01",
+        "phrase": "Здесь можно курить?",
+        "fullAnalysis": "Strategic focus: Asking permission. 'Можно' is the impersonal predicative for what is allowed, with no experiencer named. The infinitive 'курить' states the action, and the question intonation turns it into a request to permit smoking here."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-02",
+        "phrase": "Тебе можно отдохнуть сегодня.",
+        "fullAnalysis": "Strategic focus: Granting permission. The dative 'тебе' names who is allowed, 'можно' carries the permission, and the perfective infinitive 'отдохнуть' frames a single act of rest that is now permitted."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-03",
+        "phrase": "Можно мне войти?",
+        "fullAnalysis": "Strategic focus: Polite request to enter. 'Можно' opens the request, the dative 'мне' marks who seeks permission, and the perfective infinitive 'войти' names the action. A standard courtesy phrase at a doorway."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-04",
+        "phrase": "В библиотеке можно читать тихо.",
+        "fullAnalysis": "Strategic focus: General permission in a place. 'Можно' states what is allowed with no dative experiencer, and the imperfective infinitive 'читать' describes the permitted ongoing activity within the library."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-05",
+        "phrase": "Раньше здесь можно было плавать.",
+        "fullAnalysis": "Strategic focus: Past permission. The neuter 'было' marks past tense for the impersonal 'можно', stating that swimming was once allowed here. The infinitive 'плавать' is the permitted action, now apparently gone."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-06",
+        "phrase": "Можно открыть окно?",
+        "fullAnalysis": "Strategic focus: Quick permission request. 'Можно' alone, with the perfective infinitive 'открыть', is a compact everyday way to ask leave. No dative is needed when the speaker is the obvious agent."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-07",
+        "phrase": "Вам можно выходить из дома.",
+        "fullAnalysis": "Strategic focus: Formal permission. The dative 'вам' is the polite experiencer who is allowed, 'можно' carries the permission, and the imperfective infinitive 'выходить' describes the now-permitted activity."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-08",
+        "phrase": "Можно мне ещё чаю?",
+        "fullAnalysis": "Strategic focus: Requesting more of something. 'Можно' with the dative 'мне' politely asks for permission to receive, while 'чаю' is the partitive genitive showing a portion. The infinitive is dropped but understood."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-09",
+        "phrase": "Здесь можно фотографировать всё.",
+        "fullAnalysis": "Strategic focus: Broad permission. 'Можно' states what is allowed in this place, and the imperfective infinitive 'фотографировать' takes the accusative 'всё' as its object. A reassuring statement that everything may be photographed."
+      },
+      {
+        "id": "AD-PREDICATIVE-MOZHNO-10",
+        "phrase": "Можно ли тут парковаться?",
+        "fullAnalysis": "Strategic focus: A formal permission question. The particle 'ли' turns 'можно' into a polite yes-no question, and the imperfective infinitive 'парковаться' names the action, asking whether parking is permitted here."
+      }
+    ]
+  }
+]

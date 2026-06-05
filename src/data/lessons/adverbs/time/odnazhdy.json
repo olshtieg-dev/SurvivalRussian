@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-ODNAZHDY",
+    "label": "Однажды",
+    "badge": "ONCE",
+    "description": "A 10-sentence usage card for однажды (once, one day).",
+    "missions": [
+      {
+        "id": "AD-TIME-ODNAZHDY-01",
+        "phrase": "Однажды я встретил старого друга.",
+        "fullAnalysis": "Strategic focus: Storytelling opener. 'Однажды' introduces a single past event at an unspecified time, modifying the perfective 'встретил'. It is the classic way to begin an anecdote or tale."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-02",
+        "phrase": "Однажды ты поймёшь меня.",
+        "fullAnalysis": "Strategic focus: Some future day. 'Однажды' can point to an unspecified future moment, here modifying 'поймёшь'. It carries a tone of quiet certainty about what will eventually happen."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-03",
+        "phrase": "Однажды зимой пошёл сильный снег.",
+        "fullAnalysis": "Strategic focus: One particular occasion. 'Однажды' frames a single past event, refined by 'зимой'. It modifies 'пошёл', presenting the snowfall as one memorable time."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-04",
+        "phrase": "Я хочу однажды увидеть океан.",
+        "fullAnalysis": "Strategic focus: A wished-for day. 'Однажды' marks a hoped-for future moment, here inside the infinitive phrase 'увидеть океан'. It conveys an aspiration without a fixed date."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-05",
+        "phrase": "Однажды он решил всё изменить.",
+        "fullAnalysis": "Strategic focus: Turning point. 'Однажды' opens a narrative about a decisive past moment, modifying 'решил'. It signals the start of a change in someone's life."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-06",
+        "phrase": "Однажды мы заблудились в лесу.",
+        "fullAnalysis": "Strategic focus: A single adventure. 'Однажды' presents one past episode, modifying 'заблудились'. It frames getting lost as a one-time, story-worthy event."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-07",
+        "phrase": "Однажды вечером раздался странный звонок.",
+        "fullAnalysis": "Strategic focus: Setting an eerie scene. 'Однажды' combined with 'вечером' fixes a vague but specific past evening. It modifies 'раздался', a typical opening for a suspenseful story."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-08",
+        "phrase": "Надеюсь, однажды мы снова встретимся.",
+        "fullAnalysis": "Strategic focus: Hopeful future. 'Однажды' points to an unspecified future day, modifying 'встретимся'. Together with 'надеюсь' it expresses a warm, open-ended wish."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-09",
+        "phrase": "Однажды бабушка рассказала мне сказку.",
+        "fullAnalysis": "Strategic focus: Recollection. 'Однажды' frames a single remembered past event, modifying 'рассказала'. It lends a nostalgic, narrative feel to the memory."
+      },
+      {
+        "id": "AD-TIME-ODNAZHDY-10",
+        "phrase": "Однажды всё это закончится.",
+        "fullAnalysis": "Strategic focus: An eventual end. 'Однажды' projects an unspecified future moment, modifying 'закончится'. It expresses a reflective certainty that things will pass."
+      }
+    ]
+  }
+]

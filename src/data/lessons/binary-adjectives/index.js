@@ -3,6 +3,11 @@ import bigSmallSet from './bolshoi-malenkii.json';
 import highLowSet from './vysokii-nizkii.json';
 import fastSlowSet from './bystryi-medlennyi.json';
 import heavyLightSet from './tyazhelyi-lyogkii.json';
+import newOldSet from './novyi-staryi.json';
+import goodBadSet from './khoroshii-plokhoi.json';
+import warmColdSet from './tyoplyi-kholodnyi.json';
+import cleanDirtySet from './chistyi-gryaznyi.json';
+import lightDarkSet from './svetlyi-tyomnyi.json';
 
 export const binaryAdjectivesFolderId = 'binary-adjectives';
 const binaryAdjectivesSetData = [
@@ -11,6 +16,11 @@ const binaryAdjectivesSetData = [
   ...highLowSet,
   ...fastSlowSet,
   ...heavyLightSet,
+  ...newOldSet,
+  ...goodBadSet,
+  ...warmColdSet,
+  ...cleanDirtySet,
+  ...lightDarkSet,
 ];
 
 export const binaryAdjectivesFolder = {

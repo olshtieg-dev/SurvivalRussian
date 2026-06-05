@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-VNIZ",
+    "label": "Вниз",
+    "badge": "DOWN",
+    "description": "A 10-sentence usage card for вниз (downward).",
+    "missions": [
+      {
+        "id": "AD-PLACE-VNIZ-01",
+        "phrase": "Мы быстро спускаемся вниз по лестнице.",
+        "fullAnalysis": "Strategic focus: Direction of motion. 'Вниз' is an adverb of direction marking downward movement. It modifies 'спускаемся' and answers куда, not где. The motion goes from a higher point toward a lower one."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-02",
+        "phrase": "Посмотри вниз, там река.",
+        "fullAnalysis": "Strategic focus: Directing the gaze downward. 'Вниз' shows the direction of looking after 'посмотри'. It marks where the gaze travels, not a static position. A natural everyday command."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-03",
+        "phrase": "Мяч покатился вниз по холму.",
+        "fullAnalysis": "Strategic focus: Rolling motion downward. 'Вниз' modifies 'покатился' to show the ball moving from high to low. The adverb names the trajectory, reinforced by 'по холму'."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-04",
+        "phrase": "Лифт едет вниз на первый этаж.",
+        "fullAnalysis": "Strategic focus: Descending movement. 'Вниз' marks the downward direction of the lift. It modifies 'едет' and answers куда, while 'на первый этаж' names the destination."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-05",
+        "phrase": "Не смотри вниз с такой высоты.",
+        "fullAnalysis": "Strategic focus: Negated downward gaze. 'Вниз' still names the direction of looking even under negation. It modifies 'не смотри', and the advice fits an everyday cautionary register."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-06",
+        "phrase": "Вода стекает вниз по стеклу.",
+        "fullAnalysis": "Strategic focus: Flowing downward. 'Вниз' marks the direction of the water's movement, modifying 'стекает'. The adverb stresses motion downward rather than a fixed location."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-07",
+        "phrase": "Он медленно пошёл вниз в подвал.",
+        "fullAnalysis": "Strategic focus: Walking downward. 'Вниз' shows the downward direction of 'пошёл', and 'в подвал' adds the goal. The adverb and the prepositional phrase together trace the descent."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-08",
+        "phrase": "Опусти руки вниз и расслабься.",
+        "fullAnalysis": "Strategic focus: Movement of body parts downward. 'Вниз' marks the direction in which the hands move after 'опусти'. It clarifies the trajectory of the lowering gesture."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-09",
+        "phrase": "Самолёт начал снижаться вниз к земле.",
+        "fullAnalysis": "Strategic focus: Descent toward the ground. 'Вниз' reinforces the downward direction of 'снижаться', and 'к земле' names the goal. The adverb keeps the focus on downward motion."
+      },
+      {
+        "id": "AD-PLACE-VNIZ-10",
+        "phrase": "Дорога идёт круто вниз к морю.",
+        "fullAnalysis": "Strategic focus: A path leading downward. 'Вниз' describes the downward course of the road, modifying 'идёт'. Even without a moving person, the adverb conveys a downward trajectory toward the sea."
+      }
+    ]
+  }
+]

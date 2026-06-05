@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-RAVNO",
+    "label": "Равно",
+    "badge": "ANYWAY",
+    "description": "A 10-sentence usage card for равно, chiefly in всё равно (all the same; anyway).",
+    "missions": [
+      {
+        "id": "AD-MANNER-RAVNO-01",
+        "phrase": "Я всё равно пойду туда.",
+        "fullAnalysis": "Strategic focus: Acting regardless. The fixed phrase 'всё равно' means doing something anyway, despite obstacles. Here it modifies 'пойду', showing the speaker will go no matter what stands in the way."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-02",
+        "phrase": "Мне всё равно, что они думают.",
+        "fullAnalysis": "Strategic focus: Indifference. In 'мне всё равно' the dative 'мне' plus 'всё равно' expresses that it makes no difference to the speaker. It is the standard way to say one does not care about something."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-03",
+        "phrase": "Было поздно, но он всё равно работал.",
+        "fullAnalysis": "Strategic focus: Persistence despite a setback. 'Всё равно' here signals continuing to work even though it was late. It often pairs with 'но', marking a concession in the preceding clause."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-04",
+        "phrase": "Спасибо, но мне всё равно не нужно.",
+        "fullAnalysis": "Strategic focus: Polite refusal with indifference. 'Всё равно' softens a decline, meaning it makes no difference and is not needed anyway. The dative 'мне' marks whose attitude this is."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-05",
+        "phrase": "Дождь идёт, а мы всё равно гуляем.",
+        "fullAnalysis": "Strategic focus: Defying circumstances. 'Всё равно' shows that the rain does not stop the walk. It modifies 'гуляем' and conveys cheerful stubbornness against the weather."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-06",
+        "phrase": "Два плюс два равно четыре.",
+        "fullAnalysis": "Strategic focus: Literal equality. Outside the idiom, 'равно' means 'equals' in arithmetic and statements of equivalence. Here it links the sum to its result in a precise, neutral register."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-07",
+        "phrase": "Ему всё равно, куда мы поедем.",
+        "fullAnalysis": "Strategic focus: No preference. 'Всё равно' with the dative 'ему' states that he has no preference about the destination. It is the natural response when any option is equally acceptable."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-08",
+        "phrase": "Я устал, но всё равно помогу тебе.",
+        "fullAnalysis": "Strategic focus: Help despite fatigue. 'Всё равно' marks willingness to help anyway, overriding the stated tiredness. It bridges a concession and a generous offer in one sentence."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-09",
+        "phrase": "Они спорили, но результат всё равно один.",
+        "fullAnalysis": "Strategic focus: Same outcome regardless. 'Всё равно' here means the result is the same no matter the argument. It conveys that effort changed nothing about the final state of affairs."
+      },
+      {
+        "id": "AD-MANNER-RAVNO-10",
+        "phrase": "Мне абсолютно всё равно сейчас.",
+        "fullAnalysis": "Strategic focus: Emphatic indifference. 'Всё равно' is intensified by 'абсолютно' to stress total lack of concern. The dative 'мне' anchors the feeling, producing a strong, dismissive statement."
+      }
+    ]
+  }
+]

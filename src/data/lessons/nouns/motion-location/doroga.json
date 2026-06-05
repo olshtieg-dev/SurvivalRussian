@@ -7,53 +7,53 @@
     "missions": [
       {
         "id": "NN-MOTION-DOROGA-01",
-        "phrase": "длинная дорога",
-        "fullAnalysis": "Strategic focus: Core adjective agreement. 1. 'Длинная' matches the feminine noun 'дорога'. 2. The phrase is easy to picture. 3. It is the basic descriptive form for route language."
+        "phrase": "Нас ждёт длинная дорога домой.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective agreement. 'Длинная дорога' is the subject in the nominative case; the feminine adjective 'длинная' agrees with feminine 'дорога'. The verb 'ждёт' governs the accusative object 'нас'."
       },
       {
         "id": "NN-MOTION-DOROGA-02",
-        "phrase": "дорога в город",
-        "fullAnalysis": "Strategic focus: Destination framing. 1. 'В город' turns the noun into a path toward a place. 2. 'Дорога' remains the central noun. 3. This is a very common travel sentence."
+        "phrase": "Дорога в город была закрыта.",
+        "fullAnalysis": "Strategic focus: Nominative subject with directional phrase. 'Дорога' is the nominative subject; 'в город' (accusative) names the destination the road leads to. The past-tense predicate 'была закрыта' agrees with the feminine subject."
       },
       {
         "id": "NN-MOTION-DOROGA-03",
-        "phrase": "по дороге домой",
-        "fullAnalysis": "Strategic focus: Motion route phrase. 1. 'По дороге' is a highly reusable travel frame. 2. 'Домой' completes the direction. 3. This is one of the most useful movement patterns in Russian."
+        "phrase": "По дороге домой я купил хлеб.",
+        "fullAnalysis": "Strategic focus: Prepositional case in a route frame. 'По дороге' uses the dative-governing preposition 'по' to mean 'on the way'; 'домой' gives direction. This is one of the most reusable travel patterns in Russian."
       },
       {
         "id": "NN-MOTION-DOROGA-04",
-        "phrase": "на дороге машина",
-        "fullAnalysis": "Strategic focus: Object on a route. 1. 'На дороге' gives a clear physical location. 2. 'Машина' makes the sentence vivid. 3. The phrase is perfect for map and traffic language."
+        "phrase": "На дороге стояла сломанная машина.",
+        "fullAnalysis": "Strategic focus: Prepositional case of location. 'На дороге' uses 'на' + prepositional to mark physical location on a surface. The subject 'машина' is nominative, and 'стояла' agrees with it in feminine past tense."
       },
       {
         "id": "NN-MOTION-DOROGA-05",
-        "phrase": "у дороги дерево",
-        "fullAnalysis": "Strategic focus: Landmark relation. 1. 'У дороги' shows a location beside the road. 2. 'Дерево' is simple and concrete. 3. This sentence helps learners imagine a scene."
+        "phrase": "У дороги росло старое дерево.",
+        "fullAnalysis": "Strategic focus: Genitive case marking proximity. 'У дороги' uses 'у' + genitive to mean 'beside the road'. The nominative subject 'дерево' is neuter, so the verb 'росло' takes the neuter past form."
       },
       {
         "id": "NN-MOTION-DOROGA-06",
-        "phrase": "через дорогу мост",
-        "fullAnalysis": "Strategic focus: Crossing relation. 1. 'Через дорогу' describes a crossing alignment. 2. 'Мост' gives the sentence a strong visual object. 3. This is useful for navigation and directions."
+        "phrase": "Через дорогу построили новый мост.",
+        "fullAnalysis": "Strategic focus: Accusative case of crossing. 'Через дорогу' uses 'через' + accusative to express crossing or spanning. The road is the path crossed; 'мост' is the accusative object of the impersonal verb 'построили'."
       },
       {
         "id": "NN-MOTION-DOROGA-07",
-        "phrase": "с дороги снег",
-        "fullAnalysis": "Strategic focus: Source relation. 1. 'С дороги' gives a source or removal context. 2. 'Снег' makes the scene seasonal and concrete. 3. The sentence is short but useful."
+        "phrase": "С дороги рабочие убрали снег.",
+        "fullAnalysis": "Strategic focus: Genitive case of removal. 'С дороги' uses 'с' + genitive to mark a source or surface something is taken off. 'Снег' is the accusative object that the subject 'рабочие' clears away."
       },
       {
         "id": "NN-MOTION-DOROGA-08",
-        "phrase": "вдоль дороги дома",
-        "fullAnalysis": "Strategic focus: Linear placement. 1. 'Вдоль дороги' is a strong spatial phrase. 2. 'Дома' gives the scene real scale. 3. This is a great route-description pattern."
+        "phrase": "Вдоль дороги стояли красивые дома.",
+        "fullAnalysis": "Strategic focus: Genitive case of linear extent. 'Вдоль дороги' uses 'вдоль' + genitive to mean 'along the road'. The nominative plural subject 'дома' triggers the plural past verb 'стояли'."
       },
       {
         "id": "NN-MOTION-DOROGA-09",
-        "phrase": "дорога ведёт к станции",
-        "fullAnalysis": "Strategic focus: Functional path. 1. 'Ведет к' creates movement toward a target. 2. 'Станции' is a useful travel destination. 3. The sentence is practical for directions and maps."
+        "phrase": "Эта дорога ведёт к станции.",
+        "fullAnalysis": "Strategic focus: Nominative subject with directional verb. 'Дорога' is the nominative subject; 'ведёт' governs 'к станции' in the dative to express movement toward a goal. A practical pattern for giving directions."
       },
       {
         "id": "NN-MOTION-DOROGA-10",
-        "phrase": "на этой дороге тихо",
-        "fullAnalysis": "Strategic focus: Descriptive environment. 1. 'На этой дороге' adds specificity. 2. 'Тихо' gives the scene atmosphere. 3. This is a strong sentence for observation and narration."
+        "phrase": "На этой дороге всегда очень тихо.",
+        "fullAnalysis": "Strategic focus: Prepositional case with demonstrative. 'На этой дороге' uses 'на' + prepositional; 'этой' agrees with feminine 'дороге'. The impersonal predicate 'тихо' describes the setting rather than a subject."
       }
     ]
   }

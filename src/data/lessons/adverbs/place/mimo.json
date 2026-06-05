@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-MIMO",
+    "label": "Мимо",
+    "badge": "PAST",
+    "description": "A 10-sentence usage card for мимо (past, by).",
+    "missions": [
+      {
+        "id": "AD-PLACE-MIMO-01",
+        "phrase": "Машина быстро проехала мимо.",
+        "fullAnalysis": "Strategic focus: Standalone adverbial use. Here 'мимо' stands alone with no following noun, meaning past or by. It modifies 'проехала' and marks motion that passes a point without stopping."
+      },
+      {
+        "id": "AD-PLACE-MIMO-02",
+        "phrase": "Не проходи мимо, остановись.",
+        "fullAnalysis": "Strategic focus: Passing by under negation. 'Мимо' is adverbial and standalone, naming movement past a spot. With 'не проходи' it becomes a request to stop instead of walking past."
+      },
+      {
+        "id": "AD-PLACE-MIMO-03",
+        "phrase": "Поезд с грохотом промчался мимо.",
+        "fullAnalysis": "Strategic focus: Rushing past. 'Мимо' stands alone to mark the train passing a point. It modifies 'промчался' and stresses fast motion by, not toward, the observer."
+      },
+      {
+        "id": "AD-PLACE-MIMO-04",
+        "phrase": "Я выстрелил, но попал мимо.",
+        "fullAnalysis": "Strategic focus: Figurative miss. 'Мимо' adverbially marks a shot that goes past the target. The spatial sense of by extends here into the idea of missing the mark."
+      },
+      {
+        "id": "AD-PLACE-MIMO-05",
+        "phrase": "Люди спешат мимо каждое утро.",
+        "fullAnalysis": "Strategic focus: Repeated passing motion. 'Мимо' stands alone, modifying 'спешат' to show people moving past without stopping. The habitual 'каждое утро' frames it as routine."
+      },
+      {
+        "id": "AD-PLACE-MIMO-06",
+        "phrase": "Автобус проехал прямо мимо нашего дома.",
+        "fullAnalysis": "Strategic focus: Adverb versus preposition. Here 'мимо' governs the genitive 'нашего дома', acting as a preposition. Compare the bare adverb in 'проехал мимо', which needs no noun at all."
+      },
+      {
+        "id": "AD-PLACE-MIMO-07",
+        "phrase": "Она прошла мимо и не заметила меня.",
+        "fullAnalysis": "Strategic focus: Walking past someone. 'Мимо' is standalone here, marking 'прошла' as motion past a point. The second clause shows the consequence of passing by without noticing."
+      },
+      {
+        "id": "AD-PLACE-MIMO-08",
+        "phrase": "Мяч пролетел мимо ворот.",
+        "fullAnalysis": "Strategic focus: Prepositional use with a goal. 'Мимо' here takes the genitive 'ворот', functioning as a preposition. It marks the ball flying past the goal, just missing the target."
+      },
+      {
+        "id": "AD-PLACE-MIMO-09",
+        "phrase": "Велосипедист быстро пронёсся мимо нас.",
+        "fullAnalysis": "Strategic focus: Passing by people. 'Мимо' governs the genitive 'нас' as a preposition, marking the cyclist's path past us. The motion is fast and does not stop."
+      },
+      {
+        "id": "AD-PLACE-MIMO-10",
+        "phrase": "Время летит мимо так быстро.",
+        "fullAnalysis": "Strategic focus: Figurative passing. 'Мимо' is standalone and adverbial, extending the spatial sense of by to the flow of time. It modifies 'летит' in a vivid, everyday metaphor."
+      }
+    ]
+  }
+]

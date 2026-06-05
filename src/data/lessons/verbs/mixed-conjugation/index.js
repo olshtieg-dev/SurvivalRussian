@@ -1,7 +1,8 @@
 import khotetSet from './khotet.json';
+import bezhatSet from './bezhat.json';
 
 export const mixedConjugationVerbFolderId = 'verbs-mixed-conjugation';
-const mixedConjugationVerbData = [...khotetSet];
+const mixedConjugationVerbData = [...khotetSet, ...bezhatSet];
 
 export const mixedConjugationVerbFolder = {
   id: mixedConjugationVerbFolderId,

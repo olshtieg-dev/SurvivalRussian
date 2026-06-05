@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-NEDAVNO",
+    "label": "Недавно",
+    "badge": "RECENT",
+    "description": "A 10-sentence usage card for недавно (recently, not long ago).",
+    "missions": [
+      {
+        "id": "AD-TIME-NEDAVNO-01",
+        "phrase": "Я недавно прочитал интересную книгу.",
+        "fullAnalysis": "Strategic focus: Recent past. 'Недавно' places the action in the near past, modifying the perfective 'прочитал'. It pairs naturally with past-tense verbs to mean not long ago."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-02",
+        "phrase": "Они недавно переехали в город.",
+        "fullAnalysis": "Strategic focus: A recent change. 'Недавно' marks a move that happened a short time ago, modifying 'переехали'. The neutral register suits everyday conversation."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-03",
+        "phrase": "Ты недавно видел его?",
+        "fullAnalysis": "Strategic focus: Asking about the near past. In a question 'недавно' asks whether something happened lately. It modifies 'видел', and the word order keeps the tone casual."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-04",
+        "phrase": "Недавно прошёл сильный дождь.",
+        "fullAnalysis": "Strategic focus: Fronted recency. Placed first, 'недавно' sets the time frame before the event, modifying 'прошёл'. The sentence reports a recent weather occurrence."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-05",
+        "phrase": "Я только недавно узнал правду.",
+        "fullAnalysis": "Strategic focus: Very recently. 'Только недавно' tightens the time frame to the immediate past, modifying 'узнал'. The 'только' stresses how little time has passed."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-06",
+        "phrase": "Мы познакомились совсем недавно.",
+        "fullAnalysis": "Strategic focus: Emphasized recency. 'Совсем недавно' means only very recently, modifying 'познакомились'. The intensifier 'совсем' underlines that the acquaintance is fresh."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-07",
+        "phrase": "Недавно я начал учить русский.",
+        "fullAnalysis": "Strategic focus: Recent beginning. 'Недавно' frames the start of an ongoing activity, modifying 'начал'. It signals that the learning is a fairly new undertaking."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-08",
+        "phrase": "Она недавно вернулась из отпуска.",
+        "fullAnalysis": "Strategic focus: Recent return. 'Недавно' places the return in the near past, modifying 'вернулась'. The phrase is a natural way to report a fresh arrival home."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-09",
+        "phrase": "Этот магазин открылся недавно.",
+        "fullAnalysis": "Strategic focus: Newly happened. End-position 'недавно' modifies 'открылся', telling when the shop opened. The placement gives the recency a light end-of-sentence stress."
+      },
+      {
+        "id": "AD-TIME-NEDAVNO-10",
+        "phrase": "Недавно мне приснился странный сон.",
+        "fullAnalysis": "Strategic focus: Recent experience. 'Недавно' opens the sentence to set the near-past time, modifying 'приснился'. It introduces a recent and personal event."
+      }
+    ]
+  }
+]

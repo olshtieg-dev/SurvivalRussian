@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-EDVA",
+    "label": "Едва",
+    "badge": "BARELY",
+    "description": "A 10-sentence usage card for едва (barely, hardly).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-EDVA-01",
+        "phrase": "Я едва успел на поезд.",
+        "fullAnalysis": "Strategic focus: Barely managing in time. 'Едва' here means barely or only just, modifying the verb 'успел' to show that the success was very close to failing. It sits right before the verb it qualifies."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-02",
+        "phrase": "Он едва слышит мой голос.",
+        "fullAnalysis": "Strategic focus: Faint perception. 'Едва' weakens the verb 'слышит', telling us the hearing is faint and almost absent. Placed before the verb, it scales the action down to a bare minimum."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-03",
+        "phrase": "Она едва держалась на ногах.",
+        "fullAnalysis": "Strategic focus: Barely staying upright. 'Едва' modifies 'держалась' to show she could hardly stay standing. This is a common idiom for extreme exhaustion in neutral spoken Russian."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-04",
+        "phrase": "Мы едва нашли дорогу домой.",
+        "fullAnalysis": "Strategic focus: A difficult success. 'Едва' scales the verb 'нашли', signalling that finding the way home was hard and uncertain. It precedes the verb and carries a sense of near failure."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-05",
+        "phrase": "Свет едва пробивался сквозь шторы.",
+        "fullAnalysis": "Strategic focus: Faint physical effect. 'Едва' weakens 'пробивался', showing only a trace of light came through. The adverb stands before the verb to mark a minimal, barely visible action."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-06",
+        "phrase": "Едва наступила весна, потеплело.",
+        "fullAnalysis": "Strategic focus: As soon as something happens. 'Едва' at the start of a clause means as soon as, marking an event that immediately triggers another. This temporal use is bookish and slightly literary."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-07",
+        "phrase": "Ребёнок едва говорит несколько слов.",
+        "fullAnalysis": "Strategic focus: A bare quantity. 'Едва' qualifies 'говорит' to mean hardly more than a few words. The adverb stresses how small and limited the ability still is."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-08",
+        "phrase": "Я едва сдержал смех.",
+        "fullAnalysis": "Strategic focus: Barely holding back. 'Едва' modifies 'сдержал', telling us the laughter was almost impossible to suppress. It conveys a struggle that nearly failed, a vivid spoken pattern."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-09",
+        "phrase": "Старик едва передвигал ноги.",
+        "fullAnalysis": "Strategic focus: Slow, weak movement. 'Едва' weakens 'передвигал', painting laboured, barely possible walking. Standing before the verb, it stresses the difficulty of each step."
+      },
+      {
+        "id": "AD-DEGREE-EDVA-10",
+        "phrase": "Её слова едва доходили до меня.",
+        "fullAnalysis": "Strategic focus: Barely getting through. 'Едва' scales 'доходили' down, showing the words hardly reached or registered. The adverb sits before the verb to mark a minimal, faint effect."
+      }
+    ]
+  }
+]

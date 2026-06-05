@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-VIDNO",
+    "label": "Видно",
+    "badge": "VISIBLE",
+    "description": "A 10-sentence usage card for видно (visible / apparently).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-VIDNO-01",
+        "phrase": "Отсюда хорошо видно море.",
+        "fullAnalysis": "Strategic focus: Visibility as an impersonal state. 'Видно' is the predicative of being visible, with no grammatical subject. The accusative 'море' names what can be seen, and 'отсюда' marks the vantage point."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-02",
+        "phrase": "В тумане ничего не видно.",
+        "fullAnalysis": "Strategic focus: Negated visibility. The impersonal 'видно' with the negation 'не' and 'ничего' states that nothing can be seen. 'В тумане' gives the cause, a common way to describe poor visibility."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-03",
+        "phrase": "Тебе видно доску?",
+        "fullAnalysis": "Strategic focus: Visibility for an experiencer. The dative 'тебе' names the viewer, 'видно' is the impersonal state, and the accusative 'доску' is what should be seen. A natural classroom question."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-04",
+        "phrase": "Видно, что он устал.",
+        "fullAnalysis": "Strategic focus: Видно as evidential. Here 'видно' means it is apparent, introducing a clause with 'что'. It signals a conclusion drawn from observation, that he is clearly tired."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-05",
+        "phrase": "Ночью звёзды хорошо видно.",
+        "fullAnalysis": "Strategic focus: Visibility at a time. The impersonal 'видно' states that the stars can be clearly seen, with 'звёзды' as the accusative object and 'ночью' marking when the visibility holds."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-06",
+        "phrase": "Из окна было видно сад.",
+        "fullAnalysis": "Strategic focus: Past visibility. The neuter 'было' marks past tense for the impersonal 'видно', and the accusative 'сад' is what was visible from the window. The construction stays subjectless."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-07",
+        "phrase": "Видно, он скоро придёт.",
+        "fullAnalysis": "Strategic focus: Видно as a parenthetical guess. Used loosely, 'видно' means apparently and frames the whole clause as an inference. It softens the prediction that he will arrive soon."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-08",
+        "phrase": "Здесь плохо видно дорогу.",
+        "fullAnalysis": "Strategic focus: Poor visibility. The impersonal 'видно' with 'плохо' states that the road is hard to see, with 'дорогу' in the accusative. A practical phrase about driving conditions."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-09",
+        "phrase": "Тебя совсем не видно.",
+        "fullAnalysis": "Strategic focus: Negated visibility of a person. The impersonal 'видно' with 'не' takes the accusative 'тебя', stating that you cannot be seen at all. Common over a weak video call."
+      },
+      {
+        "id": "AD-PREDICATIVE-VIDNO-10",
+        "phrase": "С горы было видно весь город.",
+        "fullAnalysis": "Strategic focus: Past panoramic visibility. The neuter 'было' marks past tense, 'видно' stays impersonal, and the accusative 'весь город' is what was visible from the mountain. A broad scenic view in the past."
+      }
+    ]
+  }
+]

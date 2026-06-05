@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-DOMOI",
+    "label": "Домой",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for домой (homeward, to home).",
+    "missions": [
+      {
+        "id": "AD-PLACE-DOMOI-01",
+        "phrase": "Я иду домой после работы.",
+        "fullAnalysis": "Strategic focus: Motion toward home. 'Домой' means homeward and modifies 'иду', marking the destination of the movement. It is the directional form, used only with motion, never for being at home."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-02",
+        "phrase": "Дети уже бегут домой.",
+        "fullAnalysis": "Strategic focus: Hurrying home. 'Домой' modifies 'бегут' to mark the direction of the run toward home. The adverb answers where to, not where, so it pairs only with verbs of motion."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-03",
+        "phrase": "Когда ты вернёшься домой?",
+        "fullAnalysis": "Strategic focus: Returning home. 'Домой' modifies 'вернёшься' to mark the homeward direction of the return. In this question it works naturally with the future-tense motion verb."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-04",
+        "phrase": "Отвези меня домой, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Being taken home. 'Домой' modifies the imperative 'отвези' to mark the destination of the ride. The directional adverb shows where the driving should lead."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-05",
+        "phrase": "Пора идти домой, уже поздно.",
+        "fullAnalysis": "Strategic focus: Time to head home. 'Домой' modifies the infinitive 'идти' to mark the homeward direction. With 'пора' it expresses that it is time to set off home."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-06",
+        "phrase": "Он быстро поехал домой на машине.",
+        "fullAnalysis": "Strategic focus: Driving home. 'Домой' modifies 'поехал' to mark the destination of the drive. The adverb gives the direction, while 'на машине' names the means of travel."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-07",
+        "phrase": "Мы пригласили друзей к себе домой.",
+        "fullAnalysis": "Strategic focus: Inviting to one's home. 'Домой' modifies 'пригласили' to mark the friends being invited to the speaker's home. The directional adverb shows the goal of their coming."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-08",
+        "phrase": "Кошка наконец прибежала домой.",
+        "fullAnalysis": "Strategic focus: Arriving home. 'Домой' modifies 'прибежала' to mark the cat's homeward arrival. The directional adverb fits this motion verb of coming back."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-09",
+        "phrase": "Давай скорее пойдём домой!",
+        "fullAnalysis": "Strategic focus: Urging to go home. 'Домой' modifies 'пойдём' inside a 'давай' proposal to head home. With 'скорее' the adverb marks an eager, hurried homeward direction."
+      },
+      {
+        "id": "AD-PLACE-DOMOI-10",
+        "phrase": "Солдат вернулся домой через год.",
+        "fullAnalysis": "Strategic focus: Coming back home. 'Домой' modifies 'вернулся' to mark the soldier's homeward return. The directional adverb pairs cleanly with this verb of returning."
+      }
+    ]
+  }
+]

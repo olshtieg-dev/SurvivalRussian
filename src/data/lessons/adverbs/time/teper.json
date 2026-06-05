@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-TEPER",
+    "label": "Теперь",
+    "badge": "NOW",
+    "description": "A 10-sentence usage card for теперь (now; nowadays — implying a change).",
+    "missions": [
+      {
+        "id": "AD-TIME-TEPER-01",
+        "phrase": "Теперь я понимаю эту задачу.",
+        "fullAnalysis": "Strategic focus: Now after a change. Fronted 'теперь' means now in the sense of a new state, contrasting with an earlier lack of understanding. It marks that something has changed since before."
+      },
+      {
+        "id": "AD-TIME-TEPER-02",
+        "phrase": "Что нам теперь делать?",
+        "fullAnalysis": "Strategic focus: Now in a dilemma. In this question 'теперь' asks what to do given a newly arisen situation. It implies circumstances have shifted and a fresh decision is needed."
+      },
+      {
+        "id": "AD-TIME-TEPER-03",
+        "phrase": "Теперь всё будет по-другому.",
+        "fullAnalysis": "Strategic focus: A new era ahead. With a future verb 'теперь' announces that things will differ from now on. It explicitly draws a line between past and future."
+      },
+      {
+        "id": "AD-TIME-TEPER-04",
+        "phrase": "Раньше он курил, а теперь нет.",
+        "fullAnalysis": "Strategic focus: Then versus now. Paired with 'раньше' the adverb 'теперь' completes a before-and-after contrast. This frame is the classic way to express a habit that has stopped."
+      },
+      {
+        "id": "AD-TIME-TEPER-05",
+        "phrase": "Теперь твоя очередь.",
+        "fullAnalysis": "Strategic focus: Now it is your turn. 'Теперь' marks the present moment as the point at which the turn passes over. It works well to hand off an action to someone else."
+      },
+      {
+        "id": "AD-TIME-TEPER-06",
+        "phrase": "Где ты теперь живёшь?",
+        "fullAnalysis": "Strategic focus: Now after a move. The question with 'теперь' asks about a current situation that has replaced an old one. It assumes the living place has recently changed."
+      },
+      {
+        "id": "AD-TIME-TEPER-07",
+        "phrase": "Теперь мы можем спокойно отдыхать.",
+        "fullAnalysis": "Strategic focus: Now that things are settled. Fronted 'теперь' signals that a previous obstacle is gone and rest is finally possible. It conveys relief at a changed circumstance."
+      },
+      {
+        "id": "AD-TIME-TEPER-08",
+        "phrase": "Теперь я живу в Москве.",
+        "fullAnalysis": "Strategic focus: Current state replacing an old one. 'Теперь' presents living in Moscow as the new arrangement. Unlike a neutral сейчас, it stresses the contrast with where one lived before."
+      },
+      {
+        "id": "AD-TIME-TEPER-09",
+        "phrase": "А теперь послушай меня внимательно.",
+        "fullAnalysis": "Strategic focus: Now as a discourse pivot. Here 'а теперь' shifts attention to a new point in a conversation or speech. It functions almost like and now to introduce the next part."
+      },
+      {
+        "id": "AD-TIME-TEPER-10",
+        "phrase": "Теперь поздно что-то менять.",
+        "fullAnalysis": "Strategic focus: Now it is too late. 'Теперь' frames the present as the moment after which change is no longer possible. It looks back at a window that has closed."
+      }
+    ]
+  }
+]

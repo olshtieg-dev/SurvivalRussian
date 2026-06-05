@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-TRUDNO",
+    "label": "Трудно",
+    "badge": "HARD",
+    "description": "A 10-sentence usage card for трудно (difficult / hard).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-01",
+        "phrase": "Мне трудно дышать здесь.",
+        "fullAnalysis": "Strategic focus: Difficulty with a dative experiencer. 'Трудно' is the impersonal predicative for hard, and 'мне' is the dative person who struggles. The infinitive 'дышать' names the difficult action in this place."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-02",
+        "phrase": "Трудно учить новый язык.",
+        "fullAnalysis": "Strategic focus: General difficulty. 'Трудно' states a universal observation with no experiencer named, and the infinitive 'учить' with the accusative 'язык' frames learning a new language as hard for anyone."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-03",
+        "phrase": "Тебе трудно вставать рано?",
+        "fullAnalysis": "Strategic focus: Asking about difficulty. The dative 'тебе' is the experiencer, 'трудно' carries the difficulty, and the infinitive 'вставать' with 'рано' asks whether getting up early is hard for you."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-04",
+        "phrase": "Было трудно найти дорогу.",
+        "fullAnalysis": "Strategic focus: Past difficulty. The neuter 'было' marks past tense for the impersonal 'трудно', and the perfective infinitive 'найти' with the accusative 'дорогу' names what was hard to do earlier."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-05",
+        "phrase": "Ему трудно говорить по-русски.",
+        "fullAnalysis": "Strategic focus: Third-person difficulty. The dative 'ему' is the experiencer, 'трудно' carries the difficulty, and the infinitive 'говорить' with the adverb 'по-русски' frames speaking Russian as hard for him."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-06",
+        "phrase": "Нам было трудно решить.",
+        "fullAnalysis": "Strategic focus: Past plural difficulty. The neuter 'было' marks past tense, 'нам' is the dative experiencer, and the perfective infinitive 'решить' names the hard choice the group faced."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-07",
+        "phrase": "Трудно поверить в это.",
+        "fullAnalysis": "Strategic focus: Difficulty of belief. 'Трудно' states a general difficulty with no experiencer, and the perfective infinitive 'поверить' takes 'в это' in the accusative. A natural way to express disbelief."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-08",
+        "phrase": "С ним трудно работать.",
+        "fullAnalysis": "Strategic focus: Difficulty involving a person. 'Трудно' carries the impersonal difficulty, the infinitive 'работать' names the action, and 'с ним' in the instrumental says working with him is hard."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-09",
+        "phrase": "Тебе будет трудно без меня.",
+        "fullAnalysis": "Strategic focus: Future difficulty. The future 'будет' projects the impersonal 'трудно' forward, with the dative 'тебе' as experiencer. 'Без меня' in the genitive states what will make it hard."
+      },
+      {
+        "id": "AD-PREDICATIVE-TRUDNO-10",
+        "phrase": "Сначала всегда трудно.",
+        "fullAnalysis": "Strategic focus: Difficulty without an infinitive. 'Трудно' stands alone as a complete impersonal predicate, needing no action verb. With 'сначала' and 'всегда' it states the comforting truth that the start is always hard."
+      }
+    ]
+  }
+]

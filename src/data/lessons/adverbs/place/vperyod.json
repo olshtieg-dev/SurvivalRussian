@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-VPERYOD",
+    "label": "Вперёд",
+    "badge": "FORWARD",
+    "description": "A 10-sentence usage card for вперёд (forward, ahead).",
+    "missions": [
+      {
+        "id": "AD-PLACE-VPERYOD-01",
+        "phrase": "Сделай шаг вперёд.",
+        "fullAnalysis": "Strategic focus: Forward motion. 'Вперёд' means forward and modifies the imperative 'сделай', marking the direction of the step. It shows real movement toward the front."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-02",
+        "phrase": "Машина медленно двинулась вперёд.",
+        "fullAnalysis": "Strategic focus: Moving ahead. 'Вперёд' modifies 'двинулась' to show the car starting forward. The adverb fixes the direction of travel as toward the front."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-03",
+        "phrase": "Смело иди вперёд к своей цели.",
+        "fullAnalysis": "Strategic focus: Striving forward. 'Вперёд' modifies 'иди' both literally and figuratively, marking progress toward a goal. With 'к своей цели' it blends physical and motivational direction."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-04",
+        "phrase": "Бегуны рванулись вперёд со старта.",
+        "fullAnalysis": "Strategic focus: Surging ahead. 'Вперёд' modifies 'рванулись' to mark the runners' burst toward the front. The adverb gives the direction of the sudden forward dash."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-05",
+        "phrase": "Наклонись немного вперёд.",
+        "fullAnalysis": "Strategic focus: Leaning forward. 'Вперёд' modifies the imperative 'наклонись' to mark the body tilting toward the front. The adverb gives the precise direction of the lean."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-06",
+        "phrase": "Часы спешат на пять минут вперёд.",
+        "fullAnalysis": "Strategic focus: Running fast on a clock. 'Вперёд' modifies 'спешат' in the idiom for a clock being ahead. Here the forward direction is applied to time rather than space."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-07",
+        "phrase": "Не смотри назад, смотри вперёд.",
+        "fullAnalysis": "Strategic focus: Forward versus backward. 'Вперёд' modifies 'смотри' to mark looking ahead, set against 'назад'. The pair captures the contrast between past and future orientation."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-08",
+        "phrase": "Корабль медленно плыл вперёд.",
+        "fullAnalysis": "Strategic focus: Sailing onward. 'Вперёд' modifies 'плыл' to mark the ship's forward progress through the water. The adverb keeps the direction toward the front."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-09",
+        "phrase": "Пропусти меня вперёд, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Letting someone ahead. 'Вперёд' modifies 'пропусти' to mean letting the speaker move to the front. The directional adverb marks the desired forward position."
+      },
+      {
+        "id": "AD-PLACE-VPERYOD-10",
+        "phrase": "Команда уверенно идёт вперёд.",
+        "fullAnalysis": "Strategic focus: Advancing as a group. 'Вперёд' modifies 'идёт' to mark the team's forward progress. The adverb carries both literal motion and a sense of momentum toward success."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-TOCHNO",
+    "label": "Точно",
+    "badge": "EXACTLY",
+    "description": "A 10-sentence usage card for точно (exactly, precisely) covering manner, certainty, and the 'right!' use.",
+    "missions": [
+      {
+        "id": "AD-MANNER-TOCHNO-01",
+        "phrase": "Скажи мне точно, когда придёшь.",
+        "fullAnalysis": "Strategic focus: Manner of precision. 'Точно' means 'exactly' and modifies 'скажи', asking for a precise answer. It describes how the telling should be done."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-02",
+        "phrase": "Я точно знаю, что это правда.",
+        "fullAnalysis": "Strategic focus: Certainty marker. Here 'точно' means 'for sure' and modifies 'знаю', expressing confidence. It strengthens the speaker's claim."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-03",
+        "phrase": "Часы показывают время точно.",
+        "fullAnalysis": "Strategic focus: Accuracy of function. 'Точно' modifies 'показывают', meaning the clock keeps precise time. The adverb after the verb stresses exactness."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-04",
+        "phrase": "Точно, я совсем забыл!",
+        "fullAnalysis": "Strategic focus: Realisation marker. As a standalone reply 'точно' means 'right!' or 'true!', acknowledging a sudden memory. It is a lively conversational interjection."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-05",
+        "phrase": "Он точно повторил мои слова.",
+        "fullAnalysis": "Strategic focus: Exact reproduction. 'Точно' modifies 'повторил', meaning the words were repeated word for word. It emphasises faithful accuracy."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-06",
+        "phrase": "Ты точно хочешь уйти сейчас?",
+        "fullAnalysis": "Strategic focus: Checking certainty. 'Точно' here means 'for sure' and questions the firmness of the wish. It seeks confirmation before an action."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-07",
+        "phrase": "Измерь стол точно.",
+        "fullAnalysis": "Strategic focus: Precision in action. 'Точно' modifies the imperative 'измерь', demanding an exact measurement. It describes the required manner of the task."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-08",
+        "phrase": "Завтра точно будет тепло.",
+        "fullAnalysis": "Strategic focus: Confident prediction. 'Точно' modifies the future 'будет', meaning the speaker is sure about tomorrow's warmth. It conveys strong certainty about a forecast."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-09",
+        "phrase": "Он точно такой же, как отец.",
+        "fullAnalysis": "Strategic focus: Exact likeness. 'Точно' intensifies 'такой же', meaning 'exactly the same'. The fixed frame 'точно такой же' is a common comparison."
+      },
+      {
+        "id": "AD-MANNER-TOCHNO-10",
+        "phrase": "Я не помню точно его имя.",
+        "fullAnalysis": "Strategic focus: Negated precision. 'Точно' modifies 'не помню', meaning the memory is not precise. Here the adverb scopes the degree of accuracy under negation."
+      }
+    ]
+  }
+]

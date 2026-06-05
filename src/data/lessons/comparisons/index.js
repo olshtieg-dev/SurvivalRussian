@@ -3,9 +3,25 @@ import iSet from './i.json';
 import iliSet from './ili.json';
 import noSet from './no.json';
 import aSet from './a.json';
+import chtoSet from './chto.json';
+import potomuChtoSet from './potomu-chto.json';
+import poetomuSet from './poetomu.json';
+import chtobySet from './chtoby.json';
+import tozheSet from './tozhe.json';
 
 export const comparisonsFolderId = 'comparisons';
-const comparisonsSetData = [...esliSet, ...iSet, ...iliSet, ...noSet, ...aSet];
+const comparisonsSetData = [
+  ...esliSet,
+  ...iSet,
+  ...iliSet,
+  ...noSet,
+  ...aSet,
+  ...chtoSet,
+  ...potomuChtoSet,
+  ...poetomuSet,
+  ...chtobySet,
+  ...tozheSet,
+];
 
 export const comparisonsFolder = {
   id: comparisonsFolderId,

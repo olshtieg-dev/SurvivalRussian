@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "LX-EGO-OBJ-01",
-        "phrase": "он видит его",
-        "fullAnalysis": "Strategic focus: Object pronoun after a verb. 1. 'Его' is the object form meaning 'him'. 2. 'Видит' is third-person singular and stays stable. 3. This sentence teaches how the same spelling can function as a possessive or an object depending on context."
+        "phrase": "Он часто видит его в парке.",
+        "fullAnalysis": "Strategic focus: Object pronoun after a verb. 'Его' is the object form meaning 'him' and follows 'видит' in the accusative. The same spelling can mean 'his', so context here marks it as the object."
       },
       {
         "id": "LX-EGO-OBJ-02",
-        "phrase": "она ждёт его",
-        "fullAnalysis": "Strategic focus: Simple transitive verb. 1. 'Его' is the direct object. 2. 'Ждет' is third-person singular. 3. This is a common real-life sentence for timing and meeting."
+        "phrase": "Она терпеливо ждёт его у входа.",
+        "fullAnalysis": "Strategic focus: Simple transitive verb. 'Его' is the direct object of 'ждёт', which is third-person singular. The phrase 'у входа' gives a concrete meeting spot for everyday speech."
       },
       {
         "id": "LX-EGO-OBJ-03",
-        "phrase": "они знают его",
-        "fullAnalysis": "Strategic focus: Plural subject plus object pronoun. 1. 'Они' forces the plural verb form. 2. 'Знают' stays plural while 'его' remains the object form. 3. The sentence is ideal for hearing the contrast between subject and object roles."
+        "phrase": "Здесь все хорошо знают его.",
+        "fullAnalysis": "Strategic focus: Plural subject plus object pronoun. The subject 'все' forces the plural verb 'знают', while 'его' stays the object form. The sentence contrasts a plural subject with a singular object."
       },
       {
         "id": "LX-EGO-OBJ-04",
-        "phrase": "он ждёт его дома",
-        "fullAnalysis": "Strategic focus: Object pronoun with location. 1. 'Его' is the object being waited for. 2. 'Дома' adds an everyday location. 3. This line is useful because it combines verb government with a stable place word."
+        "phrase": "Он давно ждёт его дома.",
+        "fullAnalysis": "Strategic focus: Object pronoun with location. 'Его' is the object being waited for, in the accusative after 'ждёт'. The word 'дома' adds an everyday location and 'давно' marks the long wait."
       },
       {
         "id": "LX-EGO-OBJ-05",
-        "phrase": "мама зовет его",
-        "fullAnalysis": "Strategic focus: Direct object in a family sentence. 1. 'Его' is the person being called. 2. 'Зовет' is a common high-frequency verb. 3. The sentence is natural and easy to remember."
+        "phrase": "Мама громко зовёт его ужинать.",
+        "fullAnalysis": "Strategic focus: Direct object in a family scene. 'Его' is the person being called, the object of 'зовёт'. The infinitive 'ужинать' explains the purpose of the call in a natural, homely way."
       },
       {
         "id": "LX-EGO-OBJ-06",
-        "phrase": "друзья ждут его у двери",
-        "fullAnalysis": "Strategic focus: Object pronoun in a plural environment. 1. 'Его' remains the object form. 2. 'Ждут' is plural and matches 'друзья'. 3. 'У двери' adds a practical spatial phrase."
+        "phrase": "Друзья ждут его прямо у двери.",
+        "fullAnalysis": "Strategic focus: Object pronoun in a plural environment. 'Его' stays the object form after 'ждут', which is plural to match 'друзья'. The phrase 'у двери' anchors the scene spatially."
       },
       {
         "id": "LX-EGO-OBJ-07",
-        "phrase": "без него не начинайте",
-        "fullAnalysis": "Strategic focus: Preposition plus object form. 1. 'Без' requires the object form. 2. 'Него' is the prepositional-object form after the preposition. 3. 'Не начинайте' gives the line a real conversational feel."
+        "phrase": "Без него не начинайте собрание.",
+        "fullAnalysis": "Strategic focus: Preposition plus oblique form. The preposition 'без' governs the genitive, which appears here as 'него' with the initial н after a preposition. 'Не начинайте' gives a real command."
       },
       {
         "id": "LX-EGO-OBJ-08",
-        "phrase": "для него это важно",
-        "fullAnalysis": "Strategic focus: Relevance through preposition. 1. 'Для него' expresses purpose or relevance. 2. 'Это' introduces the topic. 3. 'Важно' closes the sentence with a concise evaluation."
+        "phrase": "Для него это очень важно.",
+        "fullAnalysis": "Strategic focus: Relevance through a preposition. 'Для него' uses the genitive after 'для' to express what matters to him. The pronoun 'это' is the topic, and 'очень важно' delivers a concise judgement."
       },
       {
         "id": "LX-EGO-OBJ-09",
-        "phrase": "к нему пришли гости",
-        "fullAnalysis": "Strategic focus: Motion toward the target. 1. 'К нему' uses the object-form variant after the preposition. 2. 'Пришли' is plural past tense. 3. 'Гости' keeps the sentence vivid and practical."
+        "phrase": "Вчера к нему пришли гости.",
+        "fullAnalysis": "Strategic focus: Motion toward the target. 'К нему' uses the dative after 'к' with the prefixed н-form. The verb 'пришли' is plural past tense, and 'гости' makes the scene vivid and concrete."
       },
       {
         "id": "LX-EGO-OBJ-10",
-        "phrase": "рядом с ним сидит учитель",
-        "fullAnalysis": "Strategic focus: Prepositional phrase with object form. 1. 'С ним' is the stable form used after 'с'. 2. 'Сидит' gives a clear spatial relation. 3. 'Учитель' is a concrete noun that makes the sentence easy to picture."
+        "phrase": "Рядом с ним сидит старый учитель.",
+        "fullAnalysis": "Strategic focus: Prepositional phrase with oblique form. 'С ним' is the instrumental form used after 'с'. The verb 'сидит' gives a clear spatial relation, and 'учитель' is an easy-to-picture noun."
       },
       {
         "id": "LX-EGO-OBJ-11",
-        "phrase": "у него есть книга",
-        "fullAnalysis": "Strategic focus: Possession construction. 1. 'У него есть' is the standard Russian possession pattern. 2. 'Книга' is a simple feminine noun. 3. The sentence is useful because it contrasts possession with English-style subject ownership."
+        "phrase": "У него есть очень интересная книга.",
+        "fullAnalysis": "Strategic focus: Possession construction. 'У него есть' is the standard Russian way to say he has something, using the genitive after 'у'. The noun 'книга' is the thing possessed, described by 'интересная'."
       },
       {
         "id": "LX-EGO-OBJ-12",
-        "phrase": "у него нет времени",
-        "fullAnalysis": "Strategic focus: Negation of possession. 1. 'У него нет' is the negative possession pattern. 2. 'Времени' shows the genitive form after negation. 3. This is one of the most practical everyday sentences in Russian."
+        "phrase": "У него совсем нет времени.",
+        "fullAnalysis": "Strategic focus: Negation of possession. 'У него нет' is the negative possession pattern, and 'времени' takes the genitive after 'нет'. The word 'совсем' intensifies one of the most useful everyday sentences."
       },
       {
         "id": "LX-EGO-OBJ-13",
-        "phrase": "после него пришёл сосед",
-        "fullAnalysis": "Strategic focus: Preposition with object form. 1. 'После' requires the object/prepositional reference form. 2. 'Него' appears naturally after the preposition. 3. 'Сосед' is a common noun that keeps the sentence concrete."
+        "phrase": "После него в кабинет вошёл сосед.",
+        "fullAnalysis": "Strategic focus: Preposition with oblique form. 'После' governs the genitive, here 'него' with the prefixed н. The verb 'вошёл' and the noun 'сосед' keep the sentence concrete and sequential."
       },
       {
         "id": "LX-EGO-OBJ-14",
-        "phrase": "перед ним лежит письмо",
-        "fullAnalysis": "Strategic focus: Fixed prepositional phrase. 1. 'Перед ним' is the standard shape of the phrase. 2. 'Лежит' provides a stable visual action. 3. 'Письмо' is a compact object noun that works well with the scene."
+        "phrase": "Перед ним лежит важное письмо.",
+        "fullAnalysis": "Strategic focus: Fixed prepositional phrase. 'Перед ним' uses the instrumental after 'перед'. The verb 'лежит' gives a stable visual image, and 'важное письмо' is a compact object noun for the scene."
       },
       {
         "id": "LX-EGO-OBJ-15",
-        "phrase": "мама спрашивает его о книге",
-        "fullAnalysis": "Strategic focus: Object pronoun plus prepositional complement. 1. 'Его' is the person being asked. 2. 'Спрашивает' is a common interaction verb. 3. 'О книге' shows how a verb can add a second grammatical target after the object."
+        "phrase": "Мама подробно спрашивает его о книге.",
+        "fullAnalysis": "Strategic focus: Object pronoun plus prepositional complement. 'Его' is the person being asked, the object of 'спрашивает'. The phrase 'о книге' adds a second grammatical target after the object."
       },
       {
         "id": "LX-EGO-OBJ-16",
-        "phrase": "они слушают его внимательно",
-        "fullAnalysis": "Strategic focus: Object pronoun with adverb. 1. 'Его' is the object being listened to. 2. 'Слушают' is plural and matches the subject. 3. 'Внимательно' makes the sentence feel alive and natural."
+        "phrase": "Все слушают его очень внимательно.",
+        "fullAnalysis": "Strategic focus: Object pronoun with adverb. 'Его' is the object being listened to. The verb 'слушают' is plural to match 'все', and the adverb 'очень внимательно' makes the sentence feel alive."
       },
       {
         "id": "LX-EGO-OBJ-17",
-        "phrase": "его зовут Антон",
-        "fullAnalysis": "Strategic focus: Identity statement. 1. 'Его зовут' is a fixed naming construction. 2. The phrase does not use a subject pronoun the way English does. 3. This is a crucial survival phrase to internalize."
+        "phrase": "Его зовут Антон.",
+        "fullAnalysis": "Strategic focus: Identity statement. 'Его зовут' is a fixed naming construction where 'его' is the object. Russian states the name without an English-style subject pronoun, making this a key survival phrase."
       },
       {
         "id": "LX-EGO-OBJ-18",
-        "phrase": "его не было дома",
-        "fullAnalysis": "Strategic focus: Past absence. 1. 'Его не было' is a common Russian absence pattern. 2. 'Дома' keeps the location simple. 3. The sentence teaches that Russian can express absence without a direct English-style subject."
+        "phrase": "Утром его не было дома.",
+        "fullAnalysis": "Strategic focus: Past absence. 'Его не было' is a common absence pattern where the pronoun takes the genitive. 'Дома' keeps the location simple, and 'утром' anchors the absence in time."
       },
       {
         "id": "LX-EGO-OBJ-19",
-        "phrase": "его ждёт работа",
-        "fullAnalysis": "Strategic focus: Passive-like expectation. 1. 'Его' is the person who is waited for or expected. 2. 'Ждет' is singular and matches 'работа'. 3. This sentence is useful for seeing how roles can feel reversed from English."
+        "phrase": "Дома его ждёт интересная работа.",
+        "fullAnalysis": "Strategic focus: Object-first expectation. 'Его' is the person who is expected, fronted for emphasis. The verb 'ждёт' is singular to match 'работа', showing how Russian word order can feel reversed from English."
       },
       {
         "id": "LX-EGO-OBJ-20",
-        "phrase": "без него встреча началась",
-        "fullAnalysis": "Strategic focus: Preposition plus past event. 1. 'Без него' keeps the object form after the preposition. 2. 'Встреча началась' gives a natural event clause. 3. This is a very useful real-world sentence for explaining absence."
+        "phrase": "Без него встреча так и началась.",
+        "fullAnalysis": "Strategic focus: Preposition plus past event. 'Без него' keeps the genitive form after 'без' with the prefixed н. The clause 'встреча так и началась' gives a natural, slightly rueful real-world tone."
       }
     ]
   }

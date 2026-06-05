@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KLYUCH",
+    "label": "Ключ",
+    "badge": "KEY",
+    "description": "Household noun ключ (masculine, 'key'): full singular case ladder, plural forms, instrumental of means, and common collocations.",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-01",
+        "phrase": "Это мой ключ от машины.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Ключ' is the bare nominative, the dictionary form, naming the object. 2. 'Мой' agrees with the masculine noun in the nominative. 3. The simplest naming frame for a possessed thing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-02",
+        "phrase": "Я потерял ключ во дворе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Ключ' is the direct object; this inanimate masculine noun has nominative = accusative. 2. 'Потерял' is the past-tense verb taking the accusative. 3. A core pattern for losing an object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-03",
+        "phrase": "Это ключ от входной двери.",
+        "fullAnalysis": "Strategic focus: Genitive relation. 1. 'От двери' is genitive marking what the key belongs to. 2. 'Ключ' itself stays nominative here as the named object. 3. The classic 'X от Y' possession frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-04",
+        "phrase": "У меня нет ключа от квартиры.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Ключа́' is end-stressed genitive singular. 2. 'Нет' demands the genitive to express non-existence. 3. The essential negation-of-existence pattern for any noun."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-05",
+        "phrase": "Дай мне ключ, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative in a command. 1. 'Ключ' is the accusative object of the imperative. 2. 'Дай мне' pairs a dative pronoun with an accusative thing. 3. A practical give-me request frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-06",
+        "phrase": "Подойди к ключу на стене.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 1. 'Ключу́' is end-stressed dative singular. 2. The preposition 'к' governs the dative for approaching. 3. Shows movement toward a stationary object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-07",
+        "phrase": "Он открыл дверь ключом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 1. 'Ключо́м' is end-stressed instrumental singular. 2. It names the tool used to perform 'открыл'. 3. The model pattern for doing something with an instrument."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-08",
+        "phrase": "Вечером он запер дверь ключом.",
+        "fullAnalysis": "Strategic focus: Instrumental tool with object. 1. 'Ключо́м' is the instrumental means. 2. 'Дверь' is the accusative object being locked. 3. Combines a direct object with the tool acting on it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-09",
+        "phrase": "Мы говорили о ключе от сейфа.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 1. 'Ключе́' is end-stressed prepositional singular after 'о'. 2. 'Говорили о' sets up the talking-about frame. 3. The discussion frame paired with a possessor."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-10",
+        "phrase": "Мой ключ лежит в кармане.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 1. 'Ключ' is the nominative subject. 2. 'В кармане' is prepositional marking where it sits. 3. A simple subject-plus-location statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-11",
+        "phrase": "Ключ всегда лежит под ковриком.",
+        "fullAnalysis": "Strategic focus: Nominative with instrumental place. 1. 'Ключ' is the nominative subject. 2. 'Под ковриком' uses the instrumental after 'под' for location beneath. 3. A familiar hidden-key collocation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-12",
+        "phrase": "Запасной ключ лежит дома.",
+        "fullAnalysis": "Strategic focus: Adjective agreement in nominative. 1. 'Запасной' agrees with masculine 'ключ' in the nominative. 2. 'Дома' is an adverb meaning 'at home'. 3. A spare-key statement with an attributive adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-13",
+        "phrase": "Я нашёл дверной ключ под шкафом.",
+        "fullAnalysis": "Strategic focus: Adjective agreement in accusative. 1. 'Дверной ключ' is the accusative object; adjective and noun share the form. 2. 'Нашёл' is past tense with required ё. 3. Attributive adjective in the object slot."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-14",
+        "phrase": "Вот мои ключи от дома.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Ключи́' is end-stressed nominative plural. 2. 'Мои' agrees in the plural. 3. The presentative 'вот' frame introducing several items."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-15",
+        "phrase": "В кармане звенят ключи.",
+        "fullAnalysis": "Strategic focus: Nominative plural with location. 1. 'Ключи́' is nominative plural, the subject. 2. 'В кармане' is prepositional marking place. 3. A plural subject located in a container."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-16",
+        "phrase": "На столе лежит связка ключей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Ключе́й' is end-stressed genitive plural. 2. 'Связка' governs the genitive to mean a bunch of them. 3. The quantity-of frame requiring genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLYUCH-17",
+        "phrase": "У нас дома много ключей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 1. 'Ключе́й' is genitive plural. 2. 'Много' demands the genitive for measured amounts. 3. A core counting frame; 'дома' sets the place."
+      }
+    ]
+  }
+]

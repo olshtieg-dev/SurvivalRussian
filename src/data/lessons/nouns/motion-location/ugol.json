@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-MOTION-UGOL",
+    "label": "Угол",
+    "badge": "CORNER",
+    "description": "The noun угол (corner/angle) through its full case ladder, built around the fleeting vowel that drops in the oblique stem угл- and the stressed -у́ locative.",
+    "missions": [
+      {
+        "id": "NN-MOTION-UGOL-01",
+        "phrase": "У этого стола очень острый угол.",
+        "fullAnalysis": "Strategic focus: Naming the noun. 1. 'Угол' stands in the nominative as the subject of the sentence. 2. 'Острый' agrees as masculine singular nominative. 3. The fleeting о survives only here; oblique cases drop it to the stem угл-."
+      },
+      {
+        "id": "NN-MOTION-UGOL-02",
+        "phrase": "Из окна я вижу дальний угол двора.",
+        "fullAnalysis": "Strategic focus: Direct object. 1. 'Угол' is accusative, the thing seen. 2. For this inanimate masculine noun the accusative matches the nominative form. 3. The fleeting о is still present in this accusative form."
+      },
+      {
+        "id": "NN-MOTION-UGOL-03",
+        "phrase": "Мне не нравится цвет этого угла.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Угла' is genitive, marking 'of the corner'. 2. The fleeting о drops here, giving the reduced stem угл-. 3. Never write 'угола' — the vowel disappears in every oblique singular form."
+      },
+      {
+        "id": "NN-MOTION-UGOL-04",
+        "phrase": "Я медленно иду к дальнему углу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 1. 'К углу' shows motion toward the corner. 2. The dative ending -у sits on the reduced stem угл-. 3. The dropped fleeting о is why it is 'углу', never 'уголу'."
+      },
+      {
+        "id": "NN-MOTION-UGOL-05",
+        "phrase": "Машина припаркована за углом дома.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 1. 'За углом' means just around the corner. 2. The instrumental ending -ом attaches to the fleeting-vowel stem угл-. 3. 'Дома' anchors the scene concretely."
+      },
+      {
+        "id": "NN-MOTION-UGOL-06",
+        "phrase": "Старый стол стоит в углу комнаты.",
+        "fullAnalysis": "Strategic focus: Locative inside a space. 1. 'В углу' takes the special stressed -у́ locative, meaning inside the corner of a room. 2. The fleeting о drops to the stem угл-. 3. 'Стол стоит' makes the scene concrete."
+      },
+      {
+        "id": "NN-MOTION-UGOL-07",
+        "phrase": "Новый магазин стоит на углу улицы.",
+        "fullAnalysis": "Strategic focus: Locative on a street. 1. 'На углу' also uses the stressed -у́ ending but means at the street corner, not inside. 2. Contrast with 'в углу' for an interior corner. 3. The fleeting о drops to угл-."
+      },
+      {
+        "id": "NN-MOTION-UGOL-08",
+        "phrase": "Эти линии пересекаются под прямым углом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 1. 'Под углом' describes an orientation at an angle. 2. The instrumental ending -ом sits on the fleeting-vowel stem угл-. 3. 'Прямым' agrees, naming a right angle."
+      },
+      {
+        "id": "NN-MOTION-UGOL-09",
+        "phrase": "Давай быстро зайдём за угол.",
+        "fullAnalysis": "Strategic focus: Accusative of motion. 1. 'За угол' marks movement to behind the corner. 2. The full nominative-shaped form returns with the fleeting о intact under the accusative. 3. A core direction phrase for routes."
+      },
+      {
+        "id": "NN-MOTION-UGOL-10",
+        "phrase": "Из-за угла внезапно выбежал кот.",
+        "fullAnalysis": "Strategic focus: Genitive after из-за. 1. 'Из-за угла' means from around the corner. 2. The genitive угла again drops the fleeting о to the stem угл-. 3. 'Выбежал кот' makes the appearance vivid."
+      },
+      {
+        "id": "NN-MOTION-UGOL-11",
+        "phrase": "Иди прямо до угла этого дома.",
+        "fullAnalysis": "Strategic focus: Genitive of limit. 1. 'До угла' marks the corner as an endpoint to reach. 2. The genitive sits on the reduced stem угл-, the fleeting о dropping out. 3. A practical phrase for giving directions."
+      },
+      {
+        "id": "NN-MOTION-UGOL-12",
+        "phrase": "Дальний угол комнаты совсем тёмный.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Дальний' matches the masculine nominative 'угол'. 2. 'Комнаты' is genitive, specifying which space. 3. The fleeting о holds in the nominative head noun."
+      },
+      {
+        "id": "NN-MOTION-UGOL-13",
+        "phrase": "Кот любит сидеть в тёмном углу.",
+        "fullAnalysis": "Strategic focus: Adjective in the locative. 1. 'В тёмном углу' uses the stressed -у́ locative for an interior corner. 2. 'Тёмном' agrees with the reduced stem угл-. 3. A clear scene-setting clause."
+      },
+      {
+        "id": "NN-MOTION-UGOL-14",
+        "phrase": "У квадрата все углы прямые.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Углы' is the stressed plural of the lemma in the nominative. 2. 'Прямые' agrees as plural, naming right angles. 3. The plural keeps the о of the stem before the ending."
+      },
+      {
+        "id": "NN-MOTION-UGOL-15",
+        "phrase": "Сумма углов треугольника равна ста восьмидесяти градусам.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Углов' is the genitive plural, used for the sum of angles. 2. The о of the stem stays in the plural, unlike the singular oblique. 3. A natural geometry sentence."
+      },
+      {
+        "id": "NN-MOTION-UGOL-16",
+        "phrase": "Давай встретимся вечером на углу.",
+        "fullAnalysis": "Strategic focus: Scene on the street. 1. 'На углу' uses the stressed -у́ locative for the street corner as a meeting spot. 2. The fleeting о drops to the stem угл-. 3. Contrast 'в углу' for an indoor corner."
+      },
+      {
+        "id": "NN-MOTION-UGOL-17",
+        "phrase": "Большой шкаф стоит в углу спальни.",
+        "fullAnalysis": "Strategic focus: Interior placement. 1. 'В углу' takes the stressed -у́ locative, placing the object inside the room corner. 2. 'Шкаф стоит' fills out a full clause. 3. The fleeting о vanishes into the stem угл-."
+      }
+    ]
+  }
+]

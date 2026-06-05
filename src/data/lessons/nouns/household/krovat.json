@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KROVAT",
+    "label": "Кровать",
+    "badge": "BED",
+    "description": "Decline кровать (feminine 3rd-declension) across the full case ladder, plural forms, adjective agreement, and prepositional scenes.",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-01",
+        "phrase": "В углу комнаты стоит кровать.",
+        "fullAnalysis": "Strategic focus: Nominative baseline. 1. 'Кровать' stands in the nominative as the subject of 'стоит'. 2. This anchors the dictionary form before declension begins. 3. The 3rd-declension feminine adds a soft sign, no ending."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-02",
+        "phrase": "У стены стоит мягкая кровать.",
+        "fullAnalysis": "Strategic focus: Adjective agreement, nominative. 1. 'Кровать' is feminine, so 'мягкая' takes the feminine ending. 2. The subject pair stays nominative. 3. This drills gender agreement in the base case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-03",
+        "phrase": "В спальне стоит удобная кровать.",
+        "fullAnalysis": "Strategic focus: Second adjective agreement. 1. 'Удобная' again matches feminine 'кровать' in the nominative. 2. Both words remain nominative as the subject. 3. This reinforces the feminine adjective ending pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-04",
+        "phrase": "Вчера я купил новую кровать.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. For 3rd-declension feminines, accusative equals nominative, so 'кровать' is unchanged. 2. 'Купил' takes the direct object. 3. This shows acc/nom syncretism."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-05",
+        "phrase": "Утром он аккуратно застелил кровать.",
+        "fullAnalysis": "Strategic focus: Accusative in action. 1. 'Кровать' is the accusative object, identical to the nominative form. 2. 'Застелил' governs the object directly. 3. This pairs a common verb with the bed."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-06",
+        "phrase": "Ножка кровати слегка скрипит.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Кровати' is genitive, marking belonging. 2. Note 3rd-declension syncretism: gen, dat, and prep all share 'кровати'. 3. This expresses a part of the bed."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-07",
+        "phrase": "Утром он встал с кровати.",
+        "fullAnalysis": "Strategic focus: Genitive with 'с'. 1. 'С' plus genitive 'кровати' means motion off the surface. 2. The form matches dat and prep by syncretism. 3. This is a high-frequency morning scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-08",
+        "phrase": "У кровати лежит мягкий коврик.",
+        "fullAnalysis": "Strategic focus: Genitive of location. 1. 'У' plus genitive 'кровати' means beside the bed. 2. This is the same syncretic form as dat and prep. 3. It marks a static nearby position."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-09",
+        "phrase": "Я тихо подошёл к кровати.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 1. 'К' plus dative 'кровати' means motion toward. 2. The dative form coincides with gen and prep. 3. This shows directional approach to the bed."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-10",
+        "phrase": "Он спокойно лежит на кровати.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 1. 'На' plus prepositional 'кровати' means resting on the surface. 2. This form matches gen and dat by syncretism. 3. It describes static position."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-11",
+        "phrase": "Уставший, он лёг на кровать.",
+        "fullAnalysis": "Strategic focus: Accusative of motion onto. 1. 'На' plus accusative 'кровать' signals movement onto the surface. 2. Contrast with prepositional 'кровати' for static rest. 3. This drills the case-by-direction rule."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-12",
+        "phrase": "Ребёнок сел на кровать.",
+        "fullAnalysis": "Strategic focus: Accusative motion, second drill. 1. 'На' plus accusative 'кровать' marks the endpoint of sitting down. 2. The form equals the nominative. 3. This reinforces motion-onto syntax."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-13",
+        "phrase": "Серый кот спит под кроватью.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'под'. 1. 'Под' plus instrumental 'кроватью' means located underneath. 2. The instrumental ending '-ью' is unique to this paradigm. 3. This describes a static under-position."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-14",
+        "phrase": "Тёплые тапки лежат под кроватью.",
+        "fullAnalysis": "Strategic focus: Instrumental, second drill. 1. 'Под' plus instrumental 'кроватью' again marks the space below. 2. The '-ью' ending reinforces the instrumental form. 3. This is a common household scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-15",
+        "phrase": "В комнате стоят две кровати.",
+        "fullAnalysis": "Strategic focus: Plural with numeral. 1. After 'две', the noun takes 'кровати'. 2. Here the form is genitive singular after the numeral. 3. This introduces the numeral-plus-noun pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-16",
+        "phrase": "В магазине стоят новые кровати.",
+        "fullAnalysis": "Strategic focus: Plural adjective agreement. 1. 'Кровати' is nominative plural. 2. 'Новые' takes the plural ending to agree. 3. This drills agreement across the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-17",
+        "phrase": "В палате стоят пять кроватей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. After 'пять', the noun takes genitive plural 'кроватей'. 2. The '-ей' ending marks the plural count. 3. This is the standard numeral-plus-noun rule."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KROVAT-18",
+        "phrase": "Подушки лежат на кроватях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 1. 'На' plus prepositional plural 'кроватях' means on the beds. 2. The '-ях' ending marks plural location. 3. This completes the plural prepositional scene."
+      }
+    ]
+  }
+]

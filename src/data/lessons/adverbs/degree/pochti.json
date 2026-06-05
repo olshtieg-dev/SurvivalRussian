@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-POCHTI",
+    "label": "Почти",
+    "badge": "ALMOST",
+    "description": "A 10-sentence usage card for почти (almost, nearly).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-POCHTI-01",
+        "phrase": "Я почти закончил работу.",
+        "fullAnalysis": "Strategic focus: Almost with a verb. 'Почти' means almost or nearly, here marking the action 'закончил' as not quite complete. It stands before the verb it scales."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-02",
+        "phrase": "Обед почти готов.",
+        "fullAnalysis": "Strategic focus: Approaching a state. 'Почти' modifies the predicative 'готов', meaning nearly ready. The adverb sits before the state word to show closeness to completion."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-03",
+        "phrase": "Он почти упал на лестнице.",
+        "fullAnalysis": "Strategic focus: An action that nearly happened. 'Почти' before 'упал' means almost fell, the event came close but did not occur. This near-miss reading is typical with perfective verbs."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-04",
+        "phrase": "Здесь почти все говорят по-русски.",
+        "fullAnalysis": "Strategic focus: Scaling a quantity. 'Почти' modifies 'все', meaning almost everyone. The adverb precedes the quantifier to soften it just below the total."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-05",
+        "phrase": "Уже почти полночь.",
+        "fullAnalysis": "Strategic focus: Approaching a time. 'Почти' narrows toward 'полночь', meaning nearly midnight. It precedes the time noun to mark a point just short of it."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-06",
+        "phrase": "Магазин почти всегда открыт.",
+        "fullAnalysis": "Strategic focus: Scaling a frequency adverb. 'Почти' modifies 'всегда', meaning almost always. It directly precedes the adverb to pull it slightly below absolute frequency."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-07",
+        "phrase": "Чашка почти пустая.",
+        "fullAnalysis": "Strategic focus: Adjective near a limit. 'Почти' scales 'пустая' to mean nearly empty. It sits before the adjective to mark a state close to the extreme but not at it."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-08",
+        "phrase": "Я почти ничего не помню.",
+        "fullAnalysis": "Strategic focus: Almost with negation. 'Почти' with 'ничего не' means almost nothing, leaving a tiny remainder. The adverb precedes the negative pronoun it softens."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-09",
+        "phrase": "Дорога заняла почти три часа.",
+        "fullAnalysis": "Strategic focus: Approximating a number. 'Почти' before 'три часа' means nearly three hours, just under the figure. It modifies the quantity expression to give an estimate."
+      },
+      {
+        "id": "AD-DEGREE-POCHTI-10",
+        "phrase": "Мы почти доехали до дома.",
+        "fullAnalysis": "Strategic focus: Nearly completed motion. 'Почти' scales 'доехали', meaning almost arrived home. With perfective motion verbs it stresses how close the goal is."
+      }
+    ]
+  }
+]

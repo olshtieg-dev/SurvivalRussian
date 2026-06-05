@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-VPOLNE",
+    "label": "Вполне",
+    "badge": "QUITE",
+    "description": "A 10-sentence usage card for вполне (quite, fully).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-VPOLNE-01",
+        "phrase": "Я вполне доволен результатом.",
+        "fullAnalysis": "Strategic focus: Full satisfaction. 'Вполне' means quite or fully, here marking 'доволен' as completely satisfied. It precedes the predicate to confirm a sufficient degree."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-02",
+        "phrase": "Это вполне нормально.",
+        "fullAnalysis": "Strategic focus: Reassuring degree. 'Вполне' scales 'нормально' to mean perfectly fine. It conveys that the level reached is entirely acceptable."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-03",
+        "phrase": "Он вполне может это сделать.",
+        "fullAnalysis": "Strategic focus: Quite with an ability verb. 'Вполне' modifies 'может' to mean is well able to. It marks the capacity as fully sufficient and stands before the modal verb."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-04",
+        "phrase": "Этого вполне достаточно.",
+        "fullAnalysis": "Strategic focus: Sufficiency. 'Вполне' strengthens 'достаточно' to mean quite enough. The pairing is a common, slightly formal way to confirm an adequate amount."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-05",
+        "phrase": "Погода сегодня вполне приятная.",
+        "fullAnalysis": "Strategic focus: Moderate praise. 'Вполне' lifts 'приятная' to mean quite pleasant, a measured positive. It precedes the adjective to mark a satisfactory degree."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-06",
+        "phrase": "Я вполне понимаю твою позицию.",
+        "fullAnalysis": "Strategic focus: Full comprehension. 'Вполне' scales 'понимаю' to mean fully understand. It sits before the verb to signal complete grasp."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-07",
+        "phrase": "Это вполне разумное решение.",
+        "fullAnalysis": "Strategic focus: Adjective in a noun phrase. 'Вполне' marks 'разумное' as quite reasonable, and the pair describes 'решение'. The register is neutral to formal."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-08",
+        "phrase": "Он вполне здоров теперь.",
+        "fullAnalysis": "Strategic focus: Complete state. 'Вполне' raises 'здоров' to mean fully well again. It precedes the predicate to confirm the state is reached in full."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-09",
+        "phrase": "Цена вполне разумная.",
+        "fullAnalysis": "Strategic focus: Measured approval. 'Вполне' scales 'разумная' to mean quite fair, a calm endorsement of the price. It precedes the adjective it modifies."
+      },
+      {
+        "id": "AD-DEGREE-VPOLNE-10",
+        "phrase": "Мы вполне успеваем на поезд.",
+        "fullAnalysis": "Strategic focus: Comfortable margin. 'Вполне' modifies 'успеваем' to mean have plenty of time for the train. It marks the action as fully achievable before the verb."
+      }
+    ]
+  }
+]

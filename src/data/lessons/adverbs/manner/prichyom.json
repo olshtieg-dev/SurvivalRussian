@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-PRICHYOM",
+    "label": "Причём",
+    "badge": "MOREOVR",
+    "description": "A 10-sentence usage card for причём (moreover; and what's more).",
+    "missions": [
+      {
+        "id": "AD-MANNER-PRICHYOM-01",
+        "phrase": "Он купил машину, причём дорогую.",
+        "fullAnalysis": "Strategic focus: Adding an emphatic detail. 'Причём' links a clause that adds a striking extra fact, here that the car was expensive. It introduces an afterthought that intensifies the main statement and sits at the head of the added phrase."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-02",
+        "phrase": "Она говорит по-французски, причём отлично.",
+        "fullAnalysis": "Strategic focus: Reinforcing with a qualifier. 'Причём' attaches 'отлично' as an upgrade to the claim that she speaks French. It carries the sense of 'and what's more', strengthening the point in casual and neutral speech alike."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-03",
+        "phrase": "Работа трудная, причём очень.",
+        "fullAnalysis": "Strategic focus: Emphatic addition with intensifier. 'Причём' opens a short tag that piles on 'очень', amplifying that the work is hard. This compact pattern is common in spoken Russian for driving a point home."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-04",
+        "phrase": "Я опоздал, причём не по своей вине.",
+        "fullAnalysis": "Strategic focus: Adding an exonerating clause. 'Причём' introduces a clarifying detail that I was late through no fault of mine. It connects two ideas where the second qualifies and excuses the first."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-05",
+        "phrase": "Он решил задачу, причём быстро.",
+        "fullAnalysis": "Strategic focus: Highlighting manner. 'Причём' adds 'быстро' to underline how impressively the task was solved. The word frames the follow-up as a noteworthy bonus to the main achievement."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-06",
+        "phrase": "Билеты дорогие, причём их мало.",
+        "fullAnalysis": "Strategic focus: Stacking two problems. 'Причём' joins a second drawback to the first, that tickets are expensive and also scarce. It signals that the added clause compounds the situation already described."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-07",
+        "phrase": "Он пришёл поздно, причём без подарка.",
+        "fullAnalysis": "Strategic focus: Listing a further fault. 'Причём' tags on 'без подарка' as an extra grievance after being late. The construction is conversational and slightly indignant in tone."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-08",
+        "phrase": "Книга интересная, причём короткая.",
+        "fullAnalysis": "Strategic focus: Adding a positive bonus. 'Причём' presents 'короткая' as a welcome extra virtue of the book. It works equally well for favourable and unfavourable additions, depending on context."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-09",
+        "phrase": "Мы встретились случайно, причём дважды.",
+        "fullAnalysis": "Strategic focus: Emphasising an unexpected repeat. 'Причём' introduces 'дважды', sharpening the surprise of meeting by chance. The added detail makes the coincidence feel remarkable."
+      },
+      {
+        "id": "AD-MANNER-PRICHYOM-10",
+        "phrase": "Он знает три языка, причём свободно.",
+        "fullAnalysis": "Strategic focus: Crowning a claim. 'Причём' attaches 'свободно' to elevate the statement that he knows three languages. It signals the final, most impressive piece of information in the sentence."
+      }
+    ]
+  }
+]

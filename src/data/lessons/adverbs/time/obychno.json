@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-OBYCHNO",
+    "label": "Обычно",
+    "badge": "USUALLY",
+    "description": "A 10-sentence usage card for обычно (usually).",
+    "missions": [
+      {
+        "id": "AD-TIME-OBYCHNO-01",
+        "phrase": "Обычно я встаю в семь утра.",
+        "fullAnalysis": "Strategic focus: Default routine. 'Обычно' means usually and frames the whole sentence as a habit, modifying 'встаю'. Placed at the very start, it sets the routine before the specific detail of the time follows."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-02",
+        "phrase": "Он обычно завтракает дома.",
+        "fullAnalysis": "Strategic focus: Typical behaviour. 'Обычно' modifies 'завтракает' to mark what normally happens. Here the adverb sits before the verb, the most common neutral spot for describing a person's habit."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-03",
+        "phrase": "Мы обычно отдыхаем летом на море.",
+        "fullAnalysis": "Strategic focus: Customary practice. 'Обычно' modifies 'отдыхаем' to show the usual pattern of vacations. It works together with 'летом', which names the season of this regular habit."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-04",
+        "phrase": "Что ты обычно ешь на обед?",
+        "fullAnalysis": "Strategic focus: Asking about habits. 'Обычно' modifies 'ешь' to ask what is typical, not what happens once. The adverb sits before the verb while 'что' opens the question."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-05",
+        "phrase": "Магазин обычно открывается в девять.",
+        "fullAnalysis": "Strategic focus: Regular schedule. 'Обычно' modifies 'открывается' to describe the standard opening time. The adverb signals that this is the norm, leaving room for the occasional exception."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-06",
+        "phrase": "Обычно по выходным мы спим долго.",
+        "fullAnalysis": "Strategic focus: Weekend routine. 'Обычно' opens the sentence to frame the whole habit, modifying 'спим'. It combines with 'по выходным', which names when this regular pattern applies."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-07",
+        "phrase": "Она обычно читает перед сном.",
+        "fullAnalysis": "Strategic focus: Nightly habit. 'Обычно' modifies 'читает' to mark a regular evening practice. The adverb keeps its usual pre-verb position, while 'перед сном' anchors the time of day."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-08",
+        "phrase": "Дорога на работу обычно занимает час.",
+        "fullAnalysis": "Strategic focus: Typical duration. 'Обычно' modifies 'занимает' to state how long the commute normally takes. The adverb marks the standard case, implying that traffic can sometimes change it."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-09",
+        "phrase": "Зимой обычно темнеет очень рано.",
+        "fullAnalysis": "Strategic focus: Seasonal norm. 'Обычно' modifies 'темнеет' to describe what regularly happens in winter. It pairs with 'зимой' for the season and 'рано' for the typical timing."
+      },
+      {
+        "id": "AD-TIME-OBYCHNO-10",
+        "phrase": "Я обычно не пью кофе вечером.",
+        "fullAnalysis": "Strategic focus: Habitual negation. 'Обычно' modifies the negated verb 'не пью' to express a general rule rather than a single refusal. The adverb stands before the negation, softening it into a tendency."
+      }
+    ]
+  }
+]

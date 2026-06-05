@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-OSOBENNO",
+    "label": "Особенно",
+    "badge": "ESP",
+    "description": "A 10-sentence usage card for особенно (especially, particularly).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-OSOBENNO-01",
+        "phrase": "Мне особенно нравится зима.",
+        "fullAnalysis": "Strategic focus: Singling out a favourite. 'Особенно' means especially, marking 'зима' as standing out among others. It precedes the element it foregrounds within the liking frame."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-02",
+        "phrase": "Сегодня особенно холодно.",
+        "fullAnalysis": "Strategic focus: Intensifying a state. 'Особенно' raises the predicative 'холодно' to mean unusually or particularly cold. Here it scales degree, not just selects a focus."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-03",
+        "phrase": "Он любит спорт, особенно футбол.",
+        "fullAnalysis": "Strategic focus: Highlighting one of many. 'Особенно' introduces 'футбол' as the standout example after a general statement. It typically follows a comma to single out a member of a set."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-04",
+        "phrase": "Это особенно важно для нас.",
+        "fullAnalysis": "Strategic focus: Scaling an adjective. 'Особенно' intensifies 'важно' to mean particularly important. It precedes the predicative to push it above the ordinary level."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-05",
+        "phrase": "Дети особенно рады подаркам.",
+        "fullAnalysis": "Strategic focus: Foregrounding a group. 'Особенно' marks 'дети' as the ones most affected, especially glad. It precedes the predicate to highlight their heightened reaction."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-06",
+        "phrase": "Будь особенно осторожен ночью.",
+        "fullAnalysis": "Strategic focus: Intensifying an adjective in advice. 'Особенно' boosts 'осторожен' to mean especially careful. It strengthens the warning by raising the degree."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-07",
+        "phrase": "Музей красивый, особенно вечером.",
+        "fullAnalysis": "Strategic focus: Singling out a time. 'Особенно' highlights 'вечером' as the moment the beauty stands out most. It follows the main clause to add the standout circumstance."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-08",
+        "phrase": "Я особенно ценю твою помощь.",
+        "fullAnalysis": "Strategic focus: Intensifying a verb. 'Особенно' raises the degree of 'ценю', meaning especially value. It sits before the verb to strengthen the appreciation."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-09",
+        "phrase": "Эта книга особенно интересная.",
+        "fullAnalysis": "Strategic focus: Adjective above the norm. 'Особенно' lifts 'интересная' to mean particularly interesting, more than usual. It precedes the adjective it scales."
+      },
+      {
+        "id": "AD-DEGREE-OSOBENNO-10",
+        "phrase": "Ничего особенно не случилось.",
+        "fullAnalysis": "Strategic focus: With negation. In 'ничего особенно', the adverb pairs with negation to mean nothing in particular. It marks the lack of anything that stands out."
+      }
+    ]
+  }
+]

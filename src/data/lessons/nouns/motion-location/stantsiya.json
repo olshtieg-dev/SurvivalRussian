@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-MOTION-STANTSIYA",
+    "label": "Станция",
+    "badge": "STATION",
+    "description": "Practice the feminine -ия noun станция across the full case ladder, contrasting location (на станции) with motion (на станцию), plus plural and adjective agreement.",
+    "missions": [
+      {
+        "id": "NN-MOTION-STANTSIYA-01",
+        "phrase": "Это наша станция.",
+        "fullAnalysis": "Strategic focus: Naming the place. 1. 'Станция' stands in the nominative as the subject. 2. 'Это' introduces it without a verb, and 'наша' agrees in feminine nominative. 3. A minimal, high-frequency identifying sentence."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-02",
+        "phrase": "Я уже вижу станцию.",
+        "fullAnalysis": "Strategic focus: Direct object. 1. 'Станцию' is the accusative object of 'вижу'. 2. The -ия noun takes -ию in the accusative singular. 3. 'Уже' adds that the place is now in sight."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-03",
+        "phrase": "Магазин находится у станции.",
+        "fullAnalysis": "Strategic focus: Proximity. 1. 'У' takes the genitive, giving 'станции'. 2. For -ия nouns the genitive, dative and prepositional all share the form станции. 3. Marks the shop being near the place."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-04",
+        "phrase": "Я медленно иду к станции.",
+        "fullAnalysis": "Strategic focus: Direction toward. 1. 'К' takes the dative, giving 'станции'. 2. For -ия nouns the dative equals the genitive and prepositional (станции). 3. Describes motion approaching a goal."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-05",
+        "phrase": "Парк находится за станцией.",
+        "fullAnalysis": "Strategic focus: Spatial relation. 1. 'За' here takes the instrumental, giving 'станцией'. 2. The -ия noun takes -ией in the instrumental. 3. Locates the park behind the place."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-06",
+        "phrase": "Мы ждём поезд на станции.",
+        "fullAnalysis": "Strategic focus: Static location. 1. 'На' plus prepositional 'станции' means at the station. 2. No movement is implied; 'ждём' happens in place. 3. Note -ия nouns share gen = dat = prep станции."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-07",
+        "phrase": "Каждое утро я иду на станцию.",
+        "fullAnalysis": "Strategic focus: Motion toward. 1. 'На' plus accusative 'станцию' marks movement to the station. 2. Contrast with prepositional 'на станции' for location. 3. Case choice carries the meaning."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-08",
+        "phrase": "До станции идти десять минут.",
+        "fullAnalysis": "Strategic focus: Endpoint of travel. 1. 'До' takes the genitive 'станции'. 2. For -ия nouns gen = dat = prep станции. 3. Expresses travel as far as the station with a time estimate."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-09",
+        "phrase": "Мой дом стоит далеко от станции.",
+        "fullAnalysis": "Strategic focus: Source point. 1. 'От' takes the genitive 'станции'. 2. 'Далеко' adds the sense of distance from the place. 3. Marks the station as the reference for measuring."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-10",
+        "phrase": "Это новая станция метро.",
+        "fullAnalysis": "Strategic focus: Genitive relation. 1. 'Станция' is nominative, the head noun. 2. 'Метро' is an indeclinable genitive-style modifier naming the type. 3. A fixed, very common compound."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-11",
+        "phrase": "Скоро будет следующая станция.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Следующая' is feminine nominative, agreeing with 'станция'. 2. The phrase echoes metro announcements. 3. Adjective and noun share gender, number, case."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-12",
+        "phrase": "Это конечная станция метро.",
+        "fullAnalysis": "Strategic focus: Agreement plus relation. 1. 'Конечная' is feminine nominative agreeing with 'станция'. 2. 'Метро' is the indeclinable type modifier. 3. Names the terminal stop."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-13",
+        "phrase": "Мы долго ждём на станции.",
+        "fullAnalysis": "Strategic focus: Scene with action. 1. 'На станции' is prepositional, marking where we wait. 2. 'Ждём' supplies the present-tense action. 3. A static location scene with 'долго' for duration."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-14",
+        "phrase": "Давай встретимся у станции.",
+        "fullAnalysis": "Strategic focus: Meeting point. 1. 'У' plus genitive 'станции' sets the place. 2. For -ия nouns gen = dat = prep станции. 3. A practical arrangement to meet near the station."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-15",
+        "phrase": "Здесь есть две станции рядом.",
+        "fullAnalysis": "Strategic focus: Counted plural. 1. After 'две' the noun takes 'станции', the paucal form. 2. 'Рядом' places them close together. 3. Numerals two to four govern this ending."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-16",
+        "phrase": "Сегодня все станции открыты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Станции' is the plural subject. 2. 'Открыты' is a short-form predicate agreeing in plural. 3. A general statement about all the stations."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-17",
+        "phrase": "В городе много станций.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Много' governs the genitive plural 'станций'. 2. The -ия noun drops to a zero ending станций. 3. 'В городе' anchors the scene locally."
+      },
+      {
+        "id": "NN-MOTION-STANTSIYA-18",
+        "phrase": "Я стою перед станцией.",
+        "fullAnalysis": "Strategic focus: Position before. 1. 'Перед' takes the instrumental 'станцией'. 2. The -ия noun takes -ией in the instrumental. 3. Places the speaker in front of the building."
+      }
+    ]
+  }
+]

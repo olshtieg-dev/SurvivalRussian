@@ -3,14 +3,118 @@
     "id": "VB-KHOTET",
     "label": "Хотеть",
     "badge": "WANT",
-    "description": "Scaffold verb card for mixed-pattern / stem-shift practice. Expand each person into five sentences for the full 30-line deck.",
+    "description": "A full deck for the mixed-conjugation verb хотеть: singular (хочу/хочешь/хочет) vs plural (хотим/хотите/хотят), past, and infinitive/genitive objects.",
     "missions": [
-      { "id": "VB-KHOTET-01", "phrase": "я хочу чай", "fullAnalysis": "Strategic focus: First-person singular. 1. 'Хочу' shows the stem-shifted present form. 2. 'Чай' keeps the line concrete and reusable. 3. This is a high-frequency desire sentence." },
-      { "id": "VB-KHOTET-02", "phrase": "ты хочешь воды", "fullAnalysis": "Strategic focus: Second-person singular. 1. 'Хочешь' follows the same family but with a different stem shape. 2. 'Воды' gives a useful genitive-like noun form after desire. 3. This teaches verb-driven noun behavior." },
-      { "id": "VB-KHOTET-03", "phrase": "он хочет домой", "fullAnalysis": "Strategic focus: Third-person singular. 1. 'Хочет' is a core mixed-form pattern. 2. 'Домой' is a very common destination word. 3. The sentence feels immediately natural." },
-      { "id": "VB-KHOTET-04", "phrase": "мы хотим идти", "fullAnalysis": "Strategic focus: First-person plural. 1. 'Хотим' closes the plural present slot. 2. 'Идти' gives the sentence motion. 3. This is a clean everyday intention phrase." },
-      { "id": "VB-KHOTET-05", "phrase": "вы хотите знать", "fullAnalysis": "Strategic focus: Polite/plural form. 1. 'Хотите' trains the respectful form. 2. 'Знать' keeps the sentence abstract but practical. 3. This is useful in live explanations and questions." },
-      { "id": "VB-KHOTET-06", "phrase": "они хотят помочь", "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Хотят' completes the scaffold. 2. 'Помочь' makes the sentence socially useful. 3. The line is short and easy to reuse." }
+      {
+        "id": "VB-KHOTET-01",
+        "phrase": "Я очень хочу горячий чай.",
+        "fullAnalysis": "Strategic focus: First-person singular. 1. 'Хочу' shows the к→ч singular present form. 2. 'Горячий чай' is the accusative object of desire. 3. This is the high-frequency 'I want' frame, distinct from the хотим/хотите/хотят plurals."
+      },
+      {
+        "id": "VB-KHOTET-02",
+        "phrase": "Ты хочешь холодной воды?",
+        "fullAnalysis": "Strategic focus: Second-person singular. 1. 'Хочешь' keeps the к→ч singular stem. 2. 'Холодной воды' is partitive genitive, 'some cold water'. 3. Singular forms share the хоч- stem, unlike plural хотите."
+      },
+      {
+        "id": "VB-KHOTET-03",
+        "phrase": "Он очень хочет домой после работы.",
+        "fullAnalysis": "Strategic focus: Third-person singular. 1. 'Хочет' is the к→ч singular present, no plural хот- shift. 2. 'Домой' is a directional adverb of destination. 3. A natural everyday line contrasting with plural хотят."
+      },
+      {
+        "id": "VB-KHOTET-04",
+        "phrase": "Мы хотим идти в парк сегодня.",
+        "fullAnalysis": "Strategic focus: First-person plural. 1. 'Хотим' uses the plural хот- stem with no к→ч shift. 2. 'Идти в парк' is an infinitive-of-intention plus destination. 3. The mixed verb switches pattern between singular хочу and plural хотим."
+      },
+      {
+        "id": "VB-KHOTET-05",
+        "phrase": "Вы хотите знать всю правду?",
+        "fullAnalysis": "Strategic focus: Polite/plural form. 1. 'Хотите' is the plural хот- stem, used for respect or for many people. 2. 'Знать всю правду' is an infinitive complement with object. 3. Plural keeps т, unlike singular хочешь."
+      },
+      {
+        "id": "VB-KHOTET-06",
+        "phrase": "Они очень хотят помочь нам сегодня.",
+        "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Хотят' is the plural хот- stem with no consonant shift. 2. 'Помочь нам' is a perfective infinitive complement with dative. 3. Plural хотят contrasts sharply with singular хочет."
+      },
+      {
+        "id": "VB-KHOTET-07",
+        "phrase": "Я ужасно хочу спать сейчас.",
+        "fullAnalysis": "Strategic focus: First-person singular with infinitive. 1. 'Хочу' is the к→ч singular stem. 2. 'Спать' is the infinitive naming the desired action. 3. Хотеть + infinitive is the standard 'want to do' frame, here in the singular pattern."
+      },
+      {
+        "id": "VB-KHOTET-08",
+        "phrase": "Я так хочу есть после тренировки.",
+        "fullAnalysis": "Strategic focus: First-person singular, idiomatic. 1. 'Хочу' is the singular к→ч form. 2. 'Есть' as infinitive means 'to eat', so 'хочу есть' reads 'I'm hungry'. 3. A high-frequency fixed expression in the singular."
+      },
+      {
+        "id": "VB-KHOTET-09",
+        "phrase": "Я очень хочу воды после жары.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 1. 'Хочу' is first-person singular, к→ч. 2. 'Воды' is genitive, signalling 'some water', not the whole. 3. Хотеть + genitive marks a partitive, indefinite amount."
+      },
+      {
+        "id": "VB-KHOTET-10",
+        "phrase": "Я хочу чаю с лимоном, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Partitive genitive. 1. 'Хочу' is the singular к→ч form. 2. 'Чаю' is the special partitive genitive of чай, 'some tea'. 3. This contrasts with accusative 'хочу чай' (the tea as whole object)."
+      },
+      {
+        "id": "VB-KHOTET-11",
+        "phrase": "Ты хочешь крепкий чёрный чай?",
+        "fullAnalysis": "Strategic focus: Second-person singular, accusative. 1. 'Хочешь' keeps the к→ч singular stem. 2. 'Крепкий чёрный чай' is accusative, naming the thing wanted. 3. Singular forms share the хоч- stem, unlike plural хотите."
+      },
+      {
+        "id": "VB-KHOTET-12",
+        "phrase": "Мы хотим знать ответ прямо сейчас.",
+        "fullAnalysis": "Strategic focus: First-person plural. 1. 'Хотим' uses the plural хот- ending with no к→ч shift. 2. 'Знать ответ' is the infinitive complement with object. 3. The mixed verb switches pattern between singular хочу and plural хотим."
+      },
+      {
+        "id": "VB-KHOTET-13",
+        "phrase": "Вы хотите ещё чая или кофе?",
+        "fullAnalysis": "Strategic focus: Polite plural with genitive. 1. 'Хотите' is the plural хот- stem. 2. 'Чая' is genitive, offering 'some more tea'. 3. Plural forms keep т, unlike the singular к→ч хочешь/хочет."
+      },
+      {
+        "id": "VB-KHOTET-14",
+        "phrase": "Они хотят спать после долгой дороги.",
+        "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Хотят' is the plural хот- stem, no consonant shift. 2. 'Спать' is the infinitive complement of desire. 3. Plural хотят contrasts sharply with singular хочет."
+      },
+      {
+        "id": "VB-KHOTET-15",
+        "phrase": "Я совсем не хочу есть утром.",
+        "fullAnalysis": "Strategic focus: Negated first-person singular. 1. 'Не' negates the verb. 2. 'Хочу' is the к→ч singular form. 3. 'Есть' is the infinitive, so 'не хочу есть' means 'I'm not hungry'."
+      },
+      {
+        "id": "VB-KHOTET-16",
+        "phrase": "Он совсем не хочет идти туда.",
+        "fullAnalysis": "Strategic focus: Negated third-person singular. 1. 'Не хочет' refuses an action. 2. 'Хочет' keeps the singular к→ч stem, distinct from plural хотят. 3. 'Идти туда' is the infinitive complement of refusal."
+      },
+      {
+        "id": "VB-KHOTET-17",
+        "phrase": "Я давно хотел крепкий чай.",
+        "fullAnalysis": "Strategic focus: Masculine past. 1. 'Хотел' is the past tense with a masculine singular subject. 2. Past forms drop the present хочу/хотим mixed split entirely. 3. 'Крепкий чай' is accusative, the thing wanted."
+      },
+      {
+        "id": "VB-KHOTET-18",
+        "phrase": "Она очень хотела спать вчера вечером.",
+        "fullAnalysis": "Strategic focus: Feminine past. 1. 'Хотела' marks a feminine singular subject. 2. The -ла ending is the regular past feminine, with no к→ч mixed split. 3. 'Спать' is the infinitive complement."
+      },
+      {
+        "id": "VB-KHOTET-19",
+        "phrase": "Растение явно хотело воды и света.",
+        "fullAnalysis": "Strategic focus: Neuter past with genitive. 1. 'Хотело' agrees with a neuter singular subject (растение). 2. 'Воды и света' is partitive genitive, 'some water and light'. 3. Past tense has no person split, only gender and number."
+      },
+      {
+        "id": "VB-KHOTET-20",
+        "phrase": "Они очень хотели помочь соседям.",
+        "fullAnalysis": "Strategic focus: Plural past. 1. 'Хотели' is the past plural for any gender. 2. 'Помочь соседям' is a perfective infinitive with dative. 3. Past plural -ли parallels present хотят but loses the mixed pattern."
+      },
+      {
+        "id": "VB-KHOTET-21",
+        "phrase": "Я скоро захочу горячий чай.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. 1. 'Захочу' is the perfective захотеть, 'I will want', keeping the к→ч singular shift. 2. The за- prefix forms the perfective future. 3. 'Горячий чай' is the accusative object."
+      },
+      {
+        "id": "VB-KHOTET-22",
+        "phrase": "Он вдруг захотел спать прямо днём.",
+        "fullAnalysis": "Strategic focus: Perfective past. 1. 'Захотел' is the perfective past, 'he suddenly wanted'. 2. The за- prefix marks the onset of desire; past keeps no mixed split. 3. 'Спать' is the infinitive complement."
+      }
     ]
   }
 ]

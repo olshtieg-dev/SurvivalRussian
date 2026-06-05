@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-DEISTVITELNO",
+    "label": "Действительно",
+    "badge": "REALLY",
+    "description": "A 10-sentence usage card for действительно (really, indeed) covering confirmation and emphasis.",
+    "missions": [
+      {
+        "id": "AD-MANNER-DEISTVITELNO-01",
+        "phrase": "Это действительно очень вкусно.",
+        "fullAnalysis": "Strategic focus: Confirming emphasis. 'Действительно' means 'really' and reinforces the predicate 'вкусно', confirming the taste is genuinely good. It adds sincere conviction."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-02",
+        "phrase": "Он действительно знает ответ.",
+        "fullAnalysis": "Strategic focus: Verifying a claim. 'Действительно' modifies 'знает', affirming that he truly knows. It carries a more formal tone than the casual 'правда'."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-03",
+        "phrase": "Ты действительно хочешь уехать?",
+        "fullAnalysis": "Strategic focus: Checking sincerity. Here 'действительно' questions whether the wish is genuine, meaning 'really'. It probes for a truthful answer."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-04",
+        "phrase": "Действительно, погода сегодня прекрасная.",
+        "fullAnalysis": "Strategic focus: Agreement opener. As a sentence opener 'действительно' means 'indeed', confirming what was just said. It signals agreement before the remark."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-05",
+        "phrase": "Я действительно не понимаю тебя.",
+        "fullAnalysis": "Strategic focus: Emphasising negation. 'Действительно' strengthens 'не понимаю', meaning the confusion is genuine. It underlines sincerity even under negation."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-06",
+        "phrase": "Она действительно талантливый человек.",
+        "fullAnalysis": "Strategic focus: Reinforcing a description. 'Действительно' intensifies the adjective 'талантливый', affirming real talent. It lends weight to the praise."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-07",
+        "phrase": "Этот фильм действительно стоит посмотреть.",
+        "fullAnalysis": "Strategic focus: Genuine recommendation. 'Действительно' modifies 'стоит', confirming the film is truly worth watching. It boosts the strength of the advice."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-08",
+        "phrase": "Он действительно много работает.",
+        "fullAnalysis": "Strategic focus: Confirming degree. 'Действительно' reinforces 'много', affirming that he genuinely works a lot. It validates the extent of the effort."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-09",
+        "phrase": "Это действительно случилось вчера.",
+        "fullAnalysis": "Strategic focus: Affirming reality. 'Действительно' modifies 'случилось', insisting the event really took place. It counters any doubt about the fact."
+      },
+      {
+        "id": "AD-MANNER-DEISTVITELNO-10",
+        "phrase": "Я действительно рад тебя видеть.",
+        "fullAnalysis": "Strategic focus: Sincere feeling. 'Действительно' strengthens the predicate 'рад', stressing genuine gladness. It makes a warm greeting feel heartfelt."
+      }
+    ]
+  }
+]

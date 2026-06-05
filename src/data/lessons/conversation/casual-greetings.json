@@ -7,28 +7,28 @@
     "missions": [
       {
         "id": "CV-CG-01",
-        "phrase": "привет, как дела?",
-        "fullAnalysis": "Strategic focus: Basic friendly opening. 1. 'Привет' is the most common casual greeting. 2. 'Как дела?' is the standard follow-up question for everyday conversation. 3. This is the simplest reusable small-talk line in the deck."
+        "phrase": "Привет, как у тебя дела?",
+        "fullAnalysis": "Strategic focus: Basic friendly opening. 'Привет' is the most common casual greeting, and 'как у тебя дела' is the standard follow-up question for everyday conversation. This is the simplest reusable small-talk line in the deck."
       },
       {
         "id": "CV-CG-02",
-        "phrase": "всё хорошо, а у тебя?",
-        "fullAnalysis": "Strategic focus: Friendly reply. 1. 'Всё хорошо' gives a short, positive answer. 2. 'А у тебя?' turns the question back naturally. 3. This is the most common shape of an easy back-and-forth greeting."
+        "phrase": "У меня всё хорошо, а у тебя?",
+        "fullAnalysis": "Strategic focus: Friendly reply. 'У меня всё хорошо' gives a short, positive answer, and 'а у тебя' turns the question back naturally. This is the most common shape of an easy back-and-forth greeting."
       },
       {
         "id": "CV-CG-03",
-        "phrase": "что нового?",
-        "fullAnalysis": "Strategic focus: Casual check-in. 1. 'Что нового?' is a very natural everyday question. 2. It works well with friends, classmates, and coworkers you already know. 3. The phrase trains a common conversational opener without extra grammar load."
+        "phrase": "Привет, ну что у тебя нового?",
+        "fullAnalysis": "Strategic focus: Casual check-in. 'Что нового' is a very natural everyday question, here softened by the conversational 'ну'. It works well with friends, classmates, and coworkers you already know."
       },
       {
         "id": "CV-CG-04",
-        "phrase": "рад тебя видеть",
-        "fullAnalysis": "Strategic focus: Warm social tone. 1. 'Рад' keeps the phrase personal and upbeat. 2. 'Тебя видеть' focuses on the person rather than the event. 3. This is a friendly line that sounds natural in face-to-face conversation."
+        "phrase": "Как же я рад тебя видеть!",
+        "fullAnalysis": "Strategic focus: Warm social tone. 'Рад' keeps the phrase personal and upbeat, and 'тебя видеть' puts the focus on the person rather than the occasion. This is a friendly line that sounds natural face to face."
       },
       {
         "id": "CV-CG-05",
-        "phrase": "как сам?",
-        "fullAnalysis": "Strategic focus: Colloquial check-in. 1. 'Как сам?' is a relaxed, very spoken way to ask how someone is doing. 2. The short shape makes it feel like real conversation rather than a textbook prompt. 3. This works best with people you know well."
+        "phrase": "Здорово, как ты сам?",
+        "fullAnalysis": "Strategic focus: Colloquial check-in. 'Как ты сам' is a relaxed, very spoken way to ask how someone is doing, and 'здорово' opens it in casual register. This shape works best with people you know well."
       }
     ]
   }

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-SLEGKA",
+    "label": "Слегка",
+    "badge": "SLIGHTLY",
+    "description": "A 10-sentence usage card for слегка (slightly, a little).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-SLEGKA-01",
+        "phrase": "Он слегка улыбнулся мне.",
+        "fullAnalysis": "Strategic focus: A small degree of action. 'Слегка' means slightly or a little, softening the verb 'улыбнулся' to a faint smile. It stands before the verb and marks a minimal, gentle action."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-02",
+        "phrase": "Суп слегка остыл.",
+        "fullAnalysis": "Strategic focus: Partial change. 'Слегка' modifies 'остыл', showing the soup cooled only a little. The adverb scales the verb down to a small, incomplete degree."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-03",
+        "phrase": "Я слегка устал после работы.",
+        "fullAnalysis": "Strategic focus: Mild state. 'Слегка' grades the predicate 'устал', meaning a bit tired rather than exhausted. Standing before the word, it keeps the tiredness light and moderate."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-04",
+        "phrase": "Ветер слегка качал деревья.",
+        "fullAnalysis": "Strategic focus: Gentle movement. 'Слегка' softens 'качал', painting a light swaying of the trees. The adverb precedes the verb and conveys a soft, barely noticeable motion."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-05",
+        "phrase": "Она слегка покраснела от смущения.",
+        "fullAnalysis": "Strategic focus: Faint reaction. 'Слегка' modifies 'покраснела', showing she blushed just a little. It scales the verb to a small degree and is common in descriptive speech."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-06",
+        "phrase": "Дверь была слегка приоткрыта.",
+        "fullAnalysis": "Strategic focus: Slight degree of a state. 'Слегка' grades 'приоткрыта', meaning the door stood a little ajar. The adverb precedes the participle and marks a small, partial opening."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-07",
+        "phrase": "Голос его слегка дрожал.",
+        "fullAnalysis": "Strategic focus: Subtle action. 'Слегка' softens 'дрожал', showing the voice trembled faintly. Standing before the verb, it keeps the trembling slight and barely audible."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-08",
+        "phrase": "Я слегка изменил план.",
+        "fullAnalysis": "Strategic focus: Minor adjustment. 'Слегка' modifies 'изменил', meaning changed the plan a little. The adverb marks a small, non-drastic modification before the verb."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-09",
+        "phrase": "Чай был слегка сладким.",
+        "fullAnalysis": "Strategic focus: Low degree of a quality. 'Слегка' grades the instrumental 'сладким', meaning a little sweet. The adverb precedes the adjective and keeps the sweetness faint."
+      },
+      {
+        "id": "AD-DEGREE-SLEGKA-10",
+        "phrase": "Он слегка кивнул в ответ.",
+        "fullAnalysis": "Strategic focus: A small gesture. 'Слегка' softens 'кивнул', showing a slight nod. The adverb stands before the verb and marks a minimal, restrained movement."
+      }
+    ]
+  }
+]

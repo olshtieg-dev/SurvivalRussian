@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-QUANTITY-STOLKO",
+    "label": "Столько",
+    "badge": "SO MUCH",
+    "description": "A 10-sentence usage card for столько (so much; so many; that much).",
+    "missions": [
+      {
+        "id": "AD-QUANTITY-STOLKO-01",
+        "phrase": "У меня столько работы сейчас.",
+        "fullAnalysis": "Strategic focus: A large amount with genitive. 'Столько' takes the genitive 'работы' to mean so much work. As a correlative quantity word it governs the genitive just like 'много'."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-02",
+        "phrase": "Я никогда не видел столько людей.",
+        "fullAnalysis": "Strategic focus: Emphatic large count. 'Столько' governs the genitive plural 'людей' to stress so many people. It emphasises an impressively high number in exclamatory speech."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-03",
+        "phrase": "Возьми столько, сколько хочешь.",
+        "fullAnalysis": "Strategic focus: The correlative pair. 'Столько' answers 'сколько', forming a correlative structure meaning take as much as you want. The pair links a quantity to its measure across two clauses."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-04",
+        "phrase": "Почему ты тратишь столько денег?",
+        "fullAnalysis": "Strategic focus: Reproachful quantity. 'Столько' takes the genitive 'денег' to mean so much money. In a question it often carries surprise or disapproval at the amount."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-05",
+        "phrase": "Он знает столько интересного.",
+        "fullAnalysis": "Strategic focus: Genitive of a substantivised adjective. 'Столько' governs the genitive 'интересного' to mean so much interesting material. It can take a neuter adjective acting as a noun."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-06",
+        "phrase": "Здесь столько снега зимой.",
+        "fullAnalysis": "Strategic focus: A mass quantity. 'Столько' takes the genitive singular 'снега' to mean so much snow. With mass nouns it pairs with the genitive singular to convey a striking amount."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-07",
+        "phrase": "Я не ожидал столько вопросов.",
+        "fullAnalysis": "Strategic focus: Unexpected count. 'Столько' governs the genitive plural 'вопросов' for so many questions. It expresses that the number exceeded what the speaker anticipated."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-08",
+        "phrase": "Спасибо за столько добрых слов.",
+        "fullAnalysis": "Strategic focus: Quantity inside a phrase. 'Столько' takes the genitive plural 'добрых слов' to mean so many kind words. Even within a prepositional phrase, its complement stays genitive."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-09",
+        "phrase": "Мы потратили столько времени зря.",
+        "fullAnalysis": "Strategic focus: Regret over an amount. 'Столько времени' uses the genitive singular 'времени' for so much time. The word stresses how large the wasted quantity feels in hindsight."
+      },
+      {
+        "id": "AD-QUANTITY-STOLKO-10",
+        "phrase": "Дай мне столько же, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Matching an amount. 'Столько же' means the same amount, with 'же' marking equivalence to something already mentioned. It requests a quantity equal to a previous one."
+      }
+    ]
+  }
+]

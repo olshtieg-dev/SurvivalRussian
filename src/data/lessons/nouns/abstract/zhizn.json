@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-ABSTRACT-ZHIZN",
+    "label": "Жизнь",
+    "badge": "LIFE",
+    "description": "The feminine 3rd-declension noun жизнь through its full case ladder, with common collocations: смысл жизни, всю жизнь, новая жизнь, в моей жизни.",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-ZHIZN-01",
+        "phrase": "Несмотря ни на что, жизнь продолжается.",
+        "fullAnalysis": "Strategic focus: Nominative case. 1. 'Жизнь' is the subject in its dictionary form. 2. The reflexive verb 'продолжается' agrees with it in the singular. 3. The 3rd-declension nominative shows the bare stem with a soft sign."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-02",
+        "phrase": "Здесь началась его новая жизнь.",
+        "fullAnalysis": "Strategic focus: Adjective agreement (nominative). 1. 'Новая' takes the feminine -ая ending to match the subject 'жизнь'. 2. Both words stay in the nominative. 3. The 3rd-declension nominative singular ends in a soft sign."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-03",
+        "phrase": "Я желаю тебе долгая жизнь.",
+        "fullAnalysis": "Strategic focus: Adjective agreement (nominative). 1. 'Долгая' carries the feminine -ая ending agreeing with 'жизнь'. 2. The pair stays in the nominative as a wish. 3. The 3rd-declension nominative keeps the soft-sign stem."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-04",
+        "phrase": "Я люблю жизнь и людей.",
+        "fullAnalysis": "Strategic focus: Accusative case. 1. 'Жизнь' is the direct object of 'люблю'. 2. For this 3rd-declension noun the accusative equals the nominative. 3. The subject 'я' stays in the nominative."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-05",
+        "phrase": "Он работал здесь всю жизнь.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 1. 'Всю жизнь' answers 'how long?' and means 'one's whole life'. 2. 'Всю' agrees with 'жизнь' in the accusative. 3. No preposition is needed for this time span."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-06",
+        "phrase": "Каждый человек ищет смысл жизни.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Жизни' is the genitive, linking 'смысл' to 'жизнь'. 2. For 3rd-declension nouns gen, dat and prep are all 'жизни'. 3. A set phrase: 'the meaning of life'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-07",
+        "phrase": "Он ведёт здоровый образ жизни.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Жизни' is genitive, attached to 'образ'. 2. The 3rd-declension genitive 'жизни' coincides with the dative and prepositional. 3. A fixed phrase: 'way of life'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-08",
+        "phrase": "В этом и состоит цель моей жизни.",
+        "fullAnalysis": "Strategic focus: Genitive case. 1. 'Жизни' is genitive after 'цель'. 2. 'Моей' takes the feminine genitive ending to agree. 3. Remember gen, dat and prep are identical 'жизни' in this declension."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-09",
+        "phrase": "Несмотря на трудности, он рад жизни.",
+        "fullAnalysis": "Strategic focus: Dative case. 1. 'Рад' governs the dative, so 'жизни' is dative here. 2. For this noun the dative matches the genitive and prepositional. 3. The phrase means 'glad of life'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-10",
+        "phrase": "Благодаря жизни мы многому учимся.",
+        "fullAnalysis": "Strategic focus: Dative case. 1. The preposition 'благодаря' always takes the dative 'жизни'. 2. In the 3rd declension the dative looks the same as the genitive and prepositional. 3. It means 'thanks to life'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-11",
+        "phrase": "Научись наслаждаться жизнью.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 1. Наслаждаться governs the instrumental. 2. Жизнью is the instrumental of жизнь with the 3rd-decl -ью ending. 3. A common motivational use of the verb."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-12",
+        "phrase": "Он вполне доволен своей жизнью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 1. 'Доволен' governs the instrumental 'жизнью'. 2. 'Своей' takes the feminine instrumental ending to agree. 3. The -ью ending marks the 3rd-declension instrumental singular."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-13",
+        "phrase": "В жизни всякое бывает.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'В' with location takes the prepositional 'жизни'. 2. This form is identical to the genitive and dative in the 3rd declension. 3. The phrase means 'anything can happen in life'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-14",
+        "phrase": "Это был лучший день в моей жизни.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'В' triggers the prepositional 'жизни'. 2. 'Моей' takes the feminine ending to agree. 3. Note the 3rd-declension syncretism: gen, dat and prep all read 'жизни'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-15",
+        "phrase": "Мы долго говорили о жизни.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'О' meaning 'about' takes the prepositional 'жизни'. 2. The form coincides with the genitive and dative. 3. Useful for discussion: 'about life'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-16",
+        "phrase": "Они запомнили этот день на всю жизнь.",
+        "fullAnalysis": "Strategic focus: Accusative with 'на'. 1. 'На' plus the accusative 'всю жизнь' marks duration into the future. 2. The accusative equals the nominative for this noun. 3. The phrase means 'for one's whole life'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-17",
+        "phrase": "У этих людей совсем разные жизни.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Жизни' is the plural here, not the singular genitive. 2. 'Разные' takes the plural ending to agree. 3. Context separates this plural from the syncretic singular 'жизни'."
+      },
+      {
+        "id": "NN-ABSTRACT-ZHIZN-18",
+        "phrase": "Спасение жизней — их главная работа.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Жизней' is the genitive plural after 'спасение'. 2. The -ей ending is typical of 3rd-declension feminine nouns in the plural. 3. The phrase means 'the saving of lives'."
+      }
+    ]
+  }
+]

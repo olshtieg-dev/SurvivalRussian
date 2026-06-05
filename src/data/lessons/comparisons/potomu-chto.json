@@ -1,0 +1,65 @@
+[
+  {
+    "id": "CL-POTOMU-CHTO",
+    "label": "Потому что",
+    "badge": "BECAUSE",
+    "description": "The causal conjunction потому что (effect, потому что cause), with the comma rule and everyday reasons.",
+    "missions": [
+      {
+        "id": "CL-POTOMU-CHTO-01",
+        "phrase": "Я очень устал, потому что весь день работал.",
+        "fullAnalysis": "Strategic focus: State and its cause. The effect 'я устал' comes first, and потому что links it to the reason 'работал'. A comma always precedes потому что."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-02",
+        "phrase": "Она сегодня дома, потому что болеет.",
+        "fullAnalysis": "Strategic focus: Why she stayed home. 'Она дома' is the effect clause, and 'потому что болеет' supplies the cause. The comma marks the boundary before потому что."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-03",
+        "phrase": "Она очень рада, потому что приехал друг.",
+        "fullAnalysis": "Strategic focus: Reason for her joy. 'Она рада' states the result, and 'потому что приехал друг' names the cause. The comma precedes потому что as always."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-04",
+        "phrase": "Мы очень спешим, потому что опаздываем.",
+        "fullAnalysis": "Strategic focus: First-person plural cause. 'Мы спешим' is the effect, and 'потому что опаздываем' supplies the reason. The comma sits before потому что."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-05",
+        "phrase": "Он молчит, потому что ничего не знает.",
+        "fullAnalysis": "Strategic focus: Silence with a negated cause. 'Он молчит' is the effect, and 'потому что не знает' explains it using the negation 'не'. The comma comes before потому что."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-06",
+        "phrase": "Я не пришёл, потому что был очень занят.",
+        "fullAnalysis": "Strategic focus: Negated effect, plain cause. 'Я не пришёл' is negated by 'не', and 'потому что был занят' gives the reason. A comma still precedes потому что, and пришёл keeps the ё."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-07",
+        "phrase": "Мы остались дома, потому что шёл дождь.",
+        "fullAnalysis": "Strategic focus: Weather as cause. 'Мы остались' is the effect, and 'потому что шёл дождь' names the reason. The comma marks the link before потому что, and шёл keeps the ё."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-08",
+        "phrase": "Я очень рад, потому что сдал экзамен.",
+        "fullAnalysis": "Strategic focus: Cause of relief. 'Я рад' is the result, and 'потому что сдал экзамен' gives the reason. The comma precedes потому что."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-09",
+        "phrase": "Они рано ушли, потому что очень устали.",
+        "fullAnalysis": "Strategic focus: Third-person plural reason. 'Они ушли' is the effect, and 'потому что устали' is the cause. The comma always stands before потому что, and ушли follows from it."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-10",
+        "phrase": "Ты молодец, потому что помог мне.",
+        "fullAnalysis": "Strategic focus: Praise with a reason. 'Ты молодец' is the effect, and 'потому что помог мне' explains why. A comma precedes потому что here too."
+      },
+      {
+        "id": "CL-POTOMU-CHTO-11",
+        "phrase": "Я очень голоден, потому что ещё не ел.",
+        "fullAnalysis": "Strategic focus: Hunger with a negated cause. 'Я голоден' is the effect, and 'потому что не ел' gives the negated reason. The comma comes before потому что, and ещё carries the ё."
+      }
+    ]
+  }
+]

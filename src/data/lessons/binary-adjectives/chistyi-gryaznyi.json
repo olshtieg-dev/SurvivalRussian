@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-CHISTYI-GRYAZNYI",
+    "label": "Чистый / Грязный",
+    "badge": "CLEAN/DIRTY",
+    "description": "Oppositional adjective drill: чистый vs грязный across gender, number, contrast, and the comparatives чище/грязнее.",
+    "missions": [
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-01",
+        "phrase": "В кухне теперь чистый пол.",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 1. 'Чистый' matches the masculine noun 'пол'. 2. The ending is the masculine -ый. 3. 'Теперь' frames the clean result."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-02",
+        "phrase": "После дождя грязный пол.",
+        "fullAnalysis": "Strategic focus: Masculine contrast. 1. 'Грязный' takes the masculine -ый ending. 2. It agrees with 'пол'. 3. The direct opposite of чистый пол."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-03",
+        "phrase": "На нём чистая белая рубашка.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Чистая' matches the feminine noun 'рубашка'. 2. The ending shifts to the feminine -ая. 3. 'Белая' agrees in parallel."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-04",
+        "phrase": "В раковине лежит грязная посуда.",
+        "fullAnalysis": "Strategic focus: Feminine contrast. 1. 'Грязная' takes the feminine -ая ending. 2. It agrees with 'посуда'. 3. Dirty dishes, a common pairing."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-05",
+        "phrase": "В комнате блестит чистое окно.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Чистое' matches the neuter noun 'окно'. 2. The ending is the neuter -ое. 3. 'Блестит' shows the clean shine."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-06",
+        "phrase": "На скатерти осталось грязное пятно.",
+        "fullAnalysis": "Strategic focus: Neuter contrast. 1. 'Грязное' takes the neuter -ое ending. 2. It agrees with 'пятно'. 3. A dirty stain, opposing the clean window."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-07",
+        "phrase": "Перед обедом нужны чистые руки.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 1. 'Чистые' matches the plural noun 'руки'. 2. The ending is the plural -ые. 3. Clean hands before the meal."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-08",
+        "phrase": "У двери стоят грязные ботинки.",
+        "fullAnalysis": "Strategic focus: Plural contrast. 1. 'Грязные' takes the plural -ые ending. 2. It agrees with 'ботинки'. 3. Dirty boots oppose the clean hands."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-09",
+        "phrase": "В комнате стало чище.",
+        "fullAnalysis": "Strategic focus: Comparative mutation. 1. 'Чище' is the comparative of чистый. 2. The stem consonant mutates ст→щ. 3. 'Стало' marks a change of state."
+      },
+      {
+        "id": "BA-CHISTYI-GRYAZNYI-10",
+        "phrase": "После прогулки стало ещё грязнее.",
+        "fullAnalysis": "Strategic focus: Comparative degree. 1. 'Грязнее' is the comparative of грязный via -ее. 2. No consonant mutation here. 3. 'Ещё' intensifies the comparison."
+      }
+    ]
+  }
+]

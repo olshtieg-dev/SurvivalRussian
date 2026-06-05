@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-SRAZU",
+    "label": "Сразу",
+    "badge": "AT ONCE",
+    "description": "A 10-sentence usage card for сразу (right away; at once; immediately).",
+    "missions": [
+      {
+        "id": "AD-TIME-SRAZU-01",
+        "phrase": "Я сразу понял свою ошибку.",
+        "fullAnalysis": "Strategic focus: Immediate realization. 'Сразу' means at once, marking that the understanding came with no delay. With a perfective past it stresses how quickly the result followed."
+      },
+      {
+        "id": "AD-TIME-SRAZU-02",
+        "phrase": "Позвони мне сразу после работы.",
+        "fullAnalysis": "Strategic focus: Right after an event. Here 'сразу после' means immediately following, tying the call closely to the end of work. It minimizes any gap between the two events."
+      },
+      {
+        "id": "AD-TIME-SRAZU-03",
+        "phrase": "Он сразу согласился помочь.",
+        "fullAnalysis": "Strategic focus: Without hesitation. 'Сразу' shows that the agreement came instantly, with no pause for thought. It often praises decisiveness or readiness."
+      },
+      {
+        "id": "AD-TIME-SRAZU-04",
+        "phrase": "Не делай всё сразу.",
+        "fullAnalysis": "Strategic focus: All at once. With 'всё' the adverb 'сразу' means all in one go, here advising against doing everything simultaneously. It refers to doing many things together rather than to speed."
+      },
+      {
+        "id": "AD-TIME-SRAZU-05",
+        "phrase": "Сразу видно, что ты устал.",
+        "fullAnalysis": "Strategic focus: Immediately apparent. Fronted 'сразу видно' means it is obvious at first glance. The adverb conveys that no examination is needed to perceive the fact."
+      },
+      {
+        "id": "AD-TIME-SRAZU-06",
+        "phrase": "Давай решим этот вопрос сразу.",
+        "fullAnalysis": "Strategic focus: Settle it now. 'Сразу' urges resolving the matter right away rather than postponing it. It pushes for prompt action over delay."
+      },
+      {
+        "id": "AD-TIME-SRAZU-07",
+        "phrase": "Почему ты не сказал сразу?",
+        "fullAnalysis": "Strategic focus: Right away in a reproach. In this question 'сразу' implies the telling should have happened immediately. The negation adds a tone of mild reproach for the delay."
+      },
+      {
+        "id": "AD-TIME-SRAZU-08",
+        "phrase": "Лекарство помогло почти сразу.",
+        "fullAnalysis": "Strategic focus: Almost immediately. Modified by 'почти' the adverb 'сразу' marks a very short delay before the effect. It softens the immediacy just slightly."
+      },
+      {
+        "id": "AD-TIME-SRAZU-09",
+        "phrase": "Я узнал тебя сразу.",
+        "fullAnalysis": "Strategic focus: Instant recognition. 'Сразу' stresses that recognition happened the moment of seeing, without effort. Placed at the end it caps the sentence on the speed of the act."
+      },
+      {
+        "id": "AD-TIME-SRAZU-10",
+        "phrase": "После дождя сразу стало холодно.",
+        "fullAnalysis": "Strategic focus: Immediate consequence. Here 'сразу' links a cause and its effect with no interval, the cold following at once. It is common in impersonal стало constructions describing sudden change."
+      }
+    ]
+  }
+]

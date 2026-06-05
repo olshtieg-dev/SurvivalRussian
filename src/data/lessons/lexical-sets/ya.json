@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "LX-YA-01",
-        "phrase": "я иду домой",
-        "fullAnalysis": "Strategic focus: Basic motion. 1. 'Я' anchors the sentence in first person singular. 2. 'Иду' matches the speaker and shows present tense motion on foot. 3. 'Домой' is the destination form that keeps the sentence natural and useful."
+        "phrase": "Я уже иду домой с работы.",
+        "fullAnalysis": "Strategic focus: Basic motion. 'Я' anchors the sentence in the first person, and 'иду' matches it as present-tense motion on foot. 'Домой' is the destination form, and 'с работы' adds a real everyday context."
       },
       {
         "id": "LX-YA-02",
-        "phrase": "я читаю книгу",
-        "fullAnalysis": "Strategic focus: First-person present tense. 1. 'Читаю' is the present-tense form that matches 'я'. 2. 'Книгу' is the direct object in accusative case. 3. The sentence trains the link between subject, verb agreement, and object marking."
+        "phrase": "Я сейчас читаю очень интересную книгу.",
+        "fullAnalysis": "Strategic focus: First-person present tense. 'Читаю' matches 'я' with its -ю ending, and 'книгу' is the accusative direct object. 'Очень интересную' makes the line natural while the agreement stays clear."
       },
       {
         "id": "LX-YA-03",
-        "phrase": "я пишу письмо",
-        "fullAnalysis": "Strategic focus: Action plus object. 1. 'Пишу' is a first-person verb ending in -у/-ю. 2. 'Письмо' stays neutral and concrete, making the sentence easy to picture. 3. This pattern is useful for teaching how the subject drives the verb form."
+        "phrase": "Я пишу письмо старому другу.",
+        "fullAnalysis": "Strategic focus: Action plus object. 'Пишу' is the first-person form ending in -у, and 'письмо' is the concrete object. 'Старому другу' adds a dative recipient, showing how the subject still drives the verb form."
       },
       {
         "id": "LX-YA-04",
-        "phrase": "я вижу стол",
-        "fullAnalysis": "Strategic focus: Perception and direct object. 1. 'Вижу' is the correct first-person form of 'видеть'. 2. 'Стол' stays in nominative-looking form because it is a simple direct object noun here. 3. This sentence helps learners hear how Russian often lets context do the work."
+        "phrase": "Я вижу большой стол у окна.",
+        "fullAnalysis": "Strategic focus: Perception and direct object. 'Вижу' is the first-person form of 'видеть', and 'стол' is the simple direct object. 'Большой... у окна' gives the perception something concrete to land on."
       },
       {
         "id": "LX-YA-05",
-        "phrase": "я люблю этот дом",
-        "fullAnalysis": "Strategic focus: Emotion plus demonstrative. 1. 'Люблю' shows first-person present tense. 2. 'Этот дом' ties the demonstrative to a masculine noun. 3. This is a very natural sentence for training everyday speech and agreement."
+        "phrase": "Я очень люблю этот старый дом.",
+        "fullAnalysis": "Strategic focus: Emotion plus demonstrative. 'Люблю' shows first-person present tense, and 'этот старый дом' ties the demonstrative to a masculine noun. 'Очень' makes the feeling sound warm and real."
       },
       {
         "id": "LX-YA-06",
-        "phrase": "я ем хлеб",
-        "fullAnalysis": "Strategic focus: Short, high-frequency action. 1. 'Ем' is the irregular first-person form of 'есть'. 2. 'Хлеб' is a practical noun that learners recognize quickly. 3. This line is useful because it sounds simple while still being grammatically real."
+        "phrase": "Утром я ем хлеб с маслом.",
+        "fullAnalysis": "Strategic focus: Short, high-frequency action. 'Ем' is the irregular first-person form of 'есть', and 'хлеб с маслом' is a familiar object. 'Утром' frames it as a real morning habit."
       },
       {
         "id": "LX-YA-07",
-        "phrase": "я пью воду",
-        "fullAnalysis": "Strategic focus: Survival vocabulary. 1. 'Пью' is the first-person present tense form. 2. 'Воду' shows the accusative form of a feminine noun. 3. This is a high-value sentence that can be used immediately in speech."
+        "phrase": "Я пью воду маленькими глотками.",
+        "fullAnalysis": "Strategic focus: Survival vocabulary. 'Пью' is the first-person present of 'пить', and 'воду' is the accusative of a feminine noun. 'Маленькими глотками' adds a natural, descriptive everyday detail."
       },
       {
         "id": "LX-YA-08",
-        "phrase": "я не понимаю",
-        "fullAnalysis": "Strategic focus: Negation with first person. 1. 'Не' attaches directly to the verb and flips the meaning. 2. 'Понимаю' stays in first-person present form. 3. This is a vital everyday line for live conversation and clarification."
+        "phrase": "Извините, я совсем не понимаю.",
+        "fullAnalysis": "Strategic focus: Negation with first person. 'Не' attaches to 'понимаю' and flips its meaning, while the verb keeps its first-person form. 'Извините' and 'совсем' make this a vital, polite clarification line."
       },
       {
         "id": "LX-YA-09",
-        "phrase": "я хочу кофе",
-        "fullAnalysis": "Strategic focus: Desire plus noun. 1. 'Хочу' is a strong first-person desire verb. 2. 'Кофе' is a common practical noun and stays stable in everyday use. 3. This sentence trains natural speaker intent instead of abstract grammar."
+        "phrase": "Я хочу чашку горячего кофе.",
+        "fullAnalysis": "Strategic focus: Desire plus noun. 'Хочу' is a strong first-person desire verb, and 'чашку' is its accusative object. 'Горячего кофе' adds a realistic detail and trains genuine speaker intent."
       },
       {
         "id": "LX-YA-10",
-        "phrase": "я работаю дома",
-        "fullAnalysis": "Strategic focus: Action with location. 1. 'Работаю' is a regular first-person present verb. 2. 'Дома' places the action at home in a natural adverbial form. 3. This pattern shows how location words often sit outside the object grammar."
+        "phrase": "Теперь я работаю дома каждый день.",
+        "fullAnalysis": "Strategic focus: Action with location. 'Работаю' is a regular first-person present verb, and 'дома' is the adverbial location. 'Теперь' and 'каждый день' frame it as a real change in routine."
       },
       {
         "id": "LX-YA-11",
-        "phrase": "я говорю по-русски",
-        "fullAnalysis": "Strategic focus: Language mode. 1. 'Говорю' remains in first-person present tense. 2. 'По-русски' is the natural adverbial form for speaking Russian. 3. This sentence is a high-frequency learner identity statement."
+        "phrase": "Я немного говорю по-русски.",
+        "fullAnalysis": "Strategic focus: Language mode. 'Говорю' stays in first-person present tense, and 'по-русски' is the adverbial for speaking Russian. 'Немного' turns it into a natural, honest learner statement."
       },
       {
         "id": "LX-YA-12",
-        "phrase": "я знаю это",
-        "fullAnalysis": "Strategic focus: Knowledge and reference. 1. 'Знаю' is the first-person verb for knowing. 2. 'Это' points at the thing being known. 3. The sentence is short but useful for showing subject-verb-object flow."
+        "phrase": "Я точно знаю это место.",
+        "fullAnalysis": "Strategic focus: Knowledge and reference. 'Знаю' is the first-person verb for knowing, and 'это место' is the object being known. 'Точно' adds confidence and shows the subject-verb-object flow clearly."
       },
       {
         "id": "LX-YA-13",
-        "phrase": "я беру книгу",
-        "fullAnalysis": "Strategic focus: Taking an object. 1. 'Беру' is a first-person motion/action verb. 2. 'Книгу' is marked as the thing being taken. 3. This helps learners connect verb choice with direct object behavior."
+        "phrase": "Я беру эту книгу с собой.",
+        "fullAnalysis": "Strategic focus: Taking an object. 'Беру' is the first-person form of 'брать', and 'эту книгу' is the accusative object being taken. 'С собой' makes it sound like a real decision in the moment."
       },
       {
         "id": "LX-YA-14",
-        "phrase": "я открываю дверь",
-        "fullAnalysis": "Strategic focus: Verb-driven object manipulation. 1. 'Открываю' is a common first-person verb for physical action. 2. 'Дверь' gives a concrete object. 3. This line is good for teaching practical verbs with simple nouns."
+        "phrase": "Я тихо открываю входную дверь.",
+        "fullAnalysis": "Strategic focus: Verb-driven object manipulation. 'Открываю' is a common first-person verb for physical action, and 'входную дверь' is the concrete object. 'Тихо' gives the scene a natural, vivid feel."
       },
       {
         "id": "LX-YA-15",
-        "phrase": "я слышу музыку",
-        "fullAnalysis": "Strategic focus: Perception verb. 1. 'Слышу' is the correct first-person form. 2. 'Музыку' is the object of perception and appears in accusative. 3. This sentence is useful for hearing and speaking practice because it feels natural."
+        "phrase": "Я слышу музыку у соседей.",
+        "fullAnalysis": "Strategic focus: Perception verb. 'Слышу' is the correct first-person form of 'слышать', and 'музыку' is the accusative object of perception. 'У соседей' grounds it in a believable everyday setting."
       },
       {
         "id": "LX-YA-16",
-        "phrase": "я вижу тебя",
-        "fullAnalysis": "Strategic focus: Pronoun object form. 1. 'Вижу' anchors the first-person speaker. 2. 'Тебя' shows the object form of 'ты'. 3. This is an important sentence for learning how pronouns change shape when they are not the subject."
+        "phrase": "Я прекрасно вижу тебя отсюда.",
+        "fullAnalysis": "Strategic focus: Pronoun object form. 'Вижу' anchors the first-person speaker, and 'тебя' is the object form of 'ты', showing how pronouns shift out of subject position. 'Отсюда' adds a concrete spatial cue."
       },
       {
         "id": "LX-YA-17",
-        "phrase": "я делаю чай",
-        "fullAnalysis": "Strategic focus: Everyday action. 1. 'Делаю' is a flexible first-person verb that appears everywhere in conversation. 2. 'Чай' keeps the object concrete and practical. 3. This line is easy to type and very useful in daily speech."
+        "phrase": "Я сейчас делаю чай для гостей.",
+        "fullAnalysis": "Strategic focus: Everyday action. 'Делаю' is a flexible first-person verb common in conversation, and 'чай' is the concrete object. 'Для гостей' gives it a realistic purpose in daily speech."
       },
       {
         "id": "LX-YA-18",
-        "phrase": "я несу сумку",
-        "fullAnalysis": "Strategic focus: Physical carrying. 1. 'Несу' is a first-person verb of carrying. 2. 'Сумку' is the direct object. 3. This sentence reinforces how first-person verbs keep their own ending while the noun follows its own case behavior."
+        "phrase": "Я несу тяжёлую сумку домой.",
+        "fullAnalysis": "Strategic focus: Physical carrying. 'Несу' is the first-person verb of carrying, and 'тяжёлую сумку' is the accusative object. 'Домой' shows the goal of the motion while the verb keeps its own ending."
       },
       {
         "id": "LX-YA-19",
-        "phrase": "я нахожу ключ",
-        "fullAnalysis": "Strategic focus: Finding something. 1. 'Нахожу' is the first-person form of 'находить'. 2. 'Ключ' keeps the object simple. 3. This sentence is useful because it combines a practical verb with a common everyday noun."
+        "phrase": "Я наконец нахожу нужный ключ.",
+        "fullAnalysis": "Strategic focus: Finding something. 'Нахожу' is the first-person form of 'находить', and 'нужный ключ' is the object. 'Наконец' adds the relief of a real moment of discovery."
       },
       {
         "id": "LX-YA-20",
-        "phrase": "я думаю о тебе",
-        "fullAnalysis": "Strategic focus: Verb plus prepositional phrase. 1. 'Думаю' is the first-person present form. 2. 'О тебе' shows the prepositional object form of 'ты'. 3. This sentence is especially useful for showing how Russian verbs often control the case after them."
+        "phrase": "Я часто думаю о тебе.",
+        "fullAnalysis": "Strategic focus: Verb plus prepositional phrase. 'Думаю' is the first-person present of 'думать', and 'о тебе' is the prepositional object form of 'ты'. 'Часто' makes it a warm, natural everyday line."
       }
     ]
   }

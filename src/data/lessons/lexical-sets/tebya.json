@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "LX-TEBYA-01",
-        "phrase": "он видит тебя",
-        "fullAnalysis": "Strategic focus: Object pronoun after a verb. 1. 'Тебя' is the object form of 'ты'. 2. 'Видит' is third-person singular and stays stable. 3. This sentence teaches how pronouns shift when they stop being the subject."
+        "phrase": "Он видит тебя из окна.",
+        "fullAnalysis": "Strategic focus: Object pronoun after a verb. 'Тебя' is the accusative object form of 'ты', and 'видит' is third-person singular. 'Из окна' adds a genitive source phrase and shows how the pronoun shifts when it is no longer the subject."
       },
       {
         "id": "LX-TEBYA-02",
-        "phrase": "она ждёт тебя",
-        "fullAnalysis": "Strategic focus: Simple transitive verb. 1. 'Тебя' is the direct object. 2. 'Ждет' is third-person singular. 3. This is a common real-life sentence for timing and meeting."
+        "phrase": "Она ждёт тебя у входа.",
+        "fullAnalysis": "Strategic focus: Simple transitive verb. 'Тебя' is the direct object of 'ждёт', a third-person singular form. 'У входа' adds a genitive location, making this a common real-life sentence about meeting up."
       },
       {
         "id": "LX-TEBYA-03",
-        "phrase": "они знают тебя",
-        "fullAnalysis": "Strategic focus: Plural subject plus object pronoun. 1. 'Они' forces the plural verb form. 2. 'Знают' stays plural while 'тебя' remains the object form. 3. The sentence is ideal for hearing the contrast between subject and object roles."
+        "phrase": "Они хорошо знают тебя.",
+        "fullAnalysis": "Strategic focus: Plural subject plus object pronoun. 'Они' forces the plural verb 'знают', while 'тебя' stays the accusative object form. The adverb 'хорошо' lets the contrast between subject and object roles ring clearly."
       },
       {
         "id": "LX-TEBYA-04",
-        "phrase": "он ждёт тебя дома",
-        "fullAnalysis": "Strategic focus: Object pronoun with location. 1. 'Тебя' is the object being waited for. 2. 'Дома' adds an everyday location. 3. This line is useful because it combines verb government with a stable place word."
+        "phrase": "Он уже ждёт тебя дома.",
+        "fullAnalysis": "Strategic focus: Object pronoun with location. 'Тебя' is the accusative object being waited for, and 'дома' adds an everyday location. The adverb 'уже' combines verb government with a stable place word in natural speech."
       },
       {
         "id": "LX-TEBYA-05",
-        "phrase": "мама зовет тебя",
-        "fullAnalysis": "Strategic focus: Direct object in a family sentence. 1. 'Тебя' is the person being called. 2. 'Зовет' is a common high-frequency verb. 3. The sentence is natural and easy to remember."
+        "phrase": "Мама зовёт тебя на кухню.",
+        "fullAnalysis": "Strategic focus: Direct object in a family sentence. 'Тебя' is the accusative person being called, and 'зовёт' is a high-frequency third-person verb. 'На кухню' adds a destination that makes the line easy to remember."
       },
       {
         "id": "LX-TEBYA-06",
-        "phrase": "друзья ждут тебя у двери",
-        "fullAnalysis": "Strategic focus: Object pronoun in a plural environment. 1. 'Тебя' remains the object form. 2. 'Ждут' is plural and matches 'друзья'. 3. 'У двери' adds a practical spatial phrase."
+        "phrase": "Друзья ждут тебя у двери.",
+        "fullAnalysis": "Strategic focus: Object pronoun in a plural environment. 'Тебя' remains the accusative object form, while 'ждут' is plural agreeing with 'друзья'. 'У двери' adds a practical genitive spatial phrase."
       },
       {
         "id": "LX-TEBYA-07",
-        "phrase": "без тебя не начинайте",
-        "fullAnalysis": "Strategic focus: Preposition plus object form. 1. 'Без' requires the object form. 2. 'Тебя' follows the preposition naturally. 3. 'Не начинайте' gives the line a real conversational feel."
+        "phrase": "Без тебя мы не начнём.",
+        "fullAnalysis": "Strategic focus: Preposition plus the genitive object form. 'Без' governs the genitive, and 'тебя' follows it naturally. 'Мы не начнём' gives the line a real conversational shape with a future verb."
       },
       {
         "id": "LX-TEBYA-08",
-        "phrase": "для тебя это важно",
-        "fullAnalysis": "Strategic focus: Relevance through preposition. 1. 'Для тебя' expresses purpose or relevance. 2. 'Это' introduces the topic. 3. 'Важно' closes the sentence with a concise evaluation."
+        "phrase": "Для тебя это очень важно.",
+        "fullAnalysis": "Strategic focus: Relevance through a preposition. 'Для' governs the genitive 'тебя' to express relevance, and 'это' introduces the topic. 'Очень важно' closes the line with a natural evaluation."
       },
       {
         "id": "LX-TEBYA-09",
-        "phrase": "к тебе пришли гости",
-        "fullAnalysis": "Strategic focus: Motion toward the listener. 1. 'К тебе' uses a preposition that takes the object form. 2. 'Пришли' is plural past tense. 3. 'Гости' keeps the sentence vivid and practical."
+        "phrase": "К тебе сегодня пришли гости.",
+        "fullAnalysis": "Strategic focus: Motion toward the listener. 'К' governs the dative 'тебе' to mark direction, and 'пришли' is plural past tense. 'Гости' and 'сегодня' keep the scene vivid and practical."
       },
       {
         "id": "LX-TEBYA-10",
-        "phrase": "рядом с тобой сидит учитель",
-        "fullAnalysis": "Strategic focus: Prepositional phrase with object form. 1. 'С тобой' is the stable form used after 'с'. 2. 'Сидит' gives a clear spatial relation. 3. 'Учитель' is a concrete noun that makes the sentence easy to picture."
+        "phrase": "Рядом с тобой сидит учитель.",
+        "fullAnalysis": "Strategic focus: Prepositional phrase with the instrumental form. 'С' governs the instrumental 'тобой', and 'рядом' marks closeness. 'Сидит учитель' gives a clear spatial relation that is easy to picture."
       },
       {
         "id": "LX-TEBYA-11",
-        "phrase": "у тебя есть книга",
-        "fullAnalysis": "Strategic focus: Possession construction. 1. 'У тебя есть' is the standard Russian possession pattern. 2. 'Книга' is a simple feminine noun. 3. The sentence is useful because it contrasts possession with English-style subject ownership."
+        "phrase": "У тебя есть интересная книга.",
+        "fullAnalysis": "Strategic focus: Possession construction. 'У тебя есть' is the standard Russian possession pattern, with 'у' governing the genitive 'тебя'. 'Интересная книга' is the possessed item and contrasts with English-style ownership."
       },
       {
         "id": "LX-TEBYA-12",
-        "phrase": "у тебя нет времени",
-        "fullAnalysis": "Strategic focus: Negation of possession. 1. 'У тебя нет' is the negative possession pattern. 2. 'Времени' shows the genitive form after negation. 3. This is one of the most practical everyday sentences in Russian."
+        "phrase": "У тебя совсем нет времени.",
+        "fullAnalysis": "Strategic focus: Negation of possession. 'У тебя нет' is the negative possession pattern, and 'времени' shows the genitive after 'нет'. The adverb 'совсем' makes this one of the most practical everyday lines in Russian."
       },
       {
         "id": "LX-TEBYA-13",
-        "phrase": "после тебя пришёл сосед",
-        "fullAnalysis": "Strategic focus: Preposition with object form. 1. 'После' requires the object/prepositional reference form. 2. 'Тебя' appears naturally after the preposition. 3. 'Сосед' is a common noun that keeps the sentence concrete."
+        "phrase": "После тебя пришёл новый сосед.",
+        "fullAnalysis": "Strategic focus: Preposition with the genitive object form. 'После' governs the genitive, so 'тебя' follows it naturally. 'Пришёл новый сосед' gives a concrete clause that keeps the sentence grounded."
       },
       {
         "id": "LX-TEBYA-14",
-        "phrase": "перед тобой лежит письмо",
-        "fullAnalysis": "Strategic focus: Fixed prepositional phrase. 1. 'Перед тобой' is the standard shape of the phrase. 2. 'Лежит' provides a stable visual action. 3. 'Письмо' is a compact object noun that works well with the scene."
+        "phrase": "Перед тобой лежит важное письмо.",
+        "fullAnalysis": "Strategic focus: Fixed prepositional phrase. 'Перед' governs the instrumental 'тобой' to mark position, and 'лежит' provides a stable visual action. 'Важное письмо' is a compact object that fits the scene."
       },
       {
         "id": "LX-TEBYA-15",
-        "phrase": "мама спрашивает тебя о книге",
-        "fullAnalysis": "Strategic focus: Object pronoun plus prepositional complement. 1. 'Тебя' is the person being asked. 2. 'Спрашивает' is a common interaction verb. 3. 'О книге' shows how a verb can add a second grammatical target after the object."
+        "phrase": "Мама спрашивает тебя о работе.",
+        "fullAnalysis": "Strategic focus: Object pronoun plus prepositional complement. 'Тебя' is the accusative person being asked, and 'спрашивает' is a common interaction verb. 'О работе' shows how a verb can add a second prepositional target."
       },
       {
         "id": "LX-TEBYA-16",
-        "phrase": "они слушают тебя внимательно",
-        "fullAnalysis": "Strategic focus: Object pronoun with adverb. 1. 'Тебя' is the object being listened to. 2. 'Слушают' is plural and matches the subject. 3. 'Внимательно' makes the sentence feel alive and natural."
+        "phrase": "Они слушают тебя очень внимательно.",
+        "fullAnalysis": "Strategic focus: Object pronoun with an adverb. 'Тебя' is the accusative object being listened to, and 'слушают' is plural agreeing with the subject. 'Очень внимательно' makes the sentence feel alive and natural."
       },
       {
         "id": "LX-TEBYA-17",
-        "phrase": "тебя зовут Антон",
-        "fullAnalysis": "Strategic focus: Identity statement. 1. 'Тебя зовут' is a fixed naming construction. 2. The phrase does not use a subject pronoun the way English does. 3. This is a crucial survival phrase to internalize."
+        "phrase": "Как тебя зовут?",
+        "fullAnalysis": "Strategic focus: Identity question. 'Тебя зовут' is a fixed naming construction with 'тебя' as the accusative object, and 'как' opens the question. There is no subject pronoun the way English uses one, making this a crucial survival phrase."
       },
       {
         "id": "LX-TEBYA-18",
-        "phrase": "тебя не было дома",
-        "fullAnalysis": "Strategic focus: Past absence. 1. 'Тебя не было' is a common Russian absence pattern. 2. 'Дома' keeps the location simple. 3. The sentence teaches that Russian can express absence without a direct English-style subject."
+        "phrase": "Тебя вчера не было дома.",
+        "fullAnalysis": "Strategic focus: Past absence. 'Тебя не было' is the common absence pattern, with 'тебя' in the genitive after 'не было'. 'Вчера' and 'дома' keep it concrete, showing how Russian expresses absence without an English-style subject."
       },
       {
         "id": "LX-TEBYA-19",
-        "phrase": "тебя ждёт работа",
-        "fullAnalysis": "Strategic focus: Passive-like expectation. 1. 'Тебя' is the person who is waited for or expected. 2. 'Ждет' is singular and matches 'работа'. 3. This sentence is useful for seeing how roles can feel reversed from English."
+        "phrase": "Тебя ждёт серьёзная работа.",
+        "fullAnalysis": "Strategic focus: Reversed-feeling expectation. 'Тебя' is the accusative person who is awaited, while 'ждёт' is singular agreeing with the real subject 'работа'. The adjective 'серьёзная' shows how roles can feel reversed from English."
       },
       {
         "id": "LX-TEBYA-20",
-        "phrase": "без тебя встреча началась",
-        "fullAnalysis": "Strategic focus: Preposition plus past event. 1. 'Без тебя' keeps the object form after the preposition. 2. 'Встреча началась' gives a natural event clause. 3. This is a very useful real-world sentence for explaining absence."
+        "phrase": "Без тебя встреча уже началась.",
+        "fullAnalysis": "Strategic focus: Preposition plus a past event. 'Без' governs the genitive 'тебя', and 'встреча уже началась' gives a natural event clause. This is a very useful real-world line for explaining an absence."
       }
     ]
   }

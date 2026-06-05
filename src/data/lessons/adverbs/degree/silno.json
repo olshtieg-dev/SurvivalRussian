@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-SILNO",
+    "label": "Сильно",
+    "badge": "STRONGLY",
+    "description": "A 10-sentence usage card for сильно (strongly, very much, hard).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-SILNO-01",
+        "phrase": "Я сильно устал сегодня.",
+        "fullAnalysis": "Strategic focus: High degree with a verb. 'Сильно' means strongly or very much, intensifying 'устал' to a high degree. It stands before the verb and signals intense, heavy tiredness."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-02",
+        "phrase": "На улице сильно идёт дождь.",
+        "fullAnalysis": "Strategic focus: Intensity of an action. 'Сильно' modifies 'идёт дождь', meaning it is raining hard. The adverb scales the action up and is common in weather descriptions."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-03",
+        "phrase": "Он сильно изменился за год.",
+        "fullAnalysis": "Strategic focus: Great extent of change. 'Сильно' intensifies 'изменился', meaning changed a great deal. Standing before the verb, it marks a large, noticeable degree of change."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-04",
+        "phrase": "Ребёнок сильно плакал ночью.",
+        "fullAnalysis": "Strategic focus: Intensity of emotion. 'Сильно' modifies 'плакал', meaning cried hard. The adverb precedes the verb and conveys strong, heavy crying."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-05",
+        "phrase": "Я сильно скучаю по дому.",
+        "fullAnalysis": "Strategic focus: Strong feeling. 'Сильно' intensifies 'скучаю', meaning miss home very much. The adverb stands before the verb and raises the emotion to a high degree."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-06",
+        "phrase": "Ветер дует очень сильно.",
+        "fullAnalysis": "Strategic focus: Physical intensity. 'Сильно' modifies 'дует', meaning the wind blows hard. Here 'очень' even stacks on top to push the intensity higher still."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-07",
+        "phrase": "Она сильно переживает за тебя.",
+        "fullAnalysis": "Strategic focus: Degree of worry. 'Сильно' intensifies 'переживает', meaning worries a lot. The adverb precedes the verb and marks deep, strong concern."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-08",
+        "phrase": "Мы сильно опоздали на встречу.",
+        "fullAnalysis": "Strategic focus: Large degree of lateness. 'Сильно' modifies 'опоздали', meaning were very late. The adverb scales the verb up to mark a big, not slight, delay."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-09",
+        "phrase": "У меня сильно болит голова.",
+        "fullAnalysis": "Strategic focus: Intensity of pain. 'Сильно' intensifies 'болит', meaning hurts badly. The adverb stands before the verb in a common everyday complaint about pain."
+      },
+      {
+        "id": "AD-DEGREE-SILNO-10",
+        "phrase": "Он сильно ударил по мячу.",
+        "fullAnalysis": "Strategic focus: Force of an action. 'Сильно' modifies 'ударил', meaning hit hard. The adverb precedes the verb and stresses the physical force of the strike."
+      }
+    ]
+  }
+]

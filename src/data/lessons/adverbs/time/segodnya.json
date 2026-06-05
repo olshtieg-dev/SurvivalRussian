@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-SEGODNYA",
+    "label": "Сегодня",
+    "badge": "TODAY",
+    "description": "A 10-sentence usage card for сегодня (today).",
+    "missions": [
+      {
+        "id": "AD-TIME-SEGODNYA-01",
+        "phrase": "Сегодня прекрасная погода.",
+        "fullAnalysis": "Strategic focus: Today as a frame. Fronted 'сегодня' sets the whole sentence in the present day. With a nominal weather statement it simply locates the description in time."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-02",
+        "phrase": "Что ты делаешь сегодня вечером?",
+        "fullAnalysis": "Strategic focus: Today plus time of day. The phrase 'сегодня вечером' means this evening, combining the day with a part of it. Together they pin down a specific upcoming slot."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-03",
+        "phrase": "Сегодня я не пойду на работу.",
+        "fullAnalysis": "Strategic focus: Today with a future plan. Although the verb is future-perfective, 'сегодня' keeps the action within the current day. It frames a decision that applies to today specifically."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-04",
+        "phrase": "Какое сегодня число?",
+        "fullAnalysis": "Strategic focus: Today's date. In this fixed question 'сегодня' asks for the current calendar date. It is the standard way to ask what the date is."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-05",
+        "phrase": "Сегодня мы празднуем день рождения.",
+        "fullAnalysis": "Strategic focus: Today with present tense. 'Сегодня' anchors the ongoing celebration in the present day. The fronted adverb gives the day a sense of occasion."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-06",
+        "phrase": "Я очень устал сегодня.",
+        "fullAnalysis": "Strategic focus: Today at the end. Placed sentence-finally 'сегодня' limits the tiredness to the current day. The end position is neutral and conversational."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-07",
+        "phrase": "Сегодня утром шёл дождь.",
+        "fullAnalysis": "Strategic focus: This morning in the past. The phrase 'сегодня утром' refers to a past part of the present day. With a past verb it locates the rain earlier today."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-08",
+        "phrase": "Ты сегодня свободен?",
+        "fullAnalysis": "Strategic focus: Today in a yes-no question. 'Сегодня' asks about availability within the current day. It is a natural opener for making plans."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-09",
+        "phrase": "Сегодня в городе большой праздник.",
+        "fullAnalysis": "Strategic focus: Today as a setting. Fronted 'сегодня' opens the scene, with 'в городе' adding place. Together they frame the festival in both time and location."
+      },
+      {
+        "id": "AD-TIME-SEGODNYA-10",
+        "phrase": "Сегодня я хочу остаться дома.",
+        "fullAnalysis": "Strategic focus: Today versus other days. 'Сегодня' implicitly contrasts the current day with the usual routine. It frames staying home as a choice for this day in particular."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-ESHCHYO",
+    "label": "Ещё",
+    "badge": "STILL",
+    "description": "A 10-sentence usage card for ещё (still; yet; more).",
+    "missions": [
+      {
+        "id": "AD-TIME-ESHCHYO-01",
+        "phrase": "Он ещё спит.",
+        "fullAnalysis": "Strategic focus: Continuation up to now. Here 'ещё' means still, signalling that the sleeping that began earlier is ongoing. With a present-tense verb it stresses that the state has not yet changed."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-02",
+        "phrase": "Ты ещё не готова?",
+        "fullAnalysis": "Strategic focus: Not yet in questions. In the negative question 'ещё не' means not yet, asking whether an expected event still has not happened. It carries a light note of impatience."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-03",
+        "phrase": "Дай мне ещё кофе, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Quantity sense more. With a noun 'ещё' means more or another portion, requesting an additional amount of coffee. Placed before the noun it scales the quantity, not the time."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-04",
+        "phrase": "У нас ещё много времени.",
+        "fullAnalysis": "Strategic focus: Reassurance about a remaining supply. 'Ещё' combines with 'много' to stress that plenty still remains. It reassures that the resource has not run out yet."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-05",
+        "phrase": "Я хочу остаться здесь ещё немного.",
+        "fullAnalysis": "Strategic focus: A little longer. With 'немного' the adverb 'ещё' extends an action by a short additional stretch. It frames staying as a continuation beyond the expected end."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-06",
+        "phrase": "Расскажи мне об этом ещё раз.",
+        "fullAnalysis": "Strategic focus: Repetition with раз. The set phrase 'ещё раз' means one more time, requesting a repeated action. This is the standard way to ask someone to do something again."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-07",
+        "phrase": "Магазин ещё открыт?",
+        "fullAnalysis": "Strategic focus: Still in a yes-no question. 'Ещё' asks whether the shop remains open at the moment of speaking. It checks that a state has not yet ended."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-08",
+        "phrase": "Мы ещё увидимся завтра.",
+        "fullAnalysis": "Strategic focus: Future continuation. With a perfective future verb 'ещё' promises that the meeting will happen again. It points forward to another occurrence to come."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-09",
+        "phrase": "Он стал ещё сильнее.",
+        "fullAnalysis": "Strategic focus: Intensifying a comparative. Before 'сильнее' the adverb 'ещё' means even, boosting the comparative by a further degree. It adds another step beyond an already high level."
+      },
+      {
+        "id": "AD-TIME-ESHCHYO-10",
+        "phrase": "Ещё вчера всё было хорошо.",
+        "fullAnalysis": "Strategic focus: As recently as. At the front of the sentence 'ещё вчера' means as recently as yesterday, contrasting a near past with a changed present. The fronted position highlights the surprising shift."
+      }
+    ]
+  }
+]

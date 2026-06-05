@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-STUL",
+    "label": "Стул",
+    "badge": "CHAIR",
+    "description": "Full case ladder of стул (chair), including its irregular -ья plural, with everyday collocations and prepositional scenes.",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-STUL-01",
+        "phrase": "Это мой любимый стул.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Стул' is the nominative singular, naming the chair. 2. 'Это' is a pointing word, not a verb. 3. A bare equational sentence with no copula in the present tense."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-02",
+        "phrase": "Вчера я купил новый стул.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Стул' is the accusative singular, identical to nominative for inanimate masculines. 2. 'Новый' agrees in case and number. 3. 'Купил' is a perfective past verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-03",
+        "phrase": "Он устало сел на стул.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 1. 'На стул' shows motion onto a surface, so 'стул' is accusative. 2. 'Сел' is a perfective motion-result verb. 3. The preposition 'на' takes accusative for destination."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-04",
+        "phrase": "Ножка стула немного шатается.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Стула' is the genitive singular, marking the chair as owner. 2. 'Ножка' is the possessed part. 3. Genitive links two nouns to mean 'the leg of the chair'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-05",
+        "phrase": "Он медленно встал со стула.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 1. 'Со стула' marks motion away from a surface, so 'стула' is genitive. 2. 'Со' is the spelled-out form of 'с' before a consonant cluster. 3. 'Встал' is a perfective rising verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-06",
+        "phrase": "В зале нет свободного стула.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Нет' forces genitive on what is missing, so 'стула' is genitive. 2. 'Свободного' agrees in the genitive. 3. Negated existence always governs the genitive case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-07",
+        "phrase": "Гость спокойно подошёл к стулу.",
+        "fullAnalysis": "Strategic focus: Dative of goal. 1. 'К стулу' marks approach toward an object, so 'стулу' is dative. 2. 'К' always governs the dative. 3. 'Подошёл' is a perfective verb of approach."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-08",
+        "phrase": "Мне трудно идти к стулу.",
+        "fullAnalysis": "Strategic focus: Dative direction. 1. 'Стулу' is dative singular, the target of movement. 2. 'К' governs the dative to mean 'toward'. 3. 'Идти' is an imperfective verb of motion on foot."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-09",
+        "phrase": "Мастер наклонился над стулом.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 1. 'Над стулом' places the action above the chair, so 'стулом' is instrumental. 2. 'Над' governs the instrumental. 3. 'Наклонился' is a reflexive perfective verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-10",
+        "phrase": "Под стулом лежит рыжий кот.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 1. 'Под стулом' marks static position beneath, so 'стулом' is instrumental. 2. 'Под' takes instrumental when no motion is implied. 3. 'Лежит' shows the cat resting there."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-11",
+        "phrase": "Дедушка любит сидеть на стуле.",
+        "fullAnalysis": "Strategic focus: Prepositional of place. 1. 'На стуле' marks static location, so 'стуле' is prepositional. 2. 'На' takes the prepositional for position, not motion. 3. 'Сидеть' is an imperfective stative verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-12",
+        "phrase": "Толстая книга лежит на стуле.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 1. 'На стуле' tells where the book rests, so 'стуле' is prepositional. 2. 'На' with prepositional means resting position. 3. 'Лежит' is an imperfective stative verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-13",
+        "phrase": "У окна стоит деревянный стул.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Деревянный' is nominative masculine singular, matching 'стул'. 2. The adjective shares the case, gender, and number of its noun. 3. The phrase names the material of the chair."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-14",
+        "phrase": "Это очень удобный стул.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Удобный' agrees with 'стул' in nominative masculine singular. 2. The hard '-ый' ending mirrors the masculine noun. 3. The phrase describes a comfortable chair."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-15",
+        "phrase": "Нам привезли новые стулья.",
+        "fullAnalysis": "Strategic focus: Irregular nominative plural. 1. 'Стулья' is the irregular -ья plural, not the expected стулы. 2. 'Новые' agrees in the nominative plural. 3. This soft-stem plural is a high-frequency exception worth memorizing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-16",
+        "phrase": "В комнате стоит пять стульев.",
+        "fullAnalysis": "Strategic focus: Irregular genitive plural. 1. 'Стульев' is the irregular genitive plural with -ьев, from the -ья stem. 2. Numbers above four govern the genitive plural. 3. The chair's odd plural carries through every plural case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-17",
+        "phrase": "Гости сидят на стульях у стены.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 1. 'На стульях' marks where they sit, so 'стульях' is the prepositional plural. 2. The irregular -ья stem keeps the soft ending here too. 3. 'Сидят' is third-person plural imperfective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STUL-18",
+        "phrase": "Ребёнок спрятался между стульями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 1. 'Между стульями' marks position among the chairs, so 'стульями' is the instrumental plural. 2. 'Между' governs the instrumental. 3. The soft -ья stem yields the -ьями ending."
+      }
+    ]
+  }
+]

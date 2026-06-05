@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-OBRATNO",
+    "label": "Обратно",
+    "badge": "BACK",
+    "description": "A 10-sentence usage card for обратно (back, in return).",
+    "missions": [
+      {
+        "id": "AD-PLACE-OBRATNO-01",
+        "phrase": "Я скоро вернусь обратно домой.",
+        "fullAnalysis": "Strategic focus: Direction of return. 'Обратно' is an adverb marking motion back toward the origin. It modifies 'вернусь' and stresses the reverse direction, reinforced by 'домой'."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-02",
+        "phrase": "Положи книгу обратно на полку.",
+        "fullAnalysis": "Strategic focus: Returning an object. 'Обратно' marks moving the book back to its place, modifying 'положи'. The adverb names the reverse direction toward the original spot."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-03",
+        "phrase": "Автобус едет обратно в город.",
+        "fullAnalysis": "Strategic focus: Return journey. 'Обратно' marks the bus heading back, modifying 'едет'. It names the reverse leg of a trip, with 'в город' giving the destination."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-04",
+        "phrase": "Отдай мне деньги обратно.",
+        "fullAnalysis": "Strategic focus: Giving back. 'Обратно' marks the return of the money to its owner, modifying 'отдай'. The adverb signals reversal, the idea of in return."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-05",
+        "phrase": "Он повернул обратно на полпути.",
+        "fullAnalysis": "Strategic focus: Turning back. 'Обратно' marks a change of direction back the way he came, modifying 'повернул'. It stresses the reversal of the original course."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-06",
+        "phrase": "Поставь стул обратно на место.",
+        "fullAnalysis": "Strategic focus: Restoring position. 'Обратно' marks putting the chair back where it belongs, modifying 'поставь'. The adverb names the return to the original spot."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-07",
+        "phrase": "Мы идём обратно той же дорогой.",
+        "fullAnalysis": "Strategic focus: Retracing a route. 'Обратно' marks the return walk, modifying 'идём'. It names motion back toward the start, with 'той же дорогой' stressing the same path."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-08",
+        "phrase": "Птицы летят обратно на юг.",
+        "fullAnalysis": "Strategic focus: Return flight. 'Обратно' marks the birds heading back, modifying 'летят'. The adverb names the reverse direction of their seasonal journey."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-09",
+        "phrase": "Верни телефон обратно владельцу.",
+        "fullAnalysis": "Strategic focus: Returning to an owner. 'Обратно' reinforces the return sense already in 'верни'. The adverb stresses giving the phone back to the dative 'владельцу'."
+      },
+      {
+        "id": "AD-PLACE-OBRATNO-10",
+        "phrase": "Дверь сама закрылась обратно.",
+        "fullAnalysis": "Strategic focus: Returning to a prior state. 'Обратно' marks the door swinging back shut, modifying 'закрылась'. The adverb names the reversal back to the closed position."
+      }
+    ]
+  }
+]

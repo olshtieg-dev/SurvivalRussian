@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-ZATEM",
+    "label": "Затем",
+    "badge": "THEN",
+    "description": "A 10-sentence usage card for затем (then, after that).",
+    "missions": [
+      {
+        "id": "AD-TIME-ZATEM-01",
+        "phrase": "Сначала позавтракай, затем иди гулять.",
+        "fullAnalysis": "Strategic focus: Sequencing actions. 'Затем' links a second step to a first, here pairing with 'сначала'. It marks what comes next in an ordered series and is slightly more formal than 'потом'."
+      },
+      {
+        "id": "AD-TIME-ZATEM-02",
+        "phrase": "Мы поужинали, затем посмотрели фильм.",
+        "fullAnalysis": "Strategic focus: Narrative succession. 'Затем' joins two past actions in time order, modifying 'посмотрели'. It signals that watching the film followed dinner directly."
+      },
+      {
+        "id": "AD-TIME-ZATEM-03",
+        "phrase": "Он закрыл дверь, затем ушёл.",
+        "fullAnalysis": "Strategic focus: Step after step. 'Затем' introduces the next event in a chain of past actions. Placed at the start of the clause, it cleanly orders 'закрыл' before 'ушёл'."
+      },
+      {
+        "id": "AD-TIME-ZATEM-04",
+        "phrase": "Что мы будем делать затем?",
+        "fullAnalysis": "Strategic focus: Asking the next step. In a question 'затем' asks what follows next in a plan. It modifies the future verb 'будем делать' and sits naturally at the end."
+      },
+      {
+        "id": "AD-TIME-ZATEM-05",
+        "phrase": "Добавьте муку, затем перемешайте тесто.",
+        "fullAnalysis": "Strategic focus: Instructional order. 'Затем' is typical in recipes and instructions, sequencing imperative steps. It tells the cook to mix only after adding the flour."
+      },
+      {
+        "id": "AD-TIME-ZATEM-06",
+        "phrase": "Сначала подумай, а затем говори.",
+        "fullAnalysis": "Strategic focus: Advice in two stages. 'Затем' orders the second imperative after 'сначала', joined by contrastive 'а'. The pattern gives a tidy piece of advice about order of actions."
+      },
+      {
+        "id": "AD-TIME-ZATEM-07",
+        "phrase": "Поезд остановился, затем снова тронулся.",
+        "fullAnalysis": "Strategic focus: Consecutive events. 'Затем' marks the resumption after a pause, modifying 'тронулся'. It strings two past verbs into a clear sequence."
+      },
+      {
+        "id": "AD-TIME-ZATEM-08",
+        "phrase": "Я прочитаю письмо, затем отвечу.",
+        "fullAnalysis": "Strategic focus: Planned succession. 'Затем' connects two future perfective verbs, ordering 'отвечу' after 'прочитаю'. It is a clean way to lay out intended steps."
+      },
+      {
+        "id": "AD-TIME-ZATEM-09",
+        "phrase": "Она оделась, затем вышла на улицу.",
+        "fullAnalysis": "Strategic focus: Chained past actions. 'Затем' opens the second clause, ordering 'вышла' after 'оделась'. The adverb keeps the narrative flowing in strict sequence."
+      },
+      {
+        "id": "AD-TIME-ZATEM-10",
+        "phrase": "Подпишите документ, затем верните его.",
+        "fullAnalysis": "Strategic focus: Procedural steps. 'Затем' sequences two imperatives in a formal instruction. It indicates that returning the document follows signing it."
+      }
+    ]
+  }
+]

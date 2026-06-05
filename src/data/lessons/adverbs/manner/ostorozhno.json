@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-OSTOROZHNO",
+    "label": "Осторожно",
+    "badge": "CAREFUL",
+    "description": "A 10-sentence usage card for осторожно (carefully, watch out).",
+    "missions": [
+      {
+        "id": "AD-MANNER-OSTOROZHNO-01",
+        "phrase": "Он осторожно открыл старую дверь.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Осторожно' modifies 'открыл', describing how carefully he opened the door. Before the verb, it is the natural slot for a manner adverb."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-02",
+        "phrase": "Осторожно, пол очень мокрый!",
+        "fullAnalysis": "Strategic focus: Standalone warning. Alone, 'осторожно' works as 'careful' or 'watch out', a one-word alert. It is followed by the reason for the warning, a very common spoken pattern."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-03",
+        "phrase": "Иди осторожно по этой дороге.",
+        "fullAnalysis": "Strategic focus: Imperative manner. 'Осторожно' modifies the command 'иди', urging careful movement. Following the imperative, it gives cautionary advice for walking."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-04",
+        "phrase": "Она осторожно держала вазу руками.",
+        "fullAnalysis": "Strategic focus: Careful handling. 'Осторожно' modifies 'держала', showing she held the vase gently to avoid breaking it. The adverb is a natural fit for delicate tasks."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-05",
+        "phrase": "Води машину осторожно в дождь.",
+        "fullAnalysis": "Strategic focus: Cautious action. 'Осторожно' modifies the command 'води', advising careful driving. The phrase 'в дождь' gives the condition that calls for extra caution."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-06",
+        "phrase": "Ребёнок осторожно гладит маленького кота.",
+        "fullAnalysis": "Strategic focus: Gentle manner. 'Осторожно' modifies 'гладит', showing the child strokes the cat softly. The adverb conveys care toward something fragile or small."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-07",
+        "phrase": "Осторожно спускайся по лестнице.",
+        "fullAnalysis": "Strategic focus: Fronted caution. 'Осторожно' opens the sentence before the command 'спускайся', stressing care on the stairs. Fronting the adverb foregrounds the warning."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-08",
+        "phrase": "Он осторожно положил телефон на стол.",
+        "fullAnalysis": "Strategic focus: Careful placement. 'Осторожно' modifies 'положил', describing how gently he set the phone down. The adverb suits any action where damage must be avoided."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-09",
+        "phrase": "Мы осторожно перешли через дорогу.",
+        "fullAnalysis": "Strategic focus: Careful crossing. 'Осторожно' modifies 'перешли', showing the group crossed the street watchfully. The adverb stresses safety in a risky moment."
+      },
+      {
+        "id": "AD-MANNER-OSTOROZHNO-10",
+        "phrase": "Осторожно, здесь очень горячо!",
+        "fullAnalysis": "Strategic focus: Alert plus reason. 'Осторожно' stands alone as a warning, followed by 'горячо' explaining the danger. This pairing of alert and cause is everyday spoken Russian."
+      }
+    ]
+  }
+]

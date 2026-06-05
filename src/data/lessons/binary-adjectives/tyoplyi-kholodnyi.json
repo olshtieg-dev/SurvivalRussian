@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-TYOPLYI-KHOLODNYI",
+    "label": "Тёплый / Холодный",
+    "badge": "WARM/COLD",
+    "description": "Oppositional adjective drill: тёплый vs холодный across gender, number, the comparatives теплее/холоднее, and impersonal тепло/холодно.",
+    "missions": [
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-01",
+        "phrase": "Сегодня выдался тёплый день.",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 1. 'Тёплый' matches masculine 'день'. 2. The ending is the masculine -ый. 3. Note the ё is always written in the positive form."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-02",
+        "phrase": "За окном дует холодный ветер.",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 1. 'Холодный' matches masculine 'ветер'. 2. The ending is the masculine -ый. 3. A clean masculine pair with no ё."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-03",
+        "phrase": "В чайнике осталась тёплая вода.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Тёплая' matches feminine 'вода'. 2. The ending is the feminine -ая. 3. The ё stays in the stem of the positive form."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-04",
+        "phrase": "В этом году была холодная зима.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Холодная' matches feminine 'зима'. 2. The ending is the feminine -ая. 3. A clean feminine pair with no ё."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-05",
+        "phrase": "Летом нас ждёт тёплое море.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Тёплое' matches neuter 'море'. 2. The ending is the neuter -ое. 3. The ё is preserved in the positive form."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-06",
+        "phrase": "Ребёнок пьёт холодное молоко.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Холодное' matches neuter 'молоко'. 2. The ending is the neuter -ое. 3. A clean neuter pair with no ё."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-07",
+        "phrase": "У бабушки всегда тёплые руки.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 1. 'Тёплые' matches plural 'руки'. 2. The ending is the plural -ые. 3. Plural is gender-neutral, and the ё stays."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-08",
+        "phrase": "Осенью наступают холодные ночи.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 1. 'Холодные' matches plural 'ночи'. 2. The ending is the plural -ые. 3. A clean plural pair, gender-neutral."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-09",
+        "phrase": "К полудню на улице стало теплее.",
+        "fullAnalysis": "Strategic focus: Comparative form. 1. 'Теплее' is the comparative of тёплый. 2. The comparative loses the ё: write е, not ё. 3. 'Стало' marks the change of state."
+      },
+      {
+        "id": "BA-TYOPLYI-KHOLODNYI-10",
+        "phrase": "Сегодня на улице очень холодно.",
+        "fullAnalysis": "Strategic focus: Impersonal weather. 1. 'Холодно' is the impersonal adverbial form. 2. It describes ambient cold, with no noun to agree with. 3. Contrast тепло for warmth."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CL-POETOMU",
+    "label": "Поэтому",
+    "badge": "THEREFORE",
+    "description": "The consequential conjunction поэтому (cause, поэтому result) — the mirror of потому что — with the comma rule.",
+    "missions": [
+      {
+        "id": "CL-POETOMU-01",
+        "phrase": "На улице идёт дождь, поэтому я сижу дома.",
+        "fullAnalysis": "Strategic focus: Cause then result. 'Идёт дождь' states the cause and the comma sets up поэтому, which delivers the consequence. Поэтому gives the result, whereas потому что would give the cause."
+      },
+      {
+        "id": "CL-POETOMU-02",
+        "phrase": "Я очень устал, поэтому сейчас сплю.",
+        "fullAnalysis": "Strategic focus: First-person consequence. 'Я устал' is the cause stated in the past, and the comma precedes поэтому. Поэтому introduces the result 'сплю', not the cause itself."
+      },
+      {
+        "id": "CL-POETOMU-03",
+        "phrase": "Магазин уже закрыт, поэтому мы уходим.",
+        "fullAnalysis": "Strategic focus: Plural result. 'Магазин закрыт' is the cause, and поэтому, after the comma, links to the consequence. 'Уходим' is the plural result we draw from the situation."
+      },
+      {
+        "id": "CL-POETOMU-04",
+        "phrase": "Он сильно болеет, поэтому не пришёл.",
+        "fullAnalysis": "Strategic focus: Third-person negation. 'Он болеет' states the cause and the comma marks поэтому. The negated result 'не пришёл' follows, since поэтому gives the consequence rather than the reason."
+      },
+      {
+        "id": "CL-POETOMU-05",
+        "phrase": "Времени совсем мало, поэтому мы спешим.",
+        "fullAnalysis": "Strategic focus: Impersonal cause. 'Времени мало' is the cause with времени in the genitive, and поэтому follows the comma. 'Спешим' is the result that поэтому introduces."
+      },
+      {
+        "id": "CL-POETOMU-06",
+        "phrase": "Она очень голодна, поэтому много ест.",
+        "fullAnalysis": "Strategic focus: Feminine subject. 'Она голодна' gives the cause and the comma precedes поэтому. 'Ест' is the consequence; поэтому states the result while потому что would name the reason."
+      },
+      {
+        "id": "CL-POETOMU-07",
+        "phrase": "Мы немного опоздали, поэтому теперь бежим.",
+        "fullAnalysis": "Strategic focus: Plural past cause. 'Мы опоздали' is the cause in the past, and поэтому follows the comma. The present-tense 'бежим' is the resulting action that поэтому introduces."
+      },
+      {
+        "id": "CL-POETOMU-08",
+        "phrase": "На улице холодно, поэтому я тепло одеваюсь.",
+        "fullAnalysis": "Strategic focus: Weather and result. 'На улице холодно' is the impersonal cause, and the comma sets up поэтому. 'Одеваюсь' is the consequence, not the cause."
+      },
+      {
+        "id": "CL-POETOMU-09",
+        "phrase": "Автобус уже ушёл, поэтому идём пешком.",
+        "fullAnalysis": "Strategic focus: Practical consequence. 'Автобус ушёл' is the cause, and поэтому follows the comma. 'Идём пешком' is the result; поэтому points forward to the outcome, and ушёл keeps the ё."
+      },
+      {
+        "id": "CL-POETOMU-10",
+        "phrase": "Ты абсолютно прав, поэтому я соглашаюсь.",
+        "fullAnalysis": "Strategic focus: Second-person cause. 'Ты прав' states the cause, and the comma precedes поэтому. 'Соглашаюсь' is the consequence that поэтому introduces."
+      }
+    ]
+  }
+]

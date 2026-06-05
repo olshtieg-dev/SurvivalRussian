@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-ABSTRACT-MYSL",
+    "label": "Мысль",
+    "badge": "THOUGHT",
+    "description": "Decline the feminine 3rd-declension noun мысль (thought/idea) across cases, numbers, and common collocations.",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-MYSL-01",
+        "phrase": "Это очень интересная мысль.",
+        "fullAnalysis": "Strategic focus: Naming an idea. 1. 'Мысль' is nominative singular, the subject named by 'это'. 2. 'Интересная' is a feminine adjective agreeing with мысль. 3. Adjective agreement is the core skill for this 3rd-declension noun."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-02",
+        "phrase": "Объясни мне главную мысль текста.",
+        "fullAnalysis": "Strategic focus: The main point. 1. 'Мысль' is accusative singular here, the object of 'объясни'; acc equals nom for this noun. 2. 'Текста' is genitive, marking possession (of the text). 3. 'Главную' shows feminine accusative agreement with мысль."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-03",
+        "phrase": "Я хорошо понимаю эту мысль.",
+        "fullAnalysis": "Strategic focus: Grasping an idea. 1. 'Мысль' is accusative singular, the direct object of 'понимаю'. 2. For this noun acc equals nom (мысль). 3. 'Эту' is the feminine accusative form of этот, agreeing with мысль."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-04",
+        "phrase": "У меня нет ясной мысли.",
+        "fullAnalysis": "Strategic focus: Absence of an idea. 1. 'Нет' requires genitive, so мысль becomes 'мысли'. 2. 'Ясной' is the feminine genitive adjective agreeing with мысли. 3. In 3rd declension gen, dat and prep all share the form мысли."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-05",
+        "phrase": "Благодаря этой мысли он успокоился.",
+        "fullAnalysis": "Strategic focus: Thanks to an idea. 1. 'Благодаря' governs the dative, giving 'мысли'. 2. 'Этой' is the feminine dative form agreeing with мысли. 3. Note the syncretism: dative мысли looks identical to genitive and prepositional."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-06",
+        "phrase": "Он долго думал над этой мыслью.",
+        "fullAnalysis": "Strategic focus: Pondering an idea. 1. 'Над' here takes the instrumental case, giving 'мыслью'. 2. The instrumental ending -ью is distinctive to feminine 3rd-declension nouns. 3. 'Думать над' means to reflect on something."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-07",
+        "phrase": "Он рассказал мне о своей мысли.",
+        "fullAnalysis": "Strategic focus: About an idea. 1. The preposition 'о' takes prepositional, giving 'мысли'. 2. Prepositional мысли is identical to the genitive and dative forms. 3. 'Своей' is the feminine prepositional possessive agreeing with мысли."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-08",
+        "phrase": "Мне в голову пришла хорошая мысль.",
+        "fullAnalysis": "Strategic focus: An idea arrives. 1. 'Мысль' is nominative singular, the subject of 'пришла'. 2. The verb 'пришла' is feminine past, agreeing with мысль. 3. 'Пришла мысль' is an idiom meaning an idea came to mind."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-09",
+        "phrase": "Мне понятен весь ход мысли.",
+        "fullAnalysis": "Strategic focus: Train of thought. 1. 'Ход' is nominative subject; 'мысли' is genitive singular modifying it. 2. 'Ход мысли' is a fixed collocation, the line of reasoning. 3. Genitive мысли matches the dative and prepositional forms."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-10",
+        "phrase": "Он умеет читать чужие мысли.",
+        "fullAnalysis": "Strategic focus: Reading thoughts. 1. 'Мысли' is accusative plural, the direct object of 'читать'. 2. 'Чужие' is plural, agreeing with мысли. 3. 'Читать мысли' is the set phrase for mind-reading."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-11",
+        "phrase": "Все мои мысли только о тебе.",
+        "fullAnalysis": "Strategic focus: My thoughts. 1. 'Мысли' is nominative plural, the head phrase. 2. 'Мои' is plural possessive agreeing with мысли. 3. 'О тебе' is prepositional, completing the about-someone construction."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-12",
+        "phrase": "У меня много разных мыслей.",
+        "fullAnalysis": "Strategic focus: Many ideas. 1. 'Много' requires the genitive plural, giving 'мыслей'. 2. 'Разных' is genitive plural, agreeing with мыслей. 3. The plural genitive ending -ей is typical of feminine 3rd-declension nouns."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-13",
+        "phrase": "Она сидела вся в своих мыслях.",
+        "fullAnalysis": "Strategic focus: Lost in thought. 1. 'В мыслях' is prepositional plural, an idiom for being absorbed in thinking. 2. 'Своих' agrees with мыслях in prepositional plural. 3. The phrase describes someone deep in their own thoughts."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-14",
+        "phrase": "Я видел это только в мыслях.",
+        "fullAnalysis": "Strategic focus: Only in the mind. 1. 'В мыслях' is prepositional plural, the location of thought. 2. 'Только' stresses that it exists merely mentally. 3. This common phrase contrasts imagination with reality."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-15",
+        "phrase": "Я хочу поделиться с тобой одной мыслью.",
+        "fullAnalysis": "Strategic focus: Sharing an idea. 1. 'Поделиться' governs the instrumental, giving 'мыслью'. 2. 'Одной' is feminine instrumental, agreeing with мыслью. 3. The -ью ending again marks the instrumental of this 3rd-declension noun."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-16",
+        "phrase": "Запиши скорее свои мысли.",
+        "fullAnalysis": "Strategic focus: Recording ideas. 1. 'Мысли' is accusative plural, the object of the imperative 'запиши'. 2. 'Свои' agrees with мысли in accusative plural. 3. The plural мысли is identical in nominative and accusative."
+      },
+      {
+        "id": "NN-ABSTRACT-MYSL-17",
+        "phrase": "Давай вернёмся к этой мысли позже.",
+        "fullAnalysis": "Strategic focus: Returning to an idea. 1. 'К' governs the dative, giving 'мысли'. 2. 'Этой' is feminine dative agreeing with мысли. 3. Dative мысли is syncretic with the genitive and prepositional singular."
+      }
+    ]
+  }
+]

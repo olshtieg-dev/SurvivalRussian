@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-PONYATNO",
+    "label": "Понятно",
+    "badge": "CLEAR",
+    "description": "A 10-sentence usage card for понятно (understood / clear).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-01",
+        "phrase": "Всё понятно, спасибо.",
+        "fullAnalysis": "Strategic focus: Confirming understanding. 'Понятно' is the impersonal predicative meaning clear or understood, here agreeing in sense with 'всё'. A short everyday way to say it is all clear and thank you."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-02",
+        "phrase": "Мне всё понятно теперь.",
+        "fullAnalysis": "Strategic focus: Understanding with a dative experiencer. The dative 'мне' names who grasps it, 'понятно' is the impersonal state of clarity, and 'теперь' marks that the understanding has just arrived."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-03",
+        "phrase": "Тебе понятно задание?",
+        "fullAnalysis": "Strategic focus: Checking comprehension. The dative 'тебе' is the experiencer, 'понятно' carries the clarity, and the nominative 'задание' is what should be clear. A common teacher's question."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-04",
+        "phrase": "Понятно, почему он молчал.",
+        "fullAnalysis": "Strategic focus: Понятно framing a clause. Here 'понятно' means it is clear, introducing a subordinate clause with 'почему'. It states that the reason for his silence is now understood."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-05",
+        "phrase": "Теперь мне понятно его решение.",
+        "fullAnalysis": "Strategic focus: Newly grasped meaning. The dative 'мне' is the experiencer, 'понятно' is the clarity, and the nominative 'решение' is what has become clear. 'Теперь' marks the shift to understanding."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-06",
+        "phrase": "Было понятно, что он устал.",
+        "fullAnalysis": "Strategic focus: Past clarity. The neuter 'было' marks past tense for the impersonal 'понятно', introducing a 'что' clause. It states that his tiredness was evident at the time."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-07",
+        "phrase": "Объясни ещё раз, непонятно.",
+        "fullAnalysis": "Strategic focus: The negated form. The negative 'непонятно' is written as one word and states that something is not clear. The imperative 'объясни ещё раз' asks for another explanation."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-08",
+        "phrase": "Понятно, я больше не буду.",
+        "fullAnalysis": "Strategic focus: Acknowledging a point. 'Понятно' alone signals message received, almost like got it. The reply 'я больше не буду' promises not to repeat the behaviour, a contrite everyday exchange."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-09",
+        "phrase": "Нам понятно ваше желание.",
+        "fullAnalysis": "Strategic focus: Polite plural understanding. The dative 'нам' is the experiencer, 'понятно' carries the clarity, and the nominative 'желание' is what is understood. A formal acknowledgement of someone's wish."
+      },
+      {
+        "id": "AD-PREDICATIVE-PONYATNO-10",
+        "phrase": "Понятно ли тебе правило?",
+        "fullAnalysis": "Strategic focus: A question about clarity. The particle 'ли' turns 'понятно' into a yes-no question, with the dative 'тебе' as experiencer and the nominative 'правило' as what should be clear. A careful check on comprehension."
+      }
+    ]
+  }
+]

@@ -3,57 +3,57 @@
     "id": "NN-HOUSEHOLD-OKNO",
     "label": "Окно",
     "badge": "WINDOW",
-    "description": "A 10-sentence usage card for окно with opening, looking, and room placement.",
+    "description": "A 10-sentence usage card for окно: each line is a complete everyday sentence drilling one case (opening, looking, room placement).",
     "missions": [
       {
         "id": "NN-HOUSEHOLD-OKNO-01",
-        "phrase": "окно открыто",
-        "fullAnalysis": "Strategic focus: Basic state. 1. 'Окно' is the main noun. 2. 'Открыто' gives a compact descriptive state. 3. This is a clean noun-plus-state sentence."
+        "phrase": "Окно открыто, в комнате свежо.",
+        "fullAnalysis": "Strategic focus: Nominative subject + state. 1. 'Окно' is the neuter subject in the nominative case (окно). 2. 'Открыто' is the short-form neuter predicate agreeing with it. 3. A clean noun-plus-state sentence for the base form."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-02",
-        "phrase": "смотрю в окно",
-        "fullAnalysis": "Strategic focus: Visual action. 1. 'В окно' is a very common everyday phrase. 2. 'Смотрю' is a first-person present verb. 3. The line is simple and highly reusable."
+        "phrase": "Я смотрю в окно на улицу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 1. 'В окно' uses the accusative (окно, identical to nominative for this neuter noun) to mark motion of the gaze. 2. 'Смотрю' is a first-person present verb. 3. A simple, highly reusable everyday line."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-03",
-        "phrase": "у окна кресло",
-        "fullAnalysis": "Strategic focus: Location near a landmark. 1. 'У окна' anchors the object in the room. 2. 'Кресло' is a useful household noun. 3. This trains learners to pair nouns with spatial relations."
+        "phrase": "У окна стоит удобное кресло.",
+        "fullAnalysis": "Strategic focus: Genitive of location near a landmark. 1. 'У окна' uses the genitive (окна) to anchor the object in the room. 2. 'Кресло' is a useful household noun. 3. Trains pairing nouns with spatial relations."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-04",
-        "phrase": "закрываю окно",
-        "fullAnalysis": "Strategic focus: Practical action. 1. 'Закрываю' is a very common first-person verb. 2. 'Окно' stays in direct object position. 3. This is an everyday home sentence worth memorizing."
+        "phrase": "Вечером я закрываю окно.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 1. 'Закрываю' is a common first-person verb. 2. 'Окно' stays in the accusative as the direct object (окно, neuter = nominative form). 3. An everyday home sentence worth memorizing."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-05",
-        "phrase": "большое окно в комнате",
-        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Большое' matches the neuter noun 'окно'. 2. 'В комнате' places the noun in a clear household scene. 3. This is a basic description frame."
+        "phrase": "В этой комнате очень большое окно.",
+        "fullAnalysis": "Strategic focus: Nominative with neuter agreement. 1. 'Большое' is the neuter adjective matching the nominative noun 'окно'. 2. 'В этой комнате' places it in a clear household scene. 3. A basic description frame."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-06",
-        "phrase": "из окна видно двор",
-        "fullAnalysis": "Strategic focus: Source viewpoint. 1. 'Из окна' marks the view source. 2. 'Видно' is a common impersonal construction. 3. 'Двор' gives the sentence a concrete outside image."
+        "phrase": "Из окна хорошо видно двор.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 1. 'Из окна' uses the genitive (окна) to mark the source of the view. 2. 'Видно' is a common impersonal construction. 3. 'Двор' gives the line a concrete outside image."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-07",
-        "phrase": "перед окном стол",
-        "fullAnalysis": "Strategic focus: Position in front of an object. 1. 'Перед окном' is a useful spatial phrase. 2. 'Стол' keeps the noun chain concrete. 3. The sentence is short and easy to visualize."
+        "phrase": "Перед окном стоит большой стол.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 1. 'Перед окном' uses the instrumental (окном) for an 'in front of' relation. 2. 'Стол' keeps the scene concrete. 3. A short, easy-to-visualize spatial sentence."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-08",
-        "phrase": "за окном идёт дождь",
-        "fullAnalysis": "Strategic focus: Weather viewpoint. 1. 'За окном' is a very natural Russian frame. 2. 'Идет дождь' is high-frequency weather language. 3. This sentence is excellent for everyday description."
+        "phrase": "За окном идёт сильный дождь.",
+        "fullAnalysis": "Strategic focus: Instrumental viewpoint. 1. 'За окном' uses the instrumental (окном) in a very natural Russian frame. 2. 'Идёт дождь' is high-frequency weather language. 3. Excellent for everyday description."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-09",
-        "phrase": "мыть окно нужно часто",
-        "fullAnalysis": "Strategic focus: Need construction. 1. 'Мыть окно' is practical household language. 2. 'Нужно' gives the line a clean necessity feel. 3. This is a useful chores sentence."
+        "phrase": "Мыть окно нужно довольно часто.",
+        "fullAnalysis": "Strategic focus: Accusative object of an infinitive. 1. 'Мыть окно' keeps the noun in the accusative (окно) as object of the infinitive. 2. 'Нужно' gives the line a clean necessity feel. 3. A useful chores sentence."
       },
       {
         "id": "NN-HOUSEHOLD-OKNO-10",
-        "phrase": "рядом с окном стоит лампа",
-        "fullAnalysis": "Strategic focus: Relative position. 1. 'Рядом с окном' gives a precise relation. 2. 'Стоит лампа' creates a clear scene. 3. This sentence is ideal for room description."
+        "phrase": "Рядом с окном стоит яркая лампа.",
+        "fullAnalysis": "Strategic focus: Instrumental of relative position. 1. 'Рядом с окном' uses the instrumental (окном) for a precise 'next to' relation. 2. 'Стоит лампа' creates a clear scene. 3. Ideal for room description."
       }
     ]
   }

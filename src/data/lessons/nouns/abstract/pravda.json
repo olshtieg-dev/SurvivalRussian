@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-ABSTRACT-PRAVDA",
+    "label": "Правда",
+    "badge": "TRUTH",
+    "description": "The feminine noun правда ('truth') across its full case ladder, with common adjective agreement, collocations, and its discourse use as 'right? / it's true'.",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-PRAVDA-01",
+        "phrase": "Всё, что он сказал, — это правда.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Правда' is the feminine noun in the nominative. 2. It is the subject of the clause, paired with 'это'. 3. An everyday way to confirm that everything said is true."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-02",
+        "phrase": "Сегодня очень холодно, правда?",
+        "fullAnalysis": "Strategic focus: Discourse word. 1. Here 'правда' is not a noun but a sentence-final tag. 2. It works as 'right?' or 'isn't it', inviting agreement. 3. A natural, conversational confirmation question."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-03",
+        "phrase": "Я знаю, что он говорит правду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Говорит' is the present-tense verb 'speaks, tells'. 2. 'Правду' is its accusative direct object. 3. A practical, common everyday sentence."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-04",
+        "phrase": "Я наконец сказал ей всю правду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Сказал' is the past-tense verb 'told'. 2. 'Правду' is the accusative object of telling, modified by 'всю'. 3. A frequent past-tense collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-05",
+        "phrase": "Иногда говорить правду очень трудно.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Говорить' is the infinitive verb. 2. 'Правду' is its accusative object. 3. The sentence states that telling the truth is sometimes hard."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-06",
+        "phrase": "Он рассказал нам только часть правды.",
+        "fullAnalysis": "Strategic focus: Genitive of part. 1. The noun 'часть' governs the genitive. 2. 'Правды' is the genitive expressing 'part of the truth'. 3. A common partitive construction."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-07",
+        "phrase": "Ради правды он готов на всё.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 1. 'Ради' is a preposition meaning 'for the sake of'. 2. It requires the genitive 'правды'. 3. A set collocation, 'for the sake of truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-08",
+        "phrase": "В его словах совсем нет правды.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 1. The negative existential 'нет' requires the genitive. 2. 'Правды' is the genitive in this construction. 3. It means 'there is no truth' in his words."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-09",
+        "phrase": "Тебе пора верить правде.",
+        "fullAnalysis": "Strategic focus: Dative object. 1. 'Верить' takes a dative complement. 2. 'Правде' is the dative meaning 'to believe the truth'. 3. A standard verb-plus-dative pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-10",
+        "phrase": "Я всегда рад правде.",
+        "fullAnalysis": "Strategic focus: Dative object. 1. 'Рад' is the short adjective 'glad'. 2. It governs the dative 'правде'. 3. The sentence means 'I am always glad of the truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-11",
+        "phrase": "Его мечта вдруг стала правдой.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 1. 'Стала' is the past-tense verb 'became'. 2. 'Правдой' is the instrumental predicate noun. 3. It means 'his dream became truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-12",
+        "phrase": "Эта история явно пахнет правдой.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 1. 'Пахнет' is the verb 'smells of'. 2. 'Правдой' is its instrumental complement. 3. An idiomatic 'it smells of truth', meaning it sounds plausible."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-13",
+        "phrase": "Мы долго спорили о правде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'О' is the preposition 'about'. 2. It requires the prepositional 'правде'. 3. The sentence means 'we argued about the truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-14",
+        "phrase": "Он верит, что сила в правде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. The preposition 'в' here governs the prepositional case. 2. 'Правде' is the prepositional after 'в'. 3. A famous line, 'strength is in truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-15",
+        "phrase": "Поверь, это чистая правда.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Правда' is the nominative feminine noun. 2. 'Чистая' agrees in feminine nominative. 3. A set phrase meaning 'the honest truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-16",
+        "phrase": "Это была горькая правда.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Правда' is the nominative feminine noun. 2. 'Горькая' agrees in feminine nominative. 3. A common idiom, the 'bitter truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-17",
+        "phrase": "Каждое его слово — святая правда.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Правда' is the nominative feminine noun. 2. 'Святая' agrees in feminine nominative. 3. An emphatic idiom, the 'gospel truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-PRAVDA-18",
+        "phrase": "В этой книге вся правда жизни.",
+        "fullAnalysis": "Strategic focus: Genitive modifier. 1. 'Правда' is the nominative head noun, the subject. 2. 'Жизни' is the genitive modifier 'of life'. 3. A fixed expression, 'the truth of life'."
+      }
+    ]
+  }
+]

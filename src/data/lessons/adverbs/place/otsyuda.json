@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-OTSYUDA",
+    "label": "Отсюда",
+    "badge": "HENCE",
+    "description": "A 10-sentence usage card for отсюда (from here).",
+    "missions": [
+      {
+        "id": "AD-PLACE-OTSYUDA-01",
+        "phrase": "Уходи отсюда прямо сейчас.",
+        "fullAnalysis": "Strategic focus: Motion away from here. 'Отсюда' is an adverb marking the starting point of movement, meaning from this place. It modifies 'уходи' and answers откуда."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-02",
+        "phrase": "Отсюда видно всё море.",
+        "fullAnalysis": "Strategic focus: Vantage point. 'Отсюда' marks the place from which the sea is visible, modifying 'видно'. It names the origin of the view, the spot where the speaker stands."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-03",
+        "phrase": "Давай уйдём отсюда поскорее.",
+        "fullAnalysis": "Strategic focus: Leaving a place. 'Отсюда' marks the origin of the departure, modifying 'уйдём'. It answers откуда and stresses moving away from the current spot."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-04",
+        "phrase": "Отсюда до вокзала недалеко.",
+        "fullAnalysis": "Strategic focus: Measuring distance from a point. 'Отсюда' marks the starting point for the distance to the station. It names where the measurement begins, paired with 'до вокзала'."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-05",
+        "phrase": "Забери свои вещи отсюда.",
+        "fullAnalysis": "Strategic focus: Removing things from a place. 'Отсюда' marks the source from which the things are taken, modifying 'забери'. It answers откуда and names the current spot as origin."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-06",
+        "phrase": "Отсюда хорошо слышно музыку.",
+        "fullAnalysis": "Strategic focus: Point of perception. 'Отсюда' marks the location from which the music is heard, modifying 'слышно'. It names the speaker's spot as the origin of the sound's reach."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-07",
+        "phrase": "Как нам выбраться отсюда?",
+        "fullAnalysis": "Strategic focus: Escaping a place. 'Отсюда' marks the origin of the desired motion, modifying 'выбраться'. The question asks the way out from this spot, answering откуда."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-08",
+        "phrase": "Отсюда дорога ведёт в горы.",
+        "fullAnalysis": "Strategic focus: Starting point of a route. 'Отсюда' marks where the road begins, modifying 'ведёт'. It names the current place as the origin of the path into the mountains."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-09",
+        "phrase": "Птицы улетают отсюда осенью.",
+        "fullAnalysis": "Strategic focus: Departure from a region. 'Отсюда' marks the origin of the birds' flight, modifying 'улетают'. It names this place as the spot they leave each autumn."
+      },
+      {
+        "id": "AD-PLACE-OTSYUDA-10",
+        "phrase": "Отсюда начинается наш путь.",
+        "fullAnalysis": "Strategic focus: Beginning a journey. 'Отсюда' marks the spot where the path starts, modifying 'начинается'. It frames the current place as the origin of the whole journey."
+      }
+    ]
+  }
+]

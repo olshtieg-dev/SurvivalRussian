@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-SOVSEM",
+    "label": "Совсем",
+    "badge": "WHOLLY",
+    "description": "A 10-sentence usage card for совсем (completely, at all).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-SOVSEM-01",
+        "phrase": "Я совсем забыл об этом.",
+        "fullAnalysis": "Strategic focus: Completeness with a verb. 'Совсем' means completely or totally, here intensifying 'забыл' to mean utterly forgot. It stands before the verb it scales."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-02",
+        "phrase": "Это совсем другое дело.",
+        "fullAnalysis": "Strategic focus: Scaling an adjective. 'Совсем' boosts 'другое' to mean an entirely different matter. It precedes the adjective and conveys a full, absolute degree."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-03",
+        "phrase": "Он совсем не понимает меня.",
+        "fullAnalysis": "Strategic focus: Совсем with negation. Paired with 'не', the phrase 'совсем не' means not at all, a total negation. The particle sits before 'не' to strengthen the denial."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-04",
+        "phrase": "На улице совсем темно.",
+        "fullAnalysis": "Strategic focus: Impersonal state. 'Совсем' intensifies the predicative 'темно' to mean completely dark. It precedes the state word in this impersonal construction."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-05",
+        "phrase": "Она совсем молодая девушка.",
+        "fullAnalysis": "Strategic focus: Adjective in a noun phrase. 'Совсем' scales 'молодая' to mean very young indeed, almost a child. It stays before the adjective it modifies."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-06",
+        "phrase": "У меня совсем нет времени.",
+        "fullAnalysis": "Strategic focus: Reinforcing absence. With the negative existential 'нет', 'совсем' stresses a total lack, meaning no time at all. It precedes 'нет' for emphasis."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-07",
+        "phrase": "Он живёт совсем близко.",
+        "fullAnalysis": "Strategic focus: Scaling another adverb. 'Совсем' intensifies the adverb 'близко' to mean very close, right nearby. It directly precedes the adverb it modifies."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-08",
+        "phrase": "Ребёнок совсем не спал ночью.",
+        "fullAnalysis": "Strategic focus: Total negation of an action. 'Совсем не' before 'спал' means did not sleep at all during the night. The pairing creates an absolute, emphatic negative."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-09",
+        "phrase": "Этот чай совсем холодный.",
+        "fullAnalysis": "Strategic focus: Predicate adjective. 'Совсем' pushes 'холодный' to full degree, meaning the tea is completely cold. It is a neutral, very common everyday intensifier."
+      },
+      {
+        "id": "AD-DEGREE-SOVSEM-10",
+        "phrase": "Мы совсем недавно приехали сюда.",
+        "fullAnalysis": "Strategic focus: Scaling a time adverb. 'Совсем' tightens 'недавно' to mean only very recently. It precedes the adverb and narrows the time frame to a short span."
+      }
+    ]
+  }
+]

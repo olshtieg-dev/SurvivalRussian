@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-PROSTO",
+    "label": "Просто",
+    "badge": "SIMPLY",
+    "description": "A 10-sentence usage card for просто (simply, just) covering manner, the 'just' particle, and ease.",
+    "missions": [
+      {
+        "id": "AD-MANNER-PROSTO-01",
+        "phrase": "Объясни мне это просто.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Просто' means 'simply' and modifies the verb 'объясни', describing how the explaining should be done. It sits after the verb in the natural spot for a manner adverb."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-02",
+        "phrase": "Я просто хочу спать.",
+        "fullAnalysis": "Strategic focus: The 'just' particle. Here 'просто' means 'just' and downplays the wish, softening it. This particle use comes right before the verb phrase it limits."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-03",
+        "phrase": "Это задание очень просто.",
+        "fullAnalysis": "Strategic focus: Predicate of ease. 'Просто' acts as an impersonal predicate meaning 'easy', describing the task. 'Очень' intensifies the simplicity."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-04",
+        "phrase": "Он просто забыл позвонить.",
+        "fullAnalysis": "Strategic focus: Dismissive 'just'. 'Просто' frames the forgetting as nothing more than an oversight, meaning 'simply' or 'just'. It excuses or minimises the action."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-05",
+        "phrase": "Просто живи и ни о чём не думай.",
+        "fullAnalysis": "Strategic focus: Softening particle. 'Просто' here means just or simply, framing the imperative 'живи' as easy, unfussy advice. It sits before the verb it softens."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-06",
+        "phrase": "Просто скажи мне правду.",
+        "fullAnalysis": "Strategic focus: Imperative softener. 'Просто' opens the command and means 'just', urging directness. Placed before 'скажи', it makes the request feel plain and honest."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-07",
+        "phrase": "Я просто шучу, не сердись.",
+        "fullAnalysis": "Strategic focus: Minimising particle. 'Просто' here means 'just', reducing the action to harmless joking. It is a common way to defuse tension."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-08",
+        "phrase": "На самом деле всё просто и понятно.",
+        "fullAnalysis": "Strategic focus: Predicative simplicity. 'Просто' acts as an impersonal predicate describing the situation as easy. Paired with 'понятно', it states that everything is straightforward."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-09",
+        "phrase": "Он одет очень просто.",
+        "fullAnalysis": "Strategic focus: Manner of appearance. 'Просто' modifies 'одет', describing a plain, modest way of dressing. 'Очень' raises the degree of simplicity."
+      },
+      {
+        "id": "AD-MANNER-PROSTO-10",
+        "phrase": "Это просто невозможно понять.",
+        "fullAnalysis": "Strategic focus: Emphatic particle. 'Просто' here intensifies 'невозможно', meaning 'simply impossible'. It adds emotional emphasis rather than describing manner."
+      }
+    ]
+  }
+]

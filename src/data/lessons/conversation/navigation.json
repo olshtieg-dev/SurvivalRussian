@@ -7,28 +7,28 @@
     "missions": [
       {
         "id": "CV-NV-01",
-        "phrase": "где находится метро?",
-        "fullAnalysis": "Strategic focus: Finding a destination. 1. 'Где находится' is the standard way to ask where something is located. 2. 'Метро' is a high-value city survival word. 3. This is one of the most practical travel sentences you can learn."
+        "phrase": "Извините, где здесь находится метро?",
+        "fullAnalysis": "Strategic focus: Finding a destination. 'Где находится' is the standard way to ask where something is located, softened here by 'извините'. 'Метро' is a high-value city survival word, making this one of the most practical travel sentences."
       },
       {
         "id": "CV-NV-02",
-        "phrase": "как пройти к станции?",
-        "fullAnalysis": "Strategic focus: Asking for directions. 1. 'Как пройти' is the basic phrase for getting walking directions. 2. 'К станции' gives the target destination clearly. 3. This line is useful with trains, subways, and neighborhood navigation."
+        "phrase": "Скажите, как пройти к станции?",
+        "fullAnalysis": "Strategic focus: Asking for directions. 'Как пройти' is the basic phrase for getting walking directions, opened politely with 'скажите'. 'К станции' names the target clearly and works for trains, subways, and neighborhood navigation."
       },
       {
         "id": "CV-NV-03",
-        "phrase": "идите прямо до светофора",
-        "fullAnalysis": "Strategic focus: Directional instruction. 1. 'Идите прямо' gives the simplest possible route command. 2. 'До светофора' adds a concrete landmark. 3. This is the kind of phrase you will hear again and again when asking for help."
+        "phrase": "Идите прямо до самого светофора.",
+        "fullAnalysis": "Strategic focus: Directional instruction. 'Идите прямо' gives the simplest possible route command, and 'до светофора' adds a concrete landmark. This is the kind of phrase you will hear again and again when asking for help."
       },
       {
         "id": "CV-NV-04",
-        "phrase": "потом поверните налево",
-        "fullAnalysis": "Strategic focus: Route sequencing. 1. 'Потом' marks the next step in the route. 2. 'Поверните налево' is a core direction phrase for navigation. 3. This sentence teaches the shape of step-by-step route instructions."
+        "phrase": "Потом поверните налево у аптеки.",
+        "fullAnalysis": "Strategic focus: Route sequencing. 'Потом' marks the next step in the route, and 'поверните налево' is a core direction phrase. The landmark 'у аптеки' shows how step-by-step route instructions are built."
       },
       {
         "id": "CV-NV-05",
-        "phrase": "это далеко отсюда?",
-        "fullAnalysis": "Strategic focus: Distance check. 1. 'Это далеко' asks about distance in a very natural way. 2. 'Отсюда' anchors the question to the current place. 3. This is a useful sentence whenever you need to judge whether walking is realistic."
+        "phrase": "Скажите, это далеко отсюда?",
+        "fullAnalysis": "Strategic focus: Distance check. 'Это далеко' asks about distance in a very natural way, and 'отсюда' anchors the question to your current spot. This sentence helps you judge whether walking is realistic."
       }
     ]
   }

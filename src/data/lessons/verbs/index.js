@@ -9,7 +9,7 @@ export const verbsFolder = {
   id: verbsFolderId,
   label: 'Verbs',
   badge: 'VB',
-  description: 'Verb families grouped by conjugation pattern. Each verb card will eventually expand to a 30-sentence usage deck.',
+  description: 'Verb families grouped by conjugation pattern. Each verb card is a full conjugation deck: present persons, past genders, future, and imperative.',
   missionCountLabel: '4 verb families',
   isFolder: true,
 };

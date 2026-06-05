@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-PREZHDE",
+    "label": "Прежде",
+    "badge": "BEFORE",
+    "description": "A 10-sentence usage card for прежде (before, formerly, first).",
+    "missions": [
+      {
+        "id": "AD-TIME-PREZHDE-01",
+        "phrase": "Прежде здесь стоял старый дом.",
+        "fullAnalysis": "Strategic focus: In former times. 'Прежде' means formerly or in the past, modifying 'стоял'. It contrasts an earlier reality with the present and carries a slightly bookish tone."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-02",
+        "phrase": "Прежде подумай, потом действуй.",
+        "fullAnalysis": "Strategic focus: First of all. Here 'прежде' means first or beforehand, ordering 'подумай' before 'действуй'. It is more formal than 'сначала' but conveys the same priority."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-03",
+        "phrase": "Прежде всего нужно успокоиться.",
+        "fullAnalysis": "Strategic focus: Top priority. The set phrase 'прежде всего' means first and foremost. It fronts the most important point, here the need to calm down, and is common in careful speech and writing."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-04",
+        "phrase": "Прежде он работал учителем.",
+        "fullAnalysis": "Strategic focus: Past occupation. 'Прежде' marks what was true earlier, modifying 'работал'. It implies a contrast with the person's current situation."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-05",
+        "phrase": "Прежде чем уйти, выключи свет.",
+        "fullAnalysis": "Strategic focus: Before doing something. In 'прежде чем' the word introduces an action that must precede another. Here it orders turning off the light before leaving."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-06",
+        "phrase": "Жизнь прежде была проще.",
+        "fullAnalysis": "Strategic focus: Earlier times. 'Прежде' contrasts the former past with now, modifying the predicate 'была проще'. It gives the sentence a reflective, slightly nostalgic register."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-07",
+        "phrase": "Прежде всего я хочу извиниться.",
+        "fullAnalysis": "Strategic focus: Leading with the main point. 'Прежде всего' fronts the speaker's first priority, here an apology. It is a polished way to open a statement."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-08",
+        "phrase": "Прежде чем решить, спроси совета.",
+        "fullAnalysis": "Strategic focus: Precondition for acting. 'Прежде чем' introduces what should come first, ordering 'спроси совета' before 'решить'. The construction is neutral and widely used."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-09",
+        "phrase": "Мы прежде никогда не встречались.",
+        "fullAnalysis": "Strategic focus: At any earlier time. 'Прежде' here means before now, reinforcing 'никогда'. It modifies 'встречались', stressing that no prior meeting ever took place."
+      },
+      {
+        "id": "AD-TIME-PREZHDE-10",
+        "phrase": "Прежде чем говорить, выслушай меня.",
+        "fullAnalysis": "Strategic focus: Order of speaking. 'Прежде чем' sets up a required first action, here listening before speaking. It modifies the relationship between the two imperatives."
+      }
+    ]
+  }
+]

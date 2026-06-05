@@ -1,0 +1,110 @@
+[
+  {
+    "id": "VB-BEZHAT",
+    "label": "Бежать",
+    "badge": "RUN",
+    "description": "A full deck for the mixed-conjugation verb бежать: the бегу/бежишь…бегут pattern, past, imperative беги, and direction prepositions.",
+    "missions": [
+      {
+        "id": "VB-BEZHAT-01",
+        "phrase": "После уроков я бегу домой.",
+        "fullAnalysis": "Strategic focus: First-person singular. 1. 'Бегу' uses the г-stem, not the ж of бежишь. 2. 'Домой' is a direction adverb. 3. This is the irregular form to memorize first, framed in an everyday after-school scene."
+      },
+      {
+        "id": "VB-BEZHAT-02",
+        "phrase": "Ты бежишь слишком быстро для меня.",
+        "fullAnalysis": "Strategic focus: Second-person singular. 1. 'Бежишь' switches to the ж-stem of the middle persons. 2. 'Слишком быстро' is an adverb of manner with intensifier. 3. Contrast this ж with the г of бегу."
+      },
+      {
+        "id": "VB-BEZHAT-03",
+        "phrase": "Она бежит по улице под дождём.",
+        "fullAnalysis": "Strategic focus: Third-person singular. 1. 'Бежит' keeps the ж-stem of the middle persons. 2. 'По улице' is по + dative, run along a surface. 3. A core direction-of-motion scene set in the rain."
+      },
+      {
+        "id": "VB-BEZHAT-04",
+        "phrase": "По утрам мы бежим вместе в парке.",
+        "fullAnalysis": "Strategic focus: First-person plural. 1. 'Бежим' stays in the ж-stem like the singular middle persons. 2. 'Вместе' means together. 3. It rounds out the inner conjugation block with a morning-run setting."
+      },
+      {
+        "id": "VB-BEZHAT-05",
+        "phrase": "Куда вы бежите так рано утром?",
+        "fullAnalysis": "Strategic focus: Second-person plural. 1. 'Бежите' is the formal or plural ж-stem present form. 2. 'Куда' marks direction, where to. 3. Do not confuse this present form with the imperative бегите."
+      },
+      {
+        "id": "VB-BEZHAT-06",
+        "phrase": "Прохожие бегут от внезапного дождя.",
+        "fullAnalysis": "Strategic focus: Third-person plural. 1. 'Бегут' returns to the г-stem, matching бегу. 2. 'От дождя' is от + genitive, run away from. 3. The г bookends the conjugation: бегу…бегут."
+      },
+      {
+        "id": "VB-BEZHAT-07",
+        "phrase": "Утром мальчик бежал в школу с рюкзаком.",
+        "fullAnalysis": "Strategic focus: Past masculine. 1. 'Бежал' is the masculine singular past. 2. 'В школу' is в + accusative, run into a destination. 3. The past stem drops the г/ж split entirely."
+      },
+      {
+        "id": "VB-BEZHAT-08",
+        "phrase": "Маленькая девочка бежала домой к маме.",
+        "fullAnalysis": "Strategic focus: Past feminine. 1. 'Бежала' adds the feminine -а ending. 2. 'Домой' is the direction adverb. 3. Same бежа- stem as the masculine, only the ending agrees in gender."
+      },
+      {
+        "id": "VB-BEZHAT-09",
+        "phrase": "В тот вечер время бежало очень быстро.",
+        "fullAnalysis": "Strategic focus: Past neuter. 1. 'Бежало' takes the neuter -о ending. 2. 'Время' is a neuter subject, time. 3. Here бежать is used figuratively, the evening flew by quickly."
+      },
+      {
+        "id": "VB-BEZHAT-10",
+        "phrase": "Весёлые дети бежали по парку наперегонки.",
+        "fullAnalysis": "Strategic focus: Past plural. 1. 'Бежали' is the plural past for any gender. 2. 'По парку' is по + dative, run through the park. 3. It completes all four past forms, here in a race."
+      },
+      {
+        "id": "VB-BEZHAT-11",
+        "phrase": "Этим летом я буду бежать первый марафон.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 1. 'Буду бежать' joins буду with the infinitive. 2. 'Марафон' is the accusative object. 3. The infinitive never shows the г/ж stem split."
+      },
+      {
+        "id": "VB-BEZHAT-12",
+        "phrase": "Услышав сигнал, он побежал вперёд.",
+        "fullAnalysis": "Strategic focus: Perfective past. 1. 'Побежал' adds the prefix по-, meaning he started running. 2. 'Вперёд' means forward. 3. The perfective marks the sudden onset of motion."
+      },
+      {
+        "id": "VB-BEZHAT-13",
+        "phrase": "Сейчас я побегу в магазин за хлебом.",
+        "fullAnalysis": "Strategic focus: Perfective future. 1. 'Побегу' is perfective and future at once, with the г-stem like бегу. 2. 'За хлебом' is за + instrumental, fetch bread. 3. No буду is needed here."
+      },
+      {
+        "id": "VB-BEZHAT-14",
+        "phrase": "Скорее беги ко мне, не бойся!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 1. 'Беги' is the informal command to run. 2. 'Ко мне' means toward me. 3. The imperative stem matches the г of бегу and бегут."
+      },
+      {
+        "id": "VB-BEZHAT-15",
+        "phrase": "Ребята, бегите скорее за мной!",
+        "fullAnalysis": "Strategic focus: Plural imperative. 1. 'Бегите' is the formal or plural command. 2. 'За мной' is за + instrumental, follow me. 3. Note the г-stem, distinct from the present бежите."
+      },
+      {
+        "id": "VB-BEZHAT-16",
+        "phrase": "Радостная собака бежит ко мне навстречу.",
+        "fullAnalysis": "Strategic focus: Third-person singular. 1. 'Бежит' uses the ж-stem of the middle persons. 2. 'Ко мне' marks direction toward the speaker. 3. A natural everyday motion scene with a dog."
+      },
+      {
+        "id": "VB-BEZHAT-17",
+        "phrase": "Каждое утро я бегу на работу пешком.",
+        "fullAnalysis": "Strategic focus: First-person singular direction. 1. 'Бегу' shows the г-stem again. 2. 'На работу' is на + accusative, run to work. 3. На pairs with destinations that take на."
+      },
+      {
+        "id": "VB-BEZHAT-18",
+        "phrase": "Дети весело бегут к реке купаться.",
+        "fullAnalysis": "Strategic focus: Third-person plural direction. 1. 'Бегут' is the г-stem plural, matching бегу. 2. 'К реке' is к + dative, run toward the river. 3. It mirrors бегу in the stem consonant."
+      },
+      {
+        "id": "VB-BEZHAT-19",
+        "phrase": "После работы мы бежим на стадион.",
+        "fullAnalysis": "Strategic focus: First-person plural direction. 1. 'Бежим' keeps the ж-stem of the middle persons. 2. 'На стадион' is на + accusative, run to the stadium. 3. Reinforces the inner ж block."
+      },
+      {
+        "id": "VB-BEZHAT-20",
+        "phrase": "Куда ты так бежишь после уроков?",
+        "fullAnalysis": "Strategic focus: Second-person singular question. 1. 'Бежишь' is the ж-stem form. 2. 'Куда' asks about direction, where to. 3. A common spoken question pairing direction with the ж-stem."
+      }
+    ]
+  }
+]

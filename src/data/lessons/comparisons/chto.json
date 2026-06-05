@@ -1,0 +1,65 @@
+[
+  {
+    "id": "CL-CHTO",
+    "label": "Что",
+    "badge": "THAT",
+    "description": "The conjunction что introducing subordinate clauses (я думаю, что…), with the comma rule and common reporting verbs.",
+    "missions": [
+      {
+        "id": "CL-CHTO-01",
+        "phrase": "Я думаю, что ты совершенно прав.",
+        "fullAnalysis": "Strategic focus: Introducing an opinion. The comma before что separates the main clause from the subordinate one, and 'думаю' is the reporting verb that opens the thought. Что links the embedded clause expressing what I believe."
+      },
+      {
+        "id": "CL-CHTO-02",
+        "phrase": "Я точно знаю, что ты сейчас дома.",
+        "fullAnalysis": "Strategic focus: Reporting knowledge. The comma precedes что, and 'знаю' is the matrix verb that frames the fact as known. Что connects the main clause to the subordinate statement about where you are."
+      },
+      {
+        "id": "CL-CHTO-03",
+        "phrase": "Он сказал, что обязательно придёт вечером.",
+        "fullAnalysis": "Strategic focus: Reporting speech. A comma always stands before что, and the past-tense 'сказал' is the reporting verb. Что embeds his words as a subordinate clause with the future-meaning придёт inside."
+      },
+      {
+        "id": "CL-CHTO-04",
+        "phrase": "Я вижу, что ты сегодня очень устал.",
+        "fullAnalysis": "Strategic focus: Reporting perception. The comma marks the clause boundary before что, while 'вижу' is the matrix verb of perception. Что joins the observed situation as a subordinate clause."
+      },
+      {
+        "id": "CL-CHTO-05",
+        "phrase": "Я слышал, что она вчера уехала.",
+        "fullAnalysis": "Strategic focus: Reporting hearsay. A comma precedes что, and 'слышал' is the reporting verb signalling secondhand information. Что links the heard report to the main clause."
+      },
+      {
+        "id": "CL-CHTO-06",
+        "phrase": "Она надеется, что всё будет хорошо.",
+        "fullAnalysis": "Strategic focus: Reporting hope. The comma stands before что, and 'надеется' is the matrix verb in the third person. Что connects the hoped-for clause to the main one, where всё carries the ё."
+      },
+      {
+        "id": "CL-CHTO-07",
+        "phrase": "Мы все знаем, что это чистая правда.",
+        "fullAnalysis": "Strategic focus: Shared knowledge. The comma separates the clauses before что, and the plural 'знаем' is the matrix verb of collective assertion. Что embeds the asserted fact as a subordinate clause."
+      },
+      {
+        "id": "CL-CHTO-08",
+        "phrase": "Они говорят, что завтра будет дождь.",
+        "fullAnalysis": "Strategic focus: Reporting talk. A comma precedes что, and the third-person plural 'говорят' is the reporting verb. Что links the predicted clause about the weather to the main statement."
+      },
+      {
+        "id": "CL-CHTO-09",
+        "phrase": "Ты же видишь, что я сейчас занят.",
+        "fullAnalysis": "Strategic focus: Second-person perception. The comma marks the boundary before что, and 'видишь' is the matrix verb addressed to you. Что joins the observed clause about my being busy to the main one."
+      },
+      {
+        "id": "CL-CHTO-10",
+        "phrase": "Скажи, что это вообще такое?",
+        "fullAnalysis": "Strategic focus: The homonym pronoun. Here что is not the conjunction but the interrogative pronoun 'what', the subject of the embedded question. The comma here separates the imperative скажи from its clause, not a что-conjunction."
+      },
+      {
+        "id": "CL-CHTO-11",
+        "phrase": "Что случилось у тебя сегодня?",
+        "fullAnalysis": "Strategic focus: Pronoun in a question. This что means 'what', not the clause-linking conjunction, so there is no comma and no matrix verb. It functions as the subject of the direct question."
+      }
+    ]
+  }
+]

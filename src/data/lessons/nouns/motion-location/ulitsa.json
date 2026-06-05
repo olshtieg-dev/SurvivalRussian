@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-MOTION-ULITSA",
+    "label": "Улица",
+    "badge": "STREET",
+    "description": "The feminine noun улица across its full case ladder, contrasting location ('на улице') with motion ('на улицу'), plus plural forms and adjective agreement.",
+    "missions": [
+      {
+        "id": "NN-MOTION-ULITSA-01",
+        "phrase": "Это наша тихая улица.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Улица' is the bare dictionary form, the grammatical subject. 2. 'Наша' and 'тихая' agree as feminine nominative singular. 3. A naming statement built on 'это' with no verb."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-02",
+        "phrase": "Здесь начинается длинная улица.",
+        "fullAnalysis": "Strategic focus: Adjective agreement, nominative. 1. 'Улица' stays nominative singular as the subject. 2. 'Длинная' takes the feminine ending -ая to agree. 3. The verb 'начинается' shows where the street begins."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-03",
+        "phrase": "Это главная улица нашего города.",
+        "fullAnalysis": "Strategic focus: Nominative with genitive modifier. 1. 'Главная улица' is the feminine nominative phrase. 2. 'Нашего города' is genitive, marking possession. 3. The adjective 'главная' agrees with улица."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-04",
+        "phrase": "Вечером это шумная улица.",
+        "fullAnalysis": "Strategic focus: Adjective plus scene, nominative. 1. 'Шумная' agrees as feminine nominative with улица. 2. 'Вечером' is instrumental of time. 3. The sentence sketches a noisy street in the evening."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-05",
+        "phrase": "Я осторожно перехожу улицу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Улицу' is the direct object in the accusative. 2. The -у ending marks the feminine accusative. 3. 'Перехожу' is a first-person verb of crossing."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-06",
+        "phrase": "Утром он вышел на улицу.",
+        "fullAnalysis": "Strategic focus: Motion target, accusative. 1. 'На улицу' uses accusative for direction. 2. The contrast with 'на улице' is motion versus location. 3. Idiomatically this means stepping outside."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-07",
+        "phrase": "Мы долго гуляем на улице.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 1. 'На улице' uses the prepositional case for place. 2. The -е ending marks this case. 3. 'На улице' idiomatically means outside, not a specific street."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-08",
+        "phrase": "Сегодня очень холодно на улице.",
+        "fullAnalysis": "Strategic focus: Weather idiom, prepositional. 1. 'На улице' is prepositional, here meaning outdoors. 2. 'Холодно' is an impersonal predicate. 3. A very common way to say it is cold outside."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-09",
+        "phrase": "Я медленно иду по улице.",
+        "fullAnalysis": "Strategic focus: Dative of path. 1. 'По улице' uses the dative to express movement along. 2. The -е ending marks the dative. 3. 'Иду' shows the speaker walking down the street."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-10",
+        "phrase": "Я иду к этой улице.",
+        "fullAnalysis": "Strategic focus: Dative goal. 1. 'Улице' is dative after the preposition к. 2. 'Этой' agrees as feminine dative. 3. The phrase marks the street as the goal of approach."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-11",
+        "phrase": "Аптека стоит на углу улицы.",
+        "fullAnalysis": "Strategic focus: Genitive possession. 1. 'Улицы' is genitive with the -ы ending. 2. It links to 'угол' as the corner of the street. 3. The genitive answers 'of what'."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-12",
+        "phrase": "Я не помню название улицы.",
+        "fullAnalysis": "Strategic focus: Genitive attribute. 1. 'Улицы' is genitive singular. 2. It specifies which name belongs to the street. 3. The genitive answers 'of what'."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-13",
+        "phrase": "Я горжусь нашей чистой улицей.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 1. 'Улицей' is instrumental, required by 'горжусь'. 2. 'Нашей' agrees as feminine instrumental. 3. Some verbs govern the instrumental directly."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-14",
+        "phrase": "Парк лежит за тихой улицей.",
+        "fullAnalysis": "Strategic focus: Instrumental location. 1. 'Улицей' is instrumental after the preposition за. 2. 'Тихой' agrees as feminine instrumental. 3. The phrase places the park beyond the street."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-15",
+        "phrase": "Здесь очень широкие улицы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Улицы' is the nominative plural form. 2. 'Широкие' agrees as plural nominative. 3. The sentence describes the wide streets here."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-16",
+        "phrase": "В городе много старых улиц.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Улиц' is the bare genitive plural. 2. 'Много' requires the genitive. 3. 'Старых' agrees as a genitive plural adjective."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-17",
+        "phrase": "Здесь проходят две улицы рядом.",
+        "fullAnalysis": "Strategic focus: Genitive after numeral. 1. 'Улицы' follows 'две' in the genitive singular. 2. Numbers two through four govern this form. 3. 'Рядом' adds the sense of nearby."
+      },
+      {
+        "id": "NN-MOTION-ULITSA-18",
+        "phrase": "Давай встретимся на главной улице.",
+        "fullAnalysis": "Strategic focus: Prepositional with adjective. 1. 'Улице' is prepositional, marking the meeting place. 2. 'Главной' agrees as feminine prepositional. 3. The verb sets a plan to meet there."
+      }
+    ]
+  }
+]

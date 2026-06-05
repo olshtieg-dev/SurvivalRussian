@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-TOLKO",
+    "label": "Только",
+    "badge": "ONLY",
+    "description": "A 10-sentence usage card for только (only, just), a restrictive focus adverb.",
+    "missions": [
+      {
+        "id": "AD-DEGREE-TOLKO-01",
+        "phrase": "Я купил только хлеб.",
+        "fullAnalysis": "Strategic focus: Restricting the object. 'Только' means only and restricts focus to the word right after it, here 'хлеб'. Placed before the object, it says bread and nothing else was bought."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-02",
+        "phrase": "Только я знаю правду.",
+        "fullAnalysis": "Strategic focus: Restricting the subject. Moving 'только' before 'я' shifts the focus to the subject, meaning only I and no one else know the truth. Placement controls what is singled out."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-03",
+        "phrase": "Он работает только по утрам.",
+        "fullAnalysis": "Strategic focus: Restricting time. 'Только' before 'по утрам' limits the focus to the mornings, meaning he works at no other time. The adverb narrows attention to the phrase it precedes."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-04",
+        "phrase": "Я только хотел помочь.",
+        "fullAnalysis": "Strategic focus: Softening with just. 'Только' before 'хотел' means just or merely, softening the verb to I only wanted to help. Here it downplays the intent rather than counting items."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-05",
+        "phrase": "Магазин открыт только до шести.",
+        "fullAnalysis": "Strategic focus: Restricting a limit. 'Только' before 'до шести' marks only until six, stressing the cutoff. The adverb focuses on the time phrase to highlight the boundary."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-06",
+        "phrase": "Он только что пришёл.",
+        "fullAnalysis": "Strategic focus: Только что for just now. The fixed phrase 'только что' means a moment ago, marking a very recent action. This temporal idiom differs from the restrictive only."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-07",
+        "phrase": "Нам нужен только один билет.",
+        "fullAnalysis": "Strategic focus: Restricting quantity. 'Только' before 'один' limits the focus to a single ticket, meaning just one and no more. The adverb tightens the count it precedes."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-08",
+        "phrase": "Она думает только о себе.",
+        "fullAnalysis": "Strategic focus: Restricting the focus of thought. 'Только' before 'о себе' means thinks only about herself. The adverb narrows attention to that phrase and carries a critical tone."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-09",
+        "phrase": "Я приду, как только освобожусь.",
+        "fullAnalysis": "Strategic focus: Как только as as soon as. The phrase 'как только' is a conjunction meaning as soon as, linking the arrival to becoming free. This connective use differs from the restrictive only."
+      },
+      {
+        "id": "AD-DEGREE-TOLKO-10",
+        "phrase": "Это только начало.",
+        "fullAnalysis": "Strategic focus: Only as merely. 'Только' before 'начало' means this is just the beginning, restricting the noun to a mere starting point. The adverb minimises what follows."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-KHOROSHO",
+    "label": "Хорошо",
+    "badge": "WELL",
+    "description": "A 10-sentence usage card for хорошо (well, good) covering manner, agreement, and feeling good.",
+    "missions": [
+      {
+        "id": "AD-MANNER-KHOROSHO-01",
+        "phrase": "Она очень хорошо готовит.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Хорошо' means 'well' and modifies the verb 'готовит', describing the quality of the cooking. 'Очень' raises the degree of skill."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-02",
+        "phrase": "Хорошо, я согласен с тобой.",
+        "fullAnalysis": "Strategic focus: Agreement word. Here 'хорошо' opens the sentence as a discourse marker meaning 'okay' or 'all right'. It signals acceptance before stating the agreement."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-03",
+        "phrase": "Мне здесь очень хорошо.",
+        "fullAnalysis": "Strategic focus: Impersonal feeling. 'Хорошо' is an impersonal predicate meaning 'I feel good', with the dative 'мне' marking the experiencer. It expresses a pleasant state, not an action."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-04",
+        "phrase": "Ты хорошо знаешь этот город.",
+        "fullAnalysis": "Strategic focus: Degree of knowledge. 'Хорошо' modifies 'знаешь', describing how thoroughly the city is known. The adverb sits before the verb for emphasis."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-05",
+        "phrase": "Сегодня я спал очень хорошо.",
+        "fullAnalysis": "Strategic focus: Quality of action. 'Хорошо' modifies the past verb 'спал', describing restful sleep. 'Очень' intensifies the manner."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-06",
+        "phrase": "Всё будет хорошо.",
+        "fullAnalysis": "Strategic focus: Predicate of state. 'Хорошо' acts as a predicate meaning 'fine' or 'good', describing how things will turn out. This is a fixed, reassuring phrase."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-07",
+        "phrase": "Он хорошо говорит по-русски.",
+        "fullAnalysis": "Strategic focus: Skill in manner. 'Хорошо' modifies 'говорит', rating the quality of the Russian. The adverb directly before the verb is the standard placement."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-08",
+        "phrase": "Подумай хорошо, прежде чем решать.",
+        "fullAnalysis": "Strategic focus: Manner with imperative. 'Хорошо' modifies the command 'подумай', urging careful, thorough thought. Here it means 'carefully' rather than literally 'well'."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-09",
+        "phrase": "Дети хорошо себя ведут.",
+        "fullAnalysis": "Strategic focus: Behaviour quality. 'Хорошо' modifies the reflexive phrase 'себя ведут', describing good behaviour. This is a fixed everyday construction about conduct."
+      },
+      {
+        "id": "AD-MANNER-KHOROSHO-10",
+        "phrase": "Я хорошо помню тот день.",
+        "fullAnalysis": "Strategic focus: Vividness of memory. 'Хорошо' modifies 'помню', meaning the memory is clear and strong. The adverb conveys degree rather than literal goodness."
+      }
+    ]
+  }
+]

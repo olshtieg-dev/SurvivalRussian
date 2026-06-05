@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-NADO",
+    "label": "Надо",
+    "badge": "MUST",
+    "description": "A 10-sentence usage card for надо (need to / must).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-NADO-01",
+        "phrase": "Мне надо идти домой.",
+        "fullAnalysis": "Strategic focus: Necessity with a dative experiencer. 'Надо' is an impersonal predicative meaning need, and the person who must act takes the dative form 'мне'. The action follows as an infinitive 'идти', giving the basic obligation pattern."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-02",
+        "phrase": "Тебе надо больше отдыхать.",
+        "fullAnalysis": "Strategic focus: Advice with надо. The dative 'тебе' names who needs to act, while 'надо' carries the impersonal obligation. The infinitive 'отдыхать' states what is needed, a gentle way of giving advice."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-03",
+        "phrase": "Нам надо было уйти раньше.",
+        "fullAnalysis": "Strategic focus: Past necessity. The neuter 'было' marks past tense for the impersonal 'надо', and 'нам' stays dative as the experiencer. The infinitive 'уйти' shows the action that was required earlier."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-04",
+        "phrase": "Что тебе надо?",
+        "fullAnalysis": "Strategic focus: Asking about a need. Here 'надо' takes a nominative object 'что' rather than an infinitive, and 'тебе' is the dative experiencer. A blunt everyday question meaning what do you need."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-05",
+        "phrase": "Ему надо купить новый телефон.",
+        "fullAnalysis": "Strategic focus: Third-person necessity. The dative 'ему' identifies who must act, 'надо' carries the obligation, and the perfective infinitive 'купить' frames a single completed purchase."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-06",
+        "phrase": "Надо работать каждый день.",
+        "fullAnalysis": "Strategic focus: General necessity without an experiencer. Here 'надо' stands alone with no dative, stating a universal truth. The infinitive 'работать' makes it a broad rule that applies to everyone."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-07",
+        "phrase": "Ей надо позвонить врачу.",
+        "fullAnalysis": "Strategic focus: Necessity with a dative complement. 'Ей' is the dative experiencer who must act, while 'врачу' is a second dative governed by the verb 'позвонить'. Two datives, two different roles."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-08",
+        "phrase": "Мне надо было много читать.",
+        "fullAnalysis": "Strategic focus: Past necessity with duration. The neuter 'было' marks past tense, 'мне' is the dative experiencer, and the imperfective infinitive 'читать' with 'много' shows extended, ongoing required activity."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-09",
+        "phrase": "Вам надо отдохнуть после работы.",
+        "fullAnalysis": "Strategic focus: Polite necessity. The dative 'вам' is the formal or plural experiencer, 'надо' carries the obligation, and the perfective infinitive 'отдохнуть' frames a single act of rest after work."
+      },
+      {
+        "id": "AD-PREDICATIVE-NADO-10",
+        "phrase": "Надо ли мне ждать тебя?",
+        "fullAnalysis": "Strategic focus: A question about necessity. The particle 'ли' turns the impersonal 'надо' into a yes-no question, with 'мне' as the dative experiencer and 'ждать' as the infinitive action being queried."
+      }
+    ]
+  }
+]

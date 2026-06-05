@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-DOLGO",
+    "label": "Долго",
+    "badge": "LONG",
+    "description": "A 10-sentence usage card for долго (for a long time; long).",
+    "missions": [
+      {
+        "id": "AD-TIME-DOLGO-01",
+        "phrase": "Мы долго гуляли по парку.",
+        "fullAnalysis": "Strategic focus: Duration of an action. 'Долго' means for a long time, measuring the length of the walk. It pairs naturally with imperfective verbs that describe an extended process."
+      },
+      {
+        "id": "AD-TIME-DOLGO-02",
+        "phrase": "Почему ты так долго?",
+        "fullAnalysis": "Strategic focus: Taking so long. In this elliptical question 'так долго' means taking such a long time, with a tone of impatience. The verb is left out but understood."
+      },
+      {
+        "id": "AD-TIME-DOLGO-03",
+        "phrase": "Не думай слишком долго.",
+        "fullAnalysis": "Strategic focus: Too long with a command. Modified by 'слишком' the adverb 'долго' means too long, urging against overthinking. With the imperative it advises a quicker decision."
+      },
+      {
+        "id": "AD-TIME-DOLGO-04",
+        "phrase": "Как долго длится этот фильм?",
+        "fullAnalysis": "Strategic focus: How long. The question 'как долго' asks about the duration of the film. It seeks a measure of length in time."
+      },
+      {
+        "id": "AD-TIME-DOLGO-05",
+        "phrase": "Я долго не мог уснуть.",
+        "fullAnalysis": "Strategic focus: For a long time with negation. Here 'долго не мог' means could not for a long time, stretching the failed attempt over an extended span. The adverb measures how long the inability lasted."
+      },
+      {
+        "id": "AD-TIME-DOLGO-06",
+        "phrase": "Письмо шло слишком долго.",
+        "fullAnalysis": "Strategic focus: Excessive duration. 'Слишком долго' marks the delivery as taking unacceptably long. The imperfective шло depicts the drawn-out journey of the letter."
+      },
+      {
+        "id": "AD-TIME-DOLGO-07",
+        "phrase": "Они жили долго и счастливо.",
+        "fullAnalysis": "Strategic focus: Long in a fairy-tale formula. The set ending 'долго и счастливо' means happily ever after, with 'долго' measuring the length of the happy life. It is the classic close of a Russian tale."
+      },
+      {
+        "id": "AD-TIME-DOLGO-08",
+        "phrase": "Ты долго будешь здесь?",
+        "fullAnalysis": "Strategic focus: Long in a future question. With будешь the adverb 'долго' asks about an expected length of stay. It inquires how long the future presence will last."
+      },
+      {
+        "id": "AD-TIME-DOLGO-09",
+        "phrase": "Мне долго объясняли правила.",
+        "fullAnalysis": "Strategic focus: Long in an impersonal frame. 'Долго' measures the drawn-out explaining in a subjectless construction where 'мне' is the dative recipient. It stresses how lengthy the process felt."
+      },
+      {
+        "id": "AD-TIME-DOLGO-10",
+        "phrase": "Лекарство долго не действовало.",
+        "fullAnalysis": "Strategic focus: For a long time with negation. The pairing 'долго не действовало' means did not work for a long time, measuring the stretch before any effect. The imperfective marks the prolonged ineffectiveness."
+      }
+    ]
+  }
+]

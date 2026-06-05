@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SHKAF",
+    "label": "Шкаф",
+    "badge": "CUPBOARD",
+    "description": "Singular case ladder for шкаф (cupboard / wardrobe), with the stressed -у́ locative в шкафу́, accusative motion, adjective agreement, and one plural form.",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-01",
+        "phrase": "В спальне стоит большой шкаф.",
+        "fullAnalysis": "Strategic focus: Adjective plus noun. 1. 'Шкаф' is the nominative subject of 'стоит'. 2. 'Большой' agrees as masculine nominative singular. 3. This is the baseline agreement pattern for the noun."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-02",
+        "phrase": "На кухне есть кухонный шкаф.",
+        "fullAnalysis": "Strategic focus: Modified noun. 1. 'Шкаф' stays nominative as subject. 2. 'Кухонный' agrees as masculine nominative singular. 3. The adjective narrows the noun to a kitchen cupboard."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-03",
+        "phrase": "Это новый шкаф для одежды.",
+        "fullAnalysis": "Strategic focus: Identification. 1. 'Это' opens a naming statement. 2. 'Шкаф' is nominative as the named object. 3. 'Новый' agrees masculine nominative singular."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-04",
+        "phrase": "Утром я открыл шкаф.",
+        "fullAnalysis": "Strategic focus: Direct object. 1. 'Открыл' is past-tense transitive. 2. 'Шкаф' is accusative; for this inanimate masculine noun it matches the nominative. 3. A high-frequency action pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-05",
+        "phrase": "Я положил свитер в шкаф.",
+        "fullAnalysis": "Strategic focus: Accusative motion. 1. 'В шкаф' with accusative marks direction into the cupboard. 2. 'Положил' is the placing verb. 3. Motion takes plain accusative шкаф, not the locative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-06",
+        "phrase": "Она поставила вазу в шкаф.",
+        "fullAnalysis": "Strategic focus: Accusative goal. 1. 'В шкаф' is accusative, expressing movement into the cupboard. 2. 'Поставила' sets an object upright. 3. Direction uses accusative, contrasting with the locative of location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-07",
+        "phrase": "Все вещи лежат в шкафу.",
+        "fullAnalysis": "Strategic focus: Stressed locative. 1. 'В шкафу́' is the special locative in stressed -у́, marking location inside. 2. 'Вещи' is the nominative subject. 3. Location uses в шкафу, never в шкафе."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-08",
+        "phrase": "Тёплый шарф лежит в шкафу.",
+        "fullAnalysis": "Strategic focus: Location verb. 1. 'Лежит' states a static position. 2. 'В шкафу́' uses the stressed -у́ locative for being inside. 3. This contrasts with motion's accusative в шкаф."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-09",
+        "phrase": "Красивая ваза стоит на шкафу.",
+        "fullAnalysis": "Strategic focus: On-top location. 1. 'На шкафу́' uses the stressed -у́ locative for resting on top. 2. 'Ваза' is the nominative subject. 3. The -у́ locative also follows на here, not -е."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-10",
+        "phrase": "Дверца шкафа громко скрипит.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 1. 'Шкафа' is genitive, marking possession. 2. 'Дверца' is the possessed item, the little door. 3. Genitive links the part to its whole."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-11",
+        "phrase": "Я достал пальто из шкафа.",
+        "fullAnalysis": "Strategic focus: Genitive source. 1. 'Из шкафа' uses genitive after из to mark origin. 2. 'Достал' means took out. 3. Removal from inside takes genitive, mirroring entry's accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-12",
+        "phrase": "Он медленно подошёл к шкафу.",
+        "fullAnalysis": "Strategic focus: Dative goal. 1. 'К шкафу' is dative after к, marking approach toward. 2. 'Подошёл' means walked up. 3. Note plain dative -у here, distinct from the stressed locative в шкафу́."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-13",
+        "phrase": "Сейчас я иду к шкафу.",
+        "fullAnalysis": "Strategic focus: Dative direction. 1. 'Иду' is first-person present motion. 2. 'К шкафу' is dative, naming the cupboard as destination. 3. Dative -у marks movement toward an object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-14",
+        "phrase": "Кот спрятался за шкафом.",
+        "fullAnalysis": "Strategic focus: Instrumental location. 1. 'За шкафом' is instrumental after за, marking the space behind. 2. 'Спрятался' states the resulting position. 3. Instrumental -ом expresses static placement behind the object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-15",
+        "phrase": "Над шкафом висит полка.",
+        "fullAnalysis": "Strategic focus: Instrumental above. 1. 'Над шкафом' is instrumental after над, marking the space above. 2. 'Полка' is the nominative subject. 3. Instrumental -ом fits position over the cupboard."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-16",
+        "phrase": "Я давно думаю о шкафе.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 1. 'О шкафе' is the prepositional case after о, naming the topic of thought. 2. 'Думаю' means I think. 3. With о the ending is plain -е, unlike the locative в шкафу́."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHKAF-17",
+        "phrase": "Новые шкафы стоят здесь.",
+        "fullAnalysis": "Strategic focus: Plural nominative. 1. 'Шкафы́' is the nominative plural with stressed ending. 2. 'Новые' agrees as plural. 3. 'Здесь' anchors the scene; plural broadens the noun to several cupboards."
+      }
+    ]
+  }
+]

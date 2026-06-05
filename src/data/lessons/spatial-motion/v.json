@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "SM-V-01",
-        "phrase": "я в доме",
-        "fullAnalysis": "Strategic focus: Static location. 1. 'В доме' means inside the house. 2. The preposition shows a fixed location, not movement. 3. This is the simplest contrast to 'я иду в дом'."
+        "phrase": "Сейчас я сижу в доме.",
+        "fullAnalysis": "Strategic focus: Static location. 'В доме' uses the prepositional case to mark where I am right now. There is no movement here, only a fixed position inside the house."
       },
       {
         "id": "SM-V-02",
-        "phrase": "я иду в дом",
-        "fullAnalysis": "Strategic focus: Motion into a place. 1. 'Иду' is motion on foot. 2. 'В дом' uses the accusative idea of direction. 3. The sentence contrasts movement with the static form 'в доме'."
+        "phrase": "Я быстро иду в дом.",
+        "fullAnalysis": "Strategic focus: Motion into a place. 'Иду' is motion on foot, and 'в дом' takes the accusative to mark direction. This contrasts directly with the static 'в доме'."
       },
       {
         "id": "SM-V-03",
-        "phrase": "книга в комнате",
-        "fullAnalysis": "Strategic focus: Object location. 1. 'В комнате' places the book inside a room. 2. The noun stays concrete and easy to picture. 3. This is a basic but high-value spatial pattern."
+        "phrase": "Книга лежит в комнате.",
+        "fullAnalysis": "Strategic focus: Object location. 'В комнате' uses the prepositional case to place the book inside a room. The verb 'лежит' confirms a fixed position, not motion."
       },
       {
         "id": "SM-V-04",
-        "phrase": "я кладу книгу в сумку",
-        "fullAnalysis": "Strategic focus: Putting something into something. 1. 'Кладу' is a practical action verb. 2. 'В сумку' shows destination into an object. 3. The sentence is useful because it combines action and placement."
+        "phrase": "Я кладу книгу в сумку.",
+        "fullAnalysis": "Strategic focus: Putting something into something. 'В сумку' takes the accusative to show destination into an object. The action verb 'кладу' drives the movement of placement."
       },
       {
         "id": "SM-V-05",
-        "phrase": "я живу в городе",
-        "fullAnalysis": "Strategic focus: Settled location. 1. 'Живу' is a first-person location verb. 2. 'В городе' marks a place of residence. 3. This sentence builds a common everyday identity statement."
+        "phrase": "Я давно живу в городе.",
+        "fullAnalysis": "Strategic focus: Settled location. 'В городе' uses the prepositional case to mark a place of residence. There is no motion, just a stable everyday location."
       },
       {
         "id": "SM-V-06",
-        "phrase": "мы в школе",
-        "fullAnalysis": "Strategic focus: Static plural location. 1. 'В школе' gives a clear location. 2. 'Мы' keeps the subject simple. 3. This is a natural short sentence for habitual place reference."
+        "phrase": "Сейчас мы в школе.",
+        "fullAnalysis": "Strategic focus: Static plural location. 'В школе' uses the prepositional case to state where we currently are. The subject 'мы' stays simple with no movement involved."
       },
       {
         "id": "SM-V-07",
-        "phrase": "мы идём в школу",
-        "fullAnalysis": "Strategic focus: Motion toward a place. 1. 'Идем' shows plural movement. 2. 'В школу' uses direction toward school. 3. This sentence teaches the location-motion split very cleanly."
+        "phrase": "Утром мы идём в школу.",
+        "fullAnalysis": "Strategic focus: Motion toward a place. 'Идём' shows plural movement, and 'в школу' takes the accusative for direction toward school. This cleanly contrasts with 'в школе'."
       },
       {
         "id": "SM-V-08",
-        "phrase": "он в магазине",
-        "fullAnalysis": "Strategic focus: Current position. 1. 'В магазине' marks where he is right now. 2. The sentence is compact and common. 3. This is the everyday form of location without movement."
+        "phrase": "Сейчас он в магазине.",
+        "fullAnalysis": "Strategic focus: Current position. 'В магазине' uses the prepositional case to mark where he is right now. This is everyday static location without any movement."
       },
       {
         "id": "SM-V-09",
-        "phrase": "он идёт в магазин",
-        "fullAnalysis": "Strategic focus: Movement into a place. 1. 'Идет' is motion on foot. 2. 'В магазин' gives the destination. 3. The pair 'в магазине' versus 'в магазин' is a core Russian contrast."
+        "phrase": "Он сейчас идёт в магазин.",
+        "fullAnalysis": "Strategic focus: Movement into a place. 'Идёт' is motion on foot, and 'в магазин' takes the accusative for destination. The pair 'в магазине' versus 'в магазин' is a core contrast."
       },
       {
         "id": "SM-V-10",
-        "phrase": "она в саду",
-        "fullAnalysis": "Strategic focus: Static location with a special noun form. 1. 'В саду' is the locative-style form many learners need to hear often. 2. 'Она' keeps the sentence personal. 3. The sentence is short and highly reusable."
+        "phrase": "Сейчас она в саду.",
+        "fullAnalysis": "Strategic focus: Static location with a special form. 'В саду' is the locative form in the prepositional case, marking where she is. There is no motion, just position."
       },
       {
         "id": "SM-V-11",
-        "phrase": "она идёт в сад",
-        "fullAnalysis": "Strategic focus: Motion into the garden. 1. 'Идет' shows movement. 2. 'В сад' marks destination. 3. This sentence trains the difference between 'в саду' and 'в сад'."
+        "phrase": "Она медленно идёт в сад.",
+        "fullAnalysis": "Strategic focus: Motion into the garden. 'Идёт' shows movement, and 'в сад' takes the accusative to mark the destination. This trains the difference from static 'в саду'."
       },
       {
         "id": "SM-V-12",
-        "phrase": "вода в стакане",
-        "fullAnalysis": "Strategic focus: Container location. 1. 'В стакане' puts the water inside a container. 2. The sentence is visual and practical. 3. It’s a good example of static placement with a small everyday object."
+        "phrase": "Холодная вода в стакане.",
+        "fullAnalysis": "Strategic focus: Container location. 'В стакане' uses the prepositional case to place the water inside the glass. The phrase is static, showing position in a small container."
       },
       {
         "id": "SM-V-13",
-        "phrase": "я наливаю воду в стакан",
-        "fullAnalysis": "Strategic focus: Motion into a container. 1. 'Наливаю' is a direct action verb. 2. 'В стакан' gives the destination of the liquid. 3. This is one of the best practical examples of the preposition."
+        "phrase": "Я наливаю воду в стакан.",
+        "fullAnalysis": "Strategic focus: Motion into a container. 'Наливаю' is a direct action verb, and 'в стакан' takes the accusative to mark the destination of the liquid."
       },
       {
         "id": "SM-V-14",
-        "phrase": "они живут в центре",
-        "fullAnalysis": "Strategic focus: Residence in a place. 1. 'Живут' is plural and present. 2. 'В центре' is a common location phrase. 3. The sentence is useful for describing where someone is based."
+        "phrase": "Они уже живут в центре.",
+        "fullAnalysis": "Strategic focus: Residence in a place. 'Живут' is plural and present, and 'в центре' uses the prepositional case for a static location. It describes where people are based."
       },
       {
         "id": "SM-V-15",
-        "phrase": "они идут в центр",
-        "fullAnalysis": "Strategic focus: Direction toward a place. 1. 'Идут' shows plural motion. 2. 'В центр' marks the destination. 3. This sentence reinforces the movement version of the same location idea."
+        "phrase": "Сейчас они идут в центр.",
+        "fullAnalysis": "Strategic focus: Direction toward a place. 'Идут' shows plural motion, and 'в центр' takes the accusative to mark the destination. This is the movement version of 'в центре'."
       },
       {
         "id": "SM-V-16",
-        "phrase": "он смотрит в окно",
-        "fullAnalysis": "Strategic focus: Direction of gaze. 1. 'Смотрит' is a very high-frequency verb. 2. 'В окно' shows where the gaze is directed. 3. This sentence is excellent for teaching that 'в' can mark direction, not just place."
+        "phrase": "Он тихо смотрит в окно.",
+        "fullAnalysis": "Strategic focus: Direction of gaze. 'Смотрит' directs attention, and 'в окно' takes the accusative to mark direction. This shows that 'в' can express direction, not just place."
       },
       {
         "id": "SM-V-17",
-        "phrase": "она смотрит в телефон",
-        "fullAnalysis": "Strategic focus: Looking into a device. 1. 'Смотрит' stays third-person singular. 2. 'В телефон' is a modern everyday phrase. 3. The line feels natural and current."
+        "phrase": "Она постоянно смотрит в телефон.",
+        "fullAnalysis": "Strategic focus: Looking into a device. 'Смотрит' directs the gaze, and 'в телефон' takes the accusative to mark direction. This is a modern, current everyday phrase."
       },
       {
         "id": "SM-V-18",
-        "phrase": "мы говорим в классе",
-        "fullAnalysis": "Strategic focus: Speaking in a place. 1. 'В классе' is a simple static location. 2. 'Говорим' is first-person plural. 3. The sentence is practical for classroom context."
+        "phrase": "Мы тихо говорим в классе.",
+        "fullAnalysis": "Strategic focus: Speaking in a place. 'В классе' uses the prepositional case for a static location where the talking happens. The verb 'говорим' is first-person plural."
       },
       {
         "id": "SM-V-19",
-        "phrase": "мы идём в класс",
-        "fullAnalysis": "Strategic focus: Motion into the classroom. 1. 'Идем' is plural motion. 2. 'В класс' marks direction. 3. This is the clean contrast to 'в классе'."
+        "phrase": "Сейчас мы идём в класс.",
+        "fullAnalysis": "Strategic focus: Motion into the classroom. 'Идём' is plural motion, and 'в класс' takes the accusative to mark direction. This is the clean contrast to static 'в классе'."
       },
       {
         "id": "SM-V-20",
-        "phrase": "я хочу вернуться в дом",
-        "fullAnalysis": "Strategic focus: Return into a place. 1. 'Вернуться' is a reflexive motion verb. 2. 'В дом' keeps the destination idea direct. 3. This is a useful sentence for layering motion with intention."
+        "phrase": "Я хочу вернуться в дом.",
+        "fullAnalysis": "Strategic focus: Return into a place. 'Вернуться' is a reflexive motion verb, and 'в дом' takes the accusative to mark the destination of the return."
       }
     ]
   }

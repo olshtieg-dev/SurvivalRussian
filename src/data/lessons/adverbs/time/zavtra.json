@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-ZAVTRA",
+    "label": "Завтра",
+    "badge": "TMRW",
+    "description": "A 10-sentence usage card for завтра (tomorrow).",
+    "missions": [
+      {
+        "id": "AD-TIME-ZAVTRA-01",
+        "phrase": "Завтра у нас важный экзамен.",
+        "fullAnalysis": "Strategic focus: Tomorrow as a frame. Fronted 'завтра' places the whole sentence in the next day. Even with a nominal predicate it sets a clear future reference."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-02",
+        "phrase": "Я позвоню тебе завтра утром.",
+        "fullAnalysis": "Strategic focus: Tomorrow with a time of day. The phrase 'завтра утром' means tomorrow morning, narrowing the future point. The perfective future verb agrees with this planned moment."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-03",
+        "phrase": "Что ты будешь делать завтра?",
+        "fullAnalysis": "Strategic focus: Tomorrow in a question. 'Завтра' asks about plans for the next day, paired with the future будешь делать. It is a natural way to ask about someone's schedule."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-04",
+        "phrase": "Давай встретимся завтра в кафе.",
+        "fullAnalysis": "Strategic focus: Arranging for tomorrow. With a perfective future 'завтра' fixes the meeting in the next day. The adverb is essential to scheduling a get-together."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-05",
+        "phrase": "Завтра будет солнечно и тепло.",
+        "fullAnalysis": "Strategic focus: Tomorrow's forecast. Fronted 'завтра' frames a weather prediction in the future. The verb будет carries the future tense the adverb anchors."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-06",
+        "phrase": "Не откладывай это на завтра.",
+        "fullAnalysis": "Strategic focus: Off until tomorrow. In 'на завтра' the adverb acts like a noun object of 'на', meaning until tomorrow. The phrase warns against postponing a task."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-07",
+        "phrase": "Завтра я уезжаю в Петербург.",
+        "fullAnalysis": "Strategic focus: Present tense for a fixed plan. Here 'завтра' makes the present-tense verb refer to a scheduled future trip. Russian often uses the present for firmly planned events."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-08",
+        "phrase": "Магазин завтра не работает.",
+        "fullAnalysis": "Strategic focus: Tomorrow with negation. 'Завтра' places the closure in the next day, and 'не работает' states it will be shut. The present tense again signals a settled fact about tomorrow."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-09",
+        "phrase": "До завтра!",
+        "fullAnalysis": "Strategic focus: Farewell formula. In the parting phrase 'до завтра' the adverb follows the preposition 'до', meaning see you tomorrow. It is a fixed everyday goodbye."
+      },
+      {
+        "id": "AD-TIME-ZAVTRA-10",
+        "phrase": "Завтра всё будет хорошо.",
+        "fullAnalysis": "Strategic focus: Reassurance about the future. Fronted 'завтра' projects optimism onto the next day with a future verb. It is a comforting, hopeful turn of phrase."
+      }
+    ]
+  }
+]

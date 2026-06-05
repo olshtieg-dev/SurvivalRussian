@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-LAMPA",
+    "label": "Лампа",
+    "badge": "LAMP",
+    "description": "The feminine noun лампа across its full case ladder, with household collocations, plurals, adjective agreement, and prepositional scene lines.",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-01",
+        "phrase": "Это моя любимая настольная лампа.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Лампа' is the subject in its dictionary form. 2. 'Моя любимая настольная' all agree as feminine nominative singular. 3. A bare equational sentence anchors the base form."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-02",
+        "phrase": "На столе горит маленькая лампа.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Лампа' is the nominative subject performing the action. 2. 'Горит' is a third-person verb agreeing with it. 3. The subject follows the verb in a neutral scene line."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-03",
+        "phrase": "Вечером я включил настольную лампу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Лампу' is the direct object in the accusative. 2. 'Включил' is a high-value daily verb. 3. The -у ending marks feminine accusative singular."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-04",
+        "phrase": "Перед сном я выключил лампу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Лампу' is the accusative direct object. 2. 'Выключил' pairs naturally with включил as its opposite. 3. The -у ending marks feminine accusative singular."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-05",
+        "phrase": "В углу комнаты я вижу лампу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Лампу' is the object of perception in the accusative. 2. 'Вижу' is a first-person verb. 3. A clear subject-verb-object frame in the accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-06",
+        "phrase": "Мягкий свет лампы освещает комнату.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Лампы' is genitive, marking the source of the light. 2. 'Свет' is the head noun being modified. 3. The -ы ending signals 'of the lamp'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-07",
+        "phrase": "На моём столе нет лампы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Лампы' takes the genitive after 'нет'. 2. Negated existence forces this case. 3. The -ы ending is the genitive singular marker."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-08",
+        "phrase": "Тёплый свет от лампы приятен.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 1. 'Лампы' is genitive governed by 'от'. 2. The phrase names where the light comes from. 3. 'От' always demands the genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-09",
+        "phrase": "В темноте я иду к лампе.",
+        "fullAnalysis": "Strategic focus: Dative direction. 1. 'Лампе' is dative, the goal of motion after 'к'. 2. 'Иду' is a first-person verb of movement. 3. The -е ending marks the dative singular."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-10",
+        "phrase": "Я очень рад новой лампе.",
+        "fullAnalysis": "Strategic focus: Dative complement. 1. 'Лампе' is dative after the predicate 'рад'. 2. 'Новой' agrees as feminine dative singular. 3. Shows adjective-noun dative agreement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-11",
+        "phrase": "Я освещаю рабочий стол лампой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 1. 'Лампой' is the instrumental, the means of lighting. 2. The -ой ending marks the instrumental singular. 3. The lamp acts as a real tool in the action."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-12",
+        "phrase": "Под лампой тепло и уютно.",
+        "fullAnalysis": "Strategic focus: Instrumental location. 1. 'Лампой' is instrumental after 'под'. 2. 'Под' with the instrumental gives a static 'under' position. 3. A small spatial scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-13",
+        "phrase": "Толстая книга лежит на лампе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 1. 'Лампе' is prepositional after 'на'. 2. The -е ending marks the prepositional singular. 3. 'На' here gives surface placement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-14",
+        "phrase": "Я часто думаю о новой лампе.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 1. 'Лампе' is prepositional governed by 'о'. 2. 'О' marks the subject of thought. 3. The -е ending recurs as the prepositional form."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-15",
+        "phrase": "В спальне ярко горит лампа.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Лампа' is the nominative subject. 2. 'Ярко' is an adverb of manner. 3. 'Горит' agrees with the singular subject in a scene line."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-16",
+        "phrase": "На столе стоит настольная лампа.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Лампа' stays in the nominative. 2. 'Настольная' agrees as feminine nominative singular. 3. A common fixed term for a desk lamp."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-17",
+        "phrase": "Все лампы в зале горят ярко.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Лампы' is the nominative plural subject. 2. 'Горят' agrees as a plural verb. 3. 'Ярко' is an adverb describing the manner."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LAMPA-18",
+        "phrase": "На чердаке много старых ламп.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Ламп' is the genitive plural after a quantity word. 2. 'Много' governs the genitive. 3. 'Старых' agrees as genitive plural."
+      }
+    ]
+  }
+]

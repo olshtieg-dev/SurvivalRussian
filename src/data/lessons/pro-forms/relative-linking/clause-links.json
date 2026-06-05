@@ -7,28 +7,244 @@
     "missions": [
       {
         "id": "PF-R-01",
-        "phrase": "дом, который я купил",
-        "fullAnalysis": "Strategic focus: Relative clause. 1. 'Который' links the noun to its description. 2. 'Я купил' gives the clause a concrete action. 3. This is the classic Russian relative-attachment pattern."
+        "phrase": "Это дом, который я купил недавно.",
+        "fullAnalysis": "Strategic focus: Relative clause. 'Который' links the head noun 'дом' to its description and stands in the accusative as the object of 'купил'. This is the classic Russian relative-attachment pattern after a comma."
       },
       {
         "id": "PF-R-02",
-        "phrase": "книга, которую читаешь ты",
-        "fullAnalysis": "Strategic focus: Relative object form. 1. 'Которую' shows that the relative pronoun changes with case. 2. 'Читаешь ты' keeps the structure compact. 3. This is a very important noun-modification pattern."
+        "phrase": "Книга, которую ты читаешь, моя.",
+        "fullAnalysis": "Strategic focus: Relative object form. 'Которую' is the accusative feminine form, showing that the relative pronoun changes case with its role inside the clause. Here it is the object of 'читаешь'."
       },
       {
         "id": "PF-R-03",
-        "phrase": "человек, который пришёл",
-        "fullAnalysis": "Strategic focus: Relative subject form. 1. 'Который' agrees with the noun it modifies. 2. 'Пришел' gives the relative clause a clean action. 3. This is a common sentence shape in spoken and written Russian."
+        "phrase": "Человек, который пришёл, мой друг.",
+        "fullAnalysis": "Strategic focus: Relative subject form. 'Который' is nominative as the subject of 'пришёл' and inherits its masculine gender from 'человек'. This is a common sentence shape in spoken and written Russian."
       },
       {
         "id": "PF-R-04",
-        "phrase": "я знаю, что ты прав",
-        "fullAnalysis": "Strategic focus: Reported content. 1. 'Что' introduces the content of knowing. 2. 'Ты прав' completes the statement. 3. This is a key clause-linking use of 'что'."
+        "phrase": "Я точно знаю, что ты прав.",
+        "fullAnalysis": "Strategic focus: Reported content. 'Что' is a subordinating conjunction introducing the content of knowing, not a relative pronoun. 'Ты прав' completes the statement as the embedded clause."
       },
       {
         "id": "PF-R-05",
-        "phrase": "я хочу, чтобы ты пришёл",
-        "fullAnalysis": "Strategic focus: Purpose and desire. 1. 'Чтобы' introduces the desired result. 2. 'Ты пришел' gives the subordinate clause. 3. This is one of the most important Russian linking constructions."
+        "phrase": "Я хочу, чтобы ты пришёл пораньше.",
+        "fullAnalysis": "Strategic focus: Purpose and desire. 'Чтобы' introduces the desired result and requires the past-tense 'пришёл' in its clause. This is one of the most important Russian linking constructions for wishes and goals."
+      }
+    ]
+  },
+  {
+    "id": "PF-R-KOTORYI",
+    "label": "Который",
+    "badge": "WHICH-M",
+    "description": "The masculine relative pronoun который across cases — its case reflects its role inside the relative clause.",
+    "missions": [
+      {
+        "phrase": "Это дом, который стоит рядом.",
+        "fullAnalysis": "Strategic focus: Relative clause, nominative. 'Который' is the subject of 'стоит' and so takes the nominative. Its masculine gender comes from the head noun 'дом', the basic subject-of-clause pattern."
+      },
+      {
+        "phrase": "Это человек, которого я хорошо знаю.",
+        "fullAnalysis": "Strategic focus: Relative clause, accusative animate. 'Которого' is the direct object of 'знаю', so its case comes from that role. The masculine gender is inherited from 'человек', and animate accusative equals genitive in form."
+      },
+      {
+        "phrase": "Это студент, которого здесь нет.",
+        "fullAnalysis": "Strategic focus: Relative clause, genitive. 'Которого' is genitive because 'нет' requires it. The case reflects the clause role while the masculine gender comes from 'студент', the нет plus genitive absence pattern."
+      },
+      {
+        "phrase": "Это друг, которому я каждый день звоню.",
+        "fullAnalysis": "Strategic focus: Relative clause, dative. 'Которому' is the indirect object of 'звоню', so it takes the dative. Case is set by the clause role while gender comes from 'друг', and звонить governs the dative."
+      },
+      {
+        "phrase": "Это стол, за которым я сижу.",
+        "fullAnalysis": "Strategic focus: Relative clause, instrumental. 'За которым' is instrumental after the preposition 'за'. The case comes from the role inside the clause while the masculine gender comes from 'стол', the за plus instrumental location pattern."
+      },
+      {
+        "phrase": "Это коллега, с которым я часто говорю.",
+        "fullAnalysis": "Strategic focus: Relative clause, instrumental. 'С которым' is instrumental, governed by 'с'. Its case reflects the role in the clause while gender comes from the head noun 'коллега', the с plus instrumental accompaniment pattern."
+      },
+      {
+        "phrase": "Это дом, в котором я живу.",
+        "fullAnalysis": "Strategic focus: Relative clause, prepositional. 'В котором' is prepositional after 'в'. The case comes from the role in the clause while gender is inherited from 'дом', the в plus prepositional location pattern."
+      },
+      {
+        "phrase": "Это город, о котором мы давно мечтаем.",
+        "fullAnalysis": "Strategic focus: Relative clause, prepositional. 'О котором' is prepositional, required by 'о'. The case reflects the role in the clause while the masculine gender comes from 'город', and мечтать о governs the prepositional case."
+      }
+    ]
+  },
+  {
+    "id": "PF-R-KOTORAYA",
+    "label": "Которая",
+    "badge": "WHICH-F",
+    "description": "The feminine relative pronoun которая across cases — case from clause role, gender from the head noun.",
+    "missions": [
+      {
+        "id": "PF-R-KOTORAYA-01",
+        "phrase": "Это книга, которая лежит здесь.",
+        "fullAnalysis": "Strategic focus: Relative subject form. 'Которая' is nominative as the subject of 'лежит'. The case comes from the clause role while the gender is feminine from the head noun 'книга', the base relative pattern.",
+        "literal": "the book, which lies here"
+      },
+      {
+        "id": "PF-R-KOTORAYA-02",
+        "phrase": "Это женщина, которую я уже видел.",
+        "fullAnalysis": "Strategic focus: Relative object form. 'Которую' is accusative as the object of 'видел'. The case follows the clause role while the gender stays feminine from 'женщина', a core modification pattern.",
+        "literal": "the woman, whom I saw"
+      },
+      {
+        "id": "PF-R-KOTORAYA-03",
+        "phrase": "Это дверь, у которой я стою.",
+        "fullAnalysis": "Strategic focus: Relative genitive form. 'У которой' is genitive after the preposition 'у'. The case comes from the clause role while the gender is from the head noun 'дверь', so the preposition drives the case.",
+        "literal": "the door, by which I stand"
+      },
+      {
+        "id": "PF-R-KOTORAYA-04",
+        "phrase": "Это подруга, которой я часто звоню.",
+        "fullAnalysis": "Strategic focus: Relative dative form. 'Которой' is dative as the recipient of 'звоню'. The case is set by the clause role while the gender is held by 'подруга', a common verb-government case.",
+        "literal": "the friend, whom I call"
+      },
+      {
+        "id": "PF-R-KOTORAYA-05",
+        "phrase": "Это ручка, которой я пишу.",
+        "fullAnalysis": "Strategic focus: Relative instrumental form. 'Которой' is instrumental as the tool of 'пишу'. The case comes from the clause role while the gender is from 'ручка', the means-of-action pattern.",
+        "literal": "the pen, with which I write"
+      },
+      {
+        "id": "PF-R-KOTORAYA-06",
+        "phrase": "Это комната, в которой я живу.",
+        "fullAnalysis": "Strategic focus: Relative prepositional form. 'В которой' is prepositional after 'в'. The case comes from the clause role while the gender is from the head noun 'комната', a location-clause pattern.",
+        "literal": "the room, in which I live"
+      },
+      {
+        "id": "PF-R-KOTORAYA-07",
+        "phrase": "Это песня, которая сейчас звучит.",
+        "fullAnalysis": "Strategic focus: Relative subject form. 'Которая' is nominative as the subject of 'звучит'. The case follows the clause role while the gender stays feminine from 'песня', reinforcing the base case.",
+        "literal": "the song, which sounds"
+      },
+      {
+        "id": "PF-R-KOTORAYA-08",
+        "phrase": "Это тётя, о которой я говорю.",
+        "fullAnalysis": "Strategic focus: Relative prepositional form. 'О которой' is prepositional after 'о'. The case is set by the clause role while the gender is from 'тётя', the topic-of-speech pattern.",
+        "literal": "the aunt, about whom I speak"
+      }
+    ]
+  },
+  {
+    "id": "PF-R-KOTOROE",
+    "label": "Которое / Которые",
+    "badge": "WHICH-N/PL",
+    "description": "The neuter которое and plural которые relative pronouns across cases.",
+    "missions": [
+      {
+        "phrase": "Это окно, которое всегда открыто.",
+        "fullAnalysis": "Strategic focus: Neuter subject form. 'Которое' is nominative as the subject of its clause, and its neuter ending matches 'окно'. The case marks the clause role while the gender follows the head noun."
+      },
+      {
+        "phrase": "Это слово, которое я забыл.",
+        "fullAnalysis": "Strategic focus: Neuter object form. 'Которое' is accusative as the direct object of 'забыл', and the neuter singular agrees with 'слово'. The case shows the clause role while the gender follows the head noun."
+      },
+      {
+        "phrase": "Это место, которое мне нравится.",
+        "fullAnalysis": "Strategic focus: Neuter subject form. 'Которое' is the nominative subject of 'нравится', and the neuter ending matches 'место'. This is a common relative clause shape."
+      },
+      {
+        "phrase": "Это люди, которые недавно пришли.",
+        "fullAnalysis": "Strategic focus: Plural subject form. 'Которые' is nominative as the subject of 'пришли', and the plural ending matches 'люди'. The case marks the clause role while the number follows the head noun."
+      },
+      {
+        "phrase": "Это вещи, которые мне очень нужны.",
+        "fullAnalysis": "Strategic focus: Plural subject form. 'Которые' is the nominative subject linked to 'нужны', and the plural agrees with 'вещи'. A clean, common sentence shape."
+      },
+      {
+        "phrase": "Это книги, которые я уже читал.",
+        "fullAnalysis": "Strategic focus: Plural object form. 'Которые' is accusative as the direct object of 'читал', and the plural form matches 'книги'. The case shows the clause role while the number follows the head noun."
+      },
+      {
+        "phrase": "Это друзья, с которыми я гуляю.",
+        "fullAnalysis": "Strategic focus: Plural instrumental form. 'С которыми' is instrumental after 'с', and the plural ending matches 'друзья'. The case marks the clause role while the number follows the head noun."
+      },
+      {
+        "phrase": "Это дело, которому я очень рад.",
+        "fullAnalysis": "Strategic focus: Neuter dative form. 'Которому' is dative, governed by the predicate 'рад', and the neuter ending matches 'дело'. The case shows the clause role while the gender follows the head noun."
+      }
+    ]
+  },
+  {
+    "id": "PF-R-GDE",
+    "label": "Где (relative)",
+    "badge": "WHERE",
+    "description": "The relative adverb где ('the place where') joining a location noun to a clause — not the question где?.",
+    "missions": [
+      {
+        "phrase": "Это город, где я давно живу.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Город' is the place noun, and 'где я живу' attaches a clause rather than asking a question. This is relative где, 'where I live', not the interrogative где."
+      },
+      {
+        "phrase": "Это дом, где мы раньше были.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Дом' is the head noun, and 'где мы были' describes it. Here где links a place to a clause and is not the question где."
+      },
+      {
+        "phrase": "Это место, где всегда тихо.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Место' names the location, and 'где тихо' is a short relative clause. The comma plus где attaches the description to the noun."
+      },
+      {
+        "phrase": "Я буду там, где ты.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Там' is the place anchor and 'где ты' completes it. Relative где joins location to clause, distinct from the interrogative где."
+      },
+      {
+        "phrase": "Это страна, где всегда тепло.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Страна' is the head noun, and 'где тепло' attaches a state. This is the classic relative-attachment pattern after a comma."
+      },
+      {
+        "phrase": "Это комната, где спит ребёнок.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Комната' is the place noun, and 'где спит ребёнок' describes it. This is relative где, 'where the child sleeps', not the question где."
+      },
+      {
+        "phrase": "Это улица, где мы встретились.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Улица' is the head noun, and 'где мы встретились' gives a concrete action. Где links the place to its clause, not a question."
+      },
+      {
+        "phrase": "Это парк, где играют дети.",
+        "fullAnalysis": "Strategic focus: Relative где. 'Парк' names the location, and 'где играют дети' attaches a scene. The comma plus relative где completes the attachment."
+      }
+    ]
+  },
+  {
+    "id": "PF-R-KTO",
+    "label": "Кто (relative)",
+    "badge": "THE ONE WHO",
+    "description": "The relative/correlative кто in тот кто / все кто / кто…тот — 'the one who', not the question кто?.",
+    "missions": [
+      {
+        "phrase": "Тот, кто знает, обычно молчит.",
+        "fullAnalysis": "Strategic focus: Correlative pair тот…кто. 'Тот' is the antecedent, 'the one', and 'кто знает' defines him as relative, not the question кто. Commas wrap the inner clause."
+      },
+      {
+        "phrase": "Все, кто здесь, мои друзья.",
+        "fullAnalysis": "Strategic focus: Plural correlate все…кто. 'Все' is the antecedent, 'all', and 'кто здесь' restricts it. This is relative кто, 'who', not interrogative кто, and the comma marks the clause boundary."
+      },
+      {
+        "phrase": "Кто хочет, пусть идёт домой.",
+        "fullAnalysis": "Strategic focus: Correlative without тот. 'Кто хочет' means 'whoever wants', a relative subject, and 'пусть идёт' is the main clause. This кто states a condition, not the question кто."
+      },
+      {
+        "phrase": "Кто ищет, тот всегда найдёт.",
+        "fullAnalysis": "Strategic focus: Кто…тот reversal. 'Кто ищет' opens with 'whoever seeks', and 'тот' resumes the subject in the main clause. This is relative кто, not the question кто."
+      },
+      {
+        "phrase": "Тот, кто молчит, обычно согласен.",
+        "fullAnalysis": "Strategic focus: Embedded relative clause. 'Тот' is the head, 'the one', and 'кто молчит' describes him as relative кто, 'who'. Two commas wrap the inner clause."
+      },
+      {
+        "phrase": "Все, кто пришёл, очень устали.",
+        "fullAnalysis": "Strategic focus: Plural agreement with все. 'Все' takes the plural verb 'устали', and 'кто пришёл' is the relative clause, 'who came'. This кто refers back and is not the question кто."
+      },
+      {
+        "phrase": "Кто не работает, тот не ест.",
+        "fullAnalysis": "Strategic focus: Кто…тот maxim. 'Кто не работает' means 'whoever does not work', and 'тот не ест' is the consequence. This is correlative кто, a general subject, not interrogative кто."
+      },
+      {
+        "phrase": "Тот, кто терпеливо ждёт, дождётся.",
+        "fullAnalysis": "Strategic focus: Antecedent plus relative. 'Тот' names the subject, 'the one', and 'кто ждёт' qualifies it as relative кто, 'who'. Commas separate the inner clause from the main one."
       }
     ]
   }

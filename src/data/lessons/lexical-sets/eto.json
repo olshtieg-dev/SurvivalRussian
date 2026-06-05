@@ -7,53 +7,53 @@
     "missions": [
       {
         "id": "LX-ETO-01",
-        "phrase": "это мой дом",
-        "fullAnalysis": "Strategic focus: Demonstrative identification. 1. 'Это' points to a specific thing without overcomplicating the sentence. 2. 'Мой' marks possession and helps anchor the noun. 3. 'Дом' keeps the sentence concrete and useful for real-world speech."
+        "phrase": "Смотри, это мой новый дом.",
+        "fullAnalysis": "Strategic focus: Demonstrative identification. 'Это' points to a specific thing and works here as the unchanging identifier in a naming sentence. The possessive 'мой' and the noun 'дом' anchor it in concrete, everyday speech."
       },
       {
         "id": "LX-ETO-02",
-        "phrase": "это не моя книга",
-        "fullAnalysis": "Strategic focus: Basic negation. 1. 'Это' introduces the statement. 2. 'Не моя' shows the standard negative possession pattern. 3. 'Книга' gives the sentence an everyday object target."
+        "phrase": "Извини, но это не моя книга.",
+        "fullAnalysis": "Strategic focus: Basic negation. 'Это' introduces the statement, and 'не моя' shows the standard negative-possession pattern agreeing with the feminine noun 'книга'. The opener 'извини, но' makes the correction sound polite and natural."
       },
       {
         "id": "LX-ETO-03",
-        "phrase": "это очень важно",
-        "fullAnalysis": "Strategic focus: Emphasis and evaluation. 1. 'Это' frames the thing being judged. 2. 'Очень' is a useful intensifier. 3. 'Важно' gives a high-frequency reaction phrase you can actually say in conversation."
+        "phrase": "Поверь мне, это очень важно.",
+        "fullAnalysis": "Strategic focus: Emphasis and evaluation. 'Это' frames the thing being judged, while 'очень' intensifies the impersonal predicate 'важно'. The lead-in 'поверь мне' turns it into a heartfelt, conversational line."
       },
       {
         "id": "LX-ETO-04",
-        "phrase": "это для тебя",
-        "fullAnalysis": "Strategic focus: Handing something over. 1. 'Это' points to the item or idea. 2. 'Для тебя' is a practical recipient phrase. 3. This pattern is useful when giving, offering, or explaining purpose."
+        "phrase": "Возьми, это всё для тебя.",
+        "fullAnalysis": "Strategic focus: Handing something over. 'Это' points to the item being given, and 'для тебя' marks the recipient. The imperative 'возьми' and the word 'всё' make it a warm, practical gift phrase."
       },
       {
         "id": "LX-ETO-05",
-        "phrase": "это было вчера",
-        "fullAnalysis": "Strategic focus: Time anchoring. 1. 'Это было' gives a past-state frame. 2. 'Вчера' locks the event to yesterday. 3. This is a compact, conversational way to answer 'when?'"
+        "phrase": "Не волнуйся, это было ещё вчера.",
+        "fullAnalysis": "Strategic focus: Time anchoring. 'Это было' gives a past-state frame, and 'ещё вчера' locks the event firmly in the past. The reassurance 'не волнуйся' makes it a natural answer to a worried question."
       },
       {
         "id": "LX-ETO-06",
-        "phrase": "это правда",
-        "fullAnalysis": "Strategic focus: Confirmation. 1. 'Это' points at the statement. 2. 'Правда' turns the line into a useful truth claim. 3. This is the kind of short sentence that shows up constantly in live conversation."
+        "phrase": "Честное слово, это чистая правда.",
+        "fullAnalysis": "Strategic focus: Confirmation. 'Это' points at the statement and serves as the subject of a simple identity claim with 'правда'. The phrase 'честное слово' adds the kind of emphasis that shows up constantly in live talk."
       },
       {
         "id": "LX-ETO-07",
-        "phrase": "это новый стол",
-        "fullAnalysis": "Strategic focus: Describing an object. 1. 'Это' introduces the item. 2. 'Новый' agrees with the masculine noun. 3. 'Стол' keeps the vocabulary grounded in a simple household object."
+        "phrase": "Тебе нравится? Это наш новый стол.",
+        "fullAnalysis": "Strategic focus: Describing an object. 'Это' introduces the item, and the adjective 'новый' agrees with the masculine noun 'стол'. The question 'тебе нравится' keeps the household scene conversational."
       },
       {
         "id": "LX-ETO-08",
-        "phrase": "это не проблема",
-        "fullAnalysis": "Strategic focus: Reassurance. 1. 'Это' frames the issue. 2. 'Не проблема' is a practical, reassuring response. 3. This kind of sentence is useful in service, travel, and social situations."
+        "phrase": "Не переживай, это совсем не проблема.",
+        "fullAnalysis": "Strategic focus: Reassurance. 'Это' frames the issue, and 'не проблема' delivers a practical, calming response strengthened by 'совсем'. Such lines are useful in service, travel, and social situations."
       },
       {
         "id": "LX-ETO-09",
-        "phrase": "это мой брат",
-        "fullAnalysis": "Strategic focus: Personal identification. 1. 'Это' introduces the person. 2. 'Мой' keeps possession clear. 3. 'Брат' is a common family word that makes the sentence socially useful."
+        "phrase": "Познакомься, это мой старший брат.",
+        "fullAnalysis": "Strategic focus: Personal identification. 'Это' introduces the person in a presentation, and 'мой' keeps possession clear with the family noun 'брат'. The imperative 'познакомься' makes it a real introduction phrase."
       },
       {
         "id": "LX-ETO-10",
-        "phrase": "это самое важное",
-        "fullAnalysis": "Strategic focus: Ranking importance. 1. 'Это' points to the topic. 2. 'Самое' marks the superlative. 3. 'Важное' is a simple, high-value adjective that works in many practical contexts."
+        "phrase": "Запомни, здоровье - это самое важное.",
+        "fullAnalysis": "Strategic focus: Ranking importance. Here 'это' links the topic 'здоровье' to its evaluation, with 'самое' marking the superlative of 'важное'. The opener 'запомни' frames it as practical life advice."
       }
     ]
   }

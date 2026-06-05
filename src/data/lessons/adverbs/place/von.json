@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-VON",
+    "label": "Вон",
+    "badge": "THERE",
+    "description": "A 10-sentence usage card for вон (over there, yonder).",
+    "missions": [
+      {
+        "id": "AD-PLACE-VON-01",
+        "phrase": "Вон там стоит наш дом.",
+        "fullAnalysis": "Strategic focus: Pointing to a distant place. 'Вон' is a demonstrative adverb directing attention to something far off, paired with 'там'. It marks a static location away from the speaker."
+      },
+      {
+        "id": "AD-PLACE-VON-02",
+        "phrase": "Вон видишь ту гору?",
+        "fullAnalysis": "Strategic focus: Drawing the eye to a distance. 'Вон' points the listener's gaze toward a far object before 'видишь'. It marks a remote spot the speaker is indicating by hand."
+      },
+      {
+        "id": "AD-PLACE-VON-03",
+        "phrase": "Вон идёт твой друг.",
+        "fullAnalysis": "Strategic focus: Pointing at a moving figure. 'Вон' singles out someone approaching at a distance, modifying the scene of 'идёт'. It is a lively, spoken way to point a person out."
+      },
+      {
+        "id": "AD-PLACE-VON-04",
+        "phrase": "Положи сумку вон туда.",
+        "fullAnalysis": "Strategic focus: Pointing to a destination. 'Вон' combines with 'туда' to indicate a far spot for the motion of 'положи'. It directs the action toward a place the speaker gestures at."
+      },
+      {
+        "id": "AD-PLACE-VON-05",
+        "phrase": "Вон там, у реки, рыбачат.",
+        "fullAnalysis": "Strategic focus: Locating a distant activity. 'Вон' with 'там' marks a far-off place where the fishing happens. It frames a static location the speaker points to across a distance."
+      },
+      {
+        "id": "AD-PLACE-VON-06",
+        "phrase": "Вон сколько птиц на дереве!",
+        "fullAnalysis": "Strategic focus: Pointing out a striking sight. 'Вон' here adds emphasis as it draws attention to the scene, an exclamatory spoken use. It marks the speaker calling notice to the many birds."
+      },
+      {
+        "id": "AD-PLACE-VON-07",
+        "phrase": "Магазин вон за тем углом.",
+        "fullAnalysis": "Strategic focus: Indicating a place around the corner. 'Вон' points toward the location named by 'за тем углом'. It marks a static spot the speaker is gesturing toward."
+      },
+      {
+        "id": "AD-PLACE-VON-08",
+        "phrase": "Вон, кот сидит на крыше.",
+        "fullAnalysis": "Strategic focus: Calling attention with a gesture. 'Вон' opens the sentence to point out the cat at a distance. It is a casual spoken signal to look where the speaker indicates."
+      },
+      {
+        "id": "AD-PLACE-VON-09",
+        "phrase": "Иди вон в ту комнату.",
+        "fullAnalysis": "Strategic focus: Pointing toward a room. 'Вон' marks a distant room as the goal of 'иди', combined with 'в ту комнату'. It directs the motion toward a place the speaker shows."
+      },
+      {
+        "id": "AD-PLACE-VON-10",
+        "phrase": "Вон на той полке твоя книга.",
+        "fullAnalysis": "Strategic focus: Locating an object far off. 'Вон' points to the shelf named by 'на той полке' where the book sits. It marks a static, distant location the speaker indicates."
+      }
+    ]
+  }
+]

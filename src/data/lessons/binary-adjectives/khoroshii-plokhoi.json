@@ -1,0 +1,70 @@
+[
+  {
+    "id": "BA-KHOROSHII-PLOKHOI",
+    "label": "Хороший / Плохой",
+    "badge": "GOOD/BAD",
+    "description": "Oppositional adjective drill: хороший vs плохой across gender, number, the suppletive comparatives лучше/хуже, and the adverbs хорошо/плохо.",
+    "missions": [
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-01",
+        "phrase": "Он очень хороший человек.",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 1. 'Хороший' matches masculine 'человек'. 2. The ending is the soft masculine -ий after ш. 3. A clean positive starter."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-02",
+        "phrase": "Сегодня был плохой день.",
+        "fullAnalysis": "Strategic focus: Masculine agreement, opposite pole. 1. 'Плохой' matches masculine 'день'. 2. The ending is the stressed hard masculine -ой. 3. Direct antonym of хороший."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-03",
+        "phrase": "Это очень хорошая идея.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Хорошая' takes the feminine ending -ая. 2. It agrees with 'идея'. 3. Compare masculine хороший to track the gender shift."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-04",
+        "phrase": "Завтра будет плохая погода.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 1. 'Плохая' takes the feminine ending -ая. 2. It agrees with 'погода'. 3. A common pairing and the antonym of хорошая."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-05",
+        "phrase": "Это очень хорошее место.",
+        "fullAnalysis": "Strategic focus: Neuter agreement, spelling rule. 1. 'Хорошее' agrees with neuter 'место'. 2. After ш the ending is -ее, not -ое. 3. This soft-spelling pattern is the trap."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-06",
+        "phrase": "У меня сегодня плохое настроение.",
+        "fullAnalysis": "Strategic focus: Neuter agreement, spelling rule. 1. 'Плохое' agrees with neuter 'настроение'. 2. After х the neuter ending is plain -ое. 3. Contrast with хорошее, where ш forces -ее."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-07",
+        "phrase": "Здесь живут очень хорошие люди.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 1. 'Хорошие' takes the plural ending -ие. 2. It agrees with 'люди' regardless of gender. 3. The -ие is soft after ш."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-08",
+        "phrase": "У меня для тебя плохие новости.",
+        "fullAnalysis": "Strategic focus: Plural agreement, contrast. 1. 'Плохие' takes the plural ending -ие. 2. It agrees with 'новости'. 3. The pair хорошие/плохие is the full number contrast."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-09",
+        "phrase": "Думаю, так будет лучше.",
+        "fullAnalysis": "Strategic focus: Suppletive comparative. 1. 'Лучше' is the comparative of хороший. 2. It is suppletive, sharing no root with хороший. 3. Invariable, used here with 'так'."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-10",
+        "phrase": "После обеда ему стало хуже.",
+        "fullAnalysis": "Strategic focus: Suppletive comparative. 1. 'Хуже' is the comparative of плохой. 2. Like лучше it is suppletive, with no shared root. 3. Paired with 'стало' it marks worsening."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-11",
+        "phrase": "Не волнуйся, у меня всё хорошо.",
+        "fullAnalysis": "Strategic focus: Adverb form. 1. 'Хорошо' is the adverb of хороший, ending in -о. 2. It modifies the state, not a noun. 3. A fixed everyday phrase meaning all is well."
+      },
+      {
+        "id": "BA-KHOROSHII-PLOKHOI-12",
+        "phrase": "Сегодня я чувствую себя очень плохо.",
+        "fullAnalysis": "Strategic focus: Adverb form, contrast. 1. 'Плохо' is the adverb of плохой, ending in -о. 2. 'Очень' intensifies it. 3. The adverb antonym of хорошо."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-SPOKOINO",
+    "label": "Спокойно",
+    "badge": "CALMLY",
+    "description": "A 10-sentence usage card for спокойно (calmly).",
+    "missions": [
+      {
+        "id": "AD-MANNER-SPOKOINO-01",
+        "phrase": "Он спокойно ответил на вопрос.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Спокойно' modifies the verb 'ответил', describing how he answered, without agitation. Placed right before the verb, it is the standard position for a manner adverb."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-02",
+        "phrase": "Говори спокойно, всё будет хорошо.",
+        "fullAnalysis": "Strategic focus: Imperative manner. 'Спокойно' modifies the command 'говори', telling someone to speak in a calm way. Following the imperative, it gives reassuring advice in everyday speech."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-03",
+        "phrase": "Дети спокойно спят в комнате.",
+        "fullAnalysis": "Strategic focus: Peaceful state. 'Спокойно' describes the manner of 'спят', painting the sleep as untroubled. The adverb adds atmosphere to a simple statement of location."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-04",
+        "phrase": "Здесь очень спокойно по вечерам.",
+        "fullAnalysis": "Strategic focus: Impersonal predicative. Here 'спокойно' is the predicate of an impersonal sentence, meaning 'it is calm here'. There is no subject, just a description of the atmosphere of the place."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-05",
+        "phrase": "Она спокойно идёт по улице.",
+        "fullAnalysis": "Strategic focus: Manner of motion. 'Спокойно' modifies 'идёт', describing an unhurried, relaxed walk. The adverb colours the movement rather than its direction."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-06",
+        "phrase": "Спокойно, не нужно так нервничать.",
+        "fullAnalysis": "Strategic focus: Standalone reassurance. Used alone, 'спокойно' functions as 'easy now' or 'calm down', a one-word command to relax. It is a common way to steady someone who is upset."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-07",
+        "phrase": "Мы спокойно обсудили этот вопрос.",
+        "fullAnalysis": "Strategic focus: Calm process. 'Спокойно' modifies 'обсудили', showing the discussion stayed level-headed. Before the verb, it stresses the manner of a completed action."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-08",
+        "phrase": "Ты можешь спокойно остаться дома.",
+        "fullAnalysis": "Strategic focus: Reassuring permission. 'Спокойно' softens 'остаться', meaning you may stay without worry. Here it shades into the sense of 'feel free to', a warm conversational nuance."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-09",
+        "phrase": "Кот спокойно лежит на диване.",
+        "fullAnalysis": "Strategic focus: Relaxed position. 'Спокойно' modifies 'лежит', describing the cat's untroubled rest. The adverb adds a peaceful tone to a static scene."
+      },
+      {
+        "id": "AD-MANNER-SPOKOINO-10",
+        "phrase": "Дома спокойно и очень тихо.",
+        "fullAnalysis": "Strategic focus: Impersonal description. 'Спокойно' acts as a predicative describing the feel of home, joined by 'и' to 'тихо'. Both words describe the atmosphere with no grammatical subject."
+      }
+    ]
+  }
+]

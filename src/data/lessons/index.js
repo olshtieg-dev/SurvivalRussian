@@ -12,6 +12,7 @@ import { proFormsLessonSets, proFormsFolder, proFormsGroupFolders } from './pro-
 import { spatialMotionLessonSets, spatialMotionFolder } from './spatial-motion';
 import { comparisonsLessonSets, comparisonsFolder } from './comparisons';
 import { binaryAdjectivesLessonSets, binaryAdjectivesFolder } from './binary-adjectives';
+import { adverbsLessonSets, adverbsFolder, adverbsGroupFolders } from './adverbs';
 import frequencyGulagLessons from './frequency-gulag.json';
 import vocabularyData from '../vocabulary.json';
 
@@ -136,6 +137,7 @@ export const lessonSets = [
   ...spatialMotionLessonSets,
   ...comparisonsLessonSets,
   ...binaryAdjectivesLessonSets,
+  ...adverbsLessonSets,
 ];
 
 export const defaultLessonSetId = lessonSets[0]?.id || 'essentials';
@@ -152,6 +154,8 @@ export const lessonFolders = [
   spatialMotionFolder,
   comparisonsFolder,
   binaryAdjectivesFolder,
+  adverbsFolder,
+  ...adverbsGroupFolders,
 ];
 
 export function getLessonSet(lessonSetId) {

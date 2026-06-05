@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-DOVOLNO",
+    "label": "Довольно",
+    "badge": "RATHER",
+    "description": "A 10-sentence usage card for довольно (rather, quite, fairly).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-DOVOLNO-01",
+        "phrase": "Эта книга довольно интересная.",
+        "fullAnalysis": "Strategic focus: Moderate intensity. 'Довольно' means rather or fairly, softening the adjective 'интересная' to a moderate degree. It stands before the word it scales and is fully neutral in register."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-02",
+        "phrase": "Сегодня довольно холодно на улице.",
+        "fullAnalysis": "Strategic focus: Degree with an adverb. 'Довольно' modifies the predicate adverb 'холодно', meaning quite cold but not extreme. It precedes the word it qualifies in an impersonal weather sentence."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-03",
+        "phrase": "Он говорит по-русски довольно хорошо.",
+        "fullAnalysis": "Strategic focus: Scaling a manner adverb. 'Довольно' qualifies 'хорошо', giving a measured fairly well rather than perfectly. It sits directly before the adverb it grades."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-04",
+        "phrase": "Это довольно сложный вопрос.",
+        "fullAnalysis": "Strategic focus: Moderate description. 'Довольно' tempers the adjective 'сложный' to mean rather difficult. The adverb keeps the judgement balanced and is common in everyday speech."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-05",
+        "phrase": "Мы шли довольно долго.",
+        "fullAnalysis": "Strategic focus: Degree of duration. 'Довольно' modifies 'долго', signalling a fairly long but not endless time. Placed before the adverb, it gives a measured sense of the walk."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-06",
+        "phrase": "Довольно! Хватит спорить.",
+        "fullAnalysis": "Strategic focus: Довольно as enough. As a standalone exclamation 'довольно' means enough or stop, used to cut off an argument. This is a distinct command-like use, separate from its degree meaning."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-07",
+        "phrase": "У нас довольно много времени.",
+        "fullAnalysis": "Strategic focus: Scaling a quantity. 'Довольно' modifies 'много', meaning quite a lot, a fair amount. It precedes the quantifier and softens it to a comfortable, sufficient degree."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-08",
+        "phrase": "Дорога была довольно опасной.",
+        "fullAnalysis": "Strategic focus: Moderate degree in the past. 'Довольно' grades the instrumental predicate 'опасной' to mean rather dangerous. The adverb stays before the adjective it tempers."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-09",
+        "phrase": "Она довольно быстро поняла задачу.",
+        "fullAnalysis": "Strategic focus: Degree of speed. 'Довольно' qualifies 'быстро', meaning fairly quickly. Standing before the manner adverb, it presents the speed as good but not remarkable."
+      },
+      {
+        "id": "AD-DEGREE-DOVOLNO-10",
+        "phrase": "Здесь довольно тихо по вечерам.",
+        "fullAnalysis": "Strategic focus: Moderate state. 'Довольно' modifies the predicate adverb 'тихо' to mean fairly quiet. It precedes the word it scales and suits calm, descriptive everyday Russian."
+      }
+    ]
+  }
+]

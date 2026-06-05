@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-VSKORE",
+    "label": "Вскоре",
+    "badge": "SOON",
+    "description": "A 10-sentence usage card for вскоре (soon, shortly after).",
+    "missions": [
+      {
+        "id": "AD-TIME-VSKORE-01",
+        "phrase": "Вскоре начался дождь.",
+        "fullAnalysis": "Strategic focus: Shortly after. 'Вскоре' means soon or shortly afterward, modifying 'начался'. It is more bookish than 'скоро' and usually refers to a point soon after another event."
+      },
+      {
+        "id": "AD-TIME-VSKORE-02",
+        "phrase": "Вскоре после ужина гости ушли.",
+        "fullAnalysis": "Strategic focus: Soon after an event. 'Вскоре после ужина' anchors the timing relative to dinner, modifying 'ушли'. The construction shows a short interval between two events."
+      },
+      {
+        "id": "AD-TIME-VSKORE-03",
+        "phrase": "Вскоре он стал известным писателем.",
+        "fullAnalysis": "Strategic focus: A quick development. 'Вскоре' marks a change that came soon afterward, modifying 'стал'. It lends a narrative, literary tone to the sentence."
+      },
+      {
+        "id": "AD-TIME-VSKORE-04",
+        "phrase": "Поезд вскоре прибудет на станцию.",
+        "fullAnalysis": "Strategic focus: Near future. 'Вскоре' can point to the soon-to-come future, modifying 'прибудет'. Here it signals that the train will arrive shortly."
+      },
+      {
+        "id": "AD-TIME-VSKORE-05",
+        "phrase": "Вскоре они поженились.",
+        "fullAnalysis": "Strategic focus: Soon afterward. 'Вскоре' frames the wedding as following soon after an earlier point, modifying 'поженились'. It is a common storytelling connector."
+      },
+      {
+        "id": "AD-TIME-VSKORE-06",
+        "phrase": "Тучи рассеялись, и вскоре выглянуло солнце.",
+        "fullAnalysis": "Strategic focus: Shortly after a change. 'Вскоре' links a second event closely to the first, modifying 'выглянуло'. It conveys that the sun appeared soon after the clouds cleared."
+      },
+      {
+        "id": "AD-TIME-VSKORE-07",
+        "phrase": "Вскоре всё забудется.",
+        "fullAnalysis": "Strategic focus: Soon to come. 'Вскоре' projects a near future, modifying 'забудется'. It expresses calm certainty that the matter will soon be forgotten."
+      },
+      {
+        "id": "AD-TIME-VSKORE-08",
+        "phrase": "Вскоре после звонка он приехал.",
+        "fullAnalysis": "Strategic focus: Soon after a trigger. 'Вскоре после звонка' fixes the timing right after the call, modifying 'приехал'. It marks a short gap between cause and arrival."
+      },
+      {
+        "id": "AD-TIME-VSKORE-09",
+        "phrase": "Болезнь вскоре прошла.",
+        "fullAnalysis": "Strategic focus: Resolved soon. 'Вскоре' marks the illness passing not long after, modifying 'прошла'. The register is slightly elevated and narrative."
+      },
+      {
+        "id": "AD-TIME-VSKORE-10",
+        "phrase": "Вскоре мы узнаем результаты.",
+        "fullAnalysis": "Strategic focus: Coming soon. 'Вскоре' points to the imminent future, modifying 'узнаем'. It tells the listener the results will be known shortly."
+      }
+    ]
+  }
+]

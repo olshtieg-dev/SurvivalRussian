@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-VMESTE",
+    "label": "Вместе",
+    "badge": "TGETHER",
+    "description": "A 10-sentence usage card for вместе (together) showing joint action across tenses and contexts.",
+    "missions": [
+      {
+        "id": "AD-MANNER-VMESTE-01",
+        "phrase": "Мы вместе идём в кино.",
+        "fullAnalysis": "Strategic focus: Joint action. 'Вместе' means 'together' and modifies 'идём', showing the movement is done jointly. It commonly sits before the verb with a plural subject."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-02",
+        "phrase": "Давай работать вместе.",
+        "fullAnalysis": "Strategic focus: Proposal of teamwork. 'Вместе' modifies the infinitive 'работать' inside a 'давай' proposal. It frames the work as a shared effort."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-03",
+        "phrase": "Мы вместе учились в школе.",
+        "fullAnalysis": "Strategic focus: Shared past. 'Вместе' modifies the past verb 'учились', meaning the studying happened jointly. It is the standard way to say people were classmates."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-04",
+        "phrase": "Они живут вместе уже год.",
+        "fullAnalysis": "Strategic focus: Cohabitation. 'Вместе' modifies 'живут', meaning they live as a unit. 'Уже год' adds duration to the shared living."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-05",
+        "phrase": "Соберём всё вместе.",
+        "fullAnalysis": "Strategic focus: Gathering into one. 'Вместе' modifies 'соберём', meaning everything is brought into a single whole. Here it conveys assembly rather than companionship."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-06",
+        "phrase": "Мы вместе решим эту проблему.",
+        "fullAnalysis": "Strategic focus: Joint resolution. 'Вместе' modifies the future verb 'решим', stressing a shared effort to solve something. It reassures by signalling cooperation."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-07",
+        "phrase": "Дети играют вместе во дворе.",
+        "fullAnalysis": "Strategic focus: Shared activity. 'Вместе' modifies 'играют', showing the children play as a group. The adverb after the verb is a natural placement."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-08",
+        "phrase": "Поедем на море вместе.",
+        "fullAnalysis": "Strategic focus: Joint trip. 'Вместе' modifies the future motion verb 'поедем', framing the journey as shared. It often closes the clause for warm emphasis."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-09",
+        "phrase": "Мы всё делаем вместе.",
+        "fullAnalysis": "Strategic focus: Habitual togetherness. 'Вместе' modifies 'делаем', meaning the couple or pair do everything jointly. It expresses a close, ongoing partnership."
+      },
+      {
+        "id": "AD-MANNER-VMESTE-10",
+        "phrase": "Давай встретимся и пообедаем вместе.",
+        "fullAnalysis": "Strategic focus: Shared plan. 'Вместе' modifies 'пообедаем', framing the lunch as joint. It rounds off an invitation built on two coordinated verbs."
+      }
+    ]
+  }
+]

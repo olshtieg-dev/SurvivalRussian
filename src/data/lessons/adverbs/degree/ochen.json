@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-OCHEN",
+    "label": "Очень",
+    "badge": "VERY",
+    "description": "A 10-sentence usage card for очень (very, very much).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-OCHEN-01",
+        "phrase": "Этот суп очень вкусный.",
+        "fullAnalysis": "Strategic focus: Scaling an adjective. 'Очень' intensifies the adjective 'вкусный', pushing it toward the high end of the scale. It sits directly before the word it modifies, which is its normal neutral placement."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-02",
+        "phrase": "Я очень люблю эту песню.",
+        "fullAnalysis": "Strategic focus: Intensifying a verb of feeling. With emotion verbs like 'любить', 'очень' means very much rather than very. It stands before the verb and strengthens the degree of liking."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-03",
+        "phrase": "Она говорит очень быстро.",
+        "fullAnalysis": "Strategic focus: Scaling another adverb. Here 'очень' modifies the manner adverb 'быстро', so it amplifies one adverb with another. It directly precedes the adverb it strengthens."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-04",
+        "phrase": "Мне очень холодно сегодня.",
+        "fullAnalysis": "Strategic focus: Intensifying an impersonal state. In the dative construction 'мне холодно', the adverb 'очень' raises the degree of the felt state. It precedes the predicative 'холодно'."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-05",
+        "phrase": "Этот фильм очень интересный.",
+        "fullAnalysis": "Strategic focus: Predicate adjective. 'Очень' boosts the adjective 'интересный' to a strong degree. It is the default everyday intensifier for adjectives in spoken Russian."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-06",
+        "phrase": "Спасибо вам очень большое.",
+        "fullAnalysis": "Strategic focus: Set expression. In 'спасибо большое', the adverb 'очень' intensifies 'большое' to make the thanks warmer. The slightly inverted order is natural and emphatic in speech."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-07",
+        "phrase": "Он очень устал после работы.",
+        "fullAnalysis": "Strategic focus: Intensifying a result state. 'Очень' strengthens 'устал', a past-tense verb used like a state. It marks a high degree of tiredness and sits before the verb."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-08",
+        "phrase": "Это очень важный вопрос.",
+        "fullAnalysis": "Strategic focus: Adjective inside a noun phrase. 'Очень' scales 'важный', which in turn describes 'вопрос'. The intensifier stays glued to the adjective it modifies, not the noun."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-09",
+        "phrase": "Я очень хочу спать.",
+        "fullAnalysis": "Strategic focus: Intensifying a desire verb. With 'хотеть', 'очень' means very much, raising the strength of the wish. It precedes the verb directly."
+      },
+      {
+        "id": "AD-DEGREE-OCHEN-10",
+        "phrase": "Дорога была очень длинная.",
+        "fullAnalysis": "Strategic focus: Past-tense predicate. 'Очень' intensifies the adjective 'длинная' in a past description. The intensifier is neutral in register and works in any tense."
+      }
+    ]
+  }
+]

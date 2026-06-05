@@ -1,0 +1,65 @@
+[
+  {
+    "id": "BA-NOVYI-STARYI",
+    "label": "Новый / Старый",
+    "badge": "NEW/OLD",
+    "description": "Oppositional adjective drill: новый vs старый across gender, number, contrast, and the comparative.",
+    "missions": [
+      {
+        "id": "BA-NOVYI-STARYI-01",
+        "phrase": "Мы купили новый дом.",
+        "fullAnalysis": "Strategic focus: Masculine agreement with новый. 1. 'Новый' takes the hard masculine ending -ый. 2. It matches 'дом' in gender, number, and case. 3. Here it sits in the accusative object of 'купили'."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-02",
+        "phrase": "За рекой стоит старый дом.",
+        "fullAnalysis": "Strategic focus: Masculine agreement with старый. 1. 'Старый' uses the hard masculine -ый ending. 2. It mirrors новый, contrasting in meaning only. 3. Same noun 'дом' isolates the adjective swap."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-03",
+        "phrase": "У соседа теперь новая машина.",
+        "fullAnalysis": "Strategic focus: Feminine agreement with новая. 1. The ending shifts to feminine -ая. 2. 'Новая' agrees with feminine 'машина'. 3. Note the change -ый to -ая for gender."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-04",
+        "phrase": "Это очень старая книга.",
+        "fullAnalysis": "Strategic focus: Feminine agreement with старая. 1. 'Старая' takes the feminine -ая ending. 2. It matches feminine 'книга' in gender and number. 3. Parallel to новая for contrast."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-05",
+        "phrase": "В кухне новое окно.",
+        "fullAnalysis": "Strategic focus: Neuter agreement with новое. 1. The neuter ending is -ое. 2. 'Новое' agrees with neuter 'окно'. 3. Neuter -ое contrasts with masculine -ый and feminine -ая."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-06",
+        "phrase": "На площади стоит старое здание.",
+        "fullAnalysis": "Strategic focus: Neuter agreement with старое. 1. 'Старое' takes the neuter -ое ending. 2. It matches neuter 'здание'. 3. Reinforces the neuter pattern with the old/new opposition."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-07",
+        "phrase": "Мне нужны новые туфли.",
+        "fullAnalysis": "Strategic focus: Plural agreement with новые. 1. The plural ending is -ые for all genders. 2. 'Новые' agrees with plural 'туфли'. 3. Number overrides gender in the plural."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-08",
+        "phrase": "Бабушка хранит старые вещи.",
+        "fullAnalysis": "Strategic focus: Plural agreement with старые. 1. 'Старые' takes the plural -ые ending. 2. It matches plural 'вещи'. 3. Mirrors новые туфли, isolating the adjective contrast."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-09",
+        "phrase": "Рядом новый дом, старый сарай.",
+        "fullAnalysis": "Strategic focus: Direct contrast in the masculine. 1. Both adjectives take -ый for masculine nouns. 2. 'Новый' and 'старый' oppose in meaning. 3. The comma sets two parallel noun phrases."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-10",
+        "phrase": "Этот дом немного новее.",
+        "fullAnalysis": "Strategic focus: Comparative of новый. 1. 'Новее' is the comparative meaning 'newer'. 2. It is indeclinable in this predicate use. 3. 'Этот дом' is the masculine subject being compared."
+      },
+      {
+        "id": "BA-NOVYI-STARYI-11",
+        "phrase": "Мой брат старше меня.",
+        "fullAnalysis": "Strategic focus: Comparative of старый for age. 1. 'Старше' means 'older' for a person's age. 2. It is the comparative used with people, not старее. 3. Predicate form stays indeclinable."
+      }
+    ]
+  }
+]

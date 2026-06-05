@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-LISH",
+    "label": "Лишь",
+    "badge": "MERELY",
+    "description": "A 10-sentence usage card for лишь (only, merely), a bookish restrictive adverb.",
+    "missions": [
+      {
+        "id": "AD-DEGREE-LISH-01",
+        "phrase": "Я лишь хотел спросить.",
+        "fullAnalysis": "Strategic focus: Bookish only. 'Лишь' means only or merely, a more literary equivalent of только. Before 'хотел' it softens the verb to merely wanted to ask, downplaying the intent."
+      },
+      {
+        "id": "AD-DEGREE-LISH-02",
+        "phrase": "Лишь она поняла мой вопрос.",
+        "fullAnalysis": "Strategic focus: Restricting the subject. Placing 'лишь' before 'она' focuses on the subject, meaning only she and no one else understood. Position decides what the restriction targets."
+      },
+      {
+        "id": "AD-DEGREE-LISH-03",
+        "phrase": "Осталось лишь несколько минут.",
+        "fullAnalysis": "Strategic focus: Restricting a small quantity. 'Лишь' before 'несколько минут' stresses only a few minutes are left. The adverb narrows focus to that phrase and emphasises how little remains."
+      },
+      {
+        "id": "AD-DEGREE-LISH-04",
+        "phrase": "Это лишь начало истории.",
+        "fullAnalysis": "Strategic focus: Merely the start. 'Лишь' before 'начало' means just the beginning, minimising the noun. The adverb gives a refined, literary tone compared with только."
+      },
+      {
+        "id": "AD-DEGREE-LISH-05",
+        "phrase": "Он молчал и лишь кивал.",
+        "fullAnalysis": "Strategic focus: Restricting the action. 'Лишь' before 'кивал' focuses on the verb, meaning he did nothing but nod. The adverb narrows the whole behaviour to that single action."
+      },
+      {
+        "id": "AD-DEGREE-LISH-06",
+        "phrase": "Я понял это лишь сейчас.",
+        "fullAnalysis": "Strategic focus: Restricting time. 'Лишь' before 'сейчас' means only now, stressing how late the understanding came. The adverb focuses on the time word and carries a bookish flavour."
+      },
+      {
+        "id": "AD-DEGREE-LISH-07",
+        "phrase": "Лишь бы всё было хорошо.",
+        "fullAnalysis": "Strategic focus: Лишь бы as if only. The fixed phrase 'лишь бы' expresses a wish, meaning if only everything goes well. This optative use is distinct from the plain restrictive only."
+      },
+      {
+        "id": "AD-DEGREE-LISH-08",
+        "phrase": "Нас спасло лишь чудо.",
+        "fullAnalysis": "Strategic focus: Restricting the cause. 'Лишь' before 'чудо' means only a miracle saved us, focusing on the single reason. The adverb singles out the noun in a literary, dramatic way."
+      },
+      {
+        "id": "AD-DEGREE-LISH-09",
+        "phrase": "Она лишь улыбнулась в ответ.",
+        "fullAnalysis": "Strategic focus: Merely a gesture. 'Лишь' before 'улыбнулась' means she merely smiled and did no more. The adverb restricts the response to that one quiet reaction."
+      },
+      {
+        "id": "AD-DEGREE-LISH-10",
+        "phrase": "В комнате горела лишь одна свеча.",
+        "fullAnalysis": "Strategic focus: Restricting to a single thing. 'Лишь' before 'одна свеча' stresses that only one candle was burning. The adverb narrows focus to that lone object in a vivid, literary scene."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-VSEGDA",
+    "label": "Всегда",
+    "badge": "ALWAYS",
+    "description": "A 10-sentence usage card for всегда (always).",
+    "missions": [
+      {
+        "id": "AD-TIME-VSEGDA-01",
+        "phrase": "Я всегда пью кофе утром.",
+        "fullAnalysis": "Strategic focus: Habitual action. 'Всегда' marks a constant habit, modifying the imperfective 'пью'. It pairs naturally with imperfective verbs to express what regularly happens."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-02",
+        "phrase": "Ты всегда опаздываешь!",
+        "fullAnalysis": "Strategic focus: Reproachful frequency. 'Всегда' here stresses a repeated annoying habit, modifying 'опаздываешь'. The exclamation gives it a tone of complaint."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-03",
+        "phrase": "Она всегда добра к людям.",
+        "fullAnalysis": "Strategic focus: Constant quality. 'Всегда' applies to an ongoing trait, modifying the predicate 'добра'. It states that her kindness is unchanging."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-04",
+        "phrase": "Мы всегда будем друзьями.",
+        "fullAnalysis": "Strategic focus: Permanent future. 'Всегда' extends a state into the future, modifying 'будем'. It expresses an enduring, lasting relationship."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-05",
+        "phrase": "Он всегда говорит правду.",
+        "fullAnalysis": "Strategic focus: Invariable behaviour. 'Всегда' marks consistent conduct, modifying 'говорит'. It characterizes truth-telling as a reliable, defining habit."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-06",
+        "phrase": "Почему ты всегда споришь?",
+        "fullAnalysis": "Strategic focus: Questioning a habit. In a question 'всегда' challenges a repeated behaviour, modifying 'споришь'. It carries mild exasperation."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-07",
+        "phrase": "Я всегда рад тебя видеть.",
+        "fullAnalysis": "Strategic focus: Steady feeling. 'Всегда' modifies the predicate 'рад', stating a constant gladness. It is a warm, common way to express welcome."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-08",
+        "phrase": "Дети всегда хотят играть.",
+        "fullAnalysis": "Strategic focus: General truth. 'Всегда' expresses an unchanging tendency, modifying 'хотят'. It frames the desire to play as a constant of childhood."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-09",
+        "phrase": "Зимой здесь всегда холодно.",
+        "fullAnalysis": "Strategic focus: Recurring condition. 'Всегда' marks a regular seasonal state, modifying the impersonal 'холодно'. With 'зимой' it states a dependable pattern."
+      },
+      {
+        "id": "AD-TIME-VSEGDA-10",
+        "phrase": "Я буду любить тебя всегда.",
+        "fullAnalysis": "Strategic focus: Forever. End-position 'всегда' modifies 'буду любить', extending love into the endless future. The placement gives the promise emphatic, lasting weight."
+      }
+    ]
+  }
+]

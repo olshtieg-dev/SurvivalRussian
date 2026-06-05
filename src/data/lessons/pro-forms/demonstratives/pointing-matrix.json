@@ -7,28 +7,28 @@
     "missions": [
       {
         "id": "PF-D-ETO-01",
-        "phrase": "это дом",
-        "fullAnalysis": "Strategic focus: Basic pointing. 1. 'Это' points at something concrete. 2. 'Дом' keeps the referent easy to picture. 3. This is the simplest demonstrative frame in Russian."
+        "phrase": "Смотри, это наш новый дом!",
+        "fullAnalysis": "Strategic focus: Basic pointing. 'Это' is the invariant pointer that introduces a visible referent, here the house. It stays the same regardless of the noun's gender and simply equates 'this' with 'наш новый дом'."
       },
       {
         "id": "PF-D-ETO-02",
-        "phrase": "это моя книга",
-        "fullAnalysis": "Strategic focus: Pointing plus possession. 1. 'Это' anchors the object. 2. 'Моя книга' makes the noun personal. 3. The sentence is natural and reusable."
+        "phrase": "Это моя любимая книга.",
+        "fullAnalysis": "Strategic focus: Pointing plus possession. 'Это' anchors the object and links it to the predicate 'моя любимая книга'. The pointer does not agree with the feminine noun; the possessive 'моя' carries the agreement instead."
       },
       {
         "id": "PF-D-ETO-03",
-        "phrase": "это важно для нас",
-        "fullAnalysis": "Strategic focus: Abstract pointing. 1. 'Это' points to a concept or situation. 2. 'Важно' gives the sentence weight. 3. 'Для нас' makes the relevance clear."
+        "phrase": "Это очень важно для нас.",
+        "fullAnalysis": "Strategic focus: Abstract pointing. Here 'это' points not to a thing but to a whole situation or idea. The neuter short adjective 'важно' agrees with the abstract subject, and 'для нас' specifies for whom it matters."
       },
       {
         "id": "PF-D-ETO-04",
-        "phrase": "это окно открыто",
-        "fullAnalysis": "Strategic focus: Neuter agreement. 1. 'Это' works naturally with neuter nouns. 2. 'Окно открыто' gives a clear state. 3. The line is compact and visual."
+        "phrase": "Это окно совсем не открывается.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. With the neuter noun 'окно', the pointer 'это' coincides in form with neuter agreement. The reflexive verb 'не открывается' describes the window's state without any agent."
       },
       {
         "id": "PF-D-ETO-05",
-        "phrase": "это было вчера",
-        "fullAnalysis": "Strategic focus: Time reference. 1. 'Это' marks the event or thing being discussed. 2. 'Было вчера' gives the temporal frame. 3. This is a useful memory and narration sentence."
+        "phrase": "Всё это было ещё вчера.",
+        "fullAnalysis": "Strategic focus: Time reference. 'Это' marks the thing or event under discussion, and the past-tense 'было' sets it in the past with 'вчера'. The neuter 'было' agrees with the neuter pointer used as a subject."
       }
     ]
   },
@@ -40,28 +40,28 @@
     "missions": [
       {
         "id": "PF-D-ZDES-01",
-        "phrase": "здесь тихо сейчас",
-        "fullAnalysis": "Strategic focus: Near-place state. 1. 'Здесь' marks the immediate location. 2. 'Тихо' gives the environmental feeling. 3. 'Сейчас' pins it to the moment."
+        "phrase": "Здесь сейчас очень тихо.",
+        "fullAnalysis": "Strategic focus: Near-place state. 'Здесь' marks the speaker's immediate location as static, answering где. The impersonal 'тихо' describes the environment, and 'сейчас' pins the state to the present moment."
       },
       {
         "id": "PF-D-ZDES-02",
-        "phrase": "здесь моя книга",
-        "fullAnalysis": "Strategic focus: Near-place possession. 1. 'Здесь' points to the speaker's area. 2. 'Моя книга' is the concrete object. 3. This is a simple, very reusable sentence."
+        "phrase": "Здесь лежит моя книга.",
+        "fullAnalysis": "Strategic focus: Near-place possession. 'Здесь' points to the area around the speaker, a fixed position rather than a direction. The verb 'лежит' states where the possessed object 'моя книга' rests."
       },
       {
         "id": "PF-D-ZDES-03",
-        "phrase": "здесь нет света",
-        "fullAnalysis": "Strategic focus: Absence in place. 1. 'Здесь' anchors the location. 2. 'Нет света' gives a clear absence. 3. This is practical in homes and travel."
+        "phrase": "Здесь почему-то нет света.",
+        "fullAnalysis": "Strategic focus: Absence in place. 'Здесь' anchors the location, while the negative 'нет' takes the genitive 'света' to mark absence. The pattern нет plus genitive is the standard way to say something is missing."
       },
       {
         "id": "PF-D-ZDES-04",
-        "phrase": "здесь мы ждем",
-        "fullAnalysis": "Strategic focus: Shared action at location. 1. 'Здесь' sets the scene. 2. 'Мы ждем' makes the action concrete. 3. This is a good meeting-place sentence."
+        "phrase": "Мы ждём тебя здесь.",
+        "fullAnalysis": "Strategic focus: Shared action at location. 'Здесь' fixes the place where the action unfolds, answering где. 'Мы ждём' is the present-tense action and 'тебя' is its accusative object."
       },
       {
         "id": "PF-D-ZDES-05",
-        "phrase": "здесь все готово",
-        "fullAnalysis": "Strategic focus: Readiness. 1. 'Здесь' gives the location. 2. 'Все готово' states completion. 3. The sentence is useful for setup and planning."
+        "phrase": "Здесь уже всё готово.",
+        "fullAnalysis": "Strategic focus: Readiness. 'Здесь' gives the static location, and the neuter 'всё готово' reports that everything is set. 'Уже' adds the sense that the state has just been reached."
       }
     ]
   },
@@ -73,28 +73,28 @@
     "missions": [
       {
         "id": "PF-D-TAM-01",
-        "phrase": "там шумно сейчас",
-        "fullAnalysis": "Strategic focus: Far-place state. 1. 'Там' marks the distant location. 2. 'Шумно' gives the scene atmosphere. 3. 'Сейчас' makes the observation immediate."
+        "phrase": "Там сейчас слишком шумно.",
+        "fullAnalysis": "Strategic focus: Far-place state. 'Там' marks a location away from the speaker as static, answering где. The impersonal 'шумно' describes the atmosphere, and 'сейчас' makes the observation immediate."
       },
       {
         "id": "PF-D-TAM-02",
-        "phrase": "там стоит дом",
-        "fullAnalysis": "Strategic focus: Far-place object. 1. 'Там' points away from the speaker. 2. 'Стоит дом' gives a clear visual target. 3. This is a clean location statement."
+        "phrase": "Вон там стоит старый дом.",
+        "fullAnalysis": "Strategic focus: Far-place object. 'Там' points to a fixed spot away from the speaker, reinforced by the deictic 'вон'. The verb 'стоит' presents the visible target 'старый дом'."
       },
       {
         "id": "PF-D-TAM-03",
-        "phrase": "там лежит ключ",
-        "fullAnalysis": "Strategic focus: Object placement. 1. 'Там' sets the distant field. 2. 'Лежит ключ' keeps the sentence concrete. 3. This is practical for finding things."
+        "phrase": "Там на столе лежит ключ.",
+        "fullAnalysis": "Strategic focus: Object placement. 'Там' sets the distant field, narrowed by 'на столе' in the prepositional case. The verb 'лежит' keeps the location of 'ключ' concrete and findable."
       },
       {
         "id": "PF-D-TAM-04",
-        "phrase": "там они работают",
-        "fullAnalysis": "Strategic focus: Activity at distance. 1. 'Там' locates the action elsewhere. 2. 'Они работают' gives a clear ongoing process. 3. The sentence is simple and natural."
+        "phrase": "Там они работают каждый день.",
+        "fullAnalysis": "Strategic focus: Activity at distance. 'Там' locates an ongoing action elsewhere, answering где. 'Они работают' gives the habitual process, and 'каждый день' marks its regularity."
       },
       {
         "id": "PF-D-TAM-05",
-        "phrase": "там все иначе",
-        "fullAnalysis": "Strategic focus: Contrastive place. 1. 'Там' points to another place. 2. 'Все иначе' shows difference. 3. This is a useful conversational observation."
+        "phrase": "Там всё совсем иначе.",
+        "fullAnalysis": "Strategic focus: Contrastive place. 'Там' points to another place set against the here, and 'всё иначе' states that things differ. 'Совсем' strengthens the contrast into a complete one."
       }
     ]
   },
@@ -106,28 +106,28 @@
     "missions": [
       {
         "id": "PF-D-SEICHAS-01",
-        "phrase": "сейчас мы идём",
-        "fullAnalysis": "Strategic focus: Immediate action. 1. 'Сейчас' anchors the action now. 2. 'Мы идем' keeps the motion concrete. 3. This is a core planning sentence."
+        "phrase": "Сейчас мы идём в магазин.",
+        "fullAnalysis": "Strategic focus: Immediate action. 'Сейчас' anchors the action in the present moment. The verb 'идём' is present tense of motion, and 'в магазин' gives the accusative destination."
       },
       {
         "id": "PF-D-SEICHAS-02",
-        "phrase": "сейчас я читаю",
-        "fullAnalysis": "Strategic focus: Current activity. 1. 'Сейчас' narrows the time frame. 2. 'Я читаю' gives a simple present activity. 3. This is ideal for talking about what you are doing."
+        "phrase": "Я сейчас читаю интересную книгу.",
+        "fullAnalysis": "Strategic focus: Current activity. 'Сейчас' narrows the time frame to right now. 'Я читаю' is the present action, with 'интересную книгу' as its accusative object."
       },
       {
         "id": "PF-D-SEICHAS-03",
-        "phrase": "сейчас он спит",
-        "fullAnalysis": "Strategic focus: Current state. 1. 'Сейчас' keeps the sentence immediate. 2. 'Он спит' is a common real-life action. 3. The line is short and easy to reuse."
+        "phrase": "Тише, он сейчас спит.",
+        "fullAnalysis": "Strategic focus: Current state. 'Сейчас' keeps the statement tied to the present, and 'он спит' reports a real-life ongoing state. The opening 'тише' frames it as a request to be quiet."
       },
       {
         "id": "PF-D-SEICHAS-04",
-        "phrase": "сейчас идёт дождь",
-        "fullAnalysis": "Strategic focus: Present weather. 1. 'Сейчас' anchors the moment. 2. 'Идет дождь' is a classic Russian weather frame. 3. The sentence is very practical."
+        "phrase": "На улице сейчас идёт дождь.",
+        "fullAnalysis": "Strategic focus: Present weather. 'Сейчас' anchors the moment, and 'идёт дождь' is the classic Russian weather frame where rain literally 'goes'. 'На улице' situates it outside."
       },
       {
         "id": "PF-D-SEICHAS-05",
-        "phrase": "сейчас все ясно",
-        "fullAnalysis": "Strategic focus: Present understanding. 1. 'Сейчас' makes the timing explicit. 2. 'Все ясно' gives a clean state. 3. This is useful in explanations and confirmations."
+        "phrase": "Теперь мне всё сейчас ясно.",
+        "fullAnalysis": "Strategic focus: Present understanding. 'Сейчас' makes the timing of the realization explicit, and 'всё ясно' gives the resulting clear state. The dative 'мне' names the one who now understands."
       }
     ]
   },
@@ -139,28 +139,228 @@
     "missions": [
       {
         "id": "PF-D-TOGDA-01",
-        "phrase": "тогда было тихо",
-        "fullAnalysis": "Strategic focus: Past state. 1. 'Тогда' points to a previous time. 2. 'Было тихо' gives the state. 3. This is a useful memory sentence."
+        "phrase": "Тогда в доме было тихо.",
+        "fullAnalysis": "Strategic focus: Past state. 'Тогда' points back to a previous time, and the past-tense 'было тихо' describes how things stood. 'В доме' adds the prepositional location of that calm."
       },
       {
         "id": "PF-D-TOGDA-02",
-        "phrase": "тогда мы пришли",
-        "fullAnalysis": "Strategic focus: Sequence in time. 1. 'Тогда' marks the moment in the past. 2. 'Мы пришли' gives the completed action. 3. The sentence is simple and narrative."
+        "phrase": "Тогда мы наконец пришли домой.",
+        "fullAnalysis": "Strategic focus: Sequence in time. 'Тогда' marks the moment in the past when the next event happened. 'Мы пришли' is a completed perfective action, and 'наконец' stresses its long-awaited arrival."
       },
       {
         "id": "PF-D-TOGDA-03",
-        "phrase": "тогда он молчал",
-        "fullAnalysis": "Strategic focus: Past behavior. 1. 'Тогда' sets the time frame. 2. 'Он молчал' gives the state or action. 3. This is a good story-telling sentence."
+        "phrase": "Тогда он почему-то молчал.",
+        "fullAnalysis": "Strategic focus: Past behavior. 'Тогда' sets the time frame, and the imperfective past 'молчал' describes a sustained behavior. 'Почему-то' adds that the reason was unclear."
       },
       {
         "id": "PF-D-TOGDA-04",
-        "phrase": "тогда все изменилось",
-        "fullAnalysis": "Strategic focus: Turning point. 1. 'Тогда' identifies the pivot time. 2. 'Все изменилось' shows the result. 3. This is a powerful narrative pattern."
+        "phrase": "Тогда сразу всё изменилось.",
+        "fullAnalysis": "Strategic focus: Turning point. 'Тогда' identifies the pivotal moment, and the perfective 'изменилось' marks an abrupt result. 'Сразу' emphasizes how immediately the change took hold."
       },
       {
         "id": "PF-D-TOGDA-05",
-        "phrase": "тогда я понял",
-        "fullAnalysis": "Strategic focus: Insight moment. 1. 'Тогда' marks the moment of realization. 2. 'Я понял' gives a clear mental event. 3. This is useful for explanation and memoir language."
+        "phrase": "Тогда я наконец всё понял.",
+        "fullAnalysis": "Strategic focus: Insight moment. 'Тогда' marks the moment of realization, and the perfective 'понял' presents understanding as a single mental event. 'Всё' names what finally became clear."
+      }
+    ]
+  },
+  {
+    "id": "PF-D-TOT",
+    "label": "Тот",
+    "badge": "THAT",
+    "description": "The distal demonstrative тот ('that') across gender, number, and case, vs этот.",
+    "missions": [
+      {
+        "phrase": "Вон тот дом мне очень нравится.",
+        "fullAnalysis": "Strategic focus: Distal pointing. 'Тот' is the masculine singular demonstrative, agreeing with 'дом'. It marks a referent away from the speaker, opposed to proximal 'этот', and 'вон' reinforces the distance."
+      },
+      {
+        "phrase": "Дай мне, пожалуйста, ту книгу.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 'Ту' is the accusative of the feminine та, agreeing with 'книгу'. Distal 'та' points farther off than proximal 'эта', and the accusative marks it as the object of 'дай'."
+      },
+      {
+        "phrase": "Закрой, пожалуйста, то окно.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 'То' is the neuter form of тот, agreeing with 'окно' in the accusative. The contrast 'то / это' separates that-there from this-here as the object of 'закрой'."
+      },
+      {
+        "phrase": "Те люди живут на нашей улице.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 'Те' is the plural form of тот, covering all genders for 'люди'. Plural distal 'те' opposes proximal 'эти' and acts here as the subject of 'живут'."
+      },
+      {
+        "phrase": "В тот день шёл сильный дождь.",
+        "fullAnalysis": "Strategic focus: Oblique masculine. 'В тот' takes the accusative of тот, which for the inanimate masculine 'день' matches the nominative. The set phrase frames the time as 'on that day'."
+      },
+      {
+        "phrase": "В то время я жил в деревне.",
+        "fullAnalysis": "Strategic focus: Oblique neuter. 'В то' is the accusative neuter of тот, agreeing with 'время'. The fixed phrase 'в то время' means 'at that time', distal in both space and tense."
+      },
+      {
+        "phrase": "Магазин стоит на той стороне.",
+        "fullAnalysis": "Strategic focus: Oblique feminine. 'На той' uses the prepositional feminine той, agreeing with 'стороне'. It locates the shop 'on that side', away from the speaker."
+      },
+      {
+        "phrase": "Я давно знаком с тем человеком.",
+        "fullAnalysis": "Strategic focus: Oblique instrumental. 'С тем' is the instrumental masculine тем, agreeing with 'человеком'. It names that distal person as the one the speaker is acquainted with, not this one."
+      }
+    ]
+  },
+  {
+    "id": "PF-D-TAKOI",
+    "label": "Такой",
+    "badge": "SUCH",
+    "description": "The demonstrative такой ('such/so'): noun agreement plus the intensifier use before adjectives.",
+    "missions": [
+      {
+        "phrase": "Сегодня такой сильный мороз!",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 'Такой' takes the masculine singular form, modifying 'мороз'. It points to a kind or degree, here exclaiming over such a frost."
+      },
+      {
+        "phrase": "У них такой большой дом.",
+        "fullAnalysis": "Strategic focus: Intensifier before adjective. 'Такой' precedes the adjective 'большой' and amplifies its degree rather than naming a kind. The sense is 'such a big house'."
+      },
+      {
+        "phrase": "Она такая красивая девушка!",
+        "fullAnalysis": "Strategic focus: Feminine intensifier. 'Такая' is the feminine singular form intensifying 'красивая' before the feminine noun 'девушка'. The reading is 'such a beautiful girl'."
+      },
+      {
+        "phrase": "Это такое вкусное блюдо!",
+        "fullAnalysis": "Strategic focus: Neuter intensifier. 'Такое' is the neuter singular form heightening 'вкусное' before the neuter noun 'блюдо'. The line means 'such a tasty dish'."
+      },
+      {
+        "phrase": "У нас такие умные студенты!",
+        "fullAnalysis": "Strategic focus: Plural intensifier. 'Такие' is the plural form amplifying 'умные' across the plural noun 'студенты'. The sense is 'such clever students'."
+      },
+      {
+        "phrase": "На улице такая тёплая погода.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 'Такая' matches the feminine noun 'погода' and stresses the degree of 'тёплая'. The reading is 'such warm weather'."
+      },
+      {
+        "phrase": "У меня дома такой же ковёр.",
+        "fullAnalysis": "Strategic focus: The phrase такой же. 'Такой же' means 'the same kind', with the particle 'же' fixing identity of type. It matches the speaker's rug to one just mentioned."
+      },
+      {
+        "phrase": "Вот такое у нас дело.",
+        "fullAnalysis": "Strategic focus: The idiom такое дело. 'Такое' agrees with the neuter noun 'дело', and 'вот такое дело' is a fixed colloquial wrap-up meaning 'that's the situation'."
+      }
+    ]
+  },
+  {
+    "id": "PF-D-ETOT",
+    "label": "Этот",
+    "badge": "THIS",
+    "description": "The agreeing demonstrative этот ('this') across gender, number, and case — distinct from neutral это.",
+    "missions": [
+      {
+        "phrase": "Этот дом очень большой.",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 'Этот' is the masculine singular form pointing to 'дом'. Unlike the invariant pointer это, adjectival этот agrees with its noun in gender, number, and case."
+      },
+      {
+        "phrase": "Эта книга очень интересная.",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 'Эта' is the feminine singular form, with 'книга' driving the ending. The demonstrative inflects to match its noun's gender."
+      },
+      {
+        "phrase": "Это окно почему-то открыто.",
+        "fullAnalysis": "Strategic focus: Neuter agreement. Here 'это' is the neuter singular demonstrative agreeing with 'окно'. It coincides in form with the invariant pointer это but functions as an adjective."
+      },
+      {
+        "phrase": "Эти дни были очень долгие.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 'Эти' is the plural form for all genders, agreeing with 'дни'. Number, like gender, forces the demonstrative to inflect."
+      },
+      {
+        "phrase": "В этом году очень тепло.",
+        "fullAnalysis": "Strategic focus: Prepositional oblique. The preposition 'в' takes the prepositional case, so 'этом' is the masculine singular prepositional form. The demonstrative shifts case alongside 'году'."
+      },
+      {
+        "phrase": "На этой неделе у нас праздник.",
+        "fullAnalysis": "Strategic focus: Feminine oblique. The preposition 'на' governs the prepositional, and 'этой' is the feminine singular oblique form tracking 'неделе' through the case change."
+      },
+      {
+        "phrase": "В этот раз нам очень повезло.",
+        "fullAnalysis": "Strategic focus: Accusative pointing. The preposition 'в' with the accusative marks the occasion, and 'этот раз' is masculine singular accusative matching the inanimate noun. The demonstrative agrees in case and gender."
+      },
+      {
+        "phrase": "Этому человеку сейчас очень трудно.",
+        "fullAnalysis": "Strategic focus: Dative oblique. 'Этому' is the masculine singular dative form, agreeing with 'человеку', which names the experiencer. The demonstrative inflects to match its noun in case."
+      }
+    ]
+  },
+  {
+    "id": "PF-D-SYUDA",
+    "label": "Сюда",
+    "badge": "HERE-TO",
+    "description": "The directional adverb сюда ('to here/hither'), motion toward the speaker, vs static здесь.",
+    "missions": [
+      {
+        "phrase": "Иди сюда, я тебя жду.",
+        "fullAnalysis": "Strategic focus: Motion toward speaker. 'Иди' is the imperative of motion, and 'сюда' marks direction toward the speaker, answering куда rather than где. It contrasts with the static здесь."
+      },
+      {
+        "phrase": "Положи сюда свою сумку.",
+        "fullAnalysis": "Strategic focus: Directional placement. 'Положи' is the imperative of положить, and 'сюда' names the destination of the motion. A thing already resting there would be marked by здесь."
+      },
+      {
+        "phrase": "Посмотри сюда на минуту.",
+        "fullAnalysis": "Strategic focus: Directing the gaze. 'Посмотри' is the perfective imperative of смотреть, and 'сюда' aims the look toward the speaker. The aimed direction is сюда, never the static здесь."
+      },
+      {
+        "phrase": "Иди сюда быстро, это срочно!",
+        "fullAnalysis": "Strategic focus: Urgent approach. 'Иди' commands motion and 'сюда' sets the goal of movement toward the speaker. The adverb 'быстро' intensifies the directional command into an urgent one."
+      },
+      {
+        "phrase": "Сюда нельзя, проход закрыт.",
+        "fullAnalysis": "Strategic focus: Forbidden direction. 'Сюда' names the direction of attempted entry, and the impersonal 'нельзя' forbids it. It blocks motion to here, not mere presence, which would be здесь."
+      },
+      {
+        "phrase": "Поставь сюда эту вазу.",
+        "fullAnalysis": "Strategic focus: Placing upright. 'Поставь' is the perfective imperative of ставить, and 'сюда' is the destination of the placing motion. Once standing in place, the vase would be здесь."
+      },
+      {
+        "phrase": "Дай сюда телефон, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Hand it over. 'Дай' is the imperative of дать, and 'сюда' directs the handing toward the speaker. The motion lands сюда; static location would be здесь."
+      },
+      {
+        "phrase": "Неси сюда стул, садись рядом.",
+        "fullAnalysis": "Strategic focus: Carrying toward speaker. 'Неси' is the imperative of нести, and 'сюда' names the goal of the carrying. 'Стул' is the accusative object being moved toward the speaker."
+      }
+    ]
+  },
+  {
+    "id": "PF-D-TUDA",
+    "label": "Туда",
+    "badge": "THERE-TO",
+    "description": "The directional adverb туда ('to there/thither'), motion away from the speaker, vs static там.",
+    "missions": [
+      {
+        "phrase": "Иди туда, тебя там ждут.",
+        "fullAnalysis": "Strategic focus: Motion away from speaker. 'Иди' is the imperative of motion, and 'туда' marks direction away, answering куда. It contrasts with the static там, which answers где."
+      },
+      {
+        "phrase": "Не ходи туда, там опасно.",
+        "fullAnalysis": "Strategic focus: Forbidding movement in a direction. 'Не ходи' negates the imperative of motion, and 'туда' names the direction away from the speaker. Unlike static там, туда answers куда."
+      },
+      {
+        "phrase": "Положи туда свои вещи.",
+        "fullAnalysis": "Strategic focus: Placing toward a goal. 'Положи' is the imperative of положить, and 'туда' marks where the object goes, motion away. A static position would take там, not туда."
+      },
+      {
+        "phrase": "Посмотри туда, на тот дом.",
+        "fullAnalysis": "Strategic focus: Directing the gaze. 'Посмотри' is the imperative 'look', and 'туда' points the gaze in a direction away from the speaker. It contrasts with сюда, motion toward the speaker."
+      },
+      {
+        "phrase": "Давай поедем туда летом.",
+        "fullAnalysis": "Strategic focus: A planned trip outward. 'Поедем' is first-person plural, 'let us go', and 'туда' marks the destination, motion away. Once arrived, being there is там, not туда."
+      },
+      {
+        "phrase": "Мы съездили туда и обратно.",
+        "fullAnalysis": "Strategic focus: A round trip. 'Туда' marks the outbound direction away, and 'обратно' marks the return. The pair sets direction, never static location like там."
+      },
+      {
+        "phrase": "Иди не сюда, а туда.",
+        "fullAnalysis": "Strategic focus: Choosing direction. 'Сюда' is motion toward the speaker and 'туда' is motion away, set against each other by the construction 'не…, а'. Both differ from static там."
+      },
+      {
+        "phrase": "Туда нельзя, вход закрыт.",
+        "fullAnalysis": "Strategic focus: A forbidden direction. 'Туда' marks motion away from the speaker, and 'нельзя' bars movement in that direction. It restricts going there, not being там, which is static."
       }
     ]
   }

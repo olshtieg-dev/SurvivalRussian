@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-MOTION-MOST",
+    "label": "Мост",
+    "badge": "BRIDGE",
+    "description": "The masculine noun 'мост' (bridge) across its case ladder, with the stressed locative 'на мосту́', accusative-with-через, plural forms, and common spatial collocations.",
+    "missions": [
+      {
+        "id": "NN-MOTION-MOST-01",
+        "phrase": "Через реку ведёт старый мост.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Мост' is nominative, the naming case for the subject of the sentence. 2. 'Старый' agrees in masculine singular. 3. This is the baseline dictionary form."
+      },
+      {
+        "id": "NN-MOTION-MOST-02",
+        "phrase": "Новый мост через реку очень красивый.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Мост' is the nominative subject. 2. 'Новый' and 'красивый' both take masculine singular endings. 3. Shows two adjectives agreeing with one noun."
+      },
+      {
+        "id": "NN-MOTION-MOST-03",
+        "phrase": "С холма мы видим длинный мост.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 1. 'Мост' is accusative here, but inanimate masculine nouns keep the nominative form. 2. 'Видим' governs it as object of perception."
+      },
+      {
+        "id": "NN-MOTION-MOST-04",
+        "phrase": "Мы перешли через широкий мост.",
+        "fullAnalysis": "Strategic focus: Accusative with через. 1. 'Через' requires the accusative, so 'мост' stays in its base form. 2. The phrase means crossing from one side to the other. 3. Key motion collocation."
+      },
+      {
+        "id": "NN-MOTION-MOST-05",
+        "phrase": "Отсюда до моста идти недалеко.",
+        "fullAnalysis": "Strategic focus: Genitive with до. 1. 'До' governs the genitive, giving 'моста́' with end-stress. 2. It marks the endpoint of approach. 3. 'Недалеко' adds the sense of short distance."
+      },
+      {
+        "id": "NN-MOTION-MOST-06",
+        "phrase": "У моста течёт широкая река.",
+        "fullAnalysis": "Strategic focus: Genitive of location. 1. 'У' takes the genitive 'моста́', stressed on the ending. 2. It means near or by the bridge. 3. 'Река' anchors the scene."
+      },
+      {
+        "id": "NN-MOTION-MOST-07",
+        "phrase": "Каждое утро я иду к мосту.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 1. 'К' governs the dative 'мосту́' with end-stress. 2. It expresses movement toward the bridge. 3. Common directional pattern."
+      },
+      {
+        "id": "NN-MOTION-MOST-08",
+        "phrase": "По мосту быстро едут машины.",
+        "fullAnalysis": "Strategic focus: Dative with по. 1. 'По' takes the dative 'мосту́', stressed on the ending. 2. It means movement along the surface of the bridge. 3. 'Машины' fills the scene."
+      },
+      {
+        "id": "NN-MOTION-MOST-09",
+        "phrase": "Под мостом всегда темно и сыро.",
+        "fullAnalysis": "Strategic focus: Instrumental of place. 1. 'Под' with the instrumental gives 'мосто́м', stressed on the ending. 2. It locates something beneath the bridge. 3. 'Темно' describes the space."
+      },
+      {
+        "id": "NN-MOTION-MOST-10",
+        "phrase": "Над мостом синеет чистое небо.",
+        "fullAnalysis": "Strategic focus: Instrumental above. 1. 'Над' governs the instrumental 'мосто́м'. 2. It marks what lies above the bridge. 3. 'Небо' makes the picture concrete."
+      },
+      {
+        "id": "NN-MOTION-MOST-11",
+        "phrase": "Мы стоим на мосту и смотрим вниз.",
+        "fullAnalysis": "Strategic focus: Stressed locative -у́. 1. 'Мост' takes a special locative 'на мосту́' with stressed -у́, not the regular prepositional -е. 2. It means standing on the bridge. 3. Memorize this irregular form."
+      },
+      {
+        "id": "NN-MOTION-MOST-12",
+        "phrase": "Давай встретимся вечером на мосту.",
+        "fullAnalysis": "Strategic focus: Locative for meeting place. 1. 'На мосту́' again uses the stressed -у́ locative, unique to this noun class. 2. It names where the action happens. 3. Practical arrangement phrase."
+      },
+      {
+        "id": "NN-MOTION-MOST-13",
+        "phrase": "Я часто думаю о старом мосте.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 1. With 'о', the noun takes the regular prepositional 'мосте́', distinct from the locative 'на мосту́'. 2. It marks the subject of thought. 3. Contrast the -е/-у́ forms."
+      },
+      {
+        "id": "NN-MOTION-MOST-14",
+        "phrase": "Через реку построили два моста.",
+        "fullAnalysis": "Strategic focus: Paucal after два. 1. 'Два' forces the genitive singular, not the plural. 2. 'Моста' is the genitive singular of мост. 3. The numerals 2, 3, 4 all take this genitive-singular form."
+      },
+      {
+        "id": "NN-MOTION-MOST-15",
+        "phrase": "В нашем городе есть красивые мосты.",
+        "fullAnalysis": "Strategic focus: Plural subject in a scene. 1. 'Мосты́' is nominative plural with end-stress. 2. 'В городе' sets the location. 3. Builds a simple existential statement."
+      },
+      {
+        "id": "NN-MOTION-MOST-16",
+        "phrase": "В этом городе очень много мостов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 1. 'Много' requires the genitive plural 'мосто́в', stressed on the ending. 2. It counts an indefinite number. 3. Standard quantity construction."
+      },
+      {
+        "id": "NN-MOTION-MOST-17",
+        "phrase": "Ночью красивый мост светится огнями.",
+        "fullAnalysis": "Strategic focus: Adjective agreement in a scene. 1. 'Красивый' agrees with masculine singular nominative 'мост'. 2. 'Ночью' is an instrumental adverb of time. 3. Combines description with setting."
+      }
+    ]
+  }
+]

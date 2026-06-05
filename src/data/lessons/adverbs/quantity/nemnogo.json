@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-QUANTITY-NEMNOGO",
+    "label": "Немного",
+    "badge": "A BIT",
+    "description": "A 10-sentence usage card for немного (a little; a bit; somewhat).",
+    "missions": [
+      {
+        "id": "AD-QUANTITY-NEMNOGO-01",
+        "phrase": "Дай мне немного воды.",
+        "fullAnalysis": "Strategic focus: A small amount with genitive. 'Немного' takes the genitive 'воды' to request a little water. The core pattern is 'немного' plus a genitive noun for a modest quantity."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-02",
+        "phrase": "Я немного устал сегодня.",
+        "fullAnalysis": "Strategic focus: Softening a state. 'Немного' modifies the adjective-like 'устал' to mean a little tired. Here it works as a degree word, lessening the strength of the description."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-03",
+        "phrase": "Подожди немного, я скоро приду.",
+        "fullAnalysis": "Strategic focus: A short while. 'Немного' modifies the imperative 'подожди' to mean wait a bit. With time and verbs it conveys a brief, limited extent in a friendly register."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-04",
+        "phrase": "Он говорит немного по-русски.",
+        "fullAnalysis": "Strategic focus: A limited ability. 'Немного' qualifies 'говорит' to mean he speaks a little Russian. It tempers the verb, showing partial rather than full capability."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-05",
+        "phrase": "У нас осталось немного хлеба.",
+        "fullAnalysis": "Strategic focus: A small remainder in genitive. 'Немного хлеба' uses the genitive 'хлеба' for a little bread left. The neuter 'осталось' agrees with the quantity expression as neuter."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-06",
+        "phrase": "Стало немного холоднее вечером.",
+        "fullAnalysis": "Strategic focus: Slight degree of change. 'Немного' modifies the comparative 'холоднее' to mean a bit colder. With comparatives it expresses a small measure of difference."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-07",
+        "phrase": "Я знаю немного интересных историй.",
+        "fullAnalysis": "Strategic focus: A few countable items. 'Немного' takes the genitive plural 'историй' for a small number of stories, with 'интересных' agreeing. It marks a modest count of things."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-08",
+        "phrase": "Давай немного отдохнём здесь.",
+        "fullAnalysis": "Strategic focus: A bit of an activity. 'Немного' modifies 'отдохнём' to suggest resting a little here. Attached to the verb, it limits the action to a small, comfortable amount."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-09",
+        "phrase": "Добавь немного соли в суп.",
+        "fullAnalysis": "Strategic focus: A pinch in genitive. 'Немного' governs the genitive 'соли' to mean add a little salt. The pattern fits mass nouns where only a small portion is meant."
+      },
+      {
+        "id": "AD-QUANTITY-NEMNOGO-10",
+        "phrase": "Она немного волнуется перед экзаменом.",
+        "fullAnalysis": "Strategic focus: Mild emotion. 'Немного' modifies 'волнуется' to mean she is a little nervous. It softens the verb, presenting the feeling as slight rather than overwhelming."
+      }
+    ]
+  }
+]

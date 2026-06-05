@@ -1,7 +1,17 @@
 import delatSet from './delat.json';
+import znatSet from './znat.json';
+import dumatSet from './dumat.json';
+import rabotatSet from './rabotat.json';
+import chitatSet from './chitat.json';
 
 export const firstConjugationVerbFolderId = 'verbs-first-conjugation';
-const firstConjugationVerbData = [...delatSet];
+const firstConjugationVerbData = [
+  ...delatSet,
+  ...znatSet,
+  ...dumatSet,
+  ...rabotatSet,
+  ...chitatSet,
+];
 
 export const firstConjugationVerbFolder = {
   id: firstConjugationVerbFolderId,

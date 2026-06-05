@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-MOTION-DOM",
+    "label": "Дом",
+    "badge": "HOUSE",
+    "description": "The noun дом (house, home, building) through its full case ladder, plus the frozen adverbs дома (at home) and домой (homeward).",
+    "missions": [
+      {
+        "id": "NN-MOTION-DOM-01",
+        "phrase": "Это мой дом и моя семья.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Дом' here is the nominative singular, the dictionary form, naming the thing. 2. 'Мой' agrees with the masculine noun. 3. A natural everyday sentence introducing the word."
+      },
+      {
+        "id": "NN-MOTION-DOM-02",
+        "phrase": "Из окна я вижу дом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Дом' is the direct object of 'вижу'. 2. For inanimate masculine nouns the accusative matches the nominative form. 3. A clear example of the object role in a real scene."
+      },
+      {
+        "id": "NN-MOTION-DOM-03",
+        "phrase": "Мы гуляли около дома.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 1. 'Около' governs the genitive case. 2. 'Дома' is the genitive singular of дом, marking location near. 3. A natural sentence describing walking near the building."
+      },
+      {
+        "id": "NN-MOTION-DOM-04",
+        "phrase": "Утром он вышел из дома.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 1. 'Из' takes the genitive 'дома' to mark motion out of. 2. 'Вышел' is the past-tense verb of exiting. 3. A natural motion-from-source scene anchored in the morning."
+      },
+      {
+        "id": "NN-MOTION-DOM-05",
+        "phrase": "Я медленно иду к дому.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 1. 'К' governs the dative case. 2. 'Дому' is the dative singular, marking motion toward a goal. 3. A complete sentence pairing movement with a destination."
+      },
+      {
+        "id": "NN-MOTION-DOM-06",
+        "phrase": "Он очень доволен своим домом.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 1. 'Доволен' takes the instrumental case. 2. 'Домом' is the instrumental singular of дом. 3. 'Своим' agrees in case and gender with the noun."
+      },
+      {
+        "id": "NN-MOTION-DOM-07",
+        "phrase": "За домом есть большой сад.",
+        "fullAnalysis": "Strategic focus: Instrumental of place. 1. 'За' with the instrumental 'домом' means behind. 2. 'Сад' names what lies there. 3. A complete spatial-scene sentence describing the garden."
+      },
+      {
+        "id": "NN-MOTION-DOM-08",
+        "phrase": "Зимой в доме всегда тепло.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 1. 'В' with the prepositional 'доме' means inside. 2. 'Тепло' is an impersonal predicate. 3. A natural description of the warm interior in winter."
+      },
+      {
+        "id": "NN-MOTION-DOM-09",
+        "phrase": "Соседи много говорят о доме.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 1. 'О' governs the prepositional 'доме' to mean about. 2. 'Говорят' is the third-person plural verb. 3. The house is the subject of the neighbours' discussion."
+      },
+      {
+        "id": "NN-MOTION-DOM-10",
+        "phrase": "Сегодня я весь день дома.",
+        "fullAnalysis": "Strategic focus: Frozen adverb дома. 1. 'Дома' is a frozen adverbial form meaning 'at home', not a case of дом. 2. It marks static location. 3. 'Сегодня' and 'весь день' anchor it in time."
+      },
+      {
+        "id": "NN-MOTION-DOM-11",
+        "phrase": "После работы я иду домой.",
+        "fullAnalysis": "Strategic focus: Frozen adverb домой. 1. 'Домой' is a frozen adverb meaning 'homeward', expressing motion toward home. 2. It is never declined. 3. Contrast it with static 'дома' (at home)."
+      },
+      {
+        "id": "NN-MOTION-DOM-12",
+        "phrase": "Уже поздно, пора домой.",
+        "fullAnalysis": "Strategic focus: Motion adverb домой. 1. 'Пора' is an impersonal 'it is time'. 2. 'Домой' keeps its frozen directional meaning, 'homeward'. 3. A very common everyday phrase for leaving."
+      },
+      {
+        "id": "NN-MOTION-DOM-13",
+        "phrase": "У них большой новый дом.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Большой' and 'новый' both agree with masculine nominative 'дом'. 2. Two adjectives stack before the noun. 3. A natural descriptive sentence about their home."
+      },
+      {
+        "id": "NN-MOTION-DOM-14",
+        "phrase": "Теперь мы живём в новом доме.",
+        "fullAnalysis": "Strategic focus: Adjective in prepositional. 1. 'В доме' sets location inside. 2. 'Новом' is the prepositional masculine form of новый, agreeing with 'доме'. 3. Shows adjective declension in a lived context."
+      },
+      {
+        "id": "NN-MOTION-DOM-15",
+        "phrase": "Это очень старые дома.",
+        "fullAnalysis": "Strategic focus: Nominative plural дома́. 1. 'Дома́' is the stressed-ending nominative plural of дом, homographic with adverb 'дома' (at home) — distinguished only by stress. 2. 'Старые' agrees. 3. Watch the stress."
+      },
+      {
+        "id": "NN-MOTION-DOM-16",
+        "phrase": "Вокруг было много домов.",
+        "fullAnalysis": "Strategic focus: Genitive plural домо́в. 1. 'Много' governs the genitive plural 'домо́в'. 2. The -ов ending marks the masculine plural here. 3. 'Вокруг' frames the scene all around."
+      },
+      {
+        "id": "NN-MOTION-DOM-17",
+        "phrase": "На улице стоят новые дома.",
+        "fullAnalysis": "Strategic focus: Plural subject дома́. 1. 'Дома́' is the nominative plural subject, stressed on the ending and homographic with adverb 'дома'. 2. 'Стоят' agrees in the plural. 3. 'Новые' agrees too."
+      },
+      {
+        "id": "NN-MOTION-DOM-18",
+        "phrase": "Дети играли около большого дома.",
+        "fullAnalysis": "Strategic focus: Genitive scene with adjective. 1. 'Около' governs the genitive 'дома'. 2. 'Большого' is the genitive masculine form of большой, agreeing with the noun. 3. A full descriptive location sentence."
+      }
+    ]
+  }
+]

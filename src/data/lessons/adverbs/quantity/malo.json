@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-QUANTITY-MALO",
+    "label": "Мало",
+    "badge": "FEW",
+    "description": "A 10-sentence usage card for мало (little; few; not much).",
+    "missions": [
+      {
+        "id": "AD-QUANTITY-MALO-01",
+        "phrase": "У меня мало денег.",
+        "fullAnalysis": "Strategic focus: Scarcity with genitive. 'Мало' takes the genitive 'денег' to mean little money. The core pattern is 'мало' plus a genitive noun, expressing insufficient quantity."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-02",
+        "phrase": "Он мало спит ночью.",
+        "fullAnalysis": "Strategic focus: Modifying a verb. 'Мало' attaches to 'спит' to mean he sleeps little. With a verb it needs no genitive noun and measures the small extent of the action."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-03",
+        "phrase": "В этом году мало снега.",
+        "fullAnalysis": "Strategic focus: Genitive of a mass noun. 'Мало' governs the genitive singular 'снега' to say there is little snow. Mass nouns take the genitive singular after this word."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-04",
+        "phrase": "Здесь мало интересных мест.",
+        "fullAnalysis": "Strategic focus: Few countable items. 'Мало' takes the genitive plural 'мест' to mean few places, with the adjective 'интересных' agreeing in that case. It marks a small number of countable things."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-05",
+        "phrase": "Я мало знаю об этом.",
+        "fullAnalysis": "Strategic focus: Limited knowledge. 'Мало' modifies 'знаю' to mean I know little about it. Attached to the verb, it conveys a small degree without any genitive complement."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-06",
+        "phrase": "У нас было мало времени.",
+        "fullAnalysis": "Strategic focus: Scarcity in the past. 'Мало времени' uses the genitive singular 'времени' for little time. The neuter past 'было' agrees with the quantity expression as a neuter subject."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-07",
+        "phrase": "Он мало говорит на встречах.",
+        "fullAnalysis": "Strategic focus: Verb modification of frequency. 'Мало' attaches to 'говорит' to mean he speaks little at meetings. It describes how seldom or briefly the action occurs."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-08",
+        "phrase": "В классе сегодня мало учеников.",
+        "fullAnalysis": "Strategic focus: Few people present. 'Мало' takes the genitive plural 'учеников' to state that few pupils are present. The pattern 'мало' plus genitive plural fits countable nouns."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-09",
+        "phrase": "Мы мало отдыхали этим летом.",
+        "fullAnalysis": "Strategic focus: Extent of an activity. 'Мало' modifies 'отдыхали' to mean we rested little this summer. Placed before the verb, it measures the small amount of rest taken."
+      },
+      {
+        "id": "AD-QUANTITY-MALO-10",
+        "phrase": "Этого слишком мало для всех.",
+        "fullAnalysis": "Strategic focus: Standalone shortfall. 'Мало' works as a predicate meaning 'not enough', sharpened by 'слишком'. The genitive 'этого' points to the substance that falls short for everyone."
+      }
+    ]
+  }
+]

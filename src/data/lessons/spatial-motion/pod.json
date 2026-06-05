@@ -1,0 +1,85 @@
+[
+  {
+    "id": "SM-POD",
+    "label": "Под",
+    "badge": "UNDER",
+    "description": "The two-way preposition под/подо: instrumental for static location (под столом) vs accusative for motion under (под стол).",
+    "missions": [
+      {
+        "id": "SM-POD-01",
+        "phrase": "Кот спит под столом.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Под столом' means under the table. 2. 'Под' takes the instrumental case for a fixed position. 3. The core under-location pattern: no motion, just where the cat lies."
+      },
+      {
+        "id": "SM-POD-02",
+        "phrase": "Кот залез под стол.",
+        "fullAnalysis": "Strategic focus: Motion under a surface. 1. 'Залез' is the action verb. 2. 'Под стол' takes the accusative for motion, contrasting with instrumental 'под столом'. 3. Case marks direction toward the goal."
+      },
+      {
+        "id": "SM-POD-03",
+        "phrase": "Рыба плавает под водой.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Под водой' means underwater. 2. 'Под' takes the instrumental case for a stable position. 3. A vivid location phrase: the fish stays beneath the surface."
+      },
+      {
+        "id": "SM-POD-04",
+        "phrase": "Клад лежит под землёй.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Под землёй' means underground. 2. 'Под' uses the instrumental case for a fixed place. 3. The treasure rests in one settled location, no movement."
+      },
+      {
+        "id": "SM-POD-05",
+        "phrase": "Под окном стоит скамейка.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Под окном' means under the window. 2. 'Под' takes the instrumental case for static position. 3. A common everyday spatial frame describing where the bench sits."
+      },
+      {
+        "id": "SM-POD-06",
+        "phrase": "Стол стоит под деревом.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Под деревом' means under the tree. 2. 'Под' takes the instrumental case for a settled location. 3. A clear outdoor frame showing where the table stands."
+      },
+      {
+        "id": "SM-POD-07",
+        "phrase": "Под крышей свили гнездо.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Под крышей' means under the roof. 2. 'Под' uses the instrumental case for a fixed spot. 3. A vivid location phrase: the nest sits in one place."
+      },
+      {
+        "id": "SM-POD-08",
+        "phrase": "Ваза стоит под лампой.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Под лампой' means under the lamp. 2. 'Под' takes the instrumental case for static position. 3. A simple household location pattern with no movement."
+      },
+      {
+        "id": "SM-POD-09",
+        "phrase": "Я поставил чемодан под кровать.",
+        "fullAnalysis": "Strategic focus: Motion under a surface. 1. 'Поставил' is the action verb. 2. 'Под кровать' takes the accusative for motion, unlike instrumental 'под кроватью'. 3. Case signals direction toward the spot."
+      },
+      {
+        "id": "SM-POD-10",
+        "phrase": "Мяч упал под стол.",
+        "fullAnalysis": "Strategic focus: Motion under a surface. 1. 'Упал' shows movement. 2. 'Под стол' takes the accusative for motion, contrasting with static instrumental 'под столом'. 3. The case marks direction of the fall."
+      },
+      {
+        "id": "SM-POD-11",
+        "phrase": "Девочка спрятала письмо под подушку.",
+        "fullAnalysis": "Strategic focus: Motion under a surface. 1. 'Спрятала' means hid. 2. 'Под подушку' takes the accusative for motion, not instrumental 'под подушкой'. 3. Case alternation shows direction of the hiding."
+      },
+      {
+        "id": "SM-POD-12",
+        "phrase": "Он положил записку под книгу.",
+        "fullAnalysis": "Strategic focus: Motion under a surface. 1. 'Положил' is the placement verb. 2. 'Под книгу' takes the accusative for motion, unlike instrumental 'под книгой'. 3. The case marks the goal of the action."
+      },
+      {
+        "id": "SM-POD-13",
+        "phrase": "Земля дрожит подо мной.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Подо мной' means beneath me. 2. 'Подо' replaces 'под' before the cluster 'мной' and takes the instrumental case. 3. A natural location phrase, no motion."
+      },
+      {
+        "id": "SM-POD-14",
+        "phrase": "Река течёт подо льдом.",
+        "fullAnalysis": "Strategic focus: Static location under. 1. 'Подо льдом' means under the ice. 2. 'Подо' appears before the cluster 'льдом' and takes the instrumental case. 3. A vivid seasonal location: the river stays put."
+      },
+      {
+        "id": "SM-POD-15",
+        "phrase": "Мы стоим под дождём.",
+        "fullAnalysis": "Strategic focus: Figurative location under. 1. 'Под дождём' means in the rain. 2. 'Под' takes the instrumental case for this exposure idiom. 3. A common figurative use of static under, no movement."
+      }
+    ]
+  }
+]

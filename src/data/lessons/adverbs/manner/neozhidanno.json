@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-NEOZHIDANNO",
+    "label": "Неожиданно",
+    "badge": "SUDDEN",
+    "description": "A 10-sentence usage card for неожиданно (unexpectedly, suddenly).",
+    "missions": [
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-01",
+        "phrase": "Он неожиданно пришёл домой рано.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Неожиданно' modifies 'пришёл', telling us his arrival came as a surprise. Placed before the verb, it sets up an unforeseen turn of events."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-02",
+        "phrase": "Неожиданно начался сильный дождь.",
+        "fullAnalysis": "Strategic focus: Sentence-initial surprise. 'Неожиданно' opens the sentence to stress that the rain came without warning. Fronting the adverb dramatizes the abruptness of the event."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-03",
+        "phrase": "Она неожиданно громко засмеялась.",
+        "fullAnalysis": "Strategic focus: Stacked adverbs. 'Неожиданно' modifies the whole act of laughing while 'громко' adds volume. Together they paint a sudden, loud burst that caught everyone off guard."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-04",
+        "phrase": "Телефон неожиданно зазвонил ночью.",
+        "fullAnalysis": "Strategic focus: Unforeseen event. 'Неожиданно' modifies 'зазвонил', marking the call as startling. The time word 'ночью' deepens the sense of an unwelcome surprise."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-05",
+        "phrase": "Гость неожиданно появился у двери.",
+        "fullAnalysis": "Strategic focus: Sudden appearance. 'Неожиданно' modifies 'появился', showing the guest turned up out of the blue. The adverb is a natural partner for verbs of appearing."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-06",
+        "phrase": "Мы неожиданно встретили старого друга.",
+        "fullAnalysis": "Strategic focus: Chance encounter. 'Неожиданно' modifies 'встретили', framing the meeting as a happy coincidence. It conveys that nobody planned this run-in."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-07",
+        "phrase": "Погода неожиданно изменилась к вечеру.",
+        "fullAnalysis": "Strategic focus: Abrupt change. 'Неожиданно' modifies 'изменилась', stressing how fast the weather turned. The adverb pairs well with verbs of sudden transformation."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-08",
+        "phrase": "Он неожиданно для всех уехал.",
+        "fullAnalysis": "Strategic focus: Surprise to others. 'Неожиданно для всех' shows the departure shocked everyone, with 'для всех' naming who was caught off guard. A common idiomatic extension of the adverb."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-09",
+        "phrase": "Свет неожиданно погас во всём доме.",
+        "fullAnalysis": "Strategic focus: Sudden interruption. 'Неожиданно' modifies 'погас', marking the blackout as instant and unplanned. The adverb heightens the drama of the moment."
+      },
+      {
+        "id": "AD-MANNER-NEOZHIDANNO-10",
+        "phrase": "Ответ оказался неожиданно простым.",
+        "fullAnalysis": "Strategic focus: Modifying a quality. Here 'неожиданно' modifies the adjective 'простым', meaning the answer was surprisingly simple. The adverb intensifies an unexpected degree rather than an action."
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-ABSTRACT-SMYSL",
+    "label": "Смысл",
+    "badge": "MEANING",
+    "description": "The masculine noun смысл (meaning, sense, point) across its full case ladder, with key collocations: смысл жизни, нет смысла, в смысле, прямой and глубокий смысл.",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-SMYSL-01",
+        "phrase": "В этом плане есть смысл.",
+        "fullAnalysis": "Strategic focus: Nominative subject of existence. 1. 'Смысл' stands in the nominative as the thing that exists. 2. 'Есть' marks presence or validity. 3. The sentence says the plan 'makes sense'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-02",
+        "phrase": "Наконец я понял смысл задачи.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 1. 'Смысл' is the accusative object of 'понял'; for this inanimate noun it matches the nominative form. 2. 'Понял' is past-tense, masculine. 3. A natural way to say 'I finally got the point'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-03",
+        "phrase": "Больше нет смысла спорить с ним.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. After 'нет' the noun takes the genitive: 'смысла'. 2. The infinitive 'спорить' names the pointless action. 3. Idiomatic for 'there's no point in arguing'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-04",
+        "phrase": "Он всю жизнь ищет смысл жизни.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Смысл' is the accusative object of 'ищет', matching nominative; 'жизни' is genitive, marking the meaning belonging to life. 2. The genitive links the two nouns. 3. A famous phrase: 'the meaning of life'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-05",
+        "phrase": "Я верю смыслу этих слов.",
+        "fullAnalysis": "Strategic focus: Dative as indirect object. 1. 'Верю' governs the dative, so 'смыслу' takes the dative ending. 2. 'Слов' is genitive plural after the noun. 3. Shows the dative role with a verb of trust."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-06",
+        "phrase": "Поэт дал смыслу новую форму.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 1. 'Смыслу' is the dative recipient of the giving. 2. 'Форму' is the accusative object given. 3. Demonstrates the give-to-X pattern with an abstract noun."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-07",
+        "phrase": "Роман наполнен глубоким смыслом.",
+        "fullAnalysis": "Strategic focus: Instrumental of content. 1. 'Смыслом' is instrumental, naming what fills. 2. 'Глубоким' is the agreeing instrumental adjective. 3. Adjective-noun agreement: 'filled with deep meaning'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-08",
+        "phrase": "Она поёт со смыслом и душой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 1. 'Со' takes the instrumental, giving 'смыслом'. 2. 'И душой' adds another instrumental noun. 3. Means doing something 'with meaning and soul'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-09",
+        "phrase": "Мы спорим о смысле этих слов.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 1. After 'о' the noun takes the prepositional: 'смысле'. 2. 'Этих слов' is genitive plural specifying which words. 3. Marks the topic 'about the meaning of these words'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-10",
+        "phrase": "Мне трудно в смысле работы.",
+        "fullAnalysis": "Strategic focus: Idiomatic 'в смысле'. 1. 'В смысле' uses the prepositional and means 'in terms of' or 'in the sense of'. 2. 'Работы' is genitive, naming the respect intended. 3. A frequent clarifying connector."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-11",
+        "phrase": "Меня интересует прямой смысл слова.",
+        "fullAnalysis": "Strategic focus: Adjective agreement, nominative. 1. 'Прямой' agrees with masculine 'смысл' in the nominative. 2. 'Слова' is genitive, marking possession. 3. Means the 'literal sense of the word'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-12",
+        "phrase": "Какой смысл ждать его так долго?",
+        "fullAnalysis": "Strategic focus: Rhetorical question with nominative. 1. 'Какой' agrees with masculine 'смысл' in the nominative. 2. The infinitive 'ждать' names the questioned action. 3. Idiom for 'what's the point of waiting'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-13",
+        "phrase": "Без заголовка текст потерял смысл.",
+        "fullAnalysis": "Strategic focus: Accusative after a verb of losing. 1. 'Смысл' is the accusative object of 'потерял'. 2. 'Текст' is the nominative subject. 3. Collocation meaning 'the text lost its meaning'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-14",
+        "phrase": "Старые слова обрели новые смыслы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Смыслы' is the accusative plural object of 'обрели'; for this inanimate noun it matches the nominative. 2. 'Слова' is the subject. 3. Shows multiple 'meanings' acquired."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-15",
+        "phrase": "В стихах много скрытых смыслов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 1. 'Много' governs the genitive plural: 'смыслов'. 2. 'Скрытых' is the agreeing genitive plural adjective. 3. Means 'many hidden meanings'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-16",
+        "phrase": "Меня поразил глубокий смысл фразы.",
+        "fullAnalysis": "Strategic focus: Adjective agreement with genitive complement. 1. 'Глубокий' agrees with masculine 'смысл' in the nominative. 2. 'Фразы' is genitive, marking whose meaning. 3. A vivid phrase: 'the deep meaning of the saying'."
+      },
+      {
+        "id": "NN-ABSTRACT-SMYSL-17",
+        "phrase": "Думаю, есть смысл попробовать ещё раз.",
+        "fullAnalysis": "Strategic focus: Existential 'есть' with nominative. 1. 'Смысл' is nominative as the thing that exists. 2. 'Попробовать' is the infinitive naming the worthwhile action. 3. Idiom for 'it's worth a try'."
+      }
+    ]
+  }
+]

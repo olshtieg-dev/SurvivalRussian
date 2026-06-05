@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-VPEREDI",
+    "label": "Впереди",
+    "badge": "AHEAD",
+    "description": "A 10-sentence usage card for впереди (ahead, in front).",
+    "missions": [
+      {
+        "id": "AD-PLACE-VPEREDI-01",
+        "phrase": "Впереди я вижу большой мост.",
+        "fullAnalysis": "Strategic focus: Static location ahead. 'Впереди' is an adverb marking what lies in front, answering где. It sets the scene before 'я вижу' and points to the space ahead of the speaker."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-02",
+        "phrase": "Иди вперёд, я буду впереди.",
+        "fullAnalysis": "Strategic focus: Position versus direction. 'Впереди' marks a static position in front, while 'вперёд' marks motion forward. The sentence contrasts the two closely related adverbs directly."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-03",
+        "phrase": "Самое трудное ещё впереди.",
+        "fullAnalysis": "Strategic focus: Figurative location in time. 'Впереди' here means still to come, extending the spatial sense of ahead into the future. It marks where the hardest part lies on the road ahead."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-04",
+        "phrase": "Машина впереди резко затормозила.",
+        "fullAnalysis": "Strategic focus: Static relative position. 'Впереди' modifies the noun phrase to mark the car positioned in front of us. It names a fixed relative location, not motion."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-05",
+        "phrase": "Кто там идёт впереди всех?",
+        "fullAnalysis": "Strategic focus: Leading position. 'Впереди' marks the front spot in a group, modifying 'идёт'. The added 'всех' in the genitive specifies ahead of everyone else."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-06",
+        "phrase": "Впереди нас ждёт долгая дорога.",
+        "fullAnalysis": "Strategic focus: What lies ahead. 'Впереди' opens the sentence to mark the space and time before us. It frames the long road as something still to come."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-07",
+        "phrase": "Бежим, финиш уже совсем впереди.",
+        "fullAnalysis": "Strategic focus: A goal positioned ahead. 'Впереди' marks the finish line as lying in front, reinforced by 'совсем'. It names a static point toward which the runners move."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-08",
+        "phrase": "Он всегда сидит впереди в классе.",
+        "fullAnalysis": "Strategic focus: Habitual position. 'Впереди' marks the front of the room as a static location for sitting. The habitual 'всегда' frames it as his usual spot."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-09",
+        "phrase": "Посмотри, что там впереди на дороге.",
+        "fullAnalysis": "Strategic focus: Scanning the space ahead. 'Впереди' marks the area in front, modifying the implied location of 'что там'. It directs attention to what lies ahead on the road."
+      },
+      {
+        "id": "AD-PLACE-VPEREDI-10",
+        "phrase": "Наша команда сейчас впереди в игре.",
+        "fullAnalysis": "Strategic focus: Figurative being ahead. 'Впереди' extends the spatial sense of in front to mean leading in a contest. It marks the team's position relative to the opponents."
+      }
+    ]
+  }
+]

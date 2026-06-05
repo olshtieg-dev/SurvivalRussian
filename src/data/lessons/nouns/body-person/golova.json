@@ -3,18 +3,18 @@
     "id": "NN-BODY-GOLOVA",
     "label": "Голова",
     "badge": "HEAD",
-    "description": "A 10-sentence usage card for голова with health, position, and case usage.",
+    "description": "A 10-sentence usage card for голова in full everyday sentences across health, position, and case usage.",
     "missions": [
-      { "id": "NN-BODY-GOLOVA-01", "phrase": "голова болит", "fullAnalysis": "Strategic focus: Basic health statement. 1. 'Голова' is the body noun under focus. 2. 'Болит' is a high-value everyday verb. 3. The sentence is short and immediately useful." },
-      { "id": "NN-BODY-GOLOVA-02", "phrase": "у меня болит голова", "fullAnalysis": "Strategic focus: Possession plus condition. 1. 'У меня' frames the symptom naturally. 2. 'Голова' stays the key noun. 3. This is the standard Russian way to report a headache." },
-      { "id": "NN-BODY-GOLOVA-03", "phrase": "поднял голову", "fullAnalysis": "Strategic focus: Motion of the head. 1. 'Голову' appears in accusative. 2. 'Поднял' is a practical past action. 3. The line is very common in narrative typing." },
-      { "id": "NN-BODY-GOLOVA-04", "phrase": "склонил голову", "fullAnalysis": "Strategic focus: Simple body motion. 1. 'Склонить голову' is a natural expression. 2. The noun stays central and concrete. 3. This sentence is good for physical description and story language." },
-      { "id": "NN-BODY-GOLOVA-05", "phrase": "на голове шапка", "fullAnalysis": "Strategic focus: Location on the body. 1. 'На голове' gives a very common placement phrase. 2. 'Шапка' is a useful everyday noun. 3. This is a vivid, simple household sentence." },
-      { "id": "NN-BODY-GOLOVA-06", "phrase": "над головой свет", "fullAnalysis": "Strategic focus: Spatial relation above. 1. 'Над головой' is a common prepositional phrase. 2. 'Свет' makes the sentence concrete. 3. This is useful for environment and room descriptions." },
-      { "id": "NN-BODY-GOLOVA-07", "phrase": "чешу голову", "fullAnalysis": "Strategic focus: Direct action on the body. 1. 'Чешу' is a simple first-person verb. 2. 'Голову' remains the object of the action. 3. The sentence is natural and easy to type." },
-      { "id": "NN-BODY-GOLOVA-08", "phrase": "в голове идея", "fullAnalysis": "Strategic focus: Abstract content in the head. 1. 'В голове' is a very common Russian phrase. 2. 'Идея' links body and thought. 3. This sentence is useful for everyday metaphor and thought language." },
-      { "id": "NN-BODY-GOLOVA-09", "phrase": "большая голова", "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Большая' matches the feminine noun. 2. The phrase is direct and easy to picture. 3. This is a clean adjective+noun training line." },
-      { "id": "NN-BODY-GOLOVA-10", "phrase": "говорю с поднятой головой", "fullAnalysis": "Strategic focus: Instrumental-style descriptive phrase. 1. 'С поднятой головой' is a natural image. 2. The sentence adds attitude and posture. 3. It is a strong bridge between body nouns and expressive language." }
+      { "id": "NN-BODY-GOLOVA-01", "phrase": "После работы у меня болит голова.", "fullAnalysis": "Strategic focus: Basic health statement. 1. 'Голова' is the body noun in the nominative as subject of 'болит'. 2. 'У меня' frames whose symptom it is. 3. Standard way to report a headache." },
+      { "id": "NN-BODY-GOLOVA-02", "phrase": "Сегодня утром у меня сильно болит голова.", "fullAnalysis": "Strategic focus: Possession plus condition. 1. 'У меня' marks the experiencer naturally. 2. 'Голова' stays nominative subject. 3. The standard Russian construction for reporting a headache." },
+      { "id": "NN-BODY-GOLOVA-03", "phrase": "Он медленно поднял голову и улыбнулся.", "fullAnalysis": "Strategic focus: Motion of the head. 1. 'Голову' appears in the accusative as direct object of 'поднял'. 2. 'Поднял' is a practical past action. 3. Very common in narrative." },
+      { "id": "NN-BODY-GOLOVA-04", "phrase": "Мальчик уважительно склонил голову перед учителем.", "fullAnalysis": "Strategic focus: Simple body motion. 1. 'Голову' is accusative, the direct object of 'склонил'. 2. 'Склонить голову' is a natural expression. 3. Good for physical description and story language." },
+      { "id": "NN-BODY-GOLOVA-05", "phrase": "На голове у неё была тёплая шапка.", "fullAnalysis": "Strategic focus: Location on the body. 1. 'На голове' uses the prepositional case for placement. 2. 'Шапка' is a useful everyday noun. 3. A vivid, simple household sentence." },
+      { "id": "NN-BODY-GOLOVA-06", "phrase": "Над головой ярко горел уличный свет.", "fullAnalysis": "Strategic focus: Spatial relation above. 1. 'Над головой' is an instrumental prepositional phrase meaning 'overhead'. 2. 'Свет' makes the scene concrete. 3. Useful for environment descriptions." },
+      { "id": "NN-BODY-GOLOVA-07", "phrase": "Я задумчиво чешу голову над задачей.", "fullAnalysis": "Strategic focus: Direct action on the body. 1. 'Голову' is accusative, the object of 'чешу'. 2. 'Чешу' is a simple first-person verb. 3. Natural and easy to type." },
+      { "id": "NN-BODY-GOLOVA-08", "phrase": "В голове у меня вертится одна идея.", "fullAnalysis": "Strategic focus: Abstract content in the head. 1. 'В голове' uses the prepositional case, a very common phrase. 2. 'Идея' links body and thought. 3. Useful for everyday metaphor." },
+      { "id": "NN-BODY-GOLOVA-09", "phrase": "У этого ребёнка очень большая голова.", "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Большая' agrees with the feminine nominative 'голова'. 2. The phrase is direct and easy to picture. 3. A clean adjective+noun training line." },
+      { "id": "NN-BODY-GOLOVA-10", "phrase": "Она всегда идёт с высоко поднятой головой.", "fullAnalysis": "Strategic focus: Instrumental descriptive phrase. 1. 'Головой' is instrumental in 'с поднятой головой'. 2. The sentence adds attitude and posture. 3. Bridges body nouns and expressive language." }
     ]
   }
 ]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-QUANTITY-SKOLKO",
+    "label": "Сколько",
+    "badge": "HOW MNY",
+    "description": "A 10-sentence usage card for сколько (how much; how many).",
+    "missions": [
+      {
+        "id": "AD-QUANTITY-SKOLKO-01",
+        "phrase": "Сколько стоит этот билет?",
+        "fullAnalysis": "Strategic focus: Asking a price. 'Сколько' opens a question about quantity, here the cost of a ticket. With 'стоит' it forms the standard way to ask how much something costs."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-02",
+        "phrase": "Сколько у тебя времени?",
+        "fullAnalysis": "Strategic focus: Quantity question with genitive. 'Сколько' takes the genitive 'времени' to ask how much time you have. As a question word it governs the genitive just like other quantity words."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-03",
+        "phrase": "Сколько человек придёт завтра?",
+        "fullAnalysis": "Strategic focus: Counting people. 'Сколько' asks how many people will come, with the special genitive 'человек' after a quantity word. This counting form is idiomatic for people."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-04",
+        "phrase": "Сколько книг ты прочитал?",
+        "fullAnalysis": "Strategic focus: Countable genitive plural. 'Сколько' governs the genitive plural 'книг' to ask how many books you read. The pattern 'сколько' plus genitive plural fits countable nouns."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-05",
+        "phrase": "Я не знаю, сколько это стоит.",
+        "fullAnalysis": "Strategic focus: Embedded indirect question. 'Сколько' introduces a subordinate clause about the price after 'я не знаю'. As a connector it carries the question word into reported speech."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-06",
+        "phrase": "Сколько тебе лет?",
+        "fullAnalysis": "Strategic focus: Asking age. 'Сколько' with the dative 'тебе' and genitive 'лет' forms the fixed way to ask someone's age. It literally measures how many years are to you."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-07",
+        "phrase": "Сколько сахара ты кладёшь в чай?",
+        "fullAnalysis": "Strategic focus: Mass-noun quantity. 'Сколько' takes the genitive singular 'сахара' to ask how much sugar you add. With mass nouns the complement stays in the genitive singular."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-08",
+        "phrase": "Сколько раз тебе повторять?",
+        "fullAnalysis": "Strategic focus: Rhetorical frequency. 'Сколько' with the genitive 'раз' asks how many times, here as an exasperated rhetorical question. The structure measures repetitions of an action."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-09",
+        "phrase": "Бери столько, сколько нужно.",
+        "fullAnalysis": "Strategic focus: The correlative pair. 'Сколько' pairs with 'столько' to mean take as much as needed. Together they form a correlative that ties a measure to a quantity across clauses."
+      },
+      {
+        "id": "AD-QUANTITY-SKOLKO-10",
+        "phrase": "Сколько у вас детей?",
+        "fullAnalysis": "Strategic focus: Possession count. 'Сколько' governs the genitive plural 'детей' in a possession frame with 'у вас' to ask how many children you have. A common everyday question."
+      }
+    ]
+  }
+]

@@ -7,103 +7,103 @@
     "missions": [
       {
         "id": "SM-S-01",
-        "phrase": "я с тобой",
-        "fullAnalysis": "Strategic focus: Companion relation. 1. 'С тобой' means with you. 2. The phrase is short and extremely common. 3. It’s a core building block for real conversation."
+        "phrase": "Я всегда с тобой.",
+        "fullAnalysis": "Strategic focus: Companion relation, instrumental case. 1. 'С тобой' means with you and takes the instrumental. 2. 'Всегда' adds the sense of always. 3. A core building block for real conversation."
       },
       {
         "id": "SM-S-02",
-        "phrase": "я иду с тобой",
-        "fullAnalysis": "Strategic focus: Motion with a companion. 1. 'С тобой' keeps the companion relation clear. 2. 'Иду' is walking motion. 3. This sentence pairs movement with togetherness."
+        "phrase": "Я иду с тобой в кино.",
+        "fullAnalysis": "Strategic focus: Motion with a companion, instrumental case. 1. 'С тобой' keeps the companion relation in the instrumental. 2. 'Иду' is present walking motion. 3. The sentence pairs movement with togetherness."
       },
       {
         "id": "SM-S-03",
-        "phrase": "он пришёл с работы",
-        "fullAnalysis": "Strategic focus: Coming from a place. 1. 'С работы' marks departure from work. 2. 'Пришел' is completed motion. 3. This is one of the most natural everyday patterns."
+        "phrase": "Он пришёл домой с работы.",
+        "fullAnalysis": "Strategic focus: Coming from a place, genitive case. 1. 'С работы' marks departure from work in the genitive. 2. 'Пришёл' is completed motion. 3. One of the most natural everyday patterns."
       },
       {
         "id": "SM-S-04",
-        "phrase": "он идёт с работы",
-        "fullAnalysis": "Strategic focus: Ongoing departure. 1. 'С работы' is the source. 2. 'Идет' is present motion. 3. This sentence is the ongoing counterpart to 'пришел с работы'."
+        "phrase": "Он сейчас идёт с работы.",
+        "fullAnalysis": "Strategic focus: Ongoing departure, genitive case. 1. 'С работы' is the source in the genitive. 2. 'Идёт' is present motion. 3. The ongoing counterpart to 'пришёл с работы'."
       },
       {
         "id": "SM-S-05",
-        "phrase": "мы вернулись с моря",
-        "fullAnalysis": "Strategic focus: Return from a source. 1. 'С моря' marks the place you came back from. 2. 'Вернулись' is plural completed motion. 3. This is a common travel-memory sentence."
+        "phrase": "Мы вчера вернулись с моря.",
+        "fullAnalysis": "Strategic focus: Return from a source, genitive case. 1. 'С моря' marks the place returned from in the genitive. 2. 'Вернулись' is plural completed motion. 3. A common travel-memory sentence."
       },
       {
         "id": "SM-S-06",
-        "phrase": "мы идём с вокзала",
-        "fullAnalysis": "Strategic focus: Leaving a station. 1. 'С вокзала' marks the source. 2. 'Идем' is plural walking motion. 3. The sentence pairs nicely with 'мы идем на вокзал'."
+        "phrase": "Мы медленно идём с вокзала.",
+        "fullAnalysis": "Strategic focus: Leaving a station, genitive case. 1. 'С вокзала' marks the source in the genitive. 2. 'Идём' is plural walking motion. 3. Pairs neatly with 'мы идём на вокзал'."
       },
       {
         "id": "SM-S-07",
-        "phrase": "она взяла книгу с полки",
-        "fullAnalysis": "Strategic focus: Removing something from a surface. 1. 'С полки' marks the source. 2. 'Взяла' is completed past tense. 3. This sentence is a strong source contrast with 'на полке'."
+        "phrase": "Она взяла книгу с полки.",
+        "fullAnalysis": "Strategic focus: Removing something from a surface, genitive case. 1. 'С полки' marks the source in the genitive. 2. 'Взяла' is completed past tense. 3. A strong source contrast with 'на полке'."
       },
       {
         "id": "SM-S-08",
-        "phrase": "я беру книгу с полки",
-        "fullAnalysis": "Strategic focus: Ongoing removal from a surface. 1. 'С полки' marks the source. 2. 'Беру' is present tense. 3. This sentence is practical and easy to picture."
+        "phrase": "Я беру книгу с полки.",
+        "fullAnalysis": "Strategic focus: Ongoing removal from a surface, genitive case. 1. 'С полки' marks the source in the genitive. 2. 'Беру' is present tense. 3. Practical and easy to picture."
       },
       {
         "id": "SM-S-09",
-        "phrase": "они сняли картину со стены",
-        "fullAnalysis": "Strategic focus: Removing from a surface. 1. 'Со стены' marks the source. 2. 'Сняли' is a completed action. 3. The sentence is vivid and useful for household description."
+        "phrase": "Они сняли картину со стены.",
+        "fullAnalysis": "Strategic focus: Removing from a surface, genitive case. 1. 'Со стены' marks the source in the genitive; 'со' before the cluster. 2. 'Сняли' is a completed action. 3. Vivid and useful for household description."
       },
       {
         "id": "SM-S-10",
-        "phrase": "я снимаю картину со стены",
-        "fullAnalysis": "Strategic focus: Ongoing removal from a surface. 1. 'Со стены' is the source. 2. 'Снимаю' is present tense. 3. This is the ongoing counterpart to the completed version."
+        "phrase": "Я снимаю картину со стены.",
+        "fullAnalysis": "Strategic focus: Ongoing removal from a surface, genitive case. 1. 'Со стены' is the source in the genitive; 'со' before the cluster. 2. 'Снимаю' is present tense. 3. The ongoing counterpart to the completed version."
       },
       {
         "id": "SM-S-11",
-        "phrase": "он ушёл с улицы",
-        "fullAnalysis": "Strategic focus: Leaving a place. 1. 'С улицы' marks the source. 2. 'Ушел' is completed motion. 3. This sentence is useful for street and location contrasts."
+        "phrase": "Он быстро ушёл с улицы.",
+        "fullAnalysis": "Strategic focus: Leaving a place, genitive case. 1. 'С улицы' marks the source in the genitive. 2. 'Ушёл' is completed motion. 3. Useful for street and location contrasts."
       },
       {
         "id": "SM-S-12",
-        "phrase": "он идёт с улицы",
-        "fullAnalysis": "Strategic focus: Ongoing departure from a place. 1. 'С улицы' marks the source. 2. 'Идет' is present tense motion. 3. This sentence reinforces the exit idea."
+        "phrase": "Он сейчас идёт с улицы.",
+        "fullAnalysis": "Strategic focus: Ongoing departure from a place, genitive case. 1. 'С улицы' marks the source in the genitive. 2. 'Идёт' is present tense motion. 3. The sentence reinforces the exit idea."
       },
       {
         "id": "SM-S-13",
-        "phrase": "я пришёл с другом",
-        "fullAnalysis": "Strategic focus: Companion relation. 1. 'С другом' means with a friend. 2. 'Пришел' is completed motion. 3. The sentence teaches the companion use of 'с'."
+        "phrase": "Я пришёл на вечеринку с другом.",
+        "fullAnalysis": "Strategic focus: Companion relation, instrumental case. 1. 'С другом' means with a friend in the instrumental. 2. 'Пришёл' is completed motion. 3. Teaches the companion use of 'с'."
       },
       {
         "id": "SM-S-14",
-        "phrase": "мы идём с другом",
-        "fullAnalysis": "Strategic focus: Motion with a companion. 1. 'С другом' keeps the companion relation clear. 2. 'Идем' is plural walking motion. 3. This sentence is a useful conversational everyday phrase."
+        "phrase": "Мы гуляем по парку с другом.",
+        "fullAnalysis": "Strategic focus: Motion with a companion, instrumental case. 1. 'С другом' keeps the companion relation in the instrumental. 2. 'Гуляем' is plural present motion. 3. A useful everyday conversational line."
       },
       {
         "id": "SM-S-15",
-        "phrase": "она вышла с работы",
-        "fullAnalysis": "Strategic focus: Exit from work. 1. 'С работы' marks departure. 2. 'Вышла' is a completed motion verb. 3. This is an extremely common Russian daily-life pattern."
+        "phrase": "Она поздно вышла с работы.",
+        "fullAnalysis": "Strategic focus: Exit from work, genitive case. 1. 'С работы' marks departure in the genitive. 2. 'Вышла' is a completed motion verb. 3. An extremely common Russian daily-life pattern."
       },
       {
         "id": "SM-S-16",
-        "phrase": "я иду с урока",
-        "fullAnalysis": "Strategic focus: Leaving class. 1. 'С урока' marks the source. 2. 'Иду' is present tense motion. 3. The sentence fits school life very naturally."
+        "phrase": "Я сейчас иду с урока.",
+        "fullAnalysis": "Strategic focus: Leaving class, genitive case. 1. 'С урока' marks the source in the genitive. 2. 'Иду' is present tense motion. 3. The sentence fits school life very naturally."
       },
       {
         "id": "SM-S-17",
-        "phrase": "мы вышли с урока",
-        "fullAnalysis": "Strategic focus: Completed departure from class. 1. 'Вышли' is plural past motion. 2. 'С урока' marks the source. 3. This is a perfect contrast to 'идем с урока'."
+        "phrase": "Мы только что вышли с урока.",
+        "fullAnalysis": "Strategic focus: Completed departure from class, genitive case. 1. 'Вышли' is plural past motion. 2. 'С урока' marks the source in the genitive. 3. A perfect contrast to 'идём с урока'."
       },
       {
         "id": "SM-S-18",
-        "phrase": "он пришёл с ним",
-        "fullAnalysis": "Strategic focus: Coming together with someone. 1. 'С ним' is the companion form. 2. 'Пришел' is completed motion. 3. This is a useful relation phrase in conversation."
+        "phrase": "Он пришёл на встречу с ним.",
+        "fullAnalysis": "Strategic focus: Coming together with someone, instrumental case. 1. 'С ним' is the companion form in the instrumental. 2. 'Пришёл' is completed motion. 3. A useful relation phrase in conversation."
       },
       {
         "id": "SM-S-19",
-        "phrase": "они живут с родителями",
-        "fullAnalysis": "Strategic focus: Living with someone. 1. 'С родителями' is a stable companion relation. 2. 'Живут' is plural present. 3. This sentence is great for everyday family context."
+        "phrase": "Они до сих пор живут с родителями.",
+        "fullAnalysis": "Strategic focus: Living with someone, instrumental case. 1. 'С родителями' is a stable companion relation in the instrumental. 2. 'Живут' is plural present. 3. Great for everyday family context."
       },
       {
         "id": "SM-S-20",
-        "phrase": "я ушёл с ним из дома",
-        "fullAnalysis": "Strategic focus: Complex departure with companion and source. 1. 'С ним' marks the companion. 2. 'Из дома' marks the source. 3. This sentence combines two major movement ideas in one clean line."
+        "phrase": "Я ушёл с ним из дома.",
+        "fullAnalysis": "Strategic focus: Departure with companion and source. 1. 'С ним' marks the companion in the instrumental. 2. 'Из дома' marks the source in the genitive. 3. Combines two movement ideas in one clean line."
       }
     ]
   }

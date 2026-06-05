@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-BOLEE",
+    "label": "Более",
+    "badge": "MORE",
+    "description": "A 10-sentence usage card for более (more).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-BOLEE-01",
+        "phrase": "Это более сложный вопрос.",
+        "fullAnalysis": "Strategic focus: Analytic comparative. 'Более' forms a comparative with the adjective 'сложный', meaning more difficult. It precedes the adjective and is more formal than a one-word comparative."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-02",
+        "phrase": "Нам нужен более удобный план.",
+        "fullAnalysis": "Strategic focus: Comparative inside a noun phrase. 'Более' scales 'удобный' up a degree, and the pair together describes 'план'. The construction is neutral to bookish in register."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-03",
+        "phrase": "Этот метод более эффективный.",
+        "fullAnalysis": "Strategic focus: Predicate comparative. 'Более' raises 'эффективный' into a comparative without a comparison partner stated. It sits before the adjective it modifies."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-04",
+        "phrase": "Она хочет более спокойную жизнь.",
+        "fullAnalysis": "Strategic focus: Comparative in the accusative. 'Более' modifies 'спокойную', which agrees with 'жизнь' in the accusative case. The analytic comparative stays before the adjective regardless of case."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-05",
+        "phrase": "Это более или менее понятно.",
+        "fullAnalysis": "Strategic focus: Set expression. In the fixed phrase 'более или менее', 'более' pairs with 'менее' to mean more or less. It functions as a softening hedge before the predicative."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-06",
+        "phrase": "Нужно работать более внимательно.",
+        "fullAnalysis": "Strategic focus: Comparative of an adverb. 'Более' can also scale the adverb 'внимательно', meaning more attentively. It precedes the adverb to form the analytic comparative."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-07",
+        "phrase": "Мы ищем более дешёвый вариант.",
+        "fullAnalysis": "Strategic focus: Comparative with a goal. 'Более' lifts 'дешёвый' to mean cheaper, describing the 'вариант' being sought. The analytic form is common when a one-word comparative is awkward."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-08",
+        "phrase": "Сегодня он более активный.",
+        "fullAnalysis": "Strategic focus: Predicate with no partner. 'Более' makes 'активный' comparative, implying a contrast with another day. It stays before the adjective in this neutral predicate use."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-09",
+        "phrase": "Это более важная задача.",
+        "fullAnalysis": "Strategic focus: Ranking importance. 'Более' scales 'важная' up a step to mean more important, and the phrase describes 'задача'. The construction suits formal and written contexts."
+      },
+      {
+        "id": "AD-DEGREE-BOLEE-10",
+        "phrase": "Этот вариант более удобный для всех.",
+        "fullAnalysis": "Strategic focus: Analytic comparative. 'Более' builds the analytic comparative with the adjective 'удобный', meaning more convenient. This bookish pattern is an alternative to the synthetic comparative удобнее."
+      }
+    ]
+  }
+]

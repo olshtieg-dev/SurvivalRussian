@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-NUZHNO",
+    "label": "Нужно",
+    "badge": "NEED",
+    "description": "A 10-sentence usage card for нужно (need to / necessary).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-01",
+        "phrase": "Мне нужно отдохнуть немного.",
+        "fullAnalysis": "Strategic focus: Necessity with a dative experiencer. 'Нужно' is the impersonal predicative for need, and 'мне' is the dative person who needs it. The infinitive 'отдохнуть' states the required action, slightly more formal than надо."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-02",
+        "phrase": "Тебе нужно выпить воды.",
+        "fullAnalysis": "Strategic focus: Recommendation with нужно. The dative 'тебе' is the experiencer, 'нужно' carries the necessity, and the perfective infinitive 'выпить' frames a single act, with 'воды' in the genitive of quantity."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-03",
+        "phrase": "Мне нужно было уйти.",
+        "fullAnalysis": "Strategic focus: Past necessity. The neuter 'было' marks past tense for the impersonal 'нужно', and 'мне' stays dative. The infinitive 'уйти' names the action that had to happen earlier."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-04",
+        "phrase": "Мне нужно новое пальто.",
+        "fullAnalysis": "Strategic focus: Needing an object. Here 'нужно' agrees with the neuter noun 'пальто' as a short adjective of need, and 'мне' is the dative experiencer. No infinitive appears, only the needed thing."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-05",
+        "phrase": "Нам нужно решить эту проблему.",
+        "fullAnalysis": "Strategic focus: Plural necessity. The dative 'нам' names who must act, 'нужно' carries the obligation, and the perfective infinitive 'решить' frames a single decisive action on the accusative object 'проблему'."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-06",
+        "phrase": "Зачем тебе это нужно?",
+        "fullAnalysis": "Strategic focus: Questioning a need. 'Нужно' here works with the nominative 'это' as the thing needed, and 'тебе' is the dative experiencer. The question word 'зачем' asks for the purpose behind the need."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-07",
+        "phrase": "Ему нужно много спать.",
+        "fullAnalysis": "Strategic focus: Third-person ongoing need. The dative 'ему' is the experiencer, 'нужно' carries the necessity, and the imperfective infinitive 'спать' with 'много' describes a habitual, repeated requirement."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-08",
+        "phrase": "Нам нужно было больше времени.",
+        "fullAnalysis": "Strategic focus: Past need for a quantity. The neuter 'было' marks past tense, 'нам' is the dative experiencer, and 'времени' is genitive after 'больше', showing how much was lacking."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-09",
+        "phrase": "Вам нужно заполнить эту форму.",
+        "fullAnalysis": "Strategic focus: Formal instruction. The dative 'вам' is the polite experiencer, 'нужно' states the requirement, and the perfective infinitive 'заполнить' frames the single completed task on the accusative 'форму'."
+      },
+      {
+        "id": "AD-PREDICATIVE-NUZHNO-10",
+        "phrase": "Ей нужно готовиться к экзамену.",
+        "fullAnalysis": "Strategic focus: Necessity with a directional object. 'Ей' is the dative experiencer, 'нужно' carries the need, and the imperfective 'готовиться' takes 'к экзамену' in the dative, showing preparation toward a goal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-ABSTRACT-LYUBOV",
+    "label": "Любовь",
+    "badge": "LOVE",
+    "description": "Singular case ladder for любовь (feminine 3rd-declension, 'love') with its fleeting vowel: the о drops in all oblique forms (любовь → любви, любовью).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-LYUBOV-01",
+        "phrase": "Я думаю, что это любовь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Любовь' is the dictionary form, nominative singular predicate after 'это'. 2. The о is kept here; it only drops in oblique cases. 3. A natural identifying sentence."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-02",
+        "phrase": "Это была его первая любовь.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Первая' is feminine nominative singular agreeing with 'любовь'. 2. The noun stays nominative with the о intact. 3. A very common collocation in past narration."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-03",
+        "phrase": "У них настоящая любовь.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Настоящая' is feminine nominative singular and agrees with 'любовь'. 2. Nominative keeps the о. 3. A natural, emotive existential sentence."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-04",
+        "phrase": "Их связывает большая любовь.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Большая' is feminine nominative singular matching 'любовь', the subject of 'связывает'. 2. The noun remains nominative with the о. 3. A common descriptive collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-05",
+        "phrase": "Ты моя единственная любовь.",
+        "fullAnalysis": "Strategic focus: Possessive agreement. 1. 'Моя' is the feminine possessive agreeing with 'любовь', a nominative predicate. 2. Nominative singular, о intact. 3. A warm, everyday declaration."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-06",
+        "phrase": "Им нужны любовь и счастье.",
+        "fullAnalysis": "Strategic focus: Coordination. 1. 'Любовь' and 'счастье' are both nominative, joined by 'и', subjects of 'нужны'. 2. Both keep their full stem here. 3. A familiar paired expression."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-07",
+        "phrase": "Я очень ценю её любовь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Любовь' is the direct object of 'ценю'. 2. This 3rd-declension feminine noun has accusative identical to nominative, so the о stays. 3. A clear transitive sentence."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-08",
+        "phrase": "Их объединяет любовь к детям.",
+        "fullAnalysis": "Strategic focus: Nominative with prepositional object. 1. 'Любовь' is nominative subject; 'к детям' (dative) names its target. 2. The о stays in the head noun. 3. A standard 'любовь к' collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-09",
+        "phrase": "Между ними больше нет любви.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Нет' requires the genitive, giving 'любви'. 2. FLEETING VOWEL: the о drops, любовь → любви (not 'любови'). 3. A common negation-of-existence pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-10",
+        "phrase": "Это печальная история любви.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 1. 'Любви' is genitive singular modifying 'история'. 2. FLEETING VOWEL: о drops in the oblique form, любовь → любви. 3. A natural 'love story' phrase."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-11",
+        "phrase": "Без любви жизнь пуста.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 1. 'Без' governs the genitive, giving 'любви'. 2. FLEETING VOWEL: the о drops, любовь → любви. 3. A frequent prepositional collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-12",
+        "phrase": "Благодаря любви они выжили.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 1. 'Благодаря' takes the dative, here 'любви'. 2. 3rd-decl syncretism: gen=dat=prep all give 'любви'. 3. FLEETING VOWEL: о drops, любовь → любви."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-13",
+        "phrase": "Она счастлива в любви.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'В' with the abstract sphere takes the prepositional, 'любви'. 2. For this noun gen=dat=prep are identical (любви). 3. FLEETING VOWEL: the о drops, любовь → любви."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-14",
+        "phrase": "Он признался ей в любви.",
+        "fullAnalysis": "Strategic focus: Prepositional collocation. 1. 'Признался в' governs the prepositional 'любви'. 2. FLEETING VOWEL: о drops, любовь → любви. 3. A set phrase meaning 'confessed his love'."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-15",
+        "phrase": "Я клянусь тебе в любви.",
+        "fullAnalysis": "Strategic focus: Prepositional collocation. 1. 'Клянусь в' takes the prepositional 'любви'. 2. FLEETING VOWEL: the о drops in this oblique form, любовь → любви. 3. A natural vow expression."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-16",
+        "phrase": "Я наслаждаюсь её любовью.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 1. 'Наслаждаюсь' governs the instrumental 'любовью'. 2. FLEETING VOWEL: о drops, любовь → любовью. 3. The ending '-ью' is typical of feminine 3rd-declension nouns."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-17",
+        "phrase": "Она живёт только любовью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 1. 'Любовью' is instrumental, expressing what one lives by. 2. FLEETING VOWEL: о drops, любовь → любовью. 3. A poetic but natural construction."
+      },
+      {
+        "id": "NN-ABSTRACT-LYUBOV-18",
+        "phrase": "Я дорожу твоей любовью.",
+        "fullAnalysis": "Strategic focus: Instrumental with possessive. 1. 'Дорожу' governs the instrumental 'любовью'; 'твоей' agrees in instrumental. 2. FLEETING VOWEL: о drops, любовь → любовью. 3. A heartfelt everyday phrase."
+      }
+    ]
+  }
+]

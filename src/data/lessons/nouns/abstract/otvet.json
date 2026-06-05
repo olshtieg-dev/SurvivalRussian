@@ -1,0 +1,90 @@
+[
+  {
+    "id": "NN-ABSTRACT-OTVET",
+    "label": "Ответ",
+    "badge": "ANSWER",
+    "description": "The masculine noun ответ (answer, reply) drilled through its full case ladder, plural forms, adjective agreement, and core collocations.",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-OTVET-01",
+        "phrase": "Вот мой окончательный ответ.",
+        "fullAnalysis": "Strategic focus: Nominative case. 1. 'Ответ' is the bare dictionary form, here the predicate noun. 2. 'Мой' and 'окончательный' agree as masculine nominative. 3. This is the baseline shape before any case ending appears."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-02",
+        "phrase": "Он дал чёткий ответ.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Ответ' is the direct object of 'дал'. 2. For inanimate masculine nouns the accusative matches the nominative. 3. 'Дал ответ' is the standard verb-plus-object collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-03",
+        "phrase": "Я давно жду твоего ответа.",
+        "fullAnalysis": "Strategic focus: Genitive case. 1. 'Ответа' takes the genitive ending after 'ждать'. 2. The verb 'ждать' governs the genitive for an awaited thing. 3. 'Ждать ответа' is a fixed everyday collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-04",
+        "phrase": "На мой звонок нет ответа.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Ответа' is genitive after the negation word 'нет'. 2. 'Нет' always requires the genitive for the missing thing. 3. This is the standard way to say there is no answer."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-05",
+        "phrase": "Её письмо осталось без ответа.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 1. 'Ответа' is genitive governed by 'без'. 2. The preposition 'без' always takes the genitive. 3. 'Без ответа' means left unanswered."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-06",
+        "phrase": "Я очень рад вашему ответу.",
+        "fullAnalysis": "Strategic focus: Dative case. 1. 'Ответу' is the dative form. 2. The short adjective 'рад' governs the dative of the thing one is glad about. 3. 'Вашему' agrees as masculine dative."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-07",
+        "phrase": "Он доволен своим ответом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 1. 'Ответом' is the instrumental ending -ом. 2. The adjective 'доволен' governs the instrumental of its cause. 3. 'Своим' agrees as masculine instrumental."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-08",
+        "phrase": "Я всю ночь думаю об ответе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'Ответе' takes the prepositional ending -е. 2. 'Об' is used before a vowel and governs the prepositional. 3. This is the standard 'thinking about the answer' shape."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-09",
+        "phrase": "В этом ответе нет ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'в'. 1. 'Ответе' is prepositional governed by 'в'. 2. 'В' with the prepositional marks location, here inside the answer. 3. 'Нет ошибок' adds a genitive of absence."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-10",
+        "phrase": "Это абсолютно правильный ответ.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Ответ' is nominative masculine. 2. 'Правильный' agrees with the hard masculine nominative ending -ый. 3. 'Правильный ответ' is a very frequent pairing."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-11",
+        "phrase": "У него всегда готовый ответ.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Ответ' stays nominative masculine. 2. 'Готовый' agrees in the masculine nominative ending -ый. 3. 'Готовый ответ' means a ready-made or prepared answer."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-12",
+        "phrase": "В ответ он лишь промолчал.",
+        "fullAnalysis": "Strategic focus: Idiom 'в ответ'. 1. 'Ответ' is accusative inside the fixed phrase 'в ответ'. 2. The idiom means 'in reply' and resists literal parsing. 3. 'Промолчал' supplies the reaction verb."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-13",
+        "phrase": "Это точный ответ на вопрос.",
+        "fullAnalysis": "Strategic focus: Collocation 'ответ на'. 1. 'Ответ' is nominative, the head noun. 2. 'На вопрос' uses the accusative after 'на' to mark the target. 3. 'Ответ на вопрос' is the standard answer-to-a-question frame."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-14",
+        "phrase": "Все ваши ответы верны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Ответы' is the nominative plural ending -ы. 2. It serves as the plural subject here. 3. 'Верны' is a short-form predicate agreeing in the plural."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-15",
+        "phrase": "У меня много разных ответов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Ответов' is the genitive plural ending -ов. 2. The quantifier 'много' governs the genitive plural. 3. This counts an indefinite large number of answers."
+      },
+      {
+        "id": "NN-ABSTRACT-OTVET-16",
+        "phrase": "Я ищу ответы на тесте.",
+        "fullAnalysis": "Strategic focus: Plural object plus prepositional. 1. 'Ответы' is accusative plural, matching the nominative for inanimates. 2. 'Ищу' takes this direct object. 3. 'На тесте' uses the prepositional to mark location."
+      }
+    ]
+  }
+]

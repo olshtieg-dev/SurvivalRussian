@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-OKOLO",
+    "label": "Около",
+    "badge": "NEAR",
+    "description": "A 10-sentence usage card for около (near, nearby).",
+    "missions": [
+      {
+        "id": "AD-PLACE-OKOLO-01",
+        "phrase": "Магазин находится где-то около.",
+        "fullAnalysis": "Strategic focus: Standalone adverbial use. Here 'около' stands alone meaning nearby or close at hand. It marks a static location without governing a noun, paired with the vague 'где-то'."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-02",
+        "phrase": "Он живёт совсем около.",
+        "fullAnalysis": "Strategic focus: Nearby as a place. 'Около' is adverbial and standalone, meaning close by. It marks where he lives in static terms, intensified by 'совсем'."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-03",
+        "phrase": "Кошка спит около двери.",
+        "fullAnalysis": "Strategic focus: Adverb versus preposition. Here 'около' governs the genitive 'двери', acting as a preposition meaning near the door. Compare the bare adverb in 'живёт около', which needs no noun."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-04",
+        "phrase": "Подожди меня где-нибудь около.",
+        "fullAnalysis": "Strategic focus: Standalone location for waiting. 'Около' stands alone meaning somewhere nearby. It marks a static spot, not motion, and pairs naturally with the indefinite 'где-нибудь'."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-05",
+        "phrase": "Дети играют около дома.",
+        "fullAnalysis": "Strategic focus: Prepositional use of near. 'Около' governs the genitive 'дома' as a preposition, marking where the children play. It states a static location beside the house."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-06",
+        "phrase": "Аптека прямо тут, около.",
+        "fullAnalysis": "Strategic focus: Standalone nearby. 'Около' stands alone, meaning right nearby, reinforced by 'прямо тут'. It marks a fixed location with no noun and no motion."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-07",
+        "phrase": "Скамейка стоит около фонтана.",
+        "fullAnalysis": "Strategic focus: Static position near something. Here 'около' takes the genitive 'фонтана' as a preposition, placing the bench beside the fountain. The scene is static, marked by 'стоит'."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-08",
+        "phrase": "Остановка совсем близко, прямо около.",
+        "fullAnalysis": "Strategic focus: Emphasis on nearness. 'Около' is standalone and adverbial, echoing 'близко' to stress how near the stop is. It marks a static location without a following noun."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-09",
+        "phrase": "Мы сели около окна в кафе.",
+        "fullAnalysis": "Strategic focus: Sitting near a feature. 'Около' governs the genitive 'окна' as a preposition, marking where we sat. It names a static position beside the window."
+      },
+      {
+        "id": "AD-PLACE-OKOLO-10",
+        "phrase": "Все нужные магазины тут, около.",
+        "fullAnalysis": "Strategic focus: Standalone adverb of place. 'Около' stands alone meaning right here nearby, with no noun to govern. It marks a static area, contrasting with its prepositional use plus the genitive."
+      }
+    ]
+  }
+]

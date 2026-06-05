@@ -7,53 +7,53 @@
     "missions": [
       {
         "id": "CL-I-01",
-        "phrase": "я читаю и пишу",
-        "fullAnalysis": "Strategic focus: Two linked actions. 1. 'И' joins two verbs without changing the subject. 2. 'Читаю' and 'пишу' both stay in first person singular. 3. This is a clean entry point for additive logic."
+        "phrase": "Я читаю книгу и пишу заметки.",
+        "fullAnalysis": "Strategic focus: Two linked actions. 1. 'И' joins 'читаю' and 'пишу' under one first-person subject. 2. Each verb keeps its own object, 'книгу' and 'заметки'. 3. A clean model of additive coordination."
       },
       {
         "id": "CL-I-02",
-        "phrase": "ты идёшь и слушаешь",
-        "fullAnalysis": "Strategic focus: Parallel actions. 1. 'Ты' forces both verbs into second person singular. 2. 'Идешь' and 'слушаешь' are easy to compare. 3. The sentence trains smooth coordination."
+        "phrase": "Ты идёшь по парку и слушаешь музыку.",
+        "fullAnalysis": "Strategic focus: Parallel actions. 1. 'Ты' holds both 'идёшь' and 'слушаешь' in second person singular. 2. 'И' coordinates the two simultaneous activities. 3. Trains smooth chaining of verbs."
       },
       {
         "id": "CL-I-03",
-        "phrase": "он берет книгу и сумку",
-        "fullAnalysis": "Strategic focus: One subject, two objects. 1. 'Берет' is a direct action verb. 2. 'Книгу и сумку' shows that one verb can govern a list. 3. This is useful for everyday carrying language."
+        "phrase": "Он берёт книгу и сумку со стола.",
+        "fullAnalysis": "Strategic focus: One subject, two objects. 1. 'Берёт' governs the joined pair 'книгу и сумку'. 2. 'И' links the two accusative objects under one verb. 3. Everyday carrying language."
       },
       {
         "id": "CL-I-04",
-        "phrase": "мы покупаем хлеб и молоко",
-        "fullAnalysis": "Strategic focus: Shopping list logic. 1. 'Мы покупаем' is a very common present-tense frame. 2. 'Хлеб и молоко' are simple, reusable nouns. 3. The line is practical and easy to remember."
+        "phrase": "Мы покупаем хлеб и молоко в магазине.",
+        "fullAnalysis": "Strategic focus: Shopping list logic. 1. 'Мы покупаем' is a common present-tense frame. 2. 'И' chains 'хлеб' and 'молоко' as a list. 3. Practical and easy to reuse."
       },
       {
         "id": "CL-I-05",
-        "phrase": "мама и папа дома",
-        "fullAnalysis": "Strategic focus: Joined subjects. 1. 'И' can join two nouns into a compound subject. 2. 'Дома' closes the sentence naturally. 3. This teaches that 'and' works on subject level too."
+        "phrase": "Мама и папа сегодня дома.",
+        "fullAnalysis": "Strategic focus: Joined subjects. 1. 'И' fuses 'мама' and 'папа' into one compound subject. 2. 'Сегодня дома' closes the sentence naturally. 3. Shows 'and' working at subject level."
       },
       {
         "id": "CL-I-06",
-        "phrase": "дверь и окно открыты",
-        "fullAnalysis": "Strategic focus: Plural predicate agreement. 1. Two nouns make the predicate plural. 2. 'Открыты' is the matching short-form adjective. 3. The sentence is a good grammar test for agreement."
+        "phrase": "Дверь и окно в комнате открыты.",
+        "fullAnalysis": "Strategic focus: Plural predicate agreement. 1. 'И' joins 'дверь' and 'окно' into a plural subject. 2. 'Открыты' matches in the plural short form. 3. A solid agreement test."
       },
       {
         "id": "CL-I-07",
-        "phrase": "я вижу дом и сад",
-        "fullAnalysis": "Strategic focus: Visual object list. 1. 'Вижу' stays in first person singular. 2. 'Дом и сад' gives two concrete objects at once. 3. This is simple but dense enough to train focus."
+        "phrase": "Из окна я вижу дом и сад.",
+        "fullAnalysis": "Strategic focus: Visual object list. 1. 'Вижу' stays first person singular. 2. 'И' joins the two concrete objects 'дом' and 'сад'. 3. Simple yet dense enough to train focus."
       },
       {
         "id": "CL-I-08",
-        "phrase": "он говорит по-русски и по-английски",
-        "fullAnalysis": "Strategic focus: Coordinated adverbs. 1. 'По-русски и по-английски' shows two modes of speech. 2. The sentence is useful for language identity and bilingual contexts. 3. It also reinforces the adverbial pattern with 'по-'."
+        "phrase": "Он свободно говорит по-русски и по-английски.",
+        "fullAnalysis": "Strategic focus: Coordinated adverbs. 1. 'И' links 'по-русски' and 'по-английски' as two modes of speech. 2. Useful for bilingual contexts. 3. Reinforces the adverbial 'по-' pattern."
       },
       {
         "id": "CL-I-09",
-        "phrase": "книга и тетрадь на столе",
-        "fullAnalysis": "Strategic focus: Joined nouns with location. 1. Two nouns are treated as a pair. 2. 'На столе' gives the shared location. 3. This is an everyday visual sentence that learners can picture instantly."
+        "phrase": "Книга и тетрадь лежат на столе.",
+        "fullAnalysis": "Strategic focus: Joined nouns with location. 1. 'И' pairs 'книга' and 'тетрадь' into a plural subject. 2. 'Лежат на столе' gives the shared location and plural verb. 3. An everyday visual scene."
       },
       {
         "id": "CL-I-10",
-        "phrase": "они работают и отдыхают",
-        "fullAnalysis": "Strategic focus: Contrast within one subject. 1. 'Они' drives both verbs. 2. 'Работают и отдыхают' is a very natural life pattern. 3. The sentence is good for practicing balance and rhythm."
+        "phrase": "Они весь день работают и отдыхают.",
+        "fullAnalysis": "Strategic focus: Balanced activities. 1. 'Они' drives both 'работают' and 'отдыхают'. 2. 'И' coordinates the two third-person plural verbs. 3. A natural rhythm of daily life."
       }
     ]
   }

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-TAK",
+    "label": "Так",
+    "badge": "SO",
+    "description": "A 10-sentence usage card for так (so, this way) covering manner, intensity, and discourse uses.",
+    "missions": [
+      {
+        "id": "AD-MANNER-TAK-01",
+        "phrase": "Почему ты так быстро бежишь?",
+        "fullAnalysis": "Strategic focus: Manner intensifier. 'Так' here means 'so' and intensifies the adverb 'быстро', stressing the degree of speed. It sits right before the word it amplifies, a very common spoken pattern."
+      },
+      {
+        "id": "AD-MANNER-TAK-02",
+        "phrase": "Не делай так больше никогда.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Так' means 'this way' and modifies the verb 'делай', pointing at how something is done. It refers back to a behaviour both speakers understand."
+      },
+      {
+        "id": "AD-MANNER-TAK-03",
+        "phrase": "Сегодня так холодно на улице.",
+        "fullAnalysis": "Strategic focus: Intensifying a predicate. 'Так' boosts the impersonal predicate 'холодно', conveying a strong degree of cold. This 'так + short adjective' frame is everyday exclamatory speech."
+      },
+      {
+        "id": "AD-MANNER-TAK-04",
+        "phrase": "Он говорит так тихо и спокойно.",
+        "fullAnalysis": "Strategic focus: Manner with intensity. 'Так' intensifies the adverbs 'тихо' and 'спокойно', describing how he speaks. Placed before the adverbs, it adds emotional emphasis."
+      },
+      {
+        "id": "AD-MANNER-TAK-05",
+        "phrase": "Так, давай начнём работу.",
+        "fullAnalysis": "Strategic focus: Discourse marker. Here 'так' opens the sentence as a transition word meaning 'all right' or 'so', signalling a shift to action. It is colloquial and very common in conversation."
+      },
+      {
+        "id": "AD-MANNER-TAK-06",
+        "phrase": "Я так устал сегодня.",
+        "fullAnalysis": "Strategic focus: Degree intensifier. 'Так' amplifies the predicate 'устал', expressing how tired the speaker is. This emotional 'так' is a staple of casual complaint."
+      },
+      {
+        "id": "AD-MANNER-TAK-07",
+        "phrase": "Сделай это именно так.",
+        "fullAnalysis": "Strategic focus: Pointing at a method. 'Так' means 'this way' and modifies 'сделай', specifying the exact manner. 'Именно' sharpens it to 'precisely like this'."
+      },
+      {
+        "id": "AD-MANNER-TAK-08",
+        "phrase": "Она так красиво поёт.",
+        "fullAnalysis": "Strategic focus: Manner plus admiration. 'Так' intensifies the adverb 'красиво', which describes how she sings. The pairing expresses genuine admiration."
+      },
+      {
+        "id": "AD-MANNER-TAK-09",
+        "phrase": "Если так, тогда я согласен.",
+        "fullAnalysis": "Strategic focus: Conditional reference. 'Так' stands in for a whole situation, meaning 'if that is the case'. This anaphoric use links back to what was just said."
+      },
+      {
+        "id": "AD-MANNER-TAK-10",
+        "phrase": "Не так уж и плохо.",
+        "fullAnalysis": "Strategic focus: Softened degree. The frame 'не так уж' softens the following 'плохо', meaning 'not all that bad'. It is a fixed colloquial way to downplay something."
+      }
+    ]
+  }
+]

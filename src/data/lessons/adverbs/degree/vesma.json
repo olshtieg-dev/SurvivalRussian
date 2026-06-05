@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-VESMA",
+    "label": "Весьма",
+    "badge": "HIGHLY",
+    "description": "A 10-sentence usage card for весьма (very, highly), a bookish intensifier.",
+    "missions": [
+      {
+        "id": "AD-DEGREE-VESMA-01",
+        "phrase": "Это весьма интересный вопрос.",
+        "fullAnalysis": "Strategic focus: Formal intensity. 'Весьма' means very or highly and intensifies 'интересный'. It is a bookish, formal synonym of очень and stands before the word it scales up."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-02",
+        "phrase": "Доклад был весьма убедительным.",
+        "fullAnalysis": "Strategic focus: Formal degree in the past. 'Весьма' intensifies the instrumental adjective 'убедительным', meaning highly convincing. The adverb carries an educated, written register suited to reports."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-03",
+        "phrase": "Я весьма доволен результатом.",
+        "fullAnalysis": "Strategic focus: Polished satisfaction. 'Весьма' grades 'доволен' to mean very pleased. It precedes the predicate adjective and lends the statement a refined, formal tone."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-04",
+        "phrase": "Это весьма сложная задача.",
+        "fullAnalysis": "Strategic focus: Heightened difficulty. 'Весьма' intensifies 'сложная', meaning highly complex. Standing before the adjective, the adverb keeps a formal, almost official flavour."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-05",
+        "phrase": "Он весьма успешно сдал экзамен.",
+        "fullAnalysis": "Strategic focus: Scaling a manner adverb. 'Весьма' modifies 'успешно', meaning very successfully. The adverb precedes the word it grades and gives the sentence a measured, bookish feel."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-06",
+        "phrase": "Погода была весьма приятной.",
+        "fullAnalysis": "Strategic focus: Refined description. 'Весьма' intensifies the instrumental 'приятной', meaning very pleasant. The adverb suits polished narration and stands before the adjective it scales."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-07",
+        "phrase": "Это весьма необычное решение.",
+        "fullAnalysis": "Strategic focus: Strong evaluation. 'Весьма' grades 'необычное', meaning highly unusual. Placed before the adjective, it keeps the formal register typical of written or careful speech."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-08",
+        "phrase": "Её работа выглядит весьма профессионально.",
+        "fullAnalysis": "Strategic focus: Degree with an adverb. 'Весьма' modifies 'профессионально', meaning very professionally. The adverb stands before the word it intensifies and signals an educated tone."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-09",
+        "phrase": "Это весьма важно для всех нас.",
+        "fullAnalysis": "Strategic focus: Formal importance. 'Весьма' intensifies the predicate adverb 'важно', meaning highly important. The adverb precedes the word and gives the claim formal weight."
+      },
+      {
+        "id": "AD-DEGREE-VESMA-10",
+        "phrase": "Гость оказался весьма любезным.",
+        "fullAnalysis": "Strategic focus: Polished character note. 'Весьма' grades the instrumental 'любезным', meaning very courteous. The adverb stays before the adjective and keeps the refined, formal register."
+      }
+    ]
+  }
+]

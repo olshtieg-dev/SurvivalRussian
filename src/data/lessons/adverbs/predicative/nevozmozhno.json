@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PREDICATIVE-NEVOZMOZHNO",
+    "label": "Невозможно",
+    "badge": "CANT",
+    "description": "A 10-sentence usage card for невозможно (impossible).",
+    "missions": [
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-01",
+        "phrase": "Здесь невозможно работать.",
+        "fullAnalysis": "Strategic focus: Impossibility as an impersonal state. 'Невозможно' is the predicative meaning it is impossible, with no grammatical subject. The infinitive 'работать' names the action, and 'здесь' marks where it cannot be done."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-02",
+        "phrase": "Мне невозможно это понять.",
+        "fullAnalysis": "Strategic focus: Impossibility with a dative experiencer. The dative 'мне' names who cannot manage, 'невозможно' carries the impossibility, and the infinitive 'понять' takes the accusative 'это'. A strong statement of being unable."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-03",
+        "phrase": "Было невозможно уснуть.",
+        "fullAnalysis": "Strategic focus: Past impossibility. The neuter 'было' marks past tense for the impersonal 'невозможно', and the infinitive 'уснуть' names what could not be done. A vivid way to describe a sleepless night."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-04",
+        "phrase": "Невозможно жить без воды.",
+        "fullAnalysis": "Strategic focus: General impossibility. 'Невозможно' states a universal truth with no experiencer, and the infinitive 'жить' with 'без воды' in the genitive expresses that life is impossible without water."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-05",
+        "phrase": "Тебе невозможно угодить.",
+        "fullAnalysis": "Strategic focus: Impossibility aimed at a person. The dative 'тебе' is the experiencer, 'невозможно' carries the impossibility, and the infinitive 'угодить' means to please. A wry complaint that you are impossible to satisfy."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-06",
+        "phrase": "В такую жару невозможно дышать.",
+        "fullAnalysis": "Strategic focus: Impossibility from conditions. 'Невозможно' states the impersonal impossibility, and the infinitive 'дышать' names the action. 'В такую жару' gives the cause in the accusative, describing oppressive heat."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-07",
+        "phrase": "Это просто невозможно сделать.",
+        "fullAnalysis": "Strategic focus: Emphatic impossibility. 'Невозможно' is reinforced by 'просто' for emphasis, meaning simply impossible. The perfective infinitive 'сделать' names the task, with 'это' as its accusative object."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-08",
+        "phrase": "Было невозможно его остановить.",
+        "fullAnalysis": "Strategic focus: Past impossibility with an object. The neuter 'было' marks past tense, 'невозможно' stays impersonal, and the infinitive 'остановить' takes the accusative 'его'. He could not be stopped."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-09",
+        "phrase": "Нам невозможно успеть вовремя.",
+        "fullAnalysis": "Strategic focus: Plural impossibility. The dative 'нам' names the experiencers, 'невозможно' carries the impossibility, and the perfective infinitive 'успеть' with 'вовремя' states that arriving on time cannot be managed."
+      },
+      {
+        "id": "AD-PREDICATIVE-NEVOZMOZHNO-10",
+        "phrase": "Невозможно забыть такой день.",
+        "fullAnalysis": "Strategic focus: Impossibility as praise. 'Невозможно' states the general impossibility with no experiencer, and the perfective infinitive 'забыть' takes the accusative 'такой день'. A warm way to call a day unforgettable."
+      }
+    ]
+  }
+]

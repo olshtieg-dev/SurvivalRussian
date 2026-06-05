@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CL-TOZHE",
+    "label": "Тоже",
+    "badge": "ALSO",
+    "description": "The additive тоже ('also/too'): same predicate applied to a new subject, including тоже не ('neither'), with a note vs также and то же.",
+    "missions": [
+      {
+        "id": "CL-TOZHE-01",
+        "phrase": "Я тоже хочу пойти с вами.",
+        "fullAnalysis": "Strategic focus: Same wish, new subject. The predicate хочу is shared with someone mentioned earlier, and тоже marks я as another person who wants the same thing. This is the subject-additive use."
+      },
+      {
+        "id": "CL-TOZHE-02",
+        "phrase": "Он тоже здесь, рядом со мной.",
+        "fullAnalysis": "Strategic focus: Same place, new subject. Здесь is the shared predicate, and тоже adds он to those who are present. Note that тоже is one word, distinct from то же ('the same')."
+      },
+      {
+        "id": "CL-TOZHE-03",
+        "phrase": "Мы тоже идём на концерт.",
+        "fullAnalysis": "Strategic focus: Same action, new subject. Идём repeats an action already established for others, and тоже joins мы to the goers. The verb идём carries the ё."
+      },
+      {
+        "id": "CL-TOZHE-04",
+        "phrase": "Они тоже хорошо знают этот город.",
+        "fullAnalysis": "Strategic focus: Same knowledge, new subject. Знают is the shared predicate, and тоже extends it to они. This is a plural subject-additive line."
+      },
+      {
+        "id": "CL-TOZHE-05",
+        "phrase": "Ты тоже сегодня очень устал.",
+        "fullAnalysis": "Strategic focus: Same state, new subject. Устал describes a condition already noted for someone, and тоже applies it to ты as well. The predicate here is an adjectival state form."
+      },
+      {
+        "id": "CL-TOZHE-06",
+        "phrase": "Я тоже не знаю, что делать.",
+        "fullAnalysis": "Strategic focus: Shared negation. Не знаю is negated, and тоже не together mean 'neither', so я joins those who do not know. Тоже precedes the negated verb."
+      },
+      {
+        "id": "CL-TOZHE-07",
+        "phrase": "Он тоже не пришёл на встречу.",
+        "fullAnalysis": "Strategic focus: Shared absence. Не пришёл is negated, and тоже не gives the sense 'neither', so он also failed to come. The verb пришёл carries the ё."
+      },
+      {
+        "id": "CL-TOZHE-08",
+        "phrase": "Она тоже студентка нашего университета.",
+        "fullAnalysis": "Strategic focus: Same role, new subject. Студентка is a zero-copula nominal predicate, and тоже adds она to that group. There is no verb in this nominal predicate."
+      },
+      {
+        "id": "CL-TOZHE-09",
+        "phrase": "Вы тоже совершенно правы.",
+        "fullAnalysis": "Strategic focus: Same judgment, new subject. Правы is the shared predicate, and тоже extends it to вы. Compare также, which adds 'in addition' rather than repeating a predicate."
+      },
+      {
+        "id": "CL-TOZHE-10",
+        "phrase": "Наш кот тоже спит на диване.",
+        "fullAnalysis": "Strategic focus: Same action, new subject. Спит repeats an action already established, and тоже joins кот to the sleepers. Remember that тоже is one word, not то же ('the same')."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-STRANNO",
+    "label": "Странно",
+    "badge": "STRANGE",
+    "description": "A 10-sentence usage card for странно (strangely, that's odd).",
+    "missions": [
+      {
+        "id": "AD-MANNER-STRANNO-01",
+        "phrase": "Он странно посмотрел на меня.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Странно' modifies 'посмотрел', describing an odd, puzzling look. Before the verb, it colours how the glance felt to the speaker."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-02",
+        "phrase": "Странно, что его до сих пор нет.",
+        "fullAnalysis": "Strategic focus: Impersonal predicative. Here 'странно' is the predicate meaning 'it is strange', evaluating the fact in the 'что' clause. There is no subject, only the speaker's reaction."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-03",
+        "phrase": "Это очень странно звучит.",
+        "fullAnalysis": "Strategic focus: Manner with verb of perception. 'Странно' modifies 'звучит', meaning it sounds odd. The intensifier 'очень' raises the degree of strangeness."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-04",
+        "phrase": "Как странно, я этого не помню.",
+        "fullAnalysis": "Strategic focus: Exclamatory reaction. 'Как странно' is an idiomatic exclamation meaning 'how strange', expressing surprise at one's own lapse. The 'как' intensifies the predicative."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-05",
+        "phrase": "Она странно себя ведёт сегодня.",
+        "fullAnalysis": "Strategic focus: Odd behaviour. 'Странно' modifies the phrase 'себя ведёт', meaning she is acting oddly. This is the standard way to describe unusual conduct."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-06",
+        "phrase": "Мне как-то странно на душе.",
+        "fullAnalysis": "Strategic focus: Impersonal feeling. 'Странно' is a predicative paired with the dative 'мне', meaning 'I feel strange inside'. The dative names who experiences the odd mood."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-07",
+        "phrase": "Этот суп странно пахнет.",
+        "fullAnalysis": "Strategic focus: Manner with smell. 'Странно' modifies 'пахнет', meaning the soup smells odd. The adverb often accompanies verbs of perception to flag something off."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-08",
+        "phrase": "Странно, но мне это нравится.",
+        "fullAnalysis": "Strategic focus: Parenthetical comment. 'Странно' opens as a one-word aside, meaning 'oddly enough', followed by 'но' for contrast. It frames the speaker's own surprising admission."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-09",
+        "phrase": "Он странно одет для встречи.",
+        "fullAnalysis": "Strategic focus: Modifying a participle. 'Странно' modifies 'одет', meaning he is dressed oddly for the occasion. The adverb judges the appropriateness of his appearance."
+      },
+      {
+        "id": "AD-MANNER-STRANNO-10",
+        "phrase": "Странно слышать это от тебя.",
+        "fullAnalysis": "Strategic focus: Predicative with infinitive. 'Странно' is the impersonal predicate governing the infinitive 'слышать', meaning it is strange to hear this. The construction expresses mild astonishment."
+      }
+    ]
+  }
+]

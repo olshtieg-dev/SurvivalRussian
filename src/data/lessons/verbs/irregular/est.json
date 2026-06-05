@@ -1,0 +1,115 @@
+[
+  {
+    "id": "VB-EST",
+    "label": "Есть",
+    "badge": "EAT",
+    "description": "A full deck for irregular есть (to EAT, not 'there is'): ем/ешь/ест/едим/едите/едят, past, the perfective съесть, and the imperative ешь.",
+    "missions": [
+      {
+        "id": "VB-EST-01",
+        "phrase": "На обед я ем горячий суп.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 1. 'Ем' is the irregular 1sg of есть (eat), not the есть meaning 'there is'. 2. 'Горячий суп' is the accusative object. 3. Note the unusual ем/ешь/ест stem with no normal vowel."
+      },
+      {
+        "id": "VB-EST-02",
+        "phrase": "Ты каждое утро ешь хлеб.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 1. 'Ешь' is the irregular 2sg of есть (eat). 2. 'Хлеб' is the accusative object. 3. The ем/ешь/ест pattern has no normal stem vowel and must be memorised."
+      },
+      {
+        "id": "VB-EST-03",
+        "phrase": "Мой брат ест кашу на завтрак.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 1. 'Ест' is the irregular 3sg of есть (eat); homograph with есть 'there is'. 2. 'Кашу' is accusative of каша. 3. The eating sense is fixed by the context."
+      },
+      {
+        "id": "VB-EST-04",
+        "phrase": "По выходным мы едим мясо.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 1. 'Едим' is the 1pl of есть (eat); the stem shifts to ед- in the plural. 2. 'Мясо' is the accusative object. 3. Contrast with the singular ем/ешь/ест forms."
+      },
+      {
+        "id": "VB-EST-05",
+        "phrase": "Вы сейчас едите красное яблоко.",
+        "fullAnalysis": "Strategic focus: Second-person plural present. 1. 'Едите' is the 2pl of есть (eat), on the ед- plural stem. 2. 'Красное яблоко' is the accusative object. 3. Do not confuse with the singular 'ешь'."
+      },
+      {
+        "id": "VB-EST-06",
+        "phrase": "Они часто едят свежую рыбу.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 1. 'Едят' is the 3pl of есть (eat), on the ед- plural stem. 2. 'Свежую рыбу' is accusative of рыба. 3. The whole present tense of есть is irregular."
+      },
+      {
+        "id": "VB-EST-07",
+        "phrase": "Я ем сладкое яблоко в парке.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 1. 'Ем' is the irregular 1sg of есть (eat). 2. 'Яблоко' is neuter accusative, same as the nominative. 3. A core everyday eating sentence."
+      },
+      {
+        "id": "VB-EST-08",
+        "phrase": "Ты ешь слишком мало по утрам.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 1. 'Ешь' is the irregular 2sg of есть (eat). 2. 'Мало' is an adverb of quantity, not an object. 3. The eating verb takes no case here."
+      },
+      {
+        "id": "VB-EST-09",
+        "phrase": "Вечером мы едим вместе всей семьёй.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 1. 'Едим' is the irregular 1pl of есть (eat). 2. 'Вместе' is an adverb meaning 'together'. 3. The plural stem is ед-, unlike the singular ем."
+      },
+      {
+        "id": "VB-EST-10",
+        "phrase": "Вчера он спокойно ел суп.",
+        "fullAnalysis": "Strategic focus: Masculine past. 1. 'Ел' is the masculine past of есть (eat). 2. 'Суп' is the accusative object. 3. The past stem is the regular ел-, unlike the irregular present."
+      },
+      {
+        "id": "VB-EST-11",
+        "phrase": "Она ела вкусную кашу утром.",
+        "fullAnalysis": "Strategic focus: Feminine past. 1. 'Ела' is the feminine past of есть (eat). 2. 'Кашу' is accusative of каша. 3. Past gender endings run ел / ела / ело / ели."
+      },
+      {
+        "id": "VB-EST-12",
+        "phrase": "Маленькое дитя ело очень быстро.",
+        "fullAnalysis": "Strategic focus: Neuter past. 1. 'Ело' is the neuter past of есть (eat), agreeing with the neuter 'дитя'. 2. 'Быстро' is a manner adverb. 3. The rare neuter form completes the ел/ела/ело set."
+      },
+      {
+        "id": "VB-EST-13",
+        "phrase": "Дети ели свежий хлеб с маслом.",
+        "fullAnalysis": "Strategic focus: Plural past. 1. 'Ели' is the plural past of есть (eat). 2. 'Хлеб' is the accusative object. 3. The plural past ignores gender, like all Russian past tense."
+      },
+      {
+        "id": "VB-EST-14",
+        "phrase": "Я буду есть немного позже.",
+        "fullAnalysis": "Strategic focus: First-person future imperfective. 1. 'Буду' is the auxiliary, 'есть' the infinitive (eat), here clearly not 'there is'. 2. 'Позже' is an adverb, 'later'. 3. The imperfective future uses буду plus the infinitive."
+      },
+      {
+        "id": "VB-EST-15",
+        "phrase": "На ужин я съел всё до конца.",
+        "fullAnalysis": "Strategic focus: First-person perfective past. 1. 'Съел' is the masculine past of perfective съесть. 2. 'Всё' is the object, 'everything'. 3. The perfective stresses a completed meal."
+      },
+      {
+        "id": "VB-EST-16",
+        "phrase": "Съешь всё мясо до конца, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Perfective imperative. 1. 'Съешь' is the 2sg imperative of perfective съесть. 2. 'Мясо' is the accusative object. 3. The perfective imperative urges finishing the whole portion."
+      },
+      {
+        "id": "VB-EST-17",
+        "phrase": "Ешь свой суп, пока горячий.",
+        "fullAnalysis": "Strategic focus: Imperfective imperative singular. 1. 'Ешь' is the 2sg imperative of есть (eat), identical to the present 2sg form. 2. 'Свой суп' is the accusative object. 3. The imperfective imperative names the process."
+      },
+      {
+        "id": "VB-EST-18",
+        "phrase": "Ешьте на здоровье, дорогие гости!",
+        "fullAnalysis": "Strategic focus: Imperfective imperative plural. 1. 'Ешьте' is the polite/plural imperative of есть (eat). 2. 'На здоровье' is a set phrase, 'enjoy your meal'. 3. A common hosting expression."
+      },
+      {
+        "id": "VB-EST-19",
+        "phrase": "Скоро он съест последнее яблоко.",
+        "fullAnalysis": "Strategic focus: Third-person perfective future. 1. 'Съест' is the perfective 3sg of съесть, expressing a future completed action. 2. 'Яблоко' is the accusative object. 3. Perfective present-form ест-endings read as future."
+      },
+      {
+        "id": "VB-EST-20",
+        "phrase": "Мы очень хотим есть после прогулки.",
+        "fullAnalysis": "Strategic focus: Hunger expression. 1. 'Хотим' is the 1pl of хотеть; 'есть' is the infinitive of the eating verb, here unmistakably 'to eat', not 'there is'. 2. Together they mean 'we are hungry'. 3. A core daily idiom."
+      },
+      {
+        "id": "VB-EST-21",
+        "phrase": "Ты ешь слишком медленно сегодня.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 1. 'Ешь' is the irregular 2sg of есть (eat). 2. 'Медленно' is a manner adverb, 'slowly'. 3. Reinforces the bare ем/ешь/ест pattern."
+      }
+    ]
+  }
+]

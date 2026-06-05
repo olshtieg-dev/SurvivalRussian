@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-BODY-GRUD",
+    "label": "Грудь",
+    "badge": "CHEST",
+    "description": "The feminine 3rd-declension noun грудь ('chest'). Drill the singular case ladder, where nominative and accusative share грудь and genitive/dative/prepositional share груди.",
+    "missions": [
+      {
+        "id": "NN-BODY-GRUD-01",
+        "phrase": "Это его грудь и плечи.",
+        "fullAnalysis": "Strategic focus: Nominative case. 1. 'Грудь' is the dictionary form and subject form. 2. It is a feminine 3rd-declension noun, ending in a soft sign with no vowel. 3. Nominative and accusative are identical here, both грудь."
+      },
+      {
+        "id": "NN-BODY-GRUD-02",
+        "phrase": "При вдохе грудь медленно поднимается.",
+        "fullAnalysis": "Strategic focus: Nominative case. 1. 'Грудь' is the subject doing the action. 2. The verb 'поднимается' agrees with a feminine singular subject. 3. As a 3rd-declension noun, its nominative looks exactly like its accusative, грудь."
+      },
+      {
+        "id": "NN-BODY-GRUD-03",
+        "phrase": "Она прикрыла грудь рукой.",
+        "fullAnalysis": "Strategic focus: Accusative case. 1. 'Грудь' is the direct object of 'прикрыла'. 2. For 3rd-declension feminine nouns the accusative equals the nominative, so it stays грудь. 3. 'Рукой' is instrumental, naming the means."
+      },
+      {
+        "id": "NN-BODY-GRUD-04",
+        "phrase": "Врач осмотрел грудь пациента.",
+        "fullAnalysis": "Strategic focus: Accusative case. 1. 'Грудь' is the direct object being examined. 2. The accusative is unchanged from the nominative form, грудь, a hallmark of 3rd declension. 3. 'Пациента' is genitive, marking possession."
+      },
+      {
+        "id": "NN-BODY-GRUD-05",
+        "phrase": "Он почувствовал резкую боль в груди.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'В груди' is the standard 'in the chest' shape for describing where pain sits. 2. The ending shifts to -и after the soft sign. 3. Genitive, dative and prepositional all share груди, so context tells them apart."
+      },
+      {
+        "id": "NN-BODY-GRUD-06",
+        "phrase": "У меня сильно болит в груди.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'В груди' locates the sensation inside the chest. 2. The verb 'болит' is the everyday way to say something hurts. 3. This prepositional груди is spelled like the genitive and dative; only the preposition в reveals the role."
+      },
+      {
+        "id": "NN-BODY-GRUD-07",
+        "phrase": "У ветерана на груди блестит медаль.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'На груди' means 'on the chest', a surface location. 2. After 'на' the noun takes the -и ending, груди. 3. Compare with 'в груди': both are prepositional and identical in form to the genitive and dative."
+      },
+      {
+        "id": "NN-BODY-GRUD-08",
+        "phrase": "У него на груди большая татуировка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'На груди' marks the location of the tattoo. 2. The -и ending here matches the genitive and dative, a syncretism typical of 3rd declension. 3. Only the preposition на signals the locative role."
+      },
+      {
+        "id": "NN-BODY-GRUD-09",
+        "phrase": "Он крепко прижал письмо к груди.",
+        "fullAnalysis": "Strategic focus: Dative case. 1. 'К груди' means 'to the chest', the direction of holding something close. 2. The preposition 'к' always takes the dative. 3. The dative груди is identical to the genitive and prepositional; the preposition к marks it as dative."
+      },
+      {
+        "id": "NN-BODY-GRUD-10",
+        "phrase": "Мать прижала ребёнка к груди.",
+        "fullAnalysis": "Strategic focus: Dative case. 1. 'К груди' shows the direction, holding the child to her chest. 2. 'К' requires the dative, giving груди. 3. The dative груди matches the genitive and prepositional; the preposition decides the function."
+      },
+      {
+        "id": "NN-BODY-GRUD-11",
+        "phrase": "Вода в реке поднялась до груди.",
+        "fullAnalysis": "Strategic focus: Genitive case. 1. 'До груди' means 'up to the chest', marking a limit. 2. The preposition 'до' governs the genitive, груди. 3. This genitive is spelled exactly like the dative and prepositional; the preposition до identifies it."
+      },
+      {
+        "id": "NN-BODY-GRUD-12",
+        "phrase": "Здесь вода доходит до груди.",
+        "fullAnalysis": "Strategic focus: Genitive case. 1. 'До груди' gives the boundary the water reaches. 2. 'До' takes the genitive form груди. 3. Because the genitive, dative and prepositional all read груди, only the preposition до tells you this is genitive."
+      },
+      {
+        "id": "NN-BODY-GRUD-13",
+        "phrase": "На вершине он дышал полной грудью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 1. 'Грудью' is the instrumental, the means of breathing fully. 2. The 3rd-declension instrumental ending -ью makes грудью distinct from every other singular form. 3. 'Полной' agrees with it in instrumental feminine."
+      },
+      {
+        "id": "NN-BODY-GRUD-14",
+        "phrase": "Солдат встал грудью вперёд.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 1. 'Грудью' is instrumental, describing the manner of standing chest-forward. 2. The instrumental -ью ending is the one singular form not shared with any other case. 3. 'Вперёд' is an adverb of direction."
+      },
+      {
+        "id": "NN-BODY-GRUD-15",
+        "phrase": "У этого борца широкая сильная грудь.",
+        "fullAnalysis": "Strategic focus: Nominative case with agreement. 1. 'Грудь' is the nominative subject form. 2. The adjective 'широкая' takes the feminine nominative ending -ая to agree. 3. This nominative form is identical to the accusative, грудь."
+      },
+      {
+        "id": "NN-BODY-GRUD-16",
+        "phrase": "У него с детства больная грудь.",
+        "fullAnalysis": "Strategic focus: Nominative case with agreement. 1. 'Грудь' is the subject of the description. 2. 'Больная' agrees with it as a feminine nominative singular adjective. 3. As a 3rd-declension noun, this nominative грудь matches the accusative exactly."
+      },
+      {
+        "id": "NN-BODY-GRUD-17",
+        "phrase": "У раненого глубокая рана на груди.",
+        "fullAnalysis": "Strategic focus: Prepositional case with agreement. 1. 'На груди' locates the wound on the chest. 2. The noun takes -и after 'на', груди, the same form as the genitive and dative. 3. 'Глубокая' agrees with the subject 'рана', not with груди."
+      },
+      {
+        "id": "NN-BODY-GRUD-18",
+        "phrase": "Его рука спокойно лежала на груди.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'На груди' tells where the hand rests. 2. The -и ending after 'на' is the prepositional, груди. 3. Here again the genitive, dative and prepositional all share груди, so the preposition decides the role."
+      }
+    ]
+  }
+]

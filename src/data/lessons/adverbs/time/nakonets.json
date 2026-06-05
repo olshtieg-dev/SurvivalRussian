@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-NAKONETS",
+    "label": "Наконец",
+    "badge": "FINALLY",
+    "description": "A 10-sentence usage card for наконец (finally, at last).",
+    "missions": [
+      {
+        "id": "AD-TIME-NAKONETS-01",
+        "phrase": "Наконец ты пришёл домой!",
+        "fullAnalysis": "Strategic focus: Relief at last. 'Наконец' marks the long-awaited arrival, modifying the verb 'пришёл'. Fronted here, it carries an emotional charge of relief, reinforced by the exclamation."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-02",
+        "phrase": "Мы наконец закончили эту работу.",
+        "fullAnalysis": "Strategic focus: Completion after effort. 'Наконец' sits before the perfective verb 'закончили', stressing that the task is done after a long process. Mid-sentence placement is neutral and very common."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-03",
+        "phrase": "Когда ты наконец позвонишь мне?",
+        "fullAnalysis": "Strategic focus: Impatient question. In a question 'наконец' adds a tone of impatience, modifying the future verb 'позвонишь'. It conveys that the action has been awaited too long."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-04",
+        "phrase": "Наконец-то начался отпуск!",
+        "fullAnalysis": "Strategic focus: Emphatic relief. The particle 'то' attaches to 'наконец' for extra emotional force, common in speech. It underlines deep satisfaction that the vacation has finally begun."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-05",
+        "phrase": "После долгой зимы наконец потеплело.",
+        "fullAnalysis": "Strategic focus: Awaited change. 'Наконец' precedes the impersonal verb 'потеплело', marking a welcome turn after a long wait. The phrase 'после долгой зимы' sets up why the relief is felt."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-06",
+        "phrase": "Я наконец понял свою ошибку.",
+        "fullAnalysis": "Strategic focus: Belated realization. 'Наконец' modifies the perfective 'понял', signalling that understanding arrived only after delay. Register is neutral and works in both speech and writing."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-07",
+        "phrase": "Наконец дождь перестал идти.",
+        "fullAnalysis": "Strategic focus: End of an unwanted state. Fronted 'наконец' highlights that the rain has stopped at last. It modifies the verb phrase 'перестал идти', expressing relief at the change."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-08",
+        "phrase": "Они наконец помирились после ссоры.",
+        "fullAnalysis": "Strategic focus: Resolution at last. 'Наконец' frames 'помирились' as the long-hoped-for outcome of a conflict. The adverb conveys that reconciliation took time to come."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-09",
+        "phrase": "Наконец автобус подъехал к остановке.",
+        "fullAnalysis": "Strategic focus: Awaited arrival. 'Наконец' opens the sentence to stress the relief of the bus finally coming. It modifies 'подъехал', the perfective verb of arrival."
+      },
+      {
+        "id": "AD-TIME-NAKONETS-10",
+        "phrase": "Ребёнок наконец заснул в кроватке.",
+        "fullAnalysis": "Strategic focus: Hard-won outcome. 'Наконец' modifies 'заснул', showing that sleep came after effort. Mid-sentence position keeps the tone calm and descriptive."
+      }
+    ]
+  }
+]

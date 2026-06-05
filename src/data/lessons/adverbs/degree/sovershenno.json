@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-SOVERSHENNO",
+    "label": "Совершенно",
+    "badge": "TOTALLY",
+    "description": "A 10-sentence usage card for совершенно (completely, absolutely).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-01",
+        "phrase": "Я совершенно забыл об этом.",
+        "fullAnalysis": "Strategic focus: Total degree with a verb. 'Совершенно' means completely or utterly, intensifying 'забыл' to an absolute extent. It stands before the verb and pushes the meaning to a full hundred percent."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-02",
+        "phrase": "Ты совершенно прав.",
+        "fullAnalysis": "Strategic focus: Absolute agreement. 'Совершенно' intensifies the short adjective 'прав' to mean absolutely right. This is a common, emphatic way to express full agreement."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-03",
+        "phrase": "Это совершенно другая история.",
+        "fullAnalysis": "Strategic focus: Total contrast. 'Совершенно' modifies 'другая', stressing that the story is entirely different. The adverb sits before the adjective and marks a complete, not partial, difference."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-04",
+        "phrase": "Она совершенно спокойна.",
+        "fullAnalysis": "Strategic focus: Full degree of a state. 'Совершенно' grades the short adjective 'спокойна' to mean perfectly calm. It precedes the predicate and conveys an absolute, settled condition."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-05",
+        "phrase": "Я с тобой совершенно согласен.",
+        "fullAnalysis": "Strategic focus: Emphatic concord. 'Совершенно' intensifies 'согласен' to mean completely in agreement. The adverb stands before the predicate adjective and strengthens the assent fully."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-06",
+        "phrase": "В комнате было совершенно тихо.",
+        "fullAnalysis": "Strategic focus: Absolute state in the past. 'Совершенно' modifies the predicate adverb 'тихо' to mean utterly silent. Placed before the word it scales, it marks total, complete quiet."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-07",
+        "phrase": "Он совершенно не понимает меня.",
+        "fullAnalysis": "Strategic focus: Total negation. 'Совершенно' before 'не понимает' strengthens the negative to mean does not understand at all. It is a strong, common way to intensify a denial."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-08",
+        "phrase": "Это совершенно новый телефон.",
+        "fullAnalysis": "Strategic focus: Complete newness. 'Совершенно' modifies 'новый', stressing the phone is brand new. The adverb stands before the adjective and pushes the quality to its fullest."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-09",
+        "phrase": "Мне совершенно всё равно.",
+        "fullAnalysis": "Strategic focus: Total indifference. 'Совершенно' intensifies the idiom 'всё равно' to mean utterly indifferent. It heightens the phrase to an absolute, emphatic don't care at all."
+      },
+      {
+        "id": "AD-DEGREE-SOVERSHENNO-10",
+        "phrase": "Задача оказалась совершенно простой.",
+        "fullAnalysis": "Strategic focus: Full degree with instrumental. 'Совершенно' grades 'простой' to mean entirely simple. Standing before the adjective, it presents the simplicity as complete and total."
+      }
+    ]
+  }
+]

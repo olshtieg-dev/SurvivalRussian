@@ -1,0 +1,85 @@
+[
+  {
+    "id": "SM-O",
+    "label": "О",
+    "badge": "ABOUT",
+    "description": "The preposition о/об/обо ('about') + prepositional case, with the о/об/обо alternation and verbs of thinking and speaking.",
+    "missions": [
+      {
+        "id": "SM-O-01",
+        "phrase": "Я часто думаю о доме.",
+        "fullAnalysis": "Strategic focus: Thinking about something. 1. 'О доме' is the prepositional case of 'дом'. 2. 'Думать о' means to think about. 3. 'О' is used before the consonant."
+      },
+      {
+        "id": "SM-O-02",
+        "phrase": "Мы весь вечер говорим о работе.",
+        "fullAnalysis": "Strategic focus: Speaking about a topic. 1. 'О работе' is the prepositional case of 'работа'. 2. 'Говорить о' means to talk about. 3. 'О' stands before the consonant."
+      },
+      {
+        "id": "SM-O-03",
+        "phrase": "Это книга о войне.",
+        "fullAnalysis": "Strategic focus: Subject of a book. 1. 'О войне' is the prepositional case of 'война'. 2. The phrase names what the book is about. 3. 'О' before a consonant."
+      },
+      {
+        "id": "SM-O-04",
+        "phrase": "Она поёт песню о любви.",
+        "fullAnalysis": "Strategic focus: Theme of a song. 1. 'О любви' is the prepositional case of 'любовь'. 2. The phrase tells what the song concerns. 3. 'О' before a consonant."
+      },
+      {
+        "id": "SM-O-05",
+        "phrase": "Мы смотрим фильм о жизни.",
+        "fullAnalysis": "Strategic focus: Subject of a film. 1. 'О жизни' is the prepositional case of 'жизнь'. 2. The phrase says what the film is about. 3. 'О' before a consonant."
+      },
+      {
+        "id": "SM-O-06",
+        "phrase": "Я всегда помню о тебе.",
+        "fullAnalysis": "Strategic focus: Remembering a person. 1. 'О тебе' is the prepositional case of 'ты'. 2. 'Помнить о' means to remember about. 3. 'О' before a consonant."
+      },
+      {
+        "id": "SM-O-07",
+        "phrase": "Летом я мечтаю о море.",
+        "fullAnalysis": "Strategic focus: Dreaming of something. 1. 'О море' is the prepositional case of 'море'. 2. 'Мечтать о' means to dream about. 3. 'О' before a consonant."
+      },
+      {
+        "id": "SM-O-08",
+        "phrase": "Я мало знаю о городе.",
+        "fullAnalysis": "Strategic focus: Knowing about a place. 1. 'О городе' is the prepositional case of 'город'. 2. 'Знать о' means to know about. 3. 'О' before a consonant."
+      },
+      {
+        "id": "SM-O-09",
+        "phrase": "Он рассказал мне об отце.",
+        "fullAnalysis": "Strategic focus: Thinking about a person. 1. 'Об отце' is the prepositional case of 'отец'. 2. Use 'об' before the vowel sound. 3. The verb takes the prepositional case."
+      },
+      {
+        "id": "SM-O-10",
+        "phrase": "Я ничего не знаю об этом.",
+        "fullAnalysis": "Strategic focus: Knowing about a fact. 1. 'Об этом' is the prepositional case of 'это'. 2. Use 'об' before the vowel sound. 3. A very common fixed phrase."
+      },
+      {
+        "id": "SM-O-11",
+        "phrase": "Они любят говорить об искусстве.",
+        "fullAnalysis": "Strategic focus: Speaking about a field. 1. 'Об искусстве' is the prepositional case of 'искусство'. 2. Use 'об' before the vowel sound. 3. 'Говорить о' takes the prepositional case."
+      },
+      {
+        "id": "SM-O-12",
+        "phrase": "Он постоянно думает об Анне.",
+        "fullAnalysis": "Strategic focus: Thinking about a name. 1. 'Об Анне' is the prepositional case of 'Анна'. 2. Use 'об' before the vowel sound. 3. 'Думать о' takes the prepositional case."
+      },
+      {
+        "id": "SM-O-13",
+        "phrase": "Интересно, думает ли он обо мне.",
+        "fullAnalysis": "Strategic focus: Thinking about me. 1. 'Обо мне' is the prepositional case of 'я'. 2. 'Обо' is a fixed form before 'мне'. 3. 'Думать о' takes the prepositional case."
+      },
+      {
+        "id": "SM-O-14",
+        "phrase": "Мама заботится обо всём.",
+        "fullAnalysis": "Strategic focus: Caring about everything. 1. 'Обо всём' is the prepositional case of 'всё'. 2. 'Обо' is the fixed form before 'всём'. 3. 'Заботиться о' takes the prepositional case."
+      },
+      {
+        "id": "SM-O-15",
+        "phrase": "Не беспокойся, она спрашивает обо мне.",
+        "fullAnalysis": "Strategic focus: Asking about me. 1. 'Обо мне' is the prepositional case of 'я'. 2. 'Обо' is the fixed form before 'мне'. 3. 'Спрашивать о' takes the prepositional case."
+      }
+    ]
+  }
+]

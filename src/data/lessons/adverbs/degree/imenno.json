@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-IMENNO",
+    "label": "Именно",
+    "badge": "EXACTLY",
+    "description": "A 10-sentence usage card for именно (exactly, precisely).",
+    "missions": [
+      {
+        "id": "AD-DEGREE-IMENNO-01",
+        "phrase": "Именно это я хотел сказать.",
+        "fullAnalysis": "Strategic focus: Pinpointing a focus. 'Именно' means exactly or precisely, singling out 'это' as the very thing meant. It stands before the word it identifies as the precise target."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-02",
+        "phrase": "Он пришёл именно вовремя.",
+        "fullAnalysis": "Strategic focus: Sharpening an adverb. 'Именно' tightens 'вовремя' to mean precisely on time. It precedes the adverb to stress exactness rather than degree."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-03",
+        "phrase": "Мне нужен именно этот ключ.",
+        "fullAnalysis": "Strategic focus: Selecting one item. 'Именно' marks 'этот ключ' as the exact one required and no other. The particle precedes the noun phrase it pins down."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-04",
+        "phrase": "Именно поэтому я не пошёл.",
+        "fullAnalysis": "Strategic focus: Emphasising a reason. 'Именно' strengthens 'поэтому', meaning that is exactly why. It fronts the causal link to highlight the precise cause."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-05",
+        "phrase": "Это случилось именно здесь.",
+        "fullAnalysis": "Strategic focus: Pinpointing a place. 'Именно' singles out 'здесь' as the exact spot of the event. It precedes the place adverb to fix the location precisely."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-06",
+        "phrase": "Именно ты должен решить это.",
+        "fullAnalysis": "Strategic focus: Singling out a person. 'Именно' before 'ты' stresses that it is exactly you and no one else. Fronting the particle gives the strongest emphasis on the subject."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-07",
+        "phrase": "Да, именно так и было.",
+        "fullAnalysis": "Strategic focus: Confirming with precision. In 'именно так', the particle confirms that it happened exactly that way. It works as an emphatic agreement marker in dialogue."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-08",
+        "phrase": "Мы встретились именно в парке.",
+        "fullAnalysis": "Strategic focus: Exact location with a preposition. 'Именно' highlights 'в парке' as the precise place of meeting. The particle sits before the prepositional phrase it pinpoints."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-09",
+        "phrase": "Именно сейчас лучшее время.",
+        "fullAnalysis": "Strategic focus: Pinpointing a moment. 'Именно' sharpens 'сейчас' to mean right now exactly. It precedes the time adverb to mark this very moment as the one."
+      },
+      {
+        "id": "AD-DEGREE-IMENNO-10",
+        "phrase": "Он сказал именно то, что думал.",
+        "fullAnalysis": "Strategic focus: Exact correspondence. 'Именно' before 'то' stresses that he said precisely what he thought, with no gap. The particle points to the exact content of the clause."
+      }
+    ]
+  }
+]

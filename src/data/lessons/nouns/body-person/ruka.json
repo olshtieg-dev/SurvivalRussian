@@ -1,0 +1,28 @@
+[
+  {
+    "id": "NN-BODY-RUKA",
+    "label": "Рука",
+    "badge": "HAND",
+    "description": "A usage card for рука walking the full case ladder with everyday collocations.",
+    "missions": [
+      { "id": "NN-BODY-RUKA-01", "phrase": "Сегодня у меня сильно болит рука.", "fullAnalysis": "Strategic focus: Nominative subject. 1. 'Рука' is the subject in its dictionary form. 2. 'Болит' is a high-frequency verb of physical state agreeing with it. 3. The nominative names what hurts before any case shift." },
+      { "id": "NN-BODY-RUKA-02", "phrase": "Моя правая рука немного устала.", "fullAnalysis": "Strategic focus: Adjective agreement, nominative. 1. 'Рука' stays the nominative subject. 2. 'Правая' and 'моя' both agree in feminine singular nominative. 3. The modifiers drill agreement endings without changing the noun's role." },
+      { "id": "NN-BODY-RUKA-03", "phrase": "Его левая рука очень сильная.", "fullAnalysis": "Strategic focus: Predicate adjective, nominative. 1. 'Рука' is the nominative subject. 2. 'Левая' modifies it in agreement. 3. 'Сильная' is the predicate adjective, all feminine singular nominative." },
+      { "id": "NN-BODY-RUKA-04", "phrase": "Ученик поднял руку и ответил.", "fullAnalysis": "Strategic focus: Accusative object. 1. 'Руку' is the direct-object form. 2. 'Поднял' is a concrete past-tense verb taking it. 3. The accusative marks the thing acted upon." },
+      { "id": "NN-BODY-RUKA-05", "phrase": "Он подошёл, чтобы пожать руку.", "fullAnalysis": "Strategic focus: Accusative in a fixed collocation. 1. 'Руку' is the object of the handshake. 2. 'Пожать' pairs almost exclusively with this noun. 3. A social idiom worth memorizing whole in the accusative." },
+      { "id": "NN-BODY-RUKA-06", "phrase": "Врач осмотрел мою правую руку.", "fullAnalysis": "Strategic focus: Accusative with full agreement. 1. 'Руку' is the object form. 2. 'Правую' and 'мою' both agree in feminine singular accusative. 3. Two modifiers track the same ending." },
+      { "id": "NN-BODY-RUKA-07", "phrase": "Мне нравится цвет её руки.", "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Руки' shows the genitive ending. 2. It tells whose colour is meant, linking it to 'цвет'. 3. The genitive joins one noun to another." },
+      { "id": "NN-BODY-RUKA-08", "phrase": "У этой статуи нет руки.", "fullAnalysis": "Strategic focus: Genitive after negation. 1. 'Руки' follows 'нет' and takes the genitive. 2. 'У этой статуи' frames the possession. 3. Absence forces the genitive form." },
+      { "id": "NN-BODY-RUKA-09", "phrase": "Доктор быстро помог моей руке.", "fullAnalysis": "Strategic focus: Dative recipient. 1. 'Руке' is the dative beneficiary of the action. 2. 'Помог' is a high-value verb that governs the dative. 3. Small but grammatically rich." },
+      { "id": "NN-BODY-RUKA-10", "phrase": "В тёплых перчатках руке тепло.", "fullAnalysis": "Strategic focus: Dative of experiencer. 1. 'Руке' is dative, the thing feeling the warmth. 2. 'Тепло' is an impersonal predicate. 3. The dative names who or what experiences a state." },
+      { "id": "NN-BODY-RUKA-11", "phrase": "Я всегда пишу правой рукой.", "fullAnalysis": "Strategic focus: Instrumental of means. 1. 'Рукой' is the instrumental form. 2. 'Пишу' is first-person present. 3. The instrumental names the tool with which the action is done." },
+      { "id": "NN-BODY-RUKA-12", "phrase": "Он взял ведро сильной рукой.", "fullAnalysis": "Strategic focus: Instrumental with agreement. 1. 'Рукой' is the instrumental of means. 2. 'Сильной' agrees in feminine singular instrumental. 3. 'Взял' shows the past action performed by that means." },
+      { "id": "NN-BODY-RUKA-13", "phrase": "Удобно держать телефон в руке.", "fullAnalysis": "Strategic focus: Prepositional scene. 1. 'Руке' takes the prepositional after 'в'. 2. 'Держать' is the infinitive of holding. 3. The phrase locates the object inside the hand." },
+      { "id": "NN-BODY-RUKA-14", "phrase": "У неё в руке была книга.", "fullAnalysis": "Strategic focus: Prepositional location. 1. 'Руке' follows 'в' in the prepositional. 2. 'Книга' is the nominative subject placed there. 3. The scene shows where something rests." },
+      { "id": "NN-BODY-RUKA-15", "phrase": "После работы у меня болят руки.", "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Руки' is the plural subject form. 2. 'Болят' agrees with it as plural. 3. The whole pair of hands is now in view." },
+      { "id": "NN-BODY-RUKA-16", "phrase": "Мама несёт ребёнка в руках.", "fullAnalysis": "Strategic focus: Prepositional plural. 1. 'Руках' is the prepositional plural after 'в'. 2. 'Мама' is the nominative subject doing the carrying. 3. A common idiom for holding someone." },
+      { "id": "NN-BODY-RUKA-17", "phrase": "У этого мастера золотые руки.", "fullAnalysis": "Strategic focus: Plural idiom with agreement. 1. 'Руки' is the nominative plural. 2. 'Золотые' agrees in plural. 3. The pair names a skilled, capable person." },
+      { "id": "NN-BODY-RUKA-18", "phrase": "Перед обедом надо мыть руки тёплой водой.", "fullAnalysis": "Strategic focus: Accusative plural plus instrumental. 1. 'Руки' is the accusative plural object. 2. 'Мыть' is the infinitive governing it. 3. 'Тёплой водой' names the means in the instrumental." }
+    ]
+  }
+]

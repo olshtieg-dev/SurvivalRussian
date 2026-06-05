@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-DEGREE-STOL",
+    "label": "Столь",
+    "badge": "SO",
+    "description": "A 10-sentence usage card for столь (so, such), a bookish degree adverb.",
+    "missions": [
+      {
+        "id": "AD-DEGREE-STOL-01",
+        "phrase": "Почему ты столь печален?",
+        "fullAnalysis": "Strategic focus: Bookish so. 'Столь' means so or to such a degree, intensifying the short adjective 'печален'. It is a formal, literary equivalent of так and stands before the word it scales."
+      },
+      {
+        "id": "AD-DEGREE-STOL-02",
+        "phrase": "Это столь важное событие.",
+        "fullAnalysis": "Strategic focus: Such a high degree. 'Столь' intensifies 'важное', meaning so important. The adverb precedes the adjective and lends the phrase a refined, written register."
+      },
+      {
+        "id": "AD-DEGREE-STOL-03",
+        "phrase": "Я не ожидал столь тёплого приёма.",
+        "fullAnalysis": "Strategic focus: Degree with a noun phrase. 'Столь' grades 'тёплого', meaning such a warm welcome. It stands before the adjective inside the noun phrase, keeping a bookish, polished tone."
+      },
+      {
+        "id": "AD-DEGREE-STOL-04",
+        "phrase": "Откуда у тебя столь странные мысли?",
+        "fullAnalysis": "Strategic focus: Heightened evaluation. 'Столь' intensifies 'странные', meaning such strange thoughts. The adverb precedes the adjective and carries a literary flavour rare in casual speech."
+      },
+      {
+        "id": "AD-DEGREE-STOL-05",
+        "phrase": "Столь долгое ожидание утомило всех.",
+        "fullAnalysis": "Strategic focus: Degree of duration. 'Столь' grades 'долгое', meaning so long a wait. Placed before the adjective, it gives the sentence a formal, almost solemn register."
+      },
+      {
+        "id": "AD-DEGREE-STOL-06",
+        "phrase": "Он столь же умён, как и брат.",
+        "fullAnalysis": "Strategic focus: Equal degree comparison. 'Столь же... как и' forms an as... as construction with 'умён'. The adverb sets up a measured comparison and keeps the bookish register."
+      },
+      {
+        "id": "AD-DEGREE-STOL-07",
+        "phrase": "Никогда не видел столь красивого вида.",
+        "fullAnalysis": "Strategic focus: Such an extreme. 'Столь' intensifies 'красивого', meaning such a beautiful view. The adverb precedes the adjective and heightens the description in a literary way."
+      },
+      {
+        "id": "AD-DEGREE-STOL-08",
+        "phrase": "Задача оказалась столь трудной.",
+        "fullAnalysis": "Strategic focus: Degree in the past. 'Столь' grades 'трудной', meaning so difficult. Standing before the instrumental adjective, it keeps the elevated, formal tone of столь."
+      },
+      {
+        "id": "AD-DEGREE-STOL-09",
+        "phrase": "Зачем спешить столь поспешно?",
+        "fullAnalysis": "Strategic focus: Degree with an adverb. 'Столь' modifies the manner adverb 'поспешно', meaning so hastily. The adverb precedes the word it scales and stays in the bookish register."
+      },
+      {
+        "id": "AD-DEGREE-STOL-10",
+        "phrase": "Столь смелое решение удивило коллег.",
+        "fullAnalysis": "Strategic focus: Such boldness. 'Столь' intensifies 'смелое', meaning such a bold decision. The adverb opens the noun phrase and lends the sentence a formal, written character."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-CHASTO",
+    "label": "Часто",
+    "badge": "OFTEN",
+    "description": "A 10-sentence usage card for часто (often).",
+    "missions": [
+      {
+        "id": "AD-TIME-CHASTO-01",
+        "phrase": "Я часто хожу в библиотеку.",
+        "fullAnalysis": "Strategic focus: Frequency of habitual action. 'Часто' means often and modifies the verb 'хожу', telling how regularly the trip happens. It sits comfortably before the verb in neutral, everyday speech."
+      },
+      {
+        "id": "AD-TIME-CHASTO-02",
+        "phrase": "Она часто звонит своей маме.",
+        "fullAnalysis": "Strategic focus: Repeated communication. 'Часто' modifies 'звонит' to show that the calls happen many times. The adverb stands right before the verb, which is the most natural placement in conversation."
+      },
+      {
+        "id": "AD-TIME-CHASTO-03",
+        "phrase": "Ты часто опаздываешь на работу?",
+        "fullAnalysis": "Strategic focus: Frequency in a question. 'Часто' asks how regularly the lateness happens, modifying 'опаздываешь'. In questions the adverb still hugs the verb, and intonation carries the interrogative force."
+      },
+      {
+        "id": "AD-TIME-CHASTO-04",
+        "phrase": "Зимой здесь часто идёт снег.",
+        "fullAnalysis": "Strategic focus: Weather frequency. 'Часто' tells how regularly the snow falls, modifying the verb 'идёт'. The time word 'зимой' frames the season, and the adverb specifies recurrence within it."
+      },
+      {
+        "id": "AD-TIME-CHASTO-05",
+        "phrase": "Мы часто гуляем в парке вечером.",
+        "fullAnalysis": "Strategic focus: Habitual leisure. 'Часто' modifies 'гуляем' to mark a recurring habit. It pairs naturally with 'вечером', which names the usual time, while 'часто' names how often it repeats."
+      },
+      {
+        "id": "AD-TIME-CHASTO-06",
+        "phrase": "Он слишком часто смотрит телевизор.",
+        "fullAnalysis": "Strategic focus: Excessive frequency. 'Часто' is intensified by 'слишком', meaning too often, and together they modify 'смотрит'. The intensifier sits directly before the adverb, carrying a mild note of criticism."
+      },
+      {
+        "id": "AD-TIME-CHASTO-07",
+        "phrase": "Дети часто играют во дворе.",
+        "fullAnalysis": "Strategic focus: Recurring activity. 'Часто' modifies 'играют' to show the games happen regularly. The adverb keeps its usual pre-verb position in this neutral statement about a routine."
+      },
+      {
+        "id": "AD-TIME-CHASTO-08",
+        "phrase": "Я часто думаю о тебе.",
+        "fullAnalysis": "Strategic focus: Frequency of mental action. 'Часто' modifies 'думаю' to express how regularly the thinking happens. Even with an abstract verb the adverb stays before it, a warm everyday phrase."
+      },
+      {
+        "id": "AD-TIME-CHASTO-09",
+        "phrase": "Бабушка часто печёт вкусные пироги.",
+        "fullAnalysis": "Strategic focus: Habitual making. 'Часто' modifies 'печёт' to mark a recurring habit of baking. The adverb precedes the verb, while the object 'пироги' follows, a clean neutral order."
+      },
+      {
+        "id": "AD-TIME-CHASTO-10",
+        "phrase": "Как часто ты ходишь в спортзал?",
+        "fullAnalysis": "Strategic focus: Asking about frequency. 'Как часто' is the fixed pattern for asking how often, with 'часто' modifying 'ходишь'. The question word 'как' opens the phrase and sets up the interrogative."
+      }
+    ]
+  }
+]

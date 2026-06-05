@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-SKORO",
+    "label": "Скоро",
+    "badge": "SOON",
+    "description": "A 10-sentence usage card for скоро (soon).",
+    "missions": [
+      {
+        "id": "AD-TIME-SKORO-01",
+        "phrase": "Скоро начнётся фильм.",
+        "fullAnalysis": "Strategic focus: Soon in the near future. Fronted 'скоро' means soon, projecting that the film will start shortly. It pairs naturally with a perfective future verb."
+      },
+      {
+        "id": "AD-TIME-SKORO-02",
+        "phrase": "Мы скоро будем дома.",
+        "fullAnalysis": "Strategic focus: Soon with a future state. 'Скоро' here promises arrival home in a short while. With будем it anchors a future situation close at hand."
+      },
+      {
+        "id": "AD-TIME-SKORO-03",
+        "phrase": "Скоро ли он придёт?",
+        "fullAnalysis": "Strategic focus: Soon in a question with ли. The particle 'ли' turns 'скоро' into a yes-no question about how soon he will arrive. It conveys a touch of impatience."
+      },
+      {
+        "id": "AD-TIME-SKORO-04",
+        "phrase": "Скоро наступит весна.",
+        "fullAnalysis": "Strategic focus: Soon for a season. 'Скоро' frames the coming of spring as imminent. The perfective future наступит matches this near-future projection."
+      },
+      {
+        "id": "AD-TIME-SKORO-05",
+        "phrase": "До свидания, увидимся скоро.",
+        "fullAnalysis": "Strategic focus: Soon in a farewell. At the end of a goodbye 'скоро' promises a reunion before long. It softens the parting with an expectation of meeting again."
+      },
+      {
+        "id": "AD-TIME-SKORO-06",
+        "phrase": "Уже скоро Новый год.",
+        "fullAnalysis": "Strategic focus: Soon with уже. Combined with 'уже' the adverb 'скоро' stresses that the holiday is fast approaching. Together they heighten the sense of imminence."
+      },
+      {
+        "id": "AD-TIME-SKORO-07",
+        "phrase": "Как скоро ты освободишься?",
+        "fullAnalysis": "Strategic focus: How soon. The question 'как скоро' asks for an estimate of how shortly something will happen. It seeks a sense of timing rather than a yes or no."
+      },
+      {
+        "id": "AD-TIME-SKORO-08",
+        "phrase": "Скоро всё изменится к лучшему.",
+        "fullAnalysis": "Strategic focus: Soon as reassurance. Fronted 'скоро' projects positive change in the near future. It carries a hopeful, comforting register."
+      },
+      {
+        "id": "AD-TIME-SKORO-09",
+        "phrase": "Лето пролетело так скоро.",
+        "fullAnalysis": "Strategic focus: Soon meaning quickly. Modified by 'так', the adverb 'скоро' here means how quickly time passed. This use stresses speed rather than a future point."
+      },
+      {
+        "id": "AD-TIME-SKORO-10",
+        "phrase": "Скоро ему будет тридцать лет.",
+        "fullAnalysis": "Strategic focus: Soon with an impersonal age frame. 'Скоро' projects an upcoming birthday in the dative construction 'ему будет'. It marks that the age is close to being reached."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-PLOKHO",
+    "label": "Плохо",
+    "badge": "BADLY",
+    "description": "A 10-sentence usage card for плохо (badly, poorly) covering manner, impersonal feeling, and judgement.",
+    "missions": [
+      {
+        "id": "AD-MANNER-PLOKHO-01",
+        "phrase": "Он плохо водит машину.",
+        "fullAnalysis": "Strategic focus: Manner of action. 'Плохо' means 'badly' and modifies the verb 'водит', rating the quality of the driving. It sits before the verb in the usual manner-adverb spot."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-02",
+        "phrase": "Мне сегодня очень плохо.",
+        "fullAnalysis": "Strategic focus: Impersonal feeling. 'Плохо' is an impersonal predicate meaning 'I feel unwell', with dative 'мне' as the experiencer. It describes a bad physical or emotional state."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-03",
+        "phrase": "Я плохо спал этой ночью.",
+        "fullAnalysis": "Strategic focus: Quality of action. 'Плохо' modifies the past verb 'спал', describing restless sleep. The adverb conveys how poorly the action went."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-04",
+        "phrase": "Здесь плохо видно дорогу.",
+        "fullAnalysis": "Strategic focus: Impersonal visibility. 'Плохо' modifies the impersonal 'видно', meaning visibility is poor. It states a condition rather than someone's action."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-05",
+        "phrase": "Это очень плохо для здоровья.",
+        "fullAnalysis": "Strategic focus: Predicate of judgement. 'Плохо' acts as a predicate meaning 'bad', evaluating something. 'Очень' intensifies the negative judgement."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-06",
+        "phrase": "Ты плохо выглядишь сегодня.",
+        "fullAnalysis": "Strategic focus: Manner of appearance. 'Плохо' modifies 'выглядишь', describing a poor or unwell look. The adverb directly before the verb is standard."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-07",
+        "phrase": "Я плохо понимаю этот язык.",
+        "fullAnalysis": "Strategic focus: Degree of comprehension. 'Плохо' modifies 'понимаю', meaning understanding is weak. Here it expresses a low level of skill."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-08",
+        "phrase": "Телефон работает плохо.",
+        "fullAnalysis": "Strategic focus: Quality of function. 'Плохо' modifies 'работает', describing faulty operation. The adverb after the verb is a natural placement here."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-09",
+        "phrase": "Он плохо себя чувствует.",
+        "fullAnalysis": "Strategic focus: State of health. 'Плохо' modifies the fixed phrase 'себя чувствует', the standard way to say someone feels unwell. It is a core everyday construction."
+      },
+      {
+        "id": "AD-MANNER-PLOKHO-10",
+        "phrase": "Дети плохо себя ведут.",
+        "fullAnalysis": "Strategic focus: Behaviour quality. 'Плохо' modifies 'себя ведут', describing misbehaviour. This is the direct contrast to 'хорошо себя ведут'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-TIME-INOGDA",
+    "label": "Иногда",
+    "badge": "SOMETIM",
+    "description": "A 10-sentence usage card for иногда (sometimes).",
+    "missions": [
+      {
+        "id": "AD-TIME-INOGDA-01",
+        "phrase": "Иногда я гуляю по вечерам.",
+        "fullAnalysis": "Strategic focus: Occasional habit. 'Иногда' marks an action that happens now and then, modifying the imperfective 'гуляю'. Fronted, it sets the frequency before the verb."
+      },
+      {
+        "id": "AD-TIME-INOGDA-02",
+        "phrase": "Он иногда забывает ключи дома.",
+        "fullAnalysis": "Strategic focus: From time to time. 'Иногда' expresses that the action recurs occasionally, modifying 'забывает'. It softens the statement compared to 'всегда'."
+      },
+      {
+        "id": "AD-TIME-INOGDA-03",
+        "phrase": "Ты иногда думаешь обо мне?",
+        "fullAnalysis": "Strategic focus: Asking about frequency. In a question 'иногда' asks whether something happens at least sometimes, modifying 'думаешь'. It gives the question a gentle, tentative tone."
+      },
+      {
+        "id": "AD-TIME-INOGDA-04",
+        "phrase": "Иногда лучше промолчать.",
+        "fullAnalysis": "Strategic focus: Occasional truth. 'Иногда' frames a piece of advice as true in some cases, modifying the impersonal predicate 'лучше промолчать'. It avoids overgeneralizing."
+      },
+      {
+        "id": "AD-TIME-INOGDA-05",
+        "phrase": "Мы иногда ездим к бабушке.",
+        "fullAnalysis": "Strategic focus: Periodic trips. 'Иногда' marks an action repeated at intervals, modifying 'ездим'. It suits the imperfective verb of regular but not constant travel."
+      },
+      {
+        "id": "AD-TIME-INOGDA-06",
+        "phrase": "Иногда мне бывает грустно.",
+        "fullAnalysis": "Strategic focus: Occasional state. 'Иногда' modifies the impersonal 'бывает грустно' with the dative 'мне'. It describes a feeling that comes only sometimes."
+      },
+      {
+        "id": "AD-TIME-INOGDA-07",
+        "phrase": "Зимой иногда идёт снег.",
+        "fullAnalysis": "Strategic focus: Occasional weather. 'Иногда' tempers the frequency of snowfall, modifying 'идёт'. With 'зимой' it states that it happens only some of the time."
+      },
+      {
+        "id": "AD-TIME-INOGDA-08",
+        "phrase": "Иногда он приходит без предупреждения.",
+        "fullAnalysis": "Strategic focus: Sporadic behaviour. Fronted 'иногда' sets up an occasional habit, modifying 'приходит'. It frames the unannounced visits as occurring now and then."
+      },
+      {
+        "id": "AD-TIME-INOGDA-09",
+        "phrase": "Я иногда читаю перед сном.",
+        "fullAnalysis": "Strategic focus: Sometime routine. 'Иногда' marks a loose habit, modifying 'читаю'. It implies the reading happens occasionally rather than every night."
+      },
+      {
+        "id": "AD-TIME-INOGDA-10",
+        "phrase": "Иногда стоит рискнуть.",
+        "fullAnalysis": "Strategic focus: Now and then. 'Иногда' qualifies a general maxim, modifying the predicate 'стоит рискнуть'. It says taking a risk is worthwhile in some situations, not always."
+      }
+    ]
+  }
+]

@@ -1,7 +1,10 @@
 import byitSet from './byt.json';
+import estSet from './est.json';
+import datSet from './dat.json';
+import idtiSet from './idti.json';
 
 export const irregularVerbFolderId = 'verbs-irregular';
-const irregularVerbData = [...byitSet];
+const irregularVerbData = [...byitSet, ...estSet, ...datSet, ...idtiSet];
 
 export const irregularVerbFolder = {
   id: irregularVerbFolderId,

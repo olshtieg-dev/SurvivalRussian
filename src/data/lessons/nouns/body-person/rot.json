@@ -1,0 +1,100 @@
+[
+  {
+    "id": "NN-BODY-ROT",
+    "label": "Рот",
+    "badge": "MOUTH",
+    "description": "Singular case ladder for рот (mouth), a masculine noun with a fleeting vowel: the о drops in all oblique cases, leaving the stem рт- (рта, рту, ртом, во рту).",
+    "missions": [
+      {
+        "id": "NN-BODY-ROT-01",
+        "phrase": "У ребёнка маленький рот.",
+        "fullAnalysis": "Strategic focus: Nominative base. 1. 'Рот' is the subject, masculine singular nominative. 2. The vowel о appears only in the nominative and accusative. 3. The oblique stem is рт-, with that о dropping out."
+      },
+      {
+        "id": "NN-BODY-ROT-02",
+        "phrase": "Открой рот и скажи а-а-а.",
+        "fullAnalysis": "Strategic focus: Accusative object. 1. 'Открой' is an imperative. 2. 'Рот' is the direct object; for this inanimate noun the accusative equals the nominative. 3. The vowel о stays here, unlike the oblique cases."
+      },
+      {
+        "id": "NN-BODY-ROT-03",
+        "phrase": "Закрой рот, когда жуёшь.",
+        "fullAnalysis": "Strategic focus: Accusative with imperative. 1. 'Закрой' commands the action. 2. 'Рот' is the accusative object, identical to the nominative. 3. The vowel о is retained in this case form."
+      },
+      {
+        "id": "NN-BODY-ROT-04",
+        "phrase": "Он спал, и у него был открытый рот.",
+        "fullAnalysis": "Strategic focus: Adjective agreement. 1. 'Открытый' is a masculine nominative adjective. 2. It agrees with 'рот' in gender, number and case. 3. The vowel о of рот is kept in the nominative."
+      },
+      {
+        "id": "NN-BODY-ROT-05",
+        "phrase": "Не говори с полным ртом.",
+        "fullAnalysis": "Strategic focus: Instrumental agreement. 1. 'Ртом' is instrumental singular; the fleeting vowel о drops, leaving рт-. 2. 'Полным' agrees as a masculine instrumental adjective. 3. The form is ртом, never 'ротом'."
+      },
+      {
+        "id": "NN-BODY-ROT-06",
+        "phrase": "У этой рыбы большой рот.",
+        "fullAnalysis": "Strategic focus: Descriptive agreement. 1. 'Большой' is a masculine nominative adjective. 2. It describes 'рот' and matches its gender and case. 3. The nominative рот retains the vowel о of its stem."
+      },
+      {
+        "id": "NN-BODY-ROT-07",
+        "phrase": "У него шрам в уголке рта.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 1. 'Рта' is genitive: the fleeting vowel о drops, leaving the stem рт-. 2. It marks the corner belonging to the mouth. 3. Never write 'рота', which means a military company."
+      },
+      {
+        "id": "NN-BODY-ROT-08",
+        "phrase": "Мне нравится форма её рта.",
+        "fullAnalysis": "Strategic focus: Genitive attribute. 1. 'Рта' is genitive singular; the vowel о of рот vanishes to give рт-. 2. It expresses the shape of the mouth. 3. The fleeting vowel makes this рта, not 'рота'."
+      },
+      {
+        "id": "NN-BODY-ROT-09",
+        "phrase": "Уголки рта опустились вниз.",
+        "fullAnalysis": "Strategic focus: Genitive after plural noun. 1. 'Уголки' is plural, but 'рта' stays singular genitive. 2. The fleeting vowel о drops, leaving рт-. 3. The form is рта; 'рота' would be wrong here."
+      },
+      {
+        "id": "NN-BODY-ROT-10",
+        "phrase": "Поднеси ложку ко рту аккуратно.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 1. 'Рту' is dative singular; the vowel о drops, leaving рт-. 2. The preposition 'ко' takes the dative and signals motion toward. 3. The dative is рту, never 'роту'."
+      },
+      {
+        "id": "NN-BODY-ROT-11",
+        "phrase": "Малыш поднёс ложку ко рту.",
+        "fullAnalysis": "Strategic focus: Dative with motion. 1. 'Ко рту' uses the dative рту after the preposition ко. 2. The fleeting vowel о disappears, giving рт-. 3. 'Ложку' is the accusative object lifted toward the mouth."
+      },
+      {
+        "id": "NN-BODY-ROT-12",
+        "phrase": "Она слушала с открытым ртом.",
+        "fullAnalysis": "Strategic focus: Instrumental form. 1. 'Ртом' is instrumental singular; the vowel о drops to give рт-. 2. 'Открытым' agrees as a masculine instrumental adjective. 3. The instrumental is ртом, not 'ротом'."
+      },
+      {
+        "id": "NN-BODY-ROT-13",
+        "phrase": "При насморке приходится дышать ртом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 1. 'Ртом' is the instrumental, expressing the means of breathing. 2. The fleeting vowel о drops, leaving the stem рт-. 3. The correct form is ртом, never 'ротом'."
+      },
+      {
+        "id": "NN-BODY-ROT-14",
+        "phrase": "У меня пересохло во рту.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 1. 'Во рту' is the prepositional case; the vowel о drops, giving рт-, and this noun takes the ending -у. 2. The preposition becomes 'во' before рт-. 3. It names where the dryness is."
+      },
+      {
+        "id": "NN-BODY-ROT-15",
+        "phrase": "Не разговаривай с едой во рту.",
+        "fullAnalysis": "Strategic focus: Prepositional with -у. 1. 'Во рту' marks location inside the mouth. 2. The prepositional drops the vowel о and ends in -у, not -е. 3. 'Во' is used because the stem рт- begins with a consonant cluster."
+      },
+      {
+        "id": "NN-BODY-ROT-16",
+        "phrase": "Держи таблетку во рту минуту.",
+        "fullAnalysis": "Strategic focus: Prepositional of place. 1. 'Держи' is the imperative to hold. 2. 'Во рту' is prepositional: the fleeting vowel о drops and the ending is -у. 3. It names where something is held."
+      },
+      {
+        "id": "NN-BODY-ROT-17",
+        "phrase": "Положи таблетку в рот и запей.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 1. 'В рот' uses the accusative after в to show motion into. 2. The accusative equals the nominative, so the vowel о stays. 3. Contrast with 'во рту', which marks static location."
+      },
+      {
+        "id": "NN-BODY-ROT-18",
+        "phrase": "Он не берёт в рот ни капли.",
+        "fullAnalysis": "Strategic focus: Accusative in idiom. 1. 'В рот' is accusative, keeping the vowel о, after the preposition в. 2. The phrase means he touches no alcohol at all. 3. Motion into the mouth uses в рот, while location uses во рту."
+      }
+    ]
+  }
+]

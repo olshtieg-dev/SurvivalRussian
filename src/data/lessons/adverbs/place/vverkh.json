@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-PLACE-VVERKH",
+    "label": "Вверх",
+    "badge": "UP",
+    "description": "A 10-sentence usage card for вверх (upward).",
+    "missions": [
+      {
+        "id": "AD-PLACE-VVERKH-01",
+        "phrase": "Мы поднимаемся вверх по лестнице.",
+        "fullAnalysis": "Strategic focus: Direction of motion. 'Вверх' is an adverb of direction marking upward movement. It modifies 'поднимаемся' and answers куда, naming a trajectory from low to high."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-02",
+        "phrase": "Посмотри вверх на яркие звёзды.",
+        "fullAnalysis": "Strategic focus: Directing the gaze upward. 'Вверх' shows the direction of looking after 'посмотри'. It marks where the eyes travel, not a static spot, and pairs naturally with the night sky."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-03",
+        "phrase": "Шар медленно летит вверх в небо.",
+        "fullAnalysis": "Strategic focus: Rising motion. 'Вверх' modifies 'летит' to show the balloon moving from low to high. The adverb names the trajectory, supported by 'в небо'."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-04",
+        "phrase": "Подними руки вверх и потянись.",
+        "fullAnalysis": "Strategic focus: Movement of body parts upward. 'Вверх' marks the direction in which the hands rise after 'подними'. It clarifies the trajectory of the lifting gesture."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-05",
+        "phrase": "Лифт быстро поехал вверх.",
+        "fullAnalysis": "Strategic focus: Ascending movement. 'Вверх' marks the upward direction of the lift, modifying 'поехал'. It answers куда and stresses motion, not a fixed floor."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-06",
+        "phrase": "Дым поднимается вверх над крышей.",
+        "fullAnalysis": "Strategic focus: Rising upward. 'Вверх' marks the direction of the smoke's movement, modifying 'поднимается'. The adverb stresses upward motion rather than a fixed location."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-07",
+        "phrase": "Кошка быстро залезла вверх на дерево.",
+        "fullAnalysis": "Strategic focus: Climbing upward. 'Вверх' shows the upward direction of 'залезла', and 'на дерево' adds the goal. The adverb and the phrase together trace the climb."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-08",
+        "phrase": "Дорога круто идёт вверх к вершине.",
+        "fullAnalysis": "Strategic focus: A path leading upward. 'Вверх' describes the upward course of the road, modifying 'идёт'. Even with no moving person, the adverb conveys an upward trajectory toward the peak."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-09",
+        "phrase": "Самолёт резко взмыл вверх.",
+        "fullAnalysis": "Strategic focus: Sudden ascent. 'Вверх' reinforces the upward direction of 'взмыл'. The adverb keeps the focus on the sharp upward motion of the plane."
+      },
+      {
+        "id": "AD-PLACE-VVERKH-10",
+        "phrase": "Не бросай мяч так высоко вверх.",
+        "fullAnalysis": "Strategic focus: Throwing upward under negation. 'Вверх' still names the direction of the throw even with 'не бросай'. It modifies the verb and marks the upward trajectory of the ball."
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "VB-VIDET",
+    "label": "Видеть",
+    "badge": "SEE",
+    "description": "A full conjugation deck for видеть: present persons (note вижу with д→ж), past, future, and the perfective увидеть.",
+    "missions": [
+      {
+        "id": "VB-VIDET-01",
+        "phrase": "Из окна я вижу высокий дом.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Вижу' shows the д→ж consonant mutation unique to the 1sg of видеть. 'Высокий дом' is the accusative direct object; 'из окна' sets the vantage point."
+      },
+      {
+        "id": "VB-VIDET-02",
+        "phrase": "Наконец-то я вижу тебя снова.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Вижу' again carries the д→ж mutation, present only in this person. 'Тебя' is the accusative of ты; 'наконец-то' and 'снова' add warmth and time."
+      },
+      {
+        "id": "VB-VIDET-03",
+        "phrase": "Ты видишь свет в конце коридора?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Видишь' restores the stem д with the regular -ишь ending. 'Свет' is the accusative object; the locative phrase frames it as a question."
+      },
+      {
+        "id": "VB-VIDET-04",
+        "phrase": "Ты видишь меня отсюда хорошо?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Видишь' keeps the stem д, unlike the mutated 1sg вижу. 'Меня' is the accusative of я; 'отсюда хорошо' makes it a practical question."
+      },
+      {
+        "id": "VB-VIDET-05",
+        "phrase": "Он видит гору сквозь утренний туман.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Видит' is the core 3sg form with the stem д intact. 'Гору' is the accusative of гора; 'сквозь туман' enriches the scene."
+      },
+      {
+        "id": "VB-VIDET-06",
+        "phrase": "Она ясно видит свою главную цель.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Видит' is the regular 3sg form. 'Цель' is the accusative direct object; 'ясно' and 'главную' sharpen the meaning of purpose."
+      },
+      {
+        "id": "VB-VIDET-07",
+        "phrase": "С холма мы видим весь город.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Видим' takes the -им plural ending with the stem д. 'Город' is the accusative object; 'с холма' and 'весь' widen the view."
+      },
+      {
+        "id": "VB-VIDET-08",
+        "phrase": "Отсюда вы видите спокойное море.",
+        "fullAnalysis": "Strategic focus: Second-person plural present. 'Видите' is the formal or plural -ите form. 'Море' is the accusative object; 'отсюда' and 'спокойное' set a polite, vivid scene."
+      },
+      {
+        "id": "VB-VIDET-09",
+        "phrase": "Ночью они видят далёкие яркие звёзды.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Видят' takes the -ят ending typical of the second conjugation. 'Звёзды' is the accusative plural object; 'ночью' and 'далёкие яркие' add color."
+      },
+      {
+        "id": "VB-VIDET-10",
+        "phrase": "Честно говоря, я не вижу разницы.",
+        "fullAnalysis": "Strategic focus: First-person singular present, negated. 'Вижу' carries the д→ж mutation unique to 1sg. Negation shifts 'разницы' into the genitive; 'честно говоря' frames a common idiom."
+      },
+      {
+        "id": "VB-VIDET-11",
+        "phrase": "Он совсем не видит здесь проблемы.",
+        "fullAnalysis": "Strategic focus: Third-person singular present, negated. 'Видит' is the regular 3sg form with stem д. Under negation 'проблемы' takes the genitive; 'совсем' and 'здесь' ground it."
+      },
+      {
+        "id": "VB-VIDET-12",
+        "phrase": "Я видел тебя вчера на вокзале.",
+        "fullAnalysis": "Strategic focus: Masculine singular past. 'Видел' is the masculine past with no consonant mutation in the past tense. 'Тебя' is the accusative object; 'вчера на вокзале' fixes time and place."
+      },
+      {
+        "id": "VB-VIDET-13",
+        "phrase": "Сегодня ночью она видела странный сон.",
+        "fullAnalysis": "Strategic focus: Feminine singular past. 'Видела' adds the feminine -а ending. 'Сон' is the accusative object in the idiom 'видеть сон'; 'странный' and the time phrase enrich it."
+      },
+      {
+        "id": "VB-VIDET-14",
+        "phrase": "Это дитя впервые видело дневной свет.",
+        "fullAnalysis": "Strategic focus: Neuter singular past. 'Видело' takes the neuter -о ending agreeing with 'дитя'. 'Свет' is the accusative object; 'впервые' and 'дневной' complete a natural neuter example."
+      },
+      {
+        "id": "VB-VIDET-15",
+        "phrase": "Вчера мы видели интересный новый фильм.",
+        "fullAnalysis": "Strategic focus: Plural past. 'Видели' uses the plural -и ending shared by all genders. 'Фильм' is the accusative object; 'вчера' and 'интересный новый' make it conversational."
+      },
+      {
+        "id": "VB-VIDET-16",
+        "phrase": "Скоро я буду видеть это каждый день.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Буду' plus the infinitive 'видеть' forms the compound future. 'Это' is the accusative object; 'каждый день' stresses the ongoing, repeated seeing."
+      },
+      {
+        "id": "VB-VIDET-17",
+        "phrase": "Я увидел тебя в большой толпе.",
+        "fullAnalysis": "Strategic focus: Perfective past. 'Увидел' is the perfective увидеть, marking a single completed glimpse versus imperfective видел. 'Тебя' is accusative; 'в толпе' highlights the moment."
+      },
+      {
+        "id": "VB-VIDET-18",
+        "phrase": "Завтра я увижу город своей мечты.",
+        "fullAnalysis": "Strategic focus: Perfective future 1sg. 'Увижу' is the simple future of увидеть and keeps the д→ж mutation in the 1sg. 'Город' is accusative; 'завтра' marks one completed future act."
+      },
+      {
+        "id": "VB-VIDET-19",
+        "phrase": "Скоро ты сам всё увидишь.",
+        "fullAnalysis": "Strategic focus: Perfective future 2sg. 'Увидишь' is the perfective future with stem д restored, unlike the mutated 1sg увижу. 'Сам' and 'всё' build the common idiom 'you'll see for yourself'."
+      },
+      {
+        "id": "VB-VIDET-20",
+        "phrase": "Совсем скоро мы увидим первый результат.",
+        "fullAnalysis": "Strategic focus: Perfective future plural. 'Увидим' is the perfective future, contrasting completion with imperfective видим. 'Результат' is accusative; 'совсем скоро' and 'первый' point to a goal."
+      }
+    ]
+  }
+]

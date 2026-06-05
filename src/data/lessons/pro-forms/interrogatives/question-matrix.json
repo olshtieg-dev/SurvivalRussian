@@ -7,28 +7,28 @@
     "missions": [
       {
         "id": "PF-Q-KTO-01",
-        "phrase": "кто здесь?",
-        "fullAnalysis": "Strategic focus: Presence question. 1. 'Кто' asks for a person. 2. 'Здесь' keeps the location immediate. 3. The line is short and very reusable."
+        "phrase": "Кто здесь главный?",
+        "fullAnalysis": "Strategic focus: Identifying a person. 'Кто' opens the subject slot and asks for a person, while 'главный' specifies which one you mean. The line is a natural way to find who is in charge."
       },
       {
         "id": "PF-Q-KTO-02",
-        "phrase": "кто это?",
-        "fullAnalysis": "Strategic focus: Identification. 1. 'Кто' asks for identity. 2. 'Это' points to the referent. 3. This is the basic Russian identity question."
+        "phrase": "Кто это на фотографии?",
+        "fullAnalysis": "Strategic focus: Identification. 'Кто' asks for the identity of a person, and 'это' points to the referent you have in mind. The prepositional phrase 'на фотографии' grounds the question in a real photo."
       },
       {
         "id": "PF-Q-KTO-03",
-        "phrase": "кто пришёл домой?",
-        "fullAnalysis": "Strategic focus: Past event. 1. 'Кто' asks about a person. 2. 'Пришел' gives a clear completed action. 3. 'Домой' keeps the scene practical."
+        "phrase": "Кто пришёл домой так поздно?",
+        "fullAnalysis": "Strategic focus: Past event. 'Кто' asks which person performed the action, and the perfective 'пришёл' marks a completed arrival. 'Домой' and 'так поздно' anchor the scene in everyday home life."
       },
       {
         "id": "PF-Q-KTO-04",
-        "phrase": "кто ждёт нас?",
-        "fullAnalysis": "Strategic focus: Waiting frame. 1. 'Кто' pulls the subject slot open. 2. 'Ждет нас' gives a concrete interaction. 3. The sentence is easy to imagine in real life."
+        "phrase": "Кто нас сегодня ждёт?",
+        "fullAnalysis": "Strategic focus: Waiting frame. 'Кто' fills the subject position, and 'ждёт' takes the accusative object 'нас', so the sentence asks who is expecting us. 'Сегодня' keeps it concrete and timely."
       },
       {
         "id": "PF-Q-KTO-05",
-        "phrase": "кто сказал это?",
-        "fullAnalysis": "Strategic focus: Source of information. 1. 'Кто' asks who said something. 2. 'Сказал' anchors the sentence in speech. 3. 'Это' is the thing being referred to."
+        "phrase": "Кто тебе это сказал?",
+        "fullAnalysis": "Strategic focus: Source of information. 'Кто' asks for the speaker behind a statement, and 'сказал' anchors the question in reported speech. 'Тебе' is dative for the listener and 'это' names what was said."
       }
     ]
   },
@@ -40,28 +40,28 @@
     "missions": [
       {
         "id": "PF-Q-CHTO-01",
-        "phrase": "что это?",
-        "fullAnalysis": "Strategic focus: Object identity. 1. 'Что' asks for a thing or concept. 2. 'Это' points at the target. 3. This is one of the most important Russian questions."
+        "phrase": "Что это такое?",
+        "fullAnalysis": "Strategic focus: Object identity. 'Что' asks for a thing or concept, and 'это такое' is the natural emphatic frame Russians add when genuinely puzzled. It is one of the most useful identity questions."
       },
       {
         "id": "PF-Q-CHTO-02",
-        "phrase": "что ты видишь?",
-        "fullAnalysis": "Strategic focus: Perception. 1. 'Что' asks about the object of seeing. 2. 'Ты видишь' keeps the frame personal. 3. The sentence is direct and useful."
+        "phrase": "Что ты там видишь?",
+        "fullAnalysis": "Strategic focus: Perception. 'Что' is the accusative object of seeing, and 'ты видишь' keeps the frame personal. 'Там' adds a direction of gaze, making the question feel like a real exchange."
       },
       {
         "id": "PF-Q-CHTO-03",
-        "phrase": "что лежит на столе?",
-        "fullAnalysis": "Strategic focus: Object location. 1. 'Что' asks for an unknown item. 2. 'Лежит на столе' gives the spatial frame. 3. This is a practical household question."
+        "phrase": "Что лежит у тебя на столе?",
+        "fullAnalysis": "Strategic focus: Object location. 'Что' asks for an unknown item, and 'лежит на столе' supplies the spatial frame in the prepositional case. 'У тебя' marks whose table it is, a practical household question."
       },
       {
         "id": "PF-Q-CHTO-04",
-        "phrase": "что он купил?",
-        "fullAnalysis": "Strategic focus: Past action. 1. 'Что' asks for the purchased item. 2. 'Он купил' gives the event. 3. This is a clean everyday question."
+        "phrase": "Что ты вчера купил?",
+        "fullAnalysis": "Strategic focus: Past action. 'Что' is the accusative object of the perfective 'купил', so the question asks which thing was bought. 'Вчера' fixes the event in time and keeps it everyday."
       },
       {
         "id": "PF-Q-CHTO-05",
-        "phrase": "что нам нужно?",
-        "fullAnalysis": "Strategic focus: Need and planning. 1. 'Что' asks for the required thing. 2. 'Нам нужно' is a high-value practical pattern. 3. The sentence is useful for shopping and planning."
+        "phrase": "Что нам нужно купить?",
+        "fullAnalysis": "Strategic focus: Need and planning. 'Что' names the required item, and 'нам нужно' is the high-value dative pattern for necessity. The infinitive 'купить' makes it a concrete shopping question."
       }
     ]
   },
@@ -73,28 +73,28 @@
     "missions": [
       {
         "id": "PF-Q-GDE-01",
-        "phrase": "где ты?",
-        "fullAnalysis": "Strategic focus: Basic location question. 1. 'Где' asks for place. 2. 'Ты' keeps the sentence immediate and personal. 3. This is the shortest useful Russian location query."
+        "phrase": "Где ты сейчас находишься?",
+        "fullAnalysis": "Strategic focus: Static location. 'Где' asks for a fixed place, not a direction, and 'находишься' is the natural verb for being located. 'Сейчас' pins the question to the present moment."
       },
       {
         "id": "PF-Q-GDE-02",
-        "phrase": "где моя книга?",
-        "fullAnalysis": "Strategic focus: Missing object. 1. 'Где' asks where something is. 2. 'Моя книга' makes the target concrete. 3. This is a very natural everyday question."
+        "phrase": "Где лежит моя книга?",
+        "fullAnalysis": "Strategic focus: Missing object. 'Где' asks where something rests, and 'лежит' supplies the static position. 'Моя книга' makes the target concrete in a very natural everyday search."
       },
       {
         "id": "PF-Q-GDE-03",
-        "phrase": "где мы встретимся?",
-        "fullAnalysis": "Strategic focus: Meeting point. 1. 'Где' asks for a place. 2. 'Мы встретимся' gives the future action. 3. The sentence is perfect for arranging plans."
+        "phrase": "Где мы завтра встретимся?",
+        "fullAnalysis": "Strategic focus: Meeting point. 'Где' asks for the place of an action, and the perfective future 'встретимся' sets up a plan. 'Завтра' adds the timeframe, ideal for arranging to meet."
       },
       {
         "id": "PF-Q-GDE-04",
-        "phrase": "где твой дом?",
-        "fullAnalysis": "Strategic focus: Residence location. 1. 'Где' asks about location. 2. 'Твой дом' keeps the target simple. 3. This is a high-value real-world question."
+        "phrase": "Где здесь ближайшая аптека?",
+        "fullAnalysis": "Strategic focus: Finding a place. 'Где' asks for a static location, and 'здесь' narrows it to the immediate area. 'Ближайшая аптека' is the concrete target, a high-value survival question for travel."
       },
       {
         "id": "PF-Q-GDE-05",
-        "phrase": "где идёт дождь?",
-        "fullAnalysis": "Strategic focus: Environment question. 1. 'Где' asks for the location of the weather. 2. 'Идет дождь' is a standard weather frame. 3. The line is useful in travel and conversation."
+        "phrase": "Где сейчас идёт дождь?",
+        "fullAnalysis": "Strategic focus: Environment question. 'Где' asks for the place of a weather event, and 'идёт дождь' is the standard frame for falling rain. 'Сейчас' keeps it current and useful in conversation."
       }
     ]
   },
@@ -106,28 +106,28 @@
     "missions": [
       {
         "id": "PF-Q-KOGDA-01",
-        "phrase": "когда мы начнём?",
-        "fullAnalysis": "Strategic focus: Planning time. 1. 'Когда' asks for timing. 2. 'Мы начнем' is a practical future action. 3. This is a very common coordination question."
+        "phrase": "Когда мы наконец начнём?",
+        "fullAnalysis": "Strategic focus: Planning time. 'Когда' asks for the timing of an event, and the perfective future 'начнём' marks the start. 'Наконец' adds a touch of impatience common in real coordination."
       },
       {
         "id": "PF-Q-KOGDA-02",
-        "phrase": "когда ты придёшь?",
-        "fullAnalysis": "Strategic focus: Arrival time. 1. 'Когда' asks for time. 2. 'Ты придешь' gives a clear future event. 3. The sentence is natural and conversational."
+        "phrase": "Когда ты сегодня придёшь?",
+        "fullAnalysis": "Strategic focus: Arrival time. 'Когда' asks for the moment of arrival, and 'придёшь' is the perfective future of приходить. 'Сегодня' grounds the question in the day's plans."
       },
       {
         "id": "PF-Q-KOGDA-03",
-        "phrase": "когда будет ужин?",
-        "fullAnalysis": "Strategic focus: Scheduled event. 1. 'Когда' introduces timing. 2. 'Будет ужин' keeps the sentence simple and concrete. 3. This is useful in daily household speech."
+        "phrase": "Когда у нас будет ужин?",
+        "fullAnalysis": "Strategic focus: Scheduled event. 'Когда' introduces the timing, and 'будет' projects the meal into the future. 'У нас' marks whose household it is, a natural domestic question."
       },
       {
         "id": "PF-Q-KOGDA-04",
-        "phrase": "когда поезд уходит?",
-        "fullAnalysis": "Strategic focus: Transit timing. 1. 'Когда' asks for departure time. 2. 'Поезд уходит' gives the event. 3. The sentence is excellent for travel practice."
+        "phrase": "Когда отходит следующий поезд?",
+        "fullAnalysis": "Strategic focus: Transit timing. 'Когда' asks for a departure time, and 'отходит' is the standard verb for a train pulling away. 'Следующий поезд' makes it an essential travel question."
       },
       {
         "id": "PF-Q-KOGDA-05",
-        "phrase": "когда все готово?",
-        "fullAnalysis": "Strategic focus: Readiness time. 1. 'Когда' asks for completion point. 2. 'Все готово' marks readiness. 3. This is a very useful planning and cooking line."
+        "phrase": "Когда всё будет готово?",
+        "fullAnalysis": "Strategic focus: Readiness time. 'Когда' asks when completion will occur, and 'всё будет готово' projects readiness into the future. The line fits cooking, packing, and planning alike."
       }
     ]
   },
@@ -139,28 +139,28 @@
     "missions": [
       {
         "id": "PF-Q-POSCHEMU-01",
-        "phrase": "почему он молчит?",
-        "fullAnalysis": "Strategic focus: Reason question. 1. 'Почему' asks for cause or explanation. 2. 'Он молчит' gives a common situation. 3. The sentence feels natural in real conversation."
+        "phrase": "Почему он сегодня молчит?",
+        "fullAnalysis": "Strategic focus: Reason question. 'Почему' asks for the cause behind a state, and 'он молчит' describes a common situation worth explaining. 'Сегодня' makes the silence feel noticed and current."
       },
       {
         "id": "PF-Q-POSCHEMU-02",
-        "phrase": "почему ты ушёл?",
-        "fullAnalysis": "Strategic focus: Departure reason. 1. 'Почему' asks for the reason. 2. 'Ты ушел' keeps the event clear. 3. This is a classic conversation repair question."
+        "phrase": "Почему ты так рано ушёл?",
+        "fullAnalysis": "Strategic focus: Departure reason. 'Почему' asks for the cause of leaving, and the perfective 'ушёл' marks a completed departure. 'Так рано' adds the surprise that prompts the question."
       },
       {
         "id": "PF-Q-POSCHEMU-03",
-        "phrase": "почему дверь открыта?",
-        "fullAnalysis": "Strategic focus: State explanation. 1. 'Почему' asks about a condition. 2. 'Дверь открыта' gives the thing to explain. 3. This is a useful household question."
+        "phrase": "Почему дверь до сих пор открыта?",
+        "fullAnalysis": "Strategic focus: State explanation. 'Почему' asks about the cause of a condition, and 'дверь открыта' names the state to explain. 'До сих пор' signals it has stayed that way too long."
       },
       {
         "id": "PF-Q-POSCHEMU-04",
-        "phrase": "почему мы ждем?",
-        "fullAnalysis": "Strategic focus: Group delay. 1. 'Почему' asks for the reason. 2. 'Мы ждем' gives the shared action. 3. The line is short and useful for planning."
+        "phrase": "Почему мы так долго ждём?",
+        "fullAnalysis": "Strategic focus: Group delay. 'Почему' asks for the reason behind a shared action, and 'мы ждём' names the wait. 'Так долго' frames the delay as frustrating, natural in planning."
       },
       {
         "id": "PF-Q-POSCHEMU-05",
-        "phrase": "почему это важно?",
-        "fullAnalysis": "Strategic focus: Importance question. 1. 'Почему' asks for explanation. 2. 'Это важно' frames the issue. 3. This is a great sentence for discussion and argument."
+        "phrase": "Почему это так важно для тебя?",
+        "fullAnalysis": "Strategic focus: Importance question. 'Почему' asks for an explanation, and 'это важно' frames the matter at issue. 'Для тебя' personalizes it, a strong opener for real discussion."
       }
     ]
   },
@@ -172,28 +172,292 @@
     "missions": [
       {
         "id": "PF-Q-KAK-01",
-        "phrase": "как ты это сделал?",
-        "fullAnalysis": "Strategic focus: Method question. 1. 'Как' asks about manner. 2. 'Ты это сделал' points to a completed act. 3. This is a classic explanatory question."
+        "phrase": "Как ты это сделал?",
+        "fullAnalysis": "Strategic focus: Method question. 'Как' asks about the manner of an action, and 'ты это сделал' points to a completed deed with the perfective verb. It is a classic request for an explanation."
       },
       {
         "id": "PF-Q-KAK-02",
-        "phrase": "как это работает?",
-        "fullAnalysis": "Strategic focus: Process question. 1. 'Как' asks for mechanism. 2. 'Это работает' gives the object of inquiry. 3. The line is short and very reusable."
+        "phrase": "Как это вообще работает?",
+        "fullAnalysis": "Strategic focus: Process question. 'Как' asks for the mechanism, and 'это работает' names the object of inquiry. 'Вообще' adds the mild bafflement that makes it sound spoken."
       },
       {
         "id": "PF-Q-KAK-03",
-        "phrase": "как ты говоришь?",
-        "fullAnalysis": "Strategic focus: Manner of speaking. 1. 'Как' asks about style or method. 2. 'Ты говоришь' keeps the verb simple. 3. This is useful for pronunciation and register talk."
+        "phrase": "Как мне до тебя доехать?",
+        "fullAnalysis": "Strategic focus: Manner of getting somewhere. 'Как' asks by what means, and the infinitive 'доехать' frames the route by transport. 'Мне' is dative for the traveller and 'до тебя' the destination."
       },
       {
         "id": "PF-Q-KAK-04",
-        "phrase": "как мы идём?",
-        "fullAnalysis": "Strategic focus: Shared movement. 1. 'Как' asks about the way of moving. 2. 'Мы идем' keeps the action concrete. 3. The sentence is easy to say in real life."
+        "phrase": "Как у тебя дела?",
+        "fullAnalysis": "Strategic focus: Asking about state. 'Как' here asks in what way things stand, and 'дела' names the affairs in question. 'У тебя' marks whose life it is, the standard friendly how-are-you."
       },
       {
         "id": "PF-Q-KAK-05",
-        "phrase": "как это называется?",
-        "fullAnalysis": "Strategic focus: Naming question. 1. 'Как' asks for the name. 2. 'Это называется' is a common explanatory frame. 3. This is a core learner question."
+        "phrase": "Как это по-русски называется?",
+        "fullAnalysis": "Strategic focus: Naming question. 'Как' asks for the name of a thing, and 'называется' is the reflexive verb for what something is called. 'По-русски' makes it a core learner question."
+      }
+    ]
+  },
+  {
+    "id": "PF-Q-KAKOI",
+    "label": "Какой",
+    "badge": "WHICH",
+    "description": "The agreeing interrogative какой ('which/what kind') across gender, number, and case.",
+    "missions": [
+      {
+        "id": "PF-Q-KAKOI-01",
+        "phrase": "Какой сегодня день недели?",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 'Какой' is the masculine nominative form, agreeing with the masculine noun 'день'. The genitive 'недели' specifies which day, asking what day of the week it is."
+      },
+      {
+        "id": "PF-Q-KAKOI-02",
+        "phrase": "Какая сегодня погода на улице?",
+        "fullAnalysis": "Strategic focus: Feminine agreement. 'Какая' is the feminine form, agreeing with the feminine noun 'погода'. The phrase 'на улице' grounds it outdoors, asking what the weather is like."
+      },
+      {
+        "id": "PF-Q-KAKOI-03",
+        "phrase": "Какое у тебя сейчас настроение?",
+        "fullAnalysis": "Strategic focus: Neuter agreement. 'Какое' is the neuter form, agreeing with the neuter noun 'настроение'. 'У тебя' marks whose mood it is, asking how someone feels right now."
+      },
+      {
+        "id": "PF-Q-KAKOI-04",
+        "phrase": "Какие у вас планы на вечер?",
+        "fullAnalysis": "Strategic focus: Plural agreement. 'Какие' is the plural form, agreeing with the plural noun 'планы'. 'У вас' and 'на вечер' make it a natural question about evening plans."
+      },
+      {
+        "id": "PF-Q-KAKOI-05",
+        "phrase": "В каком году ты родился?",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Каком' is the masculine prepositional form, forced by the preposition 'в'. It agrees with 'году', asking in which year someone was born."
+      },
+      {
+        "id": "PF-Q-KAKOI-06",
+        "phrase": "Какого цвета твоя машина?",
+        "fullAnalysis": "Strategic focus: Genitive case. 'Какого' is the masculine genitive form, agreeing with genitive 'цвета' in the fixed colour construction. 'Твоя машина' names what is being described."
+      },
+      {
+        "id": "PF-Q-KAKOI-07",
+        "phrase": "Каким образом ты это узнал?",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Каким' is the masculine instrumental form, agreeing with instrumental 'образом' in the set phrase meaning 'in what manner'. It asks how something was found out."
+      },
+      {
+        "id": "PF-Q-KAKOI-08",
+        "phrase": "Какой вопрос тебя беспокоит?",
+        "fullAnalysis": "Strategic focus: Masculine agreement. 'Какой' is the masculine nominative form, agreeing with the masculine noun 'вопрос'. 'Беспокоит' makes it ask which exact question is troubling someone."
+      }
+    ]
+  },
+  {
+    "id": "PF-Q-SKOLKO",
+    "label": "Сколько",
+    "badge": "HOW MANY",
+    "description": "The quantity interrogative сколько ('how much/many') + genitive.",
+    "missions": [
+      {
+        "id": "PF-Q-SKOLKO-01",
+        "phrase": "Сколько сейчас времени?",
+        "fullAnalysis": "Strategic focus: Time. 'Сколько' asks for a quantity and governs the genitive, turning 'время' into 'времени'. With 'сейчас' it is the standard everyday way to ask what time it is."
+      },
+      {
+        "id": "PF-Q-SKOLKO-02",
+        "phrase": "Сколько у тебя денег?",
+        "fullAnalysis": "Strategic focus: Money. 'Сколько' asks how much and takes the genitive, so 'деньги' becomes 'денег'. 'У тебя' marks the possessor, a practical question about available cash."
+      },
+      {
+        "id": "PF-Q-SKOLKO-03",
+        "phrase": "Сколько тебе сейчас лет?",
+        "fullAnalysis": "Strategic focus: Age. 'Сколько' counts the years, and the genitive rule gives plural 'лет'. 'Тебе' is dative in this fixed construction for asking someone's age."
+      },
+      {
+        "id": "PF-Q-SKOLKO-04",
+        "phrase": "Сколько человек придёт на встречу?",
+        "fullAnalysis": "Strategic focus: Count. 'Сколько' asks how many and forces the genitive, where the count form 'человек' replaces 'людей'. 'Придёт на встречу' makes it a real headcount question."
+      },
+      {
+        "id": "PF-Q-SKOLKO-05",
+        "phrase": "Сколько это всё стоит?",
+        "fullAnalysis": "Strategic focus: Price. 'Сколько' asks the amount and pairs with the verb 'стоит' to request a price. 'Это всё' bundles the items, giving the everyday checkout question."
+      },
+      {
+        "id": "PF-Q-SKOLKO-06",
+        "phrase": "Сколько раз тебе повторять?",
+        "fullAnalysis": "Strategic focus: Frequency. 'Сколько' asks how many times and takes the genitive form 'раз'. With the infinitive 'повторять' it becomes the familiar exasperated how-many-times question."
+      },
+      {
+        "id": "PF-Q-SKOLKO-07",
+        "phrase": "Сколько книг стоит на полке?",
+        "fullAnalysis": "Strategic focus: Count. 'Сколько' asks the number of items, and the genitive plural turns 'книги' into 'книг'. 'Стоит на полке' supplies the location of the books being counted."
+      },
+      {
+        "id": "PF-Q-SKOLKO-08",
+        "phrase": "Сколько стоит билет до Москвы?",
+        "fullAnalysis": "Strategic focus: Price. 'Сколько стоит' asks the cost, and the priced thing 'билет' stays nominative as the subject of 'стоит'. 'До Москвы' makes it a real ticket-counter question."
+      }
+    ]
+  },
+  {
+    "id": "PF-Q-KUDA",
+    "label": "Куда",
+    "badge": "WHERE TO",
+    "description": "The directional interrogative куда ('where to') for motion, vs static где.",
+    "missions": [
+      {
+        "id": "PF-Q-KUDA-01",
+        "phrase": "Куда ты сейчас идёшь?",
+        "fullAnalysis": "Strategic focus: Direction of motion. 'Куда' asks toward what point, unlike static 'где'. 'Идёшь' marks travel on foot in progress, and 'сейчас' keeps the destination question immediate."
+      },
+      {
+        "id": "PF-Q-KUDA-02",
+        "phrase": "Куда мы сейчас едем?",
+        "fullAnalysis": "Strategic focus: Destination by vehicle. 'Куда' seeks the goal of movement, and 'едем' shows riding rather than walking. 'Мы' joins speaker and listener in a shared trip."
+      },
+      {
+        "id": "PF-Q-KUDA-03",
+        "phrase": "Куда он так быстро ушёл?",
+        "fullAnalysis": "Strategic focus: Completed departure. 'Куда' asks the endpoint of a going, contrasting with static 'где'. The perfective 'ушёл' marks a finished departure, and 'так быстро' adds the surprise."
+      },
+      {
+        "id": "PF-Q-KUDA-04",
+        "phrase": "Куда мне это положить?",
+        "fullAnalysis": "Strategic focus: Placing something. 'Куда' asks the target spot for an act of putting, and the perfective infinitive 'положить' frames it as a request. 'Мне' is dative for the one seeking direction."
+      },
+      {
+        "id": "PF-Q-KUDA-05",
+        "phrase": "Куда ты так спешишь?",
+        "fullAnalysis": "Strategic focus: Hurried motion. 'Куда' points to a destination, not static 'где'. 'Спешишь' shows haste toward that goal, and 'так' heightens the urgency of the question."
+      },
+      {
+        "id": "PF-Q-KUDA-06",
+        "phrase": "Куда нам идти дальше?",
+        "fullAnalysis": "Strategic focus: Next direction. 'Куда' asks which way to head from here, and the infinitive 'идти' frames the choice. 'Нам' is dative for the group deciding and 'дальше' means onward."
+      },
+      {
+        "id": "PF-Q-KUDA-07",
+        "phrase": "Куда они все так бегут?",
+        "fullAnalysis": "Strategic focus: Running somewhere. 'Куда' seeks the goal of fast motion, and 'бегут' is the present plural of бежать. 'Они все' and 'так' make the rushing crowd vivid."
+      },
+      {
+        "id": "PF-Q-KUDA-08",
+        "phrase": "Куда лучше поставить этот стол?",
+        "fullAnalysis": "Strategic focus: Where to set an object. 'Куда' asks the target location for placing, and the perfective infinitive 'поставить' means to stand upright. 'Лучше' invites advice on the best spot."
+      }
+    ]
+  },
+  {
+    "id": "PF-Q-OTKUDA",
+    "label": "Откуда",
+    "badge": "WHERE FROM",
+    "description": "The origin interrogative откуда ('where from'), the source counterpart of куда/где.",
+    "missions": [
+      {
+        "phrase": "Откуда ты родом?",
+        "fullAnalysis": "Strategic focus: Origin. 'Откуда' asks about a source or starting point, and 'родом' is the set word for one's native place. Addressed with informal 'ты', it asks where someone is from."
+      },
+      {
+        "phrase": "Откуда вы к нам приехали?",
+        "fullAnalysis": "Strategic focus: Origin of arrival. 'Откуда' asks for a point of departure, and the perfective 'приехали' marks a completed journey. Formal 'вы' makes it a polite way to ask where guests came from."
+      },
+      {
+        "phrase": "Откуда у тебя это взялось?",
+        "fullAnalysis": "Strategic focus: Source. 'Откуда' probes the origin of a thing, and 'взялось' is the neuter past of взяться, to appear. 'У тебя' marks the possessor, asking where it came from."
+      },
+      {
+        "phrase": "Откуда он всё это знает?",
+        "fullAnalysis": "Strategic focus: Knowledge source. 'Откуда' asks how information was obtained, and 'знает' is знать in the third person. 'Всё это' broadens the question to everything he seems to know."
+      },
+      {
+        "phrase": "Откуда вы это знаете?",
+        "fullAnalysis": "Strategic focus: Knowledge source. 'Откуда' questions the origin of knowledge, and 'знаете' is знать conjugated for formal 'вы'. 'Это' names the fact whose source is in doubt."
+      },
+      {
+        "phrase": "Откуда взялся этот шум?",
+        "fullAnalysis": "Strategic focus: Appearance. 'Откуда' asks where something emerged from, and 'взялся' is the masculine past of взяться. 'Этот шум' names the noise whose source you want to trace."
+      },
+      {
+        "phrase": "Откуда дует такой холодный ветер?",
+        "fullAnalysis": "Strategic focus: Direction of a source. 'Откуда' marks motion from a starting point, here the wind's origin. 'Дует' is the verb for blowing, and 'такой холодный ветер' makes it a vivid everyday complaint."
+      },
+      {
+        "phrase": "Откуда у тебя такие новости?",
+        "fullAnalysis": "Strategic focus: Provenance. 'Откуда' asks for the source of something, and 'новости' is the plural noun for news. 'У тебя такие' makes it a natural way to ask where one heard it."
+      }
+    ]
+  },
+  {
+    "id": "PF-Q-CHEI",
+    "label": "Чей",
+    "badge": "WHOSE",
+    "description": "The agreeing possessive interrogative чей ('whose') across gender and number.",
+    "missions": [
+      {
+        "phrase": "Чей это дом на углу?",
+        "fullAnalysis": "Strategic focus: Whose (masculine). 'Чей' is the possessive interrogative in its masculine form, agreeing with 'дом'. 'Это' points to the referent and 'на углу' places it on the corner."
+      },
+      {
+        "phrase": "Чья это сумка на стуле?",
+        "fullAnalysis": "Strategic focus: Whose (feminine). 'Чья' is the feminine form of чей, agreeing with the feminine noun 'сумка'. 'Это' marks the bag pointed at and 'на стуле' locates it on the chair."
+      },
+      {
+        "phrase": "Чьё это пальто в прихожей?",
+        "fullAnalysis": "Strategic focus: Whose (neuter). 'Чьё' is the neuter form, spelled with ё, agreeing with the neuter noun 'пальто'. 'Это' indicates the coat and 'в прихожей' sets it in the hallway."
+      },
+      {
+        "phrase": "Чьи это дети во дворе?",
+        "fullAnalysis": "Strategic focus: Whose (plural). 'Чьи' is the plural form of чей, agreeing with the plural noun 'дети'. 'Это' points to the group and 'во дворе' places them out in the yard."
+      },
+      {
+        "phrase": "Чей это телефон сейчас звонит?",
+        "fullAnalysis": "Strategic focus: Whose (masculine). 'Чей' takes the masculine form to agree with 'телефон', and 'звонит' describes it ringing. 'Это' and 'сейчас' make it a real-time question of ownership."
+      },
+      {
+        "phrase": "Чья сейчас очередь говорить?",
+        "fullAnalysis": "Strategic focus: Whose (feminine). 'Чья' is the feminine form, agreeing with the feminine noun 'очередь'. The infinitive 'говорить' turns it into asking whose turn it is to speak."
+      },
+      {
+        "phrase": "Чьё это место в зале?",
+        "fullAnalysis": "Strategic focus: Whose (neuter). 'Чьё' is the neuter form, spelled with ё, agreeing with the neuter noun 'место'. 'Это' points to the seat and 'в зале' sets it in the hall."
+      },
+      {
+        "phrase": "Чьи это вещи в коридоре?",
+        "fullAnalysis": "Strategic focus: Whose (plural). 'Чьи' is the plural form of чей, agreeing with the plural noun 'вещи'. 'Это' indicates the items and 'в коридоре' places them in the corridor."
+      }
+    ]
+  },
+  {
+    "id": "PF-Q-ZACHEM",
+    "label": "Зачем",
+    "badge": "WHAT FOR",
+    "description": "The purpose interrogative зачем ('what for'), distinct from почему ('why/cause').",
+    "missions": [
+      {
+        "phrase": "Зачем ты сюда пришёл?",
+        "fullAnalysis": "Strategic focus: Purpose of arrival. 'Зачем' asks for what purpose rather than the cause, and the perfective 'пришёл' marks a completed coming. 'Сюда' adds the direction, framing the visit's aim."
+      },
+      {
+        "phrase": "Зачем это вообще нужно?",
+        "fullAnalysis": "Strategic focus: Aim of a thing. 'Зачем' probes the intended use, and 'нужно' marks necessity. 'Вообще' sharpens the doubt, so the question targets the goal, not the origin."
+      },
+      {
+        "phrase": "Зачем так сильно спешить?",
+        "fullAnalysis": "Strategic focus: Point of hurrying. 'Зачем' asks the purpose of an action through the bare infinitive 'спешить'. 'Так сильно' heightens it, and зачем (what for) here contrasts with почему (what cause)."
+      },
+      {
+        "phrase": "Зачем тебе всё это нужно?",
+        "fullAnalysis": "Strategic focus: Personal motive. 'Зачем' seeks the aim behind wanting something, and 'тебе' is dative for the interested party. 'Всё это' is the object whose purpose is questioned."
+      },
+      {
+        "phrase": "Зачем нам сейчас спорить?",
+        "fullAnalysis": "Strategic focus: Value of arguing. 'Зачем' questions the purpose through the infinitive 'спорить', and 'нам' marks who is involved. Зачем asks the goal, where почему would ask the cause of the dispute."
+      },
+      {
+        "phrase": "Зачем нам ещё ждать?",
+        "fullAnalysis": "Strategic focus: Reason to wait. 'Зачем' asks to what end, using the infinitive 'ждать'. 'Ещё' implies the waiting may already be pointless, and 'нам' names those affected."
+      },
+      {
+        "phrase": "Зачем ты мне постоянно звонишь?",
+        "fullAnalysis": "Strategic focus: Goal of a call. 'Зачем' targets the purpose, and 'звонишь' is the 2sg of звонить. 'Мне постоянно' makes it pointed, asking aim rather than почему's cause."
+      },
+      {
+        "phrase": "Зачем так громко кричать?",
+        "fullAnalysis": "Strategic focus: Need to shout. 'Зачем' asks for what end through the infinitive 'кричать'. 'Так громко' intensifies it, framing the shouting as needless and out of place."
       }
     ]
   }

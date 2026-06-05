@@ -1,0 +1,95 @@
+[
+  {
+    "id": "NN-MOTION-MESTO",
+    "label": "Место",
+    "badge": "PLACE",
+    "description": "Declension of место (neuter, 'place / spot / seat') across the full case ladder, with the locative на месте vs. directional на место contrast and plural места́/мест.",
+    "missions": [
+      {
+        "id": "NN-MOTION-MESTO-01",
+        "phrase": "Это очень хорошее место.",
+        "fullAnalysis": "Strategic focus: Nominative case. 1. 'Место' is the subject in its dictionary form. 2. 'Хорошее' is the neuter nominative adjective ending. 3. This is the baseline shape for naming a spot."
+      },
+      {
+        "id": "NN-MOTION-MESTO-02",
+        "phrase": "Я наконец нашёл место.",
+        "fullAnalysis": "Strategic focus: Accusative case. 1. 'Место' is the direct object of 'нашёл'. 2. Neuter nouns show nominative=accusative syncretism, so the form is unchanged. 3. The case is read from its object role, not the ending."
+      },
+      {
+        "id": "NN-MOTION-MESTO-03",
+        "phrase": "Здесь больше нет места.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 1. 'Нет' forces the genitive 'места'. 2. It marks the nonexistence of free space. 3. This is the standard 'there is no room' construction."
+      },
+      {
+        "id": "NN-MOTION-MESTO-04",
+        "phrase": "В шкафу не хватает места.",
+        "fullAnalysis": "Strategic focus: Genitive case. 1. 'Хватает' governs the genitive 'места'. 2. It expresses an insufficient quantity of space. 3. This negated-availability pattern is common in everyday speech."
+      },
+      {
+        "id": "NN-MOTION-MESTO-05",
+        "phrase": "Я медленно иду к месту встречи.",
+        "fullAnalysis": "Strategic focus: Dative case. 1. The preposition 'к' takes the dative 'месту'. 2. It marks the goal one is moving toward. 3. Dative is the case of direction toward with 'к'."
+      },
+      {
+        "id": "NN-MOTION-MESTO-06",
+        "phrase": "Я полностью доверяю этому месту.",
+        "fullAnalysis": "Strategic focus: Dative case. 1. 'Доверять' assigns the dative to its complement 'месту'. 2. 'Этому' agrees as neuter dative. 3. Certain verbs require the dative as their object."
+      },
+      {
+        "id": "NN-MOTION-MESTO-07",
+        "phrase": "Я очень доволен этим местом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 1. 'Доволен' governs the instrumental 'местом'. 2. 'Этим' agrees as neuter instrumental. 3. This adjective-plus-instrumental pattern expresses satisfaction with something."
+      },
+      {
+        "id": "NN-MOTION-MESTO-08",
+        "phrase": "Птицы кружат над этим местом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 1. The preposition 'над' takes the instrumental 'местом'. 2. It locates one thing above another. 3. Spatial prepositions like 'над' fix position with the instrumental."
+      },
+      {
+        "id": "NN-MOTION-MESTO-09",
+        "phrase": "Я уже на месте, жду тебя.",
+        "fullAnalysis": "Strategic focus: Prepositional case (location). 1. 'На месте' answers 'where' and means already arrived. 2. The prepositional ending marks static position. 3. Contrast this locative shape with directional 'на место'."
+      },
+      {
+        "id": "NN-MOTION-MESTO-10",
+        "phrase": "Пожалуйста, садись на место.",
+        "fullAnalysis": "Strategic focus: Accusative case (motion). 1. 'На место' here takes the accusative for movement onto a spot. 2. It answers 'where to', not 'where'. 3. Same preposition 'на', different case, different meaning than 'на месте'."
+      },
+      {
+        "id": "NN-MOTION-MESTO-11",
+        "phrase": "Он резко встал с места.",
+        "fullAnalysis": "Strategic focus: Genitive case. 1. The preposition 'с' takes the genitive 'места'. 2. It marks motion away from a spot. 3. 'С места' is the standard 'from one's seat' phrase."
+      },
+      {
+        "id": "NN-MOTION-MESTO-12",
+        "phrase": "В этом месте всегда холодно.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 1. 'В' takes the prepositional 'месте' for static location. 2. 'Этом' agrees as neuter prepositional. 3. This pinpoints where a condition holds."
+      },
+      {
+        "id": "NN-MOTION-MESTO-13",
+        "phrase": "Извините, это моё место.",
+        "fullAnalysis": "Strategic focus: Nominative with possessive. 1. 'Моё' is the neuter nominative possessive agreeing with 'место'. 2. The noun stays in its base form as predicate. 3. Possessives must match neuter gender."
+      },
+      {
+        "id": "NN-MOTION-MESTO-14",
+        "phrase": "Это моё рабочее место.",
+        "fullAnalysis": "Strategic focus: Nominative with agreement. 1. 'Рабочее' is the neuter nominative adjective for 'workplace'. 2. 'Моё' likewise agrees as neuter. 3. Both modifiers track the gender of 'место'."
+      },
+      {
+        "id": "NN-MOTION-MESTO-15",
+        "phrase": "В зале ещё есть свободные места.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 1. 'Места́' is the plural of 'место' with end stress. 2. 'Свободные' is the plural adjective for free seats. 3. The plural reads from the -а ending and agreement."
+      },
+      {
+        "id": "NN-MOTION-MESTO-16",
+        "phrase": "Мы быстро заняли все места.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 1. 'Места́' is the direct object of 'заняли'. 2. For this inanimate noun the accusative plural equals the nominative plural. 3. 'Все' agrees as plural."
+      },
+      {
+        "id": "NN-MOTION-MESTO-17",
+        "phrase": "В автобусе больше нет свободных мест.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 1. 'Нет' triggers the genitive plural 'мест'. 2. This neuter noun drops the ending to a zero form in the genitive plural. 3. 'Свободных' agrees as plural genitive."
+      }
+    ]
+  }
+]

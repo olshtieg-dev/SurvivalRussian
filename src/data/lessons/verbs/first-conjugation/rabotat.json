@@ -1,0 +1,115 @@
+[
+  {
+    "id": "VB-RABOTAT",
+    "label": "Работать",
+    "badge": "WORK",
+    "description": "A full conjugation deck for работать: present persons, past, future, imperative, and workplace prepositions.",
+    "missions": [
+      {
+        "id": "VB-RABOTAT-01",
+        "phrase": "Я работаю в офисе каждый день.",
+        "fullAnalysis": "Strategic focus: 1sg present. 1. 'Работаю' is the я-form of работать. 2. 'В офисе' names the workplace with в + prepositional. 3. 'Каждый день' adds a routine time phrase, drilling the everyday first-person present."
+      },
+      {
+        "id": "VB-RABOTAT-02",
+        "phrase": "Ты слишком много работаешь сегодня.",
+        "fullAnalysis": "Strategic focus: 2sg present. 1. 'Работаешь' is the informal ты-form of работать. 2. 'Слишком много' intensifies the amount of work. 3. Natural for telling a friend they are working too hard today."
+      },
+      {
+        "id": "VB-RABOTAT-03",
+        "phrase": "Мой брат работает здесь уже год.",
+        "fullAnalysis": "Strategic focus: 3sg present. 1. 'Работает' is the он/она-form of работать. 2. 'Здесь' names the place. 3. 'Уже год' adds duration, training how to say where and how long someone works."
+      },
+      {
+        "id": "VB-RABOTAT-04",
+        "phrase": "Она работает врачом в больнице.",
+        "fullAnalysis": "Strategic focus: 3sg present with instrumental. 1. 'Работает' is the она-form of работать. 2. 'Врачом' is the instrumental naming her profession. 3. 'В больнице' adds the location, completing a natural way to state someone's job."
+      },
+      {
+        "id": "VB-RABOTAT-05",
+        "phrase": "Мы давно работаем вместе в команде.",
+        "fullAnalysis": "Strategic focus: 1pl present. 1. 'Работаем' is the мы-form of работать. 2. 'Вместе в команде' stresses shared teamwork. 3. 'Давно' adds duration, drilling the plural first-person present about working together."
+      },
+      {
+        "id": "VB-RABOTAT-06",
+        "phrase": "Вы очень быстро работаете, спасибо.",
+        "fullAnalysis": "Strategic focus: Polite/plural present. 1. 'Работаете' is the respectful вы-form of работать. 2. 'Очень быстро' praises the pace. 3. 'Спасибо' makes it a polite remark when addressing a group or one person formally."
+      },
+      {
+        "id": "VB-RABOTAT-07",
+        "phrase": "Они работают на большом заводе.",
+        "fullAnalysis": "Strategic focus: 3pl present with location. 1. 'Работают' is the они-form of работать. 2. 'На заводе' uses на + prepositional for a workplace. 3. 'Большом' enriches the noun, training the workplace preposition."
+      },
+      {
+        "id": "VB-RABOTAT-08",
+        "phrase": "Он работал в саду весь вчерашний день.",
+        "fullAnalysis": "Strategic focus: Past masculine. 1. 'Работал' is the masculine past of работать. 2. 'В саду' names where. 3. 'Весь вчерашний день' anchors the action firmly in the past, drilling the он past tense."
+      },
+      {
+        "id": "VB-RABOTAT-09",
+        "phrase": "Она работала долго над этой статьёй.",
+        "fullAnalysis": "Strategic focus: Past feminine. 1. 'Работала' is the feminine past of работать. 2. 'Долго' means for a long time. 3. 'Над этой статьёй' uses над + instrumental, contrasting the feminine ending with the masculine."
+      },
+      {
+        "id": "VB-RABOTAT-10",
+        "phrase": "Радио работало слишком громко ночью.",
+        "fullAnalysis": "Strategic focus: Past neuter. 1. 'Работало' is the neuter past of работать, here meaning 'functioned'. 2. 'Радио' is a neuter subject. 3. 'Слишком громко ночью' enriches the device sense in the past."
+      },
+      {
+        "id": "VB-RABOTAT-11",
+        "phrase": "Они работали всю ночь без отдыха.",
+        "fullAnalysis": "Strategic focus: Past plural. 1. 'Работали' is the plural past of работать. 2. 'Всю ночь' marks the duration. 3. 'Без отдыха' adds detail, drilling the shared plural past form."
+      },
+      {
+        "id": "VB-RABOTAT-12",
+        "phrase": "Завтра я буду работать из дома.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 1. 'Буду работать' is the compound future of работать. 2. 'Завтра' points ahead. 3. 'Из дома' names the place, training буду plus the infinitive in a modern remote-work phrase."
+      },
+      {
+        "id": "VB-RABOTAT-13",
+        "phrase": "Мы будем работать вместе над новым проектом.",
+        "fullAnalysis": "Strategic focus: Future plural. 1. 'Будем работать' is the мы compound future of работать. 2. 'Вместе' stresses teamwork. 3. 'Над новым проектом' uses над + instrumental, drilling the plural form of буду."
+      },
+      {
+        "id": "VB-RABOTAT-14",
+        "phrase": "Пожалуйста, работай внимательно и не спеши.",
+        "fullAnalysis": "Strategic focus: Informal imperative. 1. 'Работай' is the command to one person from работать. 2. 'Внимательно' means attentively. 3. 'Пожалуйста' softens it and 'не спеши' adds a tip for a quick instruction."
+      },
+      {
+        "id": "VB-RABOTAT-15",
+        "phrase": "Работайте тихо, идёт экзамен.",
+        "fullAnalysis": "Strategic focus: Polite/plural imperative. 1. 'Работайте' commands a group or one person politely. 2. 'Тихо' means quietly. 3. 'Идёт экзамен' gives a reason, contrasting with the informal работай."
+      },
+      {
+        "id": "VB-RABOTAT-16",
+        "phrase": "Я работаю в офисе в центре города.",
+        "fullAnalysis": "Strategic focus: Workplace with в. 1. 'Работаю' is the я-form of работать. 2. 'В офисе' uses в + prepositional for an indoor workplace. 3. 'В центре города' locates it, training the work-at pattern."
+      },
+      {
+        "id": "VB-RABOTAT-17",
+        "phrase": "Сегодня я работаю дома весь день.",
+        "fullAnalysis": "Strategic focus: Working from home. 1. 'Работаю' is the first-person present of работать. 2. 'Дома' is a fixed adverb meaning at home. 3. 'Сегодня' and 'весь день' frame this very common modern phrase."
+      },
+      {
+        "id": "VB-RABOTAT-18",
+        "phrase": "Я люблю работать с людьми каждый день.",
+        "fullAnalysis": "Strategic focus: работать с + instrumental. 1. 'Работать' stays in the infinitive after 'люблю'. 2. 'С людьми' means with people. 3. This trains the 'work with' government of работать in a natural sentence."
+      },
+      {
+        "id": "VB-RABOTAT-19",
+        "phrase": "Сейчас я работаю над важным проектом.",
+        "fullAnalysis": "Strategic focus: работать над + instrumental. 1. 'Работаю' is the я-form of работать. 2. 'Над важным проектом' means on an important project. 3. 'Сейчас' frames it, training the 'work on' construction."
+      },
+      {
+        "id": "VB-RABOTAT-20",
+        "phrase": "Сегодня я не работаю, у меня выходной.",
+        "fullAnalysis": "Strategic focus: Negation. 1. 'Не' negates работаю. 2. 'Сегодня' means today. 3. 'У меня выходной' explains why, drilling how to say you are not working right now."
+      },
+      {
+        "id": "VB-RABOTAT-21",
+        "phrase": "Лифт снова не работает в нашем доме.",
+        "fullAnalysis": "Strategic focus: Negated 3sg, device sense. 1. 'Не работает' means is not working. 2. 'Лифт' is the subject. 3. 'Снова' and 'в нашем доме' add context, showing работать meaning 'to function'."
+      }
+    ]
+  }
+]

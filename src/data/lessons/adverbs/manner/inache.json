@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AD-MANNER-INACHE",
+    "label": "Иначе",
+    "badge": "ELSE",
+    "description": "A 10-sentence usage card for иначе (otherwise, differently) covering manner and the 'or else' warning.",
+    "missions": [
+      {
+        "id": "AD-MANNER-INACHE-01",
+        "phrase": "Поторопись, иначе опоздаем.",
+        "fullAnalysis": "Strategic focus: The 'or else' warning. 'Иначе' means 'otherwise' and links a warning to the imperative, stating the bad outcome of inaction. It introduces a consequence clause."
+      },
+      {
+        "id": "AD-MANNER-INACHE-02",
+        "phrase": "Я думаю об этом иначе.",
+        "fullAnalysis": "Strategic focus: Differently in manner. 'Иначе' means 'differently' and modifies 'думаю', describing a different way of thinking. Here it conveys manner, not warning."
+      },
+      {
+        "id": "AD-MANNER-INACHE-03",
+        "phrase": "Надо сделать это совсем иначе.",
+        "fullAnalysis": "Strategic focus: A different method. 'Иначе' modifies 'сделать', meaning the task should be done in another way. 'Совсем' stresses a completely different approach."
+      },
+      {
+        "id": "AD-MANNER-INACHE-04",
+        "phrase": "Закрой дверь, иначе будет холодно.",
+        "fullAnalysis": "Strategic focus: Consequence warning. 'Иначе' links the command to its result, meaning 'or it will get cold'. It is the everyday way to threaten a bad outcome."
+      },
+      {
+        "id": "AD-MANNER-INACHE-05",
+        "phrase": "Он смотрит на мир иначе.",
+        "fullAnalysis": "Strategic focus: A different outlook. 'Иначе' modifies the phrase 'смотрит на мир', meaning he sees the world differently. The adverb closes the clause naturally."
+      },
+      {
+        "id": "AD-MANNER-INACHE-06",
+        "phrase": "Позвони мне, иначе я уйду.",
+        "fullAnalysis": "Strategic focus: Threatened result. 'Иначе' introduces the consequence of not calling, meaning 'or else I leave'. It chains a warning onto the request."
+      },
+      {
+        "id": "AD-MANNER-INACHE-07",
+        "phrase": "Теперь всё иначе.",
+        "fullAnalysis": "Strategic focus: A changed state. 'Иначе' acts as a predicate meaning 'different', describing how everything has changed. 'Теперь' anchors the change in the present."
+      },
+      {
+        "id": "AD-MANNER-INACHE-08",
+        "phrase": "Давай попробуем иначе.",
+        "fullAnalysis": "Strategic focus: Trying another way. 'Иначе' modifies 'попробуем', proposing a different approach. It suggests changing tactics after a failed attempt."
+      },
+      {
+        "id": "AD-MANNER-INACHE-09",
+        "phrase": "Учи слова, иначе всё забудешь.",
+        "fullAnalysis": "Strategic focus: Motivating warning. 'Иначе' joins a consequence to the command, meaning 'or you will forget everything'. It frames study as necessary to avoid loss."
+      },
+      {
+        "id": "AD-MANNER-INACHE-10",
+        "phrase": "Я бы поступил иначе.",
+        "fullAnalysis": "Strategic focus: Hypothetical manner. 'Иначе' modifies the conditional 'поступил бы', meaning 'I would act differently'. It expresses a different choice in a hypothetical."
+      }
+    ]
+  }
+]
