@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-UKHODIT",
+    "label": "Уходить",
+    "badge": "LEAVE",
+    "description": "A 10-sentence conjugation card for уходить (to leave, to go away).",
+    "missions": [
+      {
+        "id": "VB-UKHODIT-01",
+        "phrase": "Я ухожу с работы в шесть.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Уходить is imperfective. Note the 1sg mutation д → ж in 'ухожу', against уходишь elsewhere. 'С работы' shows departure from a place."
+      },
+      {
+        "id": "VB-UKHODIT-02",
+        "phrase": "Ты уже уходишь так рано?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Уходишь' keeps the unmutated стем уход- with the -ишь ending. The present can mark an imminent leaving."
+      },
+      {
+        "id": "VB-UKHODIT-03",
+        "phrase": "Он уходит домой каждый вечер.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Уходит' takes the -ит ending. 'Каждый вечер' brings out the habitual reading of imperfective уходить."
+      },
+      {
+        "id": "VB-UKHODIT-04",
+        "phrase": "Мы уходим, уже поздно.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Уходим' uses the -им ending. Here the present announces an action happening right now."
+      },
+      {
+        "id": "VB-UKHODIT-05",
+        "phrase": "Гости уходят один за другим.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Уходят' closes the present set with the -ят ending. 'Один за другим' pictures the ongoing departure."
+      },
+      {
+        "id": "VB-UKHODIT-06",
+        "phrase": "Он ушёл, не сказав ни слова.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. The perfective partner уйти gives 'ушёл' for a single completed departure, contrasting with imperfective уходил."
+      },
+      {
+        "id": "VB-UKHODIT-07",
+        "phrase": "Она уходила медленно и грустно.",
+        "fullAnalysis": "Strategic focus: Imperfective past, feminine. 'Уходила' adds the feminine -ла ending. The imperfective stresses the drawn-out manner of leaving."
+      },
+      {
+        "id": "VB-UKHODIT-08",
+        "phrase": "Они уходили рано каждый день.",
+        "fullAnalysis": "Strategic focus: Imperfective past, plural. 'Уходили' is the plural -ли past, shared by all genders. 'Каждый день' marks the repeated, habitual departure."
+      },
+      {
+        "id": "VB-UKHODIT-09",
+        "phrase": "Не уходи, останься ещё немного.",
+        "fullAnalysis": "Strategic focus: Imperative, singular negative. 'Уходи' is the informal command of уходить; with 'не' it pleads against leaving. Negative imperatives prefer the imperfective."
+      },
+      {
+        "id": "VB-UKHODIT-10",
+        "phrase": "Нам пора уходить отсюда.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Уходить' stays in the dictionary form after 'пора'. The imperfective infinitive names the act of departing."
+      }
+    ]
+  }
+]

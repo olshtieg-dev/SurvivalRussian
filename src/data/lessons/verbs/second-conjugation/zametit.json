@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-ZAMETIT",
+    "label": "Заметить",
+    "badge": "NOTICE",
+    "description": "A 10-sentence conjugation card for заметить (to notice, spot).",
+    "missions": [
+      {
+        "id": "VB-ZAMETIT-01",
+        "phrase": "Я сразу замечу любую ошибку.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. 'Замечу' is the simple future of perfective заметить, with the т → ч mutation of the first person. It marks one completed act of noticing."
+      },
+      {
+        "id": "VB-ZAMETIT-02",
+        "phrase": "Ты заметишь разницу очень быстро.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Заметишь' keeps the -ишь ending with no mutation, since т → ч appears only in the first person. 'Очень быстро' frames the single completed event."
+      },
+      {
+        "id": "VB-ZAMETIT-03",
+        "phrase": "Она заметит даже мелкую деталь.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Заметит' is the simple future and points to one act of spotting. Its imperfective partner замечать would describe repeated or ongoing noticing."
+      },
+      {
+        "id": "VB-ZAMETIT-04",
+        "phrase": "Мы заметим изменения сразу.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Заметим' takes the -им ending and promises a single completed observation. 'Сразу' stresses the immediacy of the result."
+      },
+      {
+        "id": "VB-ZAMETIT-05",
+        "phrase": "Вы заметите его среди толпы.",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Заметите' is the respectful -ите future form. 'Среди толпы' uses среди with the genitive to set the scene of the spotting."
+      },
+      {
+        "id": "VB-ZAMETIT-06",
+        "phrase": "Я заметил ошибку слишком поздно.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Заметил' is the masculine -л past, marking a finished act of noticing. 'Слишком поздно' adds a natural note of regret."
+      },
+      {
+        "id": "VB-ZAMETIT-07",
+        "phrase": "Она заметила его новую причёску.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Заметила' adds the feminine -ла ending. 'Новую причёску' is the accusative object of a single completed observation."
+      },
+      {
+        "id": "VB-ZAMETIT-08",
+        "phrase": "Соседи заметили странный шум ночью.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Заметили' is the plural -ли past for all genders. 'Странный шум' is the accusative object of a one-time noticing."
+      },
+      {
+        "id": "VB-ZAMETIT-09",
+        "phrase": "Трудно не заметить такую ошибку.",
+        "fullAnalysis": "Strategic focus: Perfective infinitive. 'Заметить' stays infinitive after the impersonal 'трудно'. The perfective stresses one act of spotting; imperfective замечать would mark habitual noticing."
+      },
+      {
+        "id": "VB-ZAMETIT-10",
+        "phrase": "Заметь, как тихо стало вокруг.",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Заметь' is the informal command of заметить, urging the listener to take note at once. It contrasts with imperfective замечай, which invites continual observation."
+      }
+    ]
+  }
+]

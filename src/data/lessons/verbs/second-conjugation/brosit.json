@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-BROSIT",
+    "label": "Бросить",
+    "badge": "THROW",
+    "description": "A 10-sentence conjugation card for бросить (to throw, quit, abandon).",
+    "missions": [
+      {
+        "id": "VB-BROSIT-01",
+        "phrase": "Я брошу мяч высоко вверх.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. 'Брошу' is the simple future of perfective бросить, with the с → ш mutation of the first person. It marks one completed throw."
+      },
+      {
+        "id": "VB-BROSIT-02",
+        "phrase": "Ты бросишь эту вредную привычку?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Бросишь' keeps the -ишь ending with no mutation, since с → ш appears only in the first person. Here бросить means to quit a habit."
+      },
+      {
+        "id": "VB-BROSIT-03",
+        "phrase": "Он бросит курить в этом году.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Бросит' is the simple future of бросить, here governing the infinitive 'курить' to mean give up. The imperfective partner бросать marks repeated action."
+      },
+      {
+        "id": "VB-BROSIT-04",
+        "phrase": "Мы бросим монетку в фонтан.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Бросим' takes the -им ending and promises a single completed toss. 'В фонтан' uses в with the accusative for direction."
+      },
+      {
+        "id": "VB-BROSIT-05",
+        "phrase": "Вы бросите якорь у берега.",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Бросите' is the respectful -ите future form. 'Якорь' is the accusative object of one decisive action."
+      },
+      {
+        "id": "VB-BROSIT-06",
+        "phrase": "Он бросил камень в реку.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Бросил' is the masculine -л past, marking a finished throw. 'В реку' shows direction with в plus accusative."
+      },
+      {
+        "id": "VB-BROSIT-07",
+        "phrase": "Она бросила работу прошлым летом.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Бросила' adds the feminine -ла ending. Here бросить means to quit; 'прошлым летом' is an instrumental time phrase."
+      },
+      {
+        "id": "VB-BROSIT-08",
+        "phrase": "Дети бросили мяч через забор.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Бросили' is the plural -ли past for all genders. 'Через забор' uses через with the accusative for the path of the throw."
+      },
+      {
+        "id": "VB-BROSIT-09",
+        "phrase": "Пора бросить старую газету.",
+        "fullAnalysis": "Strategic focus: Perfective infinitive. 'Бросить' stays infinitive after the impersonal 'пора'. The perfective marks one act of throwing away; imperfective бросать would mark repeated discarding."
+      },
+      {
+        "id": "VB-BROSIT-10",
+        "phrase": "Брось мне ключи, пожалуйста!",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Брось' is the informal command of бросить, asking for one quick toss. It contrasts with imperfective бросай for repeated throwing."
+      }
+    ]
+  }
+]

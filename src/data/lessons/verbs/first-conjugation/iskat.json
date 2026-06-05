@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-ISKAT",
+    "label": "Искать",
+    "badge": "SEEK",
+    "description": "A 10-sentence conjugation card for искать (to look for, search).",
+    "missions": [
+      {
+        "id": "VB-ISKAT-01",
+        "phrase": "Я ищу свои ключи уже час.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Искать is imperfective with the consonant mutation ск becomes щ in the present, giving 'ищу' on stem ищ-. The perfective partner is найти."
+      },
+      {
+        "id": "VB-ISKAT-02",
+        "phrase": "Кого ты ищешь в этой толпе?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Ищешь' shows the -ешь ending on the mutated stem ищ-. The imperfective stresses the ongoing process of searching, not a result."
+      },
+      {
+        "id": "VB-ISKAT-03",
+        "phrase": "Он давно ищет хорошую работу.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Ищет' is the он-form ending in -ет on ищ-. The imperfective with 'давно' frames a long, continuing search."
+      },
+      {
+        "id": "VB-ISKAT-04",
+        "phrase": "Мы ищем выход из этой ситуации.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Ищем' carries the -ем ending on ищ-. The imperfective names an ongoing effort to find a way out, here used figuratively."
+      },
+      {
+        "id": "VB-ISKAT-05",
+        "phrase": "Что вы ищете на этой полке?",
+        "fullAnalysis": "Strategic focus: Second-person plural or polite present. 'Ищете' trains the respectful вы-form with the -ете ending on ищ-. The imperfective describes a search in progress."
+      },
+      {
+        "id": "VB-ISKAT-06",
+        "phrase": "Они ищут пропавшую собаку по всему району.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Ищут' closes the present ladder with the -ут ending on ищ-. The imperfective stresses the ongoing, area-wide search."
+      },
+      {
+        "id": "VB-ISKAT-07",
+        "phrase": "Он долго искал нужную книгу.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Искал' is the masculine singular past of imperfective искать, built on the infinitive stem with -л, without the present-tense mutation. It stresses an extended past search."
+      },
+      {
+        "id": "VB-ISKAT-08",
+        "phrase": "Она везде искала свой телефон.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Искала' adds the feminine -а ending. The imperfective past with 'везде' underlines a prolonged, repeated act of looking."
+      },
+      {
+        "id": "VB-ISKAT-09",
+        "phrase": "Спасатели искали туристов всю ночь.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Искали' is the plural past ending in -и, completing the past forms. 'Всю ночь' emphasizes the continuous, ongoing nature of the imperfective search."
+      },
+      {
+        "id": "VB-ISKAT-10",
+        "phrase": "Ищи внимательно, и обязательно найдёшь.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Ищи' is the informal command form on the mutated stem ищ-, ordering an ongoing search. It pairs naturally with the perfective future 'найдёшь' from найти."
+      }
+    ]
+  }
+]

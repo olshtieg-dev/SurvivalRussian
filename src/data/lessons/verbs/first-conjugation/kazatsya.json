@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-KAZATSYA",
+    "label": "Казаться",
+    "badge": "SEEM",
+    "description": "A 10-sentence conjugation card for казаться (to seem, appear).",
+    "missions": [
+      {
+        "id": "VB-KAZATSYA-01",
+        "phrase": "Иногда я кажусь себе слишком строгим.",
+        "fullAnalysis": "Strategic focus: First-person singular present, reflexive. 'Кажусь' is the я-form of reflexive казаться, ending in -усь. The complement 'строгим' stands in the instrumental case."
+      },
+      {
+        "id": "VB-KAZATSYA-02",
+        "phrase": "Ты кажешься мне очень усталым.",
+        "fullAnalysis": "Strategic focus: Second-person singular present, reflexive. 'Кажешься' shows the -ешься ending. 'Усталым' is instrumental, the case казаться requires for the predicate."
+      },
+      {
+        "id": "VB-KAZATSYA-03",
+        "phrase": "Этот план кажется мне разумным.",
+        "fullAnalysis": "Strategic focus: Third-person singular present, reflexive. 'Кажется' is the он/она/оно-form ending in -ется. It is also the common parenthetical for 'it seems'."
+      },
+      {
+        "id": "VB-KAZATSYA-04",
+        "phrase": "Мы кажемся им совсем чужими.",
+        "fullAnalysis": "Strategic focus: First-person plural present, reflexive. 'Кажемся' shows the мы-form ending -емся. 'Чужими' is plural instrumental, agreeing with the subject 'мы'."
+      },
+      {
+        "id": "VB-KAZATSYA-05",
+        "phrase": "Они кажутся мне очень счастливыми.",
+        "fullAnalysis": "Strategic focus: Third-person plural present, reflexive. 'Кажутся' is the они-form ending in -утся. 'Счастливыми' takes the plural instrumental form."
+      },
+      {
+        "id": "VB-KAZATSYA-06",
+        "phrase": "Сначала он казался мне скучным.",
+        "fullAnalysis": "Strategic focus: Masculine past tense, reflexive. 'Казался' is the masculine singular past with the reflexive particle -ся. 'Скучным' is instrumental, and 'сначала' frames a first impression."
+      },
+      {
+        "id": "VB-KAZATSYA-07",
+        "phrase": "Эта дорога казалась мне бесконечной.",
+        "fullAnalysis": "Strategic focus: Feminine past tense, reflexive. 'Казалась' adds the feminine -а before the reflexive -сь. 'Бесконечной' is feminine instrumental, agreeing with 'дорога'."
+      },
+      {
+        "id": "VB-KAZATSYA-08",
+        "phrase": "Все вопросы казались очень простыми.",
+        "fullAnalysis": "Strategic focus: Plural past tense, reflexive. 'Казались' is the plural past ending in -и plus -сь. 'Простыми' takes the plural instrumental ending."
+      },
+      {
+        "id": "VB-KAZATSYA-09",
+        "phrase": "Завтра задача будет казаться легче.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future, reflexive. 'Будет казаться' joins 'будет' with the infinitive казаться. The verb is imperfective, so the future is always compound."
+      },
+      {
+        "id": "VB-KAZATSYA-10",
+        "phrase": "Не стоит казаться лучше, чем ты есть.",
+        "fullAnalysis": "Strategic focus: Modal infinitive use, reflexive. 'Стоит' governs the bare infinitive 'казаться'. The phrase warns against seeming better than one really is."
+      }
+    ]
+  }
+]

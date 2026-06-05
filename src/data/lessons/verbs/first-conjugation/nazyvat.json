@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-NAZYVAT",
+    "label": "Называть",
+    "badge": "TOCALL",
+    "description": "A 10-sentence conjugation card for называть (to call, to name).",
+    "missions": [
+      {
+        "id": "VB-NAZYVAT-01",
+        "phrase": "Я называю свою кошку Мурка.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Называю' is the 1sg present of imperfective называть, with the regular -ю on the называ- stem. It means 'I call by name', taking an accusative object plus name."
+      },
+      {
+        "id": "VB-NAZYVAT-02",
+        "phrase": "Ты называешь вещи своими именами.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Называешь' is the 2sg present of называть with -ешь. The idiom 'называть вещи своими именами' means to call things by their proper names, to speak plainly."
+      },
+      {
+        "id": "VB-NAZYVAT-03",
+        "phrase": "Он называет себя великим художником.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Называет' is the 3sg present of называть with -ет. With reflexive 'себя' plus instrumental it means he calls himself a great artist."
+      },
+      {
+        "id": "VB-NAZYVAT-04",
+        "phrase": "Мы называем этот город вторым домом.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Называем' is the 1pl present of называть with -ем. The construction takes an accusative object and an instrumental, calling the city a second home."
+      },
+      {
+        "id": "VB-NAZYVAT-05",
+        "phrase": "Друзья называют его просто Сашей.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Называют' is the 3pl present of называть with -ют, closing the present ladder. The instrumental 'Сашей' gives the familiar name friends use for him."
+      },
+      {
+        "id": "VB-NAZYVAT-06",
+        "phrase": "Раньше я называл его лучшим другом.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Называл' is the past m. sg. of imperfective называть. The imperfective and 'раньше' frame a habitual past way of referring to someone."
+      },
+      {
+        "id": "VB-NAZYVAT-07",
+        "phrase": "Бабушка ласково называла меня солнышком.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Называла' is the past f. sg. of называть with -ла. The imperfective marks a recurring tender habit, with the instrumental 'солнышком' as the affectionate name."
+      },
+      {
+        "id": "VB-NAZYVAT-08",
+        "phrase": "Соседи называли его странным человеком.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Называли' is the past pl. of называть with -ли. The imperfective reports an ongoing reputation, with the instrumental 'странным человеком' as what they called him."
+      },
+      {
+        "id": "VB-NAZYVAT-09",
+        "phrase": "Не называй меня по фамилии.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Называй' is the informal command of imperfective называть, formed from the present stem называ- plus -й. Negated, it asks someone to stop addressing me by surname."
+      },
+      {
+        "id": "VB-NAZYVAT-10",
+        "phrase": "Я буду называть тебя по имени.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Буду называть' joins 'буду' with the infinitive называть, the standard imperfective future. The perfective partner назвать would instead mark one act of naming."
+      }
+    ]
+  }
+]

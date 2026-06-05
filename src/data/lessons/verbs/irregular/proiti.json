@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PROITI",
+    "label": "Пройти",
+    "badge": "PASS",
+    "description": "A 10-sentence conjugation card for пройти (to pass, to go through, to walk past). Perfective compound of идти: future пройду/пройдёшь, suppletive past прошёл/прошла/прошли, imperative пройди.",
+    "missions": [
+      {
+        "id": "VB-PROITI-01",
+        "phrase": "Я пройду через парк к реке.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. 'Пройду' is the 1sg non-past of perfective пройти, used with future meaning. Built on the идти pattern with prefix про-, it marks passing through. 'Через парк' is через + accusative."
+      },
+      {
+        "id": "VB-PROITI-02",
+        "phrase": "Ты пройдёшь мимо аптеки.",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Пройдёшь' is the 2sg future of пройти, with the stressed ё. 'Мимо аптеки' uses мимо + genitive for walking past the pharmacy."
+      },
+      {
+        "id": "VB-PROITI-03",
+        "phrase": "Поезд пройдёт без остановки.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Пройдёт' is the 3sg future of пройти. The imperfective partner проходить would describe regular passing, but here one completed pass is meant."
+      },
+      {
+        "id": "VB-PROITI-04",
+        "phrase": "Мы пройдём весь маршрут пешком.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Пройдём' is the 1pl future of пройти, end-stressed on the ё. With a route as object, про- conveys covering the whole distance."
+      },
+      {
+        "id": "VB-PROITI-05",
+        "phrase": "Год прошёл очень быстро.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Прошёл' switches to the irregular -шёл root shared across идти compounds. Here it agrees with 'год' in the common idiom for time passing."
+      },
+      {
+        "id": "VB-PROITI-06",
+        "phrase": "Боль наконец прошла.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Прошла' uses the suppletive -шл- root, agreeing with feminine 'боль'. Пройти also means a sensation 'passing' or going away, not only physical motion."
+      },
+      {
+        "id": "VB-PROITI-07",
+        "phrase": "Они прошли мимо нас незаметно.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Прошли' is the plural past of пройти on the irregular -шл- root. 'Мимо нас' uses мимо + genitive for passing by us."
+      },
+      {
+        "id": "VB-PROITI-08",
+        "phrase": "Пройди вперёд и садись.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Пройди' is the informal command from пройти, built on the -йд- stem plus -и. It invites someone to step forward. The imperfective проходить gives the habitual counterpart."
+      },
+      {
+        "id": "VB-PROITI-09",
+        "phrase": "Пройдите, пожалуйста, в кабинет.",
+        "fullAnalysis": "Strategic focus: Plural or polite imperative. 'Пройдите' is the formal command of пройти, adding -те to the singular stem. 'В кабинет' uses в + accusative for entering the office, a polite usher-in phrase."
+      },
+      {
+        "id": "VB-PROITI-10",
+        "phrase": "Нам нужно пройти ещё километр.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Пройти' is the bare infinitive, governed by 'нужно'. It names covering a distance still ahead. The imperfective infinitive would be проходить."
+      }
+    ]
+  }
+]

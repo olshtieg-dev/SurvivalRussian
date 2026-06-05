@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-POKAZAT",
+    "label": "Показать",
+    "badge": "TO SHOW",
+    "description": "A 10-sentence conjugation card for показать (to show).",
+    "missions": [
+      {
+        "id": "VB-POKAZAT-01",
+        "phrase": "Я покажу тебе свои новые фотографии.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. Показать is perfective and has no present tense, so 'покажу' is the non-past 1sg form with future meaning. Note the stem mutation з becomes ж before the ending. The imperfective partner is показывать."
+      },
+      {
+        "id": "VB-POKAZAT-02",
+        "phrase": "Ты покажешь мне дорогу до центра?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Покажешь' shows the -ешь ending with the same ж mutation. As a perfective non-past it asks for one act of showing the way."
+      },
+      {
+        "id": "VB-POKAZAT-03",
+        "phrase": "Врач покажет результаты анализов завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Покажет' is the он-form ending in -ет. The perfective marks a single completed showing, contrasting with the habitual показывает."
+      },
+      {
+        "id": "VB-POKAZAT-04",
+        "phrase": "Мы покажем гостям весь старый город.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Покажем' carries the -ем ending. The dative 'гостям' marks the people shown, and the perfective frames one finished tour."
+      },
+      {
+        "id": "VB-POKAZAT-05",
+        "phrase": "Вы покажете нам, как это работает?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Покажете' trains the respectful вы-form with the -ете ending. The perfective non-past asks for a single demonstration."
+      },
+      {
+        "id": "VB-POKAZAT-06",
+        "phrase": "Они покажут новый фильм в субботу.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Покажут' closes the non-past ladder with the -ут ending. The perfective marks one future screening fixed to Saturday."
+      },
+      {
+        "id": "VB-POKAZAT-07",
+        "phrase": "Он показал мне дорогу к вокзалу.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Показал' is the masculine singular past of perfective показать, built on the infinitive stem with -л. It reports one completed act of showing."
+      },
+      {
+        "id": "VB-POKAZAT-08",
+        "phrase": "Она показала свою работу директору.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Показала' adds the feminine -а ending. The perfective past names a single finished presentation to the director in the dative."
+      },
+      {
+        "id": "VB-POKAZAT-09",
+        "phrase": "Ученики показали отличные результаты на экзамене.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Показали' is the plural past ending in -и, completing the past forms. 'Показать результаты' means to demonstrate results as one completed achievement."
+      },
+      {
+        "id": "VB-POKAZAT-10",
+        "phrase": "Покажи мне, пожалуйста, твой билет.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Покажи' is the informal command form of perfective показать, asking for one act of showing. 'Пожалуйста' keeps the familiar request polite."
+      }
+    ]
+  }
+]

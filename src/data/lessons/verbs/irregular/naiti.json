@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-NAITI",
+    "label": "Найти",
+    "badge": "FIND",
+    "description": "A 10-sentence conjugation card for найти (to find).",
+    "missions": [
+      {
+        "id": "VB-NAITI-01",
+        "phrase": "Я обязательно найду свои ключи.",
+        "fullAnalysis": "Strategic focus: First-person perfective future. 'Найду' is the 1sg future of perfective найти, built with prefix на- on the future stem найд-. Perfective verbs lack a present tense, so this form means 'I will find'."
+      },
+      {
+        "id": "VB-NAITI-02",
+        "phrase": "Ты легко найдёшь этот дом.",
+        "fullAnalysis": "Strategic focus: Second-person future. 'Найдёшь' is the 2sg future of найти, end-stressed on the ё, which must be typed exactly. The imperfective partner находить describes finding repeatedly or in progress."
+      },
+      {
+        "id": "VB-NAITI-03",
+        "phrase": "Он скоро найдёт хорошую работу.",
+        "fullAnalysis": "Strategic focus: Third-person future. 'Найдёт' is the 3sg future of найти. The prefix на- adds completion, so the sentence promises a single successful result of the search."
+      },
+      {
+        "id": "VB-NAITI-04",
+        "phrase": "Мы найдём решение этой задачи.",
+        "fullAnalysis": "Strategic focus: First-person plural future. 'Найдём' is the 1pl future of найти, end-stressed. 'Решение' is the direct object in the accusative, naming what will be found."
+      },
+      {
+        "id": "VB-NAITI-05",
+        "phrase": "Вы найдёте магазин за углом.",
+        "fullAnalysis": "Strategic focus: Polite/plural future. 'Найдёте' is the 2pl future of найти. 'За углом' uses за + instrumental for location 'around the corner'. The ё stays stressed across this stem."
+      },
+      {
+        "id": "VB-NAITI-06",
+        "phrase": "Они найдут выход из ситуации.",
+        "fullAnalysis": "Strategic focus: Third-person plural future. 'Найдут' is the 3pl future, completing the future scaffold of найти. Note the future stem найд- across all six persons."
+      },
+      {
+        "id": "VB-NAITI-07",
+        "phrase": "Вчера он нашёл потерянный телефон.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Нашёл' switches to the irregular past root наш-, with no д. It is the masculine past of найти and reports a completed discovery."
+      },
+      {
+        "id": "VB-NAITI-08",
+        "phrase": "Она нашла старое письмо в ящике.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Нашла' uses the irregular наш- past root, marking a female subject. Past tense agrees in gender, not person."
+      },
+      {
+        "id": "VB-NAITI-09",
+        "phrase": "Дети нашли котёнка под крыльцом.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Нашли' is the plural past of найти on the наш- root, sharing nothing with the future stem найд-. This closes the past series."
+      },
+      {
+        "id": "VB-NAITI-10",
+        "phrase": "Найди мне номер телефона, пожалуйста!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Найди' is the informal command from найти, asking for a single act of finding. The imperfective partner находить would frame the search as ongoing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-EKHAT",
+    "label": "Ехать",
+    "badge": "RIDE",
+    "description": "A 10-sentence conjugation card for ехать (to go by vehicle, to ride). Irregular imperfective: present еду/едешь/едут, past ехал, imperative supplied by поезжай / езжай.",
+    "missions": [
+      {
+        "id": "VB-EKHAT-01",
+        "phrase": "Я еду на работу на автобусе.",
+        "fullAnalysis": "Strategic focus: Irregular present, first person. 'Еду' is the 1sg present of ехать, where the infinitive ех- shifts to the present root ед-. Ехать always means going by vehicle. 'На автобусе' uses на + prepositional for the means."
+      },
+      {
+        "id": "VB-EKHAT-02",
+        "phrase": "Ты едешь сегодня в город?",
+        "fullAnalysis": "Strategic focus: Irregular present, second person. 'Едешь' is the 2sg present of ехать on the suppletive ед- root. 'В город' uses в + accusative for the destination of the trip."
+      },
+      {
+        "id": "VB-EKHAT-03",
+        "phrase": "Он едет к бабушке на поезде.",
+        "fullAnalysis": "Strategic focus: Irregular present, third person. 'Едет' is the 3sg present of ехать. 'К бабушке' is к + dative 'toward grandmother'; 'на поезде' names the vehicle with на + prepositional."
+      },
+      {
+        "id": "VB-EKHAT-04",
+        "phrase": "Мы едем в отпуск на море.",
+        "fullAnalysis": "Strategic focus: Irregular present, first-person plural. 'Едем' is the 1pl present of ехать, still on the ед- root that replaces the infinitive ех-. 'В отпуск' uses в + accusative for going on holiday."
+      },
+      {
+        "id": "VB-EKHAT-05",
+        "phrase": "Вы едете прямо или направо?",
+        "fullAnalysis": "Strategic focus: Irregular present, polite or plural. 'Едете' is the 2pl present of ехать. The whole present paradigm sits on ед-, never ех-. 'Прямо' and 'направо' give the driving directions."
+      },
+      {
+        "id": "VB-EKHAT-06",
+        "phrase": "Машины едут очень медленно.",
+        "fullAnalysis": "Strategic focus: Irregular present, third-person plural. 'Едут' is the 3pl present of ехать, completing the present scaffold on the ед- root. 'Медленно' means 'slowly'."
+      },
+      {
+        "id": "VB-EKHAT-07",
+        "phrase": "Вчера я ехал домой два часа.",
+        "fullAnalysis": "Strategic focus: Masculine past. 'Ехал' is the masculine past of ехать, built on the infinitive ех- root, not the present ед-. It describes an ongoing imperfective trip. 'Два часа' marks the duration."
+      },
+      {
+        "id": "VB-EKHAT-08",
+        "phrase": "Она ехала и любовалась пейзажем.",
+        "fullAnalysis": "Strategic focus: Feminine past. 'Ехала' is the feminine past of ехать on the ех- stem. Past tense tracks gender, not person. 'Любовалась пейзажем' shows любоваться governing the instrumental."
+      },
+      {
+        "id": "VB-EKHAT-09",
+        "phrase": "Поезжай осторожно, дорога скользкая.",
+        "fullAnalysis": "Strategic focus: Suppletive imperative. Ехать borrows its command from a different stem - 'поезжай' (or the bare 'езжай') replaces any expected form of ехать itself. It tells the driver to set off carefully."
+      },
+      {
+        "id": "VB-EKHAT-10",
+        "phrase": "Мне надо ехать в аэропорт.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Ехать' is the bare infinitive, governed by 'надо'. It names traveling by vehicle; 'в аэропорт' uses в + accusative for the destination. Recall the suppletive past ех- versus present ед-."
+      }
+    ]
+  }
+]

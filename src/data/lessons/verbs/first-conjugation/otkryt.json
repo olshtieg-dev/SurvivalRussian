@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OTKRYT",
+    "label": "Открыть",
+    "badge": "OPEN",
+    "description": "A 10-sentence conjugation card for открыть (to open).",
+    "missions": [
+      {
+        "id": "VB-OTKRYT-01",
+        "phrase": "Сейчас я открою окно пошире.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Открою' is the я-form of perfective открыть, built on the stem откро-, and carries future meaning. The imperfective partner is открывать."
+      },
+      {
+        "id": "VB-OTKRYT-02",
+        "phrase": "Ты откроешь дверь нашим гостям.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Откроешь' takes the -ешь ending on stem откро-. As a perfective, it marks a single completed act of opening."
+      },
+      {
+        "id": "VB-OTKRYT-03",
+        "phrase": "Магазин откроется в восемь утра.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person reflexive. 'Откроется' is the reflexive form meaning the shop itself will open. Without -ся, открыть needs a direct object."
+      },
+      {
+        "id": "VB-OTKRYT-04",
+        "phrase": "Мы откроем новое кафе весной.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Откроем' shows the мы-form ending -ем on stem откро-. 'Весной' frames a single planned opening."
+      },
+      {
+        "id": "VB-OTKRYT-05",
+        "phrase": "Они откроют выставку завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Откроют' is the они-form with the -ют ending. Being perfective, it points to a finished act of opening the exhibition."
+      },
+      {
+        "id": "VB-OTKRYT-06",
+        "phrase": "Я тихо открыл старую книгу.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Открыл' is the masculine singular past of perfective открыть. It reports a single completed act of opening the book."
+      },
+      {
+        "id": "VB-OTKRYT-07",
+        "phrase": "Она открыла подарок с радостью.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Открыла' adds the feminine -а ending. 'С радостью' colours the single completed act of opening the gift."
+      },
+      {
+        "id": "VB-OTKRYT-08",
+        "phrase": "Они открыли все окна в доме.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Открыли' is the plural past form ending in -и. It states that the whole group opened every window."
+      },
+      {
+        "id": "VB-OTKRYT-09",
+        "phrase": "Открой, пожалуйста, окно.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Открой' is the informal command of perfective открыть. 'Пожалуйста' softens a direct request to one person."
+      },
+      {
+        "id": "VB-OTKRYT-10",
+        "phrase": "Мне нужно открыть новый счёт в банке.",
+        "fullAnalysis": "Strategic focus: Modal infinitive use. 'Нужно' takes the bare infinitive 'открыть', the perfective form. The sentence expresses a concrete need to open one bank account."
+      }
+    ]
+  }
+]

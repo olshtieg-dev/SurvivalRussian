@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-KRICHAT",
+    "label": "Кричать",
+    "badge": "SHOUT",
+    "description": "A 10-sentence conjugation card for кричать (to shout, yell).",
+    "missions": [
+      {
+        "id": "VB-KRICHAT-01",
+        "phrase": "Я кричу от радости.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Кричу' is the -у form of кричать, taken after the hushing ч. 'От радости' uses от with the genitive to give the cause of shouting."
+      },
+      {
+        "id": "VB-KRICHAT-02",
+        "phrase": "Ты кричишь слишком громко.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Кричишь' shows the -ишь ending of кричать. The imperfective fits an ongoing or repeated noise."
+      },
+      {
+        "id": "VB-KRICHAT-03",
+        "phrase": "Он кричит на всю улицу.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Кричит' is the core -ит form of кричать. 'На всю улицу' is a fixed phrase meaning across the whole street."
+      },
+      {
+        "id": "VB-KRICHAT-04",
+        "phrase": "Мы кричим, чтобы нас услышали.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Кричим' takes the -им ending. 'Чтобы нас услышали' is a purpose clause showing why the shouting continues."
+      },
+      {
+        "id": "VB-KRICHAT-05",
+        "phrase": "Вы кричите без всякой причины.",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Кричите' is the respectful -ите form of кричать. 'Без всякой причины' uses без with the genitive for a pointed reproach."
+      },
+      {
+        "id": "VB-KRICHAT-06",
+        "phrase": "Птицы кричат в утреннем небе.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Кричат' closes the ladder with the -ат ending, taken after ч instead of -ят. 'В утреннем небе' sets the prepositional location."
+      },
+      {
+        "id": "VB-KRICHAT-07",
+        "phrase": "Он громко кричал во сне.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Кричал' is the masculine -л past of кричать. 'Во сне' uses в with the prepositional case to mean during sleep."
+      },
+      {
+        "id": "VB-KRICHAT-08",
+        "phrase": "Она кричала от страха.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Кричала' adds the feminine -ла ending. 'От страха' uses от with the genitive to name the cause of the cry."
+      },
+      {
+        "id": "VB-KRICHAT-09",
+        "phrase": "Не надо так кричать на детей.",
+        "fullAnalysis": "Strategic focus: Imperfective infinitive. 'Кричать' stays infinitive after 'не надо'. The imperfective marks repeated or sustained yelling; буду кричать would build its compound future."
+      },
+      {
+        "id": "VB-KRICHAT-10",
+        "phrase": "Не кричи, я тебя слышу!",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Кричи' is the informal command of кричать, here negated with 'не' to tell someone to stop yelling. The imperfective is normal for a negated command of process."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-BYVAT",
+    "label": "Бывать",
+    "badge": "VISIT",
+    "description": "A 10-sentence conjugation card for бывать (to be sometimes, to frequent, to happen).",
+    "missions": [
+      {
+        "id": "VB-BYVAT-01",
+        "phrase": "Я часто бываю в этом парке.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Бываю' is the я-form with the -ю ending. Бывать is imperfective and frequentative, meaning to be somewhere repeatedly; 'в парке' is prepositional."
+      },
+      {
+        "id": "VB-BYVAT-02",
+        "phrase": "Ты бываешь дома по вечерам?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Бываешь' shows the -ешь ending. The habitual sense asks whether you are usually home, not where you are right now."
+      },
+      {
+        "id": "VB-BYVAT-03",
+        "phrase": "Он редко бывает в городе.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Бывает' is the он-form ending in -ет. With 'редко' it conveys infrequent, habitual presence."
+      },
+      {
+        "id": "VB-BYVAT-04",
+        "phrase": "Мы бываем у бабушки летом.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Бываем' shows the мы-ending -ем. 'У бабушки' uses у plus genitive to mean at grandmother's place."
+      },
+      {
+        "id": "VB-BYVAT-05",
+        "phrase": "Зимой здесь бывают сильные морозы.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Бывают' closes the present ladder with the -ют ending. Here бывать means to occur, with 'морозы' as the plural subject."
+      },
+      {
+        "id": "VB-BYVAT-06",
+        "phrase": "Раньше я часто бывал в Москве.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Бывал' is the masculine singular past of imperfective бывать. The frequentative past stresses repeated visits over a period."
+      },
+      {
+        "id": "VB-BYVAT-07",
+        "phrase": "Она бывала у нас по выходным.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Бывала' adds the feminine -а ending. 'По выходным' marks the recurring weekend habit бывать describes."
+      },
+      {
+        "id": "VB-BYVAT-08",
+        "phrase": "Такие случаи бывали и раньше.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Бывали' is the plural past ending in -и. In the impersonal sense бывать means such cases used to happen."
+      },
+      {
+        "id": "VB-BYVAT-09",
+        "phrase": "Скоро ты будешь часто бывать здесь.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Будешь бывать' joins 'будешь' with the infinitive; бывать is imperfective, so the future is periphrastic. There is no common perfective partner for this frequentative."
+      },
+      {
+        "id": "VB-BYVAT-10",
+        "phrase": "Бывай у нас почаще, друг!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Бывай' is the informal command of бывать, a warm idiom inviting someone to visit more often. 'У нас' uses у plus genitive."
+      }
+    ]
+  }
+]

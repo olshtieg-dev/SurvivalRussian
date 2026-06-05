@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VYITI",
+    "label": "Выйти",
+    "badge": "EXIT",
+    "description": "A 10-sentence conjugation card for выйти (to go out, to step out). Perfective compound of идти: future выйду/выйдешь, suppletive past вышел/вышла/вышли, imperative выйди.",
+    "missions": [
+      {
+        "id": "VB-VYITI-01",
+        "phrase": "Я скоро выйду на улицу.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. 'Выйду' is the 1sg non-past of perfective выйти, which carries future meaning. It is built on the идти pattern with prefix вы-, marking a completed step outside."
+      },
+      {
+        "id": "VB-VYITI-02",
+        "phrase": "Когда ты выйдешь из дома?",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Выйдешь' is the 2sg future of выйти. The prefixed-идти stem keeps -йд- before the ending. 'Из дома' uses из + genitive for motion out of the house."
+      },
+      {
+        "id": "VB-VYITI-03",
+        "phrase": "Он выйдет через пять минут.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Выйдет' is the 3sg future of выйти. The imperfective partner выходить would describe a repeated or ongoing exit, but here the single completed event is in view."
+      },
+      {
+        "id": "VB-VYITI-04",
+        "phrase": "Мы выйдем вместе после обеда.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Выйдем' is the 1pl future of выйти. The vы- prefix on the идти root signals one finished departure rather than a habit."
+      },
+      {
+        "id": "VB-VYITI-05",
+        "phrase": "Дедушка вышел подышать свежим воздухом.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Вышел' switches to the irregular past root -шёл/-шел seen across идти compounds. It marks a male subject and a completed step outside to breathe fresh air."
+      },
+      {
+        "id": "VB-VYITI-06",
+        "phrase": "Она вышла из комнаты молча.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Вышла' uses the suppletive -шл- root for a female subject, sharing nothing with the future -йд- stem. 'Из комнаты' is из + genitive 'out of the room'."
+      },
+      {
+        "id": "VB-VYITI-07",
+        "phrase": "Все гости уже вышли на двор.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Вышли' is the plural past of выйти on the irregular -шл- root. Past tense tracks number and gender here, not person, agreeing with plural 'гости'."
+      },
+      {
+        "id": "VB-VYITI-08",
+        "phrase": "Выйди на минутку, прошу тебя!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Выйди' is the informal command from выйти, built on the -йд- stem plus -и. It asks someone to step out briefly. The imperfective выходить gives the habitual counterpart."
+      },
+      {
+        "id": "VB-VYITI-09",
+        "phrase": "Выйдите, пожалуйста, в коридор.",
+        "fullAnalysis": "Strategic focus: Plural or polite imperative. 'Выйдите' is the formal command of выйти, adding -те to the singular stem. 'В коридор' uses в + accusative for the direction of the exit."
+      },
+      {
+        "id": "VB-VYITI-10",
+        "phrase": "Мне нужно выйти на следующей остановке.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Выйти' is the bare infinitive, governed here by 'нужно'. It names the act of getting off; 'на следующей остановке' uses на + prepositional for the stop. Contrast the imperfective выходить."
+      }
+    ]
+  }
+]

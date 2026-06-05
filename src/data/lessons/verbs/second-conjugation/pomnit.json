@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-POMNIT",
+    "label": "Помнить",
+    "badge": "REMEMB",
+    "description": "A 10-sentence conjugation card for помнить (to remember, keep in mind).",
+    "missions": [
+      {
+        "id": "VB-POMNIT-01",
+        "phrase": "Я хорошо помню этот день.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Помню' is the -ю form of imperfective помнить, describing a state held in mind. 'Этот день' is the accusative object kept in memory."
+      },
+      {
+        "id": "VB-POMNIT-02",
+        "phrase": "Ты помнишь её имя?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Помнишь' shows the -ишь ending of помнить. The verb names an ongoing state rather than a single event, which is why the imperfective fits."
+      },
+      {
+        "id": "VB-POMNIT-03",
+        "phrase": "Он помнит каждое слово песни.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Помнит' is the core -ит form of помнить. 'Каждое слово' stresses the completeness of an ongoing memory."
+      },
+      {
+        "id": "VB-POMNIT-04",
+        "phrase": "Мы помним наших старых учителей.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Помним' takes the -им ending. 'Наших старых учителей' is an animate accusative, matching the genitive-like plural form."
+      },
+      {
+        "id": "VB-POMNIT-05",
+        "phrase": "Вы помните дорогу до вокзала?",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Помните' is the respectful -ите form of помнить. 'Дорогу до вокзала' is the accusative object of a practical question."
+      },
+      {
+        "id": "VB-POMNIT-06",
+        "phrase": "Дети ещё помнят эту сказку.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Помнят' closes the person ladder with the -ят ending. 'Ещё' stresses that the memory still holds."
+      },
+      {
+        "id": "VB-POMNIT-07",
+        "phrase": "Я всегда помнил его совет.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Помнил' is the masculine -л past, describing a memory held over time. The imperfective is natural for such a continuous state."
+      },
+      {
+        "id": "VB-POMNIT-08",
+        "phrase": "Она долго помнила тот разговор.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Помнила' adds the feminine -ла ending. 'Долго' underlines the lasting nature of the remembered conversation."
+      },
+      {
+        "id": "VB-POMNIT-09",
+        "phrase": "Я буду помнить тебя всегда.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Буду' is the auxiliary and 'помнить' stays infinitive in the compound future. The imperfective stresses a continuing future state of remembering."
+      },
+      {
+        "id": "VB-POMNIT-10",
+        "phrase": "Помни о своём обещании!",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Помни' is the informal command of помнить. 'О своём обещании' uses о with the prepositional case to name what should stay in mind."
+      }
+    ]
+  }
+]

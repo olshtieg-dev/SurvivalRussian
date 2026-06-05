@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-POSMOTRET",
+    "label": "Посмотреть",
+    "badge": "WATCH",
+    "description": "A 10-sentence conjugation card for посмотреть (to look, watch).",
+    "missions": [
+      {
+        "id": "VB-POSMOTRET-01",
+        "phrase": "Сегодня вечером я посмотрю фильм.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. 'Посмотрю' is the simple future of perfective посмотреть and needs no auxiliary. It marks one finished act of watching."
+      },
+      {
+        "id": "VB-POSMOTRET-02",
+        "phrase": "Ты посмотришь на эту картину?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Посмотришь' shows the -ишь ending of посмотреть. 'На эту картину' uses на with the accusative for the direction of a single glance."
+      },
+      {
+        "id": "VB-POSMOTRET-03",
+        "phrase": "Он посмотрит матч в субботу.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Посмотрит' is the simple future pointing to one completed viewing. Its imperfective partner смотреть would describe regular or ongoing watching instead."
+      },
+      {
+        "id": "VB-POSMOTRET-04",
+        "phrase": "Мы посмотрим новый сериал вместе.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Посмотрим' carries the -им ending and promises a single shared event. 'Вместе' adds a natural social setting."
+      },
+      {
+        "id": "VB-POSMOTRET-05",
+        "phrase": "Вы посмотрите расписание заранее.",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Посмотрите' is the respectful -ите future, here a near-instruction to check the schedule. 'Заранее' stresses the completed, advance action."
+      },
+      {
+        "id": "VB-POSMOTRET-06",
+        "phrase": "Вчера я посмотрел интересный спектакль.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Посмотрел' is the masculine -л past, marking a finished viewing. 'Интересный спектакль' is the accusative object of the one-time act."
+      },
+      {
+        "id": "VB-POSMOTRET-07",
+        "phrase": "Она посмотрела на часы и ушла.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Посмотрела' adds the feminine -ла ending. The pair of perfectives shows a brisk sequence of completed actions."
+      },
+      {
+        "id": "VB-POSMOTRET-08",
+        "phrase": "Гости посмотрели старые фотографии.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Посмотрели' is the plural -ли past for all genders. 'Старые фотографии' is the accusative object of a finished, shared activity."
+      },
+      {
+        "id": "VB-POSMOTRET-09",
+        "phrase": "Я хочу посмотреть на закат.",
+        "fullAnalysis": "Strategic focus: Perfective infinitive. 'Посмотреть' stays infinitive after the modal 'хочу'. The perfective points to one deliberate look; imperfective смотреть would mark ongoing gazing."
+      },
+      {
+        "id": "VB-POSMOTRET-10",
+        "phrase": "Посмотри, какая красивая луна!",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Посмотри' is the informal command of посмотреть, urging one quick look. It contrasts with imperfective смотри, which invites continued watching."
+      }
+    ]
+  }
+]

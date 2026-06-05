@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SPAT",
+    "label": "Спать",
+    "badge": "SLEEP",
+    "description": "A 10-sentence conjugation card for спать (to sleep).",
+    "missions": [
+      {
+        "id": "VB-SPAT-01",
+        "phrase": "Я обычно сплю восемь часов.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Сплю' is the -ю form of спать, with the inserted л after the stem labial. 'Восемь часов' gives the typical duration of the ongoing habit."
+      },
+      {
+        "id": "VB-SPAT-02",
+        "phrase": "Ты спишь слишком мало.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Спишь' shows the -ишь ending of спать without the л insert, which appears only in the first person. The imperfective fits an ongoing state."
+      },
+      {
+        "id": "VB-SPAT-03",
+        "phrase": "Малыш спит в своей кроватке.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Спит' is the core -ит form of спать. 'В своей кроватке' uses в with the prepositional case for static location."
+      },
+      {
+        "id": "VB-SPAT-04",
+        "phrase": "Мы спим с открытым окном.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Спим' takes the -им ending. 'С открытым окном' uses с with the instrumental to describe the circumstances of sleeping."
+      },
+      {
+        "id": "VB-SPAT-05",
+        "phrase": "Вы спите днём после обеда?",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Спите' is the respectful -ите form of спать. 'После обеда' uses после with the genitive to frame a habitual nap."
+      },
+      {
+        "id": "VB-SPAT-06",
+        "phrase": "Кошки спят почти весь день.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Спят' closes the person ladder with the -ят ending. 'Почти весь день' stresses the long, ongoing rest."
+      },
+      {
+        "id": "VB-SPAT-07",
+        "phrase": "Вчера я спал очень плохо.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Спал' is the masculine -л past of спать. 'Очень плохо' describes the quality of the night's sleep."
+      },
+      {
+        "id": "VB-SPAT-08",
+        "phrase": "Она спала до самого утра.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Спала' adds the feminine -ла ending. 'До самого утра' uses до with the genitive to mark the limit of the sleep."
+      },
+      {
+        "id": "VB-SPAT-09",
+        "phrase": "Завтра я буду спать долго.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Буду' is the auxiliary and 'спать' stays infinitive in the compound future. The imperfective suits the durative idea of sleeping a long time."
+      },
+      {
+        "id": "VB-SPAT-10",
+        "phrase": "Спи спокойно, уже поздно.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Спи' is the informal command of спать. 'Спокойно' softens it into a gentle goodnight wish."
+      }
+    ]
+  }
+]

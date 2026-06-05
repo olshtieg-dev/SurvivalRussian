@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-IGRAT",
+    "label": "Играть",
+    "badge": "PLAY",
+    "description": "A 10-sentence conjugation card for играть (to play).",
+    "missions": [
+      {
+        "id": "VB-IGRAT-01",
+        "phrase": "Я играю на гитаре каждый день.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Играть is imperfective with the regular stem игра-, giving the 1sg 'играю' with -ю. 'Играть на' plus the prepositional names the instrument played."
+      },
+      {
+        "id": "VB-IGRAT-02",
+        "phrase": "Ты хорошо играешь в шахматы.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Играешь' shows the -ешь ending on игра-. 'Играть в' plus the accusative is the fixed pattern for playing a game."
+      },
+      {
+        "id": "VB-IGRAT-03",
+        "phrase": "Брат играет во дворе с друзьями.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Играет' is the он-form ending in -ет. The imperfective describes an ongoing activity of playing outside with friends."
+      },
+      {
+        "id": "VB-IGRAT-04",
+        "phrase": "Мы играем в футбол по выходным.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Играем' carries the -ем ending on игра-. 'По выходным' marks a recurring habit, which suits the imperfective aspect."
+      },
+      {
+        "id": "VB-IGRAT-05",
+        "phrase": "Вы прекрасно играете на пианино.",
+        "fullAnalysis": "Strategic focus: Second-person plural or polite present. 'Играете' trains the respectful вы-form with the -ете ending. 'Играть на пианино' names the instrument in the prepositional."
+      },
+      {
+        "id": "VB-IGRAT-06",
+        "phrase": "Дети играют в саду до вечера.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Играют' closes the present ladder with the -ют ending. The imperfective stresses the ongoing, continuing play of the children."
+      },
+      {
+        "id": "VB-IGRAT-07",
+        "phrase": "Вчера он играл в карты допоздна.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Играл' is the masculine singular past of imperfective играть with the -л suffix. The imperfective past stresses the ongoing process of playing."
+      },
+      {
+        "id": "VB-IGRAT-08",
+        "phrase": "Она играла главную роль в спектакле.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Играла' adds the feminine -а ending. 'Играть роль' means to play a part, here describing an extended past performance."
+      },
+      {
+        "id": "VB-IGRAT-09",
+        "phrase": "Музыканты играли всю ночь напролёт.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Играли' is the plural past ending in -и, completing the past forms. 'Всю ночь' underlines the prolonged, continuous nature of the imperfective."
+      },
+      {
+        "id": "VB-IGRAT-10",
+        "phrase": "Дети, играйте тихо, папа спит.",
+        "fullAnalysis": "Strategic focus: Plural or polite imperative. 'Играйте' adds -те to the command stem for a group or respectful order. The imperfective imperative suits an ongoing activity carried on quietly."
+      }
+    ]
+  }
+]

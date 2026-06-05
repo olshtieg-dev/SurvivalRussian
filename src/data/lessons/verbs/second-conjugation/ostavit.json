@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OSTAVIT",
+    "label": "Оставить",
+    "badge": "LEAVE",
+    "description": "A 10-sentence conjugation card for оставить (to leave behind, to keep).",
+    "missions": [
+      {
+        "id": "VB-OSTAVIT-01",
+        "phrase": "Я оставлю ключи на столе.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Оставлю' is the 1sg of perfective оставить; the stem в takes an epenthetic л before the ending. The imperfective partner is оставлять."
+      },
+      {
+        "id": "VB-OSTAVIT-02",
+        "phrase": "Ты оставишь мне записку?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Оставишь' shows the -ишь ending of оставить; the л appears only in the 1sg, so it is absent here. 'Мне записку' is dative plus accusative."
+      },
+      {
+        "id": "VB-OSTAVIT-03",
+        "phrase": "Он оставит машину у дома.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Оставит' is the -ит form of оставить, naming a single completed act. 'Машину у дома' fixes where it stays."
+      },
+      {
+        "id": "VB-OSTAVIT-04",
+        "phrase": "Мы оставим всё как есть.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Оставим' carries the -им ending of оставить. 'Всё как есть' is a fixed phrase for leaving things unchanged."
+      },
+      {
+        "id": "VB-OSTAVIT-05",
+        "phrase": "Вы оставите нам ваш адрес?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Оставите' trains the -ите form of оставить. 'Нам ваш адрес' makes a natural request."
+      },
+      {
+        "id": "VB-OSTAVIT-06",
+        "phrase": "Они оставят детей у бабушки.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Оставят' closes the person ladder with the -ят ending of оставить. 'Детей у бабушки' names where they will be left."
+      },
+      {
+        "id": "VB-OSTAVIT-07",
+        "phrase": "Вчера он оставил зонт в такси.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Оставил' is the completed masculine past of оставить with the -л suffix. 'Зонт в такси' describes a single act of leaving behind."
+      },
+      {
+        "id": "VB-OSTAVIT-08",
+        "phrase": "Она оставила телефон дома.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Оставила' adds the feminine -ла ending of оставить. 'Телефон дома' marks one finished oversight."
+      },
+      {
+        "id": "VB-OSTAVIT-09",
+        "phrase": "Гости оставили много мусора.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Оставили' is the plural -ли past of оставить. Contrast this single completed result with the imperfective оставлять."
+      },
+      {
+        "id": "VB-OSTAVIT-10",
+        "phrase": "Оставь меня в покое!",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Оставь' is the command form of оставить. 'В покое' is a fixed idiom; the whole phrase means 'leave me alone'."
+      }
+    ]
+  }
+]

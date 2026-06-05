@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-MOCH",
+    "label": "Мочь",
+    "badge": "CAN",
+    "description": "A 10-sentence conjugation card for мочь (to be able to, can).",
+    "missions": [
+      {
+        "id": "VB-MOCH-01",
+        "phrase": "Я могу помочь тебе завтра утром.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Могу' is the irregular 1sg present of imperfective мочь, where the stem мог- softens the ч to a г before the -у ending. It governs the bare infinitive 'помочь' to express ability."
+      },
+      {
+        "id": "VB-MOCH-02",
+        "phrase": "Ты можешь говорить немного медленнее?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Можешь' is the 2sg present of мочь, showing the stem alternation г→ж that runs through the middle of the paradigm. It politely frames a request with the infinitive 'говорить'."
+      },
+      {
+        "id": "VB-MOCH-03",
+        "phrase": "Он не может прийти на встречу.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Может' is the 3sg present of мочь, keeping the same ж stem as the 2sg. With 'не' it states an inability, and it governs the perfective infinitive 'прийти'."
+      },
+      {
+        "id": "VB-MOCH-04",
+        "phrase": "Вместе мы можем решить эту задачу.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Можем' is the 1pl present of мочь, again with the ж stem. 'Вместе' stresses joint capability, and the verb takes the perfective infinitive 'решить'."
+      },
+      {
+        "id": "VB-MOCH-05",
+        "phrase": "Дети могут долго играть во дворе.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Могут' is the irregular 3pl present, where the г stem returns before the -ут ending, mirroring the 1sg 'могу'. It governs the imperfective infinitive 'играть'."
+      },
+      {
+        "id": "VB-MOCH-06",
+        "phrase": "Раньше я мог бегать целый час.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Мог' is the past m. sg. of мочь, built on the plain stem мог- with no suffix, an old irregular pattern. 'Раньше' contrasts a past ability with the present."
+      },
+      {
+        "id": "VB-MOCH-07",
+        "phrase": "Она не могла заснуть всю ночь.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Могла' is the past f. sg. of мочь, adding the -ла ending to the stem мог-. With 'не' and 'всю ночь' it describes a sustained inability through the night."
+      },
+      {
+        "id": "VB-MOCH-08",
+        "phrase": "Мы не могли найти нужный дом.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Могли' is the past pl. of мочь, with the -ли ending. It governs the perfective infinitive 'найти' and, negated, reports a failed attempt to locate the house."
+      },
+      {
+        "id": "VB-MOCH-09",
+        "phrase": "Скоро я смогу купить новую машину.",
+        "fullAnalysis": "Strategic focus: Perfective future. Мочь has no simple future, so its perfective partner смочь supplies it. 'Смогу' is the perfective future 1sg, meaning 'I will be able to', and governs the infinitive 'купить'."
+      },
+      {
+        "id": "VB-MOCH-10",
+        "phrase": "Надо мочь признавать свои ошибки.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Мочь' here is the bare infinitive after the modal 'надо', a fairly bookish construction meaning 'one must be able to'. It in turn governs a second infinitive, 'признавать'."
+      }
+    ]
+  }
+]

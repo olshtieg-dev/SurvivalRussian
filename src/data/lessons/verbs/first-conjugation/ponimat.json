@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PONIMAT",
+    "label": "Понимать",
+    "badge": "UNDERST",
+    "description": "A 10-sentence conjugation card for понимать (to understand).",
+    "missions": [
+      {
+        "id": "VB-PONIMAT-01",
+        "phrase": "Я хорошо понимаю русский язык.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Понимаю' is the standard я-form with the -ю ending. 'Русский язык' is the accusative direct object of imperfective понимать."
+      },
+      {
+        "id": "VB-PONIMAT-02",
+        "phrase": "Ты понимаешь, что я говорю?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Понимаешь' shows the -ешь ending of the first conjugation. The clause 'что я говорю' serves as the object of understanding."
+      },
+      {
+        "id": "VB-PONIMAT-03",
+        "phrase": "Он не понимает эту задачу.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Понимает' is the он-form ending in -ет, here negated. 'Эту задачу' is the accusative object."
+      },
+      {
+        "id": "VB-PONIMAT-04",
+        "phrase": "Мы понимаем друг друга без слов.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Понимаем' shows the мы-ending -ем. 'Друг друга' is the reciprocal object, 'without words' a fixed phrase."
+      },
+      {
+        "id": "VB-PONIMAT-05",
+        "phrase": "Они понимают все наши проблемы.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Понимают' completes the present ladder with the -ют ending. 'Все наши проблемы' is the plural accusative object."
+      },
+      {
+        "id": "VB-PONIMAT-06",
+        "phrase": "Раньше я не понимал этого правила.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Понимал' is the masculine singular past of imperfective понимать. With negation the object 'этого правила' shifts to the genitive."
+      },
+      {
+        "id": "VB-PONIMAT-07",
+        "phrase": "Она сразу понимала мои чувства.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Понимала' adds the feminine -а ending. The imperfective stresses an ongoing capacity; 'мои чувства' is the plural accusative object."
+      },
+      {
+        "id": "VB-PONIMAT-08",
+        "phrase": "Дети уже понимали этот урок.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Понимали' is the plural past ending in -и. 'Этот урок' is the accusative object, and 'уже' marks accomplished comprehension."
+      },
+      {
+        "id": "VB-PONIMAT-09",
+        "phrase": "Завтра ты будешь лучше понимать материал.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Будешь понимать' joins 'будешь' with the infinitive; понимать is imperfective, so the future is built periphrastically. The perfective partner is понять."
+      },
+      {
+        "id": "VB-PONIMAT-10",
+        "phrase": "Старайся понимать, а не просто слушать.",
+        "fullAnalysis": "Strategic focus: Infinitive use after a verb. 'Старайся' governs the bare infinitive 'понимать'. Pairing it with 'слушать' contrasts active understanding with mere listening."
+      }
+    ]
+  }
+]

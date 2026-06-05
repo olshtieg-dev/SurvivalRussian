@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SKAZAT",
+    "label": "Сказать",
+    "badge": "TO SAY",
+    "description": "A 10-sentence conjugation card for сказать (to say).",
+    "missions": [
+      {
+        "id": "VB-SKAZAT-01",
+        "phrase": "Я скажу тебе всю правду завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. Сказать is perfective and has no present tense, so 'скажу' serves as the non-past 1sg form with future meaning. Note the stem mutation з becomes ж before the ending. The imperfective partner is говорить."
+      },
+      {
+        "id": "VB-SKAZAT-02",
+        "phrase": "Что ты скажешь маме об этом?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Скажешь' shows the -ешь ending of the first conjugation with the same ж mutation. Because the verb is perfective, this non-past form points to a single completed act of speaking."
+      },
+      {
+        "id": "VB-SKAZAT-03",
+        "phrase": "Он скажет нам ответ через минуту.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Скажет' is the он-form ending in -ет. As a perfective non-past it means he will say it once and finish, contrasting with the ongoing говорит."
+      },
+      {
+        "id": "VB-SKAZAT-04",
+        "phrase": "Мы скажем учителю спасибо после урока.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Скажем' carries the -ем ending. The dative 'учителю' marks the person addressed, and the perfective stresses one finished thank-you rather than a habit."
+      },
+      {
+        "id": "VB-SKAZAT-05",
+        "phrase": "Вы скажете нам своё настоящее имя?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Скажете' trains the respectful вы-form with the -ете ending. As a perfective question it asks for a single act of telling, not repeated speech."
+      },
+      {
+        "id": "VB-SKAZAT-06",
+        "phrase": "Они скажут правду, когда придёт время.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Скажут' closes the non-past ladder with the -ут ending. The perfective frames a single future disclosure tied to the moment 'когда придёт время'."
+      },
+      {
+        "id": "VB-SKAZAT-07",
+        "phrase": "Вчера он сказал мне очень странную вещь.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Сказал' is the masculine singular past of perfective сказать, built on the infinitive stem with -л. It reports one completed utterance fixed in the past by 'вчера'."
+      },
+      {
+        "id": "VB-SKAZAT-08",
+        "phrase": "Она тихо сказала, что очень устала.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Сказала' adds the feminine -а ending. The perfective past again marks a single finished act of speaking, here softened by the adverb 'тихо'."
+      },
+      {
+        "id": "VB-SKAZAT-09",
+        "phrase": "Гости сказали хозяйке большое спасибо.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Сказали' is the plural past ending in -и, completing the past forms. The dative 'хозяйке' marks the addressee of this one completed thank-you."
+      },
+      {
+        "id": "VB-SKAZAT-10",
+        "phrase": "Пожалуйста, скажи мне, который сейчас час.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Скажи' is the informal command form of perfective сказать, asking for one piece of information. 'Пожалуйста' makes the request polite while keeping the familiar ты-address."
+      }
+    ]
+  }
+]

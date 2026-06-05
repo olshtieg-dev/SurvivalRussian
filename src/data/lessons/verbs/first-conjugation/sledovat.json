@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SLEDOVAT",
+    "label": "Следовать",
+    "badge": "FOLLOW",
+    "description": "A 10-sentence conjugation card for следовать (to follow).",
+    "missions": [
+      {
+        "id": "VB-SLEDOVAT-01",
+        "phrase": "Я всегда следую своим принципам.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Следую' is the 1sg present of imperfective следовать, an -овать verb whose -ова- becomes -у- in the present. It takes the dative, here 'своим принципам'."
+      },
+      {
+        "id": "VB-SLEDOVAT-02",
+        "phrase": "Ты следуешь за мной слишком близко.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Следуешь' is the 2sg present of следовать, with the -у- stem and -ешь ending. With 'за' plus instrumental it means to follow physically behind someone."
+      },
+      {
+        "id": "VB-SLEDOVAT-03",
+        "phrase": "Он строго следует всем правилам.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Следует' is the 3sg present of следовать with -ет. Taking the dative 'правилам', it means he strictly follows the rules; this form also serves the impersonal 'one should'."
+      },
+      {
+        "id": "VB-SLEDOVAT-04",
+        "phrase": "Мы следуем за гидом по музею.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Следуем' is the 1pl present of следовать with the -у- stem and -ем. With 'за' plus instrumental it describes following the guide through the museum."
+      },
+      {
+        "id": "VB-SLEDOVAT-05",
+        "phrase": "Они следуют моде в одежде.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Следуют' is the 3pl present of следовать with -ют, closing the present ladder. Taking the dative 'моде', it means they follow fashion."
+      },
+      {
+        "id": "VB-SLEDOVAT-06",
+        "phrase": "Он молча следовал за нами по тропинке.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Следовал' is the past m. sg. of imperfective следовать, where the full -ова- stem returns in the past. The imperfective stresses the continuous act of following along the path."
+      },
+      {
+        "id": "VB-SLEDOVAT-07",
+        "phrase": "Она всегда следовала советам врача.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Следовала' is the past f. sg. of следовать with -ла on the -ова- stem. Taking the dative 'советам', it reports her habit of following the doctor's advice."
+      },
+      {
+        "id": "VB-SLEDOVAT-08",
+        "phrase": "Солдаты следовали строгому приказу.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Следовали' is the past pl. of следовать with -ли. With the dative 'приказу' it means the soldiers were following a strict order."
+      },
+      {
+        "id": "VB-SLEDOVAT-09",
+        "phrase": "Следуй за мной, я знаю дорогу.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Следуй' is the informal command of следовать, formed from the present stem следу- plus -й. With 'за' plus instrumental it tells one person to come along behind me."
+      },
+      {
+        "id": "VB-SLEDOVAT-10",
+        "phrase": "Надо следовать инструкции очень внимательно.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Следовать' is the bare infinitive after the modal 'надо'. It takes the dative 'инструкции' and, with 'внимательно', states one must follow the instructions carefully."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PRIITI",
+    "label": "Прийти",
+    "badge": "ARRIVE",
+    "description": "A 10-sentence conjugation card for прийти (to arrive, to come). Perfective compound of идти: future приду/придёшь, suppletive past пришёл/пришла/пришли, imperative приди.",
+    "missions": [
+      {
+        "id": "VB-PRIITI-01",
+        "phrase": "Я приду к тебе завтра вечером.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. 'Приду' is the 1sg non-past of perfective прийти, used with future meaning. Built on the идти pattern with prefix при-, it marks a completed arrival. 'К тебе' is к + dative."
+      },
+      {
+        "id": "VB-PRIITI-02",
+        "phrase": "Во сколько ты придёшь домой?",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Придёшь' is the 2sg future of прийти, with the stressed ё that must be typed exactly. The prefixed-идти stem keeps -йд- before the ending."
+      },
+      {
+        "id": "VB-PRIITI-03",
+        "phrase": "Доктор придёт ровно в восемь.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Придёт' is the 3sg future of прийти. The imperfective partner приходить would describe regular visits, but here one finished arrival is meant."
+      },
+      {
+        "id": "VB-PRIITI-04",
+        "phrase": "Мы придём пораньше, не волнуйся.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Придём' is the 1pl future of прийти, end-stressed on the ё. The при- prefix on the идти root signals a single completed arrival."
+      },
+      {
+        "id": "VB-PRIITI-05",
+        "phrase": "Брат пришёл домой очень поздно.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Пришёл' switches to the irregular -шёл root shared across идти compounds. It marks a male subject and a completed arrival, with no trace of the future -йд- stem."
+      },
+      {
+        "id": "VB-PRIITI-06",
+        "phrase": "Она пришла раньше всех.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Пришла' uses the suppletive -шл- root for a female subject. Past tense here tracks gender, not person. 'Раньше всех' means 'earlier than everyone'."
+      },
+      {
+        "id": "VB-PRIITI-07",
+        "phrase": "Гости пришли с цветами и тортом.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Пришли' is the plural past of прийти on the irregular -шл- root. 'С цветами' uses с + instrumental for what they came with."
+      },
+      {
+        "id": "VB-PRIITI-08",
+        "phrase": "Приди ко мне в гости!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Приди' is the informal command from прийти, built on the -йд- stem plus -и. 'Ко мне' is the к variant before certain pronouns. The imperfective приходить is the habitual counterpart."
+      },
+      {
+        "id": "VB-PRIITI-09",
+        "phrase": "Придите завтра в это же время.",
+        "fullAnalysis": "Strategic focus: Plural or polite imperative. 'Придите' is the formal command of прийти, adding -те to the singular stem. It asks one or more people to arrive at the same hour."
+      },
+      {
+        "id": "VB-PRIITI-10",
+        "phrase": "Я обещал прийти вовремя.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Прийти' is the bare infinitive, here governed by 'обещал'. Note its tricky spelling with -йт-. 'Вовремя' means 'on time'. The imperfective infinitive would be приходить."
+      }
+    ]
+  }
+]

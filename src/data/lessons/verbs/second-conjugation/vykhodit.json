@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VYKHODIT",
+    "label": "Выходить",
+    "badge": "EXIT",
+    "description": "A 10-sentence conjugation card for выходить (to go out, to exit).",
+    "missions": [
+      {
+        "id": "VB-VYKHODIT-01",
+        "phrase": "Я выхожу из дома в восемь.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Выхожу' is the 1sg of выходить; the д of the stem mutates to ж in the first person. 'Из дома' shows the exit point in the genitive."
+      },
+      {
+        "id": "VB-VYKHODIT-02",
+        "phrase": "Ты выходишь на следующей остановке?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Выходишь' shows the -ишь ending with the д restored after the 1sg mutation. 'На следующей остановке' is a common transit phrase."
+      },
+      {
+        "id": "VB-VYKHODIT-03",
+        "phrase": "Она редко выходит на улицу.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Выходит' is the -ит form of выходить, here marking a habit. 'Редко на улицу' frames the routine."
+      },
+      {
+        "id": "VB-VYKHODIT-04",
+        "phrase": "Мы выходим на работу рано.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Выходим' carries the -им plural ending of выходить. 'На работу рано' describes a daily departure."
+      },
+      {
+        "id": "VB-VYKHODIT-05",
+        "phrase": "Вы выходите сейчас?",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Выходите' trains the -ите form of выходить. A short, very practical question for buses and elevators."
+      },
+      {
+        "id": "VB-VYKHODIT-06",
+        "phrase": "Соседи выходят гулять каждый вечер.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Выходят' closes the person ladder with the -ят ending of выходить. 'Гулять каждый вечер' marks a regular habit."
+      },
+      {
+        "id": "VB-VYKHODIT-07",
+        "phrase": "Вчера он выходил подышать воздухом.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Выходил' is the masculine singular past of imperfective выходить with the -л suffix. The perfective partner is выйти."
+      },
+      {
+        "id": "VB-VYKHODIT-08",
+        "phrase": "Она выходила из комнаты тихо.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Выходила' adds the feminine -ла ending of выходить. 'Из комнаты тихо' describes the manner of leaving."
+      },
+      {
+        "id": "VB-VYKHODIT-09",
+        "phrase": "Мы будем выходить через главный вход.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Будем' is the auxiliary and 'выходить' stays in the infinitive, forming the compound future. 'Через главный вход' names the route."
+      },
+      {
+        "id": "VB-VYKHODIT-10",
+        "phrase": "Выходи скорее, мы опаздываем!",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Выходи' is the informal command of выходить. 'Скорее' and 'мы опаздываем' make an urgent, natural call to one listener."
+      }
+    ]
+  }
+]

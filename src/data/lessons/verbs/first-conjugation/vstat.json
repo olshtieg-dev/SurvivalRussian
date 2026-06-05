@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VSTAT",
+    "label": "Встать",
+    "badge": "GET UP",
+    "description": "A 10-sentence conjugation card for встать (to get up, to stand up).",
+    "missions": [
+      {
+        "id": "VB-VSTAT-01",
+        "phrase": "Завтра я встану очень рано.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. Встать is perfective, so 'встану' carries future meaning with the present-like ending -у on the stem встан-. 'Завтра' fixes the time of the single act."
+      },
+      {
+        "id": "VB-VSTAT-02",
+        "phrase": "Ты встанешь и пойдёшь со мной.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Встанешь' shows the -ешь ending on the stem встан-. Being perfective, it denotes one completed getting-up before the next action 'пойдёшь'."
+      },
+      {
+        "id": "VB-VSTAT-03",
+        "phrase": "Он встанет в шесть часов.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Встанет' is the он-form ending in -ет. The phrase 'в шесть часов' marks the exact moment of the single completed action."
+      },
+      {
+        "id": "VB-VSTAT-04",
+        "phrase": "Мы встанем рано и поедем.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Встанем' is the мы-form ending in -ем on the stem встан-. The perfective frames a single planned departure."
+      },
+      {
+        "id": "VB-VSTAT-05",
+        "phrase": "Они встанут при появлении судьи.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Встанут' closes the future ladder with the -ут ending. It describes one collective act of standing up."
+      },
+      {
+        "id": "VB-VSTAT-06",
+        "phrase": "Сегодня я встал поздно утром.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Встал' is the masculine singular past of perfective встать, reporting a single completed rising. The imperfective partner вставать would stress habit."
+      },
+      {
+        "id": "VB-VSTAT-07",
+        "phrase": "Она встала и открыла окно.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Встала' adds the feminine -а ending. Two perfectives in a row, 'встала' then 'открыла', show a clear sequence of finished actions."
+      },
+      {
+        "id": "VB-VSTAT-08",
+        "phrase": "Все гости встали из-за стола.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Встали' is the plural past ending in -и. The phrase 'из-за стола' shows the common idiom for getting up from the table."
+      },
+      {
+        "id": "VB-VSTAT-09",
+        "phrase": "Каждый день я встаю в семь.",
+        "fullAnalysis": "Strategic focus: Imperfective present partner. Here the imperfective вставать gives 'встаю', the habitual я-form. It contrasts with perfective встать and is needed for the repeated daily routine."
+      },
+      {
+        "id": "VB-VSTAT-10",
+        "phrase": "Встань и помоги мне немедленно!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Встань' is the informal command of perfective встать, built on the stem встан-. It demands one immediate completed action."
+      }
+    ]
+  }
+]

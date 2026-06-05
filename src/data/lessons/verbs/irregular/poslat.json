@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-POSLAT",
+    "label": "Послать",
+    "badge": "SEND",
+    "description": "A 10-sentence conjugation card for послать (to send). Irregular perfective: future пошлю/пошлёшь with the -шл- stem, past послал/послала/послали, imperative пошли.",
+    "missions": [
+      {
+        "id": "VB-POSLAT-01",
+        "phrase": "Я пошлю тебе письмо завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. 'Пошлю' is the 1sg non-past of perfective послать, used with future meaning. Notice the stem jump from infinitive посла- to the future root пошл-. 'Тебе' is the dative recipient."
+      },
+      {
+        "id": "VB-POSLAT-02",
+        "phrase": "Ты пошлёшь мне фотографии?",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Пошлёшь' is the 2sg future of послать, on the irregular пошл- stem with the stressed ё. 'Мне' marks the dative recipient of the photos."
+      },
+      {
+        "id": "VB-POSLAT-03",
+        "phrase": "Начальник пошлёт нас в командировку.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Пошлёт' is the 3sg future of послать. The imperfective partner посылать would describe repeated sending, but here one completed dispatch is meant."
+      },
+      {
+        "id": "VB-POSLAT-04",
+        "phrase": "Мы пошлём ему подарок по почте.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Пошлём' is the 1pl future of послать, end-stressed on the ё. 'Ему' is the dative recipient; 'по почте' uses по + dative for 'by mail'."
+      },
+      {
+        "id": "VB-POSLAT-05",
+        "phrase": "Дедушка послал внуку открытку.",
+        "fullAnalysis": "Strategic focus: Masculine past. 'Послал' is the masculine past of послать, built on the regular past stem посла- with no ё. 'Внуку' is the dative recipient. Note how the past stem differs from the future пошл-."
+      },
+      {
+        "id": "VB-POSLAT-06",
+        "phrase": "Она послала сообщение и ждала ответа.",
+        "fullAnalysis": "Strategic focus: Feminine past. 'Послала' is the feminine past of послать on the посла- stem. Past tense tracks gender, not person. 'Ждала ответа' shows ждать governing the genitive."
+      },
+      {
+        "id": "VB-POSLAT-07",
+        "phrase": "Родители послали детей в лагерь.",
+        "fullAnalysis": "Strategic focus: Plural past. 'Послали' is the plural past of послать on the regular посла- stem. 'Детей' is the accusative object; 'в лагерь' uses в + accusative for the destination."
+      },
+      {
+        "id": "VB-POSLAT-08",
+        "phrase": "Пошли ему сообщение прямо сейчас!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Пошли' is the informal command from послать, built on the пошл- stem plus -и. 'Ему' is the dative recipient. Take care - this form is spelled like the plural past of идти, but context distinguishes them."
+      },
+      {
+        "id": "VB-POSLAT-09",
+        "phrase": "Пошлите запрос в отдел кадров.",
+        "fullAnalysis": "Strategic focus: Plural or polite imperative. 'Пошлите' is the formal command of послать, adding -те to the пошл- stem. 'В отдел' uses в + accusative for the destination of the request."
+      },
+      {
+        "id": "VB-POSLAT-10",
+        "phrase": "Я забыл послать ему ответ.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Послать' is the bare infinitive, here governed by 'забыл'. It names the act of sending; 'ему' is the dative recipient. The imperfective infinitive would be посылать."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-BOYATSYA",
+    "label": "Бояться",
+    "badge": "FEAR",
+    "description": "A 10-sentence conjugation card for бояться (to be afraid).",
+    "missions": [
+      {
+        "id": "VB-BOYATSYA-01",
+        "phrase": "Я боюсь высоты.",
+        "fullAnalysis": "Strategic focus: First-person singular present, reflexive. 'Боюсь' is the 1sg of reflexive бояться, ending in -ю plus the particle -сь. 'Высоты' is the genitive object of fear."
+      },
+      {
+        "id": "VB-BOYATSYA-02",
+        "phrase": "Ты боишься темноты?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Боишься' shows the -ишь ending plus -ся of бояться. 'Темноты' is again the genitive of what is feared."
+      },
+      {
+        "id": "VB-BOYATSYA-03",
+        "phrase": "Она боится больших собак.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Боится' is the -ит form of бояться with -ся. 'Больших собак' is the genitive plural object of fear."
+      },
+      {
+        "id": "VB-BOYATSYA-04",
+        "phrase": "Мы боимся опоздать на поезд.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Боимся' carries the -им ending plus -ся of бояться. Here the fear takes an infinitive, 'опоздать', rather than a noun."
+      },
+      {
+        "id": "VB-BOYATSYA-05",
+        "phrase": "Вы боитесь этого человека?",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Боитесь' trains the -ите form plus -сь of бояться. 'Этого человека' is the genitive object of fear."
+      },
+      {
+        "id": "VB-BOYATSYA-06",
+        "phrase": "Дети боятся грозы.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Боятся' closes the person ladder with the -ят ending plus -ся of бояться. 'Грозы' is the genitive of the feared storm."
+      },
+      {
+        "id": "VB-BOYATSYA-07",
+        "phrase": "В детстве он боялся темноты.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Боялся' is the masculine singular past of бояться, with -л before the reflexive -ся. 'В детстве' anchors the time."
+      },
+      {
+        "id": "VB-BOYATSYA-08",
+        "phrase": "Она боялась говорить правду.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Боялась' adds the feminine -ла plus -сь of бояться. The fear governs the infinitive 'говорить'."
+      },
+      {
+        "id": "VB-BOYATSYA-09",
+        "phrase": "Они всегда боялись перемен.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Боялись' is the plural -ли past plus -сь of бояться. 'Перемен' is the genitive plural object of their fear."
+      },
+      {
+        "id": "VB-BOYATSYA-10",
+        "phrase": "Не бойся, всё будет хорошо.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Бойся' is the informal command of бояться, with the reflexive -ся kept; the negation 'не' turns it into a common reassurance, 'don't be afraid'."
+      }
+    ]
+  }
+]

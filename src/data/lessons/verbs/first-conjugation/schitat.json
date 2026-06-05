@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SCHITAT",
+    "label": "Считать",
+    "badge": "COUNT",
+    "description": "A 10-sentence conjugation card for считать (to count, to consider).",
+    "missions": [
+      {
+        "id": "VB-SCHITAT-01",
+        "phrase": "Я считаю это решение очень разумным.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Считаю' is the 1sg present of imperfective считать, with the regular first-conjugation -ю on the счита- stem. Here it means 'I consider', taking an instrumental complement."
+      },
+      {
+        "id": "VB-SCHITAT-02",
+        "phrase": "Ты считаешь деньги слишком быстро.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Считаешь' is the 2sg present of считать with the -ешь ending. In this sentence it carries the literal sense 'to count', with 'деньги' as the accusative object."
+      },
+      {
+        "id": "VB-SCHITAT-03",
+        "phrase": "Он считает себя настоящим экспертом.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Считает' is the 3sg present of считать with -ет. The reflexive object 'себя' plus instrumental gives the common idiom 'considers himself an expert'."
+      },
+      {
+        "id": "VB-SCHITAT-04",
+        "phrase": "Мы считаем дни до отпуска.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Считаем' is the 1pl present of считать with -ем. Here the literal meaning dominates, counting down the days, with 'дни' in the accusative."
+      },
+      {
+        "id": "VB-SCHITAT-05",
+        "phrase": "Многие люди считают этот фильм лучшим.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Считают' is the 3pl present of считать with -ют, closing the present ladder. With an instrumental it states a widely held opinion about the film."
+      },
+      {
+        "id": "VB-SCHITAT-06",
+        "phrase": "В детстве я считал звёзды на небе.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Считал' is the past m. sg. of imperfective считать. The imperfective stresses the ongoing childhood habit of counting the stars."
+      },
+      {
+        "id": "VB-SCHITAT-07",
+        "phrase": "Она всегда считала его лучшим другом.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Считала' is the past f. sg. of считать with -ла. The imperfective and 'всегда' present a long-standing opinion, with 'лучшим другом' in the instrumental."
+      },
+      {
+        "id": "VB-SCHITAT-08",
+        "phrase": "Раньше люди считали землю плоской.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Считали' is the past pl. of считать with -ли. The imperfective marks a belief once widely held, with the instrumental 'плоской' as the predicate complement."
+      },
+      {
+        "id": "VB-SCHITAT-09",
+        "phrase": "Считай до десяти и успокойся.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Считай' is the informal command of imperfective считать, formed from the present stem счита- plus -й. The perfective partner сосчитать would stress reaching the final count."
+      },
+      {
+        "id": "VB-SCHITAT-10",
+        "phrase": "Я буду считать тебя своим союзником.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Буду считать' joins 'буду' with the infinitive считать, the standard imperfective future. It promises an ongoing attitude, treating someone as an ally."
+      }
+    ]
+  }
+]

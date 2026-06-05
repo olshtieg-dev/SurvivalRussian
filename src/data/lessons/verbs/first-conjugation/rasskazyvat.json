@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-RASSKAZYVAT",
+    "label": "Рассказывать",
+    "badge": "TELL",
+    "description": "A 10-sentence conjugation card for рассказывать (to tell, narrate).",
+    "missions": [
+      {
+        "id": "VB-RASSKAZYVAT-01",
+        "phrase": "Я рассказываю детям сказку на ночь.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Рассказываю' is the я-form with the -ю ending. The verb is imperfective; its perfective partner is рассказать."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-02",
+        "phrase": "Ты интересно рассказываешь о путешествиях.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Рассказываешь' shows the -ешь ending of the first conjugation. The topic is marked with 'о' plus the prepositional case."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-03",
+        "phrase": "Бабушка рассказывает старую историю.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Рассказывает' is the она-form ending in -ет. 'Старую историю' is the accusative direct object being told."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-04",
+        "phrase": "Мы рассказываем друг другу новости.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Рассказываем' shows the мы-form ending -ем. 'Друг другу' is the dative recipient of the news."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-05",
+        "phrase": "Они рассказывают смешные шутки.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Рассказывают' is the они-form with the -ют ending. 'Смешные шутки' is the plural accusative object."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-06",
+        "phrase": "Я часто рассказывал ей о работе.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Рассказывал' is the masculine singular past of imperfective рассказывать. 'Часто' fits the imperfective, marking a repeated habit of telling."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-07",
+        "phrase": "Она рассказывала о своём детстве.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Рассказывала' adds the feminine -а ending. The imperfective stresses the unfolding process of recounting her childhood."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-08",
+        "phrase": "Они весь вечер рассказывали анекдоты.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Рассказывали' is the plural past form ending in -и. 'Весь вечер' suits the imperfective, marking an ongoing evening of storytelling."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-09",
+        "phrase": "Не рассказывай никому наш секрет.",
+        "fullAnalysis": "Strategic focus: Negated singular imperative. 'Рассказывай' is the informal command, here negated with 'не'. The imperfective imperative naturally tells someone not to do something."
+      },
+      {
+        "id": "VB-RASSKAZYVAT-10",
+        "phrase": "Я люблю рассказывать интересные истории.",
+        "fullAnalysis": "Strategic focus: Modal infinitive use. 'Люблю' governs the bare infinitive 'рассказывать', the imperfective form. The sentence frames telling stories as a general pleasure."
+      }
+    ]
+  }
+]

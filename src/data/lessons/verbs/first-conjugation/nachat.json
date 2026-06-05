@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-NACHAT",
+    "label": "Начать",
+    "badge": "BEGIN",
+    "description": "A 10-sentence conjugation card for начать (to begin, to start).",
+    "missions": [
+      {
+        "id": "VB-NACHAT-01",
+        "phrase": "Завтра я начну новую жизнь.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. Начать is perfective, so its non-past is future. 'Начну' is the 1sg, built on the irregular present stem начн-, very different from the infinitive, with the -у ending."
+      },
+      {
+        "id": "VB-NACHAT-02",
+        "phrase": "Ты начнёшь работу прямо сейчас?",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Начнёшь' is the 2sg perfective future of начать on the начн- stem with the stressed -ёшь. 'Работу' is the accusative direct object."
+      },
+      {
+        "id": "VB-NACHAT-03",
+        "phrase": "Он скоро начнёт учить китайский язык.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Начнёт' is the 3sg perfective future of начать on the начн- stem with -ёт. It governs the infinitive 'учить', as начать often takes a following verb."
+      },
+      {
+        "id": "VB-NACHAT-04",
+        "phrase": "Мы начнём собрание через десять минут.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Начнём' is the 1pl perfective future on the начн- stem with the stressed -ём. 'Собрание' is the neuter accusative object."
+      },
+      {
+        "id": "VB-NACHAT-05",
+        "phrase": "Дети начнут учиться в сентябре.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Начнут' is the 3pl perfective future of начать on the начн- stem with -ут, closing the non-past set. It governs the reflexive infinitive 'учиться'."
+      },
+      {
+        "id": "VB-NACHAT-06",
+        "phrase": "Вчера я начал читать новую книгу.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Начал' is the past m. sg. of начать, with stress on the first syllable. The perfective marks the start as a single completed event, governing the infinitive 'читать'."
+      },
+      {
+        "id": "VB-NACHAT-07",
+        "phrase": "Она начала готовить ужин в шесть.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Начала' is the past f. sg. of начать, where the stress shifts onto the final -а, a notable irregular pattern. It governs the infinitive 'готовить'."
+      },
+      {
+        "id": "VB-NACHAT-08",
+        "phrase": "Рабочие начали ремонт ранним утром.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Начали' is the past pl. of начать, with stress back on the first syllable. The perfective marks the beginning of the repair as a completed point in time."
+      },
+      {
+        "id": "VB-NACHAT-09",
+        "phrase": "Начни наконец делать зарядку по утрам.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Начни' is the informal command of начать, formed from the future stem начн- plus -и. The perfective imperative urges one decisive start, governing the infinitive 'делать'."
+      },
+      {
+        "id": "VB-NACHAT-10",
+        "phrase": "Я хочу начать заниматься спортом.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Начать' is the bare perfective infinitive after 'хочу', expressing intent to start. Its imperfective partner начинать is used for ongoing or repeated beginnings."
+      }
+    ]
+  }
+]

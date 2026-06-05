@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SPRASHIVAT",
+    "label": "Спрашивать",
+    "badge": "ASK",
+    "description": "A 10-sentence conjugation card for спрашивать (to ask, inquire).",
+    "missions": [
+      {
+        "id": "VB-SPRASHIVAT-01",
+        "phrase": "Я часто спрашиваю учителя о грамматике.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Спрашиваю' is the я-form with the -ю ending. The verb is imperfective; its perfective partner is спросить."
+      },
+      {
+        "id": "VB-SPRASHIVAT-02",
+        "phrase": "Ты всегда спрашиваешь одно и то же.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Спрашиваешь' shows the -ешь ending of the first conjugation. 'Всегда' fits the imperfective, marking a habitual action."
+      },
+      {
+        "id": "VB-SPRASHIVAT-03",
+        "phrase": "Она спрашивает дорогу у прохожего.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Спрашивает' is the она-form ending in -ет. The person asked stands with 'у' plus the genitive, here 'у прохожего'."
+      },
+      {
+        "id": "VB-SPRASHIVAT-04",
+        "phrase": "Мы спрашиваем разрешения войти.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Спрашиваем' shows the мы-form ending -ем. When asking for something, спрашивать can take the genitive, here 'разрешения'."
+      },
+      {
+        "id": "VB-SPRASHIVAT-05",
+        "phrase": "Они спрашивают совета у родителей.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Спрашивают' is the они-form with the -ют ending. 'Совета' is genitive after спрашивать, and 'у родителей' names the source."
+      },
+      {
+        "id": "VB-SPRASHIVAT-06",
+        "phrase": "Я спрашивал, но никто не ответил.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Спрашивал' is the masculine singular past of imperfective спрашивать. The imperfective stresses the act or repetition of asking."
+      },
+      {
+        "id": "VB-SPRASHIVAT-07",
+        "phrase": "Она часто спрашивала меня о работе.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Спрашивала' adds the feminine -а ending. 'Часто' suits the imperfective, showing a repeated past habit of asking."
+      },
+      {
+        "id": "VB-SPRASHIVAT-08",
+        "phrase": "Гости спрашивали про наши планы.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Спрашивали' is the plural past form ending in -и. It reports an ongoing or repeated round of questions from the guests."
+      },
+      {
+        "id": "VB-SPRASHIVAT-09",
+        "phrase": "Завтра я буду спрашивать у врача.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Буду спрашивать' joins 'буду' with the infinitive спрашивать. The imperfective frames repeated or ongoing questioning."
+      },
+      {
+        "id": "VB-SPRASHIVAT-10",
+        "phrase": "Не спрашивай меня об этом сейчас.",
+        "fullAnalysis": "Strategic focus: Negated singular imperative. 'Спрашивай' is the informal command, here negated with 'не'. The imperfective imperative is natural for telling someone to stop or not do something."
+      }
+    ]
+  }
+]

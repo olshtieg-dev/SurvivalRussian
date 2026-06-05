@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-ZNACHIT",
+    "label": "Значить",
+    "badge": "MEAN",
+    "description": "A 10-sentence conjugation card for значить (to mean).",
+    "missions": [
+      {
+        "id": "VB-ZNACHIT-01",
+        "phrase": "Что значит это слово?",
+        "fullAnalysis": "Strategic focus: Third-person singular present. Значить is normally used in the third person, so 'значит' with its -ит ending is the core form. The subject is the inanimate 'слово'."
+      },
+      {
+        "id": "VB-ZNACHIT-02",
+        "phrase": "Эти знаки ничего не значат.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Значат' takes the -ат ending for a plural subject 'знаки'. The double negation with 'ничего не' is the natural Russian pattern."
+      },
+      {
+        "id": "VB-ZNACHIT-03",
+        "phrase": "Эта встреча много значит для меня.",
+        "fullAnalysis": "Strategic focus: Present with dative benefactive. 'Значит' is third-person singular. 'Для меня' names the person for whom it matters, a very common idiom of importance."
+      },
+      {
+        "id": "VB-ZNACHIT-04",
+        "phrase": "Твои слова значат для нас многое.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Значат' agrees with the plural subject 'слова'. 'Для нас' adds the для + genitive benefactive of value."
+      },
+      {
+        "id": "VB-ZNACHIT-05",
+        "phrase": "Тогда этот символ значил победу.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Значил' is the masculine -л past of значить, agreeing with 'символ'. 'Тогда' shifts the meaning into a past era."
+      },
+      {
+        "id": "VB-ZNACHIT-06",
+        "phrase": "Эта песня значила для неё всё.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Значила' adds the feminine -ла ending, agreeing with 'песня'. 'Для неё всё' expresses total emotional importance."
+      },
+      {
+        "id": "VB-ZNACHIT-07",
+        "phrase": "Это письмо значило очень много.",
+        "fullAnalysis": "Strategic focus: Past, neuter. 'Значило' is the neuter -ло form agreeing with neuter 'письмо'. A natural way to practise the rarer neuter past."
+      },
+      {
+        "id": "VB-ZNACHIT-08",
+        "phrase": "Раньше эти традиции значили больше.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Значили' is the plural -ли past, shared by all genders, agreeing with 'традиции'. 'Раньше' contrasts past and present worth."
+      },
+      {
+        "id": "VB-ZNACHIT-09",
+        "phrase": "Этот знак будет значить опасность.",
+        "fullAnalysis": "Strategic focus: Imperfective future, third-person. 'Будет' is the auxiliary and 'значить' stays infinitive, forming the compound future. Значить has no everyday perfective partner."
+      },
+      {
+        "id": "VB-ZNACHIT-10",
+        "phrase": "Трудно понять, что это может значить.",
+        "fullAnalysis": "Strategic focus: Infinitive use. After the modal 'может', значить stays in the infinitive 'значить'. This shows the dictionary form inside a subordinate clause."
+      }
+    ]
+  }
+]

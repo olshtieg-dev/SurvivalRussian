@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-POITI",
+    "label": "Пойти",
+    "badge": "SET OFF",
+    "description": "A 10-sentence conjugation card for пойти (to set off, to go).",
+    "missions": [
+      {
+        "id": "VB-POITI-01",
+        "phrase": "Завтра я пойду в спортзал.",
+        "fullAnalysis": "Strategic focus: First-person perfective future. 'Пойду' is the 1sg future of perfective пойти, formed with prefix по- on the future stem пойд-. Perfective verbs have no present tense, so this form carries future meaning by itself."
+      },
+      {
+        "id": "VB-POITI-02",
+        "phrase": "Ты пойдёшь со мной на концерт?",
+        "fullAnalysis": "Strategic focus: Second-person future invitation. 'Пойдёшь' is the 2sg future of пойти, end-stressed on the ё. The ё is mandatory and must be typed exactly. Compare the imperfective partner ходить for repeated trips."
+      },
+      {
+        "id": "VB-POITI-03",
+        "phrase": "После обеда он пойдёт на работу.",
+        "fullAnalysis": "Strategic focus: Third-person future. 'Пойдёт' is the 3sg future of пойти. 'На работу' uses на + accusative for direction 'to work'. The prefix по- signals the onset of a single completed departure."
+      },
+      {
+        "id": "VB-POITI-04",
+        "phrase": "В субботу мы пойдём в музей.",
+        "fullAnalysis": "Strategic focus: First-person plural future. 'Пойдём' is the 1pl future of пойти and doubles as the everyday 'let's go'. 'В музей' uses в + accusative 'to the museum'."
+      },
+      {
+        "id": "VB-POITI-05",
+        "phrase": "Вы пойдёте пешком или поедете?",
+        "fullAnalysis": "Strategic focus: Polite/plural future. 'Пойдёте' is the 2pl future of пойти, contrasted here with 'поедете' for going by vehicle. The ё stays stressed across this future stem."
+      },
+      {
+        "id": "VB-POITI-06",
+        "phrase": "Вечером они пойдут в гости.",
+        "fullAnalysis": "Strategic focus: Third-person plural future. 'Пойдут' is the 3pl future, completing the future scaffold of пойти. 'В гости' is the fixed phrase 'to visit'. Note the future stem пойд- across all six persons."
+      },
+      {
+        "id": "VB-POITI-07",
+        "phrase": "Утром он пошёл в магазин.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Пошёл' is prefix по- on the suppletive past root ш-, with no и and no д. It is the masculine past of пойти and reports a single completed departure."
+      },
+      {
+        "id": "VB-POITI-08",
+        "phrase": "Она пошла домой пораньше.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Пошла' uses the irregular ш- past root with the perfective prefix, marking a female subject. Past tense tracks gender, not person, so the form changes with the subject's gender."
+      },
+      {
+        "id": "VB-POITI-09",
+        "phrase": "Дети пошли в парк после школы.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Пошли' is the plural past of пойти on the suppletive ш- root, sharing nothing with the future stem пойд-. 'В парк' uses в + accusative for direction."
+      },
+      {
+        "id": "VB-POITI-10",
+        "phrase": "Пойди и проверь дверь, пожалуйста!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Пойди' is the informal command from пойти, telling someone to go do one thing. The everyday neutral alternative is the simpler imperative иди from идти."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PYTATSYA",
+    "label": "Пытаться",
+    "badge": "TRY",
+    "description": "A 10-sentence conjugation card for пытаться (to try).",
+    "missions": [
+      {
+        "id": "VB-PYTATSYA-01",
+        "phrase": "Я пытаюсь понять эту задачу.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Пытаюсь' is the reflexive я-form, where the ending -аю takes the postfix -сь. Пытаться governs a following infinitive such as 'понять'."
+      },
+      {
+        "id": "VB-PYTATSYA-02",
+        "phrase": "Ты пытаешься меня обмануть.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Пытаешься' shows the -аешь ending plus the reflexive postfix -ся. The verb introduces the infinitive 'обмануть'."
+      },
+      {
+        "id": "VB-PYTATSYA-03",
+        "phrase": "Он пытается открыть старую дверь.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Пытается' is the он-form ending in -ается with the postfix -ся. The infinitive 'открыть' names the attempted action."
+      },
+      {
+        "id": "VB-PYTATSYA-04",
+        "phrase": "Мы пытаемся решить эту проблему.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Пытаемся' is the мы-form ending in -аемся. The complement infinitive 'решить' is perfective, aiming at a single result."
+      },
+      {
+        "id": "VB-PYTATSYA-05",
+        "phrase": "Они пытаются найти новый дом.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Пытаются' closes the present ladder with -аются. The infinitive 'найти' states the goal of the effort."
+      },
+      {
+        "id": "VB-PYTATSYA-06",
+        "phrase": "Вчера я пытался дозвониться маме.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Пытался' is the masculine singular past, where the reflexive postfix appears as -ся after a consonant. The imperfective stresses the repeated effort."
+      },
+      {
+        "id": "VB-PYTATSYA-07",
+        "phrase": "Она долго пыталась его убедить.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Пыталась' adds the feminine -а before the postfix -сь, used after a vowel. 'Долго' underlines the prolonged attempt."
+      },
+      {
+        "id": "VB-PYTATSYA-08",
+        "phrase": "Спасатели пытались помочь людям.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Пытались' is the plural past ending in -лись. The dative 'людям' depends on the infinitive 'помочь'."
+      },
+      {
+        "id": "VB-PYTATSYA-09",
+        "phrase": "Завтра я попытаюсь сдать экзамен.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Попытаюсь' is the reflexive perfective попытаться with future meaning, marking one decisive attempt. The infinitive 'сдать' names the goal."
+      },
+      {
+        "id": "VB-PYTATSYA-10",
+        "phrase": "Не пытайся изменить чужое мнение.",
+        "fullAnalysis": "Strategic focus: Negated singular imperative. 'Пытайся' is the informal reflexive command with the postfix -ся, here negated by 'не'. The infinitive 'изменить' completes the warning."
+      }
+    ]
+  }
+]

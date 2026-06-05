@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OSTANOVITSYA",
+    "label": "Остановиться",
+    "badge": "STOP",
+    "description": "A 10-sentence conjugation card for остановиться (to stop, to come to a halt).",
+    "missions": [
+      {
+        "id": "VB-OSTANOVITSYA-01",
+        "phrase": "Я остановлюсь у входа.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person, reflexive. 'Остановлюсь' is the 1sg of остановиться; the stem в takes an epenthetic л and the reflexive -сь is added. The imperfective partner is останавливаться."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-02",
+        "phrase": "Ты остановишься на минуту?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Остановишься' shows the -ишь ending plus -ся; the л appears only in the 1sg, so it is absent here. 'На минуту' marks a brief halt."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-03",
+        "phrase": "Автобус остановится через минуту.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Остановится' is the -ит form plus -ся of остановиться, naming a single halt. 'Через минуту' fixes the moment."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-04",
+        "phrase": "Мы остановимся в этом отеле.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Остановимся' carries the -им ending plus -ся of остановиться, here meaning to stay somewhere. 'В этом отеле' names where."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-05",
+        "phrase": "Вы остановитесь у нас?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Остановитесь' trains the -ите form plus -сь of остановиться. 'У нас' offers lodging in a natural invitation."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-06",
+        "phrase": "Они остановятся на красный свет.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Остановятся' closes the person ladder with the -ят ending plus -ся of остановиться. 'На красный свет' names the cause."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-07",
+        "phrase": "Вчера он остановился перед домом.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Остановился' is the completed masculine past of остановиться, with -л before the reflexive -ся. 'Перед домом' fixes the spot."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-08",
+        "phrase": "Она остановилась и обернулась.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Остановилась' adds the feminine -ла plus -сь of остановиться. The parallel 'обернулась' continues the completed past."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-09",
+        "phrase": "Часы остановились ночью.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Остановились' is the plural -ли past plus -сь of остановиться. 'Ночью' marks when the clock stopped."
+      },
+      {
+        "id": "VB-OSTANOVITSYA-10",
+        "phrase": "Остановись и подумай немного.",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Остановись' is the command form of остановиться, keeping the reflexive -сь. 'Подумай немного' adds a second perfective command."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PRODOLZHAT",
+    "label": "Продолжать",
+    "badge": "CONTINU",
+    "description": "A 10-sentence conjugation card for продолжать (to continue).",
+    "missions": [
+      {
+        "id": "VB-PRODOLZHAT-01",
+        "phrase": "Я продолжаю учить русский язык.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Продолжаю' is the я-form with the -ю ending. Продолжать is imperfective and often governs another infinitive, here 'учить'."
+      },
+      {
+        "id": "VB-PRODOLZHAT-02",
+        "phrase": "Ты продолжаешь работать допоздна?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Продолжаешь' shows the -ешь ending. The verb takes the imperfective infinitive 'работать' to mean to keep on working."
+      },
+      {
+        "id": "VB-PRODOLZHAT-03",
+        "phrase": "Он продолжает свой долгий путь.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Продолжает' is the он-form ending in -ет. Here it takes a noun object, 'свой долгий путь' in the accusative."
+      },
+      {
+        "id": "VB-PRODOLZHAT-04",
+        "phrase": "Мы продолжаем спокойно нашу беседу.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Продолжаем' shows the мы-ending -ем. 'Нашу беседу' is the accusative object of the ongoing action."
+      },
+      {
+        "id": "VB-PRODOLZHAT-05",
+        "phrase": "Они продолжают строить новый дом.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Продолжают' closes the present ladder with the -ют ending and governs the infinitive 'строить'."
+      },
+      {
+        "id": "VB-PRODOLZHAT-06",
+        "phrase": "Он продолжал читать всю ночь.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Продолжал' is the masculine singular past of imperfective продолжать. It governs the infinitive 'читать' to stress an uninterrupted process."
+      },
+      {
+        "id": "VB-PRODOLZHAT-07",
+        "phrase": "Она продолжала улыбаться весь вечер.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Продолжала' adds the feminine -а ending. The infinitive 'улыбаться' shows the construction продолжать plus infinitive."
+      },
+      {
+        "id": "VB-PRODOLZHAT-08",
+        "phrase": "Дети продолжали играть во дворе.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Продолжали' is the plural past ending in -и. 'Играть' is the dependent infinitive, 'во дворе' prepositional."
+      },
+      {
+        "id": "VB-PRODOLZHAT-09",
+        "phrase": "Завтра мы будем продолжать работу.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Будем продолжать' joins 'будем' with the infinitive; продолжать is imperfective. The perfective partner продолжить exists for a single resumption."
+      },
+      {
+        "id": "VB-PRODOLZHAT-10",
+        "phrase": "Продолжай в том же духе!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Продолжай' is the informal command of продолжать, here in the fixed idiom 'в том же духе', meaning keep it up."
+      }
+    ]
+  }
+]

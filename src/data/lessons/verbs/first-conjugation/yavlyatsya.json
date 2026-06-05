@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-YAVLYATSYA",
+    "label": "Являться",
+    "badge": "BE",
+    "description": "A 10-sentence conjugation card for являться (to be, to constitute, reflexive).",
+    "missions": [
+      {
+        "id": "VB-YAVLYATSYA-01",
+        "phrase": "Я являюсь членом этого клуба.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Являюсь' is the reflexive я-form, -ю plus the particle -сь. Являться is a formal copula and requires the instrumental, here 'членом'."
+      },
+      {
+        "id": "VB-YAVLYATSYA-02",
+        "phrase": "Ты являешься главным организатором.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Являешься' shows the -ешь ending plus reflexive -ся. 'Главным организатором' is instrumental, the predicate case after являться."
+      },
+      {
+        "id": "VB-YAVLYATSYA-03",
+        "phrase": "Он является лучшим специалистом здесь.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Является' is the он-form ending in -ется. 'Лучшим специалистом' is instrumental, as являться always demands."
+      },
+      {
+        "id": "VB-YAVLYATSYA-04",
+        "phrase": "Мы являемся надёжными партнёрами.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Являемся' shows the мы-ending -емся with the reflexive particle. 'Надёжными партнёрами' is instrumental plural."
+      },
+      {
+        "id": "VB-YAVLYATSYA-05",
+        "phrase": "Эти книги являются настоящими сокровищами.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Являются' closes the present ladder with -ются. The instrumental 'настоящими сокровищами' is the formal predicate."
+      },
+      {
+        "id": "VB-YAVLYATSYA-06",
+        "phrase": "Он являлся примером для всех.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Являлся' is the masculine singular past with the reflexive -ся. 'Примером' is instrumental, the case являться governs."
+      },
+      {
+        "id": "VB-YAVLYATSYA-07",
+        "phrase": "Она являлась автором этой статьи.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Являлась' adds the feminine -а before -сь. 'Автором' is instrumental, marking the role she held."
+      },
+      {
+        "id": "VB-YAVLYATSYA-08",
+        "phrase": "Эти факты являлись важными доказательствами.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Являлись' is the plural past ending in -ись. 'Важными доказательствами' is instrumental plural, the predicate of являться."
+      },
+      {
+        "id": "VB-YAVLYATSYA-09",
+        "phrase": "Этот вопрос будет являться главным.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Будет являться' joins 'будет' with the infinitive; являться is imperfective. 'Главным' stays instrumental."
+      },
+      {
+        "id": "VB-YAVLYATSYA-10",
+        "phrase": "Эта тема может являться спорной.",
+        "fullAnalysis": "Strategic focus: Infinitive after a modal. 'Может' governs the bare reflexive infinitive 'являться'. The instrumental 'спорной' is the predicate adjective of this formal copula."
+      }
+    ]
+  }
+]

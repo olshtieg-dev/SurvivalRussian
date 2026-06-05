@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VERNUTSYA",
+    "label": "Вернуться",
+    "badge": "RETURN",
+    "description": "A 10-sentence conjugation card for вернуться (to return, come back).",
+    "missions": [
+      {
+        "id": "VB-VERNUTSYA-01",
+        "phrase": "Я вернусь домой поздно вечером.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. Вернуться is perfective and reflexive, so 'вернусь' is the non-past 1sg form with future meaning, on stem верн- plus -усь. The imperfective partner is возвращаться."
+      },
+      {
+        "id": "VB-VERNUTSYA-02",
+        "phrase": "Когда ты вернёшься из командировки?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Вернёшься' shows the stressed -ёшься ending on stem верн-. As a perfective non-past it asks about one completed act of coming back."
+      },
+      {
+        "id": "VB-VERNUTSYA-03",
+        "phrase": "Он вернётся к нам через час.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Вернётся' is the он-form ending in -ётся. The perfective marks a single return at a fixed time, unlike the ongoing возвращается from возвращаться."
+      },
+      {
+        "id": "VB-VERNUTSYA-04",
+        "phrase": "Мы вернёмся в этот город снова.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Вернёмся' carries the -ёмся ending on верн-. The perfective frames one future act of returning rather than a habitual practice."
+      },
+      {
+        "id": "VB-VERNUTSYA-05",
+        "phrase": "Вы вернётесь на старую работу?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Вернётесь' trains the respectful вы-form with -ётесь on верн-, the particle becoming -сь after the vowel. It asks about one act of going back."
+      },
+      {
+        "id": "VB-VERNUTSYA-06",
+        "phrase": "Они вернутся домой только в субботу.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Вернутся' closes the non-past ladder with the -утся ending on верн-. The perfective marks a single future return fixed to Saturday."
+      },
+      {
+        "id": "VB-VERNUTSYA-07",
+        "phrase": "Он вернулся с фронта живым и здоровым.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Вернулся' is the masculine singular past of perfective вернуться, with the suffix -ну- and the reflexive -ся after -л. It reports one completed homecoming."
+      },
+      {
+        "id": "VB-VERNUTSYA-08",
+        "phrase": "Она вернулась поздно и сразу легла.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Вернулась' adds the feminine -ась ending. The perfective past names a single finished return, here chained to the next perfective action 'легла'."
+      },
+      {
+        "id": "VB-VERNUTSYA-09",
+        "phrase": "Туристы вернулись в отель к обеду.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Вернулись' is the plural past ending in -ись, completing the past forms. The perfective marks one completed return of the group by lunchtime."
+      },
+      {
+        "id": "VB-VERNUTSYA-10",
+        "phrase": "Вернись скорее, мы все тебя ждём.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Вернись' is the informal command form on stem верн- with the reflexive -ся, urging one person to come back. The clause 'мы тебя ждём' gives an emotional reason."
+      }
+    ]
+  }
+]

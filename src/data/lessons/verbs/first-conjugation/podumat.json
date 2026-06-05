@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PODUMAT",
+    "label": "Подумать",
+    "badge": "THINK",
+    "description": "A 10-sentence conjugation card for подумать (to think, to give thought).",
+    "missions": [
+      {
+        "id": "VB-PODUMAT-01",
+        "phrase": "Я подумаю об этом завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Подумаю' is the perfective future of подумать; the simple form already means future because the verb is perfective. The imperfective partner is думать."
+      },
+      {
+        "id": "VB-PODUMAT-02",
+        "phrase": "Ты сначала подумаешь, потом скажешь.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Подумаешь' shows the -ешь ending. 'Сначала... потом' frames a single completed act of thinking before speaking."
+      },
+      {
+        "id": "VB-PODUMAT-03",
+        "phrase": "Он подумает над твоим предложением.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Подумает' is the он-form ending in -ет. 'Над твоим предложением' uses the instrumental after над to mark the object of thought."
+      },
+      {
+        "id": "VB-PODUMAT-04",
+        "phrase": "Мы подумаем и дадим ответ.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Подумаем' shows the мы-ending -ем. Two perfective verbs in a row picture two finished steps, thinking then answering."
+      },
+      {
+        "id": "VB-PODUMAT-05",
+        "phrase": "Они подумают о будущем семьи.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Подумают' closes the future paradigm with the -ют ending. 'О будущем' is prepositional, the case подумать takes with о."
+      },
+      {
+        "id": "VB-PODUMAT-06",
+        "phrase": "Он подумал и согласился со мной.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Подумал' is the masculine singular past of perfective подумать. The aspect marks a brief, completed moment of reflection."
+      },
+      {
+        "id": "VB-PODUMAT-07",
+        "phrase": "Она подумала о своих родителях.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Подумала' adds the feminine -а ending. 'О своих родителях' is prepositional after о, the typical object of подумать."
+      },
+      {
+        "id": "VB-PODUMAT-08",
+        "phrase": "Они подумали и приняли решение.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Подумали' is the plural past ending in -и. Two perfective verbs depict the finished sequence of deciding."
+      },
+      {
+        "id": "VB-PODUMAT-09",
+        "phrase": "Подумай хорошо перед важным выбором.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Подумай' is the informal command of perfective подумать. The perfective stresses one careful act of reflection before a choice."
+      },
+      {
+        "id": "VB-PODUMAT-10",
+        "phrase": "Нам надо подумать о новом плане.",
+        "fullAnalysis": "Strategic focus: Modal infinitive use. 'Надо' takes the bare infinitive 'подумать'. The dative 'нам' marks who must reflect; 'о новом плане' is prepositional."
+      }
+    ]
+  }
+]

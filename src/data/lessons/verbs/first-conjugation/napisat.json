@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-NAPISAT",
+    "label": "Написать",
+    "badge": "WRITE",
+    "description": "A 10-sentence conjugation card for написать (to write, perfective).",
+    "missions": [
+      {
+        "id": "VB-NAPISAT-01",
+        "phrase": "Я напишу тебе длинное письмо.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Напишу' uses the mutated stem пиш-; перфектив написать has future meaning in its simple form. The imperfective partner is писать."
+      },
+      {
+        "id": "VB-NAPISAT-02",
+        "phrase": "Ты напишешь сочинение до завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Напишешь' keeps the stem-final ш and the -ешь ending. The perfective stresses a finished essay by the deadline."
+      },
+      {
+        "id": "VB-NAPISAT-03",
+        "phrase": "Он напишет ответ сегодня вечером.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Напишет' is the он-form ending in -ет. 'Ответ' is the accusative object of the completed action."
+      },
+      {
+        "id": "VB-NAPISAT-04",
+        "phrase": "Мы напишем отчёт за один день.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Напишем' shows the мы-ending -ем on the пиш- stem. 'За один день' marks the time within which the report is finished."
+      },
+      {
+        "id": "VB-NAPISAT-05",
+        "phrase": "Они напишут вам подробный план.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Напишут' closes the future paradigm with the -ут ending. 'Вам' is the dative recipient, 'план' the accusative object."
+      },
+      {
+        "id": "VB-NAPISAT-06",
+        "phrase": "Он написал книгу за два года.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Написал' is the masculine singular past of perfective написать. The aspect marks a completed result, the finished book."
+      },
+      {
+        "id": "VB-NAPISAT-07",
+        "phrase": "Она написала маме короткое сообщение.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Написала' adds the feminine -а ending. 'Маме' is dative, 'короткое сообщение' the accusative object."
+      },
+      {
+        "id": "VB-NAPISAT-08",
+        "phrase": "Студенты написали трудный экзамен успешно.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Написали' is the plural past ending in -и. With экзамен the verb means to complete a written test."
+      },
+      {
+        "id": "VB-NAPISAT-09",
+        "phrase": "Напиши мне, когда приедешь домой.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Напиши' is the informal command of perfective написать. The perfective requests one specific, completed message."
+      },
+      {
+        "id": "VB-NAPISAT-10",
+        "phrase": "Мне нужно написать важное письмо.",
+        "fullAnalysis": "Strategic focus: Modal infinitive use. 'Нужно' takes the bare infinitive 'написать'. The dative 'мне' marks the writer; the perfective points to one letter to be finished."
+      }
+    ]
+  }
+]

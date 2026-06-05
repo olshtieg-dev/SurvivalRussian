@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-KHOTETSYA",
+    "label": "Хотеться",
+    "badge": "FEEL",
+    "description": "A 10-sentence conjugation card for хотеться (to feel like, to want). Impersonal verb with a dative experiencer: мне хочется, мне хотелось.",
+    "missions": [
+      {
+        "id": "VB-KHOTETSYA-01",
+        "phrase": "Мне очень хочется спать.",
+        "fullAnalysis": "Strategic focus: Impersonal present. 'Хочется' is the fixed 3sg form of impersonal хотеться. There is no grammatical subject. The experiencer 'мне' stands in the dative, and the infinitive 'спать' names the desired action."
+      },
+      {
+        "id": "VB-KHOTETSYA-02",
+        "phrase": "Тебе хочется чаю или кофе?",
+        "fullAnalysis": "Strategic focus: Dative experiencer with a noun. 'Хочется' stays in the frozen 3sg form. 'Тебе' is the dative of ты. With a noun, the wanted item often appears in the partitive genitive, hence 'чаю'."
+      },
+      {
+        "id": "VB-KHOTETSYA-03",
+        "phrase": "Ему хочется поехать на море.",
+        "fullAnalysis": "Strategic focus: Third-person experiencer. The verb does not agree with 'ему' - хотеться is impersonal and locks into 'хочется'. The dative 'ему' marks who feels the urge, and 'поехать' is the desired infinitive."
+      },
+      {
+        "id": "VB-KHOTETSYA-04",
+        "phrase": "Нам хочется немного отдохнуть.",
+        "fullAnalysis": "Strategic focus: Plural experiencer. Even with a plural feeler, 'хочется' never changes form. 'Нам' is the dative of мы, and 'отдохнуть' is the perfective infinitive 'to rest a little'."
+      },
+      {
+        "id": "VB-KHOTETSYA-05",
+        "phrase": "Мне хотелось пить весь день.",
+        "fullAnalysis": "Strategic focus: Impersonal past. 'Хотелось' is the neuter past of хотеться, the only past form this impersonal verb uses. The dative 'мне' marks the experiencer; the urge is to 'пить', to drink."
+      },
+      {
+        "id": "VB-KHOTETSYA-06",
+        "phrase": "Ей хотелось плакать от радости.",
+        "fullAnalysis": "Strategic focus: Past with female experiencer. The verb stays neuter 'хотелось' regardless of the feeler's gender - it agrees with nothing. 'Ей' is the dative of она, and 'от радости' explains the cause."
+      },
+      {
+        "id": "VB-KHOTETSYA-07",
+        "phrase": "Им хотелось остаться ещё немного.",
+        "fullAnalysis": "Strategic focus: Plural past experiencer. 'Хотелось' holds its frozen neuter past form. 'Им' is the dative plural, and the perfective infinitive 'остаться' names what they felt like doing."
+      },
+      {
+        "id": "VB-KHOTETSYA-08",
+        "phrase": "Что тебе хочется на обед?",
+        "fullAnalysis": "Strategic focus: Impersonal question. The question word 'что' is the thing wanted, while 'хочется' keeps its 3sg shape. 'Тебе' is the dative experiencer, and 'на обед' frames the meal."
+      },
+      {
+        "id": "VB-KHOTETSYA-09",
+        "phrase": "Мне не хочется никуда идти.",
+        "fullAnalysis": "Strategic focus: Negated impersonal. 'Не хочется' negates the impersonal verb, a very common way to say 'I don't feel like'. 'Никуда' is the negative directional, reinforced by 'идти'."
+      },
+      {
+        "id": "VB-KHOTETSYA-10",
+        "phrase": "Иногда так хочется тишины.",
+        "fullAnalysis": "Strategic focus: Impersonal with a genitive object. 'Хочется' pairs with the genitive 'тишины' to mean 'one longs for silence'. With no dative present, the feeling is left general, intensified by 'так'."
+      }
+    ]
+  }
+]

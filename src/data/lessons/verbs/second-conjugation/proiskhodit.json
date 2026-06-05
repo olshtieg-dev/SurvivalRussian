@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PROISKHODIT",
+    "label": "Происходить",
+    "badge": "HAPPEN",
+    "description": "A 10-sentence conjugation card for происходить (to happen, to occur).",
+    "missions": [
+      {
+        "id": "VB-PROISKHODIT-01",
+        "phrase": "Что здесь происходит?",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Происходит' is the core -ит form of происходить, the most common usage since the verb mainly takes inanimate subjects. 'Что здесь' makes a very frequent question."
+      },
+      {
+        "id": "VB-PROISKHODIT-02",
+        "phrase": "Странные вещи происходят в доме.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Происходят' shows the -ят ending of происходить with a plural subject. 'Странные вещи в доме' sets an eerie scene."
+      },
+      {
+        "id": "VB-PROISKHODIT-03",
+        "phrase": "Это происходит каждый день.",
+        "fullAnalysis": "Strategic focus: Present, habitual. 'Происходит' is the -ит form of происходить, here marking a recurring event. 'Каждый день' stresses the regularity."
+      },
+      {
+        "id": "VB-PROISKHODIT-04",
+        "phrase": "Что происходит с тобой?",
+        "fullAnalysis": "Strategic focus: Present, instrumental government. 'Происходит' is the 3sg of происходить. 'С тобой' shows the с + instrumental pattern for what is happening to someone."
+      },
+      {
+        "id": "VB-PROISKHODIT-05",
+        "phrase": "Перемены происходят медленно.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Происходят' is the -ят form of происходить with the subject 'перемены'. 'Медленно' describes the pace of change."
+      },
+      {
+        "id": "VB-PROISKHODIT-06",
+        "phrase": "Вчера здесь происходило что-то странное.",
+        "fullAnalysis": "Strategic focus: Past, neuter. 'Происходило' is the neuter -ло form of происходить, agreeing with the neuter 'что-то'. The imperfective stresses an ongoing past event."
+      },
+      {
+        "id": "VB-PROISKHODIT-07",
+        "phrase": "Авария происходила прямо на наших глазах.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Происходила' adds the feminine -ла ending of происходить. 'На наших глазах' is an idiom meaning right before our eyes."
+      },
+      {
+        "id": "VB-PROISKHODIT-08",
+        "phrase": "Такие события происходили часто.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Происходили' is the plural -ли past of происходить. 'Часто' marks the repeated nature, fitting the imperfective; the perfective partner is произойти."
+      },
+      {
+        "id": "VB-PROISKHODIT-09",
+        "phrase": "Никто не знает, что будет происходить дальше.",
+        "fullAnalysis": "Strategic focus: Imperfective future, infinitive use. 'Будет' is the auxiliary and 'происходить' stays in the infinitive, forming the compound future. 'Что дальше' frames the uncertainty."
+      },
+      {
+        "id": "VB-PROISKHODIT-10",
+        "phrase": "Никто не понимал, что происходит.",
+        "fullAnalysis": "Strategic focus: Present in reported speech. 'Происходит' stays in the present -ит form inside the subordinate clause, even after a past main verb. This shows Russian keeps relative tense."
+      }
+    ]
+  }
+]

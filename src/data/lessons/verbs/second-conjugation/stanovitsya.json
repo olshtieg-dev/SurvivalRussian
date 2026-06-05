@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-STANOVITSYA",
+    "label": "Становиться",
+    "badge": "BECOME",
+    "description": "A 10-sentence conjugation card for становиться (to become, get).",
+    "missions": [
+      {
+        "id": "VB-STANOVITSYA-01",
+        "phrase": "Я постепенно становлюсь сильнее.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Становлюсь' is the reflexive -люсь form of становиться, with the в → вл mutation plus the -сь particle. 'Сильнее' is an instrumental-like comparative complement."
+      },
+      {
+        "id": "VB-STANOVITSYA-02",
+        "phrase": "Ты становишься настоящим мастером.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Становишься' keeps the reflexive -ишься ending without the labial mutation, which surfaces only in the first person. 'Настоящим мастером' is the instrumental predicate."
+      },
+      {
+        "id": "VB-STANOVITSYA-03",
+        "phrase": "На улице становится холодно.",
+        "fullAnalysis": "Strategic focus: Third-person singular present, impersonal. 'Становится' is the reflexive -ится form here used impersonally. 'Холодно' is a predicate adverb describing a changing condition."
+      },
+      {
+        "id": "VB-STANOVITSYA-04",
+        "phrase": "Мы становимся ближе с каждым днём.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Становимся' takes the reflexive -имся ending. 'С каждым днём' uses с with the instrumental to mark gradual change."
+      },
+      {
+        "id": "VB-STANOVITSYA-05",
+        "phrase": "Вы становитесь лучше с практикой.",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Становитесь' is the respectful reflexive -итесь form. 'Лучше' is a comparative predicate naming the direction of change."
+      },
+      {
+        "id": "VB-STANOVITSYA-06",
+        "phrase": "Дни становятся короче осенью.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Становятся' closes the ladder with the reflexive -ятся ending. 'Короче осенью' describes the seasonal change."
+      },
+      {
+        "id": "VB-STANOVITSYA-07",
+        "phrase": "Он становился спокойнее с годами.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Становился' is the masculine reflexive past -лся, describing a gradual change. 'Спокойнее' is the comparative outcome over time."
+      },
+      {
+        "id": "VB-STANOVITSYA-08",
+        "phrase": "Погода становилась всё хуже.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Становилась' adds the feminine reflexive ending -лась. 'Всё хуже' stresses a worsening that kept developing."
+      },
+      {
+        "id": "VB-STANOVITSYA-09",
+        "phrase": "Со временем всё будет становиться проще.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Будет' is the auxiliary and 'становиться' stays infinitive in the compound future. The imperfective suits an ongoing, gradual change. The perfective partner is стать."
+      },
+      {
+        "id": "VB-STANOVITSYA-10",
+        "phrase": "Не становись таким серьёзным!",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Становись' is the informal reflexive command of становиться. With 'не' it warns against a developing trait, 'таким серьёзным' in the instrumental."
+      }
+    ]
+  }
+]

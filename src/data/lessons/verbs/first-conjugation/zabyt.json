@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-ZABYT",
+    "label": "Забыть",
+    "badge": "FORGET",
+    "description": "A 10-sentence conjugation card for забыть (to forget).",
+    "missions": [
+      {
+        "id": "VB-ZABYT-01",
+        "phrase": "Я никогда не забуду этот день.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Забуду' is the я-form of perfective забыть, built on the stem забуд-, and carries future meaning. The imperfective partner is забывать."
+      },
+      {
+        "id": "VB-ZABYT-02",
+        "phrase": "Ты скоро забудешь эту боль.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Забудешь' takes the -ешь ending on stem забуд-. As a perfective, it marks a single future moment of forgetting."
+      },
+      {
+        "id": "VB-ZABYT-03",
+        "phrase": "Он точно забудет про встречу.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Забудет' is the он-form ending in -ет. 'Про встречу' names what he will forget about."
+      },
+      {
+        "id": "VB-ZABYT-04",
+        "phrase": "Мы не забудем твою доброту.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Забудем' shows the мы-form ending -ем on stem забуд-. The negation stresses lasting gratitude."
+      },
+      {
+        "id": "VB-ZABYT-05",
+        "phrase": "Они быстро забудут наши имена.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Забудут' is the они-form with the -ут ending. Being perfective, it points to a completed act of forgetting."
+      },
+      {
+        "id": "VB-ZABYT-06",
+        "phrase": "Я опять забыл свои ключи дома.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Забыл' is the masculine singular past of perfective забыть. 'Опять' adds the everyday flavour of forgetting the keys again."
+      },
+      {
+        "id": "VB-ZABYT-07",
+        "phrase": "Она забыла зонт в автобусе.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Забыла' adds the feminine -а ending. It reports a single completed act of leaving the umbrella behind."
+      },
+      {
+        "id": "VB-ZABYT-08",
+        "phrase": "Дети забыли свои тетради в классе.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Забыли' is the plural past form ending in -и. It states that the whole group forgot their notebooks."
+      },
+      {
+        "id": "VB-ZABYT-09",
+        "phrase": "Не забудь купить хлеб вечером.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Забудь' is the informal command of perfective забыть, here negated to mean don't forget. The negated perfective imperative warns about a specific task."
+      },
+      {
+        "id": "VB-ZABYT-10",
+        "phrase": "Я хочу забыть всё плохое.",
+        "fullAnalysis": "Strategic focus: Modal infinitive use. 'Хочу' governs the bare infinitive 'забыть', the perfective form. The sentence expresses a wish to put all the bad things behind."
+      }
+    ]
+  }
+]

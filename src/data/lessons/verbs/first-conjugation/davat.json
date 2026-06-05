@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-DAVAT",
+    "label": "Давать",
+    "badge": "GIVE",
+    "description": "A 10-sentence conjugation card for давать (to give).",
+    "missions": [
+      {
+        "id": "VB-DAVAT-01",
+        "phrase": "Я даю тебе хороший совет.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Даю' comes from the special stem да-, dropping -ва- in the present, plus the ending -ю. 'Давать совет' means to give advice; 'тебе' is the dative recipient."
+      },
+      {
+        "id": "VB-DAVAT-02",
+        "phrase": "Ты всегда даёшь мне силы.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Даёшь' uses the stressed -ёшь ending on the present stem да-. 'Мне' is the dative recipient and 'силы' the accusative object."
+      },
+      {
+        "id": "VB-DAVAT-03",
+        "phrase": "Учитель даёт нам трудное задание.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Даёт' is the он-form with stressed -ёт. The verb takes a dative recipient 'нам' and an accusative object 'задание'."
+      },
+      {
+        "id": "VB-DAVAT-04",
+        "phrase": "Мы даём детям много свободы.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Даём' is the мы-form ending in -ём. 'Детям' is the dative recipient and 'свободы' the genitive after 'много'."
+      },
+      {
+        "id": "VB-DAVAT-05",
+        "phrase": "Они дают деньги на проект.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Дают' closes the present set with the -ют ending on the stem да-. 'Деньги' is the accusative object of the donation."
+      },
+      {
+        "id": "VB-DAVAT-06",
+        "phrase": "Вчера я давал интервью газете.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Давал' is the masculine singular past of imperfective давать, keeping the full -ва- stem. The perfective partner дать would stress a single completed act."
+      },
+      {
+        "id": "VB-DAVAT-07",
+        "phrase": "Бабушка часто давала нам конфеты.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Давала' adds the feminine -а ending. 'Часто' underlines the repeated nature, exactly what the imperfective expresses."
+      },
+      {
+        "id": "VB-DAVAT-08",
+        "phrase": "Родители давали детям полную свободу.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Давали' is the plural past ending in -и. 'Детям' stays dative and 'свободу' is the accusative object."
+      },
+      {
+        "id": "VB-DAVAT-09",
+        "phrase": "Завтра я дам тебе ответ.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Дам' is the irregular perfective дать with future meaning, signalling a single completed act. 'Завтра' marks the time and 'тебе' the recipient."
+      },
+      {
+        "id": "VB-DAVAT-10",
+        "phrase": "Давай мне руку и не бойся!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Давай' is the informal command of давать, built on the present stem да-. Beyond literally giving, 'давай' also serves as the everyday Russian let's-go particle."
+      }
+    ]
+  }
+]

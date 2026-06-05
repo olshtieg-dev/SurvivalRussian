@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OKAZATSYA",
+    "label": "Оказаться",
+    "badge": "TURNOUT",
+    "description": "A 10-sentence conjugation card for оказаться (to turn out to be, to find oneself).",
+    "missions": [
+      {
+        "id": "VB-OKAZATSYA-01",
+        "phrase": "Я скоро окажусь в незнакомом городе.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. Оказаться is perfective and reflexive, so its non-past is future. 'Окажусь' is the 1sg, with the stem mutation з→ж before -усь and the reflexive ending -сь."
+      },
+      {
+        "id": "VB-OKAZATSYA-02",
+        "phrase": "Ты окажешься совершенно прав в споре.",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Окажешься' is the 2sg perfective future of оказаться, keeping the ж stem and adding the reflexive -ешься. It means 'you will turn out to be right'."
+      },
+      {
+        "id": "VB-OKAZATSYA-03",
+        "phrase": "Этот совет окажется очень полезным.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Окажется' is the 3sg perfective future of оказаться with the reflexive -ется. It predicts that the advice will prove useful, taking an instrumental complement."
+      },
+      {
+        "id": "VB-OKAZATSYA-04",
+        "phrase": "Мы окажемся дома уже к вечеру.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Окажемся' is the 1pl perfective future of оказаться, with the ж stem and reflexive -емся. It means 'we will find ourselves home', here by evening."
+      },
+      {
+        "id": "VB-OKAZATSYA-05",
+        "phrase": "Соседи окажутся очень добрыми людьми.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Окажутся' is the 3pl perfective future, where the з→ж mutation returns before -утся, paralleling the 1sg. It takes the instrumental 'добрыми людьми'."
+      },
+      {
+        "id": "VB-OKAZATSYA-06",
+        "phrase": "Вчера я случайно оказался рядом с ней.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Оказался' is the past m. sg. of оказаться, built on the сь-less stem оказа- plus -лся. It reports finding oneself somewhere, here unexpectedly beside her."
+      },
+      {
+        "id": "VB-OKAZATSYA-07",
+        "phrase": "Дорога оказалась длиннее, чем мы думали.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Оказалась' is the past f. sg. of оказаться with -лась. The perfective past states a discovered fact: the road turned out to be longer than expected."
+      },
+      {
+        "id": "VB-OKAZATSYA-08",
+        "phrase": "Эти новости оказались полной неправдой.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Оказались' is the past pl. of оказаться with -лись. With an instrumental complement it means the news turned out to be a complete falsehood."
+      },
+      {
+        "id": "VB-OKAZATSYA-09",
+        "phrase": "Окажись на моём месте хоть на минуту.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Окажись' is the informal command of оказаться, formed from the future stem with -ись. The reflexive imperative here invites someone to imagine being in my position."
+      },
+      {
+        "id": "VB-OKAZATSYA-10",
+        "phrase": "Никто не хочет оказаться без денег.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Оказаться' is the bare reflexive infinitive after 'хочет', keeping the -ся ending. Its imperfective partner is оказываться, used for repeated or ongoing situations."
+      }
+    ]
+  }
+]

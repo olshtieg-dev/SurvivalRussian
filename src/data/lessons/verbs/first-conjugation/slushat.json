@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SLUSHAT",
+    "label": "Слушать",
+    "badge": "LISTEN",
+    "description": "A 10-sentence conjugation card for слушать (to listen).",
+    "missions": [
+      {
+        "id": "VB-SLUSHAT-01",
+        "phrase": "Я слушаю любимую музыку утром.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Слушаю' is the я-form of слушать with the regular -аю ending of -ать verbs. 'Музыку' is the accusative object of listening."
+      },
+      {
+        "id": "VB-SLUSHAT-02",
+        "phrase": "Ты внимательно слушаешь учителя.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Слушаешь' shows the -аешь ending on the stem слуша-. 'Учителя' is the accusative object and 'внимательно' an adverb of manner."
+      },
+      {
+        "id": "VB-SLUSHAT-03",
+        "phrase": "Она слушает радио на кухне.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Слушает' is the она-form ending in -ает. 'Радио' is the indeclinable neuter object and 'на кухне' the prepositional of place."
+      },
+      {
+        "id": "VB-SLUSHAT-04",
+        "phrase": "Мы слушаем новости каждое утро.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Слушаем' is the мы-form ending in -аем. 'Новости' is the plural accusative object and 'каждое утро' frames the routine."
+      },
+      {
+        "id": "VB-SLUSHAT-05",
+        "phrase": "Дети слушают интересную сказку.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Слушают' closes the present set with the -ают ending. 'Интересную сказку' is the accusative object."
+      },
+      {
+        "id": "VB-SLUSHAT-06",
+        "phrase": "Вчера я слушал концерт по радио.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Слушал' is the masculine singular past of imperfective слушать, stressing the ongoing process of listening. The perfective послушать would mark a finished spell."
+      },
+      {
+        "id": "VB-SLUSHAT-07",
+        "phrase": "Она долго слушала его историю.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Слушала' adds the feminine -а ending. 'Долго' emphasises the extended duration that the imperfective conveys."
+      },
+      {
+        "id": "VB-SLUSHAT-08",
+        "phrase": "Гости с удовольствием слушали песни.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Слушали' is the plural past ending in -и. 'Песни' is the plural accusative object and the phrase 'с удовольствием' adds manner."
+      },
+      {
+        "id": "VB-SLUSHAT-09",
+        "phrase": "Сегодня вечером мы будем слушать лекцию.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Будем слушать' joins 'будем' with the infinitive, since слушать is imperfective and forms its future analytically. 'Лекцию' is the accusative object."
+      },
+      {
+        "id": "VB-SLUSHAT-10",
+        "phrase": "Слушай меня внимательно, пожалуйста!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Слушай' is the informal command formed from the present stem слуша-. 'Меня' is the accusative object; 'пожалуйста' softens the direct request."
+      }
+    ]
+  }
+]

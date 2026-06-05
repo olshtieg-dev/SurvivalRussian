@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-USPET",
+    "label": "Успеть",
+    "badge": "MAKEIT",
+    "description": "A 10-sentence conjugation card for успеть (to have time, to make it in time).",
+    "missions": [
+      {
+        "id": "VB-USPET-01",
+        "phrase": "Я успею закончить работу до обеда.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. Успеть is perfective, so its non-past is future. 'Успею' is the 1sg perfective future, meaning 'I will manage in time', and governs the infinitive 'закончить'."
+      },
+      {
+        "id": "VB-USPET-02",
+        "phrase": "Ты успеешь на последний автобус?",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Успеешь' is the 2sg perfective future of успеть with -ешь on the успе- stem. With 'на' plus accusative it means 'to make it in time for' the bus."
+      },
+      {
+        "id": "VB-USPET-03",
+        "phrase": "Он не успеет всё сделать сегодня.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Успеет' is the 3sg perfective future of успеть with -ет. Negated, it admits he will not manage to finish everything, governing the infinitive 'сделать'."
+      },
+      {
+        "id": "VB-USPET-04",
+        "phrase": "Мы успеем выпить кофе перед поездом.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Успеем' is the 1pl perfective future of успеть with -ем. It expresses just managing to fit something in, here a coffee before the train."
+      },
+      {
+        "id": "VB-USPET-05",
+        "phrase": "Гости успеют приехать к ужину.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Успеют' is the 3pl perfective future of успеть with -ют, closing the non-past set. It governs the infinitive 'приехать' and means they will arrive in time."
+      },
+      {
+        "id": "VB-USPET-06",
+        "phrase": "Я едва успел на важную встречу.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Успел' is the past m. sg. of perfective успеть, reporting a completed action. 'Едва' stresses that I barely made it to the meeting."
+      },
+      {
+        "id": "VB-USPET-07",
+        "phrase": "Она не успела предупредить нас вовремя.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Успела' is the past f. sg. of успеть with -ла. Negated, it states she did not manage to warn us in time, governing the infinitive 'предупредить'."
+      },
+      {
+        "id": "VB-USPET-08",
+        "phrase": "Студенты успели сдать работу в срок.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Успели' is the past pl. of успеть with -ли. The perfective marks a result achieved, handing in the work within the deadline."
+      },
+      {
+        "id": "VB-USPET-09",
+        "phrase": "Успей собрать вещи до выхода.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Успей' is the informal command of успеть, formed from the future stem успе- plus -й. The perfective imperative urges getting something done before a deadline."
+      },
+      {
+        "id": "VB-USPET-10",
+        "phrase": "Я хочу успеть на утренний рейс.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Успеть' is the bare perfective infinitive after 'хочу', expressing the wish to make it in time. Its imperfective partner is успевать, used for the habitual sense."
+      }
+    ]
+  }
+]

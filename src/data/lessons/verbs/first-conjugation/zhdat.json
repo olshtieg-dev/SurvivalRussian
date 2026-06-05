@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-ZHDAT",
+    "label": "Ждать",
+    "badge": "WAIT",
+    "description": "A 10-sentence conjugation card for ждать (to wait, await).",
+    "missions": [
+      {
+        "id": "VB-ZHDAT-01",
+        "phrase": "Я жду тебя возле метро.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Жду' is the я-form, built on the stem жд- with the vowel dropping from the infinitive. 'Тебя' is the accusative object."
+      },
+      {
+        "id": "VB-ZHDAT-02",
+        "phrase": "Ты ждёшь автобус уже час.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Ждёшь' shows the stem жд- plus the stressed -ёшь ending. 'Уже час' marks how long the waiting has lasted."
+      },
+      {
+        "id": "VB-ZHDAT-03",
+        "phrase": "Она ждёт важного письма.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Ждёт' is the она-form ending in -ёт. With abstract or expected things, ждать often takes the genitive, here 'важного письма'."
+      },
+      {
+        "id": "VB-ZHDAT-04",
+        "phrase": "Мы ждём начала концерта.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Ждём' shows the мы-form ending -ём on stem жд-. 'Начала концерта' is genitive, expected after ждать for an awaited event."
+      },
+      {
+        "id": "VB-ZHDAT-05",
+        "phrase": "Они ждут хороших новостей.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Ждут' is the они-form with the -ут ending. 'Хороших новостей' stands in the genitive as an awaited abstract."
+      },
+      {
+        "id": "VB-ZHDAT-06",
+        "phrase": "Я долго ждал твоего ответа.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Ждал' is the masculine singular past of imperfective ждать. 'Долго' stresses the drawn-out process; the perfective partner is подождать."
+      },
+      {
+        "id": "VB-ZHDAT-07",
+        "phrase": "Она терпеливо ждала своего поезда.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Ждала' adds the feminine -а ending. 'Своего поезда' is genitive, and 'терпеливо' colours the ongoing wait."
+      },
+      {
+        "id": "VB-ZHDAT-08",
+        "phrase": "Мы ждали гостей весь вечер.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Ждали' is the plural past form ending in -и. 'Гостей' is accusative-genitive for animate plurals, and 'весь вечер' marks duration."
+      },
+      {
+        "id": "VB-ZHDAT-09",
+        "phrase": "Завтра я буду ждать тебя дома.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Буду ждать' joins 'буду' with the infinitive ждать. The verb is imperfective, so the future is always built this way."
+      },
+      {
+        "id": "VB-ZHDAT-10",
+        "phrase": "Жди меня здесь, я скоро вернусь.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Жди' is the informal command form of ждать. It tells one person to stay and await your return."
+      }
+    ]
+  }
+]

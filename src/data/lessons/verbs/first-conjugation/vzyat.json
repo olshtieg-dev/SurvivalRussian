@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VZYAT",
+    "label": "Взять",
+    "badge": "TAKE",
+    "description": "A 10-sentence conjugation card for взять (to take).",
+    "missions": [
+      {
+        "id": "VB-VZYAT-01",
+        "phrase": "Я возьму с собой тёплую куртку.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. Взять is perfective with no present tense, so 'возьму' is the non-past 1sg form meaning future. Note the irregular stem возьм- replacing the infinitive стем. The imperfective partner is брать."
+      },
+      {
+        "id": "VB-VZYAT-02",
+        "phrase": "Ты возьмёшь зонт на всякий случай?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Возьмёшь' shows the stressed -ёшь ending on the irregular stem возьм-. As a perfective non-past it points to a single act of taking, not a habit."
+      },
+      {
+        "id": "VB-VZYAT-03",
+        "phrase": "Он возьмёт деньги в банке утром.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Возьмёт' is the он-form ending in -ёт on stem возьм-. The perfective marks one completed withdrawal, contrasting with the ongoing берёт from брать."
+      },
+      {
+        "id": "VB-VZYAT-04",
+        "phrase": "Мы возьмём такси до самого вокзала.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Возьмём' carries the -ём ending on the irregular stem. The perfective frames a single decision to take a taxi rather than a repeated practice."
+      },
+      {
+        "id": "VB-VZYAT-05",
+        "phrase": "Вы возьмёте отпуск этим летом?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Возьмёте' trains the respectful вы-form with -ёте on возьм-. The perfective non-past asks about one planned act of taking leave."
+      },
+      {
+        "id": "VB-VZYAT-06",
+        "phrase": "Они возьмут билеты прямо у входа.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Возьмут' closes the non-past ladder with the -ут ending on возьм-. The perfective marks a single future act of getting the tickets."
+      },
+      {
+        "id": "VB-VZYAT-07",
+        "phrase": "Он взял мою книгу без спроса.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Взял' is the masculine singular past of perfective взять, built on the short past stem вз- with -л. It reports one completed taking fixed in the past."
+      },
+      {
+        "id": "VB-VZYAT-08",
+        "phrase": "Она взяла ребёнка за руку.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Взяла' adds the feminine -а ending with stress shifting onto it. The perfective past names a single finished act of taking the child by the hand."
+      },
+      {
+        "id": "VB-VZYAT-09",
+        "phrase": "Туристы взяли карту и пошли дальше.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Взяли' is the plural past ending in -и, completing the past forms. The perfective links one completed taking to the next action 'пошли дальше'."
+      },
+      {
+        "id": "VB-VZYAT-10",
+        "phrase": "Возьми мой телефон и позвони ему.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Возьми' is the informal command form built on the стем возьм-, ordering one act of taking. It chains naturally into the second perfective imperative 'позвони'."
+      }
+    ]
+  }
+]

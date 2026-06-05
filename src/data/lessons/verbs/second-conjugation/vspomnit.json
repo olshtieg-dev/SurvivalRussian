@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VSPOMNIT",
+    "label": "Вспомнить",
+    "badge": "RECALL",
+    "description": "A 10-sentence conjugation card for вспомнить (to recall, recollect).",
+    "missions": [
+      {
+        "id": "VB-VSPOMNIT-01",
+        "phrase": "Я вспомню его имя позже.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. 'Вспомню' is the simple future of perfective вспомнить, needing no auxiliary. It marks one completed act of recollection."
+      },
+      {
+        "id": "VB-VSPOMNIT-02",
+        "phrase": "Ты вспомнишь этот адрес?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Вспомнишь' shows the -ишь ending of вспомнить. The perfective points to one moment when memory returns."
+      },
+      {
+        "id": "VB-VSPOMNIT-03",
+        "phrase": "Он обязательно вспомнит ответ.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Вспомнит' is the simple future marking a single recollection. Its imperfective partner вспоминать describes recurring reminiscence."
+      },
+      {
+        "id": "VB-VSPOMNIT-04",
+        "phrase": "Мы вспомним этот вечер с улыбкой.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Вспомним' takes the -им ending and promises one act of remembering. 'С улыбкой' adds an instrumental of manner."
+      },
+      {
+        "id": "VB-VSPOMNIT-05",
+        "phrase": "Вы вспомните мои слова потом.",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Вспомните' is the respectful -ите future form. 'Потом' anchors the future moment of recall."
+      },
+      {
+        "id": "VB-VSPOMNIT-06",
+        "phrase": "Я вдруг вспомнил его лицо.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Вспомнил' is the masculine -л past, marking a sudden completed recollection. 'Вдруг' captures the abruptness of remembering."
+      },
+      {
+        "id": "VB-VSPOMNIT-07",
+        "phrase": "Она вспомнила старую подругу детства.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Вспомнила' adds the feminine -ла ending. 'Старую подругу' is the accusative object of a single recollection."
+      },
+      {
+        "id": "VB-VSPOMNIT-08",
+        "phrase": "Они вспомнили смешную историю.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Вспомнили' is the plural -ли past for all genders. 'Смешную историю' is the accusative object of a completed memory."
+      },
+      {
+        "id": "VB-VSPOMNIT-09",
+        "phrase": "Я не могу вспомнить пароль.",
+        "fullAnalysis": "Strategic focus: Perfective infinitive. 'Вспомнить' stays infinitive after the modal 'не могу'. The perfective stresses one failed attempt to recall; imperfective вспоминать would mark ongoing effort."
+      },
+      {
+        "id": "VB-VSPOMNIT-10",
+        "phrase": "Вспомни, где ты оставил ключи.",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Вспомни' is the informal command of вспомнить, urging one act of recollection. It contrasts with imperfective вспоминай for repeated reminiscing."
+      }
+    ]
+  }
+]

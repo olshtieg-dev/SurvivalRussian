@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OTVETIT",
+    "label": "Ответить",
+    "badge": "ANSWER",
+    "description": "A 10-sentence conjugation card for ответить (to answer).",
+    "missions": [
+      {
+        "id": "VB-OTVETIT-01",
+        "phrase": "Я отвечу тебе завтра утром.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Отвечу' is the simple future of the perfective ответить; the т of the stem mutates to ч in the 1sg. The imperfective partner is отвечать."
+      },
+      {
+        "id": "VB-OTVETIT-02",
+        "phrase": "Ты ответишь на этот вопрос?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Ответишь' shows the -ишь ending with the stem т restored after the 1sg mutation. 'На вопрос' is the standard accusative target of an answer."
+      },
+      {
+        "id": "VB-OTVETIT-03",
+        "phrase": "Он скоро ответит на письмо.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Ответит' is the -ит form of ответить, naming a single completed reply. 'Скоро' marks the near future."
+      },
+      {
+        "id": "VB-OTVETIT-04",
+        "phrase": "Мы обязательно ответим всем гостям.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Ответим' carries the -им ending of ответить. 'Всем гостям' is a dative recipient and 'обязательно' adds firm intent."
+      },
+      {
+        "id": "VB-OTVETIT-05",
+        "phrase": "Вы ответите мне честно?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Ответите' trains the -ите form of ответить. 'Мне честно' frames a direct, natural request."
+      },
+      {
+        "id": "VB-OTVETIT-06",
+        "phrase": "Они ответят через несколько минут.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Ответят' closes the person ladder with the -ят ending of ответить. 'Через несколько минут' fixes the completed moment."
+      },
+      {
+        "id": "VB-OTVETIT-07",
+        "phrase": "Вчера он сразу ответил на звонок.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Ответил' is the completed masculine past of ответить with the -л suffix. 'Сразу' stresses that the single reply happened at once."
+      },
+      {
+        "id": "VB-OTVETIT-08",
+        "phrase": "Она спокойно ответила на все вопросы.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Ответила' adds the feminine -ла ending of ответить. 'На все вопросы' shows the act completed in full."
+      },
+      {
+        "id": "VB-OTVETIT-09",
+        "phrase": "Дети дружно ответили учителю.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Ответили' is the plural -ли past of ответить. 'Учителю' is the dative listener; contrast this single completed act with imperfective отвечать."
+      },
+      {
+        "id": "VB-OTVETIT-10",
+        "phrase": "Ответь мне, пожалуйста, прямо сейчас.",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Ответь' is the command form of ответить. 'Пожалуйста' and 'прямо сейчас' make a complete, urgent appeal to one listener."
+      }
+    ]
+  }
+]

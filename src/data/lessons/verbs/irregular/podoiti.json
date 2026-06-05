@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PODOITI",
+    "label": "Подойти",
+    "badge": "GO UP",
+    "description": "A 10-sentence conjugation card for подойти (to approach, to come up to).",
+    "missions": [
+      {
+        "id": "VB-PODOITI-01",
+        "phrase": "Я подойду к тебе через минуту.",
+        "fullAnalysis": "Strategic focus: First-person perfective future. 'Подойду' is the 1sg future of perfective подойти, with prefix подо- on the future stem подойд-. 'К тебе' uses к + dative for motion toward a person."
+      },
+      {
+        "id": "VB-PODOITI-02",
+        "phrase": "Ты подойдёшь к окну поближе?",
+        "fullAnalysis": "Strategic focus: Second-person future. 'Подойдёшь' is the 2sg future of подойти, end-stressed on the ё, which must be typed exactly. The imperfective partner подходить describes approaching repeatedly."
+      },
+      {
+        "id": "VB-PODOITI-03",
+        "phrase": "Официант скоро подойдёт к столу.",
+        "fullAnalysis": "Strategic focus: Third-person future. 'Подойдёт' is the 3sg future of подойти. 'К столу' uses к + dative 'toward the table'. The prefix подо- marks a complete approach up close."
+      },
+      {
+        "id": "VB-PODOITI-04",
+        "phrase": "Мы подойдём к началу спектакля.",
+        "fullAnalysis": "Strategic focus: First-person plural future. 'Подойдём' is the 1pl future of подойти, end-stressed. Here 'подойти к началу' means to arrive right at the start of the show."
+      },
+      {
+        "id": "VB-PODOITI-05",
+        "phrase": "Вы подойдёте к кассе слева.",
+        "fullAnalysis": "Strategic focus: Polite/plural future. 'Подойдёте' is the 2pl future of подойти. 'К кассе' uses к + dative 'toward the till'. The ё stays stressed across this future stem."
+      },
+      {
+        "id": "VB-PODOITI-06",
+        "phrase": "Друзья подойдут чуть позже.",
+        "fullAnalysis": "Strategic focus: Third-person plural future. 'Подойдут' is the 3pl future, completing the future scaffold of подойти. Note the future stem подойд- across all six persons."
+      },
+      {
+        "id": "VB-PODOITI-07",
+        "phrase": "Он тихо подошёл к двери.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Подошёл' is prefix подо- on the suppletive past root ш-, with no и and no д. It is the masculine past of подойти and reports a completed approach."
+      },
+      {
+        "id": "VB-PODOITI-08",
+        "phrase": "Она подошла к нам и улыбнулась.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Подошла' uses the irregular ш- past root with the prefix подо-, marking a female subject. Past tense tracks gender, not person."
+      },
+      {
+        "id": "VB-PODOITI-09",
+        "phrase": "Дети подошли к ёлке поближе.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Подошли' is the plural past of подойти on the suppletive ш- root, sharing nothing with the future stem подойд-. This closes the past series."
+      },
+      {
+        "id": "VB-PODOITI-10",
+        "phrase": "Подойди ко мне, я расскажу секрет!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Подойди' is the informal command from подойти, inviting someone to come up close. The imperfective partner подходить would frame a repeated approach."
+      }
+    ]
+  }
+]

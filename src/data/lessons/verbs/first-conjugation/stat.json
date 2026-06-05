@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-STAT",
+    "label": "Стать",
+    "badge": "BECOME",
+    "description": "A 10-sentence conjugation card for стать (to become).",
+    "missions": [
+      {
+        "id": "VB-STAT-01",
+        "phrase": "Я стану хорошим врачом.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Стану' is the perfective future of стать; since the verb is perfective, the simple present-tense form already carries future meaning. 'Хорошим врачом' takes the instrumental case after стать."
+      },
+      {
+        "id": "VB-STAT-02",
+        "phrase": "Ты скоро станешь настоящим мастером.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Станешь' is the ты-form with the -ешь ending of the first conjugation. 'Настоящим мастером' is instrumental, the case стать always governs for the new state."
+      },
+      {
+        "id": "VB-STAT-03",
+        "phrase": "Он станет известным писателем.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Станет' is the он-form ending in -ет. The instrumental 'известным писателем' marks the role he will grow into."
+      },
+      {
+        "id": "VB-STAT-04",
+        "phrase": "Мы станем настоящими друзьями.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Станем' shows the мы-ending -ем. 'Настоящими друзьями' is instrumental plural, the predicate of становления."
+      },
+      {
+        "id": "VB-STAT-05",
+        "phrase": "Они станут сильнее со временем.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Станут' closes the future paradigm with the -ут ending. Here стать pairs with a comparative, 'сильнее', meaning to grow stronger."
+      },
+      {
+        "id": "VB-STAT-06",
+        "phrase": "Он стал известным после концерта.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Стал' is the masculine singular past of perfective стать. The aspect stresses a completed change of state; 'известным' is instrumental."
+      },
+      {
+        "id": "VB-STAT-07",
+        "phrase": "Она стала врачом в прошлом году.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Стала' adds the feminine -а ending. 'Врачом' is instrumental, and 'в прошлом году' fixes the completed transformation in time."
+      },
+      {
+        "id": "VB-STAT-08",
+        "phrase": "Дни стали короче и холоднее.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Стали' is the plural past ending in -и. Here стать governs comparatives 'короче' and 'холоднее' instead of an instrumental noun."
+      },
+      {
+        "id": "VB-STAT-09",
+        "phrase": "Стань наконец взрослым человеком!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Стань' is the informal command of perfective стать. 'Взрослым человеком' stays in the instrumental, the standard case for the resulting state."
+      },
+      {
+        "id": "VB-STAT-10",
+        "phrase": "Я хочу стать лучше, чем вчера.",
+        "fullAnalysis": "Strategic focus: Infinitive after a modal. 'Хочу' governs the bare infinitive 'стать'. The imperfective partner is становиться; here the perfective infinitive points to one decisive change."
+      }
+    ]
+  }
+]

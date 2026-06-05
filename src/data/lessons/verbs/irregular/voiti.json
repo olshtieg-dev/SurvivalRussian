@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VOITI",
+    "label": "Войти",
+    "badge": "ENTER",
+    "description": "A 10-sentence conjugation card for войти (to enter, to come in). Perfective compound of идти: future войду/войдёшь, suppletive past вошёл/вошла/вошли, imperative войди.",
+    "missions": [
+      {
+        "id": "VB-VOITI-01",
+        "phrase": "Я войду через главную дверь.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. 'Войду' is the 1sg non-past of perfective войти, used with future meaning. Built on the идти pattern with prefix во-, it marks a completed entrance. 'Через дверь' is через + accusative."
+      },
+      {
+        "id": "VB-VOITI-02",
+        "phrase": "Ты войдёшь первым в зал.",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Войдёшь' is the 2sg future of войти, with the stressed ё. The prefixed-идти stem keeps -йд- before the ending. 'В зал' is в + accusative."
+      },
+      {
+        "id": "VB-VOITI-03",
+        "phrase": "Учитель войдёт в класс ровно в девять.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Войдёт' is the 3sg future of войти. The imperfective partner входить would describe a habitual entrance, but here one completed event is in view."
+      },
+      {
+        "id": "VB-VOITI-04",
+        "phrase": "Мы войдём тихо, чтобы не мешать.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Войдём' is the 1pl future of войти, end-stressed on the ё. The во- prefix on the идти root signals one finished step inside."
+      },
+      {
+        "id": "VB-VOITI-05",
+        "phrase": "Отец вошёл в комнату без стука.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Вошёл' switches to the irregular -шёл root shared across идти compounds. It marks a male subject and a completed entrance. 'В комнату' is в + accusative."
+      },
+      {
+        "id": "VB-VOITI-06",
+        "phrase": "Она вошла и сразу улыбнулась.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Вошла' uses the suppletive -шл- root for a female subject, sharing nothing with the future -йд- stem. Past tense here tracks gender, not person."
+      },
+      {
+        "id": "VB-VOITI-07",
+        "phrase": "Студенты вошли в аудиторию шумно.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Вошли' is the plural past of войти on the irregular -шл- root. 'В аудиторию' uses в + accusative for entering the lecture hall."
+      },
+      {
+        "id": "VB-VOITI-08",
+        "phrase": "Войди и закрой за собой дверь.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Войди' is the informal command from войти, built on the -йд- stem plus -и. It tells someone to come in. The imperfective входить gives the habitual counterpart."
+      },
+      {
+        "id": "VB-VOITI-09",
+        "phrase": "Войдите, дверь открыта!",
+        "fullAnalysis": "Strategic focus: Plural or polite imperative. 'Войдите' is the formal command of войти, adding -те to the singular stem. It is the standard polite 'come in' in response to a knock."
+      },
+      {
+        "id": "VB-VOITI-10",
+        "phrase": "Чтобы войти, нужен пропуск.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Войти' is the bare infinitive, here introduced by 'чтобы' to express purpose. It names the act of entering; 'нужен пропуск' states the requirement. The imperfective infinitive would be входить."
+      }
+    ]
+  }
+]

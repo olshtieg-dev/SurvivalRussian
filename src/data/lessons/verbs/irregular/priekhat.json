@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PRIEKHAT",
+    "label": "Приехать",
+    "badge": "ARRIVE",
+    "description": "A 10-sentence conjugation card for приехать (to arrive, to come by vehicle).",
+    "missions": [
+      {
+        "id": "VB-PRIEKHAT-01",
+        "phrase": "Я приеду к вам завтра утром.",
+        "fullAnalysis": "Strategic focus: First-person perfective future. 'Приеду' is the 1sg future of perfective приехать, built with prefix при- on the future stem приед-. Like all motion-by-vehicle verbs, it implies arriving by transport."
+      },
+      {
+        "id": "VB-PRIEKHAT-02",
+        "phrase": "Ты приедешь на машине или поездом?",
+        "fullAnalysis": "Strategic focus: Second-person future. 'Приедешь' is the 2sg future of приехать. The verb specifically covers arrival by some vehicle, contrasted with прийти for arriving on foot."
+      },
+      {
+        "id": "VB-PRIEKHAT-03",
+        "phrase": "Он приедет в город через неделю.",
+        "fullAnalysis": "Strategic focus: Third-person future. 'Приедет' is the 3sg future of приехать. 'В город' uses в + accusative for the destination. The prefix при- marks a complete arrival."
+      },
+      {
+        "id": "VB-PRIEKHAT-04",
+        "phrase": "Мы приедем прямо к ужину.",
+        "fullAnalysis": "Strategic focus: First-person plural future. 'Приедем' is the 1pl future of приехать. 'К ужину' uses к + dative to set arrival timed for dinner."
+      },
+      {
+        "id": "VB-PRIEKHAT-05",
+        "phrase": "Вы приедете на конференцию в среду?",
+        "fullAnalysis": "Strategic focus: Polite/plural future. 'Приедете' is the 2pl future of приехать. 'На конференцию' uses на + accusative for the event. Note the future stem приед- across persons."
+      },
+      {
+        "id": "VB-PRIEKHAT-06",
+        "phrase": "Родители приедут в гости на выходных.",
+        "fullAnalysis": "Strategic focus: Third-person plural future. 'Приедут' is the 3pl future, completing the future scaffold of приехать. The whole present-future series runs on the stem приед-."
+      },
+      {
+        "id": "VB-PRIEKHAT-07",
+        "phrase": "Вчера он приехал поздно ночью.",
+        "fullAnalysis": "Strategic focus: Masculine past. 'Приехал' is the masculine past of приехать, formed regularly on the past stem приеха-. It reports a single completed arrival by vehicle."
+      },
+      {
+        "id": "VB-PRIEKHAT-08",
+        "phrase": "Она приехала из Москвы на поезде.",
+        "fullAnalysis": "Strategic focus: Feminine past. 'Приехала' uses the приеха- past stem, marking a female subject. 'Из Москвы' uses из + genitive for the point of origin."
+      },
+      {
+        "id": "VB-PRIEKHAT-09",
+        "phrase": "Гости приехали раньше, чем мы ждали.",
+        "fullAnalysis": "Strategic focus: Plural past. 'Приехали' is the plural past of приехать on the приеха- stem. Past tense agrees in number and gender, not person."
+      },
+      {
+        "id": "VB-PRIEKHAT-10",
+        "phrase": "Приезжай к нам летом на дачу!",
+        "fullAnalysis": "Strategic focus: Defective imperative. Приехать has no command of its own, so the imperative is borrowed from the imperfective приезжать, giving 'приезжай'. It also serves as a warm, repeatable invitation."
+      }
+    ]
+  }
+]

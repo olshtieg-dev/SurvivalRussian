@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-RESHIT",
+    "label": "Решить",
+    "badge": "DECIDE",
+    "description": "A 10-sentence conjugation card for решить (to decide, to solve).",
+    "missions": [
+      {
+        "id": "VB-RESHIT-01",
+        "phrase": "Я решу эту задачу сам.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. Решить is perfective, so 'решу' is its simple future. Note the стем shift ш in решу, решишь, against the infinitive реш-."
+      },
+      {
+        "id": "VB-RESHIT-02",
+        "phrase": "Ты решишь, куда мы поедем?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Решишь' shows the -ишь ending. As a perfective, it points to one final decision rather than a process."
+      },
+      {
+        "id": "VB-RESHIT-03",
+        "phrase": "Она скоро решит этот вопрос.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Решит' carries the -ит ending and means a single completed resolving. The imperfective partner is решать."
+      },
+      {
+        "id": "VB-RESHIT-04",
+        "phrase": "Мы решим всё завтра утром.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Решим' uses the -им ending; the perfective frames a single finished decision."
+      },
+      {
+        "id": "VB-RESHIT-05",
+        "phrase": "Они решат, кто будет первым.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Решат' closes the person set with the -ат ending. Perfective решить contrasts with iterative решать."
+      },
+      {
+        "id": "VB-RESHIT-06",
+        "phrase": "Вчера он решил уехать домой.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Решил' is the completed -л past of решить. It governs an infinitive 'уехать', a very common decision pattern."
+      },
+      {
+        "id": "VB-RESHIT-07",
+        "phrase": "Она решила трудную задачу быстро.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Решила' adds the feminine -ла ending. Here решить means to solve a problem, its second core sense."
+      },
+      {
+        "id": "VB-RESHIT-08",
+        "phrase": "Они наконец решили остаться вместе.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Решили' is the plural -ли past, shared by all genders. 'Наконец' stresses the finality of the perfective."
+      },
+      {
+        "id": "VB-RESHIT-09",
+        "phrase": "Реши сам, что тебе важнее.",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Реши' is the informal command of решить. The perfective fits a single, decisive choice."
+      },
+      {
+        "id": "VB-RESHIT-10",
+        "phrase": "Нам нужно решить это сегодня.",
+        "fullAnalysis": "Strategic focus: Infinitive use. After 'нужно', решить stays in the infinitive. The perfective infinitive stresses bringing the matter to a close today."
+      }
+    ]
+  }
+]

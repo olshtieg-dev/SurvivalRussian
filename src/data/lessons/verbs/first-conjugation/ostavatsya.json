@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OSTAVATSYA",
+    "label": "Оставаться",
+    "badge": "REMAIN",
+    "description": "A 10-sentence conjugation card for оставаться (to stay, remain).",
+    "missions": [
+      {
+        "id": "VB-OSTAVATSYA-01",
+        "phrase": "Я всегда остаюсь спокойным в споре.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Оставаться is imperfective and reflexive; in the present the -ва- suffix drops, giving the stem оста- and the form 'остаюсь' with -юсь. The perfective partner is остаться."
+      },
+      {
+        "id": "VB-OSTAVATSYA-02",
+        "phrase": "Почему ты остаёшься так поздно на работе?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Остаёшься' shows the stressed -ёшься ending on the present stem оста-. The imperfective stresses a recurring habit of staying late."
+      },
+      {
+        "id": "VB-OSTAVATSYA-03",
+        "phrase": "Он часто остаётся один по вечерам.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Остаётся' is the он-form ending in -ётся. As an imperfective with 'часто' it names a repeated state rather than a single completed result like останется."
+      },
+      {
+        "id": "VB-OSTAVATSYA-04",
+        "phrase": "Мы остаёмся друзьями несмотря ни на что.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Остаёмся' carries the -ёмся ending on оста-. The imperfective expresses an enduring, ongoing state of remaining friends."
+      },
+      {
+        "id": "VB-OSTAVATSYA-05",
+        "phrase": "Вы всегда остаётесь верны своему слову.",
+        "fullAnalysis": "Strategic focus: Second-person plural or polite present. 'Остаётесь' trains the respectful вы-form with -ётесь on оста-, the particle becoming -сь after the vowel. The imperfective marks a constant quality."
+      },
+      {
+        "id": "VB-OSTAVATSYA-06",
+        "phrase": "Дети остаются дома, когда идёт дождь.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Остаются' closes the present ladder with the -ются ending on оста-. The imperfective describes a regular pattern tied to rainy weather."
+      },
+      {
+        "id": "VB-OSTAVATSYA-07",
+        "phrase": "Раньше он всегда оставался после уроков.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Оставался' is the masculine singular past of imperfective оставаться, keeping the -ва- suffix with -ся after -л. The imperfective past stresses a repeated habit in the past."
+      },
+      {
+        "id": "VB-OSTAVATSYA-08",
+        "phrase": "Она долго оставалась в тени.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Оставалась' adds the feminine -ась ending. The imperfective past with 'долго' frames an extended, ongoing state of remaining out of sight."
+      },
+      {
+        "id": "VB-OSTAVATSYA-09",
+        "phrase": "Раненые солдаты оставались на поле боя.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Оставались' is the plural past ending in -ись, completing the past forms. The imperfective stresses a prolonged, continuing situation rather than a single event."
+      },
+      {
+        "id": "VB-OSTAVATSYA-10",
+        "phrase": "Не бойся и оставайся самим собой.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Оставайся' is the imperfective command form, keeping the -ва- suffix and the reflexive -ся, urging a continuing state of being oneself. The imperative often picks the imperfective for general advice."
+      }
+    ]
+  }
+]

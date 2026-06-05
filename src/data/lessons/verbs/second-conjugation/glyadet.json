@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-GLYADET",
+    "label": "Глядеть",
+    "badge": "GAZE",
+    "description": "A 10-sentence conjugation card for глядеть (to look, to gaze).",
+    "missions": [
+      {
+        "id": "VB-GLYADET-01",
+        "phrase": "Я гляжу в окно на снег.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Глядеть is imperfective. Note the 1sg mutation д → ж in 'гляжу', against глядишь elsewhere. 'В окно' shows direction of gaze."
+      },
+      {
+        "id": "VB-GLYADET-02",
+        "phrase": "Ты глядишь на меня странно.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Глядишь' keeps the unmutated стем гляд- with the -ишь ending. 'На меня' marks the target of the look."
+      },
+      {
+        "id": "VB-GLYADET-03",
+        "phrase": "Кот глядит на птицу за окном.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Глядит' takes the -ит ending. The sentence shows a fixed, attentive gaze, the core sense of глядеть."
+      },
+      {
+        "id": "VB-GLYADET-04",
+        "phrase": "Мы глядим на звёзды всю ночь.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Глядим' uses the -им ending. 'На звёзды' marks the object of a long, shared gaze."
+      },
+      {
+        "id": "VB-GLYADET-05",
+        "phrase": "Они глядят вдаль и молчат.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Глядят' closes the present set with the -ят ending. 'Вдаль' gives the direction of the distant gaze."
+      },
+      {
+        "id": "VB-GLYADET-06",
+        "phrase": "Он долго глядел на старое фото.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Глядел' is the masculine -л past of глядеть. 'Долго' stresses the durative, imperfective looking."
+      },
+      {
+        "id": "VB-GLYADET-07",
+        "phrase": "Она глядела на море молча.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Глядела' adds the feminine -ла ending. The verb conveys a quiet, sustained gaze at the sea."
+      },
+      {
+        "id": "VB-GLYADET-08",
+        "phrase": "Дети глядели на огонь костра.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Глядели' is the plural -ли past, shared by all genders. It reports a shared, attentive watching."
+      },
+      {
+        "id": "VB-GLYADET-09",
+        "phrase": "Гляди вперёд, а не назад.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Гляди' is the informal command of глядеть. The contrast 'вперёд, а не назад' gives a vivid metaphorical order."
+      },
+      {
+        "id": "VB-GLYADET-10",
+        "phrase": "Приятно глядеть на тихое море.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Глядеть' stays in the dictionary form after evaluative 'приятно'. The imperfective infinitive fits an open-ended, pleasant act of looking."
+      }
+    ]
+  }
+]

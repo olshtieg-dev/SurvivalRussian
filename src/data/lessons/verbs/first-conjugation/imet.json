@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-IMET",
+    "label": "Иметь",
+    "badge": "HAVE",
+    "description": "A 10-sentence conjugation card for иметь (to have).",
+    "missions": [
+      {
+        "id": "VB-IMET-01",
+        "phrase": "Я имею полное право знать правду.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Имею' is the я-form of the imperfective иметь, with the stem in -е and the ending -ю. The fixed phrase 'иметь право' means to have the right to something."
+      },
+      {
+        "id": "VB-IMET-02",
+        "phrase": "Ты имеешь очень большой опыт работы.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Имеешь' shows the first-conjugation -ешь ending built on the stem име-. 'Опыт работы' is the accusative object of this slightly formal verb."
+      },
+      {
+        "id": "VB-IMET-03",
+        "phrase": "Этот вопрос имеет большое значение.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Имеет' is the он-form ending in -ет. The collocation 'иметь значение' means to matter or to have importance, one of the most common uses of this verb."
+      },
+      {
+        "id": "VB-IMET-04",
+        "phrase": "Мы имеем общие цели и планы.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Имеем' is the мы-form ending in -ем. Иметь is imperfective and rather bookish; in casual speech 'у нас есть' is often preferred."
+      },
+      {
+        "id": "VB-IMET-05",
+        "phrase": "Эти слова имеют двойной смысл.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Имеют' closes the present ladder with the -ют ending. 'Двойной смысл' is the accusative object meaning a double meaning."
+      },
+      {
+        "id": "VB-IMET-06",
+        "phrase": "В детстве я имел много друзей.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Имел' is the masculine singular past of the imperfective иметь. 'В детстве' frames the ongoing past state of possessing many friends."
+      },
+      {
+        "id": "VB-IMET-07",
+        "phrase": "Раньше она имела свою машину.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Имела' adds the feminine -а ending. 'Раньше' marks a habitual past situation; the imperfective stresses the lasting state of ownership."
+      },
+      {
+        "id": "VB-IMET-08",
+        "phrase": "Наши соседи имели старый дом.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Имели' is the plural past ending in -и. 'Старый дом' is the accusative object and 'наши соседи' supplies a natural plural subject."
+      },
+      {
+        "id": "VB-IMET-09",
+        "phrase": "Скоро ты будешь иметь свой дом.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Будешь иметь' joins 'будешь' with the infinitive иметь, since this imperfective verb forms its future analytically. 'Скоро' projects the ongoing future state."
+      },
+      {
+        "id": "VB-IMET-10",
+        "phrase": "Важно иметь терпение и спокойствие.",
+        "fullAnalysis": "Strategic focus: Infinitive use. The impersonal 'важно' governs the bare infinitive иметь. 'Иметь терпение' means to have patience; иметь is most natural exactly in such fixed abstract phrases."
+      }
+    ]
+  }
+]

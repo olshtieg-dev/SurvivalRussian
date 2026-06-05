@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-UITI",
+    "label": "Уйти",
+    "badge": "LEAVE",
+    "description": "A 10-sentence conjugation card for уйти (to leave, to go away).",
+    "missions": [
+      {
+        "id": "VB-UITI-01",
+        "phrase": "Я уйду домой через час.",
+        "fullAnalysis": "Strategic focus: First-person perfective future. 'Уйду' is the 1sg future of perfective уйти, built with prefix у- on the future stem уйд-. The prefix у- marks departure away from a place."
+      },
+      {
+        "id": "VB-UITI-02",
+        "phrase": "Ты уйдёшь раньше всех сегодня?",
+        "fullAnalysis": "Strategic focus: Second-person future. 'Уйдёшь' is the 2sg future of уйти, end-stressed on the ё, which must be typed exactly. The imperfective partner уходить describes leaving regularly or in progress."
+      },
+      {
+        "id": "VB-UITI-03",
+        "phrase": "Он уйдёт с работы в шесть.",
+        "fullAnalysis": "Strategic focus: Third-person future. 'Уйдёт' is the 3sg future of уйти. 'С работы' uses с + genitive to mark moving away from work. The prefix у- frames a complete exit."
+      },
+      {
+        "id": "VB-UITI-04",
+        "phrase": "Мы уйдём, как только закончим.",
+        "fullAnalysis": "Strategic focus: First-person plural future. 'Уйдём' is the 1pl future of уйти, end-stressed. The clause 'как только' sets the departure right after the action completes."
+      },
+      {
+        "id": "VB-UITI-05",
+        "phrase": "Вы уйдёте или ещё останетесь?",
+        "fullAnalysis": "Strategic focus: Polite/plural future. 'Уйдёте' is the 2pl future of уйти, contrasted here with staying. The ё stays stressed across this future stem."
+      },
+      {
+        "id": "VB-UITI-06",
+        "phrase": "Гости уйдут поздно вечером.",
+        "fullAnalysis": "Strategic focus: Third-person plural future. 'Уйдут' is the 3pl future, completing the future scaffold of уйти. Note the future stem уйд- across all six persons."
+      },
+      {
+        "id": "VB-UITI-07",
+        "phrase": "Он ушёл, не сказав ни слова.",
+        "fullAnalysis": "Strategic focus: Suppletive masculine past. 'Ушёл' is prefix у- on the suppletive past root ш-, with no и and no д. It is the masculine past of уйти and reports a completed departure."
+      },
+      {
+        "id": "VB-UITI-08",
+        "phrase": "Она ушла на работу рано утром.",
+        "fullAnalysis": "Strategic focus: Suppletive feminine past. 'Ушла' uses the irregular ш- past root with the prefix у-, marking a female subject. Past tense tracks gender, not person."
+      },
+      {
+        "id": "VB-UITI-09",
+        "phrase": "Все ушли, и стало тихо.",
+        "fullAnalysis": "Strategic focus: Suppletive plural past. 'Ушли' is the plural past of уйти on the suppletive ш- root, sharing nothing with the future stem уйд-. This closes the past series."
+      },
+      {
+        "id": "VB-UITI-10",
+        "phrase": "Уйди отсюда и не мешай!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Уйди' is the sharp informal command from уйти, telling someone to leave at once. The imperfective partner уходить would soften it into a habitual frame."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-STOYAT",
+    "label": "Стоять",
+    "badge": "STAND",
+    "description": "A 10-sentence conjugation card for стоять (to stand).",
+    "missions": [
+      {
+        "id": "VB-STOYAT-01",
+        "phrase": "Я стою у окна и жду.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Стою' is the 1sg form of стоять; the -ять infinitive still takes i-type endings, here -ю. 'У окна' marks the spot and 'жду' adds a second action."
+      },
+      {
+        "id": "VB-STOYAT-02",
+        "phrase": "Ты стоишь слишком близко к двери.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Стоишь' shows the -ишь ending of стоять. 'Слишком близко к двери' makes a natural everyday remark about position."
+      },
+      {
+        "id": "VB-STOYAT-03",
+        "phrase": "Машина стоит прямо перед домом.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Стоит' is the core -ит form of стоять. 'Прямо перед домом' fixes a static location with no movement."
+      },
+      {
+        "id": "VB-STOYAT-04",
+        "phrase": "Мы стоим в очереди уже час.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Стоим' carries the -им plural ending of стоять. 'В очереди уже час' gives a very common waiting situation."
+      },
+      {
+        "id": "VB-STOYAT-05",
+        "phrase": "Вы стоите на самом краю!",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Стоите' trains the -ите form of стоять. 'На самом краю' makes an urgent warning useful in real speech."
+      },
+      {
+        "id": "VB-STOYAT-06",
+        "phrase": "Дети стоят и смотрят на небо.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Стоят' closes the person ladder with the -ят ending of стоять. 'Смотрят на небо' adds a parallel verb in the same form."
+      },
+      {
+        "id": "VB-STOYAT-07",
+        "phrase": "Вчера он долго стоял под дождём.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Стоял' is the masculine singular past of стоять with the -л suffix. 'Под дождём' and 'долго' set the scene vividly."
+      },
+      {
+        "id": "VB-STOYAT-08",
+        "phrase": "Она стояла у окна и плакала.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Стояла' adds the feminine -ла ending of стоять. The parallel 'плакала' shows the same past pattern on a second verb."
+      },
+      {
+        "id": "VB-STOYAT-09",
+        "phrase": "Мы будем стоять здесь и ждать.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Будем' is the auxiliary and 'стоять' stays in the infinitive, building the compound future. 'Здесь' and 'ждать' frame a patient resolve."
+      },
+      {
+        "id": "VB-STOYAT-10",
+        "phrase": "Стой спокойно и не двигайся.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Стой' is the informal command of стоять. 'Спокойно' and 'не двигайся' make a complete, natural instruction to one listener."
+      }
+    ]
+  }
+]

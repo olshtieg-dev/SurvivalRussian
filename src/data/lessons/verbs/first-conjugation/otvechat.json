@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OTVECHAT",
+    "label": "Отвечать",
+    "badge": "ANSWER",
+    "description": "A 10-sentence conjugation card for отвечать (to answer).",
+    "missions": [
+      {
+        "id": "VB-OTVECHAT-01",
+        "phrase": "Я отвечаю на все вопросы.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Отвечаю' is the я-form of отвечать with the regular -аю ending. The verb governs 'на' plus the accusative, here 'на вопросы'."
+      },
+      {
+        "id": "VB-OTVECHAT-02",
+        "phrase": "Ты всегда отвечаешь честно и прямо.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Отвечаешь' shows the -аешь ending on the stem отвеча-. The adverbs 'честно и прямо' describe how you answer."
+      },
+      {
+        "id": "VB-OTVECHAT-03",
+        "phrase": "Он спокойно отвечает учителю.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Отвечает' is the он-form ending in -ает. 'Отвечать кому-то' takes a dative recipient, here 'учителю'."
+      },
+      {
+        "id": "VB-OTVECHAT-04",
+        "phrase": "Мы отвечаем за свои поступки.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Отвечаем' is the мы-form ending in -аем. The idiom 'отвечать за' means to be responsible for something."
+      },
+      {
+        "id": "VB-OTVECHAT-05",
+        "phrase": "Дети громко отвечают на уроке.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Отвечают' closes the present ladder with the -ают ending. 'На уроке' is the prepositional of place."
+      },
+      {
+        "id": "VB-OTVECHAT-06",
+        "phrase": "Вчера я долго отвечал на письма.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Отвечал' is the masculine singular past of imperfective отвечать. 'Долго' stresses the drawn-out process the imperfective conveys."
+      },
+      {
+        "id": "VB-OTVECHAT-07",
+        "phrase": "Она тихо отвечала на вопрос.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Отвечала' adds the feminine -а ending. 'На вопрос' keeps the typical preposition-plus-accusative pattern of the verb."
+      },
+      {
+        "id": "VB-OTVECHAT-08",
+        "phrase": "Студенты уверенно отвечали профессору.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Отвечали' is the plural past ending in -и. The dative 'профессору' names the person being answered."
+      },
+      {
+        "id": "VB-OTVECHAT-09",
+        "phrase": "Завтра я отвечу на твоё сообщение.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Отвечу' is the perfective ответить with future meaning, promising one completed reply. 'На твоё сообщение' marks the target."
+      },
+      {
+        "id": "VB-OTVECHAT-10",
+        "phrase": "Отвечай быстро и не молчи!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Отвечай' is the informal command formed from the present stem отвеча-. It urges an immediate spoken reply."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SEST",
+    "label": "Сесть",
+    "badge": "SIT",
+    "description": "A 10-sentence conjugation card for сесть (to sit down).",
+    "missions": [
+      {
+        "id": "VB-SEST-01",
+        "phrase": "Я сяду у окна в поезде.",
+        "fullAnalysis": "Strategic focus: First-person perfective future. 'Сяду' is the 1sg future of perfective сесть, built on the irregular present stem сяд-, which looks nothing like the infinitive сесть. 'У окна' uses у + genitive 'by the window'."
+      },
+      {
+        "id": "VB-SEST-02",
+        "phrase": "Ты сядешь рядом со мной?",
+        "fullAnalysis": "Strategic focus: Second-person future. 'Сядешь' is the 2sg future of сесть on the сяд- stem. The imperfective partner садиться describes the act of sitting down repeatedly or in progress."
+      },
+      {
+        "id": "VB-SEST-03",
+        "phrase": "Он сядет на свободное место.",
+        "fullAnalysis": "Strategic focus: Third-person future. 'Сядет' is the 3sg future of сесть. 'На место' uses на + accusative for the spot taken. The сяд- stem carries the future meaning of a single sitting."
+      },
+      {
+        "id": "VB-SEST-04",
+        "phrase": "Мы сядем за этот столик.",
+        "fullAnalysis": "Strategic focus: First-person plural future. 'Сядем' is the 1pl future of сесть on the сяд- stem. 'За столик' uses за + accusative for taking a seat at the small table."
+      },
+      {
+        "id": "VB-SEST-05",
+        "phrase": "Вы сядете в первый ряд?",
+        "fullAnalysis": "Strategic focus: Polite/plural future. 'Сядете' is the 2pl future of сесть, still on the сяд- stem. 'В ряд' uses в + accusative for the chosen row."
+      },
+      {
+        "id": "VB-SEST-06",
+        "phrase": "Гости сядут за большой стол.",
+        "fullAnalysis": "Strategic focus: Third-person plural future. 'Сядут' is the 3pl future, completing the future scaffold of сесть. Note the present-future stem сяд- across all six persons."
+      },
+      {
+        "id": "VB-SEST-07",
+        "phrase": "Он сел на диван и вздохнул.",
+        "fullAnalysis": "Strategic focus: Masculine past. 'Сел' is the masculine past of сесть, formed on the past stem сел-, distinct from the future stem сяд-. It reports a single completed sitting."
+      },
+      {
+        "id": "VB-SEST-08",
+        "phrase": "Она села в кресло у камина.",
+        "fullAnalysis": "Strategic focus: Feminine past. 'Села' uses the сел- past stem, marking a female subject. Past tense agrees in gender, not person, so the ending shifts with the subject."
+      },
+      {
+        "id": "VB-SEST-09",
+        "phrase": "Все сели и стали ждать.",
+        "fullAnalysis": "Strategic focus: Plural past. 'Сели' is the plural past of сесть on the сел- stem, sharing nothing with the future сяд-. This closes the past series of the verb."
+      },
+      {
+        "id": "VB-SEST-10",
+        "phrase": "Сядь поудобнее и отдохни немного!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Сядь' is the irregular informal command from сесть, ending in a soft sign with no vowel. The imperfective partner садиться would frame the act as ongoing."
+      }
+    ]
+  }
+]

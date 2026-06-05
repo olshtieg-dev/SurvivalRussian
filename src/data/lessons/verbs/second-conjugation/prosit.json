@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PROSIT",
+    "label": "Просить",
+    "badge": "REQUEST",
+    "description": "A 10-sentence conjugation card for просить (to ask for, to request).",
+    "missions": [
+      {
+        "id": "VB-PROSIT-01",
+        "phrase": "Я прошу тебя о помощи.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Просить is imperfective. Note the 1sg mutation с → ш in 'прошу', against просишь elsewhere. 'О помощи' shows the о + prepositional object."
+      },
+      {
+        "id": "VB-PROSIT-02",
+        "phrase": "Ты всегда просишь слишком много.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Просишь' keeps the unmutated стем прос- with the -ишь ending. 'Всегда' marks a recurring habit of asking."
+      },
+      {
+        "id": "VB-PROSIT-03",
+        "phrase": "Она просит у меня совета.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Просит' takes the -ит ending. 'У меня совета' shows the у + genitive source plus genitive object of the request."
+      },
+      {
+        "id": "VB-PROSIT-04",
+        "phrase": "Мы просим вас остаться ненадолго.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Просим' uses the -им ending. The verb governs the accusative person 'вас' plus an infinitive 'остаться'."
+      },
+      {
+        "id": "VB-PROSIT-05",
+        "phrase": "Дети просят купить им мороженое.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Просят' closes the present set with the -ят ending. It governs the infinitive 'купить' as the content of the request."
+      },
+      {
+        "id": "VB-PROSIT-06",
+        "phrase": "Он просил у отца денег.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Просил' is the masculine -л past of просить. The perfective partner попросить marks a single completed request."
+      },
+      {
+        "id": "VB-PROSIT-07",
+        "phrase": "Она просила меня прийти раньше.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Просила' adds the feminine -ла ending. The verb governs 'меня' plus the infinitive 'прийти' as the content."
+      },
+      {
+        "id": "VB-PROSIT-08",
+        "phrase": "Они часто просили нас о помощи.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Просили' is the plural -ли past, shared by all genders. 'Часто' stresses the repeated, imperfective asking."
+      },
+      {
+        "id": "VB-PROSIT-09",
+        "phrase": "Проси прощения, если виноват.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Проси' is the informal command of просить. 'Проси прощения' is a fixed idiom meaning to apologise."
+      },
+      {
+        "id": "VB-PROSIT-10",
+        "phrase": "Не стыдно просить о помощи.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Просить' stays in the dictionary form after evaluative 'не стыдно'. The imperfective infinitive states a general truth."
+      }
+    ]
+  }
+]

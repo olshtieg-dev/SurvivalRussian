@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-NACHINAT",
+    "label": "Начинать",
+    "badge": "BEGIN",
+    "description": "A 10-sentence conjugation card for начинать (to begin, start).",
+    "missions": [
+      {
+        "id": "VB-NACHINAT-01",
+        "phrase": "Каждое утро я начинаю новый день.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Начинаю' is the я-form with the -ю ending. The verb is imperfective; its perfective partner is начать."
+      },
+      {
+        "id": "VB-NACHINAT-02",
+        "phrase": "Ты начинаешь работу слишком поздно.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Начинаешь' shows the -ешь ending of the first conjugation. 'Работу' is the accusative direct object."
+      },
+      {
+        "id": "VB-NACHINAT-03",
+        "phrase": "Урок начинается в девять часов.",
+        "fullAnalysis": "Strategic focus: Third-person singular present, reflexive use. 'Начинается' is the reflexive form meaning the lesson itself begins. Without -ся, начинать needs a direct object."
+      },
+      {
+        "id": "VB-NACHINAT-04",
+        "phrase": "Мы начинаем готовить ужин.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Начинаем' shows the мы-form ending -ем. Начинать readily governs an infinitive, here 'готовить', to mean start doing something."
+      },
+      {
+        "id": "VB-NACHINAT-05",
+        "phrase": "Они начинают строить новый дом.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Начинают' is the они-form with the -ют ending. The following infinitive 'строить' shows the start of an ongoing action."
+      },
+      {
+        "id": "VB-NACHINAT-06",
+        "phrase": "Я начинал учить язык в школе.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Начинал' is the masculine singular past of imperfective начинать. The imperfective stresses the repeated or process-like nature of starting."
+      },
+      {
+        "id": "VB-NACHINAT-07",
+        "phrase": "Она часто начинала, но не заканчивала.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Начинала' adds the feminine -а ending. 'Часто' suits the imperfective, marking a habit of starting without finishing."
+      },
+      {
+        "id": "VB-NACHINAT-08",
+        "phrase": "Мы начинали этот проект дважды.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Начинали' is the plural past form ending in -и. 'Дважды' fits the imperfective, showing repeated attempts to begin."
+      },
+      {
+        "id": "VB-NACHINAT-09",
+        "phrase": "Завтра я буду начинать день раньше.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Буду начинать' joins 'буду' with the infinitive начинать. The imperfective stresses a new ongoing habit in the future."
+      },
+      {
+        "id": "VB-NACHINAT-10",
+        "phrase": "Не начинай ссору из-за мелочей.",
+        "fullAnalysis": "Strategic focus: Negated singular imperative. 'Начинай' is the informal command, here negated with 'не'. The imperfective imperative is natural for general advice not to do something."
+      }
+    ]
+  }
+]

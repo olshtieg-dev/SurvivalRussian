@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-UVIDET",
+    "label": "Увидеть",
+    "badge": "SEE",
+    "description": "A 10-sentence conjugation card for увидеть (to see, catch sight of).",
+    "missions": [
+      {
+        "id": "VB-UVIDET-01",
+        "phrase": "Завтра я увижу старого друга.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. 'Увижу' is the simple future of perfective увидеть, with the д → ж mutation of the first person. As a perfective it needs no auxiliary and marks a single completed sighting."
+      },
+      {
+        "id": "VB-UVIDET-02",
+        "phrase": "Ты скоро увидишь новый город.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Увидишь' keeps the -ишь ending without mutation, since the д → ж change appears only in the first person. 'Скоро' frames the completed event ahead."
+      },
+      {
+        "id": "VB-UVIDET-03",
+        "phrase": "Она увидит море в первый раз.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Увидит' is the simple future of увидеть and points to one finished moment of seeing. Contrast it with the imperfective partner видеть, which describes ongoing or repeated seeing."
+      },
+      {
+        "id": "VB-UVIDET-04",
+        "phrase": "Мы увидим результаты уже завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Увидим' takes the -им ending and promises a single completed outcome. 'Уже завтра' anchors the achievement in the near future."
+      },
+      {
+        "id": "VB-UVIDET-05",
+        "phrase": "Вы увидите всё своими глазами.",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Увидите' is the respectful -ите future form. 'Своими глазами' is a fixed instrumental phrase meaning with your own eyes."
+      },
+      {
+        "id": "VB-UVIDET-06",
+        "phrase": "Вчера я увидел странный сон.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Увидел' is the masculine past with the -л suffix, marking a completed glimpse. 'Странный сон' is the accusative object of a one-time event."
+      },
+      {
+        "id": "VB-UVIDET-07",
+        "phrase": "Она увидела меня и улыбнулась.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Увидела' adds the feminine -ла ending. Two perfectives in a row mark a quick sequence of completed actions."
+      },
+      {
+        "id": "VB-UVIDET-08",
+        "phrase": "Дети увидели радугу после дождя.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Увидели' is the plural -ли past, shared by all genders. 'После дождя' sets the moment of the single completed sighting."
+      },
+      {
+        "id": "VB-UVIDET-09",
+        "phrase": "Я очень хочу увидеть тебя снова.",
+        "fullAnalysis": "Strategic focus: Perfective infinitive. 'Увидеть' stays in the infinitive after the modal 'хочу'. The perfective stresses one wished-for reunion rather than habitual seeing, the role of imperfective видеть."
+      },
+      {
+        "id": "VB-UVIDET-10",
+        "phrase": "Посмотри направо и увидь ошибку.",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Увидь' is the informal command of увидеть, urging the listener to catch sight of something at once. It pairs naturally with the perfective partner of видеть."
+      }
+    ]
+  }
+]

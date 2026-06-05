@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-RASSKAZAT",
+    "label": "Рассказать",
+    "badge": "TELL",
+    "description": "A 10-sentence conjugation card for рассказать (to tell, to narrate, perfective).",
+    "missions": [
+      {
+        "id": "VB-RASSKAZAT-01",
+        "phrase": "Я расскажу тебе интересную историю.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Расскажу' uses the mutated стем расскаж-; perfective рассказать has future meaning in its simple form. The imperfective partner is рассказывать."
+      },
+      {
+        "id": "VB-RASSKAZAT-02",
+        "phrase": "Ты расскажешь нам о поездке?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Расскажешь' keeps the расскаж- stem with the -ешь ending. 'О поездке' is prepositional after о, marking the topic."
+      },
+      {
+        "id": "VB-RASSKAZAT-03",
+        "phrase": "Он расскажет всю правду.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Расскажет' is the он-form ending in -ет. 'Всю правду' is the accusative object of the completed telling."
+      },
+      {
+        "id": "VB-RASSKAZAT-04",
+        "phrase": "Мы расскажем вам план действий.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Расскажем' shows the мы-ending -ем on the расскаж- stem. 'Вам' is dative, 'план' accusative."
+      },
+      {
+        "id": "VB-RASSKAZAT-05",
+        "phrase": "Они расскажут о своих планах.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Расскажут' closes the future paradigm with the -ут ending. 'О своих планах' is prepositional after о."
+      },
+      {
+        "id": "VB-RASSKAZAT-06",
+        "phrase": "Он рассказал смешной анекдот.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Рассказал' is the masculine singular past of perfective рассказать. The aspect marks one finished story; 'анекдот' is accusative."
+      },
+      {
+        "id": "VB-RASSKAZAT-07",
+        "phrase": "Она рассказала детям сказку.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Рассказала' adds the feminine -а ending. 'Детям' is dative, 'сказку' the accusative object."
+      },
+      {
+        "id": "VB-RASSKAZAT-08",
+        "phrase": "Свидетели рассказали о происшествии.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Рассказали' is the plural past ending in -и. 'О происшествии' is prepositional after о, the topic of the account."
+      },
+      {
+        "id": "VB-RASSKAZAT-09",
+        "phrase": "Расскажи мне, что случилось вчера.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Расскажи' is the informal command of perfective рассказать. The perfective requests one complete account."
+      },
+      {
+        "id": "VB-RASSKAZAT-10",
+        "phrase": "Я хочу рассказать тебе секрет.",
+        "fullAnalysis": "Strategic focus: Infinitive after a modal. 'Хочу' governs the bare infinitive 'рассказать'. The perfective infinitive points to one whole telling; 'секрет' is accusative."
+      }
+    ]
+  }
+]

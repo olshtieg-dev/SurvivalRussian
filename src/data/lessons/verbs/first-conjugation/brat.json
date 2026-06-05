@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-BRAT",
+    "label": "Брать",
+    "badge": "TAKE",
+    "description": "A 10-sentence conjugation card for брать (to take).",
+    "missions": [
+      {
+        "id": "VB-BRAT-01",
+        "phrase": "Я всегда беру зонт в дорогу.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Беру' is the 1sg present of imperfective брать, which has the suppletive present stem бер-, very different from the infinitive. 'Зонт' is the accusative object."
+      },
+      {
+        "id": "VB-BRAT-02",
+        "phrase": "Ты часто берёшь книги в библиотеке?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Берёшь' is the 2sg present of брать, built on the бер- stem with the stressed -ёшь ending. 'Книги' is the plural accusative object."
+      },
+      {
+        "id": "VB-BRAT-03",
+        "phrase": "Он берёт уроки игры на гитаре.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Берёт' is the 3sg present of брать on the бер- stem with -ёт. 'Брать уроки' is the fixed idiom 'to take lessons'. Note the contrast with берет, a beret."
+      },
+      {
+        "id": "VB-BRAT-04",
+        "phrase": "Мы берём с собой много еды.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Берём' is the 1pl present of брать with the stressed -ём on the бер- stem. The phrase 'с собой' marks what we take along with us."
+      },
+      {
+        "id": "VB-BRAT-05",
+        "phrase": "Они берут такси до аэропорта.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Берут' is the 3pl present of брать on the бер- stem with -ут, completing the present ladder. 'Такси' is an indeclinable accusative object."
+      },
+      {
+        "id": "VB-BRAT-06",
+        "phrase": "Вчера я брал деньги в долг.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Брал' is the past m. sg. of брать, formed from the infinitive stem бра- plus -л. The imperfective stresses the ongoing or repeated act of borrowing."
+      },
+      {
+        "id": "VB-BRAT-07",
+        "phrase": "Она брала пример со старшей сестры.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Брала' is the past f. sg. of брать with -ла. 'Брать пример' is the idiom 'to follow someone's example', here looking up to an older sister."
+      },
+      {
+        "id": "VB-BRAT-08",
+        "phrase": "Дети брали игрушки без разрешения.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Брали' is the past pl. of брать with -ли. The imperfective marks a repeated past action, taking the toys again and again without permission."
+      },
+      {
+        "id": "VB-BRAT-09",
+        "phrase": "Бери что хочешь из холодильника.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Бери' is the informal command of брать, formed from the present stem бер- plus -и. The perfective partner взять gives the one-time command 'возьми'."
+      },
+      {
+        "id": "VB-BRAT-10",
+        "phrase": "Не надо брать чужие вещи.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Брать' is the bare infinitive after the modal 'надо', here negated. The imperfective fits a general prohibition, while perfective взять would point to one specific act."
+      }
+    ]
+  }
+]

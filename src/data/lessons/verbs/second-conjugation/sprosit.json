@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SPROSIT",
+    "label": "Спросить",
+    "badge": "ASK",
+    "description": "A 10-sentence conjugation card for спросить (to ask).",
+    "missions": [
+      {
+        "id": "VB-SPROSIT-01",
+        "phrase": "Я спрошу учителя об этом завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. Спросить is perfective, so 'спрошу' is its simple future and needs no auxiliary. Note the 1sg mutation с → ш in спрошу, against спросишь elsewhere."
+      },
+      {
+        "id": "VB-SPROSIT-02",
+        "phrase": "Ты спросишь его о цене?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Спросишь' shows the -ишь ending with the unmutated стем спрос-. As a perfective, it points to a single completed act, not a habit."
+      },
+      {
+        "id": "VB-SPROSIT-03",
+        "phrase": "Она спросит дорогу у прохожего.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Спросит' carries the -ит ending and means a one-time future asking. The pair partner is imperfective спрашивать for repeated action."
+      },
+      {
+        "id": "VB-SPROSIT-04",
+        "phrase": "Мы спросим, когда начнётся урок.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Спросим' uses the -им ending; the perfective frames a single intended question about timing."
+      },
+      {
+        "id": "VB-SPROSIT-05",
+        "phrase": "Они спросят, что мы решили.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Спросят' closes the person set with the -ят ending. Perfective спросить contrasts with iterative спрашивать."
+      },
+      {
+        "id": "VB-SPROSIT-06",
+        "phrase": "Вчера он спросил меня о работе.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Спросил' is the completed -л past of спросить. 'Вчера' anchors the single finished act of asking."
+      },
+      {
+        "id": "VB-SPROSIT-07",
+        "phrase": "Она спросила, где находится вокзал.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Спросила' adds the feminine -ла ending. The completed question is reported with an embedded clause about location."
+      },
+      {
+        "id": "VB-SPROSIT-08",
+        "phrase": "Дети спросили о новой игре.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Спросили' is the plural -ли past, shared by all genders. 'О новой игре' shows the о + prepositional topic of the question."
+      },
+      {
+        "id": "VB-SPROSIT-09",
+        "phrase": "Спроси, пожалуйста, у него адрес.",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Спроси' is the informal command of спросить. 'У него' marks the person you ask; the perfective fits a single request."
+      },
+      {
+        "id": "VB-SPROSIT-10",
+        "phrase": "Если не знаешь, лучше спросить.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Спросить' stays in the dictionary form after the evaluative 'лучше'. This bare infinitive gives general, timeless advice."
+      }
+    ]
+  }
+]

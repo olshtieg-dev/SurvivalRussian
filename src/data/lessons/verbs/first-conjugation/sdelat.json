@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-SDELAT",
+    "label": "Сделать",
+    "badge": "DO",
+    "description": "A 10-sentence conjugation card for сделать (to do, to make).",
+    "missions": [
+      {
+        "id": "VB-SDELAT-01",
+        "phrase": "Завтра я сделаю всю домашнюю работу.",
+        "fullAnalysis": "Strategic focus: Perfective future, first person. Сделать is the perfective partner of делать, so its non-past has future meaning. 'Сделаю' is the 1sg perfective future, stressing a single completed result rather than a process."
+      },
+      {
+        "id": "VB-SDELAT-02",
+        "phrase": "Ты сделаешь это задание сегодня вечером?",
+        "fullAnalysis": "Strategic focus: Perfective future, second person. 'Сделаешь' is the 2sg perfective future of сделать, with the first-conjugation -ешь ending on the сдела- stem. The perfective frames the task as a finished whole."
+      },
+      {
+        "id": "VB-SDELAT-03",
+        "phrase": "Он скоро сделает окончательный выбор.",
+        "fullAnalysis": "Strategic focus: Perfective future, third person. 'Сделает' is the 3sg perfective future of сделать with the -ет ending. 'Сделать выбор' is the fixed idiom 'to make a choice', and 'скоро' points to one decisive moment."
+      },
+      {
+        "id": "VB-SDELAT-04",
+        "phrase": "Мы сделаем ремонт за две недели.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Сделаем' is the 1pl perfective future of сделать. The perfective plus 'за две недели' marks a result achieved within a bounded time frame."
+      },
+      {
+        "id": "VB-SDELAT-05",
+        "phrase": "Рабочие сделают всё за один день.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Сделают' is the 3pl perfective future of сделать with the -ют ending. It closes the four non-past persons, all carrying completed-future sense."
+      },
+      {
+        "id": "VB-SDELAT-06",
+        "phrase": "Вчера я наконец сделал важный звонок.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Сделал' is the past m. sg. of perfective сделать, reporting a completed single action. 'Наконец' underlines that the result was finally reached."
+      },
+      {
+        "id": "VB-SDELAT-07",
+        "phrase": "Она сделала вкусный торт на праздник.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Сделала' is the past f. sg. of сделать with the -ла ending. The perfective past presents the cake as fully made and ready for the celebration."
+      },
+      {
+        "id": "VB-SDELAT-08",
+        "phrase": "Дети сделали уроки и пошли гулять.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Сделали' is the past pl. of сделать with the -ли ending. The perfective marks the homework as finished, which then allows the next action, 'пошли гулять'."
+      },
+      {
+        "id": "VB-SDELAT-09",
+        "phrase": "Сделай мне, пожалуйста, чашку чая.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Сделай' is the informal command of сделать, formed from the future stem сдела- plus -й. The perfective imperative asks for one specific completed action."
+      },
+      {
+        "id": "VB-SDELAT-10",
+        "phrase": "Я хочу сделать сюрприз для мамы.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Сделать' is the bare infinitive after the verb 'хочу', expressing intent toward a single completed result. The imperfective partner делать would instead stress the process."
+      }
+    ]
+  }
+]

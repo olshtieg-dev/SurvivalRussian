@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-POLUCHIT",
+    "label": "Получить",
+    "badge": "GET",
+    "description": "A 10-sentence conjugation card for получить (to get, to receive).",
+    "missions": [
+      {
+        "id": "VB-POLUCHIT-01",
+        "phrase": "Я получу зарплату в пятницу.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Получу' is the 1sg simple future of perfective получить, with the regular ч stem before -у. The imperfective partner is получать."
+      },
+      {
+        "id": "VB-POLUCHIT-02",
+        "phrase": "Ты получишь подарок завтра.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Получишь' shows the -ишь ending of получить. 'Подарок завтра' names a single completed event to come."
+      },
+      {
+        "id": "VB-POLUCHIT-03",
+        "phrase": "Он скоро получит ответ.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Получит' is the -ит form of получить, marking one completed result. 'Скоро' anchors the near future."
+      },
+      {
+        "id": "VB-POLUCHIT-04",
+        "phrase": "Мы получим новые документы в среду.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Получим' carries the -им ending of получить. 'Новые документы в среду' fixes the completed acquisition."
+      },
+      {
+        "id": "VB-POLUCHIT-05",
+        "phrase": "Вы получите письмо очень скоро.",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Получите' trains the -ите form of получить. 'Письмо очень скоро' makes a natural reassurance."
+      },
+      {
+        "id": "VB-POLUCHIT-06",
+        "phrase": "Студенты получат дипломы летом.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Получат' closes the person ladder with the -ат ending after the hushing ч. 'Дипломы летом' fixes the event."
+      },
+      {
+        "id": "VB-POLUCHIT-07",
+        "phrase": "Вчера я получил важное сообщение.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Получил' is the completed masculine past of получить with the -л suffix. 'Важное сообщение' is the accusative thing received."
+      },
+      {
+        "id": "VB-POLUCHIT-08",
+        "phrase": "Она получила хорошие новости утром.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Получила' adds the feminine -ла ending of получить. 'Хорошие новости' marks a single completed receipt."
+      },
+      {
+        "id": "VB-POLUCHIT-09",
+        "phrase": "Мы получили твоё письмо вчера.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Получили' is the plural -ли past of получить. Contrast this one finished act with the repeated imperfective получать."
+      },
+      {
+        "id": "VB-POLUCHIT-10",
+        "phrase": "Получи наконец свой паспорт!",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Получи' is the command form of получить. 'Наконец свой паспорт' makes a complete, pressing instruction to one listener."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-KHODIT",
+    "label": "Ходить",
+    "badge": "GO",
+    "description": "A 10-sentence conjugation card for ходить (to go, to walk).",
+    "missions": [
+      {
+        "id": "VB-KHODIT-01",
+        "phrase": "Я хожу в школу каждый день.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Ходить is an imperfective verb of habitual motion. Note the 1sg mutation д → ж in 'хожу', against ходишь elsewhere."
+      },
+      {
+        "id": "VB-KHODIT-02",
+        "phrase": "Ты ходишь в спортзал по утрам?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Ходишь' keeps the unmutated стем ход- with the -ишь ending. Ходить marks repeated, multidirectional trips, here a morning routine."
+      },
+      {
+        "id": "VB-KHODIT-03",
+        "phrase": "Он часто ходит в кино.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Ходит' takes the -ит ending. 'Часто' underlines the habitual meaning of ходить against one-way идти."
+      },
+      {
+        "id": "VB-KHODIT-04",
+        "phrase": "Мы ходим в парк по выходным.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Ходим' uses the -им ending. 'По выходным' frames the regular, repeated motion that ходить expresses."
+      },
+      {
+        "id": "VB-KHODIT-05",
+        "phrase": "Дети ходят в детский сад.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Ходят' closes the present set with the -ят ending. It describes a habitual, attended activity."
+      },
+      {
+        "id": "VB-KHODIT-06",
+        "phrase": "Вчера он ходил к врачу.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Ходил' is the masculine -л past; with ходить the past often means a there-and-back round trip. 'К врачу' shows the к + dative goal."
+      },
+      {
+        "id": "VB-KHODIT-07",
+        "phrase": "Она ходила в магазин утром.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Ходила' adds the feminine -ла ending. The completed round trip 'went and came back' is the typical reading of past ходить."
+      },
+      {
+        "id": "VB-KHODIT-08",
+        "phrase": "Мы вместе ходили на концерт.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Ходили' is the plural -ли past, shared by all genders. It reports a completed outing to an event."
+      },
+      {
+        "id": "VB-KHODIT-09",
+        "phrase": "Не ходи туда поздно вечером.",
+        "fullAnalysis": "Strategic focus: Imperative, singular negative. 'Ходи' is the informal command of ходить; with 'не' it warns against a habitual action. Negative imperatives prefer the imperfective."
+      },
+      {
+        "id": "VB-KHODIT-10",
+        "phrase": "Полезно ходить пешком каждый день.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Ходить' stays in the dictionary form after evaluative 'полезно'. The imperfective infinitive fits a general, ongoing habit."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-CHUVSTVOVAT",
+    "label": "Чувствовать",
+    "badge": "FEEL",
+    "description": "A 10-sentence conjugation card for чувствовать (to feel).",
+    "missions": [
+      {
+        "id": "VB-CHUVSTVOVAT-01",
+        "phrase": "Я чувствую себя гораздо лучше.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Чувствую' replaces the -ова- of the infinitive with -у-, giving the stem чувству-. 'Чувствовать себя' means to feel a certain way physically or emotionally."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-02",
+        "phrase": "Ты чувствуешь холод в комнате?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Чувствуешь' keeps the present stem чувству- and adds -ешь. 'Холод' is the accusative object that is being sensed."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-03",
+        "phrase": "Он чувствует сильную усталость.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Чувствует' is the он-form ending in -ет on the stem чувству-. 'Сильную усталость' is the accusative object."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-04",
+        "phrase": "Мы чувствуем большую ответственность.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Чувствуем' is the мы-form ending in -ем. 'Большую ответственность' is the accusative object naming the felt emotion."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-05",
+        "phrase": "Они чувствуют опасность рядом.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Чувствуют' closes the present ladder with the -ют ending on чувству-. 'Опасность' is the accusative object."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-06",
+        "phrase": "Утром я чувствовал лёгкую боль.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Чувствовал' is the masculine singular past, which restores the full -ова- of the infinitive. The imperfective stresses the ongoing sensation."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-07",
+        "phrase": "Она чувствовала себя одиноко.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Чувствовала' adds the feminine -а ending. With 'себя' and the adverb 'одиноко' it describes a past emotional state."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-08",
+        "phrase": "Дети чувствовали радость и счастье.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Чувствовали' is the plural past ending in -и. 'Радость и счастье' are the accusative objects naming the emotions felt."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-09",
+        "phrase": "Скоро ты будешь чувствовать себя сильнее.",
+        "fullAnalysis": "Strategic focus: Imperfective compound future. 'Будешь чувствовать' joins 'будешь' with the infinitive, since чувствовать is imperfective. 'Себя сильнее' projects an improving future state."
+      },
+      {
+        "id": "VB-CHUVSTVOVAT-10",
+        "phrase": "Важно чувствовать поддержку близких людей.",
+        "fullAnalysis": "Strategic focus: Infinitive use. The impersonal 'важно' governs the bare infinitive чувствовать. 'Поддержку' is the accusative object of this abstract feeling phrase."
+      }
+    ]
+  }
+]

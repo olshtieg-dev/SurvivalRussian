@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-LEZHAT",
+    "label": "Лежать",
+    "badge": "LIE",
+    "description": "A 10-sentence conjugation card for лежать (to lie, to be lying).",
+    "missions": [
+      {
+        "id": "VB-LEZHAT-01",
+        "phrase": "Я лежу на диване и читаю.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Лежу' is the 1sg of лежать; though the infinitive ends in -ать, it takes i-type endings, here -у after the hushing ж. 'На диване' marks position."
+      },
+      {
+        "id": "VB-LEZHAT-02",
+        "phrase": "Ты лежишь весь день в постели.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Лежишь' shows the -ишь ending typical of i-type verbs, despite the -ать infinitive. 'Весь день в постели' makes a gentle reproach."
+      },
+      {
+        "id": "VB-LEZHAT-03",
+        "phrase": "Книга лежит на столе.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Лежит' is the core -ит form of лежать, here describing where an object rests. 'На столе' fixes a static location."
+      },
+      {
+        "id": "VB-LEZHAT-04",
+        "phrase": "Мы лежим на траве и отдыхаем.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Лежим' carries the -им plural ending of лежать. 'На траве' and 'отдыхаем' paint a relaxed scene."
+      },
+      {
+        "id": "VB-LEZHAT-05",
+        "phrase": "Вы лежите слишком долго.",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Лежите' trains the -ите form of лежать. 'Слишком долго' makes a natural remark."
+      },
+      {
+        "id": "VB-LEZHAT-06",
+        "phrase": "Деньги лежат в верхнем ящике.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Лежат' closes the person ladder with the -ат ending after the hushing ж. 'В верхнем ящике' names where the money sits."
+      },
+      {
+        "id": "VB-LEZHAT-07",
+        "phrase": "Вчера он целый день лежал больной.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Лежал' is the masculine singular past of лежать with the -л suffix. 'Целый день больной' explains the prolonged rest."
+      },
+      {
+        "id": "VB-LEZHAT-08",
+        "phrase": "Она лежала и смотрела в окно.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Лежала' adds the feminine -ла ending of лежать. The parallel 'смотрела' repeats the past pattern."
+      },
+      {
+        "id": "VB-LEZHAT-09",
+        "phrase": "Я буду лежать и ничего не делать.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Буду' is the auxiliary and 'лежать' stays in the infinitive, forming the compound future. 'Ничего не делать' adds a lazy plan."
+      },
+      {
+        "id": "VB-LEZHAT-10",
+        "phrase": "Лежи спокойно и не вставай.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Лежи' is the informal command of лежать. 'Спокойно' and 'не вставай' form a complete instruction to one listener resting."
+      }
+    ]
+  }
+]

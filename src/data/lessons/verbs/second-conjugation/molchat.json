@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-MOLCHAT",
+    "label": "Молчать",
+    "badge": "SILENT",
+    "description": "A 10-sentence conjugation card for молчать (to be silent).",
+    "missions": [
+      {
+        "id": "VB-MOLCHAT-01",
+        "phrase": "Я молчу, потому что устал.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Молчать is imperfective and takes -чу after the stem ч. 'Молчу' means I keep silent right now, with a reason given."
+      },
+      {
+        "id": "VB-MOLCHAT-02",
+        "phrase": "Почему ты всё время молчишь?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Молчишь' shows the -ишь ending. 'Всё время' marks a habitual silence, the core sense of молчать."
+      },
+      {
+        "id": "VB-MOLCHAT-03",
+        "phrase": "Он молчит и смотрит в пол.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Молчит' takes the -ит ending. The verb describes an ongoing state of keeping quiet."
+      },
+      {
+        "id": "VB-MOLCHAT-04",
+        "phrase": "Мы молчим, чтобы не мешать.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Молчим' uses the -им ending. The purpose clause 'чтобы не мешать' explains the deliberate silence."
+      },
+      {
+        "id": "VB-MOLCHAT-05",
+        "phrase": "Они молчат уже целый час.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Молчат' closes the present set with the -ат ending. 'Целый час' stresses the durative silence."
+      },
+      {
+        "id": "VB-MOLCHAT-06",
+        "phrase": "Он молчал весь вечер.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Молчал' is the masculine -л past of молчать. 'Весь вечер' brings out the imperfective, lasting silence."
+      },
+      {
+        "id": "VB-MOLCHAT-07",
+        "phrase": "Она долго молчала после новости.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Молчала' adds the feminine -ла ending. 'Долго' stresses the sustained, durative quiet."
+      },
+      {
+        "id": "VB-MOLCHAT-08",
+        "phrase": "Все молчали и слушали внимательно.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Молчали' is the plural -ли past, shared by all genders. It pairs silence with attentive listening."
+      },
+      {
+        "id": "VB-MOLCHAT-09",
+        "phrase": "Молчи и слушай внимательно.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Молчи' is the informal command of молчать. Paired with 'слушай', it gives a firm order to stay quiet."
+      },
+      {
+        "id": "VB-MOLCHAT-10",
+        "phrase": "Иногда лучше молчать, чем спорить.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Молчать' stays in the dictionary form after evaluative 'лучше'. The imperfective infinitive states a general truth."
+      }
+    ]
+  }
+]

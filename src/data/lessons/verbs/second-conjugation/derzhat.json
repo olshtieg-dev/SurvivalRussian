@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-DERZHAT",
+    "label": "Держать",
+    "badge": "HOLD",
+    "description": "A 10-sentence conjugation card for держать (to hold, to keep).",
+    "missions": [
+      {
+        "id": "VB-DERZHAT-01",
+        "phrase": "Я держу твою сумку.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Держу' is the 1sg of держать; though the infinitive ends in -ать, it takes i-type endings, here -у after the hushing ж. 'Твою сумку' is the accusative object."
+      },
+      {
+        "id": "VB-DERZHAT-02",
+        "phrase": "Ты держишь ребёнка за руку.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Держишь' shows the -ишь ending of i-type держать. 'За руку' is a fixed phrase for holding someone's hand."
+      },
+      {
+        "id": "VB-DERZHAT-03",
+        "phrase": "Он крепко держит руль.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Держит' is the core -ит form of держать. 'Крепко руль' shows a firm grip while driving."
+      },
+      {
+        "id": "VB-DERZHAT-04",
+        "phrase": "Мы держим деньги в банке.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Держим' carries the -им plural ending of держать, here in the sense of keeping. 'В банке' names where."
+      },
+      {
+        "id": "VB-DERZHAT-05",
+        "phrase": "Вы держите дверь, пожалуйста?",
+        "fullAnalysis": "Strategic focus: Polite or plural present. 'Держите' trains the -ите form of держать. 'Дверь, пожалуйста' makes a courteous everyday request."
+      },
+      {
+        "id": "VB-DERZHAT-06",
+        "phrase": "Они держат собак во дворе.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Держат' closes the person ladder with the -ат ending after the hushing ж. 'Собак во дворе' means keeping animals."
+      },
+      {
+        "id": "VB-DERZHAT-07",
+        "phrase": "Вчера он долго держал зонт.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Держал' is the masculine singular past of держать with the -л suffix. 'Долго зонт' sets the scene."
+      },
+      {
+        "id": "VB-DERZHAT-08",
+        "phrase": "Она держала цветы в руках.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Держала' adds the feminine -ла ending of держать. 'Цветы в руках' completes the image."
+      },
+      {
+        "id": "VB-DERZHAT-09",
+        "phrase": "Я буду держать тебя в курсе.",
+        "fullAnalysis": "Strategic focus: Imperfective future. 'Буду' is the auxiliary and 'держать' stays in the infinitive, forming the compound future. 'В курсе' is a fixed idiom for keeping someone informed."
+      },
+      {
+        "id": "VB-DERZHAT-10",
+        "phrase": "Держи крепче, не урони!",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Держи' is the informal command of держать. 'Крепче' and 'не урони' make an urgent instruction to one listener."
+      }
+    ]
+  }
+]

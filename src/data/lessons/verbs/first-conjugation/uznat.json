@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-UZNAT",
+    "label": "Узнать",
+    "badge": "FINDOUT",
+    "description": "A 10-sentence conjugation card for узнать (to find out, recognize).",
+    "missions": [
+      {
+        "id": "VB-UZNAT-01",
+        "phrase": "Завтра я узнаю результаты экзамена.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Узнаю' is the я-form of perfective узнать and carries future meaning. The imperfective partner узнавать has the present-tense узнаю with shifting stress."
+      },
+      {
+        "id": "VB-UZNAT-02",
+        "phrase": "Скоро ты узнаешь всю правду.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Узнаешь' takes the -аешь ending. As a perfective, it points to a single moment of finding out the whole truth."
+      },
+      {
+        "id": "VB-UZNAT-03",
+        "phrase": "Он легко узнает старого друга.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Узнает' is the он-form ending in -ает. Here узнать means to recognize someone, a completed act of identification."
+      },
+      {
+        "id": "VB-UZNAT-04",
+        "phrase": "Мы узнаем правила позже.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Узнаем' shows the мы-form ending -аем. 'Позже' signals a finished act of learning the rules later on."
+      },
+      {
+        "id": "VB-UZNAT-05",
+        "phrase": "Они скоро узнают эту тайну.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Узнают' is the они-form with the -ают ending. Being perfective, it marks a single discovery of the secret."
+      },
+      {
+        "id": "VB-UZNAT-06",
+        "phrase": "Я случайно узнал его секрет.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Узнал' is the masculine singular past of perfective узнать. 'Случайно' frames the discovery as an unexpected, completed event."
+      },
+      {
+        "id": "VB-UZNAT-07",
+        "phrase": "Она сразу узнала мой голос.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Узнала' adds the feminine -а ending. Here узнать means to recognize, and 'сразу' stresses instant identification."
+      },
+      {
+        "id": "VB-UZNAT-08",
+        "phrase": "Соседи узнали важную новость.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Узнали' is the plural past form ending in -и. It reports that the neighbours found out the news as a finished fact."
+      },
+      {
+        "id": "VB-UZNAT-09",
+        "phrase": "Узнай номер её телефона.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Узнай' is the informal command of perfective узнать. It tells one person to find out a specific piece of information."
+      },
+      {
+        "id": "VB-UZNAT-10",
+        "phrase": "Я хочу узнать твоё настоящее имя.",
+        "fullAnalysis": "Strategic focus: Modal infinitive use. 'Хочу' governs the bare infinitive 'узнать', the perfective form. The sentence expresses a wish to find out one specific fact."
+      }
+    ]
+  }
+]

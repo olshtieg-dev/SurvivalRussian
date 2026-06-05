@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-OSTATSYA",
+    "label": "Остаться",
+    "badge": "STAY",
+    "description": "A 10-sentence conjugation card for остаться (to stay, remain).",
+    "missions": [
+      {
+        "id": "VB-OSTATSYA-01",
+        "phrase": "Я останусь дома на все выходные.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. Остаться is perfective and reflexive, so 'останусь' is the non-past 1sg form with future meaning, built on stem остан- plus the particle -сь. The imperfective partner is оставаться."
+      },
+      {
+        "id": "VB-OSTATSYA-02",
+        "phrase": "Ты останешься со мной до утра?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Останешься' shows the -ешься ending on stem остан-. As a perfective non-past it asks about one act of staying, with the reflexive particle -ся after the consonant."
+      },
+      {
+        "id": "VB-OSTATSYA-03",
+        "phrase": "Он останется в городе ещё неделю.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Останется' is the он-form ending in -ется. The perfective marks a single bounded period of staying, contrasting with the ongoing остаётся from оставаться."
+      },
+      {
+        "id": "VB-OSTATSYA-04",
+        "phrase": "Мы останемся здесь до конца концерта.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Останемся' carries the -емся ending on остан-. The perfective frames one decision to remain until a fixed endpoint rather than a habit."
+      },
+      {
+        "id": "VB-OSTATSYA-05",
+        "phrase": "Вы останетесь на ужин сегодня вечером?",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Останетесь' trains the respectful вы-form with -етесь on остан-. The reflexive particle becomes -сь after the vowel, asking about one act of staying."
+      },
+      {
+        "id": "VB-OSTATSYA-06",
+        "phrase": "Они останутся в деревне на лето.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Останутся' closes the non-past ladder with the -утся ending on остан-. The perfective marks a single future stay for the whole summer."
+      },
+      {
+        "id": "VB-OSTATSYA-07",
+        "phrase": "Он остался один в пустой квартире.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Остался' is the masculine singular past of perfective остаться, with the reflexive particle -ся after the -л. It reports one completed result of being left alone."
+      },
+      {
+        "id": "VB-OSTATSYA-08",
+        "phrase": "Она осталась довольна своей новой работой.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Осталась' adds the feminine -ась ending. The perfective past names a finished outcome, here остаться plus the short adjective 'довольна' to mean she ended up pleased."
+      },
+      {
+        "id": "VB-OSTATSYA-09",
+        "phrase": "Дети остались под присмотром бабушки.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Остались' is the plural past ending in -ись, completing the past forms. The perfective marks one completed arrangement of the children being left in their grandmother's care."
+      },
+      {
+        "id": "VB-OSTATSYA-10",
+        "phrase": "Останься ещё немного, прошу тебя.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Останься' is the informal command form on stem остан- with the reflexive -ся, asking one person to stay a little longer. The polite 'прошу тебя' softens the request."
+      }
+    ]
+  }
+]

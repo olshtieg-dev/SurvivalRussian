@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VESTI",
+    "label": "Вести",
+    "badge": "LEAD",
+    "description": "A 10-sentence conjugation card for вести (to lead, guide, conduct).",
+    "missions": [
+      {
+        "id": "VB-VESTI-01",
+        "phrase": "Я веду детей в школу каждое утро.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Вести is imperfective with the irregular present stem вед-, so the 1sg is 'веду' with the -у ending. It is the unidirectional verb of the водить pair."
+      },
+      {
+        "id": "VB-VESTI-02",
+        "phrase": "Куда ты ведёшь меня сейчас?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Ведёшь' shows the stressed -ёшь ending on stem вед-. As a unidirectional imperfective it names one ongoing act of leading in a single direction."
+      },
+      {
+        "id": "VB-VESTI-03",
+        "phrase": "Эта дорога ведёт прямо к реке.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Ведёт' is the она-form ending in -ёт on вед-. Here it has the common figurative sense of a road leading somewhere, an ongoing fixed direction."
+      },
+      {
+        "id": "VB-VESTI-04",
+        "phrase": "Мы ведём долгий разговор о политике.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Ведём' carries the -ём ending on вед-. The idiom 'вести разговор' means to carry on a conversation, an ongoing imperfective activity."
+      },
+      {
+        "id": "VB-VESTI-05",
+        "phrase": "Вы ведёте машину очень осторожно.",
+        "fullAnalysis": "Strategic focus: Second-person plural or polite present. 'Ведёте' trains the respectful вы-form with -ёте on вед-. 'Вести машину' is the fixed phrase for driving a car as an ongoing process."
+      },
+      {
+        "id": "VB-VESTI-06",
+        "phrase": "Все дороги ведут в Рим.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Ведут' closes the present ladder with the -ут ending on вед-. This well-known saying shows the figurative leading sense in the plural."
+      },
+      {
+        "id": "VB-VESTI-07",
+        "phrase": "Он вёл группу через тёмный лес.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. The past of вести is irregular: the masculine form is 'вёл' with no -л suffix visible after the stem. It reports an ongoing act of leading in the past."
+      },
+      {
+        "id": "VB-VESTI-08",
+        "phrase": "Она вела урок очень спокойно.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Вела' shows the feminine past built on the вёл stem with -а and the ё shifting to е when unstressed. 'Вести урок' means to conduct a lesson."
+      },
+      {
+        "id": "VB-VESTI-09",
+        "phrase": "Проводники вели туристов по горной тропе.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Вели' is the plural past ending in -и, completing the past forms. The imperfective stresses the ongoing process of guiding the tourists along the trail."
+      },
+      {
+        "id": "VB-VESTI-10",
+        "phrase": "Веди себя прилично за столом.",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Веди' is the informal command form on stem вед-. The reflexive idiom 'вести себя' means to behave, so this orders one person to behave properly."
+      }
+    ]
+  }
+]

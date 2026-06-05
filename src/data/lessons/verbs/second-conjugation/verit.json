@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-VERIT",
+    "label": "Верить",
+    "badge": "BELIEVE",
+    "description": "A 10-sentence conjugation card for верить (to believe).",
+    "missions": [
+      {
+        "id": "VB-VERIT-01",
+        "phrase": "Я верю тебе всем сердцем.",
+        "fullAnalysis": "Strategic focus: First-person singular present. Верить is imperfective and takes -ю for 'верю'. It governs the dative person 'тебе', the standard pattern for trusting someone."
+      },
+      {
+        "id": "VB-VERIT-02",
+        "phrase": "Ты веришь в чудеса?",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Веришь' shows the -ишь ending. 'В чудеса' shows the в + accusative pattern for believing in something."
+      },
+      {
+        "id": "VB-VERIT-03",
+        "phrase": "Он верит каждому твоему слову.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Верит' takes the -ит ending. It governs the dative 'каждому слову', meaning to trust what is said."
+      },
+      {
+        "id": "VB-VERIT-04",
+        "phrase": "Мы верим в нашу победу.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Верим' uses the -им ending. 'В нашу победу' shows the в + accusative of faith in an outcome."
+      },
+      {
+        "id": "VB-VERIT-05",
+        "phrase": "Они не верят этим слухам.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Верят' closes the present set with the -ят ending. The dative 'слухам' marks what is or is not believed."
+      },
+      {
+        "id": "VB-VERIT-06",
+        "phrase": "Он верил в свою мечту.",
+        "fullAnalysis": "Strategic focus: Past, masculine. 'Верил' is the masculine -л past of верить. The perfective partner поверить marks a single moment of coming to believe."
+      },
+      {
+        "id": "VB-VERIT-07",
+        "phrase": "Она всегда верила людям.",
+        "fullAnalysis": "Strategic focus: Past, feminine. 'Верила' adds the feminine -ла ending. The dative 'людям' is the standard object, and 'всегда' marks a lasting trait."
+      },
+      {
+        "id": "VB-VERIT-08",
+        "phrase": "Дети верили в добрые сказки.",
+        "fullAnalysis": "Strategic focus: Past, plural. 'Верили' is the plural -ли past, shared by all genders. 'В добрые сказки' shows belief in something with в + accusative."
+      },
+      {
+        "id": "VB-VERIT-09",
+        "phrase": "Верь в себя и не сдавайся.",
+        "fullAnalysis": "Strategic focus: Imperative, singular. 'Верь' is the informal command of верить. 'В себя' is a fixed idiom meaning to have self-confidence."
+      },
+      {
+        "id": "VB-VERIT-10",
+        "phrase": "Трудно верить пустым обещаниям.",
+        "fullAnalysis": "Strategic focus: Infinitive use. 'Верить' stays in the dictionary form after evaluative 'трудно'. The dative 'обещаниям' names what is hard to believe."
+      }
+    ]
+  }
+]

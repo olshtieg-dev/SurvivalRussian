@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-POYAVITSYA",
+    "label": "Появиться",
+    "badge": "APPEAR",
+    "description": "A 10-sentence conjugation card for появиться (to appear, show up).",
+    "missions": [
+      {
+        "id": "VB-POYAVITSYA-01",
+        "phrase": "Я появлюсь на встрече вовремя.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person singular. 'Появлюсь' is the reflexive simple future of появиться, with the в → вл mutation plus the -сь particle. It marks one completed arrival."
+      },
+      {
+        "id": "VB-POYAVITSYA-02",
+        "phrase": "Ты появишься завтра утром?",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person singular. 'Появишься' keeps the -ишься reflexive ending without the labial mutation, which surfaces only in the first person. 'Завтра утром' frames the single event."
+      },
+      {
+        "id": "VB-POYAVITSYA-03",
+        "phrase": "Скоро на небе появится луна.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person singular. 'Появится' is the reflexive simple future pointing to one moment of appearing. Its imperfective partner появляться describes recurring or gradual appearance."
+      },
+      {
+        "id": "VB-POYAVITSYA-04",
+        "phrase": "Мы появимся, как только сможем.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Появимся' takes the -имся reflexive ending and promises a single arrival. 'Как только сможем' sets the condition."
+      },
+      {
+        "id": "VB-POYAVITSYA-05",
+        "phrase": "Вы появитесь на сцене первыми.",
+        "fullAnalysis": "Strategic focus: Perfective future, polite or plural. 'Появитесь' is the respectful -итесь reflexive future. 'Первыми' is an instrumental marking the order of appearance."
+      },
+      {
+        "id": "VB-POYAVITSYA-06",
+        "phrase": "Внезапно появился сильный ветер.",
+        "fullAnalysis": "Strategic focus: Perfective past, masculine. 'Появился' is the masculine reflexive past with -лся, marking a sudden completed appearance. 'Внезапно' heightens the abruptness."
+      },
+      {
+        "id": "VB-POYAVITSYA-07",
+        "phrase": "На её лице появилась улыбка.",
+        "fullAnalysis": "Strategic focus: Perfective past, feminine. 'Появилась' adds the feminine reflexive ending -лась. 'Улыбка' is the subject that came into being in one moment."
+      },
+      {
+        "id": "VB-POYAVITSYA-08",
+        "phrase": "В городе появились новые магазины.",
+        "fullAnalysis": "Strategic focus: Perfective past, plural. 'Появились' is the plural reflexive past -лись for all genders. 'Новые магазины' is the subject that came into existence."
+      },
+      {
+        "id": "VB-POYAVITSYA-09",
+        "phrase": "Он обещал появиться к ужину.",
+        "fullAnalysis": "Strategic focus: Perfective infinitive. 'Появиться' stays infinitive after 'обещал'. The perfective marks one planned arrival; imperfective появляться would describe showing up repeatedly."
+      },
+      {
+        "id": "VB-POYAVITSYA-10",
+        "phrase": "Появись вовремя, не опаздывай!",
+        "fullAnalysis": "Strategic focus: Perfective imperative, singular. 'Появись' is the informal reflexive command of появиться, urging one timely arrival. It contrasts with imperfective появляйся for habitual showing up."
+      }
+    ]
+  }
+]

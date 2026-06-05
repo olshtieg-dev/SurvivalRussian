@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PISAT",
+    "label": "Писать",
+    "badge": "WRITE",
+    "description": "A 10-sentence conjugation card for писать (to write).",
+    "missions": [
+      {
+        "id": "VB-PISAT-01",
+        "phrase": "Я пишу письмо своему другу.",
+        "fullAnalysis": "Strategic focus: First-person singular present. 'Пишу' shows the с-to-ш consonant mutation typical of писать, with the ending -у. 'Письмо' is the accusative object and 'другу' the dative recipient."
+      },
+      {
+        "id": "VB-PISAT-02",
+        "phrase": "Ты красиво пишешь по-русски.",
+        "fullAnalysis": "Strategic focus: Second-person singular present. 'Пишешь' keeps the mutated stem пиш- and adds -ешь. 'По-русски' is the adverb of language, describing how you write."
+      },
+      {
+        "id": "VB-PISAT-03",
+        "phrase": "Мой брат пишет интересную книгу.",
+        "fullAnalysis": "Strategic focus: Third-person singular present. 'Пишет' is the он-form with the -ет ending on the mutated stem. 'Интересную книгу' is the accusative object."
+      },
+      {
+        "id": "VB-PISAT-04",
+        "phrase": "Мы пишем тест по математике.",
+        "fullAnalysis": "Strategic focus: First-person plural present. 'Пишем' is the мы-form ending in -ем, still on the stem пиш-. 'Писать тест' means to sit or take a written exam."
+      },
+      {
+        "id": "VB-PISAT-05",
+        "phrase": "Студенты пишут длинные сочинения.",
+        "fullAnalysis": "Strategic focus: Third-person plural present. 'Пишут' closes the present ladder with the -ут ending on пиш-. 'Длинные сочинения' is the plural accusative object."
+      },
+      {
+        "id": "VB-PISAT-06",
+        "phrase": "Вчера я писал доклад весь вечер.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Писал' is the masculine singular past of imperfective писать. 'Весь вечер' stresses the ongoing process; the perfective написать would mark completion."
+      },
+      {
+        "id": "VB-PISAT-07",
+        "phrase": "Она писала мне каждый день.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Писала' adds the feminine -а ending. 'Каждый день' underlines the repeated action that the imperfective conveys."
+      },
+      {
+        "id": "VB-PISAT-08",
+        "phrase": "Дети писали диктант в тетрадях.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Писали' is the plural past ending in -и. 'Диктант' is the accusative object and 'в тетрадях' the prepositional of place."
+      },
+      {
+        "id": "VB-PISAT-09",
+        "phrase": "Завтра я напишу тебе подробно.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Напишу' is the perfective написать with future meaning, promising one completed message. 'Завтра' marks the time and 'тебе' the recipient."
+      },
+      {
+        "id": "VB-PISAT-10",
+        "phrase": "Пиши мне, когда будет время!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Пиши' is the informal command formed from the present stem пиш-. It is the everyday way to ask someone to keep in touch."
+      }
+    ]
+  }
+]

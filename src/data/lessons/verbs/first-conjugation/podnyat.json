@@ -1,0 +1,60 @@
+[
+  {
+    "id": "VB-PODNYAT",
+    "label": "Поднять",
+    "badge": "LIFT",
+    "description": "A 10-sentence conjugation card for поднять (to lift, to raise, perfective).",
+    "missions": [
+      {
+        "id": "VB-PODNYAT-01",
+        "phrase": "Я подниму этот тяжёлый ящик.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person. 'Подниму' uses the irregular подним- stem; perfective поднять has future meaning in its simple form. The imperfective partner is поднимать."
+      },
+      {
+        "id": "VB-PODNYAT-02",
+        "phrase": "Ты поднимешь руку, если знаешь ответ.",
+        "fullAnalysis": "Strategic focus: Perfective future, second-person. 'Поднимешь' keeps the подним- stem with the -ешь ending. 'Руку' is the accusative object of the single completed gesture."
+      },
+      {
+        "id": "VB-PODNYAT-03",
+        "phrase": "Он поднимет упавшую книгу.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person. 'Поднимет' is the он-form ending in -ет. 'Упавшую книгу' is the accusative object."
+      },
+      {
+        "id": "VB-PODNYAT-04",
+        "phrase": "Мы поднимем флаг на рассвете.",
+        "fullAnalysis": "Strategic focus: Perfective future, first-person plural. 'Поднимем' shows the мы-ending -ем on the подним- stem. 'Флаг' is the accusative object."
+      },
+      {
+        "id": "VB-PODNYAT-05",
+        "phrase": "Они поднимут вопрос на собрании.",
+        "fullAnalysis": "Strategic focus: Perfective future, third-person plural. 'Поднимут' closes the future paradigm with the -ут ending. 'Поднять вопрос' is the idiom to raise an issue."
+      },
+      {
+        "id": "VB-PODNYAT-06",
+        "phrase": "Он легко поднял тяжёлую сумку.",
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Поднял' is the masculine singular past of perfective поднять. The aspect marks one completed lift; 'тяжёлую сумку' is accusative."
+      },
+      {
+        "id": "VB-PODNYAT-07",
+        "phrase": "Она подняла глаза и улыбнулась.",
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Подняла' adds the feminine -а ending. 'Поднять глаза' is the idiom to look up; 'глаза' is the accusative object."
+      },
+      {
+        "id": "VB-PODNYAT-08",
+        "phrase": "Рабочие подняли груз краном.",
+        "fullAnalysis": "Strategic focus: Plural past tense. 'Подняли' is the plural past ending in -и. 'Краном' is instrumental, the means by which the load was raised."
+      },
+      {
+        "id": "VB-PODNYAT-09",
+        "phrase": "Подними голову и смотри вперёд!",
+        "fullAnalysis": "Strategic focus: Singular imperative. 'Подними' is the informal command of perfective поднять. 'Голову' is the accusative object of one decisive action."
+      },
+      {
+        "id": "VB-PODNYAT-10",
+        "phrase": "Помоги мне поднять этот стол.",
+        "fullAnalysis": "Strategic focus: Infinitive after a verb. 'Помоги' governs the bare infinitive 'поднять'. The perfective infinitive points to one completed lifting; 'этот стол' is accusative."
+      }
+    ]
+  }
+]
