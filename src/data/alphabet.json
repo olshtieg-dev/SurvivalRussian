@@ -45,5 +45,6 @@
   "Digit5": { "cyrillic": "5", "shifted": "%", "label": "Percent" },
   "Digit6": { "cyrillic": "6", "shifted": ":", "label": "Colon" },
   "Digit7": { "cyrillic": "7", "shifted": "?", "label": "Question Mark" },
-  "Slash": { "cyrillic": ".", "shifted": ",", "label": "Period/Comma" }
+  "Slash": { "cyrillic": ".", "shifted": ",", "label": "Period/Comma" },
+  "Minus": { "cyrillic": "-", "shifted": "—", "label": "Hyphen/Em-dash" }
 }

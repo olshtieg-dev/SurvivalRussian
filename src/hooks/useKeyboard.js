@@ -13,22 +13,19 @@ export const useKeyboard = (onKeyPress) => {
 
       const { code, shiftKey } = event;
 
-      // Layout-aware passthrough for the 6 punctuation chars used in lesson phrases.
-      // Honors the OS keyboard layout (Dvorak, QWERTY, etc.) — pressing the key
-      // labeled `.` on your keycap produces `.` regardless of physical position.
-      // Trade-off: JCUKEN ю/б unreachable from physical Period/Comma on QWERTY.
-      const PUNCT_PASSTHROUGH = new Set(['.', ',', '?', '!', '-', '—']);
-      if (PUNCT_PASSTHROUGH.has(event.key)) {
-        event.preventDefault();
-        onKeyPress(event.key);
-        return;
-      }
+      // Pure positional input: every physical key is resolved by `event.code`
+      // (layout-independent) through alphabet.json's JCUKEN map. No event.key
+      // passthrough — that collided with б/ю/э on physical Comma/Period/Quote and
+      // broke them per OS layout (Dvorak emits `-` at Quote, QWERTY `,` at Comma).
+      // All 6 lesson punctuation chars have positional homes: . / , on Slash,
+      // ? / ! on Shift+7 / Shift+1, - / — on Minus (em-dash via Shift).
 
       // Helper for symbol/number mapping
       const codeToKeyMap = {
         "Semicolon": "Semicolon", "Quote": "Quote", "Comma": "Comma",
-        "Period": "Period", "Slash": "Slash", "BracketLeft": "BracketLeft",
-        "BracketRight": "BracketRight", "Backquote": "Backquote",
+        "Period": "Period", "Slash": "Slash", "Minus": "Minus",
+        "BracketLeft": "BracketLeft", "BracketRight": "BracketRight",
+        "Backquote": "Backquote",
         "Digit1": "Digit1", "Digit2": "Digit2", "Digit3": "Digit3",
         "Digit4": "Digit4", "Digit5": "Digit5", "Digit6": "Digit6", "Digit7": "Digit7"
       };
