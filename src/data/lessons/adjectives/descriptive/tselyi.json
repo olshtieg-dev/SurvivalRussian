@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-DESC-TSELYI",
+    "label": "Целый",
+    "badge": "DESC",
+    "description": "A 10-sentence agreement card for целый (whole).",
+    "missions": [
+      {
+        "id": "AJ-DESC-TSELYI-01",
+        "phrase": "Он работал целый день.",
+        "fullAnalysis": "Strategic focus: Masculine accusative of duration. 'Целый' matches the inanimate masculine 'день', whose accusative looks like the nominative. The time expression is a common everyday use."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-02",
+        "phrase": "Я ждал тебя целую неделю.",
+        "fullAnalysis": "Strategic focus: Feminine accusative of duration. 'Целую' takes the feminine accusative ending to match 'неделю'. The phrase expresses a stretch of time."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-03",
+        "phrase": "У нас впереди целое лето.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Целое' takes the neuter ending to match 'лето'. The hopeful remark anchors the neuter form."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-04",
+        "phrase": "Прошли целые годы без вестей.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Целые' takes the plural ending to match 'годы'. The dramatic image fixes the plural form."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-05",
+        "phrase": "Ребёнок съел целый торт.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Целый' matches the inanimate masculine 'торт', whose accusative looks like the nominative. The everyday scene roots the form."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-06",
+        "phrase": "Целая толпа стояла у дверей.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Целая' takes the feminine ending to match 'толпа'. The street scene makes the form concrete."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-07",
+        "phrase": "Мы говорили об этом целый час.",
+        "fullAnalysis": "Strategic focus: Masculine accusative of duration. 'Целый' matches 'час', an inanimate masculine noun whose accusative equals the nominative. The phrase marks a span of time."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-08",
+        "phrase": "Она прочитала целую книгу за вечер.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Целую' takes the feminine accusative ending to match 'книгу'. The accomplishment fixes the oblique form."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-09",
+        "phrase": "На столе стоит целое ведро воды.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Целое' takes the neuter ending to match 'ведро'. The homely image anchors the neuter form."
+      },
+      {
+        "id": "AJ-DESC-TSELYI-10",
+        "phrase": "Они построили целые новые дома.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Целые' matches the inanimate plural 'дома', whose accusative looks like the nominative. As a quantity word, целый has no comparative form."
+      }
+    ]
+  }
+]

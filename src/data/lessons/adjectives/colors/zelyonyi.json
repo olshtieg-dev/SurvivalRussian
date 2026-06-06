@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-COLOR-ZELYONYI",
+    "label": "Зелёный",
+    "badge": "COLOR",
+    "description": "A 10-sentence agreement card for зелёный (green).",
+    "missions": [
+      {
+        "id": "AJ-COLOR-ZELYONYI-01",
+        "phrase": "На столе лежит зелёный карандаш.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Зелёный' takes the masculine ending to match 'карандаш'. The desk scene anchors the colour form in daily life."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-02",
+        "phrase": "У неё зелёная сумка.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Зелёная' takes the feminine ending to match 'сумка'. The simple description fixes the feminine colour form in mind."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-03",
+        "phrase": "Это зелёное яблоко очень кислое.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Зелёное' takes the neuter ending to match 'яблоко'. The everyday food image roots the neuter colour form."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-04",
+        "phrase": "Весной появляются зелёные листья.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Зелёные' takes the plural ending to match 'листья'. The spring scene fixes the plural colour form."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-05",
+        "phrase": "Мы гуляли по зелёному парку.",
+        "fullAnalysis": "Strategic focus: Masculine dative agreement. After 'по', 'зелёному' takes the masculine dative ending to match 'парку'. The walk grounds the oblique colour form."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-06",
+        "phrase": "Дом стоит за зелёной изгородью.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental agreement. After 'за', 'зелёной' takes the feminine instrumental ending to match 'изгородью'. The garden scene anchors the oblique case."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-07",
+        "phrase": "У меня нет зелёного шарфа.",
+        "fullAnalysis": "Strategic focus: Masculine genitive agreement. After negated 'нет', 'зелёного' takes the masculine genitive ending to match 'шарфа'. The phrase shows the genitive in everyday use."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-08",
+        "phrase": "Дети рисовали зелёные деревья.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Зелёные' matches inanimate plural 'деревья', so the accusative mirrors the nominative. The drawing scene roots the plural form."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-09",
+        "phrase": "Эта трава зеленее прошлогодней.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Зеленее' is the comparative of 'зелёный' and stays the same for any gender. The sentence compares this year's grass to last year's."
+      },
+      {
+        "id": "AJ-COLOR-ZELYONYI-10",
+        "phrase": "Светофор наконец стал зелёным.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental in the predicate. After 'стал', 'зелёным' takes the masculine instrumental ending to match 'светофор'. This shows the становиться-plus-instrumental pattern."
+      }
+    ]
+  }
+]

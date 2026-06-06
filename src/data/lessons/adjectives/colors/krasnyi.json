@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-COLOR-KRASNYI",
+    "label": "Красный",
+    "badge": "COLOR",
+    "description": "A 10-sentence agreement card for красный (red).",
+    "missions": [
+      {
+        "id": "AJ-COLOR-KRASNYI-01",
+        "phrase": "На столе лежит красный карандаш.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Красный' takes the masculine ending to match 'карандаш'. The colour adjective names a simple visible quality."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-02",
+        "phrase": "Красная площадь находится в Москве.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Красная' takes the feminine ending to match 'площадь'. The famous place name keeps the colour word lowercase as a common adjective."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-03",
+        "phrase": "У неё красное платье.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Красное' takes the neuter ending to match 'платье'. The everyday observation anchors the neuter form."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-04",
+        "phrase": "В саду растут красные розы.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Красные' takes the plural ending to match 'розы'. The garden image fixes the plural form."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-05",
+        "phrase": "Он купил красный автомобиль.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Красный' matches the inanimate masculine 'автомобиль', whose accusative looks like the nominative. The purchase scene roots the form."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-06",
+        "phrase": "Она надела красную шляпу.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Красную' takes the feminine accusative ending to match 'шляпу'. The action shows the colour word in an oblique case."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-07",
+        "phrase": "Машина остановилась на красный свет.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Красный' matches 'свет', an inanimate masculine noun whose accusative equals the nominative. The traffic scene is a familiar collocation."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-08",
+        "phrase": "Я пишу красной ручкой.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental agreement. 'Красной' takes the feminine instrumental ending to match 'ручкой'. The instrument phrase shows agreement in an oblique case."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-09",
+        "phrase": "Дом стоит за красными воротами.",
+        "fullAnalysis": "Strategic focus: Plural instrumental agreement. After 'за', 'красными' takes the plural instrumental ending to match 'воротами'. The sentence extends the colour into a plural oblique case."
+      },
+      {
+        "id": "AJ-COLOR-KRASNYI-10",
+        "phrase": "На картине много красных пятен.",
+        "fullAnalysis": "Strategic focus: Plural genitive agreement. After 'много', 'красных' takes the plural genitive ending to match 'пятен'. As a colour word, красный is used for agreement rather than comparison."
+      }
+    ]
+  }
+]

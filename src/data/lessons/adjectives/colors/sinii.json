@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-COLOR-SINII",
+    "label": "Синий",
+    "badge": "COLOR",
+    "description": "A 10-sentence agreement card for синий (dark blue).",
+    "missions": [
+      {
+        "id": "AJ-COLOR-SINII-01",
+        "phrase": "На столе лежит синий карандаш.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Синий' is a soft-stem adjective taking the masculine ending to match 'карандаш'. The desk scene anchors the form."
+      },
+      {
+        "id": "AJ-COLOR-SINII-02",
+        "phrase": "Она надела синюю юбку.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Синюю' takes the soft feminine accusative ending to match 'юбку'. The clothing scene fixes the form."
+      },
+      {
+        "id": "AJ-COLOR-SINII-03",
+        "phrase": "Над городом синее небо.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Синее' takes the soft neuter ending to match 'небо'. The sky image grounds the neuter form."
+      },
+      {
+        "id": "AJ-COLOR-SINII-04",
+        "phrase": "Мне нравятся синие цветы.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Синие' takes the soft plural ending to match 'цветы'. The sentence shows the colour across several items."
+      },
+      {
+        "id": "AJ-COLOR-SINII-05",
+        "phrase": "Я купил синий костюм вчера.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Синий' is accusative matching the inanimate 'костюм', identical to the nominative. The shopping scene sets the form."
+      },
+      {
+        "id": "AJ-COLOR-SINII-06",
+        "phrase": "В синей сумке лежат ключи.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'в', 'синей' takes the soft feminine prepositional ending to match 'сумке'. The location anchors the case."
+      },
+      {
+        "id": "AJ-COLOR-SINII-07",
+        "phrase": "У синего моря стоит дом.",
+        "fullAnalysis": "Strategic focus: Neuter genitive agreement. After 'у', 'синего' takes the soft neuter genitive ending to match 'моря'. The seaside scene grounds the case."
+      },
+      {
+        "id": "AJ-COLOR-SINII-08",
+        "phrase": "Он рисует синим карандашом.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental agreement. 'Синим' takes the soft masculine instrumental ending to match 'карандашом'. The drawing tool sets the case."
+      },
+      {
+        "id": "AJ-COLOR-SINII-09",
+        "phrase": "Девочка играет с синим мячом.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental agreement. After 'с', 'синим' takes the soft instrumental ending to match 'мячом'. As a colour, синий has no comparative, so agreement is the focus."
+      },
+      {
+        "id": "AJ-COLOR-SINII-10",
+        "phrase": "Я вижу синие глаза ребёнка.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Синие' takes the soft plural ending to match the inanimate 'глаза', like the nominative. The face scene anchors the colour."
+      }
+    ]
+  }
+]

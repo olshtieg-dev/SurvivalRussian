@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-DESC-IZVESTNYI",
+    "label": "Известный",
+    "badge": "DESC",
+    "description": "A 10-sentence agreement card for известный (well-known).",
+    "missions": [
+      {
+        "id": "AJ-DESC-IZVESTNYI-01",
+        "phrase": "Это известный русский писатель.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Известный' takes the masculine ending to match 'писатель'. The sentence introduces a famous person."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-02",
+        "phrase": "Она известная певица.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Известная' takes the feminine ending to match 'певица'. The phrase fixes the form in a familiar role."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-03",
+        "phrase": "Это известное место в городе.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Известное' takes the neuter ending to match 'место'. The sentence anchors the form in a city scene."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-04",
+        "phrase": "Здесь живут известные художники.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Известные' takes the plural ending to match 'художники'. The sentence shows the form with several people."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-05",
+        "phrase": "Я встретил известного актёра.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Известного' takes the masculine genitive-accusative ending to match the animate 'актёра'. The action sets the case."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-06",
+        "phrase": "Мы говорим об известной книге.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'об', 'известной' takes the feminine prepositional ending to match 'книге'. The topic anchors the case."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-07",
+        "phrase": "Картина известного мастера висит здесь.",
+        "fullAnalysis": "Strategic focus: Masculine genitive agreement. 'Известного' takes the masculine genitive ending to match the animate 'мастера'. The phrase marks authorship."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-08",
+        "phrase": "Этот учёный известен во всём мире.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'известен' states a present quality of 'учёный' with a fill vowel. Short forms suit current-state descriptions."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-09",
+        "phrase": "Её имя стало более известным.",
+        "fullAnalysis": "Strategic focus: Comparative with более. The analytic comparative 'более известным' keeps the neuter instrumental ending after 'стало'. This adjective forms its comparative with 'более'."
+      },
+      {
+        "id": "AJ-DESC-IZVESTNYI-10",
+        "phrase": "Я читаю известные стихи поэта.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Известные' takes the plural ending to match the inanimate 'стихи', identical to the nominative. The reading scene sets the case."
+      }
+    ]
+  }
+]

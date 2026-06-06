@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-COLOR-ZOLOTOI",
+    "label": "Золотой",
+    "badge": "COLOR",
+    "description": "A 10-sentence agreement card for золотой (golden).",
+    "missions": [
+      {
+        "id": "AJ-COLOR-ZOLOTOI-01",
+        "phrase": "На пальце блестит золотой перстень.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Золотой' takes the stressed masculine ending to match 'перстень'. The colour and material word names a shining quality."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-02",
+        "phrase": "У неё золотая цепочка.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Золотая' takes the feminine ending to match 'цепочка'. The everyday detail anchors the feminine form."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-03",
+        "phrase": "На столе лежит золотое кольцо.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Золотое' takes the neuter ending to match 'кольцо'. The collocation золотое кольцо is a familiar pairing."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-04",
+        "phrase": "Осенью деревья роняют золотые листья.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Золотые' takes the plural ending to match 'листья'. The autumn image fixes the plural form."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-05",
+        "phrase": "Спортсмен завоевал золотую медаль.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Золотую' takes the feminine accusative ending to match 'медаль'. The award scene roots the oblique form."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-06",
+        "phrase": "Она надела золотую брошь.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Золотую' takes the feminine accusative ending to match 'брошь'. The action shows the colour word in an oblique case."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-07",
+        "phrase": "Часы лежат в золотом футляре.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional agreement. After 'в', 'золотом' takes the masculine prepositional ending to match 'футляре'. The detail anchors the oblique form."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-08",
+        "phrase": "Икона стоит в золотой раме.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'в', 'золотой' takes the feminine prepositional ending to match 'раме'. The location phrase shows agreement in an oblique case."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-09",
+        "phrase": "Мастер украсил шкатулку золотыми узорами.",
+        "fullAnalysis": "Strategic focus: Plural instrumental agreement. After 'украсил', 'золотыми' takes the plural instrumental ending to match 'узорами'. The sentence extends the colour into a plural oblique case."
+      },
+      {
+        "id": "AJ-COLOR-ZOLOTOI-10",
+        "phrase": "В музее много золотых монет.",
+        "fullAnalysis": "Strategic focus: Plural genitive agreement. After 'много', 'золотых' takes the plural genitive ending to match 'монет'. As a colour and material word, золотой is used for agreement rather than comparison."
+      }
+    ]
+  }
+]

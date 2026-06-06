@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-DESC-VELIKII",
+    "label": "Великий",
+    "badge": "DESC",
+    "description": "A 10-sentence agreement card for великий (great).",
+    "missions": [
+      {
+        "id": "AJ-DESC-VELIKII-01",
+        "phrase": "Пушкин - великий поэт.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Великий' takes the masculine ending to match 'поэт'. The literary statement anchors the form in a familiar context."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-02",
+        "phrase": "Это была великая победа.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Великая' takes the feminine ending to match 'победа'. The triumphant sentence fixes the feminine form in mind."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-03",
+        "phrase": "Это великое открытие науки.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Великое' takes the neuter ending to match 'открытие'. The phrase roots the neuter form in a scholarly scene."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-04",
+        "phrase": "Эти люди - великие учёные.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Великие' takes the plural ending to match 'учёные'. The admiring statement fixes the plural form."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-05",
+        "phrase": "Мы читали о великом писателе.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional agreement. After 'о', 'великом' takes the masculine prepositional ending to match 'писателе'. The reading scene grounds the oblique form."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-06",
+        "phrase": "Город гордится великой историей.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental agreement. 'Великой' takes the feminine instrumental ending to match 'историей' after 'гордится'. The civic pride anchors the oblique case."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-07",
+        "phrase": "Памятник великому полководцу стоит в центре.",
+        "fullAnalysis": "Strategic focus: Masculine dative agreement. 'Великому' takes the masculine dative ending to match 'полководцу'. The monument scene shows the dative in use."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-08",
+        "phrase": "Это эпоха великих перемен.",
+        "fullAnalysis": "Strategic focus: Plural genitive agreement. 'Великих' takes the plural genitive ending to match 'перемен'. The historical phrase roots the genitive form."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-09",
+        "phrase": "Её мечта была великой.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'великой' takes the feminine instrumental ending to match 'мечта'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "AJ-DESC-VELIKII-10",
+        "phrase": "Этот замысел просто великий!",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Великий' follows the noun as a predicate describing 'замысел'. The enthusiastic remark roots the form in daily speech."
+      }
+    ]
+  }
+]

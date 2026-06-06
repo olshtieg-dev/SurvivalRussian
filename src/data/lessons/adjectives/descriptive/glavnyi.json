@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-DESC-GLAVNYI",
+    "label": "Главный",
+    "badge": "DESC",
+    "description": "A 10-sentence agreement card for главный (main).",
+    "missions": [
+      {
+        "id": "AJ-DESC-GLAVNYI-01",
+        "phrase": "Это наш главный вопрос.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Главный' takes the masculine ending to match 'вопрос'. The short statement anchors the form in everyday discussion."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-02",
+        "phrase": "Главная улица очень красивая.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Главная' takes the feminine ending to match 'улица'. The sentence anchors the form in a city scene."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-03",
+        "phrase": "Это главное правило игры.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Главное' takes the neuter ending to match 'правило'. The phrase fixes the neuter form in a familiar context."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-04",
+        "phrase": "Это наши главные цели.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Главные' takes the plural ending to match 'цели'. The sentence shows the form across several items."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-05",
+        "phrase": "Я задал главный вопрос директору.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Главный' is accusative matching the inanimate 'вопрос', which looks like the nominative. The action sentence sets the form in context."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-06",
+        "phrase": "Мы стоим на главной площади.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'на', 'главной' takes the feminine prepositional ending to match 'площади'. The location anchors the case form."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-07",
+        "phrase": "Имя главного героя я забыл.",
+        "fullAnalysis": "Strategic focus: Masculine genitive agreement. 'Главного' takes the masculine genitive ending to match the animate 'героя'. The phrase shows possession of a name."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-08",
+        "phrase": "Поговори с главным инженером завода.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental agreement. After 'с', 'главным' takes the masculine instrumental ending to match 'инженером'. The work scene grounds the case."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-09",
+        "phrase": "Главную роль играет молодая актриса.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Главную' takes the feminine accusative ending to match 'роль'. The theatre context fixes the form."
+      },
+      {
+        "id": "AJ-DESC-GLAVNYI-10",
+        "phrase": "Здоровье - это главное в жизни.",
+        "fullAnalysis": "Strategic focus: Neuter predicate adjective. 'Главное' stands as a neuter predicate noun, naming what matters most. This adjective is relational and has no comparative form."
+      }
+    ]
+  }
+]

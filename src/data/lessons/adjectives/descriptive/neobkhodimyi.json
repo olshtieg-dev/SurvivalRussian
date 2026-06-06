@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-DESC-NEOBKHODIMYI",
+    "label": "Необходимый",
+    "badge": "DESC",
+    "description": "A 10-sentence agreement card for необходимый (essential).",
+    "missions": [
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-01",
+        "phrase": "Это необходимый шаг вперёд.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Необходимый' takes the masculine ending to match 'шаг'. The phrase anchors the form in plain speech."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-02",
+        "phrase": "Это необходимая мера сейчас.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Необходимая' takes the feminine ending to match 'мера'. The sentence fixes the form in context."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-03",
+        "phrase": "Это необходимое условие договора.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Необходимое' takes the neuter ending to match 'условие'. The phrase grounds the neuter form."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-04",
+        "phrase": "Врач дал необходимые советы.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Необходимые' takes the plural ending to match the inanimate 'советы', like the nominative. The action sets the case."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-05",
+        "phrase": "Я собрал необходимый материал.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Необходимый' is accusative matching the inanimate 'материал', identical to the nominative. The action grounds the form."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-06",
+        "phrase": "Мы говорим о необходимой помощи.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'о', 'необходимой' takes the feminine prepositional ending to match 'помощи'. The topic anchors the case."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-07",
+        "phrase": "Без необходимого опыта здесь трудно.",
+        "fullAnalysis": "Strategic focus: Masculine genitive agreement. After 'без', 'необходимого' takes the masculine genitive ending to match 'опыта'. The preposition drives the case."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-08",
+        "phrase": "Этот документ необходим для поездки.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'необходим' states a present necessity matching 'документ'. Short forms are typical when stating what is essential."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-09",
+        "phrase": "Такая встреча необходима для решения.",
+        "fullAnalysis": "Strategic focus: Short-form feminine predicate. The short form 'необходима' states a present necessity matching the feminine 'встреча'. Short forms commonly express essential need."
+      },
+      {
+        "id": "AJ-DESC-NEOBKHODIMYI-10",
+        "phrase": "Эти меры необходимы для безопасности.",
+        "fullAnalysis": "Strategic focus: Short-form plural predicate. The short form 'необходимы' states a present necessity matching the plural 'меры'. The sentence extends the pattern into the plural."
+      }
+    ]
+  }
+]

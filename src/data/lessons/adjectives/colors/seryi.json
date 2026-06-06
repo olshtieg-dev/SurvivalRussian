@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-COLOR-SERYI",
+    "label": "Серый",
+    "badge": "COLOR",
+    "description": "A 10-sentence agreement card for серый (grey).",
+    "missions": [
+      {
+        "id": "AJ-COLOR-SERYI-01",
+        "phrase": "По двору ходит серый кот.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Серый' takes the masculine ending to match 'кот'. The courtyard scene anchors the colour form in daily life."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-02",
+        "phrase": "На небе серая туча.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Серая' takes the feminine ending to match 'туча'. The weather image fixes the feminine colour form in mind."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-03",
+        "phrase": "Это серое здание очень старое.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Серое' takes the neuter ending to match 'здание'. The cityscape roots the neuter colour form."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-04",
+        "phrase": "За окном плывут серые облака.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Серые' takes the plural ending to match 'облака'. The window scene fixes the plural colour form."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-05",
+        "phrase": "Он пришёл в сером костюме.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional agreement. After 'в', 'сером' takes the masculine prepositional ending to match 'костюме'. The clothing scene grounds the oblique form."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-06",
+        "phrase": "Она шла по серой дороге.",
+        "fullAnalysis": "Strategic focus: Feminine dative agreement. After 'по', 'серой' takes the feminine dative ending to match 'дороге'. The walk anchors the oblique colour form."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-07",
+        "phrase": "У меня нет серого свитера.",
+        "fullAnalysis": "Strategic focus: Masculine genitive agreement. After negated 'нет', 'серого' takes the masculine genitive ending to match 'свитера'. The phrase shows the genitive in everyday use."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-08",
+        "phrase": "Мы любуемся серыми горами.",
+        "fullAnalysis": "Strategic focus: Plural instrumental agreement. After 'любуемся', 'серыми' takes the plural instrumental ending to match 'горами'. The scenic moment roots the oblique plural form."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-09",
+        "phrase": "К вечеру небо стало серее.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Серее' is the comparative of 'серый' and stays the same for any gender. The sentence compares the evening sky to earlier."
+      },
+      {
+        "id": "AJ-COLOR-SERYI-10",
+        "phrase": "Его волосы давно стали серыми.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'стали', 'серыми' takes the plural instrumental ending to match 'волосы'. This shows the становиться-plus-instrumental pattern."
+      }
+    ]
+  }
+]

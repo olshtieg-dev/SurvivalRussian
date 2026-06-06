@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-DESC-NUZHNYI",
+    "label": "Нужный",
+    "badge": "DESC",
+    "description": "A 10-sentence agreement card for нужный (needed).",
+    "missions": [
+      {
+        "id": "AJ-DESC-NUZHNYI-01",
+        "phrase": "Это очень нужный совет.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Нужный' takes the masculine ending to match 'совет'. The remark fixes the form in everyday speech."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-02",
+        "phrase": "Это нужная вещь в доме.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Нужная' takes the feminine ending to match 'вещь'. The household scene anchors the form."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-03",
+        "phrase": "Это нужное дело для всех.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Нужное' takes the neuter ending to match 'дело'. The phrase fixes the neuter form in context."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-04",
+        "phrase": "Я купил все нужные продукты.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Нужные' takes the plural ending to match the inanimate 'продукты', like the nominative. The shopping scene sets the case."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-05",
+        "phrase": "Я нашёл нужный адрес быстро.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Нужный' is accusative matching the inanimate 'адрес', identical to the nominative. The action grounds the form."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-06",
+        "phrase": "В нужной книге есть ответ.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'в', 'нужной' takes the feminine prepositional ending to match 'книге'. The location anchors the case."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-07",
+        "phrase": "У меня нет нужного инструмента.",
+        "fullAnalysis": "Strategic focus: Masculine genitive agreement. After 'нет', 'нужного' takes the masculine genitive ending to match 'инструмента'. Negation drives the case."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-08",
+        "phrase": "Этот словарь очень нужен мне.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'нужен' states a present need with a fill vowel, matching 'словарь'. Short forms are typical for stating necessity."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-09",
+        "phrase": "Эта справка очень нужна сейчас.",
+        "fullAnalysis": "Strategic focus: Short-form feminine predicate. The short form 'нужна' states a present need matching the feminine 'справка'. Short forms commonly express necessity."
+      },
+      {
+        "id": "AJ-DESC-NUZHNYI-10",
+        "phrase": "Эти документы нужны для визы.",
+        "fullAnalysis": "Strategic focus: Short-form plural predicate. The short form 'нужны' states a present need matching the plural 'документы'. The sentence extends the necessity pattern into the plural."
+      }
+    ]
+  }
+]

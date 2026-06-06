@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-COLOR-GOLUBOI",
+    "label": "Голубой",
+    "badge": "COLOR",
+    "description": "A 10-sentence agreement card for голубой (light blue).",
+    "missions": [
+      {
+        "id": "AJ-COLOR-GOLUBOI-01",
+        "phrase": "У него голубой шарф.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Голубой' takes the stressed masculine ending to match 'шарф'. The clothing scene anchors the form."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-02",
+        "phrase": "На ней голубая рубашка.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Голубая' takes the feminine ending to match 'рубашка'. The everyday outfit fixes the form."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-03",
+        "phrase": "Сегодня небо совсем голубое.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Голубое' takes the neuter ending to match 'небо'. The sky image grounds the neuter form."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-04",
+        "phrase": "В вазе стоят голубые цветы.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Голубые' takes the plural ending to match 'цветы'. The sentence shows the colour across several items."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-05",
+        "phrase": "Я выбрал голубой галстук.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Голубой' is accusative matching the inanimate 'галстук', identical to the nominative. The action sets the form."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-06",
+        "phrase": "В голубой чашке остыл чай.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'в', 'голубой' takes the feminine prepositional ending to match 'чашке'. The kitchen scene anchors the case."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-07",
+        "phrase": "У голубого озера тихо.",
+        "fullAnalysis": "Strategic focus: Neuter genitive agreement. After 'у', 'голубого' takes the neuter genitive ending to match 'озера'. The nature scene grounds the case."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-08",
+        "phrase": "Она пишет голубым мелом.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental agreement. 'Голубым' takes the masculine instrumental ending to match 'мелом'. The drawing tool sets the case."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-09",
+        "phrase": "Я люблю голубые глаза.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Голубые' matches the inanimate 'глаза', identical to the nominative. As a colour, голубой has no comparative, so agreement is the focus."
+      },
+      {
+        "id": "AJ-COLOR-GOLUBOI-10",
+        "phrase": "Маша играет с голубым шаром.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental agreement. After 'с', 'голубым' takes the masculine instrumental ending to match 'шаром'. The play scene anchors the case form."
+      }
+    ]
+  }
+]

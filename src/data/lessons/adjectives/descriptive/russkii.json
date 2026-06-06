@@ -1,0 +1,60 @@
+[
+  {
+    "id": "AJ-DESC-RUSSKII",
+    "label": "Русский",
+    "badge": "DESC",
+    "description": "A 10-sentence agreement card for русский (Russian).",
+    "missions": [
+      {
+        "id": "AJ-DESC-RUSSKII-01",
+        "phrase": "Это очень старый русский город.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Русский' takes the masculine ending to match 'город'. The relational adjective marks national origin rather than degree."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-02",
+        "phrase": "Русская зима бывает очень холодной.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Русская' takes the feminine ending to match 'зима'. The collocation names a familiar national feature."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-03",
+        "phrase": "Русское слово трудно произнести.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Русское' takes the neuter ending to match 'слово'. The everyday remark anchors the neuter form."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-04",
+        "phrase": "Русские песни звучат очень красиво.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Русские' takes the plural ending to match 'песни'. The cultural image fixes the plural form."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-05",
+        "phrase": "Мы изучаем русский язык в школе.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Русский' matches the inanimate masculine 'язык', whose accusative looks like the nominative. The classroom scene roots the form."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-06",
+        "phrase": "Она готовит вкусную русскую еду.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Русскую' takes the feminine accusative ending to match 'еду'. The kitchen scene shows the form in an oblique case."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-07",
+        "phrase": "Я живу в русской деревне.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'в', 'русской' takes the feminine prepositional ending to match 'деревне'. The location phrase shows agreement in an oblique case."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-08",
+        "phrase": "Он пишет статью о русском балете.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional agreement. After 'о', 'русском' takes the masculine prepositional ending to match 'балете'. The cultural topic anchors the oblique form."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-09",
+        "phrase": "Туристы любуются русскими дворцами.",
+        "fullAnalysis": "Strategic focus: Plural instrumental agreement. After 'любуются', 'русскими' takes the plural instrumental ending to match 'дворцами'. The sentence extends agreement into the plural oblique case."
+      },
+      {
+        "id": "AJ-DESC-RUSSKII-10",
+        "phrase": "Этот музей полон русских икон.",
+        "fullAnalysis": "Strategic focus: Plural genitive agreement. After 'полон', 'русских' takes the plural genitive ending to match 'икон'. As a relational adjective, русский has no comparative form."
+      }
+    ]
+  }
+]
