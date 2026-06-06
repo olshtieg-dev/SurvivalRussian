@@ -57,5 +57,6 @@ secrets/
 *.tsbuildinfo
 next-env.d.ts
 
-# local data backups (vocabulary.json.bak.*, lesson backups, etc.)
+# local data backups (vocabulary.json.bak, vocabulary.json.bak.pre-*-fill, etc.)
 *.bak
+*.bak.*
