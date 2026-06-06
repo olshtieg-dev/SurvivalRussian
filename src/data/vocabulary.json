@@ -627,8 +627,8 @@
   },
   "мочь": {
     "cyrillic": "мочь",
-    "literal": "pot",
-    "natural": "Pot.",
+    "literal": "to be able to",
+    "natural": "To be able to; can.",
     "analysis": "Impf. infinitive, 'to be able to/can'. Irregular conjugation: могу, можешь, может, ... могут.",
     "synonym": " ",
     "antonym": " "
@@ -908,7 +908,7 @@
   "во": {
     "cyrillic": "во",
     "literal": "into",
-    "natural": "In/into (variant of в).",
+    "natural": "In; into (variant of v).",
     "analysis": "Preposition, variant of в used before consonant clusters for easier pronunciation (во Франции, во вторник).",
     "synonym": "в",
     "antonym": "из"
@@ -4151,7 +4151,7 @@
   "ход": {
     "cyrillic": "ход",
     "literal": "move",
-    "natural": "Move; course; ход as movement/turn.",
+    "natural": "Move; course; turn.",
     "analysis": "M. noun. Senses include physical movement, a game move, a passage/entrance (чёрный ход), and abstract 'course' (ход событий).",
     "synonym": " ",
     "antonym": "остановка"
@@ -4423,7 +4423,7 @@
   "пусть": {
     "cyrillic": "пусть",
     "literal": "let",
-    "natural": "Let; пусть (permission/insistence).",
+    "natural": "Let (permission/insistence).",
     "analysis": "Particle forming 3rd-person imperatives ('пусть скажет' = 'let him say'); also concessive ('even if').",
     "synonym": "пускай",
     "antonym": " "
@@ -4751,7 +4751,7 @@
   "начальник": {
     "cyrillic": "начальник",
     "literal": "chief",
-    "natural": "Boss; начальник.",
+    "natural": "Boss; chief.",
     "analysis": "M. noun, 'boss, chief, head'. Used for a direct superior in workplaces or organizations.",
     "synonym": "руководитель",
     "antonym": "подчиненный"
@@ -5263,7 +5263,7 @@
   "рисунок": {
     "cyrillic": "рисунок",
     "literal": "drawing",
-    "natural": "Drawing; рисунок; pattern.",
+    "natural": "Drawing; pattern.",
     "analysis": "M. noun, 'drawing, sketch; pattern (on fabric)'. Fleeting vowel о drops in oblique cases: рисунка.",
     "synonym": " ",
     "antonym": " "
@@ -5495,15 +5495,15 @@
   "составлять": {
     "cyrillic": "составлять",
     "literal": "to constitute",
-    "natural": "To составлять; to make up; to compose.",
+    "natural": "To make up; to compose; to constitute.",
     "analysis": "Impf. verb (perf. составить), 'to make up, constitute, compose'. Used for parts forming a whole or for amounting to a sum.",
     "synonym": " ",
     "antonym": " "
   },
   "будто": {
     "cyrillic": "будто",
-    "literal": "seemingly",
-    "natural": "As if; будто.",
+    "literal": "as if",
+    "natural": "As if; as though.",
     "analysis": "Conjunction/particle, 'as if, as though'. Marks comparison or doubt; often expanded to как будто.",
     "synonym": "словно",
     "antonym": " "
@@ -5542,8 +5542,8 @@
   },
   "установить": {
     "cyrillic": "установить",
-    "literal": "to set up",
-    "natural": "To установить; to establish; to install.",
+    "literal": "to establish",
+    "natural": "To establish; to install.",
     "analysis": "Perf. verb (impf. устанавливать), 'to establish, install, determine'. Used for setting up equipment, rules, or facts.",
     "synonym": " ",
     "antonym": " "
@@ -5630,8 +5630,8 @@
   },
   "хозяин": {
     "cyrillic": "хозяин",
-    "literal": "master",
-    "natural": "Owner; хозяин; host.",
+    "literal": "owner",
+    "natural": "Owner; host; master.",
     "analysis": "M. noun, 'owner, host, master'. Irregular plural: хозяева, хозяев; feminine form is хозяйка.",
     "synonym": "владелец",
     "antonym": "гость"
@@ -5678,8 +5678,8 @@
   },
   "страшный": {
     "cyrillic": "страшный",
-    "literal": "fearsome",
-    "natural": "Scary; страшный; terrible.",
+    "literal": "scary",
+    "natural": "Scary; terrible.",
     "analysis": "Adjective, 'scary, frightful, terrible'. Derived from страх ('fear'); colloquially intensifies (страшно холодно, 'awfully cold').",
     "synonym": "ужасный",
     "antonym": " "
@@ -5687,7 +5687,7 @@
   "общественный": {
     "cyrillic": "общественный",
     "literal": "social",
-    "natural": "Public; social; общественный.",
+    "natural": "Public; social.",
     "analysis": "Adjective, 'public, social, communal'. Derived from общество ('society'); contrasts with частный ('private').",
     "synonym": " ",
     "antonym": "частный"
@@ -5718,16 +5718,16 @@
   },
   "угол": {
     "cyrillic": "угол",
-    "literal": "angle",
-    "natural": "Corner; угол.",
+    "literal": "corner",
+    "natural": "Corner; angle.",
     "analysis": "M. noun, 'corner' or 'angle'. Has a fleeting vowel: gen. sg. угла. Locative в углу 'in the corner' vs. в угле 'in coal'.",
     "synonym": " ",
     "antonym": " "
   },
   "бросить": {
     "cyrillic": "бросить",
-    "literal": "to throw away",
-    "natural": "To бросить: throw; drop; abandon.",
+    "literal": "to throw",
+    "natural": "To throw; drop; abandon.",
     "analysis": "Pf. verb (impf. бросать). 'To throw' or 'abandon'; with infinitive it means 'to quit' (бросить курить = quit smoking).",
     "synonym": "кинуть",
     "antonym": "поднять"
@@ -5798,8 +5798,8 @@
   },
   "род": {
     "cyrillic": "род",
-    "literal": "species",
-    "natural": "Family line; рода; kind/gender.",
+    "literal": "kind",
+    "natural": "Family line; kind; gender.",
     "analysis": "M. noun. Senses: lineage/clan, kind/sort, biological genus, and grammatical gender. Locative в роду́ 'in the family line'.",
     "synonym": " ",
     "antonym": " "
@@ -5807,7 +5807,7 @@
   "берег": {
     "cyrillic": "берег",
     "literal": "shore",
-    "natural": "Shore; берег; bank (of river).",
+    "natural": "Shore; bank (of river).",
     "analysis": "M. noun, 'shore' or 'bank'. Locative на берегу́ 'on the shore'; nom. pl. берега́.",
     "synonym": "побережье",
     "antonym": " "
@@ -5903,7 +5903,7 @@
   "руководитель": {
     "cyrillic": "руководитель",
     "literal": "leader",
-    "natural": "Leader; manager; руководитель.",
+    "natural": "Leader; manager.",
     "analysis": "M. noun, 'leader' or 'manager'. Agent noun in -тель from руководить ('to lead'); the formal term for someone in charge of an organization or project.",
     "synonym": "начальник",
     "antonym": "подчиненный"
@@ -5926,8 +5926,8 @@
   },
   "единый": {
     "cyrillic": "единый",
-    "literal": "unitary",
-    "natural": "Single; unified; единый.",
+    "literal": "unified",
+    "natural": "Single; unified.",
     "analysis": "Adjective, 'single' or 'unified'. Stresses unity or uniformity; common in official names (Единый государственный экзамен).",
     "synonym": " ",
     "antonym": " "
@@ -5983,7 +5983,7 @@
   "море": {
     "cyrillic": "море",
     "literal": "sea",
-    "natural": "Sea; море.",
+    "natural": "Sea.",
     "analysis": "N. noun, 'sea'. The phrase на море means 'at the sea/seaside'; nom. pl. моря́.",
     "synonym": " ",
     "antonym": "суша"
@@ -6054,8 +6054,8 @@
   },
   "чужой": {
     "cyrillic": "чужой",
-    "literal": "stranger",
-    "natural": " чужой; чуждый; someone else's.",
+    "literal": "someone else's",
+    "natural": "Someone else's; foreign; a stranger.",
     "analysis": "Adjective, 'someone else's' or 'foreign'. Substantivized as a noun it means 'a stranger, outsider'. Direct antonym pair with свой.",
     "synonym": "посторонний",
     "antonym": "свой"
@@ -6238,8 +6238,8 @@
   },
   "господин": {
     "cyrillic": "господин",
-    "literal": "lord",
-    "natural": "Mr.; gentleman; господин.",
+    "literal": "mister",
+    "natural": "Mr.; gentleman.",
     "analysis": "M. noun. The standard polite address to a man (господин Иванов = Mr. Ivanov). Irregular plural: господа́.",
     "synonym": " ",
     "antonym": " "
@@ -6343,7 +6343,7 @@
   "дух": {
     "cyrillic": "дух",
     "literal": "spirit",
-    "natural": "Spirit; дух; mood.",
+    "natural": "Spirit; mood.",
     "analysis": "M. noun. Senses: spirit (religious/philosophical), mood (в хорошем духе), and breath in fixed phrases (перевести дух 'catch one's breath').",
     "synonym": " ",
     "antonym": "тело"
@@ -6462,8 +6462,8 @@
   },
   "старик": {
     "cyrillic": "старик",
-    "literal": "man",
-    "natural": "Old man; старик.",
+    "literal": "old man",
+    "natural": "Old man.",
     "analysis": "M. noun, 'old man'. Also used colloquially among male friends as an affectionate address ('buddy, mate').",
     "synonym": " ",
     "antonym": "юноша"
@@ -6510,8 +6510,8 @@
   },
   "кабинет": {
     "cyrillic": "кабинет",
-    "literal": "cabinet",
-    "natural": "Office; кабинет; study.",
+    "literal": "office",
+    "natural": "Office; study.",
     "analysis": "M. noun, 'office' (a private workroom) or 'study'. Also a school classroom for a specific subject (кабинет физики).",
     "synonym": " ",
     "antonym": " "
@@ -6558,8 +6558,8 @@
   },
   "ребята": {
     "cyrillic": "ребята",
-    "literal": "boys",
-    "natural": "Guys; kids; ребята.",
+    "literal": "guys",
+    "natural": "Guys; kids.",
     "analysis": "Plural noun. Suppletive plural of ребёнок in informal use; commonly used to address a mixed group ('guys, folks').",
     "synonym": " ",
     "antonym": " "
@@ -6567,7 +6567,7 @@
   "свободный": {
     "cyrillic": "свободный",
     "literal": "free",
-    "natural": "Free; свободный.",
+    "natural": "Free.",
     "analysis": "Adjective, 'free'. Senses: politically free, unoccupied (seat/person), or available (свободное время 'free time').",
     "synonym": " ",
     "antonym": " "
@@ -6582,8 +6582,8 @@
   },
   "высший": {
     "cyrillic": "высший",
-    "literal": "supreme",
-    "natural": "Higher; supreme; верховный.",
+    "literal": "highest",
+    "natural": "Higher; supreme.",
     "analysis": "Adjective, suppletive superlative of высокий. Used in fixed terms: высшее образование 'higher education', высший класс 'top class'.",
     "synonym": "наивысший",
     "antonym": "низший"
@@ -6591,7 +6591,7 @@
   "прекрасный": {
     "cyrillic": "прекрасный",
     "literal": "beautiful",
-    "natural": "Beautiful; прекрасный.",
+    "natural": "Beautiful; wonderful.",
     "analysis": "Adjective, 'wonderful' or 'beautiful'. Stronger than красивый; often used figuratively (прекрасная идея 'a wonderful idea').",
     "synonym": "великолепный",
     "antonym": "ужасный"
@@ -6607,7 +6607,7 @@
   "выход": {
     "cyrillic": "выход",
     "literal": "exit",
-    "natural": "Exit; way out; выход.",
+    "natural": "Exit; way out.",
     "analysis": "M. noun, 'exit' or 'way out'. Both literal (the door) and figurative (a solution: выход из положения).",
     "synonym": " ",
     "antonym": "вход"
@@ -6646,8 +6646,8 @@
   },
   "удар": {
     "cyrillic": "удар",
-    "literal": "punch",
-    "natural": "Hit; удар; blow.",
+    "literal": "blow",
+    "natural": "Hit; blow.",
     "analysis": "M. noun, 'blow' or 'strike'. Also figurative ('a blow' as misfortune) and medical: удар = stroke.",
     "synonym": " ",
     "antonym": " "
@@ -6679,7 +6679,7 @@
   "руководство": {
     "cyrillic": "руководство",
     "literal": "leadership",
-    "natural": "Leadership; management; руководство.",
+    "natural": "Leadership; management.",
     "analysis": "N. noun. Senses: leadership/management (the act), the leadership/management (the people in charge), and a how-to manual.",
     "synonym": "управление, начальство",
     "antonym": "подчинение"
@@ -6703,15 +6703,15 @@
   "темный": {
     "cyrillic": "темный",
     "literal": "dark",
-    "natural": "Dark; темный.",
+    "natural": "Dark.",
     "analysis": "Adjective, 'dark' (in color or lighting). Also figurative: тёмное прошлое 'a shady past'.",
     "synonym": " ",
     "antonym": "светлый"
   },
   "вовсе": {
     "cyrillic": "вовсе",
-    "literal": "altogether",
-    "natural": "At all; entirely; вовсе.",
+    "literal": "at all",
+    "natural": "At all; entirely.",
     "analysis": "Particle, 'at all'. Almost always used with negation: вовсе не 'not at all', вовсе нет 'not in the slightest'.",
     "synonym": "совсем",
     "antonym": " "
@@ -6726,8 +6726,8 @@
   },
   "гражданский": {
     "cyrillic": "гражданский",
-    "literal": "civilian",
-    "natural": "Civil; civic; гражданский.",
+    "literal": "civil",
+    "natural": "Civil; civic.",
     "analysis": "Adjective derived from гражданин ('citizen'). Covers civil (vs. military), civic (rights), and civilian (clothing).",
     "synonym": " ",
     "antonym": "военный"
@@ -6743,7 +6743,7 @@
   "площадь": {
     "cyrillic": "площадь",
     "literal": "square",
-    "natural": "Square; area; площадь.",
+    "natural": "Square; area.",
     "analysis": "F. noun ending in -ь. Senses: a city square (Красная площадь), surface area in geometry, or floor area of a room.",
     "synonym": " ",
     "antonym": " "
@@ -6790,8 +6790,8 @@
   },
   "пункт": {
     "cyrillic": "пункт",
-    "literal": "paragraph",
-    "natural": "Point; item; пункт.",
+    "literal": "point",
+    "natural": "Point; item.",
     "analysis": "M. noun. Senses: an item in a list/document, a location/station (пункт назначения 'destination'), or a clause.",
     "synonym": " ",
     "antonym": " "
@@ -6846,8 +6846,8 @@
   },
   "участок": {
     "cyrillic": "участок",
-    "literal": "plot",
-    "natural": "Section; plot; участок.",
+    "literal": "section",
+    "natural": "Section; plot.",
     "analysis": "M. noun, 'section/plot/precinct'. Mobile vowel: drops -о- in oblique cases (участка, участку).",
     "synonym": " ",
     "antonym": " "
@@ -6870,8 +6870,8 @@
   },
   "дома": {
     "cyrillic": "дома",
-    "literal": "house",
-    "natural": "At home; дома.",
+    "literal": "at home",
+    "natural": "At home.",
     "analysis": "Adverb, 'at home' (location). Distinguish from до́ма (gen. sg. of дом) by stress and context; for motion 'homeward' use домой.",
     "synonym": " ",
     "antonym": " "
@@ -6951,7 +6951,7 @@
   "председатель": {
     "cyrillic": "председатель",
     "literal": "chairperson",
-    "natural": "Chairperson; председатель.",
+    "natural": "Chairperson.",
     "analysis": "M. noun, 'chairperson/chairman'. The role is governed by genitive: председатель комитета ('chair of the committee').",
     "synonym": " ",
     "antonym": " "
@@ -7007,7 +7007,7 @@
   "боевой": {
     "cyrillic": "боевой",
     "literal": "combat",
-    "natural": "Combat; fighting; боевой.",
+    "natural": "Combat; fighting.",
     "analysis": "Adjective, 'combat/fighting'. Stress is on the ending throughout (боево́й, боева́я); figuratively means 'spirited/feisty'.",
     "synonym": "военный",
     "antonym": "мирный"
@@ -7054,8 +7054,8 @@
   },
   "парень": {
     "cyrillic": "парень",
-    "literal": "boy",
-    "natural": "Guy; парень; young man.",
+    "literal": "guy",
+    "natural": "Guy; young man.",
     "analysis": "M. noun (colloquial), 'guy/young man'. Mobile vowel: drops -е- in oblique cases (парня, парню); pl. gen. is парне́й.",
     "synonym": "юноша",
     "antonym": "девушка"
@@ -7087,7 +7087,7 @@
   "выступать": {
     "cyrillic": "выступать",
     "literal": "to perform",
-    "natural": "To выступать; to speak/perform.",
+    "natural": "To speak; to perform.",
     "analysis": "Impf. verb (perf. выступить), 'to perform/give a speech'. Often used with с + instr. (с докладом, 'with a report').",
     "synonym": " ",
     "antonym": " "
@@ -7150,8 +7150,8 @@
   },
   "рабочий": {
     "cyrillic": "рабочий",
-    "literal": "labourer",
-    "natural": "Worker; working; рабочий.",
+    "literal": "worker",
+    "natural": "Worker; working.",
     "analysis": "Substantivized adjective: as a noun, m. 'worker (manual/factory)'; as an adjective, 'working/work-related' (рабочий день, 'workday').",
     "synonym": " ",
     "antonym": " "
@@ -7254,8 +7254,8 @@
   },
   "комплекс": {
     "cyrillic": "комплекс",
-    "literal": "complexion",
-    "natural": "Complexion.",
+    "literal": "complex",
+    "natural": "Complex (a set/grouping).",
     "analysis": "M. noun, 'complex' (a set or grouping; also a psychological complex). Despite the literal gloss, it does not mean 'complexion (skin)'.",
     "synonym": " ",
     "antonym": " "
@@ -7342,16 +7342,16 @@
   },
   "сотрудник": {
     "cyrillic": "сотрудник",
-    "literal": "staffer",
-    "natural": "Staffer.",
+    "literal": "employee",
+    "natural": "Employee; colleague.",
     "analysis": "M. noun, 'employee/colleague/staff member'. F. form is сотрудница; built from со- ('co-') + труд ('work').",
     "synonym": " ",
     "antonym": " "
   },
   "тихо": {
     "cyrillic": "тихо",
-    "literal": "quiet on",
-    "natural": "Quiet on.",
+    "literal": "quietly",
+    "natural": "Quietly; softly.",
     "analysis": "Adverb/predicative, 'quietly/softly'. Also used impersonally: в комнате тихо ('the room is quiet').",
     "synonym": " ",
     "antonym": "громко"
@@ -7390,8 +7390,8 @@
   },
   "рот": {
     "cyrillic": "рот",
-    "literal": "mouthpiece",
-    "natural": "Mouthpiece.",
+    "literal": "mouth",
+    "natural": "Mouth.",
     "analysis": "M. noun, 'mouth'. Mobile vowel drops in oblique cases: рта, рту; loc. во рту́ ('in the mouth') is stressed and takes во.",
     "synonym": " ",
     "antonym": " "
@@ -7654,8 +7654,8 @@
   },
   "лист": {
     "cyrillic": "лист",
-    "literal": "leaflet",
-    "natural": "Leaflet.",
+    "literal": "leaf; sheet",
+    "natural": "Leaf; sheet (of paper).",
     "analysis": "M. noun with two senses: pl. ли́стья ('leaves of a plant') and pl. листы́ ('sheets of paper'). The pl. form distinguishes the meaning.",
     "synonym": " ",
     "antonym": " "
@@ -28596,7 +28596,7 @@
   "домашнее": {
     "cyrillic": "домашнее",
     "literal": "home",
-    "natural": "Home; домашнее задание = homework.",
+    "natural": "Home; as in homework.",
     "analysis": "N. nom./acc. sg. of домашний (adj., 'home/domestic'). In домашнее задание = 'homework'.",
     "synonym": " ",
     "antonym": " "
@@ -29444,7 +29444,7 @@
   "ото": {
     "cyrillic": "ото",
     "literal": "from",
-    "natural": "From (variant of от).",
+    "natural": "From (variant of ot).",
     "analysis": "Variant of от (prep. + gen.) used before consonant clusters: ото всех = 'from everyone'.",
     "synonym": " ",
     "antonym": " "

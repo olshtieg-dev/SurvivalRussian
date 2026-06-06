@@ -22,7 +22,7 @@ On branch `main`, pushed to `origin/main`, **HEAD = `ba48d93`**. Everything belo
 **OPTIONAL polish remaining (no longer core buildout — confirm with owner before doing):**
 - ~~Adjectives Batch 3 standalone~~ DONE: new `adjectives/` family built (2 groups — descriptive 10, colors 7 = 17 standalone adjectives); adjectives now 95 (78 binary + 17 standalone). Wired into `lessons/index.js` like the `adverbs/` family.
 - **Deeper noun coverage** — the ~336 came from the top-1000 freq list; going past ~375 needs a deeper frequency source than `russian-frequency-1-1000.json`.
-- **Pre-existing vocab `literal`/`natural` bug-fixes** — the originally-flagged bad glosses (рот→"mouthpiece" etc.) and Cyrillic-in-`natural` leaks in OLD entries (carried since 2026-05-23, see "Top of pile" list below) are still untouched. None of the 2026-06-05 content-word work touched those old entries.
+- ~~Pre-existing vocab `literal`/`natural` bug-fixes~~ DONE (2026-06-06): fixed the 6 wrong glosses (рот→mouth, комплекс→complex, лист→leaf/sheet, тихо→quietly, сотрудник→employee, мочь→to be able to) and stripped Cyrillic from 44 leaked `natural` fields = 50 entries. Corpus now has **0 Cyrillic-in-natural/literal**. (рыба was already correct.)
    **Reusable batch recipe (proven in N1):** Node script builds the bucket scaffold + group index.js + assignment files; ~9-10 lesson subagents (~10 nouns each, ≤~10 per agent to dodge the per-agent session cap); then ~10 vocab-fill subagents writing to `/tmp/*-out-N.json`, merge in one Node pass. CAUTION: if subagents hit the session limit mid-batch, regenerate the affected group index.js to import only files that exist (keeps build valid), then finish the missing ones + fill before committing.
 3. **Adjectives Batch 3 (optional) — ~12 standalone adjectives** (no clean antonym): главный, русский, общий, известный, целый, великий, нужный, готовый, возможный, необходимый + colors. Needs a standalone `adjectives/` family or a `binary-adjectives` sibling group — decide with owner. Binary target already met at 78, so this is optional.
 
@@ -52,7 +52,7 @@ Each target word gets its own lesson with **~10 example sentences** (missions) �
 
 **Top of pile — pending work the owner has acknowledged but deferred:**
 
-1. **`vocabulary.json` `literal`/`natural` cleanup pass for the originally-flagged entries** (carried over from 2026-05-23). The missing-words problem was solved separately in the 2026-05-24 pass, but the specific bad-gloss entries the analysis-field subagents flagged are still untouched in the pre-existing vocab:
+1. ~~**`vocabulary.json` `literal`/`natural` cleanup pass**~~ ✅ DONE 2026-06-06 (committed). The 6 wrong glosses and all 44 Cyrillic-in-`natural` leaks were fixed (50 entries); corpus now has 0 Cyrillic-in-natural. The historical detail below is kept for reference only:
    - **~6 clearly wrong glosses**:
      - `рот`: `literal: "mouthpiece"` → "mouth"
      - `комплекс`: `literal: "complexion"` → "complex"
