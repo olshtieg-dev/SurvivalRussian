@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-OPERATSIYA",
+    "label": "Операция",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for операция (operation).",
+    "missions": [
+      {
+        "id": "NN-STATE-OPERATSIYA-01",
+        "phrase": "Операция прошла очень успешно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Операция' stays in the nominative as the subject of 'прошла'. 'Успешно' adds the manner, a common phrase about surgery or missions."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-02",
+        "phrase": "Врачи сделали сложную операцию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Операцию' is the accusative direct object of 'сделали'. 'Сложную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-03",
+        "phrase": "Он боится операции.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Операции' is the genitive required by 'бояться', which governs the genitive. A natural way to express fear of surgery."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-04",
+        "phrase": "Армия готовится к операции.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К операции' uses the dative 'операции' after 'к' with 'готовиться'. The phrase suits military or medical planning."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-05",
+        "phrase": "Все довольны этой операцией.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Операцией' is the instrumental required by 'довольны'. 'Этой' is the agreeing feminine instrumental demonstrative."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-06",
+        "phrase": "Мы говорим об операции завтра.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об операции' uses the prepositional 'операции' after 'об' to express the topic. 'Завтра' adds the time."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-07",
+        "phrase": "Во время операции свет погас.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Во время операции' uses the genitive 'операции' to express duration. 'Свет' is the nominative subject of 'погас'."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-08",
+        "phrase": "После операции пациент быстро поправился.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'После операции' uses the genitive 'операции' after 'после' to express time. 'Пациент' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-09",
+        "phrase": "Эти операции занимают много времени.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Операции' is the nominative plural subject of 'занимают'. 'Эти' agrees in the plural, and 'времени' is a genitive after 'много'."
+      },
+      {
+        "id": "NN-STATE-OPERATSIYA-10",
+        "phrase": "Военные провели две операции.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две', the feminine noun takes the genitive singular 'операции'. 'Военные' is the nominative plural subject."
+      }
+    ]
+  }
+]

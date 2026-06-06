@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PREDSEDATEL",
+    "label": "Председатель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for председатель (chairman).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-01",
+        "phrase": "Новый председатель открыл собрание.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Председатель' is a soft-stem masculine noun staying in the nominative as the subject of 'открыл'. 'Новый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-02",
+        "phrase": "Мы выбрали нового председателя.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Председателя' is animate masculine, so its accusative equals the genitive as the object of 'выбрали'. 'Нового' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-03",
+        "phrase": "Это решение председателя совета.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Председателя' is genitive marking whose decision it is. 'Совета' is a further genitive showing the body he chairs."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-04",
+        "phrase": "Мы обратились к председателю.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Председателю' is dative after 'к', marking the person addressed."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-05",
+        "phrase": "Мы говорили о председателе вчера.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Председателе' is prepositional after 'о', marking the topic of conversation."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-06",
+        "phrase": "Все довольны новым председателем.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Председателем' is instrumental after 'довольны', a short adjective that governs that case. 'Новым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-07",
+        "phrase": "Председатели собрались на встречу.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Председатели' is the nominative plural subject of 'собрались'."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-08",
+        "phrase": "Журналисты пригласили всех председателей.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Председателей' is animate, so the accusative plural equals the genitive plural as the object of 'пригласили'. 'Всех' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-09",
+        "phrase": "На съезде было много председателей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Председателей' is genitive plural after 'много', counting an indefinite number."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSEDATEL-10",
+        "phrase": "Кто наш новый председатель?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Председатель' is nominative as the predicate noun. 'Новый' agrees in the masculine nominative, and 'кто' asks the identity."
+      }
+    ]
+  }
+]

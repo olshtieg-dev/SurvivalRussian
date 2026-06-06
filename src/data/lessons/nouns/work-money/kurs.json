@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-KURS",
+    "label": "Курс",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for курс (course; rate).",
+    "missions": [
+      {
+        "id": "NN-WORK-KURS-01",
+        "phrase": "Этот курс очень полезный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Курс' stays in the nominative as the subject. 'Этот' and 'полезный' are agreeing masculine forms, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-WORK-KURS-02",
+        "phrase": "Я записался на новый курс.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Курс' is the accusative after 'на', marking enrolment. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-WORK-KURS-03",
+        "phrase": "Цена зависит от курса валют.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Курса' is the genitive after 'от', here meaning the exchange rate. 'Валют' is a further genitive plural specifier."
+      },
+      {
+        "id": "NN-WORK-KURS-04",
+        "phrase": "Мы говорим о курсе доллара.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Курсе' is the prepositional form after 'о', the topic of discussion. 'Доллара' is the genitive specifier."
+      },
+      {
+        "id": "NN-WORK-KURS-05",
+        "phrase": "Корабль идёт прежним курсом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Курсом' is the instrumental describing the direction of travel. 'Прежним' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-WORK-KURS-06",
+        "phrase": "Благодаря курсу я выучил язык.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Курсу' is the dative after 'благодаря', marking the cause. 'Я выучил язык' states the result."
+      },
+      {
+        "id": "NN-WORK-KURS-07",
+        "phrase": "Преподаватель закончил годовой курс.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Курс' is the accusative direct object of 'закончил'. 'Годовой' agrees in the masculine accusative, and 'преподаватель' is the subject."
+      },
+      {
+        "id": "NN-WORK-KURS-08",
+        "phrase": "В университете много интересных курсов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Курсов' is the genitive plural after 'много'. 'Интересных' agrees in the genitive plural, and 'в университете' gives the place."
+      },
+      {
+        "id": "NN-WORK-KURS-09",
+        "phrase": "Эти курсы начинаются в сентябре.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Курсы' is the nominative plural subject of 'начинаются'. 'Эти' agrees in the plural, and 'в сентябре' is the prepositional time phrase."
+      },
+      {
+        "id": "NN-WORK-KURS-10",
+        "phrase": "Банк следит за курсом евро.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Курсом' is the instrumental after 'за', the pattern for tracking something. 'Евро' is the indeclinable specifier."
+      }
+    ]
+  }
+]

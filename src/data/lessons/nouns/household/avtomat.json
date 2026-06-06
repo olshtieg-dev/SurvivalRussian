@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-AVTOMAT",
+    "label": "Автомат",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for автомат (machine gun).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-01",
+        "phrase": "Автомат лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Автомат' stays in the nominative as the subject of 'лежит'. 'На столе' is the prepositional location, giving a simple scene with the weapon at rest."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-02",
+        "phrase": "Солдат чистит свой автомат.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Автомат' is inanimate masculine, so its accusative matches the nominative as the direct object of 'чистит'. 'Свой' marks the soldier's own weapon."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-03",
+        "phrase": "У него нет автомата.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Автомата' is the genitive form required after 'нет'. The frame 'у него нет' is the standard way to say someone lacks something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-04",
+        "phrase": "Он научился стрелять из автомата.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из автомата' uses the genitive 'автомата' after 'из' to express the source of the shooting. A natural collocation with firearms."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-05",
+        "phrase": "Командир дал ему новый автомат.",
+        "fullAnalysis": "Strategic focus: Accusative gift. 'Автомат' is the accusative direct object of 'дал', equal to the nominative for this inanimate noun. 'Новый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-06",
+        "phrase": "Он подошёл к автомату на стене.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К автомату' uses the dative 'автомату' after 'к' to show movement toward the weapon. 'На стене' is a prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-07",
+        "phrase": "Он бежал с автоматом в руках.",
+        "fullAnalysis": "Strategic focus: Instrumental accompaniment. 'С автоматом' uses the instrumental 'автоматом' after 'с' to show what he carried. 'В руках' is a prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-08",
+        "phrase": "На автомате видна старая царапина.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На автомате' uses the prepositional 'автомате' after 'на' to locate the scratch. 'Старая царапина' is the nominative subject of 'видна'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-09",
+        "phrase": "В музее стоят старые автоматы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Автоматы' is the nominative plural subject of 'стоят'. 'Старые' is the agreeing plural adjective, and 'в музее' is a prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-AVTOMAT-10",
+        "phrase": "Солдаты получили новые автоматы вчера.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Автоматы' is the inanimate accusative plural, equal to the nominative plural, as the object of 'получили'. 'Новые' agrees in the plural."
+      }
+    ]
+  }
+]

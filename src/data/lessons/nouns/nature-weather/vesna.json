@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-VESNA",
+    "label": "Весна",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for весна (spring).",
+    "missions": [
+      {
+        "id": "NN-NATURE-VESNA-01",
+        "phrase": "Наконец пришла тёплая весна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Весна' is feminine and stays in the nominative as the subject of 'пришла'. 'Тёплая' is the agreeing feminine adjective, and 'наконец' adds relief."
+      },
+      {
+        "id": "NN-NATURE-VESNA-02",
+        "phrase": "Я очень люблю весну.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Весну' is the accusative object of 'люблю'. 'Очень' intensifies the feeling. A simple model for expressing a favourite season."
+      },
+      {
+        "id": "NN-NATURE-VESNA-03",
+        "phrase": "Мы ждём прихода весны.",
+        "fullAnalysis": "Strategic focus: Genitive of the awaited thing. 'Весны' is the genitive singular after 'прихода', and 'прихода' itself is the genitive governed by 'ждём'. A natural seasonal phrase."
+      },
+      {
+        "id": "NN-NATURE-VESNA-04",
+        "phrase": "Птицы прилетают к весне.",
+        "fullAnalysis": "Strategic focus: Dative of time. 'Весне' is the dative singular after 'к', expressing 'by spring' as a deadline. 'Птицы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-VESNA-05",
+        "phrase": "Дети радуются весне.",
+        "fullAnalysis": "Strategic focus: Dative after the verb. 'Весне' is the dative singular governed by 'радоваться', which takes the dative. 'Дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-VESNA-06",
+        "phrase": "Весной всё расцветает.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Весной' is the instrumental singular used adverbially to mean 'in spring'. 'Всё' is the nominative subject of 'расцветает'."
+      },
+      {
+        "id": "NN-NATURE-VESNA-07",
+        "phrase": "О весне написано много стихов.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Весне' is the prepositional singular after 'о', expressing the topic. 'Много стихов' uses the genitive plural after a quantity word."
+      },
+      {
+        "id": "NN-NATURE-VESNA-08",
+        "phrase": "Эта весна была очень холодной.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental predicate. 'Весна' is the nominative subject of 'была', while 'холодной' takes the instrumental as a predicate adjective. 'Эта' points at this spring."
+      },
+      {
+        "id": "NN-NATURE-VESNA-09",
+        "phrase": "За пять весён многое изменилось.",
+        "fullAnalysis": "Strategic focus: Genitive plural with fleeting vowel. 'Весён' is the genitive plural after the numeral 'пять', showing the inserted fleeting vowel. 'Многое' is the nominative subject of 'изменилось'."
+      },
+      {
+        "id": "NN-NATURE-VESNA-10",
+        "phrase": "Поздние вёсны бывают дождливыми.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject with shifting stress. 'Вёсны' is the nominative plural with the stress and ё shift from the singular 'весна'. 'Поздние' agrees in the plural, and 'дождливыми' is the instrumental predicate."
+      }
+    ]
+  }
+]

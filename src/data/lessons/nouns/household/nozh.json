@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-NOZH",
+    "label": "Нож",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for нож (knife).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-NOZH-01",
+        "phrase": "Этот нож очень острый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Нож' is the masculine nominative subject of the sentence. 'Этот' points at a specific knife, and 'острый' is the agreeing masculine adjective describing it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-02",
+        "phrase": "Дай мне, пожалуйста, нож.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Нож' is the accusative direct object of 'дай'. For inanimate masculine nouns the accusative equals the nominative, so the form is unchanged."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-03",
+        "phrase": "На столе нет ножа.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ножа' is the genitive form required after 'нет' to signal that the knife is missing. The location is given by 'на столе'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-04",
+        "phrase": "Я режу хлеб острым ножом.",
+        "fullAnalysis": "Strategic focus: Instrumental of tool. 'Ножом' is the instrumental case naming the tool used to cut. 'Острым' agrees in the masculine instrumental, and 'хлеб' is the accusative object being cut."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-05",
+        "phrase": "Он подошёл к ножу осторожно.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Ножу' is the dative form governed by 'к', expressing approach toward the knife. 'Осторожно' adds the manner of the action."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-06",
+        "phrase": "На этом ноже есть пятно.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Ноже' is the prepositional form after 'на', marking where the stain sits. 'Этом' agrees in the masculine prepositional case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-07",
+        "phrase": "В ящике лежат острые ножи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ножи' is the nominative plural subject of 'лежат'. 'Острые' agrees in the plural, and 'в ящике' gives the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-08",
+        "phrase": "У нас нет чистых ножей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Ножей' is the genitive plural required after 'нет' to express absence. 'Чистых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-09",
+        "phrase": "Положи нож рядом с тарелкой.",
+        "fullAnalysis": "Strategic focus: Accusative object with location. 'Нож' is the accusative object of 'положи', equal to the nominative for this inanimate noun. 'Рядом с тарелкой' shows where to place it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-NOZH-10",
+        "phrase": "Без ножа трудно резать мясо.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Ножа' is the genitive form governed by 'без', expressing the lack of a tool. 'Резать мясо' completes the thought about the difficulty."
+      }
+    ]
+  }
+]

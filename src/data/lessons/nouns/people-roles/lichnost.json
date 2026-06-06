@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-LICHNOST",
+    "label": "Личность",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for личность (personality).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-LICHNOST-01",
+        "phrase": "Он очень яркая личность.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Личность' is the nominative predicate noun. 'Яркая' agrees in the feminine, and 'очень' intensifies the description even though the subject is a man."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-02",
+        "phrase": "Я уважаю эту сильную личность.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Личность' is the accusative object of 'уважаю'; this soft-sign feminine noun keeps the same form in the accusative. 'Сильную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-03",
+        "phrase": "Мы говорим о творческой личности.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О творческой личности' uses the prepositional form 'личности' after 'о' to mark the topic. 'Творческой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-04",
+        "phrase": "У этой личности много достоинств.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Личности' is genitive, expressing whose merits are described. 'Достоинств' is genitive plural after 'много'."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-05",
+        "phrase": "Учитель помогает каждой личности.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Личности' is the dative governed by 'помогает', marking who is helped. 'Каждой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-06",
+        "phrase": "Все восхищаются этой личностью.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'восхищаться'. 'Личностью' is the instrumental required by the verb 'восхищаются'. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-07",
+        "phrase": "Без сильной личности команда слаба.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Личности' is genitive following 'без' to express absence. 'Сильной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-08",
+        "phrase": "Эта личность вызывает уважение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Личность' is the nominative subject of 'вызывает'. 'Эта' agrees in the feminine, and 'уважение' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-09",
+        "phrase": "В истории были великие личности.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Личности' is the nominative plural subject. 'Великие' agrees in the plural, and 'в истории' marks the prepositional setting."
+      },
+      {
+        "id": "NN-PEOPLE-LICHNOST-10",
+        "phrase": "Книга рассказывает об известных личностях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Об известных личностях' uses the prepositional plural after 'об' to mark the topic. 'Известных' agrees in the plural."
+      }
+    ]
+  }
+]

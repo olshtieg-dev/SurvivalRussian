@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ORGANIZATSIYA",
+    "label": "Организация",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for организация (organization).",
+    "missions": [
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-01",
+        "phrase": "Эта организация помогает детям.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Организация' stays in the nominative as the subject. 'Эта' agrees in the feminine, and 'детям' is the dative beneficiary of 'помогает'."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-02",
+        "phrase": "Мы создали новую организацию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Организацию' is the accusative direct object of 'создали'. 'Новую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-03",
+        "phrase": "Он директор крупной организации.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Организации' is the genitive marking which organization he heads. 'Крупной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-04",
+        "phrase": "Я помогаю местной организации.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Организации' is the dative governed by 'помогаю'. 'Местной' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-05",
+        "phrase": "Мы говорим об этой организации.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Организации' is the prepositional form after 'об', the topic of discussion. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-06",
+        "phrase": "Он руководит большой организацией.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Организацией' is the instrumental governed by 'руководит'. 'Большой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-07",
+        "phrase": "Я работаю в этой организации.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Организации' is the prepositional form after 'в', marking the workplace. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-08",
+        "phrase": "В городе много полезных организаций.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Организаций' is the genitive plural after 'много'. 'Полезных' agrees in the genitive plural, and 'в городе' gives the place."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-09",
+        "phrase": "Эти организации работают вместе.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Организации' is the nominative plural subject of 'работают'. 'Эти' agrees in the plural, and 'вместе' is the adverb."
+      },
+      {
+        "id": "NN-STATE-ORGANIZATSIYA-10",
+        "phrase": "Без сильной организации проект провалится.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Организации' is the genitive after 'без', marking absence. 'Сильной' agrees in the feminine genitive."
+      }
+    ]
+  }
+]

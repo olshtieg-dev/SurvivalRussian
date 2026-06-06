@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-ZADACHA",
+    "label": "Задача",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for задача (task).",
+    "missions": [
+      {
+        "id": "NN-WORK-ZADACHA-01",
+        "phrase": "Это очень сложная задача.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Задача' is the nominative subject and predicate noun. 'Сложная' agrees in the feminine, and 'очень' intensifies the difficulty."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-02",
+        "phrase": "Учитель дал нам трудную задачу.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Задачу' is the accusative object of 'дал', while 'нам' is the dative recipient. 'Трудную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-03",
+        "phrase": "Мы долго думали над задачей.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Задачей' is the instrumental required by 'над' in the sense of working on a problem. 'Долго' adds duration."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-04",
+        "phrase": "У этой задачи нет решения.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Задачи' is genitive, expressing whose solution is lacking. 'Нет решения' uses a second genitive to state the absence."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-05",
+        "phrase": "Мы приступили к новой задаче.",
+        "fullAnalysis": "Strategic focus: Dative after 'приступить к'. 'Задаче' is the dative governed by 'к', expressing the start of work on something. 'Новой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-06",
+        "phrase": "Я думаю об этой задаче весь день.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об этой задаче' uses the prepositional form 'задаче' after 'об' to mark the topic of thought. 'Весь день' adds duration."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-07",
+        "phrase": "Без чёткой задачи трудно работать.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Задачи' is genitive following 'без' to express absence. 'Чёткой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-08",
+        "phrase": "Я уже решил эту задачу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Задачу' is the accusative direct object of 'решил'. 'Эту' agrees in the feminine accusative, and 'уже' marks completion."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-09",
+        "phrase": "Перед нами стоят важные задачи.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Задачи' is the nominative plural subject of 'стоят'. 'Важные' agrees in the plural, and 'перед нами' is instrumental."
+      },
+      {
+        "id": "NN-WORK-ZADACHA-10",
+        "phrase": "Мы справились со всеми задачами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'справиться с'. 'Задачами' is the instrumental plural governed by 'со'. 'Всеми' agrees in the plural, marking success."
+      }
+    ]
+  }
+]

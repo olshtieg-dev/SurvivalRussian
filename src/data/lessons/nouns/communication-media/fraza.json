@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-FRAZA",
+    "label": "Фраза",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for фраза (phrase).",
+    "missions": [
+      {
+        "id": "NN-COMMS-FRAZA-01",
+        "phrase": "Эта фраза очень известная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фраза' stays in the nominative as the subject. 'Известная' is the agreeing feminine adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-02",
+        "phrase": "Я запомнил эту фразу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Фразу' is the accusative direct object of 'запомнил'. 'Эту' agrees in the feminine accusative. A natural phrase for learning language."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-03",
+        "phrase": "Я не понял смысла фразы.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Фразы' is the genitive after 'смысл' to show whose meaning is unclear. 'Смысла' is itself genitive after the negated verb."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-04",
+        "phrase": "В этой фразе есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В фразе' uses the prepositional 'фразе' after 'в' to locate the mistake. 'Ошибка' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-05",
+        "phrase": "Учитель добавил к фразе пример.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К фразе' uses the dative 'фразе' after 'к' to show addition to the phrase. 'Пример' is the accusative object."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-06",
+        "phrase": "Он закончил выступление красивой фразой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Фразой' is the instrumental expressing what he ended with. 'Красивой' is the agreeing feminine instrumental adjective."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-07",
+        "phrase": "Мы спорим об этой фразе.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'Об фразе' uses the prepositional 'фразе' after 'об' to express the topic. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-08",
+        "phrase": "Эта фраза помогает в разговоре.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фраза' is the nominative subject of 'помогает'. 'В разговоре' is a prepositional location, showing where the phrase is useful."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-09",
+        "phrase": "Эти фразы звучат очень вежливо.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Фразы' is the nominative plural subject of 'звучат'. 'Эти' agrees in the plural, and 'вежливо' adds the manner."
+      },
+      {
+        "id": "NN-COMMS-FRAZA-10",
+        "phrase": "Студенты учат новые фразы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Фразы' is the inanimate accusative plural, equal to the nominative plural, as the object of 'учат'. 'Новые' agrees in the plural."
+      }
+    ]
+  }
+]

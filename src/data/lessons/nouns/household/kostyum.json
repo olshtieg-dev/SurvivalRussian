@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KOSTYUM",
+    "label": "Костюм",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for костюм (suit).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-01",
+        "phrase": "Это новый чёрный костюм.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Костюм' is masculine and stays in the nominative as the predicate noun. 'Новый' and 'чёрный' are the agreeing masculine adjectives."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-02",
+        "phrase": "Я купил себе дорогой костюм.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Костюм' is inanimate masculine, so its accusative equals the nominative as the direct object of 'купил'. 'Дорогой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-03",
+        "phrase": "У меня нет хорошего костюма.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Костюма' takes the genitive after 'нет' to express not having one. 'Хорошего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-04",
+        "phrase": "Он подошёл к моему костюму.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Костюму' is dative after 'к', marking the goal of motion. 'Моему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-05",
+        "phrase": "Он пришёл в новом костюме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Костюме' is prepositional after 'в', describing what he wore. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-06",
+        "phrase": "Я доволен своим новым костюмом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Костюмом' is instrumental after the short adjective 'доволен', which governs that case. 'Своим новым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-07",
+        "phrase": "В магазине висят красивые костюмы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Костюмы' is the nominative plural subject of 'висят'. 'Красивые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-08",
+        "phrase": "Этот костюм мне очень идёт.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative experiencer. 'Костюм' is nominative as the subject of 'идёт'. 'Мне' is the dative experiencer for whom it suits."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-09",
+        "phrase": "Я долго выбирал между двумя костюмами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Костюмами' is instrumental plural after 'между', expressing choice between options. 'Двумя' agrees in the instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOSTYUM-10",
+        "phrase": "Сколько стоит этот серый костюм?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Костюм' is nominative as the subject of 'стоит'. 'Серый' agrees in the masculine nominative, and 'сколько' opens the price question."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-KRIK",
+    "label": "Крик",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for крик (shout).",
+    "missions": [
+      {
+        "id": "NN-COMMS-KRIK-01",
+        "phrase": "Громкий крик разбудил всех соседей.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Крик' is the masculine nominative subject of 'разбудил'. 'Громкий' is the agreeing masculine adjective, and 'всех соседей' is the animate accusative object. A vivid scene."
+      },
+      {
+        "id": "NN-COMMS-KRIK-02",
+        "phrase": "Я услышал странный крик ночью.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Крик' is the accusative direct object of 'услышал'; inanimate masculine, so it matches the nominative. 'Странный' agrees in the masculine accusative. A core perception pattern."
+      },
+      {
+        "id": "NN-COMMS-KRIK-03",
+        "phrase": "От его крика стало страшно.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Крика' is the genitive form after 'от', expressing the cause of the fear. 'Его' shows whose shout it was. A natural cause-and-effect pattern."
+      },
+      {
+        "id": "NN-COMMS-KRIK-04",
+        "phrase": "К детскому крику все привыкли.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Крику' is the dative case governed by 'привыкли', which takes the dative with 'к'. 'Детскому' agrees in the masculine dative. A common habituation pattern."
+      },
+      {
+        "id": "NN-COMMS-KRIK-05",
+        "phrase": "В крике слышалось настоящее отчаяние.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В крике' uses the prepositional form 'крике' after 'в' to locate the emotion. 'Настоящее отчаяние' is the nominative subject. A descriptive emotional pattern."
+      },
+      {
+        "id": "NN-COMMS-KRIK-06",
+        "phrase": "Он выразил гнев громким криком.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Криком' is the instrumental case showing the means of expression. 'Громким' agrees in the masculine instrumental. A useful manner-of-action pattern."
+      },
+      {
+        "id": "NN-COMMS-KRIK-07",
+        "phrase": "Издалека доносились громкие крики.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Крики' is the nominative plural subject of 'доносились'. 'Громкие' agrees in the plural, and 'издалека' adds the source. Good for plural practice."
+      },
+      {
+        "id": "NN-COMMS-KRIK-08",
+        "phrase": "Мы слышали крики о помощи.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Крики' is the accusative plural object of 'слышали'; inanimate, so it matches the nominative plural. 'О помощи' adds the prepositional content. A dramatic context."
+      },
+      {
+        "id": "NN-COMMS-KRIK-09",
+        "phrase": "Без крика ребёнок не успокоится.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Крика' is the genitive form after 'без', expressing the absence of shouting. 'Ребёнок' is the nominative subject. A natural conditional statement."
+      },
+      {
+        "id": "NN-COMMS-KRIK-10",
+        "phrase": "Этот крик громче предыдущего.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Крик' stays nominative as the subject. 'Этот' agrees in the masculine, and 'громче предыдущего' uses the genitive 'предыдущего' in a comparison. Strong for comparative practice."
+      }
+    ]
+  }
+]

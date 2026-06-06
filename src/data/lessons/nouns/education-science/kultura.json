@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-KULTURA",
+    "label": "Культура",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for культура (culture).",
+    "missions": [
+      {
+        "id": "NN-EDU-KULTURA-01",
+        "phrase": "Русская культура очень богатая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Культура' is the feminine nominative subject. 'Русская' is the agreeing feminine adjective, and 'богатая' is the predicate adjective."
+      },
+      {
+        "id": "NN-EDU-KULTURA-02",
+        "phrase": "Мы изучаем древнюю культуру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Культуру' is the accusative direct object of 'изучаем'. 'Древнюю' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EDU-KULTURA-03",
+        "phrase": "Здесь нет общей культуры.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Культуры' is the genitive after 'нет', signalling that shared culture is missing. 'Общей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EDU-KULTURA-04",
+        "phrase": "Он много знает о культуре Японии.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Культуре' is the prepositional form after 'о', the topic of knowledge. 'Японии' is the genitive showing whose culture."
+      },
+      {
+        "id": "NN-EDU-KULTURA-05",
+        "phrase": "Школа учит детей культуре речи.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Культуре' is the dative form governed by 'учить'. 'Детей' is the accusative of the learners, and 'речи' is the genitive."
+      },
+      {
+        "id": "NN-EDU-KULTURA-06",
+        "phrase": "Она интересуется культурой Востока.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Культурой' is the instrumental required by 'интересоваться'. 'Востока' is the genitive showing whose culture."
+      },
+      {
+        "id": "NN-EDU-KULTURA-07",
+        "phrase": "Разные культуры живут рядом мирно.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Культуры' is the nominative plural subject of 'живут'. 'Разные' agrees in the plural, and 'рядом мирно' describes how."
+      },
+      {
+        "id": "NN-EDU-KULTURA-08",
+        "phrase": "Музей хранит культуры народов мира.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Культуры' is the accusative plural object of 'хранит', equal to the nominative plural. 'Народов мира' is the genitive plural."
+      },
+      {
+        "id": "NN-EDU-KULTURA-09",
+        "phrase": "Учёные пишут о древних культурах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Культурах' is the prepositional plural after 'о', the topic of writing. 'Древних' agrees in the prepositional plural."
+      },
+      {
+        "id": "NN-EDU-KULTURA-10",
+        "phrase": "Без культуры общество не развивается.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Культуры' is the genitive governed by 'без', expressing the lack of culture. 'Общество' is the nominative subject."
+      }
+    ]
+  }
+]

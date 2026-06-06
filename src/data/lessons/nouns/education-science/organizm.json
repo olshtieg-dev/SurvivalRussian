@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ORGANIZM",
+    "label": "Организм",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for организм (organism).",
+    "missions": [
+      {
+        "id": "NN-EDU-ORGANIZM-01",
+        "phrase": "Человеческий организм очень сложный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Организм' is masculine and stays in the nominative as the subject. 'Человеческий' is the agreeing masculine adjective, 'сложный' the predicate."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-02",
+        "phrase": "Спорт укрепляет наш организм.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Организм' is inanimate masculine, so its accusative matches the nominative as the object of 'укрепляет'. 'Наш' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-03",
+        "phrase": "Это зависит от организма человека.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Организма' is genitive after 'от', expressing dependence. 'Человека' is a further genitive showing whose organism."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-04",
+        "phrase": "Витамины помогают организму бороться.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Организму' is dative after 'помогают', which governs that case to mark the one helped."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-05",
+        "phrase": "В здоровом организме много энергии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Организме' is prepositional after 'в', marking location. 'Здоровом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-06",
+        "phrase": "Лекарство влияет на организм медленно.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Организм' is accusative after 'на' with 'влияет', the fixed pattern for influence. It matches the nominative for this inanimate noun."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-07",
+        "phrase": "Эти бактерии вредят живому организму.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Организму' is dative after 'вредят', which governs that case. 'Живому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-08",
+        "phrase": "В природе живут разные организмы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Организмы' is the nominative plural subject of 'живут'. 'Разные' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-09",
+        "phrase": "Учёные изучают простые организмы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Организмы' is the accusative plural object of 'изучают'; inanimate, so it matches the nominative plural. 'Простые' agrees in the plural."
+      },
+      {
+        "id": "NN-EDU-ORGANIZM-10",
+        "phrase": "Сколько организмов живёт в почве?",
+        "fullAnalysis": "Strategic focus: Genitive plural in a question. 'Организмов' is genitive plural after 'сколько', counting the quantity that lives in the soil."
+      }
+    ]
+  }
+]

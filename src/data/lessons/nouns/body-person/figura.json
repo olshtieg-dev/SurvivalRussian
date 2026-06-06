@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-FIGURA",
+    "label": "Фигура",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for фигура (figure).",
+    "missions": [
+      {
+        "id": "NN-BODY-FIGURA-01",
+        "phrase": "У неё очень стройная фигура.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фигура' stays in the nominative as the thing described. 'Стройная' is the agreeing feminine adjective, and 'у неё' marks the possessor."
+      },
+      {
+        "id": "NN-BODY-FIGURA-02",
+        "phrase": "Спорт помогает сохранить фигуру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Фигуру' is the accusative direct object of 'сохранить'. 'Спорт' is the nominative subject driving the action."
+      },
+      {
+        "id": "NN-BODY-FIGURA-03",
+        "phrase": "Она следит за своей фигурой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Фигурой' is the instrumental after 'за', the standard pattern for 'watch over'. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-BODY-FIGURA-04",
+        "phrase": "Я мечтаю о красивой фигуре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Фигуре' is the prepositional form after 'о', expressing what one dreams about. 'Красивой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-BODY-FIGURA-05",
+        "phrase": "В тумане появилась тёмная фигура.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фигура' is nominative as the subject of 'появилась', here meaning a shadowy shape. 'Тёмная' agrees in feminine gender."
+      },
+      {
+        "id": "NN-BODY-FIGURA-06",
+        "phrase": "Диета вредна для фигуры.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Фигуры' is the genitive after 'для', marking the beneficiary or affected thing. 'Диета вредна' gives the judgement."
+      },
+      {
+        "id": "NN-BODY-FIGURA-07",
+        "phrase": "Художник нарисовал женскую фигуру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Фигуру' is the accusative object of 'нарисовал'. 'Женскую' agrees in the feminine accusative, and 'художник' is the subject."
+      },
+      {
+        "id": "NN-BODY-FIGURA-08",
+        "phrase": "Я подошёл к незнакомой фигуре.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Фигуре' is the dative after 'к', marking the goal of movement. 'Незнакомой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-BODY-FIGURA-09",
+        "phrase": "На картине несколько человеческих фигур.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Фигур' is the genitive plural after 'несколько'. 'Человеческих' agrees in the genitive plural, and 'на картине' gives the place."
+      },
+      {
+        "id": "NN-BODY-FIGURA-10",
+        "phrase": "В шахматах разные фигуры важны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Фигуры' is the nominative plural subject, here the chess pieces. 'Разные' agrees in the plural and 'важны' is the short predicate."
+      }
+    ]
+  }
+]

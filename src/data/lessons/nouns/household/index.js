@@ -1,12 +1,19 @@
+import avtomatSet from './avtomat.json';
+import biletSet from './bilet.json';
 import dverSet from './dver.json';
 import formaSet from './forma.json';
+import kameraSet from './kamera.json';
 import karmanSet from './karman.json';
 import klyuchSet from './klyuch.json';
+import kostyumSet from './kostyum.json';
 import kresloSet from './kreslo.json';
 import krovatSet from './krovat.json';
 import krugSet from './krug.json';
+import kusokSet from './kusok.json';
 import lampaSet from './lampa.json';
 import meshokSet from './meshok.json';
+import nozhSet from './nozh.json';
+import odezhdaSet from './odezhda.json';
 import oknoSet from './okno.json';
 import oruzhieSet from './oruzhie.json';
 import polSet from './pol.json';
@@ -17,20 +24,28 @@ import stenaSet from './stena.json';
 import stolSet from './stol.json';
 import stulSet from './stul.json';
 import tochkaSet from './tochka.json';
+import trubaSet from './truba.json';
 import vorotSet from './vorot.json';
 import yashchikSet from './yashchik.json';
 
 export const householdNounsFolderId = 'nouns-household';
 const householdNounsData = [
+  ...avtomatSet,
+  ...biletSet,
   ...dverSet,
   ...formaSet,
+  ...kameraSet,
   ...karmanSet,
   ...klyuchSet,
+  ...kostyumSet,
   ...kresloSet,
   ...krovatSet,
   ...krugSet,
+  ...kusokSet,
   ...lampaSet,
   ...meshokSet,
+  ...nozhSet,
+  ...odezhdaSet,
   ...oknoSet,
   ...oruzhieSet,
   ...polSet,
@@ -41,6 +56,7 @@ const householdNounsData = [
   ...stolSet,
   ...stulSet,
   ...tochkaSet,
+  ...trubaSet,
   ...vorotSet,
   ...yashchikSet,
 ];

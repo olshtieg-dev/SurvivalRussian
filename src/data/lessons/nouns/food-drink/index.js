@@ -1,6 +1,8 @@
 import butylkaSet from './butylka.json';
 import chaiSet from './chai.json';
+import edaSet from './eda.json';
 import khlebSet from './khleb.json';
+import obedSet from './obed.json';
 import rybaSet from './ryba.json';
 import stakanSet from './stakan.json';
 import trubkaSet from './trubka.json';
@@ -12,7 +14,9 @@ export const foodDrinkNounsFolderId = 'nouns-food-drink';
 const foodDrinkNounsData = [
   ...butylkaSet,
   ...chaiSet,
+  ...edaSet,
   ...khlebSet,
+  ...obedSet,
   ...rybaSet,
   ...stakanSet,
   ...trubkaSet,

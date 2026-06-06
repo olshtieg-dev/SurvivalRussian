@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-VOLNA",
+    "label": "Волна",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for волна (wave).",
+    "missions": [
+      {
+        "id": "NN-NATURE-VOLNA-01",
+        "phrase": "Большая волна накрыла берег.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Волна' is the nominative subject of 'накрыла'. 'Большая' is the agreeing feminine adjective, and 'берег' is the accusative object."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-02",
+        "phrase": "Дети любят высокую волну.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Волну' is the accusative direct object of 'любят'. 'Высокую' agrees in the feminine accusative, describing the size of the wave."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-03",
+        "phrase": "Лодка качается на волне.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На волне' uses the prepositional form 'волне' after 'на' to mark where the boat rocks. A vivid sea image."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-04",
+        "phrase": "От большой волны качается корабль.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Волны' is genitive following 'от' to express the cause of the motion. 'Большой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-05",
+        "phrase": "Море встретило нас сильной волной.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Волной' is instrumental, the manner in which the sea met them. 'Сильной' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-06",
+        "phrase": "Мы плывём навстречу волне.",
+        "fullAnalysis": "Strategic focus: Dative after 'навстречу'. 'Волне' is the dative required by 'навстречу', expressing movement toward something. A natural swimming scene."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-07",
+        "phrase": "После большой волны наступила тишина.",
+        "fullAnalysis": "Strategic focus: Genitive after 'после'. 'Волны' is genitive following 'после' to mark a point in time. 'Большой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-08",
+        "phrase": "Ветер поднимает большие волны.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Волны' is the accusative plural object of 'поднимает'; for inanimate nouns the plural accusative matches the nominative. 'Большие' agrees in the plural."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-09",
+        "phrase": "На море сегодня высокие волны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Волны' is the nominative plural subject of the sentence. 'Высокие' agrees in the plural, describing the rough sea conditions."
+      },
+      {
+        "id": "NN-NATURE-VOLNA-10",
+        "phrase": "Мы говорили о морских волнах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О морских волнах' uses the prepositional plural after 'о' to mark the topic. 'Морских' agrees in the plural."
+      }
+    ]
+  }
+]

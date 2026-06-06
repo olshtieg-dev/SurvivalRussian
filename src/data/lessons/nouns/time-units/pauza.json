@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-PAUZA",
+    "label": "Пауза",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for пауза (pause).",
+    "missions": [
+      {
+        "id": "NN-TIME-PAUZA-01",
+        "phrase": "Наступила долгая неловкая пауза.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пауза' is the feminine nominative subject of 'наступила', which agrees in the feminine. 'Долгая неловкая' are the agreeing feminine adjectives. A vivid conversational moment."
+      },
+      {
+        "id": "NN-TIME-PAUZA-02",
+        "phrase": "Давайте сделаем небольшую паузу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Паузу' is the accusative direct object of 'сделаем'. 'Небольшую' is the agreeing feminine accusative adjective, and 'давайте' makes a polite suggestion. A natural break request."
+      },
+      {
+        "id": "NN-TIME-PAUZA-03",
+        "phrase": "После паузы он продолжил рассказ.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Паузы' is the genitive form after 'после', placing the action in time. 'Он продолжил рассказ' is the main clause. A useful sequencing pattern."
+      },
+      {
+        "id": "NN-TIME-PAUZA-04",
+        "phrase": "Во время паузы мы отдохнули.",
+        "fullAnalysis": "Strategic focus: Genitive in a time phrase. 'Паузы' is the genitive form within the set phrase 'во время', meaning during the break. 'Мы отдохнули' is the main clause. A handy time expression."
+      },
+      {
+        "id": "NN-TIME-PAUZA-05",
+        "phrase": "В этой паузе чувствуется напряжение.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В паузе' uses the prepositional form 'паузе' after 'в' to locate the feeling. 'Чувствуется напряжение' is the subject phrase. A subtle descriptive pattern."
+      },
+      {
+        "id": "NN-TIME-PAUZA-06",
+        "phrase": "Он воспользовался короткой паузой.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Паузой' is the instrumental case governed by 'воспользовался', which takes the instrumental. 'Короткой' agrees in the feminine instrumental. A common opportunity pattern."
+      },
+      {
+        "id": "NN-TIME-PAUZA-07",
+        "phrase": "Дай мне минутную паузу, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative request. 'Паузу' is the accusative object of 'дай'. 'Минутную' is the agreeing feminine accusative adjective, and 'мне' is the dative recipient. A polite everyday request."
+      },
+      {
+        "id": "NN-TIME-PAUZA-08",
+        "phrase": "В разговоре было много пауз.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Пауз' is the genitive plural governed by 'много'. 'В разговоре' is the prepositional location. Note the bare stem ending of the genitive plural. Good for plural practice."
+      },
+      {
+        "id": "NN-TIME-PAUZA-09",
+        "phrase": "Эта пауза длиннее предыдущей.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Пауза' stays nominative as the subject. 'Эта' points at a specific one, and 'длиннее предыдущей' uses the genitive 'предыдущей' in a comparison. Strong for comparative practice."
+      },
+      {
+        "id": "NN-TIME-PAUZA-10",
+        "phrase": "Без паузы говорить очень трудно.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Паузы' is the genitive form after 'без', expressing the absence of a break. 'Говорить трудно' is the impersonal main clause. A natural generalising statement."
+      }
+    ]
+  }
+]

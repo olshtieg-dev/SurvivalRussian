@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ZNANIE",
+    "label": "Знание",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for знание (knowledge).",
+    "missions": [
+      {
+        "id": "NN-EDU-ZNANIE-01",
+        "phrase": "Знание это настоящая сила.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Знание' is a neuter noun in the nominative as the subject. 'Сила' is the nominative predicate noun joined by 'это'. A familiar proverb-style statement."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-02",
+        "phrase": "Учитель ценит глубокое знание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Знание' is the neuter accusative direct object of 'ценит', identical to the nominative. 'Глубокое' agrees in the neuter. A natural classroom sentence."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-03",
+        "phrase": "У него нет нужного знания.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Знания' is the neuter genitive after 'нет', and 'нужного' agrees in the genitive. A model for the genitive of -ие nouns."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-04",
+        "phrase": "Школа учит детей знанию.",
+        "fullAnalysis": "Strategic focus: Dative governed by the verb. 'Знанию' is the dative required by 'учить' when naming the subject taught. 'Детей' is the animate accusative. A core teaching-verb pattern."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-05",
+        "phrase": "Он обладает редким знанием.",
+        "fullAnalysis": "Strategic focus: Instrumental governed by the verb. 'Знанием' is the instrumental required by 'обладать'. 'Редким' agrees in the neuter instrumental. A clean instrumental-with-verb model."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-06",
+        "phrase": "Мы говорим о знании языков.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Знании' is the prepositional form after 'о', the topic of discussion. 'Языков' is genitive plural marking what is known. A reliable prepositional model."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-07",
+        "phrase": "Хорошее знание помогает в жизни.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Знание' is the nominative subject of 'помогает'. 'Хорошее' agrees in the neuter, and 'в жизни' is prepositional. A natural value statement."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-08",
+        "phrase": "Экзамен проверяет наши знания.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Знания' is the inanimate accusative plural of 'проверяет', matching the nominative plural. 'Наши' agrees in the plural. A natural exam sentence."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-09",
+        "phrase": "В книгах много полезных знаний.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Знаний' is the genitive plural after 'много', the zero-ending form for -ие nouns. 'Полезных' agrees, and 'в книгах' is prepositional plural. A core quantity pattern."
+      },
+      {
+        "id": "NN-EDU-ZNANIE-10",
+        "phrase": "Эти знания очень важны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Знания' is the nominative plural subject. 'Эти' agrees, and 'важны' is the short-form plural predicate, intensified by 'очень'. A clean plural evaluation."
+      }
+    ]
+  }
+]

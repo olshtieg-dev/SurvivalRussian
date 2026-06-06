@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-OBED",
+    "label": "Обед",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for обед (lunch).",
+    "missions": [
+      {
+        "id": "NN-FOOD-OBED-01",
+        "phrase": "Обед уже почти готов.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Обед' is the nominative subject, described by the short adjective 'готов'. 'Почти' softens the claim. A clean model for a masculine noun."
+      },
+      {
+        "id": "NN-FOOD-OBED-02",
+        "phrase": "Я готовлю вкусный обед.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Обед' is the accusative direct object of 'готовлю'. As an inanimate masculine noun, its accusative equals the nominative. 'Вкусный' is the agreeing adjective."
+      },
+      {
+        "id": "NN-FOOD-OBED-03",
+        "phrase": "После обеда мы пойдём гулять.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Обеда' is the genitive required after 'после' to mean after lunch. 'Мы пойдём гулять' states the plan. A frequent time expression."
+      },
+      {
+        "id": "NN-FOOD-OBED-04",
+        "phrase": "Мама рада нашему обеду.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Обеду' is the dative form after 'рада', which governs the dative to show what one is glad about. 'Нашему' agrees in the masculine dative. A useful emotion pattern."
+      },
+      {
+        "id": "NN-FOOD-OBED-05",
+        "phrase": "Мы довольны вкусным обедом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Обедом' is the instrumental form required after 'довольны', which governs the instrumental. 'Вкусным' agrees in the masculine instrumental. A core satisfaction pattern."
+      },
+      {
+        "id": "NN-FOOD-OBED-06",
+        "phrase": "На обед мы ели суп.",
+        "fullAnalysis": "Strategic focus: Accusative in a time phrase. 'На обед' uses the accusative 'обед' after 'на' to mean for lunch. 'Суп' is the accusative object of 'ели'. A natural mealtime expression."
+      },
+      {
+        "id": "NN-FOOD-OBED-07",
+        "phrase": "Мы говорим об обеде заранее.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об обеде' uses the prepositional form 'обеде' after 'об' to express talking about lunch. 'Заранее' adds timing. A clean topic-of-conversation pattern."
+      },
+      {
+        "id": "NN-FOOD-OBED-08",
+        "phrase": "Обед стоит на кухонном столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Обед' is the nominative subject of 'стоит'. 'На столе' uses the prepositional to show where it stands, and 'кухонном' agrees with it. A simple everyday statement."
+      },
+      {
+        "id": "NN-FOOD-OBED-09",
+        "phrase": "Они приготовили два обеда.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Обеда' takes the genitive singular after 'два'. 'Они приготовили' names who prepared them. A core counting pattern with food."
+      },
+      {
+        "id": "NN-FOOD-OBED-10",
+        "phrase": "В кафе подают горячие обеды.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Обеды' is the accusative plural object of 'подают'. As an inanimate plural noun, its accusative equals the nominative. 'Горячие' is the agreeing plural adjective."
+      }
+    ]
+  }
+]

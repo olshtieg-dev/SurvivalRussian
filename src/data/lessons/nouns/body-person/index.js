@@ -1,11 +1,14 @@
 import bokSet from './bok.json';
 import chelovekSet from './chelovek.json';
+import figuraSet from './figura.json';
 import glazSet from './glaz.json';
 import golosSet from './golos.json';
 import golovaSet from './golova.json';
 import grudSet from './grud.json';
 import gubaSet from './guba.json';
+import khvostSet from './khvost.json';
 import kolenoSet from './koleno.json';
+import kostSet from './kost.json';
 import kozhaSet from './kozha.json';
 import krovSet from './krov.json';
 import kulakSet from './kulak.json';
@@ -28,18 +31,22 @@ import teloSet from './telo.json';
 import ukhoSet from './ukho.json';
 import volosSet from './volos.json';
 import zhivotSet from './zhivot.json';
+import zrenieSet from './zrenie.json';
 import zubSet from './zub.json';
 
 export const bodyPersonNounsFolderId = 'nouns-body-person';
 const bodyPersonNounsData = [
   ...bokSet,
   ...chelovekSet,
+  ...figuraSet,
   ...glazSet,
   ...golosSet,
   ...golovaSet,
   ...grudSet,
   ...gubaSet,
+  ...khvostSet,
   ...kolenoSet,
+  ...kostSet,
   ...kozhaSet,
   ...krovSet,
   ...kulakSet,
@@ -62,6 +69,7 @@ const bodyPersonNounsData = [
   ...ukhoSet,
   ...volosSet,
   ...zhivotSet,
+  ...zrenieSet,
   ...zubSet,
 ];
 

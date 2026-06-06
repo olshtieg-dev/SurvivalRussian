@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SUSHCHESTVO",
+    "label": "Существо",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for существо (creature).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-01",
+        "phrase": "Это странное существо.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Существо' is a neuter noun in the nominative as the predicate noun. 'Странное' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-02",
+        "phrase": "Учёные изучают это существо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Существо' is the accusative object of 'изучают'; for neuter nouns the accusative matches the nominative. 'Это' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-03",
+        "phrase": "Мы боимся этого существа.",
+        "fullAnalysis": "Strategic focus: Genitive after the verb. 'Существа' is the genitive singular governed by 'боимся', which takes the genitive. 'Этого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-04",
+        "phrase": "Дети дали еду существу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Существу' is the dative singular, the recipient of 'дали'. 'Дети' is the nominative plural subject, and 'еду' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-05",
+        "phrase": "Я наблюдаю за существом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Существом' is the instrumental singular after 'за' in 'наблюдать за', meaning to watch over something."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-06",
+        "phrase": "Мы говорим о загадочном существе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Существе' is the prepositional singular after 'о', expressing the topic. 'Загадочном' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-07",
+        "phrase": "В лесу живут странные существа.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Существа' is the nominative plural, the subject of 'живут'. 'Странные' agrees in the plural, and 'в лесу' adds location."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-08",
+        "phrase": "Я видел этих существ.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Существ' is the accusative plural, which for this animate noun copies the genitive plural. 'Этих' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-09",
+        "phrase": "В океане много неизвестных существ.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Существ' is the genitive plural after 'много'. 'Неизвестных' agrees in the genitive plural, and 'в океане' locates them."
+      },
+      {
+        "id": "NN-PEOPLE-SUSHCHESTVO-10",
+        "phrase": "Сказки полны волшебными существами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after the adjective. 'Существами' is the instrumental plural governed by 'полны', which takes the instrumental. 'Волшебными' agrees in the plural."
+      }
+    ]
+  }
+]

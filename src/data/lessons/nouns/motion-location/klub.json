@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KLUB",
+    "label": "Клуб",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for клуб (club).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KLUB-01",
+        "phrase": "Этот клуб открылся совсем недавно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Клуб' stays in the nominative as the subject of 'открылся'. 'Этот' is the agreeing masculine demonstrative, and 'недавно' marks the recent opening. A natural opener."
+      },
+      {
+        "id": "NN-MOTION-KLUB-02",
+        "phrase": "Друзья нашли новый клуб быстро.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Клуб' is the accusative direct object of 'нашли'; for this inanimate masculine noun the form matches the nominative. 'Новый' agrees in gender. Useful for discovery."
+      },
+      {
+        "id": "NN-MOTION-KLUB-03",
+        "phrase": "Мы вышли из клуба поздно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из клуба' uses the genitive 'клуба' after 'из' to mark the point of exit. 'Поздно' adds time. A clear source-of-motion pattern."
+      },
+      {
+        "id": "NN-MOTION-KLUB-04",
+        "phrase": "Мы идём к клубу пешком.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К клубу' uses the dative 'клубу' after 'к' to show movement toward a goal. 'Пешком' describes the manner. A core directional pattern."
+      },
+      {
+        "id": "NN-MOTION-KLUB-05",
+        "phrase": "Машина стоит перед клубом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Перед клубом' uses the instrumental 'клубом' after 'перед' to show location in front. 'Стоит' fixes the car in place. A spatial relation pattern."
+      },
+      {
+        "id": "NN-MOTION-KLUB-06",
+        "phrase": "Вечером мы танцуем в клубе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В клубе' uses the prepositional 'клубе' after 'в' to show location inside. 'Вечером' adds time. A common location-of-activity pattern."
+      },
+      {
+        "id": "NN-MOTION-KLUB-07",
+        "phrase": "Мы говорим о новом клубе.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О новом клубе' uses the prepositional 'клубе' to mark the topic. 'Новом' agrees in the prepositional. Useful for discussion language."
+      },
+      {
+        "id": "NN-MOTION-KLUB-08",
+        "phrase": "В городе работают разные клубы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Клубы' is the nominative plural subject of 'работают'. 'Разные' agrees in the plural, and 'в городе' locates them. Good for describing a scene."
+      },
+      {
+        "id": "NN-MOTION-KLUB-09",
+        "phrase": "Туристы посещают популярные ночные клубы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Клубы' is the accusative plural object of 'посещают', identical to the nominative for this inanimate noun. 'Ночные' agrees in the plural. A travel pattern."
+      },
+      {
+        "id": "NN-MOTION-KLUB-10",
+        "phrase": "Молодёжь выходит из ночных клубов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Из ночных клубов' uses the genitive plural 'клубов' after 'из'. 'Ночных' agrees in the genitive plural, and 'выходит' marks the exit. A vivid source pattern."
+      }
+    ]
+  }
+]

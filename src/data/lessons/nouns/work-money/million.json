@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-MILLION",
+    "label": "Миллион",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for миллион (million).",
+    "missions": [
+      {
+        "id": "NN-WORK-MILLION-01",
+        "phrase": "Этот дом стоит целый миллион.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Миллион' is the accusative direct object of 'стоит', equal to the nominative for this inanimate masculine noun. 'Целый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-WORK-MILLION-02",
+        "phrase": "Миллион рублей лежит в банке.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Миллион' is the masculine nominative subject of 'лежит'. 'Рублей' is the genitive plural counted, and 'в банке' gives the location."
+      },
+      {
+        "id": "NN-WORK-MILLION-03",
+        "phrase": "У него нет даже миллиона.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Миллиона' is the genitive form after 'нет', signalling that the sum is missing. 'Даже' adds emphasis to the lack."
+      },
+      {
+        "id": "NN-WORK-MILLION-04",
+        "phrase": "Он мечтает о большом миллионе.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Миллионе' is the prepositional form after 'о', the object of the dream. 'Большом' agrees in the masculine prepositional case."
+      },
+      {
+        "id": "NN-WORK-MILLION-05",
+        "phrase": "Они радуются первому миллиону.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Миллиону' is the dative required by 'радоваться'. 'Первому' agrees in the masculine dative, naming what they celebrate."
+      },
+      {
+        "id": "NN-WORK-MILLION-06",
+        "phrase": "Компания управляет целым миллионом.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Миллионом' is the instrumental required by 'управлять'. 'Целым' agrees in the masculine instrumental case."
+      },
+      {
+        "id": "NN-WORK-MILLION-07",
+        "phrase": "В стране живут миллионы людей.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Миллионы' is the nominative plural subject of 'живут'. 'Людей' is the genitive plural counted, and 'в стране' gives the location."
+      },
+      {
+        "id": "NN-WORK-MILLION-08",
+        "phrase": "Завод выпускает миллионы деталей ежегодно.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Миллионы' is the accusative plural object of 'выпускает', equal to the nominative plural. 'Деталей' is the genitive plural counted."
+      },
+      {
+        "id": "NN-WORK-MILLION-09",
+        "phrase": "Речь идёт о двух миллионах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Миллионах' is the prepositional plural after 'о', governed by the numeral 'двух'. The phrase 'речь идёт о' frames the topic."
+      },
+      {
+        "id": "NN-WORK-MILLION-10",
+        "phrase": "Без миллиона эту квартиру не купить.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Миллиона' is the genitive governed by 'без', expressing the lack of money. 'Эту квартиру' is the accusative object."
+      }
+    ]
+  }
+]

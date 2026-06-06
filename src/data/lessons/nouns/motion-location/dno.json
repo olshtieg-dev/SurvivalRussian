@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-DNO",
+    "label": "Дно",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for дно (bottom).",
+    "missions": [
+      {
+        "id": "NN-MOTION-DNO-01",
+        "phrase": "Дно реки покрыто камнями.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дно' stays in the nominative as the subject. 'Реки' is the genitive of possession, and 'покрыто' is the neuter short form agreeing with дно."
+      },
+      {
+        "id": "NN-MOTION-DNO-02",
+        "phrase": "Ныряльщик опустился на дно.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Дно' is the accusative after 'на', marking the destination of downward motion. 'Ныряльщик' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-DNO-03",
+        "phrase": "Монета лежит на дне моря.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Дне' is the prepositional form after 'на', marking static location. 'Моря' is the genitive of possession, and 'лежит' shows resting position."
+      },
+      {
+        "id": "NN-MOTION-DNO-04",
+        "phrase": "Корабль достиг дна океана.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Дна' is the genitive required by 'достиг', the verb of reaching. 'Океана' is a further genitive of possession."
+      },
+      {
+        "id": "NN-MOTION-DNO-05",
+        "phrase": "Со дна поднимаются пузырьки.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Дна' is the genitive after 'со', marking the source of upward motion. 'Пузырьки' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-DNO-06",
+        "phrase": "Рыба плывёт ко дну озера.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Дну' is the dative after 'ко', marking the goal of movement. 'Озера' is the genitive of possession, and 'рыба' is the subject."
+      },
+      {
+        "id": "NN-MOTION-DNO-07",
+        "phrase": "Я вижу песчаное дно.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дно' is the accusative direct object of 'вижу', identical to the nominative for this neuter noun. 'Песчаное' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-MOTION-DNO-08",
+        "phrase": "Под дном лодки растут водоросли.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Дном' is the instrumental after 'под', marking position beneath. 'Лодки' is the genitive of possession."
+      },
+      {
+        "id": "NN-MOTION-DNO-09",
+        "phrase": "Дно стакана было грязным.",
+        "fullAnalysis": "Strategic focus: Nominative with instrumental predicate. 'Дно' is the nominative subject, and 'было' agrees in the neuter past. 'Грязным' is the instrumental predicate adjective."
+      },
+      {
+        "id": "NN-MOTION-DNO-10",
+        "phrase": "У старых бочек прочные днища.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Днища' is the irregular nominative plural of дно as the subject. 'Прочные' agrees in the plural, and 'у старых бочек' is genitive of possession."
+      }
+    ]
+  }
+]

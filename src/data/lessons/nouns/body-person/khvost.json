@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-KHVOST",
+    "label": "Хвост",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for хвост (tail).",
+    "missions": [
+      {
+        "id": "NN-BODY-KHVOST-01",
+        "phrase": "У кошки длинный пушистый хвост.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Хвост' stays in the nominative as the subject of the sentence. 'Длинный' and 'пушистый' are agreeing masculine adjectives, and 'у кошки' shows whose tail it is."
+      },
+      {
+        "id": "NN-BODY-KHVOST-02",
+        "phrase": "Собака виляет хвостом от радости.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Хвостом' is the instrumental case, showing the instrument of the action 'виляет'. 'От радости' adds the cause, a very natural everyday image."
+      },
+      {
+        "id": "NN-BODY-KHVOST-03",
+        "phrase": "Кот поднял хвост и убежал.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Хвост' is the accusative direct object of 'поднял'; for inanimate masculine nouns the accusative matches the nominative. 'И убежал' continues the action."
+      },
+      {
+        "id": "NN-BODY-KHVOST-04",
+        "phrase": "У ящерицы нет хвоста.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Хвоста' is the genitive case required after 'нет' to express that something is missing. A core pattern for stating what is absent."
+      },
+      {
+        "id": "NN-BODY-KHVOST-05",
+        "phrase": "Ребёнок держится за хвост лошади.",
+        "fullAnalysis": "Strategic focus: Accusative with 'за'. 'Хвост' is the accusative object after 'за', expressing what is held. 'Лошади' is genitive showing whose tail. A natural spatial scene."
+      },
+      {
+        "id": "NN-BODY-KHVOST-06",
+        "phrase": "На хвосте сидит маленькая бабочка.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На хвосте' uses the prepositional form 'хвосте' after 'на' to mark location. 'Сидит' agrees with the feminine subject 'бабочка'."
+      },
+      {
+        "id": "NN-BODY-KHVOST-07",
+        "phrase": "Рыба махнула хвостом и нырнула.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Хвостом' is instrumental, the tool of the motion 'махнула'. 'И нырнула' chains a second action, modelling lively narration."
+      },
+      {
+        "id": "NN-BODY-KHVOST-08",
+        "phrase": "Художник нарисовал коту пушистый хвост.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Хвост' is the accusative object of 'нарисовал', while 'коту' is the dative beneficiary. 'Пушистый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-BODY-KHVOST-09",
+        "phrase": "У павлинов очень красивые хвосты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Хвосты' is the nominative plural subject. 'Красивые' is the agreeing plural adjective, and 'у павлинов' marks the possessors in the genitive plural."
+      },
+      {
+        "id": "NN-BODY-KHVOST-10",
+        "phrase": "Дети говорили о хвостах животных.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О хвостах' uses the prepositional plural after 'о' to mark the topic of conversation. 'Животных' is genitive plural showing whose tails."
+      }
+    ]
+  }
+]

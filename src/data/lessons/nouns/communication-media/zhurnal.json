@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-ZHURNAL",
+    "label": "Журнал",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for журнал (magazine).",
+    "missions": [
+      {
+        "id": "NN-COMMS-ZHURNAL-01",
+        "phrase": "Этот журнал очень популярный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Журнал' is the masculine nominative subject. 'Этот' points at a specific magazine, and 'популярный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-02",
+        "phrase": "Я читаю интересный журнал.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Журнал' is the accusative direct object of 'читаю', equal to the nominative for this inanimate masculine noun. 'Интересный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-03",
+        "phrase": "На столе нет нового журнала.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Журнала' is the genitive after 'нет', signalling that the magazine is missing. 'Нового' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-04",
+        "phrase": "В этом журнале много фотографий.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Журнале' is the prepositional form after 'в', marking where the photos are. 'Этом' agrees in the masculine prepositional case."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-05",
+        "phrase": "Она написала статью журналу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Журналу' is the dative form marking the magazine as recipient. 'Статью' is the accusative object that was written."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-06",
+        "phrase": "Он работает над новым журналом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Журналом' is the instrumental governed by 'над' in 'работает над'. 'Новым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-07",
+        "phrase": "На полке лежат старые журналы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Журналы' is the nominative plural subject of 'лежат'. 'Старые' agrees in the plural, and 'на полке' gives the location."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-08",
+        "phrase": "Я покупаю модные журналы каждый месяц.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Журналы' is the accusative plural object of 'покупаю', equal to the nominative plural. 'Модные' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-09",
+        "phrase": "В библиотеке нет свежих журналов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Журналов' is the genitive plural after 'нет', expressing absence. 'Свежих' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-COMMS-ZHURNAL-10",
+        "phrase": "Без журнала ему скучно в дороге.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Журнала' is the genitive governed by 'без', expressing the lack of reading. 'Ему скучно' frames the feeling."
+      }
+    ]
+  }
+]

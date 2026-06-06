@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-SOSTAV",
+    "label": "Состав",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for состав (composition).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-SOSTAV-01",
+        "phrase": "Состав команды сильно изменился.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Состав' is masculine and stays in the nominative as the subject of 'изменился'. 'Команды' is genitive showing whose lineup it is."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-02",
+        "phrase": "Тренер объявил новый состав.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Состав' is inanimate masculine, so its accusative matches the nominative as the object of 'объявил'. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-03",
+        "phrase": "Мы не знаем состава лекарства.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Состава' is genitive after the negated verb 'не знаем'. 'Лекарства' is genitive showing whose composition it is."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-04",
+        "phrase": "Учёные удивились составу почвы.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Составу' is dative after 'удивились', which governs the dative. 'Почвы' is genitive marking whose composition it is."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-05",
+        "phrase": "Расскажите о составе продукта.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Составе' is prepositional after 'о', marking the topic of the request. 'Продукта' is genitive showing whose composition it is."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-06",
+        "phrase": "Мы довольны составом группы.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Составом' is instrumental after 'довольны', a short adjective that governs that case. 'Группы' is genitive showing whose lineup it is."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-07",
+        "phrase": "В состав входят разные вещества.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Состав' is accusative after 'в', a fixed pattern with 'входят'. The accusative matches the nominative for this inanimate noun."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-08",
+        "phrase": "Это вещество входит в состав воды.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Состав' is accusative after 'в' with 'входит'. 'Воды' is genitive marking whose composition it forms part of."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-09",
+        "phrase": "Команда выступила в полном составе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Составе' is prepositional after 'в' in the fixed phrase 'в полном составе', meaning at full strength. 'Полном' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-ABSTRACT-SOSTAV-10",
+        "phrase": "Разные составы поездов стоят рядом.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Составы' is the nominative plural subject of 'стоят', here meaning train sets. 'Разные' agrees in the plural, and 'поездов' is genitive plural."
+      }
+    ]
+  }
+]

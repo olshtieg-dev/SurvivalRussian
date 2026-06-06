@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-PERIOD",
+    "label": "Период",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for период (period).",
+    "missions": [
+      {
+        "id": "NN-TIME-PERIOD-01",
+        "phrase": "Этот период был очень трудным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Период' stays in the nominative as the subject of 'был'. 'Этот' agrees in the masculine, and 'трудным' is an instrumental predicate adjective after 'был'."
+      },
+      {
+        "id": "NN-TIME-PERIOD-02",
+        "phrase": "Мы пережили тяжёлый период.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Период' is inanimate masculine, so its accusative equals the nominative as the object of 'пережили'. 'Тяжёлый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-TIME-PERIOD-03",
+        "phrase": "Начало периода было спокойным.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Периода' is the genitive after 'начало' to show which period's beginning is meant. 'Спокойным' is an instrumental predicate after 'было'."
+      },
+      {
+        "id": "NN-TIME-PERIOD-04",
+        "phrase": "В течение периода цены росли.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'В течение периода' uses the genitive 'периода' to express duration. 'Цены росли' is the nominative subject with its verb."
+      },
+      {
+        "id": "NN-TIME-PERIOD-05",
+        "phrase": "Историк посвятил книгу этому периоду.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Периоду' is the dative after 'посвятить', which takes a dative for what something is dedicated to. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TIME-PERIOD-06",
+        "phrase": "Учёные интересуются этим периодом.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Периодом' is the instrumental required by 'интересоваться'. 'Этим' is the agreeing masculine instrumental demonstrative."
+      },
+      {
+        "id": "NN-TIME-PERIOD-07",
+        "phrase": "В этом периоде много событий.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В периоде' uses the prepositional 'периоде' after 'в' to express the time frame. 'Событий' is a genitive plural after 'много'."
+      },
+      {
+        "id": "NN-TIME-PERIOD-08",
+        "phrase": "Мы говорим о трудном периоде.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'О периоде' uses the prepositional 'периоде' after 'о' to express the topic. 'Трудном' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-TIME-PERIOD-09",
+        "phrase": "Эти периоды отличаются друг от друга.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Периоды' is the nominative plural subject of 'отличаются'. 'Эти' agrees in the plural, and the reflexive verb compares the eras."
+      },
+      {
+        "id": "NN-TIME-PERIOD-10",
+        "phrase": "Историки изучают разные исторические периоды.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Периоды' is the inanimate accusative plural, equal to the nominative plural, as the object of 'изучают'. 'Разные исторические' agree in the plural."
+      }
+    ]
+  }
+]

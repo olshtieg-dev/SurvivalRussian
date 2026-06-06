@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-NASELENIE",
+    "label": "Население",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for население (population).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-NASELENIE-01",
+        "phrase": "Население города быстро растёт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Население' is a neuter noun in the nominative as the subject of 'растёт'. 'Города' is genitive marking whose population, and 'быстро' is the adverb. A natural demographic statement."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-02",
+        "phrase": "Власти переписали всё население.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Население' is the neuter accusative direct object of 'переписали', identical to the nominative. 'Всё' agrees in the neuter. A natural census sentence."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-03",
+        "phrase": "Здесь нет местного населения.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Населения' is the neuter genitive after 'нет', and 'местного' agrees in the genitive. A model for the genitive of -ие nouns."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-04",
+        "phrase": "Правительство помогает бедному населению.",
+        "fullAnalysis": "Strategic focus: Dative governed by the verb. 'Населению' is the dative required by 'помогать'. 'Бедному' agrees in the neuter dative. A clean dative-of-beneficiary example."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-05",
+        "phrase": "Страна гордится своим населением.",
+        "fullAnalysis": "Strategic focus: Instrumental governed by the verb. 'Населением' is the instrumental required by 'гордиться'. 'Своим' agrees in the neuter instrumental. A core instrumental-with-verb model."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-06",
+        "phrase": "Учёные говорят о населении планеты.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Населении' is the prepositional form after 'о', the topic of discussion. 'Планеты' is genitive marking whose population. A reliable prepositional model."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-07",
+        "phrase": "Городское население очень большое.",
+        "fullAnalysis": "Strategic focus: Nominative subject with predicate. 'Население' is the nominative subject. 'Городское' agrees in the neuter, and 'большое' is the predicate adjective, intensified by 'очень'. A clean description."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-08",
+        "phrase": "Война затронула мирное население.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Население' is the neuter accusative object of 'затронула'. 'Мирное' agrees in the neuter, and 'война' is the subject. A natural news-style sentence."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-09",
+        "phrase": "Для населения построили новые дома.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Населения' is the genitive after 'для', marking the beneficiary. 'Дома' is the accusative plural object. A natural construction-program sentence."
+      },
+      {
+        "id": "NN-PEOPLE-NASELENIE-10",
+        "phrase": "Население разных стран сильно отличается.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Население' is the nominative subject of 'отличается'. 'Разных стран' is a genitive-plural modifier, and 'сильно' intensifies. A comparative demographic statement."
+      }
+    ]
+  }
+]

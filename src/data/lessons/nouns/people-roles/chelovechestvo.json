@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-CHELOVECHESTVO",
+    "label": "Человечество",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for человечество (humanity).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-01",
+        "phrase": "Всё человечество мечтает о мире.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Человечество' stays in the nominative as the subject. 'Всё' agrees in the neuter, and 'о мире' is the prepositional topic of the dream."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-02",
+        "phrase": "Наука изменила всё человечество.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Человечество' is the accusative direct object of 'изменила', identical to the nominative for this neuter noun. 'Наука' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-03",
+        "phrase": "Это важно для будущего человечества.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Человечества' is the genitive marking whose future it is. 'Будущего' is a further genitive, and 'для' governs the phrase."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-04",
+        "phrase": "Учёные служат всему человечеству.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Человечеству' is the dative governed by 'служат', the beneficiary of the service. 'Всему' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-05",
+        "phrase": "Мы думаем о судьбе человечества.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Человечества' is the genitive marking whose fate is meant. 'О судьбе' is the prepositional topic phrase."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-06",
+        "phrase": "Война угрожает всему человечеству.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Человечеству' is the dative governed by 'угрожает'. 'Всему' agrees in the neuter dative, and 'война' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-07",
+        "phrase": "Природа управляет человечеством незаметно.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Человечеством' is the instrumental governed by 'управляет'. 'Природа' is the subject, and 'незаметно' is the adverb of manner."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-08",
+        "phrase": "В человечестве живёт надежда.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Человечестве' is the prepositional form after 'в', marking location. 'Надежда' is the nominative subject of 'живёт'."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-09",
+        "phrase": "Человечество должно беречь природу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Человечество' is the nominative subject of the modal 'должно', which agrees in the neuter. 'Природу' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-CHELOVECHESTVO-10",
+        "phrase": "Перед человечеством стоят большие задачи.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Человечеством' is the instrumental after 'перед', marking what faces the challenges. 'Задачи' is the nominative plural subject."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SHUM",
+    "label": "Шум",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for шум (noise).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SHUM-01",
+        "phrase": "На улице сильный шум.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шум' is the nominative subject of the sentence. 'Сильный' agrees in the masculine, and 'на улице' marks the prepositional location."
+      },
+      {
+        "id": "NN-COMMS-SHUM-02",
+        "phrase": "Дети подняли громкий шум.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шум' is the inanimate masculine accusative object of 'подняли', matching the nominative. 'Громкий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-SHUM-03",
+        "phrase": "Я устал от постоянного шума.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Шума' is genitive following 'от' to express the cause of tiredness. 'Постоянного' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-COMMS-SHUM-04",
+        "phrase": "В этом шуме трудно разговаривать.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В этом шуме' uses the prepositional form 'шуме' after 'в' to mark the surrounding noise. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-COMMS-SHUM-05",
+        "phrase": "Машина едет с громким шумом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Шумом' is the instrumental governed by 'с', describing the accompanying sound. 'Громким' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-SHUM-06",
+        "phrase": "Без шума здесь очень спокойно.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Шума' is genitive following 'без' to express absence. 'Спокойно' describes the resulting calm."
+      },
+      {
+        "id": "NN-COMMS-SHUM-07",
+        "phrase": "Мы привыкли к городскому шуму.",
+        "fullAnalysis": "Strategic focus: Dative after 'привыкнуть к'. 'Шуму' is the dative governed by 'к', expressing what one is used to. 'Городскому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-COMMS-SHUM-08",
+        "phrase": "Из-за шума я не спал.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из-за'. 'Шума' is genitive following 'из-за' to express the cause. The phrase models a common complaint."
+      },
+      {
+        "id": "NN-COMMS-SHUM-09",
+        "phrase": "На заводе слышны разные шумы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Шумы' is the nominative plural subject of the sentence. 'Разные' agrees in the plural, and 'слышны' is the short-form predicate."
+      },
+      {
+        "id": "NN-COMMS-SHUM-10",
+        "phrase": "Инженер изучает источники шумов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Шумов' is the genitive plural, expressing the sources of which sounds. 'Источники' is the accusative plural object of 'изучает'."
+      }
+    ]
+  }
+]

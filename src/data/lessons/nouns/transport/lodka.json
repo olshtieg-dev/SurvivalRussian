@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-LODKA",
+    "label": "Лодка",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for лодка (boat).",
+    "missions": [
+      {
+        "id": "NN-TRANS-LODKA-01",
+        "phrase": "На озере стоит старая лодка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лодка' is the nominative subject of 'стоит'. 'Старая' agrees in the feminine, and 'на озере' marks the prepositional location."
+      },
+      {
+        "id": "NN-TRANS-LODKA-02",
+        "phrase": "Мы купили новую лодку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лодку' is the accusative direct object of 'купили'. 'Новую' agrees in the feminine accusative, a common purchase phrase."
+      },
+      {
+        "id": "NN-TRANS-LODKA-03",
+        "phrase": "Рыбак сидит в лодке.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В лодке' uses the prepositional form 'лодке' after 'в' to mark where the fisherman sits. A clear location pattern."
+      },
+      {
+        "id": "NN-TRANS-LODKA-04",
+        "phrase": "У нас нет своей лодки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Лодки' is the genitive required after 'нет' to state that something is missing. 'Своей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-TRANS-LODKA-05",
+        "phrase": "Дети подплыли к лодке.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Лодке' is the dative after 'к', expressing approach toward the boat. 'Подплыли' reinforces the movement on water."
+      },
+      {
+        "id": "NN-TRANS-LODKA-06",
+        "phrase": "Он управляет маленькой лодкой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'управлять'. 'Лодкой' is the instrumental required by the verb 'управляет'. 'Маленькой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-TRANS-LODKA-07",
+        "phrase": "Мы плывём на лодке по реке.",
+        "fullAnalysis": "Strategic focus: Prepositional of conveyance. 'На лодке' uses the prepositional form after 'на' to mark the means of travel. 'По реке' shows the route."
+      },
+      {
+        "id": "NN-TRANS-LODKA-08",
+        "phrase": "Без лодки сюда не добраться.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Лодки' is genitive following 'без' to express absence. The phrase models a practical impossibility."
+      },
+      {
+        "id": "NN-TRANS-LODKA-09",
+        "phrase": "У берега стоят рыбацкие лодки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Лодки' is the nominative plural subject of 'стоят'. 'Рыбацкие' agrees in the plural, and 'у берега' marks the genitive location."
+      },
+      {
+        "id": "NN-TRANS-LODKA-10",
+        "phrase": "В порту много рыбацких лодок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Лодок' is the genitive plural required by the quantifier 'много', showing a fleeting vowel between 'д' and 'к'. 'Рыбацких' agrees in the plural."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-KON",
+    "label": "Конь",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for конь (horse).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-KON-01",
+        "phrase": "Это быстрый белый конь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Конь' is a soft-stem masculine noun staying in the nominative as the predicate. 'Быстрый белый' are the agreeing masculine adjectives."
+      },
+      {
+        "id": "NN-ANIMAL-KON-02",
+        "phrase": "Мальчик увидел старого коня.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Коня' is animate masculine, so its accusative equals the genitive as the object of 'увидел'. 'Старого' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-ANIMAL-KON-03",
+        "phrase": "У соседа нет своего коня.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Коня' takes the genitive after 'нет' to express not having one. 'Своего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-ANIMAL-KON-04",
+        "phrase": "Девочка дала коню морковку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Коню' is the dative indirect object, the one receiving the carrot from 'дала'."
+      },
+      {
+        "id": "NN-ANIMAL-KON-05",
+        "phrase": "Всадник скакал на быстром коне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Коне' is prepositional after 'на', marking the means of riding. 'Быстром' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-ANIMAL-KON-06",
+        "phrase": "Он гордится своим красивым конём.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Конём' is instrumental after 'гордится', which governs that case. 'Своим красивым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-ANIMAL-KON-07",
+        "phrase": "В поле паслись дикие кони.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Кони' is the nominative plural subject of 'паслись'. 'Дикие' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-ANIMAL-KON-08",
+        "phrase": "Фермер кормит своих коней утром.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Коней' is animate, so the accusative plural equals the genitive plural as the object of 'кормит'. 'Своих' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-ANIMAL-KON-09",
+        "phrase": "На лугу было много коней.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Коней' is genitive plural after 'много', counting an indefinite number."
+      },
+      {
+        "id": "NN-ANIMAL-KON-10",
+        "phrase": "Чей это сильный конь?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Конь' is nominative as the subject. 'Сильный' agrees in the masculine nominative, and 'чей' asks whose horse it is."
+      }
+    ]
+  }
+]

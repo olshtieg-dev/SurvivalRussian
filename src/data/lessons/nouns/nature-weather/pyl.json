@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-PYL",
+    "label": "Пыль",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for пыль (dust).",
+    "missions": [
+      {
+        "id": "NN-NATURE-PYL-01",
+        "phrase": "На полке лежит толстая пыль.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пыль' stays in the nominative as the subject. 'Толстая' is the agreeing feminine adjective, and 'на полке' shows location."
+      },
+      {
+        "id": "NN-NATURE-PYL-02",
+        "phrase": "Я вытираю пыль каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пыль' is the accusative direct object of 'вытираю', identical to the nominative for this feminine noun. 'Каждое утро' sets the frequency."
+      },
+      {
+        "id": "NN-NATURE-PYL-03",
+        "phrase": "В комнате много пыли.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Пыли' is the genitive after 'много', expressing an amount. 'В комнате' gives the location."
+      },
+      {
+        "id": "NN-NATURE-PYL-04",
+        "phrase": "Стол покрыт серой пылью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Пылью' is the instrumental describing what covers the table. 'Серой' agrees in the feminine instrumental, and 'покрыт' is the short predicate."
+      },
+      {
+        "id": "NN-NATURE-PYL-05",
+        "phrase": "Я думаю о пыли на книгах.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Пыли' is the prepositional form after 'о', expressing what one is thinking about. 'На книгах' adds the location of the dust."
+      },
+      {
+        "id": "NN-NATURE-PYL-06",
+        "phrase": "Из-за пыли я чихаю.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Пыли' is the genitive after 'из-за', marking the cause. 'Я чихаю' states the result."
+      },
+      {
+        "id": "NN-NATURE-PYL-07",
+        "phrase": "Ветер поднял облако пыли.",
+        "fullAnalysis": "Strategic focus: Genitive specifier. 'Пыли' is the genitive specifying the content of 'облако'. 'Ветер' is the nominative subject of 'поднял'."
+      },
+      {
+        "id": "NN-NATURE-PYL-08",
+        "phrase": "К пыли добавился песок.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Пыли' is the dative after 'к', marking what is added to. 'Песок' is the nominative subject of 'добавился'."
+      },
+      {
+        "id": "NN-NATURE-PYL-09",
+        "phrase": "Дети играли с пылью на чердаке.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Пылью' is the instrumental after 'с', marking what they played with. 'На чердаке' gives the place."
+      },
+      {
+        "id": "NN-NATURE-PYL-10",
+        "phrase": "Космические пыли загрязняют атмосферу.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Пыли' is the nominative plural subject in this technical sense of dust types. 'Космические' agrees in the plural, and 'атмосферу' is the accusative object."
+      }
+    ]
+  }
+]

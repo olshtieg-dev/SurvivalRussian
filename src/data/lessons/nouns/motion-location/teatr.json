@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-TEATR",
+    "label": "Театр",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for театр (theater).",
+    "missions": [
+      {
+        "id": "NN-MOTION-TEATR-01",
+        "phrase": "Этот театр очень известный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Театр' is masculine and stays in the nominative as the subject. 'Известный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-MOTION-TEATR-02",
+        "phrase": "Мы любим старый городской театр.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Театр' is inanimate masculine, so its accusative equals the nominative as the object of 'любим'. 'Старый городской' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-TEATR-03",
+        "phrase": "Около театра много людей.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Театра' is genitive after 'около', marking location near the theater."
+      },
+      {
+        "id": "NN-MOTION-TEATR-04",
+        "phrase": "Мы идём сегодня в театр.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Театр' is accusative after 'в' to express motion toward a destination. The accusative matches the nominative for this inanimate noun."
+      },
+      {
+        "id": "NN-MOTION-TEATR-05",
+        "phrase": "Вчера мы были в театре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Театре' is prepositional after 'в', marking location where we were."
+      },
+      {
+        "id": "NN-MOTION-TEATR-06",
+        "phrase": "Рядом с театром есть кафе.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Театром' is instrumental after 'рядом с', expressing position beside the theater."
+      },
+      {
+        "id": "NN-MOTION-TEATR-07",
+        "phrase": "Я подошёл к театру в семь.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Театру' is dative after 'к', expressing the goal of approach."
+      },
+      {
+        "id": "NN-MOTION-TEATR-08",
+        "phrase": "В Москве много старых театров.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Театров' is genitive plural after 'много', counting an indefinite amount. 'Старых' agrees in the plural genitive."
+      },
+      {
+        "id": "NN-MOTION-TEATR-09",
+        "phrase": "Новые театры открылись в городе.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Театры' is the nominative plural subject of 'открылись'. 'Новые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-MOTION-TEATR-10",
+        "phrase": "Где находится этот театр?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Театр' is nominative as the subject of 'находится'. 'Этот' agrees in the masculine nominative."
+      }
+    ]
+  }
+]

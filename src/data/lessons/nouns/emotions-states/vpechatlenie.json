@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-VPECHATLENIE",
+    "label": "Впечатление",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for впечатление (impression).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-01",
+        "phrase": "Первое впечатление было очень сильным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Впечатление' is a neuter noun staying in the nominative as the subject of 'было'. 'Первое' is the agreeing neuter adjective, and 'сильным' is the instrumental predicate. A natural opener."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-02",
+        "phrase": "Концерт произвёл сильное впечатление.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Впечатление' is the accusative direct object of 'произвёл'; for this neuter noun the form matches the nominative. 'Сильное' agrees in gender. A core fixed-phrase pattern."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-03",
+        "phrase": "Это зависит от первого впечатления.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От первого впечатления' uses the genitive 'впечатления' after 'от' to mark dependence. 'Первого' agrees in the neuter genitive. A useful causal pattern."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-04",
+        "phrase": "Я доверяю первому впечатлению.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Впечатлению' is the dative required by 'доверяю'. 'Первому' agrees in the neuter dative. Good for verbs that govern the dative."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-05",
+        "phrase": "Я делюсь приятным впечатлением.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Впечатлением' is the instrumental required by 'делюсь'. 'Приятным' agrees in the neuter instrumental. Useful for sharing feelings."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-06",
+        "phrase": "Он рассказал о сильном впечатлении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О сильном впечатлении' uses the prepositional 'впечатлении' after 'о' to mark the topic. 'Сильном' agrees in the prepositional. Useful for recounting experiences."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-07",
+        "phrase": "В этом впечатлении много радости.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'в'. 'В этом впечатлении' uses the prepositional 'впечатлении' to show what the feeling contains. 'Много радости' adds a genitive quantity. A descriptive pattern."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-08",
+        "phrase": "Первые впечатления часто обманчивы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Впечатления' is the nominative plural subject. 'Первые' agrees in the plural, and 'обманчивы' is a short adjective. Good for general statements."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-09",
+        "phrase": "Поездка оставила яркие впечатления.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Впечатления' is the accusative plural object of 'оставила', identical to the nominative for this inanimate noun. 'Яркие' agrees in the plural. A travel-memory pattern."
+      },
+      {
+        "id": "NN-EMOTION-VPECHATLENIE-10",
+        "phrase": "У меня много хороших впечатлений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Впечатлений' is the genitive plural required by 'много'. 'Хороших' agrees in the genitive plural. A core quantity pattern."
+      }
+    ]
+  }
+]

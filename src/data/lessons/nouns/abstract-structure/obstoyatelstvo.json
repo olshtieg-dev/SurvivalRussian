@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-OBSTOYATELSTVO",
+    "label": "Обстоятельство",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for обстоятельство (circumstance).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-01",
+        "phrase": "Это обстоятельство всё изменило.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Обстоятельство' is the neuter nominative subject of 'изменило', which agrees in the neuter. 'Это' agrees in the neuter, and 'всё' is the accusative object. A pivotal statement."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-02",
+        "phrase": "Мы учли важное обстоятельство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Обстоятельство' is the accusative direct object of 'учли'; neuter, so it matches the nominative. 'Важное' agrees in the neuter accusative. A core decision-making pattern."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-03",
+        "phrase": "Из-за этого обстоятельства мы опоздали.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Обстоятельства' is the genitive form after 'из-за', naming the cause. 'Этого' agrees in the neuter genitive. A natural cause-and-effect pattern."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-04",
+        "phrase": "Я придаю значение каждому обстоятельству.",
+        "fullAnalysis": "Strategic focus: Dative as recipient. 'Обстоятельству' is the dative case in the phrase 'придавать значение чему-то'. 'Каждому' agrees in the neuter dative. A useful pattern for assigning importance."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-05",
+        "phrase": "Решение зависит от одного обстоятельства.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Обстоятельства' is the genitive form after 'от', required by 'зависит от'. 'Одного' agrees in the neuter genitive. A common dependence pattern."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-06",
+        "phrase": "Мы столкнулись с трудным обстоятельством.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Обстоятельством' is the instrumental case after 'с', required by 'столкнуться с'. 'Трудным' agrees in the neuter instrumental. A natural problem-encountering pattern."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-07",
+        "phrase": "В этом обстоятельстве скрыта проблема.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В обстоятельстве' uses the prepositional form 'обстоятельстве' after 'в' to locate the problem. 'Этом' agrees in the neuter prepositional. A reflective pattern."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-08",
+        "phrase": "Нужно учитывать все обстоятельства дела.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Обстоятельства' is the accusative plural object of 'учитывать'; neuter, so it matches the nominative plural. 'Все' agrees in the plural. Good for plural practice."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-09",
+        "phrase": "В таких обстоятельствах трудно решать.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Обстоятельствах' is the prepositional plural after 'в', the common phrase for under such conditions. 'Таких' agrees in the plural. A high-frequency idiomatic pattern."
+      },
+      {
+        "id": "NN-STRUCT-OBSTOYATELSTVO-10",
+        "phrase": "Это обстоятельство важнее остальных.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Обстоятельство' stays nominative as the subject. 'Это' agrees in the neuter, and 'важнее остальных' uses the genitive plural 'остальных' in a comparison. Strong for comparative practice."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-TEMA",
+    "label": "Тема",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for тема (topic).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-TEMA-01",
+        "phrase": "Это очень интересная тема.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тема' is feminine and stays in the nominative as the subject. 'Интересная' is the agreeing feminine adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-02",
+        "phrase": "Давай сменим тему.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тему' is the accusative object of 'сменим'. 'Давай' frames a friendly suggestion. A natural way to change the subject in conversation."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-03",
+        "phrase": "Мы говорим об этой теме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Теме' is the prepositional singular after 'об', expressing what is discussed. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-04",
+        "phrase": "Это не относится к теме.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Теме' is the dative singular after 'к', used in the phrase 'относиться к теме', meaning to relate to the topic. A useful discussion idiom."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-05",
+        "phrase": "Мы не касались этой темы.",
+        "fullAnalysis": "Strategic focus: Genitive after the verb. 'Темы' is the genitive singular governed by 'касаться', which takes the genitive. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-06",
+        "phrase": "Над этой темой работают учёные.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Темой' is the instrumental singular after 'над' in 'работать над', meaning to work on a topic. 'Учёные' is the nominative plural subject."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-07",
+        "phrase": "Учитель выбрал новую тему.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тему' is the accusative object of 'выбрал'. 'Новую' agrees in the feminine accusative, and 'учитель' is the nominative subject."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-08",
+        "phrase": "У нас есть три важные темы.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Темы' follows 'три', which requires the genitive singular for feminine nouns. 'Важные' takes the plural form."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-09",
+        "phrase": "Мы обсудили все темы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Темы' is the accusative plural, identical to the nominative plural for this inanimate noun, as the object of 'обсудили'. 'Все' agrees in the plural."
+      },
+      {
+        "id": "NN-ABSTRACT-TEMA-10",
+        "phrase": "В книге много разных тем.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Тем' is the genitive plural after 'много'. 'Разных' agrees in the genitive plural, and 'в книге' locates them."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-CHEST",
+    "label": "Честь",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for честь (honor).",
+    "missions": [
+      {
+        "id": "NN-STATE-CHEST-01",
+        "phrase": "Честь для него очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Честь' is a feminine soft-sign noun in the nominative as the subject. 'Важна' is the short feminine adjective agreeing with it."
+      },
+      {
+        "id": "NN-STATE-CHEST-02",
+        "phrase": "Он защищает свою честь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Честь' is the accusative object of 'защищает'; for this feminine soft-sign noun the accusative matches the nominative. 'Свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-STATE-CHEST-03",
+        "phrase": "Это вопрос чести.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Чести' is the genitive singular after 'вопрос', forming the set phrase 'вопрос чести', meaning a matter of honour."
+      },
+      {
+        "id": "NN-STATE-CHEST-04",
+        "phrase": "Нанести вред чести нельзя.",
+        "fullAnalysis": "Strategic focus: Dative after the verb. 'Чести' is the dative singular governed by 'нанести вред', which takes the dative of the affected thing. 'Нельзя' marks the prohibition."
+      },
+      {
+        "id": "NN-STATE-CHEST-05",
+        "phrase": "Он гордится своей честью.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Честью' is the instrumental singular governed by 'гордиться', which takes the instrumental. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STATE-CHEST-06",
+        "phrase": "Речь идёт о чести семьи.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Чести' is the prepositional singular after 'о', expressing the topic. 'Семьи' is the genitive showing whose honour it is."
+      },
+      {
+        "id": "NN-STATE-CHEST-07",
+        "phrase": "Праздник в честь героев.",
+        "fullAnalysis": "Strategic focus: Accusative in a set phrase. 'Честь' appears in the accusative after 'в' in the idiom 'в честь', meaning in honour of. 'Героев' is the genitive plural complement."
+      },
+      {
+        "id": "NN-STATE-CHEST-08",
+        "phrase": "Солдаты отдали честь генералу.",
+        "fullAnalysis": "Strategic focus: Accusative in the salute idiom. 'Честь' is the accusative object in the phrase 'отдать честь', meaning to salute. 'Генералу' is the dative recipient."
+      },
+      {
+        "id": "NN-STATE-CHEST-09",
+        "phrase": "Имею честь представить вам гостя.",
+        "fullAnalysis": "Strategic focus: Accusative in a polite formula. 'Честь' is the accusative object of 'имею' in the formal phrase 'имею честь', meaning I have the honour. 'Гостя' is the animate accusative."
+      },
+      {
+        "id": "NN-STATE-CHEST-10",
+        "phrase": "В армии много понятий о чести.",
+        "fullAnalysis": "Strategic focus: Prepositional case after a quantity phrase. 'Чести' is the prepositional singular after 'о', linked to 'много понятий', where 'понятий' is the genitive plural after 'много'."
+      }
+    ]
+  }
+]

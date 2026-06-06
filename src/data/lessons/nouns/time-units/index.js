@@ -6,7 +6,10 @@ import mesyatsSet from './mesyats.json';
 import minutaSet from './minuta.json';
 import nedelyaSet from './nedelya.json';
 import nochSet from './noch.json';
+import pauzaSet from './pauza.json';
+import periodSet from './period.json';
 import sekundaSet from './sekunda.json';
+import srokSet from './srok.json';
 import sutkiSet from './sutki.json';
 import utroSet from './utro.json';
 import vecherSet from './vecher.json';
@@ -23,7 +26,10 @@ const timeUnitsNounsData = [
   ...minutaSet,
   ...nedelyaSet,
   ...nochSet,
+  ...pauzaSet,
+  ...periodSet,
   ...sekundaSet,
+  ...srokSet,
   ...sutkiSet,
   ...utroSet,
   ...vecherSet,

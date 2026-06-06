@@ -1,62 +1,66 @@
-import sluchaiSet from './sluchai.json';
-import nachaloSet from './nachalo.json';
-import otnoshenieSet from './otnoshenie.json';
-import dvizhenieSet from './dvizhenie.json';
-import momentSet from './moment.json';
-import pomoshchSet from './pomoshch.json';
-import smyslSet from './smysl.json';
-import vozmozhnostSet from './vozmozhnost.json';
+import bolshinstvoSet from './bolshinstvo.json';
+import budushcheeSet from './budushchee.json';
 import deistvieSet from './deistvie.json';
+import detstvoSet from './detstvo.json';
+import dvizhenieSet from './dvizhenie.json';
 import khodSet from './khod.json';
-import sudbaSet from './sudba.json';
+import momentSet from './moment.json';
+import nachaloSet from './nachalo.json';
+import oshibkaSet from './oshibka.json';
+import otnoshenieSet from './otnoshenie.json';
+import pomoshchSet from './pomoshch.json';
+import popytkaSet from './popytka.json';
 import prichinaSet from './prichina.json';
 import problemaSet from './problema.json';
-import svyazSet from './svyaz.json';
-import tselSet from './tsel.json';
-import rezultatSet from './rezultat.json';
-import sledSet from './sled.json';
 import protsessSet from './protsess.json';
-import budushcheeSet from './budushchee.json';
 import razvitieSet from './razvitie.json';
-import vstrechaSet from './vstrecha.json';
-import techenieSet from './techenie.json';
-import situatsiyaSet from './situatsiya.json';
-import vykhodSet from './vykhod.json';
-import sobytieSet from './sobytie.json';
-import detstvoSet from './detstvo.json';
-import bolshinstvoSet from './bolshinstvo.json';
 import reshenieSet from './reshenie.json';
+import rezultatSet from './rezultat.json';
+import situatsiyaSet from './situatsiya.json';
+import sledSet from './sled.json';
+import sluchaiSet from './sluchai.json';
+import smyslSet from './smysl.json';
+import sobytieSet from './sobytie.json';
+import sudbaSet from './sudba.json';
+import svyazSet from './svyaz.json';
+import techenieSet from './techenie.json';
+import tselSet from './tsel.json';
+import vozmozhnostSet from './vozmozhnost.json';
+import vstrechaSet from './vstrecha.json';
+import vykhodSet from './vykhod.json';
 
 export const abstractEventNounsFolderId = 'nouns-abstract-event';
 const abstractEventNounsData = [
-  ...sluchaiSet,
-  ...nachaloSet,
-  ...otnoshenieSet,
-  ...dvizhenieSet,
-  ...momentSet,
-  ...pomoshchSet,
-  ...smyslSet,
-  ...vozmozhnostSet,
+  ...bolshinstvoSet,
+  ...budushcheeSet,
   ...deistvieSet,
+  ...detstvoSet,
+  ...dvizhenieSet,
   ...khodSet,
-  ...sudbaSet,
+  ...momentSet,
+  ...nachaloSet,
+  ...oshibkaSet,
+  ...otnoshenieSet,
+  ...pomoshchSet,
+  ...popytkaSet,
   ...prichinaSet,
   ...problemaSet,
-  ...svyazSet,
-  ...tselSet,
-  ...rezultatSet,
-  ...sledSet,
   ...protsessSet,
-  ...budushcheeSet,
   ...razvitieSet,
-  ...vstrechaSet,
-  ...techenieSet,
-  ...situatsiyaSet,
-  ...vykhodSet,
-  ...sobytieSet,
-  ...detstvoSet,
-  ...bolshinstvoSet,
   ...reshenieSet,
+  ...rezultatSet,
+  ...situatsiyaSet,
+  ...sledSet,
+  ...sluchaiSet,
+  ...smyslSet,
+  ...sobytieSet,
+  ...sudbaSet,
+  ...svyazSet,
+  ...techenieSet,
+  ...tselSet,
+  ...vozmozhnostSet,
+  ...vstrechaSet,
+  ...vykhodSet,
 ];
 
 export const abstractEventNounsFolder = {

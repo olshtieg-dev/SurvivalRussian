@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-MALCHISHKA",
+    "label": "Мальчишка",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for мальчишка (boy).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-01",
+        "phrase": "Этот мальчишка очень весёлый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мальчишка' is grammatically masculine but declines like a feminine -а noun. It stays nominative as the subject. 'Весёлый' takes the masculine form, matching natural gender."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-02",
+        "phrase": "Я вижу этого мальчишку.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Мальчишку' takes the -у accusative ending of -а nouns. Because the boy is animate, the demonstrative 'этого' shows the animate accusative equals the genitive form."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-03",
+        "phrase": "У этого мальчишки нет велосипеда.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Мальчишки' is the genitive form after 'у' to mark whose. 'Нет велосипеда' uses the genitive of absence. A core possession-and-lack pattern."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-04",
+        "phrase": "Я дал мальчишке яблоко.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Мальчишке' is the dative form marking the recipient of the gift. 'Яблоко' is the accusative object given. A core giving pattern with an indirect object."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-05",
+        "phrase": "Мы гордимся этим мальчишкой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Мальчишкой' is the instrumental form required after 'гордиться', which governs the instrumental. 'Этим' agrees in the instrumental. A core verb-plus-instrumental pattern."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-06",
+        "phrase": "Мы говорим об этом мальчишке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О мальчишке' uses the prepositional form after 'об' to express the topic. 'Этом' agrees in the prepositional. A clean topic-of-conversation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-07",
+        "phrase": "Мальчишка бежит по двору.",
+        "fullAnalysis": "Strategic focus: Nominative subject with motion. 'Мальчишка' is the nominative subject of 'бежит'. 'По двору' uses the dative after 'по' to mark movement around the yard. A natural action scene."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-08",
+        "phrase": "Соседние мальчишки играют в футбол.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мальчишки' is the nominative plural subject of 'играют'. 'Соседние' is the agreeing plural adjective, and 'в футбол' names the game. Good for plural practice."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-09",
+        "phrase": "Учитель похвалил двух мальчишек.",
+        "fullAnalysis": "Strategic focus: Genitive plural of animates after a numeral. 'Мальчишек' is the genitive plural, used after 'двух' and for the animate accusative plural. 'Учитель' is the nominative subject. A core counting-people pattern."
+      },
+      {
+        "id": "NN-PEOPLE-MALCHISHKA-10",
+        "phrase": "Маленький мальчишка любит играть.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мальчишка' is the nominative subject of 'любит'. 'Маленький' takes the masculine form, agreeing with natural gender despite the -а ending. A clean descriptive pattern."
+      }
+    ]
+  }
+]

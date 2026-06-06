@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-RYNOK",
+    "label": "Рынок",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for рынок (market).",
+    "missions": [
+      {
+        "id": "NN-MOTION-RYNOK-01",
+        "phrase": "Рынок открывается рано утром.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рынок' stays in the nominative as the subject of 'открывается'. 'Рано утром' adds the time, giving a simple daily-routine sentence."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-02",
+        "phrase": "Я люблю местный рынок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рынок' is inanimate masculine, so its accusative equals the nominative as the object of 'люблю'. 'Местный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-03",
+        "phrase": "Недалеко от рынка есть кафе.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От рынка' uses the genitive 'рынка' after 'от' to express proximity. 'Недалеко' specifies the short distance."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-04",
+        "phrase": "Мы идём на рынок за овощами.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'На рынок' uses the accusative 'рынок' after 'на' to express the goal of motion. 'За овощами' is instrumental, the purpose of going."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-05",
+        "phrase": "Мы купили фрукты на рынке.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На рынке' uses the prepositional 'рынке' after 'на' to express where the buying happened. 'Фрукты' is the accusative plural object."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-06",
+        "phrase": "Она подошла к рынку пешком.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К рынку' uses the dative 'рынку' after 'к' to show movement toward the market. 'Пешком' adds the manner of travel."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-07",
+        "phrase": "Он доволен новым рынком.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Рынком' is the instrumental required by 'доволен'. 'Новым' is the agreeing masculine instrumental adjective."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-08",
+        "phrase": "Продавец вернулся с рынка вечером.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'С рынка' uses the genitive 'рынка' after 'с' to express coming from the market. 'Вечером' adds the time of return."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-09",
+        "phrase": "В городе работают разные рынки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Рынки' is the nominative plural subject of 'работают'. 'Разные' is the agreeing plural adjective, and 'в городе' is a prepositional location."
+      },
+      {
+        "id": "NN-MOTION-RYNOK-10",
+        "phrase": "Туристы любят старые восточные рынки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Рынки' is the inanimate accusative plural, equal to the nominative plural, as the object of 'любят'. 'Старые восточные' agree in the plural."
+      }
+    ]
+  }
+]

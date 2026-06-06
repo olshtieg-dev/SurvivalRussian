@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-DOLLAR",
+    "label": "Доллар",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for доллар (dollar).",
+    "missions": [
+      {
+        "id": "NN-WORK-DOLLAR-01",
+        "phrase": "Сегодня доллар немного подорожал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Доллар' is a masculine noun in the nominative as the subject of 'подорожал'. 'Сегодня' marks the time, and 'немного' softens the verb. A natural finance-news phrase."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-02",
+        "phrase": "Он нашёл на улице доллар.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Доллар' is the inanimate masculine accusative direct object of 'нашёл', identical to the nominative. 'На улице' is prepositional. A simple narrative sentence."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-03",
+        "phrase": "У меня нет ни доллара.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Доллара' is the masculine genitive after 'нет', reinforced by 'ни'. The phrase emphasizes having no money at all. A common emphatic negation."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-04",
+        "phrase": "Цена выросла к доллару на рубль.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Доллару' is the dative form after 'к', marking the reference point of comparison. 'На рубль' shows the amount. A natural currency-comparison phrase."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-05",
+        "phrase": "Он расплатился одним долларом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Долларом' is the instrumental marking the means of payment. 'Одним' agrees in the masculine instrumental. A clean instrumental example for transactions."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-06",
+        "phrase": "Все говорят о долларе сегодня.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Долларе' is the prepositional form after 'о', the topic of conversation. 'Все' is the subject, and 'сегодня' adds the time. A reliable prepositional model."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-07",
+        "phrase": "У меня в кармане два доллара.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'два' the noun takes the genitive singular 'доллара'. 'В кармане' is prepositional. A core counting pattern with money."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-08",
+        "phrase": "Я обменял рубли на доллары.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Доллары' is the inanimate accusative plural after 'на', matching the nominative plural. 'Рубли' is the accusative object exchanged. A practical exchange-office phrase."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-09",
+        "phrase": "В кошельке много старых долларов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Долларов' is the genitive plural after 'много', taking the hard-stem ending. 'Старых' agrees, and 'в кошельке' is prepositional. A core quantity pattern."
+      },
+      {
+        "id": "NN-WORK-DOLLAR-10",
+        "phrase": "Эти доллары лежат в банке.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Доллары' is the nominative plural subject of 'лежат'. 'Эти' agrees in the plural, and 'в банке' is prepositional. A clean plural statement."
+      }
+    ]
+  }
+]

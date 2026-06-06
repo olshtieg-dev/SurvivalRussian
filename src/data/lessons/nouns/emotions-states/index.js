@@ -1,46 +1,54 @@
-import lyubovSet from './lyubov.json';
-import schasteSet from './schaste.json';
-import strakhSet from './strakh.json';
 import bolSet from './bol.json';
-import radostSet from './radost.json';
-import udovolstvieSet from './udovolstvie.json';
-import sostoyanieSet from './sostoyanie.json';
 import boleznSet from './bolezn.json';
-import zabolevanieSet from './zabolevanie.json';
 import lechenieSet from './lechenie.json';
-import zdoroveSet from './zdorove.json';
+import lyubovSet from './lyubov.json';
+import oshchushchenieSet from './oshchushchenie.json';
+import radostSet from './radost.json';
+import schasteSet from './schaste.json';
+import slezaSet from './sleza.json';
+import smertSet from './smert.json';
 import sonSet from './son.json';
-import zapakhSet from './zapakh.json';
-import zvukSet from './zvuk.json';
+import sostoyanieSet from './sostoyanie.json';
+import strakhSet from './strakh.json';
+import temnotaSet from './temnota.json';
 import tenSet from './ten.json';
 import tishinaSet from './tishina.json';
-import temnotaSet from './temnota.json';
-import slezaSet from './sleza.json';
+import udovolstvieSet from './udovolstvie.json';
 import ulybkaSet from './ulybka.json';
-import smertSet from './smert.json';
+import uspekhSet from './uspekh.json';
+import uzhasSet from './uzhas.json';
+import vpechatlenieSet from './vpechatlenie.json';
+import zabolevanieSet from './zabolevanie.json';
+import zapakhSet from './zapakh.json';
+import zdoroveSet from './zdorove.json';
+import zvukSet from './zvuk.json';
 
 export const emotionsNounsFolderId = 'nouns-emotions-states';
 const emotionsNounsData = [
-  ...lyubovSet,
-  ...schasteSet,
-  ...strakhSet,
   ...bolSet,
-  ...radostSet,
-  ...udovolstvieSet,
-  ...sostoyanieSet,
   ...boleznSet,
-  ...zabolevanieSet,
   ...lechenieSet,
-  ...zdoroveSet,
+  ...lyubovSet,
+  ...oshchushchenieSet,
+  ...radostSet,
+  ...schasteSet,
+  ...slezaSet,
+  ...smertSet,
   ...sonSet,
-  ...zapakhSet,
-  ...zvukSet,
+  ...sostoyanieSet,
+  ...strakhSet,
+  ...temnotaSet,
   ...tenSet,
   ...tishinaSet,
-  ...temnotaSet,
-  ...slezaSet,
+  ...udovolstvieSet,
   ...ulybkaSet,
-  ...smertSet,
+  ...uspekhSet,
+  ...uzhasSet,
+  ...vpechatlenieSet,
+  ...zabolevanieSet,
+  ...zapakhSet,
+  ...zdoroveSet,
+  ...zvukSet,
 ];
 
 export const emotionsNounsFolder = {

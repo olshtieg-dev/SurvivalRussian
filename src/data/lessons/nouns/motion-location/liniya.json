@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-LINIYA",
+    "label": "Линия",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for линия (line).",
+    "missions": [
+      {
+        "id": "NN-MOTION-LINIYA-01",
+        "phrase": "Эта линия совершенно прямая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Линия' is a feminine noun in the nominative as the subject. 'Эта' points at it and 'прямая' is the agreeing feminine adjective, intensified by 'совершенно'. A clean description."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-02",
+        "phrase": "Проведите ровную линию здесь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Линию' is the feminine accusative direct object of 'проведите'. 'Ровную' agrees in the feminine accusative, and 'здесь' gives the place. A natural drawing instruction."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-03",
+        "phrase": "На карте нет красной линии.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Линии' is the feminine genitive after 'нет', and 'красной' agrees in the genitive. 'На карте' is prepositional. A model for the genitive of -ия nouns."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-04",
+        "phrase": "Поезд приближается к линии метро.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Линии' is the dative form after 'к', showing direction toward. 'Метро' is an indeclinable modifier. A useful transit-related motion phrase."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-05",
+        "phrase": "Граница проходит этой линией.",
+        "fullAnalysis": "Strategic focus: Instrumental of path. 'Линией' is the instrumental marking the route along which the border runs. 'Этой' agrees in the feminine instrumental. A clean instrumental example."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-06",
+        "phrase": "Мы стоим на жёлтой линии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Линии' is the prepositional form after 'на', marking location. 'Жёлтой' agrees in the feminine prepositional. A practical platform-safety phrase."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-07",
+        "phrase": "Дети рисуют красивые линии.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Линии' is the inanimate accusative plural of 'рисуют', matching the nominative plural. 'Красивые' agrees in the plural. A natural classroom sentence."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-08",
+        "phrase": "На странице много тонких линий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Линий' is the genitive plural after 'много', the zero-ending form for -ия nouns. 'Тонких' agrees, and 'на странице' is prepositional. A core quantity pattern."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-09",
+        "phrase": "Эти линии пересекаются в центре.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Линии' is the nominative plural subject of 'пересекаются'. 'Эти' agrees in the plural, and 'в центре' is prepositional. A clear geometric statement."
+      },
+      {
+        "id": "NN-MOTION-LINIYA-10",
+        "phrase": "Автобус идёт по новой линии.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Линии' is the dative after 'по', marking the route. 'Новой' agrees in the feminine dative, and 'идёт' describes the movement. A useful transit phrase."
+      }
+    ]
+  }
+]

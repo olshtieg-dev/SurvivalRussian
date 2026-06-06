@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-SHTAB",
+    "label": "Штаб",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for штаб (headquarters).",
+    "missions": [
+      {
+        "id": "NN-MOTION-SHTAB-01",
+        "phrase": "Штаб находится в центре города.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Штаб' is the nominative subject of 'находится'. 'В центре города' uses the prepositional and genitive to locate it. A clean model for a masculine noun."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-02",
+        "phrase": "Мы построили новый штаб.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Штаб' is the accusative direct object of 'построили'. As an inanimate masculine noun, its accusative equals the nominative. 'Новый' is the agreeing adjective."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-03",
+        "phrase": "Возле штаба стоит охрана.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Штаба' is the genitive required after 'возле' to express proximity. 'Охрана' is the nominative subject of 'стоит'. A practical location pattern."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-04",
+        "phrase": "Мы идём к штабу пешком.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Штабу' is the dative form after 'к' to express movement toward. 'Пешком' adds the manner of travel. The dative is the natural case after 'к'."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-05",
+        "phrase": "Генерал управляет штабом умело.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Штабом' is the instrumental form required after 'управлять', which governs the instrumental. 'Умело' describes how. A core verb-plus-instrumental pattern."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-06",
+        "phrase": "В штабе идёт важное собрание.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В штабе' uses the prepositional form 'штабе' after 'в' to mark where the meeting takes place. 'Собрание' is the nominative subject. A useful indoor location."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-07",
+        "phrase": "Дорога ведёт прямо к штабу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К штабу' uses the dative after 'к' to mark the destination. 'Прямо' adds directness, and 'дорога' is the nominative subject. Reinforces the directional dative."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-08",
+        "phrase": "Это здание раньше было штабом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Штабом' is the instrumental used after the past tense 'было' to name a former role. 'Это здание' is the nominative subject. A standard 'used to be' construction."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-09",
+        "phrase": "В городе работают два штаба.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Штаба' takes the genitive singular after 'два'. 'В городе' marks the location, and 'работают' agrees with the plural sense. A core counting pattern."
+      },
+      {
+        "id": "NN-MOTION-SHTAB-10",
+        "phrase": "Все штабы города соединены связью.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Штабы' is the nominative plural subject of 'соединены'. 'Города' is the genitive specifying which city's, and 'связью' is the instrumental of means. Good for plural practice."
+      }
+    ]
+  }
+]

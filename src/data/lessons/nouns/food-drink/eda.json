@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-EDA",
+    "label": "Еда",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for еда (food).",
+    "missions": [
+      {
+        "id": "NN-FOOD-EDA-01",
+        "phrase": "Эта еда очень вкусная.",
+        "fullAnalysis": "Strategic focus: Nominative evaluation. 'Еда' is the feminine nominative subject. 'Вкусная' is the agreeing feminine adjective, and 'очень' intensifies the praise. A natural way to compliment a meal."
+      },
+      {
+        "id": "NN-FOOD-EDA-02",
+        "phrase": "Я люблю домашнюю еду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Еду' is the accusative direct object of 'люблю'. 'Домашнюю' is the agreeing feminine accusative adjective. A core pattern for stating food preferences."
+      },
+      {
+        "id": "NN-FOOD-EDA-03",
+        "phrase": "У нас нет горячей еды.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Еды' is the genitive form required after 'нет'. 'Горячей' is the agreeing feminine genitive adjective. A key pattern for saying something is unavailable."
+      },
+      {
+        "id": "NN-FOOD-EDA-04",
+        "phrase": "Я доволен этой едой.",
+        "fullAnalysis": "Strategic focus: Instrumental after an adjective. 'Едой' is the instrumental case governed by 'доволен', which takes the instrumental. 'Этой' agrees in the feminine instrumental. A common satisfaction pattern."
+      },
+      {
+        "id": "NN-FOOD-EDA-05",
+        "phrase": "В этой еде много соли.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В еде' uses the prepositional form 'еде' after 'в' to express what is inside the food. 'Много' governs the genitive 'соли'. A useful description of contents."
+      },
+      {
+        "id": "NN-FOOD-EDA-06",
+        "phrase": "Дети радуются вкусной еде.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Еде' is the dative case governed by 'радуются', which takes the dative. 'Вкусной' agrees in the feminine dative. A natural expression of delight."
+      },
+      {
+        "id": "NN-FOOD-EDA-07",
+        "phrase": "Мы готовим еду на кухне.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Еду' is the accusative direct object of 'готовим'. 'На кухне' is the prepositional location. A core everyday cooking sentence."
+      },
+      {
+        "id": "NN-FOOD-EDA-08",
+        "phrase": "Без еды человек не выживет.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Еды' is the genitive form after 'без', expressing the absence of food. 'Человек' is the nominative subject. A strong generalising statement."
+      },
+      {
+        "id": "NN-FOOD-EDA-09",
+        "phrase": "Я думаю о вкусной еде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О еде' uses the prepositional form 'еде' after 'о' to express what one is thinking about. 'Вкусной' agrees in the feminine prepositional. A reflective everyday pattern."
+      },
+      {
+        "id": "NN-FOOD-EDA-10",
+        "phrase": "На столе стоят разные еды.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Еды' is the nominative plural subject of 'стоят', here meaning different kinds of food. 'Разные' agrees in the plural, and 'на столе' is the prepositional location. Good for plural practice."
+      }
+    ]
+  }
+]

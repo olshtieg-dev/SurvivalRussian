@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-VYSOTA",
+    "label": "Высота",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for высота (height).",
+    "missions": [
+      {
+        "id": "NN-MOTION-VYSOTA-01",
+        "phrase": "Высота этой башни огромная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Высота' stays in the nominative as the subject. 'Огромная' is the agreeing feminine adjective, and 'этой башни' is a genitive showing whose height it is."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-02",
+        "phrase": "Альпинисты измеряют высоту горы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Высоту' is the accusative direct object of 'измеряют'. 'Горы' is a genitive specifying which height. A natural phrase for measurement."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-03",
+        "phrase": "Я боюсь высоты.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Высоты' is the genitive required by 'бояться', which governs the genitive. This is the standard way to say you fear heights."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-04",
+        "phrase": "Самолёт летит на большой высоте.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На высоте' uses the prepositional 'высоте' after 'на' to express altitude. 'Большой' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-05",
+        "phrase": "Птица поднялась на огромную высоту.",
+        "fullAnalysis": "Strategic focus: Accusative of extent. 'Высоту' is accusative after 'на' to express the height reached through motion. 'Огромную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-06",
+        "phrase": "Он привык к высоте быстро.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К высоте' uses the dative 'высоте' after 'к' with the verb 'привыкнуть'. 'Быстро' adds the manner of adjusting."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-07",
+        "phrase": "Он гордится высотой своего дома.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Высотой' is the instrumental required by 'гордиться'. 'Своего дома' is a genitive showing whose height brings the pride."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-08",
+        "phrase": "Мы говорим о высоте полёта.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'О высоте' uses the prepositional 'высоте' after 'о' to express the topic. 'Полёта' is a genitive specifier."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-09",
+        "phrase": "Эти высоты трудно покорить.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Высоты' is the nominative plural subject. 'Эти' is the agreeing plural demonstrative, and the phrase suits mountaineering or figurative heights."
+      },
+      {
+        "id": "NN-MOTION-VYSOTA-10",
+        "phrase": "Солдаты заняли важные высоты.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Высоты' is the inanimate accusative plural, equal to the nominative plural, as the object of 'заняли'. 'Важные' agrees in the plural."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-GLUBINA",
+    "label": "Глубина",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for глубина (depth).",
+    "missions": [
+      {
+        "id": "NN-MOTION-GLUBINA-01",
+        "phrase": "Глубина этого озера очень большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Глубина' stays in the nominative as the subject. 'Большая' is the agreeing feminine adjective, and 'этого озера' is a genitive modifier. A natural way to describe a measurement."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-02",
+        "phrase": "Прибор измеряет глубину моря.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Глубину' is the accusative direct object of 'измеряет'. The feminine ending shifts to -у, and 'моря' is the genitive of what is measured. Useful for technical description."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-03",
+        "phrase": "Мы боимся глубины этой реки.",
+        "fullAnalysis": "Strategic focus: Genitive object of fear. 'Глубины' is the genitive required by 'бояться'. 'Этой реки' is a further genitive modifier. A clear pattern for verbs that take the genitive."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-04",
+        "phrase": "Учёные удивились глубине пещеры.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Глубине' is the dative required by 'удивились'. 'Пещеры' is a genitive modifier. Good for the family of verbs that govern the dative."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-05",
+        "phrase": "Рыба плавает под большой глубиной.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Глубиной' uses the instrumental form after 'под'. 'Большой' agrees in the instrumental, and 'плавает' describes the fish. A spatial relation pattern."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-06",
+        "phrase": "Корабль идёт на большой глубине.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На большой глубине' uses the prepositional 'глубине' after 'на' to show location. 'Большой' agrees in the prepositional. A common nautical pattern."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-07",
+        "phrase": "Водолаз думает о глубине погружения.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О глубине' uses the prepositional 'глубине' to mark the topic of thought. 'Погружения' is a genitive modifier. Useful for reflection language."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-08",
+        "phrase": "Глубины океана ещё мало изучены.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Глубины' is the nominative plural subject. 'Изучены' is the agreeing short participle, and 'мало' qualifies it. Good for describing unexplored regions."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-09",
+        "phrase": "Учёные исследуют морские глубины давно.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Глубины' is the accusative plural object of 'исследуют', identical to the nominative here. 'Морские' agrees in the plural. A clean research pattern."
+      },
+      {
+        "id": "NN-MOTION-GLUBINA-10",
+        "phrase": "Из глубин моря поднялась рыба.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Из глубин' uses the bare genitive plural 'глубин' after 'из'. 'Поднялась' agrees with 'рыба', the nominative subject. A vivid source-of-motion pattern."
+      }
+    ]
+  }
+]

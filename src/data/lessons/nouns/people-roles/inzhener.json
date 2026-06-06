@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-INZHENER",
+    "label": "Инженер",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for инженер (engineer).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-INZHENER-01",
+        "phrase": "Мой брат опытный инженер.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Инженер' is an animate masculine noun in the nominative as the predicate noun. 'Опытный' is the agreeing masculine adjective. A natural way to state a profession."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-02",
+        "phrase": "Мы пригласили хорошего инженера.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Инженера' takes the genitive-like accusative because the noun is animate masculine. 'Хорошего' agrees in the animate accusative. A clear example of the animacy rule."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-03",
+        "phrase": "У этого инженера нет опыта.",
+        "fullAnalysis": "Strategic focus: Genitive possessor. 'Инженера' is the masculine genitive after 'у', marking the possessor. 'Этого' agrees in the genitive, and 'опыта' is genitive after 'нет'. A natural possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-04",
+        "phrase": "Директор позвонил молодому инженеру.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Инженеру' is the dative form, the recipient of the call. 'Молодому' agrees in the masculine dative. A clean dative-of-recipient example."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-05",
+        "phrase": "Она стала известным инженером.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Инженером' is the instrumental used after 'стала' to mark a change of role. 'Известным' agrees in the masculine instrumental. A core instrumental-of-profession model."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-06",
+        "phrase": "Мы говорим об этом инженере.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Инженере' is the prepositional form after 'об', the topic of discussion. 'Этом' agrees in the masculine prepositional. A reliable prepositional model."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-07",
+        "phrase": "Инженер проверил все чертежи.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Инженер' is the nominative subject of 'проверил'. 'Чертежи' is the accusative plural object, and 'все' agrees. A natural workplace sentence."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-08",
+        "phrase": "На заводе работают опытные инженеры.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Инженеры' is the nominative plural subject of 'работают'. 'Опытные' agrees in the plural, and 'на заводе' is prepositional. A clean plural statement."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-09",
+        "phrase": "Компания наняла новых инженеров.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Инженеров' takes the genitive-like accusative plural because the noun is animate. 'Новых' agrees, and 'наняла' is the verb. A core animacy-plural example."
+      },
+      {
+        "id": "NN-PEOPLE-INZHENER-10",
+        "phrase": "В отделе много молодых инженеров.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Инженеров' is the genitive plural after 'много', here homophonous with the animate accusative. 'Молодых' agrees, and 'в отделе' is prepositional. A core quantity pattern."
+      }
+    ]
+  }
+]

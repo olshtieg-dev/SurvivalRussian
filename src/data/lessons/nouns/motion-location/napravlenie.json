@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-NAPRAVLENIE",
+    "label": "Направление",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for направление (direction).",
+    "missions": [
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-01",
+        "phrase": "Это правильное направление к вокзалу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Направление' is the neuter nominative subject. 'Правильное' is the agreeing neuter adjective, and 'к вокзалу' specifies the goal."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-02",
+        "phrase": "Мы выбрали новое направление.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Направление' is the accusative direct object of 'выбрали', equal to the nominative for this neuter noun. 'Новое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-03",
+        "phrase": "Я не знаю нужного направления.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Направления' is the genitive form following the negated verb 'не знаю'. 'Нужного' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-04",
+        "phrase": "В этом направлении находится море.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Направлении' is the prepositional form after 'в', marking where the sea lies. 'Этом' agrees in the neuter prepositional case."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-05",
+        "phrase": "Машина едет к северному направлению.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Направлению' is the dative form governed by 'к', expressing movement toward it. 'Северному' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-06",
+        "phrase": "Он доволен выбранным направлением.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Направлением' is the instrumental form required by 'доволен'. 'Выбранным' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-07",
+        "phrase": "Дороги идут в разных направлениях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Направлениях' is the prepositional plural after 'в', naming where the roads go. 'Разных' agrees in the prepositional plural."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-08",
+        "phrase": "Мы рассмотрели несколько направлений.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Направлений' is the genitive plural governed by 'несколько'. The verb 'рассмотрели' marks the completed review."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-09",
+        "phrase": "Эти направления ведут в город.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Направления' is the nominative plural subject of 'ведут'. 'Эти' agrees in the plural, and 'в город' gives the goal."
+      },
+      {
+        "id": "NN-MOTION-NAPRAVLENIE-10",
+        "phrase": "Без направления легко заблудиться.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Направления' is the genitive form governed by 'без', expressing the lack of guidance. 'Легко заблудиться' completes the idea."
+      }
+    ]
+  }
+]

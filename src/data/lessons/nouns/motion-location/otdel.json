@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-OTDEL",
+    "label": "Отдел",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for отдел (department).",
+    "missions": [
+      {
+        "id": "NN-MOTION-OTDEL-01",
+        "phrase": "Наш отдел работает очень хорошо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отдел' is the nominative subject of 'работает'. 'Наш' agrees in the masculine, and 'очень хорошо' evaluates the work."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-02",
+        "phrase": "Я работаю в большом отделе.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В большом отделе' uses the prepositional form 'отделе' after 'в' to mark a workplace. 'Большом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-03",
+        "phrase": "Директор создал новый отдел.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отдел' is the inanimate masculine accusative object of 'создал', matching the nominative form. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-04",
+        "phrase": "Начальник отдела сегодня заболел.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Отдела' is genitive, expressing the head of which unit. A standard noun-plus-genitive structure for relationships."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-05",
+        "phrase": "Мы перешли в другой отдел.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Отдел' is the accusative after 'в' to mark movement into a place. 'Другой' agrees in the masculine accusative, marking a transfer."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-06",
+        "phrase": "Я подошёл к нашему отделу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Отделу' is the dative after 'к', expressing approach. 'Нашему' agrees in the masculine dative, a natural office movement."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-07",
+        "phrase": "Она руководит отделом продаж.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'руководить'. 'Отделом' is the instrumental required by the verb 'руководит'. 'Продаж' is genitive plural specifying which department."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-08",
+        "phrase": "Без отдела кадров здесь не обойтись.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Отдела' is genitive following 'без' to express absence. 'Кадров' is genitive plural naming the kind of department."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-09",
+        "phrase": "В компании работают разные отделы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Отделы' is the nominative plural subject of 'работают'. 'Разные' agrees in the plural, describing the variety of departments."
+      },
+      {
+        "id": "NN-MOTION-OTDEL-10",
+        "phrase": "Мы говорили о новых отделах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О новых отделах' uses the prepositional plural after 'о' to mark the topic of conversation. 'Новых' agrees in the plural."
+      }
+    ]
+  }
+]

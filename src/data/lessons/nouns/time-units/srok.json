@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-SROK",
+    "label": "Срок",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for срок (term).",
+    "missions": [
+      {
+        "id": "NN-TIME-SROK-01",
+        "phrase": "Этот срок уже почти закончился.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Срок' stays in the nominative as the subject of 'закончился'. 'Этот' is the agreeing masculine demonstrative, and 'почти' softens the statement. A natural deadline report."
+      },
+      {
+        "id": "NN-TIME-SROK-02",
+        "phrase": "Начальник назначил новый срок завтра.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Срок' is the accusative direct object of 'назначил'; for this inanimate masculine noun the form matches the nominative. 'Новый' agrees in gender. Useful for scheduling."
+      },
+      {
+        "id": "NN-TIME-SROK-03",
+        "phrase": "Мы ждём конца этого срока.",
+        "fullAnalysis": "Strategic focus: Genitive modifier. 'Этого срока' is the genitive modifying 'конца'. 'Срока' keeps the full vowel since this stem has no fleeting vowel. A useful possession-within-phrase pattern."
+      },
+      {
+        "id": "NN-TIME-SROK-04",
+        "phrase": "Работа идёт к сроку медленно.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К сроку' uses the dative 'сроку' after 'к' to show approach toward a deadline. 'Медленно' adds manner. A natural deadline pattern."
+      },
+      {
+        "id": "NN-TIME-SROK-05",
+        "phrase": "Мы закончили проект перед сроком.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Перед сроком' uses the instrumental 'сроком' after 'перед' to mean before the deadline. 'Закончили' marks completion. A common workplace pattern."
+      },
+      {
+        "id": "NN-TIME-SROK-06",
+        "phrase": "Доклад готов в нужный срок.",
+        "fullAnalysis": "Strategic focus: Accusative of time. 'В нужный срок' uses the accusative after 'в' to express within a fixed period. 'Нужный' agrees in the masculine accusative. A useful temporal pattern."
+      },
+      {
+        "id": "NN-TIME-SROK-07",
+        "phrase": "Мы говорим о коротком сроке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О коротком сроке' uses the prepositional 'сроке' after 'о' to mark the topic. 'Коротком' agrees in the prepositional. Useful for negotiation language."
+      },
+      {
+        "id": "NN-TIME-SROK-08",
+        "phrase": "Сроки сдачи проекта очень жёсткие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сроки' is the nominative plural subject. 'Жёсткие' is the agreeing plural adjective, and 'сдачи проекта' is a genitive modifier. Good for deadline pressure."
+      },
+      {
+        "id": "NN-TIME-SROK-09",
+        "phrase": "Команда соблюдает все сроки строго.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Сроки' is the accusative plural object of 'соблюдает', identical to the nominative for this inanimate noun. 'Строго' adds manner. A reliability pattern."
+      },
+      {
+        "id": "NN-TIME-SROK-10",
+        "phrase": "Мы не успели из-за коротких сроков.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Из-за коротких сроков' uses the genitive plural 'сроков' after 'из-за' to mark the cause. 'Коротких' agrees in the genitive plural. A clear causal pattern."
+      }
+    ]
+  }
+]

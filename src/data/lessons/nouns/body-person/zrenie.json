@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-ZRENIE",
+    "label": "Зрение",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for зрение (eyesight).",
+    "missions": [
+      {
+        "id": "NN-BODY-ZRENIE-01",
+        "phrase": "У бабушки очень плохое зрение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зрение' is a neuter noun in the nominative as the subject. 'Плохое' is the agreeing neuter adjective, intensified by 'очень'. A natural way to describe weak eyesight."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-02",
+        "phrase": "Врач проверил моё зрение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зрение' is the neuter accusative direct object of 'проверил', identical to the nominative. 'Моё' agrees in the neuter, and 'врач' is the subject. A common clinic phrase."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-03",
+        "phrase": "У него нет проблем со зрением.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Зрением' is instrumental after 'со', expressing the area of the problem. 'Проблем' is genitive plural after 'нет'. A useful health-status pattern."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-04",
+        "phrase": "Берегите детей от потери зрения.",
+        "fullAnalysis": "Strategic focus: Genitive of the thing lost. 'Зрения' is genitive depending on 'потери', itself genitive after 'от'. 'Берегите' is an imperative. A natural way to talk about protecting eyesight."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-05",
+        "phrase": "Благодаря зрению мы видим мир.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Зрению' is the dative form required after 'благодаря'. 'Мир' is the accusative object of 'видим'. A clean model for the gratitude preposition plus dative."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-06",
+        "phrase": "Мы говорим о его зрении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Зрении' is the prepositional form after 'о', the topic of discussion. 'Его' marks possession. A reliable model for the prepositional of neuter nouns in -ие."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-07",
+        "phrase": "Хорошее зрение очень важно.",
+        "fullAnalysis": "Strategic focus: Nominative subject with predicate. 'Зрение' is nominative as the subject. 'Хорошее' agrees in the neuter, and 'важно' is the short-form neuter predicate. Useful for stating importance."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-08",
+        "phrase": "Очки улучшают зрение людей.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зрение' is the neuter accusative object of 'улучшают'. 'Очки' is the subject, and 'людей' is genitive plural marking whose eyesight. A practical everyday sentence."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-09",
+        "phrase": "С возрастом зрение часто слабеет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зрение' is the nominative subject of 'слабеет'. 'С возрастом' is an instrumental time phrase, and 'часто' adds frequency. A natural observation about aging."
+      },
+      {
+        "id": "NN-BODY-ZRENIE-10",
+        "phrase": "Лазер вернул человеку зрение.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Зрение' is the neuter accusative object of 'вернул', while 'человеку' is the dative recipient. 'Лазер' is the subject. A clear medical-result sentence."
+      }
+    ]
+  }
+]

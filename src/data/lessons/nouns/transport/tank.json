@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-TANK",
+    "label": "Танк",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for танк (tank).",
+    "missions": [
+      {
+        "id": "NN-TRANS-TANK-01",
+        "phrase": "Этот танк очень тяжёлый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Танк' is masculine and stays in the nominative as the subject. 'Тяжёлый' is the agreeing masculine adjective, and 'этот' points at it."
+      },
+      {
+        "id": "NN-TRANS-TANK-02",
+        "phrase": "Солдаты увидели старый танк.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Танк' is the accusative object of 'увидели'; as an inanimate masculine noun its accusative matches the nominative. 'Старый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-TRANS-TANK-03",
+        "phrase": "У нас нет такого танка.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Танка' is the genitive singular after the negated 'нет'. 'Такого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-TRANS-TANK-04",
+        "phrase": "Инженер подошёл к танку.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Танку' is the dative singular after 'к', expressing approach toward the tank. 'Инженер' is the nominative subject."
+      },
+      {
+        "id": "NN-TRANS-TANK-05",
+        "phrase": "Дети играют в танк во дворе.",
+        "fullAnalysis": "Strategic focus: Accusative in a game phrase. 'Танк' is the accusative after 'в' in 'играть в', here matching the nominative. 'Во дворе' adds the prepositional location."
+      },
+      {
+        "id": "NN-TRANS-TANK-06",
+        "phrase": "За танком ехала машина.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Танком' is the instrumental singular after 'за', expressing position behind the tank. 'Машина' is the nominative subject of 'ехала'."
+      },
+      {
+        "id": "NN-TRANS-TANK-07",
+        "phrase": "В музее рассказали о танке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Танке' is the prepositional singular after 'о', expressing the topic. 'В музее' adds the prepositional location."
+      },
+      {
+        "id": "NN-TRANS-TANK-08",
+        "phrase": "На параде показали новые танки.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Танки' is the accusative plural, identical to the nominative plural for this inanimate noun, as the object of 'показали'. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-TRANS-TANK-09",
+        "phrase": "В армии много старых танков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Танков' is the genitive plural after 'много'. 'Старых' agrees in the genitive plural, and 'в армии' locates them."
+      },
+      {
+        "id": "NN-TRANS-TANK-10",
+        "phrase": "Между танками стояли солдаты.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after preposition. 'Танками' is the instrumental plural after 'между', expressing position among the tanks. 'Солдаты' is the nominative plural subject."
+      }
+    ]
+  }
+]

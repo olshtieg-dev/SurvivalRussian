@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-DAL",
+    "label": "Даль",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for даль (distance).",
+    "missions": [
+      {
+        "id": "NN-MOTION-DAL-01",
+        "phrase": "Синяя даль манит путешественника.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Даль' is the feminine nominative subject of 'манит'. 'Синяя' is the agreeing feminine adjective. A poetic but natural way to describe the horizon."
+      },
+      {
+        "id": "NN-MOTION-DAL-02",
+        "phrase": "Я смотрю в туманную даль.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Даль' is the accusative object after 'в', showing where the gaze is directed. 'Туманную' agrees in the feminine accusative. A common gazing-into-the-distance pattern."
+      },
+      {
+        "id": "NN-MOTION-DAL-03",
+        "phrase": "Корабль исчез в морской дали.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В дали' uses the prepositional form 'дали' after 'в' to express where the ship vanished. 'Морской' agrees in the feminine prepositional. Note the third-declension ending."
+      },
+      {
+        "id": "NN-MOTION-DAL-04",
+        "phrase": "Из дали доносится тихая песня.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из дали' uses the genitive form 'дали' after 'из' to show where the sound comes from. 'Тихая песня' is the nominative subject. A natural sensory description."
+      },
+      {
+        "id": "NN-MOTION-DAL-05",
+        "phrase": "Они любовались голубой далью.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Далью' is the instrumental case governed by 'любовались', which takes the instrumental. 'Голубой' agrees in the feminine instrumental. A classic admiring construction."
+      },
+      {
+        "id": "NN-MOTION-DAL-06",
+        "phrase": "Даль кажется бесконечной и тихой.",
+        "fullAnalysis": "Strategic focus: Nominative with instrumental predicate. 'Даль' is nominative as the subject of 'кажется', which takes an instrumental predicate. 'Бесконечной' and 'тихой' describe the distance. A reflective description."
+      },
+      {
+        "id": "NN-MOTION-DAL-07",
+        "phrase": "Мы идём навстречу далям.",
+        "fullAnalysis": "Strategic focus: Dative plural with preposition. 'Далям' is the dative plural after 'навстречу', which governs the dative. The plural evokes wide open spaces. A useful motion-toward pattern."
+      },
+      {
+        "id": "NN-MOTION-DAL-08",
+        "phrase": "Туристы мечтают о далях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О далях' uses the prepositional plural form after 'о' to express what people dream about. 'Туристы' is the nominative plural subject. Good for plural practice."
+      },
+      {
+        "id": "NN-MOTION-DAL-09",
+        "phrase": "Я не вижу никакой дали.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Дали' is the genitive form used after the negated verb 'не вижу'. 'Никакой' agrees in the feminine genitive. A standard negation pattern."
+      },
+      {
+        "id": "NN-MOTION-DAL-10",
+        "phrase": "За горами видна светлая даль.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Даль' is the nominative subject of the short adjective 'видна'. 'Светлая' agrees in the feminine, and 'за горами' is the instrumental location. A scenic description."
+      }
+    ]
+  }
+]

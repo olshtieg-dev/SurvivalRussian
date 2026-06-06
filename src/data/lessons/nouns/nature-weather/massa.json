@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-MASSA",
+    "label": "Масса",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for масса (mass).",
+    "missions": [
+      {
+        "id": "NN-NATURE-MASSA-01",
+        "phrase": "Масса этого камня очень большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Масса' is the feminine nominative subject. 'Этого камня' is the genitive showing whose mass, and 'большая' is the agreeing predicate adjective."
+      },
+      {
+        "id": "NN-NATURE-MASSA-02",
+        "phrase": "Учёные измеряют массу планеты.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Массу' is the accusative direct object of 'измеряют'. 'Планеты' is the genitive showing whose mass is measured."
+      },
+      {
+        "id": "NN-NATURE-MASSA-03",
+        "phrase": "У этого тела нет массы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Массы' is the genitive form after 'нет', signalling that mass is missing. 'У этого тела' frames the possession."
+      },
+      {
+        "id": "NN-NATURE-MASSA-04",
+        "phrase": "Сила зависит от массы предмета.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Массы' is the genitive governed by 'от' in the phrase 'зависит от'. 'Предмета' is the genitive showing whose mass."
+      },
+      {
+        "id": "NN-NATURE-MASSA-05",
+        "phrase": "Мы говорим о массе звезды.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Массе' is the prepositional form after 'о', the topic of conversation. 'Звезды' is the genitive showing whose mass."
+      },
+      {
+        "id": "NN-NATURE-MASSA-06",
+        "phrase": "Прибор управляет огромной массой воды.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Массой' is the instrumental required by 'управлять'. 'Огромной' agrees in the feminine instrumental, and 'воды' is the genitive."
+      },
+      {
+        "id": "NN-NATURE-MASSA-07",
+        "phrase": "На небе видны массы облаков.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Массы' is the nominative plural subject. 'Облаков' is the genitive plural, and 'на небе' gives the prepositional location."
+      },
+      {
+        "id": "NN-NATURE-MASSA-08",
+        "phrase": "Ветер несёт массы тёплого воздуха.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Массы' is the accusative plural object of 'несёт', equal to the nominative plural for this feminine noun. 'Тёплого воздуха' is the genitive."
+      },
+      {
+        "id": "NN-NATURE-MASSA-09",
+        "phrase": "Прибор реагирует на массу тела.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Массу' is the accusative governed by 'на' in 'реагирует на'. 'Тела' is the genitive showing whose mass."
+      },
+      {
+        "id": "NN-NATURE-MASSA-10",
+        "phrase": "С большой массой двигаться трудно.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Массой' is the instrumental governed by 'с', expressing accompaniment. 'Большой' agrees in the feminine instrumental."
+      }
+    ]
+  }
+]

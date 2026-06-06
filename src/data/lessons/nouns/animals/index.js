@@ -1,9 +1,11 @@
+import konSet from './kon.json';
 import loshadSet from './loshad.json';
 import ptitsaSet from './ptitsa.json';
 import sobakaSet from './sobaka.json';
 
 export const animalsNounsFolderId = 'nouns-animals';
 const animalsNounsData = [
+  ...konSet,
   ...loshadSet,
   ...ptitsaSet,
   ...sobakaSet,

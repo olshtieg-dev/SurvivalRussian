@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-BILET",
+    "label": "Билет",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for билет (ticket).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-BILET-01",
+        "phrase": "Этот билет стоит очень дорого.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Билет' stays in the nominative as the subject of 'стоит'. 'Этот' is the agreeing masculine demonstrative, and 'дорого' describes the price. A clean model for a masculine noun."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-02",
+        "phrase": "Я купил билет на поезд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Билет' is the accusative direct object of 'купил'. Because билет is an inanimate masculine noun, its accusative matches the nominative. 'На поезд' names the destination."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-03",
+        "phrase": "У меня нет билета на концерт.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Билета' is the genitive form required after 'нет' to express not having something. 'На концерт' specifies which ticket. A core negation pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-04",
+        "phrase": "Цена билета очень высокая.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Билета' is genitive, marking the ticket as the thing whose price is named. 'Цена' is the nominative subject, and 'высокая' agrees with it. Useful for talking about cost."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-05",
+        "phrase": "Я рад этому билету в театр.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Билету' is the dative form after 'рад', which governs the dative to show what one is glad about. 'Этому' agrees in the masculine dative. A useful emotion pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-06",
+        "phrase": "Я заплатил за вход билетом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Билетом' is the instrumental form expressing the means of payment. 'За вход' names the purpose. The instrumental is the natural case for an instrument or method."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-07",
+        "phrase": "В билете указано место и время.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В билете' uses the prepositional form 'билете' after 'в' to express location of information. 'Место и время' are the nominative subjects. A practical reading pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-08",
+        "phrase": "Мы купили билеты на самолёт.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Билеты' is the accusative plural object of 'купили'. As an inanimate plural noun, its accusative equals the nominative. 'На самолёт' names the destination."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-09",
+        "phrase": "У нас уже нет билетов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Билетов' is the genitive plural after 'нет', reporting that there are none left. 'Уже' adds finality. A frequent way to say tickets are sold out."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BILET-10",
+        "phrase": "Билет лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Билет' is the nominative subject of 'лежит'. 'На столе' uses the prepositional case to show where it lies. A simple everyday statement."
+      }
+    ]
+  }
+]

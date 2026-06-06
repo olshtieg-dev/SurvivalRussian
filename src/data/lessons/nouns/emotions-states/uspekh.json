@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-USPEKH",
+    "label": "Успех",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for успех (success).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-USPEKH-01",
+        "phrase": "Его успех был полным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Успех' stays in the nominative as the subject of 'был'. 'Его' marks possession, and 'полным' is an instrumental predicate adjective after 'был'."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-02",
+        "phrase": "Команда отпраздновала большой успех.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Успех' is inanimate masculine, so its accusative equals the nominative as the object of 'отпраздновала'. 'Большой' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-03",
+        "phrase": "Я желаю тебе успеха.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Успеха' is the genitive governed by 'желать', which takes a genitive object. 'Тебе' is the dative recipient of the wish."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-04",
+        "phrase": "Он радуется своему успеху.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Успеху' is the dative governed by 'радоваться', which takes a dative object. 'Своему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-05",
+        "phrase": "Все восхищены его успехом.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Успехом' is the instrumental required by 'восхищены'. 'Его' marks whose success draws admiration."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-06",
+        "phrase": "Мы говорим о его успехе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об успехе' uses the prepositional 'успехе' after 'о' to express the topic. 'Его' marks whose success is discussed."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-07",
+        "phrase": "Концерт прошёл с большим успехом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'С успехом' uses the instrumental 'успехом' after 'с' to describe how the concert went. 'Большим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-08",
+        "phrase": "Без труда нет успеха.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Успеха' is the genitive required by 'нет'. 'Без труда' uses the genitive too, forming a proverb about effort and reward."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-09",
+        "phrase": "Её первые успехи очень радуют родителей.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Успехи' is the nominative plural subject of 'радуют'. 'Первые' agrees in the plural, and 'родителей' is the animate accusative plural object."
+      },
+      {
+        "id": "NN-EMOTION-USPEKH-10",
+        "phrase": "Учитель отметил наши успехи.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Успехи' is the inanimate accusative plural, equal to the nominative plural, as the object of 'отметил'. 'Наши' agrees in the plural."
+      }
+    ]
+  }
+]

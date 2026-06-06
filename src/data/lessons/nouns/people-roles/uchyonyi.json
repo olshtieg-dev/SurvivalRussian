@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-UCHYONYI",
+    "label": "Учёный",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for учёный (scientist).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-UCHYONYI-01",
+        "phrase": "Известный учёный сделал открытие.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Учёный' is a substantivized adjective in the masculine nominative, the subject of 'сделал'. 'Известный' is the agreeing adjective. Note it declines like an adjective, not a regular noun."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-02",
+        "phrase": "Журналисты пригласили молодого учёного.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Учёного' is the accusative of an animate masculine noun, which equals the genitive. 'Молодого' agrees in the masculine animate accusative. A standard invitation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-03",
+        "phrase": "У этого учёного много идей.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Учёного' is the genitive form within the 'у' possession frame. 'Этого' agrees in the masculine genitive, and 'много' governs the genitive plural 'идей'. A core possession pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-04",
+        "phrase": "Я доверяю опытному учёному.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Учёному' is the dative case governed by 'доверяю', which takes the dative. 'Опытному' agrees in the masculine dative. A natural expression of trust."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-05",
+        "phrase": "Все восхищаются этим учёным.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Учёным' is the instrumental case governed by 'восхищаются', which takes the instrumental. 'Этим' agrees in the masculine instrumental. A common admiration pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-06",
+        "phrase": "В этом учёном чувствуется талант.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В учёном' uses the prepositional form 'учёном' after 'в' to locate the quality. 'Этом' agrees in the masculine prepositional. A descriptive character pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-07",
+        "phrase": "Эти учёные работают вместе давно.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Учёные' is the nominative plural subject of 'работают'. 'Эти' agrees in the plural, and 'вместе давно' adds manner and time. Good for plural practice."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-08",
+        "phrase": "Мы пригласили известных учёных.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Учёных' is the accusative plural of an animate noun, equal to the genitive plural. 'Известных' agrees in form. A standard pattern for inviting multiple people."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-09",
+        "phrase": "Книгу написали два учёных.",
+        "fullAnalysis": "Strategic focus: Numeral agreement. After 'два', this substantivized adjective takes the genitive plural form 'учёных'. 'Книгу' is the accusative object of 'написали'. A useful numeral-agreement pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHYONYI-10",
+        "phrase": "Этот учёный умнее остальных.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Учёный' stays nominative as the subject. 'Этот' agrees in the masculine, and 'умнее остальных' uses the genitive plural 'остальных' in a comparison. Strong for comparative practice."
+      }
+    ]
+  }
+]

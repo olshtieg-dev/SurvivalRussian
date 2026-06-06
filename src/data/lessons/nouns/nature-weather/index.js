@@ -7,18 +7,23 @@ import kamenSet from './kamen.json';
 import kraiSet from './krai.json';
 import kustSet from './kust.json';
 import lesSet from './les.json';
+import massaSet from './massa.json';
+import materialSet from './material.json';
 import moreSet from './more.json';
 import neboSet from './nebo.json';
 import ogonSet from './ogon.json';
 import ostrovSet from './ostrov.json';
 import prirodaSet from './priroda.json';
+import pylSet from './pyl.json';
 import rekaSet from './reka.json';
 import snegSet from './sneg.json';
 import solntseSet from './solntse.json';
 import svetSet from './svet.json';
 import travaSet from './trava.json';
 import tsvetokSet from './tsvetok.json';
+import vesnaSet from './vesna.json';
 import veterSet from './veter.json';
+import volnaSet from './volna.json';
 import vozdukhSet from './vozdukh.json';
 import zemlyaSet from './zemlya.json';
 import zimaSet from './zima.json';
@@ -35,18 +40,23 @@ const natureWeatherNounsData = [
   ...kraiSet,
   ...kustSet,
   ...lesSet,
+  ...massaSet,
+  ...materialSet,
   ...moreSet,
   ...neboSet,
   ...ogonSet,
   ...ostrovSet,
   ...prirodaSet,
+  ...pylSet,
   ...rekaSet,
   ...snegSet,
   ...solntseSet,
   ...svetSet,
   ...travaSet,
   ...tsvetokSet,
+  ...vesnaSet,
   ...veterSet,
+  ...volnaSet,
   ...vozdukhSet,
   ...zemlyaSet,
   ...zimaSet,

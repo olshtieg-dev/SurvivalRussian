@@ -1,58 +1,72 @@
-import mirSet from './mir.json';
-import voinaSet from './voina.json';
-import vlastSet from './vlast.json';
-import obshchestvoSet from './obshchestvo.json';
-import zakonSet from './zakon.json';
-import voennyiSet from './voennyi.json';
-import gosudarstvoSet from './gosudarstvo.json';
-import partiyaSet from './partiya.json';
-import gruppaSet from './gruppa.json';
 import armiyaSet from './armiya.json';
-import rotaSet from './rota.json';
-import vragSet from './vrag.json';
-import sovetSet from './sovet.json';
-import soyuzSet from './soyuz.json';
-import svobodaSet from './svoboda.json';
-import sudSet from './sud.json';
-import organSet from './organ.json';
-import slavaSet from './slava.json';
-import pravitelstvoSet from './pravitelstvo.json';
-import revolyutsiyaSet from './revolyutsiya.json';
+import bedaSet from './beda.json';
 import boiSet from './boi.json';
 import borbaSet from './borba.json';
+import chestSet from './chest.json';
 import frontSet from './front.json';
+import gosudarstvoSet from './gosudarstvo.json';
+import gruppaSet from './gruppa.json';
 import komandaSet from './komanda.json';
-import upravlenieSet from './upravlenie.json';
+import militsiyaSet from './militsiya.json';
+import mirSet from './mir.json';
+import obshchestvoSet from './obshchestvo.json';
+import operatsiyaSet from './operatsiya.json';
+import organSet from './organ.json';
+import organizatsiyaSet from './organizatsiya.json';
+import partiyaSet from './partiya.json';
+import pobedaSet from './pobeda.json';
+import pravitelstvoSet from './pravitelstvo.json';
+import revolyutsiyaSet from './revolyutsiya.json';
+import rotaSet from './rota.json';
+import slavaSet from './slava.json';
+import sovetSet from './sovet.json';
+import soyuzSet from './soyuz.json';
+import sudSet from './sud.json';
+import svobodaSet from './svoboda.json';
 import udarSet from './udar.json';
+import upravlenieSet from './upravlenie.json';
+import vlastSet from './vlast.json';
+import voennyiSet from './voennyi.json';
+import voinaSet from './voina.json';
+import voiskoSet from './voisko.json';
+import vragSet from './vrag.json';
+import zakonSet from './zakon.json';
 
 export const societyStateNounsFolderId = 'nouns-society-state';
 const societyStateNounsData = [
-  ...mirSet,
-  ...voinaSet,
-  ...vlastSet,
-  ...obshchestvoSet,
-  ...zakonSet,
-  ...voennyiSet,
-  ...gosudarstvoSet,
-  ...partiyaSet,
-  ...gruppaSet,
   ...armiyaSet,
-  ...rotaSet,
-  ...vragSet,
-  ...sovetSet,
-  ...soyuzSet,
-  ...svobodaSet,
-  ...sudSet,
-  ...organSet,
-  ...slavaSet,
-  ...pravitelstvoSet,
-  ...revolyutsiyaSet,
+  ...bedaSet,
   ...boiSet,
   ...borbaSet,
+  ...chestSet,
   ...frontSet,
+  ...gosudarstvoSet,
+  ...gruppaSet,
   ...komandaSet,
-  ...upravlenieSet,
+  ...militsiyaSet,
+  ...mirSet,
+  ...obshchestvoSet,
+  ...operatsiyaSet,
+  ...organSet,
+  ...organizatsiyaSet,
+  ...partiyaSet,
+  ...pobedaSet,
+  ...pravitelstvoSet,
+  ...revolyutsiyaSet,
+  ...rotaSet,
+  ...slavaSet,
+  ...sovetSet,
+  ...soyuzSet,
+  ...sudSet,
+  ...svobodaSet,
   ...udarSet,
+  ...upravlenieSet,
+  ...vlastSet,
+  ...voennyiSet,
+  ...voinaSet,
+  ...voiskoSet,
+  ...vragSet,
+  ...zakonSet,
 ];
 
 export const societyStateNounsFolder = {

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-ZAMOK",
+    "label": "Замок",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for замок (castle).",
+    "missions": [
+      {
+        "id": "NN-MOTION-ZAMOK-01",
+        "phrase": "Старый замок стоит на холме.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Замок' is the masculine nominative subject of 'стоит'. 'Старый' is the agreeing masculine adjective, and 'на холме' is the prepositional location. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-02",
+        "phrase": "Туристы посетили древний замок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Замок' is the accusative direct object of 'посетили'. Because it is an inanimate masculine noun, the accusative matches the nominative. 'Древний' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-03",
+        "phrase": "Около замка растут высокие деревья.",
+        "fullAnalysis": "Strategic focus: Genitive with fleeting vowel. 'Замка' is the genitive form after 'около'; note the fleeting 'о' drops from the stem. 'Высокие деревья' is the nominative plural subject. A useful spatial pattern."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-04",
+        "phrase": "Мы подошли к старому замку.",
+        "fullAnalysis": "Strategic focus: Dative with motion. 'Замку' is the dative form after 'к', showing movement toward the castle; the fleeting 'о' is gone. 'Старому' agrees in the masculine dative. A natural approach pattern."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-05",
+        "phrase": "В замке очень много комнат.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В замке' uses the prepositional form 'замке' after 'в' to express where the rooms are. 'Много' governs the genitive plural 'комнат'. Everyday spatial description."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-06",
+        "phrase": "Король управлял огромным замком.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Замком' is the instrumental case governed by 'управлял', which takes the instrumental. 'Огромным' agrees in the masculine instrumental. A control-and-management pattern."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-07",
+        "phrase": "В Европе много красивых замков.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Замков' is the genitive plural governed by 'много'. 'Красивых' agrees in the genitive plural, and 'в Европе' is the prepositional location. Good for plural practice."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-08",
+        "phrase": "Я мечтаю жить в замке.",
+        "fullAnalysis": "Strategic focus: Prepositional with desire. 'В замке' uses the prepositional form after 'в' to express where one dreams of living. 'Мечтаю жить' chains a verb of desire with an infinitive. A wishful pattern."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-09",
+        "phrase": "Эти замки построили очень давно.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Замки' is the accusative plural object of 'построили'; inanimate, so it matches the nominative plural. 'Эти' agrees in the plural, and 'давно' sets the time. Historical context."
+      },
+      {
+        "id": "NN-MOTION-ZAMOK-10",
+        "phrase": "Этот замок больше соседнего.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Замок' stays nominative as the subject. 'Этот' points at a specific one, and 'больше соседнего' uses the genitive 'соседнего' in a comparison. Strong for comparative practice."
+      }
+    ]
+  }
+]

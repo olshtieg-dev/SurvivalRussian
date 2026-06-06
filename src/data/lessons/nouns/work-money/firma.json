@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-FIRMA",
+    "label": "Фирма",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for фирма (firm).",
+    "missions": [
+      {
+        "id": "NN-WORK-FIRMA-01",
+        "phrase": "Эта фирма работает уже давно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фирма' stays in the nominative as the subject of 'работает'. 'Эта' is the agreeing feminine demonstrative, and 'давно' marks long experience. A natural opener."
+      },
+      {
+        "id": "NN-WORK-FIRMA-02",
+        "phrase": "Брат открыл свою фирму недавно.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Фирму' is the accusative direct object of 'открыл'. The feminine ending shifts to -у, and 'свою' agrees. Useful for talking about starting a business."
+      },
+      {
+        "id": "NN-WORK-FIRMA-03",
+        "phrase": "Директор фирмы выступает сегодня.",
+        "fullAnalysis": "Strategic focus: Genitive modifier. 'Фирмы' is the genitive modifying 'директор' to show whose director. 'Выступает сегодня' completes the sentence. A clean of-relationship pattern."
+      },
+      {
+        "id": "NN-WORK-FIRMA-04",
+        "phrase": "Клиенты доверяют этой фирме полностью.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Фирме' is the dative required by 'доверяют'. 'Этой' agrees in the dative, and 'полностью' intensifies. Good for verbs that govern the dative."
+      },
+      {
+        "id": "NN-WORK-FIRMA-05",
+        "phrase": "Он гордится своей фирмой очень.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Фирмой' is the instrumental required by 'гордится'. 'Своей' agrees in the instrumental. Useful for pride and ownership language."
+      },
+      {
+        "id": "NN-WORK-FIRMA-06",
+        "phrase": "Я работаю в большой фирме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В большой фирме' uses the prepositional 'фирме' after 'в' to mark workplace. 'Большой' agrees in the prepositional. A core employment pattern."
+      },
+      {
+        "id": "NN-WORK-FIRMA-07",
+        "phrase": "Мы говорили о новой фирме.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О новой фирме' uses the prepositional 'фирме' to mark the topic of conversation. 'Новой' agrees in the prepositional. Useful for business talk."
+      },
+      {
+        "id": "NN-WORK-FIRMA-08",
+        "phrase": "В городе много крупных фирм.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Фирм' is the bare genitive plural required by 'много'. 'Крупных' agrees in the genitive plural. A core quantity pattern."
+      },
+      {
+        "id": "NN-WORK-FIRMA-09",
+        "phrase": "Эти фирмы конкурируют между собой.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Фирмы' is the nominative plural subject of 'конкурируют'. 'Эти' agrees in the plural, and 'между собой' shows mutual rivalry. Good for market description."
+      },
+      {
+        "id": "NN-WORK-FIRMA-10",
+        "phrase": "Государство поддерживает малые фирмы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Фирмы' is the accusative plural object of 'поддерживает', identical to the nominative for this inanimate noun. 'Малые' agrees in the plural. An economic-policy pattern."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-OCHKO",
+    "label": "Очко",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for очко (point).",
+    "missions": [
+      {
+        "id": "NN-WORK-OCHKO-01",
+        "phrase": "Это очко решило весь матч.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Очко' is the neuter nominative subject of 'решило', which agrees in the neuter. 'Это' agrees in the neuter, and 'весь матч' is the accusative object. A dramatic sports moment."
+      },
+      {
+        "id": "NN-WORK-OCHKO-02",
+        "phrase": "Команда заработала ещё одно очко.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Очко' is the accusative direct object of 'заработала'; neuter, so it matches the nominative. 'Одно' agrees in the neuter accusative. A core scoring pattern."
+      },
+      {
+        "id": "NN-WORK-OCHKO-03",
+        "phrase": "Нам не хватает одного очка.",
+        "fullAnalysis": "Strategic focus: Genitive of shortage. 'Очка' is the genitive form governed by 'не хватает'. 'Одного' agrees in the neuter genitive, and 'нам' is the dative experiencer. A tense competition pattern."
+      },
+      {
+        "id": "NN-WORK-OCHKO-04",
+        "phrase": "Победа измеряется каждым очком.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Очком' is the instrumental case showing the measure used. 'Каждым' agrees in the neuter instrumental. A reflective statement about scoring."
+      },
+      {
+        "id": "NN-WORK-OCHKO-05",
+        "phrase": "В этом очке вся разница.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В очке' uses the prepositional form 'очке' after 'в' to locate the difference. 'Вся разница' is the nominative subject. A figurative but natural statement."
+      },
+      {
+        "id": "NN-WORK-OCHKO-06",
+        "phrase": "Радуйся каждому набранному очку.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Очку' is the dative case governed by 'радуйся', which takes the dative. 'Набранному' is the agreeing neuter dative participle. An encouraging sports phrase."
+      },
+      {
+        "id": "NN-WORK-OCHKO-07",
+        "phrase": "Мы набрали много очков сегодня.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Очков' is the genitive plural governed by 'много'. 'Сегодня' sets the time. Note the fleeting-vowel genitive plural ending. Good for plural practice."
+      },
+      {
+        "id": "NN-WORK-OCHKO-08",
+        "phrase": "Эти очки очень важны нам.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Очки' is the nominative plural subject of the short adjective 'важны'. 'Эти' agrees in the plural, and 'нам' is the dative experiencer. Good for plural agreement."
+      },
+      {
+        "id": "NN-WORK-OCHKO-09",
+        "phrase": "Без этого очка мы проиграем.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Очка' is the genitive form after 'без', expressing the absence of the point. 'Этого' agrees in the neuter genitive. A conditional warning pattern."
+      },
+      {
+        "id": "NN-WORK-OCHKO-10",
+        "phrase": "Это очко ценнее остальных.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Очко' stays nominative as the subject. 'Это' agrees in the neuter, and 'ценнее остальных' uses the genitive plural 'остальных' in a comparison. Strong for comparative practice."
+      }
+    ]
+  }
+]

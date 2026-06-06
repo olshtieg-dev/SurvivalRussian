@@ -13,7 +13,9 @@ import rodSet from './rod.json';
 import roditelSet from './roditel.json';
 import semyaSet from './semya.json';
 import sestraSet from './sestra.json';
+import starukhaSet from './starukha.json';
 import synSet from './syn.json';
+import tyotyaSet from './tyotya.json';
 import zhenaSet from './zhena.json';
 
 export const familyNounsFolderId = 'nouns-family';
@@ -33,7 +35,9 @@ const familyNounsData = [
   ...roditelSet,
   ...semyaSet,
   ...sestraSet,
+  ...starukhaSet,
   ...synSet,
+  ...tyotyaSet,
   ...zhenaSet,
 ];
 

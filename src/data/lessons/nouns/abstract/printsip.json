@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-PRINTSIP",
+    "label": "Принцип",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for принцип (principle).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-01",
+        "phrase": "Это очень важный принцип.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Принцип' is a masculine noun in the nominative as the predicate noun. 'Важный' is the agreeing masculine adjective, intensified by 'очень'. A clean evaluative statement."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-02",
+        "phrase": "Мы уважаем этот принцип.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Принцип' is the inanimate masculine accusative direct object of 'уважаем', identical to the nominative. 'Этот' agrees in the masculine accusative. A natural statement of respect."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-03",
+        "phrase": "У него нет твёрдого принципа.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Принципа' is the masculine genitive after 'нет', and 'твёрдого' agrees in the genitive. A useful way to describe a lack of firm principles."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-04",
+        "phrase": "Она следует своему принципу.",
+        "fullAnalysis": "Strategic focus: Dative governed by the verb. 'Принципу' is the dative required by 'следовать'. 'Своему' agrees in the masculine dative. A core example of a verb that takes the dative."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-05",
+        "phrase": "Он руководствуется одним принципом.",
+        "fullAnalysis": "Strategic focus: Instrumental governed by the verb. 'Принципом' is the instrumental required by 'руководствоваться'. 'Одним' agrees in the masculine instrumental. A clean instrumental model."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-06",
+        "phrase": "Мы спорим о новом принципе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Принципе' is the prepositional form after 'о', the topic of the dispute. 'Новом' agrees in the masculine prepositional. A reliable prepositional model."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-07",
+        "phrase": "Этот принцип лежит в основе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Принцип' is the nominative subject of 'лежит'. 'Этот' agrees, and 'в основе' is a prepositional idiom meaning at the foundation. A natural abstract statement."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-08",
+        "phrase": "Учитель объяснил основные принципы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Принципы' is the inanimate accusative plural of 'объяснил', matching the nominative plural. 'Основные' agrees in the plural. A natural classroom sentence."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-09",
+        "phrase": "В книге много полезных принципов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Принципов' is the genitive plural after 'много', taking the hard-stem ending. 'Полезных' agrees, and 'в книге' is prepositional. A core quantity pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-PRINTSIP-10",
+        "phrase": "Эти принципы помогают нам жить.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Принципы' is the nominative plural subject of 'помогают'. 'Эти' agrees, and 'нам' is the dative complement. A clear value-oriented statement."
+      }
+    ]
+  }
+]

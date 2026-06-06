@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-OSHCHUSHCHENIE",
+    "label": "Ощущение",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for ощущение (sensation).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-01",
+        "phrase": "Это очень странное ощущение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ощущение' is the neuter nominative subject. 'Странное' is the agreeing neuter adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-02",
+        "phrase": "Я люблю это тёплое ощущение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ощущение' is the accusative direct object of 'люблю', equal to the nominative for this neuter noun. 'Тёплое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-03",
+        "phrase": "У меня нет такого ощущения.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ощущения' is the genitive after 'нет', signalling that the feeling is missing. 'Такого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-04",
+        "phrase": "В этом ощущении есть радость.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Ощущении' is the prepositional form after 'в', marking where the joy lies. 'Этом' agrees in the neuter prepositional case."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-05",
+        "phrase": "Она доверяет своему ощущению.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Ощущению' is the dative required by 'доверять'. 'Своему' agrees in the neuter dative, naming what she trusts."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-06",
+        "phrase": "Он наслаждается приятным ощущением.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Ощущением' is the instrumental required by 'наслаждаться'. 'Приятным' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-07",
+        "phrase": "Новые ощущения всегда волнуют.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ощущения' is the nominative plural subject of 'волнуют'. 'Новые' agrees in the plural, and 'всегда' adds frequency."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-08",
+        "phrase": "Музыка вызывает сильные ощущения.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Ощущения' is the accusative plural object of 'вызывает', equal to the nominative plural. 'Сильные' agrees in the plural."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-09",
+        "phrase": "Они говорят о своих ощущениях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Ощущениях' is the prepositional plural after 'о', the topic of conversation. 'Своих' agrees in the prepositional plural."
+      },
+      {
+        "id": "NN-EMOTION-OSHCHUSHCHENIE-10",
+        "phrase": "Без этого ощущения жизнь скучна.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Ощущения' is the genitive governed by 'без', expressing the lack of the feeling. 'Этого' agrees in the neuter genitive."
+      }
+    ]
+  }
+]

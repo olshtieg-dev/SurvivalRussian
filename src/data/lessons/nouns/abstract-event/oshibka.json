@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-OSHIBKA",
+    "label": "Ошибка",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for ошибка (mistake).",
+    "missions": [
+      {
+        "id": "NN-EVENT-OSHIBKA-01",
+        "phrase": "Это была серьёзная ошибка.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Ошибка' is the nominative predicate noun after 'была'. 'Серьёзная' agrees in the feminine, evaluating its gravity."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-02",
+        "phrase": "Я сделал глупую ошибку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ошибку' is the accusative direct object of 'сделал'. 'Глупую' agrees in the feminine accusative, a very common admission."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-03",
+        "phrase": "Мы учимся на своих ошибках.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'На своих ошибках' uses the prepositional plural after 'на' in a fixed saying about learning. 'Своих' agrees in the plural."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-04",
+        "phrase": "В тексте нет ни одной ошибки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ошибки' is the genitive after 'нет', strengthened by 'ни одной' to stress that none exist."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-05",
+        "phrase": "Учитель указал на мою ошибку.",
+        "fullAnalysis": "Strategic focus: Accusative after 'указать на'. 'Ошибку' is the accusative governed by 'на', expressing what was pointed out. 'Мою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-06",
+        "phrase": "Из-за ошибки мы потеряли время.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из-за'. 'Ошибки' is genitive following 'из-за' to express the cause of the loss. The phrase models consequence."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-07",
+        "phrase": "Не придавай значения этой ошибке.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Ошибке' is the dative in the fixed phrase 'придавать значение чему', marking what one attaches importance to. 'Этой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-08",
+        "phrase": "Я расстроен своей ошибкой.",
+        "fullAnalysis": "Strategic focus: Instrumental of cause. 'Ошибкой' is the instrumental expressing what upset the speaker. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-09",
+        "phrase": "В работе много мелких ошибок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Ошибок' is the genitive plural required by 'много', showing a fleeting vowel before 'к'. 'Мелких' agrees in the plural."
+      },
+      {
+        "id": "NN-EVENT-OSHIBKA-10",
+        "phrase": "Старые ошибки больше не повторяются.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Ошибки' is the nominative plural subject of 'повторяются'. 'Старые' agrees in the plural, and 'больше не' negates repetition."
+      }
+    ]
+  }
+]

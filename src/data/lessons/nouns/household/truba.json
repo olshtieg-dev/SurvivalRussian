@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-TRUBA",
+    "label": "Труба",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for труба (pipe).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-01",
+        "phrase": "Старая труба сильно ржавеет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Труба' stays in the nominative as the subject of 'ржавеет'. 'Старая' is the agreeing feminine adjective, and 'сильно' adds intensity. A natural way to report a failing pipe."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-02",
+        "phrase": "Рабочий чинит трубу на кухне.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Трубу' is the accusative direct object of 'чинит'. The feminine ending shifts from -а to -у, and 'на кухне' shows the location. Useful for repair situations."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-03",
+        "phrase": "Из трубы течёт холодная вода.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из трубы' uses the genitive 'трубы' after 'из' to mark the source. 'Течёт' agrees with 'вода', the nominative subject. A clear source-of-motion pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-04",
+        "phrase": "Мы дали мастеру новую трубу.",
+        "fullAnalysis": "Strategic focus: Dative recipient with accusative object. 'Мастеру' is the dative recipient, while 'трубу' stays accusative as the thing given. 'Новую' agrees in the feminine accusative. Good for transfer verbs."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-05",
+        "phrase": "Дым идёт по трубе вверх.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'По трубе' uses the dative 'трубе' after 'по' to show movement along a surface. 'Дым идёт вверх' describes the smoke rising. A useful spatial pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-06",
+        "phrase": "Вода капает под трубой медленно.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Под трубой' uses the instrumental 'трубой' after 'под' to mark location below. 'Капает медленно' describes the slow dripping. Strong for spatial relations."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-07",
+        "phrase": "В трубе застрял большой комок.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В трубе' uses the prepositional 'трубе' after 'в' to show location inside. 'Большой комок' is the nominative subject of 'застрял'. A natural blockage description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-08",
+        "phrase": "Все трубы в доме старые.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Трубы' is the nominative plural subject. 'Старые' is the agreeing plural adjective, and 'в доме' locates them. Good for talking about a whole system."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-09",
+        "phrase": "Сантехник проверяет все трубы внимательно.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Трубы' is the accusative plural object of 'проверяет', identical to the nominative for this inanimate noun. 'Внимательно' describes the careful inspection. Useful for routine checks."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TRUBA-10",
+        "phrase": "Вода течёт из старых труб.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Из старых труб' uses the genitive plural 'труб' after 'из'. 'Старых' agrees in the genitive plural, and 'течёт' marks the leaking water. A clean source-plural pattern."
+      }
+    ]
+  }
+]

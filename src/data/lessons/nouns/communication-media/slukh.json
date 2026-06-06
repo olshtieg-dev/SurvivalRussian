@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SLUKH",
+    "label": "Слух",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for слух (rumor; hearing).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SLUKH-01",
+        "phrase": "По городу ходит странный слух.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Слух' is a masculine noun in the nominative as the subject of 'ходит'. 'Странный' is the agreeing masculine adjective, and 'по городу' adds the dative of spread."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-02",
+        "phrase": "Я слышал этот слух вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Слух' is the accusative object of 'слышал'; as an inanimate masculine noun its accusative matches the nominative. 'Этот' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-03",
+        "phrase": "У этого слуха нет основания.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Слуха' is the genitive singular after 'у', framing the rumor. 'Нет основания' uses the genitive of absence."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-04",
+        "phrase": "Не верь этому слуху.",
+        "fullAnalysis": "Strategic focus: Dative after the verb. 'Слуху' is the dative singular governed by 'верить', which takes the dative. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-05",
+        "phrase": "У него отличный музыкальный слух.",
+        "fullAnalysis": "Strategic focus: Nominative in the sense of hearing. Here 'слух' is the nominative subject meaning musical ear. 'Отличный' and 'музыкальный' are the agreeing masculine adjectives."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-06",
+        "phrase": "Я играю на слух.",
+        "fullAnalysis": "Strategic focus: Accusative in a set phrase. 'Слух' appears in the accusative after 'на' in the idiom 'играть на слух', meaning to play by ear. The form matches the nominative."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-07",
+        "phrase": "В этом слухе есть доля правды.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Слухе' is the prepositional singular after 'в', expressing location of meaning. 'Доля правды' is the nominative subject with a genitive complement."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-08",
+        "phrase": "По офису поползли неприятные слухи.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Слухи' is the nominative plural, the subject of 'поползли'. 'Неприятные' agrees in the plural, and 'по офису' adds the dative of spread."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-09",
+        "phrase": "Я не люблю распускать слухи.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Слухи' is the accusative plural, identical to the nominative plural for this inanimate noun, as the object of 'распускать'. A common idiom for spreading rumors."
+      },
+      {
+        "id": "NN-COMMS-SLUKH-10",
+        "phrase": "Газеты полны новых слухов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after the adjective. 'Слухов' is the genitive plural governed by 'полны', which takes the genitive. 'Новых' agrees in the genitive plural."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-UZHAS",
+    "label": "Ужас",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for ужас (horror).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-UZHAS-01",
+        "phrase": "Меня охватил настоящий ужас.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ужас' is masculine and stays in the nominative as the subject of 'охватил'. 'Настоящий' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-02",
+        "phrase": "Я почувствовал внезапный ужас.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ужас' is inanimate masculine, so its accusative matches the nominative as the object of 'почувствовал'. 'Внезапный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-03",
+        "phrase": "Он замер от ужаса.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Ужаса' is genitive after 'от', expressing the cause of his freezing."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-04",
+        "phrase": "Она не поддалась ужасу.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Ужасу' is dative after 'поддалась', which governs that case, here in the negative."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-05",
+        "phrase": "Все застыли в немом ужасе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Ужасе' is prepositional after 'в', marking the state they were in. 'Немом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-06",
+        "phrase": "Она смотрела на экран с ужасом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Ужасом' is instrumental after 'с', describing the manner of watching."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-07",
+        "phrase": "Какой ужас, мы опоздали!",
+        "fullAnalysis": "Strategic focus: Nominative exclamation. 'Ужас' is nominative in the fixed exclamation 'какой ужас', expressing dismay. 'Какой' agrees in the masculine nominative."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-08",
+        "phrase": "Война принесла людям ужасы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Ужасы' is the accusative plural object of 'принесла'; inanimate, so it matches the nominative plural. 'Людям' is the dative plural recipient."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-09",
+        "phrase": "Ужасы войны трудно забыть.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ужасы' is the nominative plural subject of the impersonal construction. 'Войны' is genitive showing whose horrors they are."
+      },
+      {
+        "id": "NN-EMOTION-UZHAS-10",
+        "phrase": "Мы говорили об ужасах прошлого.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Ужасах' is prepositional plural after 'об', marking the topic. 'Прошлого' is genitive showing whose horrors they are."
+      }
+    ]
+  }
+]

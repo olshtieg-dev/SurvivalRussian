@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PROSTRANSTVO",
+    "label": "Пространство",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for пространство (space).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-01",
+        "phrase": "Вокруг нас огромное пространство.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пространство' is the neuter nominative subject. 'Огромное' is the agreeing neuter adjective, and 'вокруг нас' sets the scene."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-02",
+        "phrase": "Мы изучаем космическое пространство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пространство' is the accusative direct object of 'изучаем', identical to the nominative for this neuter noun. 'Космическое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-03",
+        "phrase": "Здесь совсем нет свободного пространства.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Пространства' is the genitive form after 'нет', signalling that free space is missing. 'Свободного' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-04",
+        "phrase": "В этом пространстве очень тихо.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Пространстве' is the prepositional form after 'в', marking where it is quiet. 'Этом' agrees in the neuter prepositional case."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-05",
+        "phrase": "Дети радуются открытому пространству.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Пространству' is the dative form required by 'радоваться'. 'Открытому' agrees in the neuter dative, naming what the children enjoy."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-06",
+        "phrase": "Художник играет светом и пространством.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Пространством' is the instrumental case, joined by 'и' to 'светом', naming the means the artist works with."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-07",
+        "phrase": "Между домами мало пространства.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Пространства' is the genitive form governed by the quantity word 'мало'. 'Между домами' gives the instrumental location."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-08",
+        "phrase": "Эти пространства кажутся бесконечными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Пространства' is the nominative plural subject of 'кажутся'. 'Эти' agrees in the plural, and 'бесконечными' is the instrumental predicate."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-09",
+        "phrase": "Архитектор думает о новых пространствах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Пространствах' is the prepositional plural after 'о', the topic of thought. 'Новых' agrees in the prepositional plural."
+      },
+      {
+        "id": "NN-MOTION-PROSTRANSTVO-10",
+        "phrase": "Нам нужно больше пространства дома.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Пространства' is the genitive governed by 'больше'. 'Нам нужно' frames the need, and 'дома' gives the location."
+      }
+    ]
+  }
+]

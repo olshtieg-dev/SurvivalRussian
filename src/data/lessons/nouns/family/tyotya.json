@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-TYOTYA",
+    "label": "Тётя",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for тётя (aunt).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-TYOTYA-01",
+        "phrase": "Моя тётя живёт в деревне.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тётя' stays in the nominative as the subject of 'живёт'. 'Моя' is the agreeing feminine possessive, and 'в деревне' locates her. A natural family introduction."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-02",
+        "phrase": "Я часто навещаю свою тётю.",
+        "fullAnalysis": "Strategic focus: Accusative animate. 'Тётю' is the accusative direct object of 'навещаю'. The feminine ending shifts to -ю, and 'свою' agrees. Useful for visiting relatives."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-03",
+        "phrase": "У моей тёти добрая улыбка.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'У моей тёти' uses the genitive 'тёти' after 'у' to mark the possessor. 'Добрая улыбка' is the nominative subject. A clean possession pattern."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-04",
+        "phrase": "Я подарил тёте красивый шарф.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Тёте' is the dative recipient of 'подарил'. 'Красивый шарф' is the accusative gift. A core giving pattern with a family member."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-05",
+        "phrase": "Я горжусь своей доброй тётей.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Тётей' is the instrumental required by 'горжусь'. 'Доброй' agrees in the instrumental, and 'своей' too. Good for verbs governing the instrumental."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-06",
+        "phrase": "Мы говорили о любимой тёте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О любимой тёте' uses the prepositional 'тёте' after 'о' to mark the topic. 'Любимой' agrees in the prepositional. Useful for talking about relatives."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-07",
+        "phrase": "Мы идём в гости к тёте.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К тёте' uses the dative 'тёте' after 'к' to show movement toward a person. 'В гости' adds the social purpose. A common visiting pattern."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-08",
+        "phrase": "У меня есть две тёти.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'две' the noun takes the genitive singular 'тёти'. 'У меня есть' frames possession. A useful counting pattern with kin terms."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-09",
+        "phrase": "Все мои тёти любят чай.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Тёти' is the nominative plural subject of 'любят'. 'Все мои' agree in the plural. Good for describing several relatives at once."
+      },
+      {
+        "id": "NN-FAMILY-TYOTYA-10",
+        "phrase": "Я люблю своих добрых тётей.",
+        "fullAnalysis": "Strategic focus: Accusative plural animate. 'Тётей' is the accusative plural, which for this animate noun matches the genitive plural. 'Своих добрых' agree in the animate accusative. A clear animacy pattern."
+      }
+    ]
+  }
+]

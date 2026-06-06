@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-PREDMET",
+    "label": "Предмет",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for предмет (object; subject).",
+    "missions": [
+      {
+        "id": "NN-COMMS-PREDMET-01",
+        "phrase": "Этот предмет очень тяжёлый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Предмет' stays in the nominative as the subject. 'Этот' and 'тяжёлый' are agreeing masculine forms, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-02",
+        "phrase": "Я нашёл странный предмет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Предмет' is the accusative direct object of 'нашёл', identical to the nominative for this inanimate noun. 'Странный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-03",
+        "phrase": "Я не помню названия предмета.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Предмета' is the genitive marking whose name is meant. 'Названия' is a further genitive, and 'не помню' is the verb."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-04",
+        "phrase": "Учитель посвятил урок этому предмету.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Предмету' is the dative governed by 'посвятил', here meaning a school subject. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-05",
+        "phrase": "Мы говорим о школьном предмете.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Предмете' is the prepositional form after 'о', the topic of discussion. 'Школьном' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-06",
+        "phrase": "Он пользуется острым предметом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Предметом' is the instrumental governed by 'пользуется', marking the tool used. 'Острым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-07",
+        "phrase": "Математика мой любимый предмет.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Предмет' is the nominative predicate noun naming the favourite subject. 'Мой любимый' agrees in the masculine nominative."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-08",
+        "phrase": "На столе лежит несколько предметов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Предметов' is the genitive plural after 'несколько'. 'На столе' gives the location, and 'лежит' is the verb."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-09",
+        "phrase": "Все предметы лежат на полке.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Предметы' is the nominative plural subject of 'лежат'. 'Все' agrees in the plural, and 'на полке' gives the location."
+      },
+      {
+        "id": "NN-COMMS-PREDMET-10",
+        "phrase": "Без нужного предмета задача невозможна.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Предмета' is the genitive after 'без', marking absence. 'Нужного' agrees in the masculine genitive."
+      }
+    ]
+  }
+]

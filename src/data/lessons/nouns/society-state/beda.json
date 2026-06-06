@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-BEDA",
+    "label": "Беда",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for беда (trouble).",
+    "missions": [
+      {
+        "id": "NN-STATE-BEDA-01",
+        "phrase": "Беда пришла совершенно неожиданно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Беда' is a feminine noun in the nominative as the subject of 'пришла'. 'Неожиданно' is the adverb, intensified by 'совершенно'. A natural dramatic statement."
+      },
+      {
+        "id": "NN-STATE-BEDA-02",
+        "phrase": "Эту беду никто не ждал.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Беду' is the feminine accusative direct object of 'ждал'. 'Эту' agrees in the feminine accusative, and 'никто не' negates. A natural narrative sentence."
+      },
+      {
+        "id": "NN-STATE-BEDA-03",
+        "phrase": "Без беды не бывает жизни.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Беды' is the feminine genitive after 'без', expressing absence. 'Жизни' is genitive after 'не бывает'. A proverb-style reflection."
+      },
+      {
+        "id": "NN-STATE-BEDA-04",
+        "phrase": "Друзья помогли соседу в беде.",
+        "fullAnalysis": "Strategic focus: Prepositional of circumstance. 'Беде' is the prepositional form after 'в', marking the situation of trouble. 'Соседу' is the dative beneficiary. A natural mutual-aid sentence."
+      },
+      {
+        "id": "NN-STATE-BEDA-05",
+        "phrase": "Он стал большой бедой семьи.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Бедой' is the instrumental used after 'стал' to mark a changed role. 'Большой' agrees in the feminine instrumental, and 'семьи' is genitive. A clean instrumental model."
+      },
+      {
+        "id": "NN-STATE-BEDA-06",
+        "phrase": "Мы говорили о большой беде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Беде' is the prepositional form after 'о', the topic of conversation. 'Большой' agrees in the feminine prepositional. A reliable prepositional model."
+      },
+      {
+        "id": "NN-STATE-BEDA-07",
+        "phrase": "Эта беда коснулась многих людей.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Беда' is the nominative subject of 'коснулась'. 'Эта' agrees, and 'многих людей' is the genitive object of the verb. A natural impact statement."
+      },
+      {
+        "id": "NN-STATE-BEDA-08",
+        "phrase": "К нему пришли большие беды.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Беды' is the nominative plural subject of 'пришли'. 'Большие' agrees in the plural, and 'к нему' is the dative goal. A clean plural statement."
+      },
+      {
+        "id": "NN-STATE-BEDA-09",
+        "phrase": "В стране было много бед.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Бед' is the genitive plural after 'много', the zero-ending form for this feminine noun. 'В стране' is prepositional, and 'было' is the impersonal past. A core quantity pattern."
+      },
+      {
+        "id": "NN-STATE-BEDA-10",
+        "phrase": "Все беды наконец остались позади.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Беды' is the nominative plural subject of 'остались'. 'Все' agrees in the plural, and 'позади' is the adverb. A hopeful concluding statement."
+      }
+    ]
+  }
+]

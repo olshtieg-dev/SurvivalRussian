@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-STARUKHA",
+    "label": "Старуха",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for старуха (old woman).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-STARUKHA-01",
+        "phrase": "Старуха сидит у окна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Старуха' stays in the nominative as the subject of 'сидит'. 'У окна' is a genitive location, painting a quiet domestic scene."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-02",
+        "phrase": "Я увидел старуху на скамейке.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Старуху' is the accusative direct object of 'увидел'. Being animate feminine, it takes the regular feminine accusative ending. 'На скамейке' is a prepositional location."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-03",
+        "phrase": "У старухи доброе сердце.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Старухи' is the genitive in the frame 'у старухи' to show possession. 'Доброе сердце' is the nominative subject of the implied existence."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-04",
+        "phrase": "Дети помогают старухе нести сумки.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Старухе' is the dative governed by 'помогать', which takes a dative object. The infinitive 'нести' explains the help offered."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-05",
+        "phrase": "Внук гордится своей старухой.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Старухой' is the instrumental required by 'гордиться'. 'Своей' is the agreeing feminine instrumental possessive."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-06",
+        "phrase": "Мы говорили о старухе вчера.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О старухе' uses the prepositional 'старухе' after 'о' to express the topic of conversation. 'Вчера' adds the time."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-07",
+        "phrase": "Старуха рассказала нам сказку.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative. 'Старуха' is the nominative subject of 'рассказала'. 'Нам' is the dative recipient and 'сказку' the accusative object."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-08",
+        "phrase": "Я подошёл к старухе у двери.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К старухе' uses the dative 'старухе' after 'к' to show movement toward her. 'У двери' is a genitive location."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-09",
+        "phrase": "На лавочке сидят две старухи.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две', the feminine noun takes the genitive singular 'старухи'. 'На лавочке' is a prepositional location placing the women on a bench."
+      },
+      {
+        "id": "NN-FAMILY-STARUKHA-10",
+        "phrase": "Старухи кормили голубей в парке.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Старухи' is the nominative plural subject of 'кормили'. 'Голубей' is the animate accusative plural object, and 'в парке' is a location."
+      }
+    ]
+  }
+]

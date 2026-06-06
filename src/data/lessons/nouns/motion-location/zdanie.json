@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-ZDANIE",
+    "label": "Здание",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for здание (building).",
+    "missions": [
+      {
+        "id": "NN-MOTION-ZDANIE-01",
+        "phrase": "Это очень высокое здание.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Здание' is a neuter noun staying in the nominative as the predicate. 'Высокое' is the agreeing neuter adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-02",
+        "phrase": "Мы видим красивое старое здание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Здание' is neuter, so its accusative matches the nominative as the object of 'видим'. 'Красивое старое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-03",
+        "phrase": "Около здания стоит большое дерево.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Здания' is genitive after 'около', marking location near the building."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-04",
+        "phrase": "Они подошли к зданию вокзала.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Зданию' is dative after 'к', expressing the goal of motion. 'Вокзала' is genitive showing whose building it is."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-05",
+        "phrase": "Мой офис находится в этом здании.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Здании' is prepositional after 'в', marking location. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-06",
+        "phrase": "За зданием есть тихий двор.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Зданием' is instrumental after 'за', expressing position behind the building."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-07",
+        "phrase": "В центре стоят новые здания.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Здания' is the nominative plural subject of 'стоят'. 'Новые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-08",
+        "phrase": "Из старого здания вышли люди.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Здания' is genitive after 'из', expressing motion out of the building. 'Старого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-09",
+        "phrase": "Мы прошли мимо высоких зданий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Зданий' is genitive plural after 'мимо', expressing passing by. 'Высоких' agrees in the plural genitive."
+      },
+      {
+        "id": "NN-MOTION-ZDANIE-10",
+        "phrase": "Какое это здание впереди?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Здание' is nominative as the subject. 'Какое' agrees in the neuter nominative, asking which building lies ahead."
+      }
+    ]
+  }
+]

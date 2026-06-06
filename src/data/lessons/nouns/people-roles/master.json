@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-MASTER",
+    "label": "Мастер",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for мастер (master).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-MASTER-01",
+        "phrase": "Мастер чинит старые часы.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мастер' stays in the nominative as the subject of 'чинит'. 'Старые часы' is the accusative plural object, showing the craftsman at work."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-02",
+        "phrase": "Я позвал мастера домой.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Мастера' is animate masculine, so its accusative equals the genitive as the object of 'позвал'. 'Домой' shows the direction."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-03",
+        "phrase": "У мастера золотые руки.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Мастера' is the genitive in the frame 'у мастера'. 'Золотые руки' is the nominative subject, an idiom praising skill."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-04",
+        "phrase": "Ученик помогает старому мастеру.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Мастеру' is the dative governed by 'помогать', which takes a dative object. 'Старому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-05",
+        "phrase": "Все восхищаются этим мастером.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Мастером' is the instrumental required by 'восхищаться'. 'Этим' is the agreeing masculine instrumental demonstrative."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-06",
+        "phrase": "Мы говорим о хорошем мастере.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О мастере' uses the prepositional 'мастере' after 'о' to express the topic. 'Хорошем' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-07",
+        "phrase": "Я обратился к мастеру за советом.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К мастеру' uses the dative 'мастеру' after 'к' to show turning to him. 'За советом' is instrumental, the purpose."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-08",
+        "phrase": "Мастер передал ученику свой опыт.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative. 'Мастер' is the nominative subject of 'передал'. 'Ученику' is the dative recipient and 'свой опыт' the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-09",
+        "phrase": "На заводе работают опытные мастера.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Мастера' is the irregular nominative plural with stressed ending, the subject of 'работают'. 'Опытные' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-MASTER-10",
+        "phrase": "Директор уважает своих мастеров.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Мастеров' is the animate accusative plural, equal to the genitive plural, as the object of 'уважает'. 'Своих' agrees in the plural."
+      }
+    ]
+  }
+]

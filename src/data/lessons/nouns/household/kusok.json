@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KUSOK",
+    "label": "Кусок",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for кусок (piece).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-01",
+        "phrase": "На столе лежит большой кусок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кусок' stays in the nominative as the subject of 'лежит'. 'Большой' is the agreeing masculine adjective, and 'на столе' gives the location. Note the fleeting vowel in the stem."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-02",
+        "phrase": "Дай мне маленький кусок хлеба.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кусок' is the inanimate masculine accusative direct object of 'дай', identical to the nominative. 'Маленький' agrees, and 'хлеба' is genitive marking the substance. A natural mealtime request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-03",
+        "phrase": "Здесь нет ни одного куска.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Куска' is genitive after 'нет', and the fleeting vowel drops in oblique cases. 'Ни одного' reinforces the negation. A common way to say nothing is left."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-04",
+        "phrase": "Кошка подошла к куску мяса.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Куску' is the dative form after 'к', showing direction toward. The fleeting vowel disappears, and 'мяса' is genitive. Useful for motion toward an object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-05",
+        "phrase": "Он наелся одним куском пирога.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Куском' is instrumental, the means by which he got full. 'Одним' agrees in the masculine instrumental, and 'пирога' is genitive. Note the dropped fleeting vowel."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-06",
+        "phrase": "Я думаю об этом куске торта.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Куске' is the prepositional form after 'об', expressing what is thought about. 'Этом' agrees, and the fleeting vowel drops. A clean model for the prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-07",
+        "phrase": "На тарелке лежат три куска.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'три' the noun takes the genitive singular 'куска' with the fleeting vowel dropped. 'На тарелке' gives the location. A core counting pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-08",
+        "phrase": "Мама разрезала пирог на куски.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Куски' is the inanimate accusative plural after 'на', matching the nominative plural. 'Разрезала' agrees in feminine past. A useful phrase for cutting food into pieces."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-09",
+        "phrase": "В коробке много кусков сахара.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Кусков' is the genitive plural after 'много', taking the standard hard-stem ending. 'Сахара' is genitive too, and 'в коробке' is prepositional. A natural quantity expression."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KUSOK-10",
+        "phrase": "Эти куски слишком твёрдые.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Куски' is the nominative plural subject. 'Эти' points at them and 'твёрдые' is the agreeing plural adjective, intensified by 'слишком'. A clean plural description."
+      }
+    ]
+  }
+]

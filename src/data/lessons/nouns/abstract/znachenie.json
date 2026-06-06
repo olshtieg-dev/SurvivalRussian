@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-ZNACHENIE",
+    "label": "Значение",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for значение (meaning).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-01",
+        "phrase": "Это слово имеет важное значение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Значение' is the accusative direct object of 'имеет', equal to the nominative for this neuter noun. 'Важное' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-02",
+        "phrase": "Значение этого слова неясно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Значение' is the neuter nominative subject. 'Этого слова' is the genitive showing whose meaning, and 'неясно' is the predicate."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-03",
+        "phrase": "Я не понимаю значения фразы.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Значения' is the genitive following the negated verb 'не понимаю'. 'Фразы' is the genitive showing whose meaning."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-04",
+        "phrase": "В этом значении слово редкое.",
+        "fullAnalysis": "Strategic focus: Prepositional sense. 'Значении' is the prepositional form after 'в', naming the sense in which the word is rare. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-05",
+        "phrase": "Мы придаём значению большую роль.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Значению' is the dative form governed by 'придавать'. 'Большую роль' is the accusative naming what is given to the meaning."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-06",
+        "phrase": "Он интересуется значением символов.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Значением' is the instrumental required by 'интересоваться'. 'Символов' is the genitive plural showing whose meaning."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-07",
+        "phrase": "У слова есть несколько значений.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Значений' is the genitive plural governed by 'несколько'. The possession frame 'у слова есть' introduces the meanings."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-08",
+        "phrase": "Эти значения часто путают.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Значения' is the accusative plural object of 'путают', equal to the nominative plural for this neuter noun. 'Эти' agrees in the plural."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-09",
+        "phrase": "Словарь объясняет значения старых слов.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Значения' is the accusative plural object of 'объясняет'. 'Старых слов' is the genitive plural showing whose meanings."
+      },
+      {
+        "id": "NN-ABSTRACT-ZNACHENIE-10",
+        "phrase": "Без значения слова бесполезны.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Значения' is the genitive governed by 'без', expressing the lack of meaning. 'Слова бесполезны' completes the thought."
+      }
+    ]
+  }
+]

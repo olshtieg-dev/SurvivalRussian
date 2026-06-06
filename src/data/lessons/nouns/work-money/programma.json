@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-PROGRAMMA",
+    "label": "Программа",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for программа (program).",
+    "missions": [
+      {
+        "id": "NN-WORK-PROGRAMMA-01",
+        "phrase": "Эта программа очень полезная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Программа' stays in the nominative as the subject. 'Полезная' is the agreeing feminine adjective, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-02",
+        "phrase": "Я установил новую программу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Программу' is the accusative direct object of 'установил'. 'Новую' agrees in the feminine accusative. A natural computing phrase."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-03",
+        "phrase": "У этой программы много функций.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Программы' is the genitive in the frame 'у этой программы'. 'Функций' is a genitive plural after 'много'."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-04",
+        "phrase": "Мы работаем над новой программой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Над программой' uses the instrumental 'программой' after 'над' with 'работать'. 'Новой' is the agreeing feminine instrumental adjective."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-05",
+        "phrase": "Инженер доверяет этой программе.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Программе' is the dative governed by 'доверять', which takes a dative object. 'Этой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-06",
+        "phrase": "В программе есть небольшая ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В программе' uses the prepositional 'программе' after 'в' to locate the problem. 'Небольшая ошибка' is the nominative subject."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-07",
+        "phrase": "Они говорят о новой программе.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'О программе' uses the prepositional 'программе' after 'о' to express the topic. 'Новой' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-08",
+        "phrase": "Программа помогает нам считать деньги.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative. 'Программа' is the nominative subject of 'помогает'. 'Нам' is the dative recipient, and 'считать деньги' explains the help."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-09",
+        "phrase": "Эти программы работают очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Программы' is the nominative plural subject of 'работают'. 'Эти' agrees in the plural, and 'быстро' adds the manner."
+      },
+      {
+        "id": "NN-WORK-PROGRAMMA-10",
+        "phrase": "Компания продаёт дорогие программы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Программы' is the inanimate accusative plural, equal to the nominative plural, as the object of 'продаёт'. 'Дорогие' agrees in the plural."
+      }
+    ]
+  }
+]

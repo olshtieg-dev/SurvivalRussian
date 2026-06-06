@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-MAIOR",
+    "label": "Майор",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for майор (major).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-MAIOR-01",
+        "phrase": "Майор отдал чёткий приказ.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Майор' stays in the nominative as the subject. 'Приказ' is the accusative object, and 'чёткий' agrees with it in the masculine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-02",
+        "phrase": "Солдаты уважают своего майора.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Майора' takes the genitive-like accusative form because майор is an animate masculine noun. 'Своего' agrees in that form, and 'солдаты' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-03",
+        "phrase": "Это кабинет нашего майора.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Майора' is the genitive marking the owner of the office. 'Нашего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-04",
+        "phrase": "Я доложил майору о ситуации.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Майору' is the dative marking the recipient of the report. 'О ситуации' is the prepositional topic phrase."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-05",
+        "phrase": "Мы говорили с майором утром.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Майором' is the instrumental after 'с', marking the person spoken with. 'Утром' sets the time."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-06",
+        "phrase": "Все говорят о новом майоре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Майоре' is the prepositional form after 'о', the topic of conversation. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-07",
+        "phrase": "В части служат три майора.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. 'Майора' is the genitive singular required after 'три'. 'В части' gives the location of service."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-08",
+        "phrase": "Майоры собрались на совещание.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Майоры' is the nominative plural subject of 'собрались'. 'На совещание' is the accusative goal phrase."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-09",
+        "phrase": "Командир похвалил всех майоров.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Майоров' takes the genitive-like accusative plural because the noun is animate. 'Всех' agrees in that form, and 'командир' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-MAIOR-10",
+        "phrase": "Майор стал известным генералом.",
+        "fullAnalysis": "Strategic focus: Nominative with instrumental predicate. 'Майор' is the nominative subject of 'стал'. 'Известным генералом' is the instrumental predicate naming his new rank."
+      }
+    ]
+  }
+]

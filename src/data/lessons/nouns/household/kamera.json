@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KAMERA",
+    "label": "Камера",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for камера (camera).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-01",
+        "phrase": "Камера снимает очень хорошо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Камера' is the nominative subject of 'снимает'. 'Очень хорошо' is an adverbial phrase praising the result. A clean model for describing a device's performance."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-02",
+        "phrase": "Я купил новую камеру вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Камеру' is the accusative direct object of 'купил'. 'Новую' is the agreeing feminine accusative adjective, and 'вчера' sets the time. Standard shopping pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-03",
+        "phrase": "У меня нет хорошей камеры.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Камеры' is the genitive form required after 'нет'. 'Хорошей' is the agreeing feminine genitive adjective. A core pattern for saying you lack something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-04",
+        "phrase": "Я фотографирую новой камерой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Камерой' is the instrumental case showing the tool used for the action. 'Новой' agrees in the feminine instrumental. Useful for describing how you do something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-05",
+        "phrase": "На камере много старых фотографий.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На камере' uses the prepositional form 'камере' after 'на' to express where the photos are. 'Много' governs the genitive plural 'фотографий'. Everyday tech talk."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-06",
+        "phrase": "Дай мне свою камеру, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative request. 'Камеру' is the accusative object of 'дай'. 'Свою' is the agreeing feminine accusative possessive, and 'мне' is the dative recipient. A polite everyday request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-07",
+        "phrase": "Эти камеры стоят очень дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Камеры' is the nominative plural subject of 'стоят'. 'Эти' agrees in the plural, and 'очень дорого' gives the price judgement. Good for plural practice."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-08",
+        "phrase": "Я подошёл к камере поближе.",
+        "fullAnalysis": "Strategic focus: Dative with motion. 'К камере' uses the dative form 'камере' after 'к' to show movement toward the device. 'Поближе' adds the nuance of getting closer. A natural motion pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-09",
+        "phrase": "В магазине продают разные камеры.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Камеры' is the accusative plural object of 'продают'. 'Разные' agrees in the plural, and 'в магазине' is the prepositional location. Common shopping context."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KAMERA-10",
+        "phrase": "Эта камера лучше старой.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Камера' stays nominative as the subject. 'Эта' points at a specific one, and 'лучше старой' uses the genitive 'старой' in a comparison. Strong for comparative practice."
+      }
+    ]
+  }
+]

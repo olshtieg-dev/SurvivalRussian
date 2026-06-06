@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-CHUDO",
+    "label": "Чудо",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for чудо (miracle).",
+    "missions": [
+      {
+        "id": "NN-EDU-CHUDO-01",
+        "phrase": "Это настоящее чудо природы.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Чудо' is a neuter noun staying in the nominative as the predicate. 'Настоящее' is the agreeing neuter adjective, and 'природы' is a genitive modifier. A natural exclamation."
+      },
+      {
+        "id": "NN-EDU-CHUDO-02",
+        "phrase": "Учёные не могут объяснить чудо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Чудо' is the accusative direct object of 'объяснить'; for this neuter noun the form matches the nominative. 'Не могут' frames the impossibility. Useful for the inanimate accusative."
+      },
+      {
+        "id": "NN-EDU-CHUDO-03",
+        "phrase": "Все ждут настоящего чуда.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Чуда' is the genitive required by 'ждут' for an abstract expected thing. 'Настоящего' agrees in the neuter genitive. A clear awaiting pattern."
+      },
+      {
+        "id": "NN-EDU-CHUDO-04",
+        "phrase": "Дети радуются маленькому чуду.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Чуду' is the dative required by 'радуются'. 'Маленькому' agrees in the neuter dative. Good for verbs that govern the dative."
+      },
+      {
+        "id": "NN-EDU-CHUDO-05",
+        "phrase": "Мы восхищаемся этим чудом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Чудом' is the instrumental required by 'восхищаемся'. 'Этим' agrees in the neuter instrumental. Useful for admiration verbs."
+      },
+      {
+        "id": "NN-EDU-CHUDO-06",
+        "phrase": "В этом чуде есть тайна.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В этом чуде' uses the prepositional 'чуде' after 'в' to show location within. 'Тайна' is the nominative subject. A natural describing pattern."
+      },
+      {
+        "id": "NN-EDU-CHUDO-07",
+        "phrase": "Учёные спорят о научном чуде.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О научном чуде' uses the prepositional 'чуде' to mark the topic. 'Научном' agrees in the prepositional. Useful for academic discussion."
+      },
+      {
+        "id": "NN-EDU-CHUDO-08",
+        "phrase": "В сказках случаются настоящие чудеса.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Чудеса' is the irregular nominative plural of 'чудо'. 'Настоящие' agrees in the plural, and 'случаются' marks the events. Good for the irregular plural."
+      },
+      {
+        "id": "NN-EDU-CHUDO-09",
+        "phrase": "Дети любят разные чудеса.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Чудеса' is the accusative plural object of 'любят', identical to the nominative for this inanimate noun. 'Разные' agrees in the plural. A clear irregular-plural pattern."
+      },
+      {
+        "id": "NN-EDU-CHUDO-10",
+        "phrase": "Мир полон удивительных чудес.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Чудес' is the irregular genitive plural required by 'полон'. 'Удивительных' agrees in the genitive plural. A core fullness-of pattern."
+      }
+    ]
+  }
+]

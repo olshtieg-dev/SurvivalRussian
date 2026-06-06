@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-MILITSIYA",
+    "label": "Милиция",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for милиция (police).",
+    "missions": [
+      {
+        "id": "NN-STATE-MILITSIYA-01",
+        "phrase": "Милиция приехала очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Милиция' is the feminine nominative subject of 'приехала', which agrees in the feminine. 'Очень быстро' is an adverbial phrase of manner. A clean factual report."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-02",
+        "phrase": "Свидетель вызвал милицию вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Милицию' is the accusative direct object of 'вызвал'. 'Свидетель' is the nominative subject, and 'вчера' sets the time. A core emergency pattern."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-03",
+        "phrase": "Около милиции стояла машина.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Милиции' is the genitive form after 'около', here referring to the police station. 'Машина' is the nominative subject. A useful spatial pattern."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-04",
+        "phrase": "Он обратился к милиции немедленно.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Милиции' is the dative case governed by 'обратился' with 'к', meaning to turn to. 'Немедленно' adds urgency. A common help-seeking pattern."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-05",
+        "phrase": "В милиции работают разные люди.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В милиции' uses the prepositional form 'милиции' after 'в' to say where people work. 'Разные люди' is the nominative subject. An everyday institutional pattern."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-06",
+        "phrase": "Преступника задержали милицией ночью.",
+        "fullAnalysis": "Strategic focus: Instrumental of agent. 'Милицией' is the instrumental case naming the agent in this passive-style sentence. 'Преступника' is the animate accusative object. A natural law-enforcement context."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-07",
+        "phrase": "Я доверяю местной милиции полностью.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Милиции' is the dative case governed by 'доверяю', which takes the dative. 'Местной' agrees in the feminine dative, and 'полностью' intensifies the trust. A trust pattern."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-08",
+        "phrase": "Мы рассказали о милиции подробно.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О милиции' uses the prepositional form 'милиции' after 'о' to express the topic. 'Подробно' adds detail. A natural reporting pattern."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-09",
+        "phrase": "У милиции есть новые машины.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Милиции' is the genitive form within the 'у' possession frame. 'Новые машины' is the nominative plural subject. A standard possession pattern with a plural object."
+      },
+      {
+        "id": "NN-STATE-MILITSIYA-10",
+        "phrase": "Без милиции город не справится.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Милиции' is the genitive form after 'без', expressing the absence of police. 'Город' is the nominative subject. A natural generalising statement."
+      }
+    ]
+  }
+]

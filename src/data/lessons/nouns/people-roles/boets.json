@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-BOETS",
+    "label": "Боец",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for боец (fighter).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-BOETS-01",
+        "phrase": "Этот боец очень смелый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Боец' is the masculine nominative subject. Note the fleeting vowel: it disappears in other cases. 'Смелый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-02",
+        "phrase": "Командир похвалил молодого бойца.",
+        "fullAnalysis": "Strategic focus: Accusative of animate noun. 'Бойца' takes the genitive-like form because the fighter is animate masculine. The fleeting vowel drops, and 'молодого' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-03",
+        "phrase": "В отряде нет опытного бойца.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Бойца' is the genitive after 'нет', with the fleeting vowel dropped. 'Опытного' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-04",
+        "phrase": "Все доверяют этому бойцу.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Бойцу' is the dative required by 'доверять'. The fleeting vowel drops, and 'этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-05",
+        "phrase": "Он гордится своим бойцом.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Бойцом' is the instrumental required by 'гордиться'. The fleeting vowel drops, and 'своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-06",
+        "phrase": "В этом бойце есть сила.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Бойце' is the prepositional form after 'в', with the fleeting vowel dropped. 'Этом' agrees in the masculine prepositional case."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-07",
+        "phrase": "Сильные бойцы защищают город.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Бойцы' is the nominative plural subject of 'защищают'. The fleeting vowel drops in the plural too, and 'сильные' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-08",
+        "phrase": "Генерал наградил храбрых бойцов.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate noun. 'Бойцов' takes the genitive plural form because the fighters are animate. 'Храбрых' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-09",
+        "phrase": "Командир рассказал о бойцах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Бойцах' is the prepositional plural after 'о', the topic of the story. The fleeting vowel drops in this form."
+      },
+      {
+        "id": "NN-PEOPLE-BOETS-10",
+        "phrase": "Без бойцов крепость не удержать.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Бойцов' is the genitive plural governed by 'без', expressing the lack of fighters. 'Крепость' is the accusative object."
+      }
+    ]
+  }
+]

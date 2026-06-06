@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-POBEDA",
+    "label": "Победа",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for победа (victory).",
+    "missions": [
+      {
+        "id": "NN-STATE-POBEDA-01",
+        "phrase": "Это была важная победа.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Победа' is the nominative predicate noun after 'была'. 'Важная' agrees in the feminine, evaluating the result."
+      },
+      {
+        "id": "NN-STATE-POBEDA-02",
+        "phrase": "Команда одержала красивую победу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Победу' is the accusative direct object of 'одержала'. 'Красивую' agrees in the feminine accusative, a common collocation."
+      },
+      {
+        "id": "NN-STATE-POBEDA-03",
+        "phrase": "Все радуются нашей победе.",
+        "fullAnalysis": "Strategic focus: Dative after 'радоваться'. 'Победе' is the dative required by the verb 'радуются'. 'Нашей' agrees in the feminine dative, expressing shared joy."
+      },
+      {
+        "id": "NN-STATE-POBEDA-04",
+        "phrase": "Без победы команда расстроилась.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Победы' is genitive following 'без' to express absence. The phrase models disappointment after a loss."
+      },
+      {
+        "id": "NN-STATE-POBEDA-05",
+        "phrase": "Мы гордимся этой победой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. 'Победой' is the instrumental required by the verb 'гордимся'. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STATE-POBEDA-06",
+        "phrase": "После победы был большой праздник.",
+        "fullAnalysis": "Strategic focus: Genitive after 'после'. 'Победы' is genitive following 'после' to mark a point in time. 'Большой праздник' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-POBEDA-07",
+        "phrase": "В этой победе нет сомнений.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В этой победе' uses the prepositional form 'победе' after 'в'. 'Сомнений' is genitive plural after 'нет', stating certainty."
+      },
+      {
+        "id": "NN-STATE-POBEDA-08",
+        "phrase": "Народ долго ждал победы.",
+        "fullAnalysis": "Strategic focus: Genitive after 'ждать'. 'Победы' is the genitive object of 'ждал', the standard case for awaiting an abstract outcome. 'Долго' adds duration."
+      },
+      {
+        "id": "NN-STATE-POBEDA-09",
+        "phrase": "У команды были громкие победы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Победы' is the nominative plural subject of 'были'. 'Громкие' agrees in the plural, and 'у команды' marks the possessor."
+      },
+      {
+        "id": "NN-STATE-POBEDA-10",
+        "phrase": "Мы вспоминали о прошлых победах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О прошлых победах' uses the prepositional plural after 'о' to mark the topic of memory. 'Прошлых' agrees in the plural."
+      }
+    ]
+  }
+]

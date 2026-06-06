@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-ZAPAD",
+    "label": "Запад",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for запад (west).",
+    "missions": [
+      {
+        "id": "NN-MOTION-ZAPAD-01",
+        "phrase": "Запад находится за горами.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Запад' is the nominative subject of 'находится'. 'За горами' uses the instrumental to place it behind the mountains. A clean model for a direction noun."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-02",
+        "phrase": "Мы едем на запад утром.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На запад' uses the accusative 'запад' after 'на' to express movement toward the west. With cardinal directions Russian uses 'на' plus the accusative. A core travel pattern."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-03",
+        "phrase": "Птицы летят с запада.",
+        "fullAnalysis": "Strategic focus: Genitive of origin. 'Запада' is the genitive after 'с' to express coming from the west. The pair 'на запад' / 'с запада' marks direction toward and away. Useful for describing movement."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-04",
+        "phrase": "Солнце садится на западе.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На западе' uses the prepositional form 'западе' after 'на' to mark static location in the west. Contrast with 'на запад' for motion. A natural everyday observation."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-05",
+        "phrase": "Дорога ведёт к западу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К западу' uses the dative 'западу' after 'к' to express movement toward the west. 'Ведёт' names what the road does. The dative is the natural case after 'к'."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-06",
+        "phrase": "Мы любуемся западом неба.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Западом' is the instrumental form required after 'любоваться', which governs the instrumental. 'Неба' is the genitive specifying the western part of the sky. A descriptive pattern."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-07",
+        "phrase": "Этот город стоит на западе страны.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На западе' marks the western location, and 'страны' is the genitive showing which country's west. 'Этот город' is the nominative subject. Good for geography."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-08",
+        "phrase": "Ветер дует с запада сегодня.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Запада' is the genitive after 'с', naming where the wind comes from. 'Ветер' is the nominative subject of 'дует'. A common weather statement."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-09",
+        "phrase": "На западе живут наши друзья.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На западе' places the action in the west. 'Друзья' is the nominative plural subject of 'живут'. A useful pattern for saying where people live."
+      },
+      {
+        "id": "NN-MOTION-ZAPAD-10",
+        "phrase": "Запад и восток очень разные.",
+        "fullAnalysis": "Strategic focus: Nominative coordination. 'Запад' is nominative, joined by 'и' to 'восток'. 'Разные' is the agreeing plural adjective, and 'очень' intensifies. A clean contrast of two directions."
+      }
+    ]
+  }
+]

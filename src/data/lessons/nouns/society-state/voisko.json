@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-VOISKO",
+    "label": "Войско",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for войско (army).",
+    "missions": [
+      {
+        "id": "NN-STATE-VOISKO-01",
+        "phrase": "Войско стоит у реки.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Войско' is a neuter noun in -о and stays nominative as the subject of 'стоит'. 'У реки' uses the genitive after 'у' to mark location. A clean model for a neuter noun."
+      },
+      {
+        "id": "NN-STATE-VOISKO-02",
+        "phrase": "Царь собрал большое войско.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Войско' is the accusative direct object of 'собрал'. As a neuter noun, its accusative equals the nominative. 'Большое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-STATE-VOISKO-03",
+        "phrase": "Часть войска ушла на север.",
+        "fullAnalysis": "Strategic focus: Genitive of the whole. 'Войска' is the genitive marking the army as the whole from which a part comes. 'Часть' is the nominative subject of 'ушла'. A core part-of pattern."
+      },
+      {
+        "id": "NN-STATE-VOISKO-04",
+        "phrase": "Командир помогает своему войску.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Войску' is the dative form after 'помогать', which governs the dative recipient. 'Своему' agrees in the neuter dative. A core verb-plus-dative pattern."
+      },
+      {
+        "id": "NN-STATE-VOISKO-05",
+        "phrase": "Враг разбит сильным войском.",
+        "fullAnalysis": "Strategic focus: Instrumental of agent. 'Войском' is the instrumental expressing the agent in this passive construction. 'Сильным' agrees in the neuter instrumental, and 'враг' is the nominative subject. A core instrumental pattern."
+      },
+      {
+        "id": "NN-STATE-VOISKO-06",
+        "phrase": "В войске царит строгий порядок.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В войске' uses the prepositional form 'войске' after 'в' to mark where. 'Порядок' is the nominative subject, and 'строгий' agrees with it. A descriptive pattern."
+      },
+      {
+        "id": "NN-STATE-VOISKO-07",
+        "phrase": "Без войска страну не защитить.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Войска' is the genitive required after 'без' to express absence. 'Страну' is the accusative object of 'защитить'. A reflective conditional saying."
+      },
+      {
+        "id": "NN-STATE-VOISKO-08",
+        "phrase": "На границе стоят два войска.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Войска' takes the genitive singular after 'два'. 'На границе' marks the location. A core counting pattern."
+      },
+      {
+        "id": "NN-STATE-VOISKO-09",
+        "phrase": "Союзные войска идут вместе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Войска' is the nominative plural subject of 'идут'. 'Союзные' is the agreeing plural adjective, and 'вместе' adds manner. Good for plural practice."
+      },
+      {
+        "id": "NN-STATE-VOISKO-10",
+        "phrase": "Войско готовится к долгому походу.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative goal. 'Войско' is the nominative subject of 'готовится'. 'К походу' uses the dative after 'к' to mark what it prepares for, and 'долгому' agrees. A purposeful pattern."
+      }
+    ]
+  }
+]

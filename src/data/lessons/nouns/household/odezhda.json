@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-ODEZHDA",
+    "label": "Одежда",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for одежда (clothing).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-01",
+        "phrase": "Эта одежда очень удобная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Одежда' stays in the nominative as the subject. 'Эта' and 'удобная' are agreeing feminine forms, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-02",
+        "phrase": "Я купила новую одежду вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Одежду' is the accusative direct object of 'купила'. 'Новую' agrees in the feminine accusative, and 'вчера' sets the time."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-03",
+        "phrase": "В шкафу много тёплой одежды.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Одежды' is the genitive after 'много', expressing an amount. 'Тёплой' agrees in the feminine genitive, and 'в шкафу' shows location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-04",
+        "phrase": "Она тратит деньги на одежду.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Одежду' is the accusative after 'на', marking the goal of spending. 'Тратит деньги' names what is spent."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-05",
+        "phrase": "Зимой нам нужна тёплая одежда.",
+        "fullAnalysis": "Strategic focus: Nominative with dative need. 'Одежда' is nominative as the thing needed. 'Нам' is the dative experiencer, 'нужна' agrees in feminine gender, and 'зимой' sets the season."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-06",
+        "phrase": "Я думаю о новой одежде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Одежде' is the prepositional form after 'о', expressing thinking about something. 'Новой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-07",
+        "phrase": "Магазин с одеждой за углом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Одеждой' is the instrumental after 'с', describing what the shop sells. 'За углом' shows the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-08",
+        "phrase": "У нас нет летней одежды.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Одежды' is the genitive required by 'нет'. 'Летней' agrees in the feminine genitive, and 'у нас' marks the possessor."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-09",
+        "phrase": "В магазине продают детскую одежду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Одежду' is the accusative object of 'продают'. 'Детскую' agrees in the feminine accusative, and 'в магазине' gives the place."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEZHDA-10",
+        "phrase": "Дети растут и меняют одежды.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Одежды' is the accusative plural object of 'меняют', referring to outfits over time. 'Дети растут' gives the reason for the change."
+      }
+    ]
+  }
+]

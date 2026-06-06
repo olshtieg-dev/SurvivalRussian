@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-KOST",
+    "label": "Кость",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for кость (bone).",
+    "missions": [
+      {
+        "id": "NN-BODY-KOST-01",
+        "phrase": "У него очень крепкая кость.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кость' is feminine and stays in the nominative as the subject. 'Крепкая' is the agreeing feminine adjective, and 'у него' frames whose bone it is."
+      },
+      {
+        "id": "NN-BODY-KOST-02",
+        "phrase": "Собака грызёт большую кость.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кость' takes the accusative form, which for this inanimate feminine soft-sign noun matches the nominative. 'Большую' agrees in the feminine accusative as the object of 'грызёт'."
+      },
+      {
+        "id": "NN-BODY-KOST-03",
+        "phrase": "Врач боится перелома кости.",
+        "fullAnalysis": "Strategic focus: Genitive of the thing feared. 'Кости' is the genitive singular after 'перелома', itself part of the object of 'боится', which governs the genitive. A useful medical context."
+      },
+      {
+        "id": "NN-BODY-KOST-04",
+        "phrase": "Я дал собаке большую кость.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Кость' is the accusative object of 'дал', identical to the nominative for this noun. 'Собаке' is the dative recipient, and 'большую' agrees in feminine accusative."
+      },
+      {
+        "id": "NN-BODY-KOST-05",
+        "phrase": "На кости нет мяса.",
+        "fullAnalysis": "Strategic focus: Prepositional case of location. 'Кости' is the prepositional singular after 'на'. 'Нет мяса' uses the genitive of absence, describing what is on the bone."
+      },
+      {
+        "id": "NN-BODY-KOST-06",
+        "phrase": "Он промок до костей.",
+        "fullAnalysis": "Strategic focus: Genitive plural in an idiom. 'Костей' is the genitive plural after 'до' in the set phrase 'промок до костей', meaning soaked to the bone. A common everyday expression."
+      },
+      {
+        "id": "NN-BODY-KOST-07",
+        "phrase": "У старика болят все кости.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кости' is the nominative plural, the subject of 'болят'. 'Все' agrees in the plural, and 'у старика' shows whose bones ache."
+      },
+      {
+        "id": "NN-BODY-KOST-08",
+        "phrase": "Археологи нашли древние кости.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Кости' is the accusative plural, identical to the nominative plural for this inanimate noun, as the object of 'нашли'. 'Древние' agrees in the plural."
+      },
+      {
+        "id": "NN-BODY-KOST-09",
+        "phrase": "Суп варят на куриных костях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Костях' is the prepositional plural after 'на', expressing the base of the broth. 'Куриных' agrees in the plural. A practical cooking phrase."
+      },
+      {
+        "id": "NN-BODY-KOST-10",
+        "phrase": "Этот удар повредил кость.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кость' is the accusative object of 'повредил', matching the nominative form. 'Этот удар' is the nominative subject doing the damage."
+      }
+    ]
+  }
+]

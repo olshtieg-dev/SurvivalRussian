@@ -1,52 +1,54 @@
 import chastSet from './chast.json';
-import ryadSet from './ryad.json';
-import meraSet from './mera.json';
+import chertaSet from './cherta.json';
 import chisloSet from './chislo.json';
-import paraSet from './para.json';
-import polovinaSet from './polovina.json';
+import faktSet from './fakt.json';
+import glavaSet from './glava.json';
 import kachestvoSet from './kachestvo.json';
 import kolichestvoSet from './kolichestvo.json';
-import tipSet from './tip.json';
-import urovenSet from './uroven.json';
-import vidSet from './vid.json';
-import poryadokSet from './poryadok.json';
-import chertaSet from './cherta.json';
-import sredstvoSet from './sredstvo.json';
-import polozhenieSet from './polozhenie.json';
-import uslovieSet from './uslovie.json';
-import glavaSet from './glava.json';
+import meraSet from './mera.json';
+import obstoyatelstvoSet from './obstoyatelstvo.json';
+import paraSet from './para.json';
 import planSet from './plan.json';
-import rostSet from './rost.json';
-import tsvetSet from './tsvet.json';
-import praviloSet from './pravilo.json';
-import faktSet from './fakt.json';
+import polovinaSet from './polovina.json';
+import polozhenieSet from './polozhenie.json';
+import poryadokSet from './poryadok.json';
 import povodSet from './povod.json';
+import praviloSet from './pravilo.json';
+import rostSet from './rost.json';
+import ryadSet from './ryad.json';
+import sredstvoSet from './sredstvo.json';
+import tipSet from './tip.json';
+import tsvetSet from './tsvet.json';
+import urovenSet from './uroven.json';
+import uslovieSet from './uslovie.json';
+import vidSet from './vid.json';
 
 export const abstractStructureNounsFolderId = 'nouns-abstract-structure';
 const abstractStructureNounsData = [
   ...chastSet,
-  ...ryadSet,
-  ...meraSet,
+  ...chertaSet,
   ...chisloSet,
-  ...paraSet,
-  ...polovinaSet,
+  ...faktSet,
+  ...glavaSet,
   ...kachestvoSet,
   ...kolichestvoSet,
-  ...tipSet,
-  ...urovenSet,
-  ...vidSet,
-  ...poryadokSet,
-  ...chertaSet,
-  ...sredstvoSet,
-  ...polozhenieSet,
-  ...uslovieSet,
-  ...glavaSet,
+  ...meraSet,
+  ...obstoyatelstvoSet,
+  ...paraSet,
   ...planSet,
-  ...rostSet,
-  ...tsvetSet,
-  ...praviloSet,
-  ...faktSet,
+  ...polovinaSet,
+  ...polozhenieSet,
+  ...poryadokSet,
   ...povodSet,
+  ...praviloSet,
+  ...rostSet,
+  ...ryadSet,
+  ...sredstvoSet,
+  ...tipSet,
+  ...tsvetSet,
+  ...urovenSet,
+  ...uslovieSet,
+  ...vidSet,
 ];
 
 export const abstractStructureNounsFolder = {

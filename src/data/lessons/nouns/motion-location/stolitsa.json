@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-STOLITSA",
+    "label": "Столица",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for столица (capital city).",
+    "missions": [
+      {
+        "id": "NN-MOTION-STOLITSA-01",
+        "phrase": "Москва - столица России.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Столица' is the nominative predicate noun naming what Moscow is. 'России' is genitive, showing of which country. A core definition pattern."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-02",
+        "phrase": "Мы скоро поедем в столицу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Столицу' is the accusative after 'в' to mark movement toward a place. 'Скоро' adds the near future, a useful travel phrase."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-03",
+        "phrase": "Мой друг живёт в столице.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В столице' uses the prepositional form 'столице' after 'в' to mark where someone lives. A clean contrast with the directional accusative."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-04",
+        "phrase": "Туристы любят красивую столицу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Столицу' is the accusative direct object of 'любят'. 'Красивую' agrees in the feminine accusative, giving a descriptive evaluation."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-05",
+        "phrase": "Поезд идёт из столицы на юг.",
+        "fullAnalysis": "Strategic focus: Genitive of origin. 'Столицы' is the genitive after 'из' to express movement away from a place. 'На юг' marks the destination, a natural travel route."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-06",
+        "phrase": "Мы приближаемся к столице.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Столице' is the dative after 'к', expressing approach toward something. 'Приближаемся' reinforces the gradual movement."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-07",
+        "phrase": "Я горжусь нашей столицей.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. 'Столицей' is the instrumental case required by the verb 'горжусь'. 'Нашей' agrees in the feminine instrumental, expressing pride."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-08",
+        "phrase": "Без столицы трудно представить страну.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Столицы' is genitive following 'без' to express absence. The phrase models abstract reasoning about a country."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-09",
+        "phrase": "В Европе много старинных столиц.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Столиц' is the genitive plural required by the quantifier 'много'. 'Старинных' agrees in the genitive plural, describing age."
+      },
+      {
+        "id": "NN-MOTION-STOLITSA-10",
+        "phrase": "Эти столицы стоят на больших реках.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Столицы' is the nominative plural subject of 'стоят'. 'Эти' agrees in the plural, and 'на больших реках' marks the prepositional location."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-MATERIAL",
+    "label": "Материал",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for материал (material).",
+    "missions": [
+      {
+        "id": "NN-NATURE-MATERIAL-01",
+        "phrase": "Это очень прочный материал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Материал' is a masculine noun in the nominative as the predicate noun. 'Прочный' is the agreeing masculine adjective, intensified by 'очень'. A clean evaluative statement."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-02",
+        "phrase": "Мы выбрали хороший материал.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Материал' is the inanimate masculine accusative direct object of 'выбрали', identical to the nominative. 'Хороший' agrees in the masculine accusative. A natural shopping phrase."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-03",
+        "phrase": "В магазине нет нужного материала.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Материала' is the masculine genitive after 'нет', and 'нужного' agrees in the genitive. 'В магазине' is prepositional. A model for the genitive of lack."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-04",
+        "phrase": "Инженер подошёл к новому материалу.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Материалу' is the dative form after 'к', showing approach toward. 'Новому' agrees in the masculine dative. A useful directional example."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-05",
+        "phrase": "Стол сделан красивым материалом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Материалом' is the instrumental marking the means of making. 'Красивым' agrees in the masculine instrumental, and 'сделан' is a short passive participle. A clean instrumental model."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-06",
+        "phrase": "Мы говорим об этом материале.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Материале' is the prepositional form after 'об', the topic of discussion. 'Этом' agrees in the masculine prepositional. A reliable prepositional model."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-07",
+        "phrase": "Природный материал намного лучше.",
+        "fullAnalysis": "Strategic focus: Nominative subject with comparison. 'Материал' is the nominative subject. 'Природный' agrees, and 'намного лучше' is the comparative evaluation. A natural quality comparison."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-08",
+        "phrase": "Завод производит разные материалы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Материалы' is the inanimate accusative plural of 'производит', matching the nominative plural. 'Разные' agrees in the plural. A natural industrial sentence."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-09",
+        "phrase": "На складе много строительных материалов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Материалов' is the genitive plural after 'много', taking the hard-stem ending. 'Строительных' agrees, and 'на складе' is prepositional. A core quantity pattern."
+      },
+      {
+        "id": "NN-NATURE-MATERIAL-10",
+        "phrase": "Эти материалы очень дорогие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Материалы' is the nominative plural subject. 'Эти' agrees, and 'дорогие' is the agreeing plural adjective, intensified by 'очень'. A clean plural description."
+      }
+    ]
+  }
+]

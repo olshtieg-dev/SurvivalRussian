@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-FILM",
+    "label": "Фильм",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for фильм (film).",
+    "missions": [
+      {
+        "id": "NN-COMMS-FILM-01",
+        "phrase": "Это очень интересный фильм.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фильм' is masculine and stays in the nominative as the predicate. 'Интересный' is the agreeing masculine adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-COMMS-FILM-02",
+        "phrase": "Вчера мы смотрели новый фильм.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Фильм' is inanimate masculine, so its accusative matches the nominative as the object of 'смотрели'. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-FILM-03",
+        "phrase": "Я не понял конца фильма.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Фильма' is genitive marking whose ending it is. 'Конца' is the accusative object of 'не понял'."
+      },
+      {
+        "id": "NN-COMMS-FILM-04",
+        "phrase": "Этот актёр подходит фильму.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Фильму' is dative after 'подходит', which governs that case to express suitability."
+      },
+      {
+        "id": "NN-COMMS-FILM-05",
+        "phrase": "Мы долго говорили о фильме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Фильме' is prepositional after 'о', marking the topic of conversation."
+      },
+      {
+        "id": "NN-COMMS-FILM-06",
+        "phrase": "Все восхищались этим фильмом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Фильмом' is instrumental after 'восхищались', which governs that case. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-FILM-07",
+        "phrase": "В кино идут новые фильмы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Фильмы' is the nominative plural subject of 'идут'. 'Новые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-COMMS-FILM-08",
+        "phrase": "Этот режиссёр снял много фильмов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Фильмов' is genitive plural after 'много', counting an indefinite number."
+      },
+      {
+        "id": "NN-COMMS-FILM-09",
+        "phrase": "Мы любим старые французские фильмы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Фильмы' is the accusative plural object of 'любим'; inanimate, so it matches the nominative plural. 'Старые французские' agree in the plural."
+      },
+      {
+        "id": "NN-COMMS-FILM-10",
+        "phrase": "Какой фильм тебе понравился?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Фильм' is nominative as the subject of 'понравился'. 'Какой' agrees in the masculine nominative, and 'тебе' is the dative experiencer."
+      }
+    ]
+  }
+]
