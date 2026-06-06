@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-DIVAN",
+    "label": "Диван",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for диван (sofa).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-01",
+        "phrase": "В гостиной стоит большой диван.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Диван' stays in the nominative as the subject of 'стоит'. 'Большой' is the agreeing masculine adjective, and 'в гостиной' locates it. A clean model for describing furniture."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-02",
+        "phrase": "Мы вчера купили новый диван.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Диван' is inanimate masculine, so the accusative matches the nominative form. 'Новый' agrees with it, and 'купили' takes it as the direct object. Useful for shopping talk."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-03",
+        "phrase": "У нас нет нового дивана.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Дивана' takes the genitive after 'нет' to express that something is lacking. 'Нового' agrees in the masculine genitive. A core negation pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-04",
+        "phrase": "Я весь день сижу на диване.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На диване' uses the prepositional form 'диване' after 'на' to mark location. 'Весь день' adds duration. The standard way to say where you are sitting."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-05",
+        "phrase": "Подойди к дивану и сядь.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К дивану' uses the dative form 'дивану' after 'к' to show motion toward something. The imperative 'подойди' makes this a natural command."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-06",
+        "phrase": "Кот спрятался за диваном.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'За диваном' uses the instrumental form 'диваном' after 'за' to mean behind something. A common way to describe a hidden spot."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-07",
+        "phrase": "В магазине много дешёвых диванов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Диванов' is the genitive plural after 'много'. 'Дешёвых' agrees in the genitive plural. A useful quantity pattern for shopping."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-08",
+        "phrase": "Эти диваны очень удобные.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Диваны' is the nominative plural subject. 'Эти' and 'удобные' agree in the plural, and 'очень' intensifies. Good for comparing several items."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-09",
+        "phrase": "Под диваном лежит старая книга.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Под диваном' uses the instrumental form after 'под' to mean underneath. 'Лежит' describes the resting position. Practical for describing a room."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DIVAN-10",
+        "phrase": "Этот диван слишком мягкий.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Диван' is nominative as the subject. 'Этот' points at a specific one and 'мягкий' is the agreeing masculine adjective, reinforced by 'слишком'. A clean descriptive card."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SIGARETA",
+    "label": "Сигарета",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for сигарета (cigarette).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-01",
+        "phrase": "На столе лежит одна сигарета.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сигарета' stays in the nominative case as the subject of 'лежит'. 'Одна' is the agreeing feminine numeral, and 'на столе' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-02",
+        "phrase": "Он медленно курит сигарету.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сигарету' is the accusative direct object of 'курит'. The feminine ending shifts from -а to -у, and 'медленно' describes how he smokes."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-03",
+        "phrase": "У меня нет сигареты.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Сигареты' takes the genitive after 'нет' to express that none is present. The negation construction 'у меня нет' is a core everyday pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-04",
+        "phrase": "Дай мне одну сигарету, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative request. 'Сигарету' is the accusative object of 'дай'. 'Одну' agrees in the feminine accusative, and 'пожалуйста' makes the request polite."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-05",
+        "phrase": "Дым от сигареты пахнет ужасно.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Сигареты' is genitive after 'от' to show the source of the smoke. 'Дым' is the nominative subject, and 'ужасно' evaluates the smell."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-06",
+        "phrase": "Он подошёл к продавцу за сигаретами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Сигаретами' is the instrumental plural after 'за' meaning to fetch something. The plural stem adds -ами, and 'подошёл к продавцу' sets the scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-07",
+        "phrase": "В пачке осталось мало сигарет.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Сигарет' is the genitive plural with zero ending after 'мало'. 'В пачке' gives the location, and 'осталось' agrees in neuter with the quantity phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-08",
+        "phrase": "Она боится этой сигареты.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Сигареты' takes the genitive because 'бояться' governs that case. 'Этой' agrees in the feminine genitive, pointing at a specific one."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-09",
+        "phrase": "Я рассказал другу о вредной сигарете.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Сигарете' is the prepositional form after 'о' to express the topic. 'Вредной' agrees in the feminine prepositional, and 'другу' is the dative listener."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SIGARETA-10",
+        "phrase": "Эта сигарета очень дорогая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Сигарета' is nominative as the subject. 'Дорогая' is the agreeing feminine adjective, reinforced by 'очень'. A clean model for descriptive cards."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PISTOLET",
+    "label": "Пистолет",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for пистолет (pistol).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-01",
+        "phrase": "Пистолет лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пистолет' is in the nominative case as the subject of 'лежит'. The phrase 'на столе' uses the prepositional case to show location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-02",
+        "phrase": "Полицейский достал свой пистолет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пистолет' is the inanimate accusative direct object of 'достал', identical to the nominative. 'Свой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-03",
+        "phrase": "У него нет пистолета.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Пистолета' takes the genitive ending after 'нет' to express absence. 'У него' marks the possessor in the genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-04",
+        "phrase": "Он выстрелил из пистолета вверх.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из пистолета' uses the genitive after 'из' to show the source of the shot. 'Вверх' is an adverb of direction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-05",
+        "phrase": "Он подошёл к пистолету медленно.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К пистолету' uses the dative after 'к' to show movement toward the object. 'Медленно' is an adverb of manner."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-06",
+        "phrase": "Солдат стоял с пистолетом наготове.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С пистолетом' uses the instrumental after 'с' to show what he was carrying. 'Наготове' means at the ready."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-07",
+        "phrase": "Я думаю о новом пистолете.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О новом пистолете' uses the prepositional after 'о' for the topic of thought. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-08",
+        "phrase": "В музее лежат старые пистолеты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Пистолеты' is the nominative plural as the subject of 'лежат'. 'Старые' agrees in the plural, and 'в музее' shows location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-09",
+        "phrase": "Он купил два дорогих пистолета.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'пистолета'. 'Дорогих' is the genitive plural adjective used with this numeral pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PISTOLET-10",
+        "phrase": "Это очень опасный пистолет.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Пистолет' is nominative as the predicate noun. 'Опасный' is the agreeing masculine adjective, intensified by 'очень'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PLATE",
+    "label": "Платье",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for платье (dress).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PLATE-01",
+        "phrase": "Это новое красное платье.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Платье' stays in the nominative as the subject of the sentence. 'Новое' and 'красное' are neuter adjectives agreeing with it. A clean model for describing clothing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-02",
+        "phrase": "Она купила красивое платье.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Платье' is the accusative object of 'купила'; neuter inanimate nouns look identical to the nominative. 'Красивое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-03",
+        "phrase": "У меня нет такого платья.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Платья' is the genitive form required after 'нет'. 'Такого' is the agreeing neuter genitive adjective. A useful pattern for saying you lack something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-04",
+        "phrase": "Мама пришила пуговицу к платью.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Платью' is the dative form after the preposition 'к', marking the goal of the action. 'Пуговицу' is the accusative object that gets sewn on."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-05",
+        "phrase": "Она пришла на бал в красивом платье.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В платье' uses the prepositional 'платье' after 'в' to say what someone is wearing. 'Красивом' is the agreeing neuter prepositional adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-06",
+        "phrase": "Девочка любуется своим платьем.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Платьем' is the instrumental form governed by 'любоваться'. 'Своим' agrees in the neuter instrumental. A natural verb that demands this case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-07",
+        "phrase": "В шкафу висят летние платья.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Платья' is the nominative plural, the subject of 'висят'. 'Летние' is the agreeing plural adjective. Good for practising the neuter plural ending."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-08",
+        "phrase": "Она примерила несколько платьев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Платьев' is the genitive plural required after 'несколько'. The soft-stem neuter takes the ending '-ев'. Useful for counting and shopping contexts."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-09",
+        "phrase": "Платье очень идёт тебе.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative. 'Платье' is the nominative subject of 'идёт', and 'тебе' is the dative person it suits. A common everyday compliment about clothes."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATE-10",
+        "phrase": "Сколько стоит это платье?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Платье' is the nominative subject of 'стоит'. 'Это' agrees in the neuter, and 'сколько' asks the price. A practical shopping question."
+      }
+    ]
+  }
+]

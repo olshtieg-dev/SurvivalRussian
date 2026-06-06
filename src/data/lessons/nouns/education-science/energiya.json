@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ENERGIYA",
+    "label": "Энергия",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for энергия (energy).",
+    "missions": [
+      {
+        "id": "NN-EDU-ENERGIYA-01",
+        "phrase": "Солнечная энергия очень полезна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Энергия' is the feminine nominative subject. 'Солнечная' is the agreeing adjective, and 'полезна' is the short feminine predicate. A clean descriptive frame."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-02",
+        "phrase": "Растения получают энергию от солнца.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Энергию' is the accusative direct object of 'получают'. 'От солнца' is genitive of source, and 'растения' is the nominative plural subject. A useful science sentence."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-03",
+        "phrase": "У него совсем нет энергии.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Энергии' is genitive after 'нет' to express that he has none. 'Совсем' intensifies, and 'у него' frames the possessor. A common everyday complaint."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-04",
+        "phrase": "Спорт даёт энергию всему телу.",
+        "fullAnalysis": "Strategic focus: Accusative with dative. 'Энергию' is the accusative object of 'даёт', while 'всему телу' is the dative recipient. 'Спорт' is the nominative subject. A natural health sentence."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-05",
+        "phrase": "Он работает с большой энергией.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Энергией' is instrumental after 'с' to describe how he works. 'Большой' agrees in the feminine instrumental. A vivid manner expression."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-06",
+        "phrase": "В этой пище много энергии.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Энергии' is genitive after 'много' to express amount. 'В этой пище' is prepositional location. A useful nutrition pattern."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-07",
+        "phrase": "Учёные говорят об атомной энергии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об энергии' uses the prepositional form 'энергии' after 'об' to express the topic. 'Атомной' agrees in the feminine prepositional. A typical academic sentence."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-08",
+        "phrase": "Эта энергия передаётся по проводам.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Энергия' is the nominative subject of 'передаётся'. 'Эта' agrees, and 'по проводам' is dative plural of path. A clean technical sentence."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-09",
+        "phrase": "Завод тратит много энергии каждый день.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Энергии' is genitive after 'много' as the amount used. 'Завод' is the nominative subject, and 'каждый день' adds frequency. A practical industry sentence."
+      },
+      {
+        "id": "NN-EDU-ENERGIYA-10",
+        "phrase": "Дети полны энергии и радости.",
+        "fullAnalysis": "Strategic focus: Genitive after a short adjective. 'Энергии' is genitive governed by 'полны', joined to 'радости' by 'и'. 'Дети' is the nominative plural subject. A lively descriptive sentence."
+      }
+    ]
+  }
+]

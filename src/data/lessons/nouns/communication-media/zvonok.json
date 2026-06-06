@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-ZVONOK",
+    "label": "Звонок",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for звонок (call; bell).",
+    "missions": [
+      {
+        "id": "NN-COMMS-ZVONOK-01",
+        "phrase": "Вдруг прозвенел громкий звонок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Звонок' is nominative as the subject of 'прозвенел'. 'Громкий' is the agreeing masculine adjective, and 'вдруг' adds suddenness."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-02",
+        "phrase": "Я жду важный звонок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Звонок' is the accusative direct object of 'жду'. As an inanimate masculine noun it matches the nominative. 'Важный' is the agreeing adjective."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-03",
+        "phrase": "После звонка она ушла.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Звонка' is genitive after 'после', and the fleeting vowel о drops out of the stem. 'Она ушла' is the main clause."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-04",
+        "phrase": "Учитель обрадовался звонку.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Звонку' is the dative governed by 'обрадовался', a verb that takes the dative for what one is glad about. The fleeting vowel drops."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-05",
+        "phrase": "Урок закончился звонком.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Звонком' is the instrumental marking what ended the lesson. The fleeting vowel о disappears. 'Урок' is the subject."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-06",
+        "phrase": "В этом звонке была плохая новость.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Звонке' uses the prepositional form after 'в', with the fleeting vowel dropped. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-07",
+        "phrase": "Сегодня было два важных звонка.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Звонка' takes the genitive singular after 'два'. 'Важных' agrees in the genitive, and 'было' is the neuter past."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-08",
+        "phrase": "Утром были три пропущенных звонка.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Звонка' takes the genitive singular after 'три'. 'Пропущенных' agrees in the genitive, and 'утром' adds the time."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-09",
+        "phrase": "Все звонки сегодня были короткие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Звонки' is nominative plural as the subject. 'Все' quantifies them and 'короткие' is the plural predicate adjective."
+      },
+      {
+        "id": "NN-COMMS-ZVONOK-10",
+        "phrase": "Это был звонок из больницы.",
+        "fullAnalysis": "Strategic focus: Nominative with genitive source. 'Звонок' is nominative as the predicate noun. 'Из больницы' is the genitive showing where the call came from."
+      }
+    ]
+  }
+]

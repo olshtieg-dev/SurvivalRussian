@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-TON",
+    "label": "Тон",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for тон (tone).",
+    "missions": [
+      {
+        "id": "NN-COMMS-TON-01",
+        "phrase": "Его тон был очень спокойный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тон' is a masculine noun in the nominative as the subject. 'Спокойный' is the agreeing masculine adjective, and 'был' marks the past. A clean way to describe how someone speaks."
+      },
+      {
+        "id": "NN-COMMS-TON-02",
+        "phrase": "Не меняй так резко тон.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тон' is inanimate masculine, so the accusative matches the nominative form. 'Меняй' takes it as the direct object, and 'резко' adds manner. A natural imperative."
+      },
+      {
+        "id": "NN-COMMS-TON-03",
+        "phrase": "В его голосе нет дружеского тона.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Тона' takes the genitive after 'нет' to express that something is missing. 'Дружеского' agrees in the masculine genitive. A core negation pattern."
+      },
+      {
+        "id": "NN-COMMS-TON-04",
+        "phrase": "Я удивился его грубому тону.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Тону' is the dative governed by 'удивился', which expresses surprise at something. 'Грубому' agrees in the masculine dative. A useful reaction pattern."
+      },
+      {
+        "id": "NN-COMMS-TON-05",
+        "phrase": "Она говорила спокойным тоном.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Тоном' is the instrumental expressing the manner of speaking. 'Спокойным' agrees in the masculine instrumental. A natural way to describe delivery."
+      },
+      {
+        "id": "NN-COMMS-TON-06",
+        "phrase": "Дело было в его тоне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В тоне' uses the prepositional form 'тоне' after 'в' to point to where the problem lay. A common idiom about how something was said."
+      },
+      {
+        "id": "NN-COMMS-TON-07",
+        "phrase": "Мне не нравится твой тон.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative experiencer. 'Тон' is the nominative subject of 'нравится'. 'Мне' is the dative experiencer, and 'твой' agrees as masculine. Highly reusable in arguments."
+      },
+      {
+        "id": "NN-COMMS-TON-08",
+        "phrase": "В музыке слышны разные тона.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Тона' is the nominative plural subject. 'Разные' agrees in the plural, and 'слышны' is the short-form predicate. A useful plural for music or colour shades."
+      },
+      {
+        "id": "NN-COMMS-TON-09",
+        "phrase": "Художник использовал тёплые тона.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Тона' is the accusative plural object of 'использовал'; for inanimate nouns the accusative plural matches the nominative plural. 'Тёплые' agrees in the plural. Natural for art talk."
+      },
+      {
+        "id": "NN-COMMS-TON-10",
+        "phrase": "Этот тон звучит очень дружелюбно.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Тон' is nominative as the subject of 'звучит'. 'Этот' agrees as masculine, and 'дружелюбно' is the adverbial complement intensified by 'очень'. A clean descriptive card."
+      }
+    ]
+  }
+]

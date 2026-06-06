@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SKOROST",
+    "label": "Скорость",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for скорость (speed).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SKOROST-01",
+        "phrase": "Скорость поезда очень высокая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Скорость' is a feminine soft-sign noun staying in the nominative as the subject. 'Высокая' is the agreeing feminine adjective, and 'поезда' is genitive."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-02",
+        "phrase": "Водитель снизил скорость на повороте.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Скорость' is the accusative direct object of 'снизил', identical to the nominative for this feminine soft noun. 'На повороте' gives the location."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-03",
+        "phrase": "Машина ехала без всякой скорости.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Скорости' takes the genitive after 'без' to mean without any speed. 'Всякой' agrees in the feminine genitive, and 'машина' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-04",
+        "phrase": "Самолёт летит на огромной скорости.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Скорости' is the prepositional after 'на' to express the rate of motion. 'Огромной' agrees in the feminine prepositional, and 'самолёт' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-05",
+        "phrase": "Спортсмен бежит с большой скоростью.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Скоростью' is the instrumental after 'с' to describe how he runs. The soft-sign feminine noun takes -ью, and 'большой' agrees."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-06",
+        "phrase": "Прибор измеряет скорость ветра.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Скорость' is the accusative direct object of 'измеряет'. 'Ветра' is the genitive showing whose speed, and 'прибор' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-07",
+        "phrase": "Благодаря скорости мы успели вовремя.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Скорости' takes the dative after 'благодаря' to give the reason. 'Мы' is the subject, and 'вовремя' describes the result."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-08",
+        "phrase": "Машина едет на разных скоростях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Скоростях' is the prepositional plural after 'на', taking the -ях ending for soft feminine nouns. 'Разных' agrees in the plural."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-09",
+        "phrase": "У этой коробки несколько скоростей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Скоростей' is the genitive plural after 'несколько', taking the -ей ending. 'У этой коробки' frames possession with the genitive."
+      },
+      {
+        "id": "NN-STRUCT-SKOROST-10",
+        "phrase": "Эта скорость намного выше прежней.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Скорость' stays nominative as the subject. 'Намного выше' gives the comparison, and 'прежней' takes the genitive after the comparative."
+      }
+    ]
+  }
+]

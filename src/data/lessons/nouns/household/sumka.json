@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SUMKA",
+    "label": "Сумка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for сумка (bag).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-01",
+        "phrase": "Это моя новая сумка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сумка' stays in the nominative as the subject of the sentence. 'Моя' and 'новая' are the agreeing feminine adjectives, while 'это' introduces it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-02",
+        "phrase": "Я взял твою сумку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сумку' is the accusative direct object of 'взял'. 'Твою' agrees in the feminine accusative, marking whose bag was taken."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-03",
+        "phrase": "У меня нет сумки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Сумки' takes the genitive form after 'нет', expressing that no bag is present. A core pattern for saying you lack something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-04",
+        "phrase": "Я подошёл к сумке.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Сумке' is in the dative case after 'к', showing movement toward the bag. 'Подошёл' names the approach."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-05",
+        "phrase": "Она пришла с большой сумкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Сумкой' is in the instrumental case after 'с', meaning accompanied by the bag. 'Большой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-06",
+        "phrase": "Ключи лежат в сумке.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Сумке' takes the prepositional form after 'в' to show where the keys are. A natural way to locate small objects."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-07",
+        "phrase": "На столе стоят две сумки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Сумки' takes the genitive singular form required after 'две'. 'Стоят' agrees with the paucal subject, and 'на столе' locates them."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-08",
+        "phrase": "Все сумки уже здесь.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Сумки' is the nominative plural subject, quantified by 'все'. 'Здесь' places them, modelling everyday plural reference."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-09",
+        "phrase": "Я положил телефон в сумку.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Сумку' takes the accusative after 'в' to show motion into the bag. 'Положил' names the action of putting something inside."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SUMKA-10",
+        "phrase": "Я ищу сумку без ручки.",
+        "fullAnalysis": "Strategic focus: Accusative object with genitive modifier. 'Сумку' is the accusative object of 'ищу', while 'без ручки' uses the genitive to describe a bag lacking a handle."
+      }
+    ]
+  }
+]

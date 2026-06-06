@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-ROZHDENIE",
+    "label": "Рождение",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for рождение (birth).",
+    "missions": [
+      {
+        "id": "NN-EVENT-ROZHDENIE-01",
+        "phrase": "Это было радостное рождение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рождение' stays in the nominative as the subject of 'было'. 'Радостное' is the agreeing neuter adjective describing the event."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-02",
+        "phrase": "Вся семья праздновала рождение сына.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рождение' is the accusative direct object of 'праздновала'. As a neuter noun its accusative matches the nominative, with 'сына' in the genitive."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-03",
+        "phrase": "Мы ждём рождения ребёнка.",
+        "fullAnalysis": "Strategic focus: Genitive after the verb. 'Рождения' takes the genitive because 'ждать' governs the genitive of what is awaited. 'Ребёнка' is a genitive naming whose birth."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-04",
+        "phrase": "Все готовились к рождению малыша.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Рождению' is in the dative after 'к', expressing preparation toward the birth. 'Малыша' is a genitive specifying the baby."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-05",
+        "phrase": "Все были рады рождению дочери.",
+        "fullAnalysis": "Strategic focus: Dative of reaction. 'Рождению' is in the dative governed by 'рады', expressing what everyone was glad about. 'Дочери' is a genitive naming the daughter."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-06",
+        "phrase": "При рождении ребёнок очень мал.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Рождении' takes the prepositional form after 'при', meaning at the moment of birth. 'Мал' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-07",
+        "phrase": "Эти рождения были очень тяжёлыми.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Рождения' is the nominative plural subject of 'были'. 'Эти' agrees in the plural, and 'тяжёлыми' is the instrumental plural predicate."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-08",
+        "phrase": "Дата рождения указана в паспорте.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Рождения' takes the genitive after 'дата', forming the common phrase for date of birth. 'Указана' agrees with the feminine subject 'дата'."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-09",
+        "phrase": "Врачи следят за рождением близнецов.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Рождением' is in the instrumental after 'за', marking what the doctors monitor. 'Близнецов' is a genitive plural naming the twins."
+      },
+      {
+        "id": "NN-EVENT-ROZHDENIE-10",
+        "phrase": "После рождения внука бабушка плакала.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Рождения' takes the genitive after 'после', placing the event in time. 'Внука' is a genitive naming the grandson."
+      }
+    ]
+  }
+]

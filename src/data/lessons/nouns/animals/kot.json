@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-KOT",
+    "label": "Кот",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for кот (tomcat).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-KOT-01",
+        "phrase": "Наш кот спит на диване.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кот' is the masculine nominative subject of 'спит'. 'Наш' agrees in the masculine, and 'на диване' is prepositional location. A simple everyday scene."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-02",
+        "phrase": "Я вижу большого чёрного кота.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Кота' takes the genitive-like accusative because кот is animate masculine. 'Большого' and 'чёрного' agree in the animate accusative. A core animacy pattern."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-03",
+        "phrase": "У соседей нет кота.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Кота' is genitive after 'нет' to express that they have no cat. 'У соседей' is the genitive plural possessor frame. A common possession sentence."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-04",
+        "phrase": "Я дал коту немного молока.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Коту' is the dative indirect object, the one receiving the milk. 'Немного молока' is a genitive quantity. A natural feeding sentence."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-05",
+        "phrase": "Девочка играет с котом.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Котом' is instrumental after 'с' to mark who she plays with. The animate masculine noun takes the regular -ом ending. A friendly everyday phrase."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-06",
+        "phrase": "Мы часто думаем о нашем коте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О коте' uses the prepositional form 'коте' after 'о' to express thinking about. 'Нашем' agrees in the masculine prepositional. Useful for talking about a pet."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-07",
+        "phrase": "Кот поймал маленькую мышь.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Кот' is the nominative subject of 'поймал'. 'Мышь' is the accusative object, and 'маленькую' agrees with it. A vivid action sentence."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-08",
+        "phrase": "Во дворе живут три кота.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Кота' is the genitive singular form used after 'три'. 'Во дворе' is prepositional location. A useful counting pattern with animate masculine nouns."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-09",
+        "phrase": "Эти коты очень ленивые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Коты' is the nominative plural subject. 'Эти' and 'ленивые' agree in the plural. Good for plural description practice."
+      },
+      {
+        "id": "NN-ANIMAL-KOT-10",
+        "phrase": "Я люблю всех уличных котов.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Котов' takes the genitive-plural ending as the animate accusative plural of 'люблю'. 'Всех' and 'уличных' agree. Reinforces animacy in the plural."
+      }
+    ]
+  }
+]

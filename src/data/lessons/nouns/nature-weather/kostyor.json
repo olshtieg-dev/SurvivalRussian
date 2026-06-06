@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-KOSTYOR",
+    "label": "Костёр",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for костёр (campfire).",
+    "missions": [
+      {
+        "id": "NN-NATURE-KOSTYOR-01",
+        "phrase": "Костёр горит очень ярко.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Костёр' stays in the nominative as the subject of 'горит'. 'Ярко' describes how brightly it burns."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-02",
+        "phrase": "Туристы развели большой костёр.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Костёр' is the inanimate masculine accusative object of 'развели', identical to the nominative. 'Большой' is the agreeing adjective."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-03",
+        "phrase": "Возле костра было тепло.",
+        "fullAnalysis": "Strategic focus: Genitive of location. 'Костра' is the genitive after 'возле', meaning near the fire. The fleeting vowel ё drops out, giving the stem 'костр-'."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-04",
+        "phrase": "Дети подошли к костру.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Костру' is the dative after 'к', marking movement toward the fire. The fleeting ё drops, leaving the stem 'костр-'."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-05",
+        "phrase": "Мы сидели у костра вечером.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Костра' is the genitive after 'у', meaning by the fire. 'Вечером' adds the time, a classic camping scene."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-06",
+        "phrase": "На костре варится уха.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На костре' uses the prepositional form 'костре' after 'на' to show cooking over the fire."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-07",
+        "phrase": "Над костром поднимался дым.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 'Костром' is the instrumental after 'над', meaning above the fire. The fleeting ё drops in the stem."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-08",
+        "phrase": "Мы говорили о костре долго.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О костре' uses the prepositional form after 'о' to mark the topic of conversation. 'Долго' shows duration."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-09",
+        "phrase": "В лесу горели яркие костры.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Костры' is the nominative plural subject of 'горели'. 'Яркие' is the agreeing plural adjective, and 'в лесу' gives the location."
+      },
+      {
+        "id": "NN-NATURE-KOSTYOR-10",
+        "phrase": "Туристы разжигали костры быстро.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Костры' is the inanimate accusative plural object of 'разжигали', matching the nominative plural. 'Быстро' adds the manner."
+      }
+    ]
+  }
+]

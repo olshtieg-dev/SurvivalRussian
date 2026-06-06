@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-ARTIST",
+    "label": "Артист",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for артист (performer).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-ARTIST-01",
+        "phrase": "На сцену вышел известный артист.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Артист' is nominative as the subject of 'вышел'. 'Известный' is the agreeing masculine adjective, and 'на сцену' is the accusative destination."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-02",
+        "phrase": "Зрители долго ждали артиста.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Артиста' takes the genitive-shaped accusative because the performer is animate masculine. 'Зрители' is the nominative plural subject of 'ждали'."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-03",
+        "phrase": "У этого артиста большой талант.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Артиста' is genitive after 'у' to show whose talent it is. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-04",
+        "phrase": "Дети подарили цветы артисту.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Артисту' is the dative indirect object receiving the flowers. 'Цветы' is the accusative direct object, and 'дети' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-05",
+        "phrase": "Я познакомился с этим артистом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Артистом' takes the instrumental after 'с' for the verb 'познакомился'. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-06",
+        "phrase": "Все говорят об этом артисте.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Артисте' uses the prepositional form after 'об' to mark the topic. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-07",
+        "phrase": "В театре работают молодые артисты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Артисты' is nominative plural as the subject of 'работают'. 'Молодые' agrees in the plural, and 'в театре' is the location."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-08",
+        "phrase": "Мы видели на концерте трёх артистов.",
+        "fullAnalysis": "Strategic focus: Animate genitive plural after numeral. 'Артистов' takes the genitive plural after 'трёх' because the performers are animate. 'На концерте' is the location."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-09",
+        "phrase": "Этот артист очень талантливый.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Артист' is nominative as the subject. 'Талантливый' is the agreeing masculine predicate adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-PEOPLE-ARTIST-10",
+        "phrase": "Режиссёр пригласил нового артиста.",
+        "fullAnalysis": "Strategic focus: Animate accusative object. 'Артиста' is the animate accusative direct object of 'пригласил', matching the genitive form. 'Нового' agrees in the masculine animate accusative."
+      }
+    ]
+  }
+]

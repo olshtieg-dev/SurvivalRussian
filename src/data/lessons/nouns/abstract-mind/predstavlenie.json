@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-PREDSTAVLENIE",
+    "label": "Представление",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for представление (notion; show).",
+    "missions": [
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-01",
+        "phrase": "Это было яркое представление.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Представление' is the nominative subject, here in its 'show' sense. 'Яркое' is the agreeing neuter adjective. A clean descriptive model."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-02",
+        "phrase": "Дети посмотрели интересное представление.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Представление' is the accusative object of 'посмотрели'; neuter inanimate nouns match the nominative. 'Интересное' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-03",
+        "phrase": "У меня нет ясного представления.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Представления' is the genitive after 'нет', here in its 'notion' sense. 'Ясного' is the agreeing neuter genitive adjective."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-04",
+        "phrase": "Благодаря представлению дети были счастливы.",
+        "fullAnalysis": "Strategic focus: Dative with 'благодаря'. 'Представлению' is the dative governed by 'благодаря', marking the cause of joy. The soft-stem neuter takes the dative ending '-ю'."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-05",
+        "phrase": "Мы пришли на представление вовремя.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На представление' uses the accusative after 'на' to express going to an event. 'Вовремя' adds punctuality. A natural attendance pattern."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-06",
+        "phrase": "Зрители были довольны представлением.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Представлением' is the instrumental governed by 'довольны'. The soft-stem neuter takes '-ем'. A natural way to express satisfaction."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-07",
+        "phrase": "В моём представлении мир добрее.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В представлении' uses the prepositional after 'в' to mean 'in one's notion'. 'Моём' is the agreeing neuter prepositional form. An idiomatic mental frame."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-08",
+        "phrase": "В театре идут новые представления.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Представления' is the nominative plural, the subject of 'идут'. 'Новые' is the agreeing plural adjective. Good for the neuter plural ending '-я'."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-09",
+        "phrase": "У людей много разных представлений.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Представлений' is the genitive plural after 'много'; soft-stem neuters end in '-ий'. 'Разных' is the agreeing plural genitive adjective."
+      },
+      {
+        "id": "NN-MIND-PREDSTAVLENIE-10",
+        "phrase": "Он имеет смутное представление о работе.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Представление' is the accusative object of 'имеет', in its 'notion' sense. 'Смутное' agrees in the neuter, and 'о работе' names the topic."
+      }
+    ]
+  }
+]

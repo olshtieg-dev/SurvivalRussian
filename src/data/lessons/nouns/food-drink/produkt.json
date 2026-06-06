@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-PRODUKT",
+    "label": "Продукт",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for продукт (product; food).",
+    "missions": [
+      {
+        "id": "NN-FOOD-PRODUKT-01",
+        "phrase": "Этот продукт очень свежий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Продукт' is the masculine nominative subject. 'Этот' points at it and 'свежий' is the agreeing adjective. A clean model for describing food quality."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-02",
+        "phrase": "Я купил полезный продукт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Продукт' is the inanimate masculine accusative object of 'купил', identical to the nominative. 'Полезный' agrees in the masculine accusative. A practical shopping sentence."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-03",
+        "phrase": "В магазине нет этого продукта.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Продукта' is genitive after 'нет' to express that the item is unavailable. 'Этого' agrees in the masculine genitive, and 'в магазине' is prepositional location."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-04",
+        "phrase": "Дети рады новому продукту.",
+        "fullAnalysis": "Strategic focus: Dative after an adjective. 'Продукту' is dative, the thing the children are glad about, governed by 'рады'. 'Новому' agrees in the masculine dative. A useful pattern for reactions."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-05",
+        "phrase": "Повар работает со свежим продуктом.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Продуктом' is instrumental after 'со' to mark what the cook works with. 'Свежим' agrees in the masculine instrumental. A natural kitchen phrase."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-06",
+        "phrase": "В этом продукте много витаминов.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В продукте' uses the prepositional form 'продукте' after 'в' to mark what contains the vitamins. 'Много витаминов' is a genitive plural quantity. Useful for nutrition talk."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-07",
+        "phrase": "Молоко - это полезный продукт.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Продукт' is the nominative predicate noun linked by the dash. 'Полезный' is the agreeing adjective. A clean equational sentence for definitions."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-08",
+        "phrase": "Мы покупаем свежие продукты каждый день.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Продукты' is the inanimate accusative plural of 'покупаем', matching the nominative plural. 'Свежие' agrees, and 'каждый день' adds frequency. Often means groceries."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-09",
+        "phrase": "В холодильнике закончились продукты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Продукты' is the nominative plural subject of 'закончились'. 'В холодильнике' is prepositional location. A common everyday observation about running out of food."
+      },
+      {
+        "id": "NN-FOOD-PRODUKT-10",
+        "phrase": "В корзине нет молочных продуктов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Продуктов' is the genitive plural after 'нет' to express absence. 'Молочных' agrees in the genitive plural, and 'в корзине' is prepositional location."
+      }
+    ]
+  }
+]

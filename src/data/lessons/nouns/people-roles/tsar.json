@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-TSAR",
+    "label": "Царь",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for царь (tsar).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-TSAR-01",
+        "phrase": "Царь живёт в большом дворце.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Царь' is the masculine nominative subject of 'живёт'. 'В большом дворце' uses the prepositional to show location."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-02",
+        "phrase": "Народ любит своего царя.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Царя' is animate masculine, so the accusative equals the genitive. 'Своего' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-03",
+        "phrase": "В стране больше нет царя.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Царя' takes the genitive after 'нет' to express absence. 'В стране' is prepositional of location."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-04",
+        "phrase": "Все поклонились молодому царю.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Царю' is the dative governed by 'поклонились', which takes a dative complement. 'Молодому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-05",
+        "phrase": "Солдаты гордились своим царём.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Царём' is the instrumental required by 'гордились'. 'Своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-06",
+        "phrase": "В книге пишут о царе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О царе' uses the prepositional after 'о' for the topic. 'В книге' shows where it is written."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-07",
+        "phrase": "В сказке было три царя.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'три' the noun takes the genitive singular 'царя'. 'В сказке' is prepositional of location."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-08",
+        "phrase": "Раньше цари правили страной.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Цари' is the nominative plural subject of 'правили'. 'Страной' is the instrumental governed by 'править'."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-09",
+        "phrase": "Историк изучал великих царей.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Царей' is animate, so the accusative plural equals the genitive plural. 'Великих' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-PEOPLE-TSAR-10",
+        "phrase": "Это был мудрый царь.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Царь' is nominative as the predicate noun after 'был'. 'Мудрый' is the agreeing masculine adjective."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-KRASOTA",
+    "label": "Красота",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for красота (beauty).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-KRASOTA-01",
+        "phrase": "Её красота поражает всех.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Красота' is the feminine nominative subject of 'поражает'. 'Всех' is the accusative object of the verb."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-02",
+        "phrase": "Художник ценит красоту природы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Красоту' is the feminine accusative direct object of 'ценит'. 'Природы' is the genitive of possession."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-03",
+        "phrase": "В этом городе нет красоты.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Красоты' takes the genitive after 'нет' to express absence. 'В этом городе' is prepositional of location."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-04",
+        "phrase": "Все удивились красоте картины.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Красоте' is the dative governed by 'удивились', which takes a dative complement. 'Картины' is the genitive of possession."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-05",
+        "phrase": "Мы любовались красотой заката.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Красотой' is the instrumental required by 'любоваться'. 'Заката' is the genitive of possession."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-06",
+        "phrase": "В этой красоте есть тайна.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В красоте' uses the prepositional after 'в' to locate the quality. 'Тайна' is the nominative subject."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-07",
+        "phrase": "Она мечтает о красоте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О красоте' uses the prepositional after 'о' for the object of dreaming. 'Она' is the nominative subject."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-08",
+        "phrase": "Это настоящая красота.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Красота' is nominative as the predicate noun. 'Настоящая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-09",
+        "phrase": "В музее много разных красот.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 'Красот' takes the genitive plural after 'много', here meaning beautiful things. 'Разных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EMOTION-KRASOTA-10",
+        "phrase": "Красоты этого края незабываемы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Красоты' is the nominative plural subject, meaning scenic beauties. 'Незабываемы' is the short-form predicate agreeing in the plural."
+      }
+    ]
+  }
+]

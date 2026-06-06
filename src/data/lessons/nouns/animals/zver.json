@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-ZVER",
+    "label": "Зверь",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for зверь (beast).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-ZVER-01",
+        "phrase": "В лесу живёт опасный зверь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зверь' is a soft-stem masculine noun in the nominative as the subject of 'живёт'. 'Опасный' is the agreeing masculine adjective, and 'в лесу' sets the scene."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-02",
+        "phrase": "Охотники поймали большого зверя.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Зверя' is the accusative, equal to the genitive because 'зверь' is animate masculine. 'Большого' agrees in the animate accusative. A natural hunting sentence."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-03",
+        "phrase": "Здесь нет ни одного зверя.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Зверя' takes the genitive after 'нет' to express that none are present. 'Ни одного' reinforces the emptiness. A core negation pattern."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-04",
+        "phrase": "Ребёнок дал зверю немного хлеба.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Зверю' is the dative, the creature receiving the food. 'Хлеба' is a partitive genitive after 'немного'. A warm everyday scene at the zoo."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-05",
+        "phrase": "Перед зверем стоял маленький мальчик.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Перед зверем' uses the instrumental form 'зверем' after 'перед' to mean in front of the animal. 'Стоял' agrees with the masculine subject 'мальчик'."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-06",
+        "phrase": "Мы читали книгу о диком звере.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О звере' uses the prepositional form 'звере' after 'о' to mark the topic. 'Диком' agrees in the masculine prepositional. A useful discussion frame."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-07",
+        "phrase": "В зоопарке много разных зверей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Зверей' is the genitive plural after 'много'. 'Разных' agrees in the genitive plural, and 'в зоопарке' locates them. A natural quantity pattern."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-08",
+        "phrase": "Дикие звери боятся людей.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Звери' is the nominative plural subject of 'боятся'. 'Дикие' agrees in the plural, and 'людей' is the genitive object the verb requires. A clean generalisation."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-09",
+        "phrase": "Туристы фотографировали зверей в саванне.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Зверей' is the accusative plural, equal to the genitive plural for animate nouns. 'Фотографировали' takes them as the object. A natural travel sentence."
+      },
+      {
+        "id": "NN-ANIMAL-ZVER-10",
+        "phrase": "Этот зверь очень умный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Зверь' is nominative as the subject. 'Этот' agrees as masculine and 'умный' is the agreeing masculine adjective, intensified by 'очень'. A clean descriptive card."
+      }
+    ]
+  }
+]

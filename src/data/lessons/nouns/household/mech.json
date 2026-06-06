@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-MECH",
+    "label": "Меч",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for меч (sword).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-MECH-01",
+        "phrase": "На стене висит старый меч.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Меч' is masculine and stays in the nominative as the subject of 'висит'. 'Старый' is the agreeing masculine adjective, and 'на стене' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-02",
+        "phrase": "Рыцарь поднял тяжёлый меч.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Меч' is inanimate, so its accusative matches the nominative as the direct object of 'поднял'. 'Тяжёлый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-03",
+        "phrase": "У воина нет меча.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Меча' is the genitive form after 'нет', expressing that the warrior has no sword. The fleeting vowel does not appear here; the stem simply takes the ending '-а'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-04",
+        "phrase": "Он гордится своим мечом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Мечом' takes the instrumental ending after 'гордится', which governs that case. 'Своим' is the agreeing masculine instrumental possessive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-05",
+        "phrase": "Дед рассказал мне о мече.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О мече' uses the prepositional form 'мече' after 'о' to mean talking about the sword. 'Мне' is the dative listener of 'рассказал'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-06",
+        "phrase": "Кузнец подарил сыну новый меч.",
+        "fullAnalysis": "Strategic focus: Accusative gift with dative recipient. 'Меч' is the inanimate accusative object of 'подарил', while 'сыну' is the dative recipient. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-07",
+        "phrase": "В музее много старинных мечей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Мечей' is the genitive plural required by 'много'. 'Старинных' agrees in the genitive plural, and 'в музее' sets the place."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-08",
+        "phrase": "Эти мечи очень острые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мечи' is the nominative plural subject. 'Эти' and 'острые' agree in the plural, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-09",
+        "phrase": "Солдаты сражались мечами и копьями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of means. 'Мечами' is the instrumental plural showing the weapon used, coordinated with 'копьями'. A natural pattern for describing how an action is performed."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MECH-10",
+        "phrase": "Этот меч принадлежит королю.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative complement. 'Меч' is the nominative subject of 'принадлежит', which takes the dative 'королю'. 'Этот' agrees in the masculine nominative."
+      }
+    ]
+  }
+]

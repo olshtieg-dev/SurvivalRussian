@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-OBRAZOVANIE",
+    "label": "Образование",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for образование (education).",
+    "missions": [
+      {
+        "id": "NN-EDU-OBRAZOVANIE-01",
+        "phrase": "Хорошее образование очень важно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Образование' is in the nominative as the subject. 'Хорошее' is the agreeing neuter adjective and 'важно' is the predicate. A clean evaluative model."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-02",
+        "phrase": "Она получила высшее образование.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Образование' is the accusative direct object of 'получила'. As a neuter noun the accusative matches the nominative. 'Высшее' agrees in the neuter accusative. A very common phrase."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-03",
+        "phrase": "У него нет высшего образования.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Образования' is in the genitive after 'нет', which demands it. 'Высшего' agrees in the neuter genitive. A standard pattern for absence."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-04",
+        "phrase": "Государство уделяет внимание образованию.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Образованию' is in the dative, the form required by 'уделять внимание'. 'Государство' is the nominative subject. A useful formal expression."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-05",
+        "phrase": "Он гордится своим образованием.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'гордиться'. 'Образованием' is in the instrumental, the case governed by 'гордиться'. 'Своим' agrees in the neuter instrumental. A natural pattern for pride."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-06",
+        "phrase": "Мы говорим об образовании детей.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Образовании' is in the prepositional after 'об', expressing the topic. 'Детей' is a genitive modifier. A natural discussion pattern."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-07",
+        "phrase": "В образовании произошли большие перемены.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Образовании' is in the prepositional after 'в', marking the sphere where change occurred. 'Большие перемены' is the nominative plural subject. Useful for discussing reform."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-08",
+        "phrase": "Образование открывает новые возможности.",
+        "fullAnalysis": "Strategic focus: Nominative subject with plural object. 'Образование' is the nominative subject of 'открывает'. 'Новые возможности' is the accusative plural object. A motivating sentence."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-09",
+        "phrase": "Они вкладывают деньги в образование.",
+        "fullAnalysis": "Strategic focus: Accusative with 'в'. 'Образование' is in the accusative after 'в', marking the goal of investment. 'Деньги' is the accusative object. A common financial context."
+      },
+      {
+        "id": "NN-EDU-OBRAZOVANIE-10",
+        "phrase": "Без образования трудно найти работу.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Образования' is in the genitive after the preposition 'без', meaning without education. 'Трудно найти работу' completes the impersonal statement. A practical life remark."
+      }
+    ]
+  }
+]

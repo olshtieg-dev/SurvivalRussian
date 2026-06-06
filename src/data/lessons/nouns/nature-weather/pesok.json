@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-PESOK",
+    "label": "Песок",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for песок (sand).",
+    "missions": [
+      {
+        "id": "NN-NATURE-PESOK-01",
+        "phrase": "На пляже мягкий жёлтый песок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Песок' is the nominative subject, keeping its fleeting vowel 'о'. 'Мягкий' and 'жёлтый' are the agreeing masculine adjectives. A clean descriptive model."
+      },
+      {
+        "id": "NN-NATURE-PESOK-02",
+        "phrase": "Дети насыпали песок в ведро.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Песок' is the accusative object of 'насыпали'; as an inanimate masculine noun it matches the nominative. 'В ведро' shows the destination."
+      },
+      {
+        "id": "NN-NATURE-PESOK-03",
+        "phrase": "Здесь совсем нет песка.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Песка' is the genitive after 'нет'; the fleeting vowel 'о' drops in all cases but the nominative. A core declension point for this noun."
+      },
+      {
+        "id": "NN-NATURE-PESOK-04",
+        "phrase": "Море подступает к песку.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Песку' is the dative after 'к', and the fleeting vowel again drops. The preposition marks the goal toward which the water moves."
+      },
+      {
+        "id": "NN-NATURE-PESOK-05",
+        "phrase": "Мы лежали на тёплом песке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На песке' uses the prepositional 'песке' after 'на' to mark location. 'Тёплом' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-NATURE-PESOK-06",
+        "phrase": "Дорожка засыпана белым песком.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Песком' is the instrumental marking the material with 'засыпана'. 'Белым' is the agreeing masculine instrumental adjective. The fleeting vowel stays dropped."
+      },
+      {
+        "id": "NN-NATURE-PESOK-07",
+        "phrase": "Ветер несёт много песка.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Песка' is the genitive after 'много' to express an amount of an uncountable substance. The fleeting vowel drops as expected."
+      },
+      {
+        "id": "NN-NATURE-PESOK-08",
+        "phrase": "Машина застряла в глубоком песке.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В песке' uses the prepositional after 'в' to say where the car is stuck. 'Глубоком' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-NATURE-PESOK-09",
+        "phrase": "Под ногами скрипят мелкие пески.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пески' is the nominative plural, the subject of 'скрипят'; the plural keeps the dropped vowel. 'Мелкие' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-NATURE-PESOK-10",
+        "phrase": "Они идут по горячему песку.",
+        "fullAnalysis": "Strategic focus: Dative with 'по'. 'Песку' is the dative after 'по' to express movement along a surface. 'Горячему' is the agreeing masculine dative adjective."
+      }
+    ]
+  }
+]

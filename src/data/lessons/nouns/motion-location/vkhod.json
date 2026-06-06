@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-VKHOD",
+    "label": "Вход",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for вход (entrance).",
+    "missions": [
+      {
+        "id": "NN-MOTION-VKHOD-01",
+        "phrase": "Вход находится справа.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вход' is the masculine nominative subject of 'находится'. 'Справа' is an adverb of location answering where."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-02",
+        "phrase": "Охранник закрыл главный вход.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вход' is the inanimate accusative direct object of 'закрыл', identical to the nominative. 'Главный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-03",
+        "phrase": "Около входа стоит человек.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Около входа' uses the genitive after 'около' to express proximity. 'Человек' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-04",
+        "phrase": "Мы подошли к входу вместе.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К входу' uses the dative after 'к' to show movement toward. 'Вместе' is an adverb of manner."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-05",
+        "phrase": "Перед входом висит большая вывеска.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Перед входом' uses the instrumental after 'перед' to mean in front of. 'Вывеска' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-06",
+        "phrase": "При входе нужно показать билет.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'При входе' uses the prepositional after 'при' to mean upon entering. 'Билет' is the accusative object of 'показать'."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-07",
+        "phrase": "У входа собралась большая толпа.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'У входа' uses the genitive after 'у' to show location. 'Толпа' is the nominative subject, and 'большая' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-08",
+        "phrase": "В здании есть два входа.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'входа'. 'В здании' is prepositional of location."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-09",
+        "phrase": "Все входы были уже закрыты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Входы' is the nominative plural subject of 'были'. 'Закрыты' is the short-form passive participle agreeing in the plural."
+      },
+      {
+        "id": "NN-MOTION-VKHOD-10",
+        "phrase": "Это удобный и широкий вход.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Вход' is nominative as the predicate noun. 'Удобный' and 'широкий' are agreeing masculine adjectives joined by 'и'."
+      }
+    ]
+  }
+]

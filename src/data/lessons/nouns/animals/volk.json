@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-VOLK",
+    "label": "Волк",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for волк (wolf).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-VOLK-01",
+        "phrase": "В лесу живёт большой волк.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Волк' stays in the nominative as the subject of 'живёт'. 'Большой' is the agreeing masculine adjective, and 'в лесу' locates it."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-02",
+        "phrase": "Охотники увидели волка.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Волка' takes the genitive-shaped accusative because 'волк' is animate masculine, serving as the object of 'увидели'."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-03",
+        "phrase": "Здесь нет ни одного волка.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Волка' takes the genitive after 'нет ни одного', stressing that not a single wolf is present."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-04",
+        "phrase": "Овцы боятся подходить к волку.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Волку' is in the dative after 'к', showing approach toward the wolf. 'Боятся' explains the sheep's reluctance."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-05",
+        "phrase": "Собака дралась с волком.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Волком' is in the instrumental after 'с', marking the wolf as the opponent. 'Дралась' names the fight."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-06",
+        "phrase": "Дети читали сказку о волке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Волке' takes the prepositional form after 'о', the topic of the tale. 'Читали' names the activity."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-07",
+        "phrase": "По полю бегали серые волки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Волки' is the nominative plural subject of 'бегали'. 'Серые' agrees in the plural, and 'по полю' locates them."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-08",
+        "phrase": "Мы слышали вой волков ночью.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Волков' takes the genitive plural after 'вой', expressing whose howling it is. 'Ночью' sets the time."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-09",
+        "phrase": "Зимой я часто кормлю волков.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Волков' takes the genitive-shaped accusative plural because wolves are animate, as the object of 'кормлю'. 'Зимой' sets the season."
+      },
+      {
+        "id": "NN-ANIMAL-VOLK-10",
+        "phrase": "Волк быстро бежал по снегу.",
+        "fullAnalysis": "Strategic focus: Nominative subject in motion. 'Волк' is the nominative subject of 'бежал'. 'Быстро' adds speed, and 'по снегу' describes the path."
+      }
+    ]
+  }
+]

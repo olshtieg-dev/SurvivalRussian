@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-BYK",
+    "label": "Бык",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for бык (bull).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-BYK-01",
+        "phrase": "Бык стоит на лугу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бык' is the masculine nominative subject of 'стоит'. 'На лугу' uses the prepositional to show location."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-02",
+        "phrase": "Фермер ведёт большого быка.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Быка' is animate masculine, so the accusative equals the genitive. 'Большого' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-03",
+        "phrase": "У соседа нет быка.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Быка' takes the genitive after 'нет' to express absence. 'У соседа' marks the possessor in the genitive."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-04",
+        "phrase": "Фермер дал быку много сена.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Быку' is the dative indirect object of 'дал'. 'Сена' is genitive after the quantity word 'много'."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-05",
+        "phrase": "Мальчик испугался перед быком.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Перед быком' uses the instrumental after 'перед' to mean in front of. 'Испугался' is the reflexive past verb."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-06",
+        "phrase": "В рассказе говорится о быке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О быке' uses the prepositional after 'о' for the topic. 'В рассказе' shows where the topic appears."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-07",
+        "phrase": "На поле пасутся три быка.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'три' the noun takes the genitive singular 'быка'. 'На поле' is prepositional of location."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-08",
+        "phrase": "Эти быки очень сильные.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Быки' is the nominative plural subject. 'Сильные' is the agreeing plural adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-09",
+        "phrase": "Фермер продал двух быков.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Быков' is animate, so the accusative plural equals the genitive plural. After 'двух' the animate noun takes this form."
+      },
+      {
+        "id": "NN-ANIMAL-BYK-10",
+        "phrase": "Это огромный и злой бык.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Бык' is nominative as the predicate noun. 'Огромный' and 'злой' are agreeing masculine adjectives joined by 'и'."
+      }
+    ]
+  }
+]

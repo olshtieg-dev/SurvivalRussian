@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-RAZMER",
+    "label": "Размер",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for размер (size; amount).",
+    "missions": [
+      {
+        "id": "NN-WORK-RAZMER-01",
+        "phrase": "Этот размер мне подходит.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Размер' stays in the nominative as the subject of 'подходит'. 'Этот' points at a specific size, and 'мне' is the dative experiencer."
+      },
+      {
+        "id": "NN-WORK-RAZMER-02",
+        "phrase": "Я знаю свой размер обуви.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Размер' is the inanimate masculine accusative object of 'знаю', identical to the nominative. 'Обуви' is a genitive modifier."
+      },
+      {
+        "id": "NN-WORK-RAZMER-03",
+        "phrase": "У меня нет нужного размера.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Размера' is the genitive after 'нет', marking what is missing. 'Нужного' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-WORK-RAZMER-04",
+        "phrase": "Цена зависит от размера квартиры.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Размера' is the genitive after 'от', the factor on which the price depends. 'Квартиры' is a further genitive modifier."
+      },
+      {
+        "id": "NN-WORK-RAZMER-05",
+        "phrase": "Цена соответствует размеру скидки.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Размеру' is the dative required by 'соответствует', the standard matched. 'Скидки' is a genitive modifier naming the discount."
+      },
+      {
+        "id": "NN-WORK-RAZMER-06",
+        "phrase": "Мы говорим о размере зарплаты.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О размере' uses the prepositional form 'размере' after 'о' to mark the topic of discussion."
+      },
+      {
+        "id": "NN-WORK-RAZMER-07",
+        "phrase": "Коробка маленькая по размеру.",
+        "fullAnalysis": "Strategic focus: Dative of respect. 'По размеру' uses the dative 'размеру' after 'по' to specify in what respect the box is small."
+      },
+      {
+        "id": "NN-WORK-RAZMER-08",
+        "phrase": "Платье шьют точно по размеру.",
+        "fullAnalysis": "Strategic focus: Dative with 'по'. 'По размеру' uses the dative to mean made to measure. 'Точно' reinforces the precise fit."
+      },
+      {
+        "id": "NN-WORK-RAZMER-09",
+        "phrase": "В магазине есть все размеры.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Размеры' is the nominative plural in the existence frame 'есть'. 'Все' agrees with it, and 'в магазине' gives the location."
+      },
+      {
+        "id": "NN-WORK-RAZMER-10",
+        "phrase": "Мы измерили размеры комнаты точно.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Размеры' is the inanimate accusative plural object of 'измерили', matching the nominative plural. 'Комнаты' is a genitive modifier."
+      }
+    ]
+  }
+]

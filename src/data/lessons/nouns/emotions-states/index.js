@@ -1,14 +1,19 @@
 import bolSet from './bol.json';
 import boleznSet from './bolezn.json';
+import krasotaSet from './krasota.json';
 import lechenieSet from './lechenie.json';
 import lyubovSet from './lyubov.json';
+import nastroenieSet from './nastroenie.json';
 import oshchushchenieSet from './oshchushchenie.json';
+import pokoiSet from './pokoi.json';
 import radostSet from './radost.json';
 import schasteSet from './schaste.json';
 import slezaSet from './sleza.json';
 import smertSet from './smert.json';
+import somnenieSet from './somnenie.json';
 import sonSet from './son.json';
 import sostoyanieSet from './sostoyanie.json';
+import sozhalenieSet from './sozhalenie.json';
 import strakhSet from './strakh.json';
 import temnotaSet from './temnota.json';
 import tenSet from './ten.json';
@@ -27,15 +32,20 @@ export const emotionsNounsFolderId = 'nouns-emotions-states';
 const emotionsNounsData = [
   ...bolSet,
   ...boleznSet,
+  ...krasotaSet,
   ...lechenieSet,
   ...lyubovSet,
+  ...nastroenieSet,
   ...oshchushchenieSet,
+  ...pokoiSet,
   ...radostSet,
   ...schasteSet,
   ...slezaSet,
   ...smertSet,
+  ...somnenieSet,
   ...sonSet,
   ...sostoyanieSet,
+  ...sozhalenieSet,
   ...strakhSet,
   ...temnotaSet,
   ...tenSet,

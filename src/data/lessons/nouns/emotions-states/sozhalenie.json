@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SOZHALENIE",
+    "label": "Сожаление",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for сожаление (regret).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SOZHALENIE-01",
+        "phrase": "Его сожаление было искренним.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сожаление' is in the nominative as the subject. 'Его' marks whose regret it is, and 'искренним' is an instrumental predicate after 'было'. A clean descriptive model."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-02",
+        "phrase": "Я чувствую сильное сожаление.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сожаление' is the accusative direct object of 'чувствую'. As a neuter noun the accusative matches the nominative. 'Сильное' agrees in the neuter accusative. A natural emotional statement."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-03",
+        "phrase": "В его словах нет сожаления.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Сожаления' is in the genitive after 'нет', which demands it. 'В его словах' gives the location. A standard pattern for absence of feeling."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-04",
+        "phrase": "Это привело к глубокому сожалению.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Сожалению' is in the dative after 'к', marking the result. 'Глубокому' agrees in the neuter dative. A useful pattern for consequences."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-05",
+        "phrase": "Он смотрел на фото с сожалением.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Сожалением' is in the instrumental after 'с', expressing the manner of looking. 'На фото' marks the object of his gaze. A vivid emotional scene."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-06",
+        "phrase": "Он говорил о своём сожалении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Сожалении' is in the prepositional after 'о', expressing the topic. 'Своём' agrees in the neuter prepositional. A natural confessional pattern."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-07",
+        "phrase": "К сожалению, я не смогу прийти.",
+        "fullAnalysis": "Strategic focus: Dative in a set phrase. 'Сожалению' is in the dative within the fixed phrase 'к сожалению', meaning unfortunately. The main clause states the bad news. A very common spoken expression."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-08",
+        "phrase": "Поздние сожаления уже бесполезны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сожаления' is the nominative plural subject. 'Поздние' agrees in the plural and 'бесполезны' is the short-form predicate. A reflective model for plural subjects."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-09",
+        "phrase": "Жизнь без сожалений почти невозможна.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'без'. 'Сожалений' is in the genitive plural after the preposition 'без', meaning without regrets. 'Жизнь невозможна' frames the thought. A philosophical remark."
+      },
+      {
+        "id": "NN-EMOTION-SOZHALENIE-10",
+        "phrase": "Сожаление не изменит прошлое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сожаление' is the nominative subject of 'изменит'. 'Прошлое' is the accusative object, and 'не' negates the verb. A thoughtful, reusable sentence."
+      }
+    ]
+  }
+]

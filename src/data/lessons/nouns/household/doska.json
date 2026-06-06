@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-DOSKA",
+    "label": "Доска",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for доска (board).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-01",
+        "phrase": "Эта доска совсем старая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Доска' stays in the nominative as the subject. 'Эта' points at it and 'старая' is the agreeing feminine adjective. A clean model for describing an object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-02",
+        "phrase": "Учитель пишет мелом на доске.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На доске' uses the prepositional form 'доске' after 'на' to mark the surface. 'Мелом' is instrumental, the tool of writing. A typical classroom scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-03",
+        "phrase": "Я повесил картину на доску.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Доску' is accusative after 'на' showing motion onto a surface. 'Картину' is the accusative object of 'повесил'. Useful for describing where something is placed."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-04",
+        "phrase": "На кухне нет разделочной доски.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Доски' is genitive after 'нет' to express that something is missing. 'Разделочной' agrees in the feminine genitive. A common everyday complaint."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-05",
+        "phrase": "Мы купили новую гладильную доску.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Доску' is the accusative direct object of 'купили'. 'Новую' and 'гладильную' agree in the feminine accusative. A practical shopping sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-06",
+        "phrase": "Подойди ближе к доске, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К доске' uses the dative form 'доске' after 'к' to mark approach. 'Ближе' adds the comparative, and 'пожалуйста' softens the request. A typical classroom instruction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-07",
+        "phrase": "Этот стол сделан из доски.",
+        "fullAnalysis": "Strategic focus: Genitive of material. 'Доски' is genitive after 'из' to express what something is made from. 'Сделан' is the short passive form. Useful for describing how things are built."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-08",
+        "phrase": "Он работает с деревянной доской.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Доской' is instrumental after 'с' to mark what he works with. 'Деревянной' agrees in the feminine instrumental. A natural workshop phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-09",
+        "phrase": "В сарае лежат старые доски.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Доски' is the nominative plural subject of 'лежат'. 'Старые' agrees in the plural, and 'в сарае' is prepositional location. Good for plural practice."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DOSKA-10",
+        "phrase": "Нам нужно купить несколько досок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Досок' is the genitive plural required after 'несколько', showing the fleeting vowel in the stem. A useful pattern for counting materials."
+      }
+    ]
+  }
+]

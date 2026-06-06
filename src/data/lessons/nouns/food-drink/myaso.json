@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-MYASO",
+    "label": "Мясо",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for мясо (meat).",
+    "missions": [
+      {
+        "id": "NN-FOOD-MYASO-01",
+        "phrase": "Мясо лежит в холодильнике.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мясо' is the neuter nominative subject of 'лежит'. 'В холодильнике' uses the prepositional to show location."
+      },
+      {
+        "id": "NN-FOOD-MYASO-02",
+        "phrase": "Я жарю мясо на сковороде.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мясо' is the inanimate neuter accusative object of 'жарю', identical to the nominative. 'На сковороде' is prepositional of location."
+      },
+      {
+        "id": "NN-FOOD-MYASO-03",
+        "phrase": "В супе совсем нет мяса.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Мяса' takes the genitive after 'нет' to express absence. 'В супе' is prepositional, and 'совсем' intensifies."
+      },
+      {
+        "id": "NN-FOOD-MYASO-04",
+        "phrase": "Кот обрадовался свежему мясу.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Мясу' is the dative governed by 'обрадовался', which takes a dative complement. 'Свежему' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-FOOD-MYASO-05",
+        "phrase": "Он недоволен жёстким мясом.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Мясом' is the instrumental required by 'недоволен'. 'Жёстким' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-FOOD-MYASO-06",
+        "phrase": "В этом мясе много жира.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В мясе' uses the prepositional after 'в' to locate the content. 'Жира' is genitive after the quantity word 'много'."
+      },
+      {
+        "id": "NN-FOOD-MYASO-07",
+        "phrase": "Мы купили килограмм мяса.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Мяса' takes the genitive after the measure word 'килограмм'. 'Мы купили' is the subject and verb in the past."
+      },
+      {
+        "id": "NN-FOOD-MYASO-08",
+        "phrase": "Это очень вкусное мясо.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Мясо' is nominative as the predicate noun. 'Вкусное' is the agreeing neuter adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-FOOD-MYASO-09",
+        "phrase": "На рынке продают разные мяса.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Мяса' is the inanimate neuter accusative plural object of 'продают', here meaning kinds of meat. 'Разные' agrees in the plural."
+      },
+      {
+        "id": "NN-FOOD-MYASO-10",
+        "phrase": "Без мяса этот суп невкусный.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Без мяса' uses the genitive after 'без' to express absence. 'Суп' is the nominative subject, and 'невкусный' agrees with it."
+      }
+    ]
+  }
+]

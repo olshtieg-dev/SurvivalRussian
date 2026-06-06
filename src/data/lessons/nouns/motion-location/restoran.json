@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-RESTORAN",
+    "label": "Ресторан",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for ресторан (restaurant).",
+    "missions": [
+      {
+        "id": "NN-MOTION-RESTORAN-01",
+        "phrase": "На углу открылся новый ресторан.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ресторан' is the nominative subject of 'открылся'. 'Новый' is the agreeing masculine adjective. A natural way to announce a new place."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-02",
+        "phrase": "Мы выбрали хороший ресторан.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Ресторан' is the accusative object of 'выбрали'; as a masculine inanimate noun it matches the nominative. 'Хороший' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-03",
+        "phrase": "Рядом с домом нет ресторана.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Ресторана' is the genitive form required after 'нет'. The phrase 'рядом с домом' sets the location. A clean model for saying something is absent."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-04",
+        "phrase": "Мы идём в ресторан вечером.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В ресторан' uses the accusative after 'в' to express motion toward a destination. 'Вечером' gives the time. The core go-somewhere pattern."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-05",
+        "phrase": "Мы пообедали в дорогом ресторане.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В ресторане' uses the prepositional 'ресторане' after 'в' to mark location, not motion. 'Дорогом' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-06",
+        "phrase": "Он работает поваром в ресторане.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В ресторане' marks where he works. 'Поваром' is the instrumental naming his role with 'работать'. A frequent workplace pattern."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-07",
+        "phrase": "Они довольны новым рестораном.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Рестораном' is the instrumental governed by 'довольны'. 'Новым' agrees in the masculine instrumental. A natural way to express satisfaction."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-08",
+        "phrase": "В городе много хороших ресторанов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Ресторанов' is the genitive plural required after 'много'. 'Хороших' is the agreeing plural genitive adjective. Good for talking about quantity."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-09",
+        "phrase": "Эти рестораны очень популярны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Рестораны' is the nominative plural, the subject of the sentence. 'Эти' agrees in the plural and 'популярны' is a short-form predicate adjective."
+      },
+      {
+        "id": "NN-MOTION-RESTORAN-10",
+        "phrase": "Мы вышли из ресторана поздно.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из ресторана' uses the genitive after 'из' to express motion out of a place. 'Поздно' gives the time. The natural counterpart to 'в ресторан'."
+      }
+    ]
+  }
+]

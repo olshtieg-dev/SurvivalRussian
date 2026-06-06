@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-PROTIVNIK",
+    "label": "Противник",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for противник (opponent).",
+    "missions": [
+      {
+        "id": "NN-STATE-PROTIVNIK-01",
+        "phrase": "Это очень сильный противник.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Противник' stays in the nominative as the subject. 'Сильный' is the agreeing masculine adjective, and 'очень' intensifies the assessment."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-02",
+        "phrase": "Команда победила опасного противника.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Противника' takes the genitive-shaped accusative because 'противник' is animate masculine, as the object of 'победила'. 'Опасного' agrees in the same form."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-03",
+        "phrase": "У нас нет серьёзного противника.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Противника' takes the genitive after 'нет', stating that no serious opponent exists. 'Серьёзного' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-04",
+        "phrase": "Игрок проиграл этому противнику.",
+        "fullAnalysis": "Strategic focus: Dative after the verb. 'Противнику' is in the dative because 'проиграть' governs the dative for whom one loses to. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-05",
+        "phrase": "Боксёр встретился с новым противником.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Противником' is in the instrumental after 'с', marking the opponent of the meeting. 'Новым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-06",
+        "phrase": "Мы много знаем о противнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Противнике' takes the prepositional form after 'о', the topic of our knowledge. 'Много' adds the extent."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-07",
+        "phrase": "Наши противники уже готовы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Противники' is the nominative plural subject. 'Наши' agrees in the plural, and 'готовы' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-08",
+        "phrase": "Тренер изучил планы противников.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Противников' takes the genitive plural after 'планы', expressing whose plans they are. 'Изучил' names the completed study."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-09",
+        "phrase": "Армия разбила всех противников.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Противников' takes the genitive-shaped accusative plural because opponents are animate, as the object of 'разбила'. 'Всех' agrees in the same form."
+      },
+      {
+        "id": "NN-STATE-PROTIVNIK-10",
+        "phrase": "Противник отступил без боя.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Противник' is the nominative subject of 'отступил'. 'Без боя' uses the genitive to describe a retreat without a fight."
+      }
+    ]
+  }
+]

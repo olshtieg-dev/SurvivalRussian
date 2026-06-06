@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-PIVO",
+    "label": "Пиво",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for пиво (beer).",
+    "missions": [
+      {
+        "id": "NN-FOOD-PIVO-01",
+        "phrase": "Это пиво очень холодное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пиво' is in the nominative as the subject. 'Это' points at a specific glass, 'холодное' is the agreeing neuter adjective, and 'очень' intensifies. A clean descriptive model."
+      },
+      {
+        "id": "NN-FOOD-PIVO-02",
+        "phrase": "Я заказал тёмное пиво.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пиво' is the accusative direct object of 'заказал'. As a neuter noun the accusative matches the nominative. 'Тёмное' agrees in the neuter accusative. A common bar order."
+      },
+      {
+        "id": "NN-FOOD-PIVO-03",
+        "phrase": "В холодильнике нет пива.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Пива' is in the genitive after 'нет', which demands it. 'В холодильнике' gives the location. A standard way to say something has run out."
+      },
+      {
+        "id": "NN-FOOD-PIVO-04",
+        "phrase": "Он добавил соль к пиву.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Пиву' is in the dative after the preposition 'к', marking what the salt was added to. 'Соль' is the accusative object. A simple action with food."
+      },
+      {
+        "id": "NN-FOOD-PIVO-05",
+        "phrase": "Он пришёл с холодным пивом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Пивом' is in the instrumental after 'с', marking what he came with. 'Холодным' agrees in the neuter instrumental. A natural arrival scene."
+      },
+      {
+        "id": "NN-FOOD-PIVO-06",
+        "phrase": "В этом пиве слишком много пены.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Пиве' is in the prepositional after 'в', marking where the foam is. 'Много пены' is the quantified subject. Useful for describing a drink."
+      },
+      {
+        "id": "NN-FOOD-PIVO-07",
+        "phrase": "Я выпил два бокала пива.",
+        "fullAnalysis": "Strategic focus: Genitive after a measure. 'Пива' is in the genitive after 'бокала', expressing the contents of the glass. 'Два бокала' counts the measure. A common quantity pattern."
+      },
+      {
+        "id": "NN-FOOD-PIVO-08",
+        "phrase": "Здесь продаются разные сорта пива.",
+        "fullAnalysis": "Strategic focus: Genitive with 'сорта'. 'Пива' is in the genitive after 'сорта', specifying the kinds. 'Разные сорта' is the nominative plural subject of 'продаются'. Useful in a shop."
+      },
+      {
+        "id": "NN-FOOD-PIVO-09",
+        "phrase": "Мы говорили о новом пиве.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Пиве' is in the prepositional after 'о', expressing the topic of conversation. 'Новом' agrees in the neuter prepositional. A natural discussion pattern."
+      },
+      {
+        "id": "NN-FOOD-PIVO-10",
+        "phrase": "Без пива праздник скучный.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Пива' is in the genitive after the preposition 'без', meaning without beer. 'Праздник скучный' is the nominative subject with predicate. A playful conditional remark."
+      }
+    ]
+  }
+]

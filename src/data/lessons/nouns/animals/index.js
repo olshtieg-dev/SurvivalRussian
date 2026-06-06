@@ -1,14 +1,24 @@
+import bykSet from './byk.json';
 import konSet from './kon.json';
+import koshkaSet from './koshka.json';
+import kotSet from './kot.json';
 import loshadSet from './loshad.json';
 import ptitsaSet from './ptitsa.json';
 import sobakaSet from './sobaka.json';
+import volkSet from './volk.json';
+import zverSet from './zver.json';
 
 export const animalsNounsFolderId = 'nouns-animals';
 const animalsNounsData = [
+  ...bykSet,
   ...konSet,
+  ...koshkaSet,
+  ...kotSet,
   ...loshadSet,
   ...ptitsaSet,
   ...sobakaSet,
+  ...volkSet,
+  ...zverSet,
 ];
 
 export const animalsNounsFolder = {

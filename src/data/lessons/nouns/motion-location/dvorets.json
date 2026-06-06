@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-DVORETS",
+    "label": "Дворец",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for дворец (palace).",
+    "missions": [
+      {
+        "id": "NN-MOTION-DVORETS-01",
+        "phrase": "Этот дворец очень старый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дворец' is the nominative subject, keeping its fleeting vowel 'е'. 'Этот' and 'старый' are the agreeing masculine forms. A clean descriptive model."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-02",
+        "phrase": "Туристы фотографируют красивый дворец.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Дворец' is the accusative object; as an inanimate masculine noun it keeps the nominative shape. 'Красивый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-03",
+        "phrase": "Возле дворца красивый сад.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Дворца' is the genitive after 'возле'; the fleeting vowel 'е' drops in every case but the nominative singular. A core declension point."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-04",
+        "phrase": "Мы подошли к старому дворцу.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Дворцу' is the dative after 'к', and the fleeting vowel again drops. 'Старому' is the agreeing masculine dative adjective. Marks approach toward a goal."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-05",
+        "phrase": "Дети гуляли в большом дворце.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Во дворце' uses the prepositional 'дворце' after 'в' to mark location. 'Большом' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-06",
+        "phrase": "Все восхищаются этим дворцом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Дворцом' is the instrumental governed by 'восхищаться'. 'Этим' agrees in the masculine instrumental. The fleeting vowel stays dropped here too."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-07",
+        "phrase": "Мы идём во дворец на экскурсию.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Во дворец' uses the accusative after 'в' to express motion toward the building; 'во' appears before the consonant cluster. A go-somewhere pattern."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-08",
+        "phrase": "В этом городе много дворцов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Дворцов' is the genitive plural required after 'много'. The plural stem keeps the dropped vowel and takes the ending '-ов'. Useful for quantity."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-09",
+        "phrase": "Старинные дворцы привлекают туристов.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Дворцы' is the nominative plural, the subject of 'привлекают'. 'Старинные' is the agreeing plural adjective. Note the consonant before '-ы'."
+      },
+      {
+        "id": "NN-MOTION-DVORETS-10",
+        "phrase": "Мы вышли из дворца вечером.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из дворца' uses the genitive after 'из' to express motion out of the place; the fleeting vowel drops. The natural counterpart to 'во дворец'."
+      }
+    ]
+  }
+]

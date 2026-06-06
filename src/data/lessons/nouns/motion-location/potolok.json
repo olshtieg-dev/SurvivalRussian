@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-POTOLOK",
+    "label": "Потолок",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for потолок (ceiling).",
+    "missions": [
+      {
+        "id": "NN-MOTION-POTOLOK-01",
+        "phrase": "В этой комнате высокий потолок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Потолок' stays in the nominative as the subject. 'Высокий' is the agreeing masculine adjective, and 'в этой комнате' locates it. A clean way to describe a room."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-02",
+        "phrase": "Мы покрасили потолок в белый цвет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Потолок' is inanimate masculine, so the accusative equals the nominative form. 'Покрасили' takes it as the direct object. Useful for renovation talk."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-03",
+        "phrase": "С потолка капает вода.",
+        "fullAnalysis": "Strategic focus: Genitive of source. Note the fleeting vowel: 'потолок' drops the second 'о' to give 'потолка' after 'с', marking the source of motion. 'Капает' describes the dripping. A vivid leak scenario."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-04",
+        "phrase": "Лампа висит на потолке.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. The fleeting vowel drops in 'потолке' after 'на' to mark location. 'Висит' describes the hanging position. The standard way to say where a lamp is."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-05",
+        "phrase": "Он смотрит на потолок и думает.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На потолок' uses the accusative after 'на' to mark the direction of the gaze. 'Смотрит' governs this pattern. A natural way to describe daydreaming."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-06",
+        "phrase": "Под потолком летает большая муха.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Под потолком' uses the instrumental form 'потолком' after 'под' to mean beneath the ceiling. 'Летает' describes the movement below it."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-07",
+        "phrase": "На потолке появилась большая трещина.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На потолке' again marks location after 'на', with the fleeting vowel dropped. 'Появилась' agrees with the feminine subject 'трещина'. Practical for describing damage."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-08",
+        "phrase": "В старых домах низкие потолки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Потолки' is the nominative plural subject. 'Низкие' agrees in the plural, and 'в старых домах' sets the context. A useful generalisation."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-09",
+        "phrase": "Мне нравятся высокие потолки.",
+        "fullAnalysis": "Strategic focus: Nominative plural with dative experiencer. 'Потолки' is the nominative plural subject of 'нравятся'. 'Мне' is the dative experiencer, and 'высокие' agrees in the plural. Highly reusable for preferences."
+      },
+      {
+        "id": "NN-MOTION-POTOLOK-10",
+        "phrase": "До потолка я не могу достать.",
+        "fullAnalysis": "Strategic focus: Genitive of limit. 'Потолка' takes the genitive after 'до' to mark the point one cannot reach. The fleeting vowel drops again. A natural everyday complaint."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-MIG",
+    "label": "Миг",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for миг (instant).",
+    "missions": [
+      {
+        "id": "NN-TIME-MIG-01",
+        "phrase": "Это был счастливый миг.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Миг' is masculine and stays in the nominative as the predicate noun after 'был'. 'Счастливый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-TIME-MIG-02",
+        "phrase": "Я запомнил этот короткий миг.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Миг' is inanimate, so its accusative matches the nominative as the object of 'запомнил'. 'Этот' and 'короткий' agree in the masculine accusative."
+      },
+      {
+        "id": "NN-TIME-MIG-03",
+        "phrase": "Не теряй ни мига времени.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Мига' is the genitive form after the negated 'не теряй' reinforced by 'ни'. 'Времени' is the genitive complement of measure."
+      },
+      {
+        "id": "NN-TIME-MIG-04",
+        "phrase": "К этому мигу все устали.",
+        "fullAnalysis": "Strategic focus: Dative of time point. 'Мигу' takes the dative after 'к', marking the moment by which everyone tired. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TIME-MIG-05",
+        "phrase": "Одним мигом всё изменилось.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Мигом' takes the instrumental to mean in an instant. 'Одним' agrees in the masculine instrumental, stressing the speed of the change."
+      },
+      {
+        "id": "NN-TIME-MIG-06",
+        "phrase": "В этом миге была вся радость.",
+        "fullAnalysis": "Strategic focus: Prepositional of location in time. 'Миге' takes the prepositional after 'в', placing the joy within the moment. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-TIME-MIG-07",
+        "phrase": "Счастье длилось всего один миг.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Миг' is the inanimate accusative measuring how long the happiness lasted. 'Один' agrees in the masculine accusative, and 'всего' stresses brevity."
+      },
+      {
+        "id": "NN-TIME-MIG-08",
+        "phrase": "Эти миги быстро пролетели.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Миги' is the nominative plural subject of 'пролетели'. 'Эти' agrees in the plural, and 'быстро' describes the fleeting time."
+      },
+      {
+        "id": "NN-TIME-MIG-09",
+        "phrase": "Из таких мигов состоит жизнь.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Мигов' is the genitive plural after 'из', describing what life is made of. 'Таких' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-TIME-MIG-10",
+        "phrase": "Через миг поезд тронулся.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Миг' takes the accusative after 'через' to mean after a moment. The inanimate form matches the nominative, and 'тронулся' starts the motion."
+      }
+    ]
+  }
+]

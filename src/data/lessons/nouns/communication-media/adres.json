@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-ADRES",
+    "label": "Адрес",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for адрес (address).",
+    "missions": [
+      {
+        "id": "NN-COMMS-ADRES-01",
+        "phrase": "Это мой новый адрес.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Адрес' is a masculine noun staying in the nominative as the predicate noun. 'Новый' is the agreeing masculine adjective, and 'мой' shows possession."
+      },
+      {
+        "id": "NN-COMMS-ADRES-02",
+        "phrase": "Напиши мне свой адрес, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Адрес' is the accusative direct object of 'напиши', identical to the nominative for this inanimate masculine noun. 'Свой' agrees, and 'мне' is the dative recipient."
+      },
+      {
+        "id": "NN-COMMS-ADRES-03",
+        "phrase": "У меня нет твоего адреса.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Адреса' takes the genitive after 'нет' to express that none is known. 'Твоего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-COMMS-ADRES-04",
+        "phrase": "Письмо пришло по старому адресу.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Адресу' takes the dative after 'по' to mean sent to that address. 'Старому' agrees in the masculine dative, and 'письмо' is the subject."
+      },
+      {
+        "id": "NN-COMMS-ADRES-05",
+        "phrase": "Курьер ошибся с адресом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Адресом' is the instrumental after 'с' to mean made a mistake with the address. 'Курьер' is the nominative subject of 'ошибся'."
+      },
+      {
+        "id": "NN-COMMS-ADRES-06",
+        "phrase": "Мы спорили о точном адресе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Адресе' is the prepositional after 'о' to express the topic. 'Точном' agrees in the masculine prepositional, and 'спорили' introduces the dispute."
+      },
+      {
+        "id": "NN-COMMS-ADRES-07",
+        "phrase": "В блокноте записаны разные адреса.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Адреса' is the nominative plural subject, taking the stressed -а ending typical of this masculine noun. 'Разные' agrees, and 'в блокноте' gives the location."
+      },
+      {
+        "id": "NN-COMMS-ADRES-08",
+        "phrase": "Она знает много полезных адресов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Адресов' is the genitive plural after 'много', taking the -ов ending for masculine nouns. 'Полезных' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-ADRES-09",
+        "phrase": "Я отправил посылку на этот адрес.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Адрес' is the accusative after 'на' to show where the parcel was sent. 'Этот' agrees, and 'посылку' is the accusative object."
+      },
+      {
+        "id": "NN-COMMS-ADRES-10",
+        "phrase": "Адрес написан очень неразборчиво.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Адрес' is nominative as the subject of the short passive 'написан'. 'Неразборчиво' is an adverb describing how it is written."
+      }
+    ]
+  }
+]

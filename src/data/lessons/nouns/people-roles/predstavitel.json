@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PREDSTAVITEL",
+    "label": "Представитель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for представитель (representative).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-01",
+        "phrase": "Это наш новый представитель.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Представитель' is the nominative subject, a soft-stem masculine noun. 'Новый' is the agreeing masculine adjective. A clean model for introducing someone."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-02",
+        "phrase": "Мы пригласили нового представителя.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Представителя' takes the genitive-like ending because it is animate masculine. 'Нового' likewise agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-03",
+        "phrase": "У представителя есть важный документ.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Представителя' is the genitive after 'у' to show who has something. The soft stem ends in '-я'. A core possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-04",
+        "phrase": "Мы обратились к представителю компании.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Представителю' is the dative after 'к', the person addressed. 'Компании' is the genitive showing whom he represents. A natural business pattern."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-05",
+        "phrase": "Директор встретился с представителем.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Представителем' is the instrumental after 'с', marking the person met with. A frequent verb-plus-preposition construction in meetings."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-06",
+        "phrase": "В представителе чувствуется уверенность.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В представителе' uses the prepositional after 'в' to locate a quality within the person. The soft stem takes the ending '-е'."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-07",
+        "phrase": "Представители встретились в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Представители' is the nominative plural, the subject of 'встретились'. The soft-stem masculine plural ends in '-и'. Good for the plural form."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-08",
+        "phrase": "На встрече было много представителей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Представителей' is the genitive plural required after 'много'; soft-stem animate masculines end in '-ей'. A common quantity construction."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-09",
+        "phrase": "Журналисты ждут официальных представителей.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate nouns. 'Представителей' matches the genitive plural because the noun is animate. 'Официальных' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-PEOPLE-PREDSTAVITEL-10",
+        "phrase": "Этот представитель отвечает за продажи.",
+        "fullAnalysis": "Strategic focus: Nominative subject with role. 'Представитель' is the nominative subject of 'отвечает'. 'Этот' agrees in the masculine, and 'за продажи' names his responsibility."
+      }
+    ]
+  }
+]

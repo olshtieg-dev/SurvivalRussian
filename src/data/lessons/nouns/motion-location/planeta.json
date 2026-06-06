@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PLANETA",
+    "label": "Планета",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for планета (planet).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PLANETA-01",
+        "phrase": "Наша планета очень красивая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Планета' stays in the nominative as the subject. 'Красивая' is the agreeing feminine adjective, and 'наша' is the feminine possessive."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-02",
+        "phrase": "Учёные изучают далёкую планету.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Планету' is the accusative direct object of 'изучают'. The feminine ending shifts to -у, and 'далёкую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-03",
+        "phrase": "На нашей планете живут люди.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Планете' is the prepositional after 'на' to show where people live. 'Нашей' agrees in the feminine prepositional, and 'люди' is the subject."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-04",
+        "phrase": "Спутник летит к красной планете.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Планете' takes the dative after 'к' to show motion toward. 'Красной' agrees in the feminine dative, and 'спутник' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-05",
+        "phrase": "У этой планеты есть кольца.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Планеты' takes the genitive after 'у' to show whose rings they are. 'Этой' agrees in the feminine genitive, and 'кольца' is the subject."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-06",
+        "phrase": "Космонавт любуется голубой планетой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Планетой' is the instrumental after 'любуется', which governs that case. 'Голубой' agrees in the feminine instrumental, and 'космонавт' is the subject."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-07",
+        "phrase": "В небе видно много планет.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Планет' is the genitive plural with zero ending after 'много'. 'В небе' gives the location, and 'видно' is the impersonal predicate."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-08",
+        "phrase": "Дети рисуют разные планеты.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Планеты' is the accusative plural object of 'рисуют', identical to the nominative plural for inanimate nouns. 'Разные' agrees in the plural."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-09",
+        "phrase": "Мы говорим о далёкой планете.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Планете' is the prepositional after 'о' to express the topic. 'Далёкой' agrees in the feminine prepositional, and 'говорим' introduces discussion."
+      },
+      {
+        "id": "NN-MOTION-PLANETA-10",
+        "phrase": "Эта планета намного больше Земли.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Планета' stays nominative as the subject. 'Намного больше' gives the comparison, and 'Земли' takes the genitive after the comparative."
+      }
+    ]
+  }
+]

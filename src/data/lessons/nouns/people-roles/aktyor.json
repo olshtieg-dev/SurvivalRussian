@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-AKTYOR",
+    "label": "Актёр",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for актёр (actor).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-AKTYOR-01",
+        "phrase": "Этот актёр очень талантливый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Актёр' is an animate masculine noun staying in the nominative as the subject. 'Талантливый' is the agreeing masculine adjective, reinforced by 'очень'."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-02",
+        "phrase": "Зрители любят молодого актёра.",
+        "fullAnalysis": "Strategic focus: Accusative equals genitive. 'Актёра' is the accusative direct object of 'любят', taking the genitive form because the noun is animate masculine. 'Молодого' agrees in the same ending."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-03",
+        "phrase": "У известного актёра много поклонников.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Актёра' takes the genitive after 'у' to show whose fans they are. 'Известного' agrees in the masculine genitive, and 'поклонников' is genitive plural."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-04",
+        "phrase": "Журналист задал вопрос актёру.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Актёру' takes the dative as the person the question is addressed to. 'Журналист' is the nominative subject, and 'вопрос' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-05",
+        "phrase": "Она восхищается этим актёром.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Актёром' is the instrumental after 'восхищается', which governs that case. 'Этим' agrees in the masculine instrumental, pointing at a specific one."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-06",
+        "phrase": "Мы говорили о любимом актёре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Актёре' is the prepositional after 'о' to express the topic. 'Любимом' agrees in the masculine prepositional, and 'говорили' introduces discussion."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-07",
+        "phrase": "На сцене играют известные актёры.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Актёры' is the nominative plural subject of 'играют', taking the regular -ы ending. 'Известные' agrees, and 'на сцене' gives the location."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-08",
+        "phrase": "Режиссёр выбрал хороших актёров.",
+        "fullAnalysis": "Strategic focus: Accusative plural equals genitive. 'Актёров' is the accusative plural object of 'выбрал', taking the genitive plural form for animate nouns. 'Хороших' agrees in the same ending."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-09",
+        "phrase": "В театре работает много актёров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Актёров' is the genitive plural after 'много', taking the -ов ending for masculine nouns. 'В театре' gives the location."
+      },
+      {
+        "id": "NN-PEOPLE-AKTYOR-10",
+        "phrase": "Я подарил цветы актёру после спектакля.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Актёру' takes the dative as the person receiving the flowers. 'Цветы' is the accusative object, and 'после спектакля' uses the genitive."
+      }
+    ]
+  }
+]

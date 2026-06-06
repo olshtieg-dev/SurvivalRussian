@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-DYKHANIE",
+    "label": "Дыхание",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for дыхание (breathing).",
+    "missions": [
+      {
+        "id": "NN-BODY-DYKHANIE-01",
+        "phrase": "Его дыхание было спокойным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дыхание' is the neuter nominative subject of 'было'. 'Спокойным' is the instrumental predicate adjective common after the past tense of быть."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-02",
+        "phrase": "Врач слушал дыхание пациента.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дыхание' is the inanimate neuter accusative object of 'слушал', identical to the nominative. 'Пациента' is the genitive of possession."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-03",
+        "phrase": "У старика не было дыхания.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Дыхания' takes the genitive after the negative 'не было' to express absence. 'У старика' marks the possessor in the genitive."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-04",
+        "phrase": "Благодаря дыханию он успокоился.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Благодаря дыханию' uses the dative after 'благодаря' to show the cause. 'Успокоился' is the reflexive past verb."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-05",
+        "phrase": "Она следит за дыханием во сне.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'За дыханием' uses the instrumental after 'за' with 'следить' to mean monitoring. 'Во сне' shows the circumstance."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-06",
+        "phrase": "В дыхании чувствовалась усталость.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В дыхании' uses the prepositional after 'в' to locate the perceived quality. 'Усталость' is the nominative subject."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-07",
+        "phrase": "После бега дыхание стало быстрым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дыхание' is the nominative subject of 'стало'. 'Быстрым' is the instrumental predicate after 'стать', and 'после бега' is genitive of time."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-08",
+        "phrase": "Глубокое дыхание помогает расслабиться.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дыхание' is the neuter nominative subject of 'помогает'. 'Глубокое' is the agreeing neuter adjective, and 'расслабиться' is the infinitive."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-09",
+        "phrase": "Тренер показал разные дыхания спортсменам.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Дыхания' is the inanimate neuter accusative plural object of 'показал'. 'Разные' agrees in the plural, and 'спортсменам' is dative."
+      },
+      {
+        "id": "NN-BODY-DYKHANIE-10",
+        "phrase": "Его ровное дыхание успокаивало меня.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дыхание' is the nominative subject of 'успокаивало', which agrees in the neuter. 'Ровное' is the agreeing neuter adjective."
+      }
+    ]
+  }
+]

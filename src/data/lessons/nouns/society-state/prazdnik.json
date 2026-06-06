@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-PRAZDNIK",
+    "label": "Праздник",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for праздник (holiday).",
+    "missions": [
+      {
+        "id": "NN-STATE-PRAZDNIK-01",
+        "phrase": "Завтра большой народный праздник.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Праздник' is a masculine noun staying in the nominative as the predicate. 'Большой' and 'народный' are the agreeing masculine adjectives, and 'завтра' sets the time."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-02",
+        "phrase": "Мы весело отмечаем праздник.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Праздник' is the accusative direct object of 'отмечаем', identical to the nominative for this inanimate masculine noun. 'Весело' describes the manner."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-03",
+        "phrase": "До праздника осталось три дня.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Праздника' takes the genitive after 'до' to mean before the holiday. 'Три дня' is the time phrase, and 'осталось' is the impersonal predicate."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-04",
+        "phrase": "Все готовятся к большому празднику.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Празднику' takes the dative after 'к' to mean preparing for. 'Большому' agrees in the masculine dative, and 'все' is the subject."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-05",
+        "phrase": "Дети довольны весёлым праздником.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Праздником' is the instrumental after 'довольны'. 'Весёлым' agrees in the masculine instrumental, and 'дети' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-06",
+        "phrase": "На празднике было много гостей.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Празднике' is the prepositional after 'на' to show where it happened. 'Гостей' is genitive plural after 'много', and 'было' is the impersonal predicate."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-07",
+        "phrase": "Зимой бывают весёлые праздники.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Праздники' is the nominative plural subject of 'бывают', taking the -и ending after the stem in -к. 'Весёлые' agrees, and 'зимой' sets the season."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-08",
+        "phrase": "В году много государственных праздников.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Праздников' is the genitive plural after 'много', taking the -ов ending. 'Государственных' agrees in the plural, and 'в году' gives the frame."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-09",
+        "phrase": "Мы говорим о любимом празднике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Празднике' is the prepositional after 'о' to express the topic. 'Любимом' agrees in the masculine prepositional, and 'говорим' introduces discussion."
+      },
+      {
+        "id": "NN-STATE-PRAZDNIK-10",
+        "phrase": "Этот праздник очень важный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Праздник' is nominative as the subject. 'Важный' is the agreeing masculine adjective, reinforced by 'очень'. A clean descriptive model."
+      }
+    ]
+  }
+]

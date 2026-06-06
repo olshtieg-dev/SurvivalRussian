@@ -3,6 +3,8 @@ import denSet from './den.json';
 import godSet from './god.json';
 import letoSet from './leto.json';
 import mesyatsSet from './mesyats.json';
+import mgnovenieSet from './mgnovenie.json';
+import migSet from './mig.json';
 import minutaSet from './minuta.json';
 import nedelyaSet from './nedelya.json';
 import nochSet from './noch.json';
@@ -23,6 +25,8 @@ const timeUnitsNounsData = [
   ...godSet,
   ...letoSet,
   ...mesyatsSet,
+  ...mgnovenieSet,
+  ...migSet,
   ...minutaSet,
   ...nedelyaSet,
   ...nochSet,

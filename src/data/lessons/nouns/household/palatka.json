@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PALATKA",
+    "label": "Палатка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for палатка (tent).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-01",
+        "phrase": "Наша палатка стоит у реки.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Палатка' is in the nominative as the subject of 'стоит'. 'Наша' is the agreeing feminine possessive, and 'у реки' gives the location. A natural way to describe where a tent is pitched."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-02",
+        "phrase": "Мы вчера купили новую палатку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Палатку' is the accusative direct object of 'купили'. 'Новую' agrees in the feminine accusative, and 'вчера' sets the time. A common shopping sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-03",
+        "phrase": "У нас нет большой палатки.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Палатки' is in the genitive after 'нет', which requires it. 'Большой' is the agreeing feminine genitive adjective. A standard way to say you lack something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-04",
+        "phrase": "Мы подошли к палатке вечером.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Палатке' is in the dative after the preposition 'к', marking the goal of motion. 'Вечером' adds the time. Useful for describing approach."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-05",
+        "phrase": "Дети играют перед палаткой.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'перед'. 'Палаткой' is in the instrumental after 'перед', showing location in front of the tent. 'Дети играют' is the subject and verb. A clear spatial pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-06",
+        "phrase": "В палатке тепло и уютно.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Палатке' is in the prepositional after 'в', expressing being inside the tent. 'Тепло' and 'уютно' describe the conditions there. Great for location practice."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-07",
+        "phrase": "На поляне стоят три палатки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'три' the noun takes the genitive singular form 'палатки'. 'На поляне' gives the location. A useful counting pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-08",
+        "phrase": "Эти палатки очень лёгкие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Палатки' is the nominative plural subject. 'Эти' and 'лёгкие' agree in the plural, and 'очень' intensifies. A clean model for plural description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-09",
+        "phrase": "Мы спали в палатке всю ночь.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Палатке' is in the prepositional after 'в', marking where they slept. 'Всю ночь' is an accusative time expression. Typical camping language."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALATKA-10",
+        "phrase": "Без палатки мы не поедем.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Палатки' is in the genitive after the preposition 'без', meaning without the tent. The negated verb 'не поедем' completes the condition. A handy conditional pattern."
+      }
+    ]
+  }
+]

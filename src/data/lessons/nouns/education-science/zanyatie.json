@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ZANYATIE",
+    "label": "Занятие",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for занятие (lesson; occupation).",
+    "missions": [
+      {
+        "id": "NN-EDU-ZANYATIE-01",
+        "phrase": "Занятие начинается в девять.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Занятие' is the neuter nominative subject of 'начинается'. 'В девять' shows the time the class starts."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-02",
+        "phrase": "Преподаватель отменил сегодняшнее занятие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Занятие' is the inanimate neuter accusative object of 'отменил', identical to the nominative. 'Сегодняшнее' agrees in the neuter."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-03",
+        "phrase": "Сегодня не было занятия.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Занятия' takes the genitive after 'не было' to express absence. 'Сегодня' is an adverb of time."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-04",
+        "phrase": "Студенты готовятся к занятию.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К занятию' uses the dative after 'к' with 'готовиться' to mean preparing for. 'Студенты' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-05",
+        "phrase": "Он гордится своим любимым занятием.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Занятием' is the instrumental required by 'гордится'. 'Любимым' agrees in the neuter instrumental, meaning a favourite pursuit."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-06",
+        "phrase": "На занятии было много студентов.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На занятии' uses the prepositional after 'на' to show location. 'Студентов' is genitive after 'много'."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-07",
+        "phrase": "Чтение - его любимое занятие.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Занятие' is nominative as the predicate noun naming a pursuit. 'Любимое' agrees in the neuter, and 'чтение' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-08",
+        "phrase": "Все занятия прошли успешно.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Занятия' is the neuter nominative plural subject of 'прошли'. 'Успешно' is an adverb of manner."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-09",
+        "phrase": "Студенты пропустили два занятия.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'занятия'. 'Студенты' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-ZANYATIE-10",
+        "phrase": "Это было полезное занятие.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Занятие' is nominative as the predicate noun after 'было'. 'Полезное' is the agreeing neuter adjective."
+      }
+    ]
+  }
+]

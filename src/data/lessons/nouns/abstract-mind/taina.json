@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-TAINA",
+    "label": "Тайна",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for тайна (secret).",
+    "missions": [
+      {
+        "id": "NN-MIND-TAINA-01",
+        "phrase": "Это страшная семейная тайна.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Тайна' is nominative as the predicate noun. 'Страшная' and 'семейная' are agreeing feminine adjectives describing the secret."
+      },
+      {
+        "id": "NN-MIND-TAINA-02",
+        "phrase": "Он хранит её тайну.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тайну' is the accusative direct object of 'хранит'. 'Её' is the possessive showing whose secret it is."
+      },
+      {
+        "id": "NN-MIND-TAINA-03",
+        "phrase": "У этой тайны нет разгадки.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Тайны' is genitive after 'у' to show whose mystery it is. 'Нет разгадки' uses the genitive of negation."
+      },
+      {
+        "id": "NN-MIND-TAINA-04",
+        "phrase": "Она доверила тайну подруге.",
+        "fullAnalysis": "Strategic focus: Accusative with dative. 'Тайну' is the accusative object of 'доверила', while 'подруге' is the dative recipient who was told."
+      },
+      {
+        "id": "NN-MIND-TAINA-05",
+        "phrase": "Они говорили шёпотом о тайне.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Тайне' uses the prepositional form after 'о' to mark the topic of the conversation. 'Шёпотом' is the instrumental adverb."
+      },
+      {
+        "id": "NN-MIND-TAINA-06",
+        "phrase": "Письмо было покрыто тайной.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Тайной' is the instrumental expressing what covered the letter. 'Письмо' is the neuter nominative subject."
+      },
+      {
+        "id": "NN-MIND-TAINA-07",
+        "phrase": "К этой тайне привело старое письмо.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Тайне' takes the dative after 'к' to mean leading to the secret. 'Старое письмо' is the neuter nominative subject."
+      },
+      {
+        "id": "NN-MIND-TAINA-08",
+        "phrase": "В этом доме много тайн.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantifier. 'Тайн' is the genitive plural after 'много', formed with a zero ending. 'В этом доме' gives the location."
+      },
+      {
+        "id": "NN-MIND-TAINA-09",
+        "phrase": "Все её тайны наконец раскрылись.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Тайны' is nominative plural as the subject of 'раскрылись'. 'Все' quantifies them, and 'наконец' adds resolution."
+      },
+      {
+        "id": "NN-MIND-TAINA-10",
+        "phrase": "Никто не знает этой тайны.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Тайны' takes the genitive under the negated verb 'не знает'. 'Никто' is the negative subject agreeing with the double negation."
+      }
+    ]
+  }
+]

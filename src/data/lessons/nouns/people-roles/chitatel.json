@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-CHITATEL",
+    "label": "Читатель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for читатель (reader).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-CHITATEL-01",
+        "phrase": "Этот читатель очень внимательный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Читатель' is the masculine nominative subject. 'Этот' points at him and 'внимательный' is the agreeing adjective. A clean descriptive frame for a person."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-02",
+        "phrase": "Автор уважает каждого читателя.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Читателя' takes the genitive-like accusative because читатель is animate masculine. 'Каждого' agrees in the animate accusative. A core animacy pattern with a soft-stem noun."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-03",
+        "phrase": "В зале нет ни одного читателя.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Читателя' is genitive after 'ни одного' to stress total absence. 'В зале' is prepositional location. A useful pattern for an empty room."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-04",
+        "phrase": "Книга понравилась молодому читателю.",
+        "fullAnalysis": "Strategic focus: Dative experiencer. 'Читателю' is the dative experiencer, the one to whom the book appealed. 'Молодому' agrees in the masculine dative, and 'книга' is the nominative subject. A natural reaction sentence."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-05",
+        "phrase": "Писатель встретился с верным читателем.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Читателем' is instrumental after 'с' to mark whom the writer met. 'Верным' agrees in the masculine instrumental. A natural event sentence."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-06",
+        "phrase": "В читателе живёт любовь к словам.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В читателе' uses the prepositional form 'читателе' after 'в' to locate a quality within the person. 'Любовь к словам' is the nominative subject. A reflective sentence."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-07",
+        "phrase": "Каждый читатель видит книгу по-своему.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Читатель' is the nominative subject of 'видит'. 'Каждый' agrees, 'книгу' is the accusative object, and 'по-своему' adds manner. A thoughtful general statement."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-08",
+        "phrase": "Эти читатели любят детективы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Читатели' is the nominative plural subject of 'любят'. 'Эти' agrees in the plural, and 'детективы' is the accusative object. Good for plural practice."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-09",
+        "phrase": "Автор благодарит своих читателей.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Читателей' takes the genitive-plural ending as the animate accusative plural of 'благодарит'. 'Своих' agrees. Reinforces animacy in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-CHITATEL-10",
+        "phrase": "В библиотеке много постоянных читателей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Читателей' is the genitive plural required after 'много'. 'Постоянных' agrees in the genitive plural, and 'в библиотеке' is prepositional location."
+      }
+    ]
+  }
+]

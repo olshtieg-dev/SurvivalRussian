@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-PRIYOM",
+    "label": "Приём",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for приём (reception).",
+    "missions": [
+      {
+        "id": "NN-EVENT-PRIYOM-01",
+        "phrase": "Вечером будет торжественный приём.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Приём' is a masculine noun in the nominative as the subject of 'будет'. 'Торжественный' is the agreeing masculine adjective, and 'вечером' sets the time. A clean event statement."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-02",
+        "phrase": "Посол устроил пышный приём.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Приём' is inanimate masculine, so the accusative matches the nominative form. 'Устроил' takes it as the direct object, and 'пышный' agrees as masculine. A natural social sentence."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-03",
+        "phrase": "Гости пришли после приёма.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Приёма' takes the genitive after 'после' to mark the time reference. 'Пришли' agrees with the plural subject 'гости'. A useful temporal pattern."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-04",
+        "phrase": "Мы готовимся к важному приёму.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К приёму' uses the dative form 'приёму' after 'к' to mark what is being prepared for. 'Важному' agrees in the masculine dative. A common planning frame."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-05",
+        "phrase": "Перед приёмом она надела платье.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Перед приёмом' uses the instrumental form 'приёмом' after 'перед' to mean before the event. 'Надела' agrees with the feminine subject. A natural time frame."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-06",
+        "phrase": "На приёме было много гостей.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На приёме' uses the prepositional form 'приёме' after 'на' to mark the setting. 'Много гостей' uses the genitive plural. A common event description."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-07",
+        "phrase": "Я записался на приём к врачу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На приём' uses the accusative after 'на' to mark the appointment one signs up for. 'К врачу' adds the dative recipient. A high-frequency medical phrase."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-08",
+        "phrase": "Этот приём очень эффективный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Приём' is nominative as the subject, here in the sense of a method or technique. 'Этот' agrees as masculine and 'эффективный' is the agreeing adjective, intensified by 'очень'. A clean descriptive card."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-09",
+        "phrase": "Врач ведёт приёмы по утрам.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Приёмы' is the accusative plural object of 'ведёт'; for inanimate nouns the accusative plural matches the nominative plural. 'По утрам' adds the schedule. A practical work sentence."
+      },
+      {
+        "id": "NN-EVENT-PRIYOM-10",
+        "phrase": "Дипломатические приёмы бывают скучными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Приёмы' is the nominative plural subject of 'бывают'. 'Дипломатические' agrees in the plural, and 'скучными' is the instrumental predicate the verb takes. A natural generalisation."
+      }
+    ]
+  }
+]

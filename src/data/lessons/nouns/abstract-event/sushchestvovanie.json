@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SUSHCHESTVOVANIE",
+    "label": "Существование",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for существование (existence).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-01",
+        "phrase": "Существование жизни на Марсе возможно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Существование' is the neuter nominative subject. 'Жизни' is genitive of possession, and 'возможно' is the predicate."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-02",
+        "phrase": "Учёные доказали существование планеты.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Существование' is the inanimate neuter accusative object of 'доказали', identical to the nominative. 'Планеты' is the genitive of possession."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-03",
+        "phrase": "Они не верят в существование души.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'В существование' uses the accusative after 'в' with 'верить'. 'Души' is the genitive of possession."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-04",
+        "phrase": "Нет доказательств его существования.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Существования' takes the genitive in the absence construction with 'нет'. 'Доказательств' is also genitive plural."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-05",
+        "phrase": "Благодаря существованию воды жизнь возникла.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Благодаря существованию' uses the dative after 'благодаря' to show the cause. 'Воды' is the genitive of possession."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-06",
+        "phrase": "Философ интересуется существованием человека.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Существованием' is the instrumental required by 'интересоваться'. 'Человека' is the genitive of possession."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-07",
+        "phrase": "В существовании Бога многие сомневаются.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В существовании' uses the prepositional after 'в' with 'сомневаться'. 'Бога' is the genitive of possession."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-08",
+        "phrase": "Существование без цели бессмысленно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Существование' is the neuter nominative subject. 'Без цели' uses the genitive after 'без', and 'бессмысленно' is the predicate."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-09",
+        "phrase": "Учёные обсуждают существования разных миров.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Существования' is the inanimate neuter accusative plural object of 'обсуждают', here meaning modes of existence. 'Миров' is genitive plural."
+      },
+      {
+        "id": "NN-EVENT-SUSHCHESTVOVANIE-10",
+        "phrase": "Это сложное философское существование.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Существование' is nominative as the predicate noun. 'Сложное' and 'философское' are agreeing neuter adjectives."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SEKRETAR",
+    "label": "Секретарь",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for секретарь (secretary).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SEKRETAR-01",
+        "phrase": "Новый секретарь работает быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Секретарь' is a masculine soft-sign noun in the nominative as the subject of 'работает'. 'Новый' is the agreeing masculine adjective, and 'быстро' describes the work."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-02",
+        "phrase": "Директор вызвал секретаря.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Секретаря' is animate masculine, so its accusative equals the genitive as the object of 'вызвал'. The stress shifts onto the ending in the oblique forms."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-03",
+        "phrase": "У секретаря много работы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Секретаря' takes the genitive after 'у' to show whose workload it is. 'Много работы' completes the possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-04",
+        "phrase": "Я передал документы секретарю.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Секретарю' is the dative recipient of 'передал', the person to whom the documents went. 'Документы' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-05",
+        "phrase": "Она работает секретарём в фирме.",
+        "fullAnalysis": "Strategic focus: Instrumental of role. 'Секретарём' takes the instrumental to name the job held. 'В фирме' is the prepositional location of the work."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-06",
+        "phrase": "Мы говорили о новом секретаре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Секретаре' takes the prepositional after 'о' to mean talking about the secretary. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-07",
+        "phrase": "Без секретаря офис не работает.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Секретаря' takes the genitive after 'без', expressing the absence on which the office depends. The clause shows the consequence."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-08",
+        "phrase": "В компании работают опытные секретари.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Секретари' is the nominative plural subject with end stress. 'Опытные' agrees in the plural, and 'в компании' sets the place."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-09",
+        "phrase": "Начальник благодарит секретарей.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Секретарей' is animate, so the accusative plural equals the genitive plural as the object of 'благодарит'. The boss thanks the staff."
+      },
+      {
+        "id": "NN-PEOPLE-SEKRETAR-10",
+        "phrase": "Этот документ подписан секретарём.",
+        "fullAnalysis": "Strategic focus: Instrumental of agent. 'Секретарём' takes the instrumental to name who signed in this passive construction. 'Подписан' is the short passive participle."
+      }
+    ]
+  }
+]

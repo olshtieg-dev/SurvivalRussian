@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-IZMENENIE",
+    "label": "Изменение",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for изменение (change).",
+    "missions": [
+      {
+        "id": "NN-EVENT-IZMENENIE-01",
+        "phrase": "Это важное изменение.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Изменение' is a neuter '-ние' noun in the nominative as the predicate. 'Важное' is the agreeing neuter adjective marking the case and gender."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-02",
+        "phrase": "Мы заметили небольшое изменение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Изменение' is neuter and inanimate, so its accusative matches the nominative as the object of 'заметили'. 'Небольшое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-03",
+        "phrase": "В плане нет никакого изменения.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Изменения' is the genitive after 'нет', stating no change in the plan. 'Никакого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-04",
+        "phrase": "Все готовятся к изменению.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Изменению' takes the dative after 'к', expressing preparation for the change. 'Готовятся' describes the collective readiness."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-05",
+        "phrase": "Мы довольны этим изменением.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Изменением' takes the instrumental after 'довольны', which governs that case. 'Этим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-06",
+        "phrase": "В этом изменении есть смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Изменении' takes the prepositional after 'в', placing the meaning within the change. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-07",
+        "phrase": "Из-за изменения планы сорвались.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Изменения' takes the genitive after 'из-за', giving the cause. 'Планы сорвались' states the consequence of the change."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-08",
+        "phrase": "В стране начались большие изменения.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Изменения' is the nominative plural subject of 'начались'. 'Большие' agrees in the plural, and 'в стране' sets the place."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-09",
+        "phrase": "Мы рады последним изменениям.",
+        "fullAnalysis": "Strategic focus: Dative plural complement. 'Изменениям' takes the dative plural after 'рады', which governs that case. 'Последним' agrees in the dative plural."
+      },
+      {
+        "id": "NN-EVENT-IZMENENIE-10",
+        "phrase": "После изменений всё стало лучше.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Изменений' is the genitive plural after 'после', placing the improvement in time. 'Всё стало лучше' states the outcome."
+      }
+    ]
+  }
+]

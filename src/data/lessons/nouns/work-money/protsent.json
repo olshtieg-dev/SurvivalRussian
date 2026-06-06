@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-PROTSENT",
+    "label": "Процент",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for процент (percent).",
+    "missions": [
+      {
+        "id": "NN-WORK-PROTSENT-01",
+        "phrase": "Этот процент слишком высокий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Процент' is in the nominative as the subject. 'Этот' points at a specific rate and 'высокий' is the agreeing masculine adjective. A clean evaluative model."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-02",
+        "phrase": "Банк снизил годовой процент.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Процент' is the accusative direct object of 'снизил'. As an inanimate masculine noun the accusative matches the nominative. 'Годовой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-03",
+        "phrase": "Здесь нет высокого процента.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Процента' is in the genitive after 'нет', which demands it. 'Высокого' is the agreeing masculine genitive adjective. A standard pattern for absence."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-04",
+        "phrase": "Мы внимательно относимся к проценту.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Проценту' is in the dative after 'к', the form required by 'относиться к'. 'Внимательно' adds manner. A useful business expression."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-05",
+        "phrase": "Я недоволен этим процентом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'недоволен'. 'Процентом' is in the instrumental, the case governed by 'недоволен'. 'Этим' agrees in the masculine instrumental. A common complaint pattern."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-06",
+        "phrase": "В этом проценте есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Проценте' is in the prepositional after 'в', marking where the error lies. 'Ошибка есть' is the subject. Useful for discussing figures."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-07",
+        "phrase": "Мы заплатили два процента комиссии.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'два' the noun takes the genitive singular form 'процента'. 'Комиссии' is a genitive modifier. A common financial pattern."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-08",
+        "phrase": "Эти проценты растут каждый год.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Проценты' is the nominative plural subject of 'растут'. 'Эти' agrees in the plural, and 'каждый год' adds the time. A clean model for plural subjects."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-09",
+        "phrase": "Банк начислил пять процентов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after numeral. After 'пять' the noun takes the genitive plural form 'процентов'. 'Банк начислил' is the subject and verb. A common counting pattern for figures above four."
+      },
+      {
+        "id": "NN-WORK-PROTSENT-10",
+        "phrase": "Без процента кредит не дают.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Процента' is in the genitive after the preposition 'без', meaning without interest. 'Кредит не дают' is the impersonal clause. A practical banking remark."
+      }
+    ]
+  }
+]

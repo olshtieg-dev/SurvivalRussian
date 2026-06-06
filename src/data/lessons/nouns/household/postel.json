@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-POSTEL",
+    "label": "Постель",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for постель (bed; bedding).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-01",
+        "phrase": "Постель уже совсем готова.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Постель' is a feminine soft-sign noun staying in the nominative as the subject. 'Готова' is the agreeing short feminine adjective, and 'уже' adds the sense of completion."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-02",
+        "phrase": "Утром я застилаю постель.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Постель' is the accusative direct object of 'застилаю', identical to the nominative for this feminine soft noun. 'Утром' sets the daily routine."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-03",
+        "phrase": "Он встал с постели рано.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Постели' takes the genitive after 'с' to mean getting up off the bed. The soft-sign noun adds -и, and 'рано' describes the time."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-04",
+        "phrase": "Ребёнок лежит в тёплой постели.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Постели' is the prepositional form after 'в' for location. 'Тёплой' agrees in the feminine prepositional, and 'ребёнок' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-05",
+        "phrase": "Я подошёл к постели больного.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Постели' takes the dative after 'к' to show direction toward the bed. 'Больного' is the genitive showing whose bed it is."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-06",
+        "phrase": "Она довольна новой постелью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Постелью' is the instrumental form after 'довольна'. The soft-sign feminine noun takes -ью, and 'новой' agrees in the instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-07",
+        "phrase": "В шкафу лежит чистая постель.",
+        "fullAnalysis": "Strategic focus: Nominative as bedding. 'Постель' here means bedding and stays nominative as the subject. 'Чистая' is the agreeing feminine adjective, and 'в шкафу' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-08",
+        "phrase": "Мы купили две новые постели.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Постели' follows 'две', which requires the genitive singular for feminine nouns. 'Новые' takes the nominative plural form typical with два and две."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-09",
+        "phrase": "В гостинице много свежих постелей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Постелей' is the genitive plural after 'много', taking the -ей ending for soft feminine nouns. 'Свежих' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POSTEL-10",
+        "phrase": "Эта постель очень мягкая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Постель' is nominative as the subject. 'Мягкая' is the agreeing feminine adjective, reinforced by 'очень'. A clean descriptive model."
+      }
+    ]
+  }
+]

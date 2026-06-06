@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KNIZHKA",
+    "label": "Книжка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for книжка (booklet).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-01",
+        "phrase": "Это моя любимая детская книжка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Книжка' stays in the nominative as the subject. 'Любимая' and 'детская' are agreeing feminine adjectives, and 'моя' shows possession."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-02",
+        "phrase": "Я читаю эту книжку вечером.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Книжку' is the accusative direct object of 'читаю'. 'Эту' agrees in the feminine accusative, and 'вечером' adds the time of reading."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-03",
+        "phrase": "У меня нет этой книжки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Книжки' is the genitive after 'нет', marking what is missing. 'Этой' agrees in the feminine genitive. A core pattern for saying you lack something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-04",
+        "phrase": "Я подарил книжку младшей сестре.",
+        "fullAnalysis": "Strategic focus: Accusative gift with dative recipient. 'Книжку' is the accusative object of 'подарил', while 'сестре' is the dative recipient. A natural giving frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-05",
+        "phrase": "На столе лежит старая книжка.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Книжка' is the nominative subject of 'лежит'. 'Старая' is the agreeing feminine adjective, and 'на столе' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-06",
+        "phrase": "В этой книжке много картинок.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В книжке' uses the prepositional form 'книжке' after 'в' to show contents. 'Этой' agrees, and 'много картинок' names what is inside."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-07",
+        "phrase": "Расскажи мне о новой книжке.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О книжке' uses the prepositional form after 'о' to mark the topic of telling. 'Новой' agrees in the feminine prepositional case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-08",
+        "phrase": "На полке стоят детские книжки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Книжки' is the nominative plural subject of 'стоят'. 'Детские' is the agreeing plural adjective, and 'на полке' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-09",
+        "phrase": "Я взял книжку с полки.",
+        "fullAnalysis": "Strategic focus: Accusative object with source. 'Книжку' is the accusative object of 'взял', and 'с полки' is a genitive source phrase showing where it came from."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KNIZHKA-10",
+        "phrase": "Девочка играет с книжкой и куклой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Книжкой' is the instrumental after 'с', naming what she plays with, coordinated with 'куклой'. A clear instrumental model."
+      }
+    ]
+  }
+]

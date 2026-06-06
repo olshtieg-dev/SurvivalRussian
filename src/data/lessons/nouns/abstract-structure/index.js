@@ -16,11 +16,13 @@ import povodSet from './povod.json';
 import praviloSet from './pravilo.json';
 import rostSet from './rost.json';
 import ryadSet from './ryad.json';
+import skorostSet from './skorost.json';
 import sredstvoSet from './sredstvo.json';
 import tipSet from './tip.json';
 import tsvetSet from './tsvet.json';
 import urovenSet from './uroven.json';
 import uslovieSet from './uslovie.json';
+import variantSet from './variant.json';
 import vidSet from './vid.json';
 
 export const abstractStructureNounsFolderId = 'nouns-abstract-structure';
@@ -43,11 +45,13 @@ const abstractStructureNounsData = [
   ...praviloSet,
   ...rostSet,
   ...ryadSet,
+  ...skorostSet,
   ...sredstvoSet,
   ...tipSet,
   ...tsvetSet,
   ...urovenSet,
   ...uslovieSet,
+  ...variantSet,
   ...vidSet,
 ];
 

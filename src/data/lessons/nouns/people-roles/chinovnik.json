@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-CHINOVNIK",
+    "label": "Чиновник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for чиновник (official).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-01",
+        "phrase": "В кабинете сидит важный чиновник.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Чиновник' is an animate masculine noun in the nominative as the subject of 'сидит'. 'Важный' is the agreeing masculine adjective, and 'в кабинете' locates him."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-02",
+        "phrase": "Журналисты критиковали этого чиновника.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Чиновника' is the accusative, equal to the genitive because the noun is animate masculine. 'Этого' agrees in the animate accusative. A natural news sentence."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-03",
+        "phrase": "У этого чиновника большая зарплата.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Чиновника' takes the genitive after 'у' to show whose salary it is. 'Большая зарплата' stands in the nominative. A common possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-04",
+        "phrase": "Мы написали письмо чиновнику.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Чиновнику' is the dative, the person the letter goes to. 'Письмо' is the accusative object. A practical bureaucratic pattern."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-05",
+        "phrase": "Я долго говорил с чиновником.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'С чиновником' uses the instrumental form 'чиновником' after 'с' to mark the person spoken with. 'Долго' adds duration. A useful conversation frame."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-06",
+        "phrase": "В газете писали о чиновнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О чиновнике' uses the prepositional form 'чиновнике' after 'о' to mark the topic of the article. 'В газете' locates the report. A natural media frame."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-07",
+        "phrase": "Местные чиновники приняли решение.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Чиновники' is the nominative plural subject of 'приняли'. 'Местные' agrees in the plural, and 'решение' is the accusative object. A clean plural model."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-08",
+        "phrase": "Люди не доверяют чиновникам.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Чиновникам' is the dative plural required by 'не доверяют', which governs the dative. A useful pattern for expressing attitudes."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-09",
+        "phrase": "В стране слишком много чиновников.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Чиновников' is the genitive plural after 'много'. 'Слишком' adds the critical tone, and 'в стране' sets the scope. A natural quantity complaint."
+      },
+      {
+        "id": "NN-PEOPLE-CHINOVNIK-10",
+        "phrase": "Этот чиновник очень честный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Чиновник' is nominative as the subject. 'Этот' agrees as masculine and 'честный' is the agreeing masculine adjective, intensified by 'очень'. A clean descriptive card."
+      }
+    ]
+  }
+]

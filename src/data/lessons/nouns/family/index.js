@@ -1,6 +1,7 @@
 import babushkaSet from './babushka.json';
 import bratSet from './brat.json';
 import dedSet from './ded.json';
+import dedushkaSet from './dedushka.json';
 import dochSet from './doch.json';
 import dyadyaSet from './dyadya.json';
 import mamaSet from './mama.json';
@@ -23,6 +24,7 @@ const familyNounsData = [
   ...babushkaSet,
   ...bratSet,
   ...dedSet,
+  ...dedushkaSet,
   ...dochSet,
   ...dyadyaSet,
   ...mamaSet,

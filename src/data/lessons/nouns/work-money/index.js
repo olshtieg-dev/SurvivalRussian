@@ -14,6 +14,9 @@ import ocheredSet from './ochered.json';
 import ochkoSet from './ochko.json';
 import prikazSet from './prikaz.json';
 import programmaSet from './programma.json';
+import proizvodstvoSet from './proizvodstvo.json';
+import protsentSet from './protsent.json';
+import razmerSet from './razmer.json';
 import rublSet from './rubl.json';
 import schyotSet from './schyot.json';
 import silaSet from './sila.json';
@@ -42,6 +45,9 @@ const workMoneyNounsData = [
   ...ochkoSet,
   ...prikazSet,
   ...programmaSet,
+  ...proizvodstvoSet,
+  ...protsentSet,
+  ...razmerSet,
   ...rublSet,
   ...schyotSet,
   ...silaSet,

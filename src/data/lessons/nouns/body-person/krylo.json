@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-KRYLO",
+    "label": "Крыло",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for крыло (wing).",
+    "missions": [
+      {
+        "id": "NN-BODY-KRYLO-01",
+        "phrase": "Левое крыло птицы повреждено.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Крыло' is the neuter nominative subject. 'Левое' agrees in the neuter, 'птицы' is genitive showing possession, and 'повреждено' is the short neuter participle. A clean descriptive frame."
+      },
+      {
+        "id": "NN-BODY-KRYLO-02",
+        "phrase": "Птица сломала своё крыло.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Крыло' is the neuter accusative direct object of 'сломала'; for neuter nouns accusative matches nominative. 'Своё' agrees as the reflexive possessive. A natural everyday sentence."
+      },
+      {
+        "id": "NN-BODY-KRYLO-03",
+        "phrase": "У этой бабочки нет крыла.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Крыла' is genitive after 'нет' to express that a wing is missing. 'У этой бабочки' frames the possessor. A useful pattern for what is lacking."
+      },
+      {
+        "id": "NN-BODY-KRYLO-04",
+        "phrase": "Орёл машет огромным крылом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Крылом' is instrumental, the body part used to flap. 'Огромным' agrees in the neuter instrumental, and 'машет' governs the instrumental. A vivid action sentence."
+      },
+      {
+        "id": "NN-BODY-KRYLO-05",
+        "phrase": "На крыле сидит маленькая муха.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На крыле' uses the prepositional form 'крыле' after 'на' to mark where the fly sits. 'Маленькая' agrees with муха. A simple location scene."
+      },
+      {
+        "id": "NN-BODY-KRYLO-06",
+        "phrase": "Птенец прижался к крылу матери.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К крылу' uses the dative form 'крылу' after 'к' to mark snuggling up to. 'Матери' is genitive of possession. A tender image for dative practice."
+      },
+      {
+        "id": "NN-BODY-KRYLO-07",
+        "phrase": "У самолёта два больших крыла.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Крыла' is the genitive singular form used after 'два'. 'Больших' agrees in the genitive plural. A useful counting pattern with neuter nouns."
+      },
+      {
+        "id": "NN-BODY-KRYLO-08",
+        "phrase": "Крылья этой птицы очень яркие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Крылья' is the irregular nominative plural of крыло. 'Яркие' agrees in the plural, and 'этой птицы' is genitive of possession. Good for irregular plural practice."
+      },
+      {
+        "id": "NN-BODY-KRYLO-09",
+        "phrase": "Я вижу красивые крылья бабочки.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Крылья' is the accusative plural object of 'вижу'; for inanimate neuters it matches the nominative plural. 'Красивые' agrees, and 'бабочки' is genitive. A descriptive observation."
+      },
+      {
+        "id": "NN-BODY-KRYLO-10",
+        "phrase": "Бабочка летает на двух крыльях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Крыльях' is the prepositional plural after 'на', with 'двух' in agreement. The irregular plural stem крыль- carries through. Useful for plural location."
+      }
+    ]
+  }
+]

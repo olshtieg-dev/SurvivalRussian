@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-TEKST",
+    "label": "Текст",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for текст (text).",
+    "missions": [
+      {
+        "id": "NN-COMMS-TEKST-01",
+        "phrase": "Это очень сложный текст.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Текст' stays in the nominative as the subject. 'Сложный' is the agreeing masculine adjective, and 'очень' intensifies the difficulty."
+      },
+      {
+        "id": "NN-COMMS-TEKST-02",
+        "phrase": "Я перевёл весь текст вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Текст' is the accusative direct object of 'перевёл'. As an inanimate masculine noun its accusative matches the nominative, with 'весь' agreeing."
+      },
+      {
+        "id": "NN-COMMS-TEKST-03",
+        "phrase": "В книге нет этого текста.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Текста' takes the genitive after 'нет', stating the text is missing. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-COMMS-TEKST-04",
+        "phrase": "Редактор вернулся к тексту статьи.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Тексту' is in the dative after 'к', showing a return toward the text. 'Статьи' is a genitive naming the article."
+      },
+      {
+        "id": "NN-COMMS-TEKST-05",
+        "phrase": "Я работаю над новым текстом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Текстом' is in the instrumental after 'над', marking the text as the object of work. 'Новым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-TEKST-06",
+        "phrase": "В тексте есть несколько ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Тексте' takes the prepositional form after 'в' to show where the errors are. 'Несколько ошибок' uses the genitive of quantity."
+      },
+      {
+        "id": "NN-COMMS-TEKST-07",
+        "phrase": "Эти тексты слишком длинные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Тексты' is the nominative plural subject. 'Эти' and 'длинные' agree in the plural, with 'слишком' intensifying."
+      },
+      {
+        "id": "NN-COMMS-TEKST-08",
+        "phrase": "Смысл текста остался непонятным.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Текста' takes the genitive after 'смысл', expressing the meaning of the text. 'Непонятным' is the instrumental predicate after 'остался'."
+      },
+      {
+        "id": "NN-COMMS-TEKST-09",
+        "phrase": "Учитель проверил все тексты.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Тексты' is the accusative plural object of 'проверил', matching the nominative plural form. 'Все' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-TEKST-10",
+        "phrase": "Я добавил картинку в текст.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Текст' takes the accusative after 'в' to show insertion into the text. The form matches the nominative for this inanimate noun."
+      }
+    ]
+  }
+]

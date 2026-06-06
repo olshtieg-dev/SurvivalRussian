@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-DEDUSHKA",
+    "label": "Дедушка",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for дедушка (grandfather).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-DEDUSHKA-01",
+        "phrase": "Мой дедушка живёт в деревне.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дедушка' is a masculine noun despite the feminine-looking ending, here in the nominative as the subject. 'Мой' agrees as masculine, and 'живёт' completes the sentence."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-02",
+        "phrase": "Я очень люблю своего дедушку.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Дедушку' is the accusative; because 'дедушка' is animate masculine the accusative takes the feminine-declension ending '-у'. 'Своего' agrees in the animate accusative. A warm everyday statement."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-03",
+        "phrase": "У дедушки большой старый сад.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дедушки' takes the genitive after 'у' to show whose garden it is. 'Большой старый' describes the garden in the nominative. A natural possession frame."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-04",
+        "phrase": "Я часто звоню дедушке.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Дедушке' is the dative, the person being called. 'Звоню' governs the dative, and 'часто' adds frequency. A core communication pattern."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-05",
+        "phrase": "Я горжусь своим дедушкой.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Дедушкой' is the instrumental required by 'горжусь'. 'Своим' agrees in the masculine instrumental. A heartfelt and useful pattern."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-06",
+        "phrase": "Мы говорили о дедушке весь вечер.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О дедушке' uses the prepositional form 'дедушке' after 'о' to mark the topic of conversation. 'Весь вечер' adds duration. A common discussion frame."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-07",
+        "phrase": "Дедушка подарил мне старые часы.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дедушка' is nominative as the giver. 'Мне' is the dative recipient and 'часы' the accusative gift. A natural three-participant sentence."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-08",
+        "phrase": "В парке гуляют старые дедушки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Дедушки' is the nominative plural subject of 'гуляют'. 'Старые' agrees in the plural, and 'в парке' locates the scene. A simple plural model."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-09",
+        "phrase": "Я давно не видел дедушек.",
+        "fullAnalysis": "Strategic focus: Genitive plural of an animate noun. 'Дедушек' is the genitive plural, which also serves as the accusative plural for animate nouns after the negated 'не видел'. A useful negation pattern."
+      },
+      {
+        "id": "NN-FAMILY-DEDUSHKA-10",
+        "phrase": "Этот дедушка очень добрый.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Дедушка' is nominative as the subject. 'Этот' agrees as masculine and 'добрый' is the agreeing masculine adjective, intensified by 'очень'. A clean descriptive card."
+      }
+    ]
+  }
+]

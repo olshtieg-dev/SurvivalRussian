@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-RUKAV",
+    "label": "Рукав",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for рукав (sleeve).",
+    "missions": [
+      {
+        "id": "NN-BODY-RUKAV-01",
+        "phrase": "Левый рукав немного порвался.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рукав' is in the nominative as the subject of 'порвался'. 'Левый' is the agreeing masculine adjective, and 'немного' softens the statement. A natural way to report a tear."
+      },
+      {
+        "id": "NN-BODY-RUKAV-02",
+        "phrase": "Я закатал правый рукав.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рукав' is the accusative direct object of 'закатал'. Since it is an inanimate masculine noun, the accusative matches the nominative. 'Правый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-BODY-RUKAV-03",
+        "phrase": "У этой рубашки нет рукава.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Рукава' is in the genitive after 'нет', which demands it. 'У этой рубашки' shows possession. A standard way to say a sleeve is missing."
+      },
+      {
+        "id": "NN-BODY-RUKAV-04",
+        "phrase": "Она пришила пуговицу к рукаву.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Рукаву' is in the dative after the preposition 'к', marking where the button was attached. 'Пуговицу' is the accusative object. Useful sewing language."
+      },
+      {
+        "id": "NN-BODY-RUKAV-05",
+        "phrase": "Он вытер лицо рукавом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Рукавом' is in the instrumental, expressing the means by which he wiped his face. 'Лицо' is the accusative object. A common everyday gesture."
+      },
+      {
+        "id": "NN-BODY-RUKAV-06",
+        "phrase": "На рукаве осталось пятно.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Рукаве' is in the prepositional after 'на', marking where the stain remained. 'Пятно осталось' is the subject and verb. Great for location practice."
+      },
+      {
+        "id": "NN-BODY-RUKAV-07",
+        "phrase": "У этой куртки длинные рукава.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Рукава' is the nominative plural subject, with a stressed irregular plural ending. 'Длинные' agrees in the plural. A clean model for describing clothing."
+      },
+      {
+        "id": "NN-BODY-RUKAV-08",
+        "phrase": "Засучи оба рукава перед работой.",
+        "fullAnalysis": "Strategic focus: Accusative after 'оба'. After 'оба' the noun takes the form 'рукава'. The imperative 'засучи' commands the action, and 'перед работой' gives the time. A practical instruction."
+      },
+      {
+        "id": "NN-BODY-RUKAV-09",
+        "phrase": "Он спрятал ключ в рукаве.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Рукаве' is in the prepositional after 'в', marking where the key was hidden. 'Ключ' is the accusative object. A vivid everyday scene."
+      },
+      {
+        "id": "NN-BODY-RUKAV-10",
+        "phrase": "Кот зацепился за рукав.",
+        "fullAnalysis": "Strategic focus: Accusative with 'за'. 'Рукав' is in the accusative after 'за', marking what the cat caught on. As an inanimate masculine noun it matches the nominative. A lively descriptive sentence."
+      }
+    ]
+  }
+]

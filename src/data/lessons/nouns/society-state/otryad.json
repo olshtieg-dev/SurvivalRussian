@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-OTRYAD",
+    "label": "Отряд",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for отряд (detachment).",
+    "missions": [
+      {
+        "id": "NN-STATE-OTRYAD-01",
+        "phrase": "Наш отряд готов к походу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отряд' is masculine and stays in the nominative as the subject. 'Наш' is the agreeing possessive, and 'к походу' is the dative of purpose."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-02",
+        "phrase": "Командир ведёт отряд вперёд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отряд' is inanimate, so its accusative matches the nominative as the object of 'ведёт'. 'Вперёд' gives the direction of movement."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-03",
+        "phrase": "В лагере нет нашего отряда.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Отряда' is the genitive after 'нет', stating the detachment is not in the camp. 'Нашего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-04",
+        "phrase": "Командир дал отряду приказ.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Отряду' is the dative recipient of 'дал', the group receiving the order. 'Приказ' is the accusative object given."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-05",
+        "phrase": "Он командует большим отрядом.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Отрядом' takes the instrumental after 'командует', which governs that case. 'Большим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-06",
+        "phrase": "В нашем отряде двадцать человек.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Отряде' takes the prepositional after 'в', meaning within the detachment. 'Нашем' agrees, and 'двадцать человек' counts the members."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-07",
+        "phrase": "Без отряда задача невыполнима.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Отряда' takes the genitive after 'без', expressing the missing group. The clause states the resulting impossibility."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-08",
+        "phrase": "Все отряды собрались на площади.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Отряды' is the nominative plural subject of 'собрались'. 'Все' agrees in the plural, and 'на площади' sets the place."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-09",
+        "phrase": "Город защищали несколько отрядов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Отрядов' is the genitive plural required by 'несколько'. 'Защищали' shows what the detachments did for the city."
+      },
+      {
+        "id": "NN-STATE-OTRYAD-10",
+        "phrase": "Я служу в спасательном отряде.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Отряде' takes the prepositional after 'в', naming where the service happens. 'Спасательном' agrees in the masculine prepositional."
+      }
+    ]
+  }
+]

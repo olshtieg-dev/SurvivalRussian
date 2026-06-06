@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-KINO",
+    "label": "Кино",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for кино (cinema).",
+    "missions": [
+      {
+        "id": "NN-COMMS-KINO-01",
+        "phrase": "Это интересное кино.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Кино' is an indeclinable neuter noun staying in the nominative as the predicate. 'Интересное' is the agreeing neuter adjective, the only marker of case and gender here."
+      },
+      {
+        "id": "NN-COMMS-KINO-02",
+        "phrase": "Я очень люблю старое кино.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кино' is indeclinable, so its form never changes even as the object of 'люблю'. 'Старое' carries the neuter accusative agreement."
+      },
+      {
+        "id": "NN-COMMS-KINO-03",
+        "phrase": "Сегодня нет хорошего кино.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the genitive is expected, but 'кино' is indeclinable and keeps its form. 'Хорошего' shows the neuter genitive agreement instead."
+      },
+      {
+        "id": "NN-COMMS-KINO-04",
+        "phrase": "Мы идём в кино вечером.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. After 'в' motion toward the cinema would take the accusative, but 'кино' stays unchanged. 'Вечером' is the instrumental of time."
+      },
+      {
+        "id": "NN-COMMS-KINO-05",
+        "phrase": "В кино было много людей.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. After 'в' the prepositional is expected, yet 'кино' keeps its single form. 'Много людей' describes the crowd inside."
+      },
+      {
+        "id": "NN-COMMS-KINO-06",
+        "phrase": "Друзья говорят о новом кино.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'о' the prepositional is required, but 'кино' is indeclinable and unchanged. 'Новом' carries the neuter prepositional agreement."
+      },
+      {
+        "id": "NN-COMMS-KINO-07",
+        "phrase": "Этим кино все остались довольны.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Довольны' governs the instrumental, shown by 'этим' since 'кино' cannot inflect. The neuter instrumental demonstrative carries the case."
+      },
+      {
+        "id": "NN-COMMS-KINO-08",
+        "phrase": "Современному кино нужны новые идеи.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Современному' marks the dative governed by 'нужны', while 'кино' itself stays fixed. The sentence states what modern cinema needs."
+      },
+      {
+        "id": "NN-COMMS-KINO-09",
+        "phrase": "Сейчас снимают много кино.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Много' normally takes the genitive plural, but 'кино' is indeclinable and unchanged. 'Снимают' describes the filmmaking activity."
+      },
+      {
+        "id": "NN-COMMS-KINO-10",
+        "phrase": "Без хорошего кино скучно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. After 'без' the genitive is expected; 'кино' keeps its invariable form while 'хорошего' shows neuter genitive agreement."
+      }
+    ]
+  }
+]

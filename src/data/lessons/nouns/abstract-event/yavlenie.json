@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-YAVLENIE",
+    "label": "Явление",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for явление (phenomenon).",
+    "missions": [
+      {
+        "id": "NN-EVENT-YAVLENIE-01",
+        "phrase": "Это очень редкое явление.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Явление' is the neuter nominative predicate noun. 'Редкое' agrees in the neuter, and 'очень' intensifies. A clean equational sentence."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-02",
+        "phrase": "Учёные изучают это природное явление.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Явление' is the neuter accusative object of 'изучают', identical to the nominative. 'Природное' agrees in the neuter accusative. A typical science sentence."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-03",
+        "phrase": "Никто не знает причины этого явления.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Явления' is genitive showing what the cause belongs to. 'Этого' agrees in the neuter genitive, and 'причины' is the accusative plural object. A research sentence."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-04",
+        "phrase": "Учёные дали явлению точное название.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Явлению' is the dative object of 'дали', the thing given a name. 'Точное название' is the accusative object. A natural scientific sentence."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-05",
+        "phrase": "Радуга остаётся загадочным явлением.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Явлением' is instrumental after 'остаётся' as a predicate noun. 'Загадочным' agrees in the neuter instrumental. A useful linking pattern."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-06",
+        "phrase": "В этом явлении много загадок.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В явлении' uses the prepositional form 'явлении' after 'в' to locate the mysteries. 'Много загадок' is a genitive plural quantity. A thoughtful science sentence."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-07",
+        "phrase": "Гроза - это обычное летнее явление.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Явление' is the neuter nominative predicate noun linked by the dash. 'Обычное' and 'летнее' agree in the neuter. A clean definitional sentence."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-08",
+        "phrase": "В природе встречаются странные явления.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Явления' is the neuter nominative plural subject of 'встречаются'. 'Странные' agrees in the plural, and 'в природе' is prepositional location. Good for plural practice."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-09",
+        "phrase": "Физика объясняет многие явления.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Явления' is the neuter accusative plural object of 'объясняет', matching the nominative plural. 'Многие' agrees. A typical academic sentence."
+      },
+      {
+        "id": "NN-EVENT-YAVLENIE-10",
+        "phrase": "Существует много необъяснимых явлений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Явлений' is the genitive plural required after 'много'. 'Необъяснимых' agrees in the genitive plural, and 'существует' is the impersonal verb. A useful existential pattern."
+      }
+    ]
+  }
+]

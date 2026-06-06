@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-NASTROENIE",
+    "label": "Настроение",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for настроение (mood).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-NASTROENIE-01",
+        "phrase": "Сегодня хорошее настроение.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Настроение' is the neuter nominative subject. 'Хорошее' is the agreeing neuter adjective, and 'сегодня' sets the time."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-02",
+        "phrase": "Музыка подняла мне настроение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Настроение' is the neuter accusative object of 'подняла', identical to the nominative. 'Мне' is the dative experiencer."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-03",
+        "phrase": "У меня нет настроения работать.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Настроения' is the genitive after 'нет', marking the lack of mood. 'Работать' is the infinitive of purpose."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-04",
+        "phrase": "Праздник радует своим настроением.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Настроением' is the instrumental, the quality that pleases. 'Своим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-05",
+        "phrase": "Мы говорили о его настроении.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О настроении' uses the prepositional form after 'о' to mark the topic. 'Его' shows whose mood."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-06",
+        "phrase": "В хорошем настроении всё легко.",
+        "fullAnalysis": "Strategic focus: Prepositional state. 'В настроении' uses the prepositional form after 'в' to express being in a mood. 'Хорошем' agrees in the neuter prepositional case."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-07",
+        "phrase": "Погода влияет на настроение.",
+        "fullAnalysis": "Strategic focus: Accusative after 'на'. 'Настроение' is the neuter accusative after 'на', the thing affected. 'Погода' is the nominative subject."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-08",
+        "phrase": "Я завишу от своего настроения.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Настроения' is the genitive after 'от', the thing depended on. 'Своего' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-09",
+        "phrase": "У детей бывают разные настроения.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Настроения' is the nominative plural subject of 'бывают'. 'Разные' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-EMOTION-NASTROENIE-10",
+        "phrase": "Книга подходит под разные настроения.",
+        "fullAnalysis": "Strategic focus: Accusative plural after 'под'. 'Настроения' is the neuter accusative plural after 'под', the moods the book suits. 'Разные' agrees with it."
+      }
+    ]
+  }
+]

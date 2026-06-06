@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-OTSUTSTVIE",
+    "label": "Отсутствие",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for отсутствие (absence).",
+    "missions": [
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-01",
+        "phrase": "Его отсутствие всех удивило.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отсутствие' is in the nominative as the subject of 'удивило'. 'Его' marks whose absence it is, and 'всех' is the accusative object. A clean cause-and-effect model."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-02",
+        "phrase": "Я заметил его отсутствие сразу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отсутствие' is the accusative direct object of 'заметил'. As a neuter noun the accusative matches the nominative. 'Сразу' adds immediacy. A natural observation."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-03",
+        "phrase": "Причина отсутствия пока неизвестна.",
+        "fullAnalysis": "Strategic focus: Genitive modifier. 'Отсутствия' is in the genitive, modifying 'причина' to mean the cause of the absence. 'Неизвестна' is the short-form predicate. A formal explanatory pattern."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-04",
+        "phrase": "Мы привыкли к его отсутствию.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Отсутствию' is in the dative after 'к', the form required by 'привыкнуть к'. 'Его' marks whose absence. A useful pattern for adjustment."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-05",
+        "phrase": "Я недоволен его отсутствием.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'недоволен'. 'Отсутствием' is in the instrumental, the case governed by 'недоволен'. 'Его' marks whose absence it is. A common complaint pattern."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-06",
+        "phrase": "В отсутствие начальника решал я.",
+        "fullAnalysis": "Strategic focus: Accusative in a set phrase. 'Отсутствие' is in the accusative within the fixed phrase 'в отсутствие', meaning in the absence of. 'Начальника' is a genitive modifier. A useful formal expression."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-07",
+        "phrase": "При отсутствии воды растения гибнут.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'при'. 'Отсутствии' is in the prepositional after 'при', meaning in the case of absence. 'Воды' is a genitive modifier. A useful conditional construction."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-08",
+        "phrase": "Долгие отсутствия портят отношения.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Отсутствия' is the nominative plural subject of 'портят'. 'Долгие' agrees in the plural, and 'отношения' is the accusative plural object. A reflective sentence."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-09",
+        "phrase": "Из-за отсутствия денег поездка отменилась.",
+        "fullAnalysis": "Strategic focus: Genitive with 'из-за'. 'Отсутствия' is in the genitive after 'из-за', marking the cause. 'Денег' is a genitive modifier, and 'поездка отменилась' is the result. A common causal pattern."
+      },
+      {
+        "id": "NN-EVENT-OTSUTSTVIE-10",
+        "phrase": "Отсутствие новостей это хорошо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отсутствие' is the nominative subject of the equational sentence. 'Новостей' is a genitive modifier, and 'это хорошо' is the predicate. A familiar saying."
+      }
+    ]
+  }
+]

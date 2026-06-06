@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SHUTKA",
+    "label": "Шутка",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for шутка (joke).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SHUTKA-01",
+        "phrase": "Эта шутка очень смешная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шутка' is the feminine nominative subject. 'Смешная' is the agreeing feminine adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-02",
+        "phrase": "Он рассказал интересную шутку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шутку' is the feminine accusative direct object of 'рассказал'. 'Интересную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-03",
+        "phrase": "Я не понял этой шутки.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Шутки' takes the genitive after the negated verb 'не понял'. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-04",
+        "phrase": "Все смеялись над этой шуткой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Над шуткой' uses the instrumental after 'над' with 'смеяться'. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-05",
+        "phrase": "Благодаря шутке стало веселее.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Благодаря шутке' uses the dative after 'благодаря' to show the cause. 'Веселее' is a comparative adverb."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-06",
+        "phrase": "В этой шутке есть правда.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В шутке' uses the prepositional after 'в' to locate the content. 'Правда' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-07",
+        "phrase": "Он любит хорошие шутки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Шутки' is the inanimate feminine accusative plural object of 'любит', identical to the nominative plural. 'Хорошие' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-08",
+        "phrase": "Друзья смеялись от его шуток.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Шуток' is the genitive plural after 'от', showing the cause. Note the fleeting vowel that appears in the genitive plural form."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-09",
+        "phrase": "У него много добрых шуток.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 'Шуток' takes the genitive plural after 'много'. 'Добрых' agrees in the genitive plural with the fleeting-vowel noun."
+      },
+      {
+        "id": "NN-COMMS-SHUTKA-10",
+        "phrase": "Я придумал две новые шутки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'две' the noun takes the genitive singular 'шутки'. 'Новые' is the nominative plural adjective used with this numeral pattern."
+      }
+    ]
+  }
+]

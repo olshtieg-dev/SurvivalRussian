@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-NACHALSTVO",
+    "label": "Начальство",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for начальство (authorities).",
+    "missions": [
+      {
+        "id": "NN-STATE-NACHALSTVO-01",
+        "phrase": "Начальство приняло важное решение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Начальство' is nominative as the subject of 'приняло'. This neuter collective noun takes a neuter singular verb, and 'решение' is the accusative object."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-02",
+        "phrase": "Все боятся местное начальство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Начальство' is the accusative object here. As a neuter noun its accusative matches the nominative. 'Местное' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-03",
+        "phrase": "Мы ждём ответа от начальства.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Начальства' is genitive after 'от' to show the source of the answer. 'Ответа' is the genitive object of 'ждём'."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-04",
+        "phrase": "Рабочие пожаловались начальству.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Начальству' is the dative indirect object, the party that received the complaint. 'Рабочие' is the nominative plural subject."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-05",
+        "phrase": "Он всегда доволен начальством.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Начальством' is the instrumental governed by 'доволен', which always takes the instrumental for what one is satisfied with."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-06",
+        "phrase": "В отчёте говорится о начальстве.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Начальстве' uses the prepositional form after 'о' to mark the topic of the report. 'В отчёте' adds the location."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-07",
+        "phrase": "Новое начальство очень строгое.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Начальство' is nominative as the subject. 'Новое' and 'строгое' are agreeing neuter adjectives, intensified by 'очень'."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-08",
+        "phrase": "Решение начальства всех удивило.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Начальства' is genitive linking to 'решение' to mean the decision of the authorities. 'Всех' is the animate accusative object."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-09",
+        "phrase": "Я иду на встречу с начальством.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Начальством' takes the instrumental after 'с' to mean with the authorities. 'На встречу' is the accusative destination."
+      },
+      {
+        "id": "NN-STATE-NACHALSTVO-10",
+        "phrase": "К начальству всегда трудно попасть.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Начальству' takes the dative after 'к' to mean reaching the authorities. 'Трудно' is the impersonal predicate."
+      }
+    ]
+  }
+]

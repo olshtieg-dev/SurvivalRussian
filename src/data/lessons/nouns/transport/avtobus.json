@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-AVTOBUS",
+    "label": "Автобус",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for автобус (bus).",
+    "missions": [
+      {
+        "id": "NN-TRANS-AVTOBUS-01",
+        "phrase": "Автобус приехал точно вовремя.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Автобус' is nominative as the subject of 'приехал'. 'Точно вовремя' describes the punctual arrival."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-02",
+        "phrase": "Мы ждём последний автобус.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Автобус' is the accusative direct object of 'ждём'. As an inanimate masculine noun it matches the nominative form. 'Последний' is the agreeing adjective."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-03",
+        "phrase": "Я выхожу из автобуса здесь.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Автобуса' is genitive after 'из' to express getting out of the bus. 'Здесь' marks the stop."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-04",
+        "phrase": "Я еду на работу автобусом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Автобусом' is the instrumental expressing travel by bus. 'На работу' is the accusative destination."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-05",
+        "phrase": "В автобусе было много людей.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Автобусе' uses the prepositional form after 'в' for static location. 'Много людей' is the genitive plural count."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-06",
+        "phrase": "Дети бегут к автобусу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Автобусу' takes the dative after 'к' to mean running toward the bus. 'Дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-07",
+        "phrase": "На остановке стоят два автобуса.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Автобуса' takes the genitive singular after 'два'. 'На остановке' is the prepositional location."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-08",
+        "phrase": "Все автобусы сегодня опаздывают.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Автобусы' is nominative plural as the subject of 'опаздывают'. 'Все' quantifies them, and 'сегодня' adds the time."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-09",
+        "phrase": "Это окно нового автобуса.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Автобуса' is genitive linking to 'окно' to mean a window of the bus. 'Нового' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-TRANS-AVTOBUS-10",
+        "phrase": "Мы сели в автобус и поехали.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Автобус' takes the accusative after 'в' to express boarding the bus. 'Поехали' continues the action with 'и'."
+      }
+    ]
+  }
+]

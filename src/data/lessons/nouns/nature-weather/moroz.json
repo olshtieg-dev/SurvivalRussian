@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-MOROZ",
+    "label": "Мороз",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for мороз (frost).",
+    "missions": [
+      {
+        "id": "NN-NATURE-MOROZ-01",
+        "phrase": "Сегодня на улице сильный мороз.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мороз' is masculine and stays in the nominative as the subject. 'Сильный' is the agreeing masculine adjective, and 'на улице' gives the location."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-02",
+        "phrase": "Я очень люблю зимний мороз.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мороз' is inanimate, so its accusative matches the nominative as the object of 'люблю'. 'Зимний' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-03",
+        "phrase": "Сегодня нет сильного мороза.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Мороза' is the genitive form after 'нет', stating that there is no hard frost today. 'Сильного' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-04",
+        "phrase": "Деревья покрыты белым морозом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Морозом' takes the instrumental, naming what covers the trees. 'Белым' agrees in the masculine instrumental, completing the wintry image."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-05",
+        "phrase": "При сильном морозе печь топят.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Морозе' takes the prepositional after 'при', meaning during the frost. 'Сильном' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-06",
+        "phrase": "Дети рады первому морозу.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Морозу' takes the dative after the short adjective 'рады', which governs that case. 'Первому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-07",
+        "phrase": "Из-за мороза трудно дышать.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Мороза' takes the genitive after 'из-за', giving the cause of the difficulty. 'Трудно дышать' states the effect of the cold."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-08",
+        "phrase": "Зимой бывают крепкие морозы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Морозы' is the nominative plural subject of 'бывают'. 'Крепкие' agrees in the plural, and 'зимой' sets the season."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-09",
+        "phrase": "Мы боимся ночных морозов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of fear. 'Морозов' is the genitive plural required by 'боимся', which governs the genitive. 'Ночных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-NATURE-MOROZ-10",
+        "phrase": "После мороза наступила оттепель.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Мороза' takes the genitive after 'после', placing the thaw in time. 'Наступила' marks the change of weather."
+      }
+    ]
+  }
+]

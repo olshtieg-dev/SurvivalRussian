@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-RODINA",
+    "label": "Родина",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for родина (homeland).",
+    "missions": [
+      {
+        "id": "NN-MOTION-RODINA-01",
+        "phrase": "Моя родина очень красивая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Родина' stays in the nominative as the subject. 'Моя' shows possession, and 'красивая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-MOTION-RODINA-02",
+        "phrase": "Я люблю свою родину.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Родину' is the accusative direct object of 'люблю'. 'Свою' agrees in the feminine accusative, showing it is one's own."
+      },
+      {
+        "id": "NN-MOTION-RODINA-03",
+        "phrase": "Он далеко от родины.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Родины' is the genitive after 'от', marking distance from the homeland. A core separation pattern."
+      },
+      {
+        "id": "NN-MOTION-RODINA-04",
+        "phrase": "Солдаты служат родине верно.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Родине' is the dative required by 'служат', the one served. 'Верно' adds the manner of service."
+      },
+      {
+        "id": "NN-MOTION-RODINA-05",
+        "phrase": "Он думает о родине каждый день.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О родине' uses the prepositional form 'родине' after 'о' to mark the topic of thinking."
+      },
+      {
+        "id": "NN-MOTION-RODINA-06",
+        "phrase": "Мы гордимся своей родиной.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Родиной' is the instrumental required by 'гордимся', the source of pride. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-MOTION-RODINA-07",
+        "phrase": "На родине у меня много друзей.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На родине' uses the prepositional form after 'на' to show location. The possession frame 'у меня' introduces the friends."
+      },
+      {
+        "id": "NN-MOTION-RODINA-08",
+        "phrase": "Он вернулся на родину весной.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Родину' is the accusative after 'на' marking the destination of return. 'Весной' adds the time."
+      },
+      {
+        "id": "NN-MOTION-RODINA-09",
+        "phrase": "Защита родины - наш долг.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Родины' is the genitive modifying 'защита', meaning defence of the homeland. A common nominal phrase."
+      },
+      {
+        "id": "NN-MOTION-RODINA-10",
+        "phrase": "У разных людей разные родины.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Родины' is the nominative plural subject. 'Разные' is the agreeing plural adjective in this comparison of people."
+      }
+    ]
+  }
+]

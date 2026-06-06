@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PRIYATEL",
+    "label": "Приятель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for приятель (buddy).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PRIYATEL-01",
+        "phrase": "Мой старый приятель приехал вчера.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Приятель' is the masculine nominative subject of 'приехал'. 'Мой' and 'старый' agree in the masculine, and 'вчера' adds time. A warm everyday sentence."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-02",
+        "phrase": "Я встретил школьного приятеля.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Приятеля' takes the genitive-like accusative because приятель is animate masculine. 'Школьного' agrees in the animate accusative. A core animacy pattern."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-03",
+        "phrase": "У меня нет близкого приятеля.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Приятеля' is genitive after 'нет' to express that there is no such friend. 'Близкого' agrees in the masculine genitive, and 'у меня' frames the possessor."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-04",
+        "phrase": "Я позвонил своему приятелю утром.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Приятелю' is the dative object of 'позвонил', the one called. 'Своему' agrees in the masculine dative, and 'утром' adds time. A natural everyday action."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-05",
+        "phrase": "Я иду в кино с приятелем.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Приятелем' is instrumental after 'с' to mark who goes along. 'В кино' shows the destination. A common plan-making sentence."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-06",
+        "phrase": "Мы говорили о нашем приятеле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О приятеле' uses the prepositional form 'приятеле' after 'о' to express talking about. 'Нашем' agrees in the masculine prepositional. A natural conversation frame."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-07",
+        "phrase": "Приятель помог мне с переездом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Приятель' is the nominative subject of 'помог'. 'Мне' is the dative recipient, and 'с переездом' is instrumental of the matter. A grateful everyday sentence."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-08",
+        "phrase": "Мои приятели любят футбол.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Приятели' is the nominative plural subject of 'любят'. 'Мои' agrees in the plural, and 'футбол' is the accusative object. Good for plural practice."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-09",
+        "phrase": "Я пригласил всех приятелей на день рождения.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Приятелей' takes the genitive-plural ending as the animate accusative plural of 'пригласил'. 'Всех' agrees. Reinforces animacy in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-PRIYATEL-10",
+        "phrase": "У меня много хороших приятелей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Приятелей' is the genitive plural required after 'много'. 'Хороших' agrees in the genitive plural, and 'у меня' frames possession."
+      }
+    ]
+  }
+]

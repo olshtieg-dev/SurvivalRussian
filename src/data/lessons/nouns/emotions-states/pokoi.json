@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-POKOI",
+    "label": "Покой",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for покой (calm).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-POKOI-01",
+        "phrase": "В доме царит полный покой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Покой' is a masculine noun in the nominative as the subject of 'царит'. 'Полный' is the agreeing masculine adjective, and 'в доме' locates the calm. A clean atmospheric statement."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-02",
+        "phrase": "Я наконец нашёл душевный покой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Покой' is inanimate masculine, so the accusative matches the nominative form. 'Нашёл' takes it as the direct object, and 'душевный' agrees as masculine. A heartfelt everyday phrase."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-03",
+        "phrase": "Здесь нет никакого покоя.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Покоя' takes the genitive after 'нет' to express that calm is lacking. 'Никакого' reinforces the negation in the masculine genitive. A core negation pattern."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-04",
+        "phrase": "Шум мешает моему покою.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Покою' is the dative governed by 'мешает', which expresses interference with something. 'Моему' agrees in the masculine dative. A useful complaint pattern."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-05",
+        "phrase": "Старик дорожит своим покоем.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Покоем' is the instrumental required by 'дорожит', which means to value something. 'Своим' agrees in the masculine instrumental. A natural way to express what one cherishes."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-06",
+        "phrase": "Она мечтает о покое и тишине.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О покое' uses the prepositional form 'покое' after 'о' to mark the object of longing, joined by 'и' to 'тишине'. A common pattern for dreams and wishes."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-07",
+        "phrase": "Оставь меня в покое.",
+        "fullAnalysis": "Strategic focus: Prepositional in a fixed expression. 'В покое' uses the prepositional after 'в' in the set phrase meaning leave me alone. A high-frequency idiom worth memorising whole."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-08",
+        "phrase": "После работы мне нужен покой.",
+        "fullAnalysis": "Strategic focus: Nominative with dative experiencer. 'Покой' is the nominative subject of the predicate 'нужен', which agrees as masculine. 'Мне' is the dative experiencer. Highly reusable for stating needs."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-09",
+        "phrase": "Покой важнее денег и славы.",
+        "fullAnalysis": "Strategic focus: Nominative in comparison. 'Покой' stays nominative as the subject. 'Важнее' is the comparative predicate, and 'денег и славы' are genitives marking what it is compared to. A reflective statement."
+      },
+      {
+        "id": "NN-EMOTION-POKOI-10",
+        "phrase": "Этот тихий покой очень приятен.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Покой' is nominative as the subject. 'Этот тихий' agrees as masculine, and 'приятен' is the short-form predicate intensified by 'очень'. A clean descriptive card."
+      }
+    ]
+  }
+]

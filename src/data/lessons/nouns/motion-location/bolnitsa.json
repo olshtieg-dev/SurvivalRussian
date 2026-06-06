@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-BOLNITSA",
+    "label": "Больница",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for больница (hospital).",
+    "missions": [
+      {
+        "id": "NN-MOTION-BOLNITSA-01",
+        "phrase": "Новая больница очень большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Больница' is feminine and stays in the nominative as the subject. 'Новая' and 'большая' are the agreeing feminine adjectives, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-02",
+        "phrase": "Завтра я еду в больницу.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Больницу' takes the accusative after 'в' to express motion toward a place. 'Еду' shows directed movement, and 'завтра' sets the time."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-03",
+        "phrase": "Рядом с домом нет больницы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Больницы' is the genitive form after 'нет', stating that no hospital exists nearby. 'Рядом с домом' gives the location frame."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-04",
+        "phrase": "Врач идёт к больнице.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Больнице' takes the dative after 'к', expressing motion toward the building. 'Идёт' shows the doctor approaching on foot."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-05",
+        "phrase": "Она работает в больнице медсестрой.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В больнице' uses the prepositional form 'больнице' after 'в' to mean working inside the hospital. 'Медсестрой' is the instrumental of role."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-06",
+        "phrase": "Мы видим большую больницу впереди.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Больницу' is the accusative object of 'видим'. 'Большую' agrees in the feminine accusative, and 'впереди' marks where it stands."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-07",
+        "phrase": "Перед больницей стоит скорая помощь.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Больницей' takes the instrumental after 'перед', meaning in front of the hospital. 'Стоит' fixes the ambulance in place."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-08",
+        "phrase": "В городе несколько новых больниц.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Больниц' is the genitive plural required by 'несколько'. 'Новых' agrees in the genitive plural, and 'в городе' sets the place."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-09",
+        "phrase": "Эти больницы хорошо оборудованы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Больницы' is the nominative plural subject. 'Эти' agrees in the plural, and the predicate 'оборудованы' describes their condition."
+      },
+      {
+        "id": "NN-MOTION-BOLNITSA-10",
+        "phrase": "Дорога ведёт прямо к больнице.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Больнице' takes the dative after 'к' to show where the road leads. 'Прямо' emphasizes the straight route toward the building."
+      }
+    ]
+  }
+]

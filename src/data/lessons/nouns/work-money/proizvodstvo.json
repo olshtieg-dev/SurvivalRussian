@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-PROIZVODSTVO",
+    "label": "Производство",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for производство (production).",
+    "missions": [
+      {
+        "id": "NN-WORK-PROIZVODSTVO-01",
+        "phrase": "Производство выросло в этом году.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Производство' is a neuter noun in the nominative as the subject of 'выросло', which agrees in neuter gender. 'В этом году' sets the time. A clean economic statement."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-02",
+        "phrase": "Завод увеличил производство автомобилей.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Производство' is neuter, so its accusative matches the nominative form. 'Увеличил' takes it as the direct object, and 'автомобилей' is a genitive complement. Useful business language."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-03",
+        "phrase": "У нас нет своего производства.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Производства' takes the genitive after 'нет' to express that something is lacking. 'Своего' agrees in the neuter genitive. A core negation pattern."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-04",
+        "phrase": "Компания вложила деньги в производство.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В производство' uses the accusative after 'в' to mark where the money goes. 'Вложила' agrees with the feminine subject 'компания'. Practical for finance talk."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-05",
+        "phrase": "Он работает на производстве десять лет.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На производстве' uses the prepositional form 'производстве' after 'на' to mark the workplace. 'Десять лет' gives the duration. A common employment phrase."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-06",
+        "phrase": "Руководство довольно производством.",
+        "fullAnalysis": "Strategic focus: Instrumental after a short adjective. 'Производством' is the instrumental required by 'довольно', which expresses satisfaction with something. A useful evaluative pattern."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-07",
+        "phrase": "Мы говорили о новом производстве.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О производстве' uses the prepositional after 'о' to mark the topic. 'Новом' agrees in the neuter prepositional. A natural discussion frame."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-08",
+        "phrase": "В городе работают крупные производства.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Производства' is the nominative plural subject of 'работают'. 'Крупные' agrees in the plural, and 'в городе' locates them. A simple plural model."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-09",
+        "phrase": "В стране много вредных производств.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Производств' is the genitive plural after 'много', formed without an ending. 'Вредных' agrees in the genitive plural. A useful quantity pattern."
+      },
+      {
+        "id": "NN-WORK-PROIZVODSTVO-10",
+        "phrase": "Современное производство очень эффективно.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Производство' is nominative as the subject. 'Современное' is the agreeing neuter adjective, and 'эффективно' is the short-form predicate intensified by 'очень'. A clean descriptive card."
+      }
+    ]
+  }
+]

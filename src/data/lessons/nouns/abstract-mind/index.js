@@ -5,11 +5,15 @@ import interesSet from './interes.json';
 import kharakterSet from './kharakter.json';
 import nadezhdaSet from './nadezhda.json';
 import pamyatSet from './pamyat.json';
+import ponyatieSet from './ponyatie.json';
+import predstavlenieSet from './predstavlenie.json';
 import soznanieSet from './soznanie.json';
+import tainaSet from './taina.json';
 import umSet from './um.json';
 import veraSet from './vera.json';
 import vnimanieSet from './vnimanie.json';
 import volyaSet from './volya.json';
+import vospominanieSet from './vospominanie.json';
 import vyrazhenieSet from './vyrazhenie.json';
 import vzglyadSet from './vzglyad.json';
 import zhelanieSet from './zhelanie.json';
@@ -23,11 +27,15 @@ const abstractMindNounsData = [
   ...kharakterSet,
   ...nadezhdaSet,
   ...pamyatSet,
+  ...ponyatieSet,
+  ...predstavlenieSet,
   ...soznanieSet,
+  ...tainaSet,
   ...umSet,
   ...veraSet,
   ...vnimanieSet,
   ...volyaSet,
+  ...vospominanieSet,
   ...vyrazhenieSet,
   ...vzglyadSet,
   ...zhelanieSet,

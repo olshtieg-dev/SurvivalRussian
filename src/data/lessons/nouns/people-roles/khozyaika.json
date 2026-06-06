@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KHOZYAIKA",
+    "label": "Хозяйка",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for хозяйка (hostess).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-01",
+        "phrase": "Наша хозяйка очень гостеприимна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Хозяйка' is in the nominative as the subject. 'Наша' is the agreeing feminine possessive, and 'гостеприимна' is a short-form predicate adjective. A natural way to praise a host."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-02",
+        "phrase": "Мы поблагодарили нашу хозяйку.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Хозяйку' is the accusative direct object of 'поблагодарили'. As a feminine noun it has its own accusative ending, and 'нашу' agrees with it. A polite social pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-03",
+        "phrase": "В доме сейчас нет хозяйки.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Хозяйки' is in the genitive after 'нет', which demands it. 'В доме' gives the location. A standard way to say someone is absent."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-04",
+        "phrase": "Гости подошли к хозяйке.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Хозяйке' is in the dative after the preposition 'к', marking the person approached. 'Гости подошли' is the subject and verb. A common social scene."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-05",
+        "phrase": "Я познакомился с хозяйкой дома.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Хозяйкой' is in the instrumental after 'с', the form required by 'познакомиться с'. 'Дома' is a genitive modifier. A polite introduction pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-06",
+        "phrase": "Все говорят о новой хозяйке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Хозяйке' is in the prepositional after 'о', expressing the topic. 'Новой' agrees in the feminine prepositional. A natural discussion pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-07",
+        "phrase": "Здесь работают три хозяйки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'три' the noun takes the genitive singular form 'хозяйки'. 'Здесь работают' completes the clause. A useful counting pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-08",
+        "phrase": "Эти хозяйки готовят прекрасно.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Хозяйки' is the nominative plural subject of 'готовят'. 'Эти' agrees in the plural and 'прекрасно' adds the manner. A clean model for plural subjects."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-09",
+        "phrase": "Мы пригласили опытных хозяек.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Хозяек' is the accusative plural with a fleeting vowel, matching the genitive plural for animate nouns. 'Опытных' agrees in form. A practical invitation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIKA-10",
+        "phrase": "Без хозяйки праздник не начнётся.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Хозяйки' is in the genitive after the preposition 'без', meaning without the hostess. 'Праздник не начнётся' is the main clause. A natural conditional remark."
+      }
+    ]
+  }
+]

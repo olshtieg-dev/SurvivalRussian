@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-ZHITEL",
+    "label": "Житель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for житель (resident).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-ZHITEL-01",
+        "phrase": "Это местный житель деревни.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Житель' stays in the nominative as the subject. 'Местный' is the agreeing masculine adjective, and 'деревни' is a genitive naming the village."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-02",
+        "phrase": "Я встретил старого жителя.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Жителя' takes the genitive-shaped accusative because 'житель' is animate masculine, serving as the object of 'встретил'. 'Старого' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-03",
+        "phrase": "В доме нет ни одного жителя.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Жителя' takes the genitive after 'нет ни одного', stressing that no resident is present. 'В доме' locates the emptiness."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-04",
+        "phrase": "Письмо адресовано жителю города.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Жителю' is in the dative as the addressee of the letter. 'Города' is a genitive specifying the city."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-05",
+        "phrase": "Я долго говорил с жителем села.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Жителем' is in the instrumental after 'с', marking the resident as conversation partner. 'Села' names the village."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-06",
+        "phrase": "В этом жителе много доброты.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Жителе' takes the prepositional form after 'в' to show where the kindness lies. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-07",
+        "phrase": "Местные жители очень дружелюбные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Жители' is the nominative plural subject. 'Местные' and 'дружелюбные' agree in the plural, with 'очень' intensifying."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-08",
+        "phrase": "Власти спросили мнение жителей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Жителей' takes the genitive plural after 'мнение', expressing whose opinion it is. 'Спросили' names the action."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-09",
+        "phrase": "Полиция опросила всех жителей.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Жителей' takes the genitive-shaped accusative plural because residents are animate, as the object of 'опросила'. 'Всех' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-ZHITEL-10",
+        "phrase": "Каждый житель платит налоги.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Житель' is the nominative subject of 'платит'. 'Каждый' agrees in the masculine, and 'налоги' is the accusative plural object."
+      }
+    ]
+  }
+]

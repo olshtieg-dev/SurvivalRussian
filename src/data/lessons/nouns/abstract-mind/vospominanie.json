@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-VOSPOMINANIE",
+    "label": "Воспоминание",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for воспоминание (memory).",
+    "missions": [
+      {
+        "id": "NN-MIND-VOSPOMINANIE-01",
+        "phrase": "Это приятное воспоминание.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Воспоминание' is a neuter '-ние' noun in the nominative as the predicate. 'Приятное' is the agreeing neuter adjective describing the memory."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-02",
+        "phrase": "Я храню это воспоминание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Воспоминание' is neuter and inanimate, so its accusative matches the nominative as the object of 'храню'. 'Это' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-03",
+        "phrase": "От воспоминания стало грустно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Воспоминания' takes the genitive after 'от', giving the cause of the sadness. 'Стало грустно' states the emotional result."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-04",
+        "phrase": "Я вернулся к старому воспоминанию.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Воспоминанию' takes the dative after 'к', expressing a return to the memory. 'Старому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-05",
+        "phrase": "Она живёт одним воспоминанием.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Воспоминанием' takes the instrumental to show what she lives by. 'Одним' agrees in the neuter instrumental, stressing a single memory."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-06",
+        "phrase": "В этом воспоминании много тепла.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Воспоминании' takes the prepositional after 'в', placing the warmth inside the memory. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-07",
+        "phrase": "У меня нет такого воспоминания.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Воспоминания' is the genitive after 'нет', stating that no such memory exists. 'Такого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-08",
+        "phrase": "Детские воспоминания самые яркие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Воспоминания' is the nominative plural subject. 'Детские' and 'самые яркие' agree in the plural, describing childhood memories."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-09",
+        "phrase": "Я делюсь воспоминаниями с друзьями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Воспоминаниями' takes the instrumental plural after 'делюсь', which governs that case. 'С друзьями' names the people sharing them."
+      },
+      {
+        "id": "NN-MIND-VOSPOMINANIE-10",
+        "phrase": "Из детских воспоминаний рождаются книги.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Воспоминаний' is the genitive plural after 'из', the source of the books. 'Детских' agrees in the genitive plural."
+      }
+    ]
+  }
+]

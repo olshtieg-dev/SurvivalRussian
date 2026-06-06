@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-MASLO",
+    "label": "Масло",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for масло (butter; oil).",
+    "missions": [
+      {
+        "id": "NN-FOOD-MASLO-01",
+        "phrase": "Это свежее сливочное масло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Масло' stays in the nominative as the subject. 'Свежее' and 'сливочное' are the agreeing neuter adjectives, and 'это' introduces it."
+      },
+      {
+        "id": "NN-FOOD-MASLO-02",
+        "phrase": "Я купил масло в магазине.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Масло' is the accusative direct object of 'купил'. As a neuter noun its accusative matches the nominative, with 'в магазине' locating the purchase."
+      },
+      {
+        "id": "NN-FOOD-MASLO-03",
+        "phrase": "В холодильнике нет масла.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Масла' takes the genitive after 'нет', stating that there is no butter. 'В холодильнике' locates the lack."
+      },
+      {
+        "id": "NN-FOOD-MASLO-04",
+        "phrase": "Хлеб с маслом очень вкусный.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Маслом' is in the instrumental after 'с', meaning bread together with butter. 'Вкусный' praises the result."
+      },
+      {
+        "id": "NN-FOOD-MASLO-05",
+        "phrase": "Добавь немного масла в кашу.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Масла' takes the genitive after 'немного', expressing a small amount. The imperative 'добавь' directs the action into the porridge."
+      },
+      {
+        "id": "NN-FOOD-MASLO-06",
+        "phrase": "Рыба жарится на масле.",
+        "fullAnalysis": "Strategic focus: Prepositional of medium. 'Масле' takes the prepositional form after 'на' to show the oil the fish is fried in. A natural cooking pattern."
+      },
+      {
+        "id": "NN-FOOD-MASLO-07",
+        "phrase": "Я намазал масло на хлеб.",
+        "fullAnalysis": "Strategic focus: Accusative object with direction. 'Масло' is the accusative object of 'намазал', while 'на хлеб' shows where it was spread. The form matches the nominative for this neuter noun."
+      },
+      {
+        "id": "NN-FOOD-MASLO-08",
+        "phrase": "Цена масла снова выросла.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Масла' takes the genitive after 'цена', expressing the price of the butter. 'Выросла' agrees with the feminine subject 'цена'."
+      },
+      {
+        "id": "NN-FOOD-MASLO-09",
+        "phrase": "Мы пробовали разные масла.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Масла' is the accusative plural object of 'пробовали', matching the nominative plural form. 'Разные' agrees in the plural, describing the varieties."
+      },
+      {
+        "id": "NN-FOOD-MASLO-10",
+        "phrase": "В этом блюде много масла.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Масла' takes the genitive after 'много', expressing a large amount. 'В этом блюде' locates the oil in the dish."
+      }
+    ]
+  }
+]

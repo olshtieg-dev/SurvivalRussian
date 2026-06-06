@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-POROG",
+    "label": "Порог",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for порог (threshold).",
+    "missions": [
+      {
+        "id": "NN-MOTION-POROG-01",
+        "phrase": "Высокий порог мешает входить.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Порог' stays in the nominative as the subject of 'мешает'. 'Высокий' is the agreeing masculine adjective describing it."
+      },
+      {
+        "id": "NN-MOTION-POROG-02",
+        "phrase": "Он переступил порог дома.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Порог' is the inanimate masculine accusative object of 'переступил', identical to its nominative form. 'Дома' is a genitive modifier."
+      },
+      {
+        "id": "NN-MOTION-POROG-03",
+        "phrase": "У порога стоит большая собака.",
+        "fullAnalysis": "Strategic focus: Genitive of location. 'Порога' is the genitive after 'у', meaning beside the threshold. The fixed final stress keeps the vowel through declension."
+      },
+      {
+        "id": "NN-MOTION-POROG-04",
+        "phrase": "Гость подошёл к порогу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Порогу' is the dative after 'к', marking movement toward the threshold. A core motion-and-location pattern."
+      },
+      {
+        "id": "NN-MOTION-POROG-05",
+        "phrase": "Кошка сидит на пороге.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На пороге' uses the prepositional form 'пороге' after 'на' to show position on the threshold."
+      },
+      {
+        "id": "NN-MOTION-POROG-06",
+        "phrase": "Я споткнулся о порог.",
+        "fullAnalysis": "Strategic focus: Accusative with 'о'. 'Порог' is the accusative after 'о' meaning to trip against the threshold. The inanimate masculine accusative matches the nominative."
+      },
+      {
+        "id": "NN-MOTION-POROG-07",
+        "phrase": "Перед порогом лежит коврик.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 'Порогом' is the instrumental after 'перед', meaning in front of the threshold. 'Коврик' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-POROG-08",
+        "phrase": "В старых домах высокие пороги.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пороги' is the nominative plural subject. 'Высокие' is the agreeing plural adjective, and 'в домах' gives the location."
+      },
+      {
+        "id": "NN-MOTION-POROG-09",
+        "phrase": "Мы покрасили все пороги дома.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Пороги' is the inanimate accusative plural object of 'покрасили', matching the nominative plural. 'Все' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-POROG-10",
+        "phrase": "Не стой на пороге, заходи.",
+        "fullAnalysis": "Strategic focus: Prepositional in commands. 'На пороге' is the prepositional location in the negated imperative. A natural everyday invitation to come inside."
+      }
+    ]
+  }
+]

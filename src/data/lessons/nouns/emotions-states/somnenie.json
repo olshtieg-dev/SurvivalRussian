@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SOMNENIE",
+    "label": "Сомнение",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for сомнение (doubt).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SOMNENIE-01",
+        "phrase": "Меня мучает одно сомнение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сомнение' is the neuter nominative subject of 'мучает'. 'Одно' agrees in the neuter, and 'меня' is the accusative object. A natural sentence about inner unease."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-02",
+        "phrase": "Я чувствую сильное сомнение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сомнение' is the neuter accusative object of 'чувствую', identical to the nominative. 'Сильное' agrees in the neuter accusative. A direct expression of doubt."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-03",
+        "phrase": "У меня нет ни тени сомнения.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Сомнения' is genitive after 'ни тени' to stress total certainty. 'У меня' frames the speaker. A vivid idiom for having no doubt."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-04",
+        "phrase": "Он поддался внезапному сомнению.",
+        "fullAnalysis": "Strategic focus: Dative after the verb. 'Сомнению' is dative, governed by 'поддался'. 'Внезапному' agrees in the neuter dative. A useful pattern for yielding to a feeling."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-05",
+        "phrase": "Она смотрела на меня с сомнением.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Сомнением' is instrumental after 'с' to describe how she looked. 'На меня' marks the direction of the gaze. A natural emotional sentence."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-06",
+        "phrase": "В его словах было сомнение.",
+        "fullAnalysis": "Strategic focus: Nominative with prepositional frame. 'Сомнение' is the neuter nominative subject of 'было'. 'В его словах' is prepositional location. A reflective observation."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-07",
+        "phrase": "Без сомнения, ты прав.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Сомнения' is genitive after 'без' in the fixed expression meaning without a doubt. A high-frequency way to express certainty."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-08",
+        "phrase": "Меня одолевают тяжёлые сомнения.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Сомнения' is the neuter nominative plural subject of 'одолевают'. 'Тяжёлые' agrees in the plural, and 'меня' is the accusative object. Good for plural practice."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-09",
+        "phrase": "Я постарался развеять её сомнения.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Сомнения' is the neuter accusative plural object of 'развеять', matching the nominative plural. 'Её' marks whose doubts. A natural reassurance sentence."
+      },
+      {
+        "id": "NN-EMOTION-SOMNENIE-10",
+        "phrase": "У него много сомнений насчёт плана.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Сомнений' is the genitive plural required after 'много'. 'Насчёт плана' is genitive of topic, and 'у него' frames the person. A useful planning sentence."
+      }
+    ]
+  }
+]

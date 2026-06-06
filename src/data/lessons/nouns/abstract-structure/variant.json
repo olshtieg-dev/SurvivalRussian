@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-VARIANT",
+    "label": "Вариант",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for вариант (variant).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-VARIANT-01",
+        "phrase": "Это лучший вариант для нас.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Вариант' is the nominative as the predicate noun. 'Лучший' is the agreeing masculine adjective giving the evaluation."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-02",
+        "phrase": "Мы выбрали другой вариант.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вариант' is the inanimate masculine accusative object of 'выбрали', identical to the nominative. 'Другой' is the agreeing adjective."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-03",
+        "phrase": "У этого варианта есть минусы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Варианта' is the genitive after 'у', the option that has drawbacks. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-04",
+        "phrase": "Я предпочитаю первый вариант второму.",
+        "fullAnalysis": "Strategic focus: Accusative with dative. 'Вариант' is the accusative object of 'предпочитаю', while 'второму' is the dative of the rejected option. 'Первый' agrees with the object."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-05",
+        "phrase": "Мы думаем о новом варианте.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О варианте' uses the prepositional form 'варианте' after 'о' to mark the topic. 'Новом' agrees in the masculine prepositional case."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-06",
+        "phrase": "Мы согласны с этим вариантом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Вариантом' is the instrumental after 'с', the option agreed with. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-07",
+        "phrase": "Без запасного варианта рискованно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Варианта' is the genitive after 'без', marking the missing backup. 'Запасного' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-08",
+        "phrase": "Менеджер предложил несколько вариантов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantifier. 'Вариантов' is the genitive plural required by 'несколько'. The quantifier governs this counting form."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-09",
+        "phrase": "Все варианты кажутся хорошими.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Варианты' is the nominative plural subject of 'кажутся'. 'Все' agrees with it, and 'хорошими' is an instrumental predicate."
+      },
+      {
+        "id": "NN-STRUCT-VARIANT-10",
+        "phrase": "Мы рассмотрели все варианты внимательно.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Варианты' is the inanimate accusative plural object of 'рассмотрели', matching the nominative plural. 'Все' agrees, and 'внимательно' adds the manner."
+      }
+    ]
+  }
+]

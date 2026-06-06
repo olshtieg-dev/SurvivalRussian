@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-TERRITORIYA",
+    "label": "Территория",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for территория (territory).",
+    "missions": [
+      {
+        "id": "NN-MOTION-TERRITORIYA-01",
+        "phrase": "Эта территория очень большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Территория' is in the nominative as the subject. 'Эта' points at a specific area, 'большая' is the agreeing feminine adjective, and 'очень' intensifies. A clean descriptive model."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-02",
+        "phrase": "Они охраняют свою территорию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Территорию' is the accusative direct object of 'охраняют'. 'Свою' agrees in the feminine accusative, marking it as their own. A common security context."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-03",
+        "phrase": "Часть территории сейчас закрыта.",
+        "fullAnalysis": "Strategic focus: Genitive of the whole. 'Территории' is in the genitive after 'часть', expressing a part of the whole. 'Закрыта' agrees with 'часть' in feminine. A useful partitive pattern."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-04",
+        "phrase": "Мы движемся к территории завода.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Территории' is in the dative after 'к', marking the goal of motion. 'Завода' is a genitive modifier showing whose territory. Useful for directional language."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-05",
+        "phrase": "За этой территорией начинается лес.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'за'. 'Территорией' is in the instrumental after 'за', marking what lies beyond. 'Лес начинается' is the subject and verb. A strong spatial pattern."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-06",
+        "phrase": "На территории парка много деревьев.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Территории' is in the prepositional after 'на', marking where the trees are. 'Парка' is a genitive modifier, and 'много деревьев' is the quantified subject. Great for location practice."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-07",
+        "phrase": "Войти на территорию запрещено.",
+        "fullAnalysis": "Strategic focus: Accusative with 'на'. 'Территорию' is in the accusative after 'на', marking the destination of entry. 'Войти' is the infinitive and 'запрещено' states the rule. A common sign warning."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-08",
+        "phrase": "Эти территории очень богаты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Территории' is the nominative plural subject. 'Эти' agrees in the plural and 'богаты' is the short-form predicate. A clean model for plural description."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-09",
+        "phrase": "Они потеряли часть своих территорий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Территорий' is in the genitive plural after 'часть'. 'Своих' agrees in the genitive plural. A useful pattern for talking about loss of land."
+      },
+      {
+        "id": "NN-MOTION-TERRITORIYA-10",
+        "phrase": "Без разрешения на территорию нельзя.",
+        "fullAnalysis": "Strategic focus: Accusative with 'на'. 'Территорию' is in the accusative after 'на', marking the place one may not enter. 'Без разрешения' is a genitive condition and 'нельзя' states the prohibition. A practical access rule."
+      }
+    ]
+  }
+]

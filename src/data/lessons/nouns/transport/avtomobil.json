@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-AVTOMOBIL",
+    "label": "Автомобиль",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for автомобиль (car).",
+    "missions": [
+      {
+        "id": "NN-TRANS-AVTOMOBIL-01",
+        "phrase": "Этот автомобиль очень дорогой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Автомобиль' is a masculine soft-sign noun staying in the nominative as the subject. 'Дорогой' is the agreeing masculine adjective, reinforced by 'очень'."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-02",
+        "phrase": "Вчера я купил новый автомобиль.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Автомобиль' is the accusative direct object of 'купил', identical to the nominative for this inanimate masculine noun. 'Новый' agrees, and 'вчера' sets the time."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-03",
+        "phrase": "У меня нет своего автомобиля.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Автомобиля' takes the genitive after 'нет' to express that none is owned. 'Своего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-04",
+        "phrase": "Мы едем на красном автомобиле.",
+        "fullAnalysis": "Strategic focus: Prepositional of means. 'Автомобиле' is the prepositional after 'на' to show what they travel in. 'Красном' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-05",
+        "phrase": "Он подошёл к старому автомобилю.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Автомобилю' takes the dative after 'к' to show motion toward. 'Старому' agrees in the masculine dative, and 'подошёл' gives the motion."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-06",
+        "phrase": "Дети любуются спортивным автомобилем.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Автомобилем' is the instrumental after 'любуются', which governs that case. 'Спортивным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-07",
+        "phrase": "На стоянке стоят дорогие автомобили.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Автомобили' is the nominative plural subject of 'стоят', taking the soft -и ending. 'Дорогие' agrees, and 'на стоянке' gives the location."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-08",
+        "phrase": "В городе много старых автомобилей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Автомобилей' is the genitive plural after 'много', taking the -ей ending for soft masculine nouns. 'Старых' agrees in the plural."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-09",
+        "phrase": "Мы говорили о новом автомобиле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Автомобиле' is the prepositional after 'о' to express the topic. 'Новом' agrees in the masculine prepositional, and 'говорили' introduces discussion."
+      },
+      {
+        "id": "NN-TRANS-AVTOMOBIL-10",
+        "phrase": "Автомобиль стоит перед домом.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Автомобиль' is nominative as the subject of 'стоит'. 'Перед домом' uses the instrumental to give the position of the car."
+      }
+    ]
+  }
+]

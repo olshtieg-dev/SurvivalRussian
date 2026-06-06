@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SHOFYOR",
+    "label": "Шофёр",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for шофёр (driver).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SHOFYOR-01",
+        "phrase": "Наш шофёр очень опытный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шофёр' stays in the nominative as the subject. 'Наш' shows possession, and 'опытный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-02",
+        "phrase": "Мы ждём нашего шофёра.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Шофёра' takes the genitive form for the animate masculine accusative object of 'ждём'. 'Нашего' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-03",
+        "phrase": "У этого шофёра новая машина.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Шофёра' is the genitive after 'у', the owner of the car. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-04",
+        "phrase": "Я дал документы шофёру.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Шофёру' is the dative recipient of 'дал'. 'Документы' is the accusative object being handed over."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-05",
+        "phrase": "Я сижу рядом с шофёром.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Шофёром' is the instrumental after 'с', naming who I sit beside. 'Рядом' reinforces the closeness."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-06",
+        "phrase": "Мы говорили о шофёре автобуса.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О шофёре' uses the prepositional form 'шофёре' after 'о' to mark the topic. 'Автобуса' is a genitive modifier."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-07",
+        "phrase": "Шофёр включил фары быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Шофёр' is the nominative subject of 'включил', while 'фары' is the accusative object. 'Быстро' adds the manner."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-08",
+        "phrase": "Опытные шофёры водят аккуратно.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Шофёры' is the nominative plural subject of 'водят'. 'Опытные' is the agreeing plural adjective, and 'аккуратно' adds the manner."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-09",
+        "phrase": "Компания наняла новых шофёров.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Шофёров' takes the genitive plural form for the animate accusative object of 'наняла'. 'Новых' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-SHOFYOR-10",
+        "phrase": "Пассажиры доверяют опытным шофёрам.",
+        "fullAnalysis": "Strategic focus: Dative plural object. 'Шофёрам' is the dative plural required by 'доверяют', the ones trusted. 'Опытным' agrees in the dative plural."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-GORLO",
+    "label": "Горло",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for горло (throat).",
+    "missions": [
+      {
+        "id": "NN-BODY-GORLO-01",
+        "phrase": "У меня сильно болит горло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Горло' is a neuter noun in the nominative as the subject of 'болит'. 'У меня' shows whose throat hurts, and 'сильно' adds intensity. The classic way to report illness."
+      },
+      {
+        "id": "NN-BODY-GORLO-02",
+        "phrase": "Врач осмотрел моё горло.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Горло' is neuter, so its accusative matches the nominative. 'Моё' agrees in the neuter accusative, and 'осмотрел' takes it as the direct object. Useful at the doctor."
+      },
+      {
+        "id": "NN-BODY-GORLO-03",
+        "phrase": "У него нет боли в горле.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В горле' uses the prepositional form 'горле' after 'в' to locate the pain. 'Нет боли' is a genitive of absence. A natural medical phrase."
+      },
+      {
+        "id": "NN-BODY-GORLO-04",
+        "phrase": "Кость застряла у меня в горле.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В горле' again uses the prepositional after 'в' to mark where something is stuck. 'Застряла' agrees with the feminine subject 'кость'. A vivid everyday situation."
+      },
+      {
+        "id": "NN-BODY-GORLO-05",
+        "phrase": "Я не чувствую своего горла.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Горла' takes the genitive after the negated verb 'не чувствую'. 'Своего' agrees in the neuter genitive. A useful negation pattern for sensations."
+      },
+      {
+        "id": "NN-BODY-GORLO-06",
+        "phrase": "Холодный воздух вреден горлу.",
+        "fullAnalysis": "Strategic focus: Dative of interest. 'Горлу' is the dative form marking what is affected by the cold air. 'Вреден' is the short adjective governing the dative. Good for health advice."
+      },
+      {
+        "id": "NN-BODY-GORLO-07",
+        "phrase": "Он говорил с больным горлом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'С больным горлом' uses the instrumental form 'горлом' after 'с' to describe an accompanying condition. 'Больным' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-BODY-GORLO-08",
+        "phrase": "Зимой у детей часто болят горла.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Горла' is the nominative plural subject of 'болят', which agrees in the plural. 'У детей' shows whose throats hurt. A natural seasonal observation."
+      },
+      {
+        "id": "NN-BODY-GORLO-09",
+        "phrase": "Лекарство для горла очень помогает.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Горла' takes the genitive after 'для' to express purpose. 'Помогает' completes the praise, and 'очень' intensifies. Practical for the pharmacy."
+      },
+      {
+        "id": "NN-BODY-GORLO-10",
+        "phrase": "После операции горло быстро зажило.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Горло' is nominative as the subject of 'зажило', which agrees in neuter gender. 'После операции' sets the time frame, and 'быстро' adds manner. A clean recovery sentence."
+      }
+    ]
+  }
+]

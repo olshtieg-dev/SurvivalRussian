@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-STRANITSA",
+    "label": "Страница",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for страница (page).",
+    "missions": [
+      {
+        "id": "NN-MOTION-STRANITSA-01",
+        "phrase": "Это последняя страница книги.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Страница' stays in the nominative as the subject. 'Последняя' is the agreeing feminine adjective, and 'книги' is a genitive specifying which book."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-02",
+        "phrase": "Открой следующую страницу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Страницу' is the accusative direct object of the imperative 'открой'. 'Следующую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-03",
+        "phrase": "Здесь нет первой страницы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Страницы' takes the genitive after 'нет', stating that the page is missing. 'Первой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-04",
+        "phrase": "Я вернулся к этой странице.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Странице' is in the dative after 'к', showing a return toward the page. 'Этой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-05",
+        "phrase": "Я доволен этой страницей.",
+        "fullAnalysis": "Strategic focus: Instrumental of satisfaction. 'Страницей' is in the instrumental, governed by 'доволен'. 'Этой' agrees in the feminine instrumental, expressing contentment with the page."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-06",
+        "phrase": "Ответ на этой странице.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Странице' takes the prepositional form after 'на' to show where the answer is. A natural way to point to a place on the page."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-07",
+        "phrase": "В книге триста страниц.",
+        "fullAnalysis": "Strategic focus: Genitive plural after numeral. 'Страниц' takes the genitive plural required after large numbers like 'триста'. 'В книге' locates the count."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-08",
+        "phrase": "Эти страницы очень интересные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Страницы' is the nominative plural subject. 'Эти' and 'интересные' agree in the plural, with 'очень' intensifying the praise."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-09",
+        "phrase": "Перейди на нужную страницу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Страницу' takes the accusative after 'на' to show movement onto the page. 'Нужную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-STRANITSA-10",
+        "phrase": "Я прочитал три страницы.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Страницы' takes the genitive singular form required after 'три'. 'Прочитал' names the completed reading."
+      }
+    ]
+  }
+]

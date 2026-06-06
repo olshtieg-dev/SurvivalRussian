@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-EKHO",
+    "label": "Эхо",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for эхо (echo).",
+    "missions": [
+      {
+        "id": "NN-COMMS-EKHO-01",
+        "phrase": "Эхо звучит в горах.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Эхо' is a neuter noun that does not decline; here it stays nominative as the subject of 'звучит'. 'В горах' gives the location."
+      },
+      {
+        "id": "NN-COMMS-EKHO-02",
+        "phrase": "Мы услышали громкое эхо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Эхо' is the indeclinable neuter accusative object of 'услышали', identical in form. 'Громкое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-COMMS-EKHO-03",
+        "phrase": "В пещере нет эха.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. Although эхо is usually indeclinable, in this fixed pattern 'нет эха' the genitive marks the absence. 'В пещере' gives the location."
+      },
+      {
+        "id": "NN-COMMS-EKHO-04",
+        "phrase": "Дети радовались эху в тоннеле.",
+        "fullAnalysis": "Strategic focus: Dative object. With 'радовались' the form 'эху' serves as the dative, the source of joy. 'В тоннеле' gives the location."
+      },
+      {
+        "id": "NN-COMMS-EKHO-05",
+        "phrase": "Мы говорили об эхе долго.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. After 'об' the prepositional form 'эхе' marks the topic of conversation. 'Долго' shows the duration."
+      },
+      {
+        "id": "NN-COMMS-EKHO-06",
+        "phrase": "Гора отвечала громким эхом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. The form 'эхом' is the instrumental, the means by which the mountain answered. 'Громким' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-COMMS-EKHO-07",
+        "phrase": "В этом зале сильное эхо.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Эхо' is the indeclinable neuter noun as the nominative subject. 'Сильное' is the agreeing neuter adjective, and 'в зале' gives the place."
+      },
+      {
+        "id": "NN-COMMS-EKHO-08",
+        "phrase": "Эхо повторило мои слова.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Эхо' is the nominative subject of 'повторило', which agrees in neuter gender. 'Слова' is the accusative object."
+      },
+      {
+        "id": "NN-COMMS-EKHO-09",
+        "phrase": "Туристы любят горное эхо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Эхо' is the indeclinable neuter accusative object of 'любят'. 'Горное' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-COMMS-EKHO-10",
+        "phrase": "В горах живёт удивительное эхо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Эхо' is the nominative subject of 'живёт' in this poetic phrasing. 'Удивительное' is the agreeing neuter adjective, and 'в горах' gives the place."
+      }
+    ]
+  }
+]

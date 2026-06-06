@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-UCHASTOK",
+    "label": "Участок",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for участок (plot; area).",
+    "missions": [
+      {
+        "id": "NN-MOTION-UCHASTOK-01",
+        "phrase": "Этот участок земли очень большой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Участок' is the masculine nominative subject. 'Этот' points at it, 'земли' is genitive of possession, and 'большой' is the agreeing adjective. A clean descriptive frame."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-02",
+        "phrase": "Мы купили небольшой участок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Участок' is the inanimate masculine accusative object of 'купили', identical to the nominative. 'Небольшой' agrees in the masculine accusative. A practical purchase sentence."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-03",
+        "phrase": "Около нашего участка течёт река.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Участка' is genitive after 'около' to mark proximity. The fleeting vowel in -ток drops, giving the stem участк-. 'Нашего' agrees in the genitive."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-04",
+        "phrase": "На участке растут старые яблони.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На участке' uses the prepositional form 'участке' after 'на' to mark where the trees grow. 'Старые яблони' is the nominative plural subject. A typical garden scene."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-05",
+        "phrase": "Мы идём к нашему участку.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К участку' uses the dative form 'участку' after 'к' to mark movement toward. 'Нашему' agrees in the masculine dative. A natural sentence of motion."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-06",
+        "phrase": "За домом начинается лесной участок.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location frame. 'Участок' is nominative as the subject of 'начинается'. 'Лесной' is the agreeing adjective, and 'за домом' is instrumental location. Good for describing terrain."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-07",
+        "phrase": "Он гордится своим участком.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Участком' is instrumental, governed by 'гордится'. 'Своим' agrees in the masculine instrumental. A useful pattern for expressing pride."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-08",
+        "phrase": "Этот участок дороги очень опасный.",
+        "fullAnalysis": "Strategic focus: Nominative subject in a figurative sense. 'Участок' is nominative, here meaning a stretch of road. 'Дороги' is genitive of relation, and 'опасный' agrees. Shows the noun's broader 'section' meaning."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-09",
+        "phrase": "Соседние участки уже распроданы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Участки' is the nominative plural subject. 'Соседние' agrees in the plural, and 'распроданы' is the short plural participle. Good for plural practice."
+      },
+      {
+        "id": "NN-MOTION-UCHASTOK-10",
+        "phrase": "В деревне много свободных участков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Участков' is the genitive plural required after 'много'. 'Свободных' agrees in the genitive plural, and 'в деревне' is prepositional location. A useful quantity pattern."
+      }
+    ]
+  }
+]
