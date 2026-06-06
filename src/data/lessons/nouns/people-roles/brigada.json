@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-BRIGADA",
+    "label": "Бригада",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for бригада (crew; brigade).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-BRIGADA-01",
+        "phrase": "Наша бригада работает очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бригада' is the feminine nominative subject. 'Наша' agrees in the feminine nominative and 'быстро' modifies the verb. A simple workplace statement."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-02",
+        "phrase": "Начальник собрал всю бригаду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бригаду' is the accusative direct object of 'собрал'. 'Всю' agrees in the feminine accusative. Note that as a collective the noun declines like an inanimate feminine."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-03",
+        "phrase": "В бригаде десять опытных рабочих.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Бригаде' is prepositional after 'в', the group within which the workers are. 'Десять' governs the genitive plural 'рабочих'. A staffing description."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-04",
+        "phrase": "Он работает в строительной бригаде.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Бригаде' is prepositional after 'в', expressing membership in a crew. 'Строительной' agrees in the feminine prepositional. A common job phrase."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-05",
+        "phrase": "Бригадир доволен своей бригадой.",
+        "fullAnalysis": "Strategic focus: Instrumental with adjective. 'Бригадой' is instrumental after 'доволен', which governs the instrumental. 'Своей' agrees in the feminine instrumental. A natural workplace sentiment."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-06",
+        "phrase": "Без хорошей бригады мы не справимся.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Бригады' is genitive after 'без', expressing absence. 'Хорошей' agrees in the feminine genitive. A conditional-dependency phrase."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-07",
+        "phrase": "Мы рассказали бригаде о новом плане.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Бригаде' is the dative indirect object of 'рассказали', the group told. 'О новом плане' is the topic. A clear information-sharing pattern."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-08",
+        "phrase": "На стройке работают три бригады.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. The numeral 'три' governs the genitive singular 'бригады'. 'На стройке' sets the location. A common quantity construction."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-09",
+        "phrase": "Все бригады закончили работу вовремя.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Бригады' is the nominative plural subject of 'закончили'. 'Все' is the agreeing quantifier. Useful for reporting collective results."
+      },
+      {
+        "id": "NN-PEOPLE-BRIGADA-10",
+        "phrase": "Директор гордится своими бригадами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Бригадами' is instrumental plural after 'гордится', which governs the instrumental. 'Своими' agrees in the instrumental plural. A pride-in-the-team phrase."
+      }
+    ]
+  }
+]

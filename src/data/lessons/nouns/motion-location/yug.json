@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-YUG",
+    "label": "Юг",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for юг (south).",
+    "missions": [
+      {
+        "id": "NN-MOTION-YUG-01",
+        "phrase": "Летом мы едем на юг.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На юг' uses the accusative after 'на' to show motion toward the south. 'Летом' is the instrumental of time meaning in summer."
+      },
+      {
+        "id": "NN-MOTION-YUG-02",
+        "phrase": "Птицы улетают на юг осенью.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На юг' marks the destination of the migration with the accusative. 'Птицы' is the nominative plural subject and 'осенью' adds the season."
+      },
+      {
+        "id": "NN-MOTION-YUG-03",
+        "phrase": "Они живут на юге страны.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На юге' uses the prepositional form 'юге' after 'на' to show static location. 'Страны' is the genitive specifying which country's south."
+      },
+      {
+        "id": "NN-MOTION-YUG-04",
+        "phrase": "Ветер дует с юга.",
+        "fullAnalysis": "Strategic focus: Genitive after 'с'. 'С юга' uses the genitive form 'юга' to show origin of the wind. 'Ветер' is the nominative subject of 'дует'."
+      },
+      {
+        "id": "NN-MOTION-YUG-05",
+        "phrase": "На юге всегда тёплая погода.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На юге' is the prepositional form locating the warm weather. 'Погода' is the nominative subject, and 'всегда' adds frequency."
+      },
+      {
+        "id": "NN-MOTION-YUG-06",
+        "phrase": "Дорога ведёт к югу.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К югу' uses the dative form 'югу' to show direction toward the south. 'Дорога' is the nominative subject of 'ведёт'."
+      },
+      {
+        "id": "NN-MOTION-YUG-07",
+        "phrase": "Город расположен южнее, за югом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'за'. 'За югом' uses the instrumental form 'югом' to mark position beyond the south. 'Город' is the nominative subject of 'расположен'."
+      },
+      {
+        "id": "NN-MOTION-YUG-08",
+        "phrase": "Юг богат фруктами и солнцем.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Юг' is the nominative subject described by 'богат'. The instrumental nouns 'фруктами и солнцем' name what the south is rich in."
+      },
+      {
+        "id": "NN-MOTION-YUG-09",
+        "phrase": "Мы любим тёплый юг.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Юг' is the accusative direct object of 'любим'; as an inanimate masculine noun it matches the nominative. 'Тёплый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-MOTION-YUG-10",
+        "phrase": "Окна выходят на солнечный юг.",
+        "fullAnalysis": "Strategic focus: Accusative of orientation. 'На юг' uses the accusative to show the direction the windows face. 'Окна' is the nominative plural subject and 'солнечный' agrees in the masculine accusative."
+      }
+    ]
+  }
+]

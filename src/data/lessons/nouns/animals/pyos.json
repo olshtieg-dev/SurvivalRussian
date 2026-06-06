@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-PYOS",
+    "label": "Пёс",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for пёс (dog).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-PYOS-01",
+        "phrase": "Большой пёс громко залаял.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пёс' is an animate masculine noun in the nominative as the subject of 'залаял'. 'Большой' agrees in the masculine nominative."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-02",
+        "phrase": "Мальчик кормит старого пса.",
+        "fullAnalysis": "Strategic focus: Animate accusative with fleeting vowel. 'Пса' is the accusative object of 'кормит', and as an animate masculine noun it copies the genitive. The vowel ё drops out in oblique cases."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-03",
+        "phrase": "У соседа нет пса.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Пса' is the genitive form after 'нет', with the fleeting ё dropped. The phrase states that the neighbour has no dog."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-04",
+        "phrase": "Девочка дала псу косточку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Псу' is the dative form marking the recipient of 'дала'. The fleeting ё drops out, leaving the bare stem."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-05",
+        "phrase": "Он гуляет с пёстрым псом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Псом' takes the instrumental after 'с', with the fleeting vowel dropped. 'Пёстрым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-06",
+        "phrase": "Дети заботятся о псе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Псе' is the prepositional form after 'о', with the fleeting ё dropped. It names what the children care for."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-07",
+        "phrase": "Без пса в доме скучно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Пса' takes the genitive after 'без', with the vowel dropped, expressing that life is dull without a dog."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-08",
+        "phrase": "Во дворе бегают большие псы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Псы' is the nominative plural subject of 'бегают'. The fleeting ё disappears in the plural, and 'большие' agrees in the plural."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-09",
+        "phrase": "Охотник взял двух псов.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. After 'двух' the animate noun takes the genitive plural 'псов', which also serves as the accusative object of 'взял'."
+      },
+      {
+        "id": "NN-ANIMAL-PYOS-10",
+        "phrase": "Этот пёс очень верный.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Пёс' is the nominative subject, here keeping the fleeting ё in its base form. 'Верный' is the agreeing masculine adjective describing loyalty."
+      }
+    ]
+  }
+]

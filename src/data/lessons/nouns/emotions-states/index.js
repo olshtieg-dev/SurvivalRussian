@@ -4,6 +4,7 @@ import goreSet from './gore.json';
 import krasotaSet from './krasota.json';
 import lechenieSet from './lechenie.json';
 import lyubovSet from './lyubov.json';
+import napryazhenieSet from './napryazhenie.json';
 import nastroenieSet from './nastroenie.json';
 import opasnostSet from './opasnost.json';
 import oshchushchenieSet from './oshchushchenie.json';
@@ -18,10 +19,12 @@ import sostoyanieSet from './sostoyanie.json';
 import sovestSet from './sovest.json';
 import sozhalenieSet from './sozhalenie.json';
 import strakhSet from './strakh.json';
+import strastSet from './strast.json';
 import temnotaSet from './temnota.json';
 import temperaturaSet from './temperatura.json';
 import tenSet from './ten.json';
 import tishinaSet from './tishina.json';
+import toskaSet from './toska.json';
 import trevogaSet from './trevoga.json';
 import udivlenieSet from './udivlenie.json';
 import udovolstvieSet from './udovolstvie.json';
@@ -29,8 +32,10 @@ import ulybkaSet from './ulybka.json';
 import uspekhSet from './uspekh.json';
 import uzhasSet from './uzhas.json';
 import vkusSet from './vkus.json';
+import vostorgSet from './vostorg.json';
 import vpechatlenieSet from './vpechatlenie.json';
 import zabolevanieSet from './zabolevanie.json';
+import zabotaSet from './zabota.json';
 import zapakhSet from './zapakh.json';
 import zdoroveSet from './zdorove.json';
 import zvukSet from './zvuk.json';
@@ -43,6 +48,7 @@ const emotionsNounsData = [
   ...krasotaSet,
   ...lechenieSet,
   ...lyubovSet,
+  ...napryazhenieSet,
   ...nastroenieSet,
   ...opasnostSet,
   ...oshchushchenieSet,
@@ -57,10 +63,12 @@ const emotionsNounsData = [
   ...sovestSet,
   ...sozhalenieSet,
   ...strakhSet,
+  ...strastSet,
   ...temnotaSet,
   ...temperaturaSet,
   ...tenSet,
   ...tishinaSet,
+  ...toskaSet,
   ...trevogaSet,
   ...udivlenieSet,
   ...udovolstvieSet,
@@ -68,8 +76,10 @@ const emotionsNounsData = [
   ...uspekhSet,
   ...uzhasSet,
   ...vkusSet,
+  ...vostorgSet,
   ...vpechatlenieSet,
   ...zabolevanieSet,
+  ...zabotaSet,
   ...zapakhSet,
   ...zdoroveSet,
   ...zvukSet,

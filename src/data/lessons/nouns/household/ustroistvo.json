@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-USTROISTVO",
+    "label": "Устройство",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for устройство (device).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-01",
+        "phrase": "Это устройство работает очень тихо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Устройство' is a neuter noun in the nominative case, acting as the subject of 'работает'. 'Это' agrees in neuter."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-02",
+        "phrase": "Я купил новое устройство вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Устройство' is the direct object of 'купил'. For neuter nouns the accusative equals the nominative, and 'новое' agrees in neuter."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-03",
+        "phrase": "Без этого устройства не обойтись.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Устройства' is the genitive form after 'без'. The neuter ending -о shifts to -а, and 'этого' agrees in genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-04",
+        "phrase": "Цена устройства слишком высокая.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Устройства' is the genitive form linked to 'цена', expressing the device's price. The neuter genitive singular ends in -а."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-05",
+        "phrase": "Инженер дал устройству вторую жизнь.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Устройству' is the dative form, the indirect object of 'дал'. The neuter dative singular ends in -у."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-06",
+        "phrase": "Он управляет устройством через телефон.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Устройством' is the instrumental form governed by 'управлять'. The neuter instrumental singular ends in -ом."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-07",
+        "phrase": "В этом устройстве есть мощный аккумулятор.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Устройстве' is the prepositional form after 'в', naming the location. The neuter prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-08",
+        "phrase": "Маленькое устройство помещается в карман.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Устройство' is nominative as the subject of 'помещается'. 'Маленькое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-09",
+        "phrase": "Магазин продаёт умные домашние устройства.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Устройства' is the plural accusative direct object of 'продаёт'. For inanimate neuter nouns the plural accusative equals the nominative plural in -а."
+      },
+      {
+        "id": "NN-HOUSEHOLD-USTROISTVO-10",
+        "phrase": "Современное устройство экономит много времени.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Устройство' is nominative as the subject of 'экономит'. 'Современное' is the agreeing neuter adjective."
+      }
+    ]
+  }
+]

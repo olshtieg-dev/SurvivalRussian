@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-OZHIDANIE",
+    "label": "Ожидание",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for ожидание (expectation).",
+    "missions": [
+      {
+        "id": "NN-MIND-OZHIDANIE-01",
+        "phrase": "Это было приятное ожидание.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Ожидание' is a neuter noun in the nominative as the subject. 'Приятное' is the agreeing neuter adjective, and 'было' agrees in neuter gender. A clean model for describing a feeling of waiting."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-02",
+        "phrase": "Долгое ожидание наконец закончилось.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ожидание' is nominative as the subject of 'закончилось'. 'Долгое' is the agreeing neuter adjective, and 'наконец' adds relief. Useful for narrating the end of a wait."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-03",
+        "phrase": "Я ненавижу долгое ожидание в очереди.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ожидание' is the accusative direct object of 'ненавижу'; neuter nouns look the same as the nominative here. 'В очереди' is prepositional, giving the location of the wait."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-04",
+        "phrase": "Мы устали от долгого ожидания.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Ожидания' is the genitive form after 'от', expressing the cause of tiredness. 'Долгого' is the agreeing neuter genitive adjective. A common way to complain about waiting."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-05",
+        "phrase": "Результат не оправдал моего ожидания.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Ожидания' is the genitive form governed by 'оправдать', a verb that takes the genitive here. 'Моего' is the agreeing neuter genitive possessive. Useful for talking about disappointment."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-06",
+        "phrase": "Конец ожидания принёс облегчение.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Ожидания' is genitive, linked to 'конец' to mean the end of the waiting. 'Принёс' takes 'облегчение' as its accusative object. A natural noun-of-noun construction."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-07",
+        "phrase": "Она готовилась к долгому ожиданию.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Ожиданию' is the dative form after 'к', the preposition required by 'готовиться'. 'Долгому' is the agreeing neuter dative adjective. A useful pattern for preparation."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-08",
+        "phrase": "Он замер в тревожном ожидании.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Ожидании' is the prepositional form after 'в', describing the state someone is in. 'Тревожном' is the agreeing neuter prepositional adjective. A vivid way to express anxious waiting."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-09",
+        "phrase": "Все жили ожиданием праздника.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Ожиданием' is the instrumental form, expressing what everyone lived by. 'Праздника' is the genitive object of the noun, naming what was expected. Idiomatic and expressive."
+      },
+      {
+        "id": "NN-MIND-OZHIDANIE-10",
+        "phrase": "Наши ожидания не всегда сбываются.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Ожидания' is the nominative plural as the subject of 'сбываются'. 'Наши' is the agreeing plural possessive, and 'не всегда' qualifies the verb. A reflective generalization."
+      }
+    ]
+  }
+]

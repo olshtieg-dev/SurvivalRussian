@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-LOKOT",
+    "label": "Локоть",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for локоть (elbow).",
+    "missions": [
+      {
+        "id": "NN-BODY-LOKOT-01",
+        "phrase": "У меня болит левый локоть.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Локоть' is the nominative subject of 'болит'. 'Левый' is the agreeing masculine adjective, and 'у меня' marks whose elbow hurts. A common complaint pattern."
+      },
+      {
+        "id": "NN-BODY-LOKOT-02",
+        "phrase": "Я случайно ударил локоть.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Локоть' is the accusative direct object of 'ударил', identical to the nominative for this inanimate masculine noun. 'Случайно' adds the sense of an accident."
+      },
+      {
+        "id": "NN-BODY-LOKOT-03",
+        "phrase": "Я не чувствую своего локтя.",
+        "fullAnalysis": "Strategic focus: Genitive of negation with fleeting vowel. 'Локтя' is the genitive, and the vowel 'о' drops out before the ending. After negated 'не чувствую' the object often takes the genitive. 'Своего' agrees."
+      },
+      {
+        "id": "NN-BODY-LOKOT-04",
+        "phrase": "Врач помог моему локтю зажить.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Локтю' takes the dative after 'помог', the one helped. The fleeting 'о' drops before the ending. 'Моему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-BODY-LOKOT-05",
+        "phrase": "Он толкнул меня локтем.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Локтем' is the instrumental, naming the body part used to push. The fleeting 'о' drops, giving the stem 'локт-'. A vivid everyday action."
+      },
+      {
+        "id": "NN-BODY-LOKOT-06",
+        "phrase": "На локте появился синяк.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Локте' takes the prepositional after 'на', with the fleeting 'о' dropped. 'Появился синяк' describes what showed up there."
+      },
+      {
+        "id": "NN-BODY-LOKOT-07",
+        "phrase": "У меня замёрзли оба локтя.",
+        "fullAnalysis": "Strategic focus: Genitive after 'оба'. After 'оба' the noun takes the genitive singular 'локтя' with the fleeting vowel dropped. 'Замёрзли' is plural to agree with the pair."
+      },
+      {
+        "id": "NN-BODY-LOKOT-08",
+        "phrase": "Локти у него очень острые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Локти' is the nominative plural subject. 'Острые' is the agreeing plural adjective, and 'у него' marks possession. A descriptive plural sentence."
+      },
+      {
+        "id": "NN-BODY-LOKOT-09",
+        "phrase": "Поставь локти на стол.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Локти' is the accusative plural object of the imperative 'поставь', identical to nominative plural for this inanimate noun. 'На стол' adds direction."
+      },
+      {
+        "id": "NN-BODY-LOKOT-10",
+        "phrase": "Он опёрся обоими локтями о стену.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Локтями' is the instrumental plural, the body parts he leaned on. 'Обоими' agrees in the instrumental plural, and 'о стену' completes the picture."
+      }
+    ]
+  }
+]

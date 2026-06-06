@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KOLONNA",
+    "label": "Колонна",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for колонна (column).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KOLONNA-01",
+        "phrase": "Длинная колонна машин стоит на дороге.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Колонна' is the feminine nominative subject. 'Длинная' agrees in gender, and 'машин' is the genitive plural specifying the column."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-02",
+        "phrase": "Полиция остановила колонну грузовиков.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Колонну' is the feminine accusative direct object of 'остановила'. 'Грузовиков' is the genitive plural complement."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-03",
+        "phrase": "Из колонны выехала одна машина.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Колонны' is genitive after 'из', marking where the car came from. 'Одна машина' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-04",
+        "phrase": "Здание держится на каменной колонне.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Колонне' is prepositional after 'на', showing what supports the building. 'Каменной' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-05",
+        "phrase": "Солдаты идут стройной колонной.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Колонной' is instrumental, describing the formation in which they march. 'Стройной' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-06",
+        "phrase": "Водитель подъехал к колонне.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Колонне' is dative after 'к', marking the goal of approach. 'Водитель' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-07",
+        "phrase": "Древний храм украшают высокие колонны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Колонны' is the nominative plural subject of 'украшают'. 'Высокие' agrees, and 'храм' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-08",
+        "phrase": "В зале стоят шесть мраморных колонн.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Колонн' is genitive plural after 'шесть'; the feminine genitive plural has a zero ending. 'Мраморных' agrees."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-09",
+        "phrase": "Между колоннами гуляют туристы.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after preposition. 'Колоннами' is instrumental plural after 'между', placing the tourists among them. 'Туристы' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-KOLONNA-10",
+        "phrase": "Я фотографирую красивые колонны.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Колонны' is the accusative plural object of 'фотографирую'; inanimate plural accusative equals nominative. 'Красивые' agrees."
+      }
+    ]
+  }
+]

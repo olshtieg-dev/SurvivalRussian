@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-VETKA",
+    "label": "Ветка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ветка (branch).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-VETKA-01",
+        "phrase": "Эта ветка очень низкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ветка' is nominative as the subject. 'Эта' points at it and 'низкая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-02",
+        "phrase": "Ветер сломал тонкую ветку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ветку' is the accusative direct object of 'сломал'. 'Тонкую' agrees in the feminine accusative, and 'ветер' is the subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-03",
+        "phrase": "На дереве нет ни одной ветки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ветки' is genitive after 'нет ни одной', stressing complete absence. 'На дереве' is prepositional for location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-04",
+        "phrase": "Птица села на ветку.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Ветку' is accusative after 'на' because the bird moves onto it. 'Птица' is the feminine nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-05",
+        "phrase": "Мальчик ударил по ветке палкой.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Ветке' is dative after 'по', the surface that gets struck. 'Палкой' is instrumental, the tool used."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-06",
+        "phrase": "Кошка спряталась под веткой.",
+        "fullAnalysis": "Strategic focus: Instrumental location. 'Веткой' is instrumental after 'под', showing where the cat hid. 'Кошка' is the feminine nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-07",
+        "phrase": "На ветке висят красные яблоки.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Ветке' is prepositional after 'на', telling where the apples hang. 'Красные яблоки' is the nominative plural subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-08",
+        "phrase": "Садовник срезал несколько веток.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Веток' is genitive plural required by 'несколько'. 'Садовник' is the masculine nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-09",
+        "phrase": "Зелёные ветки качаются на ветру.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Ветки' is the nominative plural subject of 'качаются'. 'Зелёные' agrees, and 'на ветру' is prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VETKA-10",
+        "phrase": "Мы сделали венок из веток.",
+        "fullAnalysis": "Strategic focus: Genitive plural of material. 'Веток' is genitive plural after 'из', the material of the wreath. 'Венок' is the accusative object of 'сделали'."
+      }
+    ]
+  }
+]

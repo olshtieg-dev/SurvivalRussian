@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-RAKETA",
+    "label": "Ракета",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for ракета (rocket).",
+    "missions": [
+      {
+        "id": "NN-TRANS-RAKETA-01",
+        "phrase": "Большая ракета стоит на старте.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ракета' is a feminine noun in the nominative, the subject of 'стоит'. 'Большая' is the agreeing feminine adjective and 'на старте' gives the location."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-02",
+        "phrase": "Инженеры построили новую ракету.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ракету' is the accusative direct object of 'построили'. 'Новую' is the agreeing feminine accusative adjective. 'Инженеры' is the nominative plural subject."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-03",
+        "phrase": "У этой ракеты три двигателя.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Ракеты' is the genitive form in the frame 'у этой ракеты' showing what the rocket has. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-04",
+        "phrase": "Учёные готовят топливо к ракете.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К ракете' uses the dative form 'ракете' to show the fuel prepared for the rocket. 'Топливо' is the accusative object of 'готовят'."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-05",
+        "phrase": "Космонавт управляет огромной ракетой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'управлять'. 'Ракетой' is the instrumental form governed by 'управляет'. 'Огромной' agrees in the feminine instrumental describing the rocket."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-06",
+        "phrase": "На ракете летят два космонавта.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На ракете' uses the prepositional form 'ракете' after 'на' to show where they travel. 'Два космонавта' is the numeral phrase subject."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-07",
+        "phrase": "Все смотрят на летящую ракету.",
+        "fullAnalysis": "Strategic focus: Accusative after 'на'. 'Ракету' is the accusative governed by 'на' showing what they watch. 'Летящую' is the agreeing feminine accusative participle."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-08",
+        "phrase": "На космодроме стоят две ракеты.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две' the noun takes the genitive singular 'ракеты'. 'На космодроме' is the prepositional location of the two rockets."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-09",
+        "phrase": "Страна запустила несколько ракет.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Ракет' is the genitive plural required by 'несколько'. 'Страна' is the nominative subject of 'запустила'."
+      },
+      {
+        "id": "NN-TRANS-RAKETA-10",
+        "phrase": "Ракета быстро поднялась в небо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ракета' is the nominative subject of 'поднялась', which agrees in the feminine. 'В небо' uses the accusative to mark the direction of ascent."
+      }
+    ]
+  }
+]

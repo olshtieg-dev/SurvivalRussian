@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-PROEKT",
+    "label": "Проект",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for проект (project).",
+    "missions": [
+      {
+        "id": "NN-WORK-PROEKT-01",
+        "phrase": "Наш проект почти готов.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Проект' is the masculine nominative subject. 'Наш' agrees in gender, and 'почти готов' is the short-form predicate."
+      },
+      {
+        "id": "NN-WORK-PROEKT-02",
+        "phrase": "Команда закончила большой проект.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Проект' is the accusative direct object of 'закончила'; inanimate masculine accusative equals nominative. 'Большой' agrees with it."
+      },
+      {
+        "id": "NN-WORK-PROEKT-03",
+        "phrase": "У нас нет нового проекта.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Проекта' is genitive after 'нет'. 'Нового' agrees in the masculine genitive, and 'у нас' frames the possession."
+      },
+      {
+        "id": "NN-WORK-PROEKT-04",
+        "phrase": "Мы работаем над важным проектом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Проектом' is instrumental after 'над', the usual way to say working on a project. 'Важным' agrees in the instrumental."
+      },
+      {
+        "id": "NN-WORK-PROEKT-05",
+        "phrase": "В этом проекте участвуют студенты.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Проекте' is prepositional after 'в', marking participation in something. 'Студенты' is the nominative plural subject."
+      },
+      {
+        "id": "NN-WORK-PROEKT-06",
+        "phrase": "Руководитель готовится к проекту.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Проекту' is dative after 'к', expressing preparation for something. 'Руководитель' is the nominative subject."
+      },
+      {
+        "id": "NN-WORK-PROEKT-07",
+        "phrase": "Компания запускает новые проекты.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Проекты' is the accusative plural object of 'запускает'; inanimate plural accusative equals nominative. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-WORK-PROEKT-08",
+        "phrase": "Успех проекта зависит от команды.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Проекта' is genitive, showing whose success it is. 'От команды' uses the genitive after 'от'."
+      },
+      {
+        "id": "NN-WORK-PROEKT-09",
+        "phrase": "Все проекты сданы вовремя.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Проекты' is the nominative plural subject of the short-form predicate 'сданы'. 'Все' agrees, and 'вовремя' adds the manner."
+      },
+      {
+        "id": "NN-WORK-PROEKT-10",
+        "phrase": "Деньги ушли на два проекта.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Проекта' is genitive singular after 'два'. 'На' governs the accusative numeral phrase, and 'деньги' is the subject."
+      }
+    ]
+  }
+]

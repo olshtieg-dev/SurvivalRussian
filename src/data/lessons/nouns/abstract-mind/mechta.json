@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-MECHTA",
+    "label": "Мечта",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for мечта (dream).",
+    "missions": [
+      {
+        "id": "NN-MIND-MECHTA-01",
+        "phrase": "Это была моя главная мечта.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мечта' stays in the nominative as the subject. 'Главная' is the agreeing feminine adjective, and 'была' marks the feminine past tense. A natural way to name a cherished hope."
+      },
+      {
+        "id": "NN-MIND-MECHTA-02",
+        "phrase": "У него есть большая мечта.",
+        "fullAnalysis": "Strategic focus: Nominative with possession frame. 'Мечта' is nominative as the thing possessed. 'У него есть' shows whose dream it is, and 'большая' agrees in feminine gender. A common everyday pattern."
+      },
+      {
+        "id": "NN-MIND-MECHTA-03",
+        "phrase": "Я наконец осуществил свою мечту.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мечту' is the accusative direct object of 'осуществил'. 'Свою' agrees in the feminine accusative, and 'наконец' adds relief. Useful for talking about goals achieved."
+      },
+      {
+        "id": "NN-MIND-MECHTA-04",
+        "phrase": "Он всю жизнь шёл к мечте.",
+        "fullAnalysis": "Strategic focus: Dative direction. 'К мечте' uses the dative form 'мечте' after 'к' to express movement toward a goal. 'Всю жизнь' stresses duration, a vivid way to describe striving."
+      },
+      {
+        "id": "NN-MIND-MECHTA-05",
+        "phrase": "Без мечты жить очень трудно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Мечты' is the genitive form after 'без', meaning without a dream. The impersonal 'трудно' makes a reflective, philosophical statement."
+      },
+      {
+        "id": "NN-MIND-MECHTA-06",
+        "phrase": "Она живёт своей детской мечтой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Мечтой' is the instrumental form expressing what she lives by. 'Своей детской' agrees in the feminine instrumental, painting a heartfelt image."
+      },
+      {
+        "id": "NN-MIND-MECHTA-07",
+        "phrase": "Я часто думаю о своей мечте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О мечте' uses the prepositional form 'мечте' after 'о' to express thinking about something. 'Часто' adds habit, a useful reflective pattern."
+      },
+      {
+        "id": "NN-MIND-MECHTA-08",
+        "phrase": "У детей много прекрасных мечт.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Мечт' is the genitive plural required after 'много'. 'Прекрасных' agrees in the genitive plural, and 'у детей' frames whose dreams they are."
+      },
+      {
+        "id": "NN-MIND-MECHTA-09",
+        "phrase": "Все его мечты наконец сбылись.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мечты' is the nominative plural subject of 'сбылись'. 'Все его' modifies the dreams, a satisfying way to describe wishes coming true."
+      },
+      {
+        "id": "NN-MIND-MECHTA-10",
+        "phrase": "Какая у тебя самая большая мечта?",
+        "fullAnalysis": "Strategic focus: Nominative in a question. 'Мечта' stays nominative as the thing being asked about. 'Какая' and 'самая большая' agree in feminine gender. A natural conversation opener."
+      }
+    ]
+  }
+]

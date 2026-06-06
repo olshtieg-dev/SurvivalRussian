@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-RASCHYOT",
+    "label": "Расчёт",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for расчёт (calculation).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-RASCHYOT-01",
+        "phrase": "Мой расчёт оказался точным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Расчёт' is a masculine noun in the nominative as the subject of 'оказался'. 'Точным' is the instrumental predicate adjective the verb requires."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-02",
+        "phrase": "Инженер сделал точный расчёт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Расчёт' is an inanimate masculine noun, so its accusative equals the nominative. It is the direct object of 'сделал', and 'точный' agrees in the masculine."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-03",
+        "phrase": "В расчёте была серьёзная ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Расчёте' is the prepositional form after 'в', locating where the error occurred. 'Серьёзная' agrees with the feminine subject 'ошибка'."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-04",
+        "phrase": "Всё зависит от точного расчёта.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Расчёта' takes the genitive after 'от'. 'Точного' agrees in the masculine genitive, showing what the result depends on."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-05",
+        "phrase": "Он подошёл к делу с расчётом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Расчётом' takes the instrumental after 'с', forming an adverbial phrase that means acting deliberately and with calculation."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-06",
+        "phrase": "Мы доверяем твоему расчёту.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Расчёту' is the dative governed by 'доверяем'. 'Твоему' agrees in the masculine dative, expressing trust in the calculation."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-07",
+        "phrase": "Без расчёта проект не построить.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Расчёта' takes the genitive after 'без', meaning the project cannot be built without calculation."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-08",
+        "phrase": "Все расчёты были готовы вовремя.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Расчёты' is the nominative plural subject of 'были'. 'Все' quantifies the full set, and 'готовы' agrees in the plural short form."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-09",
+        "phrase": "Инженер проверил два расчёта.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'расчёта', the fixed pattern with two, three and four."
+      },
+      {
+        "id": "NN-STRUCT-RASCHYOT-10",
+        "phrase": "Спасибо за быстрый расчёт.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Расчёт' takes the accusative after 'за', and as an inanimate masculine noun it matches the nominative. 'Быстрый' agrees in the masculine."
+      }
+    ]
+  }
+]

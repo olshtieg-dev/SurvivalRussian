@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-EKONOMIKA",
+    "label": "Экономика",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for экономика (economics).",
+    "missions": [
+      {
+        "id": "NN-EDU-EKONOMIKA-01",
+        "phrase": "Экономика страны быстро растёт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Экономика' is a feminine noun in the nominative as the subject of 'растёт'. 'Страны' is the genitive showing whose economy it is."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-02",
+        "phrase": "Студенты изучают мировую экономику.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Экономику' is the accusative direct object of 'изучают'. 'Мировую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-03",
+        "phrase": "Многое зависит от экономики.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Экономики' takes the genitive after 'от', showing what conditions depend on."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-04",
+        "phrase": "Правительство помогает экономике.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Экономике' is the dative governed by 'помогает', naming what the government supports."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-05",
+        "phrase": "Учёные занимаются экономикой давно.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Экономикой' is the instrumental governed by 'занимаются', naming the field of study. 'Давно' adds duration."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-06",
+        "phrase": "Мы говорим о российской экономике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Экономике' is the prepositional form after 'о'. 'Российской' agrees in the feminine prepositional, marking the topic."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-07",
+        "phrase": "Без сильной экономики страна слаба.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Экономики' takes the genitive after 'без'. 'Сильной' agrees in the feminine genitive, framing a condition."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-08",
+        "phrase": "Он профессор по экономике.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Экономике' takes the dative after 'по', naming the speciality. A common pattern for fields of expertise."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-09",
+        "phrase": "Экономики разных стран сильно отличаются.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Экономики' is the nominative plural subject of 'отличаются'. 'Стран' is the genitive plural showing which economies are compared."
+      },
+      {
+        "id": "NN-EDU-EKONOMIKA-10",
+        "phrase": "Я верю в нашу экономику.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Экономику' takes the accusative after 'в' in 'верить в', expressing belief. 'Нашу' agrees in the feminine accusative."
+      }
+    ]
+  }
+]

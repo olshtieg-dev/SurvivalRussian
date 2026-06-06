@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KRYLTSO",
+    "label": "Крыльцо",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for крыльцо (porch).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KRYLTSO-01",
+        "phrase": "Деревянное крыльцо очень старое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Крыльцо' is a neuter noun in the nominative as the subject. 'Деревянное' and 'старое' are the agreeing neuter adjectives. A clean descriptive card."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-02",
+        "phrase": "Мы покрасили крыльцо в белый цвет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Крыльцо' is neuter, so its accusative equals the nominative as the object of 'покрасили'. 'В белый цвет' names the colour. Practical home-improvement language."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-03",
+        "phrase": "У нашего крыльца сломалась ступенька.",
+        "fullAnalysis": "Strategic focus: Genitive of location. 'Крыльца' is the genitive after 'у', marking the place near which the step broke. 'Нашего' is the agreeing neuter genitive. Common spatial usage."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-04",
+        "phrase": "Кошка спит на крыльце.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Крыльце' is the prepositional form after 'на', telling where the cat sleeps. A very common everyday location pattern."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-05",
+        "phrase": "Он подошёл к крыльцу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Крыльцу' is the dative after 'к', expressing motion toward the porch. The verb 'подошёл' reinforces the approach. A core direction pattern."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-06",
+        "phrase": "Перед крыльцом растут цветы.",
+        "fullAnalysis": "Strategic focus: Instrumental with a spatial preposition. 'Крыльцом' is the instrumental after 'перед', meaning in front of the porch. 'Растут цветы' completes the scene. Useful for describing yards."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-07",
+        "phrase": "Дети сидят на крыльце и едят мороженое.",
+        "fullAnalysis": "Strategic focus: Prepositional location with activity. 'Крыльце' is prepositional after 'на', anchoring where the children sit. The second clause adds a natural everyday activity. Reinforces the same ending."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-08",
+        "phrase": "В деревне у каждого дома есть крыльцо.",
+        "fullAnalysis": "Strategic focus: Nominative with existence. 'Крыльцо' is nominative as the thing that exists in 'есть'. 'В деревне' and 'у каждого дома' set the scene. A natural generalisation."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-09",
+        "phrase": "У старых домов красивые крыльца.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Крыльца' is the neuter nominative plural as the subject. 'Красивые' is the agreeing plural adjective, and 'у старых домов' shows whose porches. Good plural practice."
+      },
+      {
+        "id": "NN-MOTION-KRYLTSO-10",
+        "phrase": "Это крыльцо нужно отремонтировать.",
+        "fullAnalysis": "Strategic focus: Nominative as logical subject. 'Крыльцо' is nominative, the thing that needs fixing in the impersonal 'нужно' construction. 'Это' points at it. A useful modal pattern."
+      }
+    ]
+  }
+]

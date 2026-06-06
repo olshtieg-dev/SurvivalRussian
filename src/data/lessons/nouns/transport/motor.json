@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-MOTOR",
+    "label": "Мотор",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for мотор (motor).",
+    "missions": [
+      {
+        "id": "NN-TRANS-MOTOR-01",
+        "phrase": "Мотор работает очень тихо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мотор' stays in the nominative as the subject of 'работает'. 'Тихо' is the adverb of manner, and 'очень' intensifies it. A clean engine description."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-02",
+        "phrase": "Механик чинит старый мотор.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Мотор' is inanimate masculine, so its accusative equals the nominative. 'Старый' agrees in the masculine accusative, and 'чинит' takes it as its object."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-03",
+        "phrase": "У этой машины нет мотора.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'мотора'. 'У этой машины' frames the possessor, marking what the car lacks."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-04",
+        "phrase": "Из мотора шёл чёрный дым.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из мотора' uses the genitive after 'из' to show origin. 'Дым' is the nominative subject, and 'чёрный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-05",
+        "phrase": "Он прислушался к мотору.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К мотору' takes the dative after 'к' to express direction of attention. 'Прислушался' marks the completed act of listening closely."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-06",
+        "phrase": "Лодка движется мотором.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Мотором' is the instrumental marking the means of propulsion. 'Лодка' is the nominative subject, and 'движется' describes the motion."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-07",
+        "phrase": "В моторе что-то сломалось.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В моторе' uses the prepositional 'моторе' after 'в' to show location within. 'Что то' is the indefinite subject, and 'сломалось' is the neuter verb."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-08",
+        "phrase": "На складе стоят два мотора.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'два' the noun takes the genitive singular 'мотора'. 'Стоят' agrees with the plural notion, and 'на складе' is the prepositional location."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-09",
+        "phrase": "Эти моторы работают на бензине.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Моторы' is the nominative plural subject of 'работают'. 'Эти' agrees in the plural, and 'на бензине' is the prepositional describing the fuel."
+      },
+      {
+        "id": "NN-TRANS-MOTOR-10",
+        "phrase": "Завод выпускает мощные моторы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Моторы' is the inanimate masculine plural accusative, matching the nominative plural. 'Мощные' agrees in the plural, and 'выпускает' takes them as objects."
+      }
+    ]
+  }
+]

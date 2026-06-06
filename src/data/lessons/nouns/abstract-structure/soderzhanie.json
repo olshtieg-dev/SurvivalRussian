@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SODERZHANIE",
+    "label": "Содержание",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for содержание (content).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SODERZHANIE-01",
+        "phrase": "Содержание книги очень интересное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Содержание' is a neuter noun in the nominative as the subject. 'Книги' is genitive showing whose content, and 'интересное' is the agreeing neuter adjective. A natural way to praise a book."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-02",
+        "phrase": "Это богатое содержание статьи.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Содержание' is nominative as the predicate. 'Богатое' is the agreeing neuter adjective, and 'статьи' is genitive naming the source. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-03",
+        "phrase": "Я пересказал краткое содержание фильма.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Содержание' is the accusative direct object of 'пересказал'; neuter nouns look like the nominative here. 'Краткое' is the agreeing neuter accusative adjective. A common summarizing phrase."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-04",
+        "phrase": "Форма важнее содержания.",
+        "fullAnalysis": "Strategic focus: Genitive of comparison. 'Содержания' is the genitive form required after the comparative 'важнее'. The sentence weighs form against content. A useful abstract comparison."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-05",
+        "phrase": "Смысл зависит от содержания текста.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Содержания' is the genitive form after 'от', the preposition governed by 'зависеть'. 'Текста' is genitive naming the source. A useful cause-relation pattern."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-06",
+        "phrase": "Редактор уделил внимание содержанию.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Содержанию' is the dative form after the fixed expression 'уделить внимание чему-то'. The phrase means he focused on the content. A common editorial collocation."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-07",
+        "phrase": "Мы довольны содержанием договора.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Содержанием' is the instrumental form governed by 'доволен'. 'Договора' is genitive naming the source. A natural way to express satisfaction with content."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-08",
+        "phrase": "В содержании письма была ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Содержании' is the prepositional form after 'в', stating where the error was. 'Письма' is genitive naming the source. A practical sentence about a document."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-09",
+        "phrase": "Откройте содержание на первой странице.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Содержание' here means the table of contents and is the accusative object of 'откройте'. 'На первой странице' is prepositional, giving the location. A useful book-navigation command."
+      },
+      {
+        "id": "NN-STRUCT-SODERZHANIE-10",
+        "phrase": "Учебники имеют разные содержания.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Содержания' is the accusative plural (matching the nominative plural for neuter nouns) as the object of 'имеют'. 'Разные' is the agreeing plural adjective. A clear plural example."
+      }
+    ]
+  }
+]

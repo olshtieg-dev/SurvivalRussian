@@ -1,9 +1,12 @@
 import chudoSet from './chudo.json';
+import ekonomikaSet from './ekonomika.json';
 import energiyaSet from './energiya.json';
 import igraSet from './igra.json';
+import issledovanieSet from './issledovanie.json';
 import istoriyaSet from './istoriya.json';
 import kartinaSet from './kartina.json';
 import klassSet from './klass.json';
+import kruzhokSet from './kruzhok.json';
 import kulturaSet from './kultura.json';
 import literaturaSet from './literatura.json';
 import muzykaSet from './muzyka.json';
@@ -17,6 +20,7 @@ import rolSet from './rol.json';
 import romanSet from './roman.json';
 import sistemaSet from './sistema.json';
 import statyaSet from './statya.json';
+import tekhnikaSet from './tekhnika.json';
 import yazykSet from './yazyk.json';
 import zanyatieSet from './zanyatie.json';
 import zerkaloSet from './zerkalo.json';
@@ -25,11 +29,14 @@ import znanieSet from './znanie.json';
 export const educationNounsFolderId = 'nouns-education-science';
 const educationNounsData = [
   ...chudoSet,
+  ...ekonomikaSet,
   ...energiyaSet,
   ...igraSet,
+  ...issledovanieSet,
   ...istoriyaSet,
   ...kartinaSet,
   ...klassSet,
+  ...kruzhokSet,
   ...kulturaSet,
   ...literaturaSet,
   ...muzykaSet,
@@ -43,6 +50,7 @@ const educationNounsData = [
   ...romanSet,
   ...sistemaSet,
   ...statyaSet,
+  ...tekhnikaSet,
   ...yazykSet,
   ...zanyatieSet,
   ...zerkaloSet,

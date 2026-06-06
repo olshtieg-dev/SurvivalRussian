@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-EPOKHA",
+    "label": "Эпоха",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for эпоха (epoch).",
+    "missions": [
+      {
+        "id": "NN-TIME-EPOKHA-01",
+        "phrase": "Началась новая эпоха.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Эпоха' stays in the nominative case as the subject of 'началась'. 'Новая' is the agreeing feminine adjective marking a fresh era."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-02",
+        "phrase": "Историки изучают эту эпоху.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Эпоху' is the accusative direct object of 'изучают'. 'Эту' agrees in the feminine accusative, and 'историки' is the nominative plural subject."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-03",
+        "phrase": "Музыка той эпохи была спокойной.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Эпохи' is genitive modifying 'музыка' to mean the music of that era. 'Той' agrees in the feminine genitive, and 'спокойной' is the instrumental predicate."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-04",
+        "phrase": "Мы живём в новой эпохе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В эпохе' uses the prepositional form 'эпохе' after 'в' to place us within an era. 'Новой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-05",
+        "phrase": "Это здание относится к древней эпохе.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Эпохе' is in the dative case after 'к' to assign the building to an era. 'Древней' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-06",
+        "phrase": "Он восхищается этой эпохой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Эпохой' is in the instrumental case governed by 'восхищается'. 'Этой' agrees in the feminine instrumental, marking admiration."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-07",
+        "phrase": "До этой эпохи люди жили иначе.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Эпохи' is genitive after 'до' to mark a time before. 'Этой' agrees in the feminine genitive, and 'люди' is the nominative subject."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-08",
+        "phrase": "Разные эпохи оставили свои следы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Эпохи' is the nominative plural subject of 'оставили'. 'Разные' agrees in the plural, and 'следы' is the accusative plural object."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-09",
+        "phrase": "Эта картина из прошлой эпохи.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Эпохи' is genitive after 'из' to mark the origin in time. 'Прошлой' agrees in the feminine genitive, and 'картина' is the nominative subject."
+      },
+      {
+        "id": "NN-TIME-EPOKHA-10",
+        "phrase": "Каждая эпоха имеет свой стиль.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Эпоха' stays in the nominative as the subject of 'имеет'. 'Каждая' agrees in the feminine, and 'стиль' is the accusative object."
+      }
+    ]
+  }
+]

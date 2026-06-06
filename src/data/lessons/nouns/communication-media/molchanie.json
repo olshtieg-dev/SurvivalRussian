@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-MOLCHANIE",
+    "label": "Молчание",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for молчание (silence).",
+    "missions": [
+      {
+        "id": "NN-COMMS-MOLCHANIE-01",
+        "phrase": "В комнате было полное молчание.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Молчание' stays in the nominative as the subject of 'было'. 'Полное' is the agreeing neuter adjective. A natural way to describe a quiet scene."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-02",
+        "phrase": "Я не понимаю его молчание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Молчание' is the accusative direct object of 'понимаю', identical to the nominative for neuter nouns. 'Его' marks the possessor. An interpretive pattern."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-03",
+        "phrase": "Все устали от долгого молчания.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Молчания' is genitive, governed by 'от'. 'Долгого' agrees in the neuter genitive. Expresses the source of tiredness."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-04",
+        "phrase": "Мы удивились его молчанию.",
+        "fullAnalysis": "Strategic focus: Dative after удивиться. 'Молчанию' is dative, governed by 'удивились'. 'Его' marks the possessor. A useful emotion-verb pattern."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-05",
+        "phrase": "Он ответил долгим молчанием.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Молчанием' is instrumental, expressing the manner of the reply. 'Долгим' agrees in the neuter instrumental. A vivid expressive pattern."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-06",
+        "phrase": "В молчании было что-то тревожное.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Молчании' is the prepositional form after 'в'. The phrase 'что-то тревожное' is the nominative subject. A literary, reflective sentence."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-07",
+        "phrase": "Минута молчания почтила память героев.",
+        "fullAnalysis": "Strategic focus: Genitive modifier. 'Молчания' is genitive, modifying 'минута' in the fixed phrase a minute of silence. 'Память' is the accusative object. A formal commemoration pattern."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-08",
+        "phrase": "Меня пугает это долгое молчание.",
+        "fullAnalysis": "Strategic focus: Nominative subject with accusative experiencer. 'Молчание' is nominative, the thing that frightens. 'Меня' is the accusative experiencer of 'пугает'. 'Долгое' agrees in the neuter."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-09",
+        "phrase": "Между нами часто бывают молчания.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Молчания' is the nominative plural subject of 'бывают', here meaning recurring silences. 'Между нами' gives the setting. A literary plural use."
+      },
+      {
+        "id": "NN-COMMS-MOLCHANIE-10",
+        "phrase": "Эти долгие молчания меня тревожат.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Молчания' is the accusative plural object of 'тревожат', identical to the nominative plural for neuter nouns. 'Эти долгие' agree in the plural."
+      }
+    ]
+  }
+]

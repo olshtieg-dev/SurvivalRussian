@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PASSAZHIR",
+    "label": "Пассажир",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for пассажир (passenger).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-01",
+        "phrase": "Этот пассажир очень спокойный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пассажир' stays in the nominative case as the subject. 'Этот' agrees in masculine gender, and 'спокойный' is the agreeing adjective. A simple descriptive model."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-02",
+        "phrase": "Водитель ждёт последнего пассажира.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Пассажира' takes the genitive-like accusative form because the noun is animate masculine. As the object of 'ждёт', it shows the standard animate accusative rule."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-03",
+        "phrase": "У этого пассажира нет билета.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Пассажира' takes the genitive after 'у' to express whose situation it is. 'Этого' agrees in the masculine genitive. The standard possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-04",
+        "phrase": "Стюардесса помогла пожилому пассажиру.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Пассажиру' takes the dative as the person helped by 'помогла'. 'Пожилому' agrees in the masculine dative. The verb помочь always governs the dative."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-05",
+        "phrase": "Кондуктор разговаривал с этим пассажиром.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Пассажиром' takes the instrumental after 'с' to express talking with someone. 'Этим' agrees in the masculine instrumental. A natural conversation frame."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-06",
+        "phrase": "Все говорят об этом пассажире.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Пассажире' uses the prepositional form after 'об' to express talking about a person. 'Этом' agrees in the masculine prepositional. A useful discussion frame."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-07",
+        "phrase": "В автобусе сидят усталые пассажиры.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пассажиры' is the nominative plural subject of 'сидят'. 'Усталые' is the agreeing plural adjective, and 'в автобусе' gives the location. Useful for describing a scene."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-08",
+        "phrase": "Контролёр проверил всех пассажиров.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Пассажиров' takes the genitive-like accusative plural because the noun is animate. As the object of 'проверил', it shows the plural animate rule, with 'всех' agreeing."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-09",
+        "phrase": "В вагоне не было пассажиров.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Пассажиров' takes the genitive plural after 'не было' to express that nobody was there. The standard pattern for an empty count."
+      },
+      {
+        "id": "NN-PEOPLE-PASSAZHIR-10",
+        "phrase": "Поезд везёт много пассажиров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Пассажиров' takes the genitive plural after 'много'. As the object carried by 'везёт', it shows the typical quantity pattern with people."
+      }
+    ]
+  }
+]

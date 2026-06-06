@@ -4,9 +4,13 @@ import koshkaSet from './koshka.json';
 import kotSet from './kot.json';
 import lapaSet from './lapa.json';
 import loshadSet from './loshad.json';
+import medvedSet from './medved.json';
 import mordaSet from './morda.json';
 import mukhaSet from './mukha.json';
+import obezyanaSet from './obezyana.json';
 import ptitsaSet from './ptitsa.json';
+import pyosSet from './pyos.json';
+import slonSet from './slon.json';
 import sobakaSet from './sobaka.json';
 import volkSet from './volk.json';
 import zverSet from './zver.json';
@@ -19,9 +23,13 @@ const animalsNounsData = [
   ...kotSet,
   ...lapaSet,
   ...loshadSet,
+  ...medvedSet,
   ...mordaSet,
   ...mukhaSet,
+  ...obezyanaSet,
   ...ptitsaSet,
+  ...pyosSet,
+  ...slonSet,
   ...sobakaSet,
   ...volkSet,
   ...zverSet,

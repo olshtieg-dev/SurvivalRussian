@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-VLIYANIE",
+    "label": "Влияние",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for влияние (influence).",
+    "missions": [
+      {
+        "id": "NN-EVENT-VLIYANIE-01",
+        "phrase": "Его влияние очень велико.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Влияние' is a neuter noun in the nominative as the subject. The short adjective 'велико' agrees in neuter gender, and 'очень' intensifies the scale."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-02",
+        "phrase": "Реклама оказывает сильное влияние.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Влияние' is a neuter noun, so its accusative equals the nominative. It is the direct object of 'оказывает', and 'сильное' agrees in neuter."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-03",
+        "phrase": "Мы не заметили его влияния.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Влияния' is the genitive form after the negated 'не заметили'. 'Его' marks whose influence went unnoticed."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-04",
+        "phrase": "Благодаря влиянию друзей он изменился.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Влиянию' takes the dative after 'благодаря'. 'Друзей' is the genitive plural showing the source, explaining the cause of his change."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-05",
+        "phrase": "Он находится под влиянием родителей.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Влиянием' takes the instrumental after 'под' in the fixed idiom for being under someone's influence. 'Родителей' is the genitive plural source."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-06",
+        "phrase": "Учёные спорят о влиянии климата.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Влиянии' is the prepositional form after 'о', marking the topic. 'Климата' is the genitive showing what exerts the influence."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-07",
+        "phrase": "Это решение без всякого влияния.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Влияния' takes the genitive after 'без'. 'Всякого' agrees in the neuter genitive, stressing the absence of any influence."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-08",
+        "phrase": "Внешние влияния трудно контролировать.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Влияния' is the neuter nominative plural subject. 'Внешние' agrees in the plural, and an impersonal predicate completes the thought."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-09",
+        "phrase": "Музыка имеет большое влияние на детей.",
+        "fullAnalysis": "Strategic focus: Accusative with directional preposition. 'Влияние' is the accusative object of 'имеет', and 'на детей' shows the target of that influence using the accusative plural."
+      },
+      {
+        "id": "NN-EVENT-VLIYANIE-10",
+        "phrase": "Я не верю в его влияние.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Влияние' takes the accusative after 'в' in the construction 'верить в', expressing belief in something. 'Его' marks the owner."
+      }
+    ]
+  }
+]

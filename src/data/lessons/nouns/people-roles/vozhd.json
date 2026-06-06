@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-VOZHD",
+    "label": "Вождь",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for вождь (leader).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-VOZHD-01",
+        "phrase": "Их вождь был очень мудрым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вождь' is the masculine nominative subject of 'был'. 'Мудрым' is the instrumental predicate adjective, a classic быть-plus-instrumental pattern. A simple character description."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-02",
+        "phrase": "Новый вождь повёл народ вперёд.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вождь' stays nominative as the subject of 'повёл'. 'Новый' is the agreeing masculine adjective, and 'народ' is the accusative object. A leadership image."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-03",
+        "phrase": "Племя выбрало нового вождя.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Вождя' takes the genitive-like accusative form because it is an animate masculine noun. 'Нового' agrees, a key animacy lesson."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-04",
+        "phrase": "Все ждали слов вождя.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Вождя' is the genitive form showing whose words they are. 'Слов' is a genitive plural object, a natural way to express awaiting someone's pronouncement."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-05",
+        "phrase": "Народ верил своему вождю.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Вождю' is the dative form required by 'верить'. 'Своему' agrees in the masculine dative, a natural expression of loyalty and trust."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-06",
+        "phrase": "Он стал настоящим вождём страны.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Вождём' is the instrumental form required by 'стать'. 'Настоящим' agrees in the masculine instrumental, a tidy model for the становиться pattern."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-07",
+        "phrase": "В вожде люди видели надежду.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В вожде' uses the prepositional form after 'в' to mean seeing in the leader. 'Надежду' is the accusative object, a vivid metaphorical line."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-08",
+        "phrase": "Вожди племён собрались на совет.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вожди' is the nominative plural subject of 'собрались'. 'Племён' is a genitive plural complement, a natural way to describe a gathering of leaders."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-09",
+        "phrase": "История помнит великих вождей.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Вождей' takes the genitive-like form in the accusative plural because the noun is animate. 'Великих' agrees, reinforcing the animacy rule."
+      },
+      {
+        "id": "NN-PEOPLE-VOZHD-10",
+        "phrase": "Кто стал вождём этого движения?",
+        "fullAnalysis": "Strategic focus: Instrumental predicate in a question. 'Вождём' is the instrumental after 'стать'. 'Кто' is the nominative subject, and 'этого движения' is a genitive complement. A natural question form."
+      }
+    ]
+  }
+]

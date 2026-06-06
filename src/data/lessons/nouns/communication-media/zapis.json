@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-ZAPIS",
+    "label": "Запись",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for запись (recording; note).",
+    "missions": [
+      {
+        "id": "NN-COMMS-ZAPIS-01",
+        "phrase": "Запись концерта уже готова.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Запись' is a feminine soft-sign noun in the nominative case, acting as the subject. 'Концерта' is a genitive specifying which recording."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-02",
+        "phrase": "Я случайно удалил важную запись.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Запись' is the direct object of 'удалил'. For feminine soft-sign nouns the accusative equals the nominative, and 'важную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-03",
+        "phrase": "У меня нет этой записи.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Записи' is genitive because the negated 'нет' requires the genitive. Feminine soft-sign nouns take -и in the genitive singular."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-04",
+        "phrase": "Качество записи было отличным.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Записи' is the genitive form linked to 'качество', expressing whose quality. Feminine soft-sign nouns share the -и ending here."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-05",
+        "phrase": "Звукорежиссёр уделил внимание каждой записи.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Записи' is the dative form governed by 'уделить внимание'. 'Каждой' agrees in the feminine dative singular."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-06",
+        "phrase": "Он гордился своей первой записью.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Записью' is the instrumental form governed by 'гордиться'. Feminine soft-sign nouns end in -ью in the instrumental singular."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-07",
+        "phrase": "В записи слышен шум улицы.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Записи' is the prepositional form after 'в', naming the location of the sound. Feminine soft-sign nouns take -и in the prepositional singular."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-08",
+        "phrase": "Новая запись понравилась всем слушателям.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Запись' is nominative as the subject of 'понравилась'. 'Новая' is the agreeing feminine adjective, and 'всем' takes the dative."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-09",
+        "phrase": "Архив хранит старые записи города.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Записи' is the plural accusative direct object of 'хранит'. For inanimate feminine nouns the plural accusative equals the nominative plural in -и."
+      },
+      {
+        "id": "NN-COMMS-ZAPIS-10",
+        "phrase": "Чёткая запись помогает понять лекцию.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Запись' is nominative as the subject of 'помогает'. 'Чёткая' is the agreeing feminine adjective describing the note."
+      }
+    ]
+  }
+]

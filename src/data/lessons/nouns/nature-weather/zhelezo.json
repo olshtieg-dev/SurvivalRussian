@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-ZHELEZO",
+    "label": "Железо",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for железо (iron).",
+    "missions": [
+      {
+        "id": "NN-NATURE-ZHELEZO-01",
+        "phrase": "Железо очень тяжёлый металл.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Железо' stays in the nominative case as the subject. 'Металл' is the nominative predicate noun, and 'тяжёлый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-02",
+        "phrase": "Завод производит железо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Железо' is the accusative direct object of 'производит'; as a neuter noun its accusative matches the nominative. 'Завод' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-03",
+        "phrase": "В руде много железа.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Железа' is genitive after 'много' to express a large amount. 'В руде' is the prepositional location naming where it is."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-04",
+        "phrase": "Этот мост сделан из железа.",
+        "fullAnalysis": "Strategic focus: Genitive of material. 'Железа' is genitive after 'из' to name the material. 'Мост' is the nominative subject, and 'сделан' is the short-form participle."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-05",
+        "phrase": "Магнит притягивается к железу.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Железу' is in the dative case after 'к' to show attraction toward. 'Магнит' is the nominative subject of 'притягивается'."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-06",
+        "phrase": "Они работают с железом каждый день.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Железом' is in the instrumental case after 'с' to mean working with it. 'Каждый день' marks the routine."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-07",
+        "phrase": "В железе содержится много примесей.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В железе' uses the prepositional form 'железе' after 'в' to say what is contained inside. 'Примесей' is the genitive plural after 'много'."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-08",
+        "phrase": "Цена железа сильно выросла.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Железа' is genitive modifying 'цена' to mean the price of iron. 'Выросла' agrees with 'цена' in feminine gender."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-09",
+        "phrase": "Кровь содержит железо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Железо' is the accusative object of 'содержит', identical to nominative as a neuter noun. 'Кровь' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-ZHELEZO-10",
+        "phrase": "Старое железо лежит во дворе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Железо' stays in the nominative as the subject of 'лежит'. 'Старое' is the agreeing neuter adjective, and 'во дворе' is the prepositional location."
+      }
+    ]
+  }
+]

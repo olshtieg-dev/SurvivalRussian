@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PASTUKH",
+    "label": "Пастух",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for пастух (shepherd).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PASTUKH-01",
+        "phrase": "Старый пастух пасёт овец.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пастух' stays in the nominative as the subject of 'пасёт'. 'Старый' is the agreeing masculine adjective. 'Овец' is the genitive plural object."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-02",
+        "phrase": "Мы встретили пастуха на холме.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Пастуха' takes the genitive-like ending because the noun is animate masculine, so accusative equals genitive. 'На холме' gives the location."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-03",
+        "phrase": "У пастуха была старая собака.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Пастуха' is genitive after 'у', naming the possessor. 'Собака' is the nominative subject of 'была'. A natural possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-04",
+        "phrase": "Мальчик помогает пастуху.",
+        "fullAnalysis": "Strategic focus: Dative after помогать. 'Пастуху' is dative, the indirect object required by 'помогает'. A core dative-verb pattern."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-05",
+        "phrase": "Собака бежала за пастухом.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Пастухом' is instrumental, governed by 'за' meaning behind or after. Describes following someone. A useful motion pattern."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-06",
+        "phrase": "Мы говорили о старом пастухе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Пастухе' is the prepositional form after 'о', naming the topic of talk. 'Старом' agrees in the masculine prepositional. A discussion pattern."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-07",
+        "phrase": "Пастух поёт тихую песню.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пастух' is nominative as the subject of 'поёт'. 'Песню' is the accusative object and 'тихую' agrees with it. A peaceful scene."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-08",
+        "phrase": "Дети дали пастуху воды.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Пастуху' is dative, the recipient of 'дали'. 'Воды' is partitive genitive meaning some water. A core giving pattern."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-09",
+        "phrase": "В горах живут опытные пастухи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Пастухи' is the nominative plural subject of 'живут'. 'Опытные' agrees in the plural. Practises the plural form."
+      },
+      {
+        "id": "NN-PEOPLE-PASTUKH-10",
+        "phrase": "Мы видели пастухов на лугу.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Пастухов' takes the genitive plural ending because the noun is animate, so accusative equals genitive in the plural too. 'На лугу' gives the location."
+      }
+    ]
+  }
+]

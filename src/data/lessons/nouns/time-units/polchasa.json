@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-POLCHASA",
+    "label": "Полчаса",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for полчаса (half hour).",
+    "missions": [
+      {
+        "id": "NN-TIME-POLCHASA-01",
+        "phrase": "Прошло всего полчаса.",
+        "fullAnalysis": "Strategic focus: Nominative-form subject. 'Полчаса' behaves as the subject of 'прошло', which takes the neuter singular form with this quantity word. 'Всего' stresses how little time passed. A natural way to mark elapsed time."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-02",
+        "phrase": "У нас есть ещё полчаса.",
+        "fullAnalysis": "Strategic focus: Nominative-form subject. 'Полчаса' is the subject of 'есть', the amount of time available. 'Ещё' adds the sense of remaining time, and 'у нас' marks the possessor. A useful planning phrase."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-03",
+        "phrase": "Я подождал полчаса на остановке.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Полчаса' is the accusative-form expression of duration with 'подождал'. 'На остановке' is prepositional, giving the place. A common way to state how long you waited."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-04",
+        "phrase": "Встреча длилась всего полчаса.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Полчаса' expresses the length of the meeting with 'длилась'. 'Всего' emphasizes the brevity. A clean duration pattern for events."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-05",
+        "phrase": "За полчаса он закончил работу.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Полчаса' follows 'за', expressing the time within which an action was completed. 'Закончил работу' gives the result. A useful pattern for efficiency."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-06",
+        "phrase": "Через полчаса начнётся фильм.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Полчаса' follows 'через', expressing time until a future event. 'Начнётся фильм' is the nominative subject and verb. A common scheduling phrase."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-07",
+        "phrase": "Магазин откроется через полчаса.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Полчаса' follows 'через', marking the wait until opening. 'Магазин откроется' is the nominative subject with its verb. A practical everyday sentence."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-08",
+        "phrase": "Около получаса мы стояли в пробке.",
+        "fullAnalysis": "Strategic focus: Genitive form after preposition. 'Получаса' is the genitive form of 'полчаса', required after 'около' to mean about half an hour. 'В пробке' is prepositional. Note the irregular declension of this compound."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-09",
+        "phrase": "Ему хватило получаса на обед.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Получаса' is the genitive form required by 'хватило'. 'Ему' is the dative experiencer, and 'на обед' gives the purpose. A useful sufficiency pattern with the oblique stem."
+      },
+      {
+        "id": "NN-TIME-POLCHASA-10",
+        "phrase": "Полчаса прогулки очень полезны.",
+        "fullAnalysis": "Strategic focus: Subject with genitive complement. 'Полчаса' heads the subject phrase, and 'прогулки' is the genitive showing what the half hour consists of. 'Полезны' is the short-form predicate. A natural health remark."
+      }
+    ]
+  }
+]

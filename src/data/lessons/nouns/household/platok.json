@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PLATOK",
+    "label": "Платок",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for платок (scarf).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-01",
+        "phrase": "Этот платок очень тёплый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Платок' is the masculine nominative subject. 'Этот' and 'тёплый' agree in masculine gender, and the sentence simply describes the scarf."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-02",
+        "phrase": "Бабушка подарила мне красивый платок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Платок' is the accusative direct object of 'подарила'; inanimate masculine accusative equals nominative. 'Красивый' agrees, and 'мне' is the dative recipient."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-03",
+        "phrase": "У меня нет тёплого платка.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Платка' is genitive after the negation 'нет', with the fleeting vowel dropping from платок. 'Тёплого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-04",
+        "phrase": "Она повязала голову платком.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Платком' is instrumental, naming the thing used to cover the head. 'Голову' is the accusative object of 'повязала'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-05",
+        "phrase": "На платке вышиты яркие цветы.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Платке' is prepositional after 'на', showing where the flowers are. 'Цветы' is the nominative plural subject of 'вышиты'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-06",
+        "phrase": "Я подошёл к платку на витрине.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Платку' is dative after 'к', marking the goal of approach. 'На витрине' adds the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-07",
+        "phrase": "В шкафу лежат старые платки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Платки' is the nominative plural subject of 'лежат'. 'Старые' agrees in the plural, and 'в шкафу' gives the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-08",
+        "phrase": "Она купила два шёлковых платка.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Платка' is genitive singular after 'два'. 'Шёлковых' takes the genitive plural form normal with paucal numbers."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-09",
+        "phrase": "Без платка мне холодно зимой.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Платка' is genitive after 'без', expressing lack. 'Мне холодно' is a dative impersonal construction, and 'зимой' adds the time."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLATOK-10",
+        "phrase": "Мама гладит платки на столе.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Платки' is the accusative plural object of 'гладит'; inanimate plural accusative equals nominative. 'На столе' gives the prepositional place."
+      }
+    ]
+  }
+]

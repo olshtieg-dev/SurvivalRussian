@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-VOKZAL",
+    "label": "Вокзал",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for вокзал (station).",
+    "missions": [
+      {
+        "id": "NN-MOTION-VOKZAL-01",
+        "phrase": "Этот вокзал очень старый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вокзал' stays in the nominative case as the subject. 'Этот' agrees in masculine gender, and 'старый' is the agreeing adjective. A simple descriptive model."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-02",
+        "phrase": "Мы приехали на вокзал рано утром.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Вокзал' takes the accusative after 'на' to express arrival at a place. 'Рано утром' sets the time. The standard pattern for going to a station."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-03",
+        "phrase": "Я жду тебя возле вокзала.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Вокзала' takes the genitive after 'возле' to mean near the station. A natural way to arrange a meeting point."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-04",
+        "phrase": "На вокзале было очень много людей.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Вокзале' uses the prepositional form after 'на' to describe where something happened. 'Много людей' adds the crowd. Useful for describing a scene."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-05",
+        "phrase": "Автобус идёт к вокзалу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Вокзалу' takes the dative after 'к' to express movement toward the station. A clean pattern for giving directions."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-06",
+        "phrase": "Перед вокзалом стоит большая площадь.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Вокзалом' takes the instrumental after 'перед' to show position in front. 'Большая площадь' is the nominative subject. Good for spatial description."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-07",
+        "phrase": "В нашем городе два вокзала.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Вокзала' takes the genitive singular after 'два'. This counting pattern is essential and applies to all masculine nouns with two, three, or four."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-08",
+        "phrase": "Все вокзалы в Москве огромные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вокзалы' is the nominative plural subject. 'Все' agrees in the plural, and 'огромные' is the agreeing plural adjective. Useful for general statements."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-09",
+        "phrase": "Мы уехали с вокзала поздно вечером.",
+        "fullAnalysis": "Strategic focus: Genitive of departure. 'Вокзала' takes the genitive after 'с' to express leaving a place. 'Поздно вечером' sets the time. The mirror of arriving."
+      },
+      {
+        "id": "NN-MOTION-VOKZAL-10",
+        "phrase": "Я плохо помню этот старый вокзал.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вокзал' is the inanimate masculine accusative direct object of 'помню', identical to its nominative form. 'Этот старый' agrees in the accusative. Good for memory talk."
+      }
+    ]
+  }
+]

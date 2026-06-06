@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SHLYAPA",
+    "label": "Шляпа",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for шляпа (hat).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-01",
+        "phrase": "Эта шляпа очень красивая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шляпа' stays in the nominative case as the subject. 'Эта' points at a specific one, and 'красивая' is the agreeing feminine adjective. A clean model for describing an object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-02",
+        "phrase": "Я купил новую шляпу вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шляпу' is the accusative direct object of 'купил'. 'Новую' agrees in the feminine accusative, and 'вчера' sets the time. Useful for shopping language."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-03",
+        "phrase": "У меня нет тёплой шляпы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Шляпы' takes the genitive after 'нет' to express not having something. 'Тёплой' agrees in the feminine genitive. The standard pattern for lacking an item."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-04",
+        "phrase": "Он подошёл к девушке в шляпе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В шляпе' uses the prepositional form 'шляпе' after 'в' to describe what someone is wearing. A natural way to identify a person by their clothing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-05",
+        "phrase": "Я подарил сестре красную шляпу.",
+        "fullAnalysis": "Strategic focus: Accusative gift with dative recipient. 'Шляпу' is the accusative direct object, while 'сестре' is the dative recipient. 'Красную' agrees in feminine accusative. A useful giving frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-06",
+        "phrase": "Под этой шляпой прячется кот.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Шляпой' takes the instrumental after 'под' to show position beneath. 'Этой' agrees in the feminine instrumental. Good for spatial description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-07",
+        "phrase": "В магазине много разных шляп.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Шляп' is the genitive plural after 'много'. 'Разных' agrees in the genitive plural. A common pattern for describing quantity and variety."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-08",
+        "phrase": "Эти шляпы лежат на полке.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Шляпы' is the nominative plural subject of 'лежат'. 'Эти' agrees in the plural, and 'на полке' gives the location. Useful for describing several items."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-09",
+        "phrase": "Мне нравится твоя летняя шляпа.",
+        "fullAnalysis": "Strategic focus: Dative experiencer with nominative subject. 'Шляпа' is nominative, the thing that pleases. 'Мне' is the dative experiencer and 'нравится' agrees with the hat. Highly reusable in speech."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHLYAPA-10",
+        "phrase": "Я долго искал свою шляпу дома.",
+        "fullAnalysis": "Strategic focus: Accusative object of searching. 'Шляпу' is the accusative direct object of 'искал'. 'Свою' agrees in the feminine accusative, and 'долго' adds duration. A natural everyday scene."
+      }
+    ]
+  }
+]

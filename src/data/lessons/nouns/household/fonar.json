@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-FONAR",
+    "label": "Фонарь",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for фонарь (lantern).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-FONAR-01",
+        "phrase": "Этот фонарь светит очень ярко.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фонарь' is a masculine noun in the nominative as the subject of 'светит'. 'Этот' is the agreeing masculine demonstrative, and 'ярко' describes the brightness."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-02",
+        "phrase": "Я взял фонарь и вышел.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Фонарь' is the accusative direct object of 'взял'. As an inanimate masculine noun, its accusative matches the nominative form. A clear pattern for grabbing an object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-03",
+        "phrase": "У меня нет фонаря.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Фонаря' is the genitive singular after 'нет', expressing that the lantern is lacking. The soft-stem masculine ending shifts to -я. A core negation pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-04",
+        "phrase": "Свет фонаря был очень слабым.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Фонаря' is genitive, showing whose light it is, the light of the lantern. The -я ending marks the soft-stem masculine genitive. Useful for describing properties."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-05",
+        "phrase": "Я подошёл к фонарю на улице.",
+        "fullAnalysis": "Strategic focus: Dative with направление. 'Фонарю' is the dative singular after 'к', marking the goal of motion. The soft-stem ending becomes -ю. A natural way to express approaching something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-06",
+        "phrase": "Мы читали под фонарём вечером.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Фонарём' is instrumental after 'под', placing the action under the lantern. The soft-stem ending is -ём. Useful for spatial relationships."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-07",
+        "phrase": "На фонаре сидела большая птица.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Фонаре' is prepositional after 'на', marking location on top of the lantern. The soft stem takes -е here. A solid example of spatial 'на'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-08",
+        "phrase": "На площади горят яркие фонари.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Фонари' is the nominative plural, the subject of 'горят'. The soft-stem plural ending is -и, and 'яркие' agrees in the plural. Shows plural formation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-09",
+        "phrase": "Город купил новые уличные фонари.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Фонари' is the accusative plural object of 'купил'. As inanimate, the accusative plural matches the nominative plural form. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FONAR-10",
+        "phrase": "Без фонарей здесь совсем темно.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Фонарей' is the genitive plural after 'без', expressing the absence of lanterns. The soft-stem genitive plural ending is -ей. A useful negation frame."
+      }
+    ]
+  }
+]

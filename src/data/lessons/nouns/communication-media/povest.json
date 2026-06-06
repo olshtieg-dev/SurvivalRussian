@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-POVEST",
+    "label": "Повесть",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for повесть (tale; novella).",
+    "missions": [
+      {
+        "id": "NN-COMMS-POVEST-01",
+        "phrase": "Это очень грустная повесть.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Повесть' is a feminine soft-sign noun in the nominative. 'Грустная' is the agreeing feminine adjective and 'очень' intensifies it. A simple descriptive model."
+      },
+      {
+        "id": "NN-COMMS-POVEST-02",
+        "phrase": "Я прочитал эту повесть за вечер.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Повесть' is the accusative direct object of 'прочитал'; for this feminine soft-sign noun the accusative matches the nominative. 'Эту' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-COMMS-POVEST-03",
+        "phrase": "Сюжет этой повести очень простой.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Повести' is the genitive modifying 'сюжет', the plot of what. 'Этой' agrees in the feminine genitive. Common in literary discussion."
+      },
+      {
+        "id": "NN-COMMS-POVEST-04",
+        "phrase": "В этой повести нет счастливого конца.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Повести' is prepositional after 'в', the work within which something is found. 'Нет' then takes the genitive 'конца'. A useful literary pattern."
+      },
+      {
+        "id": "NN-COMMS-POVEST-05",
+        "phrase": "Учитель рассказал нам о повести Гоголя.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Повести' is prepositional after 'о', the topic of the lesson. 'Гоголя' is the genitive of authorship. Good for classroom Russian."
+      },
+      {
+        "id": "NN-COMMS-POVEST-06",
+        "phrase": "Я посвятил вечер этой повести.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Повести' is the dative governed by 'посвятил', the thing time was devoted to. 'Этой' agrees in the feminine dative. Note the soft-sign declension."
+      },
+      {
+        "id": "NN-COMMS-POVEST-07",
+        "phrase": "Я восхищаюсь этой короткой повестью.",
+        "fullAnalysis": "Strategic focus: Instrumental with verb. 'Повестью' is instrumental after 'восхищаюсь', which governs the instrumental. 'Короткой' agrees in the feminine instrumental. A literary-praise phrase."
+      },
+      {
+        "id": "NN-COMMS-POVEST-08",
+        "phrase": "В библиотеке много интересных повестей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Повестей' is the genitive plural after 'много', expressing quantity. 'Интересных' agrees in the genitive plural. Note the soft-sign plural ending."
+      },
+      {
+        "id": "NN-COMMS-POVEST-09",
+        "phrase": "Эти повести написаны одним автором.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Повести' is the nominative plural subject. 'Эти' is the agreeing demonstrative and 'одним автором' is an instrumental of agent. A literary observation."
+      },
+      {
+        "id": "NN-COMMS-POVEST-10",
+        "phrase": "Мы обсуждали героев в двух повестях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Повестях' is the prepositional plural after 'в', and 'двух' agrees in the same case. 'Героев' is the animate accusative object. Useful for comparison."
+      }
+    ]
+  }
+]

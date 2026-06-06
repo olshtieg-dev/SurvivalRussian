@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-PRIVYCHKA",
+    "label": "Привычка",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for привычка (habit).",
+    "missions": [
+      {
+        "id": "NN-MIND-PRIVYCHKA-01",
+        "phrase": "Это очень плохая привычка.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Привычка' is the feminine nominative subject. 'Плохая' is the agreeing feminine adjective and 'очень' intensifies the judgement. A natural way to label a habit."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-02",
+        "phrase": "У меня появилась хорошая привычка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Привычка' is nominative as the thing that appeared. 'Хорошая' agrees in feminine gender and 'появилась' agrees in feminine past tense. A common self-improvement phrase."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-03",
+        "phrase": "Я бросил эту вредную привычку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Привычку' is the accusative direct object of 'бросил'. 'Эту' and 'вредную' agree in the feminine accusative. Useful for talking about quitting something."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-04",
+        "phrase": "У него нет такой привычки.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Привычки' takes the genitive after 'нет', which denies existence. 'Такой' agrees in the feminine genitive. A clean model for absence statements."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-05",
+        "phrase": "Он курит просто по привычке.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'По привычке' uses the dative 'привычке' after 'по' to mean out of habit. 'Просто' downplays the reason. A very idiomatic everyday phrase."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-06",
+        "phrase": "Я борюсь с этой привычкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Привычкой' is the instrumental after 'с', the thing being fought. 'Этой' agrees in the feminine instrumental. Good for describing personal struggle."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-07",
+        "phrase": "Расскажи мне о своей привычке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О привычке' uses the prepositional form after 'о' for the topic of talk. 'Своей' agrees in the feminine prepositional. A conversational prompt."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-08",
+        "phrase": "У всех есть свои привычки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Привычки' is the nominative plural subject in the possession frame 'у всех есть'. 'Свои' is the agreeing possessive. Useful for general observations."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-09",
+        "phrase": "Трудно избавиться от старых привычек.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Привычек' is the genitive plural after 'от', showing what one rids oneself of. 'Старых' agrees in the genitive plural. Note the fleeting vowel in the stem."
+      },
+      {
+        "id": "NN-MIND-PRIVYCHKA-10",
+        "phrase": "Эта привычка мешает мне работать.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Привычка' is nominative as the thing that interferes. 'Эта' points at a specific one and 'мне' is the dative experiencer. A practical complaint pattern."
+      }
+    ]
+  }
+]

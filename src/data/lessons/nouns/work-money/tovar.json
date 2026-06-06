@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-TOVAR",
+    "label": "Товар",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for товар (goods).",
+    "missions": [
+      {
+        "id": "NN-WORK-TOVAR-01",
+        "phrase": "Этот товар очень дорогой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Товар' stays in the nominative case as the subject. 'Этот' agrees in masculine gender, and 'дорогой' is the agreeing adjective. A simple descriptive model."
+      },
+      {
+        "id": "NN-WORK-TOVAR-02",
+        "phrase": "Магазин продаёт качественный товар.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Товар' is the inanimate masculine accusative direct object of 'продаёт', identical to its nominative form. 'Качественный' agrees in the accusative. Core commerce language."
+      },
+      {
+        "id": "NN-WORK-TOVAR-03",
+        "phrase": "На складе нет нужного товара.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Товара' takes the genitive after 'нет' to express that something is not in stock. 'Нужного' agrees in the masculine genitive. A common warehouse phrase."
+      },
+      {
+        "id": "NN-WORK-TOVAR-04",
+        "phrase": "Покупатель доволен этим товаром.",
+        "fullAnalysis": "Strategic focus: Instrumental after an adjective. 'Товаром' takes the instrumental because 'доволен' governs that case. 'Этим' agrees in the masculine instrumental. Useful for expressing satisfaction."
+      },
+      {
+        "id": "NN-WORK-TOVAR-05",
+        "phrase": "Мы много читали об этом товаре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Товаре' uses the prepositional form after 'об' to express reading about a product. 'Этом' agrees in the masculine prepositional. A useful research frame."
+      },
+      {
+        "id": "NN-WORK-TOVAR-06",
+        "phrase": "Они дали скидку на этот товар.",
+        "fullAnalysis": "Strategic focus: Accusative after a preposition. 'Товар' takes the accusative after 'на', identical to its nominative form because it is inanimate masculine. A typical sales phrase about a discount."
+      },
+      {
+        "id": "NN-WORK-TOVAR-07",
+        "phrase": "В магазине много дешёвого товара.",
+        "fullAnalysis": "Strategic focus: Genitive after a quantifier. 'Товара' takes the genitive singular after 'много' because goods are treated as an uncountable mass. 'Дешёвого' agrees in the masculine genitive. A common quantity pattern."
+      },
+      {
+        "id": "NN-WORK-TOVAR-08",
+        "phrase": "Эти товары стоят очень дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Товары' is the nominative plural subject of 'стоят'. 'Эти' agrees in the plural, and 'очень дорого' states the price. Useful for talking about a range of products."
+      },
+      {
+        "id": "NN-WORK-TOVAR-09",
+        "phrase": "Фирма привезла новые товары из Китая.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Товары' is the inanimate accusative plural object of 'привезла', identical to the nominative plural. 'Новые' agrees, and 'из Китая' is the genitive of origin. Trade language."
+      },
+      {
+        "id": "NN-WORK-TOVAR-10",
+        "phrase": "Цены на эти товары быстро растут.",
+        "fullAnalysis": "Strategic focus: Accusative plural after a preposition. 'Товары' takes the accusative plural after 'на', identical to the nominative. 'Эти' agrees, and 'цены растут' is the main clause. Useful for economic talk."
+      }
+    ]
+  }
+]

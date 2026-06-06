@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-PODROBNOST",
+    "label": "Подробность",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for подробность (detail).",
+    "missions": [
+      {
+        "id": "NN-COMMS-PODROBNOST-01",
+        "phrase": "Эта подробность оказалась очень важной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Подробность' is the feminine nominative subject of 'оказалась', which agrees in feminine gender. 'Важной' is the instrumental predicate, a natural evaluative line."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-02",
+        "phrase": "Одна подробность всё-таки осталась неясной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Подробность' stays nominative as the subject of 'осталась'. 'Одна' agrees in feminine gender, and 'неясной' is the instrumental predicate. A useful investigative line."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-03",
+        "phrase": "Он вспомнил одну важную подробность.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Подробность' is the accusative direct object of 'вспомнил'; this soft-sign feminine noun keeps its form in the accusative singular. 'Важную' agrees, a clean object example."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-04",
+        "phrase": "Без этой подробности рассказ неполный.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Подробности' is the genitive form after 'без'. 'Этой' agrees in the feminine genitive, and 'рассказ неполный' completes the thought. A useful narrative pattern."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-05",
+        "phrase": "К этой подробности он вернулся позже.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Подробности' is the dative form after 'к' to express returning to a point. 'Этой' agrees in the feminine dative, a natural discussion pattern."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-06",
+        "phrase": "Он интересовался каждой подробностью дела.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Подробностью' is the instrumental form required by 'интересоваться'. 'Каждой' agrees, and 'дела' is a genitive complement. A natural investigative line."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-07",
+        "phrase": "В этой подробности скрыта вся правда.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В подробности' uses the prepositional form after 'в' to mean within the detail. 'Скрыта' is the short participle, a vivid dramatic statement."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-08",
+        "phrase": "Расскажи мне все подробности встречи.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Подробности' is the accusative plural object of 'расскажи'; inanimate feminine plurals share nominative and accusative forms. 'Все' agrees, a common conversational request."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-09",
+        "phrase": "Все подробности были уже известны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Подробности' is the nominative plural subject of 'были'. 'Все' agrees, and 'известны' is the short adjective predicate. A clear plural pattern."
+      },
+      {
+        "id": "NN-COMMS-PODROBNOST-10",
+        "phrase": "Я не помню многих подробностей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Подробностей' is the genitive plural required by 'многих' under negation. A useful structure for admitting a gap in memory."
+      }
+    ]
+  }
+]

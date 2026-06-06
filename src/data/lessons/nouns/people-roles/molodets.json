@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-MOLODETS",
+    "label": "Молодец",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for молодец (good fellow).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-MOLODETS-01",
+        "phrase": "Ты настоящий молодец!",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Молодец' is the nominative predicate noun praising the listener. 'Настоящий' is the agreeing masculine adjective. The most common way to say well done."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-02",
+        "phrase": "Учитель похвалил этого молодца.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Молодца' takes the accusative, which matches the genitive for this animate masculine noun, with the fleeting 'е' dropped. 'Этого' agrees."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-03",
+        "phrase": "У этого молодца золотые руки.",
+        "fullAnalysis": "Strategic focus: Genitive of possession with fleeting vowel. 'Молодца' is the genitive, and the vowel 'е' drops before the ending. 'У этого молодца' marks whose hands they are. A praise idiom."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-04",
+        "phrase": "Все аплодировали этому молодцу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Молодцу' takes the dative after 'аплодировали', the one applauded, with the fleeting 'е' dropped. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-05",
+        "phrase": "Я горжусь таким молодцом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. 'Молодцом' takes the instrumental required by 'горжусь', with the fleeting 'е' dropped. 'Таким' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-06",
+        "phrase": "В этом молодце много энергии.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Молодце' takes the prepositional after 'в', here figuratively about what is inside the person. The fleeting 'е' drops, and 'много энергии' is a genitive quantity."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-07",
+        "phrase": "Какие же вы молодцы!",
+        "fullAnalysis": "Strategic focus: Nominative plural predicate. 'Молодцы' is the nominative plural predicate praising several people. 'Какие' agrees in the plural, and 'же' adds emphasis. A common group compliment."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-08",
+        "phrase": "Тренер похвалил всех молодцов.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural equals genitive plural. 'Молодцов' takes the accusative plural, matching the genitive plural for this animate noun. 'Всех' agrees."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-09",
+        "phrase": "В команде нет ленивых молодцов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Молодцов' is the genitive plural after 'нет'. 'Ленивых' agrees in the genitive plural, and 'в команде' gives the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-MOLODETS-10",
+        "phrase": "Мы гордимся нашими молодцами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'гордиться'. 'Молодцами' takes the instrumental plural required by 'гордимся'. 'Нашими' agrees in the instrumental plural. A team-pride sentence."
+      }
+    ]
+  }
+]

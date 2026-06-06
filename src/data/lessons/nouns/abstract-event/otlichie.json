@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-OTLICHIE",
+    "label": "Отличие",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for отличие (difference).",
+    "missions": [
+      {
+        "id": "NN-EVENT-OTLICHIE-01",
+        "phrase": "Это главное отличие двух планов.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Отличие' is a neuter noun in the nominative as the predicate. 'Главное' is the agreeing neuter adjective, and 'двух планов' is genitive naming what differs. A clear comparison frame."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-02",
+        "phrase": "Существует большое отличие между ними.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отличие' is nominative as the subject of 'существует'. 'Большое' is the agreeing neuter adjective, and 'между ними' is instrumental. A natural way to state a contrast."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-03",
+        "phrase": "Я вижу одно важное отличие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отличие' is the accusative direct object of 'вижу'; neuter nouns match the nominative here. 'Одно важное' are the agreeing neuter accusative modifiers. Useful for pointing out a difference."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-04",
+        "phrase": "В отличие от брата, он спокоен.",
+        "fullAnalysis": "Strategic focus: Prepositional in a fixed phrase. 'Отличие' appears in the set expression 'в отличие от', which means unlike. 'От брата' is genitive. A very common comparative connector."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-05",
+        "phrase": "Трудно найти отличие этих фотографий.",
+        "fullAnalysis": "Strategic focus: Accusative object with genitive. 'Отличие' is the accusative object of 'найти', and 'этих фотографий' is the genitive plural naming what is compared. A puzzle-style sentence."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-06",
+        "phrase": "Из-за отличия в цене я отказался.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Отличия' is the genitive form after 'из-за', expressing cause. 'В цене' is prepositional, naming the area of difference. A practical reason-giving pattern."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-07",
+        "phrase": "Он не придал значения отличию.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Отличию' is the dative form in the idiom 'придать значение чему-то', here negated with the genitive 'значения'. A nuanced way to say he ignored the difference."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-08",
+        "phrase": "Покупатели интересуются отличием моделей.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Отличием' is the instrumental form governed by 'интересоваться'. 'Моделей' is the genitive plural showing what differs. A shopping or product-comparison context."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-09",
+        "phrase": "Учитель рассказал об отличии слов.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Отличии' is the prepositional form after 'об', the topic of the telling. 'Слов' is the genitive plural naming what is contrasted. A typical classroom sentence."
+      },
+      {
+        "id": "NN-EVENT-OTLICHIE-10",
+        "phrase": "Между языками есть важные отличия.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Отличия' is the nominative plural as the subject of 'есть'. 'Важные' is the agreeing plural adjective, and 'между языками' is instrumental. A clean plural comparison."
+      }
+    ]
+  }
+]

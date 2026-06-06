@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-NAPRYAZHENIE",
+    "label": "Напряжение",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for напряжение (tension).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-01",
+        "phrase": "В комнате чувствовалось сильное напряжение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Напряжение' is the neuter nominative subject of 'чувствовалось'. 'Сильное' is the agreeing neuter adjective, and 'в комнате' sets the scene. A vivid description of mood."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-02",
+        "phrase": "Это напряжение долго не проходило.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Напряжение' stays nominative as the subject. 'Это' points at a specific instance, and 'не проходило' agrees in neuter past tense. Useful for lasting stress."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-03",
+        "phrase": "Я чувствую сильное напряжение в плечах.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Напряжение' is the accusative direct object of 'чувствую'; neuter nouns look identical in nominative and accusative. 'В плечах' locates the physical tension."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-04",
+        "phrase": "Из-за напряжения он не мог спать.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Напряжения' is the genitive form after 'из-за', giving the cause. The clause explains a consequence, a common everyday construction."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-05",
+        "phrase": "Благодаря напряжению все были собраны.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Напряжению' is the dative form required after 'благодаря', framing the tension as a positive cause. A useful pattern for crediting an outcome."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-06",
+        "phrase": "Воздух был наполнен напряжением.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Напряжением' is the instrumental form expressing what the air was filled with. 'Наполнен' is the short passive participle, a literary way to set atmosphere."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-07",
+        "phrase": "Мы говорили о напряжении на работе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О напряжении' uses the prepositional form after 'о' to express the topic of conversation. 'На работе' situates the stress. A practical workplace pattern."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-08",
+        "phrase": "Напряжение между ними росло каждый день.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Напряжение' is the neuter nominative subject of 'росло'. 'Между ними' identifies the parties, and 'каждый день' adds frequency. A tense relational picture."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-09",
+        "phrase": "Постоянные напряжения вредят здоровью.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Напряжения' is the nominative plural subject of 'вредят'. 'Постоянные' agrees in the plural, and 'здоровью' is the dative object. A health-themed sentence."
+      },
+      {
+        "id": "NN-EMOTION-NAPRYAZHENIE-10",
+        "phrase": "Снять напряжение помогает тихая музыка.",
+        "fullAnalysis": "Strategic focus: Accusative object in an infinitive phrase. 'Напряжение' is the accusative object of 'снять'. 'Тихая музыка' is the nominative subject of 'помогает', a soothing everyday tip."
+      }
+    ]
+  }
+]

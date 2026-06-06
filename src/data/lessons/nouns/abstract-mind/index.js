@@ -3,19 +3,26 @@ import dukhSet from './dukh.json';
 import dushaSet from './dusha.json';
 import interesSet from './interes.json';
 import kharakterSet from './kharakter.json';
+import lyubopytstvoSet from './lyubopytstvo.json';
+import mechtaSet from './mechta.json';
 import nadezhdaSet from './nadezhda.json';
+import ozhidanieSet from './ozhidanie.json';
 import pamyatSet from './pamyat.json';
 import ponyatieSet from './ponyatie.json';
 import povedenieSet from './povedenie.json';
 import predstavlenieSet from './predstavlenie.json';
+import privychkaSet from './privychka.json';
 import soznanieSet from './soznanie.json';
 import sposobnostSet from './sposobnost.json';
 import tainaSet from './taina.json';
+import talantSet from './talant.json';
+import teoriyaSet from './teoriya.json';
 import umSet from './um.json';
 import veraSet from './vera.json';
 import vnimanieSet from './vnimanie.json';
 import volyaSet from './volya.json';
 import vospominanieSet from './vospominanie.json';
+import vyborSet from './vybor.json';
 import vyrazhenieSet from './vyrazhenie.json';
 import vzglyadSet from './vzglyad.json';
 import zhelanieSet from './zhelanie.json';
@@ -27,19 +34,26 @@ const abstractMindNounsData = [
   ...dushaSet,
   ...interesSet,
   ...kharakterSet,
+  ...lyubopytstvoSet,
+  ...mechtaSet,
   ...nadezhdaSet,
+  ...ozhidanieSet,
   ...pamyatSet,
   ...ponyatieSet,
   ...povedenieSet,
   ...predstavlenieSet,
+  ...privychkaSet,
   ...soznanieSet,
   ...sposobnostSet,
   ...tainaSet,
+  ...talantSet,
+  ...teoriyaSet,
   ...umSet,
   ...veraSet,
   ...vnimanieSet,
   ...volyaSet,
   ...vospominanieSet,
+  ...vyborSet,
   ...vyrazhenieSet,
   ...vzglyadSet,
   ...zhelanieSet,

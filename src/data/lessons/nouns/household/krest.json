@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KREST",
+    "label": "Крест",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for крест (cross).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KREST-01",
+        "phrase": "На стене висит старый крест.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Крест' stays in the nominative case as the subject of 'висит'. 'Старый' is the agreeing masculine adjective, and 'на стене' is the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-02",
+        "phrase": "Она носит маленький крест.",
+        "fullAnalysis": "Strategic focus: Accusative inanimate object. 'Крест' is the accusative direct object of 'носит'; as an inanimate masculine noun its accusative matches the nominative. 'Маленький' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-03",
+        "phrase": "В доме нет креста.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Креста' takes the genitive after 'нет' to express that there is none. 'В доме' is the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-04",
+        "phrase": "Она подошла к кресту.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Кресту' is in the dative case after 'к' to show movement toward. 'Подошла' agrees in the feminine past."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-05",
+        "phrase": "Он рисует круг крестом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Крестом' is in the instrumental case, the tool of the action. 'Круг' is the accusative object, and 'рисует' is the present-tense verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-06",
+        "phrase": "Свет горит на кресте.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На кресте' uses the prepositional form 'кресте' after 'на' to mark where the light shines. 'Свет' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-07",
+        "phrase": "В церкви стоят большие кресты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кресты' is the nominative plural subject of 'стоят'. 'Большие' agrees in the plural, and 'в церкви' is the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-08",
+        "phrase": "Мы видим много крестов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Крестов' is genitive plural after 'много'. 'Видим' is the present-tense verb, and 'мы' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-09",
+        "phrase": "Форма креста очень простая.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Креста' is genitive modifying 'форма' to mean the shape of the cross. 'Простая' is the feminine adjective describing the shape."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KREST-10",
+        "phrase": "Он повесил крест над дверью.",
+        "fullAnalysis": "Strategic focus: Accusative of placement. 'Крест' is the accusative object of 'повесил', identical to nominative as an inanimate masculine noun. 'Над дверью' is the instrumental location above the door."
+      }
+    ]
+  }
+]

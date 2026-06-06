@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SHYOPOT",
+    "label": "Шёпот",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for шёпот (whisper).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SHYOPOT-01",
+        "phrase": "В комнате слышен тихий шёпот.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шёпот' is a masculine noun in the nominative, the subject of the short adjective 'слышен'. 'Тихий' agrees, and 'в комнате' is prepositional."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-02",
+        "phrase": "Я услышал странный шёпот.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шёпот' is the inanimate masculine accusative, identical to the nominative, the object of 'услышал'. 'Странный' agrees."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-03",
+        "phrase": "Из-за шума шёпота не слышно.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Шёпота' is genitive after 'не слышно', the thing that cannot be heard. 'Из-за шума' explains the cause."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-04",
+        "phrase": "Дети прислушались к шёпоту ветра.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Шёпоту' is dative after 'к', the sound they listened toward. 'Ветра' is genitive showing whose whisper."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-05",
+        "phrase": "Она говорила еле слышным шёпотом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Шёпотом' is instrumental, describing how she spoke. 'Слышным' agrees in the instrumental."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-06",
+        "phrase": "В шёпоте звучала настоящая тревога.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Шёпоте' is prepositional after 'в', meaning within the whisper. 'Тревога' is the feminine nominative subject."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-07",
+        "phrase": "Они перешли на тихий шёпот.",
+        "fullAnalysis": "Strategic focus: Accusative of transition. 'Шёпот' is accusative after 'на', the mode they switched to. 'Тихий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-08",
+        "phrase": "По залу пронеслись тревожные шёпоты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Шёпоты' is the nominative plural subject of 'пронеслись'. 'Тревожные' agrees, and 'по залу' is dative."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-09",
+        "phrase": "В темноте было много шёпотов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Шёпотов' is genitive plural required by 'много'. 'В темноте' is prepositional for the setting."
+      },
+      {
+        "id": "NN-COMMS-SHYOPOT-10",
+        "phrase": "Учитель устал от детских шёпотов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'от'. 'Шёпотов' is genitive plural after 'от', the cause of his tiredness. 'Детских' agrees in the plural."
+      }
+    ]
+  }
+]

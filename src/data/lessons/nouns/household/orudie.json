@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-ORUDIE",
+    "label": "Орудие",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for орудие (tool; implement).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-01",
+        "phrase": "Лопата - это простое орудие труда.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Орудие' is a neuter noun in the nominative as the predicate after the dash. 'Простое' is the agreeing neuter adjective, and 'труда' is genitive. A clean definitional sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-02",
+        "phrase": "Это древнее каменное орудие.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Орудие' is nominative as the predicate. 'Древнее' and 'каменное' are agreeing neuter adjectives. A useful descriptive sentence for an archaeological object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-03",
+        "phrase": "Мастер взял нужное орудие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Орудие' is the accusative direct object of 'взял'; neuter nouns match the nominative here. 'Нужное' is the agreeing neuter accusative adjective. A practical workshop sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-04",
+        "phrase": "Без этого орудия работа невозможна.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Орудия' is the genitive form after 'без', stating a condition. 'Этого' is the agreeing neuter genitive demonstrative. A useful necessity pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-05",
+        "phrase": "Цена орудия была высокой.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Орудия' is genitive, linked to 'цена' to mean the price of the tool. 'Была высокой' is the instrumental predicate of past tense. A common price construction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-06",
+        "phrase": "Он научился пользоваться этим орудием.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Орудием' is the instrumental form governed by 'пользоваться'. 'Этим' is the agreeing neuter instrumental demonstrative. A core verb-with-instrumental pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-07",
+        "phrase": "Дерево срубили острым орудием.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Орудием' is the instrumental form expressing the tool used to act. 'Острым' is the agreeing neuter instrumental adjective. A clear instrumental-of-means example."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-08",
+        "phrase": "В этом орудии есть скрытый дефект.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Орудии' is the prepositional form after 'в', stating where the defect is. 'Скрытый дефект' is the nominative subject of 'есть'. A practical inspection sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-09",
+        "phrase": "Музей собрал старинные орудия.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Орудия' is the accusative plural (matching the nominative plural for neuter nouns) as the object of 'собрал'. 'Старинные' is the agreeing plural adjective. A clear plural example."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUDIE-10",
+        "phrase": "Эти орудия лежат в сарае.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Орудия' is the nominative plural as the subject of 'лежат'. 'Эти' is the agreeing plural demonstrative, and 'в сарае' is prepositional, giving the location. A clean plural sentence."
+      }
+    ]
+  }
+]

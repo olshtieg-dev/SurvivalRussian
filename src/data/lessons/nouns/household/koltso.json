@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KOLTSO",
+    "label": "Кольцо",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for кольцо (ring).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-01",
+        "phrase": "Это золотое кольцо очень красивое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кольцо' stays in the nominative as the subject of the sentence. 'Золотое' and 'красивое' are neuter adjectives agreeing with it, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-02",
+        "phrase": "Она потеряла своё кольцо вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кольцо' is the accusative direct object of 'потеряла'. Neuter inanimate nouns keep the same form in accusative as nominative, and 'своё' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-03",
+        "phrase": "У этого кольца нет камня.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Кольца' is genitive after the negation frame, while 'камня' is also genitive after 'нет'. The pair shows the genitive driving both possession and absence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-04",
+        "phrase": "Он подарил кольцо своей невесте.",
+        "fullAnalysis": "Strategic focus: Accusative gift with dative recipient. 'Кольцо' is the accusative object of 'подарил', and 'невесте' is the dative recipient. A natural pattern for giving presents."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-05",
+        "phrase": "Я храню деньги в кольце.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В кольце' uses the prepositional form 'кольце' after 'в' to express where something is kept. The neuter ending shifts to -е in this case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-06",
+        "phrase": "Дай мне это кольцо, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative request. 'Кольцо' is the accusative object of the imperative 'дай'. 'Это' agrees in the neuter accusative, and 'мне' marks the recipient in the dative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-07",
+        "phrase": "Цена кольца была слишком высокой.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Кольца' is genitive, telling us the price belongs to the ring. The neuter genitive ending -а links the two nouns in a possessive chain."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-08",
+        "phrase": "В магазине много красивых колец.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Колец' is the genitive plural required by 'много'. The neuter plural drops the ending entirely and inserts a fleeting vowel."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-09",
+        "phrase": "Она любуется новым кольцом.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Кольцом' is in the instrumental case, governed by 'любуется'. 'Новым' is the agreeing neuter instrumental adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOLTSO-10",
+        "phrase": "На столе лежат два кольца.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Два кольца' uses the genitive singular 'кольца' after the number two. 'На столе' is the prepositional of location."
+      }
+    ]
+  }
+]

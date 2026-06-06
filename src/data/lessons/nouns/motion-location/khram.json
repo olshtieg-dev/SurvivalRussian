@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KHRAM",
+    "label": "Храм",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for храм (temple).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KHRAM-01",
+        "phrase": "Этот храм очень старый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Храм' stays in the nominative as the subject. 'Старый' is the agreeing masculine adjective, and 'этот' points at a specific building."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-02",
+        "phrase": "Мы идём в храм утром.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Храм' is accusative after 'в' to mark the goal of motion. Inanimate masculine nouns keep the nominative form, and 'утром' adds the time."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-03",
+        "phrase": "Они вышли из храма поздно.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Храма' takes the genitive after 'из' to show motion out of the building. 'Они' is the nominative subject, and 'поздно' adds timing."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-04",
+        "phrase": "Около храма стоит старое дерево.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Храма' is genitive after 'около' to express proximity. 'Дерево' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-05",
+        "phrase": "В храме было очень тихо.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Храме' is the prepositional form after 'в' to express being inside. The impersonal 'было тихо' describes the atmosphere."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-06",
+        "phrase": "Мы подошли к храму медленно.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Храму' is dative after 'к' to express approaching the building. 'Медленно' describes the manner of motion."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-07",
+        "phrase": "Я любуюсь этим красивым храмом.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Храмом' is instrumental governed by 'любоваться'. 'Этим красивым' agrees in the masculine instrumental, describing admiration."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-08",
+        "phrase": "В городе много старинных храмов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Храмов' is the genitive plural required by 'много'. 'Старинных' agrees in the plural genitive, and 'в городе' is the prepositional of place."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-09",
+        "phrase": "Туристы фотографируют древние храмы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Храмы' is the accusative plural object of 'фотографируют'; inanimate nouns match the nominative plural. 'Древние' agrees with them."
+      },
+      {
+        "id": "NN-MOTION-KHRAM-10",
+        "phrase": "Дорога к храму идёт через лес.",
+        "fullAnalysis": "Strategic focus: Dative of direction in a noun phrase. 'Храму' is dative after 'к', describing the destination of 'дорога'. 'Через лес' uses the accusative for the path."
+      }
+    ]
+  }
+]

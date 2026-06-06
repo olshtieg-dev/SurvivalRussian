@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-DEVCHONKA",
+    "label": "Девчонка",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for девчонка (girl).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-01",
+        "phrase": "Эта девчонка очень весёлая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Девчонка' stays in the nominative as the subject. 'Эта' agrees in the feminine, and 'весёлая' is the predicate adjective describing her cheerful character."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-02",
+        "phrase": "Я встретил знакомую девчонку.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Девчонку' is the feminine accusative object of 'встретил'. 'Знакомую' agrees in the feminine accusative, marking someone he already knew."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-03",
+        "phrase": "У этой девчонки большие глаза.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Девчонки' is the genitive showing whose eyes are meant. 'Глаза' is the nominative subject, and 'большие' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-04",
+        "phrase": "Я подарил цветы девчонке.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Девчонке' is the dative marking who receives the gift. 'Цветы' is the accusative plural object, and 'подарил' marks the completed giving."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-05",
+        "phrase": "Он гулял с девчонкой по парку.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С девчонкой' uses the instrumental after 'с' to show companionship. 'По парку' is the dative of path, describing where they strolled."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-06",
+        "phrase": "Мы говорили о новой девчонке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О девчонке' uses the prepositional after 'о' to mark the topic. 'Новой' agrees in the feminine prepositional, referring to someone recently arrived."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-07",
+        "phrase": "Девчонка читает интересную книгу.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Девчонка' is the nominative subject of 'читает'. 'Книгу' is the accusative object, and 'интересную' agrees with it in the feminine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-08",
+        "phrase": "Во дворе играли две девчонки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'две' the noun takes the genitive singular 'девчонки'. 'Играли' agrees with the plural notion, and 'во дворе' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-09",
+        "phrase": "Шумные девчонки бегали по двору.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Девчонки' is the nominative plural subject of 'бегали'. 'Шумные' agrees in the plural, and 'по двору' is the dative of path."
+      },
+      {
+        "id": "NN-PEOPLE-DEVCHONKA-10",
+        "phrase": "Учитель похвалил старательных девчонок.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Девчонок' is the animate feminine accusative plural, which matches the genitive plural. 'Старательных' agrees in that form, and 'похвалил' takes them as objects."
+      }
+    ]
+  }
+]

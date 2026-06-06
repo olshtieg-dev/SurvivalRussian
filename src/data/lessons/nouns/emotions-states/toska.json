@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-TOSKA",
+    "label": "Тоска",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for тоска (longing).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-TOSKA-01",
+        "phrase": "Тоска по дому не проходит.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тоска' is a feminine noun in the nominative case, acting as the subject of 'проходит'. 'По дому' specifies what the longing is for."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-02",
+        "phrase": "Я чувствую глубокую тоску внутри.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тоску' is the direct object of 'чувствую'. The feminine ending -а shifts to -у in the accusative singular, and 'глубокую' agrees."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-03",
+        "phrase": "От тоски она долго плакала.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Тоски' is the genitive form after 'от', expressing the cause of the crying. The feminine genitive singular ends in -и after к."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-04",
+        "phrase": "Осенью у меня много тоски.",
+        "fullAnalysis": "Strategic focus: Genitive after quantifier. 'Тоски' is genitive because 'много' governs the genitive case. 'Осенью' sets the time when the feeling arises."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-05",
+        "phrase": "Он предался своей тоске полностью.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Тоске' is the dative form required by the verb 'предаться'. 'Своей' agrees in the feminine dative singular."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-06",
+        "phrase": "Она пела с тихой тоской.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Тоской' is the instrumental form after 'с', describing how she sang. The feminine instrumental singular ends in -ой."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-07",
+        "phrase": "В её тоске была настоящая боль.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Тоске' is the prepositional form after 'в', naming the location of the feeling. The feminine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-08",
+        "phrase": "Зимняя тоска знакома каждому северянину.",
+        "fullAnalysis": "Strategic focus: Nominative with adjective. 'Тоска' is nominative as the subject of the clause. 'Зимняя' is the agreeing feminine adjective, and 'каждому' takes the dative."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-09",
+        "phrase": "Поэты часто описывают разные тоски.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Тоски' is the plural accusative direct object of 'описывают'. For inanimate feminine nouns the plural accusative equals the nominative plural in -и."
+      },
+      {
+        "id": "NN-EMOTION-TOSKA-10",
+        "phrase": "Сильная тоска охватила всю деревню.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Тоска' is nominative as the subject of 'охватила'. 'Сильная' agrees in feminine, and the verb stands in the feminine past tense."
+      }
+    ]
+  }
+]

@@ -1,16 +1,22 @@
+import avgustSet from './avgust.json';
 import chasSet from './chas.json';
 import denSet from './den.json';
+import epokhaSet from './epokha.json';
 import godSet from './god.json';
 import letoSet from './leto.json';
 import mesyatsSet from './mesyats.json';
 import mgnovenieSet from './mgnovenie.json';
 import migSet from './mig.json';
 import minutaSet from './minuta.json';
+import molodostSet from './molodost.json';
 import nedelyaSet from './nedelya.json';
 import nochSet from './noch.json';
+import oktyabrSet from './oktyabr.json';
 import pauzaSet from './pauza.json';
 import periodSet from './period.json';
+import polchasaSet from './polchasa.json';
 import sekundaSet from './sekunda.json';
+import smenaSet from './smena.json';
 import srokSet from './srok.json';
 import sutkiSet from './sutki.json';
 import utroSet from './utro.json';
@@ -20,19 +26,25 @@ import vozrastSet from './vozrast.json';
 
 export const timeUnitsNounsFolderId = 'nouns-time-units';
 const timeUnitsNounsData = [
+  ...avgustSet,
   ...chasSet,
   ...denSet,
+  ...epokhaSet,
   ...godSet,
   ...letoSet,
   ...mesyatsSet,
   ...mgnovenieSet,
   ...migSet,
   ...minutaSet,
+  ...molodostSet,
   ...nedelyaSet,
   ...nochSet,
+  ...oktyabrSet,
   ...pauzaSet,
   ...periodSet,
+  ...polchasaSet,
   ...sekundaSet,
+  ...smenaSet,
   ...srokSet,
   ...sutkiSet,
   ...utroSet,

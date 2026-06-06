@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-NADPIS",
+    "label": "Надпись",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for надпись (inscription).",
+    "missions": [
+      {
+        "id": "NN-COMMS-NADPIS-01",
+        "phrase": "На стене была странная надпись.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Надпись' is the feminine nominative subject of 'была', which agrees in feminine gender. 'Странная' is the agreeing adjective, and 'на стене' locates it. A vivid scene."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-02",
+        "phrase": "Эта надпись совсем не читается.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Надпись' stays nominative as the subject of 'читается'. 'Эта' points at a specific one, and 'совсем не' negates. A practical everyday complaint."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-03",
+        "phrase": "Я наконец прочитал старую надпись.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Надпись' is the accusative direct object of 'прочитал'; this soft-sign feminine noun keeps its form in the accusative singular. 'Старую' agrees, a clean object example."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-04",
+        "phrase": "Я не понял смысла надписи.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Надписи' is the genitive form showing whose meaning it is. 'Смысла' is itself genitive after the negated verb, a useful layered example."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-05",
+        "phrase": "К надписи подошёл любопытный турист.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Надписи' is the dative form after 'к' to express movement toward. 'Любопытный турист' is the nominative subject, a natural museum scene."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-06",
+        "phrase": "Над надписью висел старый портрет.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Надписью' is the instrumental form after 'над' to express location above. 'Старый портрет' is the nominative subject, a tidy spatial description."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-07",
+        "phrase": "На надписи стояла старая дата.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На надписи' uses the prepositional form after 'на' to mean on the inscription. 'Старая дата' is the nominative subject, a natural detail."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-08",
+        "phrase": "На камнях видны древние надписи.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Надписи' is the nominative plural subject of the short form 'видны'. 'Древние' agrees in the plural, and 'на камнях' locates them. A clear plural example."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-09",
+        "phrase": "Учёные изучают старинные надписи.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Надписи' is the accusative plural object of 'изучают'; inanimate feminine plurals share nominative and accusative forms. 'Старинные' agrees. A scholarly line."
+      },
+      {
+        "id": "NN-COMMS-NADPIS-10",
+        "phrase": "Что значит эта надпись на двери?",
+        "fullAnalysis": "Strategic focus: Nominative in a question. 'Надпись' stays nominative as the thing being asked about. 'Эта' agrees in feminine gender, and 'на двери' locates it. A practical conversational question."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-MOLODOST",
+    "label": "Молодость",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for молодость (youth).",
+    "missions": [
+      {
+        "id": "NN-TIME-MOLODOST-01",
+        "phrase": "Молодость проходит очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Молодость' is a feminine soft-sign noun in the nominative, the subject of 'проходит'. 'Быстро' is the adverb of speed."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-02",
+        "phrase": "Бабушка вспоминает свою молодость.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Молодость' has the same form in the accusative for this third-declension noun, the direct object of 'вспоминает'. 'Свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-03",
+        "phrase": "У него уже нет прежней молодости.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Молодости' is genitive after 'нет'. 'Прежней' agrees in the genitive, and 'у него' shows possession."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-04",
+        "phrase": "Он благодарен своей молодости.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Молодости' is dative after 'благодарен', the thing he is grateful to. 'Своей' agrees in the dative."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-05",
+        "phrase": "Он гордится своей бурной молодостью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Молодостью' is instrumental after 'гордится', the thing he is proud of. 'Бурной' agrees in the instrumental."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-06",
+        "phrase": "В молодости я много путешествовал.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'Молодости' is prepositional after 'в', meaning during youth. 'Много' quantifies the travel."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-07",
+        "phrase": "Они часто говорят о молодости.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Молодости' is prepositional after 'о', the topic of conversation. 'Часто' adds frequency."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-08",
+        "phrase": "Это воспоминания нашей молодости.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Молодости' is genitive showing whose memories these are. 'Нашей' agrees in the genitive."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-09",
+        "phrase": "С молодости он любит спорт.",
+        "fullAnalysis": "Strategic focus: Genitive after 'с'. 'Молодости' is genitive after 'с', meaning since youth. 'Любит спорт' completes the habitual statement."
+      },
+      {
+        "id": "NN-TIME-MOLODOST-10",
+        "phrase": "Молодость дарит людям много сил.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative. 'Молодость' is nominative as the subject of 'дарит'. 'Людям' is the dative recipient and 'много сил' is the genitive object."
+      }
+    ]
+  }
+]

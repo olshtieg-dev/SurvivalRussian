@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-DOMIK",
+    "label": "Домик",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for домик (little house).",
+    "missions": [
+      {
+        "id": "NN-MOTION-DOMIK-01",
+        "phrase": "В лесу стоит маленький домик.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Домик' is the masculine nominative subject of 'стоит'. 'Маленький' agrees in the masculine, and 'в лесу' gives the prepositional location."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-02",
+        "phrase": "Мы построили уютный домик.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Домик' is the inanimate masculine accusative object of 'построили', identical to the nominative. 'Уютный' agrees in the accusative."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-03",
+        "phrase": "Около домика растут цветы.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Около домика' uses the genitive 'домика' after 'около' to show proximity. 'Цветы' is the nominative subject of 'растут'."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-04",
+        "phrase": "Мы идём к домику у реки.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К домику' uses the dative 'домику' after 'к' to express movement toward. 'У реки' adds a genitive location."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-05",
+        "phrase": "В домике тепло и тихо.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В домике' uses the prepositional 'домике' after 'в' to show where it is warm. A cosy descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-06",
+        "phrase": "За домиком есть огород.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'За домиком' uses the instrumental 'домиком' after 'за' to express position behind. 'Огород' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-07",
+        "phrase": "В деревне много старых домиков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Много' governs the genitive plural 'домиков'. 'Старых' agrees in the genitive plural. A natural way to count buildings."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-08",
+        "phrase": "Я вижу домик на холме.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Домик' is the accusative object of 'вижу', identical to the nominative for this inanimate noun. 'На холме' gives the prepositional location."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-09",
+        "phrase": "Из домика вышел старик.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из домика' uses the genitive 'домика' after 'из' to express coming out from. 'Старик' is the nominative subject of 'вышел'."
+      },
+      {
+        "id": "NN-MOTION-DOMIK-10",
+        "phrase": "Этот домик кажется заброшенным.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental predicate. 'Домик' is the nominative subject of 'кажется', and 'заброшенным' takes the instrumental as the predicate. 'Этот' points at it."
+      }
+    ]
+  }
+]

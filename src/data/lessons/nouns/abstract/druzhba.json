@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-DRUZHBA",
+    "label": "Дружба",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for дружба (friendship).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-01",
+        "phrase": "Наша дружба очень крепкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дружба' stays in the nominative as the subject. 'Наша' is the agreeing feminine possessive, and 'крепкая' is the predicate adjective. A warm, simple statement."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-02",
+        "phrase": "Их дружба началась в школе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дружба' is the nominative subject of 'началась', which agrees in feminine gender. 'Их' shows whose friendship, and 'в школе' marks where. A natural origin story."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-03",
+        "phrase": "Они сохранили дружбу на годы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дружбу' is the accusative direct object of 'сохранили'. The feminine accusative replaces -а with -у, and 'на годы' adds duration. A touching line."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-04",
+        "phrase": "Без дружбы жизнь была бы скучной.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Дружбы' is the genitive form after 'без'. The conditional 'была бы' frames a reflective thought, a useful philosophical pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-05",
+        "phrase": "Они шли к настоящей дружбе долго.",
+        "fullAnalysis": "Strategic focus: Dative direction. 'Дружбе' is the dative form after 'к' to express moving toward something. 'Настоящей' agrees in the feminine dative, a heartfelt image of growing closeness."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-06",
+        "phrase": "Он дорожит дружбой со мной.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Дружбой' is the instrumental form required by 'дорожить'. 'Со мной' adds the partner, a graceful way to express valuing a bond."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-07",
+        "phrase": "Мы часто говорим о дружбе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О дружбе' uses the prepositional form after 'о' to mark the topic. 'Часто' adds habit, a clean reflective conversation pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-08",
+        "phrase": "Настоящая дружба важнее денег.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Дружба' stays nominative as the subject. 'Настоящая' agrees in feminine gender, and 'важнее денег' gives a comparative with a genitive object. A proverb-like line."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-09",
+        "phrase": "Старые дружбы редко забываются.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Дружбы' is the nominative plural subject of 'забываются'. 'Старые' agrees in the plural, a reflective statement about lasting bonds."
+      },
+      {
+        "id": "NN-ABSTRACT-DRUZHBA-10",
+        "phrase": "Что для тебя значит дружба?",
+        "fullAnalysis": "Strategic focus: Nominative in a question. 'Дружба' stays nominative as the subject of 'значит'. 'Что' is the object and 'для тебя' adds perspective. A thoughtful conversation opener."
+      }
+    ]
+  }
+]

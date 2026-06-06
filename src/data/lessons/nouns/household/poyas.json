@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-POYAS",
+    "label": "Пояс",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for пояс (belt).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-POYAS-01",
+        "phrase": "Этот кожаный пояс очень удобный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пояс' stays in the nominative as the subject. 'Этот' and 'кожаный' are the agreeing masculine modifiers, and 'удобный' is the predicate adjective describing it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-02",
+        "phrase": "Я затянул пояс потуже.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Пояс' is inanimate masculine, so its accusative equals the nominative. 'Затянул' marks the completed action, and 'потуже' adds the comparative manner."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-03",
+        "phrase": "У этого пальто нет пояса.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'пояса'. 'У этого пальто' frames the possessor, marking what the coat lacks."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-04",
+        "phrase": "Ключи висят на поясе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На поясе' uses the prepositional 'поясе' after 'на' to show location. 'Ключи' is the nominative plural subject. A practical everyday description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-05",
+        "phrase": "Он прикрепил телефон к поясу.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К поясу' takes the dative after 'к' to express attachment. 'Телефон' is the accusative object, and 'прикрепил' marks the completed action."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-06",
+        "phrase": "Под поясом он спрятал нож.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Под поясом' uses the instrumental after 'под' for location underneath. 'Нож' is the accusative object that was hidden."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-07",
+        "phrase": "Я ищу пояс для брюк.",
+        "fullAnalysis": "Strategic focus: Accusative object with purpose. 'Пояс' is the inanimate masculine accusative object of 'ищу'. 'Для брюк' uses the genitive after 'для' to state the purpose."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-08",
+        "phrase": "Я купил два чёрных пояса.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'два' the noun takes the genitive singular 'пояса'. 'Чёрных' agrees in the genitive, and 'купил' marks the purchase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-09",
+        "phrase": "В магазине продаются мужские пояса.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пояса' is the irregular nominative plural with stressed ending, the subject of 'продаются'. 'Мужские' agrees in the plural, and 'в магазине' is the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-POYAS-10",
+        "phrase": "Она собирает старые кожаные пояса.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Пояса' is the inanimate masculine plural accusative, matching the nominative plural. 'Старые кожаные' agree in the plural, and 'собирает' takes them as objects."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-POVOROT",
+    "label": "Поворот",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for поворот (turn).",
+    "missions": [
+      {
+        "id": "NN-MOTION-POVOROT-01",
+        "phrase": "Впереди крутой поворот направо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поворот' is the nominative subject in this existence-style phrase. 'Крутой' is the agreeing masculine adjective, and 'направо' specifies the direction. A driving-route observation."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-02",
+        "phrase": "Не пропусти этот поворот.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поворот' is the accusative direct object of the imperative 'не пропусти', identical to nominative for this inanimate noun. 'Этот' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-03",
+        "phrase": "До поворота осталось два километра.",
+        "fullAnalysis": "Strategic focus: Genitive after 'до'. 'Поворота' takes the genitive after the preposition 'до', marking the point reached. 'Два километра' uses genitive singular after the numeral. A distance frame."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-04",
+        "phrase": "Мы подъехали к нужному повороту.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Повороту' takes the dative after 'к', showing approach toward the turn. 'Нужному' agrees in the masculine dative. A natural navigation phrase."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-05",
+        "phrase": "За поворотом начинается лес.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'за'. 'Поворотом' takes the instrumental after 'за', meaning beyond the turn. 'Начинается лес' tells what lies there. A spatial relationship pattern."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-06",
+        "phrase": "На повороте машина замедлилась.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Повороте' takes the prepositional after 'на', marking where the action happens. 'Машина замедлилась' describes the event at that spot."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-07",
+        "phrase": "На этой дороге много поворотов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Поворотов' is the genitive plural after the quantity word 'много'. 'На этой дороге' gives the prepositional location. A road-description pattern."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-08",
+        "phrase": "Опасные повороты пугают новичков.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Повороты' is the nominative plural subject of 'пугают'. 'Опасные' is the agreeing plural adjective, and 'новичков' is the accusative object."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-09",
+        "phrase": "Сделай поворот налево здесь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поворот' is the accusative direct object of the imperative 'сделай'. 'Налево' specifies the direction, and 'здесь' the place. A driving instruction."
+      },
+      {
+        "id": "NN-MOTION-POVOROT-10",
+        "phrase": "Перед поворотом включи поворотник.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'перед'. 'Поворотом' takes the instrumental after 'перед', meaning just before the turn. The imperative 'включи' gives a clear driving instruction."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-DOCHKA",
+    "label": "Дочка",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for дочка (daughter).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-DOCHKA-01",
+        "phrase": "Моя дочка очень любит читать.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дочка' stays in the nominative as the subject of 'любит'. 'Моя' is the agreeing feminine possessive. A warm everyday sentence."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-02",
+        "phrase": "Я каждый день встречаю дочку.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Дочку' is the accusative of this animate feminine noun, the object of 'встречаю'. 'Каждый день' adds frequency. A natural daily routine sentence."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-03",
+        "phrase": "У дочки сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Дочки' is the genitive required by 'у', expressing possession. 'День рождения' is the nominative subject. A common celebration phrase."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-04",
+        "phrase": "Я подарил дочке красивую куклу.",
+        "fullAnalysis": "Strategic focus: Dative indirect object. 'Дочке' is the dative recipient of 'подарил'. 'Куклу' is the accusative gift, with 'красивую' agreeing. A clear giving pattern."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-05",
+        "phrase": "Мы гордимся своей умной дочкой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Дочкой' is the instrumental required by 'гордимся'. 'Своей' and 'умной' agree in the feminine instrumental. A natural pride expression."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-06",
+        "phrase": "Мы часто думаем о дочке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О дочке' uses the prepositional form 'дочке' after 'о' to express thinking about. 'Часто' adds frequency. A useful reflection pattern."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-07",
+        "phrase": "Без дочки дом кажется пустым.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Дочки' is the genitive required by 'без'. 'Дом' is the nominative subject, and 'пустым' is the instrumental predicate. An emotional everyday phrase."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-08",
+        "phrase": "Это игрушки моей маленькой дочки.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дочки' is the genitive showing whose toys these are. 'Моей' and 'маленькой' agree in the feminine genitive, and 'игрушки' is the nominative subject. A clear ownership pattern."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-09",
+        "phrase": "У соседей растут две дочки.",
+        "fullAnalysis": "Strategic focus: Nominative singular with numeral. After 'две' the noun takes the form 'дочки'. 'У соседей' is the genitive plural possessor. A useful counting pattern for family members."
+      },
+      {
+        "id": "NN-FAMILY-DOCHKA-10",
+        "phrase": "Обе дочки уже ходят в школу.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Дочки' is the nominative plural subject of 'ходят'. 'Обе' specifies both of them, and 'в школу' is the accusative of direction. A natural family sentence."
+      }
+    ]
+  }
+]

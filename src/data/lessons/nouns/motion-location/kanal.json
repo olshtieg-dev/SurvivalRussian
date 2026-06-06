@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KANAL",
+    "label": "Канал",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for канал (canal).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KANAL-01",
+        "phrase": "Этот канал очень длинный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Канал' is the masculine nominative subject. 'Этот' and 'длинный' agree in masculine gender, describing the waterway."
+      },
+      {
+        "id": "NN-MOTION-KANAL-02",
+        "phrase": "Рабочие построили новый канал.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Канал' is the accusative direct object of 'построили'; inanimate masculine accusative equals nominative. 'Новый' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-KANAL-03",
+        "phrase": "Вода вытекает из канала.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Канала' is genitive after 'из', marking the source of motion. 'Вода' is the nominative subject of 'вытекает'."
+      },
+      {
+        "id": "NN-MOTION-KANAL-04",
+        "phrase": "Лодка плывёт по каналу.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Каналу' is dative after 'по', expressing movement along a surface. 'Лодка' is the nominative subject of 'плывёт'."
+      },
+      {
+        "id": "NN-MOTION-KANAL-05",
+        "phrase": "На канале сегодня много лодок.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Канале' is prepositional after 'на', showing where the boats are. 'Много лодок' uses the genitive plural after a quantity word."
+      },
+      {
+        "id": "NN-MOTION-KANAL-06",
+        "phrase": "Мы любуемся красивым каналом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Каналом' is instrumental, governed by 'любуемся', which always takes that case. 'Красивым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-MOTION-KANAL-07",
+        "phrase": "В городе много старых каналов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Каналов' is genitive plural after 'много'. 'Старых' agrees, and 'в городе' is the prepositional location."
+      },
+      {
+        "id": "NN-MOTION-KANAL-08",
+        "phrase": "Дети бегут к каналу купаться.",
+        "fullAnalysis": "Strategic focus: Dative of goal. 'Каналу' is dative after 'к', naming the destination of movement. 'Купаться' is an infinitive of purpose."
+      },
+      {
+        "id": "NN-MOTION-KANAL-09",
+        "phrase": "Мост перекинут через канал.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Канал' is accusative after 'через', expressing crossing over; inanimate masculine accusative equals nominative. 'Мост' is the subject."
+      },
+      {
+        "id": "NN-MOTION-KANAL-10",
+        "phrase": "Между каналами проходит дорога.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after preposition. 'Каналами' is instrumental plural after 'между', placing the road between them. 'Дорога' is the nominative subject."
+      }
+    ]
+  }
+]

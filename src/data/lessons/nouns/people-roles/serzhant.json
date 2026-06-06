@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SERZHANT",
+    "label": "Сержант",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for сержант (sergeant).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SERZHANT-01",
+        "phrase": "Сержант стоит у ворот.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сержант' stays in the nominative as the subject of 'стоит'. This is an animate masculine noun, here in its base form."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-02",
+        "phrase": "Солдаты уважают своего сержанта.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Сержанта' is the accusative object of 'уважают', and for an animate masculine noun the accusative copies the genitive ending. 'Своего' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-03",
+        "phrase": "У сержанта строгий характер.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Сержанта' is the genitive after 'у' to show whose character it is. 'Характер' is the nominative subject of the sentence."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-04",
+        "phrase": "Я отдал документы сержанту.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Сержанту' is the dative case marking the person who receives. 'Документы' is the accusative plural object of 'отдал'."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-05",
+        "phrase": "Мы говорили с сержантом утром.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Сержантом' is the instrumental required after 'с' to mean together with the sergeant. 'Утром' specifies the time."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-06",
+        "phrase": "Мы говорим о новом сержанте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О сержанте' uses the prepositional form 'сержанте' after 'о' to talk about the person. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-07",
+        "phrase": "Сержанты проверяют оружие сейчас.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сержанты' is the nominative plural subject of 'проверяют'. 'Оружие' is the accusative object, and 'сейчас' adds immediacy."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-08",
+        "phrase": "Командир вызвал двух сержантов.",
+        "fullAnalysis": "Strategic focus: Animate genitive plural. 'Сержантов' is the genitive plural after 'двух', and for animate nouns the accusative copies this form. 'Командир' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-09",
+        "phrase": "Этот сержант очень опытный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Сержант' is nominative as the subject. 'Этот' points at him and 'опытный' is the agreeing masculine adjective in this descriptive card."
+      },
+      {
+        "id": "NN-PEOPLE-SERZHANT-10",
+        "phrase": "Где наш сержант сейчас?",
+        "fullAnalysis": "Strategic focus: Nominative question. 'Сержант' stays in the nominative as the subject in this question with 'где'. 'Наш' is the agreeing masculine possessive."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-PORAZHENIE",
+    "label": "Поражение",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for поражение (defeat).",
+    "missions": [
+      {
+        "id": "NN-STATE-PORAZHENIE-01",
+        "phrase": "Поражение стало для них уроком.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поражение' is a neuter noun in the nominative case, acting as the subject of 'стало'. The verb stands in the neuter past tense to agree."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-02",
+        "phrase": "Команда тяжело пережила это поражение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поражение' is the direct object of 'пережила'. For neuter nouns the accusative equals the nominative, and 'это' agrees in neuter."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-03",
+        "phrase": "После поражения они долго молчали.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Поражения' is the genitive form after 'после', marking what came before the silence. The neuter ending -е shifts to -я."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-04",
+        "phrase": "Он не боялся возможного поражения.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Поражения' is genitive because 'бояться' governs the genitive case. 'Возможного' agrees in the neuter genitive singular."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-05",
+        "phrase": "Благодаря поражению он многое понял.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Поражению' is the dative form required by 'благодаря'. The neuter dative singular ends in -ю after a soft stem."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-06",
+        "phrase": "Он смирился с горьким поражением.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Поражением' is the instrumental form governed by 'смириться с'. The neuter instrumental singular ends in -ем after a soft stem."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-07",
+        "phrase": "В поражении тоже есть достоинство.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Поражении' is the prepositional form after 'в', naming the situation. The neuter prepositional singular ends in -ии for -ение nouns."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-08",
+        "phrase": "Это поражение изменило всю историю.",
+        "fullAnalysis": "Strategic focus: Nominative subject with pronoun. 'Поражение' is nominative as the subject of 'изменило'. 'Это' agrees in neuter, and the verb is in the neuter past tense."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-09",
+        "phrase": "История помнит все крупные поражения.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Поражения' is the plural accusative direct object of 'помнит'. For inanimate neuter nouns the plural accusative equals the nominative plural in -я."
+      },
+      {
+        "id": "NN-STATE-PORAZHENIE-10",
+        "phrase": "Внезапное поражение шокировало всех болельщиков.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Поражение' is nominative as the subject of 'шокировало'. 'Внезапное' agrees in neuter, and the verb is neuter past tense."
+      }
+    ]
+  }
+]

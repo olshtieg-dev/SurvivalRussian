@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-BATAREYA",
+    "label": "Батарея",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for батарея (battery).",
+    "missions": [
+      {
+        "id": "NN-TRANS-BATAREYA-01",
+        "phrase": "Эта батарея уже совсем разрядилась.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Батарея' stays in the nominative as the subject of 'разрядилась'. 'Эта' agrees in the feminine, and 'совсем' intensifies the verb."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-02",
+        "phrase": "Я купил новую батарею для телефона.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Батарею' is the accusative direct object of 'купил'. The feminine -я ending shifts to -ю in the accusative singular."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-03",
+        "phrase": "У этой батареи слабый заряд.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Батареи' is genitive in the 'у' frame, telling us whose charge it is. The feminine genitive singular ending is -и after the soft stem."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-04",
+        "phrase": "Машина не едет без батареи.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Без батареи' uses the genitive form 'батареи' after 'без' to express lack. The feminine genitive ending is -и."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-05",
+        "phrase": "В этой батарее закончилась энергия.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В батарее' uses the prepositional form 'батарее' after 'в' to show where the energy ran out. The feminine ending becomes -е."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-06",
+        "phrase": "Мастер заменил аккумулятор батареей.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Батареей' is in the instrumental case, the thing used to replace the part. The feminine instrumental ending is -ей after the soft stem."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-07",
+        "phrase": "К батарее подключили новый кабель.",
+        "fullAnalysis": "Strategic focus: Dative after a preposition. 'К батарее' uses the dative form 'батарее' after 'к' to express connection toward it. The feminine dative ending is -е."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-08",
+        "phrase": "В магазине продаются разные батареи.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Батареи' is the nominative plural, the subject of 'продаются'. 'Разные' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-09",
+        "phrase": "Я купил несколько запасных батарей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Батарей' is the genitive plural required by 'несколько'. The feminine plural keeps the soft -й ending."
+      },
+      {
+        "id": "NN-TRANS-BATAREYA-10",
+        "phrase": "Дай мне эту батарею, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative request. 'Батарею' is the accusative object of the imperative 'дай'. 'Эту' agrees in the feminine accusative, and 'мне' marks the recipient in the dative."
+      }
+    ]
+  }
+]

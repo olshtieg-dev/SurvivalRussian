@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PALTO",
+    "label": "Пальто",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for пальто (coat).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PALTO-01",
+        "phrase": "Это новое пальто очень тёплое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пальто' is a neuter indeclinable noun standing as the subject. 'Новое' and 'тёплое' show neuter agreement even though пальто itself never changes form."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-02",
+        "phrase": "Я купил пальто на зиму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пальто' is the accusative direct object of 'купил', but its indeclinable form is unchanged. 'На зиму' gives the purpose with accusative 'зиму'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-03",
+        "phrase": "У меня нет тёплого пальто.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Пальто' is grammatically genitive after 'нет' but keeps its fixed form. Only the adjective 'тёплого' shows the neuter genitive ending."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-04",
+        "phrase": "Она вышла на улицу в пальто.",
+        "fullAnalysis": "Strategic focus: Prepositional of clothing. 'Пальто' is prepositional after 'в', describing what she is wearing, though its form stays the same. 'На улицу' is accusative of direction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-05",
+        "phrase": "Он укрыл ребёнка своим пальто.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Пальто' is instrumental as the covering used, with the case marked only by 'своим'. 'Ребёнка' is the animate accusative object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-06",
+        "phrase": "К этому пальто подходит шарф.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Пальто' is dative after 'к', shown by 'этому', as the thing the scarf suits. 'Шарф' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-07",
+        "phrase": "В магазине висят красивые пальто.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пальто' is plural here but indeclinable, so number shows only on 'красивые' and the verb 'висят'. 'В магазине' is the prepositional place."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-08",
+        "phrase": "Я выбираю между двумя пальто.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Пальто' follows 'между' which governs the instrumental, marked by 'двумя'. The noun's fixed form makes the numeral carry the case."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-09",
+        "phrase": "Без пальто холодно стоять на ветру.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Пальто' is genitive after 'без', expressing lack, though unchanged in form. 'На ветру' adds the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PALTO-10",
+        "phrase": "Эти пальто стоят очень дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пальто' is the plural subject of 'стоят', with plurality shown by 'эти' and the verb. 'Очень дорого' evaluates the price."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PILA",
+    "label": "Пила",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for пила (saw).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PILA-01",
+        "phrase": "Эта пила очень острая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пила' stays in the nominative as the subject. 'Эта' points at a specific saw, and 'острая' is the agreeing feminine adjective describing it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-02",
+        "phrase": "Я взял пилу в гараже.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пилу' is the accusative direct object of 'взял'. The ending shifts from -а to -у for this feminine noun, and 'в гараже' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-03",
+        "phrase": "У меня нет пилы дома.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Пилы' is the genitive required after 'нет' to express that no saw is present. 'У меня' frames the possession, and 'дома' gives the place."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-04",
+        "phrase": "Он пилит доску старой пилой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Пилой' is the instrumental case naming the tool used for cutting. 'Старой' agrees in the feminine instrumental, and 'доску' is the accusative object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-05",
+        "phrase": "На стене висят две пилы.",
+        "fullAnalysis": "Strategic focus: Genitive singular after two. 'Пилы' follows the numeral 'две', which takes the genitive singular form. 'На стене' is the prepositional location where they hang."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-06",
+        "phrase": "Дедушка подарил мне пилу.",
+        "fullAnalysis": "Strategic focus: Accusative gift. 'Пилу' is the accusative direct object of 'подарил'. 'Мне' is the dative recipient, making this a clean give-and-receive pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-07",
+        "phrase": "Расскажи мне об этой пиле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О пиле' uses the prepositional form 'пиле' after 'об' to talk about the saw. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-08",
+        "phrase": "В сарае лежат старые пилы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Пилы' is the nominative plural as the subject of 'лежат'. 'Старые' agrees in the plural, and 'в сарае' gives the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-09",
+        "phrase": "Мастер работает новой пилой.",
+        "fullAnalysis": "Strategic focus: Instrumental tool. 'Пилой' is the instrumental case naming the instrument the master works with. 'Новой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PILA-10",
+        "phrase": "Дай мне, пожалуйста, пилу.",
+        "fullAnalysis": "Strategic focus: Accusative request. 'Пилу' is the accusative direct object of the imperative 'дай'. 'Мне' is the dative recipient, a polite everyday request softened by 'пожалуйста'."
+      }
+    ]
+  }
+]

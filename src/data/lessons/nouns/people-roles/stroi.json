@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-STROI",
+    "label": "Строй",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for строй (formation).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-STROI-01",
+        "phrase": "Строй солдат был ровным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Строй' stays in the nominative as the subject of the sentence. This is a soft masculine noun, and 'ровным' is the instrumental predicate after 'был'."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-02",
+        "phrase": "Командир построил новый строй.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Строй' is the accusative direct object of 'построил'; as an inanimate masculine noun it matches the nominative form. 'Новый' agrees with it."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-03",
+        "phrase": "Он вышел из строя.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Строя' is the genitive after 'из' to mean out of the formation. This phrase also commonly means to break down or fall out."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-04",
+        "phrase": "Солдаты стоят в строю.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В строю' uses the special locative form 'строю' after 'в' to express standing in formation. 'Солдаты' is the nominative plural subject."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-05",
+        "phrase": "Офицер идёт к строю.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Строю' is the dative after 'к' to show movement toward the formation. 'Офицер' is the nominative subject of 'идёт'."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-06",
+        "phrase": "Он гордится этим строем.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Строем' is the instrumental required by the verb 'гордится', which governs the instrumental. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-07",
+        "phrase": "Мы говорим о строе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О строе' uses the standard prepositional form 'строе' after 'о' to talk about the formation. A useful contrast with the locative 'в строю'."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-08",
+        "phrase": "На площади видны разные строи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Строи' is the nominative plural subject. 'Разные' agrees in the plural, and 'на площади' gives the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-09",
+        "phrase": "Сержант проверяет строй внимательно.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Строй' is the accusative direct object of 'проверяет'. 'Сержант' is the nominative subject, and 'внимательно' adds the manner."
+      },
+      {
+        "id": "NN-PEOPLE-STROI-10",
+        "phrase": "Какой ровный строй!",
+        "fullAnalysis": "Strategic focus: Nominative exclamation. 'Строй' stays in the nominative in this exclamation. 'Какой' and 'ровный' both agree in the masculine, expressing approval."
+      }
+    ]
+  }
+]

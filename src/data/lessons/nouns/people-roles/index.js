@@ -4,11 +4,14 @@ import avtorSet from './avtor.json';
 import babaSet from './baba.json';
 import boetsSet from './boets.json';
 import bogSet from './bog.json';
+import brigadaSet from './brigada.json';
 import chelovechestvoSet from './chelovechestvo.json';
 import chinovnikSet from './chinovnik.json';
 import chitatelSet from './chitatel.json';
 import chlenSet from './chlen.json';
 import damaSet from './dama.json';
+import devchonkaSet from './devchonka.json';
+import devitsaSet from './devitsa.json';
 import devushkaSet from './devushka.json';
 import direktorSet from './direktor.json';
 import doktorSet from './doktor.json';
@@ -25,8 +28,12 @@ import kapitanSet from './kapitan.json';
 import khozyaikaSet from './khozyaika.json';
 import khozyainSet from './khozyain.json';
 import khudozhnikSet from './khudozhnik.json';
+import kolonnaSet from './kolonna.json';
 import komandirSet from './komandir.json';
+import kommunistSet from './kommunist.json';
 import korolSet from './korol.json';
+import korolevaSet from './koroleva.json';
+import krestyaninSet from './krestyanin.json';
 import leitenantSet from './leitenant.json';
 import lichnostSet from './lichnost.json';
 import lyubimyiSet from './lyubimyi.json';
@@ -36,6 +43,7 @@ import malchishkaSet from './malchishka.json';
 import masterSet from './master.json';
 import militsionerSet from './militsioner.json';
 import ministrSet from './ministr.json';
+import molodetsSet from './molodets.json';
 import muzhchinaSet from './muzhchina.json';
 import muzhikSet from './muzhik.json';
 import nachalnikSet from './nachalnik.json';
@@ -44,8 +52,11 @@ import naselenieSet from './naselenie.json';
 import nemetsSet from './nemets.json';
 import ofitserSet from './ofitser.json';
 import parenSet from './paren.json';
+import passazhirSet from './passazhir.json';
+import pastukhSet from './pastukh.json';
 import pisatelSet from './pisatel.json';
 import poetSet from './poet.json';
+import pokolenieSet from './pokolenie.json';
 import polkovnikSet from './polkovnik.json';
 import predsedatelSet from './predsedatel.json';
 import predstavitelSet from './predstavitel.json';
@@ -53,15 +64,20 @@ import prezidentSet from './prezident.json';
 import priyatelSet from './priyatel.json';
 import professorSet from './professor.json';
 import rabotnikSet from './rabotnik.json';
+import razvedchikSet from './razvedchik.json';
 import rukovoditelSet from './rukovoditel.json';
 import sekretarSet from './sekretar.json';
+import serzhantSet from './serzhant.json';
+import shkolnikSet from './shkolnik.json';
 import shofyorSet from './shofyor.json';
 import sledovatelSet from './sledovatel.json';
+import sobranieSet from './sobranie.json';
 import soldatSet from './soldat.json';
 import sosedSet from './sosed.json';
 import spetsialistSet from './spetsialist.json';
 import starikSet from './starik.json';
 import starshinaSet from './starshina.json';
+import stroiSet from './stroi.json';
 import studentSet from './student.json';
 import sushchestvoSet from './sushchestvo.json';
 import tovarishchSet from './tovarishch.json';
@@ -71,7 +87,9 @@ import uchenikSet from './uchenik.json';
 import uchitelSet from './uchitel.json';
 import uchyonyiSet from './uchyonyi.json';
 import voditelSet from './voditel.json';
+import vozhdSet from './vozhd.json';
 import vrachSet from './vrach.json';
+import yunoshaSet from './yunosha.json';
 import zhenshchinaSet from './zhenshchina.json';
 import zhitelSet from './zhitel.json';
 import zhurnalistSet from './zhurnalist.json';
@@ -85,11 +103,14 @@ const peopleRolesNounsData = [
   ...babaSet,
   ...boetsSet,
   ...bogSet,
+  ...brigadaSet,
   ...chelovechestvoSet,
   ...chinovnikSet,
   ...chitatelSet,
   ...chlenSet,
   ...damaSet,
+  ...devchonkaSet,
+  ...devitsaSet,
   ...devushkaSet,
   ...direktorSet,
   ...doktorSet,
@@ -106,8 +127,12 @@ const peopleRolesNounsData = [
   ...khozyaikaSet,
   ...khozyainSet,
   ...khudozhnikSet,
+  ...kolonnaSet,
   ...komandirSet,
+  ...kommunistSet,
   ...korolSet,
+  ...korolevaSet,
+  ...krestyaninSet,
   ...leitenantSet,
   ...lichnostSet,
   ...lyubimyiSet,
@@ -117,6 +142,7 @@ const peopleRolesNounsData = [
   ...masterSet,
   ...militsionerSet,
   ...ministrSet,
+  ...molodetsSet,
   ...muzhchinaSet,
   ...muzhikSet,
   ...nachalnikSet,
@@ -125,8 +151,11 @@ const peopleRolesNounsData = [
   ...nemetsSet,
   ...ofitserSet,
   ...parenSet,
+  ...passazhirSet,
+  ...pastukhSet,
   ...pisatelSet,
   ...poetSet,
+  ...pokolenieSet,
   ...polkovnikSet,
   ...predsedatelSet,
   ...predstavitelSet,
@@ -134,15 +163,20 @@ const peopleRolesNounsData = [
   ...priyatelSet,
   ...professorSet,
   ...rabotnikSet,
+  ...razvedchikSet,
   ...rukovoditelSet,
   ...sekretarSet,
+  ...serzhantSet,
+  ...shkolnikSet,
   ...shofyorSet,
   ...sledovatelSet,
+  ...sobranieSet,
   ...soldatSet,
   ...sosedSet,
   ...spetsialistSet,
   ...starikSet,
   ...starshinaSet,
+  ...stroiSet,
   ...studentSet,
   ...sushchestvoSet,
   ...tovarishchSet,
@@ -152,7 +186,9 @@ const peopleRolesNounsData = [
   ...uchitelSet,
   ...uchyonyiSet,
   ...voditelSet,
+  ...vozhdSet,
   ...vrachSet,
+  ...yunoshaSet,
   ...zhenshchinaSet,
   ...zhitelSet,
   ...zhurnalistSet,

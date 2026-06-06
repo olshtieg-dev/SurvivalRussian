@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KRASKA",
+    "label": "Краска",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for краска (paint).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-01",
+        "phrase": "Эта краска быстро высыхает.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Краска' stays in the nominative case as the subject of 'высыхает'. 'Эта' agrees in the feminine, and 'быстро' describes the speed of drying."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-02",
+        "phrase": "Мы купили белую краску вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Краску' is the accusative direct object of 'купили'. 'Белую' is the agreeing feminine accusative adjective, and 'вчера' anchors it in the past."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-03",
+        "phrase": "В банке совсем нет краски.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Краски' takes the genitive after 'нет' to express that none is left. 'В банке' is the prepositional location, naming where it is missing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-04",
+        "phrase": "Стену покрасили зелёной краской.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Краской' is in the instrumental case, the tool used to paint. 'Зелёной' agrees in the feminine instrumental, and 'стену' is the accusative object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-05",
+        "phrase": "На краске осталась пыль.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На краске' uses the prepositional form 'краске' after 'на' to show where the dust settled. 'Осталась' agrees with 'пыль' in feminine gender."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-06",
+        "phrase": "Дай мне немного краски, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Partitive genitive. 'Краски' is genitive after 'немного' to mean a small amount. 'Дай' is the imperative and 'мне' is the dative recipient."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-07",
+        "phrase": "Все краски стоят на полке.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Краски' is the nominative plural subject of 'стоят'. 'Все' agrees in the plural, and 'на полке' is the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-08",
+        "phrase": "Я выбираю между двумя красками.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after preposition. 'Красками' is the instrumental plural after 'между'. 'Двумя' agrees in the instrumental, framing a choice between two."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-09",
+        "phrase": "Запах краски очень сильный.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Краски' is genitive, modifying 'запах' to mean the smell of the paint. 'Сильный' is the nominative adjective describing the smell."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRASKA-10",
+        "phrase": "Нанеси ещё один слой краски.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Краски' is genitive modifying 'слой' to mean a layer of paint. 'Нанеси' is the imperative, and 'ещё один' adds another."
+      }
+    ]
+  }
+]

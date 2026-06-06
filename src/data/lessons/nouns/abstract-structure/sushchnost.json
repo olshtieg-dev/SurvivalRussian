@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SUSHCHNOST",
+    "label": "Сущность",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for сущность (essence).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-01",
+        "phrase": "Сущность проблемы очень проста.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сущность' is a feminine soft-sign noun in the nominative case, acting as the subject. 'Проблемы' is a genitive specifying which essence."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-02",
+        "phrase": "Я хочу понять сущность вопроса.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сущность' is the direct object of 'понять'. For feminine soft-sign nouns the accusative equals the nominative, so the form is unchanged."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-03",
+        "phrase": "Без сущности дела не разобраться.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Сущности' is the genitive form after 'без'. Feminine soft-sign nouns take -и in the genitive singular."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-04",
+        "phrase": "Здесь нет никакой глубокой сущности.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Сущности' is genitive because the negated 'нет' requires the genitive. 'Глубокой' agrees in the feminine genitive singular."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-05",
+        "phrase": "Философ посвятил жизнь сущности бытия.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Сущности' is the dative form governed by 'посвятить'. Feminine soft-sign nouns share the -и ending in the dative singular."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-06",
+        "phrase": "Он овладел самой сущностью теории.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Сущностью' is the instrumental form governed by 'овладеть'. Feminine soft-sign nouns end in -ью in the instrumental singular."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-07",
+        "phrase": "В сущности явления много загадок.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Сущности' is the prepositional form after 'в', naming the topic. Feminine soft-sign nouns take -и in the prepositional singular."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-08",
+        "phrase": "Истинная сущность скрыта от глаз.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Сущность' is nominative as the subject of the clause. 'Истинная' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-09",
+        "phrase": "Учёные сравнивают сущности разных явлений.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Сущности' is the plural accusative direct object of 'сравнивают'. For inanimate feminine nouns the plural accusative equals the nominative plural in -и."
+      },
+      {
+        "id": "NN-STRUCT-SUSHCHNOST-10",
+        "phrase": "Главная сущность остаётся неизменной всегда.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Сущность' is nominative as the subject of 'остаётся'. 'Главная' agrees in feminine, and 'неизменной' is an instrumental predicate."
+      }
+    ]
+  }
+]

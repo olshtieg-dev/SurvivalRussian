@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ISSLEDOVANIE",
+    "label": "Исследование",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for исследование (research).",
+    "missions": [
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-01",
+        "phrase": "Это исследование очень важное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Исследование' is the neuter nominative subject. 'Это' and 'важное' show neuter agreement, evaluating the study."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-02",
+        "phrase": "Учёные провели большое исследование.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Исследование' is the accusative direct object of 'провели'; neuter inanimate accusative equals nominative. 'Большое' agrees."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-03",
+        "phrase": "Результаты исследования удивили всех.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Исследования' is genitive, showing whose results these are. 'Результаты' is the nominative plural subject."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-04",
+        "phrase": "В исследовании участвуют сто человек.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Исследовании' is prepositional after 'в', marking participation in the study. 'Сто человек' is the nominative quantity subject."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-05",
+        "phrase": "Профессор руководит научным исследованием.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Исследованием' is instrumental, governed by 'руководит', which always takes that case. 'Научным' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-06",
+        "phrase": "Они приступили к новому исследованию.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Исследованию' is dative after 'к', marking what they began. 'Новому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-07",
+        "phrase": "Университет финансирует важные исследования.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Исследования' is the accusative plural object of 'финансирует'; neuter inanimate plural accusative equals nominative. 'Важные' agrees."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-08",
+        "phrase": "Без исследования трудно сделать вывод.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Исследования' is genitive after 'без', expressing lack. 'Сделать вывод' is the infinitive phrase of the impersonal clause."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-09",
+        "phrase": "Многие исследования подтверждают эту теорию.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Исследования' is the nominative plural subject of 'подтверждают'. 'Многие' agrees, and 'теорию' is the accusative object."
+      },
+      {
+        "id": "NN-EDU-ISSLEDOVANIE-10",
+        "phrase": "Из этого исследования следует вывод.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Исследования' is genitive after 'из', marking where the conclusion comes from. 'Вывод' is the nominative subject."
+      }
+    ]
+  }
+]

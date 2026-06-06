@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-BEZOPASNOST",
+    "label": "Безопасность",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for безопасность (security).",
+    "missions": [
+      {
+        "id": "NN-STATE-BEZOPASNOST-01",
+        "phrase": "Безопасность детей очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Безопасность' is a feminine noun in the nominative as the subject. 'Детей' is the genitive showing whose safety, and 'важна' is the short-form predicate. A common public-safety statement."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-02",
+        "phrase": "Это вопрос национальной безопасности.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Безопасности' is the genitive form linked to 'вопрос'. 'Национальной' is the agreeing feminine genitive adjective. A standard institutional phrase."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-03",
+        "phrase": "Полиция обеспечивает нашу безопасность.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Безопасность' is the accusative direct object of 'обеспечивает'; this soft-sign feminine noun looks the same as the nominative. 'Нашу' is the agreeing feminine accusative possessive."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-04",
+        "phrase": "Мы заботимся о безопасности сотрудников.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Безопасности' is the prepositional form after 'о', the preposition governed by 'заботиться'. 'Сотрудников' is the genitive plural showing whose safety. A workplace pattern."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-05",
+        "phrase": "Они уделяют внимание безопасности.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Безопасности' is the dative form after the fixed expression 'уделять внимание чему-то'. The phrase means to pay attention to safety. A useful institutional collocation."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-06",
+        "phrase": "Город известен своей безопасностью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Безопасностью' is the instrumental form expressing what the city is known for. 'Своей' is the agreeing feminine instrumental possessive. A clean way to praise a place."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-07",
+        "phrase": "Без безопасности невозможно жить спокойно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Безопасности' is the genitive form after 'без', stating a condition. 'Невозможно жить спокойно' completes the thought. A reflective generalization."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-08",
+        "phrase": "Ради безопасности закройте дверь.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Безопасности' is the genitive form after 'ради', expressing purpose. 'Закройте дверь' is the imperative instruction. A practical everyday command."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-09",
+        "phrase": "Все думают о своей безопасности.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Безопасности' is the prepositional form after 'о', the object of thought. 'Своей' is the agreeing feminine prepositional possessive. A natural reflexive frame."
+      },
+      {
+        "id": "NN-STATE-BEZOPASNOST-10",
+        "phrase": "Новые правила повышают безопасность дорог.",
+        "fullAnalysis": "Strategic focus: Accusative object with genitive plural. 'Безопасность' is the accusative object of 'повышают', and 'дорог' is the genitive plural of 'дорога' showing what is made safer. A road-safety statement."
+      }
+    ]
+  }
+]

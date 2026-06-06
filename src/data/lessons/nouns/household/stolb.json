@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-STOLB",
+    "label": "Столб",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for столб (post).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-STOLB-01",
+        "phrase": "Этот столб стоит у дороги.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Столб' is a hard-stem masculine noun in the nominative as the subject of 'стоит'. 'Этот' is the agreeing masculine demonstrative pointing to the post."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-02",
+        "phrase": "Машина задела высокий столб.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Столб' is the accusative direct object of 'задела'. As an inanimate masculine noun, the accusative matches the nominative. 'Высокий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-03",
+        "phrase": "Около столба растёт старое дерево.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Столба' is the genitive singular after 'около', marking nearness. The hard-stem masculine genitive ending is -а. A common locational pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-04",
+        "phrase": "Я подошёл к столбу медленно.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Столбу' is the dative singular after 'к', marking the goal of motion. The hard-stem masculine dative ending is -у. Useful for movement toward an object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-05",
+        "phrase": "Кот спрятался за столбом.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Столбом' is instrumental after 'за', placing the cat behind the post. The hard-stem instrumental ending is -ом. A clear spatial relationship."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-06",
+        "phrase": "На столбе висит старое объявление.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Столбе' is prepositional after 'на', marking location on the post. The hard-stem prepositional ending is -е. A typical 'на' for surfaces."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-07",
+        "phrase": "Я думаю об этом столбе.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'об'. 'Столбе' is prepositional after 'об', expressing thinking about the post. 'Этом' agrees in the masculine prepositional. A reflection pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-08",
+        "phrase": "Вдоль дороги стоят высокие столбы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Столбы' is the nominative plural, the subject of 'стоят'. The hard-stem plural ending is -ы, and 'высокие' agrees in the plural. Shows plural formation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-09",
+        "phrase": "Рабочие установили новые столбы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Столбы' is the accusative plural object of 'установили'. As inanimate, the accusative plural matches the nominative plural. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STOLB-10",
+        "phrase": "Провода тянутся от столбов к домам.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Столбов' is the genitive plural after 'от', marking the source. The hard-stem genitive plural ending is -ов. A natural source-to-goal phrase."
+      }
+    ]
+  }
+]

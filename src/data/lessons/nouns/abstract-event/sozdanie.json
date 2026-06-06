@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SOZDANIE",
+    "label": "Создание",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for создание (creation).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SOZDANIE-01",
+        "phrase": "Создание сайта заняло целый месяц.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Создание' is the neuter nominative subject of 'заняло', which agrees in neuter past tense. 'Сайта' is a genitive complement, a natural project-timeline sentence."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-02",
+        "phrase": "Это создание оказалось очень удачным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Создание' stays nominative as the subject of 'оказалось'. 'Это' points at a specific result, and 'удачным' is the instrumental predicate. A common evaluative pattern."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-03",
+        "phrase": "Они отметили создание новой компании.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Создание' is the accusative direct object of 'отметили'; neuter nouns share nominative and accusative forms. 'Новой компании' is a genitive complement, a business-themed line."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-04",
+        "phrase": "Без создания плана трудно начать.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Создания' is the genitive form after 'без'. 'Плана' is a further genitive complement, and the impersonal 'трудно' frames the advice. A planning-focused sentence."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-05",
+        "phrase": "Мы готовимся к созданию проекта.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Созданию' is the dative form after 'к' to express preparing for an upcoming task. 'Проекта' is a genitive complement, a practical workplace pattern."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-06",
+        "phrase": "Он гордится созданием этой картины.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Созданием' is the instrumental form required by 'гордиться'. 'Этой картины' is a genitive complement, a graceful way to express pride in one's work."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-07",
+        "phrase": "В создании фильма участвовали многие.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В создании' uses the prepositional form after 'в' to express taking part in a process. 'Фильма' is a genitive complement, a natural collaborative description."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-08",
+        "phrase": "Создание музея было важным событием.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Создание' is the neuter nominative subject of 'было'. 'Важным событием' is the instrumental predicate, a tidy model for the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-09",
+        "phrase": "Эти создания природы поражают воображение.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Создания' is the nominative plural subject of 'поражают'. 'Эти' agrees in the plural, here using создание in its concrete sense of creatures. A vivid plural example."
+      },
+      {
+        "id": "NN-EVENT-SOZDANIE-10",
+        "phrase": "Создание команды требует много времени.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Создание' is the neuter nominative subject of 'требует'. 'Команды' is a genitive complement, and 'много времени' is the genitive object. A clear management statement."
+      }
+    ]
+  }
+]

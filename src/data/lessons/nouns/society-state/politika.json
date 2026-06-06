@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-POLITIKA",
+    "label": "Политика",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for политика (politics).",
+    "missions": [
+      {
+        "id": "NN-STATE-POLITIKA-01",
+        "phrase": "Политика - это сложная тема.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Политика' stays in the nominative as the subject of an equational sentence. The dash stands in for the linking verb. A natural definition pattern."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-02",
+        "phrase": "Я не люблю политику.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Политику' is the accusative direct object of 'люблю'. The negation 'не' does not shift it from accusative here. A common opinion statement."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-03",
+        "phrase": "Он держится в стороне от политики.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Политики' is genitive, governed by 'от'. The idiom 'держаться в стороне от' means to stay away from. Useful for distancing oneself."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-04",
+        "phrase": "Мы часто спорим о политике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Политике' is the prepositional form after 'о', naming the topic of argument. 'Часто' adds frequency. A frequent conversation pattern."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-05",
+        "phrase": "Благодаря новой политике цены упали.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 'Политике' is dative, governed by 'благодаря'. 'Новой' agrees in the feminine dative. Expresses the cause of a result."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-06",
+        "phrase": "Он интересуется внешней политикой.",
+        "fullAnalysis": "Strategic focus: Instrumental after интересоваться. 'Политикой' is the instrumental form required by 'интересуется'. 'Внешней' agrees in the feminine instrumental. A key interest-verb pattern."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-07",
+        "phrase": "От этой политики зависит экономика.",
+        "fullAnalysis": "Strategic focus: Genitive after зависеть от. 'Политики' is genitive, governed by 'от' with 'зависит'. 'Этой' agrees in the feminine genitive. Expresses dependence."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-08",
+        "phrase": "Мне не нравится такая политика.",
+        "fullAnalysis": "Strategic focus: Dative experiencer with nominative subject. 'Политика' is nominative, the thing that displeases. 'Мне' is the dative experiencer and 'нравится' agrees with the noun."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-09",
+        "phrase": "Журналисты обсуждают политику страны.",
+        "fullAnalysis": "Strategic focus: Accusative object with genitive modifier. 'Политику' is the accusative object of 'обсуждают'. 'Страны' is a genitive modifier meaning of the country. A news-style sentence."
+      },
+      {
+        "id": "NN-STATE-POLITIKA-10",
+        "phrase": "В политике много трудных решений.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Политике' is the prepositional form after 'в', here meaning within the field of politics. 'Много' takes the genitive 'решений'. A reflective statement."
+      }
+    ]
+  }
+]

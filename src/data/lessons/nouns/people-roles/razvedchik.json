@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-RAZVEDCHIK",
+    "label": "Разведчик",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for разведчик (scout; spy).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-01",
+        "phrase": "Разведчик вернулся домой ночью.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Разведчик' is an animate masculine noun in the nominative as the subject of 'вернулся', which agrees in masculine gender."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-02",
+        "phrase": "Враги поймали нашего разведчика.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Разведчика' is the accusative direct object of 'поймали', and for an animate masculine noun the accusative copies the genitive. 'Нашего' agrees accordingly."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-03",
+        "phrase": "У разведчика была подробная карта.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Разведчика' takes the genitive after 'у' in the possession frame, showing that the map belonged to the scout."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-04",
+        "phrase": "Командир доверял опытному разведчику.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Разведчику' is the dative governed by 'доверял'. 'Опытному' agrees in the masculine dative, expressing trust in the scout."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-05",
+        "phrase": "Солдаты гордились смелым разведчиком.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Разведчиком' is the instrumental governed by 'гордились'. 'Смелым' agrees in the masculine instrumental, naming the source of pride."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-06",
+        "phrase": "Они говорили о новом разведчике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Разведчике' is the prepositional form after 'о'. 'Новом' agrees in the masculine prepositional, marking the topic of conversation."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-07",
+        "phrase": "Без разведчика отряд не пошёл.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Разведчика' takes the genitive after 'без', meaning the squad would not move without the scout."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-08",
+        "phrase": "Опытные разведчики работают тихо.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Разведчики' is the nominative plural subject of 'работают'. 'Опытные' agrees in the plural, describing the whole group."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-09",
+        "phrase": "Командир отправил двух разведчиков.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. After 'двух' the animate noun takes the genitive plural form 'разведчиков', which also serves as the accusative object of 'отправил'."
+      },
+      {
+        "id": "NN-PEOPLE-RAZVEDCHIK-10",
+        "phrase": "Я хочу стать разведчиком.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Разведчиком' is the instrumental required after 'стать', naming the role one aspires to become."
+      }
+    ]
+  }
+]

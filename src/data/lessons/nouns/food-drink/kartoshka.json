@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-KARTOSHKA",
+    "label": "Картошка",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for картошка (potato).",
+    "missions": [
+      {
+        "id": "NN-FOOD-KARTOSHKA-01",
+        "phrase": "Молодая картошка очень вкусная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Картошка' is feminine and stays in the nominative as the subject. 'Молодая' and 'вкусная' are the agreeing feminine adjectives. A clean descriptive card."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-02",
+        "phrase": "Я люблю жареную картошку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Картошку' is the feminine accusative as the object of 'люблю'. 'Жареную' agrees in the feminine accusative. A very common way to state a food preference."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-03",
+        "phrase": "В магазине нет свежей картошки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Картошки' is the genitive after 'нет', marking what is missing. 'Свежей' is the agreeing feminine genitive adjective. A core shopping negation."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-04",
+        "phrase": "Мы приготовили суп с картошкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Картошкой' is the instrumental after 'с', meaning soup with potato. A common recipe construction for listing ingredients."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-05",
+        "phrase": "Добавь к картошке немного масла.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Картошке' is the dative after 'к', the thing to which butter is added. 'Немного масла' is the genitive quantity. Practical cooking language."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-06",
+        "phrase": "О картошке можно говорить долго.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Картошке' is the prepositional form after 'о', expressing the topic of conversation. The impersonal 'можно' frames the sentence lightly."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-07",
+        "phrase": "Купи два килограмма картошки.",
+        "fullAnalysis": "Strategic focus: Genitive after a unit of measure. 'Картошки' is the genitive expressing the substance measured by 'два килограмма'. The imperative makes this a practical shopping phrase."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-08",
+        "phrase": "На рынке продают свежую картошку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Картошку' is the accusative object of 'продают'. 'Свежую' agrees in the feminine accusative, and 'на рынке' sets the location. Everyday market language."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-09",
+        "phrase": "В подвале лежат мешки с картошкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с' in a plural frame. 'Картошкой' is the instrumental after 'с', describing sacks of potato. 'Мешки' is the nominative plural subject. Useful storage vocabulary."
+      },
+      {
+        "id": "NN-FOOD-KARTOSHKA-10",
+        "phrase": "Эта картошка уже испортилась.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Картошка' is nominative as the subject of 'испортилась', which agrees in feminine gender. 'Эта' points at it and 'уже' adds time. A useful complaint pattern."
+      }
+    ]
+  }
+]

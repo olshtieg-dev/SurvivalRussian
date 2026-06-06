@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-MEDVED",
+    "label": "Медведь",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for медведь (bear).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-MEDVED-01",
+        "phrase": "В лесу живёт большой медведь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Медведь' stays in the nominative as the subject of 'живёт'. 'Большой' is the agreeing masculine adjective, and 'в лесу' is the prepositional location. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-02",
+        "phrase": "Мы увидели медведя у реки.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. Because 'медведь' is animate masculine, the accusative 'медведя' matches the genitive. It is the object of 'увидели', with 'у реки' marking location. A natural wildlife sentence."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-03",
+        "phrase": "Все боятся этого медведя.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Медведя' is the genitive required by 'боятся', meaning to be afraid of. 'Этого' agrees in the masculine genitive. A useful fear-verb pattern."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-04",
+        "phrase": "Охотник подошёл к медведю.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К медведю' uses the dative form 'медведю' after 'к' to express approach. 'Охотник' is the nominative subject. A natural motion-toward pattern."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-05",
+        "phrase": "Туристы встретились с медведем.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Медведем' is the instrumental required by 'встретились с', meaning to meet with. 'Туристы' is the nominative plural subject. A useful encounter pattern."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-06",
+        "phrase": "Дети читают книгу о медведе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О медведе' uses the prepositional form 'медведе' after 'о' to express the topic. 'Книгу' is the accusative object. A natural reading-about pattern."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-07",
+        "phrase": "У медведя очень острые когти.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Медведя' is the genitive required by 'у', expressing possession. 'Когти' is the nominative plural subject, described by 'острые'. A useful possession pattern."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-08",
+        "phrase": "В зоопарке живут два медведя.",
+        "fullAnalysis": "Strategic focus: Genitive singular with numeral. After 'два' the noun takes the form 'медведя'. 'В зоопарке' is the prepositional location. A useful counting pattern for animals."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-09",
+        "phrase": "Зимой медведи спят в берлоге.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Медведи' is the nominative plural subject of 'спят'. 'Зимой' is the instrumental of time, and 'в берлоге' is the prepositional location. A natural nature fact."
+      },
+      {
+        "id": "NN-ANIMAL-MEDVED-10",
+        "phrase": "Мы фотографировали бурых медведей.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. Because the noun is animate, the accusative plural 'медведей' matches the genitive plural. 'Бурых' agrees, and it is the object of 'фотографировали'. A clean animate-plural pattern."
+      }
+    ]
+  }
+]

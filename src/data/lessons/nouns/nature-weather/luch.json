@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-LUCH",
+    "label": "Луч",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for луч (ray).",
+    "missions": [
+      {
+        "id": "NN-NATURE-LUCH-01",
+        "phrase": "Яркий луч осветил комнату.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Луч' is a masculine noun in the nominative, the subject of 'осветил'. 'Яркий' is the agreeing masculine adjective and 'комнату' is the accusative object."
+      },
+      {
+        "id": "NN-NATURE-LUCH-02",
+        "phrase": "Я увидел первый луч солнца.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Луч' is the accusative direct object of 'увидел'; as an inanimate masculine noun it matches the nominative. 'Солнца' is the genitive specifying the sun's ray."
+      },
+      {
+        "id": "NN-NATURE-LUCH-03",
+        "phrase": "В небе не видно луча.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Луча' is the genitive form required after the impersonal 'не видно'. 'В небе' is the prepositional locating the absent ray."
+      },
+      {
+        "id": "NN-NATURE-LUCH-04",
+        "phrase": "Цветок тянется к лучу света.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К лучу' uses the dative form 'лучу' to show the flower reaching toward the ray. 'Света' is the genitive specifying the ray of light."
+      },
+      {
+        "id": "NN-NATURE-LUCH-05",
+        "phrase": "Кот греется под тёплым лучом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'под'. 'Лучом' is the instrumental form governed by 'под' showing position beneath the ray. 'Тёплым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-NATURE-LUCH-06",
+        "phrase": "Пылинки танцуют в луче света.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В луче' uses the prepositional form 'луче' after 'в' to locate the dust in the ray. 'Пылинки' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-LUCH-07",
+        "phrase": "Солнце посылает луч на землю.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Луч' is the accusative object of 'посылает', while 'на землю' marks the destination. 'Солнце' is the nominative subject sending the ray."
+      },
+      {
+        "id": "NN-NATURE-LUCH-08",
+        "phrase": "Первые лучи появились на горизонте.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Лучи' is the nominative plural subject of 'появились'. 'Первые' is the agreeing plural adjective and 'на горизонте' marks the location."
+      },
+      {
+        "id": "NN-NATURE-LUCH-09",
+        "phrase": "Утром много лучей пробивается сквозь листву.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Лучей' is the genitive plural required by 'много'. 'Сквозь листву' shows the rays breaking through the foliage."
+      },
+      {
+        "id": "NN-NATURE-LUCH-10",
+        "phrase": "Я люблю тёплые солнечные лучи.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Лучи' is the accusative plural object of 'люблю'; for inanimate nouns it matches the nominative plural. 'Тёплые солнечные' are agreeing plural adjectives."
+      }
+    ]
+  }
+]

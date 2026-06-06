@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-LYOD",
+    "label": "Лёд",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for лёд (ice).",
+    "missions": [
+      {
+        "id": "NN-NATURE-LYOD-01",
+        "phrase": "На озере лёд уже крепкий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лёд' stays in the nominative as the subject. 'Крепкий' is the agreeing masculine adjective, and 'на озере' is the prepositional of place."
+      },
+      {
+        "id": "NN-NATURE-LYOD-02",
+        "phrase": "Дети любят зимний лёд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лёд' is the accusative direct object of 'любят'; inanimate masculine nouns keep the nominative form. 'Зимний' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-NATURE-LYOD-03",
+        "phrase": "Зимой без льда не бывает.",
+        "fullAnalysis": "Strategic focus: Genitive with a fleeting vowel. 'Льда' is genitive after 'без', and the ё of 'лёд' drops out in the oblique stem. The phrase states what winter always brings."
+      },
+      {
+        "id": "NN-NATURE-LYOD-04",
+        "phrase": "Рыбаки сидят на льду.",
+        "fullAnalysis": "Strategic focus: Locative in -у. 'Лёд' takes the special locative ending 'льду' after 'на' to express position on the surface. The fleeting ё drops in the oblique stem."
+      },
+      {
+        "id": "NN-NATURE-LYOD-05",
+        "phrase": "Машина скользит по льду.",
+        "fullAnalysis": "Strategic focus: Dative of surface motion. 'Льду' is dative after 'по' to express movement along the ice. The fleeting ё disappears, and 'машина' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-LYOD-06",
+        "phrase": "Под льдом плавает большая рыба.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Льдом' is instrumental after 'под' to express position beneath; the fleeting ё drops. 'Рыба' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-LYOD-07",
+        "phrase": "Я положил лёд в стакан.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Лёд' is accusative after 'в' to mark where it is placed; the form matches the nominative. 'В стакан' shows the goal."
+      },
+      {
+        "id": "NN-NATURE-LYOD-08",
+        "phrase": "Весной много льда тает.",
+        "fullAnalysis": "Strategic focus: Genitive after a quantifier. 'Льда' is the genitive form required by 'много'; the fleeting ё drops. 'Весной' sets the season, and 'тает' agrees with the quantity."
+      },
+      {
+        "id": "NN-NATURE-LYOD-09",
+        "phrase": "Река покрыта толстым льдом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Льдом' is instrumental expressing what covers the river; the fleeting ё drops. 'Толстым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-NATURE-LYOD-10",
+        "phrase": "По всему берегу лежат куски льда.",
+        "fullAnalysis": "Strategic focus: Genitive in a noun phrase. 'Льда' is genitive describing the material of 'куски'; the fleeting ё drops. 'По всему берегу' uses the dative for spread."
+      }
+    ]
+  }
+]

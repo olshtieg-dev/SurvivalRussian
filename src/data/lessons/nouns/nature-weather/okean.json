@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-OKEAN",
+    "label": "Океан",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for океан (ocean).",
+    "missions": [
+      {
+        "id": "NN-NATURE-OKEAN-01",
+        "phrase": "Океан сегодня очень спокойный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Океан' is a hard-stem masculine noun in the nominative as the subject. 'Спокойный' is the agreeing masculine adjective describing its state."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-02",
+        "phrase": "Мы любим этот тёплый океан.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Океан' is the accusative direct object of 'любим'. As an inanimate masculine noun, the accusative matches the nominative. 'Тёплый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-03",
+        "phrase": "Глубина океана пугает многих людей.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Океана' is genitive, showing whose depth it is, the depth of the ocean. The hard-stem masculine genitive ending is -а. A property-of-something pattern."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-04",
+        "phrase": "Корабль плывёт к океану.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Океану' is the dative singular after 'к', marking the goal of motion. The hard-stem masculine dative ending is -у. A natural movement-toward phrase."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-05",
+        "phrase": "Мы любуемся бескрайним океаном.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Океаном' is instrumental after 'любуемся', the thing admired. The hard-stem instrumental ending is -ом, and 'бескрайним' agrees. A common admiration verb."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-06",
+        "phrase": "В океане живут огромные киты.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Океане' is prepositional after 'в', marking location inside the ocean. The hard-stem prepositional ending is -е. A core spatial pattern."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-07",
+        "phrase": "Мы долго мечтали об океане.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'об'. 'Океане' is prepositional after 'об', the object of dreaming. 'Долго' adds duration. A typical pattern for thinking and dreaming about something."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-08",
+        "phrase": "На Земле есть четыре океана.",
+        "fullAnalysis": "Strategic focus: Genitive after numeral. 'Океана' is the genitive singular required after the numeral 'четыре'. Numbers two through four take the genitive singular. A key numeral-agreement pattern."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-09",
+        "phrase": "Все океаны планеты соединены вместе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Океаны' is the nominative plural, the subject of the sentence. The hard-stem plural ending is -ы, and 'все' agrees in the plural. Shows plural formation."
+      },
+      {
+        "id": "NN-NATURE-OKEAN-10",
+        "phrase": "Учёные изучают глубины океанов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Океанов' is the genitive plural after 'глубины', the depths of the oceans. The hard-stem genitive plural ending is -ов. A useful quantity-of pattern."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-VYBOR",
+    "label": "Выбор",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for выбор (choice).",
+    "missions": [
+      {
+        "id": "NN-MIND-VYBOR-01",
+        "phrase": "Это был очень трудный выбор.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Выбор' is a masculine noun standing in the nominative as the subject of 'был'. 'Трудный' is the agreeing masculine adjective, and 'очень' intensifies the difficulty."
+      },
+      {
+        "id": "NN-MIND-VYBOR-02",
+        "phrase": "Я сделал свой выбор.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Выбор' is an inanimate masculine noun, so its accusative matches the nominative. It serves as the direct object of 'сделал', and 'свой' shows it is the speaker's own choice."
+      },
+      {
+        "id": "NN-MIND-VYBOR-03",
+        "phrase": "У меня нет другого выбора.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Выбора' is the genitive form required after 'нет'. 'Другого' agrees in the masculine genitive, expressing that no alternative exists."
+      },
+      {
+        "id": "NN-MIND-VYBOR-04",
+        "phrase": "Всё зависит от твоего выбора.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Выбора' takes the genitive after 'от'. 'Твоего' agrees in the masculine genitive, and the phrase shows that outcomes depend on the choice."
+      },
+      {
+        "id": "NN-MIND-VYBOR-05",
+        "phrase": "Я рад своему выбору.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Выбору' is the dative form governed by 'рад'. 'Своему' agrees in the masculine dative, expressing satisfaction with one's own decision."
+      },
+      {
+        "id": "NN-MIND-VYBOR-06",
+        "phrase": "Перед выбором я долго думал.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Выбором' takes the instrumental after 'перед'. 'Долго' adds duration, describing the period of reflection before deciding."
+      },
+      {
+        "id": "NN-MIND-VYBOR-07",
+        "phrase": "Мы говорим о трудном выборе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Выборе' is the prepositional form after 'о'. 'Трудном' agrees in the masculine prepositional, marking the topic of the conversation."
+      },
+      {
+        "id": "NN-MIND-VYBOR-08",
+        "phrase": "В магазине большой выбор товаров.",
+        "fullAnalysis": "Strategic focus: Nominative with genitive complement. 'Выбор' is nominative as the subject, while 'товаров' is the genitive plural showing what there is a selection of. 'Большой' agrees in the masculine nominative."
+      },
+      {
+        "id": "NN-MIND-VYBOR-09",
+        "phrase": "Перед нами стоят два выбора.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'выбора', a fixed pattern with two, three and four. The phrase frames two options before the speakers."
+      },
+      {
+        "id": "NN-MIND-VYBOR-10",
+        "phrase": "Спасибо за правильный выбор.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Выбор' takes the accusative after 'за', and as an inanimate masculine noun it matches the nominative. 'Правильный' agrees, praising the decision."
+      }
+    ]
+  }
+]

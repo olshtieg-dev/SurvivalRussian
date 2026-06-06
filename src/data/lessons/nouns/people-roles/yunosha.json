@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-YUNOSHA",
+    "label": "Юноша",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for юноша (youth).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-YUNOSHA-01",
+        "phrase": "Молодой юноша читает книгу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Юноша' is a masculine noun with feminine-type endings, here nominative as the subject of 'читает'. 'Молодой' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-02",
+        "phrase": "Я давно знаю этого юношу.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Юношу' is the accusative object of 'знаю'; the ending '-у' follows the first-declension pattern. 'Этого' agrees in the animate masculine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-03",
+        "phrase": "У юноши есть большая мечта.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Юноши' is the genitive form in the frame 'у юноши есть' showing what the youth has. 'Мечта' is the nominative subject of 'есть'."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-04",
+        "phrase": "Учитель помогает молодому юноше.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Юноше' is the dative form required by 'помогает'. 'Молодому' agrees in the masculine dative. 'Учитель' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-05",
+        "phrase": "Девушка гордится своим юношей.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Юношей' is the instrumental form governed by 'гордится'. 'Своим' agrees in the masculine instrumental. 'Девушка' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-06",
+        "phrase": "Все говорят об этом юноше.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Юноше' is the prepositional form after 'об' meaning about the youth. 'Этом' agrees in the masculine prepositional. 'Все' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-07",
+        "phrase": "Юноша подарил девушке цветы.",
+        "fullAnalysis": "Strategic focus: Nominative agent. 'Юноша' is the nominative subject performing 'подарил'. 'Девушке' is the dative recipient and 'цветы' is the accusative plural object."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-08",
+        "phrase": "На площади собрались молодые юноши.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Юноши' is the nominative plural subject of 'собрались'. 'Молодые' is the agreeing plural adjective and 'на площади' marks the location."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-09",
+        "phrase": "Учитель похвалил трёх юношей.",
+        "fullAnalysis": "Strategic focus: Genitive plural for animate accusative. After 'трёх' the animate noun takes 'юношей', the genitive plural also serving as the accusative. 'Учитель' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-YUNOSHA-10",
+        "phrase": "Этот юноша очень талантлив.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Юноша' is the nominative subject described by the short-form adjective 'талантлив', which agrees in the masculine. 'Этот' points at the specific youth."
+      }
+    ]
+  }
+]

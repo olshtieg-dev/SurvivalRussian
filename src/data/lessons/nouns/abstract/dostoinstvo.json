@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-DOSTOINSTVO",
+    "label": "Достоинство",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for достоинство (dignity).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-01",
+        "phrase": "Человеческое достоинство очень важно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Достоинство' stays in the nominative as the subject. 'Человеческое' is the agreeing neuter adjective. A natural value statement."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-02",
+        "phrase": "Он сохранил своё достоинство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Достоинство' is the accusative direct object of 'сохранил', identical to the nominative for neuter nouns. 'Своё' agrees in the neuter. A common moral pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-03",
+        "phrase": "Это ниже моего достоинства.",
+        "fullAnalysis": "Strategic focus: Genitive after ниже. 'Достоинства' is genitive, governed by the comparative 'ниже'. 'Моего' agrees in the neuter genitive. A fixed idiomatic expression."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-04",
+        "phrase": "Благодаря достоинству он заслужил уважение.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 'Достоинству' is dative, governed by 'благодаря'. 'Уважение' is the accusative object. Expresses the cause of respect."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-05",
+        "phrase": "Она держалась с достоинством.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Достоинством' is instrumental, governed by 'с', expressing manner. The phrase means to behave with dignity. A frequent set expression."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-06",
+        "phrase": "В этом достоинстве вся его сила.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Достоинстве' is the prepositional form after 'в'. 'Этом' agrees in the neuter prepositional. A reflective statement of value."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-07",
+        "phrase": "У него много достоинств.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Достоинств' is the genitive plural after the quantifier 'много', here meaning merits. 'У него' marks the possessor. Practises the zero-ending genitive plural."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-08",
+        "phrase": "Мне нравится её чувство достоинства.",
+        "fullAnalysis": "Strategic focus: Dative experiencer with genitive modifier. 'Чувство' is nominative, the thing that pleases, and 'достоинства' is its genitive modifier. 'Мне' is the dative experiencer."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-09",
+        "phrase": "У этой работы есть свои достоинства.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Достоинства' is the nominative plural subject of 'есть', here meaning merits or advantages. 'Свои' agrees in the plural. A common evaluative use."
+      },
+      {
+        "id": "NN-ABSTRACT-DOSTOINSTVO-10",
+        "phrase": "Мы обсудили все достоинства плана.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Достоинства' is the accusative plural object of 'обсудили', identical to the nominative plural for neuter nouns. 'Плана' is a genitive modifier."
+      }
+    ]
+  }
+]

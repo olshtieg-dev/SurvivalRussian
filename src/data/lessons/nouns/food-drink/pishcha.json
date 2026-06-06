@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-PISHCHA",
+    "label": "Пища",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for пища (food).",
+    "missions": [
+      {
+        "id": "NN-FOOD-PISHCHA-01",
+        "phrase": "Здоровая пища очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пища' stays in the nominative case as the subject. 'Здоровая' is the agreeing feminine adjective, and 'важна' is the short-form predicate. A clean descriptive model."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-02",
+        "phrase": "Мы любим простую домашнюю пищу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пищу' is the accusative direct object of 'любим'. 'Простую' and 'домашнюю' agree in the feminine accusative. Useful for expressing preferences."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-03",
+        "phrase": "В этом доме нет горячей пищи.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Пищи' takes the genitive after 'нет' to express not having something. 'Горячей' agrees in the feminine genitive. The standard pattern for lacking something."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-04",
+        "phrase": "Врач рассказал нам о здоровой пище.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Пище' uses the prepositional form after 'о' to express talking about a topic. 'Здоровой' agrees in the feminine prepositional. A useful discussion frame."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-05",
+        "phrase": "Дети предпочитают сладкую пищу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пищу' is the accusative direct object of 'предпочитают'. 'Сладкую' agrees in the feminine accusative. Good for describing tastes and habits."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-06",
+        "phrase": "Организм борется с тяжёлой пищей.",
+        "fullAnalysis": "Strategic focus: Instrumental after a preposition. 'Пищей' takes the instrumental after 'с' to express coping with something. 'Тяжёлой' agrees in the feminine instrumental. Useful for cause-and-effect talk."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-07",
+        "phrase": "Свежая пища лучше консервов.",
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Пища' stays nominative as the subject. 'Свежая' agrees in feminine gender, and 'лучше консервов' gives the comparison with a genitive object. Strong for comparison practice."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-08",
+        "phrase": "Мы много знаем о разных видах пищи.",
+        "fullAnalysis": "Strategic focus: Genitive after a quantified noun. 'Пищи' takes the genitive depending on 'видах'. The phrase 'виды пищи' is a common way to talk about kinds of food. Useful for cooking and nutrition topics."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-09",
+        "phrase": "Растительная пища полезна для здоровья.",
+        "fullAnalysis": "Strategic focus: Nominative subject with benefit frame. 'Пища' is nominative as the subject. 'Растительная' agrees in feminine gender, and 'полезна для здоровья' states the benefit. A clear health statement."
+      },
+      {
+        "id": "NN-FOOD-PISHCHA-10",
+        "phrase": "Эти продукты считаются здоровой пищей.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Пищей' takes the instrumental as the predicate of 'считаются'. 'Здоровой' agrees in the feminine instrumental. A classic пища-as-category pattern."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PACHKA",
+    "label": "Пачка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for пачка (pack).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-01",
+        "phrase": "На столе лежит пачка сигарет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пачка' stays in the nominative as the subject of 'лежит'. 'Сигарет' is the genitive plural showing what the pack contains. A common everyday object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-02",
+        "phrase": "Я купил пачку чая в магазине.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пачку' is the accusative direct object of 'купил'. 'Чая' is the genitive showing the contents, and 'в магазине' is the prepositional location. A standard shopping sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-03",
+        "phrase": "В пачке не осталось масла.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В пачке' uses the prepositional form 'пачке' after 'в' to mark location. 'Масла' is the genitive after the negation 'не осталось'. Useful for describing empty containers."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-04",
+        "phrase": "Дай мне эту пачку печенья.",
+        "fullAnalysis": "Strategic focus: Accusative request. 'Пачку' is the accusative object of 'дай'. 'Эту' agrees in the feminine accusative, and 'печенья' is the genitive of contents. A natural everyday request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-05",
+        "phrase": "Без пачки соли суп невкусный.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Пачки' is the genitive form required by 'без'. 'Соли' is a further genitive of contents. A handy pattern for talking about missing ingredients."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-06",
+        "phrase": "Цена пачки молока выросла.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Пачки' is the genitive linking it to 'цена', the price of the pack. 'Молока' is a further genitive showing contents. Useful for talking about prices."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-07",
+        "phrase": "Я положил деньги в пачку писем.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В пачку' uses the accusative 'пачку' after 'в' to show movement into. 'Писем' is the genitive plural of contents. A good motion-into-container pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-08",
+        "phrase": "Бабушка угостила нас пачкой вафель.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Пачкой' is the instrumental required by 'угостила', showing what we were treated to. 'Вафель' is the genitive plural of contents. Common for hospitality talk."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-09",
+        "phrase": "На полке стоят три пачки муки.",
+        "fullAnalysis": "Strategic focus: Genitive singular with numeral. After 'три' the noun takes the form 'пачки'. 'Муки' shows the contents, and 'на полке' is the prepositional location. A useful counting pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PACHKA-10",
+        "phrase": "Мы выбросили старые пустые пачки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Пачки' is the accusative plural object of 'выбросили'. 'Старые' and 'пустые' are agreeing plural adjectives. A clean model for plural inanimate objects."
+      }
+    ]
+  }
+]

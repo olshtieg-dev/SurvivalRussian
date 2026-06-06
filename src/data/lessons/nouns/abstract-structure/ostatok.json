@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-OSTATOK",
+    "label": "Остаток",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for остаток (remainder).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-OSTATOK-01",
+        "phrase": "Остаток дня прошёл спокойно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Остаток' is a masculine noun in the nominative case, acting as the subject of 'прошёл'. 'Дня' is a genitive specifying which remainder."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-02",
+        "phrase": "Я доел остаток вчерашнего супа.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Остаток' is the direct object of 'доел'. For inanimate masculine nouns the accusative equals the nominative, so the form does not change."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-03",
+        "phrase": "От остатка денег ничего не нашлось.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Остатка' is the genitive form after 'от'. Note the fleeting vowel о disappears, giving the stem 'остатк-' before the ending -а."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-04",
+        "phrase": "В кошельке не было остатка.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Остатка' is genitive because the negated 'не было' requires the genitive. The fleeting vowel drops, leaving the stem 'остатк-'."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-05",
+        "phrase": "Мы радовались каждому остатку времени.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Остатку' is the dative form governed by 'радоваться'. The fleeting vowel drops, and 'каждому' agrees in the masculine dative singular."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-06",
+        "phrase": "Он поделился с нами остатком хлеба.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Остатком' is the instrumental form governed by 'поделиться'. The fleeting vowel drops before the ending -ом."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-07",
+        "phrase": "В остатке месяца было много дел.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Остатке' is the prepositional form after 'в'. The fleeting vowel drops, and the masculine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-08",
+        "phrase": "Небольшой остаток лежал на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Остаток' is nominative as the subject of 'лежал'. 'Небольшой' is the agreeing masculine adjective, the vowel intact in nominative."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-09",
+        "phrase": "Повар выбросил все остатки еды.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Остатки' is the plural accusative direct object of 'выбросил'. The fleeting vowel drops in the plural, giving 'остатк-' plus the ending -и."
+      },
+      {
+        "id": "NN-STRUCT-OSTATOK-10",
+        "phrase": "Денежный остаток вырос за месяц.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Остаток' is nominative as the subject of 'вырос'. 'Денежный' agrees in masculine, and the vowel stays in the nominative form."
+      }
+    ]
+  }
+]

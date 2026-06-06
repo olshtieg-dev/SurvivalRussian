@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-SLON",
+    "label": "Слон",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for слон (elephant).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-SLON-01",
+        "phrase": "Этот слон очень большой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Слон' stays in the nominative case as the subject. 'Этот' agrees in masculine gender, and 'большой' is the agreeing adjective. A simple descriptive model."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-02",
+        "phrase": "В зоопарке мы видели слона.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Слона' takes the genitive-like accusative form because the noun is animate masculine. As the direct object of 'видели', it shows the standard animate accusative rule."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-03",
+        "phrase": "У этого слона очень длинный хобот.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Слона' takes the genitive after 'у' to express whose trunk it is. 'Этого' agrees in the masculine genitive. The standard possession frame."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-04",
+        "phrase": "Дети дали слону большое яблоко.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Слону' takes the dative as the recipient of 'дали'. 'Большое яблоко' is the accusative object given. A clear giving frame with an animal."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-05",
+        "phrase": "Мальчик долго смотрел на слона.",
+        "fullAnalysis": "Strategic focus: Accusative after a preposition. 'Слона' takes the accusative after 'на' to express looking at something. The animate form matches the genitive. 'Долго' adds duration."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-06",
+        "phrase": "Я хочу сфотографироваться со слоном.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Слоном' takes the instrumental after 'со' to express being together with someone. A natural way to talk about a photo with an animal."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-07",
+        "phrase": "Мы говорили об этом слоне весь день.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Слоне' uses the prepositional form after 'об' to express talking about something. 'Этом' agrees in the masculine prepositional. A useful discussion frame."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-08",
+        "phrase": "В Африке живут большие слоны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Слоны' is the nominative plural subject of 'живут'. 'Большие' is the agreeing plural adjective, and 'в Африке' gives the location. Useful for general statements."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-09",
+        "phrase": "Туристы кормят слонов фруктами.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Слонов' takes the genitive-like accusative plural because the noun is animate. As the object of 'кормят', it shows the plural animate rule, with 'фруктами' in the instrumental."
+      },
+      {
+        "id": "NN-ANIMAL-SLON-10",
+        "phrase": "У нас в стране нет слонов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Слонов' takes the genitive plural after 'нет' to express that none exist here. The standard pattern for lacking a category of things."
+      }
+    ]
+  }
+]

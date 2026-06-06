@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SVEDENIE",
+    "label": "Сведение",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for сведение (information).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SVEDENIE-01",
+        "phrase": "Это важное сведение для нас.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сведение' stays in the nominative as the subject of an equational sentence. 'Важное' is the agreeing neuter adjective. A clean predicate pattern."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-02",
+        "phrase": "Он сообщил мне новое сведение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сведение' is the accusative direct object of 'сообщил', identical to the nominative for neuter nouns. 'Мне' is the dative recipient. A reporting pattern."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-03",
+        "phrase": "У нас нет точного сведения.",
+        "fullAnalysis": "Strategic focus: Genitive after нет. 'Сведения' is genitive, required by 'нет' in a 'у... нет' frame. 'Точного' agrees in the neuter genitive. Expresses a lack."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-04",
+        "phrase": "Благодаря этому сведению мы успели.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 'Сведению' is dative, governed by 'благодаря'. 'Этому' agrees in the neuter dative. Expresses the helpful cause."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-05",
+        "phrase": "Он поделился со мной важным сведением.",
+        "fullAnalysis": "Strategic focus: Instrumental after поделиться. 'Сведением' is the instrumental form required by 'поделился'. 'Важным' agrees in the neuter instrumental. A sharing pattern."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-06",
+        "phrase": "В этом сведении была ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Сведении' is the prepositional form after 'в'. 'Этом' agrees in the neuter prepositional. A natural way to point inside a piece of information."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-07",
+        "phrase": "Нам нужны свежие сведения.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сведения' is the nominative plural, the standard way to say information in Russian. 'Свежие' agrees in the plural and 'нам' is the dative needer."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-08",
+        "phrase": "Полиция собирает все сведения.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Сведения' is the accusative plural object of 'собирает', identical to the nominative plural for neuter nouns. 'Все' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-09",
+        "phrase": "У нас мало сведений о нём.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Сведений' is the genitive plural after the quantifier 'мало'. 'О нём' shows the topic. Practises the zero-ending genitive plural."
+      },
+      {
+        "id": "NN-COMMS-SVEDENIE-10",
+        "phrase": "В этих сведениях много ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Сведениях' is the prepositional plural after 'в'. 'Этих' agrees in the plural and 'много' takes the genitive 'ошибок'. A reflective remark."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SHINEL",
+    "label": "Шинель",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for шинель (overcoat).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-01",
+        "phrase": "Эта шинель висит на вешалке.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шинель' is a feminine soft-sign noun in the nominative, the subject of 'висит'. 'Эта' agrees in the feminine, and 'на вешалке' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-02",
+        "phrase": "Он надел старую серую шинель.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шинель' is the accusative direct object of 'надел'; this feminine soft-sign noun looks identical to the nominative. 'Старую серую' are agreeing feminine accusative adjectives."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-03",
+        "phrase": "У солдата не было шинели.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Шинели' is the genitive form required after 'не было'. The frame 'у солдата не было' states the absence of the overcoat."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-04",
+        "phrase": "Я пришил пуговицу к шинели.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К шинели' uses the dative form 'шинели' to show motion toward the coat. 'Пуговицу' is the accusative object of 'пришил'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-05",
+        "phrase": "Он гордился своей новой шинелью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Шинелью' is the instrumental form governed by 'гордился'. 'Своей новой' are agreeing feminine instrumental adjectives expressing pride in the coat."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-06",
+        "phrase": "На шинели был большой воротник.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На шинели' uses the prepositional form 'шинели' after 'на' to locate the collar. 'Воротник' is the nominative subject of 'был'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-07",
+        "phrase": "В шкафу висят две шинели.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две' the noun takes the genitive singular form 'шинели'. 'В шкафу' gives the location of the two coats."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-08",
+        "phrase": "Старые шинели лежат в углу.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Шинели' is the nominative plural subject of 'лежат'. 'Старые' is the agreeing plural adjective, and 'в углу' marks the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-09",
+        "phrase": "Музей купил много старых шинелей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Шинелей' is the genitive plural required by 'много'. 'Старых' agrees in the genitive plural describing the old overcoats."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHINEL-10",
+        "phrase": "Зимой шинель очень тёплая.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Шинель' is the nominative subject, and 'тёплая' is the agreeing feminine short-form-like predicate adjective. 'Зимой' adds the seasonal context."
+      }
+    ]
+  }
+]

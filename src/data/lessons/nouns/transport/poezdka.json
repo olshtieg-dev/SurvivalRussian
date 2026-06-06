@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-POEZDKA",
+    "label": "Поездка",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for поездка (trip).",
+    "missions": [
+      {
+        "id": "NN-TRANS-POEZDKA-01",
+        "phrase": "Это была очень долгая поездка.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Поездка' is the nominative predicate noun after 'была'. 'Долгая' is the agreeing feminine adjective. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-02",
+        "phrase": "Мы планируем поездку на море.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поездку' is the accusative direct object of 'планируем'. 'На море' is the accusative of direction. A natural travel-planning sentence."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-03",
+        "phrase": "От поездки осталось много фотографий.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Поездки' is the genitive required by 'от'. 'Фотографий' is the genitive plural after 'много'. A useful pattern for talking about memories."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-04",
+        "phrase": "Я рад этой поездке в горы.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Поездке' is the dative required by 'рад', meaning glad about. 'Этой' agrees in the feminine dative, and 'в горы' is the accusative of direction. A natural feeling pattern."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-05",
+        "phrase": "Мы довольны нашей поездкой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Поездкой' is the instrumental required by 'довольны', meaning satisfied with. 'Нашей' agrees in the feminine instrumental. A useful satisfaction pattern."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-06",
+        "phrase": "В поездке мы познакомились с туристами.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В поездке' uses the prepositional form 'поездке' after 'в' to mark the setting. 'С туристами' is the instrumental of accompaniment. A natural travel anecdote."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-07",
+        "phrase": "Цель поездки была чисто деловая.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Поездки' is the genitive linking it to 'цель', the purpose of the trip. 'Деловая' is the predicate adjective. A useful pattern for stating purpose."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-08",
+        "phrase": "Я готовлюсь к долгой поездке.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К поездке' uses the dative form 'поездке' after 'к' to express preparation for. 'Долгой' agrees in the feminine dative. A natural preparation pattern."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-09",
+        "phrase": "За год мы совершили четыре поездки.",
+        "fullAnalysis": "Strategic focus: Genitive singular with numeral. After 'четыре' the noun takes the form 'поездки'. 'За год' marks the time span. A useful counting pattern."
+      },
+      {
+        "id": "NN-TRANS-POEZDKA-10",
+        "phrase": "Все мои поездки были интересными.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Поездки' is the nominative plural subject of 'были'. 'Все мои' agree in the plural, and 'интересными' is the instrumental predicate. A clean plural pattern."
+      }
+    ]
+  }
+]

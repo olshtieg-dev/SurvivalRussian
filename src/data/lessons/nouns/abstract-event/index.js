@@ -10,6 +10,7 @@ import khodSet from './khod.json';
 import momentSet from './moment.json';
 import nachaloSet from './nachalo.json';
 import oshibkaSet from './oshibka.json';
+import otlichieSet from './otlichie.json';
 import otnoshenieSet from './otnoshenie.json';
 import otsutstvieSet from './otsutstvie.json';
 import poiskSet from './poisk.json';
@@ -20,6 +21,7 @@ import priyomSet from './priyom.json';
 import problemaSet from './problema.json';
 import protsessSet from './protsess.json';
 import razvitieSet from './razvitie.json';
+import reaktsiyaSet from './reaktsiya.json';
 import reshenieSet from './reshenie.json';
 import rezultatSet from './rezultat.json';
 import rozhdenieSet from './rozhdenie.json';
@@ -28,12 +30,14 @@ import sledSet from './sled.json';
 import sluchaiSet from './sluchai.json';
 import smyslSet from './smysl.json';
 import sobytieSet from './sobytie.json';
+import sozdanieSet from './sozdanie.json';
 import sudbaSet from './sudba.json';
 import sushchestvovanieSet from './sushchestvovanie.json';
 import svyazSet from './svyaz.json';
 import techenieSet from './techenie.json';
 import tselSet from './tsel.json';
 import usilieSet from './usilie.json';
+import vliyanieSet from './vliyanie.json';
 import vozmozhnostSet from './vozmozhnost.json';
 import vstrechaSet from './vstrecha.json';
 import vykhodSet from './vykhod.json';
@@ -53,6 +57,7 @@ const abstractEventNounsData = [
   ...momentSet,
   ...nachaloSet,
   ...oshibkaSet,
+  ...otlichieSet,
   ...otnoshenieSet,
   ...otsutstvieSet,
   ...poiskSet,
@@ -63,6 +68,7 @@ const abstractEventNounsData = [
   ...problemaSet,
   ...protsessSet,
   ...razvitieSet,
+  ...reaktsiyaSet,
   ...reshenieSet,
   ...rezultatSet,
   ...rozhdenieSet,
@@ -71,12 +77,14 @@ const abstractEventNounsData = [
   ...sluchaiSet,
   ...smyslSet,
   ...sobytieSet,
+  ...sozdanieSet,
   ...sudbaSet,
   ...sushchestvovanieSet,
   ...svyazSet,
   ...techenieSet,
   ...tselSet,
   ...usilieSet,
+  ...vliyanieSet,
   ...vozmozhnostSet,
   ...vstrechaSet,
   ...vykhodSet,

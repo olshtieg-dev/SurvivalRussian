@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-BRYUKI",
+    "label": "Брюки",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for брюки (trousers).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-01",
+        "phrase": "Эти брюки очень удобные.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Брюки' is a plural-only noun standing in the nominative as the subject. 'Эти' and 'удобные' are the agreeing plural forms, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-02",
+        "phrase": "Я купил новые чёрные брюки.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Брюки' is the accusative direct object of 'купил', identical to the nominative for this inanimate plural noun. 'Новые' and 'чёрные' agree in the plural accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-03",
+        "phrase": "У меня нет чистых брюк.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After the negation 'нет' the noun takes the genitive plural 'брюк'. 'Чистых' agrees in the genitive plural. A natural complaint about laundry."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-04",
+        "phrase": "На брюках большое пятно.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На брюках' uses the prepositional plural 'брюках' after 'на' to show where the stain is. 'Большое пятно' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-05",
+        "phrase": "Он пришёл без брюк.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. The preposition 'без' governs the genitive plural 'брюк'. A short, vivid construction for describing what someone lacks."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-06",
+        "phrase": "К этим брюкам нужен ремень.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К этим брюкам' uses the dative plural 'брюкам' after 'к'. 'Этим' agrees in the dative plural, and 'нужен ремень' states what is required."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-07",
+        "phrase": "Под брюками я ношу носки.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Под брюками' uses the instrumental plural 'брюками' after 'под' to express position underneath. A clear model for spatial instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-08",
+        "phrase": "Брюки лежат на стуле.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Брюки' is the nominative plural subject of 'лежат', and 'на стуле' gives the prepositional location. A simple everyday observation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-09",
+        "phrase": "Я довольна своими брюками.",
+        "fullAnalysis": "Strategic focus: Instrumental of satisfaction. 'Брюками' is the instrumental plural required by 'довольна'. 'Своими' agrees in the instrumental plural. A useful adjective-government pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BRYUKI-10",
+        "phrase": "Сколько стоят эти брюки?",
+        "fullAnalysis": "Strategic focus: Nominative in a question. 'Брюки' is the nominative plural subject of 'стоят'. 'Сколько' asks the price, and 'эти' agrees in the plural. A practical shopping question."
+      }
+    ]
+  }
+]

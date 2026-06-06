@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-TALANT",
+    "label": "Талант",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for талант (talent).",
+    "missions": [
+      {
+        "id": "NN-MIND-TALANT-01",
+        "phrase": "У неё настоящий талант.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Талант' is the masculine nominative subject in a possession frame. 'Настоящий' agrees in gender, and 'у неё' shows whose talent it is."
+      },
+      {
+        "id": "NN-MIND-TALANT-02",
+        "phrase": "Учитель заметил его талант.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Талант' is the accusative direct object of 'заметил'; inanimate masculine accusative equals nominative. 'Его' marks possession."
+      },
+      {
+        "id": "NN-MIND-TALANT-03",
+        "phrase": "У него нет музыкального таланта.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Таланта' is genitive after 'нет'. 'Музыкального' agrees in the masculine genitive, and 'у него' frames the possession."
+      },
+      {
+        "id": "NN-MIND-TALANT-04",
+        "phrase": "Все восхищаются её талантом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Талантом' is instrumental, governed by 'восхищаются', which always takes that case. 'Её' marks whose talent it is."
+      },
+      {
+        "id": "NN-MIND-TALANT-05",
+        "phrase": "В этом мальчике скрыт талант.",
+        "fullAnalysis": "Strategic focus: Nominative subject with prepositional location. 'Талант' is the nominative subject of 'скрыт'. 'В этом мальчике' is the prepositional location."
+      },
+      {
+        "id": "NN-MIND-TALANT-06",
+        "phrase": "К таланту нужно относиться бережно.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Таланту' is dative after 'к', marking the object of the attitude. 'Относиться' is the infinitive in the impersonal clause."
+      },
+      {
+        "id": "NN-MIND-TALANT-07",
+        "phrase": "В классе много юных талантов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Талантов' is genitive plural after 'много'. 'Юных' agrees, and 'в классе' is the prepositional location."
+      },
+      {
+        "id": "NN-MIND-TALANT-08",
+        "phrase": "Конкурс открывает новые таланты.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Таланты' is the accusative plural object of 'открывает'; here it refers to abilities, so accusative equals nominative. 'Новые' agrees."
+      },
+      {
+        "id": "NN-MIND-TALANT-09",
+        "phrase": "Без таланта трудно стать артистом.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Таланта' is genitive after 'без', expressing lack. 'Стать артистом' uses the instrumental predicate 'артистом'."
+      },
+      {
+        "id": "NN-MIND-TALANT-10",
+        "phrase": "Талант требует упорной работы.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Талант' is the nominative subject of 'требует'. 'Упорной работы' is the genitive object that 'требует' governs."
+      }
+    ]
+  }
+]

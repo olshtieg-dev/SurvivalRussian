@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-ZABOTA",
+    "label": "Забота",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for забота (care).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-ZABOTA-01",
+        "phrase": "Материнская забота очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Забота' is a feminine noun in the nominative as the subject. 'Материнская' is the agreeing feminine adjective, and 'важна' is the short-form predicate. A natural way to praise caring."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-02",
+        "phrase": "Это была настоящая забота о людях.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Забота' is nominative as the subject. 'Настоящая' is the agreeing feminine adjective, and 'о людях' is prepositional, naming the object of care. Useful for describing genuine concern."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-03",
+        "phrase": "Дети чувствуют твою заботу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Заботу' is the accusative direct object of 'чувствуют'; feminine nouns in -а take -у here. 'Твою' is the agreeing feminine accusative possessive. A warm everyday sentence."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-04",
+        "phrase": "Спасибо за вашу заботу!",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Заботу' is the accusative form after 'за', the standard frame for thanks. 'Вашу' is the agreeing feminine accusative possessive. A highly reusable polite phrase."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-05",
+        "phrase": "Ему не хватает родительской заботы.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Заботы' is the genitive form required by 'не хватает'. 'Родительской' is the agreeing feminine genitive adjective, and 'ему' is the dative experiencer. Good for expressing lack."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-06",
+        "phrase": "Старик нуждается в заботе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Заботе' is the prepositional form after 'в', the preposition governed by 'нуждаться'. The sentence shows someone in need of care. A useful fixed pattern."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-07",
+        "phrase": "Бабушка окружила нас заботой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Заботой' is the instrumental form, the means by which grandma surrounded us. 'Окружить кого-то чем-то' is a common idiom. A vivid expression of being cared for."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-08",
+        "phrase": "Он относится к работе с заботой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Заботой' is the instrumental form after 'с', describing how he treats his work. 'К работе' is dative after 'относиться'. A natural way to express attentiveness."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-09",
+        "phrase": "Мать дала ребёнку много заботы.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Заботы' is the genitive form required by the quantifier 'много'. 'Ребёнку' is the dative recipient, and 'дала' agrees in feminine gender. A clear pattern for amounts."
+      },
+      {
+        "id": "NN-EMOTION-ZABOTA-10",
+        "phrase": "У неё всегда домашние заботы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Заботы' is the nominative plural meaning everyday concerns or chores. 'Домашние' is the agreeing plural adjective, and 'у неё' marks the possessor. A useful plural sense."
+      }
+    ]
+  }
+]

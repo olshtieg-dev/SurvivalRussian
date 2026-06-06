@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-TARELKA",
+    "label": "Тарелка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for тарелка (plate).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-01",
+        "phrase": "На столе стоит чистая тарелка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тарелка' stays in the nominative case as the subject of 'стоит'. 'Чистая' is the agreeing feminine adjective, and 'на столе' locates it in the prepositional. A simple existence statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-02",
+        "phrase": "Поставь тарелку на стол.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тарелку' is the accusative direct object of the imperative 'поставь'. 'На стол' shows direction with accusative, a natural setting-the-table command."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-03",
+        "phrase": "У меня нет чистой тарелки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Тарелки' takes the genitive after 'нет' to signal that none is present. 'Чистой' agrees in the feminine genitive. The standard negation-of-existence frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-04",
+        "phrase": "Дай ложку к этой тарелке.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Тарелке' takes the dative after the preposition 'к', showing the spoon goes toward the plate. 'Этой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-05",
+        "phrase": "Я ем суп этой тарелкой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Тарелкой' is the instrumental, presenting the plate as the means. 'Этой' agrees in the feminine instrumental, a clear model for the -ой ending."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-06",
+        "phrase": "В тарелке ещё много каши.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Тарелке' takes the prepositional after 'в', describing what is inside the plate. 'Много каши' adds a genitive quantity phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-07",
+        "phrase": "На полке стоят красивые тарелки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Тарелки' is the nominative plural subject of 'стоят'. 'Красивые' is the agreeing plural adjective, and 'на полке' gives the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-08",
+        "phrase": "Помой эти грязные тарелки.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Тарелки' is the accusative plural object of the imperative 'помой', identical to nominative for this inanimate noun. 'Эти грязные' agree in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-09",
+        "phrase": "В шкафу нет чистых тарелок.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Тарелок' shows the zero-ending genitive plural after 'нет', with a fleeting vowel inserted between 'к' and 'л'. 'Чистых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TARELKA-10",
+        "phrase": "Маша моет тарелку горячей водой.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental means. 'Тарелку' is the accusative direct object of 'моет', while 'горячей водой' is the instrumental of means. A practical two-case kitchen sentence."
+      }
+    ]
+  }
+]

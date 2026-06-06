@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-GOLOD",
+    "label": "Голод",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for голод (hunger).",
+    "missions": [
+      {
+        "id": "NN-FOOD-GOLOD-01",
+        "phrase": "Меня мучает сильный голод.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Голод' is the masculine nominative subject of 'мучает'. 'Сильный' agrees in the masculine, and 'меня' is the accusative object being tormented."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-02",
+        "phrase": "Я чувствую голод после работы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Голод' is the inanimate masculine accusative object of 'чувствую', identical to the nominative. 'После работы' gives a genitive time frame."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-03",
+        "phrase": "От голода у него кружится голова.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'От голода' uses the genitive 'голода' after 'от' to express the cause. 'Голова' is the nominative subject of 'кружится'."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-04",
+        "phrase": "Дети страдают от голода.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От голода' uses the genitive 'голода' after 'от' with the verb 'страдают'. 'Дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-05",
+        "phrase": "Голод заставил его искать еду.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Голод' is the nominative subject of 'заставил'. 'Его' is the accusative object, and the infinitive 'искать' shows the resulting action."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-06",
+        "phrase": "Он привык к голоду.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К голоду' uses the dative 'голоду' after 'к' with the verb 'привык'. A natural pattern for getting used to something hard."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-07",
+        "phrase": "С голодом трудно работать.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'С голодом' uses the instrumental 'голодом' after 'с' to express the accompanying state. 'Трудно работать' states the difficulty."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-08",
+        "phrase": "О голоде в войну много пишут.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О голоде' uses the prepositional 'голоде' after 'о' to express the topic. 'В войну' adds a time frame. A common historical theme."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-09",
+        "phrase": "В истории было много голодов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Много' governs the genitive plural 'голодов'. 'В истории' gives the prepositional setting. A reference to recurring famines."
+      },
+      {
+        "id": "NN-FOOD-GOLOD-10",
+        "phrase": "Голод не тётка.",
+        "fullAnalysis": "Strategic focus: Nominative in a proverb. 'Голод' is the nominative subject in this fixed saying meaning hunger is no joke. 'Тётка' is the nominative predicate noun negated by 'не'."
+      }
+    ]
+  }
+]

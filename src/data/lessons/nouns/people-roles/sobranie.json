@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SOBRANIE",
+    "label": "Собрание",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for собрание (assembly).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SOBRANIE-01",
+        "phrase": "Сегодня важное собрание сотрудников.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Собрание' is a neuter noun in the nominative as the subject. 'Важное' is the agreeing neuter adjective, and 'сотрудников' is the genitive plural naming the participants. A common workplace announcement."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-02",
+        "phrase": "Собрание началось ровно в девять.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Собрание' is nominative as the subject of 'началось', which agrees in neuter gender. 'Ровно в девять' gives the time. A clean sentence for scheduling."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-03",
+        "phrase": "Директор открыл собрание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Собрание' is the accusative direct object of 'открыл'; neuter nouns match the nominative here. 'Директор' is the nominative subject. A standard meeting-opening phrase."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-04",
+        "phrase": "Мы пришли на собрание вовремя.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Собрание' is the accusative form after 'на', expressing motion toward an event. 'Вовремя' adds punctuality. A useful arrival pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-05",
+        "phrase": "До собрания осталось десять минут.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Собрания' is the genitive form after 'до', expressing time before an event. 'Десять минут' uses the genitive plural after the numeral. A practical countdown phrase."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-06",
+        "phrase": "Он готовится к важному собранию.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Собранию' is the dative form after 'к', the preposition required by 'готовиться'. 'Важному' is the agreeing neuter dative adjective. A useful preparation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-07",
+        "phrase": "На собрании обсудили новый проект.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Собрании' is the prepositional form after 'на', stating where the discussion happened. 'Новый проект' is the accusative object. A common meeting report."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-08",
+        "phrase": "Перед собранием все волновались.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Собранием' is the instrumental form after 'перед', expressing time just before. 'Все волновались' completes the scene. A natural way to set the mood."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-09",
+        "phrase": "Между собраниями был короткий перерыв.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after preposition. 'Собраниями' is the instrumental plural after 'между', expressing the interval. 'Короткий перерыв' is the nominative subject. A clean plural example."
+      },
+      {
+        "id": "NN-PEOPLE-SOBRANIE-10",
+        "phrase": "Эти собрания всегда длятся долго.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Собрания' is the nominative plural as the subject of 'длятся'. 'Эти' is the agreeing plural demonstrative, and 'долго' adds duration. A useful generalization."
+      }
+    ]
+  }
+]

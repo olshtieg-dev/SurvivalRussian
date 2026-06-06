@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-MOGILA",
+    "label": "Могила",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for могила (grave).",
+    "missions": [
+      {
+        "id": "NN-MOTION-MOGILA-01",
+        "phrase": "Это старая заброшенная могила.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Могила' stays in the nominative as the subject. 'Старая' and 'заброшенная' are agreeing feminine adjectives. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-02",
+        "phrase": "Мы нашли могилу нашего деда.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Могилу' is the accusative direct object of 'нашли'. 'Нашего деда' is the genitive showing whose grave. A natural sentence about visiting relatives' graves."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-03",
+        "phrase": "На могиле лежат свежие цветы.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На могиле' uses the prepositional form 'могиле' after 'на' to mark location. 'Цветы' is the nominative plural subject. A common cemetery scene."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-04",
+        "phrase": "Мы подошли к могиле солдата.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К могиле' uses the dative form 'могиле' after 'к' to express approach. 'Солдата' is the genitive showing whose grave. A natural motion phrase."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-05",
+        "phrase": "Около могилы растёт высокое дерево.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Могилы' is the genitive required by 'около'. 'Дерево' is the nominative subject of 'растёт'. A good pattern for describing surroundings."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-06",
+        "phrase": "За могилой ухаживает вся семья.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Могилой' is the instrumental required by 'ухаживает за', meaning to look after. 'Вся семья' is the nominative subject. A useful caretaking expression."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-07",
+        "phrase": "Возле могилы стоит каменный памятник.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Могилы' is the genitive required by 'возле'. 'Памятник' is the nominative subject, described by 'каменный'. A natural location pattern."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-08",
+        "phrase": "Мы долго искали эту могилу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Могилу' is the accusative direct object of 'искали'. 'Эту' agrees in the feminine accusative, and 'долго' adds duration. A good searching pattern."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-09",
+        "phrase": "На кладбище много старых могил.",
+        "fullAnalysis": "Strategic focus: Genitive plural with quantity. After 'много' the noun takes the genitive plural 'могил'. 'Старых' agrees in the genitive plural, and 'на кладбище' is the location. A useful quantity pattern."
+      },
+      {
+        "id": "NN-MOTION-MOGILA-10",
+        "phrase": "Здесь похоронены солдаты в братской могиле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В могиле' uses the prepositional form 'могиле' after 'в'. 'Братской' agrees in the feminine prepositional, and 'солдаты' is the nominative subject. A historical context phrase."
+      }
+    ]
+  }
+]

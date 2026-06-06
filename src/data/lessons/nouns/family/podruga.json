@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-PODRUGA",
+    "label": "Подруга",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for подруга (girlfriend, female friend).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-PODRUGA-01",
+        "phrase": "Моя лучшая подруга живёт рядом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Подруга' stays in the nominative as the subject of 'живёт'. 'Моя' and 'лучшая' are feminine adjectives agreeing with it."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-02",
+        "phrase": "Я давно знаю эту подругу.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Подругу' is the accusative direct object of 'знаю'. Because it is an animate feminine noun, the accusative simply takes the -у ending."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-03",
+        "phrase": "У моей подруги новая машина.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Подруги' is genitive in the 'у' frame, showing whose car it is. The feminine genitive singular ending is -и after the soft stem."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-04",
+        "phrase": "Я подарила подруге красивый шарф.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Подруге' is the dative recipient of the gift, while 'шарф' is the accusative object of 'подарила'. A natural giving pattern."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-05",
+        "phrase": "Я иду в кино с подругой.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С подругой' uses the instrumental form 'подругой' after 'с' to mean together with her. The feminine instrumental ending is -ой."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-06",
+        "phrase": "Я часто думаю о подруге.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О подруге' uses the prepositional form 'подруге' after 'о' to express thinking about someone. The feminine ending shifts to -е."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-07",
+        "phrase": "Мои подруги приедут в гости.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Подруги' is the nominative plural, the subject of 'приедут'. 'Мои' is the agreeing plural possessive."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-08",
+        "phrase": "У меня нет близкой подруги.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Подруги' is genitive after 'нет', expressing the lack of a close friend. 'Близкой' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-09",
+        "phrase": "Я позвоню подруге сегодня вечером.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Подруге' is dative, the person being called, since 'позвонить' governs the dative. The feminine dative ending is -е."
+      },
+      {
+        "id": "NN-FAMILY-PODRUGA-10",
+        "phrase": "У меня много хороших подруг.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Подруг' is the genitive plural required by 'много'. The feminine plural drops the vowel ending entirely."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-BAZA",
+    "label": "База",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for база (base).",
+    "missions": [
+      {
+        "id": "NN-MOTION-BAZA-01",
+        "phrase": "Наша база находится далеко.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'База' stays in the nominative as the subject of 'находится'. 'Наша' is the agreeing feminine possessive, and 'далеко' gives the location."
+      },
+      {
+        "id": "NN-MOTION-BAZA-02",
+        "phrase": "Мы строим новую базу здесь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Базу' is the accusative direct object of 'строим', with the ending shifting from -а to -у. 'Новую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-BAZA-03",
+        "phrase": "Около базы стоят машины.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Базы' is the genitive required after 'около' to mean near the base. 'Машины' is the nominative plural subject of 'стоят'."
+      },
+      {
+        "id": "NN-MOTION-BAZA-04",
+        "phrase": "Солдаты вернулись на базу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Базу' is accusative after 'на' showing motion toward the base. 'Солдаты' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-BAZA-05",
+        "phrase": "Мы живём на военной базе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На базе' uses the prepositional form 'базе' after 'на' to express location. 'Военной' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-MOTION-BAZA-06",
+        "phrase": "Командир управляет всей базой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Базой' is the instrumental case required by the verb 'управляет', which governs the instrumental. 'Всей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-MOTION-BAZA-07",
+        "phrase": "Он идёт к базе пешком.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Базе' is the dative required after 'к' to show movement toward the base. 'Пешком' specifies the manner of travel."
+      },
+      {
+        "id": "NN-MOTION-BAZA-08",
+        "phrase": "В горах построили новые базы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Базы' is the accusative plural object of 'построили'. 'Новые' agrees in the plural, and 'в горах' gives the location."
+      },
+      {
+        "id": "NN-MOTION-BAZA-09",
+        "phrase": "Расскажи мне об этой базе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О базе' uses the prepositional form 'базе' after 'об' to talk about the base. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-MOTION-BAZA-10",
+        "phrase": "Где находится ближайшая база?",
+        "fullAnalysis": "Strategic focus: Nominative question. 'База' stays in the nominative as the subject of 'находится'. 'Ближайшая' is the agreeing feminine superlative adjective in this question with 'где'."
+      }
+    ]
+  }
+]

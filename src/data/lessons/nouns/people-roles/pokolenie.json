@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-POKOLENIE",
+    "label": "Поколение",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for поколение (generation).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-POKOLENIE-01",
+        "phrase": "Новое поколение мыслит иначе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поколение' is a neuter noun in the nominative case, acting as the subject of 'мыслит'. 'Новое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-02",
+        "phrase": "Мы должны уважать старшее поколение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поколение' is the direct object of 'уважать'. For neuter nouns the accusative equals the nominative, and 'старшее' agrees in neuter."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-03",
+        "phrase": "От старшего поколения многое зависит.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Поколения' is the genitive form after 'от'. The neuter ending -е shifts to -я, and 'старшего' agrees in genitive."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-04",
+        "phrase": "Будущее зависит от молодого поколения.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Поколения' is the genitive form governed by 'от', expressing dependence. 'Молодого' agrees in the neuter genitive singular."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-05",
+        "phrase": "Мы благодарны прошлому поколению.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Поколению' is the dative form governed by 'благодарны'. The neuter dative singular ends in -ю, and 'прошлому' agrees."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-06",
+        "phrase": "Он гордится своим поколением.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Поколением' is the instrumental form governed by 'гордиться'. The neuter instrumental singular ends in -ем after a soft stem."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-07",
+        "phrase": "В нашем поколении много талантливых людей.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Поколении' is the prepositional form after 'в'. Neuter nouns in -ение take -ии in the prepositional singular."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-08",
+        "phrase": "Молодое поколение любит новые технологии.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Поколение' is nominative as the subject of 'любит'. 'Молодое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-09",
+        "phrase": "История объединяет разные поколения людей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Поколения' is the plural accusative direct object of 'объединяет'. For inanimate neuter nouns the plural accusative equals the nominative plural in -я."
+      },
+      {
+        "id": "NN-PEOPLE-POKOLENIE-10",
+        "phrase": "Целое поколение выросло на этих книгах.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Поколение' is nominative as the subject of 'выросло'. 'Целое' agrees in neuter, and the verb is in the neuter past tense."
+      }
+    ]
+  }
+]

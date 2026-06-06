@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-TOPOR",
+    "label": "Топор",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for топор (axe).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-01",
+        "phrase": "Острый топор лежит на земле.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Топор' is masculine and stays in the nominative as the subject of 'лежит'. 'Острый' is the agreeing masculine adjective, and 'на земле' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-02",
+        "phrase": "Возьми топор и наруби дров.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Топор' is an inanimate masculine noun, so its accusative equals the nominative as the object of 'возьми'. The imperative makes this a practical everyday command."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-03",
+        "phrase": "У меня нет острого топора.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Топора' is the genitive after 'нет', expressing that something is lacking. 'Острого' is the agreeing masculine genitive adjective. A core negation pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-04",
+        "phrase": "Он рубит дрова топором.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Топором' is the instrumental case naming the tool used to chop. 'Рубит' is the verb and 'дрова' the accusative object. Classic instrument usage."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-05",
+        "phrase": "Дай ножницы старому топору отдых.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Топору' is the dative form, here the thing given a rest. 'Старому' is the agreeing masculine dative adjective. A playful way to practise the dative ending."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-06",
+        "phrase": "На этом топоре есть зазубрина.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Топоре' is the prepositional form after 'на', showing where the nick is. 'Этом' agrees in the masculine prepositional. Useful for describing objects."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-07",
+        "phrase": "В сарае висят два топора.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'топора'. 'В сарае' is the prepositional location. Counting two of something is a high-frequency pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-08",
+        "phrase": "Все топоры висят на стене.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Топоры' is the nominative plural as the subject of 'висят'. 'Все' quantifies them, and 'на стене' gives the location. Good plural practice."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-09",
+        "phrase": "Мы купили несколько новых топоров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. After 'несколько' the noun takes the genitive plural 'топоров'. 'Новых' is the agreeing genitive plural adjective. A useful shopping construction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOPOR-10",
+        "phrase": "Этот топор очень тяжёлый.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Топор' stays nominative as the subject. 'Этот' points at it and 'тяжёлый' is the agreeing masculine predicate adjective, reinforced by 'очень'. A clean descriptive card."
+      }
+    ]
+  }
+]

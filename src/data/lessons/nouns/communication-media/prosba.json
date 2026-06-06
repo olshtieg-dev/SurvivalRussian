@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-PROSBA",
+    "label": "Просьба",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for просьба (request).",
+    "missions": [
+      {
+        "id": "NN-COMMS-PROSBA-01",
+        "phrase": "У меня есть небольшая просьба.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Просьба' is a feminine noun in the nominative as the subject of 'есть'. 'Небольшая' is the agreeing feminine adjective, and 'у меня' marks the speaker. A polite conversation opener."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-02",
+        "phrase": "Это была странная просьба.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Просьба' is nominative as the subject. 'Странная' is the agreeing feminine adjective, and 'была' agrees in feminine gender. A clean descriptive past-tense sentence."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-03",
+        "phrase": "Я выполнил его просьбу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Просьбу' is the accusative direct object of 'выполнил'; feminine nouns in -а take -у here. 'Его' is the possessive modifier. A common way to say you fulfilled a request."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-04",
+        "phrase": "Он обратился ко мне с просьбой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Просьбой' is the instrumental form after 'с', the standard frame for 'обратиться с просьбой'. 'Ко мне' is dative. A very common request collocation."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-05",
+        "phrase": "Она отказала в моей просьбе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Просьбе' is the prepositional form after 'в', governed by 'отказать в чём-то'. 'Моей' is the agreeing feminine prepositional possessive. A useful pattern for refusal."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-06",
+        "phrase": "Я благодарен ему за просьбу.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Просьбу' is the accusative form after 'за', the frame used with 'благодарен'. 'Ему' is the dative recipient of thanks. A polite phrase of gratitude."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-07",
+        "phrase": "Из-за этой просьбы он опоздал.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Просьбы' is the genitive form after 'из-за', expressing cause. 'Этой' is the agreeing feminine genitive demonstrative. A practical reason-giving pattern."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-08",
+        "phrase": "Он не услышал моей просьбы.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Просьбы' is the genitive form after the negated verb 'не услышал'. 'Моей' is the agreeing feminine genitive possessive. A common negation pattern."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-09",
+        "phrase": "Учитель отнёсся к просьбе внимательно.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Просьбе' is the dative form after 'к', the preposition governed by 'отнестись'. 'Внимательно' describes the attitude. A nuanced reaction pattern."
+      },
+      {
+        "id": "NN-COMMS-PROSBA-10",
+        "phrase": "Мы получили много просьб от клиентов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Просьб' is the genitive plural required by 'много'; note the fleeting vowel disappears, leaving the bare stem. 'От клиентов' is genitive. A clear plural example."
+      }
+    ]
+  }
+]

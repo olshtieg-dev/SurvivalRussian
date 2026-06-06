@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-KABINA",
+    "label": "Кабина",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for кабина (cabin).",
+    "missions": [
+      {
+        "id": "NN-TRANS-KABINA-01",
+        "phrase": "Кабина грузовика очень просторная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кабина' is the nominative subject. 'Просторная' is the agreeing feminine adjective, and 'грузовика' is a genitive modifier. A descriptive statement about a truck cab."
+      },
+      {
+        "id": "NN-TRANS-KABINA-02",
+        "phrase": "Водитель открыл кабину ключом.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental means. 'Кабину' is the accusative direct object of 'открыл', while 'ключом' is the instrumental of means. A clear two-case sentence."
+      },
+      {
+        "id": "NN-TRANS-KABINA-03",
+        "phrase": "Из кабины видно всю дорогу.",
+        "fullAnalysis": "Strategic focus: Genitive with 'из'. 'Кабины' takes the genitive after the preposition 'из', marking the place seen from. 'Всю дорогу' is the accusative of what is visible."
+      },
+      {
+        "id": "NN-TRANS-KABINA-04",
+        "phrase": "Он подошёл к кабине пилота.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Кабине' takes the dative after 'к', showing approach toward the cabin. 'Пилота' is a genitive modifier. A natural movement phrase."
+      },
+      {
+        "id": "NN-TRANS-KABINA-05",
+        "phrase": "Над кабиной висит зеркало.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Кабиной' takes the instrumental after 'над', meaning above the cabin. 'Висит зеркало' tells what is located there. A spatial relationship."
+      },
+      {
+        "id": "NN-TRANS-KABINA-06",
+        "phrase": "В кабине пахнет свежим кофе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Кабине' takes the prepositional after 'в', marking where the smell is. 'Свежим кофе' is the instrumental naming the source of the smell."
+      },
+      {
+        "id": "NN-TRANS-KABINA-07",
+        "phrase": "Новые кабины стоят дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кабины' is the nominative plural subject of 'стоят'. 'Новые' is the agreeing plural adjective, and 'дорого' gives the predicate. A pricing statement."
+      },
+      {
+        "id": "NN-TRANS-KABINA-08",
+        "phrase": "Завод выпускает удобные кабины.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Кабины' is the accusative plural object of 'выпускает', identical to nominative plural for this inanimate noun. 'Удобные' agrees in the plural."
+      },
+      {
+        "id": "NN-TRANS-KABINA-09",
+        "phrase": "У нас нет свободной кабины.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Кабины' takes the genitive after 'нет' to signal that none is available. 'Свободной' agrees in the feminine genitive. A standard negation frame."
+      },
+      {
+        "id": "NN-TRANS-KABINA-10",
+        "phrase": "Пилот сидит в кабине самолёта.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Кабине' takes the prepositional after 'в', marking where the pilot sits. 'Самолёта' is a genitive modifier specifying which cabin."
+      }
+    ]
+  }
+]

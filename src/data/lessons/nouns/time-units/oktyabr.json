@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-OKTYABR",
+    "label": "Октябрь",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for октябрь (October).",
+    "missions": [
+      {
+        "id": "NN-TIME-OKTYABR-01",
+        "phrase": "Октябрь в этом году тёплый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Октябрь' stays in the nominative as the subject. This is a soft masculine noun, and 'тёплый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-02",
+        "phrase": "Я очень люблю октябрь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Октябрь' is the accusative direct object of 'люблю'; as an inanimate masculine noun it matches the nominative form. 'Очень' intensifies the feeling."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-03",
+        "phrase": "В начале октября идут дожди.",
+        "fullAnalysis": "Strategic focus: Genitive of time. 'Октября' is the genitive after 'в начале' to mean at the start of October. 'Дожди' is the nominative plural subject of 'идут'."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-04",
+        "phrase": "Мы встретимся в октябре.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В октябре' uses the prepositional form 'октябре' after 'в' to express the month when something happens. A core time expression."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-05",
+        "phrase": "Этот праздник бывает перед октябрём.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Октябрём' is the instrumental required after 'перед' to mean before October. 'Праздник' is the nominative subject of 'бывает'."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-06",
+        "phrase": "Мы готовимся к октябрю заранее.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Октябрю' is the dative required after 'к' to express preparing for October. 'Заранее' adds that it is done in advance."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-07",
+        "phrase": "Осень включает сентябрь и октябрь.",
+        "fullAnalysis": "Strategic focus: Accusative coordination. 'Октябрь' is the accusative object joined by 'и' to 'сентябрь'. Both are inanimate masculine nouns matching the nominative form."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-08",
+        "phrase": "Мы помним холодные октябри.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Октябри' is the accusative plural object of 'помним'. 'Холодные' agrees in the plural, recalling several past Octobers."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-09",
+        "phrase": "Расскажи мне об октябре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об октябре' uses the prepositional form 'октябре' after 'об' to talk about the month. A clean model for the soft masculine prepositional ending."
+      },
+      {
+        "id": "NN-TIME-OKTYABR-10",
+        "phrase": "Какой сейчас прекрасный октябрь!",
+        "fullAnalysis": "Strategic focus: Nominative exclamation. 'Октябрь' stays in the nominative in this exclamation. 'Какой' and 'прекрасный' both agree in the masculine, expressing delight."
+      }
+    ]
+  }
+]

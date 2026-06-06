@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-ZATYLOK",
+    "label": "Затылок",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for затылок (back of head).",
+    "missions": [
+      {
+        "id": "NN-BODY-ZATYLOK-01",
+        "phrase": "У меня болит затылок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Затылок' is a masculine noun in the nominative, the subject of 'болит'. The frame 'у меня' shows whose back of the head aches."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-02",
+        "phrase": "Он почесал затылок и задумался.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Затылок' is the accusative direct object of 'почесал'; as an inanimate masculine noun it matches the nominative form. A classic gesture of puzzlement."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-03",
+        "phrase": "У него нет волос на затылке.",
+        "fullAnalysis": "Strategic focus: Prepositional location with genitive of negation. 'На затылке' is the prepositional form showing where the hair is, while 'нет волос' uses the genitive of absence."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-04",
+        "phrase": "Шапка сползла на затылок.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На затылок' uses the accusative after 'на' to show motion onto the back of the head. 'Шапка' is the nominative subject that slid back."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-05",
+        "phrase": "Ветер дул мне в затылок.",
+        "fullAnalysis": "Strategic focus: Accusative with 'в'. 'В затылок' uses the accusative to show the wind hitting the back of the head. 'Мне' is the dative of the affected person."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-06",
+        "phrase": "Она убрала волосы с затылка.",
+        "fullAnalysis": "Strategic focus: Genitive after 'с'. 'С затылка' uses the genitive form 'затылка' to show movement away from the back of the head. 'Волосы' is the accusative object of 'убрала'."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-07",
+        "phrase": "Врач прижал лёд к затылку.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К затылку' uses the dative form to show pressing the ice toward the back of the head. 'Лёд' is the accusative object of 'прижал'."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-08",
+        "phrase": "Он ударился затылком о стену.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Затылком' is the instrumental form showing the body part with which he hit the wall. 'О стену' marks the surface struck."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-09",
+        "phrase": "У детей чистые затылки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Затылки' is the nominative plural subject. 'Чистые' is the agreeing plural adjective, and 'у детей' shows whose backs of the head are clean."
+      },
+      {
+        "id": "NN-BODY-ZATYLOK-10",
+        "phrase": "Затылок защищает заднюю часть головы.",
+        "fullAnalysis": "Strategic focus: Nominative agent. 'Затылок' is the nominative subject performing the action 'защищает'. 'Заднюю часть' is the accusative object naming what it protects."
+      }
+    ]
+  }
+]

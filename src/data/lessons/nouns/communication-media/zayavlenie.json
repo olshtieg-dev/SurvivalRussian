@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-ZAYAVLENIE",
+    "label": "Заявление",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for заявление (statement).",
+    "missions": [
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-01",
+        "phrase": "Это было важное заявление.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Заявление' is a neuter noun in the nominative. 'Важное' is the agreeing neuter adjective and 'было' is the neuter past tense. A basic descriptive model."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-02",
+        "phrase": "Я написал заявление об отпуске.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Заявление' is the accusative direct object of 'написал'; neuter accusative matches the nominative. 'Об отпуске' specifies the topic. A common bureaucratic phrase."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-03",
+        "phrase": "В заявлении была серьёзная ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Заявлении' is prepositional after 'в', the document within which something is found. 'Серьёзная ошибка' is the nominative subject. A practical office phrase."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-04",
+        "phrase": "Текст заявления слишком длинный.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Заявления' is the genitive modifying 'текст', the text of what. 'Длинный' is the agreeing masculine adjective for 'текст'. Common in document review."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-05",
+        "phrase": "Мы добавили подпись к заявлению.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Заявлению' is dative after 'к', expressing what was added to. 'Подпись' is the accusative object. A formal paperwork pattern."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-06",
+        "phrase": "Министр выступил с громким заявлением.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Заявлением' is instrumental after 'с', the manner of speaking out. 'Громким' agrees in the neuter instrumental. Common in news language."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-07",
+        "phrase": "Журналисты спорят об этом заявлении.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'Заявлении' is prepositional after 'об', the topic of the dispute. 'Этом' agrees in the neuter prepositional. Useful for reporting reactions."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-08",
+        "phrase": "Секретарь принимает все заявления здесь.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Заявления' is the accusative plural object of 'принимает', the documents received; neuter plural accusative equals the nominative. 'Все' is the agreeing quantifier."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-09",
+        "phrase": "На стол легли десятки заявлений.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Заявлений' is the genitive plural after 'десятки', expressing a large count. Note the zero-ending plural typical of neuter '-ие' nouns. A workload image."
+      },
+      {
+        "id": "NN-COMMS-ZAYAVLENIE-10",
+        "phrase": "В новых заявлениях много ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Заявлениях' is the prepositional plural after 'в', the documents within which errors appear. 'Новых' agrees in the prepositional plural. A review observation."
+      }
+    ]
+  }
+]

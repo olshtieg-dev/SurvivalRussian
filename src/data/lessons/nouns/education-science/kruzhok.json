@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-KRUZHOK",
+    "label": "Кружок",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for кружок (club).",
+    "missions": [
+      {
+        "id": "NN-EDU-KRUZHOK-01",
+        "phrase": "В школе открылся новый кружок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кружок' is nominative as the subject of 'открылся'. 'Новый' agrees, and 'в школе' is prepositional for location."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-02",
+        "phrase": "Дети любят шахматный кружок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кружок' is inanimate masculine accusative, identical to the nominative, the object of 'любят'. 'Шахматный' agrees."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-03",
+        "phrase": "В этом году нет нашего кружка.",
+        "fullAnalysis": "Strategic focus: Genitive with fleeting vowel. 'Кружка' is genitive after 'нет', dropping the о of кружок. 'Нашего' agrees in the genitive."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-04",
+        "phrase": "Она записалась в танцевальный кружок.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Кружок' is accusative after 'в', the group she joined. 'Танцевальный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-05",
+        "phrase": "Учитель руководит школьным кружком.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Кружком' is instrumental after 'руководит', the thing he leads, with the fleeting vowel dropped. 'Школьным' agrees."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-06",
+        "phrase": "В нашем кружке двенадцать учеников.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Кружке' is prepositional after 'в', the group within which the pupils are. 'Двенадцать учеников' is a genitive quantity phrase."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-07",
+        "phrase": "Мы много говорили о кружке.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Кружке' is prepositional after 'о', the topic of conversation. 'Много' quantifies the talk."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-08",
+        "phrase": "В городе работают разные кружки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кружки' is the nominative plural subject of 'работают'. 'Разные' agrees, and 'в городе' is prepositional."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-09",
+        "phrase": "Она посещает несколько кружков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Кружков' is genitive plural required by 'несколько'. 'Она' is the feminine nominative subject."
+      },
+      {
+        "id": "NN-EDU-KRUZHOK-10",
+        "phrase": "Дети рассказали родителям о кружках.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Кружках' is the prepositional plural after 'о', the topic told about. 'Родителям' is the dative recipient."
+      }
+    ]
+  }
+]

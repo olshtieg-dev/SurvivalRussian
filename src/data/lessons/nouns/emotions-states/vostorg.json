@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-VOSTORG",
+    "label": "Восторг",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for восторг (delight).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-VOSTORG-01",
+        "phrase": "На лице был полный восторг.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Восторг' is a masculine noun in the nominative as the subject of 'был'. 'Полный' is the agreeing masculine adjective conveying complete delight."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-02",
+        "phrase": "Концерт вызвал общий восторг.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Восторг' is an inanimate masculine noun, so its accusative equals the nominative. It is the direct object of 'вызвал', and 'общий' agrees in the masculine."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-03",
+        "phrase": "Не было предела моему восторгу.",
+        "fullAnalysis": "Strategic focus: Dative with 'предел'. 'Восторгу' is the dative governed by 'предел'. 'Моему' agrees in the masculine dative, expressing boundless delight."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-04",
+        "phrase": "Дети кричали от восторга.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Восторга' takes the genitive after 'от', here marking the cause of the shouting. A natural way to express acting out of delight."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-05",
+        "phrase": "Зрители замерли в восторге.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Восторге' is the prepositional form after 'в', describing the emotional state the audience was in. A common idiom for being delighted."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-06",
+        "phrase": "Она светилась восторгом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Восторгом' is the instrumental, showing what she radiated. The verb 'светилась' agrees in feminine gender with the subject."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-07",
+        "phrase": "Без восторга встретили эту новость.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Восторга' takes the genitive after 'без', meaning the news was met without enthusiasm. A useful negative-emotion frame."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-08",
+        "phrase": "Этот фильм полон восторгов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Восторгов' is the genitive plural governed by the short adjective 'полон', describing a film full of raptures. The plural counts repeated bursts of delight."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-09",
+        "phrase": "Восторг детей трудно описать.",
+        "fullAnalysis": "Strategic focus: Nominative subject with genitive modifier. 'Восторг' is nominative as the subject, while 'детей' is the genitive plural showing whose delight it is. An impersonal predicate completes the thought."
+      },
+      {
+        "id": "NN-EMOTION-VOSTORG-10",
+        "phrase": "Я с восторгом приму подарок.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Восторгом' takes the instrumental after 'с', forming an adverbial phrase that means accepting the gift with delight."
+      }
+    ]
+  }
+]

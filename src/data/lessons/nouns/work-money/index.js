@@ -14,6 +14,7 @@ import millionSet from './million.json';
 import ocheredSet from './ochered.json';
 import ochkoSet from './ochko.json';
 import prikazSet from './prikaz.json';
+import proektSet from './proekt.json';
 import programmaSet from './programma.json';
 import proizvodstvoSet from './proizvodstvo.json';
 import protsentSet from './protsent.json';
@@ -23,6 +24,7 @@ import schyotSet from './schyot.json';
 import silaSet from './sila.json';
 import sluzhbaSet from './sluzhba.json';
 import sotnyaSet from './sotnya.json';
+import tovarSet from './tovar.json';
 import trudSet from './trud.json';
 import tsenaSet from './tsena.json';
 import tysyachaSet from './tysyacha.json';
@@ -46,6 +48,7 @@ const workMoneyNounsData = [
   ...ocheredSet,
   ...ochkoSet,
   ...prikazSet,
+  ...proektSet,
   ...programmaSet,
   ...proizvodstvoSet,
   ...protsentSet,
@@ -55,6 +58,7 @@ const workMoneyNounsData = [
   ...silaSet,
   ...sluzhbaSet,
   ...sotnyaSet,
+  ...tovarSet,
   ...trudSet,
   ...tsenaSet,
   ...tysyachaSet,

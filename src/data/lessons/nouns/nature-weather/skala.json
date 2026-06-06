@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-SKALA",
+    "label": "Скала",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for скала (cliff).",
+    "missions": [
+      {
+        "id": "NN-NATURE-SKALA-01",
+        "phrase": "Высокая скала стоит у моря.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Скала' stays in the nominative as the subject of 'стоит'. 'Высокая' is the agreeing feminine adjective, and 'у моря' is the genitive location."
+      },
+      {
+        "id": "NN-NATURE-SKALA-02",
+        "phrase": "Альпинисты покорили крутую скалу.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Скалу' is the feminine accusative object of 'покорили'. 'Крутую' agrees in the feminine accusative, describing the steepness they conquered."
+      },
+      {
+        "id": "NN-NATURE-SKALA-03",
+        "phrase": "С вершины скалы открывается вид.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Скалы' is the genitive after 'с вершины' to show origin. 'Вид' is the nominative subject, and 'открывается' marks the unfolding view."
+      },
+      {
+        "id": "NN-NATURE-SKALA-04",
+        "phrase": "Лодка плыла к скале.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К скале' takes the dative after 'к' to express movement toward. 'Лодка' is the nominative subject, and 'плыла' agrees with it in the feminine."
+      },
+      {
+        "id": "NN-NATURE-SKALA-05",
+        "phrase": "Орёл сидел над скалой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Над скалой' uses the instrumental after 'над' to show location above. 'Орёл' is the nominative subject, and 'сидел' describes its position."
+      },
+      {
+        "id": "NN-NATURE-SKALA-06",
+        "phrase": "На скале растёт одинокая сосна.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На скале' uses the prepositional 'скале' after 'на' to mark location. 'Сосна' is the nominative subject, and 'одинокая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-NATURE-SKALA-07",
+        "phrase": "Волны бьются о скалу.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'О скалу' uses the accusative after 'о' to show impact against a surface. 'Волны' is the nominative plural subject crashing into it."
+      },
+      {
+        "id": "NN-NATURE-SKALA-08",
+        "phrase": "Впереди стояли две высокие скалы.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'две' the noun takes the genitive singular 'скалы'. 'Высокие' agrees in the plural, and 'стояли' agrees with the plural notion."
+      },
+      {
+        "id": "NN-NATURE-SKALA-09",
+        "phrase": "Над морем возвышаются серые скалы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Скалы' is the nominative plural subject of 'возвышаются'. 'Серые' agrees in the plural, and 'над морем' is the instrumental location."
+      },
+      {
+        "id": "NN-NATURE-SKALA-10",
+        "phrase": "Туристы фотографировали красивые скалы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Скалы' is the inanimate feminine plural accusative, matching the nominative plural. 'Красивые' agrees in the plural, and 'фотографировали' takes them as objects."
+      }
+    ]
+  }
+]

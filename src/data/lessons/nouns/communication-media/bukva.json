@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-BUKVA",
+    "label": "Буква",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for буква (letter).",
+    "missions": [
+      {
+        "id": "NN-COMMS-BUKVA-01",
+        "phrase": "Это первая буква алфавита.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Буква' stays in the nominative case as the subject. 'Первая' is the agreeing feminine adjective, and 'алфавита' is the genitive modifier."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-02",
+        "phrase": "Ребёнок написал большую букву.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Букву' is the accusative direct object of 'написал'. 'Большую' agrees in the feminine accusative, and 'ребёнок' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-03",
+        "phrase": "В этом слове нет такой буквы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Буквы' takes the genitive after 'нет' to express that none is present. 'Такой' agrees in the feminine genitive, and 'в слове' is the prepositional location."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-04",
+        "phrase": "Учитель показал на букву рукой.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Букву' is in the accusative after 'на' to mark the target pointed at. 'Рукой' is the instrumental of means, and 'учитель' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-05",
+        "phrase": "Слово начинается с этой буквы.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Буквы' is genitive after 'с' to mean starting from it. 'Этой' agrees in the feminine genitive, and 'слово' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-06",
+        "phrase": "Перед этой буквой стоит пробел.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Буквой' is in the instrumental case after 'перед' to mark the position before it. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-07",
+        "phrase": "В букве есть маленькая ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В букве' uses the prepositional form 'букве' after 'в' to say where the error sits. 'Маленькая ошибка' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-08",
+        "phrase": "В алфавите тридцать три буквы.",
+        "fullAnalysis": "Strategic focus: Genitive after a number. 'Буквы' is genitive singular after the number ending in 'три'. 'В алфавите' is the prepositional location naming the set."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-09",
+        "phrase": "Эти буквы написаны красиво.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Буквы' is the nominative plural subject of 'написаны'. 'Эти' agrees in the plural, and 'красиво' describes the handwriting."
+      },
+      {
+        "id": "NN-COMMS-BUKVA-10",
+        "phrase": "Я выучил много новых букв.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Букв' is genitive plural after 'много'. 'Новых' agrees in the genitive plural, and 'выучил' is the past-tense verb."
+      }
+    ]
+  }
+]

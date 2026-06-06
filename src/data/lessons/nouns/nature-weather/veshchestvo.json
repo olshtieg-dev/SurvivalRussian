@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-VESHCHESTVO",
+    "label": "Вещество",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for вещество (substance).",
+    "missions": [
+      {
+        "id": "NN-NATURE-VESHCHESTVO-01",
+        "phrase": "Это вещество очень опасно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вещество' is the neuter nominative subject. 'Это' and 'опасно' show neuter agreement, stating a property of the substance."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-02",
+        "phrase": "Учёный изучает новое вещество.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вещество' is the accusative direct object of 'изучает'; neuter inanimate accusative equals nominative. 'Новое' agrees in the neuter."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-03",
+        "phrase": "В пробирке нет этого вещества.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Вещества' is genitive after 'нет'. 'Этого' agrees in the neuter genitive, and 'в пробирке' is the prepositional place."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-04",
+        "phrase": "Учёные работают с этим веществом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Веществом' is instrumental after 'с', expressing what they work with. 'Этим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-05",
+        "phrase": "В этом веществе много железа.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Веществе' is prepositional after 'в', stating where the iron is. 'Много железа' uses the genitive after a quantity word."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-06",
+        "phrase": "К веществу добавили немного воды.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Веществу' is dative after 'к', marking what the water is added to. 'Немного воды' uses the genitive of quantity."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-07",
+        "phrase": "В природе существуют разные вещества.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вещества' is the nominative plural subject of 'существуют'. 'Разные' agrees, and 'в природе' is the prepositional location."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-08",
+        "phrase": "Лаборатория исследует опасные вещества.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Вещества' is the accusative plural object of 'исследует'; neuter inanimate plural accusative equals nominative. 'Опасные' agrees in the plural."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-09",
+        "phrase": "Свойства веществ изучает химия.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Веществ' is genitive plural, expressing possession of properties. The zero ending is typical for neuter nouns in the genitive plural."
+      },
+      {
+        "id": "NN-NATURE-VESHCHESTVO-10",
+        "phrase": "Из этого вещества делают лекарства.",
+        "fullAnalysis": "Strategic focus: Genitive of material. 'Вещества' is genitive after 'из', naming the material used. 'Лекарства' is the accusative plural object of 'делают'."
+      }
+    ]
+  }
+]

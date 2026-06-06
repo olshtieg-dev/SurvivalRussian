@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-AVGUST",
+    "label": "Август",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for август (August).",
+    "missions": [
+      {
+        "id": "NN-TIME-AVGUST-01",
+        "phrase": "Август очень жаркий месяц.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Август' is the masculine nominative subject. 'Жаркий месяц' is the nominative predicate describing what kind of month it is."
+      },
+      {
+        "id": "NN-TIME-AVGUST-02",
+        "phrase": "Я люблю тёплый август.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Август' is the accusative direct object of 'люблю'; inanimate masculine accusative equals nominative. 'Тёплый' agrees with it."
+      },
+      {
+        "id": "NN-TIME-AVGUST-03",
+        "phrase": "Мы вернёмся в начале августа.",
+        "fullAnalysis": "Strategic focus: Genitive in a date phrase. 'Августа' is genitive after 'в начале', a fixed way to say at the beginning of the month."
+      },
+      {
+        "id": "NN-TIME-AVGUST-04",
+        "phrase": "В августе часто идут дожди.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'Августе' is prepositional after 'в', the standard way to say in August. 'Дожди' is the nominative plural subject."
+      },
+      {
+        "id": "NN-TIME-AVGUST-05",
+        "phrase": "К августу созревают яблоки.",
+        "fullAnalysis": "Strategic focus: Dative of time limit. 'Августу' is dative after 'к', meaning by August. 'Яблоки' is the nominative plural subject of 'созревают'."
+      },
+      {
+        "id": "NN-TIME-AVGUST-06",
+        "phrase": "Этот год запомнился жарким августом.",
+        "fullAnalysis": "Strategic focus: Instrumental of attribute. 'Августом' is instrumental, naming what made the year memorable. 'Жарким' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-TIME-AVGUST-07",
+        "phrase": "После августа быстро наступает осень.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Августа' is genitive after 'после', marking what the autumn follows. 'Осень' is the nominative subject."
+      },
+      {
+        "id": "NN-TIME-AVGUST-08",
+        "phrase": "До августа ещё далеко.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Августа' is genitive after 'до', expressing distance in time. 'Ещё далеко' completes the impersonal statement."
+      },
+      {
+        "id": "NN-TIME-AVGUST-09",
+        "phrase": "Жаркие августы случаются не каждый год.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Августы' is the nominative plural subject of 'случаются'. 'Жаркие' agrees, generalising about hot Augusts."
+      },
+      {
+        "id": "NN-TIME-AVGUST-10",
+        "phrase": "Отпуск длится весь август.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Август' is accusative expressing the span of time, governed by 'весь'. 'Отпуск' is the nominative subject."
+      }
+    ]
+  }
+]

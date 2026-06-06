@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SRAVNENIE",
+    "label": "Сравнение",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for сравнение (comparison).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SRAVNENIE-01",
+        "phrase": "Это сравнение совсем неточное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сравнение' is a neuter noun in the nominative, the subject. 'Неточное' is the agreeing neuter adjective, and 'совсем' intensifies."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-02",
+        "phrase": "Автор использует яркое сравнение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сравнение' is neuter accusative, identical to the nominative, the object of 'использует'. 'Яркое' agrees."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-03",
+        "phrase": "В тексте нет удачного сравнения.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Сравнения' is genitive after 'нет'. 'Удачного' agrees in the genitive, and 'в тексте' is prepositional."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-04",
+        "phrase": "Учитель удивился точному сравнению.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Сравнению' is dative after 'удивился', the thing that surprised him. 'Точному' agrees in the dative."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-05",
+        "phrase": "Он объяснил идею простым сравнением.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Сравнением' is instrumental, the device used to explain. 'Простым' agrees in the instrumental."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-06",
+        "phrase": "В этом сравнении есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Сравнении' is prepositional after 'в', meaning within the comparison. 'Ошибка' is the feminine nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-07",
+        "phrase": "Мы долго думали над сравнением.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Сравнением' is instrumental after 'над', the thing being pondered. 'Долго' adds duration."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-08",
+        "phrase": "В стихах много красивых сравнений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Сравнений' is genitive plural required by 'много'. 'Красивых' agrees, and 'в стихах' is prepositional."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-09",
+        "phrase": "Эти сравнения очень удачны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Сравнения' is the nominative plural subject. 'Эти' agrees, and 'удачны' is the short-form predicate."
+      },
+      {
+        "id": "NN-STRUCT-SRAVNENIE-10",
+        "phrase": "Книга состоит из ярких сравнений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'из'. 'Сравнений' is genitive plural after 'из', the parts the book is built from. 'Ярких' agrees in the plural."
+      }
+    ]
+  }
+]

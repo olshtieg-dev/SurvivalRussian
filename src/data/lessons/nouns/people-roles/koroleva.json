@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KOROLEVA",
+    "label": "Королева",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for королева (queen).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KOROLEVA-01",
+        "phrase": "Королева живёт в большом дворце.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Королева' is a feminine animate noun in the nominative as the subject of 'живёт'. The phrase introduces her with a simple location detail."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-02",
+        "phrase": "Народ очень любит свою королеву.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Королеву' is the accusative direct object of 'любит'. The feminine accusative ending is -у, and 'свою' agrees in the feminine accusative. A clear affection pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-03",
+        "phrase": "Это корона старой королевы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Королевы' is genitive, showing whose crown it is, the crown of the queen. The feminine genitive ending is -ы, and 'старой' agrees. A possession pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-04",
+        "phrase": "Все подошли к королеве с подарками.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Королеве' is the dative singular after 'к', marking the person approached. The feminine dative ending is -е. A natural pattern for addressing or approaching someone."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-05",
+        "phrase": "Принц танцевал с королевой.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Королевой' is instrumental after 'с', expressing 'with the queen'. The feminine instrumental ending is -ой. A common togetherness pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-06",
+        "phrase": "Все говорят о новой королеве.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Королеве' is prepositional after 'о', the topic of conversation. The feminine prepositional ending is -е, and 'новой' agrees. A discussion pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-07",
+        "phrase": "Мы прочитали книгу о королеве.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'о'. 'Королеве' is prepositional after 'о', the subject of the book. The feminine prepositional ending is -е. A solid pattern for content about a person."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-08",
+        "phrase": "В истории были великие королевы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Королевы' is the nominative plural, the subject of 'были'. The feminine plural ending is -ы, and 'великие' agrees in the plural. Shows plural formation."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-09",
+        "phrase": "Народ помнит своих королев.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate noun. 'Королев' is the accusative plural, which for animate nouns equals the genitive plural. The feminine genitive plural is a bare stem with zero ending."
+      },
+      {
+        "id": "NN-PEOPLE-KOROLEVA-10",
+        "phrase": "Это история наших королев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Королев' is the genitive plural after 'история', the history of the queens. The feminine genitive plural is a zero-ending bare stem. 'Наших' agrees in the plural."
+      }
+    ]
+  }
+]

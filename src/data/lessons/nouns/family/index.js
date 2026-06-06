@@ -4,12 +4,14 @@ import bratSet from './brat.json';
 import dedSet from './ded.json';
 import dedushkaSet from './dedushka.json';
 import dochSet from './doch.json';
+import dochkaSet from './dochka.json';
 import dyadyaSet from './dyadya.json';
 import mamaSet from './mama.json';
 import matSet from './mat.json';
 import muzhSet from './muzh.json';
 import otetsSet from './otets.json';
 import papaSet from './papa.json';
+import podrugaSet from './podruga.json';
 import rebyonokSet from './rebyonok.json';
 import rodSet from './rod.json';
 import roditelSet from './roditel.json';
@@ -29,12 +31,14 @@ const familyNounsData = [
   ...dedSet,
   ...dedushkaSet,
   ...dochSet,
+  ...dochkaSet,
   ...dyadyaSet,
   ...mamaSet,
   ...matSet,
   ...muzhSet,
   ...otetsSet,
   ...papaSet,
+  ...podrugaSet,
   ...rebyonokSet,
   ...rodSet,
   ...roditelSet,

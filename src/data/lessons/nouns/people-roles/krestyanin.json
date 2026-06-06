@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KRESTYANIN",
+    "label": "Крестьянин",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for крестьянин (peasant).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-01",
+        "phrase": "Старый крестьянин работает в поле.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Крестьянин' stays in the nominative as the subject of 'работает'. 'Старый' is the agreeing masculine adjective, and 'в поле' is the prepositional of location."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-02",
+        "phrase": "Мы встретили крестьянина на дороге.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Крестьянина' is the accusative object of 'встретили'. For an animate masculine noun the accusative copies the genitive ending -а."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-03",
+        "phrase": "У этого крестьянина большая семья.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Крестьянина' is genitive in the 'у' frame, showing whose family it is. The masculine genitive singular ending is -а."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-04",
+        "phrase": "Помещик дал крестьянину землю.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Крестьянину' is the dative recipient, while 'землю' is the accusative object of 'дал'. The masculine dative ending is -у."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-05",
+        "phrase": "Я долго говорил с крестьянином.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С крестьянином' uses the instrumental form after 'с' to mean together with him. The masculine instrumental ending is -ом."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-06",
+        "phrase": "Учитель рассказал о крестьянине.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О крестьянине' uses the prepositional form 'крестьянине' after 'о' to express the topic. The masculine ending becomes -е."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-07",
+        "phrase": "В деревне живут бедные крестьяне.",
+        "fullAnalysis": "Strategic focus: Irregular nominative plural. 'Крестьяне' is the nominative plural, with the irregular -яне ending replacing the singular -янин. 'Бедные' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-08",
+        "phrase": "В этом селе нет крестьян.",
+        "fullAnalysis": "Strategic focus: Irregular genitive plural. 'Крестьян' is the genitive plural after 'нет', formed with the zero ending of the irregular -яне type. It expresses that there are none."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-09",
+        "phrase": "Барин собрал всех крестьян вместе.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Крестьян' is the accusative plural object of 'собрал'. For animate nouns the accusative plural matches the genitive plural."
+      },
+      {
+        "id": "NN-PEOPLE-KRESTYANIN-10",
+        "phrase": "Этот крестьянин очень трудолюбивый человек.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Крестьянин' is nominative as the subject, paired with the predicate noun 'человек'. 'Трудолюбивый' is the agreeing masculine adjective describing him."
+      }
+    ]
+  }
+]

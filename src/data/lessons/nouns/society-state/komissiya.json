@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-KOMISSIYA",
+    "label": "Комиссия",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for комиссия (commission).",
+    "missions": [
+      {
+        "id": "NN-STATE-KOMISSIYA-01",
+        "phrase": "Комиссия приняла важное решение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Комиссия' is a feminine noun in the nominative as the subject of 'приняла', which agrees in feminine gender. The committee acts as a single body."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-02",
+        "phrase": "Министр создал новую комиссию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Комиссию' is the accusative direct object of 'создал'. 'Новую' agrees in the feminine accusative, describing the newly formed committee."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-03",
+        "phrase": "Решение зависит от комиссии.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Комиссии' takes the genitive after 'от', showing that the outcome depends on the committee."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-04",
+        "phrase": "Документы передали комиссии.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Комиссии' is the dative form marking the recipient of 'передали'. The committee receives the documents."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-05",
+        "phrase": "Перед комиссией выступил эксперт.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Комиссией' takes the instrumental after 'перед', describing where the expert spoke before the committee."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-06",
+        "phrase": "Мы говорили о новой комиссии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Комиссии' is the prepositional form after 'о'. 'Новой' agrees in the feminine prepositional, marking the topic of conversation."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-07",
+        "phrase": "В городе работают три комиссии.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'три' the noun takes the genitive singular 'комиссии', the fixed pattern for two, three and four."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-08",
+        "phrase": "Все комиссии собрались в зале.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Комиссии' is the nominative plural subject of 'собрались'. 'Все' quantifies the whole group of committees."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-09",
+        "phrase": "Без комиссии проект не утвердят.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Комиссии' takes the genitive after 'без', meaning the project cannot be approved without the committee."
+      },
+      {
+        "id": "NN-STATE-KOMISSIYA-10",
+        "phrase": "Председатель комиссии задал вопрос.",
+        "fullAnalysis": "Strategic focus: Genitive modifier. 'Комиссии' is the genitive showing whose chairman it is, modifying 'председатель'. A natural way to express belonging within an institution."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-POLITSIYA",
+    "label": "Полиция",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for полиция (police).",
+    "missions": [
+      {
+        "id": "NN-STATE-POLITSIYA-01",
+        "phrase": "Полиция уже приехала на место.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Полиция' is the feminine nominative subject of 'приехала', which agrees in feminine gender. 'На место' marks destination. A practical emergency sentence."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-02",
+        "phrase": "Местная полиция работает очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Полиция' stays nominative as the subject. 'Местная' is the agreeing feminine adjective, and 'очень быстро' describes the action. A simple descriptive statement."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-03",
+        "phrase": "Мы вызвали полицию ночью.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Полицию' is the accusative direct object of 'вызвали'. The feminine accusative ending replaces -я with -ю, and 'ночью' adds time. A crucial survival phrase."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-04",
+        "phrase": "Он боится полиции с детства.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Полиции' is the genitive form required by 'бояться'. 'С детства' adds duration, a natural way to express a long-held fear."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-05",
+        "phrase": "Я позвонил в полицию утром.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В полицию' uses the accusative after 'в' to mean calling to the police as an institution. 'Утром' marks time, a common practical pattern."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-06",
+        "phrase": "Свидетель обратился к полиции за помощью.",
+        "fullAnalysis": "Strategic focus: Dative case. 'К полиции' uses the dative after 'к' to express turning to the police. 'За помощью' states the purpose. A formal, useful construction."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-07",
+        "phrase": "Преступник был задержан полицией.",
+        "fullAnalysis": "Strategic focus: Instrumental of agent. 'Полицией' is the instrumental form naming who performed the arrest in a passive sentence. 'Задержан' is the short participle. A typical news-style structure."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-08",
+        "phrase": "В полиции долго проверяли документы.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В полиции' uses the prepositional form after 'в' to mean inside the police station. 'Документы' is the accusative object, a realistic bureaucratic scene."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-09",
+        "phrase": "О полиции часто пишут в газетах.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О полиции' uses the prepositional form after 'о' to mark the topic. 'В газетах' is a prepositional plural, a tidy double-prepositional example."
+      },
+      {
+        "id": "NN-STATE-POLITSIYA-10",
+        "phrase": "Полиция и врачи прибыли вместе.",
+        "fullAnalysis": "Strategic focus: Nominative coordination. 'Полиция' is nominative, joined by 'и' to 'врачи' as a compound subject. The verb 'прибыли' agrees in the plural. A clear coordination example."
+      }
+    ]
+  }
+]

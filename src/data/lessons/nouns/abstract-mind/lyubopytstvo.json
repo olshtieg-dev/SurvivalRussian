@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-LYUBOPYTSTVO",
+    "label": "Любопытство",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for любопытство (curiosity).",
+    "missions": [
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-01",
+        "phrase": "Любопытство мучает меня весь день.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Любопытство' is a neuter noun in the nominative case, acting as the subject of 'мучает'. The verb stays singular neuter to agree with it."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-02",
+        "phrase": "Я не могу скрыть своё любопытство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Любопытство' is the direct object of 'скрыть'. For neuter nouns the accusative matches the nominative, so the form does not change. 'Своё' agrees in neuter."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-03",
+        "phrase": "От любопытства она открыла дверь.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Любопытства' is the genitive form after 'от', expressing the cause of the action. The neuter ending -о shifts to -а in the genitive singular."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-04",
+        "phrase": "Дети полны любопытства и энергии.",
+        "fullAnalysis": "Strategic focus: Genitive after 'полны'. 'Любопытства' is genitive because the short adjective 'полны' governs the genitive case. It is coordinated with 'энергии', also genitive."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-05",
+        "phrase": "Благодаря любопытству мы многому учимся.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Любопытству' is the dative form required by 'благодаря', which expresses a positive cause. The neuter dative ending is -у."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-06",
+        "phrase": "Он смотрел на нас с любопытством.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Любопытством' is the instrumental form after 'с', describing how he looked. The neuter instrumental singular ends in -ом."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-07",
+        "phrase": "В её любопытстве нет ничего плохого.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Любопытстве' is the prepositional form after 'в', naming the topic. The neuter prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-08",
+        "phrase": "Детское любопытство помогает в учёбе.",
+        "fullAnalysis": "Strategic focus: Nominative with adjective. 'Любопытство' is nominative as the subject of 'помогает'. 'Детское' is the agreeing neuter adjective describing whose curiosity it is."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-09",
+        "phrase": "Учёные изучают человеческие любопытства подробно.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Любопытства' is the plural accusative direct object of 'изучают'. For inanimate neuter nouns the plural accusative equals the nominative plural in -а."
+      },
+      {
+        "id": "NN-MIND-LYUBOPYTSTVO-10",
+        "phrase": "Простое любопытство привело к открытию.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Любопытство' is nominative as the subject of 'привело'. 'Простое' agrees in neuter, and the verb stands in the neuter past tense."
+      }
+    ]
+  }
+]

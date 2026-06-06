@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-REAKTSIYA",
+    "label": "Реакция",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for реакция (reaction).",
+    "missions": [
+      {
+        "id": "NN-EVENT-REAKTSIYA-01",
+        "phrase": "Его реакция была очень быстрой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Реакция' stays in the nominative as the subject. 'Быстрой' is the instrumental predicate adjective after 'была'. A natural way to describe a response."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-02",
+        "phrase": "Мы ждём твою реакцию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Реакцию' is the accusative direct object of 'ждём'. 'Твою' agrees in the feminine accusative. A common interpersonal pattern."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-03",
+        "phrase": "Я не ожидал такой реакции.",
+        "fullAnalysis": "Strategic focus: Genitive after ожидать. 'Реакции' is genitive, governed by 'ожидать', which often takes the genitive. 'Такой' agrees in the feminine genitive. Expresses surprise."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-04",
+        "phrase": "Все удивились его реакции.",
+        "fullAnalysis": "Strategic focus: Dative after удивиться. 'Реакции' is dative, governed by 'удивились'. 'Его' marks the possessor. A useful emotion-verb pattern."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-05",
+        "phrase": "Я доволен твоей реакцией.",
+        "fullAnalysis": "Strategic focus: Instrumental after доволен. 'Реакцией' is the instrumental form required by 'доволен'. 'Твоей' agrees in the feminine instrumental. Expresses satisfaction."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-06",
+        "phrase": "О его реакции долго говорили.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Реакции' is the prepositional form after 'о', naming the topic of talk. 'Его' marks whose reaction. A discussion pattern."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-07",
+        "phrase": "От её реакции зависело многое.",
+        "fullAnalysis": "Strategic focus: Genitive after зависеть от. 'Реакции' is genitive, governed by 'от' with 'зависело'. 'Её' marks the possessor. Expresses dependence on a response."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-08",
+        "phrase": "Мне понравилась реакция зала.",
+        "fullAnalysis": "Strategic focus: Dative experiencer with nominative subject. 'Реакция' is nominative, the thing that pleased. 'Мне' is the dative experiencer and 'зала' is a genitive modifier meaning of the audience."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-09",
+        "phrase": "Учёные изучают химические реакции.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Реакции' is the accusative plural object of 'изучают'. 'Химические' agrees in the plural. Practises the inanimate plural form."
+      },
+      {
+        "id": "NN-EVENT-REAKTSIYA-10",
+        "phrase": "В реакциях людей много эмоций.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Реакциях' is the prepositional plural after 'в'. 'Людей' is a genitive plural modifier. A reflective generalisation."
+      }
+    ]
+  }
+]

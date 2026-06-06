@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KOMMUNIST",
+    "label": "Коммунист",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for коммунист (communist).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-01",
+        "phrase": "Этот человек убеждённый коммунист.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Коммунист' is nominative as the predicate noun. 'Убеждённый' is the agreeing masculine adjective describing his conviction."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-02",
+        "phrase": "Все уважали старого коммуниста.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Коммуниста' takes the genitive-like ending because this animate masculine noun has accusative equal to genitive. 'Старого' agrees, and 'все' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-03",
+        "phrase": "В зале не было ни одного коммуниста.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Коммуниста' is genitive after 'не было ни одного'. 'В зале' is prepositional for location."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-04",
+        "phrase": "Журналист задал вопрос коммунисту.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Коммунисту' is dative, the person the question is put to. 'Вопрос' is the accusative object of 'задал'."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-05",
+        "phrase": "Она спорила с молодым коммунистом.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Коммунистом' is instrumental after 'с', the person she argued with. 'Молодым' agrees in the instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-06",
+        "phrase": "В коммунисте чувствовалась сила.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Коммунисте' is prepositional after 'в', meaning within the person. 'Сила' is the feminine nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-07",
+        "phrase": "О старом коммунисте написали книгу.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Коммунисте' is prepositional after 'о', the subject of the book. 'Старом' agrees in the prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-08",
+        "phrase": "На площади собрались коммунисты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Коммунисты' is the nominative plural subject of 'собрались'. 'На площади' is prepositional for the place."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-09",
+        "phrase": "Полиция арестовала нескольких коммунистов.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Коммунистов' is genitive-form accusative plural because the noun is animate. 'Нескольких' agrees, and 'полиция' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-KOMMUNIST-10",
+        "phrase": "Газета писала о местных коммунистах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Коммунистах' is the prepositional plural after 'о', the topic of the article. 'Местных' agrees in the plural."
+      }
+    ]
+  }
+]

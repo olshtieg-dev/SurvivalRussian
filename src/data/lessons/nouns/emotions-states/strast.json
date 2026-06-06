@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-STRAST",
+    "label": "Страсть",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for страсть (passion).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-STRAST-01",
+        "phrase": "Его страсть к музыке огромна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Страсть' is a feminine soft-sign noun in the nominative, the subject of 'огромна'. 'К музыке' is a dative complement."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-02",
+        "phrase": "Она скрывает свою страсть.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Страсть' has the same form in the accusative for this third-declension noun, the object of 'скрывает'. 'Свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-03",
+        "phrase": "В его словах нет страсти.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Страсти' is genitive after 'нет', the quality that is missing. 'В его словах' is prepositional plural."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-04",
+        "phrase": "Он отдался любимой страсти.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Страсти' is dative after 'отдался', the pursuit he gave himself to. 'Любимой' agrees in the dative."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-05",
+        "phrase": "Он говорил с настоящей страстью.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Страстью' is instrumental after 'с', describing how he spoke. 'Настоящей' agrees in the instrumental."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-06",
+        "phrase": "В её страсти было что-то опасное.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Страсти' is prepositional after 'в', meaning within the passion. 'Что-то опасное' is the neuter nominative subject."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-07",
+        "phrase": "Они спорили о его страсти.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Страсти' is prepositional after 'о', the topic of the argument. 'Его' marks whose passion."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-08",
+        "phrase": "У каждого человека свои страсти.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Страсти' is the nominative plural subject. 'Свои' agrees, and 'у каждого человека' is a genitive possession frame."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-09",
+        "phrase": "Он не понимает чужих страстей.",
+        "fullAnalysis": "Strategic focus: Genitive plural object. 'Страстей' is the genitive plural after the negated 'не понимает'. 'Чужих' agrees in the plural."
+      },
+      {
+        "id": "NN-EMOTION-STRAST-10",
+        "phrase": "Роман полон бурных страстей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'полон'. 'Страстей' is genitive plural required by 'полон'. 'Бурных' agrees, and 'роман' is the subject."
+      }
+    ]
+  }
+]

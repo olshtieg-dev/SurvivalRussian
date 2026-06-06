@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SHKOLNIK",
+    "label": "Школьник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for школьник (schoolboy).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-01",
+        "phrase": "Этот школьник очень хорошо учится.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Школьник' stays in the nominative as the subject of 'учится'. 'Этот' is the agreeing masculine demonstrative. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-02",
+        "phrase": "Учитель похвалил школьника на уроке.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. Because 'школьник' is animate masculine, the accusative 'школьника' matches the genitive. It is the object of 'похвалил', with 'на уроке' marking location. A natural classroom sentence."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-03",
+        "phrase": "У школьника тяжёлый рюкзак.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Школьника' is the genitive required by 'у', expressing possession. 'Рюкзак' is the nominative subject, described by 'тяжёлый'. A useful possession pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-04",
+        "phrase": "Учительница помогает каждому школьнику.",
+        "fullAnalysis": "Strategic focus: Dative indirect object. 'Школьнику' is the dative recipient of 'помогает', a verb that governs the dative. 'Каждому' agrees in the masculine dative. A natural helping pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-05",
+        "phrase": "Родители гордятся своим школьником.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Школьником' is the instrumental required by 'гордятся'. 'Своим' agrees in the masculine instrumental. A natural pride expression."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-06",
+        "phrase": "В газете написали о юном школьнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О школьнике' uses the prepositional form 'школьнике' after 'о' to express the topic. 'Юном' agrees in the masculine prepositional. A natural news-about pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-07",
+        "phrase": "Тетрадь принадлежит этому школьнику.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Школьнику' is the dative required by 'принадлежит', meaning to belong to. 'Этому' agrees in the masculine dative, and 'тетрадь' is the nominative subject. A clear belonging pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-08",
+        "phrase": "В классе сидят два школьника.",
+        "fullAnalysis": "Strategic focus: Genitive singular with numeral. After 'два' the noun takes the form 'школьника'. 'В классе' is the prepositional location. A useful counting pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-09",
+        "phrase": "Школьники готовятся к экзаменам.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Школьники' is the nominative plural subject of 'готовятся'. 'К экзаменам' is the dative plural after 'к'. A natural school sentence."
+      },
+      {
+        "id": "NN-PEOPLE-SHKOLNIK-10",
+        "phrase": "Директор поздравил лучших школьников.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. Because the noun is animate, the accusative plural 'школьников' matches the genitive plural. 'Лучших' agrees, and it is the object of 'поздравил'. A clean animate-plural pattern."
+      }
+    ]
+  }
+]

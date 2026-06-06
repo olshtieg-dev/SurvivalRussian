@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-POLOSA",
+    "label": "Полоса",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for полоса (strip).",
+    "missions": [
+      {
+        "id": "NN-MOTION-POLOSA-01",
+        "phrase": "На небе появилась светлая полоса.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Полоса' is nominative as the subject of 'появилась'. 'Светлая' is the agreeing feminine adjective, 'на небе' is prepositional."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-02",
+        "phrase": "Художник нарисовал красную полосу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Полосу' is the accusative direct object of 'нарисовал'. 'Красную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-03",
+        "phrase": "У этой ткани нет белой полосы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Полосы' is genitive after 'нет'. 'Белой' agrees in the genitive, and 'у этой ткани' shows possession."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-04",
+        "phrase": "Самолёт сел на взлётную полосу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Полосу' is accusative after 'на' because the plane moves onto the runway. 'Взлётную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-05",
+        "phrase": "Машина едет по соседней полосе.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Полосе' is dative after 'по', the lane along which the car drives. 'Соседней' agrees in the dative."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-06",
+        "phrase": "Дорога отделена жёлтой полосой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Полосой' is instrumental, the marking by which the road is divided. 'Жёлтой' agrees in the instrumental."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-07",
+        "phrase": "На полосе нарисованы белые стрелки.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Полосе' is prepositional after 'на', telling where the arrows are painted. 'Белые стрелки' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-08",
+        "phrase": "На дороге много широких полос.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Полос' is genitive plural required by 'много'. 'Широких' agrees, and 'на дороге' is prepositional."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-09",
+        "phrase": "Цветные полосы украшают флаг.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Полосы' is the nominative plural subject of 'украшают'. 'Цветные' agrees, and 'флаг' is the accusative object."
+      },
+      {
+        "id": "NN-MOTION-POLOSA-10",
+        "phrase": "Мы перешли через все полосы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Полосы' is the accusative plural after 'через', the lanes we crossed. 'Все' agrees in the accusative plural."
+      }
+    ]
+  }
+]

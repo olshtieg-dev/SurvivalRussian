@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-SMENA",
+    "label": "Смена",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for смена (shift).",
+    "missions": [
+      {
+        "id": "NN-TIME-SMENA-01",
+        "phrase": "Моя смена начинается рано утром.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Смена' is a feminine noun in the nominative as the subject of 'начинается'. 'Моя' is the agreeing feminine possessive describing whose shift it is."
+      },
+      {
+        "id": "NN-TIME-SMENA-02",
+        "phrase": "Я отработал длинную смену.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Смену' is the accusative direct object of 'отработал'. The feminine accusative ending is -у, and 'длинную' agrees in the feminine accusative. A clear work pattern."
+      },
+      {
+        "id": "NN-TIME-SMENA-03",
+        "phrase": "После ночной смены я очень устал.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Смены' is the genitive singular after 'после', marking what came before. The feminine genitive ending is -ы, and 'ночной' agrees. A common time frame."
+      },
+      {
+        "id": "NN-TIME-SMENA-04",
+        "phrase": "Я готовлюсь к новой смене.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Смене' is the dative singular after 'к', the goal of preparation. The feminine dative ending is -е, and 'новой' agrees in the dative. A useful planning pattern."
+      },
+      {
+        "id": "NN-TIME-SMENA-05",
+        "phrase": "Я доволен своей сменой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Сменой' is instrumental after 'доволен', the thing one is satisfied with. The feminine instrumental ending is -ой, and 'своей' agrees. A satisfaction pattern."
+      },
+      {
+        "id": "NN-TIME-SMENA-06",
+        "phrase": "На смене было очень много работы.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Смене' is prepositional after 'на', marking the time during the shift. The feminine prepositional ending is -е. A typical 'на' for work periods."
+      },
+      {
+        "id": "NN-TIME-SMENA-07",
+        "phrase": "Мы говорим о вечерней смене.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'о'. 'Смене' is prepositional after 'о', the topic of discussion. 'Вечерней' agrees in the feminine prepositional. A common discussion pattern."
+      },
+      {
+        "id": "NN-TIME-SMENA-08",
+        "phrase": "Эти смены очень тяжёлые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Смены' is the nominative plural, the subject of the sentence. The feminine plural ending is -ы, and 'эти' agrees in the plural. Shows plural formation."
+      },
+      {
+        "id": "NN-TIME-SMENA-09",
+        "phrase": "Я люблю утренние смены.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Смены' is the accusative plural object of 'люблю'. As inanimate, the accusative plural matches the nominative plural. 'Утренние' agrees in the plural."
+      },
+      {
+        "id": "NN-TIME-SMENA-10",
+        "phrase": "Расписание смен меняется каждую неделю.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Смен' is the genitive plural after 'расписание', the schedule of shifts. The feminine genitive plural here is a bare stem with zero ending. A key declension pattern."
+      }
+    ]
+  }
+]

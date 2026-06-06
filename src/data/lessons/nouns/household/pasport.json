@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PASPORT",
+    "label": "Паспорт",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for паспорт (passport).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-01",
+        "phrase": "Это мой новый паспорт.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Паспорт' is the masculine nominative subject. 'Мой' and 'новый' agree in the masculine nominative. A basic identification phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-02",
+        "phrase": "Покажите мне ваш паспорт, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Паспорт' is the accusative direct object of 'покажите'; inanimate masculine accusative equals the nominative. 'Ваш' agrees in the masculine accusative. A standard request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-03",
+        "phrase": "У меня нет с собой паспорта.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Паспорта' takes the genitive after 'нет', denying possession. 'С собой' means on hand. A very practical travel phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-04",
+        "phrase": "В паспорте есть фотография и подпись.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Паспорте' is prepositional after 'в', the document within which the items are. 'Фотография и подпись' are the nominative subjects. A descriptive pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-05",
+        "phrase": "Срок паспорта скоро заканчивается.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Паспорта' is the genitive modifying 'срок', the validity of what. 'Скоро' adds time. A useful renewal-related phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-06",
+        "phrase": "Я подошёл к окну с паспортом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Паспортом' is instrumental after 'с', the thing carried. 'К окну' shows direction. A natural office-counter scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-07",
+        "phrase": "Я отдал документы вместе с паспортом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Паспортом' is instrumental after 'вместе с', accompanying the other documents. 'Документы' is the accusative object. A bureaucratic phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-08",
+        "phrase": "Положи паспорт в верхний ящик.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Паспорт' is the accusative object of 'положи', and 'в верхний ящик' uses the accusative for motion into. A clear storage instruction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-09",
+        "phrase": "Все паспорта лежат в сейфе.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Паспорта' is the nominative plural subject of 'лежат'; note the stressed '-а' plural typical of this noun. 'Все' is the agreeing quantifier."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PASPORT-10",
+        "phrase": "Сотрудник проверил несколько паспортов подряд.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Паспортов' is the genitive plural after 'несколько', expressing an indefinite count. 'Подряд' means in a row. A checkpoint scene."
+      }
+    ]
+  }
+]

@@ -1,4 +1,6 @@
 import dolgSet from './dolg.json';
+import dostoinstvoSet from './dostoinstvo.json';
+import druzhbaSet from './druzhba.json';
 import ideyaSet from './ideya.json';
 import istinaSet from './istina.json';
 import lyubovSet from './lyubov.json';
@@ -23,6 +25,8 @@ import znachenieSet from './znachenie.json';
 export const abstractNounsFolderId = 'nouns-abstract';
 const abstractNounsData = [
   ...dolgSet,
+  ...dostoinstvoSet,
+  ...druzhbaSet,
   ...ideyaSet,
   ...istinaSet,
   ...lyubovSet,

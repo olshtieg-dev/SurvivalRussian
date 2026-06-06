@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-GREKH",
+    "label": "Грех",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for грех (sin).",
+    "missions": [
+      {
+        "id": "NN-STATE-GREKH-01",
+        "phrase": "Это большой грех.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Грех' is the masculine nominative subject. 'Большой' is the agreeing masculine adjective. A simple model for moral statements."
+      },
+      {
+        "id": "NN-STATE-GREKH-02",
+        "phrase": "Он совершил тяжкий грех.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Грех' is the accusative direct object of 'совершил'; as an inanimate masculine noun its accusative matches the nominative. 'Тяжкий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-STATE-GREKH-03",
+        "phrase": "Он попросил прощения за свой грех.",
+        "fullAnalysis": "Strategic focus: Accusative with preposition. 'Грех' is accusative after 'за', the thing one is forgiven for. 'Свой' agrees in the masculine accusative. A religious or moral context."
+      },
+      {
+        "id": "NN-STATE-GREKH-04",
+        "phrase": "У каждого человека есть свои грехи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Грехи' is the nominative plural subject in the possession frame 'есть'. 'Свои' is the agreeing possessive. A common reflective observation."
+      },
+      {
+        "id": "NN-STATE-GREKH-05",
+        "phrase": "Священник говорил о наших грехах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Грехах' is the prepositional plural after 'о', the topic of the sermon. 'Наших' agrees in the prepositional plural. Useful for reported speech."
+      },
+      {
+        "id": "NN-STATE-GREKH-06",
+        "phrase": "В этом нет никакого греха.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Греха' takes the genitive after 'нет', denying existence. 'Никакого' reinforces the negation in the genitive. A reassuring everyday phrase."
+      },
+      {
+        "id": "NN-STATE-GREKH-07",
+        "phrase": "Она раскаялась в своём грехе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Грехе' is prepositional after 'в', the thing repented of. 'Своём' agrees in the masculine prepositional. A formal moral pattern."
+      },
+      {
+        "id": "NN-STATE-GREKH-08",
+        "phrase": "Зависть считается смертным грехом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Грехом' is the instrumental complement of 'считается', stating what envy is regarded as. 'Смертным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-GREKH-09",
+        "phrase": "Он много грешит и боится греха.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Греха' is genitive after 'боится', since 'бояться' governs the genitive. The verb 'грешит' echoes the same root for variety."
+      },
+      {
+        "id": "NN-STATE-GREKH-10",
+        "phrase": "Люди прощают друг другу старые грехи.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Грехи' is the accusative plural object of 'прощают', the things forgiven. 'Старые' agrees in the accusative plural. A theme of reconciliation."
+      }
+    ]
+  }
+]

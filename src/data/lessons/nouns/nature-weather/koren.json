@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-KOREN",
+    "label": "Корень",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for корень (root).",
+    "missions": [
+      {
+        "id": "NN-NATURE-KOREN-01",
+        "phrase": "Этот корень очень глубокий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Корень' is the nominative subject. 'Глубокий' is the agreeing masculine adjective, and 'очень' intensifies it. A simple descriptive statement about a plant root."
+      },
+      {
+        "id": "NN-NATURE-KOREN-02",
+        "phrase": "Садовник выкопал толстый корень.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Корень' is the accusative direct object of 'выкопал', identical to nominative for this inanimate masculine noun. 'Толстый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-NATURE-KOREN-03",
+        "phrase": "У этого корня странный запах.",
+        "fullAnalysis": "Strategic focus: Genitive of possession with fleeting vowel. 'Корня' is the genitive, and the vowel 'е' drops before the ending. 'У этого корня' marks whose smell it is. A possessive frame."
+      },
+      {
+        "id": "NN-NATURE-KOREN-04",
+        "phrase": "Дерево обязано жизнью своему корню.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Корню' takes the dative as the thing the tree owes its life to, with the fleeting 'е' dropped. 'Своему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-NATURE-KOREN-05",
+        "phrase": "Он питается этим корнем.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Корнем' is the instrumental after 'питается', naming what is fed on. The fleeting 'е' drops, giving the stem 'корн-'. 'Этим' agrees."
+      },
+      {
+        "id": "NN-NATURE-KOREN-06",
+        "phrase": "В корне этого слова есть смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Корне' takes the prepositional after 'в', here in the figurative sense of a word root. The fleeting 'е' drops, and 'этого слова' is a genitive modifier."
+      },
+      {
+        "id": "NN-NATURE-KOREN-07",
+        "phrase": "У дерева очень крепкие корни.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Корни' is the nominative plural subject. 'Крепкие' is the agreeing plural adjective, and 'у дерева' marks possession in the genitive."
+      },
+      {
+        "id": "NN-NATURE-KOREN-08",
+        "phrase": "Буря вырвала старые корни.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Корни' is the accusative plural object of 'вырвала', identical to nominative plural for this inanimate noun. 'Старые' agrees in the plural."
+      },
+      {
+        "id": "NN-NATURE-KOREN-09",
+        "phrase": "Без крепких корней дерево упадёт.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'без'. 'Корней' is the genitive plural after the preposition 'без'. 'Крепких' agrees in the genitive plural, and the clause states the consequence."
+      },
+      {
+        "id": "NN-NATURE-KOREN-10",
+        "phrase": "Растение держится корнями в земле.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of means. 'Корнями' is the instrumental plural, the means by which the plant holds on. 'В земле' adds the prepositional location. A natural botany sentence."
+      }
+    ]
+  }
+]

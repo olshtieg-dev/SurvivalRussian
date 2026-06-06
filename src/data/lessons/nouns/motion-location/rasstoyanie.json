@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-RASSTOYANIE",
+    "label": "Расстояние",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for расстояние (distance).",
+    "missions": [
+      {
+        "id": "NN-MOTION-RASSTOYANIE-01",
+        "phrase": "Расстояние между нами очень большое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Расстояние' is a neuter noun in the nominative as the subject. 'Большое' is the agreeing neuter adjective, and 'между нами' specifies between whom."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-02",
+        "phrase": "Мы прошли большое расстояние пешком.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Расстояние' is the accusative direct object of 'прошли'. As a neuter noun, the accusative matches the nominative form. 'Большое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-03",
+        "phrase": "От расстояния зависит время в пути.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Расстояния' is the genitive singular after 'от', marking dependence. The neuter genitive ending is -я. A useful cause-and-effect frame."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-04",
+        "phrase": "Мы рады даже короткому расстоянию.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Расстоянию' is the dative singular after 'рады', the thing one is glad about. The neuter dative ending is -ю, and 'короткому' agrees in the dative."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-05",
+        "phrase": "Мы измерили путь расстоянием в километрах.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Расстоянием' is instrumental, expressing the measure used. The neuter instrumental ending is -ем. A pattern for measurement and means."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-06",
+        "phrase": "На большом расстоянии ничего не видно.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Расстоянии' is prepositional after 'на', marking the location at a distance. The neuter prepositional ending is -и, and 'большом' agrees. A core spatial pattern."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-07",
+        "phrase": "Мы говорим о большом расстоянии.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'о'. 'Расстоянии' is prepositional after 'о', the topic of discussion. 'Большом' agrees in the neuter prepositional. A reflection and discussion pattern."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-08",
+        "phrase": "Эти расстояния трудно измерить точно.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Расстояния' is the nominative plural, the subject of the sentence. The neuter plural ending is -я, and 'эти' agrees in the plural. Shows plural formation."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-09",
+        "phrase": "Спортсмены бегают большие расстояния.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Расстояния' is the accusative plural object of 'бегают'. As neuter, the accusative plural matches the nominative plural. 'Большие' agrees in the plural."
+      },
+      {
+        "id": "NN-MOTION-RASSTOYANIE-10",
+        "phrase": "Поезд идёт несмотря на длину расстояний.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Расстояний' is the genitive plural after 'длину', showing the length of the distances. The neuter genitive plural ending is -ий. A useful quantity frame."
+      }
+    ]
+  }
+]

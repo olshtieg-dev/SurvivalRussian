@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-OBEKT",
+    "label": "Объект",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for объект (object).",
+    "missions": [
+      {
+        "id": "NN-STATE-OBEKT-01",
+        "phrase": "Этот объект очень важный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Объект' is the masculine nominative subject. 'Этот' and 'важный' agree in masculine gender, describing the facility."
+      },
+      {
+        "id": "NN-STATE-OBEKT-02",
+        "phrase": "Город построил новый объект.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Объект' is the accusative direct object of 'построил'; inanimate masculine accusative equals nominative. 'Новый' agrees with it."
+      },
+      {
+        "id": "NN-STATE-OBEKT-03",
+        "phrase": "Охрана не пускает к объекту.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Объекту' is dative after 'к', marking the place toward which access is denied. 'Охрана' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-OBEKT-04",
+        "phrase": "Возле объекта стоит охрана.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Объекта' is genitive after 'возле', marking proximity. 'Охрана' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-STATE-OBEKT-05",
+        "phrase": "На объекте работают инженеры.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Объекте' is prepositional after 'на', showing where the engineers work. 'Инженеры' is the nominative plural subject."
+      },
+      {
+        "id": "NN-STATE-OBEKT-06",
+        "phrase": "Учёные наблюдают за объектом.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Объектом' is instrumental after 'за', the usual way to say observing something. 'Учёные' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-OBEKT-07",
+        "phrase": "В районе много промышленных объектов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Объектов' is genitive plural after 'много'. 'Промышленных' agrees, and 'в районе' is the prepositional location."
+      },
+      {
+        "id": "NN-STATE-OBEKT-08",
+        "phrase": "Государство охраняет важные объекты.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Объекты' is the accusative plural object of 'охраняет'; inanimate plural accusative equals nominative. 'Важные' agrees in the plural."
+      },
+      {
+        "id": "NN-STATE-OBEKT-09",
+        "phrase": "Безопасность объекта прежде всего.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Объекта' is genitive, showing whose safety is meant. 'Безопасность' is the nominative subject of the clause."
+      },
+      {
+        "id": "NN-STATE-OBEKT-10",
+        "phrase": "Между объектами проложена дорога.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after preposition. 'Объектами' is instrumental plural after 'между', placing the road between them. 'Дорога' is the subject."
+      }
+    ]
+  }
+]

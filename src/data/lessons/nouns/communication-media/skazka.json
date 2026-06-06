@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SKAZKA",
+    "label": "Сказка",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for сказка (fairy tale).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SKAZKA-01",
+        "phrase": "Это моя любимая сказка.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Сказка' is a feminine noun in the nominative as the predicate. 'Любимая' is the agreeing feminine adjective, and 'моя' marks possession."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-02",
+        "phrase": "Бабушка рассказала интересную сказку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сказку' is the accusative direct object of 'рассказала'. 'Интересную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-03",
+        "phrase": "Я не помню конца сказки.",
+        "fullAnalysis": "Strategic focus: Genitive modifier. 'Сказки' is the genitive showing whose ending it is, modifying 'конца'. A natural part-whole relationship."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-04",
+        "phrase": "Дети радуются новой сказке.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Сказке' is the dative governed by 'радуются'. 'Новой' agrees in the feminine dative, naming the source of joy."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-05",
+        "phrase": "Малыш заснул под сказку.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Сказку' takes the accusative after 'под' in the sense of falling asleep to the sound of a tale."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-06",
+        "phrase": "Мы говорим о старой сказке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Сказке' is the prepositional form after 'о'. 'Старой' agrees in the feminine prepositional, marking the topic."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-07",
+        "phrase": "Этот рассказ похож на сказку.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Сказку' takes the accusative after 'на' in the construction 'похож на', expressing resemblance to a fairy tale."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-08",
+        "phrase": "Дети любят русские сказки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Сказки' is the inanimate accusative plural object of 'любят', matching the nominative plural. 'Русские' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-09",
+        "phrase": "В книге много добрых сказок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Сказок' is the genitive plural required after 'много', with a fleeting vowel inserted. 'Добрых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-COMMS-SKAZKA-10",
+        "phrase": "Жизнь иногда похожа на сказку.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Сказку' takes the accusative after 'на' in 'похожа на', comparing life to a fairy tale. 'Похожа' agrees with the feminine subject 'жизнь'."
+      }
+    ]
+  }
+]

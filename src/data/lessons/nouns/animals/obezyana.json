@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-OBEZYANA",
+    "label": "Обезьяна",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for обезьяна (monkey).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-OBEZYANA-01",
+        "phrase": "Маленькая обезьяна сидит на дереве.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Обезьяна' stays in the nominative as the subject of 'сидит'. 'Маленькая' is the agreeing feminine adjective, and 'на дереве' is the prepositional of location."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-02",
+        "phrase": "Дети увидели обезьяну в зоопарке.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Обезьяну' is the accusative direct object of 'увидели'. As an animate feminine noun it takes the -у ending in the accusative."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-03",
+        "phrase": "У этой обезьяны очень длинный хвост.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Обезьяны' is genitive in the 'у' frame, showing whose tail it is. The feminine genitive singular ending is -ы here."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-04",
+        "phrase": "Я дала обезьяне спелый банан.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Обезьяне' is the dative recipient, while 'банан' is the accusative object of 'дала'. The feminine dative ending is -е."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-05",
+        "phrase": "Турист фотографировался с обезьяной.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С обезьяной' uses the instrumental form 'обезьяной' after 'с' to mean together with the animal. The feminine instrumental ending is -ой."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-06",
+        "phrase": "Мы читали книгу об обезьяне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об обезьяне' uses the prepositional form 'обезьяне' after 'об' to express the topic of the book. The feminine ending shifts to -е."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-07",
+        "phrase": "В клетке прыгают весёлые обезьяны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Обезьяны' is the nominative plural, the subject of 'прыгают'. 'Весёлые' is the agreeing plural adjective, and 'в клетке' is the prepositional of location."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-08",
+        "phrase": "В этом лесу нет обезьян.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Обезьян' is the genitive plural after 'нет', expressing that there are none. The feminine plural drops the vowel ending entirely."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-09",
+        "phrase": "Смотритель кормит обезьян утром.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Обезьян' is the accusative plural object of 'кормит'. For animate nouns the accusative plural matches the genitive plural form."
+      },
+      {
+        "id": "NN-ANIMAL-OBEZYANA-10",
+        "phrase": "Эта обезьяна очень умная и быстрая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Обезьяна' is nominative as the subject. 'Умная' and 'быстрая' are agreeing feminine adjectives describing it, joined by 'и'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-TKAN",
+    "label": "Ткань",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for ткань (fabric).",
+    "missions": [
+      {
+        "id": "NN-NATURE-TKAN-01",
+        "phrase": "Эта ткань очень мягкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ткань' stays in the nominative as the subject. This is a soft-sign feminine noun, and 'мягкая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-NATURE-TKAN-02",
+        "phrase": "Я купила красивую ткань.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ткань' is the accusative direct object of 'купила'; soft-sign feminines look identical in nominative and accusative. 'Красивую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-NATURE-TKAN-03",
+        "phrase": "У нас нет белой ткани.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ткани' is the genitive required after 'нет' to express that no fabric is present. 'Белой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-NATURE-TKAN-04",
+        "phrase": "Платье сшито из тонкой ткани.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Ткани' is the genitive after 'из' to show the material the dress is made of. 'Тонкой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-NATURE-TKAN-05",
+        "phrase": "Она накрыла стол этой тканью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Тканью' is the instrumental case naming what the table is covered with. 'Этой' agrees in the feminine instrumental, and 'стол' is the accusative object."
+      },
+      {
+        "id": "NN-NATURE-TKAN-06",
+        "phrase": "На ткани красивый узор.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На ткани' uses the prepositional form 'ткани' after 'на' to locate the pattern. 'Узор' is the nominative subject of the sentence."
+      },
+      {
+        "id": "NN-NATURE-TKAN-07",
+        "phrase": "Магазин продаёт хорошие ткани.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Ткани' is the accusative plural object of 'продаёт'. 'Хорошие' agrees in the plural, and 'магазин' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-TKAN-08",
+        "phrase": "В шкафу лежат разные ткани.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ткани' is the nominative plural subject of 'лежат'. 'Разные' agrees in the plural, and 'в шкафу' gives the prepositional location."
+      },
+      {
+        "id": "NN-NATURE-TKAN-09",
+        "phrase": "Я дала подруге кусок ткани.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Ткани' is the genitive after 'кусок' to mean a piece of fabric. 'Подруге' is the dative recipient of 'дала'."
+      },
+      {
+        "id": "NN-NATURE-TKAN-10",
+        "phrase": "Какая красивая ткань!",
+        "fullAnalysis": "Strategic focus: Nominative exclamation. 'Ткань' stays in the nominative in this exclamation. 'Какая' and 'красивая' both agree in the feminine, expressing admiration."
+      }
+    ]
+  }
+]

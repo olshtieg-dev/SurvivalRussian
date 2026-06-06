@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-ODEYALO",
+    "label": "Одеяло",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for одеяло (blanket).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-01",
+        "phrase": "Это одеяло очень тёплое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Одеяло' stays in the nominative as the subject of the sentence. 'Тёплое' is the agreeing neuter adjective, and 'очень' intensifies the quality."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-02",
+        "phrase": "Я накрыл ребёнка тёплым одеялом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Одеялом' takes the instrumental ending to show the instrument of covering. 'Тёплым' agrees in the neuter instrumental, and 'ребёнка' is the animate accusative object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-03",
+        "phrase": "Купи мне новое одеяло, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Одеяло' is the accusative direct object of 'купи'; neuter nouns keep the same form as the nominative. 'Новое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-04",
+        "phrase": "Зимой без одеяла очень холодно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Одеяла' is the genitive form required after 'без'. The construction states what is lacking, and 'зимой' sets the seasonal context."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-05",
+        "phrase": "Кошка спит под одеялом.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Одеялом' is instrumental after 'под' to express the static position underneath. 'Кошка' is the nominative subject of 'спит'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-06",
+        "phrase": "Я положила подушку на одеяло.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Одеяло' is accusative after 'на' to mark the goal of motion onto the surface. 'Подушку' is the feminine accusative object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-07",
+        "phrase": "На кровати лежат два одеяла.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Одеяла' takes the genitive singular form after 'два'. 'На кровати' is the prepositional of location, and the verb stays plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-08",
+        "phrase": "В шкафу лежат чистые одеяла.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Одеяла' is the nominative plural subject of 'лежат'. 'Чистые' is the agreeing plural adjective, and 'в шкафу' is the prepositional of place."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-09",
+        "phrase": "Мы дали гостям тёплые одеяла.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Одеяла' is the accusative plural object of 'дали'. 'Гостям' is the dative plural recipient, and 'тёплые' agrees in the plural accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ODEYALO-10",
+        "phrase": "Под этим одеялом всегда уютно.",
+        "fullAnalysis": "Strategic focus: Instrumental with demonstrative. 'Одеялом' is instrumental after 'под', and 'этим' agrees in the neuter instrumental. 'Всегда уютно' describes the resulting feeling."
+      }
+    ]
+  }
+]
