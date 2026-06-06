@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-DALYOKII-BLIZKII",
+    "label": "Далёкий / Близкий",
+    "badge": "FAR/NEAR",
+    "description": "Далёкий vs близкий: far/near contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-DALYOKII-BLIZKII-01",
+        "phrase": "Это очень далёкий город.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Далёкий' takes the masculine ending to match 'город'. The sentence anchors the form in a simple statement about distance, and it keeps the ё where modern spelling requires it."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-02",
+        "phrase": "У нас очень близкий друг.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Близкий' matches masculine 'друг' and here carries the figurative sense of a close, intimate friend. The possessive frame makes the relationship feel concrete."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-03",
+        "phrase": "Это далёкая страна.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Далёкая' takes the feminine ending to match 'страна'. The short sentence isolates the agreement so the learner hears the feminine -ая clearly."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-04",
+        "phrase": "Близкая подруга всегда поможет.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Близкая' matches feminine 'подруга' in the close-friend sense. The sentence folds the form into a natural everyday claim about loyalty."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-05",
+        "phrase": "Это было далёкое время.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Далёкое' takes the neuter ending to match 'время'. The past-tense frame fits the temporal meaning of a distant, long-ago era."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-06",
+        "phrase": "Близкое будущее уже здесь.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Близкое' matches neuter 'будущее' and carries the near-in-time meaning. The sentence shows ближе on the temporal axis rather than the spatial one."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-07",
+        "phrase": "Это далёкие горы на севере.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Далёкие' takes the plural ending to match 'горы'. The added location detail paints a single vivid landscape image for the form."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-08",
+        "phrase": "Близкие люди понимают без слов.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Близкие' matches plural 'люди' in the close-relationship sense. The sentence is a common saying that grounds the plural form in real speech."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-09",
+        "phrase": "Магазин близкий, а вокзал далёкий.",
+        "fullAnalysis": "Strategic focus: Direct contrast across two masculine nouns. 'Близкий' matches 'магазин' and 'далёкий' matches 'вокзал', placing both adjectives side by side. The comma-joined clauses make the near-versus-far opposition explicit."
+      },
+      {
+        "id": "BA-DALYOKII-BLIZKII-10",
+        "phrase": "Этот путь ближе того.",
+        "fullAnalysis": "Strategic focus: Comparative form of близкий. 'Ближе' is the irregular comparative meaning nearer, used here with the genitive 'того' for comparison. The sentence shows the learner how the pair shifts into a comparative judgment."
+      }
+    ]
+  }
+]

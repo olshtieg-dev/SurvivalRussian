@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-STRANNYI-OBYCHNYI",
+    "label": "Странный / Обычный",
+    "badge": "ODD/USUAL",
+    "description": "Странный vs обычный: strange/ordinary contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-01",
+        "phrase": "У него странный тихий голос.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Странный' takes the masculine ending to match 'голос'. The sentence frames the oddness in a natural descriptive context."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-02",
+        "phrase": "Это совсем обычная история.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Обычная' takes the feminine ending to match 'история'. The form is anchored in an ordinary everyday remark."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-03",
+        "phrase": "У неё странное чувство.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Странное' takes the neuter ending to match 'чувство'. The sentence shows the learner switching endings inside a feeling-state description."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-04",
+        "phrase": "Сегодня обычный рабочий день.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Обычный' takes the masculine ending to match 'день'. The form sits in a simple statement about routine."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-05",
+        "phrase": "Это странный человек, но обычная семья.",
+        "fullAnalysis": "Strategic focus: Contrast across two genders. 'Странный' matches masculine 'человек' while 'обычная' matches feminine 'семья'. The sentence pairs both endings in one contrasting judgement."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-06",
+        "phrase": "В лесу слышны странные звуки.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Странные' takes the plural ending to match 'звуки'. The sentence applies the adjective to a plural noun in an atmospheric scene."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-07",
+        "phrase": "На полке стоят обычные книги.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Обычные' takes the plural ending to match 'книги'. The sentence reinforces the plural form in a plain household setting."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-08",
+        "phrase": "Его поведение очень странно.",
+        "fullAnalysis": "Strategic focus: Neuter short form. 'Странно' is the predicative short form agreeing with neuter 'поведение'. The sentence shows the short form stating a judged quality rather than naming a thing."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-09",
+        "phrase": "Этот случай страннее, чем обычная ошибка.",
+        "fullAnalysis": "Strategic focus: Comparative versus full adjective. 'Страннее' is the comparative form set against the full adjective 'обычная', which agrees with feminine 'ошибка'. The sentence contrasts a comparative with a plain attributive use."
+      },
+      {
+        "id": "BA-STRANNYI-OBYCHNYI-10",
+        "phrase": "Сначала вопрос странный, а потом обычный.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Странный' and 'обычный' both take the masculine ending to match 'вопрос'. The sentence pairs the two adjectives in one shift of perception."
+      }
+    ]
+  }
+]

@@ -9,7 +9,12 @@
       { "id": "BA-BM-02", "phrase": "У диктора медленная речь.", "fullAnalysis": "Strategic focus: Speaking pace. 1. 'Медленная' is feminine nominative, agreeing with 'речь'. 2. The sentence is useful for sound and conversation training. 3. It describes speed without an action verb." },
       { "id": "BA-BM-03", "phrase": "У соседа быстрая машина.", "fullAnalysis": "Strategic focus: Vehicle speed. 1. 'Быстрая' is feminine nominative, agreeing with 'машина'. 2. The image is immediate and easy to remember. 3. A classic everyday adjective pair." },
       { "id": "BA-BM-04", "phrase": "Это очень медленный поезд.", "fullAnalysis": "Strategic focus: Transit contrast. 1. 'Медленный' is masculine nominative, agreeing with 'поезд'. 2. The sentence works well in travel lessons. 3. It trains hearing speed as a descriptive adjective." },
-      { "id": "BA-BM-05", "phrase": "Нужно быстрое решение, а не медленный ответ.", "fullAnalysis": "Strategic focus: Abstract speed. 1. 'Быстрое' is neuter (решение), 'медленный' masculine (ответ); agreement shifts with gender. 2. The sentence contrasts action and reaction." }
+      { "id": "BA-BM-05", "phrase": "Нужно быстрое решение, а не медленный ответ.", "fullAnalysis": "Strategic focus: Abstract speed. 1. 'Быстрое' is neuter (решение), 'медленный' masculine (ответ); agreement shifts with gender. 2. The sentence contrasts action and reaction." },
+      { "id": "BA-BM-06", "phrase": "По дороге едут быстрые машины.", "fullAnalysis": "Strategic focus: Plural agreement. 'Быстрые' takes the plural ending to match 'машины'. The sentence sets the adjective in a lively traffic scene." },
+      { "id": "BA-BM-07", "phrase": "В реке плавают медленные рыбы.", "fullAnalysis": "Strategic focus: Plural agreement. 'Медленные' switches to the plural ending to match 'рыбы'. The verb 'плавают' frames a calm, easy-to-picture image." },
+      { "id": "BA-BM-08", "phrase": "Новый поезд быстрее старого.", "fullAnalysis": "Strategic focus: Comparative form. 'Быстрее' is the comparative of 'быстрый' and stays the same for every gender. The sentence compares two trains in natural travel talk." },
+      { "id": "BA-BM-09", "phrase": "Сегодня интернет медленнее обычного.", "fullAnalysis": "Strategic focus: Comparative form. 'Медленнее' is the comparative of 'медленный' and does not change ending. The sentence places the form in a modern everyday complaint." },
+      { "id": "BA-BM-10", "phrase": "Эта связь слишком медленная.", "fullAnalysis": "Strategic focus: Predicative use. 'Медленная' stands after the noun as a predicate describing 'связь'. 'Слишком' adds a natural note of frustration." }
     ]
   }
 ]

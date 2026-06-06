@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-CHUZHOI-RODNOI",
+    "label": "Чужой / Родной",
+    "badge": "ALIEN/OWN",
+    "description": "Чужой vs родной: alien/native contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-CHUZHOI-RODNOI-01",
+        "phrase": "Это мой родной город.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Родной' takes the masculine ending to match 'город' and carries the sense of one's home town. The form sits in a warm possessive statement."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-02",
+        "phrase": "Здесь чужая холодная страна.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Чужая' takes the feminine ending to match 'страна' and means a foreign, not-one's-own land. The form is anchored in a sense of displacement."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-03",
+        "phrase": "Русский это моё родное слово.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Родное' takes the neuter ending to match 'слово' and conveys belonging to one's own language. The sentence ties the form to a native-tongue idea."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-04",
+        "phrase": "Не бери чужой телефон.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Чужой' matches the inanimate masculine 'телефон' and means someone else's. The sentence shows the alien-possession sense in a sharp warning."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-05",
+        "phrase": "Это родной язык, а тот чужой.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Родной' and 'чужой' both take the masculine ending to match 'язык', the second clause eliding the noun. The sentence sets native against foreign in one breath."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-06",
+        "phrase": "У меня здесь родные люди.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Родные' takes the plural ending to match 'люди' and means one's own kin or close people. The sentence applies the form to family-like company."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-07",
+        "phrase": "Вокруг только чужие лица.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Чужие' takes the plural ending to match 'лица' and means strangers' faces. The sentence reinforces the alien sense in a crowded scene."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-08",
+        "phrase": "Эта улица мне родная.",
+        "fullAnalysis": "Strategic focus: Feminine short form. 'Родная' here stands predicatively with 'улица' to state a felt closeness. The sentence shows how the adjective expresses belonging rather than naming a property."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-09",
+        "phrase": "Мы любим свой родной дом.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Родной' matches the inanimate masculine 'дом' and means one's own home. The sentence pairs it with 'свой' to deepen the sense of ownership."
+      },
+      {
+        "id": "BA-CHUZHOI-RODNOI-10",
+        "phrase": "В чужом доме всё кажется странным.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional agreement. 'Чужом' takes the prepositional ending to match 'доме' after 'в' and means someone else's house. The sentence shows the alien sense in a locative phrase."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-CHYORNYI-BELYI",
+    "label": "Чёрный / Белый",
+    "badge": "BLACK/WHITE",
+    "description": "Чёрный vs белый: black/white contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-CHYORNYI-BELYI-01",
+        "phrase": "У него чёрный костюм.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Чёрный' takes the masculine ending to match 'костюм' and keeps the ё that modern spelling requires. The possessive frame makes the colour observation feel natural."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-02",
+        "phrase": "Это белый снег зимой.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Белый' matches masculine 'снег', and the seasonal word fixes the colour in a familiar image. The short sentence isolates the masculine -ый ending."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-03",
+        "phrase": "На столе чёрная сумка.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Чёрная' takes the feminine ending to match 'сумка'. The spatial frame anchors the form in a concrete household scene."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-04",
+        "phrase": "Это белая рубашка.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Белая' matches feminine 'рубашка', and the minimal sentence lets the feminine -ая ending stand out clearly. It pairs an everyday clothing noun with the colour."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-05",
+        "phrase": "У меня чёрное пальто.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Чёрное' takes the neuter ending to match the indeclinable 'пальто', whose neuter gender drives the agreement. The sentence shows the learner relying on grammatical gender, not the noun's ending."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-06",
+        "phrase": "Это белое облако в небе.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Белое' matches neuter 'облако', and the added location gives a single calm image. The sentence reinforces the neuter -ое ending."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-07",
+        "phrase": "У неё чёрные волосы.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Чёрные' takes the plural ending to match 'волосы', a noun that is plural in Russian. The sentence grounds the plural form in a common description of appearance."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-08",
+        "phrase": "На столе белые тарелки.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Белые' matches plural 'тарелки', and the spatial frame keeps it in a real kitchen scene. The sentence reinforces the plural -ые ending."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-09",
+        "phrase": "Кот чёрный, а собака белая.",
+        "fullAnalysis": "Strategic focus: Direct contrast across two genders. 'Чёрный' matches masculine 'кот' and 'белая' matches feminine 'собака', setting black against white. The comma-joined clauses make the opposition vivid and explicit."
+      },
+      {
+        "id": "BA-CHYORNYI-BELYI-10",
+        "phrase": "Этот хлеб чёрный или белый?",
+        "fullAnalysis": "Strategic focus: Predicate use of both adjectives in a question. 'Чёрный' and 'белый' both agree with masculine 'хлеб' and refer to the common bread distinction. The question form shows the pair used as offered alternatives."
+      }
+    ]
+  }
+]

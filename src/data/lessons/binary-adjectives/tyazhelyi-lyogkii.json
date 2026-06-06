@@ -29,6 +29,31 @@
         "id": "BA-TL-05",
         "phrase": "Здесь лежит тяжёлый камень и лёгкая палка.",
         "fullAnalysis": "Strategic focus: Two-gender comparison. 1. 'Тяжёлый' matches masculine 'камень', 'лёгкая' matches feminine 'палка'. 2. The pair forces two different endings side by side. 3. A strong visual contrast for mixed drills."
+      },
+      {
+        "id": "BA-TL-06",
+        "phrase": "На полке стоят тяжёлые ящики.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 'Тяжёлые' takes the plural ending to match 'ящики'. The sentence sets the adjective in a concrete storage scene."
+      },
+      {
+        "id": "BA-TL-07",
+        "phrase": "В шкафу висят лёгкие платья.",
+        "fullAnalysis": "Strategic focus: Plural agreement. 'Лёгкие' switches to the plural ending to match 'платья'. The verb 'висят' frames an easy-to-picture wardrobe image."
+      },
+      {
+        "id": "BA-TL-08",
+        "phrase": "Этот чемодан тяжелее моего.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Тяжелее' is the comparative of 'тяжёлый' and stays the same across genders. The sentence compares two suitcases in natural travel talk."
+      },
+      {
+        "id": "BA-TL-09",
+        "phrase": "Новый телефон легче старого.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Легче' is the comparative of 'лёгкий' and does not change ending. The sentence compares two phones in modern everyday speech."
+      },
+      {
+        "id": "BA-TL-10",
+        "phrase": "Эта коробка слишком тяжёлая.",
+        "fullAnalysis": "Strategic focus: Predicative use. 'Тяжёлая' stands after the noun as a predicate describing 'коробка'. 'Слишком' adds a natural note of complaint when lifting."
       }
     ]
   }

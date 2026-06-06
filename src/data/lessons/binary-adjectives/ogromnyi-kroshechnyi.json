@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-OGROMNYI-KROSHECHNYI",
+    "label": "Огромный / Крошечный",
+    "badge": "HUGE/TINY",
+    "description": "Огромный vs крошечный: huge/tiny contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-01",
+        "phrase": "У них огромный новый дом.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Огромный' takes the masculine ending to match 'дом'. The sentence frames the size in a natural possessive context."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-02",
+        "phrase": "Это крошечная тёмная комната.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Крошечная' takes the feminine ending to match 'комната'. The form is anchored in a concrete household observation."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-03",
+        "phrase": "В зале огромное окно.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Огромное' takes the neuter ending to match 'окно'. The sentence shows the learner switching endings inside a real room description."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-04",
+        "phrase": "На столе лежит крошечный ключ.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Крошечный' takes the masculine ending to match 'ключ'. The form sits in a simple spatial scene."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-05",
+        "phrase": "Здесь огромный город и крошечная деревня.",
+        "fullAnalysis": "Strategic focus: Contrast across two genders. 'Огромный' matches masculine 'город' while 'крошечная' matches feminine 'деревня'. The sentence pairs both endings in one vivid image."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-06",
+        "phrase": "У бабушки огромные тёплые руки.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Огромные' takes the plural ending to match 'руки'. The sentence shows the same adjective applied to a plural body-part noun."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-07",
+        "phrase": "В коробке крошечные красные пуговицы.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Крошечные' takes the plural ending to match 'пуговицы'. The sentence reinforces the plural form in a tidy everyday scene."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-08",
+        "phrase": "Наша квартира огромна для двоих.",
+        "fullAnalysis": "Strategic focus: Feminine short form. 'Огромна' is the predicative short form agreeing with 'квартира'. The sentence shows how the short form states a judged quality rather than naming an object."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-09",
+        "phrase": "Этот двор больше, чем тот крошечный сад.",
+        "fullAnalysis": "Strategic focus: Comparative versus full adjective. 'Больше' is the comparative form set against the full adjective 'крошечный', which agrees with masculine 'сад'. The sentence contrasts a comparative with a plain attributive use."
+      },
+      {
+        "id": "BA-OGROMNYI-KROSHECHNYI-10",
+        "phrase": "У слона огромные уши, а у мыши крошечные.",
+        "fullAnalysis": "Strategic focus: Direct plural contrast. 'Огромные' and 'крошечные' both take the plural ending to match 'уши', with the second clause eliding the noun. The sentence pairs the two adjectives in a memorable size comparison."
+      }
+    ]
+  }
+]

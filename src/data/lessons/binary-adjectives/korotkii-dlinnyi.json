@@ -9,7 +9,12 @@
       { "id": "BA-KD-02", "phrase": "Нас ждёт длинная дорога.", "fullAnalysis": "Strategic focus: Clear visual contrast. 1. 'Длинная' is feminine nominative agreeing with 'дорога'. 2. The image is easy to picture and reuse. 3. This is a high-value core adjective pair." },
       { "id": "BA-KD-03", "phrase": "Я знаю короткий путь домой.", "fullAnalysis": "Strategic focus: Compact route phrase. 1. 'Короткий' is masculine matching 'путь'. 2. 'Домой' adds a destination and keeps the sentence practical. 3. This is a very natural everyday line." },
       { "id": "BA-KD-04", "phrase": "Бабушка рассказала длинный рассказ.", "fullAnalysis": "Strategic focus: Abstract length. 1. 'Длинный' is masculine accusative matching 'рассказ'. 2. Length describes a story, not a physical object. 3. This teaches that length words extend beyond things." },
-      { "id": "BA-KD-05", "phrase": "Это короткая заметка, но длинное письмо.", "fullAnalysis": "Strategic focus: Side-by-side comparison. 1. 'Короткая' is feminine matching 'заметка'. 2. The neuter noun 'письмо' forces 'длинное' to switch form. 3. One contrast drives two different agreements." }
+      { "id": "BA-KD-05", "phrase": "Это короткая заметка, но длинное письмо.", "fullAnalysis": "Strategic focus: Side-by-side comparison. 1. 'Короткая' is feminine matching 'заметка'. 2. The neuter noun 'письмо' forces 'длинное' to switch form. 3. One contrast drives two different agreements." },
+      { "id": "BA-KD-06", "phrase": "У неё очень длинные волосы.", "fullAnalysis": "Strategic focus: Plural agreement. 'Длинные' takes the plural ending to match 'волосы'. The sentence sets the adjective in a simple personal description." },
+      { "id": "BA-KD-07", "phrase": "На столе лежат короткие карандаши.", "fullAnalysis": "Strategic focus: Plural agreement. 'Короткие' switches to the plural ending to match 'карандаши'. The verb 'лежат' anchors a concrete desk scene." },
+      { "id": "BA-KD-08", "phrase": "Этот путь короче того.", "fullAnalysis": "Strategic focus: Comparative form. 'Короче' is the comparative of 'короткий' and stays invariant across genders. The sentence compares two routes in plain everyday speech." },
+      { "id": "BA-KD-09", "phrase": "Зимой дни становятся короче.", "fullAnalysis": "Strategic focus: Comparative form. 'Короче' here describes a gradual change in the length of days. The seasonal scene makes the comparative feel natural and memorable." },
+      { "id": "BA-KD-10", "phrase": "Эта юбка слишком длинная.", "fullAnalysis": "Strategic focus: Predicative use. 'Длинная' stands after the noun as a predicate describing 'юбка'. 'Слишком' adds a natural everyday judgement about clothing." }
     ]
   }
 ]

@@ -44249,5 +44249,1101 @@
     "analysis": "Past pl. of значить (impf., 'to mean/signify'); imperfective, expressing significance.",
     "synonym": " ",
     "antonym": " "
+  },
+  "здоровая": {
+    "cyrillic": "здоровая",
+    "literal": "healthy",
+    "natural": "Healthy.",
+    "analysis": "Nom. f. sg. of здоровый (adj., 'healthy'). Also colloquially 'big/sturdy'.",
+    "synonym": "крепкая",
+    "antonym": "больная"
+  },
+  "горло": {
+    "cyrillic": "горло",
+    "literal": "throat",
+    "natural": "Throat.",
+    "analysis": "Nom./acc. sg. of горло (n. noun, 'throat'). Body part of the neck and gullet.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "здоровые": {
+    "cyrillic": "здоровые",
+    "literal": "healthy",
+    "natural": "Healthy.",
+    "analysis": "Nom. pl. of здоровый (adj., 'healthy'). Plural agreement form across all genders.",
+    "synonym": "крепкие",
+    "antonym": "больные"
+  },
+  "маленькие": {
+    "cyrillic": "маленькие",
+    "literal": "small",
+    "natural": "Small; little.",
+    "analysis": "Nom. pl. of маленький (adj., 'small/little'). Suppletive comparative меньше.",
+    "synonym": " ",
+    "antonym": "большие"
+  },
+  "плавают": {
+    "cyrillic": "плавают",
+    "literal": "swim",
+    "natural": "They swim; they float.",
+    "analysis": "3pl present of плавать (impf., 'to swim/float'); indeterminate motion verb, repeated or general action.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "чужая": {
+    "cyrillic": "чужая",
+    "literal": "alien; another's",
+    "natural": "Someone else's; foreign.",
+    "analysis": "Nom. f. sg. of чужой (adj., 'another's/alien'). Marks something not one's own.",
+    "synonym": "посторонняя",
+    "antonym": "своя"
+  },
+  "родная": {
+    "cyrillic": "родная",
+    "literal": "native; dear",
+    "natural": "Native; one's own; dear.",
+    "analysis": "Nom. f. sg. of родной (adj., 'native/kindred'). Of family, homeland, or affection.",
+    "synonym": "близкая",
+    "antonym": "чужая"
+  },
+  "чёрное": {
+    "cyrillic": "чёрное",
+    "literal": "black",
+    "natural": "Black.",
+    "analysis": "Nom./acc. n. sg. of чёрный (adj., 'black'). Neuter agreement form.",
+    "synonym": " ",
+    "antonym": "белое"
+  },
+  "далёкая": {
+    "cyrillic": "далёкая",
+    "literal": "distant; far",
+    "natural": "Distant; faraway.",
+    "analysis": "Nom. f. sg. of далёкий (adj., 'distant/far'). Comparative дальше/дальний.",
+    "synonym": "дальняя",
+    "antonym": "близкая"
+  },
+  "близкое": {
+    "cyrillic": "близкое",
+    "literal": "close; near",
+    "natural": "Close; near.",
+    "analysis": "Nom./acc. n. sg. of близкий (adj., 'close/near'). Comparative ближе.",
+    "synonym": " ",
+    "antonym": "далёкое"
+  },
+  "злой": {
+    "cyrillic": "злой",
+    "literal": "angry; evil",
+    "natural": "Angry; wicked.",
+    "analysis": "Nom. m. sg. of злой (adj., 'angry/evil'). Comparative злее.",
+    "synonym": "сердитый",
+    "antonym": "добрый"
+  },
+  "злая": {
+    "cyrillic": "злая",
+    "literal": "angry; evil",
+    "natural": "Angry; wicked.",
+    "analysis": "Nom. f. sg. of злой (adj., 'angry/evil'). Feminine agreement form.",
+    "synonym": "сердитая",
+    "antonym": "добрая"
+  },
+  "злые": {
+    "cyrillic": "злые",
+    "literal": "angry; evil",
+    "natural": "Angry; wicked.",
+    "analysis": "Nom. pl. of злой (adj., 'angry/evil'). Plural agreement form.",
+    "synonym": "сердитые",
+    "antonym": "добрые"
+  },
+  "юбка": {
+    "cyrillic": "юбка",
+    "literal": "skirt",
+    "natural": "Skirt.",
+    "analysis": "Nom. sg. of юбка (f. noun, 'skirt'). Garment worn from the waist down.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "складом": {
+    "cyrillic": "складом",
+    "literal": "warehouse",
+    "natural": "Warehouse; storehouse.",
+    "analysis": "Instr. sg. of склад (m. noun, 'warehouse/store'). Used after с or as instrument/means.",
+    "synonym": "хранилищем",
+    "antonym": " "
+  },
+  "уродливыми": {
+    "cyrillic": "уродливыми",
+    "literal": "ugly",
+    "natural": "Ugly.",
+    "analysis": "Instr. pl. of уродливый (adj., 'ugly/deformed'). Used after с or with instrumental verbs.",
+    "synonym": "некрасивыми",
+    "antonym": "красивыми"
+  },
+  "прежнего": {
+    "cyrillic": "прежнего",
+    "literal": "former; previous",
+    "natural": "Former; previous.",
+    "analysis": "Gen./acc. m./n. sg. of прежний (adj., 'former/previous'). Soft-stem adjective.",
+    "synonym": "бывшего",
+    "antonym": "нынешнего"
+  },
+  "молодые": {
+    "cyrillic": "молодые",
+    "literal": "young",
+    "natural": "Young.",
+    "analysis": "Nom. pl. of молодой (adj., 'young'). Comparative моложе/младше.",
+    "synonym": " ",
+    "antonym": "старые"
+  },
+  "внук": {
+    "cyrillic": "внук",
+    "literal": "grandson",
+    "natural": "Grandson.",
+    "analysis": "Nom. sg. of внук (m. noun, 'grandson'). Feminine counterpart внучка.",
+    "synonym": " ",
+    "antonym": "внучка",
+    "thumbnail": "null"
+  },
+  "крошечная": {
+    "cyrillic": "крошечная",
+    "literal": "tiny",
+    "natural": "Tiny; minuscule.",
+    "analysis": "Nom. f. sg. of крошечный (adj., 'tiny'). Diminutive-intensive of small size.",
+    "synonym": "маленькая",
+    "antonym": "огромная"
+  },
+  "коробке": {
+    "cyrillic": "коробке",
+    "literal": "box",
+    "natural": "Box.",
+    "analysis": "Prep./dat. sg. of коробка (f. noun, 'box'). Used after в/на (location) or к (direction).",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "пуговицы": {
+    "cyrillic": "пуговицы",
+    "literal": "buttons",
+    "natural": "Buttons.",
+    "analysis": "Nom./acc. pl. or gen. sg. of пуговица (f. noun, 'button'). Fastener on clothing.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "уши": {
+    "cyrillic": "уши",
+    "literal": "ears",
+    "natural": "Ears.",
+    "analysis": "Nom./acc. pl. of ухо (n. noun, 'ear'). Irregular plural; gen. pl. ушей.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "полные": {
+    "cyrillic": "полные",
+    "literal": "full",
+    "natural": "Full; complete.",
+    "analysis": "Nom. pl. of полный (adj., 'full/complete'). Also 'plump' of a person.",
+    "synonym": " ",
+    "antonym": "пустые"
+  },
+  "тарелка": {
+    "cyrillic": "тарелка",
+    "literal": "plate",
+    "natural": "Plate; dish.",
+    "analysis": "Nom. sg. of тарелка (f. noun, 'plate'). Tableware for serving food.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "пустыми": {
+    "cyrillic": "пустыми",
+    "literal": "empty",
+    "natural": "Empty.",
+    "analysis": "Instr. pl. of пустой (adj., 'empty'). Used after с or with instrumental verbs.",
+    "synonym": " ",
+    "antonym": "полными"
+  },
+  "полнее": {
+    "cyrillic": "полнее",
+    "literal": "fuller",
+    "natural": "Fuller; more complete.",
+    "analysis": "Comparative of полный (adj., 'full'). Invariant comparative form.",
+    "synonym": " ",
+    "antonym": "пустее"
+  },
+  "сложное": {
+    "cyrillic": "сложное",
+    "literal": "complex; difficult",
+    "natural": "Complex; difficult.",
+    "analysis": "Nom./acc. n. sg. of сложный (adj., 'complex/difficult'). Comparative сложнее.",
+    "synonym": "трудное",
+    "antonym": "простое"
+  },
+  "узкий": {
+    "cyrillic": "узкий",
+    "literal": "narrow",
+    "natural": "Narrow.",
+    "analysis": "Nom. m. sg. of узкий (adj., 'narrow'). Comparative уже.",
+    "synonym": " ",
+    "antonym": "широкий"
+  },
+  "узкое": {
+    "cyrillic": "узкое",
+    "literal": "narrow",
+    "natural": "Narrow.",
+    "analysis": "Nom./acc. n. sg. of узкий (adj., 'narrow'). Neuter agreement form.",
+    "synonym": " ",
+    "antonym": "широкое"
+  },
+  "узкие": {
+    "cyrillic": "узкие",
+    "literal": "narrow",
+    "natural": "Narrow.",
+    "analysis": "Nom. pl. of узкий (adj., 'narrow'). Plural agreement form.",
+    "synonym": " ",
+    "antonym": "широкие"
+  },
+  "слабое": {
+    "cyrillic": "слабое",
+    "literal": "weak",
+    "natural": "Weak; faint.",
+    "analysis": "Nom./acc. n. sg. of слабый (adj., 'weak'). Comparative слабее.",
+    "synonym": " ",
+    "antonym": "сильное"
+  },
+  "слабого": {
+    "cyrillic": "слабого",
+    "literal": "weak",
+    "natural": "Weak; faint.",
+    "analysis": "Gen./acc. m./n. sg. of слабый (adj., 'weak'). Comparative слабее.",
+    "synonym": " ",
+    "antonym": "сильного"
+  },
+  "молод": {
+    "cyrillic": "молод",
+    "literal": "young",
+    "natural": "Young.",
+    "analysis": "Short m. sg. of молодой (adj., 'young'). Predicative form ('he is young').",
+    "synonym": " ",
+    "antonym": "стар"
+  },
+  "слышны": {
+    "cyrillic": "слышны",
+    "literal": "audible",
+    "natural": "Audible; can be heard.",
+    "analysis": "Short pl. of слышный (adj., 'audible'). Predicative ('they can be heard').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "поведение": {
+    "cyrillic": "поведение",
+    "literal": "behavior",
+    "natural": "Behavior; conduct.",
+    "analysis": "Nom./acc. sg. of поведение (n. noun, 'behavior'). Abstract noun for conduct.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "блокнот": {
+    "cyrillic": "блокнот",
+    "literal": "notepad",
+    "natural": "Notepad; notebook.",
+    "analysis": "Nom./acc. sg. of блокнот (m. noun, 'notepad'). Small pad for jotting notes.",
+    "synonym": "тетрадь",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "толстые": {
+    "cyrillic": "толстые",
+    "literal": "thick; fat",
+    "natural": "Thick; fat.",
+    "analysis": "Nom. pl. of толстый (adj., 'thick/fat'). Comparative толще.",
+    "synonym": " ",
+    "antonym": "тонкие"
+  },
+  "ящики": {
+    "cyrillic": "ящики",
+    "literal": "boxes; drawers",
+    "natural": "Boxes; drawers.",
+    "analysis": "Nom./acc. pl. of ящик (m. noun, 'box/drawer'). Container or pull-out compartment.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "платья": {
+    "cyrillic": "платья",
+    "literal": "dresses",
+    "natural": "Dresses.",
+    "analysis": "Nom./acc. pl. or gen. sg. of платье (n. noun, 'dress'). Woman's garment.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "видны": {
+    "cyrillic": "видны",
+    "literal": "visible",
+    "natural": "Visible; can be seen.",
+    "analysis": "Short pl. of видный (adj., 'visible'). Predicative ('they can be seen').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "латынь": {
+    "cyrillic": "латынь",
+    "literal": "Latin",
+    "natural": "Latin.",
+    "analysis": "Nom./acc. sg. of латынь (f. noun, 'Latin language'). The classical Roman tongue.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "мёртвая": {
+    "cyrillic": "мёртвая",
+    "literal": "dead",
+    "natural": "Dead.",
+    "analysis": "Nom. f. sg. of мёртвый (adj., 'dead'). Feminine agreement form.",
+    "synonym": " ",
+    "antonym": "живая"
+  },
+  "мёртвое": {
+    "cyrillic": "мёртвое",
+    "literal": "dead",
+    "natural": "Dead.",
+    "analysis": "Nom./acc. n. sg. of мёртвый (adj., 'dead'). Neuter agreement form.",
+    "synonym": " ",
+    "antonym": "живое"
+  },
+  "жив": {
+    "cyrillic": "жив",
+    "literal": "alive",
+    "natural": "Alive.",
+    "analysis": "Short m. sg. of живой (adj., 'alive'). Predicative form ('he is alive').",
+    "synonym": " ",
+    "antonym": "мёртв"
+  },
+  "крепкая": {
+    "cyrillic": "крепкая",
+    "literal": "strong",
+    "natural": "Strong; sturdy.",
+    "analysis": "Nom. f. sg. of крепкий (adj., 'strong/sturdy/firm'). Of build, drinks, bonds. Comparative крепче.",
+    "synonym": "сильная",
+    "antonym": "слабая"
+  },
+  "здоровое": {
+    "cyrillic": "здоровое",
+    "literal": "healthy",
+    "natural": "Healthy.",
+    "analysis": "Nom./acc. n. sg. of здоровый (adj., 'healthy/well'). Of body, lifestyle. Comparative здоровее.",
+    "synonym": " ",
+    "antonym": "больное"
+  },
+  "болен": {
+    "cyrillic": "болен",
+    "literal": "ill",
+    "natural": "Ill; sick.",
+    "analysis": "Short-form m. sg. of больной (adj., 'sick/ill'); predicative, e.g. он болен. F. больна, pl. больны.",
+    "synonym": " ",
+    "antonym": "здоров"
+  },
+  "того": {
+    "cyrillic": "того",
+    "literal": "that",
+    "natural": "Of that; that one.",
+    "analysis": "Gen./acc. m./n. sg. of тот (demonstrative pron., 'that'). Marks possession or animate object.",
+    "synonym": " ",
+    "antonym": "этого"
+  },
+  "медленные": {
+    "cyrillic": "медленные",
+    "literal": "slow",
+    "natural": "Slow.",
+    "analysis": "Nom./acc. pl. of медленный (adj., 'slow'). Comparative медленнее; adverb медленно.",
+    "synonym": " ",
+    "antonym": "быстрые"
+  },
+  "родное": {
+    "cyrillic": "родное",
+    "literal": "native",
+    "natural": "Native; dear.",
+    "analysis": "Nom./acc. n. sg. of родной (adj., 'native/own/dear'). Of homeland, family, language.",
+    "synonym": " ",
+    "antonym": "чужое"
+  },
+  "чужом": {
+    "cyrillic": "чужом",
+    "literal": "alien",
+    "natural": "Foreign; another's.",
+    "analysis": "Prep. m./n. sg. of чужой (adj., 'someone else's/foreign'). E.g. в чужом доме.",
+    "synonym": " ",
+    "antonym": "своём"
+  },
+  "белое": {
+    "cyrillic": "белое",
+    "literal": "white",
+    "natural": "White.",
+    "analysis": "Nom./acc. n. sg. of белый (adj., 'white'). Of color, e.g. белое вино.",
+    "synonym": " ",
+    "antonym": "чёрное"
+  },
+  "близкая": {
+    "cyrillic": "близкая",
+    "literal": "close",
+    "natural": "Close; near.",
+    "analysis": "Nom. f. sg. of близкий (adj., 'close/near'). Of distance or relationships. Comparative ближе.",
+    "synonym": " ",
+    "antonym": "далёкая"
+  },
+  "севере": {
+    "cyrillic": "севере",
+    "literal": "north",
+    "natural": "In the north.",
+    "analysis": "Prep. sg. of север (m. noun, 'north'). Locative use, e.g. на севере.",
+    "synonym": " ",
+    "antonym": "юге",
+    "thumbnail": "null"
+  },
+  "пёс": {
+    "cyrillic": "пёс",
+    "literal": "dog",
+    "natural": "Dog; hound.",
+    "analysis": "Nom. sg. of пёс (m. noun, 'dog', often male/big). Colloquial alongside собака.",
+    "synonym": "собака",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "злое": {
+    "cyrillic": "злое",
+    "literal": "evil",
+    "natural": "Evil; mean.",
+    "analysis": "Nom./acc. n. sg. of злой (adj., 'angry/evil/mean'). Comparative злее.",
+    "synonym": " ",
+    "antonym": "доброе"
+  },
+  "короткие": {
+    "cyrillic": "короткие",
+    "literal": "short",
+    "natural": "Short.",
+    "analysis": "Nom./acc. pl. of короткий (adj., 'short'). Of length/duration. Comparative короче.",
+    "synonym": " ",
+    "antonym": "длинные"
+  },
+  "уродливая": {
+    "cyrillic": "уродливая",
+    "literal": "ugly",
+    "natural": "Ugly.",
+    "analysis": "Nom. f. sg. of уродливый (adj., 'ugly/deformed'). Comparative уродливее.",
+    "synonym": "некрасивая",
+    "antonym": "красивая"
+  },
+  "уродливый": {
+    "cyrillic": "уродливый",
+    "literal": "ugly",
+    "natural": "Ugly.",
+    "analysis": "Nom. m. sg. of уродливый (adj., 'ugly/deformed'). Comparative уродливее.",
+    "synonym": "некрасивый",
+    "antonym": "красивый"
+  },
+  "пейзаж": {
+    "cyrillic": "пейзаж",
+    "literal": "landscape",
+    "natural": "Landscape; scenery.",
+    "analysis": "Nom./acc. sg. of пейзаж (m. noun, 'landscape/scenery'). Of nature or painting genre.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "молодое": {
+    "cyrillic": "молодое",
+    "literal": "young",
+    "natural": "Young.",
+    "analysis": "Nom./acc. n. sg. of молодой (adj., 'young'). Comparative моложе/младше.",
+    "synonym": " ",
+    "antonym": "старое"
+  },
+  "спортсмены": {
+    "cyrillic": "спортсмены",
+    "literal": "athletes",
+    "natural": "Athletes; sportsmen.",
+    "analysis": "Nom. pl. of спортсмен (m. noun, 'athlete/sportsman'). Animate; f. спортсменка.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "гуляют": {
+    "cyrillic": "гуляют",
+    "literal": "stroll",
+    "natural": "They walk; stroll.",
+    "analysis": "3pl present of гулять (impf., 'to stroll/take a walk'). Leisurely walking, not goal-directed.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "крошечный": {
+    "cyrillic": "крошечный",
+    "literal": "tiny",
+    "natural": "Tiny.",
+    "analysis": "Nom. m. sg. of крошечный (adj., 'tiny/minuscule'). Emphatic diminutive of small.",
+    "synonym": "маленький",
+    "antonym": "огромный"
+  },
+  "крошечные": {
+    "cyrillic": "крошечные",
+    "literal": "tiny",
+    "natural": "Tiny.",
+    "analysis": "Nom./acc. pl. of крошечный (adj., 'tiny/minuscule'). Emphatic diminutive of small.",
+    "synonym": "маленькие",
+    "antonym": "огромные"
+  },
+  "двоих": {
+    "cyrillic": "двоих",
+    "literal": "two",
+    "natural": "Two; the two.",
+    "analysis": "Gen./acc. of двое (collective numeral, 'two', of people/young/paired things). E.g. двоих детей.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "мыши": {
+    "cyrillic": "мыши",
+    "literal": "mice",
+    "natural": "Mice; mouse's.",
+    "analysis": "Nom. pl. or gen./dat./prep. sg. of мышь (f. noun, 'mouse'). Animal or computer device.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "карманы": {
+    "cyrillic": "карманы",
+    "literal": "pockets",
+    "natural": "Pockets.",
+    "analysis": "Nom./acc. pl. of карман (m. noun, 'pocket'). Of clothing or figurative funds.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "залы": {
+    "cyrillic": "залы",
+    "literal": "halls",
+    "natural": "Halls.",
+    "analysis": "Nom./acc. pl. of зал (m. noun, 'hall/large room'). Of concert, exhibition, gym.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "полон": {
+    "cyrillic": "полон",
+    "literal": "full",
+    "natural": "Full.",
+    "analysis": "Short-form m. sg. of полный (adj., 'full'); predicative, e.g. зал полон. F. полна, pl. полны.",
+    "synonym": " ",
+    "antonym": "пуст"
+  },
+  "простая": {
+    "cyrillic": "простая",
+    "literal": "simple",
+    "natural": "Simple; plain.",
+    "analysis": "Nom. f. sg. of простой (adj., 'simple/easy/plain'). Comparative проще.",
+    "synonym": "лёгкая",
+    "antonym": "сложная"
+  },
+  "простые": {
+    "cyrillic": "простые",
+    "literal": "simple",
+    "natural": "Simple; plain.",
+    "analysis": "Nom./acc. pl. of простой (adj., 'simple/easy/plain'). Comparative проще.",
+    "synonym": "лёгкие",
+    "antonym": "сложные"
+  },
+  "узкая": {
+    "cyrillic": "узкая",
+    "literal": "narrow",
+    "natural": "Narrow.",
+    "analysis": "Nom. f. sg. of узкий (adj., 'narrow'). Comparative уже.",
+    "synonym": " ",
+    "antonym": "широкая"
+  },
+  "неудобное": {
+    "cyrillic": "неудобное",
+    "literal": "uncomfortable",
+    "natural": "Uncomfortable; inconvenient.",
+    "analysis": "Nom./acc. n. sg. of неудобный (adj., 'uncomfortable/inconvenient'). Negation of удобный.",
+    "synonym": " ",
+    "antonym": "удобное"
+  },
+  "шире": {
+    "cyrillic": "шире",
+    "literal": "wider",
+    "natural": "Wider.",
+    "analysis": "Comparative of широкий (adj., 'wide') / широко (adv.). E.g. эта дорога шире.",
+    "synonym": " ",
+    "antonym": "уже"
+  },
+  "игрок": {
+    "cyrillic": "игрок",
+    "literal": "player",
+    "natural": "Player.",
+    "analysis": "Nom. sg. of игрок (m. noun, 'player/gambler'). Animate; of games or sport.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "аргументы": {
+    "cyrillic": "аргументы",
+    "literal": "arguments",
+    "natural": "Arguments.",
+    "analysis": "Nom./acc. pl. of аргумент (m. noun, 'argument/point in reasoning'). Not a quarrel.",
+    "synonym": "доводы",
+    "antonym": " "
+  },
+  "силён": {
+    "cyrillic": "силён",
+    "literal": "strong",
+    "natural": "Strong.",
+    "analysis": "Short-form m. sg. of сильный (adj., 'strong'); predicative, e.g. он силён. F. сильна, pl. сильны.",
+    "synonym": "крепок",
+    "antonym": "слаб"
+  },
+  "звуки": {
+    "cyrillic": "звуки",
+    "literal": "sounds",
+    "natural": "Sounds.",
+    "analysis": "Nom./acc. pl. of звук (m. noun, 'sound'). Of noise, music, phonetics.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "страннее": {
+    "cyrillic": "страннее",
+    "literal": "stranger",
+    "natural": "Stranger; odder.",
+    "analysis": "Comparative of странный (adj., 'strange') / странно (adv.). E.g. это ещё страннее.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "толстое": {
+    "cyrillic": "толстое",
+    "literal": "thick",
+    "natural": "Thick; fat.",
+    "analysis": "Nom./acc. n. sg. of толстый (adj., 'thick/fat'). Comparative толще.",
+    "synonym": " ",
+    "antonym": "тонкое"
+  },
+  "дерева": {
+    "cyrillic": "дерева",
+    "literal": "tree",
+    "natural": "Of a tree; of wood.",
+    "analysis": "Gen. sg. of дерево (n. noun, 'tree/wood'). E.g. из дерева ('made of wood').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "висят": {
+    "cyrillic": "висят",
+    "literal": "hang",
+    "natural": "They hang.",
+    "analysis": "3pl present of висеть (impf., 'to hang/be suspended'). Stative; subject is what hangs.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "тяжелее": {
+    "cyrillic": "тяжелее",
+    "literal": "heavier",
+    "natural": "Heavier; harder.",
+    "analysis": "Comparative of тяжёлый (adj., 'heavy/hard') / тяжело (adv.). E.g. этот груз тяжелее.",
+    "synonym": " ",
+    "antonym": "легче"
+  },
+  "низкие": {
+    "cyrillic": "низкие",
+    "literal": "low",
+    "natural": "Low.",
+    "analysis": "Nom./acc. pl. of низкий (adj., 'low/short'). Comparative ниже.",
+    "synonym": " ",
+    "antonym": "высокие"
+  },
+  "мёртвый": {
+    "cyrillic": "мёртвый",
+    "literal": "dead",
+    "natural": "Dead.",
+    "analysis": "Nom. m. sg. of мёртвый (adj., 'dead'). Of beings or figurative (dead silence).",
+    "synonym": " ",
+    "antonym": "живой"
+  },
+  "живое": {
+    "cyrillic": "живое",
+    "literal": "alive",
+    "natural": "Living; alive.",
+    "analysis": "Nom./acc. n. sg. of живой (adj., 'alive/living/lively'). Of beings or vivid quality.",
+    "synonym": " ",
+    "antonym": "мёртвое"
+  },
+  "живые": {
+    "cyrillic": "живые",
+    "literal": "alive",
+    "natural": "Living; alive.",
+    "analysis": "Nom./acc. pl. of живой (adj., 'alive/living/lively'). Of beings or vivid quality.",
+    "synonym": " ",
+    "antonym": "мёртвые"
+  },
+  "больное": {
+    "cyrillic": "больное",
+    "literal": "sick; sore",
+    "natural": "Sick; sore.",
+    "analysis": "Adjective больной ('sick, ill, sore') in n. sg. nom./acc. Describes a painful or diseased thing.",
+    "synonym": "нездоровое",
+    "antonym": "здоровое"
+  },
+  "больные": {
+    "cyrillic": "больные",
+    "literal": "sick; ill",
+    "natural": "Sick; ill.",
+    "analysis": "Adjective больной ('sick, ill') in pl. nom. Can also be substantivized as a noun meaning 'patients'.",
+    "synonym": "нездоровые",
+    "antonym": "здоровые"
+  },
+  "полю": {
+    "cyrillic": "полю",
+    "literal": "field",
+    "natural": "Field.",
+    "analysis": "Dative sg. of поле (n. noun, 'field'). Indirect-object/direction form; nominative -е becomes -ю.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "быстрые": {
+    "cyrillic": "быстрые",
+    "literal": "fast; quick",
+    "natural": "Fast; quick.",
+    "analysis": "Adjective быстрый ('fast, quick') in pl. nom. Comparative быстрее; related adverb быстро.",
+    "synonym": "скорые",
+    "antonym": "медленные"
+  },
+  "обычного": {
+    "cyrillic": "обычного",
+    "literal": "usual; ordinary",
+    "natural": "Usual; ordinary.",
+    "analysis": "Adjective обычный ('usual, ordinary') in m./n. sg. gen. Marks possession or absence of the typical thing.",
+    "synonym": "обыкновенного",
+    "antonym": "необычного"
+  },
+  "родные": {
+    "cyrillic": "родные",
+    "literal": "native; kin",
+    "natural": "Native; one's own.",
+    "analysis": "Adjective родной ('native, kindred, dear') in pl. nom. Often substantivized as 'relatives, kin'.",
+    "synonym": "близкие",
+    "antonym": "чужие"
+  },
+  "чёрная": {
+    "cyrillic": "чёрная",
+    "literal": "black",
+    "natural": "Black.",
+    "analysis": "Adjective чёрный ('black') in f. sg. nom. Agrees with a feminine noun.",
+    "synonym": "тёмная",
+    "antonym": "белая"
+  },
+  "чёрные": {
+    "cyrillic": "чёрные",
+    "literal": "black",
+    "natural": "Black.",
+    "analysis": "Adjective чёрный ('black') in pl. nom. Agrees with a plural noun.",
+    "synonym": "тёмные",
+    "antonym": "белые"
+  },
+  "далёкое": {
+    "cyrillic": "далёкое",
+    "literal": "distant; far",
+    "natural": "Distant; far.",
+    "analysis": "Adjective далёкий ('distant, far') in n. sg. nom./acc. Comparative дальше/далее.",
+    "synonym": "дальнее",
+    "antonym": "близкое"
+  },
+  "близкие": {
+    "cyrillic": "близкие",
+    "literal": "close; near",
+    "natural": "Close; near.",
+    "analysis": "Adjective близкий ('close, near, intimate') in pl. nom. Comparative ближе. Often substantivized as 'loved ones'.",
+    "synonym": "родные",
+    "antonym": "далёкие"
+  },
+  "учительница": {
+    "cyrillic": "учительница",
+    "literal": "teacher",
+    "natural": "Teacher.",
+    "analysis": "Nominative sg. of учительница (f. noun, 'female teacher'); feminine counterpart of учитель.",
+    "synonym": "преподавательница",
+    "antonym": "ученица",
+    "thumbnail": "null"
+  },
+  "замечание": {
+    "cyrillic": "замечание",
+    "literal": "remark",
+    "natural": "Remark; comment.",
+    "analysis": "Nominative/accusative sg. of замечание (n. noun, 'remark, comment, reprimand').",
+    "synonym": "комментарий",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "карандаши": {
+    "cyrillic": "карандаши",
+    "literal": "pencils",
+    "natural": "Pencils.",
+    "analysis": "Nominative/accusative pl. of карандаш (m. noun, 'pencil'); stem-stressed ending -и.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "уродливым": {
+    "cyrillic": "уродливым",
+    "literal": "ugly",
+    "natural": "Ugly.",
+    "analysis": "Adjective уродливый ('ugly, deformed') in m./n. sg. instr. or pl. dat. Marks means or recipient.",
+    "synonym": "безобразным",
+    "antonym": "красивым"
+  },
+  "здания": {
+    "cyrillic": "здания",
+    "literal": "buildings",
+    "natural": "Buildings; of a building.",
+    "analysis": "Of здание (n. noun, 'building'): gen. sg. or nom./acc. pl. Ending -ия from soft-stem neuter.",
+    "synonym": "постройки",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "красивее": {
+    "cyrillic": "красивее",
+    "literal": "more beautiful",
+    "natural": "More beautiful.",
+    "analysis": "Comparative of красивый ('beautiful'); indeclinable form used predicatively or with adverbial sense.",
+    "synonym": "прекраснее",
+    "antonym": "уродливее"
+  },
+  "поколение": {
+    "cyrillic": "поколение",
+    "literal": "generation",
+    "natural": "Generation.",
+    "analysis": "Nominative/accusative sg. of поколение (n. noun, 'generation'); soft-stem neuter in -ие.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "тренируются": {
+    "cyrillic": "тренируются",
+    "literal": "they train",
+    "natural": "They train; they work out.",
+    "analysis": "3pl present of тренироваться (impf., reflexive, 'to train, practice'); -ся marks the reflexive.",
+    "synonym": "занимаются",
+    "antonym": " "
+  },
+  "молода": {
+    "cyrillic": "молода",
+    "literal": "young",
+    "natural": "Young.",
+    "analysis": "Short-form f. sg. of молодой ('young'); predicative, e.g. она молода.",
+    "synonym": "юна",
+    "antonym": "стара"
+  },
+  "огромные": {
+    "cyrillic": "огромные",
+    "literal": "huge; enormous",
+    "natural": "Huge; enormous.",
+    "analysis": "Adjective огромный ('huge, enormous') in pl. nom. Intensified synonym of большой.",
+    "synonym": "большие",
+    "antonym": "маленькие"
+  },
+  "красные": {
+    "cyrillic": "красные",
+    "literal": "red",
+    "natural": "Red.",
+    "analysis": "Adjective красный ('red') in pl. nom. Agrees with a plural noun.",
+    "synonym": "алые",
+    "antonym": " "
+  },
+  "слона": {
+    "cyrillic": "слона",
+    "literal": "elephant",
+    "natural": "Elephant.",
+    "analysis": "Gen./acc. sg. of слон (m. animate noun, 'elephant'); animate accusative equals genitive.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "пустое": {
+    "cyrillic": "пустое",
+    "literal": "empty",
+    "natural": "Empty.",
+    "analysis": "Adjective пустой ('empty, vacant') in n. sg. nom./acc. Short form пуст; comparative пустее.",
+    "synonym": " ",
+    "antonym": "полное"
+  },
+  "конфет": {
+    "cyrillic": "конфет",
+    "literal": "sweets; candies",
+    "natural": "Sweets; candies.",
+    "analysis": "Genitive pl. of конфета (f. noun, 'candy, sweet'); zero-ending plural form, e.g. after много.",
+    "synonym": "сладостей",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "музея": {
+    "cyrillic": "музея",
+    "literal": "museum",
+    "natural": "Museum.",
+    "analysis": "Genitive sg. of музей (m. noun, 'museum'); soft-stem ending -я marks possession or 'from'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "пуст": {
+    "cyrillic": "пуст",
+    "literal": "empty",
+    "natural": "Empty.",
+    "analysis": "Short-form m. sg. of пустой ('empty'); predicative, e.g. дом пуст.",
+    "synonym": " ",
+    "antonym": "полон"
+  },
+  "простое": {
+    "cyrillic": "простое",
+    "literal": "simple; plain",
+    "natural": "Simple; plain.",
+    "analysis": "Adjective простой ('simple, plain, easy') in n. sg. nom./acc. Comparative проще.",
+    "synonym": "лёгкое",
+    "antonym": "сложное"
+  },
+  "сложнее": {
+    "cyrillic": "сложнее",
+    "literal": "more complex",
+    "natural": "More complex; harder.",
+    "analysis": "Comparative of сложный ('complex, difficult'); indeclinable, used predicatively or adverbially.",
+    "synonym": "труднее",
+    "antonym": "проще"
+  },
+  "широкое": {
+    "cyrillic": "широкое",
+    "literal": "wide; broad",
+    "natural": "Wide; broad.",
+    "analysis": "Adjective широкий ('wide, broad') in n. sg. nom./acc. Comparative шире.",
+    "synonym": " ",
+    "antonym": "узкое"
+  },
+  "поля": {
+    "cyrillic": "поля",
+    "literal": "fields",
+    "natural": "Fields; of a field.",
+    "analysis": "Of поле (n. noun, 'field'): gen. sg. or nom./acc. pl. Stem-stressed plural поля.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "слабая": {
+    "cyrillic": "слабая",
+    "literal": "weak",
+    "natural": "Weak.",
+    "analysis": "Adjective слабый ('weak, faint') in f. sg. nom. Comparative слабее; short form слаба.",
+    "synonym": " ",
+    "antonym": "сильная"
+  },
+  "победил": {
+    "cyrillic": "победил",
+    "literal": "won; defeated",
+    "natural": "Won; defeated.",
+    "analysis": "Past m. sg. of победить (perf., 'to win, defeat'); completed act, perfective of побеждать.",
+    "synonym": "выиграл",
+    "antonym": "проиграл"
+  },
+  "слабыми": {
+    "cyrillic": "слабыми",
+    "literal": "weak",
+    "natural": "Weak.",
+    "analysis": "Adjective слабый ('weak') in pl. instr. Marks means or accompaniment; comparative слабее.",
+    "synonym": " ",
+    "antonym": "сильными"
+  },
+  "обычная": {
+    "cyrillic": "обычная",
+    "literal": "usual; ordinary",
+    "natural": "Usual; ordinary.",
+    "analysis": "Adjective обычный ('usual, ordinary') in f. sg. nom. Agrees with a feminine noun.",
+    "synonym": "обыкновенная",
+    "antonym": "необычная"
+  },
+  "обычные": {
+    "cyrillic": "обычные",
+    "literal": "usual; ordinary",
+    "natural": "Usual; ordinary.",
+    "analysis": "Adjective обычный ('usual, ordinary') in pl. nom. Agrees with a plural noun.",
+    "synonym": "обыкновенные",
+    "antonym": "необычные"
+  },
+  "ошибка": {
+    "cyrillic": "ошибка",
+    "literal": "mistake; error",
+    "natural": "Mistake; error.",
+    "analysis": "Nominative sg. of ошибка (f. noun, 'mistake, error'); root in ошибаться 'to err'.",
+    "synonym": "погрешность",
+    "antonym": " "
+  },
+  "одеяло": {
+    "cyrillic": "одеяло",
+    "literal": "blanket",
+    "natural": "Blanket.",
+    "analysis": "Nominative/accusative sg. of одеяло (n. noun, 'blanket, quilt').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ветки": {
+    "cyrillic": "ветки",
+    "literal": "branches; twigs",
+    "natural": "Branches; twigs.",
+    "analysis": "Of ветка (f. noun, 'branch, twig'): gen. sg. or nom./acc. pl. Diminutive of ветвь.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "лёгкие": {
+    "cyrillic": "лёгкие",
+    "literal": "light; easy",
+    "natural": "Light; easy.",
+    "analysis": "Adjective лёгкий ('light, easy') in pl. nom. Comparative легче. Also a noun meaning 'lungs'.",
+    "synonym": "простые",
+    "antonym": "тяжёлые"
+  },
+  "коробка": {
+    "cyrillic": "коробка",
+    "literal": "box",
+    "natural": "Box.",
+    "analysis": "Nominative sg. of коробка (f. noun, 'box, carton').",
+    "synonym": "ящик",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ниже": {
+    "cyrillic": "ниже",
+    "literal": "lower; below",
+    "natural": "Lower; below.",
+    "analysis": "Comparative of низкий ('low'); also adverb 'below, further down'. Indeclinable.",
+    "synonym": " ",
+    "antonym": "выше"
+  },
+  "роза": {
+    "cyrillic": "роза",
+    "literal": "rose",
+    "natural": "Rose.",
+    "analysis": "Nominative sg. of роза (f. noun, 'rose'); the flower.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "существо": {
+    "cyrillic": "существо",
+    "literal": "creature; being",
+    "natural": "Creature; being.",
+    "analysis": "Nominative/accusative sg. of существо (n. noun, 'creature, living being; essence').",
+    "synonym": "создание",
+    "antonym": " "
+  },
+  "мёртвые": {
+    "cyrillic": "мёртвые",
+    "literal": "dead",
+    "natural": "Dead.",
+    "analysis": "Adjective мёртвый ('dead, lifeless') in pl. nom. Short form мёртв. Often substantivized as 'the dead'.",
+    "synonym": "погибшие",
+    "antonym": "живые"
   }
 }

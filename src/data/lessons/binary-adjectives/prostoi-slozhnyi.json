@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-PROSTOI-SLOZHNYI",
+    "label": "Простой / Сложный",
+    "badge": "SIMPLE/COMPLEX",
+    "description": "Простой vs сложный: simple/complex contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-01",
+        "phrase": "Это очень простой вопрос.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Простой' takes the masculine ending to match 'вопрос', calling it easy. The sentence anchors the form in a common classroom remark."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-02",
+        "phrase": "У меня сложный план.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Сложный' matches masculine 'план', marking it as complicated. The sentence places the form in a practical possessive context."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-03",
+        "phrase": "Это простая задача.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Простая' takes the feminine ending to match 'задача', meaning straightforward. The sentence pins the form to a concrete piece of work."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-04",
+        "phrase": "Это сложная ситуация.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Сложная' matches feminine 'ситуация', describing it as difficult. The sentence shows the complex sense in an everyday abstract noun."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-05",
+        "phrase": "У него простое решение.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Простое' takes the neuter ending to match 'решение', meaning simple. The sentence ties the form to a clear practical outcome."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-06",
+        "phrase": "Это сложное упражнение.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Сложное' matches neuter 'упражнение', marking it as hard. The sentence shows the learner switching endings on a study task."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-07",
+        "phrase": "Здесь простые правила.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Простые' takes the plural ending to match 'правила', meaning easy. The sentence anchors the form in a practical set of instructions."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-08",
+        "phrase": "Это очень сложные машины.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Сложные' matches plural 'машины', describing them as complex. The sentence places the form in a concrete technical scene."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-09",
+        "phrase": "Текст был простой, а вопросы сложные.",
+        "fullAnalysis": "Strategic focus: Direct contrast across masculine and plural. 'Простой' matches masculine 'текст' while 'сложные' matches plural 'вопросы', pairing easy and hard in one thought. The sentence sets both endings against each other in a study scene."
+      },
+      {
+        "id": "BA-PROSTOI-SLOZHNYI-10",
+        "phrase": "Эта тема сложнее, чем кажется.",
+        "fullAnalysis": "Strategic focus: Comparative of 'сложный'. 'Сложнее' is the comparative form, stating the topic is more complex than it seems. The sentence pairs the comparative with a natural reflective remark."
+      }
+    ]
+  }
+]

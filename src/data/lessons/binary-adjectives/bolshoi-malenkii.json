@@ -9,7 +9,12 @@
       { "id": "BA-BM-02", "phrase": "Это совсем маленькая комната.", "fullAnalysis": "Strategic focus: Feminine nominative agreement. 1. 'Маленькая' takes the feminine ending to match 'комната'. 2. The sentence anchors the form in a concrete household observation." },
       { "id": "BA-BM-03", "phrase": "В спальне большое окно.", "fullAnalysis": "Strategic focus: Neuter nominative agreement. 1. 'Большое' takes the neuter ending to match 'окно'. 2. The sentence shows the learner switching endings inside a real room description." },
       { "id": "BA-BM-04", "phrase": "У окна стоит маленький стол.", "fullAnalysis": "Strategic focus: Masculine nominative agreement. 1. 'Маленький' takes the masculine ending to match 'стол'. 2. The sentence anchors the form in a simple spatial scene." },
-      { "id": "BA-BM-05", "phrase": "Рядом большой город и маленькая деревня.", "fullAnalysis": "Strategic focus: Contrast across two genders. 1. 'Большой' matches masculine 'город'; 'маленькая' matches feminine 'деревня'. 2. The sentence pairs both endings in one vivid urban-rural image." }
+      { "id": "BA-BM-05", "phrase": "Рядом большой город и маленькая деревня.", "fullAnalysis": "Strategic focus: Contrast across two genders. 1. 'Большой' matches masculine 'город'; 'маленькая' matches feminine 'деревня'. 2. The sentence pairs both endings in one vivid urban-rural image." },
+      { "id": "BA-BM-06", "phrase": "В саду растут большие деревья.", "fullAnalysis": "Strategic focus: Plural agreement. 'Большие' takes the plural ending to match 'деревья'. The sentence sets the adjective in a calm garden scene." },
+      { "id": "BA-BM-07", "phrase": "По полю бегут маленькие дети.", "fullAnalysis": "Strategic focus: Plural agreement. 'Маленькие' switches to the plural ending to match 'дети'. The verb 'бегут' brings a lively everyday picture of children at play." },
+      { "id": "BA-BM-08", "phrase": "Новый магазин больше старого.", "fullAnalysis": "Strategic focus: Comparative form. 'Больше' is the comparative of 'большой' and does not change for gender. The sentence compares two shops in plain conversational Russian." },
+      { "id": "BA-BM-09", "phrase": "Эта чашка слишком маленькая.", "fullAnalysis": "Strategic focus: Predicative use. 'Маленькая' stands after the noun as a predicate describing 'чашка'. 'Слишком' adds a natural note of complaint about everyday objects." },
+      { "id": "BA-BM-10", "phrase": "Этот ключ меньше того ключа.", "fullAnalysis": "Strategic focus: Comparative contrast. 'Меньше' is the comparative of 'маленький' and stays invariant across forms. The sentence sets two keys side by side for a clear size comparison." }
     ]
   }
 ]

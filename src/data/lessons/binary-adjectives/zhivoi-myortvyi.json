@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-ZHIVOI-MYORTVYI",
+    "label": "Живой / Мёртвый",
+    "badge": "ALIVE/DEAD",
+    "description": "Живой vs мёртвый: alive/dead contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-01",
+        "phrase": "Этот человек ещё живой.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Живой' takes the masculine ending to match 'человек'. The sentence shows the literal sense of being alive in a tense everyday observation."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-02",
+        "phrase": "Латынь это мёртвый язык.",
+        "fullAnalysis": "Strategic focus: Idiomatic masculine usage. 'Мёртвый' matches masculine 'язык' but here carries the figurative sense of a language no longer spoken. The form anchors the common metaphor 'мёртвый язык'."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-03",
+        "phrase": "На столе стоит живая роза.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Живая' takes the feminine ending to match 'роза'. The sentence contrasts a fresh living flower with a withered one in a simple domestic scene."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-04",
+        "phrase": "В саду лежит мёртвая птица.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Мёртвая' takes the feminine ending to match 'птица'. The form appears in its plain literal sense within a quiet garden image."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-05",
+        "phrase": "Это очень живое существо.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Живое' takes the neuter ending to match 'существо'. The sentence stresses vitality and energy in a neuter noun."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-06",
+        "phrase": "Перед нами мёртвое море.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Мёртвое' takes the neuter ending to match 'море'. The sentence shows the form in a fixed geographic name while keeping the dead/lifeless sense visible."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-07",
+        "phrase": "В парке гуляют живые люди.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Живые' takes the plural ending to match 'люди'. The sentence fills a public scene with living, moving people."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-08",
+        "phrase": "На фронте остались мёртвые деревья.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Мёртвые' takes the plural ending to match 'деревья'. The form paints a bleak landscape of lifeless trees."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-09",
+        "phrase": "Город был живой, а сад мёртвый.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Живой' and 'мёртвый' both take masculine endings to match 'город' and 'сад'. The sentence sets the two opposites side by side in one breath."
+      },
+      {
+        "id": "BA-ZHIVOI-MYORTVYI-10",
+        "phrase": "После работы я едва жив.",
+        "fullAnalysis": "Strategic focus: Masculine short form. 'Жив' is the predicate short form of 'живой', used here idiomatically to mean barely alive from exhaustion. Short forms like this dominate spoken Russian about health and state."
+      }
+    ]
+  }
+]

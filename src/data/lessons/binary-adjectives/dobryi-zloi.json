@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-DOBRYI-ZLOI",
+    "label": "Добрый / Злой",
+    "badge": "KIND/MEAN",
+    "description": "Добрый vs злой: kind/mean contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-DOBRYI-ZLOI-01",
+        "phrase": "Наш сосед очень добрый человек.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Добрый' takes the masculine ending to match 'человек'. The sentence frames kindness as a settled trait in a familiar neighbour."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-02",
+        "phrase": "У ворот стоит злой пёс.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Злой' takes the masculine ending to match 'пёс'. The form carries the sense of an angry, hostile animal in a vivid scene."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-03",
+        "phrase": "Это очень добрая женщина.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Добрая' takes the feminine ending to match 'женщина'. The sentence anchors warmth and generosity in a simple description."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-04",
+        "phrase": "Сегодня учительница такая злая.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Злая' takes the feminine ending to match 'учительница'. The form here means cross or angry rather than truly evil."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-05",
+        "phrase": "У него доброе сердце.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Доброе' takes the neuter ending to match 'сердце'. The sentence uses the classic idiom for a kind-hearted person."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-06",
+        "phrase": "Это было злое замечание.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Злое' takes the neuter ending to match 'замечание'. The form conveys a spiteful, mean remark in the past tense."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-07",
+        "phrase": "Здесь живут добрые соседи.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Добрые' takes the plural ending to match 'соседи'. The sentence describes a whole friendly community."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-08",
+        "phrase": "На улице были злые люди.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Злые' takes the plural ending to match 'люди'. The form paints a crowd as hostile or mean."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-09",
+        "phrase": "Отец добрый, а брат злой.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Добрый' and 'злой' both take masculine endings to match 'отец' and 'брат'. The sentence places kindness and meanness in one family comparison."
+      },
+      {
+        "id": "BA-DOBRYI-ZLOI-10",
+        "phrase": "Почему ты сегодня такой злой?",
+        "fullAnalysis": "Strategic focus: Masculine predicate in a question. 'Злой' agrees with the masculine addressee and means angry here, not evil. The question form shows how the adjective works in everyday spoken Russian."
+      }
+    ]
+  }
+]

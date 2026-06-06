@@ -9,7 +9,12 @@
       { "id": "BA-VN-02", "phrase": "В комнате стоит низкий стол.", "fullAnalysis": "Strategic focus: Low object description. 1. 'Низкий' is masculine nominative, agreeing with 'стол'. 2. The setting is everyday and concrete. 3. Shows how English 'low' maps onto Russian adjective agreement." },
       { "id": "BA-VN-03", "phrase": "На кухне есть высокая полка.", "fullAnalysis": "Strategic focus: Shelf height. 1. 'Высокая' is feminine nominative, agreeing with 'полка'. 2. Practical for home and kitchen contexts. 3. Reinforces one adjective across multiple noun genders." },
       { "id": "BA-VN-04", "phrase": "В этом доме низкий потолок.", "fullAnalysis": "Strategic focus: Spatial environment. 1. 'Низкий' is masculine nominative, agreeing with 'потолок'. 2. The ceiling feels physically close. 3. Useful for describing rooms and places." },
-      { "id": "BA-VN-05", "phrase": "Высокий человек чинит низкий забор.", "fullAnalysis": "Strategic focus: Two linked contrasts. 1. 'Высокий' and 'низкий' are both masculine nominative, agreeing with 'человек' and 'забор'. 2. The verb ties the height opposition into one scene. 3. Strong drill template." }
+      { "id": "BA-VN-05", "phrase": "Высокий человек чинит низкий забор.", "fullAnalysis": "Strategic focus: Two linked contrasts. 1. 'Высокий' and 'низкий' are both masculine nominative, agreeing with 'человек' and 'забор'. 2. The verb ties the height opposition into one scene. 3. Strong drill template." },
+      { "id": "BA-VN-06", "phrase": "Вокруг стоят высокие дома.", "fullAnalysis": "Strategic focus: Plural agreement. 'Высокие' takes the plural ending to match 'дома'. The sentence sets the adjective in a busy city skyline." },
+      { "id": "BA-VN-07", "phrase": "За окном видны низкие облака.", "fullAnalysis": "Strategic focus: Plural agreement. 'Низкие' switches to the plural ending to match 'облака'. The view from the window makes the form easy to picture." },
+      { "id": "BA-VN-08", "phrase": "Эта гора выше соседней.", "fullAnalysis": "Strategic focus: Comparative form. 'Выше' is the comparative of 'высокий' and stays invariant across genders. The sentence compares two mountains in a clear natural scene." },
+      { "id": "BA-VN-09", "phrase": "Здесь цены ниже обычного.", "fullAnalysis": "Strategic focus: Comparative form. 'Ниже' is the comparative of 'низкий' and does not change ending. The sentence places the form in a practical shopping context." },
+      { "id": "BA-VN-10", "phrase": "Этот забор слишком высокий.", "fullAnalysis": "Strategic focus: Predicative use. 'Высокий' stands after the noun as a predicate describing 'забор'. 'Слишком' adds a natural everyday judgement." }
     ]
   }
 ]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-SHIROKII-UZKII",
+    "label": "Широкий / Узкий",
+    "badge": "WIDE/NARROW",
+    "description": "Широкий vs узкий: wide/narrow contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-SHIROKII-UZKII-01",
+        "phrase": "Это широкий проспект.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Широкий' takes the masculine ending to match 'проспект'. The short sentence isolates the masculine form in a familiar city setting."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-02",
+        "phrase": "Это очень узкий коридор.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Узкий' matches masculine 'коридор', and the intensifier underlines the cramped sense. The sentence anchors the form in a concrete indoor space."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-03",
+        "phrase": "У нас широкая кровать.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Широкая' takes the feminine ending to match 'кровать'. The possessive frame keeps the form in an everyday household observation."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-04",
+        "phrase": "Это узкая улица в центре.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Узкая' matches feminine 'улица', and the added location gives a vivid old-town image. The sentence reinforces the feminine -ая ending."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-05",
+        "phrase": "В доме широкое окно.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Широкое' takes the neuter ending to match 'окно'. The spatial frame shows the learner switching endings inside a room description."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-06",
+        "phrase": "Это узкое кресло неудобное.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Узкое' matches neuter 'кресло', and the second adjective reinforces the cramped sense. The sentence keeps the neuter -ое ending in a practical comment."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-07",
+        "phrase": "Здесь широкие дороги и поля.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Широкие' takes the plural ending to match 'дороги'. The added 'поля' broadens the open-space image around the plural form."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-08",
+        "phrase": "У него узкие плечи.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Узкие' matches plural 'плечи' in a common description of build. The possessive frame grounds the plural -ие ending in real speech."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-09",
+        "phrase": "Этот мост широкий, а тот узкий.",
+        "fullAnalysis": "Strategic focus: Direct contrast across two masculine nouns. 'Широкий' and 'узкий' both agree with 'мост', set off by the demonstratives 'этот' and 'тот'. The comma-joined clauses make the wide-versus-narrow opposition explicit."
+      },
+      {
+        "id": "BA-SHIROKII-UZKII-10",
+        "phrase": "Эта река шире той.",
+        "fullAnalysis": "Strategic focus: Comparative form of широкий. 'Шире' is the irregular comparative meaning wider, used with the genitive 'той' for comparison. The sentence shows the pair moving into a comparative judgment."
+      }
+    ]
+  }
+]

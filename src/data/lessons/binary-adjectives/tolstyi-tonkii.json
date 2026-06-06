@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-TOLSTYI-TONKII",
+    "label": "Толстый / Тонкий",
+    "badge": "THICK/THIN",
+    "description": "Толстый vs тонкий: thick/thin contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-TOLSTYI-TONKII-01",
+        "phrase": "Это очень толстый словарь.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Толстый' takes the masculine ending to match 'словарь', describing a thick book. The sentence anchors the object sense in a familiar item."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-02",
+        "phrase": "У меня тонкий блокнот.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Тонкий' matches masculine 'блокнот', meaning thin. The sentence places the form in a simple possessive context."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-03",
+        "phrase": "Это толстая книга.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Толстая' takes the feminine ending to match 'книга', describing its thickness. The sentence pins the object sense to a concrete noun."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-04",
+        "phrase": "На столе тонкая тетрадь.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Тонкая' matches feminine 'тетрадь', meaning thin. The sentence anchors the form in a small spatial scene."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-05",
+        "phrase": "Это толстое одеяло.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Толстое' takes the neuter ending to match 'одеяло', describing a thick blanket. The sentence ties the object sense to a cosy household item."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-06",
+        "phrase": "У окна висит тонкое полотенце.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Тонкое' matches neuter 'полотенце', meaning thin. The sentence shows the ending switching inside a concrete room description."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-07",
+        "phrase": "Здесь толстые стены.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Толстые' takes the plural ending to match 'стены', describing thick walls. The sentence anchors the object sense in a building scene."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-08",
+        "phrase": "У дерева тонкие ветки.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Тонкие' matches plural 'ветки', meaning thin. The sentence places the form in a natural outdoor image."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-09",
+        "phrase": "Этот журнал толстый, а тот тонкий.",
+        "fullAnalysis": "Strategic focus: Direct thick-vs-thin contrast for objects. Both 'толстый' and 'тонкий' match masculine 'журнал', setting a thick magazine against a thin one. The sentence puts the two opposite endings side by side."
+      },
+      {
+        "id": "BA-TOLSTYI-TONKII-10",
+        "phrase": "Этот человек слишком толстый.",
+        "fullAnalysis": "Strategic focus: Masculine agreement in the body sense. Here 'толстый' matches masculine 'человек' and means fat rather than thick, the secondary people sense of the adjective. The sentence shows how толстый shifts meaning from objects to a person."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-BOLNOI-ZDOROVYI",
+    "label": "Больной / Здоровый",
+    "badge": "SICK/HEALTHY",
+    "description": "Больной vs здоровый: sick/healthy contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-01",
+        "phrase": "В палате лежит больной мальчик.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Больной' takes the masculine ending to match 'мальчик'. The sentence shows the attributive form in a hospital scene."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-02",
+        "phrase": "Это сильный и здоровый ребёнок.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Здоровый' takes the masculine ending to match 'ребёнок'. The form pairs with another adjective to describe robust health."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-03",
+        "phrase": "Моя бабушка сегодня больная.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Больная' takes the feminine ending to match 'бабушка'. The full-form attributive describes a current sick state."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-04",
+        "phrase": "У нас здоровая и крепкая семья.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Здоровая' takes the feminine ending to match 'семья'. The sentence extends health from a person to a whole household."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-05",
+        "phrase": "У ребёнка больное горло.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Больное' takes the neuter ending to match 'горло'. The sentence uses the everyday phrase for a sore throat."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-06",
+        "phrase": "У спортсмена здоровое сердце.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Здоровое' takes the neuter ending to match 'сердце'. The form describes a strong, healthy organ."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-07",
+        "phrase": "В палате лежат больные дети.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Больные' takes the plural ending to match 'дети'. The sentence describes a ward full of sick children."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-08",
+        "phrase": "После отдыха все стали здоровые.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Здоровые' takes the plural ending to match the implied group. The sentence shows a whole group recovering full health."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-09",
+        "phrase": "Вчера он был болен, а сегодня здоров.",
+        "fullAnalysis": "Strategic focus: Masculine short forms. 'Болен' and 'здоров' are the predicate short forms of 'больной' and 'здоровый', and these short forms are far more common than the full forms when talking about health. The sentence contrasts both states in one timeline."
+      },
+      {
+        "id": "BA-BOLNOI-ZDOROVYI-10",
+        "phrase": "Доктор, я совсем здоров?",
+        "fullAnalysis": "Strategic focus: Masculine short form in a question. 'Здоров' is the predicate short form of 'здоровый', the standard way to ask or state that one is well. The question shows the form in a natural clinic exchange."
+      }
+    ]
+  }
+]

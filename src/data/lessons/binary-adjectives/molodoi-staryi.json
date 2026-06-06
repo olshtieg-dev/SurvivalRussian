@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-MOLODOI-STARYI",
+    "label": "Молодой / Старый",
+    "badge": "YOUNG/OLD",
+    "description": "Молодой vs старый: young/old contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-MOLODOI-STARYI-01",
+        "phrase": "Это очень молодой врач.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Молодой' takes the masculine ending to match 'врач', describing the doctor's young age. The sentence anchors the age sense in a simple everyday introduction."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-02",
+        "phrase": "У нас живёт старый кот.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement in the age sense. 'Старый' matches masculine 'кот' and clearly means aged, not new. The sentence keeps старый firmly tied to the living creature's years."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-03",
+        "phrase": "Моя бабушка уже старая.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Старая' takes the feminine ending to match 'бабушка', expressing advanced age. The sentence pins the form to a familiar family member."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-04",
+        "phrase": "Молодая девушка читает книгу.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Молодая' matches feminine 'девушка' and stresses her youth. The sentence places the form in a calm, concrete scene."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-05",
+        "phrase": "Это молодое поколение.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Молодое' takes the neuter ending to match 'поколение'. The sentence shows the young/old contrast applied to an abstract collective noun."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-06",
+        "phrase": "В деревне живут старые люди.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement in the age sense. 'Старые' takes the plural ending to match 'люди', meaning elderly. The sentence keeps старый about people's years, not newness."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-07",
+        "phrase": "Молодые спортсмены много тренируются.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Молодые' matches plural 'спортсмены', emphasizing their youth. The sentence ties the form to an energetic everyday activity."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-08",
+        "phrase": "Старый дедушка и молодой внук гуляют.",
+        "fullAnalysis": "Strategic focus: Direct age contrast across two masculine nouns. 'Старый' matches 'дедушка' and 'молодой' matches 'внук', putting old and young side by side. The sentence frames both forms in one family scene."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-09",
+        "phrase": "Эта лошадь ещё молода.",
+        "fullAnalysis": "Strategic focus: Feminine short-form predicate. The short form 'молода' acts as the predicate of feminine 'лошадь', stating she is still young. The sentence shows how the age adjective drops its long ending after the noun."
+      },
+      {
+        "id": "BA-MOLODOI-STARYI-10",
+        "phrase": "Брат старше меня на три года.",
+        "fullAnalysis": "Strategic focus: Comparative of the age adjective. 'Старше' is the comparative of 'старый', stating the brother is older in years. The sentence pairs the comparative with a concrete age difference."
+      }
+    ]
+  }
+]

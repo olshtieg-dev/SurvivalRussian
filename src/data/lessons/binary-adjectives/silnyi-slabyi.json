@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-SILNYI-SLABYI",
+    "label": "Сильный / Слабый",
+    "badge": "STRONG/WEAK",
+    "description": "Сильный vs слабый: strong/weak contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-SILNYI-SLABYI-01",
+        "phrase": "Сегодня дует сильный ветер.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Сильный' takes the masculine ending to match 'ветер'. The weather phrase anchors the form in a common daily observation."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-02",
+        "phrase": "У бабушки слабая память.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Слабая' takes the feminine ending to match 'память'. The sentence places the form in a familiar family context."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-03",
+        "phrase": "У ребёнка слабое здоровье.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Слабое' takes the neuter ending to match 'здоровье'. The everyday concern makes the neuter form concrete."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-04",
+        "phrase": "У спортсмена сильные руки.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Сильные' takes the plural ending to match 'руки'. The vivid image fixes the plural form in mind."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-05",
+        "phrase": "Сильный игрок победил слабого соперника.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Сильный' is nominative for 'игрок' while 'слабого' is accusative for the animate 'соперника'. The match-up pairs both adjectives in one action."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-06",
+        "phrase": "Этот чай слишком слабый.",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Слабый' follows the noun as a predicate describing 'чай'. The everyday remark roots the form in daily life."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-07",
+        "phrase": "Её воля была сильной.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'сильной' takes the feminine instrumental ending to match 'воля'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-08",
+        "phrase": "Их аргументы были слабыми.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'слабыми' takes the plural instrumental ending to match 'аргументы'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-09",
+        "phrase": "Он молод, но очень силён.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'силён' states a present quality of the subject with a vowel-fill 'ё'. Short forms are typical when describing a current state."
+      },
+      {
+        "id": "BA-SILNYI-SLABYI-10",
+        "phrase": "Кофе сегодня крепче и сильнее.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Сильнее' is the comparative of 'сильный' and stays the same for any gender. The sentence compares today's coffee to the usual."
+      }
+    ]
+  }
+]

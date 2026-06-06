@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-POLNYI-PUSTOI",
+    "label": "Полный / Пустой",
+    "badge": "FULL/EMPTY",
+    "description": "Полный vs пустой: full/empty contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-POLNYI-PUSTOI-01",
+        "phrase": "На столе стоит полный стакан.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Полный' takes the masculine ending to match 'стакан'. The sentence anchors the form in a simple kitchen observation."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-02",
+        "phrase": "Эта бутылка совсем пустая.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Пустая' takes the feminine ending to match 'бутылка'. The everyday context makes the emptiness concrete and easy to picture."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-03",
+        "phrase": "В углу стоит пустое ведро.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Пустое' takes the neuter ending to match 'ведро'. The spatial phrase shows the learner switching endings in a real scene."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-04",
+        "phrase": "У нас полные карманы конфет.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Полные' takes the plural ending to match 'карманы'. The image of full pockets fixes the form in a lively everyday picture."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-05",
+        "phrase": "Полный автобус ехал мимо пустой остановки.",
+        "fullAnalysis": "Strategic focus: Direct contrast across two genders. 'Полный' matches masculine 'автобус' while 'пустой' matches feminine 'остановки' in the genitive. The single scene pairs both adjectives in motion."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-06",
+        "phrase": "Холодильник опять пустой.",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Пустой' stands after the noun as a predicate describing 'холодильник'. The familiar complaint roots the form in daily life."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-07",
+        "phrase": "Её тарелка была полной.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'полной' takes the feminine instrumental ending to match 'тарелка'. This shows the common быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-08",
+        "phrase": "Залы музея были пустыми.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'пустыми' takes the plural instrumental ending to match 'залы'. The sentence extends the быть-plus-instrumental pattern into the plural."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-09",
+        "phrase": "Этот ящик полон, а тот пуст.",
+        "fullAnalysis": "Strategic focus: Short-form masculine contrast. The short forms 'полон' and 'пуст' set the two boxes against each other in a crisp predicate. Short forms are typical when stating a current state."
+      },
+      {
+        "id": "BA-POLNYI-PUSTOI-10",
+        "phrase": "Этот стакан полнее того.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Полнее' is the comparative of 'полный' and stays unchanged for any gender. The sentence compares two glasses to show degree."
+      }
+    ]
+  }
+]

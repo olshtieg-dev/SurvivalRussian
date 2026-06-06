@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-KRASIVYI-URODLIVYI",
+    "label": "Красивый / Уродливый",
+    "badge": "PRETTY/UGLY",
+    "description": "Красивый vs уродливый: beautiful/ugly contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-01",
+        "phrase": "У них очень красивый сад.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Красивый' takes the masculine ending to match 'сад'. The possessive phrase anchors the form in a pleasant everyday scene."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-02",
+        "phrase": "На стене висит уродливая картина.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Уродливая' takes the feminine ending to match 'картина'. The spatial detail makes the form concrete."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-03",
+        "phrase": "Это красивое старое здание.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Красивое' takes the neuter ending to match 'здание'. The sentence stacks two adjectives to show neuter agreement clearly."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-04",
+        "phrase": "В парке растут красивые цветы.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Красивые' takes the plural ending to match 'цветы'. The garden image fixes the plural form in mind."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-05",
+        "phrase": "Красивый дом стоял рядом с уродливым складом.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Красивый' is nominative for 'дом' while 'уродливым' is instrumental after 'с' for 'складом'. The street scene pairs both adjectives at once."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-06",
+        "phrase": "Этот свитер довольно уродливый.",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Уродливый' follows the noun as a predicate describing 'свитер'. The casual judgement roots the form in daily life."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-07",
+        "phrase": "Её улыбка была красивой.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'красивой' takes the feminine instrumental ending to match 'улыбка'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-08",
+        "phrase": "Эти здания были уродливыми.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'уродливыми' takes the plural instrumental ending to match 'здания'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-09",
+        "phrase": "Этот пейзаж так красив!",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'красив' states the present quality of 'пейзаж' with an exclamation. Short forms are common in emotive descriptions."
+      },
+      {
+        "id": "BA-KRASIVYI-URODLIVYI-10",
+        "phrase": "Этот город красивее прежнего.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Красивее' is the comparative of 'красивый' and stays the same for any gender. The sentence compares one city to another."
+      }
+    ]
+  }
+]
