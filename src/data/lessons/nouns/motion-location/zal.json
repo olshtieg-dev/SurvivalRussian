@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-ZAL",
+    "label": "Зал",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for зал (hall).",
+    "missions": [
+      {
+        "id": "NN-MOTION-ZAL-01",
+        "phrase": "Этот зал очень большой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зал' is a masculine noun in the nominative as the subject. 'Этот' points at a specific hall, and 'большой' is the predicate adjective."
+      },
+      {
+        "id": "NN-MOTION-ZAL-02",
+        "phrase": "Мы украсили зал к празднику.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зал' is inanimate masculine, so its accusative matches the nominative as the object of 'украсили'. 'К празднику' is the dative of purpose."
+      },
+      {
+        "id": "NN-MOTION-ZAL-03",
+        "phrase": "Концерт проходит в большом зале.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В зале' uses the prepositional form after 'в' to locate the concert. 'Большом' agrees in the masculine prepositional case."
+      },
+      {
+        "id": "NN-MOTION-ZAL-04",
+        "phrase": "Зрители вошли в зал тихо.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В зал' uses the accusative after 'в' to show motion into the hall. 'Зрители' is the nominative subject, and 'тихо' is the adverb."
+      },
+      {
+        "id": "NN-MOTION-ZAL-05",
+        "phrase": "Из зала вышли все гости.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Зала' is the genitive after 'из' showing motion out of the hall. 'Гости' is the nominative subject, and 'все' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-ZAL-06",
+        "phrase": "Они идут к главному залу.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Залу' is the dative after 'к' showing approach toward the hall. 'Главному' agrees in the masculine dative, and 'идут' is the verb of motion."
+      },
+      {
+        "id": "NN-MOTION-ZAL-07",
+        "phrase": "Перед залом стоит большая очередь.",
+        "fullAnalysis": "Strategic focus: Instrumental after перед. 'Залом' is the instrumental after 'перед' showing position in front of the hall. 'Очередь' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-ZAL-08",
+        "phrase": "В театре несколько красивых залов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after несколько. 'Залов' is the genitive plural required by the quantity word 'несколько'. 'Красивых' agrees in the plural, and 'в театре' locates them."
+      },
+      {
+        "id": "NN-MOTION-ZAL-09",
+        "phrase": "Эти залы всегда полны людей.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Залы' is the nominative plural and the subject. 'Эти' agrees in the plural, and 'полны людей' uses a genitive complement."
+      },
+      {
+        "id": "NN-MOTION-ZAL-10",
+        "phrase": "Мы прошли по всем залам музея.",
+        "fullAnalysis": "Strategic focus: Dative plural after по. 'Залам' is the dative plural after 'по' showing movement through the halls. 'Всем' agrees in the plural, and 'музея' is the genitive possessor."
+      }
+    ]
+  }
+]

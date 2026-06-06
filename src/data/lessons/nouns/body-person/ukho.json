@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-UKHO",
+    "label": "Ухо",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for ухо (ear).",
+    "missions": [
+      {
+        "id": "NN-BODY-UKHO-01",
+        "phrase": "У меня болит левое ухо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ухо' is the neuter nominative subject of 'болит'. 'Левое' is the agreeing neuter adjective. A common everyday complaint about pain."
+      },
+      {
+        "id": "NN-BODY-UKHO-02",
+        "phrase": "Он шепнул мне на ухо.",
+        "fullAnalysis": "Strategic focus: Accusative with на. 'Ухо' is the accusative after 'на' showing direction toward. Since ухо is inanimate neuter, the accusative matches the nominative. 'Шепнуть на ухо' is a fixed phrase for whispering."
+      },
+      {
+        "id": "NN-BODY-UKHO-03",
+        "phrase": "У зайца длинные уши.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Уши' is the irregular nominative plural of 'ухо'. 'Длинные' is the agreeing plural adjective, and 'у зайца' uses the genitive to show possession."
+      },
+      {
+        "id": "NN-BODY-UKHO-04",
+        "phrase": "Закрой уши, будет громко!",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Уши' is the accusative plural object of the imperative 'закрой'. The irregular plural stem уш- carries the soft -и ending. A practical everyday warning."
+      },
+      {
+        "id": "NN-BODY-UKHO-05",
+        "phrase": "Шапка закрывает мне уши.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Уши' is the accusative plural object of 'закрывает'. 'Мне' is the dative of interest showing whose ears. A natural winter-clothing sentence."
+      },
+      {
+        "id": "NN-BODY-UKHO-06",
+        "phrase": "У меня звенит в ушах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Ушах' is the prepositional plural after 'в', using the irregular plural stem. 'Звенит в ушах' is the standard idiom for ringing in the ears."
+      },
+      {
+        "id": "NN-BODY-UKHO-07",
+        "phrase": "Врач посмотрел оба уха.",
+        "fullAnalysis": "Strategic focus: Accusative with number. 'Уха' is the genitive singular form required after 'оба'. Even though both ears are meant, 'оба' governs the genitive singular here. A clinical, useful example."
+      },
+      {
+        "id": "NN-BODY-UKHO-08",
+        "phrase": "У слона огромные уши.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Уши' is the irregular nominative plural subject. 'Огромные' is the agreeing plural adjective, and 'у слона' shows possession with the genitive."
+      },
+      {
+        "id": "NN-BODY-UKHO-09",
+        "phrase": "Не верь своим ушам!",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Ушам' is the dative plural required by 'верить', using the irregular plural stem. 'Своим' agrees in the dative plural. A vivid idiom of disbelief."
+      },
+      {
+        "id": "NN-BODY-UKHO-10",
+        "phrase": "Кролик прижал уши от страха.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Уши' is the accusative plural object of 'прижал'. 'От страха' uses the genitive to give the cause. A descriptive narrative sentence."
+      }
+    ]
+  }
+]

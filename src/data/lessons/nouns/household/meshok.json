@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-MESHOK",
+    "label": "Мешок",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for мешок (sack).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-01",
+        "phrase": "В углу стоит тяжёлый мешок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мешок' is the masculine nominative subject of 'стоит'. 'Тяжёлый' is the agreeing masculine adjective, and 'в углу' sets the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-02",
+        "phrase": "Я поднял мешок с картошкой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мешок' is the masculine accusative direct object of 'поднял', unchanged for this inanimate noun. 'С картошкой' is the instrumental of contents."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-03",
+        "phrase": "В сарае не осталось ни одного мешка.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Мешка' is the genitive singular required by 'не осталось', reinforced by 'ни одного'. Note the fleeting vowel dropping in 'мешка'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-04",
+        "phrase": "Положи яблоки в большой мешок.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Мешок' is the accusative after 'в', showing where the apples go. 'Большой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-05",
+        "phrase": "Из мешка высыпалась мука.",
+        "fullAnalysis": "Strategic focus: Genitive of origin. 'Мешка' is the genitive after 'из', showing where the flour spilled from. 'Мука' is the nominative subject. The fleeting vowel drops in the stem."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-06",
+        "phrase": "Он шёл с тяжёлым мешком на спине.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Мешком' is the instrumental after 'с', describing what he carried. 'Тяжёлым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-07",
+        "phrase": "К мешку привязали прочную верёвку.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Мешку' is the dative after 'к', marking where the rope was tied. 'Верёвку' is the accusative object, and 'прочную' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-08",
+        "phrase": "Мы привезли пять мешков зерна.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Мешков' is the genitive plural required after 'пять'. 'Зерна' is the genitive of contents."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-09",
+        "phrase": "Старые мешки лежат в подвале.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мешки' is the nominative plural subject of 'лежат'. 'Старые' is the agreeing plural adjective, and 'в подвале' sets the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MESHOK-10",
+        "phrase": "В этом мешке полно старых вещей.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Мешке' is the prepositional after 'в', stating what is inside. 'Старых вещей' is the genitive plural after 'полно'."
+      }
+    ]
+  }
+]

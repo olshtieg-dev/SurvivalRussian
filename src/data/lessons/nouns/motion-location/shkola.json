@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-SHKOLA",
+    "label": "Школа",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for школа (school).",
+    "missions": [
+      {
+        "id": "NN-MOTION-SHKOLA-01",
+        "phrase": "Наша школа находится недалеко.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Школа' is the feminine nominative subject of 'находится'. 'Наша' is the agreeing feminine possessive, and 'недалеко' is the adverb of place. A basic location statement."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-02",
+        "phrase": "Дети каждый день ходят в школу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В школу' uses the feminine accusative 'школу' after 'в' to mark the destination. 'Каждый день' is the accusative time phrase. The default 'go to school' pattern."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-03",
+        "phrase": "Я учусь в новой школе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В школе' uses the feminine prepositional 'школе' after 'в' to show where the studying happens. 'Новой' agrees in the feminine prepositional. The standard 'study at' pattern."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-04",
+        "phrase": "Мы вернулись из школы поздно.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из школы' uses the feminine genitive 'школы' after 'из' to mark where we came from. 'Поздно' is the adverb of time. The mirror of 'в школу'."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-05",
+        "phrase": "Директор школы очень строгий.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Школы' is the feminine genitive after 'директор', linking the principal to the school. 'Строгий' is the agreeing masculine adjective. Useful for describing staff."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-06",
+        "phrase": "Школа гордится своими учениками.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental. 'Школа' is the feminine nominative subject of 'гордится'. 'Своими учениками' is the instrumental object required by the verb. A model of verb government."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-07",
+        "phrase": "К школе ведёт длинная дорога.",
+        "fullAnalysis": "Strategic focus: Dative goal after 'к'. 'К школе' uses the feminine dative 'школе' to show the road's endpoint. 'Дорога' is the feminine nominative subject. Useful for describing routes."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-08",
+        "phrase": "В нашем городе много хороших школ.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity. 'Школ' is the feminine genitive plural required by 'много'. 'Хороших' agrees in the genitive plural. A clean pattern for counting institutions."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-09",
+        "phrase": "Я закончил эту школу в прошлом году.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Школу' is the feminine accusative direct object of 'закончил'. 'Эту' agrees in the feminine accusative, and 'в прошлом году' is the time frame. A natural way to say you graduated."
+      },
+      {
+        "id": "NN-MOTION-SHKOLA-10",
+        "phrase": "Между школами проходит соревнование.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Школами' is the feminine instrumental plural after 'между' to show the contest is between schools. 'Соревнование' is the neuter nominative subject. Good for plural practice."
+      }
+    ]
+  }
+]

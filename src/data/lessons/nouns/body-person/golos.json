@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-GOLOS",
+    "label": "Голос",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for голос (voice).",
+    "missions": [
+      {
+        "id": "NN-BODY-GOLOS-01",
+        "phrase": "У неё очень красивый голос.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Голос' stays in the nominative as the subject of the possession frame 'у неё'. 'Красивый' is the agreeing masculine adjective, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-BODY-GOLOS-02",
+        "phrase": "Я слышу твой голос.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Голос' is the accusative direct object of 'слышу'. Because голос is inanimate masculine, its accusative looks like the nominative. 'Твой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-BODY-GOLOS-03",
+        "phrase": "Я узнал его по голосу.",
+        "fullAnalysis": "Strategic focus: Dative after по. 'Голосу' is the dative form required by the preposition 'по' meaning 'by'. The phrase 'узнать по голосу' is a fixed way to say you recognised someone by their voice."
+      },
+      {
+        "id": "NN-BODY-GOLOS-04",
+        "phrase": "Он говорил тихим голосом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Голосом' is the instrumental, showing the manner of speaking. 'Тихим' is the agreeing masculine instrumental adjective. This is the standard way to describe a way of speaking."
+      },
+      {
+        "id": "NN-BODY-GOLOS-05",
+        "phrase": "В её голосе слышалась радость.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Голосе' is the prepositional form after 'в', here used figuratively to locate an emotion. 'Радость' is the nominative subject of 'слышалась'."
+      },
+      {
+        "id": "NN-BODY-GOLOS-06",
+        "phrase": "У меня нет голоса сегодня.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Голоса' is the genitive required after 'нет'. The phrase 'у меня нет голоса' is the everyday way to say you have lost your voice."
+      },
+      {
+        "id": "NN-BODY-GOLOS-07",
+        "phrase": "Дети пели звонкими голосами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Голосами' is the instrumental plural, showing the manner of singing. 'Звонкими' is the agreeing plural instrumental adjective. A clean model for the plural instrumental ending."
+      },
+      {
+        "id": "NN-BODY-GOLOS-08",
+        "phrase": "Я не узнаю эти голоса.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Голоса' is the accusative plural object of 'узнаю'. Note the stressed plural ending -а typical of this noun. 'Эти' agrees in the plural accusative."
+      },
+      {
+        "id": "NN-BODY-GOLOS-09",
+        "phrase": "Он потерял голос от крика.",
+        "fullAnalysis": "Strategic focus: Accusative object with cause. 'Голос' is the accusative direct object of 'потерял'. 'От крика' uses the genitive to express the cause. A natural everyday complaint."
+      },
+      {
+        "id": "NN-BODY-GOLOS-10",
+        "phrase": "Голоса птиц наполнили лес.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Голоса' is the nominative plural subject of 'наполнили'. 'Птиц' is the genitive plural showing whose voices, and the verb agrees in the plural."
+      }
+    ]
+  }
+]

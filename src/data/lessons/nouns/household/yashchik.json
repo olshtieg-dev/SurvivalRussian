@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-YASHCHIK",
+    "label": "Ящик",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ящик (box; drawer).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-01",
+        "phrase": "Этот ящик слишком тяжёлый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ящик' is a masculine noun in the nominative as the subject. 'Этот' points at a specific one, and 'тяжёлый' is the agreeing masculine adjective. A simple description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-02",
+        "phrase": "Я открываю верхний ящик.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ящик' is the accusative direct object of 'открываю'; for this inanimate masculine noun the accusative equals the nominative. 'Верхний' is the agreeing adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-03",
+        "phrase": "В ящике нет ножниц.",
+        "fullAnalysis": "Strategic focus: Prepositional with genitive of absence. 'Ящике' is the prepositional form of 'ящик' after 'в'. 'Нет ножниц' uses the genitive plural after 'нет'. A practical search sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-04",
+        "phrase": "Из ящика выпала старая ручка.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Ящика' is the genitive form of 'ящик' after 'из', marking the source. 'Старая ручка' is the nominative subject. A small everyday event."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-05",
+        "phrase": "К ящику подошёл маленький кот.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Ящику' is the dative form of 'ящик' after 'к', marking the goal of motion. 'Маленький кот' is the nominative subject. A simple motion sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-06",
+        "phrase": "Над ящиком висит полка.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Ящиком' is the instrumental form of 'ящик' after 'над', locating the shelf above the box. 'Полка' is the nominative subject. Practises spatial instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-07",
+        "phrase": "Положи документы в ящик стола.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Ящик' is the accusative after 'в' marking motion into the drawer. 'Документы' is the accusative plural object, and 'стола' is genitive showing whose drawer."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-08",
+        "phrase": "В гараже стоят пустые ящики.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ящики' is the nominative plural of 'ящик', the subject of 'стоят'. 'Пустые' is the agreeing plural adjective. 'В гараже' uses the prepositional 'гараже'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-09",
+        "phrase": "Мы привезли пять тяжёлых ящиков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Ящиков' is the genitive plural of 'ящик' after 'пять'. 'Тяжёлых' agrees in the genitive plural. A practical moving-day sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-YASHCHIK-10",
+        "phrase": "Она ищет ключи в ящиках.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Ящиках' is the prepositional plural of 'ящик' after 'в', meaning searching in the drawers. 'Ключи' is the accusative plural object of 'ищет'."
+      }
+    ]
+  }
+]

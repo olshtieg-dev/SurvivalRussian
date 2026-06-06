@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-GRANITSA",
+    "label": "Граница",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for граница (border).",
+    "missions": [
+      {
+        "id": "NN-MOTION-GRANITSA-01",
+        "phrase": "Граница проходит вдоль реки.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Граница' is a feminine noun in the nominative as the subject of 'проходит'. 'Вдоль реки' uses the genitive to show along what it runs."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-02",
+        "phrase": "Солдаты охраняют государственную границу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Границу' is the accusative direct object of 'охраняют'. 'Государственную' agrees in the feminine accusative, and 'солдаты' is the subject."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-03",
+        "phrase": "Мы живём недалеко от границы.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Границы' is the genitive after 'от' in the phrase 'недалеко от', not far from. 'Мы живём' states the location of dwelling."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-04",
+        "phrase": "Машина стоит на границе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На границе' uses the prepositional form 'границе' after 'на' to locate the car. 'Машина' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-05",
+        "phrase": "Поезд приближается к границе.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Границе' is the dative after 'к' showing approach toward the border. 'Поезд' is the nominative subject, and 'приближается' is the verb."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-06",
+        "phrase": "За границей много интересного.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Границей' is the instrumental after 'за' in the idiom 'за границей', abroad. 'Много интересного' uses the genitive of quantity."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-07",
+        "phrase": "Летом мы поедем за границу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Границу' is the accusative after 'за' in the idiom 'за границу', going abroad. 'Летом' is the instrumental of time."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-08",
+        "phrase": "Туристы вернулись из-за границы.",
+        "fullAnalysis": "Strategic focus: Genitive after из-за. 'Границы' is the genitive after 'из-за' in the idiom 'из-за границы', from abroad. 'Туристы' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-09",
+        "phrase": "У страны несколько сухопутных границ.",
+        "fullAnalysis": "Strategic focus: Genitive plural after несколько. 'Границ' is the genitive plural required by 'несколько'. 'Сухопутных' agrees in the plural, and 'у страны' is the genitive possessor."
+      },
+      {
+        "id": "NN-MOTION-GRANITSA-10",
+        "phrase": "Между странами проходят границы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Границы' is the nominative plural and the subject of 'проходят'. 'Между странами' uses the instrumental plural to show between what they lie."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-SPINA",
+    "label": "Спина",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for спина (back).",
+    "missions": [
+      {
+        "id": "NN-BODY-SPINA-01",
+        "phrase": "У меня сильно болит спина.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Спина' is the feminine nominative subject of 'болит'. 'У меня' frames whose back hurts, and 'сильно' intensifies the pain. The default sentence for complaining about back pain."
+      },
+      {
+        "id": "NN-BODY-SPINA-02",
+        "phrase": "Я повредил спину на работе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Спину' is the feminine accusative direct object of 'повредил'. 'На работе' gives the prepositional location. A natural way to report an injury."
+      },
+      {
+        "id": "NN-BODY-SPINA-03",
+        "phrase": "Массаж спины помогает мне расслабиться.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Спины' is the feminine genitive after 'массаж', linking the massage to the back. 'Мне' is the dative experiencer of 'помогает'. Common in talk about treatment."
+      },
+      {
+        "id": "NN-BODY-SPINA-04",
+        "phrase": "Он прижался спиной к стене.",
+        "fullAnalysis": "Strategic focus: Instrumental of body part. 'Спиной' is the feminine instrumental showing the part doing the leaning. 'К стене' is the dative goal after 'к'. Vivid for describing posture."
+      },
+      {
+        "id": "NN-BODY-SPINA-05",
+        "phrase": "У меня татуировка на спине.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На спине' uses the feminine prepositional 'спине' after 'на' to place the tattoo. 'У меня' frames possession. A clear pattern for things on the body."
+      },
+      {
+        "id": "NN-BODY-SPINA-06",
+        "phrase": "Держи спину прямо, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative object in a command. 'Спину' is the feminine accusative object of the imperative 'держи'. 'Прямо' is the adverb of manner. The classic posture instruction."
+      },
+      {
+        "id": "NN-BODY-SPINA-07",
+        "phrase": "Ветер дует мне в спину.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В спину' uses the feminine accusative 'спину' after 'в' to show where the wind hits. 'Мне' is the dative of the affected person. Idiomatic for a tailwind."
+      },
+      {
+        "id": "NN-BODY-SPINA-08",
+        "phrase": "Спина у спортсмена очень крепкая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Спина' is the feminine nominative subject. 'Крепкая' is the agreeing feminine adjective and 'очень' intensifies it. A model descriptive sentence."
+      },
+      {
+        "id": "NN-BODY-SPINA-09",
+        "phrase": "После тренировки спины сильно устали.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Спины' is the feminine nominative plural subject of 'устали'. 'После тренировки' is the genitive time frame. Useful for talking about a group's fatigue."
+      },
+      {
+        "id": "NN-BODY-SPINA-10",
+        "phrase": "Не поворачивайся ко мне спиной!",
+        "fullAnalysis": "Strategic focus: Instrumental of orientation. 'Спиной' is the feminine instrumental showing which side faces away. 'Ко мне' is the dative goal. A common reproachful expression."
+      }
+    ]
+  }
+]

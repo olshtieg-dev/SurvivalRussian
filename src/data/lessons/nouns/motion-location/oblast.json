@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-OBLAST",
+    "label": "Область",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for область (region; oblast).",
+    "missions": [
+      {
+        "id": "NN-MOTION-OBLAST-01",
+        "phrase": "Эта область очень большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Область' is a soft-sign feminine noun in the nominative as the subject. 'Эта' points at a specific region, and 'большая' is the predicate adjective."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-02",
+        "phrase": "Я хорошо знаю эту область.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Область' is a soft-sign feminine, so its accusative looks identical to the nominative as the object of 'знаю'. 'Эту' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-03",
+        "phrase": "Мы живём в северной области.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В области' uses the prepositional form 'области' after 'в' to locate the dwelling. 'Северной' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-04",
+        "phrase": "Это столица нашей области.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Области' is the genitive showing of which region. 'Нашей' agrees in the feminine genitive, and 'столица' is the nominative predicate."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-05",
+        "phrase": "Помощь идёт ко всей области.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Области' is the dative after 'ко' showing direction toward the whole region. 'Всей' agrees in the feminine dative, and 'помощь' is the subject."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-06",
+        "phrase": "Над областью прошёл сильный дождь.",
+        "fullAnalysis": "Strategic focus: Instrumental after над. 'Областью' is the instrumental after 'над' showing position over the region. 'Дождь' is the nominative subject, and 'сильный' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-07",
+        "phrase": "Поезд едет из соседней области.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Области' is the genitive after 'из' showing origin from the region. 'Соседней' agrees in the feminine genitive, and 'поезд' is the subject."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-08",
+        "phrase": "В стране много разных областей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Областей' is the genitive plural required by 'много'. 'Разных' agrees in the plural, and 'в стране' locates them."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-09",
+        "phrase": "Эти области граничат друг с другом.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Области' is the nominative plural and the subject of 'граничат'. 'Эти' agrees in the plural, and 'друг с другом' means with each other."
+      },
+      {
+        "id": "NN-MOTION-OBLAST-10",
+        "phrase": "Дорога ведёт по разным областям.",
+        "fullAnalysis": "Strategic focus: Dative plural after по. 'Областям' is the dative plural after 'по' showing passage through the regions. 'Разным' agrees in the plural, and 'дорога' is the subject."
+      }
+    ]
+  }
+]

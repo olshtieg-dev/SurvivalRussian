@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-FORMA",
+    "label": "Форма",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for форма (form; uniform).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-FORMA-01",
+        "phrase": "У этого стола необычная форма.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Форма' is the feminine nominative subject of the possession frame 'у этого стола'. 'Необычная' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-02",
+        "phrase": "Каждое утро он надевает форму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Форму' is the feminine accusative direct object of 'надевает', here meaning a uniform. 'Каждое утро' marks the routine."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-03",
+        "phrase": "Облако было странной формы.",
+        "fullAnalysis": "Strategic focus: Genitive of quality. 'Формы' is the genitive describing the shape of the cloud. 'Странной' agrees in the feminine genitive, and 'облако' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-04",
+        "phrase": "Школьники ходят в одинаковой форме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Форме' is the prepositional after 'в', describing what they wear. 'Одинаковой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-05",
+        "phrase": "Спортсмен всегда в хорошей форме.",
+        "fullAnalysis": "Strategic focus: Prepositional idiom. 'Форме' is the prepositional after 'в' in the idiom 'в хорошей форме', meaning in good shape. 'Хорошей' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-06",
+        "phrase": "Я довольна формой нового платья.",
+        "fullAnalysis": "Strategic focus: Instrumental after a short adjective. 'Формой' is the instrumental required by 'довольна', meaning pleased with. 'Нового платья' is the genitive of possession."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-07",
+        "phrase": "Без формы охранника не пускают внутрь.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Формы' is the genitive after 'без', meaning without the uniform. 'Охранника' is the accusative animate object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-08",
+        "phrase": "Мы изучаем формы глаголов.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Формы' is the accusative plural object of 'изучаем', here meaning grammatical forms. 'Глаголов' is the genitive plural specifying which forms."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-09",
+        "phrase": "Эти формы бывают разных размеров.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Формы' is the nominative plural subject of 'бывают'. 'Эти' agrees in the plural, and 'разных размеров' is the genitive of quality."
+      },
+      {
+        "id": "NN-HOUSEHOLD-FORMA-10",
+        "phrase": "Тесто залили в круглую форму.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Форму' is the accusative after 'в', here a baking mould into which the dough is poured. 'Круглую' agrees in the feminine accusative."
+      }
+    ]
+  }
+]

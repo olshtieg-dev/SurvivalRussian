@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KUKHNYA",
+    "label": "Кухня",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for кухня (kitchen).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KUKHNYA-01",
+        "phrase": "У нас небольшая уютная кухня.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кухня' is the feminine nominative subject of the possession frame 'у нас'. 'Небольшая' and 'уютная' agree in the feminine nominative."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-02",
+        "phrase": "Утром вся семья идёт на кухню.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Кухню' is the accusative after 'на', showing motion into the kitchen. 'Вся семья' is the nominative subject, and 'утром' sets the time."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-03",
+        "phrase": "Из кухни идёт вкусный запах.",
+        "fullAnalysis": "Strategic focus: Genitive of origin. 'Кухни' is the genitive after 'из', showing where the smell comes from. 'Запах' is the nominative subject, and 'вкусный' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-04",
+        "phrase": "Мама готовит ужин на кухне.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Кухне' is the prepositional after 'на', placing the cooking. 'Мама' is the nominative subject, and 'ужин' is the accusative object."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-05",
+        "phrase": "К кухне ведёт длинный коридор.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Кухне' is the dative after 'к', marking the destination. 'Коридор' is the nominative subject, and 'длинный' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-06",
+        "phrase": "Мы довольны новой кухней.",
+        "fullAnalysis": "Strategic focus: Instrumental after a short adjective. 'Кухней' is the instrumental required by 'довольны', meaning pleased with. 'Новой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-07",
+        "phrase": "Над кухней находится наша спальня.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Кухней' is the instrumental after 'над', meaning above the kitchen. 'Спальня' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-08",
+        "phrase": "Я долго думаю о новой кухне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Кухне' is the prepositional after 'о', expressing thought about it. 'Новой' agrees in the feminine prepositional, and 'долго' adds duration."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-09",
+        "phrase": "В новых домах кухни очень большие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кухни' is the nominative plural subject. 'Большие' is the agreeing plural adjective, and 'в новых домах' sets the prepositional location."
+      },
+      {
+        "id": "NN-MOTION-KUKHNYA-10",
+        "phrase": "В этой квартире нет отдельной кухни.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Кухни' is the genitive required by 'нет'. 'Отдельной' agrees in the feminine genitive, and 'в этой квартире' sets the location."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KOMNATA",
+    "label": "Комната",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for комната (room).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KOMNATA-01",
+        "phrase": "Эта комната очень светлая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Комната' is a feminine noun in the nominative as the subject. 'Эта' points at a specific one, and 'светлая' is the agreeing feminine adjective. A clean description sentence."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-02",
+        "phrase": "Я убираю комнату каждый день.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Комнату' is the accusative direct object of 'убираю', taking the feminine -у ending. 'Каждый день' is an accusative time phrase. A daily-routine pattern."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-03",
+        "phrase": "Из комнаты слышна музыка.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Комнаты' is the genitive form of 'комната' after 'из', marking the source of sound. 'Слышна' is the feminine short adjective agreeing with 'музыка'."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-04",
+        "phrase": "К комнате ведёт узкий коридор.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Комнате' is the dative form of 'комната' after 'к', marking the goal of motion. 'Узкий коридор' is the nominative subject. Useful for describing layouts."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-05",
+        "phrase": "В комнате стоит большой стол.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Комнате' is the prepositional form of 'комната' after 'в', locating the table inside the room. 'Большой стол' is the nominative subject. A core location pattern."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-06",
+        "phrase": "Над комнатой шумят соседи.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Комнатой' is the instrumental form of 'комната' after 'над', locating the neighbours above the room. 'Соседи' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-07",
+        "phrase": "Дети бегают по комнате.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Комнате' is the dative form of 'комната' after 'по', meaning movement around the room. 'Дети' is the nominative plural subject. A lively everyday scene."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-08",
+        "phrase": "В доме пять светлых комнат.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Комнат' is the genitive plural of 'комната' after 'пять', with a zero ending. 'Светлых' agrees in the genitive plural. Practises counting rooms."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-09",
+        "phrase": "Все комнаты уже готовы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Комнаты' is the nominative plural of 'комната', the subject. 'Все' quantifies it and 'готовы' is the plural short adjective. A simple plural statement."
+      },
+      {
+        "id": "NN-MOTION-KOMNATA-10",
+        "phrase": "Мы ходим между комнатами тихо.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Комнатами' is the instrumental plural of 'комната' after 'между', meaning between the rooms. 'Тихо' is the manner adverb. Spatial plural practice."
+      }
+    ]
+  }
+]

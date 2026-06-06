@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-DVOR",
+    "label": "Двор",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for двор (yard).",
+    "missions": [
+      {
+        "id": "NN-MOTION-DVOR-01",
+        "phrase": "Наш двор очень тихий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Двор' is a masculine noun in the nominative as the subject. 'Тихий' is the agreeing masculine adjective, and 'наш' marks possession."
+      },
+      {
+        "id": "NN-MOTION-DVOR-02",
+        "phrase": "Дети играют во дворе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Во дворе' uses the prepositional form 'дворе' after 'во'. The vowel in the preposition appears before the consonant cluster, a fixed locative phrase."
+      },
+      {
+        "id": "NN-MOTION-DVOR-03",
+        "phrase": "Я иду во двор гулять.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Двор' is accusative after 'во', marking motion into the yard. The inanimate masculine keeps the nominative form."
+      },
+      {
+        "id": "NN-MOTION-DVOR-04",
+        "phrase": "Машина стоит посреди двора.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Двора' is the genitive singular required by 'посреди'. The masculine ending '-а' marks the location in the middle of something."
+      },
+      {
+        "id": "NN-MOTION-DVOR-05",
+        "phrase": "Мы вышли из двора на улицу.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Двора' is the genitive singular after 'из', marking motion out of the yard. The masculine ending is '-а'."
+      },
+      {
+        "id": "NN-MOTION-DVOR-06",
+        "phrase": "Кошка бежит к нашему двору.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Двору' is the dative singular after 'к', marking motion toward the yard. 'Нашему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-MOTION-DVOR-07",
+        "phrase": "За нашим двором есть лес.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Двором' is the instrumental singular after 'за', marking position behind the yard. 'Нашим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-MOTION-DVOR-08",
+        "phrase": "Я хорошо знаю этот двор.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Двор' is the accusative direct object of 'знаю'. As an inanimate masculine noun it keeps the nominative form. 'Этот' points to a specific yard."
+      },
+      {
+        "id": "NN-MOTION-DVOR-09",
+        "phrase": "Во всех дворах растут деревья.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Дворах' is the prepositional plural after 'во', describing many yards. 'Во всех' adds the universal scope to this locative phrase."
+      },
+      {
+        "id": "NN-MOTION-DVOR-10",
+        "phrase": "Между дворами проходит узкая дорога.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Дворами' is the instrumental plural after 'между', marking position among the yards. The ending '-ами' is standard for masculine plurals."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-LADON",
+    "label": "Ладонь",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for ладонь (palm).",
+    "missions": [
+      {
+        "id": "NN-BODY-LADON-01",
+        "phrase": "У тебя тёплая ладонь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ладонь' is a soft-sign feminine noun in the nominative as the subject. 'Тёплая' is the agreeing feminine adjective describing it."
+      },
+      {
+        "id": "NN-BODY-LADON-02",
+        "phrase": "Он показал мне свою ладонь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ладонь' is the accusative direct object of 'показал', unchanged from the nominative as a soft-sign feminine. 'Свою' agrees, and 'мне' is the dative recipient."
+      },
+      {
+        "id": "NN-BODY-LADON-03",
+        "phrase": "На его ладони нет линий.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На ладони' uses the prepositional form 'ладони' after 'на'. The soft-sign feminine takes the ending '-и' to describe where something is."
+      },
+      {
+        "id": "NN-BODY-LADON-04",
+        "phrase": "У меня нет свободной ладони.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Ладони' is the genitive singular after 'нет'. The soft-sign feminine ending '-и' marks absence, and 'свободной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-BODY-LADON-05",
+        "phrase": "Она провела ладонью по столу.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Ладонью' is the instrumental form showing the instrument of the action. Soft-sign feminines take the ending '-ью' in the instrumental singular."
+      },
+      {
+        "id": "NN-BODY-LADON-06",
+        "phrase": "Он держит монету в ладони.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В ладони' uses the prepositional form 'ладони' after 'в' to express where the coin is held. The soft-sign feminine ending is '-и'."
+      },
+      {
+        "id": "NN-BODY-LADON-07",
+        "phrase": "Я дал ребёнку конфету в ладонь.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Ладонь' is accusative after 'в', marking motion into the palm. As a soft-sign feminine it keeps the nominative form, and 'ребёнку' is the dative recipient."
+      },
+      {
+        "id": "NN-BODY-LADON-08",
+        "phrase": "Врач смотрит на мои ладони.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Ладони' is the accusative plural after 'на', the object of the doctor's gaze. 'Мои' agrees in the plural with this soft-sign feminine noun."
+      },
+      {
+        "id": "NN-BODY-LADON-09",
+        "phrase": "Его ладони стали совсем холодными.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Ладони' is the nominative plural subject of 'стали'. 'Холодными' is the instrumental predicate adjective used after the verb 'стать'."
+      },
+      {
+        "id": "NN-BODY-LADON-10",
+        "phrase": "Дети закрыли лицо ладонями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Ладонями' is the instrumental plural showing the means of covering. The soft-sign feminine takes the ending '-ями' in this useful gesture description."
+      }
+    ]
+  }
+]

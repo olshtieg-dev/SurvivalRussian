@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-TSENTR",
+    "label": "Центр",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for центр (center).",
+    "missions": [
+      {
+        "id": "NN-MOTION-TSENTR-01",
+        "phrase": "Это самый старый центр города.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Центр' is the nominative predicate noun. 'Города' is the genitive of possession. 'Самый старый' forms the superlative. A descriptive statement."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-02",
+        "phrase": "Мы едем в центр города.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Центр' is the accusative after 'в', showing destination; this inanimate masculine noun keeps the nominative form. A common trip phrase."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-03",
+        "phrase": "Мы живём в центре города.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В центре' uses the prepositional form 'центре' after 'в' to show location. 'Города' is genitive. A residence statement."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-04",
+        "phrase": "Он идёт от центра пешком.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Центра' is the genitive after 'от', marking the starting point. 'Пешком' is an adverb of manner. A directions phrase."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-05",
+        "phrase": "Дорога ведёт прямо к центру.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К центру' uses the dative 'центру' after 'к' to show movement toward. 'Дорога' is the nominative subject. A navigation phrase."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-06",
+        "phrase": "Площадь находится перед центром.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 'Центром' is the instrumental after 'перед', showing relative position. 'Площадь' is the nominative subject. A spatial description."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-07",
+        "phrase": "В городе несколько торговых центров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Центров' is the genitive plural required by 'несколько'. 'Торговых' agrees in the plural genitive. A factual statement."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-08",
+        "phrase": "Эти центры работают по выходным.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Центры' is the nominative plural subject of 'работают'. 'По выходным' is dative plural of recurrence. A schedule statement."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-09",
+        "phrase": "Между двумя центрами есть парк.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Центрами' is the instrumental plural after 'между'. 'Парк' is the nominative subject of 'есть'. A spatial description."
+      },
+      {
+        "id": "NN-MOTION-TSENTR-10",
+        "phrase": "Я был во всех центрах города.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Центрах' is the prepositional plural after 'во'. 'Всех' agrees in the plural. A summary of visits."
+      }
+    ]
+  }
+]

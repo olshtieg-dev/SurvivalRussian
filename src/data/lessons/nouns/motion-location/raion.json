@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-RAION",
+    "label": "Район",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for район (district).",
+    "missions": [
+      {
+        "id": "NN-MOTION-RAION-01",
+        "phrase": "Это очень тихий район.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Район' is the nominative predicate noun. 'Тихий' is the agreeing masculine adjective, intensified by 'очень'. A descriptive statement."
+      },
+      {
+        "id": "NN-MOTION-RAION-02",
+        "phrase": "Мы переехали в новый район.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Район' is the accusative after 'в', showing destination; this inanimate masculine noun keeps the nominative form. A relocation phrase."
+      },
+      {
+        "id": "NN-MOTION-RAION-03",
+        "phrase": "Я живу в этом районе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В районе' uses the prepositional form 'районе' after 'в'. 'Этом' agrees in the masculine prepositional. A residence statement."
+      },
+      {
+        "id": "NN-MOTION-RAION-04",
+        "phrase": "Он приехал из соседнего района.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Района' is the genitive after 'из', marking origin. 'Соседнего' agrees in the masculine genitive. An origin statement."
+      },
+      {
+        "id": "NN-MOTION-RAION-05",
+        "phrase": "Автобус идёт к нашему району.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К району' uses the dative 'району' after 'к' to show movement toward. 'Нашему' agrees in the masculine dative. A transit phrase."
+      },
+      {
+        "id": "NN-MOTION-RAION-06",
+        "phrase": "Парк находится за нашим районом.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 'Районом' is the instrumental after 'за', showing relative position. 'Нашим' agrees in the masculine instrumental. A spatial description."
+      },
+      {
+        "id": "NN-MOTION-RAION-07",
+        "phrase": "В городе много спальных районов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Районов' is the genitive plural required by 'много'. 'Спальных' agrees in the plural genitive. A factual statement."
+      },
+      {
+        "id": "NN-MOTION-RAION-08",
+        "phrase": "Эти районы быстро растут.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Районы' is the nominative plural subject of 'растут'. 'Эти' agrees in the plural. An urban-development statement."
+      },
+      {
+        "id": "NN-MOTION-RAION-09",
+        "phrase": "Я был во многих районах города.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Районах' is the prepositional plural after 'во'. 'Многих' agrees in the plural. A summary of visits."
+      },
+      {
+        "id": "NN-MOTION-RAION-10",
+        "phrase": "Между районами ходит трамвай.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Районами' is the instrumental plural after 'между'. 'Трамвай' is the nominative subject of 'ходит'. A transit description."
+      }
+    ]
+  }
+]

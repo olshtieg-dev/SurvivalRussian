@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-STEKLO",
+    "label": "Стекло",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for стекло (glass).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-01",
+        "phrase": "Это стекло очень тонкое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Стекло' is a neuter noun in the nominative as the subject. 'Это' points at a specific pane, and 'тонкое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-02",
+        "phrase": "Мальчик случайно разбил стекло.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Стекло' is neuter, so its accusative matches the nominative as the object of 'разбил'. 'Мальчик' is the subject, and 'случайно' is the adverb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-03",
+        "phrase": "Через стекло видно сад.",
+        "fullAnalysis": "Strategic focus: Accusative after через. 'Стекло' is the accusative after 'через' showing through what one looks. 'Сад' is the object of the impersonal 'видно'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-04",
+        "phrase": "На стекле появились капли дождя.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На стекле' uses the prepositional form 'стекле' after 'на' to locate the drops. 'Капли' is the nominative subject of 'появились'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-05",
+        "phrase": "Осколки стекла лежат на полу.",
+        "fullAnalysis": "Strategic focus: Genitive of material. 'Стекла' is the genitive showing what the shards are made of. 'Осколки' is the nominative subject, and 'на полу' locates them."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-06",
+        "phrase": "Бутылка сделана из стекла.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Стекла' is the genitive after 'из' showing the material. 'Бутылка' is the nominative subject, and 'сделана' is the short passive participle."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-07",
+        "phrase": "Мастер работает со стеклом аккуратно.",
+        "fullAnalysis": "Strategic focus: Instrumental after со. 'Стеклом' is the instrumental after 'со' showing what one works with. 'Мастер' is the subject, and 'аккуратно' is the adverb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-08",
+        "phrase": "В доме большие чистые стёкла.",
+        "fullAnalysis": "Strategic focus: Nominative plural with ё. 'Стёкла' is the irregular nominative plural of 'стекло', spelled with ё, as the subject. 'Большие' and 'чистые' agree in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-09",
+        "phrase": "Я вымыл все стёкла в окнах.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Стёкла' is the inanimate accusative plural, identical to the nominative, as the object of 'вымыл'. 'Все' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STEKLO-10",
+        "phrase": "За стёклами видны яркие огни.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after за. 'Стёклами' is the instrumental plural after 'за' showing position behind the panes. 'Огни' is the nominative subject."
+      }
+    ]
+  }
+]

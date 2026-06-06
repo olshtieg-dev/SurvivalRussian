@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KRUG",
+    "label": "Круг",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for круг (circle).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KRUG-01",
+        "phrase": "На доске нарисован большой круг.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Круг' is the masculine nominative subject of the passive 'нарисован'. 'Большой' is the agreeing masculine adjective, and 'на доске' locates it. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-02",
+        "phrase": "Нарисуй ровный круг.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Круг' is the inanimate accusative direct object of the imperative 'нарисуй', matching the nominative form. 'Ровный' agrees in the masculine accusative. A simple instruction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-03",
+        "phrase": "Дети встали в круг.",
+        "fullAnalysis": "Strategic focus: Accusative with в. 'Круг' is the accusative after 'в' showing the formation entered. 'Встать в круг' is the fixed phrase for forming a circle. A common playground scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-04",
+        "phrase": "Мы сидели в кругу друзей.",
+        "fullAnalysis": "Strategic focus: Prepositional location with special ending. 'Кругу' is the locative form after 'в', taking the stressed -у ending used for the figurative circle of friends. 'Друзей' is the genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-05",
+        "phrase": "Самолёт сделал ещё один круг.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Круг' is the inanimate accusative object of 'сделал', matching the nominative. 'Сделать круг' means to make a loop. A natural way to describe circling."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-06",
+        "phrase": "К нашему кругу присоединился новичок.",
+        "fullAnalysis": "Strategic focus: Dative with к. 'Кругу' is the dative after 'к', here meaning a social group. 'Нашему' agrees in the masculine dative, and 'новичок' is the nominative subject. A figurative social use."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-07",
+        "phrase": "Бегун пробежал круг за минуту.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Круг' is the inanimate accusative object of 'пробежал', matching the nominative. 'За минуту' gives the time. A natural sporting sentence about laps."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-08",
+        "phrase": "Мы танцевали большим кругом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Кругом' is the instrumental showing the shape of the dancing. 'Большим' agrees in the masculine instrumental. A vivid way to describe a group dance."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-09",
+        "phrase": "Нарисуй три маленьких круга.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. 'Круга' follows 'три' in the genitive singular. 'Маленьких' is the genitive plural adjective. A clear numeral-government example."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRUG-10",
+        "phrase": "На воде расходились широкие круги.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Круги' is the nominative plural subject of 'расходились'. 'Широкие' agrees in the plural, and 'на воде' sets the scene. A vivid descriptive line."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-TELO",
+    "label": "Тело",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for тело (body).",
+    "missions": [
+      {
+        "id": "NN-BODY-TELO-01",
+        "phrase": "Моё тело очень устало сегодня.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тело' is a neuter noun in the nominative case as the subject. 'Моё' is the agreeing neuter possessive, and 'устало' is the neuter short form. A natural way to talk about fatigue."
+      },
+      {
+        "id": "NN-BODY-TELO-02",
+        "phrase": "Спорт делает тело сильным.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тело' stands in the accusative as the direct object of 'делает'; for neuter nouns the accusative equals the nominative. 'Сильным' is the instrumental complement of the predicate."
+      },
+      {
+        "id": "NN-BODY-TELO-03",
+        "phrase": "Без воды тело не работает.",
+        "fullAnalysis": "Strategic focus: Nominative subject with genitive. 'Тело' is the nominative subject of 'не работает'. 'Без воды' uses the genitive 'воды' after 'без'. A useful health-themed pattern."
+      },
+      {
+        "id": "NN-BODY-TELO-04",
+        "phrase": "Холод вреден для тела.",
+        "fullAnalysis": "Strategic focus: Genitive after 'для'. 'Тела' is the genitive form of 'тело' after the preposition 'для', meaning harmful to the body. 'Вреден' is the masculine short adjective agreeing with 'холод'."
+      },
+      {
+        "id": "NN-BODY-TELO-05",
+        "phrase": "Витамины помогают телу восстановиться.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Телу' is the dative form of 'тело', the recipient of help from 'помогают'. The infinitive 'восстановиться' names the goal. Good for health vocabulary."
+      },
+      {
+        "id": "NN-BODY-TELO-06",
+        "phrase": "Она следит за своим телом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'за'. 'Телом' is the instrumental form of 'тело' after 'следить за', meaning to take care of one's body. 'Своим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-BODY-TELO-07",
+        "phrase": "В теле человека много воды.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В теле' uses the prepositional form 'теле' after 'в' to locate something inside the body. 'Человека' is genitive, and 'много воды' adds a genitive of quantity."
+      },
+      {
+        "id": "NN-BODY-TELO-08",
+        "phrase": "Тёплая ванна расслабляет тело.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тело' is the neuter accusative direct object of 'расслабляет', identical to the nominative. 'Тёплая ванна' is the nominative subject. A calming everyday sentence."
+      },
+      {
+        "id": "NN-BODY-TELO-09",
+        "phrase": "Наши тела очень разные.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Тела' is the nominative plural of 'тело', the subject. 'Наши' is the agreeing plural possessive and 'разные' is the plural adjective. Practises the neuter plural ending."
+      },
+      {
+        "id": "NN-BODY-TELO-10",
+        "phrase": "Сон важен для здоровых тел.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Тел' is the genitive plural of 'тело' after 'для', with a zero ending. 'Здоровых' agrees in the genitive plural, and 'важен' is the masculine short adjective."
+      }
+    ]
+  }
+]

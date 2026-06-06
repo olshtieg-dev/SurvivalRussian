@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-LITSO",
+    "label": "Лицо",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for лицо (face).",
+    "missions": [
+      {
+        "id": "NN-BODY-LITSO-01",
+        "phrase": "У неё очень доброе лицо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лицо' is the neuter nominative subject of the possession frame 'у неё'. 'Доброе' is the agreeing neuter adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-BODY-LITSO-02",
+        "phrase": "Я каждое утро мою лицо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лицо' is the accusative direct object of 'мою'. Neuter inanimate nouns keep the nominative form in the accusative, and 'каждое утро' marks the routine."
+      },
+      {
+        "id": "NN-BODY-LITSO-03",
+        "phrase": "У него не было лица от страха.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Лица' is the genitive form required by 'не было', an idiom meaning he turned pale. 'От страха' gives the cause in the genitive."
+      },
+      {
+        "id": "NN-BODY-LITSO-04",
+        "phrase": "Солнце светило прямо в лицо.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В лицо' uses the accusative 'лицо' after 'в' to show motion onto the face. 'Прямо' emphasises the direct angle of the light."
+      },
+      {
+        "id": "NN-BODY-LITSO-05",
+        "phrase": "На её лице была улыбка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На лице' uses the prepositional form 'лице' after 'на' to place the smile. 'Улыбка' is the nominative subject of 'была'."
+      },
+      {
+        "id": "NN-BODY-LITSO-06",
+        "phrase": "Холодный ветер бил по лицу.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'По лицу' uses the dative 'лицу' to show the wind striking across the face. 'Холодный ветер' is the nominative subject."
+      },
+      {
+        "id": "NN-BODY-LITSO-07",
+        "phrase": "Он закрыл лицо руками.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental. 'Лицо' is the accusative direct object of 'закрыл'. 'Руками' is the instrumental plural showing the means by which he covered it."
+      },
+      {
+        "id": "NN-BODY-LITSO-08",
+        "phrase": "Я хорошо помню это лицо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лицо' is the accusative direct object of 'помню', identical to the nominative for neuter nouns. 'Это' agrees in the neuter, and 'хорошо' adds clarity of memory."
+      },
+      {
+        "id": "NN-BODY-LITSO-09",
+        "phrase": "В толпе было много знакомых лиц.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Лиц' is the genitive plural required by 'много'. 'Знакомых' agrees in the genitive plural, and 'в толпе' sets the prepositional location."
+      },
+      {
+        "id": "NN-BODY-LITSO-10",
+        "phrase": "Этот человек с приятным лицом.",
+        "fullAnalysis": "Strategic focus: Instrumental of characteristic. 'Лицом' is the instrumental after 'с', describing the person by a trait. 'Приятным' agrees in the neuter instrumental."
+      }
+    ]
+  }
+]

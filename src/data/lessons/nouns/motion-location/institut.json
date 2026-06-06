@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-INSTITUT",
+    "label": "Институт",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for институт (institute).",
+    "missions": [
+      {
+        "id": "NN-MOTION-INSTITUT-01",
+        "phrase": "Наш институт очень известный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Институт' is the masculine nominative subject. 'Наш' and 'известный' are the agreeing masculine adjectives, and 'очень' intensifies. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-02",
+        "phrase": "Каждый день я еду в институт.",
+        "fullAnalysis": "Strategic focus: Accusative with в. 'Институт' is the inanimate accusative after 'в' showing direction, matching the nominative form. 'В институт' is the everyday way to say you are going to study."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-03",
+        "phrase": "Она работает в институте.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Институте' is the prepositional after 'в' showing where someone works. This contrasts with the accusative 'в институт' used for motion."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-04",
+        "phrase": "Я вернулся из института поздно.",
+        "fullAnalysis": "Strategic focus: Genitive with из. 'Института' is the genitive after 'из' showing origin of motion. 'Из института' is the natural counterpart to 'в институт' for coming back."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-05",
+        "phrase": "Он поступил в медицинский институт.",
+        "fullAnalysis": "Strategic focus: Accusative with в. 'Институт' is the inanimate accusative after 'в', matching the nominative. 'Медицинский' agrees in the masculine accusative. 'Поступить в институт' is a fixed phrase for enrolling."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-06",
+        "phrase": "Дорога к институту идёт через парк.",
+        "fullAnalysis": "Strategic focus: Dative with к. 'Институту' is the dative after 'к' showing direction toward. 'Дорога к институту' describes the route there. A natural place phrase."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-07",
+        "phrase": "Он гордится своим институтом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Институтом' is the instrumental required by 'гордиться'. 'Своим' agrees in the masculine instrumental. A useful verb-government pattern."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-08",
+        "phrase": "Перед институтом стоит фонтан.",
+        "fullAnalysis": "Strategic focus: Instrumental with перед. 'Институтом' is the instrumental after 'перед' showing position in front. 'Фонтан' is the nominative subject of 'стоит'. A natural way to describe a location."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-09",
+        "phrase": "В городе много научных институтов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Институтов' is the genitive plural after 'много'. 'Научных' agrees in the genitive plural. 'В городе' locates them. A clear genitive-plural model."
+      },
+      {
+        "id": "NN-MOTION-INSTITUT-10",
+        "phrase": "Эти институты сотрудничают друг с другом.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Институты' is the nominative plural subject of 'сотрудничают'. 'Эти' agrees in the plural, and 'друг с другом' shows the mutual action."
+      }
+    ]
+  }
+]

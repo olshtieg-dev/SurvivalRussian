@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-LAGER",
+    "label": "Лагерь",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for лагерь (camp).",
+    "missions": [
+      {
+        "id": "NN-MOTION-LAGER-01",
+        "phrase": "Наш летний лагерь был очень весёлым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лагерь' is the masculine soft-stem nominative subject. 'Наш летний' are the agreeing masculine modifiers, and 'весёлым' is the instrumental predicate after 'был'. A simple summary sentence."
+      },
+      {
+        "id": "NN-MOTION-LAGER-02",
+        "phrase": "Летом я еду в спортивный лагерь.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В лагерь' uses the masculine inanimate accusative, identical to the nominative, after 'в' to mark the destination. 'Спортивный' is the agreeing adjective. The default 'go to camp' pattern."
+      },
+      {
+        "id": "NN-MOTION-LAGER-03",
+        "phrase": "Дети целый месяц жили в лагере.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В лагере' uses the masculine soft-stem prepositional 'лагере' after 'в' to show where they lived. 'Целый месяц' is the accusative duration. The standard 'stayed at camp' pattern."
+      },
+      {
+        "id": "NN-MOTION-LAGER-04",
+        "phrase": "Мы вернулись из лагеря загорелыми.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из лагеря' uses the masculine genitive 'лагеря' after 'из' to mark where we came from. 'Загорелыми' is the instrumental predicate. The mirror of 'в лагерь'."
+      },
+      {
+        "id": "NN-MOTION-LAGER-05",
+        "phrase": "Директор лагеря собрал всех детей.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Лагеря' is the masculine genitive after 'директор', linking the director to the camp. 'Всех детей' is the animate accusative object. Useful for describing roles."
+      },
+      {
+        "id": "NN-MOTION-LAGER-06",
+        "phrase": "К лагерю вела узкая тропинка.",
+        "fullAnalysis": "Strategic focus: Dative goal after 'к'. 'К лагерю' uses the masculine soft-stem dative 'лагерю' to show the path's endpoint. 'Тропинка' is the feminine nominative subject. Good for describing routes."
+      },
+      {
+        "id": "NN-MOTION-LAGER-07",
+        "phrase": "Я часто вспоминаю о нашем лагере.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О лагере' uses the masculine prepositional 'лагере' after 'о' to express remembering it. 'Нашем' agrees in the prepositional. Good for nostalgic talk."
+      },
+      {
+        "id": "NN-MOTION-LAGER-08",
+        "phrase": "Над лагерем поднялся густой дым.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Лагерем' is the masculine instrumental after 'над' to show what the smoke rose above. 'Дым' is the nominative subject. Vivid for setting a scene."
+      },
+      {
+        "id": "NN-MOTION-LAGER-09",
+        "phrase": "В горах построили три новых лагеря.",
+        "fullAnalysis": "Strategic focus: Genitive after a small number. 'Лагеря' is the masculine genitive singular required by 'три'. 'Новых' agrees in the genitive plural. The standard counting pattern for two to four."
+      },
+      {
+        "id": "NN-MOTION-LAGER-10",
+        "phrase": "Между лагерями шла оживлённая переписка.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Лагерями' is the masculine instrumental plural after 'между' to show the camps exchanging letters. 'Переписка' is the feminine nominative subject. Good for plural practice."
+      }
+    ]
+  }
+]

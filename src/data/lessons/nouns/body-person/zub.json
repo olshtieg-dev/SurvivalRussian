@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-ZUB",
+    "label": "Зуб",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for зуб (tooth).",
+    "missions": [
+      {
+        "id": "NN-BODY-ZUB-01",
+        "phrase": "У ребёнка вырос первый зуб.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зуб' is a masculine noun in the nominative as the subject of 'вырос'. 'Первый' is the agreeing masculine adjective, and 'у ребёнка' marks the possessor in genitive."
+      },
+      {
+        "id": "NN-BODY-ZUB-02",
+        "phrase": "Врач вылечил больной зуб.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зуб' is inanimate masculine, so its accusative matches the nominative as the object of 'вылечил'. 'Больной' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-BODY-ZUB-03",
+        "phrase": "У меня очень болит зуб.",
+        "fullAnalysis": "Strategic focus: Nominative subject of sensation. 'Зуб' is the nominative subject of 'болит'. The frame 'у меня' marks the sufferer, and 'очень' intensifies the ache."
+      },
+      {
+        "id": "NN-BODY-ZUB-04",
+        "phrase": "Я боюсь потерять этот зуб.",
+        "fullAnalysis": "Strategic focus: Accusative object of infinitive. 'Зуб' is the accusative direct object of 'потерять'. 'Этот' points at the specific tooth, and 'боюсь' frames the fear."
+      },
+      {
+        "id": "NN-BODY-ZUB-05",
+        "phrase": "В этом зубе большая дырка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В зубе' uses the prepositional form after 'в' to locate the cavity. 'Дырка' is the nominative subject, and 'большая' agrees with it."
+      },
+      {
+        "id": "NN-BODY-ZUB-06",
+        "phrase": "Без зуба ему трудно жевать.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Без зуба' uses the genitive 'зуба' after the preposition 'без'. 'Ему' is the dative experiencer, and 'трудно жевать' states the difficulty."
+      },
+      {
+        "id": "NN-BODY-ZUB-07",
+        "phrase": "Дай ребёнку игрушку для зубов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after для. 'Зубов' is the genitive plural after 'для', a teether. 'Ребёнку' is the dative recipient, and 'игрушку' is the accusative object."
+      },
+      {
+        "id": "NN-BODY-ZUB-08",
+        "phrase": "У акулы очень острые зубы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Зубы' is the nominative plural and the subject. 'Острые' agrees in the plural, and 'у акулы' marks the possessor in genitive."
+      },
+      {
+        "id": "NN-BODY-ZUB-09",
+        "phrase": "Чисти зубы каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Зубы' is the inanimate accusative plural, identical to the nominative, as the object of the imperative 'чисти'. 'Каждое утро' sets the routine."
+      },
+      {
+        "id": "NN-BODY-ZUB-10",
+        "phrase": "Между зубами застрял кусочек.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after между. 'Зубами' is the instrumental plural after 'между', between the teeth. 'Кусочек' is the nominative subject of 'застрял'."
+      }
+    ]
+  }
+]

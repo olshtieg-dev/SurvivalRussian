@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-ZHIVOT",
+    "label": "Живот",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for живот (belly).",
+    "missions": [
+      {
+        "id": "NN-BODY-ZHIVOT-01",
+        "phrase": "У меня болит живот.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Живот' is a masculine noun in the nominative as the subject of 'болит'. 'У меня' shows whose belly hurts. The standard way to complain of a stomachache."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-02",
+        "phrase": "Ребёнок держит живот руками.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Живот' is the accusative direct object of 'держит'; for this inanimate masculine noun the accusative equals the nominative. 'Руками' is the instrumental of means."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-03",
+        "phrase": "У него нет большого живота.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Живота' is the genitive form of 'живот' after 'нет'. 'Большого' agrees in the masculine genitive. A natural way to describe a flat stomach."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-04",
+        "phrase": "Тяжёлая еда вредит животу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Животу' is the dative form of 'живот', the recipient of harm from 'вредит'. 'Тяжёлая еда' is the nominative subject. A useful health expression."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-05",
+        "phrase": "Она лежит на животе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Животе' is the prepositional form of 'живот' after 'на', describing lying on one's stomach. A common everyday body position."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-06",
+        "phrase": "Под животом находится пояс.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'под'. 'Животом' is the instrumental form of 'живот' after 'под', locating the belt below the belly. 'Пояс' is the nominative subject. Practises spatial instrumental."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-07",
+        "phrase": "После обеда живот стал круглым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Живот' is the nominative subject of 'стал'. 'Круглым' is the instrumental complement describing the resulting state. 'После обеда' uses the genitive 'обеда'."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-08",
+        "phrase": "Дети смеются и держатся за животы.",
+        "fullAnalysis": "Strategic focus: Accusative plural with 'за'. 'Животы' is the accusative plural of 'живот' after 'держаться за', the laughing-so-hard idiom. 'Дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-09",
+        "phrase": "Врач смотрит на животы пациентов.",
+        "fullAnalysis": "Strategic focus: Accusative plural after 'на'. 'Животы' is the accusative plural of 'живот' after 'смотреть на'. 'Пациентов' is the genitive plural showing whose bellies. A clinical scene."
+      },
+      {
+        "id": "NN-BODY-ZHIVOT-10",
+        "phrase": "У толстых людей большие животы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Животы' is the nominative plural of 'живот', the subject. 'Большие' is the agreeing plural adjective, and 'у толстых людей' uses genitive plural. Descriptive plural practice."
+      }
+    ]
+  }
+]

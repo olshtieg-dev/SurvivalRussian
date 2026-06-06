@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-DEREVNYA",
+    "label": "Деревня",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for деревня (village).",
+    "missions": [
+      {
+        "id": "NN-MOTION-DEREVNYA-01",
+        "phrase": "Наша деревня очень тихая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Деревня' is the feminine nominative subject. 'Наша' and 'тихая' are the agreeing feminine adjectives, and 'очень' intensifies. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-02",
+        "phrase": "Летом мы едем в деревню.",
+        "fullAnalysis": "Strategic focus: Accusative with в. 'Деревню' is the accusative after 'в' showing direction toward. 'В деревню' is the everyday way to say you are travelling to the countryside."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-03",
+        "phrase": "Бабушка живёт в деревне.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Деревне' is the prepositional after 'в' showing where someone lives. 'В деревне' contrasts with the accusative 'в деревню' used for motion."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-04",
+        "phrase": "Мы вернулись из деревни вчера.",
+        "fullAnalysis": "Strategic focus: Genitive with из. 'Деревни' is the genitive after 'из' showing origin of motion. 'Из деревни' is the natural counterpart to 'в деревню' for coming back."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-05",
+        "phrase": "Дорога к деревне очень длинная.",
+        "fullAnalysis": "Strategic focus: Dative with к. 'Деревне' is the dative after 'к' showing the direction toward. 'Дорога к деревне' describes the road leading to the village. A natural place phrase."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-06",
+        "phrase": "Я люблю свою деревню.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Деревню' is the accusative direct object of 'люблю'. 'Свою' agrees in the feminine accusative. A warm, everyday statement of attachment."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-07",
+        "phrase": "За деревней начинается лес.",
+        "fullAnalysis": "Strategic focus: Instrumental with за. 'Деревней' is the instrumental after 'за' showing position behind. 'Лес' is the nominative subject of 'начинается'. A natural way to describe surroundings."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-08",
+        "phrase": "В этом районе много деревень.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Деревень' is the genitive plural after 'много', with the fleeting е inserted into the stem. 'В этом районе' locates them. A clear genitive-plural model."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-09",
+        "phrase": "Маленькие деревни стоят у реки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Деревни' is the nominative plural subject of 'стоят'. 'Маленькие' is the agreeing plural adjective, and 'у реки' locates them with the genitive."
+      },
+      {
+        "id": "NN-MOTION-DEREVNYA-10",
+        "phrase": "Мы проехали несколько деревень.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Деревень' is the genitive plural after 'несколько', with the inserted fleeting е. 'Проехать деревни' describes passing through them on a trip."
+      }
+    ]
+  }
+]

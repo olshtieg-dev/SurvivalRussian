@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KARMAN",
+    "label": "Карман",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for карман (pocket).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-01",
+        "phrase": "Этот карман совсем пустой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Карман' is a masculine noun in the nominative as the subject. 'Пустой' is the agreeing masculine adjective, and 'этот' points to a specific pocket."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-02",
+        "phrase": "Я положил телефон в карман.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Карман' is accusative after 'в', marking motion into the pocket. The inanimate masculine keeps the nominative form."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-03",
+        "phrase": "В кармане лежат старые ключи.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В кармане' uses the prepositional form 'кармане' after 'в' to show where the keys are. The masculine ending is '-е'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-04",
+        "phrase": "Он достал деньги из кармана.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Кармана' is the genitive singular after 'из', marking motion out of the pocket. The masculine ending is '-а'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-05",
+        "phrase": "У этой куртки нет кармана.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Кармана' is the genitive singular after 'нет', marking absence. The masculine ending '-а' is required by the negation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-06",
+        "phrase": "Он пришил пуговицу к карману.",
+        "fullAnalysis": "Strategic focus: Dative of attachment. 'Карману' is the dative singular after 'к', marking the point of attachment. The masculine ending '-у' is standard."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-07",
+        "phrase": "Он играет с ключами в кармане.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В кармане' again uses the prepositional form 'кармане' after 'в'. 'С ключами' is instrumental, describing what he plays with."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-08",
+        "phrase": "Я проверил каждый карман куртки.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Карман' is the accusative direct object of 'проверил'. As an inanimate masculine noun it keeps the nominative form. 'Каждый' agrees."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-09",
+        "phrase": "У этих брюк глубокие карманы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Карманы' is the nominative plural subject. 'Глубокие' agrees in the plural, describing the pockets of the trousers."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KARMAN-10",
+        "phrase": "Дети набили карманы конфетами.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Карманы' is the accusative plural object of 'набили'. 'Конфетами' is instrumental, showing what the pockets were stuffed with."
+      }
+    ]
+  }
+]

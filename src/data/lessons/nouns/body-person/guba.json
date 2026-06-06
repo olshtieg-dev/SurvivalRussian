@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-GUBA",
+    "label": "Губа",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for губа (lip).",
+    "missions": [
+      {
+        "id": "NN-BODY-GUBA-01",
+        "phrase": "У неё нижняя губа дрожит.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Губа' is the nominative subject of 'дрожит'. 'Нижняя' is the agreeing feminine adjective. A subtle emotional description."
+      },
+      {
+        "id": "NN-BODY-GUBA-02",
+        "phrase": "Он прикусил губу от боли.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Губу' is the accusative direct object of 'прикусил'. 'От боли' is genitive showing cause. A natural reaction phrase."
+      },
+      {
+        "id": "NN-BODY-GUBA-03",
+        "phrase": "На губе появилась трещина.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На губе' uses the prepositional form 'губе' after 'на' to locate the crack. 'Трещина' is the nominative subject of 'появилась'."
+      },
+      {
+        "id": "NN-BODY-GUBA-04",
+        "phrase": "У этой губы странная форма.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Губы' is the genitive after 'у этой', marking whose shape it is. 'Форма' is the nominative subject. A descriptive pattern."
+      },
+      {
+        "id": "NN-BODY-GUBA-05",
+        "phrase": "Она поднесла чашку к губам.",
+        "fullAnalysis": "Strategic focus: Dative plural direction. 'К губам' uses the dative plural 'губам' after 'к' to show movement toward the lips. 'Чашку' is the accusative object. A common gesture."
+      },
+      {
+        "id": "NN-BODY-GUBA-06",
+        "phrase": "Он провёл по губе пальцем.",
+        "fullAnalysis": "Strategic focus: Dative of contact. 'По губе' uses the dative 'губе' after 'по' for sweeping contact. 'Пальцем' is the instrumental tool. A precise touch description."
+      },
+      {
+        "id": "NN-BODY-GUBA-07",
+        "phrase": "Она улыбнулась одними губами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of means. 'Губами' is the instrumental plural showing what she smiled with. 'Одними' agrees in the instrumental plural. A nuanced phrase."
+      },
+      {
+        "id": "NN-BODY-GUBA-08",
+        "phrase": "У него потрескались губы зимой.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Губы' is the nominative plural subject of 'потрескались'. 'Зимой' is the instrumental of time. A seasonal complaint."
+      },
+      {
+        "id": "NN-BODY-GUBA-09",
+        "phrase": "На её губах яркая помада.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'На губах' uses the prepositional plural 'губах' after 'на'. 'Помада' is the nominative subject. A clear cosmetic description."
+      },
+      {
+        "id": "NN-BODY-GUBA-10",
+        "phrase": "Не закусывай губ так сильно.",
+        "fullAnalysis": "Strategic focus: Genitive plural of negation. 'Губ' is the genitive plural after the negated imperative 'не закусывай'. Note the zero ending typical of feminine plurals. A caring warning."
+      }
+    ]
+  }
+]

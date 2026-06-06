@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-TOCHKA",
+    "label": "Точка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for точка (point; dot).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-01",
+        "phrase": "На карте стоит красная точка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Точка' is a feminine noun in the nominative as the subject of 'стоит'. 'Красная' is the agreeing feminine adjective, and 'на карте' locates it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-02",
+        "phrase": "Поставь точку в конце предложения.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Точку' is the accusative direct object of the imperative 'поставь'. 'В конце предложения' uses prepositional and genitive forms to locate it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-03",
+        "phrase": "Мы дошли до нужной точки.",
+        "fullAnalysis": "Strategic focus: Genitive after до. 'Точки' is the genitive after 'до' showing the endpoint reached. 'Нужной' agrees in the feminine genitive, and 'дошли' is the verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-04",
+        "phrase": "В этой точке дороги поворот.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В точке' uses the prepositional form 'точке' after 'в' to mark the spot. 'Этой' agrees in the feminine prepositional, and 'дороги' is genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-05",
+        "phrase": "Линия идёт к этой точке.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Точке' is the dative after 'к' showing direction toward the point. 'Этой' agrees in the feminine dative, and 'линия' is the subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-06",
+        "phrase": "Над точкой нарисуй маленький круг.",
+        "fullAnalysis": "Strategic focus: Instrumental after над. 'Точкой' is the instrumental after 'над' showing position above the dot. 'Круг' is the accusative object of 'нарисуй'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-07",
+        "phrase": "Это самая высокая точка горы.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Точка' is the nominative as the predicate noun. 'Самая высокая' is the superlative adjective, and 'горы' is the genitive showing of what."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-08",
+        "phrase": "На небе видно много точек.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Точек' is the genitive plural with a fleeting vowel, required by 'много'. 'На небе' locates them, and 'видно' is impersonal."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-09",
+        "phrase": "На графике две красные точки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две' the feminine noun takes the genitive singular 'точки'. 'Красные' agrees in the plural, and 'на графике' locates them."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TOCHKA-10",
+        "phrase": "Соедини все точки на рисунке.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Точки' is the inanimate accusative plural, identical to the nominative, as the object of 'соедини'. 'Все' agrees in the plural."
+      }
+    ]
+  }
+]

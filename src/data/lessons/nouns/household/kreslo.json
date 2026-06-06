@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KRESLO",
+    "label": "Кресло",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for кресло (armchair).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-01",
+        "phrase": "Это очень удобное кресло.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Кресло' is the neuter nominative predicate noun. 'Удобное' is the agreeing neuter adjective, intensified by 'очень'. A basic praise statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-02",
+        "phrase": "Мы купили новое кресло.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кресло' is the accusative direct object of 'купили'; this neuter noun keeps its nominative form. 'Новое' agrees in the neuter accusative. A shopping statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-03",
+        "phrase": "Кот спит в мягком кресле.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В кресле' uses the prepositional form 'кресле' after 'в'. 'Мягком' agrees in the neuter prepositional. A cosy scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-04",
+        "phrase": "У этого кресла сломалась ножка.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Кресла' is the genitive after 'у', marking whose leg broke. 'Ножка' is the nominative subject of 'сломалась'. A repair statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-05",
+        "phrase": "Он подошёл к старому креслу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К креслу' uses the dative 'креслу' after 'к' to show movement toward. 'Старому' agrees in the neuter dative. A movement phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-06",
+        "phrase": "Стол стоит рядом с креслом.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 'Креслом' is the instrumental after 'рядом с', showing what the table stands beside. 'Стол' is the nominative subject. A spatial description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-07",
+        "phrase": "В комнате два кожаных кресла.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Кресла' is the genitive singular required by 'два'. 'Кожаных' takes the plural genitive after the numeral. A furnishing statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-08",
+        "phrase": "Эти кресла стоят слишком дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кресла' is the neuter nominative plural subject of 'стоят'. 'Эти' agrees in the plural. A pricing complaint."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-09",
+        "phrase": "В магазине много удобных кресел.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Кресел' is the genitive plural required by 'много'. Note the fleeting vowel inserted before the zero ending. A store description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KRESLO-10",
+        "phrase": "Между креслами стоит лампа.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Креслами' is the instrumental plural after 'между'. 'Лампа' is the nominative subject of 'стоит'. A spatial description."
+      }
+    ]
+  }
+]

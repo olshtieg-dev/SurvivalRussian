@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KONETS",
+    "label": "Конец",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for конец (end).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KONETS-01",
+        "phrase": "Наконец наступил конец фильма.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Конец' is the masculine nominative subject of 'наступил'. 'Фильма' is the genitive showing the end of what. A natural way to mark when something finishes."
+      },
+      {
+        "id": "NN-MOTION-KONETS-02",
+        "phrase": "Мы дошли до конца дороги.",
+        "fullAnalysis": "Strategic focus: Genitive with до and fleeting vowel. 'Конца' is the genitive after 'до', and the е of конец drops out, giving the stem конц-. 'Дороги' is the genitive showing the end of what."
+      },
+      {
+        "id": "NN-MOTION-KONETS-03",
+        "phrase": "В конце недели мы отдыхаем.",
+        "fullAnalysis": "Strategic focus: Prepositional with fleeting vowel. 'Конце' is the prepositional after 'в', again with the dropped е. 'В конце недели' is the everyday phrase for the end of the week."
+      },
+      {
+        "id": "NN-MOTION-KONETS-04",
+        "phrase": "Это привело к печальному концу.",
+        "fullAnalysis": "Strategic focus: Dative with к and fleeting vowel. 'Концу' is the dative after 'к', with the stem конц-. 'Печальному' agrees in the masculine dative. A useful pattern for describing outcomes."
+      },
+      {
+        "id": "NN-MOTION-KONETS-05",
+        "phrase": "Я прочитал книгу до конца.",
+        "fullAnalysis": "Strategic focus: Genitive with до. 'Конца' is the genitive after 'до', built on the stem конц-. 'До конца' is a fixed phrase meaning all the way to the end. A common reading sentence."
+      },
+      {
+        "id": "NN-MOTION-KONETS-06",
+        "phrase": "Конец близко, не сдавайся!",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Конец' is the nominative subject, here with the short predicate 'близко'. The full vowel е stays because the noun is in the nominative. An encouraging, everyday line."
+      },
+      {
+        "id": "NN-MOTION-KONETS-07",
+        "phrase": "Привяжи верёвку за этот конец.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Конец' is the inanimate accusative after 'за', matching the nominative form. 'Этот' agrees in the masculine accusative. A concrete, practical instruction."
+      },
+      {
+        "id": "NN-MOTION-KONETS-08",
+        "phrase": "Свяжи вместе оба конца.",
+        "fullAnalysis": "Strategic focus: Accusative with number. 'Конца' is the genitive singular form required after 'оба', built on the stem конц-. 'Свяжи концы' is a practical hands-on instruction."
+      },
+      {
+        "id": "NN-MOTION-KONETS-09",
+        "phrase": "У палки два острых конца.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. 'Конца' follows 'два' in the genitive singular, with the stem конц-. 'Острых' is the genitive plural adjective. A clear numeral example."
+      },
+      {
+        "id": "NN-MOTION-KONETS-10",
+        "phrase": "Концы верёвки уже развязались.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Концы' is the nominative plural subject, on the stem конц-, of 'развязались'. 'Верёвки' is the genitive showing the ends of what. A clean plural model."
+      }
+    ]
+  }
+]

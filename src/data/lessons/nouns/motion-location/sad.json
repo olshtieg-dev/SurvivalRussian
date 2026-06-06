@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-SAD",
+    "label": "Сад",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for сад (garden).",
+    "missions": [
+      {
+        "id": "NN-MOTION-SAD-01",
+        "phrase": "Наш сад очень красивый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сад' is a masculine noun in the nominative as the subject. 'Наш' is the agreeing masculine possessive, and 'красивый' is the masculine adjective. A simple description."
+      },
+      {
+        "id": "NN-MOTION-SAD-02",
+        "phrase": "Весной я сажаю сад.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сад' is the accusative direct object of 'сажаю'; for this inanimate masculine noun the accusative equals the nominative. 'Весной' is an instrumental time phrase."
+      },
+      {
+        "id": "NN-MOTION-SAD-03",
+        "phrase": "Возле сада течёт река.",
+        "fullAnalysis": "Strategic focus: Genitive after 'возле'. 'Сада' is the genitive form of 'сад' after 'возле', meaning near the garden. 'Река' is the nominative subject. A useful spatial phrase."
+      },
+      {
+        "id": "NN-MOTION-SAD-04",
+        "phrase": "К нашему саду ведёт тропинка.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Саду' is the dative form of 'сад' after 'к', marking the goal of motion. 'Нашему' agrees in the masculine dative. 'Тропинка' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-SAD-05",
+        "phrase": "В саду цветут яблони.",
+        "fullAnalysis": "Strategic focus: Locative -у ending. 'В саду' uses the special locative form 'саду' after 'в', a common pattern for this noun instead of the regular prepositional. 'Яблони' is the plural subject."
+      },
+      {
+        "id": "NN-MOTION-SAD-06",
+        "phrase": "За садом стоит старый дом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'за'. 'Садом' is the instrumental form of 'сад' after 'за', locating the house behind the garden. 'Старый дом' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-SAD-07",
+        "phrase": "Дети гуляют по саду.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Саду' is the dative form of 'сад' after 'по', meaning movement around the garden. 'Дети' is the nominative plural subject. A pleasant everyday scene."
+      },
+      {
+        "id": "NN-MOTION-SAD-08",
+        "phrase": "Из сада пахнет свежими цветами.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Сада' is the genitive form of 'сад' after 'из', marking the source of the smell. 'Свежими цветами' is an instrumental phrase after 'пахнет'."
+      },
+      {
+        "id": "NN-MOTION-SAD-09",
+        "phrase": "В деревне много красивых садов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Садов' is the genitive plural of 'сад' after 'много'. 'Красивых' agrees in the genitive plural. 'В деревне' uses the prepositional 'деревне'. Counts gardens."
+      },
+      {
+        "id": "NN-MOTION-SAD-10",
+        "phrase": "Весной сады становятся зелёными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сады' is the nominative plural of 'сад', the subject of 'становятся'. 'Зелёными' is the instrumental plural complement describing the result. A seasonal sentence."
+      }
+    ]
+  }
+]

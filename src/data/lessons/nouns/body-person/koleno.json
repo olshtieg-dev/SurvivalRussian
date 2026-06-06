@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-KOLENO",
+    "label": "Колено",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for колено (knee).",
+    "missions": [
+      {
+        "id": "NN-BODY-KOLENO-01",
+        "phrase": "У меня болит правое колено.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Колено' is the neuter nominative subject of 'болит'. 'Правое' is the agreeing neuter adjective, and 'у меня' frames whose knee hurts. The basic complaint sentence."
+      },
+      {
+        "id": "NN-BODY-KOLENO-02",
+        "phrase": "Я разбил колено во время игры.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Колено' is the neuter accusative direct object of 'разбил'; neuter nouns look the same in nominative and accusative. 'Во время игры' is the genitive time frame. A natural injury report."
+      },
+      {
+        "id": "NN-BODY-KOLENO-03",
+        "phrase": "Кожа на колене покраснела.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На колене' uses the neuter prepositional 'колене' after 'на' to place the skin. 'Покраснела' agrees with the feminine subject 'кожа'. Useful for describing symptoms."
+      },
+      {
+        "id": "NN-BODY-KOLENO-04",
+        "phrase": "Ребёнок сидит у мамы на коленях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural idiom. 'На коленях' uses the neuter prepositional plural to mean a lap. 'У мамы' is the genitive of possession. The standard way to say sitting on someone's lap."
+      },
+      {
+        "id": "NN-BODY-KOLENO-05",
+        "phrase": "Он встал на одно колено.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На колено' uses the neuter accusative after 'на' to show the motion of kneeling. 'Одно' is the agreeing neuter numeral. Classic for a proposal scene."
+      },
+      {
+        "id": "NN-BODY-KOLENO-06",
+        "phrase": "Врач осмотрел моё больное колено.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Колено' is the neuter accusative object of 'осмотрел'. 'Моё больное' are the agreeing neuter modifiers. Good for a doctor's-visit context."
+      },
+      {
+        "id": "NN-BODY-KOLENO-07",
+        "phrase": "После падения колени дрожали.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Колени' is the neuter nominative plural subject of 'дрожали'. 'После падения' is the genitive time frame. Vivid for describing fear or weakness."
+      },
+      {
+        "id": "NN-BODY-KOLENO-08",
+        "phrase": "Я положил руку на колено.",
+        "fullAnalysis": "Strategic focus: Accusative of placement. 'На колено' uses the neuter accusative after 'на' to mark where the hand goes. 'Руку' is the feminine accusative object of 'положил'. A clear motion-onto pattern."
+      },
+      {
+        "id": "NN-BODY-KOLENO-09",
+        "phrase": "Боль в колене мешает мне бегать.",
+        "fullAnalysis": "Strategic focus: Prepositional of location with dative. 'В колене' uses the neuter prepositional 'колене' after 'в'. 'Мне' is the dative experiencer of 'мешает'. Useful for explaining a limitation."
+      },
+      {
+        "id": "NN-BODY-KOLENO-10",
+        "phrase": "Бабушка часто гладит внука по колену.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'По колену' uses the neuter dative 'колену' to show the surface being stroked. 'Внука' is the masculine accusative object. A warm, everyday gesture."
+      }
+    ]
+  }
+]

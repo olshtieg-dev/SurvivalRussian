@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-VOLOS",
+    "label": "Волос",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for волос (hair).",
+    "missions": [
+      {
+        "id": "NN-BODY-VOLOS-01",
+        "phrase": "У неё очень длинные волосы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Волосы' is the usual plural of 'волос', the nominative subject. 'Длинные' is the agreeing plural adjective, and 'у неё' shows whose hair it is. The everyday way to discuss hair."
+      },
+      {
+        "id": "NN-BODY-VOLOS-02",
+        "phrase": "Утром я мою волосы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Волосы' is the accusative plural direct object of 'мою'; for this inanimate noun the accusative equals the nominative plural. 'Утром' adds the time. A daily-routine pattern."
+      },
+      {
+        "id": "NN-BODY-VOLOS-03",
+        "phrase": "На голове ни одного волоса.",
+        "fullAnalysis": "Strategic focus: Genitive singular. 'Волоса' is the genitive singular of 'волос' after 'ни одного', meaning not a single hair. 'На голове' uses the prepositional 'голове'. A vivid idiom for baldness."
+      },
+      {
+        "id": "NN-BODY-VOLOS-04",
+        "phrase": "Этот цвет идёт твоим волосам.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Волосам' is the dative plural of 'волос', the recipient with 'идёт' meaning suits. 'Твоим' agrees in the dative plural. Useful for compliments about appearance."
+      },
+      {
+        "id": "NN-BODY-VOLOS-05",
+        "phrase": "Она ухаживает за волосами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Волосами' is the instrumental plural of 'волос' after 'ухаживать за', meaning to care for one's hair. A common grooming expression."
+      },
+      {
+        "id": "NN-BODY-VOLOS-06",
+        "phrase": "В её волосах красивая лента.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Волосах' is the prepositional plural of 'волос' after 'в', locating the ribbon in the hair. 'Красивая лента' is the nominative subject. A descriptive sentence."
+      },
+      {
+        "id": "NN-BODY-VOLOS-07",
+        "phrase": "Без здоровых волос трудно.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Волос' is the genitive plural of 'волос' after 'без', with a zero ending identical to the lemma. 'Здоровых' agrees in the genitive plural. Practises this tricky form."
+      },
+      {
+        "id": "NN-BODY-VOLOS-08",
+        "phrase": "Седой волос упал на стол.",
+        "fullAnalysis": "Strategic focus: Nominative singular. 'Волос' is the nominative singular subject of 'упал', referring to one single hair. 'Седой' is the agreeing masculine adjective. Shows the rarer singular use."
+      },
+      {
+        "id": "NN-BODY-VOLOS-09",
+        "phrase": "Я подстригаю волосы каждый месяц.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Волосы' is the accusative plural object of 'подстригаю'. 'Каждый месяц' is an accusative time phrase. A practical routine sentence about haircuts."
+      },
+      {
+        "id": "NN-BODY-VOLOS-10",
+        "phrase": "Ветер играет с волосами девушки.",
+        "fullAnalysis": "Strategic focus: Instrumental plural with 'с'. 'Волосами' is the instrumental plural after 'с', meaning the wind plays with the hair. 'Девушки' is genitive showing whose hair. A poetic everyday image."
+      }
+    ]
+  }
+]

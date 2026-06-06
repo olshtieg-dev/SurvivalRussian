@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-BOK",
+    "label": "Бок",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for бок (side).",
+    "missions": [
+      {
+        "id": "NN-BODY-BOK-01",
+        "phrase": "У меня болит правый бок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бок' is the nominative subject of 'болит'. 'Правый' is the agreeing masculine adjective. A common health complaint."
+      },
+      {
+        "id": "NN-BODY-BOK-02",
+        "phrase": "Он повернулся на другой бок.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Бок' is the accusative after 'на', showing the side turned onto; this inanimate masculine noun keeps the nominative form. A sleeping-position phrase."
+      },
+      {
+        "id": "NN-BODY-BOK-03",
+        "phrase": "Кот лежит на боку.",
+        "fullAnalysis": "Strategic focus: Locative prepositional. 'На боку' uses the special locative ending '-у' after 'на' to show resting position. A classic second-prepositional form."
+      },
+      {
+        "id": "NN-BODY-BOK-04",
+        "phrase": "У меня нет боли в боку.",
+        "fullAnalysis": "Strategic focus: Locative prepositional in a phrase. 'В боку' again uses the locative '-у' after 'в'. 'Боли' is the genitive of negation after 'нет'. A reassuring statement."
+      },
+      {
+        "id": "NN-BODY-BOK-05",
+        "phrase": "Он прижался боком к стене.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Боком' is the instrumental showing which part touched. 'К стене' is the dative of direction. A vivid posture description."
+      },
+      {
+        "id": "NN-BODY-BOK-06",
+        "phrase": "Шов идёт по боку рубашки.",
+        "fullAnalysis": "Strategic focus: Dative of path. 'По боку' uses the dative 'боку' after 'по' to trace the seam along the side. 'Рубашки' is the genitive of possession. A tailoring detail."
+      },
+      {
+        "id": "NN-BODY-BOK-07",
+        "phrase": "Он схватился за оба бока.",
+        "fullAnalysis": "Strategic focus: Accusative plural with a numeral. 'Бока' is the accusative plural after 'оба'; the masculine plural takes the stressed '-а' ending. A reaction of laughter or pain."
+      },
+      {
+        "id": "NN-BODY-BOK-08",
+        "phrase": "У коробки помялись оба бока.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Бока' is the nominative plural subject of 'помялись', taking the irregular stressed '-а'. 'У коробки' is genitive of possession. A damage report."
+      },
+      {
+        "id": "NN-BODY-BOK-09",
+        "phrase": "У него синяки на обоих боках.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'На боках' uses the prepositional plural 'боках' after 'на'. 'Синяки' is the nominative plural subject. A description of bruising."
+      },
+      {
+        "id": "NN-BODY-BOK-10",
+        "phrase": "Ветер дул со всех боков.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Боков' is the genitive plural after 'со всех'. 'Ветер' is the nominative subject of 'дул'. An evocative description of exposure."
+      }
+    ]
+  }
+]

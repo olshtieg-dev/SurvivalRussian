@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-MOZG",
+    "label": "Мозг",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for мозг (brain).",
+    "missions": [
+      {
+        "id": "NN-BODY-MOZG-01",
+        "phrase": "Человеческий мозг очень сложный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мозг' is a masculine noun in the nominative as the subject. 'Человеческий' is the agreeing masculine adjective, and 'сложный' is the predicate adjective."
+      },
+      {
+        "id": "NN-BODY-MOZG-02",
+        "phrase": "Учёные изучают человеческий мозг.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мозг' is inanimate masculine, so its accusative equals the nominative as the object of 'изучают'. 'Человеческий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-BODY-MOZG-03",
+        "phrase": "Это работа нашего мозга.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Мозга' is the genitive showing whose work it is. 'Нашего' agrees in the masculine genitive, and 'работа' is the nominative subject."
+      },
+      {
+        "id": "NN-BODY-MOZG-04",
+        "phrase": "В мозге миллиарды нервных клеток.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В мозге' uses the prepositional form after 'в' to locate the cells. 'Клеток' is genitive plural after the quantity 'миллиарды'."
+      },
+      {
+        "id": "NN-BODY-MOZG-05",
+        "phrase": "Спорт полезен для мозга.",
+        "fullAnalysis": "Strategic focus: Genitive after для. 'Мозга' is the genitive after 'для' showing benefit. 'Спорт' is the nominative subject, and 'полезен' is the short predicate adjective."
+      },
+      {
+        "id": "NN-BODY-MOZG-06",
+        "phrase": "Кислород нужен мозгу постоянно.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Мозгу' is the dative marking what needs the oxygen. 'Кислород' is the nominative subject, and 'нужен' agrees with it in masculine."
+      },
+      {
+        "id": "NN-BODY-MOZG-07",
+        "phrase": "Не загружай мозг лишней информацией.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental. 'Мозг' is the inanimate accusative object of 'загружай'. 'Информацией' is the instrumental of means, and 'лишней' agrees with it."
+      },
+      {
+        "id": "NN-BODY-MOZG-08",
+        "phrase": "Этот предмет тренирует мозги хорошо.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Мозги' is the inanimate accusative plural, identical to the nominative, as the object of 'тренирует'. The plural here means mental faculties."
+      },
+      {
+        "id": "NN-BODY-MOZG-09",
+        "phrase": "У него хорошие мозги.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Мозги' is the nominative plural and the subject, colloquially meaning brains or wits. 'Хорошие' agrees in the plural, and 'у него' marks the possessor."
+      },
+      {
+        "id": "NN-BODY-MOZG-10",
+        "phrase": "Думай мозгом, а не сердцем.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Мозгом' is the instrumental showing the tool of thinking. It contrasts with 'сердцем', also instrumental, in this common piece of advice."
+      }
+    ]
+  }
+]

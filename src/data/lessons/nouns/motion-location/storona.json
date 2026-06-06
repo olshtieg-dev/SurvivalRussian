@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-STORONA",
+    "label": "Сторона",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for сторона (side).",
+    "missions": [
+      {
+        "id": "NN-MOTION-STORONA-01",
+        "phrase": "Эта сторона улицы солнечная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сторона' is a feminine noun in the nominative as the subject. 'Эта' points at a specific side, and 'улицы' is the genitive showing of what."
+      },
+      {
+        "id": "NN-MOTION-STORONA-02",
+        "phrase": "Посмотри на другую сторону.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Сторону' is the accusative after 'на' showing where to look. 'Другую' agrees in the feminine accusative, and 'посмотри' is the imperative."
+      },
+      {
+        "id": "NN-MOTION-STORONA-03",
+        "phrase": "Дом стоит на той стороне.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На стороне' uses the prepositional form 'стороне' after 'на' to show where the house stands. 'Той' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-MOTION-STORONA-04",
+        "phrase": "Магазин находится с левой стороны.",
+        "fullAnalysis": "Strategic focus: Genitive after с. 'Стороны' is the genitive after the preposition 'с' meaning from a side. 'Левой' agrees in the feminine genitive, and 'находится' locates the shop."
+      },
+      {
+        "id": "NN-MOTION-STORONA-05",
+        "phrase": "Я подошёл к другой стороне дома.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Стороне' is the dative after 'к' showing approach toward a side. 'Другой' agrees in the feminine dative, and 'дома' is the genitive possessor."
+      },
+      {
+        "id": "NN-MOTION-STORONA-06",
+        "phrase": "Машина проехала мимо нашей стороны.",
+        "fullAnalysis": "Strategic focus: Genitive after мимо. 'Стороны' is the genitive after 'мимо' showing motion past. 'Нашей' agrees in the feminine genitive, and 'машина' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-STORONA-07",
+        "phrase": "Со стороны это выглядит странно.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Со стороны' is the genitive after 'со', an idiom meaning from the outside. 'Это' is the subject, and 'выглядит странно' gives the impression."
+      },
+      {
+        "id": "NN-MOTION-STORONA-08",
+        "phrase": "У этого вопроса две стороны.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две' the feminine noun takes the genitive singular 'стороны'. 'У вопроса' is the genitive possessor framing the two sides."
+      },
+      {
+        "id": "NN-MOTION-STORONA-09",
+        "phrase": "Со всех сторон слышен шум.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Сторон' is the genitive plural after 'со всех', from all sides. 'Шум' is the nominative subject, and 'слышен' is the short predicate."
+      },
+      {
+        "id": "NN-MOTION-STORONA-10",
+        "phrase": "Гости приехали с разных сторон.",
+        "fullAnalysis": "Strategic focus: Genitive plural after с. 'Сторон' is the genitive plural after 'с' showing origin from various sides. 'Разных' agrees in the plural, and 'гости' is the subject."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SAPOG",
+    "label": "Сапог",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for сапог (boot).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-01",
+        "phrase": "Этот сапог мне велик.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сапог' is the masculine nominative subject. 'Этот' agrees in the masculine, and 'велик' is the short adjective meaning too big. A practical fitting-room sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-02",
+        "phrase": "Я порвал левый сапог.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сапог' is the inanimate accusative direct object of 'порвал', matching the nominative form. 'Левый' agrees in the masculine accusative. An everyday mishap."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-03",
+        "phrase": "В сапоге дырка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Сапоге' is the prepositional after 'в' showing where the hole is. 'Дырка' is the nominative subject. A short, natural complaint."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-04",
+        "phrase": "Из сапога выпал камешек.",
+        "fullAnalysis": "Strategic focus: Genitive with из. 'Сапога' is the genitive after 'из' showing origin of motion. 'Камешек' is the nominative subject of 'выпал'. A small, vivid everyday scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-05",
+        "phrase": "Я ищу пару к этому сапогу.",
+        "fullAnalysis": "Strategic focus: Dative with к. 'Сапогу' is the dative after 'к' showing the match-to relation. 'Этому' agrees in the masculine dative. A natural shopping or sorting sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-06",
+        "phrase": "Я наступил в лужу сапогом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Сапогом' is the instrumental showing what stepped into the puddle. 'В лужу' uses the accusative for the destination. A vivid everyday image."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-07",
+        "phrase": "Зимой я ношу тёплые сапоги.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Сапоги' is the accusative plural object of 'ношу'. 'Тёплые' agrees in the plural accusative, and 'зимой' sets the season. A common clothing sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-08",
+        "phrase": "В магазине много красивых сапог.",
+        "fullAnalysis": "Strategic focus: Genitive plural with zero ending. 'Сапог' is the genitive plural after 'много', notable for having no ending and matching the nominative singular. 'Красивых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-09",
+        "phrase": "Эти сапоги стоят дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сапоги' is the nominative plural subject of 'стоят'. 'Эти' agrees in the plural, and 'дорого' gives the price judgement. A practical shopping line."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SAPOG-10",
+        "phrase": "Грязь осталась на сапогах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Сапогах' is the prepositional plural after 'на' showing where the mud is. 'Грязь' is the nominative subject of 'осталась'. A natural everyday observation."
+      }
+    ]
+  }
+]

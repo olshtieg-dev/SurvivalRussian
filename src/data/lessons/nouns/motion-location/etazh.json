@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-ETAZH",
+    "label": "Этаж",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for этаж (floor; story).",
+    "missions": [
+      {
+        "id": "NN-MOTION-ETAZH-01",
+        "phrase": "Это самый верхний этаж.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Этаж' is the masculine nominative subject. 'Верхний' is the agreeing masculine adjective, and 'самый' forms the superlative."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-02",
+        "phrase": "Лифт быстро поднял нас на этаж.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Этаж' is the accusative after 'на', showing motion up to the floor. 'Лифт' is the nominative subject, and 'нас' is the accusative object."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-03",
+        "phrase": "Я живу на третьем этаже.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Этаже' is the prepositional after 'на', stating which floor. 'Третьем' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-04",
+        "phrase": "Окна нашего этажа выходят в сад.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Этажа' is the genitive showing whose windows. 'Нашего' agrees in the masculine genitive, and 'окна' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-05",
+        "phrase": "С верхнего этажа видно весь город.",
+        "fullAnalysis": "Strategic focus: Genitive of origin. 'Этажа' is the genitive after 'с', showing the vantage point. 'Верхнего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-06",
+        "phrase": "По этажу бегали шумные дети.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Этажу' is the dative after 'по', showing movement around the floor. 'Дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-07",
+        "phrase": "Между этажами есть удобная лестница.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Этажами' is the instrumental plural after 'между', meaning between the floors. 'Лестница' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-08",
+        "phrase": "В этом доме целых десять этажей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Этажей' is the genitive plural required after 'десять'. 'Целых' stresses the count, and 'в этом доме' sets the location."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-09",
+        "phrase": "Нам нужно подняться на пятый этаж.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Этаж' is the accusative after 'на', marking the goal of going up. 'Пятый' agrees in the masculine accusative, and 'нам нужно' frames the task."
+      },
+      {
+        "id": "NN-MOTION-ETAZH-10",
+        "phrase": "На первом этаже находится аптека.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Этаже' is the prepositional after 'на', placing the pharmacy. 'Первом' agrees in the masculine prepositional, and 'аптека' is the nominative subject."
+      }
+    ]
+  }
+]

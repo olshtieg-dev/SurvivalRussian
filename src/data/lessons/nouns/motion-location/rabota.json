@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-RABOTA",
+    "label": "Работа",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for работа (work; job).",
+    "missions": [
+      {
+        "id": "NN-MOTION-RABOTA-01",
+        "phrase": "Это очень интересная работа.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Работа' is the feminine nominative subject. 'Интересная' is the agreeing feminine adjective, and 'очень' intensifies the judgement of the job."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-02",
+        "phrase": "Я каждый день езжу на работу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Работу' is the accusative after 'на', showing motion toward the workplace. 'Каждый день' marks the daily routine."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-03",
+        "phrase": "Сегодня я вернулся с работы поздно.",
+        "fullAnalysis": "Strategic focus: Genitive of origin. 'Работы' is the genitive after 'с', showing motion away from work. 'Поздно' adds the time, and 'сегодня' fixes the day."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-04",
+        "phrase": "Он сейчас на работе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Работе' is the prepositional form after 'на', stating he is at work. 'Сейчас' marks the present moment."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-05",
+        "phrase": "Я очень доволен своей работой.",
+        "fullAnalysis": "Strategic focus: Instrumental after a short adjective. 'Работой' is the instrumental required by 'доволен', meaning satisfied with. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-06",
+        "phrase": "Мне нужно искать новую работу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Работу' is the accusative direct object of 'искать'. 'Новую' agrees in the feminine accusative, and 'мне нужно' frames the necessity."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-07",
+        "phrase": "Без работы трудно платить за квартиру.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Работы' is the genitive after 'без', meaning without a job. 'Платить за квартиру' uses the accusative for what is paid for."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-08",
+        "phrase": "Она рассказала о своей новой работе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Работе' is the prepositional after 'о', expressing speech about the job. 'Своей новой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-09",
+        "phrase": "У нас много работы на этой неделе.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Работы' is the genitive singular required by 'много', here meaning a lot of work. 'На этой неделе' gives the prepositional time frame."
+      },
+      {
+        "id": "NN-MOTION-RABOTA-10",
+        "phrase": "Эти работы нужно закончить вовремя.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Работы' is the nominative plural here meaning tasks or jobs. 'Эти' agrees in the plural, and 'закончить вовремя' states the requirement."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-KROV",
+    "label": "Кровь",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for кровь (blood).",
+    "missions": [
+      {
+        "id": "NN-BODY-KROV-01",
+        "phrase": "У него на руке кровь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кровь' is a soft-sign feminine noun staying in the nominative as the subject. 'На руке' locates it in the prepositional case, a common way to point out an injury."
+      },
+      {
+        "id": "NN-BODY-KROV-02",
+        "phrase": "Я вижу кровь на полу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кровь' is the accusative direct object of 'вижу'. Soft-sign feminines keep the same form in the accusative as the nominative singular, so it stays unchanged here."
+      },
+      {
+        "id": "NN-BODY-KROV-03",
+        "phrase": "Здесь очень много крови.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Крови' is the genitive singular required after 'много'. The soft-sign feminine takes the ending '-и'. A natural way to describe an amount."
+      },
+      {
+        "id": "NN-BODY-KROV-04",
+        "phrase": "Анализ крови был хороший.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Крови' is genitive, linked to 'анализ' to mean a blood test. The soft-sign feminine ending '-и' marks the relationship between the two nouns."
+      },
+      {
+        "id": "NN-BODY-KROV-05",
+        "phrase": "Врач интересуется моей кровью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Кровью' is the instrumental form required by 'интересуется'. Soft-sign feminines take the ending '-ью'. 'Моей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-BODY-KROV-06",
+        "phrase": "Доктор говорит о крови пациента.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О крови' uses the prepositional form 'крови' after 'о'. The soft-sign feminine ending '-и' marks the topic of discussion."
+      },
+      {
+        "id": "NN-BODY-KROV-07",
+        "phrase": "Эта кровь принадлежит другому человеку.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кровь' is nominative as the subject of 'принадлежит'. 'Эта' points to a specific sample, and 'другому человеку' is the dative recipient of belonging."
+      },
+      {
+        "id": "NN-BODY-KROV-08",
+        "phrase": "Мы дали ему свою кровь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кровь' is the accusative direct object of 'дали', unchanged from the nominative as a soft-sign feminine. 'Свою' agrees, and 'ему' is the dative recipient."
+      },
+      {
+        "id": "NN-BODY-KROV-09",
+        "phrase": "В крови нашли опасный вирус.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В крови' uses the prepositional form 'крови' after 'в' to express where something was found. The soft-sign feminine takes '-и'."
+      },
+      {
+        "id": "NN-BODY-KROV-10",
+        "phrase": "Врачи изучают разные группы крови.",
+        "fullAnalysis": "Strategic focus: Genitive with plural noun. 'Крови' is genitive singular tied to the plural accusative 'группы'. The phrase 'группы крови' means blood types, a fixed and very useful collocation."
+      }
+    ]
+  }
+]

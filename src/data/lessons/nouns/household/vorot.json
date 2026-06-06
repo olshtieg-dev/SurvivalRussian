@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-VOROT",
+    "label": "Ворот",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ворот (collar; gate).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-VOROT-01",
+        "phrase": "У этой рубашки слишком узкий ворот.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ворот' is the masculine nominative subject, here meaning the collar of a shirt. 'Узкий' is the agreeing adjective, and 'у этой рубашки' is the genitive of possession. A basic clothing description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-02",
+        "phrase": "Он расстегнул ворот рубашки.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ворот' is the masculine inanimate accusative, identical to the nominative, as the object of 'расстегнул'. 'Рубашки' is the genitive of relation. A natural everyday gesture."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-03",
+        "phrase": "Ветер дул мне за ворот.",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. 'За ворот' uses the masculine accusative after 'за' to show where the wind blew. 'Мне' is the dative of the affected person. An idiomatic, vivid expression."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-04",
+        "phrase": "Снег попал мне за воротом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'за'. 'За воротом' uses the masculine instrumental 'воротом' to show the resting location behind the collar. 'Снег' is the nominative subject. Contrast it with the accusative of motion."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-05",
+        "phrase": "Пуговица оторвалась от ворота.",
+        "fullAnalysis": "Strategic focus: Genitive of source after 'от'. 'Ворота' is the masculine genitive after 'от' to show what the button came off. 'Пуговица' is the feminine nominative subject. A practical household sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-06",
+        "phrase": "Машина медленно подъехала к воротам.",
+        "fullAnalysis": "Strategic focus: Dative plural after 'к'. In the gate sense 'ворота' is plural-only, so 'к воротам' uses the dative plural to show the destination. 'Машина' is the nominative subject. The standard 'drove up to the gate' pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-07",
+        "phrase": "Большие ворота были широко открыты.",
+        "fullAnalysis": "Strategic focus: Nominative plural-only subject. In the gate sense 'ворота' is grammatically plural even for a single gate. 'Большие' agrees in the plural, and 'открыты' is the short-form predicate. A key noun to learn as plurale tantum."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-08",
+        "phrase": "Дети играли возле деревянных ворот.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'возле'. The gate sense 'ворота' gives the genitive plural 'ворот' after 'возле'. 'Деревянных' agrees in the genitive plural. A natural location phrase by the gate."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-09",
+        "phrase": "Кто-то громко стучал в ворота.",
+        "fullAnalysis": "Strategic focus: Accusative plural after 'в'. The gate sense 'ворота' gives the accusative plural after 'в' to show where the knocking lands. 'Кто-то' is the nominative subject. A common everyday scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VOROT-10",
+        "phrase": "За воротами начинался густой лес.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'за'. The gate sense 'ворота' gives the instrumental plural 'воротами' after 'за' to show what lies beyond. 'Лес' is the nominative subject. Good for describing a setting."
+      }
+    ]
+  }
+]

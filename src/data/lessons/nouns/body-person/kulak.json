@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-KULAK",
+    "label": "Кулак",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for кулак (fist).",
+    "missions": [
+      {
+        "id": "NN-BODY-KULAK-01",
+        "phrase": "У него очень большой кулак.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кулак' is a masculine noun in the nominative as the subject. 'Большой' is the agreeing masculine adjective describing its size."
+      },
+      {
+        "id": "NN-BODY-KULAK-02",
+        "phrase": "Он сжал кулак от злости.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кулак' is the accusative direct object of 'сжал'. As an inanimate masculine noun it keeps the nominative form. 'От злости' gives the cause."
+      },
+      {
+        "id": "NN-BODY-KULAK-03",
+        "phrase": "Он ударил по столу кулаком.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Кулаком' is the instrumental form showing the instrument of the blow. The masculine ending '-ом' is standard in the instrumental singular."
+      },
+      {
+        "id": "NN-BODY-KULAK-04",
+        "phrase": "В его кулаке спрятана монета.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В кулаке' uses the prepositional form 'кулаке' after 'в' to show where the coin is hidden. The masculine ending is '-е'."
+      },
+      {
+        "id": "NN-BODY-KULAK-05",
+        "phrase": "У ребёнка нет сильного кулака.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Кулака' is the genitive singular after 'нет'. The masculine ending '-а' marks absence, and 'сильного' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-BODY-KULAK-06",
+        "phrase": "Он погрозил врагу кулаком.",
+        "fullAnalysis": "Strategic focus: Instrumental of gesture. 'Кулаком' is again instrumental, the means of threatening. 'Врагу' is the dative recipient of the gesture, a vivid everyday scene."
+      },
+      {
+        "id": "NN-BODY-KULAK-07",
+        "phrase": "Он спрятал ключ в кулак.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Кулак' is accusative after 'в', marking motion into the fist. The inanimate masculine keeps the nominative form."
+      },
+      {
+        "id": "NN-BODY-KULAK-08",
+        "phrase": "Боксёр показал свои кулаки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Кулаки' is the accusative plural object of 'показал'. 'Свои' agrees in the plural, a natural way to talk about both fists."
+      },
+      {
+        "id": "NN-BODY-KULAK-09",
+        "phrase": "Его кулаки были крепкими и большими.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кулаки' is the nominative plural subject of 'были'. 'Крепкими и большими' are instrumental predicate adjectives after the past tense of 'быть'."
+      },
+      {
+        "id": "NN-BODY-KULAK-10",
+        "phrase": "Дети дрались кулаками во дворе.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Кулаками' is the instrumental plural showing the means of fighting. The masculine ending '-ами' is standard, and 'во дворе' sets the scene."
+      }
+    ]
+  }
+]

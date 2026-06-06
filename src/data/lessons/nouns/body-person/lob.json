@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-LOB",
+    "label": "Лоб",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for лоб (forehead).",
+    "missions": [
+      {
+        "id": "NN-BODY-LOB-01",
+        "phrase": "У ребёнка высокий лоб.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лоб' is the masculine nominative subject of the possession frame. 'Высокий' is the agreeing masculine adjective, and 'у ребёнка' shows whose forehead it is."
+      },
+      {
+        "id": "NN-BODY-LOB-02",
+        "phrase": "Мама поцеловала сына в лоб.",
+        "fullAnalysis": "Strategic focus: Accusative with в. 'Лоб' is the accusative after 'в' showing where the kiss landed. Because лоб is inanimate, the accusative matches the nominative. 'Поцеловать в лоб' is a warm everyday phrase."
+      },
+      {
+        "id": "NN-BODY-LOB-03",
+        "phrase": "У меня на лбу пот.",
+        "fullAnalysis": "Strategic focus: Prepositional with fleeting vowel. 'Лбу' is the prepositional form, and the о of лоб drops out, giving the stem лб-. 'На лбу' locates the sweat. A clear example of a fleeting vowel."
+      },
+      {
+        "id": "NN-BODY-LOB-04",
+        "phrase": "Он вытер лоб платком.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental tool. 'Лоб' is the accusative direct object of 'вытер'. 'Платком' is the instrumental naming the tool. A practical everyday action."
+      },
+      {
+        "id": "NN-BODY-LOB-05",
+        "phrase": "У него нет морщин на лбу.",
+        "fullAnalysis": "Strategic focus: Prepositional with fleeting vowel. 'Лбу' is again the prepositional with the dropped о. 'Морщин' is the genitive plural after 'нет'. A natural description of someone's face."
+      },
+      {
+        "id": "NN-BODY-LOB-06",
+        "phrase": "Он ударился лбом о дверь.",
+        "fullAnalysis": "Strategic focus: Instrumental with fleeting vowel. 'Лбом' is the instrumental, again with the stem лб-, showing what hit the door. 'О дверь' uses the accusative for impact against something."
+      },
+      {
+        "id": "NN-BODY-LOB-07",
+        "phrase": "Волосы упали ему на лоб.",
+        "fullAnalysis": "Strategic focus: Accusative with на. 'Лоб' is the accusative after 'на' showing direction. 'Ему' is the dative of interest, and 'волосы' is the nominative plural subject. A natural descriptive sentence."
+      },
+      {
+        "id": "NN-BODY-LOB-08",
+        "phrase": "У всех вспотели лбы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Лбы' is the nominative plural, built on the stem лб-, as the subject of 'вспотели'. 'У всех' shows whose foreheads. A clear plural model."
+      },
+      {
+        "id": "NN-BODY-LOB-09",
+        "phrase": "Врач потрогал мой лоб.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лоб' is the accusative direct object of 'потрогал'. 'Мой' agrees in the masculine accusative. A clinical, everyday gesture for checking a fever."
+      },
+      {
+        "id": "NN-BODY-LOB-10",
+        "phrase": "Морщины появились на его лбу.",
+        "fullAnalysis": "Strategic focus: Prepositional with fleeting vowel. 'Лбу' is the prepositional with the dropped о after 'на'. 'Морщины' is the nominative plural subject of 'появились'. A natural sentence about ageing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KORIDOR",
+    "label": "Коридор",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for коридор (corridor).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KORIDOR-01",
+        "phrase": "Этот коридор очень длинный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Коридор' is a masculine noun in the nominative as the subject. 'Этот' points at a specific one, and 'длинный' is the agreeing masculine adjective. A simple description."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-02",
+        "phrase": "Я мою коридор каждую субботу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Коридор' is the accusative direct object of 'мою'; for this inanimate masculine noun the accusative equals the nominative. 'Каждую субботу' is an accusative time phrase."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-03",
+        "phrase": "В конце коридора есть окно.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Коридора' is the genitive form of 'коридор' after 'в конце', meaning at the end of the corridor. 'Окно' is the nominative subject. A spatial locating phrase."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-04",
+        "phrase": "По коридору идёт уборщица.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Коридору' is the dative form of 'коридор' after 'по', meaning movement along the corridor. 'Уборщица' is the nominative subject. A common motion pattern."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-05",
+        "phrase": "В коридоре висит зеркало.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Коридоре' is the prepositional form of 'коридор' after 'в', locating the mirror in the corridor. 'Зеркало' is the nominative subject. A core location pattern."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-06",
+        "phrase": "Над коридором тёмный потолок.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Коридором' is the instrumental form of 'коридор' after 'над', locating the ceiling above the corridor. 'Тёмный потолок' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-07",
+        "phrase": "Дети бегут к длинному коридору.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Коридору' is the dative form of 'коридор' after 'к', marking the goal of motion. 'Длинному' agrees in the masculine dative. 'Дети' is the plural subject."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-08",
+        "phrase": "Из коридора дует холодный ветер.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Коридора' is the genitive form of 'коридор' after 'из', marking the source. 'Холодный ветер' is the nominative subject. A vivid everyday sentence."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-09",
+        "phrase": "В больнице длинные белые коридоры.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Коридоры' is the nominative plural of 'коридор', the subject. 'Длинные' and 'белые' are agreeing plural adjectives. 'В больнице' uses the prepositional 'больнице'."
+      },
+      {
+        "id": "NN-MOTION-KORIDOR-10",
+        "phrase": "Мы шли по тёмным коридорам.",
+        "fullAnalysis": "Strategic focus: Dative plural after 'по'. 'Коридорам' is the dative plural of 'коридор' after 'по', meaning through the corridors. 'Тёмным' agrees in the dative plural. Spatial plural motion."
+      }
+    ]
+  }
+]

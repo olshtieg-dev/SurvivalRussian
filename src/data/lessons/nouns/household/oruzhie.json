@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-ORUZHIE",
+    "label": "Оружие",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for оружие (weapon).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-01",
+        "phrase": "Это оружие очень опасно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Оружие' is a neuter noun in the nominative as the subject. 'Опасно' is the short-form neuter predicate, and 'это' agrees in the neuter."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-02",
+        "phrase": "Солдат держит оружие в руках.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Оружие' is the accusative direct object of 'держит'. As a neuter inanimate noun it keeps the nominative form. 'В руках' is prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-03",
+        "phrase": "У него нет никакого оружия.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Оружия' is the genitive singular after 'нет', marking absence. The neuter ending '-я' is required, and 'никакого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-04",
+        "phrase": "Полиция говорит об оружии преступника.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об оружии' uses the prepositional form 'оружии' after 'об'. The neuter ending '-и' marks the topic of discussion."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-05",
+        "phrase": "Он угрожал нам оружием.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Оружием' is the instrumental form showing the means of threatening. The neuter ending is '-ем', and 'нам' is the dative target."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-06",
+        "phrase": "Завод производит современное оружие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Оружие' is the accusative direct object of 'производит', unchanged from the nominative as a neuter noun. 'Современное' agrees in the neuter."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-07",
+        "phrase": "В оружии не было патронов.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В оружии' uses the prepositional form 'оружии' after 'в'. The neuter ending '-и' marks where the cartridges were absent."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-08",
+        "phrase": "Они пришли без оружия.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Оружия' is the genitive singular required by 'без', marking absence of the weapon. The neuter ending is '-я'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-09",
+        "phrase": "Музей собрал старинные виды оружия.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Оружия' is genitive singular tied to the plural accusative 'виды'. The phrase 'виды оружия' means types of weapons, a useful collocation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ORUZHIE-10",
+        "phrase": "Солдаты несут разное оружие.",
+        "fullAnalysis": "Strategic focus: Accusative with collective noun. 'Оружие' is the accusative direct object of 'несут'. Russian treats it as an uncountable neuter noun, so 'разное' agrees in the neuter singular even though many soldiers carry it."
+      }
+    ]
+  }
+]

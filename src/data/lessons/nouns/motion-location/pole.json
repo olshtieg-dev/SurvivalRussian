@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-POLE",
+    "label": "Поле",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for поле (field).",
+    "missions": [
+      {
+        "id": "NN-MOTION-POLE-01",
+        "phrase": "Перед нами широкое поле.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поле' is the neuter nominative subject. 'Широкое' is the agreeing neuter adjective. 'Перед нами' is instrumental. A scenic statement."
+      },
+      {
+        "id": "NN-MOTION-POLE-02",
+        "phrase": "Дети бегут через поле.",
+        "fullAnalysis": "Strategic focus: Accusative of path. 'Поле' is the accusative after 'через'; this neuter noun keeps its nominative form in the accusative. 'Дети' is the nominative plural subject. A movement phrase."
+      },
+      {
+        "id": "NN-MOTION-POLE-03",
+        "phrase": "Мы гуляем по широкому полю.",
+        "fullAnalysis": "Strategic focus: Dative of path. 'По полю' uses the dative 'полю' after 'по' to show movement across. 'Широкому' agrees in the neuter dative. A pleasant walk phrase."
+      },
+      {
+        "id": "NN-MOTION-POLE-04",
+        "phrase": "Дом стоит у края поля.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Поля' is the genitive after 'у края', marking whose edge. 'Дом' is the nominative subject. A location description."
+      },
+      {
+        "id": "NN-MOTION-POLE-05",
+        "phrase": "В поле растёт высокая трава.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В поле' uses the prepositional form 'поле' after 'в' to show location. 'Трава' is the nominative subject of 'растёт'. A nature statement."
+      },
+      {
+        "id": "NN-MOTION-POLE-06",
+        "phrase": "Над полем летят птицы.",
+        "fullAnalysis": "Strategic focus: Instrumental of position. 'Полем' is the instrumental after 'над', showing what the birds fly over. 'Птицы' is the nominative plural subject. A vivid scene."
+      },
+      {
+        "id": "NN-MOTION-POLE-07",
+        "phrase": "За домом начинаются большие поля.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Поля' is the neuter nominative plural subject of 'начинаются'. 'Большие' agrees in the plural. 'За домом' is instrumental. A landscape statement."
+      },
+      {
+        "id": "NN-MOTION-POLE-08",
+        "phrase": "С полей убрали весь урожай.",
+        "fullAnalysis": "Strategic focus: Genitive plural of source. 'Полей' is the genitive plural after 'с', marking where the harvest came from. 'Урожай' is the accusative object. A farming statement."
+      },
+      {
+        "id": "NN-MOTION-POLE-09",
+        "phrase": "Дорога идёт между полями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Полями' is the instrumental plural after 'между'. 'Дорога' is the nominative subject of 'идёт'. A spatial description."
+      },
+      {
+        "id": "NN-MOTION-POLE-10",
+        "phrase": "На полях лежит свежий снег.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Полях' is the prepositional plural after 'на'. 'Снег' is the nominative subject of 'лежит'. A wintry scene."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-KOZHA",
+    "label": "Кожа",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for кожа (skin).",
+    "missions": [
+      {
+        "id": "NN-BODY-KOZHA-01",
+        "phrase": "У ребёнка очень нежная кожа.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кожа' is the feminine nominative subject of the possession frame 'у ребёнка'. 'Нежная' is the agreeing feminine adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-BODY-KOZHA-02",
+        "phrase": "Зимой я защищаю кожу кремом.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental. 'Кожу' is the feminine accusative direct object of 'защищаю'. 'Кремом' is the instrumental of means, and 'зимой' sets the season."
+      },
+      {
+        "id": "NN-BODY-KOZHA-03",
+        "phrase": "Этот крем для сухой кожи.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Кожи' is the genitive form after 'для', showing what the cream is for. 'Сухой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-BODY-KOZHA-04",
+        "phrase": "Солнце вредно для нашей кожи.",
+        "fullAnalysis": "Strategic focus: Genitive after 'для'. 'Кожи' is the feminine genitive after 'для'. 'Нашей' agrees in the feminine genitive, and 'солнце' is the nominative subject."
+      },
+      {
+        "id": "NN-BODY-KOZHA-05",
+        "phrase": "На коже появилась красная сыпь.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Коже' is the prepositional form after 'на', locating the rash. 'Сыпь' is the nominative subject, and 'красная' agrees with it."
+      },
+      {
+        "id": "NN-BODY-KOZHA-06",
+        "phrase": "Я почувствовал холод кожей.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Кожей' is the instrumental, showing the body part through which the cold was felt. 'Холод' is the accusative object of 'почувствовал'."
+      },
+      {
+        "id": "NN-BODY-KOZHA-07",
+        "phrase": "Хорошо ухаживай за своей кожей.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'за'. 'Кожей' is the instrumental in the phrase 'ухаживать за', meaning to take care of. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-BODY-KOZHA-08",
+        "phrase": "У него смуглая кожа и тёмные волосы.",
+        "fullAnalysis": "Strategic focus: Nominative coordination. 'Кожа' is the nominative subject, joined by 'и' to a second subject 'волосы'. 'Смуглая' agrees in the feminine nominative."
+      },
+      {
+        "id": "NN-BODY-KOZHA-09",
+        "phrase": "Сумка сделана из настоящей кожи.",
+        "fullAnalysis": "Strategic focus: Genitive of material. 'Кожи' is the genitive after 'из', here meaning leather as a material. 'Настоящей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-BODY-KOZHA-10",
+        "phrase": "После моря кожа стала тёмной.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental predicate. 'Кожа' is the nominative subject of 'стала'. 'Тёмной' is the instrumental predicate adjective, and 'после моря' uses the genitive."
+      }
+    ]
+  }
+]

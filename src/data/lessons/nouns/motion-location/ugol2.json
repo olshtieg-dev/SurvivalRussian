@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-UGOL2",
+    "label": "Угол",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for угол (corner).",
+    "missions": [
+      {
+        "id": "NN-MOTION-UGOL2-01",
+        "phrase": "В комнате есть уютный угол.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Угол' is the masculine nominative subject, keeping its fleeting vowel here. 'Уютный' is the agreeing adjective, and 'в комнате' is the prepositional location. A basic existence statement."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-02",
+        "phrase": "Поставь стул в угол.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В угол' uses the masculine inanimate accusative, identical to the nominative, after 'в' to mark the destination. 'Стул' is the accusative object of the imperative 'поставь'. A clear placement command."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-03",
+        "phrase": "Кот спит в дальнем углу.",
+        "fullAnalysis": "Strategic focus: Prepositional location with fleeting vowel. 'В углу' uses the masculine prepositional 'углу', where the vowel 'о' drops out, after 'в'. 'Дальнем' agrees in the prepositional. Note the special locative ending."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-04",
+        "phrase": "Стол стоит из угла комнаты.",
+        "fullAnalysis": "Strategic focus: Genitive with fleeting vowel. 'Угла' is the masculine genitive after 'из', with the fleeting 'о' dropping out. 'Комнаты' is a further genitive of relation. Shows the stem change clearly."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-05",
+        "phrase": "Машина быстро повернула за угол.",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. 'За угол' uses the masculine accusative after 'за' to express turning around the corner. 'Машина' is the feminine nominative subject. The standard 'turn the corner' idiom."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-06",
+        "phrase": "Дети играют за углом дома.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'за'. 'За углом' uses the masculine instrumental 'углом', with the fleeting vowel gone, to express location around the corner. 'Дома' is the genitive of relation. Contrast with the accusative of motion."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-07",
+        "phrase": "Я подошёл к углу здания.",
+        "fullAnalysis": "Strategic focus: Dative goal after 'к'. 'К углу' uses the masculine dative 'углу', with the fleeting vowel dropped, to show where I walked up to. 'Здания' is the genitive of relation. A natural approach sentence."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-08",
+        "phrase": "В треугольнике три острых угла.",
+        "fullAnalysis": "Strategic focus: Genitive after a small number. 'Угла' is the masculine genitive singular required by 'три', with the fleeting vowel dropped. 'Острых' agrees in the genitive plural. The standard counting pattern for two to four."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-09",
+        "phrase": "Во всех углах висела паутина.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Углах' is the masculine prepositional plural after 'во всех', with the fleeting vowel gone. 'Паутина' is the feminine nominative subject. Good for plural practice."
+      },
+      {
+        "id": "NN-MOTION-UGOL2-10",
+        "phrase": "Острые углы стола опасны для детей.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Углы' is the masculine nominative plural subject, with the fleeting vowel dropped. 'Острые' agrees in the plural, and 'стола' is the genitive of relation. A clean plural example."
+      }
+    ]
+  }
+]

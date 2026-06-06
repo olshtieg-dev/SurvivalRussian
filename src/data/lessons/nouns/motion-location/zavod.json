@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-ZAVOD",
+    "label": "Завод",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for завод (factory).",
+    "missions": [
+      {
+        "id": "NN-MOTION-ZAVOD-01",
+        "phrase": "Этот завод очень старый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Завод' is a masculine noun in the nominative as the subject. 'Старый' is the agreeing masculine adjective, and 'этот' points to a specific factory."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-02",
+        "phrase": "Мой отец работает на заводе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На заводе' uses the prepositional form 'заводе' after 'на', the standard way to say where someone works. The masculine ending is '-е'."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-03",
+        "phrase": "Утром я еду на завод.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Завод' is accusative after 'на', marking motion to the factory. The inanimate masculine keeps the nominative form."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-04",
+        "phrase": "Около завода построили новый дом.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Завода' is the genitive singular required by 'около'. The masculine ending '-а' marks the location near the factory."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-05",
+        "phrase": "Рабочие вышли из завода вечером.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Завода' is the genitive singular after 'из', marking motion out of the factory. The masculine ending is '-а'."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-06",
+        "phrase": "Дорога ведёт к старому заводу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Заводу' is the dative singular after 'к', marking direction toward the factory. 'Старому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-07",
+        "phrase": "За заводом течёт широкая река.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Заводом' is the instrumental singular after 'за', marking position behind the factory. The masculine ending is '-ом'."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-08",
+        "phrase": "Город построил большой завод.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Завод' is the accusative direct object of 'построил'. As an inanimate masculine noun it keeps the nominative form. 'Большой' agrees."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-09",
+        "phrase": "В нашем городе много заводов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Заводов' is the genitive plural required after 'много'. The masculine ending '-ов' is standard for counting factories."
+      },
+      {
+        "id": "NN-MOTION-ZAVOD-10",
+        "phrase": "Эти заводы выпускают новые машины.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Заводы' is the nominative plural subject of 'выпускают'. 'Эти' agrees in the plural, pointing to specific factories."
+      }
+    ]
+  }
+]

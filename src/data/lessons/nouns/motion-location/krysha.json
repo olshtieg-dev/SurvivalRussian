@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KRYSHA",
+    "label": "Крыша",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for крыша (roof).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KRYSHA-01",
+        "phrase": "У дома красная крыша.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Крыша' is the feminine nominative subject of the possession frame 'у дома'. 'Красная' is the agreeing feminine adjective. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-02",
+        "phrase": "Кот залез на крышу.",
+        "fullAnalysis": "Strategic focus: Accusative with на. 'Крышу' is the accusative after 'на' showing direction onto a surface. 'Залезть на крышу' is the everyday way to describe climbing up onto the roof."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-03",
+        "phrase": "Птицы сидят на крыше.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Крыше' is the prepositional after 'на' showing where the birds are. This contrasts with the accusative 'на крышу' used for motion."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-04",
+        "phrase": "Снег упал с крыши.",
+        "fullAnalysis": "Strategic focus: Genitive with с. 'Крыши' is the genitive after 'с' showing motion off a surface. 'С крыши' is the natural counterpart to 'на крышу' for coming down. A common winter sentence."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-05",
+        "phrase": "Мы ремонтируем старую крышу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Крышу' is the accusative direct object of 'ремонтируем'. 'Старую' agrees in the feminine accusative. A practical household task."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-06",
+        "phrase": "Под крышей живут ласточки.",
+        "fullAnalysis": "Strategic focus: Instrumental with под. 'Крышей' is the instrumental after 'под' showing position beneath. 'Ласточки' is the nominative plural subject of 'живут'. A natural locative description."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-07",
+        "phrase": "К крыше прислонили длинную лестницу.",
+        "fullAnalysis": "Strategic focus: Dative with к. 'Крыше' is the dative after 'к' showing direction toward. 'Лестницу' is the accusative object. A concrete, practical scene."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-08",
+        "phrase": "В городе много зелёных крыш.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Крыш' is the genitive plural after 'много', with the bare stem and no ending. 'Зелёных' agrees in the genitive plural. A clear genitive-plural model."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-09",
+        "phrase": "Красные крыши блестят на солнце.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Крыши' is the nominative plural subject of 'блестят'. 'Красные' agrees in the plural, and 'на солнце' adds the setting. A vivid descriptive line."
+      },
+      {
+        "id": "NN-MOTION-KRYSHA-10",
+        "phrase": "Дождь барабанил по крыше.",
+        "fullAnalysis": "Strategic focus: Dative with по. 'Крыше' is the dative after 'по' showing motion over a surface. 'Барабанить по крыше' is a vivid way to describe rain drumming on the roof."
+      }
+    ]
+  }
+]

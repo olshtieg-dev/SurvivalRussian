@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-SHAG",
+    "label": "Шаг",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for шаг (step).",
+    "missions": [
+      {
+        "id": "NN-BODY-SHAG-01",
+        "phrase": "Это очень важный шаг.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шаг' is the masculine nominative subject. 'Важный' is the agreeing masculine adjective, and 'очень' intensifies the assessment of the move."
+      },
+      {
+        "id": "NN-BODY-SHAG-02",
+        "phrase": "Он сделал один шаг вперёд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шаг' is the accusative direct object of 'сделал', unchanged for this masculine inanimate noun. 'Вперёд' shows direction."
+      },
+      {
+        "id": "NN-BODY-SHAG-03",
+        "phrase": "До дома осталось всего два шага.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Шага' is the genitive singular required after 'два'. 'До дома' uses the genitive of destination, and 'всего' stresses how little is left."
+      },
+      {
+        "id": "NN-BODY-SHAG-04",
+        "phrase": "Я услышал шаги за дверью.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Шаги' is the accusative plural object of 'услышал', identical to the nominative plural for this inanimate noun. 'За дверью' gives the instrumental location."
+      },
+      {
+        "id": "NN-BODY-SHAG-05",
+        "phrase": "С каждым шагом становилось легче.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Шагом' is the instrumental singular in the phrase 'с каждым шагом', meaning with every step. 'Каждым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-BODY-SHAG-06",
+        "phrase": "Мы шли быстрым шагом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Шагом' is the instrumental describing the manner of walking. 'Быстрым' agrees in the masculine instrumental, a natural way to say at a fast pace."
+      },
+      {
+        "id": "NN-BODY-SHAG-07",
+        "phrase": "Подумай о следующем шаге.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Шаге' is the prepositional form after 'о', expressing thought about the next move. 'Следующем' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-BODY-SHAG-08",
+        "phrase": "Его шаги были тихими и осторожными.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Шаги' is the nominative plural subject of 'были'. 'Тихими' and 'осторожными' are instrumental plural predicate adjectives describing them."
+      },
+      {
+        "id": "NN-BODY-SHAG-09",
+        "phrase": "Здесь нет ни одного лишнего шага.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Шага' is the genitive singular required by 'нет' and reinforced by 'ни одного'. 'Лишнего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-BODY-SHAG-10",
+        "phrase": "Сделай первый шаг к мечте.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative goal. 'Шаг' is the accusative object of 'сделай'. 'Первый' agrees in the masculine accusative, and 'к мечте' marks the dative goal."
+      }
+    ]
+  }
+]

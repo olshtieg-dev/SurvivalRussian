@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KVARTIRA",
+    "label": "Квартира",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for квартира (apartment).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KVARTIRA-01",
+        "phrase": "У нас большая светлая квартира.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Квартира' is the feminine nominative subject of the possession frame 'у нас'. 'Большая' and 'светлая' agree in the feminine nominative."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-02",
+        "phrase": "В прошлом году мы купили квартиру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Квартиру' is the feminine accusative direct object of 'купили'. 'В прошлом году' gives the prepositional time frame."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-03",
+        "phrase": "Возле нашей квартиры есть магазин.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Квартиры' is the genitive after 'возле', meaning near the apartment. 'Нашей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-04",
+        "phrase": "Я весь день сидел в квартире.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Квартире' is the prepositional after 'в', placing the action inside. 'Весь день' marks duration."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-05",
+        "phrase": "Вечером я иду домой в квартиру.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Квартиру' is the accusative after 'в', showing motion into the apartment. 'Вечером' sets the time."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-06",
+        "phrase": "Мы довольны новой квартирой.",
+        "fullAnalysis": "Strategic focus: Instrumental after a short adjective. 'Квартирой' is the instrumental required by 'довольны', meaning pleased with. 'Новой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-07",
+        "phrase": "К этой квартире ведёт узкая лестница.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Квартире' is the dative after 'к', marking the destination. 'Этой' agrees in the feminine dative, and 'лестница' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-08",
+        "phrase": "В доме нет свободных квартир.",
+        "fullAnalysis": "Strategic focus: Genitive plural after negation. 'Квартир' is the genitive plural required by 'нет'. 'Свободных' agrees in the genitive plural, and 'в доме' sets the location."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-09",
+        "phrase": "Мы долго мечтали о своей квартире.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Квартире' is the prepositional after 'о', expressing the dream. 'Своей' agrees in the feminine prepositional, and 'долго' adds duration."
+      },
+      {
+        "id": "NN-MOTION-KVARTIRA-10",
+        "phrase": "Эти квартиры стоят очень дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Квартиры' is the nominative plural subject of 'стоят'. 'Эти' agrees in the plural, and 'очень дорого' states the price."
+      }
+    ]
+  }
+]

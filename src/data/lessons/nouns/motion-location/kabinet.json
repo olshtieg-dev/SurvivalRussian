@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KABINET",
+    "label": "Кабинет",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for кабинет (office; study).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KABINET-01",
+        "phrase": "Это кабинет нашего директора.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кабинет' is the masculine nominative subject of the sentence. 'Нашего директора' is the genitive of possession showing whose office it is. A basic identification pattern."
+      },
+      {
+        "id": "NN-MOTION-KABINET-02",
+        "phrase": "Войдите в кабинет, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В кабинет' uses the masculine inanimate accusative, identical to the nominative, after 'в' to mark the destination. 'Войдите' is the polite imperative. A common office instruction."
+      },
+      {
+        "id": "NN-MOTION-KABINET-03",
+        "phrase": "Врач сейчас в своём кабинете.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В кабинете' uses the masculine prepositional 'кабинете' after 'в' to show where the doctor is. 'Своём' agrees in the prepositional. The default 'is in the office' pattern."
+      },
+      {
+        "id": "NN-MOTION-KABINET-04",
+        "phrase": "Он вышел из кабинета пять минут назад.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из кабинета' uses the masculine genitive 'кабинета' after 'из' to mark where he came from. 'Пять минут назад' is the time phrase. The mirror of 'в кабинет'."
+      },
+      {
+        "id": "NN-MOTION-KABINET-05",
+        "phrase": "Окна кабинета выходят на улицу.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Кабинета' is the masculine genitive after 'окна', linking the windows to the office. 'Выходят' agrees with the neuter plural subject 'окна'. Useful for describing rooms."
+      },
+      {
+        "id": "NN-MOTION-KABINET-06",
+        "phrase": "Я подошёл к кабинету начальника.",
+        "fullAnalysis": "Strategic focus: Dative goal after 'к'. 'К кабинету' uses the masculine dative 'кабинету' to show where I walked up to. 'Начальника' is the genitive of possession. A natural approach-the-door sentence."
+      },
+      {
+        "id": "NN-MOTION-KABINET-07",
+        "phrase": "Кабинет был украшен старыми картинами.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental. 'Кабинет' is the masculine nominative subject. 'Старыми картинами' is the instrumental of means after the passive 'украшен'. A descriptive, slightly formal style."
+      },
+      {
+        "id": "NN-MOTION-KABINET-08",
+        "phrase": "В офисе восемь рабочих кабинетов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a number. 'Кабинетов' is the masculine genitive plural required by 'восемь'. 'Рабочих' agrees in the genitive plural. The standard pattern for counting rooms."
+      },
+      {
+        "id": "NN-MOTION-KABINET-09",
+        "phrase": "Я давно мечтаю о таком кабинете.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О кабинете' uses the masculine prepositional 'кабинете' after 'о' to express dreaming about it. 'Таком' agrees in the prepositional. Good for expressing wishes."
+      },
+      {
+        "id": "NN-MOTION-KABINET-10",
+        "phrase": "Между кабинетами длинный коридор.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Кабинетами' is the masculine instrumental plural after 'между' to show what the corridor lies between. 'Коридор' is the nominative subject. Useful for plural and layout practice."
+      }
+    ]
+  }
+]

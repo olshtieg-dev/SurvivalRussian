@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-MAGAZIN",
+    "label": "Магазин",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for магазин (shop).",
+    "missions": [
+      {
+        "id": "NN-MOTION-MAGAZIN-01",
+        "phrase": "Этот магазин уже закрыт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Магазин' is a masculine noun in the nominative as the subject. 'Закрыт' is a short-form adjective agreeing in the masculine, and 'этот' points to a specific shop."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-02",
+        "phrase": "Я иду в магазин за хлебом.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Магазин' is accusative after 'в', marking motion into the shop. The inanimate masculine keeps the nominative form, and 'за хлебом' gives the purpose."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-03",
+        "phrase": "В магазине нет свежего молока.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В магазине' uses the prepositional form 'магазине' after 'в' to show where something is. The masculine ending is '-е'."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-04",
+        "phrase": "Около магазина стоит много машин.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Магазина' is the genitive singular required by 'около'. The masculine ending '-а' marks the location near the shop."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-05",
+        "phrase": "Мы вернулись из магазина домой.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Магазина' is the genitive singular after 'из', marking motion out of the shop. The masculine ending is '-а'."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-06",
+        "phrase": "Она подошла к магазину рано утром.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Магазину' is the dative singular after 'к', marking motion toward the shop. The masculine ending '-у' is standard."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-07",
+        "phrase": "За магазином находится большая парковка.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Магазином' is the instrumental singular after 'за', marking position behind the shop. The masculine ending is '-ом'."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-08",
+        "phrase": "Я хорошо знаю этот магазин.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Магазин' is the accusative direct object of 'знаю'. As an inanimate masculine noun it keeps the nominative form."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-09",
+        "phrase": "В городе открылись новые магазины.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Магазины' is the nominative plural subject of 'открылись'. 'Новые' agrees in the plural, describing the new shops."
+      },
+      {
+        "id": "NN-MOTION-MAGAZIN-10",
+        "phrase": "Цены в магазинах сильно выросли.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Магазинах' is the prepositional plural after 'в', describing prices across many shops. The ending '-ах' is standard for masculine plurals."
+      }
+    ]
+  }
+]

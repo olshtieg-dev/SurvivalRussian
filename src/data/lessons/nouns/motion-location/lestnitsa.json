@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-LESTNITSA",
+    "label": "Лестница",
+    "badge": "PLACE",
+    "description": "A 10-sentence usage card for лестница (staircase).",
+    "missions": [
+      {
+        "id": "NN-MOTION-LESTNITSA-01",
+        "phrase": "Эта лестница очень крутая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лестница' is a feminine noun in the nominative as the subject. 'Эта' points at a specific one, and 'крутая' is the agreeing feminine adjective. A simple description."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-02",
+        "phrase": "Рабочие моют лестницу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лестницу' is the accusative direct object of 'моют', taking the feminine -у ending. 'Рабочие' is the nominative plural subject. A straightforward action sentence."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-03",
+        "phrase": "У лестницы стоит ведро.",
+        "fullAnalysis": "Strategic focus: Genitive after 'у'. 'Лестницы' is the genitive form of 'лестница' after 'у', meaning by the staircase. 'Ведро' is the nominative subject. A useful spatial pattern."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-04",
+        "phrase": "К лестнице ведёт коридор.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Лестнице' is the dative form of 'лестница' after 'к', marking the goal of motion. 'Коридор' is the nominative subject. Useful for describing layouts."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-05",
+        "phrase": "На лестнице сидит кошка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Лестнице' is the prepositional form of 'лестница' after 'на', locating the cat on the staircase. 'Кошка' is the nominative subject. A core location pattern."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-06",
+        "phrase": "Под лестницей хранятся вещи.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'под'. 'Лестницей' is the instrumental form of 'лестница' after 'под', locating things under the staircase. 'Вещи' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-07",
+        "phrase": "Бабушка медленно идёт по лестнице.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Лестнице' is the dative form of 'лестница' after 'по', meaning movement along the stairs. 'Бабушка' is the nominative subject and 'медленно' the manner adverb."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-08",
+        "phrase": "В доме две широкие лестницы.",
+        "fullAnalysis": "Strategic focus: Nominative-like form after 'две'. 'Лестницы' follows 'две' in the genitive singular form used after two. 'Широкие' agrees in the plural. 'В доме' uses the prepositional 'доме'."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-09",
+        "phrase": "Все лестницы здесь старые.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Лестницы' is the nominative plural of 'лестница', the subject. 'Все' quantifies it and 'старые' is the agreeing plural adjective. A simple plural statement."
+      },
+      {
+        "id": "NN-MOTION-LESTNITSA-10",
+        "phrase": "Между лестницами есть лифт.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Лестницами' is the instrumental plural of 'лестница' after 'между', meaning between the staircases. 'Лифт' is the nominative subject."
+      }
+    ]
+  }
+]
