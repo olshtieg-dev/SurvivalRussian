@@ -56,3 +56,6 @@ secrets/
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local data backups (vocabulary.json.bak.*, lesson backups, etc.)
+*.bak
