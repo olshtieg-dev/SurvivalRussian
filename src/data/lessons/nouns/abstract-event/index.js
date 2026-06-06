@@ -2,7 +2,9 @@ import bolshinstvoSet from './bolshinstvo.json';
 import budushcheeSet from './budushchee.json';
 import deistvieSet from './deistvie.json';
 import detstvoSet from './detstvo.json';
+import dobroSet from './dobro.json';
 import dvizhenieSet from './dvizhenie.json';
+import istochnikSet from './istochnik.json';
 import izmenenieSet from './izmenenie.json';
 import khodSet from './khod.json';
 import momentSet from './moment.json';
@@ -10,6 +12,7 @@ import nachaloSet from './nachalo.json';
 import oshibkaSet from './oshibka.json';
 import otnoshenieSet from './otnoshenie.json';
 import otsutstvieSet from './otsutstvie.json';
+import poiskSet from './poisk.json';
 import pomoshchSet from './pomoshch.json';
 import popytkaSet from './popytka.json';
 import prichinaSet from './prichina.json';
@@ -30,6 +33,7 @@ import sushchestvovanieSet from './sushchestvovanie.json';
 import svyazSet from './svyaz.json';
 import techenieSet from './techenie.json';
 import tselSet from './tsel.json';
+import usilieSet from './usilie.json';
 import vozmozhnostSet from './vozmozhnost.json';
 import vstrechaSet from './vstrecha.json';
 import vykhodSet from './vykhod.json';
@@ -41,7 +45,9 @@ const abstractEventNounsData = [
   ...budushcheeSet,
   ...deistvieSet,
   ...detstvoSet,
+  ...dobroSet,
   ...dvizhenieSet,
+  ...istochnikSet,
   ...izmenenieSet,
   ...khodSet,
   ...momentSet,
@@ -49,6 +55,7 @@ const abstractEventNounsData = [
   ...oshibkaSet,
   ...otnoshenieSet,
   ...otsutstvieSet,
+  ...poiskSet,
   ...pomoshchSet,
   ...popytkaSet,
   ...prichinaSet,
@@ -69,6 +76,7 @@ const abstractEventNounsData = [
   ...svyazSet,
   ...techenieSet,
   ...tselSet,
+  ...usilieSet,
   ...vozmozhnostSet,
   ...vstrechaSet,
   ...vykhodSet,

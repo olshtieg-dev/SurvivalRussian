@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-OZERO",
+    "label": "Озеро",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for озеро (lake).",
+    "missions": [
+      {
+        "id": "NN-MOTION-OZERO-01",
+        "phrase": "Это озеро очень глубокое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Озеро' is a neuter noun in the nominative as the subject. 'Глубокое' is the agreeing neuter adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-MOTION-OZERO-02",
+        "phrase": "Мы видели большое озеро в горах.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Озеро' is the accusative direct object of 'видели'; neuter inanimate nouns look identical in nominative and accusative. 'Большое' agrees, and 'в горах' gives the place."
+      },
+      {
+        "id": "NN-MOTION-OZERO-03",
+        "phrase": "Вода озера была холодной.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Озера' is the genitive form expressing whose water it is. 'Вода' is the nominative subject, and 'холодной' is instrumental after 'была'."
+      },
+      {
+        "id": "NN-MOTION-OZERO-04",
+        "phrase": "Мы шли к озеру через лес.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Озеру' is the dative form after 'к', marking the destination of the walk. 'Через лес' adds the path taken."
+      },
+      {
+        "id": "NN-MOTION-OZERO-05",
+        "phrase": "Дом стоит над озером.",
+        "fullAnalysis": "Strategic focus: Instrumental after над. 'Озером' is the instrumental form required by the preposition 'над', describing the house's position above the lake."
+      },
+      {
+        "id": "NN-MOTION-OZERO-06",
+        "phrase": "Мы отдыхали на озере летом.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Озере' takes the prepositional form after 'на' to mean at the lake. 'Летом' gives the season of the rest."
+      },
+      {
+        "id": "NN-MOTION-OZERO-07",
+        "phrase": "В России много красивых озёр.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Озёр' is the genitive plural required by 'много'. Note the irregular plural stem with ё. 'Красивых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-MOTION-OZERO-08",
+        "phrase": "Эти озёра соединены рекой.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Озёра' is the nominative plural subject with its irregular ё stem. 'Эти' agrees, and 'соединены рекой' describes how they are linked."
+      },
+      {
+        "id": "NN-MOTION-OZERO-09",
+        "phrase": "Дети плавали в озере весь день.",
+        "fullAnalysis": "Strategic focus: Prepositional location with в. 'Озере' is the prepositional form after 'в', marking where the children swam. 'Весь день' shows the duration."
+      },
+      {
+        "id": "NN-MOTION-OZERO-10",
+        "phrase": "Из озера вытекает узкая река.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Озера' takes the genitive after 'из' to express the source of the flow. 'Узкая река' is the nominative subject."
+      }
+    ]
+  }
+]

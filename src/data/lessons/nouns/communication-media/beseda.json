@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-BESEDA",
+    "label": "Беседа",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for беседа (conversation).",
+    "missions": [
+      {
+        "id": "NN-COMMS-BESEDA-01",
+        "phrase": "Это была приятная беседа.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Беседа' is a feminine noun in the nominative as the predicate. 'Приятная' is the agreeing feminine adjective, and 'была' agrees in gender."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-02",
+        "phrase": "Мы продолжили нашу беседу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Беседу' is the accusative direct object of 'продолжили'. 'Нашу' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-03",
+        "phrase": "После беседы он ушёл домой.",
+        "fullAnalysis": "Strategic focus: Genitive after после. 'Беседы' takes the genitive after 'после' to mark the time afterward. 'Он ушёл домой' completes the scene."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-04",
+        "phrase": "Он готовился к беседе с директором.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Беседе' is the dative form after 'к', marking what he prepared for. 'С директором' names the other party."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-05",
+        "phrase": "Я доволен этой беседой.",
+        "fullAnalysis": "Strategic focus: Instrumental of object. 'Беседой' is the instrumental form governed by 'доволен'. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-06",
+        "phrase": "В беседе участвовали все коллеги.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Беседе' takes the prepositional form after 'в' to mean taking part in the conversation. 'Все коллеги' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-07",
+        "phrase": "Тема беседы была очень серьёзной.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Беседы' is the genitive form expressing the topic of the conversation. 'Тема' is the nominative subject, and 'серьёзной' is instrumental after 'была'."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-08",
+        "phrase": "У нас было две беседы.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Беседы' is genitive singular required by 'две'. The possession frame 'у нас было' introduces the count."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-09",
+        "phrase": "Мы провели долгие беседы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Беседы' is the accusative plural object of 'провели'. 'Долгие' agrees in the plural, describing the lengthy talks."
+      },
+      {
+        "id": "NN-COMMS-BESEDA-10",
+        "phrase": "После таких бесед всем легче.",
+        "fullAnalysis": "Strategic focus: Genitive plural after после. 'Бесед' is the genitive plural required by 'после'. 'Таких' agrees in the genitive plural, and 'всем легче' gives the result."
+      }
+    ]
+  }
+]

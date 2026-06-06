@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-TEMPERATURA",
+    "label": "Температура",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for температура (temperature).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-TEMPERATURA-01",
+        "phrase": "Сегодня температура очень высокая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Температура' stays in the nominative as the subject. 'Высокая' is the agreeing feminine adjective, and 'сегодня' sets the time."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-02",
+        "phrase": "Врач измерил температуру утром.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Температуру' is the accusative direct object of 'измерил'; the feminine ending -а shifts to -у. 'Утром' is an instrumental-derived time adverb."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-03",
+        "phrase": "У ребёнка нет температуры.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'температуры'. 'У ребёнка' is a genitive possession frame, a common medical phrase."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-04",
+        "phrase": "Растения чувствительны к температуре.",
+        "fullAnalysis": "Strategic focus: Dative after к. The adjective 'чувствительны' with 'к' takes the dative 'температуре'. A natural way to express sensitivity to something."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-05",
+        "phrase": "Мы следим за температурой воды.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. The verb 'следить за' takes the instrumental 'температурой'. 'Воды' is a genitive specifying the temperature of what."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-06",
+        "phrase": "При высокой температуре лёд тает.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'при' the noun takes the prepositional 'температуре'. 'Высокой' is the agreeing feminine prepositional adjective."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-07",
+        "phrase": "Я держу температуру под контролем.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Температуру' is the accusative object of 'держу'. 'Под контролем' is a fixed instrumental phrase meaning under control."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-08",
+        "phrase": "Зимой температуры падают резко.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Температуры' is the nominative plural, the subject of 'падают'. 'Зимой' is an instrumental-derived time adverb, and 'резко' adds manner."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-09",
+        "phrase": "Учёные сравнивают разные температуры.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Температуры' is the accusative plural object of 'сравнивают'; this inanimate feminine plural matches the nominative. 'Разные' agrees in the plural."
+      },
+      {
+        "id": "NN-EMOTION-TEMPERATURA-10",
+        "phrase": "Изменение температуры влияет на погоду.",
+        "fullAnalysis": "Strategic focus: Genitive of specification. 'Температуры' is the genitive showing the change of what. 'На погоду' is an accusative phrase after 'влиять на'."
+      }
+    ]
+  }
+]

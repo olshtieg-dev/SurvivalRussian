@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SHTUKA",
+    "label": "Штука",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for штука (item).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SHTUKA-01",
+        "phrase": "Это очень полезная штука.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Штука' is a feminine noun in the nominative case as the predicate noun. 'Полезная' is the agreeing feminine adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-02",
+        "phrase": "Я нашёл странную штуку на полу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Штуку' is the accusative direct object of 'нашёл'. The feminine ending shifts to -у, and 'странную' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-03",
+        "phrase": "У этой штуки нет названия.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Штуки' is the genitive form showing whose name is meant. 'Этой' agrees in the feminine genitive, and 'нет названия' expresses absence."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-04",
+        "phrase": "К этой штуке прикреплён провод.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Штуке' is the dative form after 'к', marking what something is attached to. 'Провод' is the nominative subject, and 'прикреплён' is a short participle."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-05",
+        "phrase": "Что ты делаешь с этой штукой?",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Штукой' is the instrumental form after 'с', expressing what is being handled. 'Этой' agrees in the feminine instrumental, and the question uses 'что'."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-06",
+        "phrase": "В этой штуке что-то сломалось.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В штуке' uses the prepositional form 'штуке' after 'в' to mark location inside. 'Что-то' is the nominative subject of 'сломалось'."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-07",
+        "phrase": "Без этой штуки ничего не работает.",
+        "fullAnalysis": "Strategic focus: Genitive with 'без'. 'Штуки' is the genitive form after 'без', expressing the absence of something needed. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-08",
+        "phrase": "На столе лежат три штуки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'три' the noun takes the genitive singular 'штуки'. 'На столе' is the prepositional location of the items."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-09",
+        "phrase": "В коробке лежат разные штуки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Штуки' is the nominative plural subject of 'лежат'. 'Разные' is the agreeing plural adjective, and 'в коробке' is the location."
+      },
+      {
+        "id": "NN-STRUCT-SHTUKA-10",
+        "phrase": "Я купил пять штук яблок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. After 'пять' the noun takes the genitive plural 'штук', a zero ending typical of feminine nouns. 'Яблок' is the genitive plural of the counted item."
+      }
+    ]
+  }
+]

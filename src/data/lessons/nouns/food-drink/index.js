@@ -2,7 +2,9 @@ import butylkaSet from './butylka.json';
 import chaiSet from './chai.json';
 import edaSet from './eda.json';
 import khlebSet from './khleb.json';
+import kofeSet from './kofe.json';
 import masloSet from './maslo.json';
+import molokoSet from './moloko.json';
 import myasoSet from './myaso.json';
 import obedSet from './obed.json';
 import pivoSet from './pivo.json';
@@ -20,7 +22,9 @@ const foodDrinkNounsData = [
   ...chaiSet,
   ...edaSet,
   ...khlebSet,
+  ...kofeSet,
   ...masloSet,
+  ...molokoSet,
   ...myasoSet,
   ...obedSet,
   ...pivoSet,

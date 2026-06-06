@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-POVEDENIE",
+    "label": "Поведение",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for поведение (behavior).",
+    "missions": [
+      {
+        "id": "NN-MIND-POVEDENIE-01",
+        "phrase": "Его поведение очень странное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поведение' is a neuter noun in the nominative as the subject. 'Его' shows whose it is, and 'странное' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-02",
+        "phrase": "Учитель похвалил хорошее поведение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поведение' is the accusative direct object of 'похвалил'; neuter inanimate nouns look identical in nominative and accusative. 'Хорошее' agrees."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-03",
+        "phrase": "Я не понимаю такого поведения.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Поведения' takes the genitive after the negated 'не понимаю'. 'Такого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-04",
+        "phrase": "Мы привыкли к его поведению.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Поведению' is the dative form after 'к', marking what we got used to. 'Его' shows whose behaviour it is."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-05",
+        "phrase": "Все были удивлены его поведением.",
+        "fullAnalysis": "Strategic focus: Instrumental of cause. 'Поведением' is the instrumental form governed by 'удивлены', the cause of the surprise. 'Его' shows possession."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-06",
+        "phrase": "В его поведении есть проблема.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Поведении' takes the prepositional form after 'в' to mean within his behaviour. 'Проблема' is the nominative subject."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-07",
+        "phrase": "Причина такого поведения неясна.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Поведения' is the genitive form expressing the reason for the behaviour. 'Причина' is the nominative subject, and 'неясна' describes it."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-08",
+        "phrase": "За хорошее поведение детей хвалят.",
+        "fullAnalysis": "Strategic focus: Accusative after за. 'Поведение' takes the accusative after 'за' to express the reason for praise. 'Хорошее' agrees, and 'детей хвалят' is the impersonal frame."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-09",
+        "phrase": "Разные поведения требуют разных подходов.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Поведения' is the nominative plural subject. 'Разные' agrees in the plural, and 'требуют разных подходов' uses the genitive plural object."
+      },
+      {
+        "id": "NN-MIND-POVEDENIE-10",
+        "phrase": "Психолог изучает поведение людей.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поведение' is the accusative direct object of 'изучает'. 'Людей' is the genitive plural showing whose behaviour is studied."
+      }
+    ]
+  }
+]

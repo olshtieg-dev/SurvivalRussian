@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-SPOSOBNOST",
+    "label": "Способность",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for способность (ability).",
+    "missions": [
+      {
+        "id": "NN-MIND-SPOSOBNOST-01",
+        "phrase": "Эта способность очень редкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Способность' is a feminine soft-sign noun and stays in the nominative as the subject. 'Эта' agrees in the feminine, and 'редкая' is the predicate adjective."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-02",
+        "phrase": "Он быстро развил эту способность.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Способность' is the accusative direct object of 'развил'. Feminine soft-sign nouns keep the same form in the accusative singular, and 'эту' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-03",
+        "phrase": "У него нет способности к музыке.",
+        "fullAnalysis": "Strategic focus: Genitive singular of absence. 'Способности' is the genitive singular after 'нет'. 'К музыке' is dative, naming the domain of the missing talent."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-04",
+        "phrase": "Благодаря способности он легко учится.",
+        "fullAnalysis": "Strategic focus: Dative singular after 'благодаря'. 'Способности' is the dative singular required by 'благодаря', marking the cause. 'Легко учится' describes the easy learning."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-05",
+        "phrase": "В этой способности скрыта сила.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Способности' is the prepositional singular after 'в', marking where the strength is hidden. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-06",
+        "phrase": "Он гордится своей способностью.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. 'Способностью' is the instrumental singular governed by 'гордится', expressing pride. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-07",
+        "phrase": "У неё есть способности к языкам.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Способности' is the nominative plural in the existential frame 'у неё есть'. 'К языкам' is dative, naming the field of the talents."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-08",
+        "phrase": "Школа развивает творческие способности.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Способности' is the accusative plural direct object of 'развивает'. As an inanimate plural its accusative matches the nominative, and 'творческие' agrees."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-09",
+        "phrase": "У детей много разных способностей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Способностей' is the genitive plural required by the quantifier 'много'. 'Разных' agrees in the genitive plural, describing the talents."
+      },
+      {
+        "id": "NN-MIND-SPOSOBNOST-10",
+        "phrase": "Учитель восхищается способностями ученика.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Способностями' is the instrumental plural governed by 'восхищается', expressing admiration. 'Ученика' is genitive, marking whose abilities they are."
+      }
+    ]
+  }
+]

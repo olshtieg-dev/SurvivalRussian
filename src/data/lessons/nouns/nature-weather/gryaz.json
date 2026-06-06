@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-GRYAZ",
+    "label": "Грязь",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for грязь (dirt).",
+    "missions": [
+      {
+        "id": "NN-NATURE-GRYAZ-01",
+        "phrase": "На улице ужасная весенняя грязь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Грязь' is a feminine soft-sign noun and stays in the nominative as the subject. 'Ужасная' and 'весенняя' are agreeing feminine adjectives."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-02",
+        "phrase": "Дети развели грязь на полу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Грязь' is the feminine accusative direct object of 'развели', identical to the nominative form. 'На полу' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-03",
+        "phrase": "После дождя кругом много грязи.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Грязи' is the genitive form after 'много' to express amount. 'После дождя' is a genitive time phrase, and 'кругом' is an adverb."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-04",
+        "phrase": "Машина застряла в густой грязи.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Грязи' is the prepositional form after 'в' to express location. 'Густой' is the agreeing feminine adjective, and 'машина' is the subject."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-05",
+        "phrase": "Без грязи весной не бывает.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Грязи' is the genitive form required by 'без' to express absence. 'Весной' is an instrumental time adverb meaning in spring."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-06",
+        "phrase": "Дорога покрыта толстым слоем грязи.",
+        "fullAnalysis": "Strategic focus: Genitive after слой. 'Грязи' is the genitive form depending on 'слоем' to mean a layer of. 'Дорога' is the subject and 'покрыта' a short adjective."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-07",
+        "phrase": "Сапоги были измазаны грязью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Грязью' is the instrumental form expressing what the boots were smeared with. 'Сапоги' is the nominative plural subject and 'измазаны' a short adjective."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-08",
+        "phrase": "Дети идут прямо по грязи.",
+        "fullAnalysis": "Strategic focus: Dative after по. 'Грязи' is the dative form after 'по' to express movement over a surface. 'Дети' is the nominative plural subject of 'идут'."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-09",
+        "phrase": "Мы смыли всю грязь водой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Грязь' is the feminine accusative object of 'смыли', identical to the nominative. 'Всю' agrees in the accusative, and 'водой' is instrumental of means."
+      },
+      {
+        "id": "NN-NATURE-GRYAZ-10",
+        "phrase": "Весной улицы тонут в грязях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Грязях' is the prepositional plural form after 'в', a marked plural used for mud over wide areas. 'Улицы' is the nominative plural subject of 'тонут'."
+      }
+    ]
+  }
+]

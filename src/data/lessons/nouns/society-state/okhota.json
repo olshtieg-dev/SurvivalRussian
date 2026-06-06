@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-OKHOTA",
+    "label": "Охота",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for охота (hunting).",
+    "missions": [
+      {
+        "id": "NN-STATE-OKHOTA-01",
+        "phrase": "Охота на медведя опасна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Охота' is a feminine noun in the nominative as the subject. 'На медведя' specifies the prey, and 'опасна' is the agreeing short adjective."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-02",
+        "phrase": "Он любит охоту с детства.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Охоту' is the accusative direct object of 'любит'. 'С детства' tells how long he has loved hunting."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-03",
+        "phrase": "В этом лесу нет охоты.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Охоты' takes the genitive after 'нет' to express that hunting is not allowed. 'В этом лесу' is the prepositional location."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-04",
+        "phrase": "Он готовится к охоте заранее.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Охоте' is the dative form after 'к', marking what he prepares for. 'Заранее' stresses doing it in advance."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-05",
+        "phrase": "Он увлекается охотой и рыбалкой.",
+        "fullAnalysis": "Strategic focus: Instrumental of interest. 'Охотой' is the instrumental form governed by 'увлекается'. It is joined by 'и' to 'рыбалкой', also instrumental."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-06",
+        "phrase": "На охоте нужно быть осторожным.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Охоте' takes the prepositional form after 'на' to mean while hunting. 'Нужно быть осторожным' gives the advice."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-07",
+        "phrase": "Сезон охоты начинается осенью.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Охоты' is the genitive form expressing the hunting season. 'Сезон' is the nominative subject, and 'осенью' gives the time."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-08",
+        "phrase": "После охоты мы вернулись домой.",
+        "fullAnalysis": "Strategic focus: Genitive after после. 'Охоты' takes the genitive after 'после' to mark the time afterward. 'Мы вернулись домой' completes the action."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-09",
+        "phrase": "Зимние охоты бывают трудными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Охоты' is the nominative plural subject. 'Зимние' agrees in the plural, and 'трудными' is instrumental after 'бывают'."
+      },
+      {
+        "id": "NN-STATE-OKHOTA-10",
+        "phrase": "В этом году было несколько охот.",
+        "fullAnalysis": "Strategic focus: Genitive plural after несколько. 'Охот' is the genitive plural required by 'несколько'. 'В этом году' gives the timeframe."
+      }
+    ]
+  }
+]

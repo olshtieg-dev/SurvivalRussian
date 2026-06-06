@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-UBIISTVO",
+    "label": "Убийство",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for убийство (murder).",
+    "missions": [
+      {
+        "id": "NN-STATE-UBIISTVO-01",
+        "phrase": "Это было жестокое убийство.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Убийство' is the neuter nominative predicate noun. 'Жестокое' is the neuter adjective agreeing with it. A grim but natural way to characterise a crime."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-02",
+        "phrase": "Полиция расследует это убийство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Убийство' is the accusative direct object of 'расследует'; neuter nouns match the nominative. 'Это' agrees in the neuter accusative. Common in news reports."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-03",
+        "phrase": "Свидетелей убийства пока не нашли.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Убийства' is in the genitive to mean witnesses of the murder, modifying 'свидетелей'. The negated 'не нашли' completes the report. Useful for legal language."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-04",
+        "phrase": "Его обвинили в убийстве соседа.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'в'. The phrase 'обвинить в' takes the prepositional 'убийстве' to state the charge. 'Соседа' is the genitive object of the murder. The standard accusation pattern."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-05",
+        "phrase": "Мотива для убийства не было.",
+        "fullAnalysis": "Strategic focus: Genitive after 'для'. The preposition 'для' takes the genitive 'убийства' to mean a motive for it. 'Мотива не было' uses the genitive of absence. Useful for investigations."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-06",
+        "phrase": "Газеты писали об этом убийстве.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об убийстве' uses the prepositional 'убийстве' after 'об' to mean writing about it. 'Этом' agrees in the neuter prepositional. Common in media coverage."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-07",
+        "phrase": "Он признался в убийстве вчера.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'в'. The verb 'признаться в' takes the prepositional 'убийстве' to mean confessing to it. 'Вчера' sets the time. The standard confession pattern."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-08",
+        "phrase": "В городе произошло несколько убийств.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Несколько' governs the genitive plural 'убийств'. 'Произошло' is the impersonal verb of occurrence. Practises plural counting of events."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-09",
+        "phrase": "Суд приговорил его за убийство.",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. 'За убийство' uses the accusative 'убийство' after 'за' to state what he was sentenced for. 'Суд' is the masculine nominative subject. A legal-outcome pattern."
+      },
+      {
+        "id": "NN-STATE-UBIISTVO-10",
+        "phrase": "Это преступление привело к убийству.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. The phrase 'привести к' takes the dative 'убийству' to mark the result. 'Преступление' is the neuter nominative subject. Useful for describing consequences."
+      }
+    ]
+  }
+]

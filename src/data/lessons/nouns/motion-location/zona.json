@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-ZONA",
+    "label": "Зона",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for зона (zone).",
+    "missions": [
+      {
+        "id": "NN-MOTION-ZONA-01",
+        "phrase": "Здесь начинается пешеходная зона.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зона' is a feminine noun in the nominative case as the subject of 'начинается'. 'Пешеходная' is the agreeing feminine adjective describing the kind of area."
+      },
+      {
+        "id": "NN-MOTION-ZONA-02",
+        "phrase": "Полиция оцепила опасную зону.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зону' is the accusative direct object of 'оцепила'. The feminine ending shifts to -у, and 'опасную' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-MOTION-ZONA-03",
+        "phrase": "Мы вышли из запретной зоны.",
+        "fullAnalysis": "Strategic focus: Genitive with 'из'. 'Зоны' is the genitive form after 'из', expressing motion out of a place. 'Запретной' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-MOTION-ZONA-04",
+        "phrase": "К этой зоне нет доступа.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Зоне' is the dative form after 'к', marking the place access is denied to. 'Этой' agrees in the feminine dative, and 'нет доступа' expresses absence."
+      },
+      {
+        "id": "NN-MOTION-ZONA-05",
+        "phrase": "Над зоной отдыха летают птицы.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Зоной' is the instrumental form after 'над' meaning above. 'Отдыха' is a genitive modifier, and 'птицы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-ZONA-06",
+        "phrase": "В этой зоне нельзя курить.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В зоне' uses the prepositional form 'зоне' after 'в' to mark location. 'Этой' agrees in the feminine prepositional, and the phrase states a rule."
+      },
+      {
+        "id": "NN-MOTION-ZONA-07",
+        "phrase": "Машина въехала в платную зону.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Зону' is accusative after 'в' to show motion into a place. 'Платную' is the agreeing feminine accusative adjective. Contrast with the static prepositional."
+      },
+      {
+        "id": "NN-MOTION-ZONA-08",
+        "phrase": "В городе много зелёных зон.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After 'много' the noun takes the genitive plural 'зон', with a zero ending typical of feminine nouns. 'Зелёных' is the agreeing plural genitive adjective."
+      },
+      {
+        "id": "NN-MOTION-ZONA-09",
+        "phrase": "Город разделён на несколько зон.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Зон' is genitive plural following 'несколько'. 'Разделён' is the short passive participle agreeing with 'город' in the masculine."
+      },
+      {
+        "id": "NN-MOTION-ZONA-10",
+        "phrase": "Это совершенно безопасная зона.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Зона' is nominative as the predicate noun. 'Безопасная' is the agreeing feminine adjective, intensified by 'совершенно'. A clean descriptive model."
+      }
+    ]
+  }
+]

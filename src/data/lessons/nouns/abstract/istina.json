@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-ISTINA",
+    "label": "Истина",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for истина (truth).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-ISTINA-01",
+        "phrase": "Эта истина известна всем.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Истина' is a feminine noun in the nominative as the subject. 'Эта' agrees, and 'известна всем' states that everyone knows it."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-02",
+        "phrase": "Учёные ищут истину упорно.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Истину' is the accusative direct object of 'ищут'. 'Упорно' describes the manner of the search for truth."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-03",
+        "phrase": "В этих словах нет истины.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Истины' takes the genitive after 'нет' to express the lack of truth. 'В этих словах' is the prepositional location."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-04",
+        "phrase": "Он стремится к истине всегда.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Истине' is the dative form after 'к', marking the goal of his striving. 'Всегда' stresses the constancy."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-05",
+        "phrase": "Между правдой и истиной есть разница.",
+        "fullAnalysis": "Strategic focus: Instrumental after между. 'Истиной' is the instrumental form required by 'между', contrasting it with 'правдой'. A subtle distinction in Russian."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-06",
+        "phrase": "Мы спорили об истине долго.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Истине' takes the prepositional form after 'об' to mean arguing about truth. 'Долго' shows the length of the debate."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-07",
+        "phrase": "Это простая, но важная истина.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Истина' is the nominative predicate noun. 'Простая' and 'важная' are agreeing feminine adjectives joined by 'но'."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-08",
+        "phrase": "Философы обсуждают вечные истины.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Истины' is the accusative plural object of 'обсуждают'. 'Вечные' agrees in the plural, describing eternal truths."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-09",
+        "phrase": "В науке много простых истин.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Истин' is the genitive plural required by 'много'. 'Простых' agrees in the genitive plural, and 'в науке' is locational."
+      },
+      {
+        "id": "NN-ABSTRACT-ISTINA-10",
+        "phrase": "Истина всегда выходит наружу.",
+        "fullAnalysis": "Strategic focus: Nominative subject in a saying. 'Истина' stays nominative as the subject of 'выходит'. 'Всегда' and 'наружу' complete this proverbial statement."
+      }
+    ]
+  }
+]

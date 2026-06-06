@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-STENKA",
+    "label": "Стенка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for стенка (wall unit).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-STENKA-01",
+        "phrase": "Эта стенка стоит в гостиной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Стенка' stays in the nominative as the subject of 'стоит'. 'Эта' is the agreeing feminine demonstrative, and 'в гостиной' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-02",
+        "phrase": "Мы купили новую стенку вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Стенку' is the accusative direct object of 'купили', and 'новую' is the agreeing feminine accusative adjective. The first-declension ending -а shifts to -у."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-03",
+        "phrase": "У нас нет места для стенки.",
+        "fullAnalysis": "Strategic focus: Genitive after для. The preposition 'для' requires the genitive 'стенки'. The phrase also contains the genitive of absence 'нет места', a doubly useful pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-04",
+        "phrase": "Я подошёл к стенке с книгами.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' governs the dative, giving 'стенке'. 'С книгами' adds an instrumental phrase describing what the unit holds."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-05",
+        "phrase": "Шкаф стоит рядом со стенкой.",
+        "fullAnalysis": "Strategic focus: Instrumental after со. The preposition 'рядом со' requires the instrumental 'стенкой'. This is a natural way to describe furniture placement in a room."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-06",
+        "phrase": "В стенке много полок и ящиков.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional form 'стенке'. 'Много полок и ящиков' adds two genitive-plural nouns describing the contents."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-07",
+        "phrase": "Эти стенки очень дорогие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Стенки' is the nominative plural, the subject of the sentence. 'Эти' and 'дорогие' are the agreeing plural demonstrative and adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-08",
+        "phrase": "В магазине продают красивые стенки.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Стенки' is the accusative plural object of 'продают'; this inanimate feminine plural matches the nominative form. 'Красивые' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-09",
+        "phrase": "Книги стоят на полках стенки.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Стенки' is the genitive showing whose shelves these are. 'На полках' is a prepositional-plural location phrase nested inside the description."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STENKA-10",
+        "phrase": "Эта стенка занимает целую стену.",
+        "fullAnalysis": "Strategic focus: Nominative subject with accusative object. 'Стенка' is the nominative subject of 'занимает', while 'целую стену' is its accusative object, contrasting the unit with the actual wall."
+      }
+    ]
+  }
+]

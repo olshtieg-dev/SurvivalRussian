@@ -5,6 +5,7 @@ import desyatokSet from './desyatok.json';
 import deyatelnostSet from './deyatelnost.json';
 import dollarSet from './dollar.json';
 import firmaSet from './firma.json';
+import khozyaistvoSet from './khozyaistvo.json';
 import kilometrSet from './kilometr.json';
 import kompaniyaSet from './kompaniya.json';
 import kursSet from './kurs.json';
@@ -36,6 +37,7 @@ const workMoneyNounsData = [
   ...deyatelnostSet,
   ...dollarSet,
   ...firmaSet,
+  ...khozyaistvoSet,
   ...kilometrSet,
   ...kompaniyaSet,
   ...kursSet,

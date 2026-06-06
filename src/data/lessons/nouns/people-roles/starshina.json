@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-STARSHINA",
+    "label": "Старшина",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for старшина (sergeant major).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-STARSHINA-01",
+        "phrase": "Наш старшина очень строгий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Старшина' stays in the nominative as the subject. Though it ends in -а, it is a masculine animate noun, so 'наш' and 'строгий' take masculine forms."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-02",
+        "phrase": "Солдаты уважают своего старшину.",
+        "fullAnalysis": "Strategic focus: Accusative animate. 'Старшину' is the accusative direct object of 'уважают'. The first-declension ending -а becomes -у in the accusative, matching the feminine pattern."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-03",
+        "phrase": "Приказ старшины никто не оспаривал.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Старшины' takes the genitive to show whose order it was. The first-declension genitive singular ends in -ы."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-04",
+        "phrase": "Солдат подошёл к старшине.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Старшине' takes the dative after 'к', showing approach toward the person. The first-declension dative singular ends in -е."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-05",
+        "phrase": "Я говорил со старшиной утром.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Старшиной' takes the instrumental after 'со', meaning together with. The first-declension instrumental singular ends in -ой."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-06",
+        "phrase": "Все говорят о новом старшине.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Старшине' takes the prepositional after 'о' to mean about the man. 'Новом' takes the masculine prepositional ending, confirming the noun's gender."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-07",
+        "phrase": "В роте служат опытные старшины.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Старшины' is the nominative plural subject of 'служат'. 'Опытные' agrees in the plural, describing the experienced sergeants."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-08",
+        "phrase": "Командир вызвал двух старшин.",
+        "fullAnalysis": "Strategic focus: Genitive plural after numeral. 'Старшин' takes the zero-ending genitive plural required after 'двух' for an animate noun. The accusative animate equals the genitive."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-09",
+        "phrase": "Старшина дал нам новое задание.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Старшина' is the nominative subject of 'дал'. 'Нам' is the dative recipient and 'задание' the accusative object of the giving."
+      },
+      {
+        "id": "NN-PEOPLE-STARSHINA-10",
+        "phrase": "Без старшины рота растерялась.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Старшины' takes the genitive after 'без' to express absence. The first-declension genitive singular ends in -ы."
+      }
+    ]
+  }
+]

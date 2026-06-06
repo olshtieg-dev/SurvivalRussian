@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-VERSHINA",
+    "label": "Вершина",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for вершина (summit).",
+    "missions": [
+      {
+        "id": "NN-MOTION-VERSHINA-01",
+        "phrase": "Вершина горы покрыта снегом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вершина' is in the nominative as the subject. 'Покрыта' agrees in feminine gender, and 'горы' is a genitive modifier showing whose summit it is."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-02",
+        "phrase": "Мы наконец увидели вершину.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вершину' is the accusative direct object of 'увидели'. 'Наконец' adds relief, making this a natural hiking sentence."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-03",
+        "phrase": "До вершины ещё далеко.",
+        "fullAnalysis": "Strategic focus: Genitive after до. 'Вершины' is the genitive form required by 'до', marking the goal point of distance. 'Ещё далеко' expresses how far it remains."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-04",
+        "phrase": "На вершине дует сильный ветер.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На вершине' uses the prepositional form 'вершине' after 'на' to show where the wind blows. 'Сильный ветер' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-05",
+        "phrase": "Альпинисты идут к вершине.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Вершине' is the dative form governed by 'к', expressing movement toward the summit. 'Альпинисты' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-06",
+        "phrase": "Облака плывут над вершиной.",
+        "fullAnalysis": "Strategic focus: Instrumental after над. 'Вершиной' is the instrumental form required by 'над', meaning above the summit. 'Облака' is the nominative subject of 'плывут'."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-07",
+        "phrase": "В тумане не видно вершин.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Вершин' is the genitive plural required by the negative 'не видно'. 'В тумане' sets the scene, hiding the peaks from view."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-08",
+        "phrase": "Эти вершины очень опасны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Вершины' is the nominative plural as the subject. 'Эти' agrees in the plural, and 'опасны' is the short-form predicate."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-09",
+        "phrase": "Мы поднялись на вершину утром.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Вершину' is the accusative after 'на' expressing motion onto the summit. 'Поднялись' marks the climb, with 'утром' as the time."
+      },
+      {
+        "id": "NN-MOTION-VERSHINA-10",
+        "phrase": "С вершины открывается красивый вид.",
+        "fullAnalysis": "Strategic focus: Genitive after с. 'Вершины' is the genitive form required by 'с', meaning from the summit. 'Красивый вид' is the nominative subject of 'открывается'."
+      }
+    ]
+  }
+]

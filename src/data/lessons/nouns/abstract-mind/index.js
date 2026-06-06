@@ -6,8 +6,10 @@ import kharakterSet from './kharakter.json';
 import nadezhdaSet from './nadezhda.json';
 import pamyatSet from './pamyat.json';
 import ponyatieSet from './ponyatie.json';
+import povedenieSet from './povedenie.json';
 import predstavlenieSet from './predstavlenie.json';
 import soznanieSet from './soznanie.json';
+import sposobnostSet from './sposobnost.json';
 import tainaSet from './taina.json';
 import umSet from './um.json';
 import veraSet from './vera.json';
@@ -28,8 +30,10 @@ const abstractMindNounsData = [
   ...nadezhdaSet,
   ...pamyatSet,
   ...ponyatieSet,
+  ...povedenieSet,
   ...predstavlenieSet,
   ...soznanieSet,
+  ...sposobnostSet,
   ...tainaSet,
   ...umSet,
   ...veraSet,

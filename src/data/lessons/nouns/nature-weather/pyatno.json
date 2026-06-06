@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-PYATNO",
+    "label": "Пятно",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for пятно (spot).",
+    "missions": [
+      {
+        "id": "NN-NATURE-PYATNO-01",
+        "phrase": "На рубашке появилось большое пятно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пятно' is a neuter noun in the nominative case as the subject of 'появилось'. 'Большое' is the agreeing neuter adjective describing it."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-02",
+        "phrase": "Я заметил странное пятно.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пятно' is the accusative direct object of 'заметил'. Neuter nouns keep the same form in the accusative, and 'странное' agrees in the neuter."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-03",
+        "phrase": "От этого пятна трудно избавиться.",
+        "fullAnalysis": "Strategic focus: Genitive with 'от'. 'Пятна' is the genitive form after 'от', expressing the source one wants rid of. 'Этого' is the agreeing neuter genitive demonstrative."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-04",
+        "phrase": "К пятну на стене никто не прикасался.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Пятну' is the dative form after 'к', marking what nobody touched. 'На стене' is the prepositional location of the mark."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-05",
+        "phrase": "Над жёлтым пятном кружат мухи.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Пятном' is the instrumental form after 'над' meaning above. 'Жёлтым' is the agreeing neuter instrumental adjective, and 'мухи' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-06",
+        "phrase": "На пятне виден старый след.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На пятне' uses the prepositional form 'пятне' after 'на' to mark location. 'След' is the nominative subject, and 'старый' agrees with it."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-07",
+        "phrase": "Солнце спряталось за тёмным пятном облаков.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'за'. 'Пятном' is the instrumental form after 'за' meaning behind. 'Тёмным' agrees in the neuter, and 'облаков' is the genitive plural modifier."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-08",
+        "phrase": "На скатерти много жирных пятен.",
+        "fullAnalysis": "Strategic focus: Genitive plural with a fleeting vowel. After 'много' the noun takes the genitive plural 'пятен', inserting a fleeting -е- in the consonant cluster. 'Жирных' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-09",
+        "phrase": "По небу плывут белые пятна.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Пятна' is the nominative plural subject of 'плывут'. 'Белые' is the agreeing plural adjective, and 'по небу' marks the path."
+      },
+      {
+        "id": "NN-NATURE-PYATNO-10",
+        "phrase": "Это просто маленькое пятно.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Пятно' is nominative as the predicate noun. 'Маленькое' is the agreeing neuter adjective, softened by 'просто'. A clean descriptive model."
+      }
+    ]
+  }
+]

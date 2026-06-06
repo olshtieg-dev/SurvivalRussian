@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-VKUS",
+    "label": "Вкус",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for вкус (taste).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-VKUS-01",
+        "phrase": "У этого супа странный вкус.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вкус' is the masculine nominative as the subject. 'Странный' is the agreeing adjective, and 'у этого супа' shows whose taste it is."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-02",
+        "phrase": "Я люблю острый вкус.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вкус' is the inanimate masculine accusative direct object of 'люблю', identical to the nominative. 'Острый' agrees with it."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-03",
+        "phrase": "У него нет вкуса.",
+        "fullAnalysis": "Strategic focus: Genitive after нет. 'Вкуса' is the genitive form required by 'нет', here meaning he has no taste. 'У него' frames the possession."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-04",
+        "phrase": "Я доверяю твоему вкусу.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Вкусу' is the dative form required by 'доверять', which governs the dative. 'Твоему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-05",
+        "phrase": "Это блюдо отличается приятным вкусом.",
+        "fullAnalysis": "Strategic focus: Instrumental after отличаться. 'Вкусом' is the instrumental form required by 'отличаться', marking the distinguishing feature. 'Приятным' agrees in the instrumental."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-06",
+        "phrase": "Мы спорим о вкусе вина.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'Вкусе' is the prepositional form required by 'о', meaning about the taste. 'Вина' is a genitive modifier naming the wine."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-07",
+        "phrase": "У этих специй яркие вкусы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Вкусы' is the nominative plural as the subject. 'Яркие' agrees in the plural, and 'у этих специй' shows the source of the flavours."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-08",
+        "phrase": "Эти вкусы хорошо сочетаются.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вкусы' is the nominative plural as the subject of 'сочетаются'. 'Эти' agrees in the plural, and 'хорошо' adds the manner."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-09",
+        "phrase": "Это дело вкуса.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Вкуса' is the genitive form in the fixed expression 'дело вкуса', meaning a matter of taste. 'Это' is the neuter subject."
+      },
+      {
+        "id": "NN-EMOTION-VKUS-10",
+        "phrase": "Она одевается со вкусом.",
+        "fullAnalysis": "Strategic focus: Instrumental in an idiom. 'Вкусом' is the instrumental form in the fixed phrase 'со вкусом', meaning tastefully. 'Одевается' is the reflexive verb."
+      }
+    ]
+  }
+]

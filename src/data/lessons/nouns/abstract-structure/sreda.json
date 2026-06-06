@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SREDA",
+    "label": "Среда",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for среда (environment).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SREDA-01",
+        "phrase": "Городская среда сильно изменилась.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Среда' stays in the nominative as the subject of 'изменилась'. 'Городская' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-02",
+        "phrase": "Мы должны беречь природную среду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Среду' is the accusative direct object of 'беречь'. The feminine ending -а shifts to -у in the accusative. 'Природную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-03",
+        "phrase": "Защита окружающей среды очень важна.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Среды' takes the genitive to link the protection to its object. 'Окружающей' agrees in the feminine genitive in the standard phrase for the environment."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-04",
+        "phrase": "Растение приспособилось к новой среде.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Среде' takes the dative after 'к', showing adaptation toward the environment. The feminine dative singular ends in -е. 'Новой' agrees."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-05",
+        "phrase": "Он управляет рабочей средой команды.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Средой' takes the instrumental because 'управлять' governs that case. The feminine instrumental singular ends in -ой. 'Рабочей' agrees."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-06",
+        "phrase": "В этой среде трудно работать.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Среде' takes the prepositional after 'в' to show the setting. The feminine prepositional singular ends in -е. 'Этой' agrees."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-07",
+        "phrase": "Я встречаюсь с друзьями в среду.",
+        "fullAnalysis": "Strategic focus: Accusative of time. 'Среду' uses the accusative in the time phrase 'в среду', meaning on Wednesday, the homonym sense. The feminine accusative ends in -у."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-08",
+        "phrase": "Разные среды требуют разного подхода.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Среды' is the nominative plural subject of 'требуют', referring to different environments. 'Разные' agrees in the plural."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-09",
+        "phrase": "Бактерии живут в разных средах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Средах' takes the prepositional plural after 'в' to show the various habitats. The plural ends in -ах. 'Разных' agrees."
+      },
+      {
+        "id": "NN-STRUCT-SREDA-10",
+        "phrase": "Без здоровой среды люди болеют.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Среды' takes the genitive after 'без' to express absence. The feminine genitive singular ends in -ы. 'Здоровой' agrees."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-OKHRANA",
+    "label": "Охрана",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for охрана (security).",
+    "missions": [
+      {
+        "id": "NN-STATE-OKHRANA-01",
+        "phrase": "На входе стоит охрана.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Охрана' stays in the nominative as the subject of 'стоит'. The feminine noun ends in -а in its base form."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-02",
+        "phrase": "Директор усилил охрану здания.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Охрану' is the accusative direct object of 'усилил'. The feminine ending -а shifts to -у in the accusative singular."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-03",
+        "phrase": "У музея нет охраны ночью.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Охраны' takes the genitive after 'нет' to express that security is lacking. The feminine genitive singular ends in -ы."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-04",
+        "phrase": "Он обратился к охране за помощью.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Охране' takes the dative after 'к', showing the person turned to. The feminine dative singular ends in -е."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-05",
+        "phrase": "Документ подписан охраной объекта.",
+        "fullAnalysis": "Strategic focus: Instrumental as agent. 'Охраной' takes the instrumental to mark the agent in this passive-like construction. The feminine instrumental singular ends in -ой."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-06",
+        "phrase": "Он работает в охране банка.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Охране' takes the prepositional after 'в' to show the workplace. The feminine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-07",
+        "phrase": "Президента сопровождают две охраны.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Охраны' follows 'две', which requires the genitive singular of a feminine noun. The ending -ы marks that form."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-08",
+        "phrase": "Разные охраны дежурят по сменам.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Охраны' is the nominative plural subject of 'дежурят', referring to several security teams. 'Разные' agrees in the plural."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-09",
+        "phrase": "Без охраны вход закрыт.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Охраны' takes the genitive after 'без' to express absence. The feminine genitive singular ends in -ы."
+      },
+      {
+        "id": "NN-STATE-OKHRANA-10",
+        "phrase": "Я благодарен охране за внимание.",
+        "fullAnalysis": "Strategic focus: Dative of recipient. 'Охране' takes the dative as the object of gratitude after 'благодарен'. The feminine dative singular ends in -е."
+      }
+    ]
+  }
+]

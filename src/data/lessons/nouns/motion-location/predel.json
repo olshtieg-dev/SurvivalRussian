@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PREDEL",
+    "label": "Предел",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for предел (limit).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PREDEL-01",
+        "phrase": "Это мой последний предел.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Предел' stays in the nominative as the predicate noun. 'Мой' and 'последний' are agreeing masculine modifiers describing the limit."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-02",
+        "phrase": "Он перешёл всякий предел.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Предел' is the accusative direct object of 'перешёл'. As an inanimate masculine noun, its accusative matches the nominative. 'Всякий' agrees in masculine."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-03",
+        "phrase": "У моего терпения есть предел.",
+        "fullAnalysis": "Strategic focus: Nominative subject in possession frame. 'Предел' is the nominative subject of 'есть'. 'У моего терпения' shows whose limit it is, with the noun unchanged as subject."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-04",
+        "phrase": "Цены растут без предела.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Предела' takes the genitive after 'без' to express the lack of any boundary. The masculine genitive singular ends in -а."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-05",
+        "phrase": "Мы подошли к пределу возможностей.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Пределу' takes the dative after 'к', showing approach toward the limit. The masculine dative singular ends in -у."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-06",
+        "phrase": "Он гордится своим пределом.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Пределом' takes the instrumental because 'гордиться' governs that case. The masculine instrumental singular ends in -ом. 'Своим' agrees."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-07",
+        "phrase": "Мы находимся на пределе сил.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Пределе' takes the prepositional after 'на' in the idiom for being at one's limit. The masculine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-08",
+        "phrase": "За пределами страны жизнь другая.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after preposition. 'Пределами' takes the instrumental plural after 'за', the standard phrase for beyond the borders. The plural ends in -ами."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-09",
+        "phrase": "Эти пределы трудно превзойти.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Пределы' is the accusative plural object of 'превзойти'. As an inanimate noun, the plural accusative matches the nominative plural in -ы."
+      },
+      {
+        "id": "NN-MOTION-PREDEL-10",
+        "phrase": "Достижение этого предела заняло годы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Предела' takes the genitive to link the achievement to the limit. 'Этого' agrees in the masculine genitive, ending in -ого."
+      }
+    ]
+  }
+]

@@ -2,23 +2,30 @@ import beregSet from './bereg.json';
 import derevoSet from './derevo.json';
 import dozhdSet from './dozhd.json';
 import dymSet from './dym.json';
+import gazSet from './gaz.json';
 import goraSet from './gora.json';
+import gryazSet from './gryaz.json';
 import kamenSet from './kamen.json';
+import kholodSet from './kholod.json';
 import kostyorSet from './kostyor.json';
 import kraiSet from './krai.json';
 import kustSet from './kust.json';
 import lesSet from './les.json';
+import lunaSet from './luna.json';
 import massaSet from './massa.json';
 import materialSet from './material.json';
 import moreSet from './more.json';
 import morozSet from './moroz.json';
 import neboSet from './nebo.json';
+import oblakoSet from './oblako.json';
 import ogonSet from './ogon.json';
 import osenSet from './osen.json';
 import ostrovSet from './ostrov.json';
 import pesokSet from './pesok.json';
 import prirodaSet from './priroda.json';
+import pyatnoSet from './pyatno.json';
 import pylSet from './pyl.json';
+import rastvorSet from './rastvor.json';
 import rekaSet from './reka.json';
 import snegSet from './sneg.json';
 import solntseSet from './solntse.json';
@@ -40,23 +47,30 @@ const natureWeatherNounsData = [
   ...derevoSet,
   ...dozhdSet,
   ...dymSet,
+  ...gazSet,
   ...goraSet,
+  ...gryazSet,
   ...kamenSet,
+  ...kholodSet,
   ...kostyorSet,
   ...kraiSet,
   ...kustSet,
   ...lesSet,
+  ...lunaSet,
   ...massaSet,
   ...materialSet,
   ...moreSet,
   ...morozSet,
   ...neboSet,
+  ...oblakoSet,
   ...ogonSet,
   ...osenSet,
   ...ostrovSet,
   ...pesokSet,
   ...prirodaSet,
+  ...pyatnoSet,
   ...pylSet,
+  ...rastvorSet,
   ...rekaSet,
   ...snegSet,
   ...solntseSet,

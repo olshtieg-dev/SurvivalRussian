@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-UDIVLENIE",
+    "label": "Удивление",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for удивление (surprise).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-UDIVLENIE-01",
+        "phrase": "На его лице было удивление.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Удивление' stays in the nominative as the subject of 'было'. The neuter noun ends in -ие in its base form."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-02",
+        "phrase": "Она не смогла скрыть удивление.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Удивление' is the accusative direct object of 'скрыть'. Neuter nouns keep the same form in the accusative as the nominative."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-03",
+        "phrase": "В его словах не было удивления.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Удивления' takes the genitive after the negated 'не было' to express that none was present. The neuter genitive singular ends in -я."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-04",
+        "phrase": "Дети раскрыли рты от удивления.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Удивления' takes the genitive after 'от' to express the cause of the reaction. The neuter genitive singular ends in -я."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-05",
+        "phrase": "Он смотрел на меня с удивлением.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Удивлением' takes the instrumental after 'с' to describe the manner of looking. The neuter instrumental singular ends in -ем."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-06",
+        "phrase": "В его удивлении было что-то детское.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Удивлении' takes the prepositional after 'в' to locate the quality within the emotion. The neuter ending -ии marks the prepositional."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-07",
+        "phrase": "Это известие вызвало общее удивление.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Удивление' is the accusative direct object of 'вызвало'. 'Общее' agrees in the neuter, describing the shared reaction."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-08",
+        "phrase": "К моему удивлению, он опоздал.",
+        "fullAnalysis": "Strategic focus: Dative in fixed phrase. 'Удивлению' takes the dative after 'к' in the set expression meaning to my surprise. The neuter dative singular ends in -ю."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-09",
+        "phrase": "Их удивления были искренними.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Удивления' is the nominative plural subject of 'были', referring to several reactions. The neuter plural ends in -я, and 'искренними' is the instrumental complement."
+      },
+      {
+        "id": "NN-EMOTION-UDIVLENIE-10",
+        "phrase": "Без удивления он принял новость.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Удивления' takes the genitive after 'без' to express the absence of any reaction. The neuter genitive singular ends in -я."
+      }
+    ]
+  }
+]

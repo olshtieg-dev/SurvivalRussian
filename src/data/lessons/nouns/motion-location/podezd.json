@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PODEZD",
+    "label": "Подъезд",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for подъезд (entrance).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PODEZD-01",
+        "phrase": "Наш подъезд всегда чистый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Подъезд' is a masculine noun in the nominative case as the subject. 'Наш' is the agreeing masculine possessive, and 'чистый' is the predicate adjective."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-02",
+        "phrase": "Я открыл подъезд своим ключом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Подъезд' is the accusative direct object of 'открыл'. As an inanimate masculine noun it matches the nominative, while 'ключом' is the instrumental of means."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-03",
+        "phrase": "Возле подъезда стоит машина.",
+        "fullAnalysis": "Strategic focus: Genitive with 'возле'. 'Подъезда' is the genitive form after 'возле' to express location near something. 'Машина' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-04",
+        "phrase": "Я подошёл к подъезду вечером.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Подъезду' is the dative form after 'к', expressing motion toward the entrance. 'Вечером' is an instrumental adverb of time."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-05",
+        "phrase": "Перед подъездом растёт большое дерево.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'перед'. 'Подъездом' is the instrumental form after 'перед' meaning in front of. 'Дерево' is the nominative subject, and 'большое' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-06",
+        "phrase": "В подъезде горит яркий свет.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В подъезде' uses the prepositional form 'подъезде' after 'в' to mark location inside. 'Свет' is the nominative subject of 'горит'."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-07",
+        "phrase": "Сосед вошёл в наш подъезд.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Подъезд' is accusative after 'в' to show motion into a place. 'Наш' agrees in the masculine accusative, and 'сосед' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-08",
+        "phrase": "В доме шесть подъездов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. After 'шесть' the noun takes the genitive plural 'подъездов'. 'В доме' is the prepositional location of the count."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-09",
+        "phrase": "Все подъезды закрыты на ключ.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Подъезды' is the nominative plural subject. 'Все' agrees in the plural, and 'закрыты' is the short participle agreeing in number."
+      },
+      {
+        "id": "NN-MOTION-PODEZD-10",
+        "phrase": "Из подъезда вышли два соседа.",
+        "fullAnalysis": "Strategic focus: Genitive with 'из'. 'Подъезда' is the genitive form after 'из', expressing motion out of the entrance. 'Два соседа' uses the genitive singular after the numeral."
+      }
+    ]
+  }
+]

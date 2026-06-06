@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-OBLAKO",
+    "label": "Облако",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for облако (cloud).",
+    "missions": [
+      {
+        "id": "NN-NATURE-OBLAKO-01",
+        "phrase": "Над лесом плывёт белое облако.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Облако' is a neuter noun and stays in the nominative as the subject of 'плывёт'. 'Белое' agrees in the neuter, and 'над лесом' is instrumental location."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-02",
+        "phrase": "Я вижу большое тёмное облако.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Облако' is the accusative direct object of 'вижу'. Neuter nouns keep the same form in the accusative singular, and 'большое тёмное' agree in the neuter."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-03",
+        "phrase": "На небе нет ни облака.",
+        "fullAnalysis": "Strategic focus: Genitive singular of absence. 'Облака' is the genitive singular after 'нет ни', emphasising that not a single cloud is in the sky. 'На небе' is prepositional location."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-04",
+        "phrase": "Самолёт летит к большому облаку.",
+        "fullAnalysis": "Strategic focus: Dative singular target. 'Облаку' is the dative singular after the preposition 'к', marking the goal of motion. 'Большому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-05",
+        "phrase": "Самолёт скрылся за облаком.",
+        "fullAnalysis": "Strategic focus: Instrumental singular after 'за'. 'Облаком' is the instrumental singular required by 'за', marking what the plane went behind. The subject 'самолёт' stays nominative."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-06",
+        "phrase": "На облаке отдыхает маленькая птица.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Облаке' is the prepositional singular after 'на', marking where the bird rests. The subject 'птица' stays nominative with its adjective."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-07",
+        "phrase": "По небу плывут пушистые облака.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Облака' is the nominative plural subject of 'плывут', which agrees in the plural. 'Пушистые' agrees too, and 'по небу' is dative location."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-08",
+        "phrase": "Ветер быстро гонит облака.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Облака' is the accusative plural direct object of 'гонит'. As an inanimate neuter plural its accusative matches the nominative, with 'ветер' as subject."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-09",
+        "phrase": "Сегодня на небе много облаков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Облаков' is the genitive plural required by the quantifier 'много'. 'На небе' gives the prepositional location of the clouds."
+      },
+      {
+        "id": "NN-NATURE-OBLAKO-10",
+        "phrase": "Солнце спряталось между облаками.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Облаками' is the instrumental plural required by 'между', marking the space among the clouds. The subject 'солнце' stays nominative."
+      }
+    ]
+  }
+]

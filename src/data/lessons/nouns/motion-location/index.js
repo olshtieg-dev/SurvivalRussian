@@ -9,8 +9,10 @@ import dvoretsSet from './dvorets.json';
 import etazhSet from './etazh.json';
 import glubinaSet from './glubina.json';
 import gorodSet from './gorod.json';
+import gostinitsaSet from './gostinitsa.json';
 import granitsaSet from './granitsa.json';
 import institutSet from './institut.json';
+import izbaSet from './izba.json';
 import kabinetSet from './kabinet.json';
 import klubSet from './klub.json';
 import komnataSet from './komnata.json';
@@ -25,15 +27,26 @@ import liniyaSet from './liniya.json';
 import magazinSet from './magazin.json';
 import mestoSet from './mesto.json';
 import mostSet from './most.json';
+import muzeiSet from './muzei.json';
 import napravlenieSet from './napravlenie.json';
 import oblastSet from './oblast.json';
 import otdelSet from './otdel.json';
+import otdelenieSet from './otdelenie.json';
+import ozeroSet from './ozero.json';
+import parkSet from './park.json';
 import planetaSet from './planeta.json';
 import ploshchadSet from './ploshchad.json';
+import ploshchadkaSet from './ploshchadka.json';
+import podezdSet from './podezd.json';
 import poleSet from './pole.json';
+import pomeshchenieSet from './pomeshchenie.json';
 import porogSet from './porog.json';
+import postSet from './post.json';
 import potolokSet from './potolok.json';
 import poverkhnostSet from './poverkhnost.json';
+import pozitsiyaSet from './pozitsiya.json';
+import predelSet from './predel.json';
+import predpriyatieSet from './predpriyatie.json';
 import prostranstvoSet from './prostranstvo.json';
 import putSet from './put.json';
 import rabotaSet from './rabota.json';
@@ -59,6 +72,8 @@ import uchastokSet from './uchastok.json';
 import ugolSet from './ugol.json';
 import ugol2Set from './ugol2.json';
 import ulitsaSet from './ulitsa.json';
+import universitetSet from './universitet.json';
+import vershinaSet from './vershina.json';
 import vkhodSet from './vkhod.json';
 import vostokSet from './vostok.json';
 import vysotaSet from './vysota.json';
@@ -67,6 +82,7 @@ import zamokSet from './zamok.json';
 import zapadSet from './zapad.json';
 import zavodSet from './zavod.json';
 import zdanieSet from './zdanie.json';
+import zonaSet from './zona.json';
 
 export const motionLocationNounsFolderId = 'nouns-motion-location';
 const motionLocationNounsData = [
@@ -81,8 +97,10 @@ const motionLocationNounsData = [
   ...etazhSet,
   ...glubinaSet,
   ...gorodSet,
+  ...gostinitsaSet,
   ...granitsaSet,
   ...institutSet,
+  ...izbaSet,
   ...kabinetSet,
   ...klubSet,
   ...komnataSet,
@@ -97,15 +115,26 @@ const motionLocationNounsData = [
   ...magazinSet,
   ...mestoSet,
   ...mostSet,
+  ...muzeiSet,
   ...napravlenieSet,
   ...oblastSet,
   ...otdelSet,
+  ...otdelenieSet,
+  ...ozeroSet,
+  ...parkSet,
   ...planetaSet,
   ...ploshchadSet,
+  ...ploshchadkaSet,
+  ...podezdSet,
   ...poleSet,
+  ...pomeshchenieSet,
   ...porogSet,
+  ...postSet,
   ...potolokSet,
   ...poverkhnostSet,
+  ...pozitsiyaSet,
+  ...predelSet,
+  ...predpriyatieSet,
   ...prostranstvoSet,
   ...putSet,
   ...rabotaSet,
@@ -131,6 +160,8 @@ const motionLocationNounsData = [
   ...ugolSet,
   ...ugol2Set,
   ...ulitsaSet,
+  ...universitetSet,
+  ...vershinaSet,
   ...vkhodSet,
   ...vostokSet,
   ...vysotaSet,
@@ -139,6 +170,7 @@ const motionLocationNounsData = [
   ...zapadSet,
   ...zavodSet,
   ...zdanieSet,
+  ...zonaSet,
 ];
 
 export const motionLocationNounsFolder = {

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-GOSTINITSA",
+    "label": "Гостиница",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for гостиница (hotel).",
+    "missions": [
+      {
+        "id": "NN-MOTION-GOSTINITSA-01",
+        "phrase": "Эта гостиница находится в центре.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гостиница' stays in the nominative as the subject of 'находится'. 'Эта' agrees in the feminine, and 'в центре' gives a prepositional location."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-02",
+        "phrase": "Мы выбрали недорогую гостиницу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Гостиницу' is the accusative direct object of 'выбрали'. The feminine ending shifts from -а to -у, and 'недорогую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-03",
+        "phrase": "Рядом нет хорошей гостиницы.",
+        "fullAnalysis": "Strategic focus: Genitive singular of absence. 'Гостиницы' is the genitive singular after 'нет'. 'Хорошей' agrees in the feminine genitive, stating that no good hotel is nearby."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-04",
+        "phrase": "Мы идём к гостинице пешком.",
+        "fullAnalysis": "Strategic focus: Dative singular target. 'Гостинице' is the dative singular after the preposition 'к', marking the destination of motion. 'Пешком' specifies the manner of travel."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-05",
+        "phrase": "Я живу в этой гостинице.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Гостинице' is the prepositional singular after 'в', marking where the speaker stays. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-06",
+        "phrase": "Мы остались довольны гостиницей.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. 'Гостиницей' is the instrumental singular governed by 'довольны', expressing satisfaction with the hotel. The construction is a common evaluation pattern."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-07",
+        "phrase": "Около гостиницы стоит большое такси.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'около'. 'Гостиницы' is the genitive singular required by 'около', marking proximity. The subject 'такси' stays nominative."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-08",
+        "phrase": "В городе много новых гостиниц.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Гостиниц' is the genitive plural required by the quantifier 'много'. 'Новых' agrees in the genitive plural, describing the hotels."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-09",
+        "phrase": "Все гостиницы здесь очень дорогие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Гостиницы' is the nominative plural subject, and 'дорогие' agrees in the plural. 'Все' quantifies them, and 'здесь' gives location."
+      },
+      {
+        "id": "NN-MOTION-GOSTINITSA-10",
+        "phrase": "Я заказал номер в гостинице.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Гостинице' is the prepositional singular after 'в', marking where the room was booked. The object 'номер' is accusative under 'заказал'."
+      }
+    ]
+  }
+]

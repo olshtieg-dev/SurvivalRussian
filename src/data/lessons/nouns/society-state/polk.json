@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-POLK",
+    "label": "Полк",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for полк (regiment).",
+    "missions": [
+      {
+        "id": "NN-STATE-POLK-01",
+        "phrase": "Полк вернулся домой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Полк' is masculine nominative as the subject of 'вернулся'. 'Домой' is the directional adverb showing where it returned."
+      },
+      {
+        "id": "NN-STATE-POLK-02",
+        "phrase": "Командир поднял полк рано утром.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Полк' is the accusative object of 'поднял'; the inanimate masculine keeps the nominative form. 'Рано утром' gives the time."
+      },
+      {
+        "id": "NN-STATE-POLK-03",
+        "phrase": "Он служил в этом полку.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В полку' uses the special locative ending '-у' after 'в'. 'Этом' agrees in the masculine prepositional, marking where he served."
+      },
+      {
+        "id": "NN-STATE-POLK-04",
+        "phrase": "В деревне не было целого полка.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Полка' is the genitive after 'не было', and 'целого' agrees in the masculine genitive. 'В деревне' gives the place."
+      },
+      {
+        "id": "NN-STATE-POLK-05",
+        "phrase": "Несколько солдат ушли из полка.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из полка' takes the genitive after 'из' to show leaving the regiment. 'Несколько солдат' is the quantified subject."
+      },
+      {
+        "id": "NN-STATE-POLK-06",
+        "phrase": "Молодого офицера зачислили в полк.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В полк' uses the accusative after 'в' to show enrolment into the regiment. 'Молодого офицера' is the animate accusative object."
+      },
+      {
+        "id": "NN-STATE-POLK-07",
+        "phrase": "К полку прибыло подкрепление.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К полку' uses the dative after 'к' to mean toward the regiment. 'Подкрепление' is the neuter nominative subject."
+      },
+      {
+        "id": "NN-STATE-POLK-08",
+        "phrase": "Он гордился своим полком.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Полком' is the instrumental required by 'гордился' to mean proud of the regiment. 'Своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-POLK-09",
+        "phrase": "На параде шли разные полки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Полки' is the nominative plural subject of 'шли'. 'Разные' agrees, and 'на параде' is the prepositional location."
+      },
+      {
+        "id": "NN-STATE-POLK-10",
+        "phrase": "В армии было много полков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Полков' is the genitive plural required after 'много'. 'В армии' is the prepositional location of the regiments."
+      }
+    ]
+  }
+]

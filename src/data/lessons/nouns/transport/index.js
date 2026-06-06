@@ -1,5 +1,6 @@
 import avtobusSet from './avtobus.json';
 import avtomobilSet from './avtomobil.json';
+import kolesoSet from './koleso.json';
 import korablSet from './korabl.json';
 import lodkaSet from './lodka.json';
 import mashinaSet from './mashina.json';
@@ -12,6 +13,7 @@ export const transportNounsFolderId = 'nouns-transport';
 const transportNounsData = [
   ...avtobusSet,
   ...avtomobilSet,
+  ...kolesoSet,
   ...korablSet,
   ...lodkaSet,
   ...mashinaSet,

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-UCHENIK",
+    "label": "Ученик",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for ученик (pupil).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-UCHENIK-01",
+        "phrase": "Этот ученик очень способный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ученик' is the masculine nominative subject. 'Способный' is the agreeing masculine adjective, intensified by 'очень'. A natural way to characterise a student."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-02",
+        "phrase": "Учитель похвалил прилежного ученика.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Ученика' is the accusative object of 'похвалил'; because it is animate masculine, the form matches the genitive. 'Прилежного' agrees the same way. Models praising someone."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-03",
+        "phrase": "У ученика нет нужного учебника.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'У ученика' uses the genitive 'ученика' in the possession frame. 'Нет учебника' adds a genitive of absence. A useful classroom complaint pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-04",
+        "phrase": "Учитель помог новому ученику.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Ученику' is the dative object of 'помог', since 'помочь' governs the dative. 'Новому' agrees in the masculine dative. The standard helping-someone pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-05",
+        "phrase": "Я горжусь своим учеником.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. The verb 'гордиться' governs the instrumental 'учеником' to express pride. 'Своим' agrees in the masculine instrumental. A reusable emotional pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-06",
+        "phrase": "Мы говорили об одном ученике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об ученике' uses the prepositional 'ученике' after 'об' to mean talking about him. 'Одном' agrees in the masculine prepositional. Useful for discussion."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-07",
+        "phrase": "В классе двадцать пять учеников.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. The numeral 'двадцать пять' governs the genitive plural 'учеников'. 'В классе' gives the location. Practises counting people."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-08",
+        "phrase": "Учитель раздал тетради ученикам.",
+        "fullAnalysis": "Strategic focus: Dative plural recipient. 'Ученикам' is the dative plural object of 'раздал', the people receiving. 'Тетради' is the accusative plural of what was given. Models distributing to a group."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-09",
+        "phrase": "Учитель доволен своими учениками.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after a short adjective. 'Доволен' governs the instrumental plural 'учениками' to express satisfaction. 'Своими' agrees in the instrumental plural. A reusable approval pattern."
+      },
+      {
+        "id": "NN-PEOPLE-UCHENIK-10",
+        "phrase": "Этот ученик стал хорошим врачом.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental predicate. 'Ученик' is the nominative subject of 'стал', while 'врачом' is the instrumental predicate of becoming. 'Хорошим' agrees in the masculine instrumental. A life-path sentence."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SPISOK",
+    "label": "Список",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for список (list).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-01",
+        "phrase": "Вот мой список покупок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Список' is masculine nominative, presented with 'вот'. 'Покупок' is a genitive plural modifier meaning of purchases."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-02",
+        "phrase": "Я составил длинный список дел.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Список' is the accusative object of 'составил'; inanimate masculine keeps the nominative form. 'Длинный' agrees, and 'дел' is genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-03",
+        "phrase": "Твоего имени нет в списке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В списке' uses the prepositional ending after 'в' to mean within the list. 'Твоего имени нет' states the name is absent."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-04",
+        "phrase": "У меня нет полного списка.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Списка' is genitive after 'нет', and 'полного' agrees in the masculine genitive. The frame 'у меня нет' shows lacking the list."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-05",
+        "phrase": "Я вычеркнул его из списка.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из списка' takes the genitive after 'из' to show removal from the list. 'Его' is the accusative object that was crossed out."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-06",
+        "phrase": "Добавь молоко в список.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В список' uses the accusative after 'в' to show adding into the list. 'Молоко' is the accusative object of 'добавь'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-07",
+        "phrase": "К списку добавили ещё пункт.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К списку' uses the dative after 'к' to mean toward the list. 'Ещё пункт' is the accusative object that was added."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-08",
+        "phrase": "Я работаю над этим списком.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Над списком' uses the instrumental after 'над' to mean working on the list. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-09",
+        "phrase": "Эти списки слишком короткие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Списки' is the nominative plural subject. 'Эти' agrees and 'короткие' is the plural adjective, with 'слишком' intensifying."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SPISOK-10",
+        "phrase": "В книге несколько важных списков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Списков' is the genitive plural required after 'несколько'. 'Важных' agrees, and 'в книге' is the prepositional location."
+      }
+    ]
+  }
+]

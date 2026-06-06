@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-TREVOGA",
+    "label": "Тревога",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for тревога (anxiety).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-TREVOGA-01",
+        "phrase": "В её голосе слышна тревога.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тревога' is feminine nominative as the subject. 'Слышна' is the short-form adjective agreeing in the feminine, and 'в голосе' is the location."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-02",
+        "phrase": "Я чувствую сильную тревогу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тревогу' is the feminine accusative object of 'чувствую'. 'Сильную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-03",
+        "phrase": "Я живу в постоянной тревоге.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В тревоге' uses the prepositional ending after 'в' to describe a state. 'Постоянной' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-04",
+        "phrase": "У меня нет причин для тревоги.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Для тревоги' takes the genitive after 'для' to mean grounds for anxiety. 'Причин' is the genitive plural object of 'нет'."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-05",
+        "phrase": "Я избавился от тревоги.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От тревоги' takes the genitive after 'от' to mean ridding oneself of anxiety. The verb 'избавился' governs this construction."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-06",
+        "phrase": "Новость привела всех в тревогу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В тревогу' uses the accusative after 'в' to show being thrown into anxiety. 'Всех' is the accusative object, 'новость' the subject."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-07",
+        "phrase": "Благодаря тревоге он был осторожен.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Благодаря тревоге' uses the dative after 'благодаря' to mean because of the anxiety. The clause explains his caution."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-08",
+        "phrase": "Она смотрела на меня с тревогой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'С тревогой' uses the instrumental after 'с' to mean with anxiety. The phrase describes the manner of her gaze."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-09",
+        "phrase": "Меня мучают ночные тревоги.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Тревоги' is the nominative plural subject of 'мучают'. 'Ночные' agrees, and 'меня' is the accusative object being tormented."
+      },
+      {
+        "id": "NN-EMOTION-TREVOGA-10",
+        "phrase": "У него столько тревог!",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Тревог' is the genitive plural required after 'столько'. The exclamation stresses how many worries he has."
+      }
+    ]
+  }
+]

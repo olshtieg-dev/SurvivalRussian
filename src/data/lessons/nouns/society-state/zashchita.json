@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ZASHCHITA",
+    "label": "Защита",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for защита (defense).",
+    "missions": [
+      {
+        "id": "NN-STATE-ZASHCHITA-01",
+        "phrase": "Нам нужна надёжная защита.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Защита' stays in the nominative as the subject of the predicate 'нужна'. 'Надёжная' is the agreeing feminine adjective, and 'нам' is dative."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-02",
+        "phrase": "Армия обеспечивает защиту страны.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Защиту' is the accusative direct object of 'обеспечивает'. 'Страны' is genitive, showing the defense of the country."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-03",
+        "phrase": "У города нет достаточной защиты.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Защиты' takes the genitive after 'нет' to express what is missing. 'Достаточной' agrees in the feminine genitive, and 'у города' is genitive."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-04",
+        "phrase": "Они готовятся к защите границы.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Защите' is in the dative case after 'к', marking what they prepare for. 'Границы' is genitive, naming the border defended."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-05",
+        "phrase": "Они стоят за защитой природы.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Защитой' takes the instrumental case after 'за' to express advocating for something. 'Природы' is genitive, naming the cause."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-06",
+        "phrase": "Закон говорит о защите детей.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'Защите' is in the prepositional case after 'о' to mark the topic. 'Детей' is genitive, naming those protected, and 'закон' is nominative."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-07",
+        "phrase": "Солдаты встали на защиту города.",
+        "fullAnalysis": "Strategic focus: Accusative after на. 'Защиту' is accusative after 'на' in the fixed phrase 'встать на защиту', meaning to rise in defense. 'Города' is genitive."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-08",
+        "phrase": "Защита окружающей среды очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Защита' is the nominative subject of the predicate 'важна'. 'Окружающей среды' is genitive, naming the environment being protected."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-09",
+        "phrase": "В законе много статей о защите.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'Защите' is in the prepositional case after 'о' to mark the topic. 'Много статей' uses the genitive plural, and 'в законе' is prepositional."
+      },
+      {
+        "id": "NN-STATE-ZASHCHITA-10",
+        "phrase": "Эта стена служит хорошей защитой.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Защитой' takes the instrumental case as the complement of 'служит', stating what the wall functions as. 'Хорошей' agrees in the feminine instrumental."
+      }
+    ]
+  }
+]

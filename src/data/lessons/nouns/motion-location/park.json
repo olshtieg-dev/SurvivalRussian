@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PARK",
+    "label": "Парк",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for парк (park).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PARK-01",
+        "phrase": "Этот парк очень большой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Парк' stays in the nominative as the subject of the sentence. 'Этот' is the agreeing masculine demonstrative, and 'большой' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-MOTION-PARK-02",
+        "phrase": "Я люблю наш городской парк.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Парк' is the accusative direct object of 'люблю'; this inanimate masculine noun matches the nominative form. 'Городской' is the agreeing masculine accusative adjective."
+      },
+      {
+        "id": "NN-MOTION-PARK-03",
+        "phrase": "Мы дошли до парка пешком.",
+        "fullAnalysis": "Strategic focus: Genitive after до. The preposition 'до' governs the genitive, giving 'парка'. 'Пешком' is an instrumental-derived adverb describing how they reached it."
+      },
+      {
+        "id": "NN-MOTION-PARK-04",
+        "phrase": "Мы идём к парку через площадь.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' requires the dative 'парку', expressing motion toward. 'Через площадь' adds an accusative path phrase."
+      },
+      {
+        "id": "NN-MOTION-PARK-05",
+        "phrase": "Кафе находится за парком.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. The locative preposition 'за' takes the instrumental 'парком' to mean behind. A natural pattern for giving directions."
+      },
+      {
+        "id": "NN-MOTION-PARK-06",
+        "phrase": "Дети играют в парке весь день.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' meaning location the noun takes the prepositional 'парке'. 'Весь день' adds the duration of the activity."
+      },
+      {
+        "id": "NN-MOTION-PARK-07",
+        "phrase": "Давай пойдём в парк сегодня!",
+        "fullAnalysis": "Strategic focus: Accusative of direction. After 'в' meaning motion toward, the noun takes the accusative 'парк', identical to the nominative for this inanimate noun. A common invitation."
+      },
+      {
+        "id": "NN-MOTION-PARK-08",
+        "phrase": "В нашем городе много парков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. The quantity word 'много' requires the genitive plural 'парков'. 'В нашем городе' is a prepositional location setting the scene."
+      },
+      {
+        "id": "NN-MOTION-PARK-09",
+        "phrase": "Эти парки открыты круглый год.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Парки' is the nominative plural, the subject of the sentence. 'Эти' agrees in the plural, and 'круглый год' is an accusative duration phrase."
+      },
+      {
+        "id": "NN-MOTION-PARK-10",
+        "phrase": "Мы гуляем по парку каждое утро.",
+        "fullAnalysis": "Strategic focus: Dative after по. The preposition 'по' meaning around or through takes the dative 'парку'. 'Каждое утро' is an accusative frequency phrase."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-INSPEKTOR",
+    "label": "Инспектор",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for инспектор (inspector).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-01",
+        "phrase": "К нам приехал строгий инспектор.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Инспектор' stays in the nominative as the subject of 'приехал'. 'Строгий' is the agreeing masculine adjective, and 'к нам' shows direction."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-02",
+        "phrase": "Мы встретили нового инспектора.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Инспектора' takes the genitive-form accusative because the noun is animate masculine. 'Нового' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-03",
+        "phrase": "Это машина местного инспектора.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Инспектора' takes the genitive to show the possessor of the car. 'Местного' agrees in the masculine genitive, and 'машина' is nominative."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-04",
+        "phrase": "Водитель показал документы инспектору.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Инспектору' is in the dative case as the person shown the documents. 'Водитель' is the nominative subject, and 'документы' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-05",
+        "phrase": "Я разговаривал с инспектором долго.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Инспектором' takes the instrumental case after 'с' to express conversation with someone. 'Долго' adds duration to the talk."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-06",
+        "phrase": "Все говорят об этом инспекторе.",
+        "fullAnalysis": "Strategic focus: Prepositional after об. 'Инспекторе' is in the prepositional case after 'об' to mark the topic. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-07",
+        "phrase": "Инспектор проверил все документы внимательно.",
+        "fullAnalysis": "Strategic focus: Nominative subject with accusative object. 'Инспектор' is the nominative subject of 'проверил', and 'все документы' is the accusative object. 'Внимательно' is the adverb."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-08",
+        "phrase": "На завод приехали два инспектора.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'два' the noun takes the genitive singular form 'инспектора'. 'На завод' is accusative with motion."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-09",
+        "phrase": "Строгие инспекторы осмотрели здание.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Инспекторы' is the nominative plural subject of 'осмотрели'. 'Строгие' agrees in the plural, and 'здание' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-INSPEKTOR-10",
+        "phrase": "Директор боится этих инспекторов.",
+        "fullAnalysis": "Strategic focus: Genitive plural for animate accusative. After 'боится' the noun takes the genitive 'инспекторов', which also serves as the animate accusative plural. 'Этих' agrees."
+      }
+    ]
+  }
+]

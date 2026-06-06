@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PORTRET",
+    "label": "Портрет",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for портрет (portrait).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-01",
+        "phrase": "На стене висит старый портрет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Портрет' stays in the nominative as the subject of 'висит'. 'Старый' is the agreeing masculine adjective, and 'на стене' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-02",
+        "phrase": "Художник нарисовал её портрет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Портрет' is the accusative direct object of 'нарисовал'; for this inanimate masculine noun the accusative matches the nominative. 'Её' shows whose portrait it is."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-03",
+        "phrase": "В музее нет этого портрета.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Портрета' takes the genitive after 'нет' to express what is missing. 'Этого' agrees in the masculine genitive, and 'в музее' sets the place."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-04",
+        "phrase": "Я долго смотрел на портрет.",
+        "fullAnalysis": "Strategic focus: Accusative after на. 'Портрет' is accusative after 'на' with the verb 'смотрел', expressing the direction of the gaze. 'Долго' adds duration to the looking."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-05",
+        "phrase": "Под портретом стоит маленький стул.",
+        "fullAnalysis": "Strategic focus: Instrumental after под. 'Портретом' takes the instrumental case after 'под' to show position below. 'Маленький стул' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-06",
+        "phrase": "На портрете изображён молодой король.",
+        "fullAnalysis": "Strategic focus: Prepositional after на. 'Портрете' is in the prepositional case after 'на' to mark where something is depicted. 'Молодой король' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-07",
+        "phrase": "Он подарил бабушке свой портрет.",
+        "fullAnalysis": "Strategic focus: Accusative gift with dative recipient. 'Портрет' is the accusative object of 'подарил', and 'бабушке' is the dative recipient. 'Свой' marks it as his own portrait."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-08",
+        "phrase": "В галерее висят семейные портреты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Портреты' is the nominative plural subject of 'висят'. 'Семейные' agrees in the plural, and 'в галерее' is prepositional, giving the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-09",
+        "phrase": "Мы видели много старинных портретов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Портретов' takes the genitive plural after 'много'. 'Старинных' agrees in the genitive plural, describing the antique portraits."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PORTRET-10",
+        "phrase": "Этот портрет очень похож на оригинал.",
+        "fullAnalysis": "Strategic focus: Nominative subject with comparison. 'Портрет' is the nominative subject. 'Этот' agrees in the masculine, and 'похож на оригинал' uses the accusative to state the resemblance."
+      }
+    ]
+  }
+]

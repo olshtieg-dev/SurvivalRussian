@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-BABKA",
+    "label": "Бабка",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for бабка (granny).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-BABKA-01",
+        "phrase": "В деревне живёт старая бабка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бабка' stays in the nominative as the subject of 'живёт'. 'Старая' is the agreeing feminine adjective, and 'в деревне' gives the location."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-02",
+        "phrase": "Я часто навещаю свою бабку.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Бабку' is the accusative object of 'навещаю'; the feminine ending is regular -у. 'Свою' agrees, marking my own granny."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-03",
+        "phrase": "У бабки большой огород.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Бабки' takes the genitive after 'у' to show the possessor. 'Большой огород' is the nominative thing possessed."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-04",
+        "phrase": "Мы идём в гости к бабке.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Бабке' is in the dative case after 'к', marking the person visited. 'В гости' is a fixed phrase meaning to visit."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-05",
+        "phrase": "Я люблю сидеть рядом с бабкой.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Бабкой' takes the instrumental case after 'с' to express togetherness. 'Рядом' adds the sense of being beside her."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-06",
+        "phrase": "Мы говорили о бабке весь вечер.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'Бабке' is in the prepositional case after 'о' to mark the topic of conversation. 'Весь вечер' is accusative, giving duration."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-07",
+        "phrase": "Бабка испекла внукам вкусный пирог.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative recipient. 'Бабка' is the nominative subject of 'испекла', 'внукам' is the dative recipient, and 'пирог' is the accusative object."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-08",
+        "phrase": "На скамейке сидят две бабки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две' the noun takes the genitive singular form 'бабки'. 'На скамейке' is prepositional, giving the location."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-09",
+        "phrase": "Старые бабки любят сплетничать.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Бабки' is the nominative plural subject of 'любят'. 'Старые' agrees in the plural, and 'сплетничать' is the infinitive complement."
+      },
+      {
+        "id": "NN-FAMILY-BABKA-10",
+        "phrase": "Я давно не видел этих бабок.",
+        "fullAnalysis": "Strategic focus: Genitive plural for animate accusative. After 'не видел' the animate plural takes the genitive 'бабок', with a fleeting vowel. 'Этих' agrees in the genitive plural."
+      }
+    ]
+  }
+]

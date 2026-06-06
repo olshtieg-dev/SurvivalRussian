@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-OPASNOST",
+    "label": "Опасность",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for опасность (danger).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-OPASNOST-01",
+        "phrase": "Опасность была совсем близко.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Опасность' is a feminine soft-sign noun in the nominative case as the subject. 'Была' agrees in the feminine, and 'близко' is the adverb of position."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-02",
+        "phrase": "Я сразу почувствовал опасность.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Опасность' is the accusative direct object of 'почувствовал'. Feminine nouns ending in a soft sign keep the same form in the accusative."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-03",
+        "phrase": "Здесь нет никакой опасности.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Опасности' is the genitive form after 'нет', expressing absence. 'Никакой' is the agreeing feminine genitive pronoun reinforcing the negation."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-04",
+        "phrase": "Мы шли навстречу опасности.",
+        "fullAnalysis": "Strategic focus: Dative with 'навстречу'. 'Опасности' is the dative form after 'навстречу', expressing movement toward something. The soft-sign feminine dative ends in -и."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-05",
+        "phrase": "Над городом нависла опасность войны.",
+        "fullAnalysis": "Strategic focus: Nominative subject with genitive modifier. 'Опасность' is the nominative subject of 'нависла'. 'Войны' is the genitive modifier, and 'над городом' is the instrumental location."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-06",
+        "phrase": "Он не думал об опасности.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об опасности' uses the prepositional form 'опасности' after 'об' to express the topic of thought. The soft-sign feminine prepositional ends in -и."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-07",
+        "phrase": "Я предупредил их об опасности.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'об'. 'Опасности' is the prepositional form after 'об' used with the verb of warning. 'Их' is the accusative object of 'предупредил'."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-08",
+        "phrase": "В дороге нас ждали разные опасности.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Опасности' is the nominative plural subject of 'ждали'. 'Разные' is the agreeing plural adjective, and 'нас' is the accusative object."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-09",
+        "phrase": "Мы избежали многих опасностей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Опасностей' is the genitive plural required by 'избежать', which governs the genitive. 'Многих' is the agreeing plural genitive quantifier."
+      },
+      {
+        "id": "NN-EMOTION-OPASNOST-10",
+        "phrase": "Это была настоящая опасность.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Опасность' is nominative as the predicate noun. 'Настоящая' is the agreeing feminine adjective, and 'была' agrees in the feminine past."
+      }
+    ]
+  }
+]

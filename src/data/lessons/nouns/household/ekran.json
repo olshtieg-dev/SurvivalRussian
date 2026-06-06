@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-EKRAN",
+    "label": "Экран",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for экран (screen).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-01",
+        "phrase": "Экран телефона совсем разбит.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Экран' is masculine and stays in the nominative as the subject. 'Телефона' is genitive showing whose screen, and 'разбит' is the short adjective predicate."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-02",
+        "phrase": "Я весь день смотрю на экран.",
+        "fullAnalysis": "Strategic focus: Accusative after на. 'Экран' takes the accusative after 'на' with the verb of looking. Since it is inanimate masculine, the accusative matches the nominative form. 'Весь день' adds duration."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-03",
+        "phrase": "На экране появилось важное сообщение.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Экране' is prepositional after 'на' to mark where something appeared. 'Сообщение' is the neuter nominative subject, and 'появилось' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-04",
+        "phrase": "Без экрана компьютер бесполезен.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Экрана' is the genitive form required by the preposition 'без' to express absence. 'Компьютер' is the nominative subject and 'бесполезен' the short adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-05",
+        "phrase": "Я подошёл ближе к экрану.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Экрану' is the dative form governed by 'к' to express movement toward. 'Ближе' is the comparative adverb, and 'подошёл' is the past-tense verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-06",
+        "phrase": "Перед экраном стоит маленькая лампа.",
+        "fullAnalysis": "Strategic focus: Instrumental after перед. 'Экраном' is the instrumental form required by 'перед' to mark position in front. 'Лампа' is the nominative subject and 'маленькая' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-07",
+        "phrase": "Эти экраны очень яркие и большие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Экраны' is the nominative plural subject. 'Эти' agrees in the plural, while 'яркие' and 'большие' are plural adjectives describing them."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-08",
+        "phrase": "Мы протёрли пыль с экрана.",
+        "fullAnalysis": "Strategic focus: Genitive after с. 'Экрана' is the genitive form after 'с' meaning off or from a surface. 'Пыль' is the accusative object of 'протёрли', the past-tense verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-09",
+        "phrase": "Дети сидят перед большим экраном.",
+        "fullAnalysis": "Strategic focus: Instrumental with adjective. 'Экраном' is instrumental after 'перед', and 'большим' is the agreeing instrumental adjective. 'Дети' is the nominative plural subject of 'сидят'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-EKRAN-10",
+        "phrase": "Купи новый экран для ноутбука.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Экран' is the accusative direct object of 'купи', matching the nominative as inanimate masculine. 'Новый' agrees in the accusative, and 'для ноутбука' is genitive of purpose."
+      }
+    ]
+  }
+]

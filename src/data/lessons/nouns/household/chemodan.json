@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-CHEMODAN",
+    "label": "Чемодан",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for чемодан (suitcase).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-01",
+        "phrase": "Мой чемодан стоит у двери.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Чемодан' is masculine nominative as the subject of 'стоит'. 'Мой' agrees in the masculine, and 'у двери' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-02",
+        "phrase": "Я уже собрал чемодан.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Чемодан' is the accusative direct object of 'собрал'; inanimate masculine nouns keep the nominative form. 'Уже' marks completion."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-03",
+        "phrase": "В чемодане лежит тёплая одежда.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В чемодане' uses the prepositional ending after 'в' to locate the contents. 'Тёплая одежда' is the nominative subject inside the suitcase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-04",
+        "phrase": "У меня нет большого чемодана.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Чемодана' is genitive after 'нет', and 'большого' agrees in the masculine genitive. The frame 'у меня нет' expresses lacking something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-05",
+        "phrase": "Я достал документы из чемодана.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из чемодана' takes the genitive after 'из' to show motion out of the suitcase. 'Документы' is the accusative object of 'достал'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-06",
+        "phrase": "Я положил подарок в чемодан.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В чемодан' uses the accusative after 'в' to show motion into the suitcase. 'Подарок' is the accusative object of 'положил'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-07",
+        "phrase": "Я дал чемодану новую наклейку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Чемодану' is the dative form marking what receives the sticker. 'Новую наклейку' is the accusative object of 'дал'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-08",
+        "phrase": "Он приехал с тяжёлым чемоданом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'С чемоданом' uses the instrumental after 'с' to mean accompanied by the suitcase. 'Тяжёлым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-09",
+        "phrase": "Все чемоданы стоят в коридоре.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Чемоданы' is the nominative plural subject of 'стоят'. 'Все' quantifies them, and 'в коридоре' is the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-CHEMODAN-10",
+        "phrase": "Сколько чемоданов ты берёшь?",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Чемоданов' is the genitive plural required after 'сколько'. The verb 'берёшь' asks how many suitcases you are taking."
+      }
+    ]
+  }
+]

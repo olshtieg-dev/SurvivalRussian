@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PLOSHCHADKA",
+    "label": "Площадка",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for площадка (area).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-01",
+        "phrase": "Во дворе есть детская площадка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Площадка' stays in the nominative as the subject after 'есть'. 'Детская' is the agreeing feminine adjective, and 'во дворе' gives the location."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-02",
+        "phrase": "Рабочие строят новую площадку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Площадку' is the accusative direct object of 'строят'. 'Новую' agrees in the feminine accusative, and 'рабочие' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-03",
+        "phrase": "Рядом нет удобной площадки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Площадки' takes the genitive after 'нет' to express what is missing. 'Удобной' agrees in the feminine genitive, and 'рядом' means nearby."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-04",
+        "phrase": "Дети бегут к площадке.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Площадке' is in the dative case after 'к', marking the goal of motion. 'Дети' is the nominative plural subject of 'бегут'."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-05",
+        "phrase": "За площадкой начинается лес.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Площадкой' takes the instrumental case after 'за' to show position beyond. 'Лес' is the nominative subject of 'начинается'."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-06",
+        "phrase": "На площадке играют маленькие дети.",
+        "fullAnalysis": "Strategic focus: Prepositional after на. 'Площадке' is in the prepositional case after 'на' to mark where the action happens. 'Маленькие дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-07",
+        "phrase": "Мы идём на площадку гулять.",
+        "fullAnalysis": "Strategic focus: Accusative after на with motion. 'Площадку' is accusative after 'на' because there is movement toward it. 'Гулять' states the purpose of going."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-08",
+        "phrase": "В городе много спортивных площадок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Площадок' takes the genitive plural after 'много', with the fleeting vowel inserted. 'Спортивных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-09",
+        "phrase": "Эти площадки всегда полны людей.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Площадки' is the nominative plural subject. 'Эти' agrees in the plural, and 'полны людей' uses the genitive 'людей' after the short adjective."
+      },
+      {
+        "id": "NN-MOTION-PLOSHCHADKA-10",
+        "phrase": "Самолёт стоит на взлётной площадке.",
+        "fullAnalysis": "Strategic focus: Prepositional after на. 'Площадке' is in the prepositional case after 'на' to mark the location of the plane. 'Взлётной' agrees, naming the runway pad."
+      }
+    ]
+  }
+]

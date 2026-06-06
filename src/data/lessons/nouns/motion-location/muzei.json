@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-MUZEI",
+    "label": "Музей",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for музей (museum).",
+    "missions": [
+      {
+        "id": "NN-MOTION-MUZEI-01",
+        "phrase": "Здесь находится старый музей.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Музей' is the masculine nominative subject of 'находится'. 'Старый' is the agreeing masculine adjective, and 'здесь' marks the place. A basic way to point out a building."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-02",
+        "phrase": "Завтра мы пойдём в музей.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'В музей' uses the accusative 'музей' after 'в' to mark motion toward. 'Пойдём' is the future of motion, and 'завтра' sets the time. The key go-somewhere pattern."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-03",
+        "phrase": "Мы были в музее весь день.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В музее' uses the prepositional 'музее' after 'в' to mark static location. 'Весь день' expresses duration in the accusative. Contrast with the motion form музей."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-04",
+        "phrase": "Мы вышли из музея поздно.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. The preposition 'из' takes the genitive 'музея' to mark motion out of. 'Поздно' adds the time. The natural counterpart to entering."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-05",
+        "phrase": "Вход в музей очень дорогой.",
+        "fullAnalysis": "Strategic focus: Accusative within a phrase. 'В музей' uses the accusative 'музей' inside 'вход в музей', the entry to the museum. 'Дорогой' agrees with the masculine 'вход'. Common for tickets and prices."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-06",
+        "phrase": "Около музея большая площадь.",
+        "fullAnalysis": "Strategic focus: Genitive after 'около'. The preposition 'около' takes the genitive 'музея' to mean near the museum. 'Большая' agrees with the feminine 'площадь'. Useful for describing surroundings."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-07",
+        "phrase": "Этот музей известен во всём мире.",
+        "fullAnalysis": "Strategic focus: Nominative subject with short adjective. 'Музей' is the nominative subject, and 'известен' is a short masculine adjective agreeing with it. 'Во всём мире' is a prepositional phrase. Good for reputation."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-08",
+        "phrase": "В городе много интересных музеев.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Много' governs the genitive plural 'музеев'. 'Интересных' agrees in the genitive plural, and 'в городе' gives location. Practises counting things."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-09",
+        "phrase": "Я подошёл к музею пешком.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. The preposition 'к' takes the dative 'музею' to mark approach toward. 'Пешком' is an adverb of manner. The standard approach-something frame."
+      },
+      {
+        "id": "NN-MOTION-MUZEI-10",
+        "phrase": "Я восхищаюсь этим музеем.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Восхищаться' governs the instrumental 'музеем' to express admiration. 'Этим' agrees in the masculine instrumental. A verb that always demands this case."
+      }
+    ]
+  }
+]

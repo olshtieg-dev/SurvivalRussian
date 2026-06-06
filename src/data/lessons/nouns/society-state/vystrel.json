@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-VYSTREL",
+    "label": "Выстрел",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for выстрел (shot).",
+    "missions": [
+      {
+        "id": "NN-STATE-VYSTREL-01",
+        "phrase": "Громкий выстрел разбудил всех.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Выстрел' is a masculine noun and stays in the nominative as the subject of 'разбудил'. 'Громкий' agrees in the masculine, describing the loud shot."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-02",
+        "phrase": "Я услышал далёкий выстрел.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Выстрел' is the accusative direct object of 'услышал'. As an inanimate masculine noun its accusative matches the nominative, and 'далёкий' agrees in the masculine."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-03",
+        "phrase": "После выстрела наступила тишина.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'после'. 'Выстрела' is the genitive singular required by the preposition 'после', marking what came before the silence. 'Тишина' is the subject."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-04",
+        "phrase": "Все обернулись к выстрелу.",
+        "fullAnalysis": "Strategic focus: Dative singular target. 'Выстрелу' is the dative singular after the preposition 'к', marking the direction everyone turned toward. The subject 'все' stays nominative."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-05",
+        "phrase": "В этом выстреле было что-то странное.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Выстреле' is the prepositional singular after 'в', marking in what the strangeness lay. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-06",
+        "phrase": "Он был ранен одним выстрелом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular of means. 'Выстрелом' is the instrumental singular marking the means of the wound. 'Одним' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-07",
+        "phrase": "Раздались два громких выстрела.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Выстрела' takes the genitive singular after 'два', the form numerals two through four require. 'Громких' agrees in that count form."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-08",
+        "phrase": "Ночью было слышно несколько выстрелов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Выстрелов' is the genitive plural required by the quantifier 'несколько'. 'Ночью' is instrumental, marking the time."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-09",
+        "phrase": "Эти выстрелы напугали жителей.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Выстрелы' is the nominative plural subject of 'напугали', which agrees in the plural. 'Эти' points to the specific shots."
+      },
+      {
+        "id": "NN-STATE-VYSTREL-10",
+        "phrase": "Солдаты ответили частыми выстрелами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of means. 'Выстрелами' is the instrumental plural marking how the soldiers answered. 'Частыми' agrees in the instrumental plural."
+      }
+    ]
+  }
+]

@@ -1,3 +1,4 @@
+import babkaSet from './babka.json';
 import babushkaSet from './babushka.json';
 import bratSet from './brat.json';
 import dedSet from './ded.json';
@@ -12,6 +13,7 @@ import papaSet from './papa.json';
 import rebyonokSet from './rebyonok.json';
 import rodSet from './rod.json';
 import roditelSet from './roditel.json';
+import rodstvennikSet from './rodstvennik.json';
 import semyaSet from './semya.json';
 import sestraSet from './sestra.json';
 import starukhaSet from './starukha.json';
@@ -21,6 +23,7 @@ import zhenaSet from './zhena.json';
 
 export const familyNounsFolderId = 'nouns-family';
 const familyNounsData = [
+  ...babkaSet,
   ...babushkaSet,
   ...bratSet,
   ...dedSet,
@@ -35,6 +38,7 @@ const familyNounsData = [
   ...rebyonokSet,
   ...rodSet,
   ...roditelSet,
+  ...rodstvennikSet,
   ...semyaSet,
   ...sestraSet,
   ...starukhaSet,

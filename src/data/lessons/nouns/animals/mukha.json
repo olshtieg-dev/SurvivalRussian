@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-MUKHA",
+    "label": "Муха",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for муха (fly).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-MUKHA-01",
+        "phrase": "На окне сидит большая муха.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Муха' stays in the nominative as the subject of 'сидит'. 'Большая' is the agreeing feminine adjective, and 'на окне' gives the location."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-02",
+        "phrase": "Я никак не поймаю эту муху.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Муху' is the accusative object of 'поймаю'; the feminine ending is regular -у. 'Эту' agrees, and 'никак не' adds frustration."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-03",
+        "phrase": "В комнате нет ни одной мухи.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Мухи' takes the genitive after 'нет' to express what is missing. 'Ни одной' agrees in the feminine genitive, stressing not a single fly."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-04",
+        "phrase": "Лягушка подкралась к мухе.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Мухе' is in the dative case after 'к', marking the target of approach. 'Лягушка' is the nominative subject of 'подкралась'."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-05",
+        "phrase": "Паук охотится за мухой.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Мухой' takes the instrumental case after 'за' in the sense of hunting after prey. 'Паук' is the nominative subject."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-06",
+        "phrase": "Мы говорили о надоедливой мухе.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'Мухе' is in the prepositional case after 'о' to mark the topic. 'Надоедливой' agrees in the feminine prepositional, describing the annoying fly."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-07",
+        "phrase": "Муха села мальчику на нос.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative possessor. 'Муха' is the nominative subject of 'села', 'мальчику' is the dative, and 'на нос' is accusative with motion onto the nose."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-08",
+        "phrase": "Летом по дому летают мухи.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мухи' is the nominative plural subject of 'летают'. 'Летом' is instrumental, giving the season, and 'по дому' is dative."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-09",
+        "phrase": "Я ненавижу назойливых мух.",
+        "fullAnalysis": "Strategic focus: Genitive plural for animate accusative. The animate plural object takes the genitive 'мух' after 'ненавижу'. 'Назойливых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-ANIMAL-MUKHA-10",
+        "phrase": "В саду полно мелких мух.",
+        "fullAnalysis": "Strategic focus: Genitive plural after полно. 'Мух' takes the genitive plural after 'полно' to express abundance. 'Мелких' agrees in the genitive plural, describing the tiny flies."
+      }
+    ]
+  }
+]

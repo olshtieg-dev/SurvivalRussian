@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-OSNOVA",
+    "label": "Основа",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for основа (foundation).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-OSNOVA-01",
+        "phrase": "Это прочная основа для бизнеса.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Основа' is the nominative predicate noun. 'Прочная' is the agreeing feminine adjective, and 'для бизнеса' adds a genitive purpose phrase."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-02",
+        "phrase": "Доверие создаёт основу отношений.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Основу' is the accusative direct object of 'создаёт'; the feminine ending -а shifts to -у. 'Отношений' is a genitive plural specifying the foundation of what."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-03",
+        "phrase": "У этой теории нет основы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'основы'. 'У этой теории' is a genitive possession frame, a clean model for negating existence."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-04",
+        "phrase": "Мы вернулись к основе проекта.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' governs the dative, giving 'основе'. 'Проекта' is a genitive specifying which foundation, a natural planning phrase."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-05",
+        "phrase": "Здание держится на крепкой основе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'на' the noun takes the prepositional 'основе'. 'Крепкой' is the agreeing feminine prepositional adjective describing the base."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-06",
+        "phrase": "Работа построена прочной основой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Основой' is the instrumental describing what the work is built with. 'Прочной' is the agreeing feminine instrumental adjective."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-07",
+        "phrase": "Знания лежат в основе успеха.",
+        "fullAnalysis": "Strategic focus: Prepositional in a fixed phrase. The idiom 'в основе' uses the prepositional 'основе' to mean at the heart of. 'Успеха' is a genitive completing the expression."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-08",
+        "phrase": "Эти основы изучают в школе.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Основы' is the accusative plural object of 'изучают'; this inanimate feminine plural matches the nominative form. The plural means fundamentals."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-09",
+        "phrase": "Основы математики очень важны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Основы' is the nominative plural subject of the sentence. 'Математики' is a genitive specifying the fundamentals of what, and 'важны' agrees in the plural."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVA-10",
+        "phrase": "Книга стала основой нашей работы.",
+        "fullAnalysis": "Strategic focus: Instrumental after стать. The verb 'стать' requires the instrumental, giving 'основой'. 'Нашей работы' is a genitive phrase showing the foundation of what."
+      }
+    ]
+  }
+]

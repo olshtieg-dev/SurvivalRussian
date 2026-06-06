@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-GAZ",
+    "label": "Газ",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for газ (gas).",
+    "missions": [
+      {
+        "id": "NN-NATURE-GAZ-01",
+        "phrase": "Природный газ сейчас очень дорогой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Газ' is the masculine nominative subject. 'Природный' and 'дорогой' are masculine adjectives agreeing with it. A natural way to talk about resources and prices."
+      },
+      {
+        "id": "NN-NATURE-GAZ-02",
+        "phrase": "Мы используем газ для отопления.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Газ' is the accusative direct object of 'используем'; inanimate masculine nouns match the nominative. 'Для отопления' is a genitive purpose phrase. Useful for utilities."
+      },
+      {
+        "id": "NN-NATURE-GAZ-03",
+        "phrase": "В доме нет газа уже неделю.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'газа'. 'Уже неделю' marks the accusative of duration. The standard frame for something missing."
+      },
+      {
+        "id": "NN-NATURE-GAZ-04",
+        "phrase": "В квартире сильно пахнет газом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'пахнуть'. The verb 'пахнуть' takes the instrumental 'газом' to express a smell of something. 'Сильно' intensifies it. A practical warning sentence."
+      },
+      {
+        "id": "NN-NATURE-GAZ-05",
+        "phrase": "Цена на газ снова выросла.",
+        "fullAnalysis": "Strategic focus: Accusative after 'на'. 'На газ' uses the accusative 'газ' after 'на' in the fixed phrase цена на. 'Цена' is the feminine nominative subject, and 'выросла' agrees with it. Common in news."
+      },
+      {
+        "id": "NN-NATURE-GAZ-06",
+        "phrase": "Завод работает на газе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На газе' uses the prepositional 'газе' after 'на' to say what fuel powers something. 'Завод' is the masculine nominative subject. Useful for energy talk."
+      },
+      {
+        "id": "NN-NATURE-GAZ-07",
+        "phrase": "Эта страна богата газом.",
+        "fullAnalysis": "Strategic focus: Instrumental after a short adjective. 'Богата' governs the instrumental 'газом' to express being rich in something. 'Эта страна' is the feminine nominative subject. A reusable resource pattern."
+      },
+      {
+        "id": "NN-NATURE-GAZ-08",
+        "phrase": "Без газа невозможно приготовить ужин.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. The preposition 'без' takes the genitive 'газа' to mean without it. The impersonal 'невозможно' frames the difficulty. A practical everyday sentence."
+      },
+      {
+        "id": "NN-NATURE-GAZ-09",
+        "phrase": "Мы платим за газ каждый месяц.",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. 'За газ' uses the accusative 'газ' after 'за' to mean paying for it. 'Каждый месяц' is an accusative time phrase. The core paying-for-something pattern."
+      },
+      {
+        "id": "NN-NATURE-GAZ-10",
+        "phrase": "Воздух состоит из разных газов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'из'. The verb 'состоять из' takes the genitive plural 'газов' to mean consisting of them. 'Разных' agrees in the genitive plural. Practises plural composition."
+      }
+    ]
+  }
+]

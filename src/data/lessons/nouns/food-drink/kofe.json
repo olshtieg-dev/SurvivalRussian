@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-KOFE",
+    "label": "Кофе",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for кофе (coffee).",
+    "missions": [
+      {
+        "id": "NN-FOOD-KOFE-01",
+        "phrase": "Этот кофе очень горячий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кофе' is an indeclinable masculine noun in the nominative. 'Этот' and 'горячий' are masculine, confirming the gender despite the fixed form."
+      },
+      {
+        "id": "NN-FOOD-KOFE-02",
+        "phrase": "Я пью кофе каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кофе' is the accusative object of 'пью' but stays indeclinable. 'Каждое утро' is the accusative time phrase."
+      },
+      {
+        "id": "NN-FOOD-KOFE-03",
+        "phrase": "В кофе слишком много сахара.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В кофе' uses the preposition 'в' to locate the contents, though 'кофе' does not change form. 'Сахара' is genitive after 'много'."
+      },
+      {
+        "id": "NN-FOOD-KOFE-04",
+        "phrase": "У нас сегодня нет кофе.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Кофе' is the genitive after 'нет', identical in form because the word is indeclinable. The frame shows there is none today."
+      },
+      {
+        "id": "NN-FOOD-KOFE-05",
+        "phrase": "Я отказался от кофе вечером.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От кофе' takes the genitive after 'от' to mean refusing the coffee, with the form unchanged. 'Вечером' is the instrumental time word."
+      },
+      {
+        "id": "NN-FOOD-KOFE-06",
+        "phrase": "Я добавил молоко в кофе.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В кофе' uses the accusative after 'в' to show adding into the coffee. 'Молоко' is the accusative object of 'добавил'."
+      },
+      {
+        "id": "NN-FOOD-KOFE-07",
+        "phrase": "Благодаря кофе я не сплю.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Благодаря кофе' uses the dative after 'благодаря', with the form fixed. The clause explains why the speaker stays awake."
+      },
+      {
+        "id": "NN-FOOD-KOFE-08",
+        "phrase": "Я наслаждаюсь утренним кофе.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Кофе' is the instrumental required by 'наслаждаюсь', unchanged in form. 'Утренним' is the masculine instrumental adjective marking the case."
+      },
+      {
+        "id": "NN-FOOD-KOFE-09",
+        "phrase": "Два кофе, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Counting an indeclinable noun. 'Кофе' follows 'два' but cannot change form, so the number alone signals quantity. A common everyday order at a counter."
+      },
+      {
+        "id": "NN-FOOD-KOFE-10",
+        "phrase": "Здесь готовят прекрасный кофе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кофе' is the accusative object of 'готовят', indeclinable as always. 'Прекрасный' is the masculine adjective, and 'здесь' gives the place."
+      }
+    ]
+  }
+]

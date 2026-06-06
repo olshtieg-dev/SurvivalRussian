@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-RUBASHKA",
+    "label": "Рубашка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for рубашка (shirt).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-01",
+        "phrase": "Это новая белая рубашка.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Рубашка' stays in the nominative as the predicate noun. 'Новая' and 'белая' are feminine adjectives agreeing with it. A clean way to name and describe clothing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-02",
+        "phrase": "Я купил красивую рубашку вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рубашку' is the accusative direct object of 'купил'. 'Красивую' agrees in the feminine accusative, and 'вчера' sets the time. The core pattern for buying things."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-03",
+        "phrase": "У меня нет чистой рубашки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'рубашки'. 'Чистой' agrees in the feminine genitive. The standard frame for saying you lack something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-04",
+        "phrase": "На рубашке большое пятно.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На рубашке' uses the prepositional form 'рубашке' after 'на' to mark where the stain is. 'Большое' agrees with the neuter noun 'пятно'. Useful for describing surfaces."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-05",
+        "phrase": "Пуговица оторвалась от рубашки.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. The preposition 'от' takes the genitive 'рубашки' to mark the source. 'Пуговица' is the nominative subject that came off. Handy for talking about damage."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-06",
+        "phrase": "Он пришёл в синей рубашке.",
+        "fullAnalysis": "Strategic focus: Prepositional of attire. 'В синей рубашке' uses the prepositional 'рубашке' after 'в' to describe what someone is wearing. 'Синей' agrees in the feminine prepositional. A natural clothing pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-07",
+        "phrase": "Я подарил брату тёплую рубашку.",
+        "fullAnalysis": "Strategic focus: Accusative gift with dative recipient. 'Рубашку' is the accusative object given, while 'брату' is the dative recipient. 'Тёплую' agrees in the feminine accusative. Models giving with two roles."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-08",
+        "phrase": "В шкафу висят чистые рубашки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Рубашки' is the nominative plural subject of 'висят'. 'Чистые' is the agreeing plural adjective, and 'в шкафу' gives the location. Practises plural agreement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-09",
+        "phrase": "Я глажу рубашку утром.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Рубашку' is the accusative object of 'глажу'. 'Утром' is an adverbial of time in the instrumental. A typical everyday routine sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUBASHKA-10",
+        "phrase": "Что ты сделал с рубашкой?",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'С рубашкой' uses the instrumental 'рубашкой' after 'с' to mean what was done with the shirt. 'Что' is the interrogative object. A common reproachful question."
+      }
+    ]
+  }
+]

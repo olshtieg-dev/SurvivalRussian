@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-MILITSIONER",
+    "label": "Милиционер",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for милиционер (policeman).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-MILITSIONER-01",
+        "phrase": "Милиционер стоит на углу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Милиционер' is masculine nominative as the subject of 'стоит'. 'На углу' is the prepositional location showing where he stands."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-02",
+        "phrase": "Я увидел знакомого милиционера.",
+        "fullAnalysis": "Strategic focus: Accusative equals genitive for animate masculine. 'Милиционера' takes the genitive-form accusative because the noun is animate masculine. 'Знакомого' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-03",
+        "phrase": "Мы спросили о милиционере.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О милиционере' uses the prepositional ending after 'о' to mean about the policeman. 'Спросили' marks the act of asking."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-04",
+        "phrase": "На улице нет ни одного милиционера.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Милиционера' is the genitive after 'нет', and 'ни одного' reinforces the total absence. 'На улице' gives the place."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-05",
+        "phrase": "Я получил совет от милиционера.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От милиционера' takes the genitive after 'от' to mean from the policeman. 'Совет' is the accusative object received."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-06",
+        "phrase": "Я подошёл к милиционеру за помощью.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К милиционеру' uses the dative after 'к' to mean toward the policeman. 'За помощью' is the instrumental purpose phrase."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-07",
+        "phrase": "Я дал милиционеру свои документы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Милиционеру' is the dative marking who receives the documents. 'Свои документы' is the accusative object of 'дал'."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-08",
+        "phrase": "Я разговаривал с молодым милиционером.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'С милиционером' uses the instrumental after 'с' to mean talking with the policeman. 'Молодым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-09",
+        "phrase": "На площади дежурят милиционеры.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Милиционеры' is the nominative plural subject of 'дежурят'. 'На площади' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-MILITSIONER-10",
+        "phrase": "Я знаю нескольких милиционеров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Милиционеров' is the genitive plural after 'нескольких', the animate accusative plural matching the genitive. The verb 'знаю' takes them as object."
+      }
+    ]
+  }
+]

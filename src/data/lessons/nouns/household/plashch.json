@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PLASHCH",
+    "label": "Плащ",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for плащ (raincoat).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-01",
+        "phrase": "Этот плащ очень тёплый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Плащ' is a masculine noun standing in the nominative case as the subject. 'Этот' is the agreeing masculine demonstrative, and 'тёплый' is the predicate adjective describing it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-02",
+        "phrase": "Я надеваю плащ перед выходом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Плащ' is the accusative direct object of 'надеваю'. Because it is an inanimate masculine noun, the accusative looks identical to the nominative. A natural getting-ready phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-03",
+        "phrase": "У меня нет плаща.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Плаща' is the genitive form required after 'нет'. The hushing stem takes the ending -а, and the whole phrase expresses absence of possession."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-04",
+        "phrase": "Карман у этого плаща порвался.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Плаща' is genitive showing possession, with 'у этого' marking whose pocket it is. 'Карман' is the nominative subject, and 'порвался' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-05",
+        "phrase": "Я пришил пуговицу к плащу.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Плащу' is the dative form after the preposition 'к', expressing motion toward or attachment. 'Пуговицу' is the accusative object of 'пришил'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-06",
+        "phrase": "Под плащом я спрятал зонт.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'под'. 'Плащом' is the instrumental form after 'под' to mean underneath. The hushing stem takes -ом, and 'зонт' is the accusative object of 'спрятал'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-07",
+        "phrase": "В плаще тепло даже в дождь.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В плаще' uses the prepositional form 'плаще' after 'в' to mean inside or wearing the garment. A practical phrase about staying dry."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-08",
+        "phrase": "В шкафу висят два плаща.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the masculine noun takes the genitive singular 'плаща'. 'В шкафу' is the prepositional location, and 'висят' is the plural verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-09",
+        "phrase": "В магазине продают красивые плащи.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Плащи' is the nominative-accusative plural of this inanimate noun, the object of 'продают'. 'Красивые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PLASHCH-10",
+        "phrase": "Мне нравится твой новый плащ.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative experiencer. 'Плащ' is nominative, the thing that pleases. 'Мне' is the dative experiencer, and 'нравится' agrees with the singular noun."
+      }
+    ]
+  }
+]

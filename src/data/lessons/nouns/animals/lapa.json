@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-LAPA",
+    "label": "Лапа",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for лапа (paw).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-LAPA-01",
+        "phrase": "У собаки большая мягкая лапа.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лапа' stays in the nominative as the subject. 'Большая' and 'мягкая' are agreeing feminine adjectives describing the paw."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-02",
+        "phrase": "Кот поднял переднюю лапу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лапу' is the accusative direct object of 'поднял'. The feminine ending -а shifts to -у in the accusative. 'Переднюю' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-03",
+        "phrase": "У этой кошки нет лапы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Лапы' takes the genitive after 'нет' to express that a paw is missing. The feminine genitive singular ends in -ы."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-04",
+        "phrase": "Врач осмотрел рану на лапе.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Лапе' takes the prepositional after 'на' to show where the wound is. The feminine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-05",
+        "phrase": "Собака машет лапой при встрече.",
+        "fullAnalysis": "Strategic focus: Instrumental as means. 'Лапой' takes the instrumental, the case of the body part doing the waving. The feminine instrumental singular ends in -ой."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-06",
+        "phrase": "Ребёнок тянется к мягкой лапе.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Лапе' takes the dative after 'к', showing movement toward the paw. The feminine dative singular ends in -е. 'Мягкой' agrees."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-07",
+        "phrase": "У медведя сильные передние лапы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Лапы' is the nominative plural subject. 'Сильные' and 'передние' agree in the plural, describing the bear's front paws."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-08",
+        "phrase": "Кошка спрятала когти в лапах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Лапах' takes the prepositional plural after 'в' to show where the claws are hidden. The plural ends in -ах."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-09",
+        "phrase": "Собака пожала мне лапу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лапу' is the accusative direct object of 'пожала', the playful idiom for shaking paws. 'Мне' marks the recipient of the gesture."
+      },
+      {
+        "id": "NN-ANIMAL-LAPA-10",
+        "phrase": "Без одной лапы птица не летает.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Лапы' takes the genitive after 'без' to express absence. 'Одной' agrees in the feminine genitive."
+      }
+    ]
+  }
+]

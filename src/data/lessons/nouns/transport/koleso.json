@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-KOLESO",
+    "label": "Колесо",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for колесо (wheel).",
+    "missions": [
+      {
+        "id": "NN-TRANS-KOLESO-01",
+        "phrase": "Переднее колесо совсем спустило.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Колесо' is neuter and stays in the nominative as the subject. 'Переднее' is the agreeing neuter adjective, and 'спустило' is the past-tense verb."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-02",
+        "phrase": "Водитель быстро поменял колесо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Колесо' is the neuter accusative direct object of 'поменял', identical to the nominative. 'Водитель' is the subject and 'быстро' an adverb."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-03",
+        "phrase": "У этого колеса нет давления.",
+        "fullAnalysis": "Strategic focus: Genitive after у. 'Колеса' is the genitive form in the possession frame 'у'. 'Этого' agrees in the genitive, and 'нет давления' expresses absence."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-04",
+        "phrase": "Мы подкатили мяч к колесу.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Колесу' is the dative form governed by 'к' to express movement toward. 'Мяч' is the accusative object, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-05",
+        "phrase": "Под колесом лежит острый камень.",
+        "fullAnalysis": "Strategic focus: Instrumental after под. 'Колесом' is the instrumental form required by 'под' to mark position beneath. 'Камень' is the nominative subject and 'острый' agrees with it."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-06",
+        "phrase": "На колесе видна большая трещина.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Колесе' is the prepositional form after 'на' to mark where the crack is. 'Трещина' is the nominative subject and 'видна' a short adjective."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-07",
+        "phrase": "Все четыре колеса нужно заменить.",
+        "fullAnalysis": "Strategic focus: Nominative plural with numeral. 'Колеса' takes the genitive singular form after 'четыре', a numeral quirk, while 'все четыре колеса' functions as the subject of the obligation 'нужно заменить'."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-08",
+        "phrase": "Без колеса машина не поедет.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Колеса' is the genitive form required by 'без' to express absence. 'Машина' is the nominative subject of 'не поедет'."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-09",
+        "phrase": "Зимние колёса хранятся в гараже.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Колёса' is the irregular nominative plural subject of 'хранятся'. 'Зимние' agrees in the plural, and 'в гараже' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-TRANS-KOLESO-10",
+        "phrase": "Мастер крутит колесо рукой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Колесо' is the neuter accusative direct object of 'крутит', identical to the nominative. 'Рукой' is instrumental of means, and 'мастер' is the subject."
+      }
+    ]
+  }
+]

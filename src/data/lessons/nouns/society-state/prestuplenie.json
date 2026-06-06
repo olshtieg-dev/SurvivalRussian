@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-PRESTUPLENIE",
+    "label": "Преступление",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for преступление (crime).",
+    "missions": [
+      {
+        "id": "NN-STATE-PRESTUPLENIE-01",
+        "phrase": "Это очень серьёзное преступление.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Преступление' is a neuter noun in the nominative case as the predicate noun. 'Серьёзное' is the agreeing neuter adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-02",
+        "phrase": "Полиция расследует это преступление.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Преступление' is the accusative direct object of 'расследует'. Neuter nouns keep the same form in the accusative, and 'это' agrees in the neuter."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-03",
+        "phrase": "У этого преступления нет свидетелей.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Преступления' is the genitive form showing whose witnesses are meant. 'Этого' agrees in the neuter genitive, and 'нет' takes the genitive 'свидетелей'."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-04",
+        "phrase": "К преступлению привели жадность и страх.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Преступлению' is the dative form after 'к', expressing what the causes led to. 'Жадность' and 'страх' are the nominative subjects."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-05",
+        "phrase": "Над этим преступлением работают следователи.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Преступлением' is the instrumental form after 'над' meaning working on something. 'Этим' agrees in the neuter, and 'следователи' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-06",
+        "phrase": "В этом преступлении замешан банк.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В преступлении' uses the prepositional form 'преступлении' after 'в' to mark involvement. 'Банк' is the nominative subject, and 'замешан' is a short participle."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-07",
+        "phrase": "Его обвинили в тяжком преступлении.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'в'. 'Преступлении' is the prepositional form after 'в' used with accusation verbs. 'Тяжком' is the agreeing neuter prepositional adjective."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-08",
+        "phrase": "В городе раскрыли много преступлений.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After 'много' the noun takes the genitive plural 'преступлений', a zero-ending form ending in -ий for neuter nouns in -ие. 'В городе' is the location."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-09",
+        "phrase": "Все эти преступления связаны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Преступления' is the nominative plural subject. 'Все' and 'эти' agree in the plural, and 'связаны' is the short participle agreeing in number."
+      },
+      {
+        "id": "NN-STATE-PRESTUPLENIE-10",
+        "phrase": "Преступление было совершено ночью.",
+        "fullAnalysis": "Strategic focus: Nominative subject of a passive. 'Преступление' is the nominative subject of the passive 'было совершено'. The participle agrees in the neuter, and 'ночью' is an instrumental time adverb."
+      }
+    ]
+  }
+]

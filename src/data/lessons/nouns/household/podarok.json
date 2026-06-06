@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PODAROK",
+    "label": "Подарок",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for подарок (gift).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-01",
+        "phrase": "Этот подарок очень красивый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Подарок' stays in the nominative as the subject of the sentence. 'Этот' is the agreeing masculine demonstrative, and 'красивый' is the agreeing masculine adjective describing the gift."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-02",
+        "phrase": "Я купил подарок для мамы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Подарок' is the accusative direct object of 'купил'; this inanimate masculine noun looks identical to the nominative. 'Для мамы' adds the recipient in the genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-03",
+        "phrase": "У меня нет подарка для тебя.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'подарка', dropping the fleeting vowel о from подарок. This is the standard negation-of-existence pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-04",
+        "phrase": "Она радуется новому подарку.",
+        "fullAnalysis": "Strategic focus: Dative after радоваться. The verb 'радоваться' governs the dative, so the noun becomes 'подарку' and the adjective 'новому' agrees in the masculine dative. A common emotion-plus-object frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-05",
+        "phrase": "Он доволен своим подарком.",
+        "fullAnalysis": "Strategic focus: Instrumental after доволен. The short adjective 'доволен' requires the instrumental, giving 'подарком'. 'Своим' is the agreeing masculine instrumental possessive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-06",
+        "phrase": "Мы говорили о подарке весь вечер.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'о' the noun takes the prepositional form 'подарке'. The phrase 'весь вечер' adds duration, a natural pattern for discussing something."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-07",
+        "phrase": "Дети получили много подарков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. The quantity word 'много' requires the genitive plural 'подарков'. The plural stem keeps the fleeting vowel pattern in the singular but adds -ов here."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-08",
+        "phrase": "Под ёлкой лежат красивые подарки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Подарки' is the nominative plural, the subject of 'лежат'. 'Красивые' is the agreeing plural adjective, and 'под ёлкой' is an instrumental location phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-09",
+        "phrase": "Спасибо тебе за подарок!",
+        "fullAnalysis": "Strategic focus: Accusative after за. The preposition 'за' with the meaning of thanks takes the accusative 'подарок'. This is the fixed everyday formula for expressing gratitude for a gift."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODAROK-10",
+        "phrase": "Это лучший подарок в моей жизни.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Подарок' is the nominative predicate noun. 'Лучший' is the agreeing superlative adjective, and 'в моей жизни' adds the prepositional setting."
+      }
+    ]
+  }
+]

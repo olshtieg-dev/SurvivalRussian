@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-GORE",
+    "label": "Горе",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for горе (grief).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-GORE-01",
+        "phrase": "Их постигло большое горе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Горе' is the neuter nominative subject of 'постигло'. 'Большое' is the agreeing neuter adjective, and 'их' is the accusative object."
+      },
+      {
+        "id": "NN-EMOTION-GORE-02",
+        "phrase": "Она пережила страшное горе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Горе' is the accusative direct object of 'пережила'; for this neuter noun the accusative matches the nominative. 'Страшное' agrees in the neuter."
+      },
+      {
+        "id": "NN-EMOTION-GORE-03",
+        "phrase": "От горя она не могла говорить.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Горя' takes the genitive after 'от' to express the cause of a state. The phrase shows grief preventing her from speaking."
+      },
+      {
+        "id": "NN-EMOTION-GORE-04",
+        "phrase": "Мы сочувствуем их горю.",
+        "fullAnalysis": "Strategic focus: Dative after сочувствовать. 'Горю' is in the dative case as the object of 'сочувствуем', which governs the dative. 'Их' marks whose grief it is."
+      },
+      {
+        "id": "NN-EMOTION-GORE-05",
+        "phrase": "Она была убита горем.",
+        "fullAnalysis": "Strategic focus: Instrumental of cause. 'Горем' takes the instrumental case to express the agent of the state 'убита'. The phrase means she was overcome by grief."
+      },
+      {
+        "id": "NN-EMOTION-GORE-06",
+        "phrase": "В её горе мы не одиноки.",
+        "fullAnalysis": "Strategic focus: Prepositional after в. 'Горе' is in the prepositional case after 'в' to mark the situation shared. 'Её' shows whose grief, and 'мы' is nominative."
+      },
+      {
+        "id": "NN-EMOTION-GORE-07",
+        "phrase": "Горе сблизило всю семью.",
+        "fullAnalysis": "Strategic focus: Nominative subject with accusative object. 'Горе' is the neuter nominative subject of 'сблизило', and 'всю семью' is the accusative object brought together."
+      },
+      {
+        "id": "NN-EMOTION-GORE-08",
+        "phrase": "Сколько горя пережил этот народ!",
+        "fullAnalysis": "Strategic focus: Genitive after сколько. 'Горя' takes the genitive after the quantity word 'сколько'. 'Этот народ' is the nominative subject of 'пережил'."
+      },
+      {
+        "id": "NN-EMOTION-GORE-09",
+        "phrase": "Война принесла людям много горя.",
+        "fullAnalysis": "Strategic focus: Genitive after много. 'Горя' takes the genitive after 'много' to express a great amount. 'Война' is nominative, and 'людям' is the dative recipient."
+      },
+      {
+        "id": "NN-EMOTION-GORE-10",
+        "phrase": "Время лечит любое горе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Горе' is the accusative direct object of 'лечит'; the neuter accusative matches the nominative. 'Любое' agrees, and 'время' is the nominative subject."
+      }
+    ]
+  }
+]

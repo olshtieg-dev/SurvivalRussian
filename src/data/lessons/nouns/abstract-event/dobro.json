@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-DOBRO",
+    "label": "Добро",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for добро (good).",
+    "missions": [
+      {
+        "id": "NN-EVENT-DOBRO-01",
+        "phrase": "Добро всегда побеждает зло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Добро' is a neuter noun staying in the nominative as the subject of 'побеждает'. 'Зло' is its accusative object, identical in form for this neuter noun."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-02",
+        "phrase": "Он делает добро людям.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Добро' is the accusative object of 'делает'; neuter nouns keep the same form in the accusative. 'Людям' is a dative plural recipient."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-03",
+        "phrase": "В мире не хватает добра.",
+        "fullAnalysis": "Strategic focus: Genitive after хватать. The impersonal 'не хватает' governs the genitive 'добра'. 'В мире' is a prepositional location setting the scene."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-04",
+        "phrase": "Мы стремимся к добру.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' governs the dative, giving 'добру'. The verb 'стремиться к' expresses striving toward an ideal."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-05",
+        "phrase": "Мир держится на добре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'на' the noun takes the prepositional 'добре'. The phrase expresses that the world rests on goodness."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-06",
+        "phrase": "Она отвечает добром на зло.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Добром' is the instrumental describing what she responds with. 'На зло' is an accusative phrase, forming a vivid proverb-like contrast."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-07",
+        "phrase": "Это добро запомнится надолго.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Добро' is the nominative subject of 'запомнится'. 'Это' is the agreeing neuter demonstrative, and 'надолго' adds duration."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-08",
+        "phrase": "Желаю тебе только добра.",
+        "fullAnalysis": "Strategic focus: Genitive after желать. The verb 'желать' governs the genitive, giving 'добра'. 'Тебе' is a dative recipient, forming a common well-wishing phrase."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-09",
+        "phrase": "Люди ценят добро и честность.",
+        "fullAnalysis": "Strategic focus: Accusative coordination. 'Добро' is the accusative object of 'ценят', joined by 'и' to a second noun 'честность'. Both name abstract virtues people value."
+      },
+      {
+        "id": "NN-EVENT-DOBRO-10",
+        "phrase": "Бабушка хранит старое добро в сундуке.",
+        "fullAnalysis": "Strategic focus: Accusative in the sense of belongings. Here 'добро' as the accusative object means possessions rather than virtue. 'В сундуке' is a prepositional location, showing the noun's second meaning."
+      }
+    ]
+  }
+]

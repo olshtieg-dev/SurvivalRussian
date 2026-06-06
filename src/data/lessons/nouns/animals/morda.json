@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-MORDA",
+    "label": "Морда",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for морда (muzzle).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-MORDA-01",
+        "phrase": "У собаки добрая морда.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Морда' is feminine nominative as the subject. 'Добрая' is the agreeing feminine adjective, and 'у собаки' shows whose muzzle it is."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-02",
+        "phrase": "Кот спрятал морду в лапы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Морду' is the feminine accusative object of 'спрятал'. 'В лапы' is the accusative direction phrase showing where it hid."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-03",
+        "phrase": "На морде кота белое пятно.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На морде' uses the prepositional ending after 'на' to locate the spot. 'Белое пятно' is the nominative subject of the sentence."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-04",
+        "phrase": "У этой лошади нет морды.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Морды' is the genitive after 'нет' in this playful statement. 'Этой лошади' is the genitive frame showing whose."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-05",
+        "phrase": "Снег падал с морды медведя.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'С морды' takes the genitive after 'с' to show snow falling off the muzzle. 'Медведя' is genitive meaning of the bear."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-06",
+        "phrase": "Я смотрю собаке прямо в морду.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В морду' uses the accusative after 'в' to show looking into the muzzle. 'Собаке' is the dative complement of 'смотрю'."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-07",
+        "phrase": "К морде коня прилипла трава.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К морде' uses the dative after 'к' to mean against the muzzle. 'Трава' is the nominative subject that stuck."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-08",
+        "phrase": "Перед мордой пса лежала кость.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Перед мордой' uses the instrumental after 'перед' to mean in front of the muzzle. 'Кость' is the nominative subject."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-09",
+        "phrase": "У щенков смешные мордочки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мордочки' is the nominative plural diminutive as the subject. 'Смешные' agrees, and 'у щенков' shows whose little faces."
+      },
+      {
+        "id": "NN-ANIMAL-MORDA-10",
+        "phrase": "На фото несколько собачьих морд.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Морд' is the genitive plural required after 'несколько'. 'Собачьих' agrees, and 'на фото' gives the place."
+      }
+    ]
+  }
+]

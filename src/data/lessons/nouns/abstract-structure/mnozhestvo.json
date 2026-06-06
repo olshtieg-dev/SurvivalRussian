@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-MNOZHESTVO",
+    "label": "Множество",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for множество (multitude).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-01",
+        "phrase": "Здесь огромное множество звёзд.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Множество' is the neuter nominative subject. 'Огромное' is the agreeing neuter adjective, and 'звёзд' is a genitive plural it quantifies. A natural way to express a great number."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-02",
+        "phrase": "Он задал множество вопросов.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Множество' is the accusative direct object of 'задал'; neuter nouns match the nominative. 'Вопросов' is the genitive plural that it counts. A common quantity pattern."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-03",
+        "phrase": "Из множества вариантов выбрали один.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. The preposition 'из' takes the genitive 'множества' to mean out of the set. 'Вариантов' is a dependent genitive plural. Useful for selection language."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-04",
+        "phrase": "В тексте множество ошибок.",
+        "fullAnalysis": "Strategic focus: Nominative subject quantifying. 'Множество' is the nominative subject, governing the genitive plural 'ошибок'. 'В тексте' gives the location. A clean quantity-statement frame."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-05",
+        "phrase": "Программа работает с множеством данных.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'С множеством' uses the instrumental 'множеством' after 'с' to mean working with a large amount. 'Данных' is a dependent genitive plural. Useful for technical talk."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-06",
+        "phrase": "Благодаря множеству друзей ему помогли.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. The preposition 'благодаря' takes the dative 'множеству' to mark a favourable cause. 'Друзей' is a dependent genitive plural. A reusable thanks-to pattern."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-07",
+        "phrase": "Мы говорили о множестве проблем.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О множестве' uses the prepositional 'множестве' after 'о' to mean talking about many. 'Проблем' is a dependent genitive plural. Common in discussion."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-08",
+        "phrase": "Это множество содержит пять элементов.",
+        "fullAnalysis": "Strategic focus: Nominative subject in the mathematical sense. 'Множество' is the neuter nominative subject meaning a set. 'Содержит' governs the accusative 'пять элементов'. Shows the technical meaning."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-09",
+        "phrase": "Учёные изучают свойства множеств.",
+        "fullAnalysis": "Strategic focus: Genitive plural object. 'Множеств' is the genitive plural meaning the sets whose properties are studied, modifying 'свойства'. 'Учёные' is the nominative plural subject. Practises the plural form."
+      },
+      {
+        "id": "NN-STRUCT-MNOZHESTVO-10",
+        "phrase": "К множеству причин добавилась ещё одна.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. The preposition 'к' takes the dative 'множеству' to mark addition to a group. 'Причин' is a dependent genitive plural. Useful for accumulating reasons."
+      }
+    ]
+  }
+]

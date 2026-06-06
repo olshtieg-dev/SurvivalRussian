@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-DOLZHNOST",
+    "label": "Должность",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for должность (position).",
+    "missions": [
+      {
+        "id": "NN-STATE-DOLZHNOST-01",
+        "phrase": "Это очень важная должность.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Должность' is the nominative predicate noun, a third-declension feminine ending in soft sign. 'Важная' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-02",
+        "phrase": "Он получил новую должность.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Должность' is the accusative direct object of 'получил'; third-declension feminine nouns keep the same form in the accusative. 'Новую' is the agreeing adjective."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-03",
+        "phrase": "Он добивался высокой должности.",
+        "fullAnalysis": "Strategic focus: Genitive after добиваться. The verb 'добиваться' governs the genitive, giving 'должности'. 'Высокой' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-04",
+        "phrase": "Он подходит к этой должности.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' governs the dative, giving 'должности'; third-declension nouns share the dative and genitive endings. 'Этой' agrees in the feminine."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-05",
+        "phrase": "Он гордится своей должностью.",
+        "fullAnalysis": "Strategic focus: Instrumental after гордиться. The verb 'гордиться' requires the instrumental, giving 'должностью' with the characteristic -ью ending. 'Своей' is the agreeing possessive."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-06",
+        "phrase": "В этой должности много обязанностей.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional 'должности'. 'Много обязанностей' adds a genitive-plural quantity phrase."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-07",
+        "phrase": "Директор предложил мне должность.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Должность' is the accusative offered, and 'мне' is the dative recipient. A natural workplace pattern."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-08",
+        "phrase": "В компании появились новые должности.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Должности' is the nominative plural, the subject of 'появились'. 'Новые' agrees in the plural, and 'в компании' is a prepositional location."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-09",
+        "phrase": "Они занимают важные должности.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Должности' is the accusative plural object of 'занимают'; this inanimate feminine plural matches the nominative. 'Важные' agrees in the plural."
+      },
+      {
+        "id": "NN-STATE-DOLZHNOST-10",
+        "phrase": "Список должностей висит на стене.",
+        "fullAnalysis": "Strategic focus: Genitive plural of specification. 'Должностей' is the genitive plural showing a list of what. 'На стене' is a prepositional location phrase."
+      }
+    ]
+  }
+]

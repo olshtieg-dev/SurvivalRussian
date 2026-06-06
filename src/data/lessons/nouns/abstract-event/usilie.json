@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-USILIE",
+    "label": "Усилие",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for усилие (effort).",
+    "missions": [
+      {
+        "id": "NN-EVENT-USILIE-01",
+        "phrase": "Каждое усилие было очень важным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Усилие' is neuter and stays in the nominative as the subject. 'Каждое' agrees in the neuter, and 'важным' is an instrumental predicate after 'было'."
+      },
+      {
+        "id": "NN-EVENT-USILIE-02",
+        "phrase": "Команда приложила огромное усилие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Усилие' is the neuter accusative direct object of 'приложила', identical to the nominative. 'Огромное' agrees, and 'команда' is the subject."
+      },
+      {
+        "id": "NN-EVENT-USILIE-03",
+        "phrase": "Без усилия не будет результата.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Усилия' is the genitive form required by 'без' to express absence. 'Результата' is also genitive after 'не будет' in a negated existential."
+      },
+      {
+        "id": "NN-EVENT-USILIE-04",
+        "phrase": "Благодаря усилию мы победили.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 'Усилию' is the dative form required by 'благодаря' to mean thanks to. 'Мы' is the subject, and 'победили' is the past-tense verb."
+      },
+      {
+        "id": "NN-EVENT-USILIE-05",
+        "phrase": "С большим усилием он встал.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Усилием' is the instrumental form after 'с' to express manner. 'Большим' agrees in the instrumental, and 'он' is the subject of 'встал'."
+      },
+      {
+        "id": "NN-EVENT-USILIE-06",
+        "phrase": "В этом усилии есть смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Усилии' is the prepositional form after 'в' to express where meaning lies. 'Этом' agrees, and 'смысл' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-USILIE-07",
+        "phrase": "Все усилия оказались напрасными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Усилия' is the nominative plural subject of 'оказались'. 'Все' agrees in the plural, and 'напрасными' is an instrumental predicate."
+      },
+      {
+        "id": "NN-EVENT-USILIE-08",
+        "phrase": "Он добился успеха ценой усилий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Усилий' is the genitive plural form depending on 'ценой' to mean at the cost of. 'Успеха' is genitive after 'добился', and 'он' is the subject."
+      },
+      {
+        "id": "NN-EVENT-USILIE-09",
+        "phrase": "Мы ценим твои усилия.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Усилия' is the accusative plural object of 'ценим', identical to the nominative plural. 'Твои' agrees, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-EVENT-USILIE-10",
+        "phrase": "Благодаря общим усилиям проект готов.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Усилиям' is the dative plural required by 'благодаря' to mean thanks to. 'Общим' agrees in the plural, and 'проект' is the nominative subject."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-KHOLOD",
+    "label": "Холод",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for холод (cold).",
+    "missions": [
+      {
+        "id": "NN-NATURE-KHOLOD-01",
+        "phrase": "На улице стоит страшный холод.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Холод' is the masculine nominative as the subject of 'стоит'. 'Страшный' is the agreeing adjective, and 'на улице' sets the place."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-02",
+        "phrase": "Я ненавижу зимний холод.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Холод' is the inanimate masculine accusative direct object of 'ненавижу', identical to the nominative. 'Зимний' agrees with it."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-03",
+        "phrase": "Мы дрожали от холода.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Холода' is the genitive form required by 'от', expressing the cause of the shivering. 'Дрожали' is the past-tense verb."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-04",
+        "phrase": "При таком холоде нельзя гулять.",
+        "fullAnalysis": "Strategic focus: Prepositional after при. 'Холоде' is the prepositional form required by 'при', meaning in such cold. 'Таком' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-05",
+        "phrase": "Растения не привыкли к холоду.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Холоду' is the dative form governed by 'к' after 'привыкнуть', meaning accustomed to the cold. 'Растения' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-06",
+        "phrase": "Перед холодом мы утеплили окна.",
+        "fullAnalysis": "Strategic focus: Instrumental after перед. 'Холодом' is the instrumental form required by 'перед', meaning before the cold. 'Окна' is the accusative object of 'утеплили'."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-07",
+        "phrase": "Зимой бывают сильные холода.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Холода' is the nominative plural with end stress, used for spells of cold weather. 'Сильные' agrees, and 'зимой' sets the season."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-08",
+        "phrase": "Эти холода продлятся неделю.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Холода' is the nominative plural as the subject of 'продлятся'. 'Эти' agrees in the plural, and 'неделю' is the accusative of duration."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-09",
+        "phrase": "Холод пробирает до костей.",
+        "fullAnalysis": "Strategic focus: Nominative in an idiom. 'Холод' is the nominative subject of 'пробирает' in the fixed expression 'до костей', meaning chilled to the bone. A vivid idiom."
+      },
+      {
+        "id": "NN-NATURE-KHOLOD-10",
+        "phrase": "Из-за холода отменили занятия.",
+        "fullAnalysis": "Strategic focus: Genitive after из-за. 'Холода' is the genitive form required by 'из-за', marking the cold as the cause. 'Занятия' is the accusative object of 'отменили'."
+      }
+    ]
+  }
+]

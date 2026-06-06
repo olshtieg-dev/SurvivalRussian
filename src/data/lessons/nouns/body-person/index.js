@@ -1,4 +1,5 @@
 import bokSet from './bok.json';
+import brovSet from './brov.json';
 import chelovekSet from './chelovek.json';
 import dykhanieSet from './dykhanie.json';
 import figuraSet from './figura.json';
@@ -41,6 +42,7 @@ import zubSet from './zub.json';
 export const bodyPersonNounsFolderId = 'nouns-body-person';
 const bodyPersonNounsData = [
   ...bokSet,
+  ...brovSet,
   ...chelovekSet,
   ...dykhanieSet,
   ...figuraSet,

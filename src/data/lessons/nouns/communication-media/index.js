@@ -1,4 +1,5 @@
 import adresSet from './adres.json';
+import besedaSet from './beseda.json';
 import bumagaSet from './bumaga.json';
 import dokumentSet from './dokument.json';
 import ekhoSet from './ekho.json';
@@ -29,6 +30,7 @@ import smekhSet from './smekh.json';
 import tekstSet from './tekst.json';
 import telefonSet from './telefon.json';
 import tonSet from './ton.json';
+import urokSet from './urok.json';
 import zhurnalSet from './zhurnal.json';
 import znakSet from './znak.json';
 import zvonokSet from './zvonok.json';
@@ -36,6 +38,7 @@ import zvonokSet from './zvonok.json';
 export const communicationNounsFolderId = 'nouns-communication-media';
 const communicationNounsData = [
   ...adresSet,
+  ...besedaSet,
   ...bumagaSet,
   ...dokumentSet,
   ...ekhoSet,
@@ -66,6 +69,7 @@ const communicationNounsData = [
   ...tekstSet,
   ...telefonSet,
   ...tonSet,
+  ...urokSet,
   ...zhurnalSet,
   ...znakSet,
   ...zvonokSet,

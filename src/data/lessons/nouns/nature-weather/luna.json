@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-LUNA",
+    "label": "Луна",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for луна (moon).",
+    "missions": [
+      {
+        "id": "NN-NATURE-LUNA-01",
+        "phrase": "Сегодня луна очень яркая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Луна' stays in the nominative as the subject of the sentence. 'Яркая' is the agreeing feminine adjective, and 'сегодня' sets the time."
+      },
+      {
+        "id": "NN-NATURE-LUNA-02",
+        "phrase": "Дети любят полную луну.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Луну' is the accusative direct object of 'любят'; the feminine ending -а shifts to -у. 'Полную' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-NATURE-LUNA-03",
+        "phrase": "Сегодня не видно луны.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. With the impersonal 'не видно' the noun takes the genitive 'луны'. This is a natural way to say the moon is not visible."
+      },
+      {
+        "id": "NN-NATURE-LUNA-04",
+        "phrase": "Космонавты летят к луне.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' governs the dative, giving 'луне', to express motion toward. A clean model for directional dative."
+      },
+      {
+        "id": "NN-NATURE-LUNA-05",
+        "phrase": "Море блестит под луной.",
+        "fullAnalysis": "Strategic focus: Instrumental after под. The locative preposition 'под' takes the instrumental 'луной' to mean beneath the moonlight. A vivid, natural phrase."
+      },
+      {
+        "id": "NN-NATURE-LUNA-06",
+        "phrase": "Учёные пишут о луне книгу.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'о' the noun takes the prepositional 'луне'. 'Книгу' is an accusative object, making this a layered but common pattern."
+      },
+      {
+        "id": "NN-NATURE-LUNA-07",
+        "phrase": "Мы смотрели на луну всю ночь.",
+        "fullAnalysis": "Strategic focus: Accusative after на. The preposition 'на' with motion or gaze takes the accusative 'луну'. 'Всю ночь' is an accusative duration phrase."
+      },
+      {
+        "id": "NN-NATURE-LUNA-08",
+        "phrase": "На небе сияет белая луна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Луна' is the nominative subject of 'сияет'. 'Белая' is the agreeing feminine adjective, and 'на небе' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-NATURE-LUNA-09",
+        "phrase": "У далёких планет есть свои луны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Луны' is the nominative plural meaning moons, the subject of the possession frame 'у планет есть'. 'Свои' agrees in the plural."
+      },
+      {
+        "id": "NN-NATURE-LUNA-10",
+        "phrase": "Свет луны падает на воду.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Луны' is the genitive showing whose light it is. 'На воду' is an accusative direction phrase completing the image."
+      }
+    ]
+  }
+]

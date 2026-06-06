@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-SHTANY",
+    "label": "Штаны",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for штаны (trousers).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-01",
+        "phrase": "Эти штаны мне очень нравятся.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Штаны' is a plural-only noun and stays in the nominative as the subject. 'Эти' agrees in the plural, and 'нравятся' takes the dative experiencer 'мне'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-02",
+        "phrase": "Я купил новые штаны вчера.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Штаны' is the accusative direct object of 'купил'. As an inanimate plural-only noun its accusative matches the nominative, and 'новые' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-03",
+        "phrase": "У меня нет чистых штанов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Штанов' is the genitive plural required after 'нет'. 'Чистых' agrees in the genitive plural, expressing that no clean trousers are available."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-04",
+        "phrase": "На штанах большое тёмное пятно.",
+        "fullAnalysis": "Strategic focus: Prepositional plural location. 'Штанах' is the prepositional plural after 'на', marking where the stain is. The subject 'пятно' stays nominative with its agreeing adjectives."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-05",
+        "phrase": "Он подошёл к штанам в шкафу.",
+        "fullAnalysis": "Strategic focus: Dative plural target. 'Штанам' is the dative plural after the preposition 'к', marking the goal of motion. 'В шкафу' adds a prepositional location for context."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-06",
+        "phrase": "Что не так с этими штанами?",
+        "fullAnalysis": "Strategic focus: Instrumental plural with 'с'. 'Штанами' is the instrumental plural after 'с', and 'этими' agrees in the instrumental plural. The phrase asks what is wrong with the trousers."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-07",
+        "phrase": "Эти штаны слишком длинные.",
+        "fullAnalysis": "Strategic focus: Nominative plural description. 'Штаны' stays nominative as the subject. 'Длинные' is the agreeing plural predicate adjective, intensified by 'слишком' to show the fit problem."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-08",
+        "phrase": "Я ищу карман в штанах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural location. 'Штанах' is the prepositional plural after 'в', marking where the pocket is. The object 'карман' is accusative under 'ищу'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-09",
+        "phrase": "Без этих штанов холодно зимой.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'без'. 'Штанов' is the genitive plural required by the preposition 'без'. 'Этих' agrees in the genitive plural, while 'холодно' is an impersonal predicate."
+      },
+      {
+        "id": "NN-HOUSEHOLD-SHTANY-10",
+        "phrase": "Тёплые штаны лежат на полке.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Штаны' is the nominative plural subject of 'лежат', which agrees in the plural. 'Тёплые' agrees as well, and 'на полке' gives a prepositional location."
+      }
+    ]
+  }
+]

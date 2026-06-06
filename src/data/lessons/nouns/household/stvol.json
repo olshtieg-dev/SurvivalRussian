@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-STVOL",
+    "label": "Ствол",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ствол (barrel).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-STVOL-01",
+        "phrase": "Ствол этого дерева очень толстый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ствол' is masculine and stays in the nominative as the subject. 'Дерева' is genitive showing whose trunk, and 'толстый' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-02",
+        "phrase": "Охотник почистил ствол ружья.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ствол' is the accusative direct object of 'почистил', matching the nominative as inanimate masculine. 'Ружья' is genitive showing whose barrel."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-03",
+        "phrase": "На стволе сосны сидит белка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Стволе' is prepositional after 'на' to mark where the squirrel sits. 'Белка' is the nominative subject and 'сосны' is genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-04",
+        "phrase": "Без ствола ружьё не стреляет.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Ствола' is the genitive form required by 'без' to express absence. 'Ружьё' is the neuter nominative subject of 'стреляет'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-05",
+        "phrase": "Птица подлетела к стволу дуба.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Стволу' is the dative form governed by 'к' to express movement toward. 'Дуба' is genitive, and 'птица' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-06",
+        "phrase": "Под стволом дерева лежит снег.",
+        "fullAnalysis": "Strategic focus: Instrumental after под. 'Стволом' is the instrumental form required by 'под' to mark position beneath. 'Снег' is the nominative subject of 'лежит'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-07",
+        "phrase": "Старые стволы покрыты зелёным мхом.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Стволы' is the nominative plural subject. 'Старые' agrees in the plural, and 'покрыты' is the short adjective with instrumental 'мхом'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-08",
+        "phrase": "Мы спрятались за толстым стволом.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Стволом' is instrumental after 'за' to mark position behind. 'Толстым' is the agreeing instrumental adjective, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-09",
+        "phrase": "Из ствола вытекает густой сок.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Ствола' is the genitive form after 'из' meaning out of. 'Сок' is the nominative subject of 'вытекает', and 'густой' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-STVOL-10",
+        "phrase": "Я вижу длинный ствол винтовки.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ствол' is the accusative direct object of 'вижу', matching the nominative as inanimate masculine. 'Длинный' agrees, and 'винтовки' is genitive."
+      }
+    ]
+  }
+]

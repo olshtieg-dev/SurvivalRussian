@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-VES",
+    "label": "Вес",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for вес (weight).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-VES-01",
+        "phrase": "У этого ящика большой вес.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вес' stays in the nominative as the thing possessed in the 'у' phrase. 'Большой' is the agreeing masculine adjective, and 'ящика' is genitive."
+      },
+      {
+        "id": "NN-STRUCT-VES-02",
+        "phrase": "Спортсмен набрал лишний вес.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вес' is the accusative direct object of 'набрал'; for this inanimate masculine noun the accusative matches the nominative. 'Лишний' agrees."
+      },
+      {
+        "id": "NN-STRUCT-VES-03",
+        "phrase": "Мы не знаем точного веса.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Веса' takes the genitive after the negated verb 'не знаем'. 'Точного' agrees in the masculine genitive, describing the exact weight."
+      },
+      {
+        "id": "NN-STRUCT-VES-04",
+        "phrase": "Мост рухнул благодаря весу.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 'Весу' is in the dative case after 'благодаря', which always governs the dative. 'Мост' is the nominative subject of 'рухнул'."
+      },
+      {
+        "id": "NN-STRUCT-VES-05",
+        "phrase": "Полка прогнулась под весом книг.",
+        "fullAnalysis": "Strategic focus: Instrumental after под. 'Весом' takes the instrumental case after 'под' to express bending under a load. 'Книг' is genitive plural, naming the books."
+      },
+      {
+        "id": "NN-STRUCT-VES-06",
+        "phrase": "В весе этой посылки есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional after в. 'Весе' is in the prepositional case after 'в' to mark where the error lies. 'Этой посылки' is genitive, naming the parcel."
+      },
+      {
+        "id": "NN-STRUCT-VES-07",
+        "phrase": "На весу держать сумку тяжело.",
+        "fullAnalysis": "Strategic focus: Prepositional in fixed phrase. 'Весу' uses the special stressed ending in the fixed phrase 'на весу', meaning held in the air. 'Сумку' is the accusative object."
+      },
+      {
+        "id": "NN-STRUCT-VES-08",
+        "phrase": "Вес багажа превышает норму.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вес' is the nominative subject of 'превышает'. 'Багажа' is genitive, naming the luggage, and 'норму' is the accusative object."
+      },
+      {
+        "id": "NN-STRUCT-VES-09",
+        "phrase": "Эти гири имеют разный вес.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вес' is the accusative object of 'имеют'; the inanimate masculine accusative matches the nominative. 'Эти гири' is the nominative plural subject."
+      },
+      {
+        "id": "NN-STRUCT-VES-10",
+        "phrase": "Его слова имеют большой вес.",
+        "fullAnalysis": "Strategic focus: Accusative in figurative sense. 'Вес' is the accusative object of 'имеют', here meaning influence rather than physical weight. 'Большой' agrees, and 'слова' is the nominative subject."
+      }
+    ]
+  }
+]

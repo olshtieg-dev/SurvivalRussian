@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-IZBA",
+    "label": "Изба",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for изба (hut).",
+    "missions": [
+      {
+        "id": "NN-MOTION-IZBA-01",
+        "phrase": "Старая изба стоит у реки.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Изба' is feminine and stays in the nominative as the subject. 'Старая' is the agreeing feminine adjective, and 'у реки' is a genitive location phrase."
+      },
+      {
+        "id": "NN-MOTION-IZBA-02",
+        "phrase": "Дедушка построил эту избу сам.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Избу' is the feminine accusative direct object of 'построил'. 'Эту' agrees in the accusative, and 'сам' emphasizes the subject."
+      },
+      {
+        "id": "NN-MOTION-IZBA-03",
+        "phrase": "В избе тепло и очень уютно.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Избе' is the prepositional form after 'в' to express location inside. 'Тепло' and 'уютно' are predicate adverbs describing the place."
+      },
+      {
+        "id": "NN-MOTION-IZBA-04",
+        "phrase": "Возле избы растёт большая берёза.",
+        "fullAnalysis": "Strategic focus: Genitive after возле. 'Избы' is the genitive form required by 'возле' to express nearness. 'Берёза' is the nominative subject of 'растёт'."
+      },
+      {
+        "id": "NN-MOTION-IZBA-05",
+        "phrase": "Мы подошли к старой избе.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Избе' is the dative form governed by 'к' to express movement toward. 'Старой' is the agreeing dative adjective, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-MOTION-IZBA-06",
+        "phrase": "За избой начинается густой лес.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Избой' is the instrumental form required by 'за' to mark position behind. 'Лес' is the nominative subject of 'начинается'."
+      },
+      {
+        "id": "NN-MOTION-IZBA-07",
+        "phrase": "В деревне стоят старые избы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Избы' is the nominative plural subject of 'стоят'. 'Старые' agrees in the plural, and 'в деревне' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-MOTION-IZBA-08",
+        "phrase": "Из избы вышел старый рыбак.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Избы' is the genitive form after 'из' meaning out of. 'Рыбак' is the nominative subject, and 'старый' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-IZBA-09",
+        "phrase": "Перед избой стоит деревянная скамейка.",
+        "fullAnalysis": "Strategic focus: Instrumental after перед. 'Избой' is instrumental after 'перед' to mark position in front. 'Скамейка' is the nominative subject and 'деревянная' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-IZBA-10",
+        "phrase": "Зимой мы топим избу дровами.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Избу' is the feminine accusative direct object of 'топим'. 'Дровами' is instrumental of means, and 'зимой' is an adverbial time phrase."
+      }
+    ]
+  }
+]

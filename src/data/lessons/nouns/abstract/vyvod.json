@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-VYVOD",
+    "label": "Вывод",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for вывод (conclusion).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-VYVOD-01",
+        "phrase": "Этот вывод кажется мне правильным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вывод' is a masculine noun and stays in the nominative as the subject. 'Этот' agrees in the masculine, and 'мне' is the dative experiencer of 'кажется'."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-02",
+        "phrase": "Мы сделали важный вывод.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вывод' is the accusative direct object of 'сделали'. As an inanimate masculine noun its accusative matches the nominative, and 'важный' agrees in the masculine."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-03",
+        "phrase": "Из этого вывода ничего не следует.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'из'. 'Вывода' is the genitive singular required by the preposition 'из'. 'Этого' agrees in the masculine genitive, marking the source."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-04",
+        "phrase": "Мы пришли к интересному выводу.",
+        "fullAnalysis": "Strategic focus: Dative singular target. 'Выводу' is the dative singular after the preposition 'к', forming the set phrase 'прийти к выводу'. 'Интересному' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-05",
+        "phrase": "В выводе автор повторяет мысль.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Выводе' is the prepositional singular after 'в', marking where the thought is repeated. The subject 'автор' stays nominative."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-06",
+        "phrase": "Я согласен с этим выводом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular after 'с'. 'Выводом' is the instrumental singular governed by 'согласен с', expressing agreement. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-07",
+        "phrase": "Этот вывод полностью неверный.",
+        "fullAnalysis": "Strategic focus: Nominative evaluation. 'Вывод' stays nominative as the subject. 'Неверный' is the agreeing masculine predicate adjective, intensified by 'полностью' to reject it firmly."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-08",
+        "phrase": "Учёные сделали несколько выводов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Выводов' is the genitive plural required by the quantifier 'несколько'. The subject 'учёные' stays nominative as the actors."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-09",
+        "phrase": "Все эти выводы очень спорные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Выводы' is the nominative plural subject, and 'спорные' agrees in the plural. 'Все эти' quantify and point to the specific conclusions."
+      },
+      {
+        "id": "NN-ABSTRACT-VYVOD-10",
+        "phrase": "Не делай поспешный вывод сразу.",
+        "fullAnalysis": "Strategic focus: Accusative object in advice. 'Вывод' is the accusative direct object of the imperative 'не делай'. 'Поспешный' agrees in the masculine, warning against a rushed conclusion."
+      }
+    ]
+  }
+]

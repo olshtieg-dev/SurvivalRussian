@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-OBSTANOVKA",
+    "label": "Обстановка",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for обстановка (situation).",
+    "missions": [
+      {
+        "id": "NN-STATE-OBSTANOVKA-01",
+        "phrase": "В стране спокойная обстановка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Обстановка' is the feminine nominative subject. 'Спокойная' is the agreeing feminine adjective, and 'в стране' gives the location. A natural way to describe conditions."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-02",
+        "phrase": "Мы внимательно изучаем обстановку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Обстановку' is the accusative direct object of 'изучаем'. 'Внимательно' is an adverb of manner. Useful for analysis and assessment."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-03",
+        "phrase": "Из-за сложной обстановки рейс отменили.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из-за'. The preposition 'из-за' takes the genitive 'обстановки' to mark the cause. 'Сложной' agrees in the feminine genitive. A reusable cause-and-effect pattern."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-04",
+        "phrase": "Мы говорили о текущей обстановке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об обстановке' uses the prepositional 'обстановке' after 'о' to mean talking about it. 'Текущей' agrees in the feminine prepositional. Common in discussion."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-05",
+        "phrase": "Нам нравится домашняя обстановка.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative experiencer. 'Обстановка' is the nominative thing that pleases. 'Нам' is the dative experiencer and 'нравится' agrees with the subject. A reusable preference frame."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-06",
+        "phrase": "В магазине купили новую обстановку.",
+        "fullAnalysis": "Strategic focus: Accusative object in the furnishings sense. 'Обстановку' is the accusative object of 'купили', here meaning furniture. 'Новую' agrees in the feminine accusative. Shows the second meaning of the word."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-07",
+        "phrase": "Он привык к напряжённой обстановке.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. The verb 'привыкнуть к' takes the dative 'обстановке' to mean getting used to it. 'Напряжённой' agrees in the feminine dative. Models adapting to conditions."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-08",
+        "phrase": "Мы недовольны такой обстановкой.",
+        "fullAnalysis": "Strategic focus: Instrumental after a short adjective. 'Недовольны' governs the instrumental 'обстановкой' to express dissatisfaction. 'Такой' agrees in the feminine instrumental. A reusable complaint pattern."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-09",
+        "phrase": "В разных регионах обстановки отличаются.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Обстановки' is the nominative plural subject of 'отличаются'. 'В разных регионах' is a prepositional plural phrase. Practises plural agreement of an abstract noun."
+      },
+      {
+        "id": "NN-STATE-OBSTANOVKA-10",
+        "phrase": "Без спокойной обстановки трудно работать.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. The preposition 'без' takes the genitive 'обстановки' to mean without it. 'Спокойной' agrees in the feminine genitive, and 'трудно' frames the difficulty. A practical sentence."
+      }
+    ]
+  }
+]

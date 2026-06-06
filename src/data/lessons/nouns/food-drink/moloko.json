@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-MOLOKO",
+    "label": "Молоко",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for молоко (milk).",
+    "missions": [
+      {
+        "id": "NN-FOOD-MOLOKO-01",
+        "phrase": "Это молоко уже скисло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Молоко' stays in the nominative as the subject. 'Это' is the agreeing neuter demonstrative, and 'скисло' agrees in neuter gender."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-02",
+        "phrase": "Я купил молоко в магазине.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Молоко' is the accusative direct object of 'купил'. Neuter nouns keep the same form in the accusative as the nominative."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-03",
+        "phrase": "У нас нет молока дома.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Молока' takes the genitive after 'нет' to express that there is none. The neuter genitive singular ends in -а."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-04",
+        "phrase": "Кот тянется к молоку.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Молоку' takes the dative after 'к', showing movement toward the milk. The neuter dative singular ends in -у."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-05",
+        "phrase": "Я пью чай с молоком.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Молоком' takes the instrumental after 'с', meaning together with. The neuter instrumental singular ends in -ом."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-06",
+        "phrase": "В молоке много полезных веществ.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Молоке' takes the prepositional after 'в' to show what is contained inside. The neuter prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-07",
+        "phrase": "Дай мне немного молока.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Молока' takes the genitive after 'немного', the partitive way to ask for some of an uncountable substance. The neuter genitive ends in -а."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-08",
+        "phrase": "Я выпил стакан тёплого молока.",
+        "fullAnalysis": "Strategic focus: Genitive after measure. 'Молока' takes the genitive after 'стакан' to mean a glass of milk. 'Тёплого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-09",
+        "phrase": "На полке стоят разные молоки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Молоки' is the nominative plural subject of 'стоят', used here for different milk varieties on a shelf. The neuter plural ends in -и after к."
+      },
+      {
+        "id": "NN-FOOD-MOLOKO-10",
+        "phrase": "Без молока каша не такая вкусная.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Молока' takes the genitive after 'без' to express absence. The neuter genitive singular ends in -а."
+      }
+    ]
+  }
+]

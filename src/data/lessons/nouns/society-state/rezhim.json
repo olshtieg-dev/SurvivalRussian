@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-REZHIM",
+    "label": "Режим",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for режим (regime).",
+    "missions": [
+      {
+        "id": "NN-STATE-REZHIM-01",
+        "phrase": "Новый режим обещает большие перемены.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Режим' is masculine and stays in the nominative as the subject. 'Новый' is the agreeing masculine adjective, and 'обещает' is the verb."
+      },
+      {
+        "id": "NN-STATE-REZHIM-02",
+        "phrase": "Народ сверг старый режим.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Режим' is the accusative direct object of 'сверг', matching the nominative as inanimate masculine. 'Старый' agrees, and 'народ' is the subject."
+      },
+      {
+        "id": "NN-STATE-REZHIM-03",
+        "phrase": "Против режима выступили тысячи людей.",
+        "fullAnalysis": "Strategic focus: Genitive after против. 'Режима' is the genitive form required by 'против' to express opposition. 'Тысячи людей' is the nominative subject of 'выступили'."
+      },
+      {
+        "id": "NN-STATE-REZHIM-04",
+        "phrase": "Многие не доверяют этому режиму.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Режиму' is the dative form required by 'доверяют' to mean trust in. 'Этому' agrees in the dative, and 'многие' is the subject."
+      },
+      {
+        "id": "NN-STATE-REZHIM-05",
+        "phrase": "При этом режиме жизнь стала тяжёлой.",
+        "fullAnalysis": "Strategic focus: Prepositional after при. 'Режиме' is the prepositional form after 'при' to mean under or during. 'Этом' agrees, and 'жизнь' is the subject of 'стала'."
+      },
+      {
+        "id": "NN-STATE-REZHIM-06",
+        "phrase": "Газеты молчат под жёстким режимом.",
+        "fullAnalysis": "Strategic focus: Instrumental after под. 'Режимом' is the instrumental form after 'под' to mean under control of. 'Жёстким' agrees, and 'газеты' is the nominative plural subject."
+      },
+      {
+        "id": "NN-STATE-REZHIM-07",
+        "phrase": "История знает много разных режимов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Режимов' is the genitive plural form after 'много' to express quantity. 'Разных' agrees, and 'история' is the nominative subject of 'знает'."
+      },
+      {
+        "id": "NN-STATE-REZHIM-08",
+        "phrase": "Без жёсткого режима страна ослабла.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Режима' is the genitive form required by 'без' to express absence. 'Жёсткого' agrees, and 'страна' is the subject of 'ослабла'."
+      },
+      {
+        "id": "NN-STATE-REZHIM-09",
+        "phrase": "Эти режимы быстро потеряли власть.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Режимы' is the nominative plural subject of 'потеряли'. 'Эти' agrees in the plural, and 'власть' is the accusative object."
+      },
+      {
+        "id": "NN-STATE-REZHIM-10",
+        "phrase": "Я читаю книгу о политическом режиме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Режиме' is the prepositional form after 'о' to express the topic. 'Политическом' agrees, and 'книгу' is the accusative object of 'читаю'."
+      }
+    ]
+  }
+]

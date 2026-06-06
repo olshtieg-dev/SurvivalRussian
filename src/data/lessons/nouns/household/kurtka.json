@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KURTKA",
+    "label": "Куртка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for куртка (jacket).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-01",
+        "phrase": "Эта куртка очень тёплая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Куртка' stays in the nominative as the subject. 'Эта' points at a specific jacket, and 'тёплая' is the agreeing feminine adjective describing it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-02",
+        "phrase": "Я купил новую куртку вчера.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Куртку' is the accusative object of 'купил'. 'Новую' agrees in the feminine accusative, and 'вчера' sets the time of the purchase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-03",
+        "phrase": "У меня нет тёплой куртки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Куртки' takes the genitive after 'нет' to express that the jacket is lacking. 'Тёплой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-04",
+        "phrase": "Я подошёл к куртке на вешалке.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Куртке' is the dative form after the preposition 'к', marking the goal of motion. 'На вешалке' adds the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-05",
+        "phrase": "Я накрылся курткой от дождя.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Курткой' is the instrumental form, the thing used to cover up. 'От дождя' explains why, making this a practical weather phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-06",
+        "phrase": "В этой куртке мне очень удобно.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Куртке' takes the prepositional form after 'в' to mean wearing the jacket. 'Удобно' expresses comfort with a dative experiencer 'мне'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-07",
+        "phrase": "В шкафу висят две куртки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Куртки' is genitive singular required by 'две'. 'В шкафу' is the prepositional location where they hang."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-08",
+        "phrase": "Зимой я ношу тёплые куртки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Куртки' is the accusative plural object of 'ношу'. 'Тёплые' agrees in the plural, and 'зимой' gives the season."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-09",
+        "phrase": "Надень куртку, на улице холодно!",
+        "fullAnalysis": "Strategic focus: Accusative with imperative. 'Куртку' is the accusative object of the command 'надень'. 'На улице холодно' gives the reason. A useful everyday instruction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KURTKA-10",
+        "phrase": "Где моя любимая синяя куртка?",
+        "fullAnalysis": "Strategic focus: Nominative in a question. 'Куртка' stays nominative as the subject being sought. 'Моя любимая синяя' are agreeing feminine modifiers, and 'где' asks for location."
+      }
+    ]
+  }
+]

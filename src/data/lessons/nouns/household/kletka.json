@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KLETKA",
+    "label": "Клетка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for клетка (cage).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-01",
+        "phrase": "В углу стоит большая клетка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Клетка' is in the nominative as the subject of 'стоит'. 'Большая' is the agreeing feminine adjective, and 'в углу' places the cage in the corner."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-02",
+        "phrase": "Мы купили новую клетку для попугая.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Клетку' is the accusative direct object of 'купили'. 'Новую' agrees in the feminine accusative, and 'для попугая' shows the purpose."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-03",
+        "phrase": "Птица вылетела из клетки.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Клетки' is the genitive form required by the preposition 'из', expressing motion out of the cage. 'Птица' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-04",
+        "phrase": "Кот сидит в клетке.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В клетке' uses the prepositional form 'клетке' after 'в' to show where the cat sits. A clean static-location pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-05",
+        "phrase": "Хомяк бегает по клетке.",
+        "fullAnalysis": "Strategic focus: Dative after по. 'Клетке' is the dative form governed by 'по', expressing movement around inside the cage. 'Бегает' adds the repeated action."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-06",
+        "phrase": "Кролик играет с клеткой.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Клеткой' is the instrumental form required by 'с', marking the cage as the thing the rabbit plays with. 'Играет' takes this companion frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-07",
+        "phrase": "В зоопарке много клеток.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Клеток' is the genitive plural with a fleeting vowel, required by the quantifier 'много'. 'В зоопарке' sets the scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-08",
+        "phrase": "Эти клетки слишком маленькие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Клетки' is the nominative plural as the subject. 'Эти' and 'маленькие' agree in the plural, and 'слишком' intensifies the complaint."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-09",
+        "phrase": "Я чищу клетку каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Клетку' is the accusative direct object of 'чищу'. 'Каждое утро' adds the routine, making this a practical daily-care sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KLETKA-10",
+        "phrase": "Дверца клетки была открыта.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Клетки' is the genitive form showing whose door it is. 'Дверца' is the nominative subject, and 'была открыта' is the predicate."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-BROV",
+    "label": "Бровь",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for бровь (eyebrow).",
+    "missions": [
+      {
+        "id": "NN-BODY-BROV-01",
+        "phrase": "Её левая бровь слегка приподнялась.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бровь' is a feminine soft-sign noun and stays in the nominative as the subject. 'Левая' agrees in the feminine, and 'приподнялась' agrees in feminine gender."
+      },
+      {
+        "id": "NN-BODY-BROV-02",
+        "phrase": "Она подняла бровь от удивления.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бровь' is the accusative direct object of 'подняла'. Feminine soft-sign nouns keep the same form in the accusative singular, and 'от удивления' explains the reason."
+      },
+      {
+        "id": "NN-BODY-BROV-03",
+        "phrase": "У него нет одной брови.",
+        "fullAnalysis": "Strategic focus: Genitive singular. 'Брови' is the genitive singular after 'нет', marking absence. 'Одной' agrees in the feminine genitive, describing which eyebrow is missing."
+      },
+      {
+        "id": "NN-BODY-BROV-04",
+        "phrase": "На брови у неё небольшой шрам.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Брови' is the prepositional singular after 'на', marking where the scar is. The subject 'шрам' stays nominative with its adjective."
+      },
+      {
+        "id": "NN-BODY-BROV-05",
+        "phrase": "Он провёл рукой по брови.",
+        "fullAnalysis": "Strategic focus: Dative singular. 'Брови' is the dative singular after the preposition 'по', expressing movement along the eyebrow. 'Рукой' is instrumental as the means."
+      },
+      {
+        "id": "NN-BODY-BROV-06",
+        "phrase": "Она недовольно повела бровью.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. 'Бровью' is the instrumental singular used with 'повела', a set gesture meaning a flick of the eyebrow. 'Недовольно' adds the emotional tone."
+      },
+      {
+        "id": "NN-BODY-BROV-07",
+        "phrase": "У неё очень густые брови.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Брови' is the nominative plural subject, and 'густые' agrees in the plural. The possession frame 'у неё' shows whose eyebrows they are."
+      },
+      {
+        "id": "NN-BODY-BROV-08",
+        "phrase": "Я выщипываю брови каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Брови' is the accusative plural direct object of 'выщипываю'. As an inanimate plural its accusative matches the nominative, and 'каждое утро' marks routine."
+      },
+      {
+        "id": "NN-BODY-BROV-09",
+        "phrase": "Между бровями появилась морщинка.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after 'между'. 'Бровями' is the instrumental plural required by 'между', marking the space between the eyebrows. The subject 'морщинка' is nominative."
+      },
+      {
+        "id": "NN-BODY-BROV-10",
+        "phrase": "Без бровей лицо выглядит странно.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'без'. 'Бровей' is the genitive plural required by the preposition 'без'. The subject 'лицо' stays nominative, and 'странно' describes the look."
+      }
+    ]
+  }
+]

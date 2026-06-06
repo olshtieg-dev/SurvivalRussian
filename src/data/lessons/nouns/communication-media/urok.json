@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-UROK",
+    "label": "Урок",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for урок (lesson).",
+    "missions": [
+      {
+        "id": "NN-COMMS-UROK-01",
+        "phrase": "Первый урок начинается в девять.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Урок' is a masculine noun and stays in the nominative as the subject of 'начинается'. 'Первый' agrees in the masculine, and 'в девять' gives the time."
+      },
+      {
+        "id": "NN-COMMS-UROK-02",
+        "phrase": "Я хорошо подготовил этот урок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Урок' is the accusative direct object of 'подготовил'. As an inanimate masculine noun its accusative matches the nominative, and 'этот' agrees in the masculine."
+      },
+      {
+        "id": "NN-COMMS-UROK-03",
+        "phrase": "После урока мы пошли домой.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'после'. 'Урока' is the genitive singular required by the preposition 'после', marking the time afterward. 'Домой' shows the direction of motion."
+      },
+      {
+        "id": "NN-COMMS-UROK-04",
+        "phrase": "Учитель готовится к новому уроку.",
+        "fullAnalysis": "Strategic focus: Dative singular target. 'Уроку' is the dative singular after the preposition 'к', marking what is being prepared for. 'Новому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-COMMS-UROK-05",
+        "phrase": "На уроке было очень интересно.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Уроке' is the prepositional singular after 'на', marking where it was interesting. 'Было интересно' is an impersonal predicate."
+      },
+      {
+        "id": "NN-COMMS-UROK-06",
+        "phrase": "Я доволен сегодняшним уроком.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. 'Уроком' is the instrumental singular governed by 'доволен', expressing satisfaction with the lesson. 'Сегодняшним' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-UROK-07",
+        "phrase": "Сегодня у нас три урока.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Урока' takes the genitive singular after 'три', the form numerals two through four require. 'У нас' frames whose lessons they are."
+      },
+      {
+        "id": "NN-COMMS-UROK-08",
+        "phrase": "Завтра будет много трудных уроков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Уроков' is the genitive plural required by the quantifier 'много'. 'Трудных' agrees in the genitive plural, describing the lessons."
+      },
+      {
+        "id": "NN-COMMS-UROK-09",
+        "phrase": "Эти уроки очень полезные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Уроки' is the nominative plural subject, and 'полезные' agrees in the plural as the predicate adjective. 'Эти' points to the specific lessons."
+      },
+      {
+        "id": "NN-COMMS-UROK-10",
+        "phrase": "Я многому научился на уроках.",
+        "fullAnalysis": "Strategic focus: Prepositional plural location. 'Уроках' is the prepositional plural after 'на', marking where the learning happened. 'Многому' is the dative object of 'научился'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-RABOTNIK",
+    "label": "Работник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for работник (worker).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-RABOTNIK-01",
+        "phrase": "Этот работник очень ответственный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Работник' is an animate masculine noun and stays in the nominative as the subject. 'Этот' agrees in the masculine, and 'ответственный' is the predicate adjective."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-02",
+        "phrase": "Директор похвалил нового работника.",
+        "fullAnalysis": "Strategic focus: Accusative equals genitive. 'Работника' is the accusative direct object of 'похвалил'. For animate masculine nouns the accusative copies the genitive, and 'нового' agrees the same way."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-03",
+        "phrase": "У этого работника нет опыта.",
+        "fullAnalysis": "Strategic focus: Genitive singular possession. 'Работника' is the genitive singular after 'у', marking the possessor. 'Этого' agrees in the masculine genitive, framing the lack of experience."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-04",
+        "phrase": "Начальник помогает молодому работнику.",
+        "fullAnalysis": "Strategic focus: Dative singular recipient. 'Работнику' is the dative singular as the indirect object of 'помогает'. 'Молодому' agrees in the masculine dative, naming who receives help."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-05",
+        "phrase": "Я доволен этим работником.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. 'Работником' is the instrumental singular governed by 'доволен', expressing satisfaction. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-06",
+        "phrase": "В этом работнике видно усердие.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Работнике' is the prepositional singular after 'в', marking in whom the diligence is seen. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-07",
+        "phrase": "Опытные работники быстро решают проблемы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Работники' is the nominative plural subject of 'решают', which agrees in the plural. 'Опытные' agrees too, describing the workers."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-08",
+        "phrase": "Компания уволила двух работников.",
+        "fullAnalysis": "Strategic focus: Accusative plural equals genitive. 'Работников' is the accusative plural of 'уволила'. For animate nouns the accusative plural copies the genitive, and 'двух' takes that form too."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-09",
+        "phrase": "В офисе много новых работников.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Работников' is the genitive plural required by the quantifier 'много'. 'Новых' agrees in the genitive plural, and 'в офисе' is location."
+      },
+      {
+        "id": "NN-PEOPLE-RABOTNIK-10",
+        "phrase": "Начальник доверяет своим работникам.",
+        "fullAnalysis": "Strategic focus: Dative plural recipient. 'Работникам' is the dative plural governed by 'доверяет', marking whom the boss trusts. 'Своим' agrees in the dative plural."
+      }
+    ]
+  }
+]

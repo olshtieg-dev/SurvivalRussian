@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-RASTVOR",
+    "label": "Раствор",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for раствор (solution).",
+    "missions": [
+      {
+        "id": "NN-NATURE-RASTVOR-01",
+        "phrase": "Этот раствор совсем прозрачный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Раствор' is a masculine noun in the nominative as the subject. 'Этот' agrees, and 'прозрачный' describes the clear solution."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-02",
+        "phrase": "Химик приготовил новый раствор.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Раствор' is the accusative direct object of 'приготовил'; an inanimate masculine noun keeps its base form. 'Новый' agrees."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-03",
+        "phrase": "В колбе нет раствора.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Раствора' takes the genitive after 'нет' to express that the solution is missing. 'В колбе' is the prepositional location."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-04",
+        "phrase": "Соль добавили к раствору.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Раствору' is the dative form after 'к', marking what the salt was added to. 'Соль' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-05",
+        "phrase": "Мы работаем с этим раствором.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Раствором' is the instrumental form required by 'с', the substance worked with. 'Этим' agrees in the instrumental."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-06",
+        "phrase": "В растворе есть много соли.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Растворе' takes the prepositional form after 'в' to mean inside the solution. 'Много соли' uses the genitive after 'много'."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-07",
+        "phrase": "Цвет раствора стал зелёным.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Раствора' is the genitive form expressing whose colour it is. 'Цвет' is the nominative subject, and 'зелёным' is instrumental after 'стал'."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-08",
+        "phrase": "В лаборатории стоят два раствора.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Раствора' is genitive singular required by 'два'. 'В лаборатории' is the prepositional location."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-09",
+        "phrase": "Студенты приготовили разные растворы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Растворы' is the accusative plural object of 'приготовили'. 'Разные' agrees in the plural, describing the various solutions."
+      },
+      {
+        "id": "NN-NATURE-RASTVOR-10",
+        "phrase": "На полке много старых растворов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Растворов' is the genitive plural required by 'много'. 'Старых' agrees in the genitive plural, and 'на полке' is locational."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-PREDLOZHENIE",
+    "label": "Предложение",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for предложение (proposal).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-01",
+        "phrase": "Это очень выгодное предложение.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Предложение' is the neuter nominative predicate noun. 'Выгодное' is the neuter adjective agreeing with it, intensified by 'очень'. A natural way to praise an offer."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-02",
+        "phrase": "Я внимательно рассмотрел предложение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Предложение' is the accusative direct object of 'рассмотрел'; neuter forms match the nominative. 'Внимательно' is an adverb of manner. Useful for evaluating offers."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-03",
+        "phrase": "У меня нет конкретного предложения.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'предложения'. 'Конкретного' agrees in the neuter genitive. The standard frame for lacking something."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-04",
+        "phrase": "Мы думаем о вашем предложении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О предложении' uses the prepositional 'предложении' after 'о' to mean thinking about it. 'Вашем' agrees in the neuter prepositional. A common deliberation pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-05",
+        "phrase": "Спасибо за интересное предложение.",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. The preposition 'за' takes the accusative 'предложение' to express thanks for it. 'Интересное' agrees in the neuter accusative. A polite, reusable phrase."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-06",
+        "phrase": "Он отказался от моего предложения.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. The verb 'отказаться от' takes the genitive 'предложения' to mean refusing it. 'Моего' agrees in the neuter genitive. Models declining an offer."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-07",
+        "phrase": "Я согласен с этим предложением.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'С предложением' uses the instrumental 'предложением' after 'с' to express agreement with it. 'Этим' agrees in the neuter instrumental. A key agreement pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-08",
+        "phrase": "Мы получили много новых предложений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Много' governs the genitive plural 'предложений'. 'Новых' agrees in the genitive plural, and 'получили' is the verb of receiving. Practises quantity with plurals."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-09",
+        "phrase": "Я сделал ей деловое предложение.",
+        "fullAnalysis": "Strategic focus: Accusative with dative recipient. 'Предложение' is the accusative object made, while 'ей' is the dative recipient. 'Деловое' agrees in the neuter accusative. Models making an offer to someone."
+      },
+      {
+        "id": "NN-ABSTRACT-PREDLOZHENIE-10",
+        "phrase": "К предложению приложен подробный план.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. The preposition 'к' takes the dative 'предложению' to mark attachment to it. 'Подробный план' is the masculine nominative subject. Useful for documents and paperwork."
+      }
+    ]
+  }
+]

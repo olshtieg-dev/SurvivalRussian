@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-POST",
+    "label": "Пост",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for пост (post).",
+    "missions": [
+      {
+        "id": "NN-MOTION-POST-01",
+        "phrase": "На углу стоит охранный пост.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пост' stays in the nominative as the subject of 'стоит'. 'Охранный' is the agreeing masculine adjective, and 'на углу' gives the location."
+      },
+      {
+        "id": "NN-MOTION-POST-02",
+        "phrase": "Солдат занял свой пост.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пост' is the accusative direct object of 'занял'; for this inanimate masculine noun the accusative matches the nominative. 'Свой' marks it as his own post."
+      },
+      {
+        "id": "NN-MOTION-POST-03",
+        "phrase": "У моста нет полицейского поста.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Поста' takes the genitive after 'нет' to express what is missing. 'Полицейского' agrees in the masculine genitive, and 'у моста' sets the place."
+      },
+      {
+        "id": "NN-MOTION-POST-04",
+        "phrase": "Офицер подошёл к посту.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Посту' is in the dative case after 'к', marking the goal of motion. 'Офицер' is the nominative subject of 'подошёл'."
+      },
+      {
+        "id": "NN-MOTION-POST-05",
+        "phrase": "За постом начинается граница.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Постом' takes the instrumental case after 'за' to show position beyond. 'Граница' is the nominative subject of 'начинается'."
+      },
+      {
+        "id": "NN-MOTION-POST-06",
+        "phrase": "На посту всегда дежурит солдат.",
+        "fullAnalysis": "Strategic focus: Prepositional after на. 'Посту' uses the special stressed 'у' ending in the prepositional after 'на' to mark location. 'Солдат' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-POST-07",
+        "phrase": "Часовой вернулся на пост вечером.",
+        "fullAnalysis": "Strategic focus: Accusative after на with motion. 'Пост' is accusative after 'на' because there is movement back to it. 'Вечером' is instrumental, giving the time."
+      },
+      {
+        "id": "NN-MOTION-POST-08",
+        "phrase": "Вдоль дороги стоят военные посты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Посты' is the nominative plural subject of 'стоят'. 'Военные' agrees in the plural, and 'вдоль дороги' uses the genitive."
+      },
+      {
+        "id": "NN-MOTION-POST-09",
+        "phrase": "Мы проехали несколько проверочных постов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after несколько. 'Постов' takes the genitive plural after 'несколько'. 'Проверочных' agrees in the genitive plural, naming the checkpoints."
+      },
+      {
+        "id": "NN-MOTION-POST-10",
+        "phrase": "Этот пост охраняет важный мост.",
+        "fullAnalysis": "Strategic focus: Nominative subject with accusative object. 'Пост' is the nominative subject of 'охраняет', and 'мост' is its accusative object. 'Этот' agrees in the masculine."
+      }
+    ]
+  }
+]

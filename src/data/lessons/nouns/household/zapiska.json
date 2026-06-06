@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-ZAPISKA",
+    "label": "Записка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for записка (note).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-01",
+        "phrase": "На столе лежит короткая записка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Записка' stays in the nominative as the subject of 'лежит'. 'Короткая' is the agreeing feminine adjective describing the note."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-02",
+        "phrase": "Я написал тебе записку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Записку' is the accusative direct object of 'написал'. The feminine ending -а shifts to -у in the accusative singular. 'Тебе' marks the recipient."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-03",
+        "phrase": "В записке не было адреса.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Записке' takes the prepositional after 'в' to show where information was. The feminine ending becomes -е in the prepositional singular."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-04",
+        "phrase": "Я не нашёл записки на двери.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Записки' takes the genitive after the negated verb 'не нашёл', showing the note was not found. The feminine genitive singular ends in -и here after к."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-05",
+        "phrase": "Благодаря записке мы всё поняли.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Записке' takes the dative after 'благодаря', meaning thanks to. The feminine dative singular ends in -е, identical to the prepositional here."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-06",
+        "phrase": "Он помахал запиской в руке.",
+        "fullAnalysis": "Strategic focus: Instrumental as means. 'Запиской' takes the instrumental, the case of the thing waved. The feminine instrumental singular ends in -ой."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-07",
+        "phrase": "Я оставил тебе записку на кухне.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Записку' is the accusative direct object of 'оставил'. 'Тебе' is the dative recipient and 'на кухне' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-08",
+        "phrase": "Я собрал все старые записки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Записки' is the accusative plural object of 'собрал'. As an inanimate noun, the plural accusative matches the nominative plural in -и."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-09",
+        "phrase": "Текст этой записки очень странный.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Записки' takes the genitive to show whose text it is. 'Этой' agrees in the feminine genitive, linking the text to the note."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZAPISKA-10",
+        "phrase": "Без записки я бы забыл.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Записки' takes the genitive after 'без' to express absence. The feminine genitive singular ends in -и following к."
+      }
+    ]
+  }
+]

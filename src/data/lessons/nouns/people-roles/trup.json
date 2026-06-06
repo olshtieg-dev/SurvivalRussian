@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-TRUP",
+    "label": "Труп",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for труп (corpse).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-TRUP-01",
+        "phrase": "На полу лежал холодный труп.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Труп' stays in the nominative as the subject of 'лежал'. 'Холодный' is the agreeing masculine adjective, and 'на полу' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-02",
+        "phrase": "Полиция нашла труп в реке.",
+        "fullAnalysis": "Strategic focus: Accusative object. Although труп refers to a body, it is grammatically inanimate, so the accusative 'труп' matches the nominative. 'В реке' adds a prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-03",
+        "phrase": "Рядом с трупом не было следов.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. The phrase 'рядом с' takes the instrumental 'трупом'. 'Не было следов' adds a genitive-plural of absence in the past tense."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-04",
+        "phrase": "Около трупа стояли двое мужчин.",
+        "fullAnalysis": "Strategic focus: Genitive after около. The preposition 'около' meaning near requires the genitive 'трупа'. 'Двое мужчин' is a collective numeral with genitive plural."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-05",
+        "phrase": "Врач подошёл к трупу осторожно.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' governs the dative, giving 'трупу', to express approach. 'Осторожно' is an adverb of manner."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-06",
+        "phrase": "На трупе нашли старую рану.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'на' the noun takes the prepositional 'трупе'. 'Старую рану' is the feminine accusative object of 'нашли'."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-07",
+        "phrase": "Следователь осмотрел труп внимательно.",
+        "fullAnalysis": "Strategic focus: Accusative object. The grammatically inanimate 'труп' takes the accusative identical to the nominative as the object of 'осмотрел'. 'Внимательно' adds the manner."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-08",
+        "phrase": "В подвале лежали два трупа.",
+        "fullAnalysis": "Strategic focus: Genitive singular after два. The numeral 'два' requires the genitive singular 'трупа'. 'В подвале' is a prepositional location setting the scene."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-09",
+        "phrase": "Эти трупы увезли на машине.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Трупы' is the accusative plural object of 'увезли'; as a grammatically inanimate noun it matches the nominative plural. 'Эти' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-TRUP-10",
+        "phrase": "В морге много неопознанных трупов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. The quantity word 'много' requires the genitive plural 'трупов'. 'Неопознанных' is the agreeing genitive-plural adjective."
+      }
+    ]
+  }
+]

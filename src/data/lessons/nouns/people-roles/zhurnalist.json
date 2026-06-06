@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-ZHURNALIST",
+    "label": "Журналист",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for журналист (journalist).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-01",
+        "phrase": "Молодой журналист задал острый вопрос.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Журналист' is an animate masculine noun in the nominative as the subject. 'Молодой' agrees with it, and 'задал' is the past-tense verb."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-02",
+        "phrase": "Министр пригласил известного журналиста.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Журналиста' takes the accusative equal to the genitive because the noun is animate masculine. 'Известного' agrees, and 'министр' is the subject of 'пригласил'."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-03",
+        "phrase": "У журналиста нет свежих новостей.",
+        "fullAnalysis": "Strategic focus: Genitive after у. 'Журналиста' is the genitive form in the possession frame 'у'. 'Нет новостей' expresses absence, with 'свежих' in the genitive plural."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-04",
+        "phrase": "Мы помогли молодому журналисту.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Журналисту' is the dative form required by 'помогли'. 'Молодому' is the agreeing dative adjective, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-05",
+        "phrase": "Я разговаривал с этим журналистом.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Журналистом' is the instrumental form after 'с' to mean together with. 'Этим' agrees in the instrumental, and 'разговаривал' is past tense."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-06",
+        "phrase": "В статье о журналисте много фактов.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Журналисте' is the prepositional form after 'о' to express the topic. 'В статье' is also prepositional, and 'много фактов' is a genitive quantity."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-07",
+        "phrase": "На площади собрались иностранные журналисты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Журналисты' is the nominative plural subject of 'собрались'. 'Иностранные' agrees in the plural, and 'на площади' is a prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-08",
+        "phrase": "Полиция задержала двух журналистов.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Журналистов' takes the accusative equal to the genitive plural because the noun is animate. 'Двух' agrees, and 'полиция' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-09",
+        "phrase": "Этот журналист пишет очень честно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Журналист' is nominative as the subject of 'пишет'. 'Этот' agrees in the masculine, and 'честно' is an adverb describing the manner."
+      },
+      {
+        "id": "NN-PEOPLE-ZHURNALIST-10",
+        "phrase": "Редакция гордится своими журналистами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Журналистами' is the instrumental plural required by 'гордится' to mean proud of. 'Своими' agrees, and 'редакция' is the subject."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-ZABOR",
+    "label": "Забор",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for забор (fence).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-01",
+        "phrase": "Вокруг дома стоит высокий забор.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Забор' is in the nominative as the subject of 'стоит'. 'Высокий' is the agreeing masculine adjective, and 'вокруг дома' shows what it surrounds."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-02",
+        "phrase": "Сосед красит свой забор.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Забор' is the accusative direct object of 'красит'. As an inanimate masculine noun its accusative matches the nominative. 'Свой' marks possession."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-03",
+        "phrase": "Кот спрыгнул с забора.",
+        "fullAnalysis": "Strategic focus: Genitive after с. 'Забора' is the genitive form required by 'с', expressing motion off the fence. 'Кот' is the nominative subject of 'спрыгнул'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-04",
+        "phrase": "Дети сидят на заборе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На заборе' uses the prepositional form 'заборе' after 'на' to show where the children sit. A static-location pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-05",
+        "phrase": "Мы подошли к забору.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Забору' is the dative form governed by 'к', expressing movement toward the fence. 'Подошли' marks the arrival on foot."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-06",
+        "phrase": "За забором растут цветы.",
+        "fullAnalysis": "Strategic focus: Instrumental after за. 'Забором' is the instrumental form required by 'за' to mean behind the fence. 'Цветы' is the nominative subject of 'растут'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-07",
+        "phrase": "На улице много старых заборов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Заборов' is the genitive plural required by the quantifier 'много'. 'Старых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-08",
+        "phrase": "Эти заборы давно сломаны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Заборы' is the nominative plural as the subject. 'Эти' agrees in the plural, and 'давно сломаны' is the predicate. A clean plural model."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-09",
+        "phrase": "Мы построили новый забор летом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Забор' is the inanimate accusative direct object of 'построили', identical to the nominative. 'Новый' agrees, and 'летом' sets the time."
+      },
+      {
+        "id": "NN-HOUSEHOLD-ZABOR-10",
+        "phrase": "Цвет забора мне очень нравится.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Забора' is the genitive form showing whose colour it is. 'Цвет' is the nominative subject of 'нравится', with 'мне' as the dative experiencer."
+      }
+    ]
+  }
+]

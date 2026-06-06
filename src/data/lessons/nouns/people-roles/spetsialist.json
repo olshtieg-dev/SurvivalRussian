@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SPETSIALIST",
+    "label": "Специалист",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for специалист (specialist).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-01",
+        "phrase": "Он опытный специалист.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Специалист' is a masculine noun in the nominative as the predicate. 'Опытный' is the agreeing masculine adjective describing experience."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-02",
+        "phrase": "Мы пригласили хорошего специалиста.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Специалиста' takes the animate masculine accusative, which matches the genitive form. 'Хорошего' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-03",
+        "phrase": "В отделе нет опытного специалиста.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Специалиста' takes the genitive after 'нет' to express that the specialist is lacking. 'В отделе' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-04",
+        "phrase": "Я обратился к специалисту за помощью.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Специалисту' is the dative form after 'к', marking the person approached. 'За помощью' explains the purpose."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-05",
+        "phrase": "Он стал известным специалистом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Специалистом' is the instrumental form after 'стал', a common pattern for becoming something. 'Известным' agrees in the instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-06",
+        "phrase": "В этом специалисте я уверен.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Специалисте' takes the prepositional form after 'в' to express confidence in the person. 'Этом' agrees, and 'уверен' completes the idea."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-07",
+        "phrase": "Мнение специалиста очень важно.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Специалиста' is the genitive form showing whose opinion it is. 'Мнение' is the nominative subject described by 'важно'."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-08",
+        "phrase": "В команде работают три специалиста.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Специалиста' is genitive singular required by 'три'. 'В команде' is the prepositional location of work."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-09",
+        "phrase": "Компания ищет молодых специалистов.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Специалистов' takes the animate accusative plural, matching the genitive plural. 'Молодых' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-SPETSIALIST-10",
+        "phrase": "В городе мало хороших специалистов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after мало. 'Специалистов' is the genitive plural required by 'мало'. 'Хороших' agrees in the genitive plural, and 'в городе' is locational."
+      }
+    ]
+  }
+]

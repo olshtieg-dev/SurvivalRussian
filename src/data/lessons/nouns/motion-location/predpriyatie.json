@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PREDPRIYATIE",
+    "label": "Предприятие",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for предприятие (enterprise).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-01",
+        "phrase": "Это крупное промышленное предприятие.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Предприятие' stays in the nominative as the subject. 'Крупное' and 'промышленное' are agreeing neuter adjectives describing the firm."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-02",
+        "phrase": "Государство построило новое предприятие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Предприятие' is the accusative direct object of 'построило'. Neuter nouns keep the same form in the accusative as the nominative. 'Новое' agrees in neuter."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-03",
+        "phrase": "У этого предприятия много работников.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Предприятия' takes the genitive to show whose workers they are. 'Этого' agrees in the neuter genitive, ending in -ого."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-04",
+        "phrase": "Он помогает молодому предприятию.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Предприятию' takes the dative as the thing helped by 'помогает'. The neuter dative singular ends in -ю. 'Молодому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-05",
+        "phrase": "Он руководит большим предприятием.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Предприятием' takes the instrumental because 'руководить' governs that case. The neuter instrumental singular ends in -ем. 'Большим' agrees."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-06",
+        "phrase": "Она работает на этом предприятии.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Предприятии' takes the prepositional after 'на' to show the workplace. The neuter ending in -ии marks the prepositional singular."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-07",
+        "phrase": "В городе закрыли два предприятия.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Предприятия' follows 'два', which requires the genitive singular of neuter nouns. The verb 'закрыли' takes the count as its object."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-08",
+        "phrase": "В регионе много новых предприятий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Предприятий' takes the genitive plural after 'много'. Neuter nouns in -ие form this plural in -ий. 'Новых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-09",
+        "phrase": "Эти предприятия выпускают машины.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Предприятия' is the nominative plural subject of 'выпускают'. Neuter nouns form the plural in -я here. 'Эти' agrees in the plural."
+      },
+      {
+        "id": "NN-MOTION-PREDPRIYATIE-10",
+        "phrase": "Без предприятия город остался бедным.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Предприятия' takes the genitive after 'без' to express absence. The neuter genitive singular ends in -я here."
+      }
+    ]
+  }
+]

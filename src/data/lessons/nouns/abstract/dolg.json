@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-DOLG",
+    "label": "Долг",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for долг (duty).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-DOLG-01",
+        "phrase": "Это твой главный долг.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Долг' is masculine and stays in the nominative as the predicate noun. 'Твой' and 'главный' agree with it in the masculine, framing it as an obligation."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-02",
+        "phrase": "Солдат выполнил свой воинский долг.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Долг' is the accusative direct object of 'выполнил', matching the nominative as inanimate masculine. 'Свой' and 'воинский' agree, and 'солдат' is the subject."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-03",
+        "phrase": "Он отдал мне сто рублей долга.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Долга' is the genitive form measuring an amount of debt. 'Сто рублей' is the quantity, 'мне' is the dative recipient, and 'отдал' is past tense."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-04",
+        "phrase": "Он остался верен своему долгу.",
+        "fullAnalysis": "Strategic focus: Dative complement. 'Долгу' is the dative form required by 'верен' to mean faithful to. 'Своему' is the agreeing dative adjective, and 'он' is the subject."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-05",
+        "phrase": "Без долга жить намного спокойнее.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Долга' is the genitive form required by 'без' to express absence. 'Жить' is the infinitive and 'спокойнее' is a comparative adverb."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-06",
+        "phrase": "Я считаю заботу о семье долгом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Долгом' is the instrumental form used after 'считаю' to name what something is regarded as. 'Заботу' is the accusative object being judged."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-07",
+        "phrase": "У него большие денежные долги.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Долги' is the nominative plural subject of the possession frame 'у него'. 'Большие' and 'денежные' are plural adjectives describing the debts."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-08",
+        "phrase": "Мы говорили о его долге.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Долге' is the prepositional form after 'о' to express the topic of conversation. 'Его' shows whose duty, and 'говорили' is past tense."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-09",
+        "phrase": "Помощь родителям я считаю долгом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Долгом' is instrumental after 'считаю' to name the role. 'Помощь' is the accusative object, and 'родителям' is the dative recipient."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLG-10",
+        "phrase": "Платить долги нужно всегда вовремя.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Долги' is the accusative plural object of the infinitive 'платить', matching the nominative as inanimate. 'Нужно' and 'вовремя' frame the obligation."
+      }
+    ]
+  }
+]

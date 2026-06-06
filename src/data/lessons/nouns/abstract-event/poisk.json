@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-POISK",
+    "label": "Поиск",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for поиск (search).",
+    "missions": [
+      {
+        "id": "NN-EVENT-POISK-01",
+        "phrase": "Поиск продолжается уже неделю.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поиск' is masculine nominative as the subject of 'продолжается'. 'Уже неделю' is the accusative duration phrase."
+      },
+      {
+        "id": "NN-EVENT-POISK-02",
+        "phrase": "Полиция начала поиск утром.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поиск' is the accusative object of 'начала'; the inanimate masculine keeps the nominative form. 'Утром' gives the time."
+      },
+      {
+        "id": "NN-EVENT-POISK-03",
+        "phrase": "Все надежды в этом поиске.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В поиске' uses the prepositional ending after 'в' to mean within the search. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-EVENT-POISK-04",
+        "phrase": "От поиска не было результата.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От поиска' takes the genitive after 'от' to mean from the search. 'Результата' is the genitive after 'не было'."
+      },
+      {
+        "id": "NN-EVENT-POISK-05",
+        "phrase": "Мы отказались от поиска ночью.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'От поиска' takes the genitive after 'от' to mean giving up the search. 'Ночью' is the instrumental time word."
+      },
+      {
+        "id": "NN-EVENT-POISK-06",
+        "phrase": "Все включились в поиск решения.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В поиск' uses the accusative after 'в' to show joining the search. 'Решения' is the genitive meaning of a solution."
+      },
+      {
+        "id": "NN-EVENT-POISK-07",
+        "phrase": "К поиску привлекли волонтёров.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К поиску' uses the dative after 'к' to mean to the search. 'Волонтёров' is the animate accusative object brought in."
+      },
+      {
+        "id": "NN-EVENT-POISK-08",
+        "phrase": "Он занят поиском работы.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Поиском' is the instrumental required by 'занят' to mean busy with the search. 'Работы' is genitive meaning of work."
+      },
+      {
+        "id": "NN-EVENT-POISK-09",
+        "phrase": "Их поиски длились много дней.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Поиски' is the nominative plural subject of 'длились'. 'Их' shows whose, and 'много дней' is the duration."
+      },
+      {
+        "id": "NN-EVENT-POISK-10",
+        "phrase": "После долгих поисков они устали.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Поисков' is the genitive plural after 'после', and 'долгих' agrees in the genitive plural. The clause sums up their fatigue."
+      }
+    ]
+  }
+]

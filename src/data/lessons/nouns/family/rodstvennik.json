@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-RODSTVENNIK",
+    "label": "Родственник",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for родственник (relative).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-01",
+        "phrase": "Мой близкий родственник живёт здесь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Родственник' is an animate masculine noun in the nominative case as the subject. 'Мой' and 'близкий' are the agreeing masculine modifiers."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-02",
+        "phrase": "Я давно не видел этого родственника.",
+        "fullAnalysis": "Strategic focus: Accusative equals genitive for animates. 'Родственника' takes the genitive-like accusative ending -а because the noun is animate masculine. 'Этого' agrees in the same form."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-03",
+        "phrase": "У меня нет здесь родственников.",
+        "fullAnalysis": "Strategic focus: Genitive plural of negation. 'Родственников' is the genitive plural after 'нет', expressing absence. The animate masculine plural takes the ending -ов."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-04",
+        "phrase": "Я помог дальнему родственнику.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Родственнику' is the dative form required by 'помог', which governs the dative. 'Дальнему' is the agreeing masculine dative adjective."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-05",
+        "phrase": "Я еду в гости к родственнику.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Родственнику' is the dative form after 'к', expressing motion toward a person. The phrase 'в гости' marks a social visit."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-06",
+        "phrase": "Я горжусь своим родственником.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Родственником' is the instrumental form required by 'горжусь', which governs the instrumental. 'Своим' is the agreeing masculine instrumental modifier."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-07",
+        "phrase": "Мы говорили о нашем родственнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О родственнике' uses the prepositional form 'родственнике' after 'о' to express the topic of conversation. 'Нашем' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-08",
+        "phrase": "Все мои родственники приехали сюда.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Родственники' is the nominative plural subject of 'приехали'. 'Все' and 'мои' are the agreeing plural modifiers."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-09",
+        "phrase": "Я пригласил всех родственников домой.",
+        "fullAnalysis": "Strategic focus: Accusative plural for animates. 'Родственников' takes the genitive-like accusative plural ending -ов because the noun is animate. 'Всех' agrees in the same animate form."
+      },
+      {
+        "id": "NN-FAMILY-RODSTVENNIK-10",
+        "phrase": "Это мой самый старший родственник.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Родственник' is nominative as the predicate noun. 'Мой' and 'старший' agree in the masculine, with 'самый' forming the superlative."
+      }
+    ]
+  }
+]

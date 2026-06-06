@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-RUKOVODITEL",
+    "label": "Руководитель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for руководитель (manager).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-01",
+        "phrase": "Наш руководитель очень строгий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Руководитель' is an animate masculine noun in the nominative case as the subject. 'Наш' is the agreeing possessive, and 'строгий' is the predicate adjective."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-02",
+        "phrase": "Я давно знаю этого руководителя.",
+        "fullAnalysis": "Strategic focus: Accusative equals genitive for animates. 'Руководителя' takes the animate accusative ending -я because the noun is animate masculine. 'Этого' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-03",
+        "phrase": "Это кабинет нашего руководителя.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Руководителя' is the genitive form showing whose office it is. 'Нашего' is the agreeing masculine genitive possessive, and 'кабинет' is the nominative."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-04",
+        "phrase": "Я подошёл к руководителю с вопросом.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Руководителю' is the dative form after 'к', expressing movement toward the person. 'С вопросом' is an instrumental phrase of accompaniment."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-05",
+        "phrase": "Он стал руководителем отдела.",
+        "fullAnalysis": "Strategic focus: Instrumental of role. 'Руководителем' is the instrumental form after 'стал', the standard case for naming a position one assumes. 'Отдела' is the genitive modifier."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-06",
+        "phrase": "Мы говорили о новом руководителе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О руководителе' uses the prepositional form 'руководителе' after 'о' to express the topic. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-07",
+        "phrase": "Все руководители собрались на совещание.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Руководители' is the nominative plural subject of 'собрались'. 'Все' is the agreeing plural quantifier."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-08",
+        "phrase": "Я уважаю наших руководителей.",
+        "fullAnalysis": "Strategic focus: Accusative plural for animates. 'Руководителей' takes the genitive-like accusative plural ending -ей because the noun is animate. 'Наших' agrees in the same animate form."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-09",
+        "phrase": "В компании работают пять руководителей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. After 'пять' the noun takes the genitive plural 'руководителей'. 'В компании' is the prepositional location of the count."
+      },
+      {
+        "id": "NN-PEOPLE-RUKOVODITEL-10",
+        "phrase": "Это мой прямой руководитель.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Руководитель' is nominative as the predicate noun. 'Мой' and 'прямой' are the agreeing masculine modifiers. A clean introduction model."
+      }
+    ]
+  }
+]

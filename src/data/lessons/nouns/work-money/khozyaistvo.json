@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-KHOZYAISTVO",
+    "label": "Хозяйство",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for хозяйство (economy).",
+    "missions": [
+      {
+        "id": "NN-WORK-KHOZYAISTVO-01",
+        "phrase": "Сельское хозяйство быстро развивается.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Хозяйство' is the neuter nominative as the subject of 'развивается'. 'Сельское' is the agreeing neuter adjective naming agriculture."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-02",
+        "phrase": "Она ведёт большое хозяйство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Хозяйство' is the neuter accusative direct object of 'ведёт', identical to the nominative. 'Большое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-03",
+        "phrase": "Это зависит от состояния хозяйства.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Хозяйства' is the genitive form modifying 'состояния'. The chain 'от состояния хозяйства' shows what the outcome depends on."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-04",
+        "phrase": "В нашем хозяйстве много животных.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В хозяйстве' uses the prepositional form after 'в' to show where the animals are. 'Нашем' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-05",
+        "phrase": "Правительство помогает хозяйству.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Хозяйству' is the dative form required by 'помогать', which governs the dative. 'Правительство' is the neuter nominative subject."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-06",
+        "phrase": "Он занимается домашним хозяйством.",
+        "fullAnalysis": "Strategic focus: Instrumental after заниматься. 'Хозяйством' is the instrumental form required by 'заниматься'. 'Домашним' agrees in the neuter instrumental, meaning household chores."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-07",
+        "phrase": "В деревне много крепких хозяйств.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Хозяйств' is the genitive plural required by the quantifier 'много'. 'Крепких' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-08",
+        "phrase": "Эти хозяйства приносят хороший доход.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Хозяйства' is the nominative plural as the subject of 'приносят'. 'Эти' agrees in the plural, and 'доход' is the accusative object."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-09",
+        "phrase": "Мы развиваем своё хозяйство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Хозяйство' is the neuter accusative direct object of 'развиваем', identical to the nominative. 'Своё' marks possession."
+      },
+      {
+        "id": "NN-WORK-KHOZYAISTVO-10",
+        "phrase": "Состояние мирового хозяйства тревожит экономистов.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Хозяйства' is the genitive form modifying 'состояние'. 'Мирового' agrees in the genitive, naming the world economy as the topic."
+      }
+    ]
+  }
+]

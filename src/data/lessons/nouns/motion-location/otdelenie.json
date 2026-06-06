@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-OTDELENIE",
+    "label": "Отделение",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for отделение (branch).",
+    "missions": [
+      {
+        "id": "NN-MOTION-OTDELENIE-01",
+        "phrase": "Это отделение работает по субботам.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отделение' is neuter nominative as the subject of 'работает'. 'Это' agrees in the neuter, and 'по субботам' gives the schedule."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-02",
+        "phrase": "Я нашёл ближайшее отделение банка.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отделение' is the accusative object of 'нашёл'; neuter nouns match the nominative form. 'Банка' is genitive meaning of the bank."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-03",
+        "phrase": "Я работаю в этом отделении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В отделении' uses the prepositional ending after 'в' to give the place of work. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-04",
+        "phrase": "Рядом нет почтового отделения.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Отделения' is genitive after 'нет', and 'почтового' agrees in the neuter genitive. 'Рядом' shows there is none nearby."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-05",
+        "phrase": "Я вышел из отделения полиции.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Из отделения' takes the genitive after 'из' to show motion out. 'Полиции' is genitive meaning of the police."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-06",
+        "phrase": "Я зашёл в отделение за посылкой.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В отделение' uses the accusative after 'в' to show motion into the branch. 'За посылкой' is the instrumental purpose phrase."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-07",
+        "phrase": "Мы подошли к новому отделению.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К отделению' uses the dative after 'к' to mean toward the branch. 'Новому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-08",
+        "phrase": "Перед отделением стоит очередь.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Перед отделением' uses the instrumental after 'перед' to mean in front of the branch. 'Очередь' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-09",
+        "phrase": "Все отделения сегодня закрыты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Отделения' is the nominative plural subject. 'Все' quantifies them, and 'закрыты' is the short-form predicate, with 'сегодня' as time."
+      },
+      {
+        "id": "NN-MOTION-OTDELENIE-10",
+        "phrase": "В городе много отделений банка.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Отделений' is the genitive plural required after 'много'. 'В городе' is the prepositional location, and 'банка' is genitive."
+      }
+    ]
+  }
+]

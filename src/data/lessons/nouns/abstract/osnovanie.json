@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-OSNOVANIE",
+    "label": "Основание",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for основание (basis).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-01",
+        "phrase": "Для этого есть серьёзное основание.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Основание' is the neuter nominative as the subject of 'есть'. 'Серьёзное' is the agreeing neuter adjective, and 'для этого' frames the reason."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-02",
+        "phrase": "Я не вижу никакого основания.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Основания' is the genitive form triggered by the negated verb 'не вижу'. 'Никакого' agrees in the genitive, strengthening the denial."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-03",
+        "phrase": "Это решение не имеет основания.",
+        "fullAnalysis": "Strategic focus: Genitive after не иметь. 'Основания' is the genitive object of the negated 'не имеет', a fixed pattern. 'Это решение' is the nominative subject."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-04",
+        "phrase": "Дом стоит на прочном основании.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На основании' uses the prepositional form after 'на' to show what the house stands on. 'Прочном' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-05",
+        "phrase": "Мы доверяем этому основанию.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Основанию' is the dative form required by 'доверять', which governs the dative. 'Этому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-06",
+        "phrase": "Он гордится своим основанием.",
+        "fullAnalysis": "Strategic focus: Instrumental after гордиться. 'Основанием' is the instrumental form required by 'гордиться'. 'Своим' agrees in the neuter instrumental, marking possession."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-07",
+        "phrase": "У нас нет твёрдых оснований.",
+        "fullAnalysis": "Strategic focus: Genitive plural after нет. 'Оснований' is the genitive plural required by 'нет'. 'Твёрдых' agrees in the genitive plural, and 'у нас' frames the possession."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-08",
+        "phrase": "Эти основания кажутся убедительными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Основания' is the nominative plural as the subject of 'кажутся'. 'Эти' agrees in the plural, and 'убедительными' is the instrumental predicate."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-09",
+        "phrase": "Они привели важное основание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Основание' is the neuter accusative direct object of 'привели', identical to the nominative. 'Важное' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-ABSTRACT-OSNOVANIE-10",
+        "phrase": "На основании закона его уволили.",
+        "fullAnalysis": "Strategic focus: Prepositional in a set phrase. 'На основании' is a fixed expression meaning on the basis of, governing the genitive 'закона'. A common formal connector."
+      }
+    ]
+  }
+]

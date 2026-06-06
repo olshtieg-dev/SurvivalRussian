@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SOVEST",
+    "label": "Совесть",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for совесть (conscience).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SOVEST-01",
+        "phrase": "У него совершенно чистая совесть.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Совесть' is a feminine soft-sign noun in the nominative as the subject. 'Чистая' is the agreeing feminine adjective, and 'у него' marks possession."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-02",
+        "phrase": "Деньги совсем заглушили его совесть.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Совесть' is the feminine accusative direct object of 'заглушили', identical to the nominative. 'Его' shows whose, and 'деньги' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-03",
+        "phrase": "У этого человека нет совести.",
+        "fullAnalysis": "Strategic focus: Genitive after нет. 'Совести' is the genitive form required by 'нет' to express absence. 'У этого человека' is a genitive possession phrase."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-04",
+        "phrase": "Поступай всегда по совести.",
+        "fullAnalysis": "Strategic focus: Dative after по. 'Совести' is the dative form after 'по' in the idiom meaning according to conscience. 'Поступай' is an imperative, and 'всегда' an adverb."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-05",
+        "phrase": "Он живёт в мире со своей совестью.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Совестью' is the instrumental form after 'с' to mean together with. 'Своей' agrees, and 'в мире' is a prepositional phrase meaning at peace."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-06",
+        "phrase": "В его совести нет покоя.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Совести' is the prepositional form after 'в' to express location within. 'Его' shows whose, and 'нет покоя' expresses absence of peace."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-07",
+        "phrase": "Совесть мучает его каждую ночь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Совесть' is nominative as the subject of 'мучает'. 'Его' is the accusative object, and 'каждую ночь' is an accusative time phrase."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-08",
+        "phrase": "Без совести жить очень легко.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Совести' is the genitive form required by 'без' to express absence. 'Жить' is the infinitive, and 'легко' a predicate adverb."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-09",
+        "phrase": "Эта мысль легла мне на совесть.",
+        "fullAnalysis": "Strategic focus: Accusative after на. 'Совесть' takes the accusative after 'на' in this idiom, identical to the nominative. 'Мысль' is the subject, and 'мне' is the dative."
+      },
+      {
+        "id": "NN-EMOTION-SOVEST-10",
+        "phrase": "Народные совести судят строго.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Совести' is the rarely used nominative plural subject of 'судят'. 'Народные' agrees in the plural, and 'строго' is an adverb of manner."
+      }
+    ]
+  }
+]

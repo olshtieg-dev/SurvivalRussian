@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-ISTOCHNIK",
+    "label": "Источник",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for источник (source).",
+    "missions": [
+      {
+        "id": "NN-EVENT-ISTOCHNIK-01",
+        "phrase": "Это надёжный источник информации.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Источник' is the masculine nominative as the predicate noun. 'Надёжный' is the agreeing adjective, and 'информации' is a genitive modifier."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-02",
+        "phrase": "Журналист нашёл важный источник.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Источник' is the inanimate masculine accusative direct object of 'нашёл', identical to the nominative. 'Важный' agrees with it."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-03",
+        "phrase": "Мы пьём воду из источника.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Источника' is the genitive form required by 'из', meaning out of the spring. 'Воду' is the accusative object of 'пьём'."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-04",
+        "phrase": "Учёные доверяют этому источнику.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Источнику' is the dative form required by 'доверять', which governs the dative. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-05",
+        "phrase": "Он пользуется проверенным источником.",
+        "fullAnalysis": "Strategic focus: Instrumental after пользоваться. 'Источником' is the instrumental form required by 'пользоваться'. 'Проверенным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-06",
+        "phrase": "В источнике есть полезные данные.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В источнике' uses the prepositional form after 'в' to mean within the source. 'Данные' is the nominative subject of 'есть'."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-07",
+        "phrase": "В горах много чистых источников.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Источников' is the genitive plural required by the quantifier 'много'. 'Чистых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-08",
+        "phrase": "Эти источники противоречат друг другу.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Источники' is the nominative plural as the subject of 'противоречат'. 'Эти' agrees in the plural, and 'друг другу' marks mutual conflict."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-09",
+        "phrase": "Солнце - главный источник энергии.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Источник' is the nominative predicate noun linked to 'солнце' by the dash. 'Главный' agrees, and 'энергии' is a genitive modifier."
+      },
+      {
+        "id": "NN-EVENT-ISTOCHNIK-10",
+        "phrase": "Я узнал об этом из другого источника.",
+        "fullAnalysis": "Strategic focus: Genitive after из. 'Источника' is the genitive form required by 'из', naming the channel of the information. 'Другого' agrees in the masculine genitive."
+      }
+    ]
+  }
+]
