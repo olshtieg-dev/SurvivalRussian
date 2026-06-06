@@ -12,6 +12,11 @@ import { workMoneyNounsLessonSets, workMoneyNounsFolder } from './work-money';
 import { peopleRolesNounsLessonSets, peopleRolesNounsFolder } from './people-roles';
 import { communicationNounsLessonSets, communicationNounsFolder } from './communication-media';
 import { educationNounsLessonSets, educationNounsFolder } from './education-science';
+import { societyStateNounsLessonSets, societyStateNounsFolder } from './society-state';
+import { emotionsNounsLessonSets, emotionsNounsFolder } from './emotions-states';
+import { abstractMindNounsLessonSets, abstractMindNounsFolder } from './abstract-mind';
+import { abstractStructureNounsLessonSets, abstractStructureNounsFolder } from './abstract-structure';
+import { abstractEventNounsLessonSets, abstractEventNounsFolder } from './abstract-event';
 
 export const nounsFolderId = 'nouns';
 
@@ -20,7 +25,7 @@ export const nounsFolder = {
   label: 'Nouns',
   badge: 'NN',
   description: 'A noun library organized into semantic families. Each noun gets its own 10-sentence usage card.',
-  missionCountLabel: '14 noun groups',
+  missionCountLabel: '19 noun groups',
   isFolder: true,
 };
 
@@ -39,6 +44,11 @@ export const nounsGroupFolders = [
   peopleRolesNounsFolder,
   communicationNounsFolder,
   educationNounsFolder,
+  societyStateNounsFolder,
+  emotionsNounsFolder,
+  abstractMindNounsFolder,
+  abstractStructureNounsFolder,
+  abstractEventNounsFolder,
 ];
 
 export const nounsLessonSets = [
@@ -56,4 +66,9 @@ export const nounsLessonSets = [
   ...peopleRolesNounsLessonSets,
   ...communicationNounsLessonSets,
   ...educationNounsLessonSets,
+  ...societyStateNounsLessonSets,
+  ...emotionsNounsLessonSets,
+  ...abstractMindNounsLessonSets,
+  ...abstractStructureNounsLessonSets,
+  ...abstractEventNounsLessonSets,
 ];

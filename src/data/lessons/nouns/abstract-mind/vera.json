@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-VERA",
+    "label": "Вера",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for вера (faith).",
+    "missions": [
+      {
+        "id": "NN-MIND-VERA-01",
+        "phrase": "Его вера очень крепкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вера' is the feminine nominative subject. 'Крепкая' is the agreeing feminine adjective, intensified by 'очень'. A clean descriptive model for an abstract noun."
+      },
+      {
+        "id": "NN-MIND-VERA-02",
+        "phrase": "Трудности укрепили его веру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Веру' is the feminine accusative, the direct object of 'укрепили'. 'Трудности' is the nominative plural subject. A meaningful cause-effect pattern."
+      },
+      {
+        "id": "NN-MIND-VERA-03",
+        "phrase": "У него нет веры в успех.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Веры' is the genitive required by 'нет'. 'В успех' is the accusative naming the object of faith. A core negation pattern."
+      },
+      {
+        "id": "NN-MIND-VERA-04",
+        "phrase": "Они остались верны своей вере.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Вере' is the dative governed by 'верны' (faithful to). 'Своей' agrees in the feminine dative. A strong model for loyalty language."
+      },
+      {
+        "id": "NN-MIND-VERA-05",
+        "phrase": "Он живёт верой в добро.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Верой' is the instrumental expressing what he lives by. 'В добро' is the accusative naming the object of faith. A heartfelt instrumental model."
+      },
+      {
+        "id": "NN-MIND-VERA-06",
+        "phrase": "В её вере много силы.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В её вере' uses the prepositional 'вере' after 'в' to locate a quality. 'Много силы' uses the genitive of quantity. A reflective pattern."
+      },
+      {
+        "id": "NN-MIND-VERA-07",
+        "phrase": "Без веры жить очень трудно.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Без веры' uses the genitive 'веры' after 'без' to express absence. 'Жить' is the infinitive subject. A strong existential statement."
+      },
+      {
+        "id": "NN-MIND-VERA-08",
+        "phrase": "Мы говорим о вере и надежде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О вере' uses the prepositional 'вере' after 'о', joined to 'надежде' by 'и'. Both nouns share the prepositional. A reflective discussion frame."
+      },
+      {
+        "id": "NN-MIND-VERA-09",
+        "phrase": "Вера помогает людям в беде.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вера' is the nominative subject of 'помогает', which governs the dative 'людям'. 'В беде' is the prepositional location. A natural supportive statement."
+      },
+      {
+        "id": "NN-MIND-VERA-10",
+        "phrase": "Она потеряла веру в людей.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Веру' is the feminine accusative, the direct object of 'потеряла'. 'В людей' is the accusative naming the object of faith. A common emotional pattern."
+      }
+    ]
+  }
+]

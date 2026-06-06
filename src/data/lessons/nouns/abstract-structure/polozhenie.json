@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-POLOZHENIE",
+    "label": "Положение",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for положение (position).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-POLOZHENIE-01",
+        "phrase": "Его положение очень сложное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Положение' is the neuter nominative subject. 'Сложное' is the agreeing neuter adjective, intensified by 'очень'. A clean model for describing a situation."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-02",
+        "phrase": "Мы должны исправить это положение.",
+        "fullAnalysis": "Strategic focus: Accusative object. Neuter 'положение' has an accusative identical to the nominative, here the direct object of 'исправить'. 'Это' agrees in the neuter accusative. A common action statement."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-03",
+        "phrase": "Это зависит от положения дел.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'От положения' uses the genitive 'положения' after 'от', and 'дел' is the genitive plural of 'дело'. A natural idiom for the state of affairs."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-04",
+        "phrase": "Он рад своему новому положению.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Положению' is the dative governed by 'рад' (glad of). 'Своему новому' agrees in the neuter dative. A strong evaluation model."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-05",
+        "phrase": "Мы оказались в трудном положении.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В трудном положении' uses the prepositional 'положении' after 'в' to express the situation. 'Трудном' agrees in the neuter prepositional. A very common idiom."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-06",
+        "phrase": "Он гордится своим положением.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Положением' is the instrumental governed by 'гордится' (proud of). 'Своим' agrees in the neuter instrumental. A natural pride model."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-07",
+        "phrase": "В этом положении есть выход.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В этом положении' uses the prepositional 'положении' to locate a possibility. 'Выход' is the nominative subject of 'есть'. A hopeful situational pattern."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-08",
+        "phrase": "Закон описывает основные положения.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Положения' is the accusative plural, the direct object of 'описывает', here meaning provisions. 'Основные' agrees in the plural. Useful legal vocabulary."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-09",
+        "phrase": "Мы думаем о своём положении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О своём положении' uses the prepositional 'положении' after 'о' to express the topic of thought. 'Своём' agrees in the neuter prepositional. A reflective frame."
+      },
+      {
+        "id": "NN-STRUCT-POLOZHENIE-10",
+        "phrase": "Семья улучшила своё материальное положение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Положение' is the neuter accusative, the direct object of 'улучшила'. 'Своё материальное' agrees in the neuter accusative. A practical socioeconomic pattern."
+      }
+    ]
+  }
+]

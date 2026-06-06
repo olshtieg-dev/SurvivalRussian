@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-PROBLEMA",
+    "label": "Проблема",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for проблема (problem).",
+    "missions": [
+      {
+        "id": "NN-EVENT-PROBLEMA-01",
+        "phrase": "Это серьёзная проблема.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Проблема' is a feminine noun, here nominative as the predicate. 'Серьёзная' is the agreeing feminine adjective. A natural way to flag something as a problem."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-02",
+        "phrase": "Мы быстро решили эту проблему.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Проблему' is the accusative direct object of 'решили'. 'Эту' agrees in the feminine accusative and 'быстро' adds manner. A core pattern for solving problems."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-03",
+        "phrase": "Это не имеет решения проблемы.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Проблемы' is the genitive singular, linked to 'решения' as the solution of the problem. The genitive is the standard way to attach one noun to another."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-04",
+        "phrase": "Учёные уделяют внимание этой проблеме.",
+        "fullAnalysis": "Strategic focus: Dative after a fixed phrase. 'Проблеме' is the dative singular governed by 'уделяют внимание', meaning pay attention to the problem. 'Этой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-05",
+        "phrase": "Он занимается этой проблемой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'заниматься'. 'Проблемой' is the instrumental singular required by 'занимается', meaning he works on the problem. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-06",
+        "phrase": "В этой проблеме много сложностей.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В проблеме' uses the prepositional 'проблеме' after 'в', meaning within this problem. 'Этой' agrees in the feminine prepositional and 'много сложностей' uses the genitive."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-07",
+        "phrase": "Давай поговорим о твоей проблеме.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Проблеме' is prepositional after 'о', meaning talking about the problem. 'Твоей' agrees in the feminine prepositional. A common invitation to discuss."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-08",
+        "phrase": "У меня возникла одна проблема.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Проблема' is nominative as the subject of 'возникла', which agrees in feminine. 'Одна' counts it and 'у меня' shows whose problem it is."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-09",
+        "phrase": "У города большие проблемы с транспортом.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Проблемы' is the nominative plural, the subject of an existential possession frame. 'Большие' agrees in the plural and 'с транспортом' is instrumental. This noun pluralizes readily."
+      },
+      {
+        "id": "NN-EVENT-PROBLEMA-10",
+        "phrase": "Без денег возникает много проблем.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Проблем' is the genitive plural required by 'много', with a zero ending. 'Без денег' is genitive, meaning without money many problems arise."
+      }
+    ]
+  }
+]

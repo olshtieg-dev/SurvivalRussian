@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-BOLSHINSTVO",
+    "label": "Большинство",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for большинство (majority).",
+    "missions": [
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-01",
+        "phrase": "Большинство людей согласны с этим.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Большинство' is a neuter noun in the nominative as the subject. 'Людей' is a genitive plural counted by it, and 'согласны' is the short predicate adjective."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-02",
+        "phrase": "Партия получила большинство голосов.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Большинство' is the accusative direct object of 'получила'; the neuter matches the nominative. 'Голосов' is a genitive plural counted by the majority."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-03",
+        "phrase": "У большинства студентов есть телефоны.",
+        "fullAnalysis": "Strategic focus: Genitive after у. 'Большинства' is genitive governed by 'у', framing possession. The neuter takes -а, and 'студентов' is a genitive plural counted by it."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-04",
+        "phrase": "Здесь нет явного большинства.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Большинства' is genitive after 'нет', the neuter taking -а. 'Явного' agrees in the neuter genitive, denying a clear majority."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-05",
+        "phrase": "Мы доверяем мнению большинства.",
+        "fullAnalysis": "Strategic focus: Genitive modifier with dative. 'Большинства' is genitive specifying whose opinion, while 'мнению' is dative governed by 'доверяем'. A natural blend of cases."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-06",
+        "phrase": "Закон принят большинством голосов.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Большинством' is the instrumental expressing by what the law passed. The neuter ends in -ом, and 'голосов' is a genitive plural counted by it."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-07",
+        "phrase": "В большинстве случаев он прав.",
+        "fullAnalysis": "Strategic focus: Prepositional in fixed phrase. 'Большинстве' follows 'в' in the idiom 'в большинстве случаев', meaning in most cases. The neuter takes -е, and 'случаев' is genitive plural."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-08",
+        "phrase": "Большинство против нового плана.",
+        "fullAnalysis": "Strategic focus: Nominative subject with против. 'Большинство' is nominative as the subject. 'Против' governs the genitive 'нового плана', stating what the majority opposes."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-09",
+        "phrase": "Большинство уже проголосовало за реформу.",
+        "fullAnalysis": "Strategic focus: Nominative subject with neuter verb. 'Большинство' is nominative and takes a neuter singular verb 'проголосовало'. 'За реформу' uses the accusative to show what they backed."
+      },
+      {
+        "id": "NN-EVENT-BOLSHINSTVO-10",
+        "phrase": "Я благодарен большинству коллег.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Большинству' is dative governed by 'благодарен', which takes the dative. The neuter ends in -у, and 'коллег' is a genitive plural counted by it."
+      }
+    ]
+  }
+]

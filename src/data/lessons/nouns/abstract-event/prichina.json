@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-PRICHINA",
+    "label": "Причина",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for причина (cause).",
+    "missions": [
+      {
+        "id": "NN-EVENT-PRICHINA-01",
+        "phrase": "Причина пожара пока неизвестна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Причина' is the nominative subject, and 'неизвестна' is the short feminine predicate agreeing with it. 'Пожара' is genitive, naming what was caused."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-02",
+        "phrase": "Полиция нашла настоящую причину.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Причину' is the accusative direct object of 'нашла'. 'Настоящую' is the feminine accusative adjective agreeing with it."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-03",
+        "phrase": "У этой болезни много причин.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. The quantity word 'много' takes the genitive plural 'причин'. The frame 'у этой болезни' shows what they belong to."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-04",
+        "phrase": "Мы придаём значение каждой причине.",
+        "fullAnalysis": "Strategic focus: Dative after каждый. 'Причине' is dative, governed by 'каждой', within the idiom 'придавать значение'. The phrase weighs every cause."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-05",
+        "phrase": "Он недоволен этой причиной.",
+        "fullAnalysis": "Strategic focus: Instrumental after недоволен. The short adjective 'недоволен' requires the instrumental, giving 'причиной'. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-06",
+        "phrase": "В этой причине есть смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional form 'причине'. 'Есть смысл' uses the nominative, judging the cause reasonable."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-07",
+        "phrase": "По этой причине я опоздал.",
+        "fullAnalysis": "Strategic focus: Dative in a set phrase. The idiom 'по причине' takes the dative 'причине'. 'Этой' agrees in the feminine dative, explaining the lateness."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-08",
+        "phrase": "Без причины он не пришёл.",
+        "fullAnalysis": "Strategic focus: Genitive after без. The preposition 'без' takes the genitive 'причины'. The clause notes the absence of any reason for his no-show."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-09",
+        "phrase": "Главные причины уже известны всем.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Причины' is the nominative plural subject, and 'известны' is the short plural predicate. 'Главные' agrees in the plural."
+      },
+      {
+        "id": "NN-EVENT-PRICHINA-10",
+        "phrase": "Учёные изучают причины землетрясений.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Причины' is the accusative plural object of 'изучают', matching the nominative plural for inanimates. 'Землетрясений' is genitive plural."
+      }
+    ]
+  }
+]

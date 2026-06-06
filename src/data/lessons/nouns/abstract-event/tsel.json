@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-TSEL",
+    "label": "Цель",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for цель (goal).",
+    "missions": [
+      {
+        "id": "NN-EVENT-TSEL-01",
+        "phrase": "Моя главная цель уже ясна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Цель' is a feminine -ь noun in the nominative as the subject. 'Главная' is the agreeing feminine adjective, and 'ясна' is the short predicate adjective."
+      },
+      {
+        "id": "NN-EVENT-TSEL-02",
+        "phrase": "Он наконец достиг своей цели.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Цели' is genitive governed by 'достиг', which takes the genitive. The feminine -ь form ends in -и, and 'своей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EVENT-TSEL-03",
+        "phrase": "У нас нет общей цели.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Цели' is genitive after 'нет', the feminine -ь taking -и. 'Общей' agrees in the feminine genitive, meaning there is no shared goal."
+      },
+      {
+        "id": "NN-EVENT-TSEL-04",
+        "phrase": "Мы идём к одной цели.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Цели' is dative governed by 'к', meaning toward. The feminine -ь form ends in -и, and 'одной' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-EVENT-TSEL-05",
+        "phrase": "Он живёт высокой целью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Целью' is the instrumental expressing what he lives by. The feminine -ь ends in -ью, and 'высокой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EVENT-TSEL-06",
+        "phrase": "Мы часто думаем о цели жизни.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Цели' follows 'о' in the prepositional, naming the topic. The feminine -ь ends in -и, and 'жизни' is a genitive modifier."
+      },
+      {
+        "id": "NN-EVENT-TSEL-07",
+        "phrase": "Он поставил перед собой цель.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Цель' is the accusative direct object of 'поставил'; feminine -ь nouns match the nominative in the accusative. 'Перед собой' uses the instrumental reflexive."
+      },
+      {
+        "id": "NN-EVENT-TSEL-08",
+        "phrase": "Ради этой цели он рискует всем.",
+        "fullAnalysis": "Strategic focus: Genitive after ради. 'Цели' is genitive governed by 'ради', meaning for the sake of. 'Этой' agrees in the feminine genitive, and 'всем' is the instrumental risked."
+      },
+      {
+        "id": "NN-EVENT-TSEL-09",
+        "phrase": "У каждого свои цели в жизни.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Цели' is the nominative plural subject, meaning everyone's goals. The feminine -ь takes -и in the plural, and 'свои' agrees."
+      },
+      {
+        "id": "NN-EVENT-TSEL-10",
+        "phrase": "Компания ставит новые цели.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Цели' is the accusative plural object of 'ставит', meaning to set goals. The feminine -ь form ends in -и, and 'новые' agrees in the plural."
+      }
+    ]
+  }
+]

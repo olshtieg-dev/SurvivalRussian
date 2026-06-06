@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-VYRAZHENIE",
+    "label": "Выражение",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for выражение (expression).",
+    "missions": [
+      {
+        "id": "NN-MIND-VYRAZHENIE-01",
+        "phrase": "У него было серьёзное выражение лица.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Выражение' is a neuter noun ending in -ие, here nominative as the subject of 'было'. 'Серьёзное' agrees in neuter and 'лица' is genitive in the phrase expression of the face."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-02",
+        "phrase": "Я заметил странное выражение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Выражение' is the accusative direct object of 'заметил'; for this neuter noun the accusative matches the nominative. 'Странное' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-03",
+        "phrase": "Значение этого выражения непонятно.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Выражения' is the genitive singular, linked to 'значение' as the meaning of the expression. 'Этого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-04",
+        "phrase": "Учитель учит детей выражению мыслей.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Выражению' is the dative singular governed by 'учит', which takes a dative of the skill taught. 'Мыслей' is genitive plural meaning expression of thoughts."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-05",
+        "phrase": "Она пользуется ярким выражением.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Выражением' is the instrumental singular required by 'пользуется', meaning makes use of an expression. 'Ярким' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-06",
+        "phrase": "В этом выражении скрыта ирония.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В выражении' uses the prepositional 'выражении' after 'в', meaning within this expression. 'Этом' agrees in the neuter prepositional and 'ирония' is the nominative subject."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-07",
+        "phrase": "Мы спорим о значении выражения.",
+        "fullAnalysis": "Strategic focus: Genitive after 'значение'. 'Выражения' is the genitive singular naming the meaning of the expression. 'О значении' is the prepositional phrase about which they argue."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-08",
+        "phrase": "Это устойчивое выражение в русском языке.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Выражение' is nominative as the predicate noun, here a set phrase. 'Устойчивое' is the agreeing neuter adjective and 'в языке' is the prepositional location."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-09",
+        "phrase": "В словаре есть полезные выражения.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Выражения' is the nominative plural, the subject of the existential 'есть'. 'Полезные' agrees in the plural. This noun pluralizes readily as phrases."
+      },
+      {
+        "id": "NN-MIND-VYRAZHENIE-10",
+        "phrase": "Запиши несколько новых выражений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Выражений' is the genitive plural required by 'несколько'. 'Новых' agrees in the plural genitive, an instruction to note down a few phrases."
+      }
+    ]
+  }
+]

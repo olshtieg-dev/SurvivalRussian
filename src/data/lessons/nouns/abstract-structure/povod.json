@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-POVOD",
+    "label": "Повод",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for повод (occasion; reason).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-POVOD-01",
+        "phrase": "Это хороший повод встретиться.",
+        "fullAnalysis": "Strategic focus: Nominative as predicate. 'Повод' is nominative, the predicate noun after 'это'. 'Хороший' is the agreeing masculine adjective, and the infinitive names the occasion."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-02",
+        "phrase": "Он ищет повод для ссоры.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine, 'повод' is unchanged in the accusative as the object of 'ищет'. 'Для ссоры' is genitive, naming the purpose."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-03",
+        "phrase": "У нас нет повода для радости.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. The word 'нет' takes the genitive 'повода'. 'Для радости' is genitive after 'для', and the frame 'у нас' shows whose situation."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-04",
+        "phrase": "Он обрадовался любому поводу.",
+        "fullAnalysis": "Strategic focus: Dative after обрадоваться. The verb 'обрадоваться' governs the dative, giving 'поводу'. 'Любому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-05",
+        "phrase": "Не пользуйся этим поводом.",
+        "fullAnalysis": "Strategic focus: Instrumental after пользоваться. The verb 'пользоваться' requires the instrumental, giving 'поводом'. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-06",
+        "phrase": "В этом поводе нет логики.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional form 'поводе'. The phrase 'нет логики' uses the genitive for absence."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-07",
+        "phrase": "По какому поводу вы здесь?",
+        "fullAnalysis": "Strategic focus: Dative in a set phrase. The idiom 'по поводу' takes the dative 'поводу'. 'Какому' agrees in the masculine dative, asking the reason for being there."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-08",
+        "phrase": "Праздник стал поводом для встречи.",
+        "fullAnalysis": "Strategic focus: Instrumental as predicate after стать. The verb 'стать' puts its complement in the instrumental, giving 'поводом'. 'Праздник' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-09",
+        "phrase": "У них всегда есть поводы для встреч.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Поводы' is the nominative plural in the possession frame 'у них есть'. 'Для встреч' is genitive plural, naming the occasions."
+      },
+      {
+        "id": "NN-STRUCT-POVOD-10",
+        "phrase": "Это серьёзный повод для разговора.",
+        "fullAnalysis": "Strategic focus: Nominative predicate noun. 'Повод' is nominative as the predicate after 'это'. 'Серьёзный' is the agreeing masculine adjective, and 'для разговора' is genitive."
+      }
+    ]
+  }
+]

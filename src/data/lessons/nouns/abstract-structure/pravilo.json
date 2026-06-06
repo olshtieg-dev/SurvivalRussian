@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-PRAVILO",
+    "label": "Правило",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for правило (rule).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-PRAVILO-01",
+        "phrase": "Это очень важное правило.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Правило' is the nominative predicate noun, a neuter -о noun. 'Важное' is the agreeing neuter adjective, and 'очень' intensifies its importance."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-02",
+        "phrase": "Ученик хорошо знает правило.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Правило' is the accusative object of 'знает'; this neuter noun is identical in the nominative and accusative singular. 'Ученик' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-03",
+        "phrase": "Он не понял смысл правила.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Правила' is the genitive form showing the meaning of what. 'Смысл' is the accusative object, and 'не понял' is the negated masculine past verb."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-04",
+        "phrase": "Мы следуем этому правилу.",
+        "fullAnalysis": "Strategic focus: Dative after следовать. 'Правилу' is the dative form required by 'следуем'. 'Этому' agrees in the neuter dative, and 'мы' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-05",
+        "phrase": "Он недоволен этим правилом.",
+        "fullAnalysis": "Strategic focus: Instrumental after недоволен. 'Правилом' is the instrumental form required by 'недоволен'. 'Этим' agrees in the neuter instrumental, and the short-form adjective agrees with 'он'."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-06",
+        "phrase": "В учебнике написано о новом правиле.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'О правиле' uses the prepositional 'правиле' to name the topic. 'Новом' agrees in the neuter prepositional, and 'в учебнике' is also prepositional."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-07",
+        "phrase": "Эти правила знают все ученики.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Правила' is the accusative plural object of 'знают'; as an inanimate neuter noun it matches the nominative plural. 'Эти' agrees, and 'ученики' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-08",
+        "phrase": "В игре есть строгие правила.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Правила' is the nominative plural subject of 'есть'. 'Строгие' agrees in the plural, and 'в игре' is prepositional, naming the place."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-09",
+        "phrase": "Здесь много непонятных правил.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Правил' is the genitive plural form required by 'много', with a zero ending typical of neuter nouns. 'Непонятных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-STRUCT-PRAVILO-10",
+        "phrase": "Учитель объяснил детям правило.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Правило' is the accusative object of 'объяснил', while 'детям' is the dative recipient. 'Учитель' is the nominative subject."
+      }
+    ]
+  }
+]

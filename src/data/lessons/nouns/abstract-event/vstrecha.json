@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-VSTRECHA",
+    "label": "Встреча",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for встреча (meeting).",
+    "missions": [
+      {
+        "id": "NN-EVENT-VSTRECHA-01",
+        "phrase": "Наша встреча была очень тёплой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Встреча' stays in the nominative as the subject. 'Наша' is the agreeing feminine possessive, and 'тёплой' is the instrumental predicate after 'была'."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-02",
+        "phrase": "Я перенёс важную встречу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Встречу' is the accusative direct object of 'перенёс'. 'Важную' agrees in the feminine accusative, describing the meeting."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-03",
+        "phrase": "Я жду этой встречи.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Встречи' is the genitive governed by 'жду', which takes the genitive for awaited things. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-04",
+        "phrase": "Мы готовимся к завтрашней встрече.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Встрече' is the dative required by 'к', expressing preparation for the meeting. 'Завтрашней' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-05",
+        "phrase": "Перед встречей он волновался.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Встречей' is the instrumental required by 'перед'. 'Он' is the subject, and 'волновался' agrees in masculine gender."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-06",
+        "phrase": "На встрече мы обсудили план.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Встрече' is the prepositional after 'на' showing where the talk happened. 'План' is the accusative object of 'обсудили'."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-07",
+        "phrase": "Эта встреча изменила всё.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Встреча' is the nominative subject of 'изменила'. 'Эта' points to a specific meeting, and 'всё' is the accusative object."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-08",
+        "phrase": "У нас было много встреч.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Встреч' is the genitive plural required by 'много'. 'У нас было' is the possession frame in the past tense."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-09",
+        "phrase": "Я люблю наши тёплые встречи.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Встречи' is the accusative plural object of 'люблю'; for this inanimate noun the plural accusative matches the nominative. 'Тёплые' agrees in plural."
+      },
+      {
+        "id": "NN-EVENT-VSTRECHA-10",
+        "phrase": "Мы говорим о следующей встрече.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'Встрече' is the prepositional after 'о' in the sense of discussing something. 'Следующей' agrees in the feminine prepositional."
+      }
+    ]
+  }
+]

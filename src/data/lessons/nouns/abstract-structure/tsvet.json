@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-TSVET",
+    "label": "Цвет",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for цвет (color).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-TSVET-01",
+        "phrase": "Мой любимый цвет синий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Цвет' stays in the nominative as the subject. 'Любимый' agrees in masculine, and 'синий' is the predicate adjective naming the color."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-02",
+        "phrase": "Я выбрал тёмный цвет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Цвет' is the accusative direct object of 'выбрал'; for this inanimate masculine noun the accusative matches the nominative. 'Тёмный' agrees in masculine."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-03",
+        "phrase": "Это платье яркого цвета.",
+        "fullAnalysis": "Strategic focus: Genitive of quality. 'Цвета' is the genitive describing the quality of the dress. 'Яркого' agrees in the masculine genitive, and 'платье' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-04",
+        "phrase": "Я рад этому цвету.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Цвету' is the dative governed by 'рад'. 'Этому' agrees in the masculine dative, expressing gladness at the color."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-05",
+        "phrase": "Стена покрашена синим цветом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Цветом' is the instrumental expressing what the wall is painted with. 'Синим' agrees in the masculine instrumental, and 'стена' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-06",
+        "phrase": "В этом цвете есть тепло.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Цвете' is the prepositional after 'в' showing where the warmth is. 'Этом' agrees in the masculine prepositional, and 'тепло' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-07",
+        "phrase": "Этот цвет очень модный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Цвет' is the nominative subject. 'Этот' points to a specific color, 'модный' is the predicate adjective, and 'очень' intensifies."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-08",
+        "phrase": "В магазине много разных цветов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Цветов' is the genitive plural required by 'много'. 'Разных' agrees in the genitive plural, and 'в магазине' sets the location."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-09",
+        "phrase": "Художник любит тёплые цвета.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Цвета' is the accusative plural object of 'любит'; for this inanimate noun the plural accusative matches the nominative. 'Тёплые' agrees in plural."
+      },
+      {
+        "id": "NN-STRUCT-TSVET-10",
+        "phrase": "Мы спорим о цвете стен.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'Цвете' is the prepositional after 'о' in the sense of arguing about something. 'Стен' is a genitive plural modifier."
+      }
+    ]
+  }
+]

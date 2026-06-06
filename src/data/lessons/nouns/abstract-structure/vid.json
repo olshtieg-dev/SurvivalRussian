@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-VID",
+    "label": "Вид",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for вид (kind; view).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-VID-01",
+        "phrase": "Отсюда открывается прекрасный вид.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вид' is the nominative subject of 'открывается', here meaning a scenic view. 'Прекрасный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-STRUCT-VID-02",
+        "phrase": "Этот вид спорта очень популярен.",
+        "fullAnalysis": "Strategic focus: Nominative in the 'kind' sense. 'Вид' is nominative, meaning a type, and 'спорта' is genitive, specifying the kind of sport. 'Популярен' is the short masculine predicate."
+      },
+      {
+        "id": "NN-STRUCT-VID-03",
+        "phrase": "Я люблю вид из окна.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine, 'вид' is unchanged in the accusative as the object of 'люблю'. 'Из окна' is genitive, naming the vantage point."
+      },
+      {
+        "id": "NN-STRUCT-VID-04",
+        "phrase": "Здесь нет красивого вида.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. The word 'нет' takes the genitive, giving 'вида'. 'Красивого' agrees in the masculine genitive, denying a nice view."
+      },
+      {
+        "id": "NN-STRUCT-VID-05",
+        "phrase": "Он любуется видом на море.",
+        "fullAnalysis": "Strategic focus: Instrumental after любоваться. The verb 'любоваться' requires the instrumental, giving 'видом'. 'На море' specifies what the view looks onto."
+      },
+      {
+        "id": "NN-STRUCT-VID-06",
+        "phrase": "В этом виде животных мало особей.",
+        "fullAnalysis": "Strategic focus: Prepositional in the 'species' sense. After 'в' the noun takes the prepositional form 'виде', here meaning a biological species. 'Животных' and 'особей' are genitive."
+      },
+      {
+        "id": "NN-STRUCT-VID-07",
+        "phrase": "Мы говорили о видах транспорта.",
+        "fullAnalysis": "Strategic focus: Prepositional plural after о. The preposition 'о' takes the prepositional plural 'видах', meaning kinds. 'Транспорта' is genitive, naming the category."
+      },
+      {
+        "id": "NN-STRUCT-VID-08",
+        "phrase": "Существует много видов рыб.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. The quantity word 'много' takes the genitive plural 'видов'. 'Рыб' is also genitive plural, specifying species of fish."
+      },
+      {
+        "id": "NN-STRUCT-VID-09",
+        "phrase": "Туристам понравился вид с горы.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative experiencer. 'Вид' is the nominative subject of 'понравился'. 'Туристам' is the dative experiencer, and 'с горы' names the vantage."
+      },
+      {
+        "id": "NN-STRUCT-VID-10",
+        "phrase": "Какие виды чая ты любишь?",
+        "fullAnalysis": "Strategic focus: Accusative plural in the 'kind' sense. 'Виды' is the accusative plural object of 'любишь', meaning kinds; it matches the nominative plural for inanimates. 'Чая' is genitive."
+      }
+    ]
+  }
+]

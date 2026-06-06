@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-RAZVITIE",
+    "label": "Развитие",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for развитие (development).",
+    "missions": [
+      {
+        "id": "NN-EVENT-RAZVITIE-01",
+        "phrase": "Развитие города идёт быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Развитие' is the neuter noun in the nominative as the subject. 'Города' is the genitive of belonging, and 'идёт быстро' describes the pace."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-02",
+        "phrase": "Государство поддерживает развитие науки.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Развитие' is the accusative direct object of 'поддерживает'. 'Науки' is the genitive of belonging, the development of science."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-03",
+        "phrase": "Многое зависит от развития экономики.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Развития' is the genitive form required by 'от', here expressing dependence. 'Экономики' is a second genitive of belonging."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-04",
+        "phrase": "Книга рассказывает о развитии техники.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О развитии' uses the prepositional form after 'о' to mark the topic. 'Техники' is the genitive of belonging."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-05",
+        "phrase": "Эти реформы способствуют развитию страны.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Развитию' is the dative form required by 'способствуют', the verb of promoting. 'Страны' is the genitive of belonging."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-06",
+        "phrase": "Учёные следят за развитием событий.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Развитием' is the instrumental form required by 'следят за', the phrase for monitoring. 'Событий' is the genitive plural of belonging."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-07",
+        "phrase": "Спорт важен для развития ребёнка.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Развития' is the genitive form required by 'для', expressing purpose. 'Ребёнка' is a second genitive of belonging, the child's development."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-08",
+        "phrase": "Мы наблюдаем развитие новых технологий.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Развитие' is the accusative object of 'наблюдаем'. 'Технологий' is the genitive plural of belonging, and 'новых' agrees with it."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-09",
+        "phrase": "В развитии города помогли инвестиции.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Развитии' is the prepositional form after 'в', here meaning in the matter of growth. 'Инвестиции' is the nominative plural subject that helped."
+      },
+      {
+        "id": "NN-EVENT-RAZVITIE-10",
+        "phrase": "Быстрое развитие меняет нашу жизнь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Развитие' stays nominative as the subject of 'меняет'. 'Быстрое' is the agreeing neuter adjective, and 'жизнь' is the feminine accusative object."
+      }
+    ]
+  }
+]

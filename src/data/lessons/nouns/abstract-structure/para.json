@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-PARA",
+    "label": "Пара",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for пара (pair).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-PARA-01",
+        "phrase": "Эта пара живёт здесь давно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пара' is the feminine nominative subject of 'живёт'. 'Эта' points to the specific couple, and 'давно' adds the time span."
+      },
+      {
+        "id": "NN-STRUCT-PARA-02",
+        "phrase": "Я купил новую пару обуви.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пару' is the feminine accusative direct object of 'купил'. 'Новую' agrees, and 'обуви' is the genitive naming what the pair consists of."
+      },
+      {
+        "id": "NN-STRUCT-PARA-03",
+        "phrase": "У этой пары двое детей.",
+        "fullAnalysis": "Strategic focus: Genitive in possession. 'Пары' is the feminine genitive after 'у', stating whose children they are. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STRUCT-PARA-04",
+        "phrase": "Официант подошёл к молодой паре.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Паре' is the feminine dative governed by 'к', the destination of approach. 'Молодой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-STRUCT-PARA-05",
+        "phrase": "Он танцевал с красивой парой.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Парой' is the feminine instrumental after 'с', expressing accompaniment. 'Красивой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STRUCT-PARA-06",
+        "phrase": "Мы говорили об этой паре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О паре' uses the prepositional form after 'об' to mean talking about the couple. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-STRUCT-PARA-07",
+        "phrase": "В зале танцевали красивые пары.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пары' is the nominative plural subject of 'танцевали', which agrees in the plural. 'Красивые' agrees and the place phrase frames the scene."
+      },
+      {
+        "id": "NN-STRUCT-PARA-08",
+        "phrase": "Я взял две пары носков.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Пары' stands in the genitive singular required after 'две', the form numerals two through four demand. 'Носков' is the genitive plural of the contents."
+      },
+      {
+        "id": "NN-STRUCT-PARA-09",
+        "phrase": "В магазине много пар обуви.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Пар' is the genitive plural required by 'много'. The fleeting vowel drops so the bare stem ends in a consonant cluster."
+      },
+      {
+        "id": "NN-STRUCT-PARA-10",
+        "phrase": "Подойди ко мне на пару минут.",
+        "fullAnalysis": "Strategic focus: Accusative in time expression. 'Пару' is the accusative in the idiom 'на пару минут', meaning for a couple of minutes. 'Минут' is the genitive plural counted."
+      }
+    ]
+  }
+]

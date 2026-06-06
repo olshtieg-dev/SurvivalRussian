@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-PORYADOK",
+    "label": "Порядок",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for порядок (order).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-PORYADOK-01",
+        "phrase": "В комнате полный порядок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Порядок' is a masculine noun with a fleeting vowel, here nominative as the subject. 'Полный' is the agreeing masculine adjective and 'в комнате' is the prepositional location."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-02",
+        "phrase": "Я навёл порядок на столе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Порядок' is the accusative direct object of 'навёл'; the inanimate masculine accusative matches the nominative. The fleeting 'о' stays here, and 'на столе' is the prepositional location."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-03",
+        "phrase": "В доме нет никакого порядка.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Порядка' is the genitive singular after 'нет'; the fleeting 'о' drops out before the ending. 'Никакого' agrees in the masculine genitive, stressing total disorder."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-04",
+        "phrase": "Дети учатся порядку дома.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Порядку' is the dative singular governed by 'учатся', which takes a dative of the thing learned; the fleeting vowel drops. 'Дома' is an adverb meaning at home."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-05",
+        "phrase": "Она довольна порядком в квартире.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'довольна'. 'Порядком' is the instrumental singular required by 'довольна', meaning pleased with the order; the fleeting vowel drops. 'В квартире' is the prepositional location."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-06",
+        "phrase": "В этом порядке есть своя логика.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В порядке' uses the prepositional 'порядке' after 'в', meaning within this arrangement; the fleeting vowel drops. 'Этом' agrees in the masculine prepositional and 'логика' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-07",
+        "phrase": "Всё в полном порядке.",
+        "fullAnalysis": "Strategic focus: Prepositional in an idiom. 'В порядке' is the prepositional form in the set phrase meaning everything is fine; the fleeting vowel drops. 'Полном' agrees in the masculine prepositional. A very common reassurance."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-08",
+        "phrase": "Соблюдайте порядок в очереди!",
+        "fullAnalysis": "Strategic focus: Accusative object in a command. 'Порядок' is the accusative object of 'соблюдайте'; the inanimate masculine accusative matches the nominative and keeps the fleeting 'о'. 'В очереди' is the prepositional location."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-09",
+        "phrase": "Слова стоят в алфавитном порядке.",
+        "fullAnalysis": "Strategic focus: Prepositional in a fixed phrase. 'В порядке' is prepositional after 'в', meaning in order; the fleeting vowel drops. 'Алфавитном' agrees in the masculine prepositional, naming alphabetical order."
+      },
+      {
+        "id": "NN-STRUCT-PORYADOK-10",
+        "phrase": "Власти навели новые порядки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Порядки' is the accusative plural object of 'навели'; for inanimate nouns the plural accusative matches the nominative. 'Новые' agrees in the plural. In the plural the noun means rules or regimes."
+      }
+    ]
+  }
+]

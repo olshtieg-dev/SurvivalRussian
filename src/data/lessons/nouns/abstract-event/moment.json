@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-MOMENT",
+    "label": "Момент",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for момент (moment).",
+    "missions": [
+      {
+        "id": "NN-EVENT-MOMENT-01",
+        "phrase": "Это был решающий момент.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Момент' is masculine nominative, naming what it was. 'Решающий' is the agreeing masculine adjective, and 'был' agrees in the masculine past."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-02",
+        "phrase": "Не упусти этот важный момент.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Момент' is the accusative direct object of 'упусти'. As an inanimate masculine noun, its accusative matches the nominative. 'Важный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-03",
+        "phrase": "Мы ждали этого момента долго.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Момента' is genitive, governed by 'ждать', which takes the genitive for an awaited event. 'Этого' agrees in the masculine genitive, ending in -а."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-04",
+        "phrase": "До этого момента всё шло хорошо.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Момента' is genitive after 'до', meaning up to that point in time. The preposition 'до' regularly governs the genitive."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-05",
+        "phrase": "К этому моменту все устали.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Моменту' is dative after 'к', meaning by that point in time. 'Этому' agrees in the masculine dative, ending in -у."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-06",
+        "phrase": "В тот момент я всё понял.",
+        "fullAnalysis": "Strategic focus: Accusative in a time phrase. 'Момент' is accusative after 'в' in a point-in-time expression. With 'в' plus a moment of time, Russian uses the accusative, identical to the nominative here."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-07",
+        "phrase": "В этом моменте есть проблема.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Моменте' is prepositional after 'в', here locating an issue within a particular point or aspect. The hard masculine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-08",
+        "phrase": "Воспользуйся подходящим моментом сейчас.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Моментом' is instrumental, governed by 'воспользоваться', which requires the instrumental for what one makes use of. 'Подходящим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-09",
+        "phrase": "В жизни бывают трудные моменты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Моменты' is the nominative plural subject, with the masculine plural ending -ы. 'Трудные' agrees in the plural, and 'бывают' agrees in the plural."
+      },
+      {
+        "id": "NN-EVENT-MOMENT-10",
+        "phrase": "Я помню много счастливых моментов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Моментов' is genitive plural after 'много', which governs the genitive. 'Счастливых' agrees in the genitive plural, and the hard masculine ending is -ов."
+      }
+    ]
+  }
+]

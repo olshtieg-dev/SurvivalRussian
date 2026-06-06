@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-BOI",
+    "label": "Бой",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for бой (battle).",
+    "missions": [
+      {
+        "id": "NN-STATE-BOI-01",
+        "phrase": "Бой продолжался всю ночь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бой' stays in the nominative as the subject of 'продолжался', which agrees in masculine gender. 'Всю ночь' is the accusative of duration."
+      },
+      {
+        "id": "NN-STATE-BOI-02",
+        "phrase": "Солдаты приняли последний бой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бой' is the accusative direct object of 'приняли'; for this inanimate masculine noun the accusative matches the nominative. 'Последний' agrees in masculine."
+      },
+      {
+        "id": "NN-STATE-BOI-03",
+        "phrase": "После боя наступила тишина.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Боя' is the genitive required by 'после'. 'Тишина' is the nominative subject, and 'наступила' agrees in feminine gender."
+      },
+      {
+        "id": "NN-STATE-BOI-04",
+        "phrase": "Командир готовился к бою.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Бою' is the dative required by 'к', expressing preparation for the battle. 'Командир' is the nominative subject of 'готовился'."
+      },
+      {
+        "id": "NN-STATE-BOI-05",
+        "phrase": "Он гордится тем боем.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Боем' is the instrumental governed by 'гордится', which requires that case. 'Тем' agrees in the masculine instrumental, pointing to a specific battle."
+      },
+      {
+        "id": "NN-STATE-BOI-06",
+        "phrase": "В бою он проявил смелость.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Бою' is the prepositional after 'в' showing where the courage was shown; this noun takes the locative ending -ю. 'Смелость' is the accusative object."
+      },
+      {
+        "id": "NN-STATE-BOI-07",
+        "phrase": "Этот бой решил судьбу города.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бой' is the nominative subject of 'решил'. 'Этот' agrees in masculine, and 'судьбу города' is the accusative object with a genitive modifier."
+      },
+      {
+        "id": "NN-STATE-BOI-08",
+        "phrase": "Армия выиграла много боёв.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Боёв' is the genitive plural required by 'много'. 'Армия' is the nominative subject, and 'выиграла' agrees in feminine gender."
+      },
+      {
+        "id": "NN-STATE-BOI-09",
+        "phrase": "Город пережил тяжёлые бои.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Бои' is the accusative plural object of 'пережил'; for this inanimate noun the plural accusative matches the nominative. 'Тяжёлые' agrees in plural."
+      },
+      {
+        "id": "NN-STATE-BOI-10",
+        "phrase": "Они рассказали о страшном бое.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'Бое' is the standard prepositional ending after 'о' in the sense of speaking about something. 'Страшном' agrees in the masculine prepositional."
+      }
+    ]
+  }
+]

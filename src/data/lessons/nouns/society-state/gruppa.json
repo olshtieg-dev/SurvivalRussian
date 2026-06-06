@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-GRUPPA",
+    "label": "Группа",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for группа (group).",
+    "missions": [
+      {
+        "id": "NN-STATE-GRUPPA-01",
+        "phrase": "Наша группа очень дружная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Группа' stays in the nominative as the subject. 'Наша' is the agreeing feminine possessive, and 'дружная' is the feminine predicate adjective describing the group."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-02",
+        "phrase": "Я перешёл в другую группу.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Группу' is the accusative after 'в' marking motion into a place. 'Другую' agrees in the feminine accusative, expressing a change of group."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-03",
+        "phrase": "В нашей группе двадцать человек.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Группе' is the prepositional form after 'в' showing where the people are. 'Нашей' agrees in the feminine prepositional, framing a count."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-04",
+        "phrase": "Староста группы собирает деньги.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Группы' is the genitive showing whose monitor it is. 'Староста' is the nominative subject, and 'собирает' is the present-tense verb."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-05",
+        "phrase": "Мы помогаем нашей группе вместе.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Группе' is the dative as the indirect object of 'помогаем', which governs the dative. 'Нашей' agrees in feminine, and 'вместе' adds togetherness."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-06",
+        "phrase": "Преподаватель доволен нашей группой.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Группой' is the instrumental required by 'доволен'. 'Нашей' agrees in the feminine instrumental, expressing satisfaction with the group."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-07",
+        "phrase": "Эта группа изучает русский язык.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Группа' is the nominative subject of 'изучает'. 'Эта' points to a specific group, and 'русский язык' is the accusative object."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-08",
+        "phrase": "В университете много студенческих групп.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Групп' is the genitive plural required by 'много'. 'Студенческих' agrees in the genitive plural, and 'в университете' sets the location."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-09",
+        "phrase": "Туристы ходят небольшими группами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of manner. 'Группами' is the instrumental plural expressing how the tourists move. 'Небольшими' agrees in the instrumental plural, and 'туристы' is the subject."
+      },
+      {
+        "id": "NN-STATE-GRUPPA-10",
+        "phrase": "Я работаю в этой группе.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Группе' is the prepositional after 'в' showing where one works. 'Этой' agrees in the feminine prepositional, pointing to a specific group."
+      }
+    ]
+  }
+]

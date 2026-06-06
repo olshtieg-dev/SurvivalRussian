@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-UDAR",
+    "label": "Удар",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for удар (blow; strike).",
+    "missions": [
+      {
+        "id": "NN-STATE-UDAR-01",
+        "phrase": "Это был сильный удар.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Удар' is the masculine nominative noun after the past-tense 'был'. 'Сильный' is the agreeing masculine adjective describing its force."
+      },
+      {
+        "id": "NN-STATE-UDAR-02",
+        "phrase": "Боксёр нанёс точный удар.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Удар' is the accusative direct object of 'нанёс'. For inanimate masculine nouns the accusative matches the nominative. 'Точный' agrees and 'боксёр' is the subject."
+      },
+      {
+        "id": "NN-STATE-UDAR-03",
+        "phrase": "Он не выдержал такого удара.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Удара' is genitive after the negated verb 'не выдержал'. 'Такого' agrees in the masculine genitive, and 'он' is the subject."
+      },
+      {
+        "id": "NN-STATE-UDAR-04",
+        "phrase": "Он подготовился к удару.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Удару' is the dative form required by 'к', expressing readiness toward something. 'Он' is the nominative subject of 'подготовился'."
+      },
+      {
+        "id": "NN-STATE-UDAR-05",
+        "phrase": "Он упал одним ударом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Ударом' is the instrumental noun showing the means by which he fell. 'Одним' agrees in the masculine instrumental, and 'он' is the subject."
+      },
+      {
+        "id": "NN-STATE-UDAR-06",
+        "phrase": "При ударе стекло разбилось.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'при'. 'Ударе' is the prepositional form after 'при', meaning at the moment of the blow. 'Стекло' is the neuter nominative subject of 'разбилось'."
+      },
+      {
+        "id": "NN-STATE-UDAR-07",
+        "phrase": "Удар грома напугал детей.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Удар' is the masculine nominative subject of 'напугал'. 'Грома' is genitive showing whose blow, and 'детей' is the animate accusative object."
+      },
+      {
+        "id": "NN-STATE-UDAR-08",
+        "phrase": "Враг готовил несколько ударов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Ударов' is the genitive plural required by 'несколько'. 'Враг' is the nominative subject of 'готовил'."
+      },
+      {
+        "id": "NN-STATE-UDAR-09",
+        "phrase": "Солдаты отбили все удары.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Удары' is the accusative plural object of 'отбили', identical to the nominative plural for this inanimate noun. 'Все' agrees and 'солдаты' is the subject."
+      },
+      {
+        "id": "NN-STATE-UDAR-10",
+        "phrase": "Эта новость стала для нас ударом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Ударом' is the instrumental complement of 'стала', a common pattern with 'стать'. 'Новость' is the nominative subject and 'для нас' shows who was affected."
+      }
+    ]
+  }
+]

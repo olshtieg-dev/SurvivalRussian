@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-UM",
+    "label": "Ум",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for ум (mind).",
+    "missions": [
+      {
+        "id": "NN-MIND-UM-01",
+        "phrase": "Его ум работает очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ум' is a masculine noun in the nominative as the subject of 'работает'. 'Его' shows whose mind, and 'быстро' modifies the verb."
+      },
+      {
+        "id": "NN-MIND-UM-02",
+        "phrase": "Книги развивают ум ребёнка.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ум' is the accusative direct object of 'развивают'; the inanimate masculine keeps its base form. 'Ребёнка' is a genitive modifier naming whose mind."
+      },
+      {
+        "id": "NN-MIND-UM-03",
+        "phrase": "У него нет острого ума.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ума' is genitive after 'нет', the masculine taking -а. 'Острого' agrees in the masculine genitive, and 'у него' frames the possession."
+      },
+      {
+        "id": "NN-MIND-UM-04",
+        "phrase": "Это требует большого ума.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Ума' is genitive governed by 'требует', which takes the genitive. 'Большого' agrees in the masculine genitive, describing a task that needs great intellect."
+      },
+      {
+        "id": "NN-MIND-UM-05",
+        "phrase": "Мы удивляемся его уму.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Уму' is dative governed by 'удивляемся', which takes the dative. 'Его' shows whose mind, expressing admiration for it."
+      },
+      {
+        "id": "NN-MIND-UM-06",
+        "phrase": "Он отличается живым умом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Умом' is the instrumental governed by 'отличается', which takes the instrumental for a distinguishing trait. 'Живым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-MIND-UM-07",
+        "phrase": "В уме он считает очень хорошо.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Уме' follows 'в' in the idiom 'в уме', meaning mentally or in one's head. The masculine takes -е, describing how he counts."
+      },
+      {
+        "id": "NN-MIND-UM-08",
+        "phrase": "Держи эти цифры в уме.",
+        "fullAnalysis": "Strategic focus: Prepositional after в. 'Уме' follows 'в' in the idiom 'держать в уме', to keep in mind. The masculine takes -е, and 'цифры' is the accusative object held in mind."
+      },
+      {
+        "id": "NN-MIND-UM-09",
+        "phrase": "Ум и сердце часто спорят.",
+        "fullAnalysis": "Strategic focus: Nominative coordination. 'Ум' is nominative as one subject, joined by 'и' to 'сердце', a second nominative subject. Together they govern the plural verb 'спорят'."
+      },
+      {
+        "id": "NN-MIND-UM-10",
+        "phrase": "Его ум острый и ясный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Ум' is nominative as the subject. 'Острый' and 'ясный' are agreeing masculine predicate adjectives joined by 'и', a clean model for description."
+      }
+    ]
+  }
+]

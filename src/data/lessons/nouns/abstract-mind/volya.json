@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-VOLYA",
+    "label": "Воля",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for воля (will).",
+    "missions": [
+      {
+        "id": "NN-MIND-VOLYA-01",
+        "phrase": "У него сильная воля.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Воля' is feminine nominative as the subject in this possession frame. 'Сильная' is the agreeing feminine adjective, and 'у него' shows whose will it is."
+      },
+      {
+        "id": "NN-MIND-VOLYA-02",
+        "phrase": "Спорт закаляет волю.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Волю' is the feminine accusative direct object of 'закаляет'. Sport hardens the will."
+      },
+      {
+        "id": "NN-MIND-VOLYA-03",
+        "phrase": "Это случилось против моей воли.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Воли' is the feminine genitive after 'против'. 'Моей' agrees in the feminine genitive, marking the will it went against."
+      },
+      {
+        "id": "NN-MIND-VOLYA-04",
+        "phrase": "Он подчинился чужой воле.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Воле' is the dative form after 'подчинился', which governs the dative. 'Чужой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-MIND-VOLYA-05",
+        "phrase": "Он добился успеха силой воли.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Воли' is the genitive form in 'силой воли', a fixed expression meaning by willpower. A strong idiom for determination."
+      },
+      {
+        "id": "NN-MIND-VOLYA-06",
+        "phrase": "Всё держится на его воле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Воле' uses the prepositional form after 'на' in this figurative phrase. 'Его' marks whose will holds everything together."
+      },
+      {
+        "id": "NN-MIND-VOLYA-07",
+        "phrase": "Птицу выпустили на волю.",
+        "fullAnalysis": "Strategic focus: Accusative in an idiom. 'Волю' is the feminine accusative after 'на' in 'на волю', meaning into freedom. A classic idiomatic sense of the word."
+      },
+      {
+        "id": "NN-MIND-VOLYA-08",
+        "phrase": "Свобода воли волнует философов.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Воли' is the genitive form in 'свобода воли', the philosophical term free will. It modifies 'свобода' as the subject."
+      },
+      {
+        "id": "NN-MIND-VOLYA-09",
+        "phrase": "Воля к победе важна в спорте.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Воля' is the feminine nominative subject. 'К победе' uses the dative to express what the will is directed toward."
+      },
+      {
+        "id": "NN-MIND-VOLYA-10",
+        "phrase": "Откуда у тебя такая воля?",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Воля' is feminine nominative in this possession frame. 'Такая' agrees in the feminine, and the question asks where such will comes from."
+      }
+    ]
+  }
+]

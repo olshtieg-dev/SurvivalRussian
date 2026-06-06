@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SMYSL",
+    "label": "Смысл",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for смысл (meaning).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SMYSL-01",
+        "phrase": "В этом есть глубокий смысл.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Смысл' is masculine nominative as the subject in this existential phrase. 'Глубокий' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-02",
+        "phrase": "Я не понимаю смысл фразы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Смысл' is the masculine inanimate accusative, identical to the nominative. It is the object of 'понимаю', and 'фразы' is genitive."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-03",
+        "phrase": "В этом нет никакого смысла.",
+        "fullAnalysis": "Strategic focus: Genitive in negation. 'Смысла' is the masculine genitive required after 'нет'. 'Никакого' agrees in the masculine genitive, denying any sense."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-04",
+        "phrase": "Книга наполнена смыслом.",
+        "fullAnalysis": "Strategic focus: Instrumental of content. 'Смыслом' is the instrumental form naming what the book is filled with. A natural figurative phrase."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-05",
+        "phrase": "О смысле жизни спорят давно.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О смысле' uses the prepositional form after 'о' to mark the topic. 'Жизни' is the genitive, naming the meaning of life."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-06",
+        "phrase": "В прямом смысле это правда.",
+        "fullAnalysis": "Strategic focus: Prepositional in an idiom. 'В смысле' uses the prepositional form in the set phrase 'в прямом смысле', meaning literally. A useful discourse marker."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-07",
+        "phrase": "Это придаёт работе новый смысл.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Смысл' is the masculine accusative object of 'придаёт'. 'Работе' is the dative recipient of the new meaning."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-08",
+        "phrase": "У этих слов разные смыслы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Смыслы' is the masculine nominative plural as the subject. 'Разные' agrees in the plural, naming different meanings."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-09",
+        "phrase": "Без смысла слова пусты.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Смысла' is the masculine genitive after 'без'. The sentence states that words are empty without meaning."
+      },
+      {
+        "id": "NN-EVENT-SMYSL-10",
+        "phrase": "Какой смысл в этом споре?",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Смысл' is masculine nominative as the subject of the rhetorical question. 'Какой' agrees in the masculine."
+      }
+    ]
+  }
+]

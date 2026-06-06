@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SLUCHAI",
+    "label": "Случай",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for случай (case; occasion).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SLUCHAI-01",
+        "phrase": "Это редкий случай.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Случай' is a masculine noun ending in soft -й, here nominative as the predicate. 'Редкий' is the agreeing masculine adjective. A natural way to label an occurrence."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-02",
+        "phrase": "Я помню один интересный случай.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Случай' is the accusative direct object of 'помню'; the inanimate masculine accusative matches the nominative. 'Интересный' agrees in masculine and 'один' counts it."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-03",
+        "phrase": "Не было подходящего случая.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Случая' is the genitive singular after 'не было', with the soft-stem ending -я. 'Подходящего' agrees in the masculine genitive, meaning there was no suitable occasion."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-04",
+        "phrase": "Благодаря случаю мы познакомились.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Случаю' is the dative singular required by 'благодаря', meaning thanks to chance. The soft-stem dative ending is -ю, and 'познакомились' tells the result."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-05",
+        "phrase": "Воспользуйся удобным случаем.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Случаем' is the instrumental singular required by 'воспользуйся', meaning seize the opportunity. 'Удобным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-06",
+        "phrase": "В этом случае надо подождать.",
+        "fullAnalysis": "Strategic focus: Prepositional in an idiom. 'В случае' uses the prepositional 'случае' after 'в' in the common phrase in this case. 'Этом' agrees in the masculine prepositional, framing a condition."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-07",
+        "phrase": "В случае дождя останемся дома.",
+        "fullAnalysis": "Strategic focus: Prepositional with following genitive. 'В случае' is the prepositional form in the conditional phrase in case of. 'Дождя' is genitive, naming the event, meaning if it rains we stay home."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-08",
+        "phrase": "На всякий случай возьми зонт.",
+        "fullAnalysis": "Strategic focus: Accusative in a fixed phrase. 'Случай' is accusative after 'на' in the idiom на всякий случай, meaning just in case; the inanimate accusative matches the nominative. 'Всякий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-09",
+        "phrase": "Такие случаи бывают редко.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Случаи' is the nominative plural, the subject of 'бывают'. 'Такие' agrees in the plural and 'редко' adds frequency. This noun pluralizes readily as cases."
+      },
+      {
+        "id": "NN-EVENT-SLUCHAI-10",
+        "phrase": "Врач изучает несколько похожих случаев.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Случаев' is the genitive plural required by 'несколько', with the soft-stem ending -ев. 'Похожих' agrees in the plural genitive, meaning several similar cases."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-DUSHA",
+    "label": "Душа",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for душа (soul).",
+    "missions": [
+      {
+        "id": "NN-MIND-DUSHA-01",
+        "phrase": "У него добрая душа.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Душа' stays in the nominative case as the subject in a possession frame. 'Добрая' is the agreeing feminine adjective, and 'у него' shows whose soul it is."
+      },
+      {
+        "id": "NN-MIND-DUSHA-02",
+        "phrase": "Музыка трогает мою душу.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Душу' is the accusative object of 'трогает'. 'Мою' agrees in the feminine accusative, and 'музыка' is the nominative subject."
+      },
+      {
+        "id": "NN-MIND-DUSHA-03",
+        "phrase": "В глубине души он добрый.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Души' is the genitive form within the idiom about the depth of the soul. 'В глубине' is prepositional, and 'добрый' is the predicate adjective."
+      },
+      {
+        "id": "NN-MIND-DUSHA-04",
+        "phrase": "Он открыл душу другу.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Душу' is the accusative object of 'открыл', while 'другу' is the dative recipient. A natural idiom for confiding in someone."
+      },
+      {
+        "id": "NN-MIND-DUSHA-05",
+        "phrase": "Он живёт душой и сердцем.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Душой' is in the instrumental case showing how he lives, joined by 'и' to 'сердцем'. Both nouns convey wholehearted living."
+      },
+      {
+        "id": "NN-MIND-DUSHA-06",
+        "phrase": "В её душе была тревога.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В душе' uses the prepositional 'душе' to express an inner state. 'Тревога' is the nominative subject, and 'была' agrees in feminine gender."
+      },
+      {
+        "id": "NN-MIND-DUSHA-07",
+        "phrase": "Он рассказал другу о душе.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'О душе' uses the prepositional 'душе' to name the topic. 'Другу' is the dative recipient, and 'рассказал' agrees in masculine gender."
+      },
+      {
+        "id": "NN-MIND-DUSHA-08",
+        "phrase": "Поэт пишет о человеческих душах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural after о. 'Душах' is the prepositional plural form after 'о'. 'Человеческих' agrees in the plural, and 'поэт' is the nominative subject."
+      },
+      {
+        "id": "NN-MIND-DUSHA-09",
+        "phrase": "Он пел от всей души.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Души' is the genitive form within the idiom meaning wholeheartedly. 'От всей' uses 'от' with the genitive, and 'пел' is the masculine past verb."
+      },
+      {
+        "id": "NN-MIND-DUSHA-10",
+        "phrase": "Эта песня близка моей душе.",
+        "fullAnalysis": "Strategic focus: Dative after близкий. 'Душе' is in the dative case as what the song is dear to. 'Моей' agrees in the feminine dative, and 'песня' is the nominative subject."
+      }
+    ]
+  }
+]

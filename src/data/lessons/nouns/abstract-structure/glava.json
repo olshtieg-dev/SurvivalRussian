@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-GLAVA",
+    "label": "Глава",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for глава (chapter; head).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-GLAVA-01",
+        "phrase": "Первая глава была очень интересной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Глава' is the feminine nominative subject of 'была'. 'Первая' agrees, and 'интересной' is the instrumental predicate adjective after 'была'."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-02",
+        "phrase": "Я прочитал последнюю главу вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Главу' is the feminine accusative direct object of 'прочитал'. 'Последнюю' agrees in the feminine accusative, and 'вчера' adds the time."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-03",
+        "phrase": "Конец главы остался без ответа.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Главы' is the feminine genitive after 'конец', expressing the end of the chapter. The phrase 'без ответа' adds the genitive of absence."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-04",
+        "phrase": "Автор вернулся к первой главе.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Главе' is the feminine dative governed by 'к', the point returned to. 'Первой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-05",
+        "phrase": "Он стал главой большой компании.",
+        "fullAnalysis": "Strategic focus: Instrumental after стать. 'Главой' is the feminine instrumental required by 'стал', the role he became, here in the sense of head. 'Компании' is the genitive showing what he heads."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-06",
+        "phrase": "Мы поговорим о следующей главе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О главе' uses the prepositional form after 'о' to mean discussing the chapter. 'Следующей' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-07",
+        "phrase": "Первые главы книги самые трудные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Главы' is the nominative plural subject of the implicit linking clause. 'Первые' agrees and 'книги' is the genitive showing whose chapters."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-08",
+        "phrase": "Я перечитал несколько глав романа.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Глав' is the genitive plural required by 'несколько', with the fleeting vowel dropping. 'Романа' is the genitive naming whose chapters."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-09",
+        "phrase": "В книге двадцать глав.",
+        "fullAnalysis": "Strategic focus: Genitive plural after numeral. 'Глав' is the genitive plural required after the numeral 'двадцать'. The place phrase 'в книге' frames where they are."
+      },
+      {
+        "id": "NN-STRUCT-GLAVA-10",
+        "phrase": "Главы государств встретились в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Главы' is the nominative plural subject of 'встретились', here in the sense of heads of state. 'Государств' is the genitive plural specifying which heads."
+      }
+    ]
+  }
+]

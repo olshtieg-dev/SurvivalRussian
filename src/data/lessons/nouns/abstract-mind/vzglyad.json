@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-VZGLYAD",
+    "label": "Взгляд",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for взгляд (glance; view).",
+    "missions": [
+      {
+        "id": "NN-MIND-VZGLYAD-01",
+        "phrase": "У неё добрый взгляд.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Взгляд' stays in the nominative as the thing described. 'Добрый' is the agreeing masculine adjective, and 'у неё' shows whose gaze it is. A description of a look."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-02",
+        "phrase": "Он бросил быстрый взгляд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Взгляд' is the accusative direct object of 'бросил', identical to the nominative for this inanimate masculine noun. 'Быстрый' agrees, giving the idiom for a quick glance."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-03",
+        "phrase": "Я не выдержал его взгляда.",
+        "fullAnalysis": "Strategic focus: Genitive object after negation. 'Взгляда' is the genitive after the negated 'не выдержал'. 'Его' is the unchanging possessive. A natural pattern for not enduring a gaze."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-04",
+        "phrase": "По её взгляду всё понятно.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Взгляду' is the dative governed by 'по' to mean judging by her look. 'Её' is the unchanging possessive, and 'всё понятно' is the impersonal predicate. An inference phrase."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-05",
+        "phrase": "Дети следили за его взглядом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'за'. 'Взглядом' is the instrumental required by 'следить за' to mean follow his gaze. 'Дети' is the nominative plural subject. A common verb-government model."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-06",
+        "phrase": "В его взгляде была печаль.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В его взгляде' uses the prepositional 'взгляде' after 'в' to locate the emotion in the look. 'Печаль' is the nominative subject of 'была'. A poetic frame."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-07",
+        "phrase": "На мой взгляд, это ошибка.",
+        "fullAnalysis": "Strategic focus: Accusative in a set phrase. 'На мой взгляд' uses the accusative 'взгляд' in the fixed idiom meaning in my opinion. 'Мой' agrees, and 'это ошибка' is the nominative judgement. A high-frequency opener."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-08",
+        "phrase": "Наши взгляды совсем разные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Взгляды' is the nominative plural meaning views or opinions, the subject of the sentence. 'Наши' agrees in the plural, and 'разные' describes them. Shows the plural sense."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-09",
+        "phrase": "Мы обсуждаем разные взгляды.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Взгляды' is the accusative plural object of 'обсуждаем', identical to the nominative plural for this inanimate noun. 'Разные' agrees. A discussion phrase."
+      },
+      {
+        "id": "NN-MIND-VZGLYAD-10",
+        "phrase": "Их взгляды встретились на секунду.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Взгляды' is the nominative plural subject of 'встретились'. 'Их' is the unchanging possessive, and 'на секунду' gives the brief duration. A narrative moment."
+      }
+    ]
+  }
+]

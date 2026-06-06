@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-DUKH",
+    "label": "Дух",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for дух (spirit).",
+    "missions": [
+      {
+        "id": "NN-MIND-DUKH-01",
+        "phrase": "Боевой дух команды очень высок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дух' stays in the nominative as the subject. 'Боевой' agrees in masculine, 'команды' is a genitive modifier, and 'высок' is the short predicate adjective."
+      },
+      {
+        "id": "NN-MIND-DUKH-02",
+        "phrase": "Музыка поднимает наш дух.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дух' is the accusative direct object of 'поднимает'; for this inanimate masculine noun the accusative matches the nominative. 'Наш' agrees in masculine."
+      },
+      {
+        "id": "NN-MIND-DUKH-03",
+        "phrase": "Он человек крепкого духа.",
+        "fullAnalysis": "Strategic focus: Genitive of quality. 'Духа' is the genitive describing what kind of person he is. 'Крепкого' agrees in the masculine genitive, and 'человек' is the predicate nominative."
+      },
+      {
+        "id": "NN-MIND-DUKH-04",
+        "phrase": "Они верны старому духу.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Духу' is the dative governed by 'верны'. 'Старому' agrees in the masculine dative, expressing loyalty to the old spirit."
+      },
+      {
+        "id": "NN-MIND-DUKH-05",
+        "phrase": "Армия сильна боевым духом.",
+        "fullAnalysis": "Strategic focus: Instrumental of respect. 'Духом' is the instrumental showing in what respect the army is strong. 'Боевым' agrees in the masculine instrumental, and 'сильна' is the short adjective."
+      },
+      {
+        "id": "NN-MIND-DUKH-06",
+        "phrase": "В этом доме царит особый дух.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дух' is the nominative subject of 'царит'. 'Особый' agrees in masculine, and 'в этом доме' is a prepositional phrase of location."
+      },
+      {
+        "id": "NN-MIND-DUKH-07",
+        "phrase": "Мы говорим о духе времени.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'Духе' is the prepositional after 'о' in the sense of discussing something. 'Времени' is a genitive modifier naming the era."
+      },
+      {
+        "id": "NN-MIND-DUKH-08",
+        "phrase": "Спортсмены не теряют боевого духа.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Духа' is the genitive object under the negated verb 'не теряют'. 'Боевого' agrees in the masculine genitive, and 'спортсмены' is the subject."
+      },
+      {
+        "id": "NN-MIND-DUKH-09",
+        "phrase": "Этот дух объединяет всю страну.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дух' is the nominative subject of 'объединяет'. 'Этот' points to a specific spirit, and 'всю страну' is the accusative object."
+      },
+      {
+        "id": "NN-MIND-DUKH-10",
+        "phrase": "В народе живёт свободный дух.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дух' is the nominative subject of 'живёт'. 'Свободный' agrees in masculine, and 'в народе' is a prepositional phrase of location."
+      }
+    ]
+  }
+]

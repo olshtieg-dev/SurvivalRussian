@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-SUD",
+    "label": "Суд",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for суд (court).",
+    "missions": [
+      {
+        "id": "NN-STATE-SUD-01",
+        "phrase": "Суд принял справедливое решение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Суд' is the masculine nominative subject of 'принял'. 'Справедливое решение' is the neuter accusative object. A clean model for legal news language."
+      },
+      {
+        "id": "NN-STATE-SUD-02",
+        "phrase": "Завтра он идёт в суд.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В суд' uses the accusative 'суд' after 'в' to express motion toward the courthouse. 'Завтра' sets the time. A useful everyday legal frame."
+      },
+      {
+        "id": "NN-STATE-SUD-03",
+        "phrase": "Все ждали решения суда.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Суда' is the genitive showing whose decision it is. 'Решения' is the genitive object of 'ждали', which often governs that case. Strong courtroom vocabulary."
+      },
+      {
+        "id": "NN-STATE-SUD-04",
+        "phrase": "Адвокат подготовил документы к суду.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'К суду' uses the dative 'суду' after 'к' to express preparation for the hearing. 'Документы' is the accusative object. Useful for legal procedure."
+      },
+      {
+        "id": "NN-STATE-SUD-05",
+        "phrase": "Дело сейчас рассматривается в суде.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В суде' uses the prepositional form 'суде' after 'в' to express where the case is heard. 'Рассматривается' is the passive verb. A core legal pattern."
+      },
+      {
+        "id": "NN-STATE-SUD-06",
+        "phrase": "Он встретился с судом лицом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'С судом' uses the instrumental 'судом' after 'с' to express confrontation with the court. The phrase pictures facing justice. A vivid instrumental model."
+      },
+      {
+        "id": "NN-STATE-SUD-07",
+        "phrase": "В нашем городе работают разные суды.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Суды' is the nominative plural subject of 'работают'. 'Разные' agrees in the plural, and 'в нашем городе' is the prepositional location. Good for plural practice."
+      },
+      {
+        "id": "NN-STATE-SUD-08",
+        "phrase": "Без суда нельзя наказывать человека.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Без суда' uses the genitive 'суда' after 'без' to express absence of a trial. 'Нельзя' adds the prohibition. A strong civic-rights pattern."
+      },
+      {
+        "id": "NN-STATE-SUD-09",
+        "phrase": "Журналисты пишут о громком суде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О громком суде' uses the prepositional 'суде' after 'о' to express the topic of reporting. 'Громком' agrees in the masculine prepositional. Useful for media language."
+      },
+      {
+        "id": "NN-STATE-SUD-10",
+        "phrase": "Граждане верят честному суду.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Суду' is the dative governed by 'верят', as 'верить' takes the dative. 'Честному' agrees in the masculine dative. A natural model for trust in institutions."
+      }
+    ]
+  }
+]

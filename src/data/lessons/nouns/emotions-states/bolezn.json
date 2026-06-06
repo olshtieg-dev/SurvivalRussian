@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-BOLEZN",
+    "label": "Болезнь",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for болезнь (illness).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-BOLEZN-01",
+        "phrase": "Его болезнь оказалась серьёзной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Болезнь' is the nominative subject, an -ость-type feminine noun. 'Серьёзной' is the instrumental predicate after 'оказалась', which agrees in feminine gender."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-02",
+        "phrase": "Врач быстро вылечил болезнь.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Болезнь' is the accusative object of 'вылечил'; this feminine soft-sign noun looks identical in the nominative and accusative singular. 'Врач' is the nominative subject."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-03",
+        "phrase": "Причина болезни до сих пор неясна.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Болезни' is the genitive form showing the cause of what. 'Причина' is the nominative subject, and 'неясна' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-04",
+        "phrase": "Он не сдался болезни.",
+        "fullAnalysis": "Strategic focus: Dative after сдаться. 'Болезни' is in the dative case as what he did not surrender to. 'Не сдался' is the negated past verb agreeing in masculine gender."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-05",
+        "phrase": "Он долго боролся с болезнью.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Болезнью' is the instrumental form required by 'с' to express what he fought against. 'Долго' adds duration, and 'боролся' is the masculine past verb."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-06",
+        "phrase": "Врачи говорят о новой болезни.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'О болезни' uses the prepositional 'болезни' to name the topic. 'Новой' is the agreeing feminine adjective, and 'врачи' is the nominative plural subject."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-07",
+        "phrase": "При болезни нужен полный покой.",
+        "fullAnalysis": "Strategic focus: Prepositional after при. 'Болезни' is the prepositional form after 'при' meaning during illness. 'Покой' is the nominative subject, and 'нужен' is the short-form predicate agreeing with it."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-08",
+        "phrase": "Эти болезни очень опасны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Болезни' is the nominative plural subject. 'Эти' agrees in the plural, and 'опасны' is the short-form plural predicate adjective."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-09",
+        "phrase": "Он умер от тяжёлой болезни.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Болезни' is in the genitive case required by 'от' to express the cause of death. 'Тяжёлой' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-EMOTION-BOLEZN-10",
+        "phrase": "Мы должны бояться этих болезней.",
+        "fullAnalysis": "Strategic focus: Genitive plural after бояться. 'Болезней' is the genitive plural form required by 'бояться'. 'Этих' agrees in the genitive plural, and 'мы должны' frames the obligation."
+      }
+    ]
+  }
+]

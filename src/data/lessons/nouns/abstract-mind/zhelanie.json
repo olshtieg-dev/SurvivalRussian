@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-ZHELANIE",
+    "label": "Желание",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for желание (desire).",
+    "missions": [
+      {
+        "id": "NN-MIND-ZHELANIE-01",
+        "phrase": "У него большое желание учиться.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Желание' is a neuter -ие noun in the nominative, the thing possessed in the 'у него' frame. 'Большое' agrees in the neuter, and the infinitive names the wish."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-02",
+        "phrase": "Она выразила своё желание уехать.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Желание' is the neuter accusative direct object of 'выразила'; for neuters the accusative matches the nominative. 'Своё' agrees, and the infinitive specifies the wish."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-03",
+        "phrase": "У меня нет желания спорить.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Желания' is the genitive required by 'нет', expressing absence. The neuter -ие noun shifts the ending to -ия, with the infinitive naming the avoided action."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-04",
+        "phrase": "Он шёл навстречу её желанию.",
+        "fullAnalysis": "Strategic focus: Dative after навстречу. 'Желанию' is the neuter dative governed by 'навстречу', expressing accommodation of a wish. 'Её' marks whose desire it is."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-05",
+        "phrase": "Он горит желанием победить.",
+        "fullAnalysis": "Strategic focus: Instrumental of state. 'Желанием' is the neuter instrumental in the idiom 'горит желанием', describing a burning urge. The infinitive 'победить' names its content."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-06",
+        "phrase": "Они говорили о его желании.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О желании' uses the neuter prepositional after 'о' to mean discussing the wish. 'Его' marks whose desire was the topic."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-07",
+        "phrase": "Её желания всегда сбываются.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Желания' is the neuter nominative plural subject of 'сбываются', which agrees in the plural. 'Её' shows whose wishes come true."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-08",
+        "phrase": "Он исполнил все её желания.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Желания' is the neuter accusative plural object of 'исполнил'; inanimate plurals match the nominative. 'Все' quantifies them."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-09",
+        "phrase": "У детей много разных желаний.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Желаний' is the genitive plural of the neuter -ие noun, required by 'много'. 'Разных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-MIND-ZHELANIE-10",
+        "phrase": "Это сильное желание помочь людям.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Желание' is the neuter nominative as the predicate noun after 'это'. 'Сильное' agrees, and the infinitive with dative 'людям' names the aim."
+      }
+    ]
+  }
+]

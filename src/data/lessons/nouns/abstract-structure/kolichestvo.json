@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-KOLICHESTVO",
+    "label": "Количество",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for количество (quantity).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-01",
+        "phrase": "Количество студентов сильно выросло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Количество' is a neuter noun in -ество, here the nominative subject. 'Студентов' is a genitive plural modifier, and 'выросло' agrees in neuter gender."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-02",
+        "phrase": "Магазин увеличил количество товаров.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Количество' is the accusative direct object of 'увеличил'; for this neuter noun the accusative matches the nominative. 'Товаров' is a genitive plural modifier."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-03",
+        "phrase": "Это зависит от количества денег.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Количества' is the genitive required by 'от'. 'Денег' is a genitive plural modifier, and 'это зависит' is the impersonal frame."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-04",
+        "phrase": "Они рады большому количеству гостей.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Количеству' is the dative governed by 'рады'. 'Большому' agrees in the neuter dative, and 'гостей' is a genitive plural modifier."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-05",
+        "phrase": "Завод доволен количеством продукции.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Количеством' is the instrumental required by 'доволен'. 'Продукции' is a genitive modifier, and 'завод' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-06",
+        "phrase": "В большом количестве это вредно.",
+        "fullAnalysis": "Strategic focus: Prepositional of measure. 'Количестве' is the prepositional after 'в'; neuter nouns in -ество take -естве. 'Большом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-07",
+        "phrase": "Огромное количество людей пришло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Количество' is the nominative subject of 'пришло', which agrees in neuter gender. 'Огромное' agrees in neuter, and 'людей' is a genitive plural modifier."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-08",
+        "phrase": "Качество важнее количества.",
+        "fullAnalysis": "Strategic focus: Genitive of comparison. 'Количества' is the genitive after the comparative 'важнее'. 'Качество' is the nominative subject being compared."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-09",
+        "phrase": "Нужное количество воды уже готово.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Количество' is the nominative subject. 'Нужное' agrees in neuter, 'воды' is a genitive modifier, and 'готово' is the neuter predicate adjective."
+      },
+      {
+        "id": "NN-STRUCT-KOLICHESTVO-10",
+        "phrase": "Мы говорим о количестве ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional after preposition. 'Количестве' is the prepositional after 'о' in the sense of discussing something. 'Ошибок' is a genitive plural modifier."
+      }
+    ]
+  }
+]

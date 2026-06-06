@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-UPRAVLENIE",
+    "label": "Управление",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for управление (administration).",
+    "missions": [
+      {
+        "id": "NN-STATE-UPRAVLENIE-01",
+        "phrase": "Государственное управление работает медленно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Управление' is a neuter noun ending in -ие, here nominative as the subject of 'работает'. 'Государственное' is the agreeing neuter adjective meaning state administration."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-02",
+        "phrase": "Реформа улучшила управление страной.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Управление' is the accusative direct object of 'улучшила'; for this neuter noun the accusative matches the nominative. 'Страной' is instrumental, the object that управление governs."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-03",
+        "phrase": "Это вопрос эффективного управления.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Управления' is the genitive singular, linked to 'вопрос' as a matter of administration. 'Эффективного' agrees in the neuter genitive meaning efficient management."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-04",
+        "phrase": "Министр уделяет внимание управлению городом.",
+        "fullAnalysis": "Strategic focus: Dative after a fixed phrase. 'Управлению' is the dative singular governed by 'уделяет внимание', meaning pays attention to administration. 'Городом' is the instrumental object of управление."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-05",
+        "phrase": "Он занимается управлением компании.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'заниматься'. 'Управлением' is the instrumental singular required by 'занимается', meaning is engaged in the management. 'Компании' is genitive showing whose."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-06",
+        "phrase": "В управлении нужен строгий порядок.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В управлении' uses the prepositional 'управлении' after 'в', meaning within administration. 'Нужен порядок' is a need construction with the nominative."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-07",
+        "phrase": "Они говорят об управлении проектом.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'об'. 'Управлении' is prepositional after 'об', meaning talking about management. 'Проектом' is the instrumental object that управление directs."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-08",
+        "phrase": "Хорошее управление приносит хорошие результаты.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Управление' is nominative as the subject of 'приносит'. 'Хорошее' is the agreeing neuter adjective. A clean model of a neuter -ие abstract noun in subject position."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-09",
+        "phrase": "Без управления любая система разваливается.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Управления' is the genitive singular required by 'без', meaning without administration. 'Любая система' is the nominative subject that falls apart."
+      },
+      {
+        "id": "NN-STATE-UPRAVLENIE-10",
+        "phrase": "В городе работают разные управления.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Управления' is the nominative plural, the subject of 'работают', here in the concrete sense of administrative departments. 'Разные' agrees in the plural. Note this abstract pluralizes only in its institutional meaning."
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+import vzglyadSet from './vzglyad.json';
+import vnimanieSet from './vnimanie.json';
+import chuvstvoSet from './chuvstvo.json';
+import pamyatSet from './pamyat.json';
+import umSet from './um.json';
+import veraSet from './vera.json';
+import nadezhdaSet from './nadezhda.json';
+import zhelanieSet from './zhelanie.json';
+import volyaSet from './volya.json';
+import soznanieSet from './soznanie.json';
+import dukhSet from './dukh.json';
+import dushaSet from './dusha.json';
+import interesSet from './interes.json';
+import kharakterSet from './kharakter.json';
+import vyrazhenieSet from './vyrazhenie.json';
+
+export const abstractMindNounsFolderId = 'nouns-abstract-mind';
+const abstractMindNounsData = [
+  ...vzglyadSet,
+  ...vnimanieSet,
+  ...chuvstvoSet,
+  ...pamyatSet,
+  ...umSet,
+  ...veraSet,
+  ...nadezhdaSet,
+  ...zhelanieSet,
+  ...volyaSet,
+  ...soznanieSet,
+  ...dukhSet,
+  ...dushaSet,
+  ...interesSet,
+  ...kharakterSet,
+  ...vyrazhenieSet,
+];
+
+export const abstractMindNounsFolder = {
+  id: abstractMindNounsFolderId,
+  parentId: 'nouns',
+  label: 'Mind & Perception',
+  badge: 'MIND',
+  description: 'Mind & Perception nouns — each a 10-sentence usage card with case practice.',
+  missionCountLabel: `${abstractMindNounsData.length} noun cards`,
+  isFolder: true,
+};
+
+export const abstractMindNounsLessonSets = abstractMindNounsData.map((set) => ({ ...set, hiddenInMainMenu: true, groupId: abstractMindNounsFolderId }));

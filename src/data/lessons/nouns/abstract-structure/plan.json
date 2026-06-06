@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-PLAN",
+    "label": "План",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for план (plan).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-PLAN-01",
+        "phrase": "У нас есть хороший план.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'План' is masculine nominative as the subject in this possession frame. 'Хороший' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-02",
+        "phrase": "Мы составили новый план.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'План' is the masculine inanimate accusative, identical to the nominative. It is the direct object of 'составили'."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-03",
+        "phrase": "Это только часть плана.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Плана' is the masculine genitive showing what the part belongs to. It modifies 'часть'."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-04",
+        "phrase": "Мы следуем своему плану.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Плану' is the dative form after 'следуем', which governs the dative. 'Своему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-05",
+        "phrase": "Всё прошло точно по плану.",
+        "fullAnalysis": "Strategic focus: Dative in an idiom. 'Плану' is the dative form in 'по плану', meaning according to plan. A very common everyday expression."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-06",
+        "phrase": "В плане есть одна ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В плане' uses the prepositional form 'плане' after 'в' to locate the error within the plan."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-07",
+        "phrase": "Расскажи мне о своём плане.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О плане' uses the prepositional form after 'о' to mark the topic. 'Своём' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-08",
+        "phrase": "У него большие планы на лето.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Планы' is the masculine nominative plural as the subject. 'Большие' agrees in the plural, naming summer plans."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-09",
+        "phrase": "Без чёткого плана трудно работать.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Плана' is the masculine genitive after 'без'. 'Чёткого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STRUCT-PLAN-10",
+        "phrase": "Какой у тебя план на сегодня?",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'План' is masculine nominative in this possession frame. 'Какой' agrees in the masculine, asking about today's plan."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ORGAN",
+    "label": "Орган",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for орган (organ; body).",
+    "missions": [
+      {
+        "id": "NN-STATE-ORGAN-01",
+        "phrase": "Этот орган отвечает за порядок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Орган' is masculine nominative, the body that bears responsibility. 'Этот' agrees in the masculine, and 'отвечает за' means to be responsible for something."
+      },
+      {
+        "id": "NN-STATE-ORGAN-02",
+        "phrase": "Правительство создало новый орган.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Орган' is the accusative direct object of 'создало'. As an inanimate masculine noun, its accusative matches the nominative. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-STATE-ORGAN-03",
+        "phrase": "Это решение государственного органа.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Органа' is genitive, marking whose decision it is. 'Государственного' is the agreeing masculine genitive adjective. The hard masculine genitive singular ends in -а."
+      },
+      {
+        "id": "NN-STATE-ORGAN-04",
+        "phrase": "Мы обратились к этому органу.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Органу' is dative after 'к', the case for the destination of an appeal. 'Этому' is the agreeing masculine dative demonstrative."
+      },
+      {
+        "id": "NN-STATE-ORGAN-05",
+        "phrase": "Сердце является важным органом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Органом' is instrumental, governed by 'являться', which takes the instrumental for the predicate. 'Важным' agrees in the masculine instrumental singular."
+      },
+      {
+        "id": "NN-STATE-ORGAN-06",
+        "phrase": "В этом органе работают эксперты.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Органе' is prepositional after 'в', locating the work inside the body. 'Этом' agrees in the masculine prepositional, and the ending -е is the hard masculine norm."
+      },
+      {
+        "id": "NN-STATE-ORGAN-07",
+        "phrase": "Печень - очень важный орган.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Орган' is nominative as the predicate noun naming what the liver is. 'Важный' is the agreeing masculine adjective. The dash stands in for the linking verb."
+      },
+      {
+        "id": "NN-STATE-ORGAN-08",
+        "phrase": "Эти органы власти работают вместе.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Органы' is the nominative plural subject with the masculine ending -ы. 'Эти' agrees in the plural, and 'власти' is a genitive complement specifying which bodies."
+      },
+      {
+        "id": "NN-STATE-ORGAN-09",
+        "phrase": "Граждане критикуют местные органы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Органы' is the accusative plural object of 'критикуют'. As inanimate, its accusative plural matches the nominative. 'Местные' agrees in the plural."
+      },
+      {
+        "id": "NN-STATE-ORGAN-10",
+        "phrase": "Без органов контроля нет порядка.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Органов' is genitive plural after 'без', which always governs the genitive. The hard masculine genitive plural takes the ending -ов."
+      }
+    ]
+  }
+]

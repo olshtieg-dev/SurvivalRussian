@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-VOINA",
+    "label": "Война",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for война (war).",
+    "missions": [
+      {
+        "id": "NN-STATE-VOINA-01",
+        "phrase": "Эта война длилась четыре года.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Война' is the feminine nominative subject of 'длилась', which agrees in feminine gender. 'Эта' points at a specific war and 'четыре года' gives the duration."
+      },
+      {
+        "id": "NN-STATE-VOINA-02",
+        "phrase": "Народ ненавидит любую войну.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Войну' is the accusative direct object of 'ненавидит'. 'Любую' agrees in the feminine accusative, and 'народ' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-VOINA-03",
+        "phrase": "Все боятся новой войны.",
+        "fullAnalysis": "Strategic focus: Genitive after verb of fear. 'Войны' is genitive because 'бояться' governs the genitive. 'Новой' agrees in the feminine genitive, and 'все' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-VOINA-04",
+        "phrase": "Они готовятся к войне.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Войне' is the dative form required by the preposition 'к', expressing preparation toward something. 'Они' is the nominative subject of 'готовятся'."
+      },
+      {
+        "id": "NN-STATE-VOINA-05",
+        "phrase": "Они закончили войну миром.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Войну' is the accusative object of 'закончили', while 'миром' is the instrumental noun showing the means by which the war ended."
+      },
+      {
+        "id": "NN-STATE-VOINA-06",
+        "phrase": "Дед много рассказывал о войне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О войне' uses the prepositional form 'войне' after 'о' to express the topic of telling. 'Дед' is the nominative subject and 'много' adds quantity."
+      },
+      {
+        "id": "NN-STATE-VOINA-07",
+        "phrase": "Война принесла людям горе.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative recipient. 'Война' is the feminine nominative subject of 'принесла'. 'Людям' is the dative recipient and 'горе' is the accusative object."
+      },
+      {
+        "id": "NN-STATE-VOINA-08",
+        "phrase": "История знает много страшных войн.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Войн' is the genitive plural required by 'много'. 'Страшных' agrees in the genitive plural, and 'история' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-VOINA-09",
+        "phrase": "На войне погибли тысячи солдат.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На войне' uses the prepositional form 'войне' after 'на' to mean during the war. 'Тысячи солдат' is the quantified subject of 'погибли'."
+      },
+      {
+        "id": "NN-STATE-VOINA-10",
+        "phrase": "Эта война изменила всю страну.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Война' is the feminine nominative subject of 'изменила', which agrees in feminine gender. 'Всю страну' is the accusative object of the change."
+      }
+    ]
+  }
+]

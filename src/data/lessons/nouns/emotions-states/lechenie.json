@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-LECHENIE",
+    "label": "Лечение",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for лечение (treatment).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-LECHENIE-01",
+        "phrase": "Лечение оказалось очень долгим.",
+        "fullAnalysis": "Strategic focus: Nominative subject. The neuter noun 'лечение' is nominative as the subject of 'оказалось'. The predicate 'долгим' stands in the instrumental, as is normal after this verb."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-02",
+        "phrase": "Врач назначил новое лечение.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate neuter, 'лечение' keeps the same form in the accusative. It is the direct object of 'назначил', and 'новое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-03",
+        "phrase": "Без правильного лечения станет хуже.",
+        "fullAnalysis": "Strategic focus: Genitive after без. The preposition 'без' takes the genitive, giving the neuter form 'лечения'. 'Правильного' agrees in the genitive, warning of the consequence."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-04",
+        "phrase": "Благодаря лечению он быстро поправился.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. The preposition 'благодаря' governs the dative, so 'лечению' is dative. The clause credits the recovery to the treatment."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-05",
+        "phrase": "Мы довольны этим лечением.",
+        "fullAnalysis": "Strategic focus: Instrumental after доволен. The short adjective 'довольны' requires the instrumental, giving 'лечением'. 'Этим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-06",
+        "phrase": "В этом лечении нет смысла.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the neuter noun takes the prepositional form 'лечении'. The phrase 'нет смысла' uses the genitive for absence, judging the treatment pointless."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-07",
+        "phrase": "Она много читала о лечении.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. The preposition 'о' takes the prepositional form 'лечении'. 'Много' adds quantity to the reading, a useful pattern for research and study."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-08",
+        "phrase": "Лечение требует времени и терпения.",
+        "fullAnalysis": "Strategic focus: Nominative subject with genitive objects. 'Лечение' is the nominative subject of 'требует', a verb that governs the genitive, giving 'времени и терпения'."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-09",
+        "phrase": "Существует несколько методов лечения.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Лечения' is genitive, specifying methods of treatment. The quantity word 'несколько' puts 'методов' in the genitive plural."
+      },
+      {
+        "id": "NN-EMOTION-LECHENIE-10",
+        "phrase": "Это лечение помогает многим людям.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative complement. 'Лечение' is nominative as the subject of 'помогает', a verb that takes the dative, giving 'многим людям'."
+      }
+    ]
+  }
+]

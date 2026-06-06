@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-VOENNYI",
+    "label": "Военный",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for военный (serviceman).",
+    "missions": [
+      {
+        "id": "NN-STATE-VOENNYI-01",
+        "phrase": "Этот военный служит на границе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Военный' is a substantivized adjective in the masculine nominative, acting as the subject of 'служит'. 'Этот' points to a specific man, and the place phrase rounds out the sentence."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-02",
+        "phrase": "Мы встретили молодого военного.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Военного' takes the animate masculine accusative, identical to the genitive, as the direct object of 'встретили'. 'Молодого' agrees in the same form."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-03",
+        "phrase": "Это форма военного.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Военного' is in the genitive showing whose uniform it is. The noun follows 'форма' to mark belonging, a clean model for ownership."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-04",
+        "phrase": "Я отдал документы военному.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Военному' is in the masculine dative as the person receiving the documents. 'Отдал' takes the dative for the recipient, a core giving pattern."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-05",
+        "phrase": "Она гордится мужем военным.",
+        "fullAnalysis": "Strategic focus: Instrumental after гордиться. 'Военным' stands in the masculine instrumental, governed by 'гордится', which always demands that case. It restates 'мужем' in apposition."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-06",
+        "phrase": "Мы говорили о военном вчера.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О военном' uses the prepositional form after 'о' to mean talking about the serviceman. 'Вчера' anchors the time of the conversation."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-07",
+        "phrase": "Военные вернулись домой утром.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Военные' is the plural nominative subject of 'вернулись', which agrees in the plural. 'Утром' gives the time of their return."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-08",
+        "phrase": "Город встретил военных с цветами.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Военных' is the animate plural accusative, matching the genitive plural, as the object of 'встретил'. The instrumental phrase adds manner."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-09",
+        "phrase": "У военных трудная служба.",
+        "fullAnalysis": "Strategic focus: Genitive plural in possession. 'У военных' uses the genitive plural to say whose service it is. 'Трудная служба' is the nominative subject they possess."
+      },
+      {
+        "id": "NN-STATE-VOENNYI-10",
+        "phrase": "Помощь нужна нашим военным.",
+        "fullAnalysis": "Strategic focus: Dative plural beneficiary. 'Военным' is the dative plural marking who needs the help. 'Нашим' agrees in the dative plural, a natural way to state need."
+      }
+    ]
+  }
+]

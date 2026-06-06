@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-SOVET",
+    "label": "Совет",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for совет (council; advice).",
+    "missions": [
+      {
+        "id": "NN-STATE-SOVET-01",
+        "phrase": "Это очень полезный совет.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Совет' stays in the nominative as the predicate noun. 'Полезный' is the agreeing masculine adjective and 'очень' intensifies it. A natural way to praise a piece of advice."
+      },
+      {
+        "id": "NN-STATE-SOVET-02",
+        "phrase": "Я хочу дать тебе совет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Совет' is the accusative direct object of 'дать'; the inanimate masculine accusative matches the nominative. 'Тебе' is the dative recipient. A common offer of advice."
+      },
+      {
+        "id": "NN-STATE-SOVET-03",
+        "phrase": "Я прошу твоего совета.",
+        "fullAnalysis": "Strategic focus: Genitive after a verb of request. 'Совета' is the genitive singular, used after 'прошу' to ask for advice. 'Твоего' is the agreeing masculine genitive modifier meaning your advice."
+      },
+      {
+        "id": "NN-STATE-SOVET-04",
+        "phrase": "Благодаря совету врача я выздоровел.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Совету' is the dative singular required by 'благодаря', meaning thanks to the advice. 'Врача' is genitive specifying the doctor's advice."
+      },
+      {
+        "id": "NN-STATE-SOVET-05",
+        "phrase": "Я воспользовался хорошим советом.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Советом' is the instrumental singular required by 'воспользовался', meaning made use of the advice. 'Хорошим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-SOVET-06",
+        "phrase": "В его совете много мудрости.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В совете' uses the prepositional form 'совете' after 'в', meaning within his advice. 'Много мудрости' uses the genitive after a quantity word."
+      },
+      {
+        "id": "NN-STATE-SOVET-07",
+        "phrase": "Совет директоров принял решение.",
+        "fullAnalysis": "Strategic focus: Nominative subject, council sense. 'Совет' is nominative as the subject of 'принял'. 'Директоров' is genitive plural meaning board of directors. Here the noun means council rather than advice."
+      },
+      {
+        "id": "NN-STATE-SOVET-08",
+        "phrase": "Спасибо за полезный совет!",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. 'Совет' is accusative after 'за' in the thanking formula; the inanimate masculine accusative matches the nominative. 'Полезный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-STATE-SOVET-09",
+        "phrase": "Друзья всегда дают мне хорошие советы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Советы' is the accusative plural object of 'дают'; for inanimate nouns the plural accusative matches the nominative. 'Хорошие' agrees in the plural and 'мне' is the dative recipient."
+      },
+      {
+        "id": "NN-STATE-SOVET-10",
+        "phrase": "Не слушай плохих советов.",
+        "fullAnalysis": "Strategic focus: Genitive plural under negation. 'Советов' is the genitive plural, used after the negated imperative 'не слушай'. 'Плохих' agrees in the plural genitive, warning against bad advice."
+      }
+    ]
+  }
+]

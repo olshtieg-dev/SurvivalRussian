@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-KOMANDA",
+    "label": "Команда",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for команда (team; command).",
+    "missions": [
+      {
+        "id": "NN-STATE-KOMANDA-01",
+        "phrase": "Наша команда выиграла матч.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Команда' is nominative as the subject of 'выиграла', and the verb agrees in feminine gender. 'Наша' is the agreeing feminine possessive."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-02",
+        "phrase": "Тренер собрал новую команду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Команду' is the accusative direct object of 'собрал'. 'Новую' is the feminine accusative adjective agreeing with it."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-03",
+        "phrase": "Капитан команды дал команду.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging plus accusative. The first 'команды' is genitive showing whose captain. The second 'команду' is accusative, here meaning an order, highlighting the word's two senses."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-04",
+        "phrase": "Он помогает своей команде каждый день.",
+        "fullAnalysis": "Strategic focus: Dative after помогать. The verb 'помогать' governs the dative, so 'команде' is dative. 'Своей' agrees in the feminine dative, pointing back to the subject."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-05",
+        "phrase": "Я горжусь нашей командой.",
+        "fullAnalysis": "Strategic focus: Instrumental after гордиться. 'Гордиться' requires the instrumental, giving 'командой'. 'Нашей' agrees in the feminine instrumental, expressing pride in the group."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-06",
+        "phrase": "В нашей команде десять человек.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional form 'команде'. The phrase counts the members, with 'человек' in the genitive plural after the numeral."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-07",
+        "phrase": "Обе команды играли очень хорошо.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Команды' is the nominative plural subject of 'играли', and the verb agrees in the plural. 'Обе' is the feminine form of 'both'."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-08",
+        "phrase": "Судья наблюдал за обеими командами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after за. With verbs of watching, 'за' takes the instrumental, giving the plural 'командами'. 'Обеими' is the feminine instrumental of 'both'."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-09",
+        "phrase": "В лиге много сильных команд.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. The quantity word 'много' takes the genitive plural 'команд'. 'Сильных' agrees in the genitive plural, describing the league."
+      },
+      {
+        "id": "NN-STATE-KOMANDA-10",
+        "phrase": "Солдаты ждут команду командира.",
+        "fullAnalysis": "Strategic focus: Accusative in the order sense. Here 'команду' is the accusative object meaning a command. 'Командира' is the genitive showing whose order, foregrounding the second meaning of the word."
+      }
+    ]
+  }
+]

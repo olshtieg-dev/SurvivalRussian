@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-TISHINA",
+    "label": "Тишина",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for тишина (silence).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-TISHINA-01",
+        "phrase": "В комнате стояла полная тишина.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тишина' is the feminine nominative subject of 'стояла', which agrees in feminine gender. 'Полная' is the agreeing adjective and the place phrase sets the scene."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-02",
+        "phrase": "Я люблю утреннюю тишину.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тишину' is the feminine accusative direct object of 'люблю'. 'Утреннюю' agrees in the feminine accusative, describing the kind of quiet."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-03",
+        "phrase": "Он боялся ночной тишины.",
+        "fullAnalysis": "Strategic focus: Genitive after бояться. 'Тишины' is the genitive required by 'боялся', which always takes that case for the object of fear. 'Ночной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-04",
+        "phrase": "Мы привыкли к тишине деревни.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Тишине' is the dative after 'к', governed by 'привыкли'. The genitive 'деревни' tells whose silence it is."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-05",
+        "phrase": "Она наслаждалась тишиной леса.",
+        "fullAnalysis": "Strategic focus: Instrumental after наслаждаться. 'Тишиной' is the feminine instrumental governed by 'наслаждалась', which demands that case. 'Леса' is the genitive showing whose quiet it is."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-06",
+        "phrase": "Мы говорили о тишине гор.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О тишине' uses the prepositional form after 'о' to mean talking about silence. 'Гор' is the genitive plural naming whose stillness."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-07",
+        "phrase": "Тишина успокаивает уставший ум.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Тишина' is the nominative subject of 'успокаивает'. The accusative 'ум' is what it soothes, with 'уставший' agreeing."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-08",
+        "phrase": "В тишине слышно каждый звук.",
+        "fullAnalysis": "Strategic focus: Prepositional after в. 'Тишине' is the prepositional after 'в', locating the situation. The impersonal 'слышно' takes the accusative 'каждый звук'."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-09",
+        "phrase": "Без тишины трудно думать.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Тишины' is the genitive required by the preposition 'без', expressing absence. The impersonal clause states the consequence."
+      },
+      {
+        "id": "NN-EMOTION-TISHINA-10",
+        "phrase": "После шума тишина кажется громкой.",
+        "fullAnalysis": "Strategic focus: Nominative subject in comparison. 'Тишина' is the nominative subject of 'кажется', which takes the instrumental predicate 'громкой'. 'После шума' sets the contrast."
+      }
+    ]
+  }
+]

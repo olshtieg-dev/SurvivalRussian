@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-SVOBODA",
+    "label": "Свобода",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for свобода (freedom).",
+    "missions": [
+      {
+        "id": "NN-STATE-SVOBODA-01",
+        "phrase": "Свобода очень важна для людей.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Свобода' is a feminine noun in the nominative as the subject. 'Важна' is the short feminine predicate adjective, and 'для людей' adds the beneficiaries."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-02",
+        "phrase": "Народ любит свою свободу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Свободу' is the accusative direct object of 'любит'; the feminine -а becomes -у. 'Свою' agrees in the feminine accusative, showing it is their own freedom."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-03",
+        "phrase": "Они борются за свободу.",
+        "fullAnalysis": "Strategic focus: Accusative after за. 'Свободу' is accusative governed by 'за' in the sense of fighting for something. The feminine -у ending appears, framing a struggle for a goal."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-04",
+        "phrase": "Здесь нет настоящей свободы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Свободы' is genitive after the negative 'нет'. The feminine -а becomes -ы, and 'настоящей' agrees in the feminine genitive, denying real freedom."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-05",
+        "phrase": "Все мечтают о свободе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Свободе' follows 'о' in the prepositional after 'мечтают', expressing the dream's object. The feminine -а becomes -е in the prepositional."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-06",
+        "phrase": "Мы наслаждаемся полной свободой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Свободой' is the instrumental governed by 'наслаждаемся', which takes the instrumental. 'Полной' agrees in the feminine instrumental, expressing full enjoyment."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-07",
+        "phrase": "Свобода слова очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative with genitive modifier. 'Свобода' is nominative as the subject, while 'слова' is genitive specifying freedom of speech. 'Важна' is the short feminine adjective."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-08",
+        "phrase": "Он отдал жизнь ради свободы.",
+        "fullAnalysis": "Strategic focus: Genitive after ради. 'Свободы' is genitive governed by 'ради', meaning for the sake of. The feminine -ы ending appears, framing a noble sacrifice."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-09",
+        "phrase": "Они вышли на свободу вчера.",
+        "fullAnalysis": "Strategic focus: Accusative after на. 'Свободу' is accusative after 'на' in the idiom 'выйти на свободу', meaning to be released. The feminine -у ending marks the destination."
+      },
+      {
+        "id": "NN-STATE-SVOBODA-10",
+        "phrase": "Свобода даёт нам силу.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative. 'Свобода' is nominative as the giver, the subject of 'даёт'. 'Нам' is the dative recipient, and 'силу' is the accusative gift."
+      }
+    ]
+  }
+]

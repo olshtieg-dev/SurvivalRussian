@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-PARTIYA",
+    "label": "Партия",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for партия (party).",
+    "missions": [
+      {
+        "id": "NN-STATE-PARTIYA-01",
+        "phrase": "Эта партия победила на выборах.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Партия' stays in the nominative case as the subject that won. 'Эта' is the agreeing feminine demonstrative, and 'на выборах' gives the prepositional setting of the victory."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-02",
+        "phrase": "Я не поддерживаю эту партию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Партию' is the accusative direct object of 'поддерживаю'. 'Эту' agrees in the feminine accusative, and the negation expresses political distance."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-03",
+        "phrase": "Он стал лидером большой партии.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Партии' is the genitive form after 'лидером', showing leadership of the party. 'Большой' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-04",
+        "phrase": "Журналисты много пишут об этой партии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об этой партии' uses the prepositional form 'партии' after 'об' to express writing about something. 'Этой' is the agreeing feminine prepositional demonstrative."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-05",
+        "phrase": "Он отдал свой голос партии.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Партии' is the dative form, the recipient of the vote. 'Голос' stays accusative as the object given, and 'свой' marks it as his own."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-06",
+        "phrase": "Он управляет партией уже давно.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Партией' is the instrumental form required by 'управляет', the verb of governing. 'Давно' adds the long duration of his control."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-07",
+        "phrase": "В стране много разных партий.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Партий' is the genitive plural required by 'много'. 'Разных' is the agreeing genitive plural adjective, and 'в стране' gives the setting."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-08",
+        "phrase": "Эти партии часто спорят между собой.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Партии' is the nominative plural as the subject of 'спорят'. 'Эти' agrees in the plural, and 'между собой' shows mutual conflict."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-09",
+        "phrase": "Я вступил в новую партию.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Партию' is accusative after 'в' with the motion verb 'вступил', expressing joining. 'Новую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-STATE-PARTIYA-10",
+        "phrase": "Программа партии очень понятная.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Партии' is the genitive form showing whose programme it is. 'Программа' stays nominative as the subject, described by 'понятная'."
+      }
+    ]
+  }
+]

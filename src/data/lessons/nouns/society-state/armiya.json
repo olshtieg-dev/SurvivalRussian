@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ARMIYA",
+    "label": "Армия",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for армия (army).",
+    "missions": [
+      {
+        "id": "NN-STATE-ARMIYA-01",
+        "phrase": "Российская армия очень большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Армия' stays in the nominative case as the subject. 'Российская' is the agreeing feminine adjective, and 'большая' is the predicate adjective describing its size."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-02",
+        "phrase": "Мой брат пошёл в армию.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Армию' is the accusative object after 'в' showing movement into military service. 'Пошёл' agrees in masculine gender with 'брат'. A very common phrase about conscription."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-03",
+        "phrase": "Он служит в армии два года.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В армии' uses the prepositional form 'армии' after 'в' to show being inside the institution. 'Служит' is the typical verb, and 'два года' gives the duration."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-04",
+        "phrase": "Командир армии дал приказ.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Армии' is the genitive form showing whose commander it is. 'Командир' is the nominative subject, and 'приказ' is the accusative object of 'дал'."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-05",
+        "phrase": "Страна гордится своей армией.",
+        "fullAnalysis": "Strategic focus: Instrumental after гордиться. 'Армией' is in the instrumental case required by 'гордится'. 'Своей' is the agreeing feminine possessive, and 'страна' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-06",
+        "phrase": "В газете пишут об армии.",
+        "fullAnalysis": "Strategic focus: Prepositional after об. 'Об армии' uses the prepositional 'армии' to express the topic of writing. 'В газете' is also prepositional, naming where it is written."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-07",
+        "phrase": "Две армии встретились на границе.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Армии' follows 'две', which requires the genitive singular form. 'Встретились' is plural, and 'на границе' is prepositional, marking the place."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-08",
+        "phrase": "Многие армии используют новую технику.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Армии' is the nominative plural subject after 'многие'. 'Используют' agrees in the plural, and 'новую технику' is the accusative object."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-09",
+        "phrase": "Он помогает армии своими деньгами.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Армии' is in the dative case as the recipient of help after 'помогает'. 'Своими деньгами' is instrumental, showing the means of help."
+      },
+      {
+        "id": "NN-STATE-ARMIYA-10",
+        "phrase": "Народ любит свою армию.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Армию' is the accusative object of 'любит'. 'Свою' is the agreeing feminine accusative, and 'народ' is the nominative subject."
+      }
+    ]
+  }
+]

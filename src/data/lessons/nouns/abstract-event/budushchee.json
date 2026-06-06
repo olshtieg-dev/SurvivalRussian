@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-BUDUSHCHEE",
+    "label": "Будущее",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for будущее (future).",
+    "missions": [
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-01",
+        "phrase": "Будущее всегда непредсказуемо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Будущее' is a neuter substantivized adjective in the nominative as the subject. 'Непредсказуемо' is the neuter predicate."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-02",
+        "phrase": "Мы строим светлое будущее.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Будущее' is the neuter accusative, identical to the nominative. It is the object of 'строим', and 'светлое' agrees in the neuter."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-03",
+        "phrase": "Я боюсь будущего.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Будущего' is the neuter genitive form after 'боюсь', which governs the genitive. The adjectival ending takes the genitive too."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-04",
+        "phrase": "Он смотрит в будущее с надеждой.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Будущее' is the neuter accusative after 'в', showing where his gaze is directed. 'С надеждой' adds the instrumental of manner."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-05",
+        "phrase": "Наука связана с будущим.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Будущим' is the neuter instrumental form after 'связана с'. The adjectival noun takes the instrumental ending."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-06",
+        "phrase": "В будущем всё изменится.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В будущем' uses the prepositional form after 'в' to mean in the future. A very common time expression."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-07",
+        "phrase": "Мы думаем о будущем детей.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О будущем' uses the prepositional form after 'о' to mark the topic. 'Детей' is the genitive, naming whose future."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-08",
+        "phrase": "Это профессия будущего.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Будущего' is the neuter genitive showing what the profession belongs to. It modifies 'профессия'."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-09",
+        "phrase": "Без плана нет хорошего будущего.",
+        "fullAnalysis": "Strategic focus: Genitive in negation. 'Будущего' is the neuter genitive required after 'нет'. 'Хорошего' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EVENT-BUDUSHCHEE-10",
+        "phrase": "Каким ты видишь своё будущее?",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Будущее' is the neuter accusative object of 'видишь'. 'Своё' agrees in the neuter, and 'каким' uses the instrumental of the predicate."
+      }
+    ]
+  }
+]

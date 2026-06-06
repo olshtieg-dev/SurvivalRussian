@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-OTNOSHENIE",
+    "label": "Отношение",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for отношение (relation; attitude).",
+    "missions": [
+      {
+        "id": "NN-EVENT-OTNOSHENIE-01",
+        "phrase": "Его отношение к работе серьёзное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отношение' is a neuter -ие noun in the nominative as the subject. 'К работе' is a dative phrase showing toward what, and 'серьёзное' is the predicate adjective."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-02",
+        "phrase": "Я ценю твоё отношение ко мне.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отношение' is the accusative direct object of 'ценю'; the neuter form matches the nominative. 'Ко мне' shows the attitude is toward the speaker."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-03",
+        "phrase": "Это не имеет отношения к делу.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Отношения' is genitive after the negated 'не имеет'. The neuter -ие becomes -ия in the genitive, forming the idiom for being irrelevant."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-04",
+        "phrase": "Мы рады хорошему отношению учителя.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Отношению' is dative governed by 'рады', which takes the dative. The neuter -ие becomes -ию, and 'хорошему' agrees in the dative."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-05",
+        "phrase": "Он гордится тёплым отношением коллег.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Отношением' is the instrumental governed by 'гордится', which takes the instrumental. 'Тёплым' agrees, and 'коллег' is a genitive plural source."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-06",
+        "phrase": "Мы говорим о его отношении к деньгам.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Отношении' follows 'о' in the prepositional, naming the topic. The neuter -ие becomes -ии, and 'к деньгам' specifies toward money."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-07",
+        "phrase": "В отношении этого вопроса все согласны.",
+        "fullAnalysis": "Strategic focus: Prepositional in fixed phrase. 'Отношении' follows 'в' in the idiom 'в отношении', meaning regarding. The neuter -ии ending appears, and 'вопроса' is a genitive modifier."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-08",
+        "phrase": "Их отношения стали очень крепкими.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Отношения' is the nominative plural subject of 'стали', meaning a relationship. 'Крепкими' is the instrumental complement after 'стали'."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-09",
+        "phrase": "Они выяснили свои отношения вчера.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Отношения' is the accusative plural object of 'выяснили', the idiom for sorting out a relationship. 'Свои' agrees in the plural accusative."
+      },
+      {
+        "id": "NN-EVENT-OTNOSHENIE-10",
+        "phrase": "Между ними сложные отношения.",
+        "fullAnalysis": "Strategic focus: Nominative plural with между. 'Отношения' is the nominative plural subject. 'Между ними' uses the instrumental to mean between them, and 'сложные' agrees in the plural."
+      }
+    ]
+  }
+]

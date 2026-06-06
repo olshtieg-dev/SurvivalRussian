@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-DETSTVO",
+    "label": "Детство",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for детство (childhood).",
+    "missions": [
+      {
+        "id": "NN-EVENT-DETSTVO-01",
+        "phrase": "У меня было счастливое детство.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Детство' is a neuter noun in the nominative as the subject after 'было'. 'Счастливое' is the agreeing neuter adjective and 'у меня' shows whose childhood."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-02",
+        "phrase": "Он часто вспоминает своё детство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Детство' is the accusative direct object of 'вспоминает'; neuter nouns share nominative and accusative forms. 'Своё' agrees and 'часто' adds frequency."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-03",
+        "phrase": "Эти игрушки из моего детства.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Детства' is the genitive form required by 'из', expressing origin in time. 'Моего' agrees in the neuter genitive and 'игрушки' is the subject."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-04",
+        "phrase": "Он остался верен своему детству.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Детству' is the dative form governed by 'верен'. 'Своему' agrees in the neuter dative, and 'он' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-05",
+        "phrase": "Он гордится своим счастливым детством.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Детством' is instrumental because 'гордиться' governs the instrumental case. 'Своим счастливым' agrees in the neuter instrumental and 'он' is the subject."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-06",
+        "phrase": "В детстве я жил у бабушки.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В детстве' uses the prepositional form 'детстве' after 'в' to mean during childhood. 'Я' is the subject of 'жил' and 'у бабушки' shows location."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-07",
+        "phrase": "Детство пролетело очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Детство' is the neuter nominative subject of 'пролетело', which agrees in neuter gender. 'Очень быстро' adds the manner of its passing."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-08",
+        "phrase": "Книга посвящена далёкому детству.",
+        "fullAnalysis": "Strategic focus: Dative after participle. 'Детству' is the dative form governed by 'посвящена'. 'Далёкому' agrees in the neuter dative, and 'книга' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-09",
+        "phrase": "Детство это самое счастливое время.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Детство' is the neuter nominative subject equated with 'время'. 'Самое счастливое' forms the superlative agreeing with 'время'."
+      },
+      {
+        "id": "NN-EVENT-DETSTVO-10",
+        "phrase": "Запах хлеба напоминает мне детство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Детство' is the accusative object of 'напоминает'. 'Мне' is the dative experiencer and 'запах хлеба' is the nominative subject doing the reminding."
+      }
+    ]
+  }
+]

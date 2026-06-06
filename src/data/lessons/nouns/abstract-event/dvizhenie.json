@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-DVIZHENIE",
+    "label": "Движение",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for движение (movement).",
+    "missions": [
+      {
+        "id": "NN-EVENT-DVIZHENIE-01",
+        "phrase": "Движение на улице очень быстрое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Движение' is the neuter nominative subject, here meaning traffic. 'Быстрое' is the agreeing neuter adjective. A clean model for everyday city language."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-02",
+        "phrase": "Спорт развивает движение тела.",
+        "fullAnalysis": "Strategic focus: Accusative object. Neuter 'движение' has an accusative identical to the nominative, here the direct object of 'развивает'. 'Тела' is the genitive of belonging. A useful physical pattern."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-03",
+        "phrase": "Здесь нет движения совсем.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Движения' is the genitive required by 'нет'. 'Совсем' intensifies the negation. A core negation pattern for stillness."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-04",
+        "phrase": "Дети радуются любому движению.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Движению' is the dative governed by 'радуются'. 'Любому' agrees in the neuter dative. A lively emotional-reaction model."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-05",
+        "phrase": "Машина следит за движением вокруг.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'За движением' uses the instrumental 'движением' after 'за', governed by 'следить'. 'Вокруг' adds the scope. A useful monitoring pattern."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-06",
+        "phrase": "В этом движении много энергии.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В этом движении' uses the prepositional 'движении' after 'в' to locate a quality. 'Много энергии' uses the genitive of quantity. A reflective pattern."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-07",
+        "phrase": "Он участвует в общественном движении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В общественном движении' uses the prepositional 'движении' after 'в', here meaning a social movement. 'Общественном' agrees in the neuter prepositional. Useful civic vocabulary."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-08",
+        "phrase": "Танцор повторял плавные движения.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Движения' is the accusative plural, the direct object of 'повторял'. 'Плавные' agrees in the plural. A vivid model for describing motion."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-09",
+        "phrase": "Поезд пришёл в движение медленно.",
+        "fullAnalysis": "Strategic focus: Accusative in idiom. 'В движение' uses the accusative 'движение' after 'в' in the set phrase 'прийти в движение', to start moving. 'Медленно' adds the manner. A useful fixed expression."
+      },
+      {
+        "id": "NN-EVENT-DVIZHENIE-10",
+        "phrase": "Без движения мышцы слабеют.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Без движения' uses the genitive 'движения' after 'без' to express absence of activity. 'Мышцы' is the nominative plural subject. A strong health pattern."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-STRAKH",
+    "label": "Страх",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for страх (fear).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-STRAKH-01",
+        "phrase": "Меня охватил сильный страх.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Страх' is masculine nominative, the emotion that seized the speaker. 'Сильный' agrees in the masculine, and 'меня' is the accusative object of 'охватил'."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-02",
+        "phrase": "Он почувствовал внезапный страх.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Страх' is the accusative direct object of 'почувствовал'. As an inanimate masculine noun, its accusative matches the nominative. 'Внезапный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-03",
+        "phrase": "У неё нет никакого страха.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Страха' is genitive, required by 'нет' to express absence. 'Никакого' agrees in the masculine genitive. The hard masculine genitive singular ends in -а."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-04",
+        "phrase": "Она дрожала от страха.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Страха' is genitive after 'от', expressing the cause of the trembling. The preposition 'от' regularly governs the genitive."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-05",
+        "phrase": "Ребёнок закричал от страха.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Страха' is genitive after 'от', naming why the child cried out. This causal 'от' plus genitive is a very common emotion pattern."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-06",
+        "phrase": "Он живёт со страхом каждый день.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Страхом' is instrumental after 'со', meaning to live with fear. The variant 'со' appears before the consonant cluster, and the ending -ом is the hard masculine norm."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-07",
+        "phrase": "В её глазах был страх.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Страх' is nominative, the thing that was present. 'В её глазах' uses the prepositional to locate the fear, while страх itself stays nominative as the subject."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-08",
+        "phrase": "Мы говорили о его страхе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Страхе' is prepositional after 'о', the case for the topic of conversation. The hard masculine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-09",
+        "phrase": "Все его страхи оказались напрасными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Страхи' is the nominative plural subject, with the masculine plural ending -и after the stem-final х. 'Все' and 'его' frame it, and 'оказались' agrees in the plural."
+      },
+      {
+        "id": "NN-EMOTION-STRAKH-10",
+        "phrase": "Он наконец избавился от страхов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Страхов' is genitive plural after 'избавиться от', which governs the genitive. The hard masculine genitive plural takes the ending -ов."
+      }
+    ]
+  }
+]

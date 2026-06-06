@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-SOZNANIE",
+    "label": "Сознание",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for сознание (consciousness).",
+    "missions": [
+      {
+        "id": "NN-MIND-SOZNANIE-01",
+        "phrase": "К нему медленно вернулось сознание.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сознание' is the neuter noun in the nominative as the subject that returned. 'Вернулось' agrees in neuter gender, and 'к нему' is the dative goal."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-02",
+        "phrase": "Он потерял сознание от жары.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сознание' is the accusative direct object in the fixed phrase 'потерял сознание'. 'От жары' is the genitive of cause."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-03",
+        "phrase": "Больной лежал без сознания.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Сознания' is the genitive form required by 'без', the idiom for being unconscious. 'Больной' is the nominative subject."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-04",
+        "phrase": "Учёные изучают тайны сознания.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Сознания' is the genitive form after 'тайны', the mysteries of consciousness. 'Тайны' stays accusative plural as the object studied."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-05",
+        "phrase": "В её сознании возник яркий образ.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Сознании' is the prepositional form after 'в', locating the image within her mind. 'Образ' is the nominative subject that arose."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-06",
+        "phrase": "Эта мысль управляет его сознанием.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Сознанием' is the instrumental form required by 'управляет', the verb of controlling. 'Мысль' is the feminine nominative subject."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-07",
+        "phrase": "Философы много спорят о сознании.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О сознании' uses the prepositional form after 'о' to mark the topic of debate. 'Философы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-08",
+        "phrase": "Сознание человека очень сложное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сознание' stays nominative as the subject. 'Человека' is the genitive of possession, and 'сложное' is the agreeing neuter predicate adjective."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-09",
+        "phrase": "Он постепенно приходит в сознание.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Сознание' is accusative after 'в' with the motion verb 'приходит', the idiom for regaining consciousness. 'Постепенно' adds gradualness."
+      },
+      {
+        "id": "NN-MIND-SOZNANIE-10",
+        "phrase": "Это глубоко изменило моё сознание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сознание' is the accusative direct object of 'изменило'. 'Моё' agrees in the neuter, and 'глубоко' intensifies the change."
+      }
+    ]
+  }
+]

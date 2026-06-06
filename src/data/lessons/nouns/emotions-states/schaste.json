@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SCHASTE",
+    "label": "Счастье",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for счастье (happiness).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SCHASTE-01",
+        "phrase": "Настоящее счастье найти трудно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Счастье' is the neuter nominative, the thing that is hard to find. 'Настоящее' is the agreeing neuter adjective. A reflective model for abstract emotion."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-02",
+        "phrase": "Каждый человек ищет счастье.",
+        "fullAnalysis": "Strategic focus: Accusative object. Neuter 'счастье' has an accusative identical to the nominative, here the direct object of 'ищет'. 'Каждый человек' is the nominative subject. A universal everyday statement."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-03",
+        "phrase": "В жизни много счастья.",
+        "fullAnalysis": "Strategic focus: Genitive with quantity. 'Счастья' is the genitive governed by 'много'. 'В жизни' is the prepositional location. A natural way to express abundance of an abstract noun."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-04",
+        "phrase": "Дети радуются простому счастью.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Счастью' is the dative governed by 'радуются', as 'радоваться' takes the dative. 'Простому' agrees in the neuter dative. Strong emotional vocabulary."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-05",
+        "phrase": "Она плакала от счастья.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'От счастья' uses the genitive 'счастья' after 'от' to express the emotional cause of crying. A vivid, very common emotional pattern."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-06",
+        "phrase": "Он живёт счастьем своей семьи.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Счастьем' is the instrumental expressing what he lives by. 'Своей семьи' is the genitive of belonging. A heartfelt instrumental model."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-07",
+        "phrase": "Мы говорим о настоящем счастье.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О настоящем счастье' uses the prepositional 'счастье' after 'о' to express the topic. 'Настоящем' agrees in the neuter prepositional. A reflective discussion frame."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-08",
+        "phrase": "Здоровье - это большое счастье.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Счастье' is the nominative predicate noun after the dash. 'Большое' is the agreeing neuter adjective. A classic definitional sentence with 'это'."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-09",
+        "phrase": "Жизнь без счастья очень тяжела.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Без счастья' uses the genitive 'счастья' after 'без' to express absence. 'Жизнь' is the nominative subject. A strong contrastive pattern."
+      },
+      {
+        "id": "NN-EMOTION-SCHASTE-10",
+        "phrase": "Желаю тебе большого счастья!",
+        "fullAnalysis": "Strategic focus: Genitive in wishes. 'Счастья' is the genitive governed by 'желаю', which takes the genitive of the thing wished. 'Большого' agrees in the neuter genitive. The standard toast formula."
+      }
+    ]
+  }
+]

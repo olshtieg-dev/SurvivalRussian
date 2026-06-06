@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-TIP",
+    "label": "Тип",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for тип (type).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-TIP-01",
+        "phrase": "Это совершенно новый тип.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Тип' is the nominative predicate noun. 'Новый' is the agreeing masculine adjective, and 'совершенно' intensifies the newness."
+      },
+      {
+        "id": "NN-STRUCT-TIP-02",
+        "phrase": "Учёные открыли новый тип клеток.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Тип' is the accusative object of 'открыли'; this inanimate masculine noun is identical in the nominative and accusative. 'Клеток' is the genitive plural, showing of what."
+      },
+      {
+        "id": "NN-STRUCT-TIP-03",
+        "phrase": "У этого типа есть преимущества.",
+        "fullAnalysis": "Strategic focus: Genitive in a possession frame. 'Типа' is the genitive form after 'у' showing whose advantages. 'Преимущества' is the nominative plural subject of 'есть'."
+      },
+      {
+        "id": "NN-STRUCT-TIP-04",
+        "phrase": "Этот мотор подходит к новому типу.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Типу' is the dative form required by 'к' to express suitability. 'Новому' agrees in the masculine dative, and 'мотор' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-TIP-05",
+        "phrase": "Этот прибор работает совсем другим типом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Типом' is in the instrumental case expressing the way it works. 'Другим' agrees in the masculine instrumental, reinforced by 'совсем'."
+      },
+      {
+        "id": "NN-STRUCT-TIP-06",
+        "phrase": "В статье рассказано об этом типе.",
+        "fullAnalysis": "Strategic focus: Prepositional after об. 'Об типе' uses the prepositional 'типе' to name the topic. 'Этом' agrees in the masculine prepositional, and 'в статье' is also prepositional."
+      },
+      {
+        "id": "NN-STRUCT-TIP-07",
+        "phrase": "Существуют разные типы характеров.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Типы' is the nominative plural subject of 'существуют'. 'Разные' agrees in the plural, and 'характеров' is the genitive plural, showing of what."
+      },
+      {
+        "id": "NN-STRUCT-TIP-08",
+        "phrase": "Мы изучаем эти типы данных.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Типы' is the accusative plural object of 'изучаем'; as an inanimate noun it matches the nominative plural. 'Эти' agrees, and 'данных' is genitive."
+      },
+      {
+        "id": "NN-STRUCT-TIP-09",
+        "phrase": "Существует несколько типов почвы.",
+        "fullAnalysis": "Strategic focus: Genitive plural after несколько. 'Типов' is the genitive plural form required by 'несколько'. 'Почвы' is genitive, and 'существует' is the impersonal verb."
+      },
+      {
+        "id": "NN-STRUCT-TIP-10",
+        "phrase": "Этот тип двигателя очень надёжный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тип' is the nominative subject. 'Двигателя' is genitive, specifying which type, and 'надёжный' is the agreeing masculine predicate adjective."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-CHISLO",
+    "label": "Число",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for число (number).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-CHISLO-01",
+        "phrase": "Семь - моё любимое число.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Число' is a neuter noun in the nominative, naming what seven is. 'Любимое' is the agreeing neuter adjective, and the dash stands in for the linking verb."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-02",
+        "phrase": "Назовите любое число от одного.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Число' is the accusative direct object of 'назовите'. As a neuter inanimate noun, its accusative matches the nominative. 'Любое' agrees in the neuter."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-03",
+        "phrase": "Значение этого числа неизвестно.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Числа' is genitive after 'значение', expressing the value of the number. 'Этого' agrees in the neuter genitive, and the neuter genitive singular ends in -а."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-04",
+        "phrase": "К этому числу прибавьте пять.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Числу' is dative after 'к', the case for the target of addition. 'Этому' agrees in the neuter dative, ending in -у."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-05",
+        "phrase": "Это слово стоит во множественном числе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Числе' is prepositional after 'в', here in the grammatical sense of plural number. 'Множественном' agrees in the neuter prepositional, ending in -е."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-06",
+        "phrase": "Мы работаем с большим числом данных.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Числом' is instrumental after 'с', meaning with a large number. 'Большим' agrees in the neuter instrumental, and the ending is -ом."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-07",
+        "phrase": "Какое сегодня число?",
+        "fullAnalysis": "Strategic focus: Nominative in a date question. 'Число' is nominative, asking which calendar date it is. 'Какое' agrees in the neuter. This is the standard way to ask the date in Russian."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-08",
+        "phrase": "Дети учат большие числа.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Числа' is the accusative plural object of 'учат'. As inanimate, its accusative plural matches the nominative plural, with the neuter plural ending -а. 'Большие' agrees in the plural."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-09",
+        "phrase": "Эти числа делятся на два.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Числа' is the nominative plural subject, with the stressed neuter plural ending -а. 'Эти' agrees in the plural, and 'делятся' agrees in the plural too."
+      },
+      {
+        "id": "NN-STRUCT-CHISLO-10",
+        "phrase": "Сумма этих чисел равна ста.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Чисел' is genitive plural, with a fleeting vowel inserted into the stem (число to чисел). 'Этих' agrees in the genitive plural."
+      }
+    ]
+  }
+]

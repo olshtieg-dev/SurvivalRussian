@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ROTA",
+    "label": "Рота",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for рота (company; unit).",
+    "missions": [
+      {
+        "id": "NN-STATE-ROTA-01",
+        "phrase": "Наша рота стоит на границе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рота' stays in the nominative as the subject of 'стоит'. 'Наша' is the agreeing feminine possessive, and 'на границе' gives the location. A basic military statement."
+      },
+      {
+        "id": "NN-STATE-ROTA-02",
+        "phrase": "Командир построил роту утром.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Роту' is the accusative direct object of 'построил'. 'Командир' is the nominative subject doing the lining up, and 'утром' adds the time. A common drill scene."
+      },
+      {
+        "id": "NN-STATE-ROTA-03",
+        "phrase": "В роте нет свободных мест.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В роте' uses the prepositional form 'роте' after 'в' to mean within the unit. 'Нет мест' is a genitive of absence. Useful for capacity talk."
+      },
+      {
+        "id": "NN-STATE-ROTA-04",
+        "phrase": "Солдаты из нашей роты устали.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Роты' is the genitive after 'из', marking which unit the soldiers come from. 'Нашей' agrees in the feminine genitive. A natural origin phrase."
+      },
+      {
+        "id": "NN-STATE-ROTA-05",
+        "phrase": "Он командует ротой два года.",
+        "fullAnalysis": "Strategic focus: Instrumental with command verb. 'Ротой' is the instrumental required by 'командует', the verb of commanding. 'Два года' gives the duration. A clean instrumental-government model."
+      },
+      {
+        "id": "NN-STATE-ROTA-06",
+        "phrase": "Роте дали новое задание.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Роте' is the dative, the unit receiving the order. 'Новое задание' is the nominative thing given by the impersonal 'дали'. Good for assignment language."
+      },
+      {
+        "id": "NN-STATE-ROTA-07",
+        "phrase": "В лагере стояли три роты.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Роты' takes the genitive singular form required after 'три'. 'В лагере' is the prepositional location. A useful counting pattern."
+      },
+      {
+        "id": "NN-STATE-ROTA-08",
+        "phrase": "Все роты вернулись в часть.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Роты' is the nominative plural as the subject of 'вернулись'. 'Все' agrees in the plural, and 'в часть' is the accusative of destination. Shows the plural."
+      },
+      {
+        "id": "NN-STATE-ROTA-09",
+        "phrase": "Я служил в этой роте.",
+        "fullAnalysis": "Strategic focus: Prepositional of service. 'В этой роте' uses the prepositional 'роте' after 'в' to name where one served. 'Этой' agrees in the feminine prepositional. A personal-history phrase."
+      },
+      {
+        "id": "NN-STATE-ROTA-10",
+        "phrase": "Командиров рот вызвали в штаб.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Рот' is the bare genitive plural after 'командиров', naming the commanders of the companies. 'Вызвали' is the impersonal plural verb. A staff-level phrase."
+      }
+    ]
+  }
+]

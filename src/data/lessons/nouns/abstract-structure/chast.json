@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-CHAST",
+    "label": "Часть",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for часть (part).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-CHAST-01",
+        "phrase": "Это самая важная часть.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Часть' is a soft-sign feminine noun in the nominative. 'Важная' is the agreeing feminine adjective and 'самая' forms the superlative."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-02",
+        "phrase": "Я прочитал первую часть книги.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Часть' is the accusative direct object of 'прочитал'; soft-sign feminines keep the same form in the accusative singular. 'Первую' agrees and 'книги' is genitive."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-03",
+        "phrase": "Здесь не хватает важной части.",
+        "fullAnalysis": "Strategic focus: Genitive after 'не хватает'. 'Части' is the genitive required by 'не хватает'; soft-sign feminines take '-и'. 'Важной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-04",
+        "phrase": "Он уделил внимание каждой части.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Части' is the dative form after 'уделил внимание'; soft-sign feminines take '-и'. 'Каждой' agrees and 'он' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-05",
+        "phrase": "Дом построен большей частью из дерева.",
+        "fullAnalysis": "Strategic focus: Instrumental in fixed phrase. 'Частью' is instrumental in the set expression 'большей частью', meaning mostly. The soft-sign feminine takes '-ью' and 'большей' agrees."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-06",
+        "phrase": "В первой части много ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В части' uses the prepositional form 'части' after 'в'. 'Первой' agrees in the feminine prepositional and 'много ошибок' states the quantity."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-07",
+        "phrase": "Эта часть города очень старая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Часть' is the feminine nominative subject. 'Города' is genitive showing which part, and 'старая' is the agreeing feminine predicate adjective."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-08",
+        "phrase": "Машина состоит из многих частей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Частей' is the genitive plural required by 'из'. 'Многих' agrees in the genitive plural, and 'машина' is the subject of 'состоит'."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-09",
+        "phrase": "Мы разделили торт на части.",
+        "fullAnalysis": "Strategic focus: Accusative plural after preposition. 'Части' is the accusative plural after 'на', expressing division into parts. 'Торт' is the accusative object and 'мы' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-CHAST-10",
+        "phrase": "Эти части не подходят друг другу.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Части' is the nominative plural subject of 'подходят', which agrees in the plural. 'Эти' agrees and 'друг другу' is the dative phrase for one another."
+      }
+    ]
+  }
+]

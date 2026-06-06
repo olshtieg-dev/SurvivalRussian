@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-ZAPAKH",
+    "label": "Запах",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for запах (smell).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-ZAPAKH-01",
+        "phrase": "Этот запах очень приятный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Запах' is a masculine noun in the nominative as the subject. 'Этот' is the agreeing masculine demonstrative, and 'приятный' is the predicate adjective."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-02",
+        "phrase": "Я люблю запах свежего хлеба.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Запах' is the accusative direct object of 'люблю'; inanimate masculine nouns keep the nominative form. 'Свежего хлеба' is a genitive phrase specifying the smell."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-03",
+        "phrase": "В комнате нет запаха кофе.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Запаха' is genitive after 'нет', the masculine taking -а. 'Кофе' is an indeclinable genitive modifier, and 'в комнате' is prepositional location."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-04",
+        "phrase": "Кошка испугалась резкого запаха.",
+        "fullAnalysis": "Strategic focus: Genitive after fear. 'Запаха' is genitive governed by 'испугалась', which takes a genitive object. 'Резкого' agrees in the masculine genitive, describing a sharp smell."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-05",
+        "phrase": "Мы рады свежему запаху моря.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Запаху' is dative governed by 'рады', which takes the dative. 'Свежему' agrees in the masculine dative, and 'моря' is a genitive modifier."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-06",
+        "phrase": "Дом наполнился запахом цветов.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Запахом' is the instrumental governed by 'наполнился', which takes the instrumental for the filling substance. 'Цветов' is a genitive plural modifier."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-07",
+        "phrase": "Мы говорили о странном запахе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Запахе' follows 'о' in the prepositional, naming the topic. The masculine takes -е, and 'странном' agrees in the prepositional."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-08",
+        "phrase": "В саду стоят разные запахи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Запахи' is the nominative plural subject of 'стоят'. The masculine takes -и in the plural, and 'разные' agrees, describing many smells in the garden."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-09",
+        "phrase": "Я чувствую запах дыма.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Запах' is the accusative direct object of 'чувствую'; the inanimate masculine keeps its base form. 'Дыма' is a genitive modifier naming the source."
+      },
+      {
+        "id": "NN-EMOTION-ZAPAKH-10",
+        "phrase": "От цветов идёт сладкий запах.",
+        "fullAnalysis": "Strategic focus: Nominative subject with source. 'Запах' is nominative as the subject of 'идёт'. 'От цветов' is a genitive source phrase, and 'сладкий' is the agreeing masculine adjective."
+      }
+    ]
+  }
+]

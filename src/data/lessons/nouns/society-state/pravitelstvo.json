@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-PRAVITELSTVO",
+    "label": "Правительство",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for правительство (government).",
+    "missions": [
+      {
+        "id": "NN-STATE-PRAVITELSTVO-01",
+        "phrase": "Правительство приняло новый закон.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Правительство' is neuter nominative as the subject of 'приняло', which agrees in the neuter past tense. A core political sentence."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-02",
+        "phrase": "Народ критикует новое правительство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Правительство' is the neuter accusative direct object of 'критикует'. 'Новое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-03",
+        "phrase": "Это решение правительства.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Правительства' is the genitive form showing whose decision it is. It modifies 'решение' from the noun behind it."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-04",
+        "phrase": "Люди не доверяют правительству.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Правительству' is the dative form after 'доверяют', which governs the dative. The negation 'не' adds the lack of trust."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-05",
+        "phrase": "Эти меры приняты правительством.",
+        "fullAnalysis": "Strategic focus: Instrumental agent. 'Правительством' is the instrumental form naming the agent of the passive 'приняты'. The measures were taken by the government."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-06",
+        "phrase": "В правительстве работают опытные люди.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В правительстве' uses the prepositional form to express where the people work. Useful for describing institutions."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-07",
+        "phrase": "Мы говорили о правительстве вчера.",
+        "fullAnalysis": "Strategic focus: Prepositional topic. 'О правительстве' uses the prepositional form after 'о' to mark the topic of conversation. 'Вчера' sets the time."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-08",
+        "phrase": "Разные правительства решают это по-разному.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Правительства' is the nominative plural as the subject. 'Разные' agrees in the plural, naming different governments."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-09",
+        "phrase": "Без сильного правительства будет хаос.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Правительства' is the genitive form required after 'без'. 'Сильного' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-STATE-PRAVITELSTVO-10",
+        "phrase": "Новое правительство будет лучше?",
+        "fullAnalysis": "Strategic focus: Nominative with future copula. 'Правительство' is neuter nominative as the subject. 'Новое' agrees in the neuter, and 'будет лучше' poses the question."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SREDSTVO",
+    "label": "Средство",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for средство (means).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SREDSTVO-01",
+        "phrase": "Это надёжное средство связи.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Средство' is a neuter noun in the nominative as the predicate noun. 'Надёжное' is the agreeing neuter adjective, and 'связи' is a genitive modifier."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-02",
+        "phrase": "Врач нашёл новое средство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Средство' is the accusative direct object of 'нашёл'; the neuter form matches the nominative. 'Новое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-03",
+        "phrase": "У нас нет другого средства.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Средства' is genitive after 'нет', the neuter taking -а. 'Другого' agrees in the neuter genitive, meaning there is no other way."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-04",
+        "phrase": "Они ищут средства для лечения.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Средства' is genitive governed by 'ищут', which often takes the genitive for abstract things. 'Для лечения' adds the purpose."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-05",
+        "phrase": "Они платят наличными средствами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Средствами' is the instrumental plural expressing the means of payment. 'Наличными' agrees in the instrumental plural, meaning cash funds."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-06",
+        "phrase": "Письмо дошло благодаря этому средству.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 'Средству' is dative governed by 'благодаря', meaning thanks to. The neuter takes -у, and 'этому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-07",
+        "phrase": "В этом средстве много витаминов.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Средстве' follows 'в' in the prepositional, showing what is inside. The neuter takes -е, and 'витаминов' is a genitive plural quantity."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-08",
+        "phrase": "Государство выделило большие средства.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Средства' here is the accusative plural meaning funds, the object of 'выделило'. 'Большие' agrees in the plural, a common financial sense."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-09",
+        "phrase": "Средства массовой информации молчат.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Средства' is the nominative plural subject of 'молчат', forming the fixed phrase for mass media. The neuter plural takes -а."
+      },
+      {
+        "id": "NN-STRUCT-SREDSTVO-10",
+        "phrase": "Юмор был его главным средством.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Средством' is the instrumental as the predicate after the past 'был'. 'Главным' agrees in the neuter instrumental, defining humour as his main tool."
+      }
+    ]
+  }
+]

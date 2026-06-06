@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-FAKT",
+    "label": "Факт",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for факт (fact).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-FAKT-01",
+        "phrase": "Это известный исторический факт.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Факт' is the nominative as the predicate noun. 'Известный' and 'исторический' are agreeing masculine adjectives. A clean descriptive statement."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-02",
+        "phrase": "Учёные установили важный факт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Факт' is the accusative direct object of 'установили', identical to the nominative for this inanimate masculine noun. 'Важный' agrees, and 'учёные' is the subject. A research phrase."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-03",
+        "phrase": "У нас нет ни одного факта.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Факта' is the genitive after 'нет', reinforced by 'ни одного' in the masculine genitive. The frame 'у нас' shows possession. A common negation."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-04",
+        "phrase": "Не верь этому факту.",
+        "fullAnalysis": "Strategic focus: Dative after 'верить'. 'Факту' is the dative governed by 'верить', the verb of believing. 'Этому' agrees in the masculine dative, and 'не' negates the imperative. A trust phrase."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-05",
+        "phrase": "Спор закончился одним фактом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Фактом' is the instrumental describing what ended the argument. 'Одним' agrees in the masculine instrumental. A debate-resolution phrase."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-06",
+        "phrase": "Мы говорим о научном факте.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О факте' uses the prepositional 'факте' to mean about the fact. 'Научном' agrees in the masculine prepositional. A discussion pattern."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-07",
+        "phrase": "Вывод сделан на основе факта.",
+        "fullAnalysis": "Strategic focus: Genitive after 'на основе'. 'Факта' is the genitive required by the phrase 'на основе', meaning on the basis of the fact. 'Вывод сделан' is the passive subject. An analytical phrase."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-08",
+        "phrase": "Эти факты очень интересные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Факты' is the nominative plural as the subject. 'Эти' and 'интересные' agree in the plural, and 'очень' intensifies. Shows the plural form."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-09",
+        "phrase": "Журналист проверяет все факты.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Факты' is the accusative plural object of 'проверяет', identical to the nominative plural for this inanimate noun. 'Все' agrees in the plural. A verification phrase."
+      },
+      {
+        "id": "NN-STRUCT-FAKT-10",
+        "phrase": "В этой статье много фактов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Фактов' is the genitive plural required by 'много'. 'В этой статье' is the prepositional location. Shows the genitive plural ending."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SON",
+    "label": "Сон",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for сон (sleep; dream).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SON-01",
+        "phrase": "У меня был странный сон.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сон' is the masculine nominative subject after 'был'. 'Странный' is the agreeing masculine adjective, and 'у меня' shows whose dream it was."
+      },
+      {
+        "id": "NN-EMOTION-SON-02",
+        "phrase": "Я видел очень странный сон.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сон' is the accusative direct object of 'видел'. For this inanimate masculine noun the accusative matches the nominative. 'Странный' agrees with it."
+      },
+      {
+        "id": "NN-EMOTION-SON-03",
+        "phrase": "Ребёнок проснулся от страшного сна.",
+        "fullAnalysis": "Strategic focus: Genitive with fleeting vowel. 'Сна' is the genitive after 'от'; the vowel 'о' drops out of the stem. 'Страшного' agrees in the masculine genitive and 'ребёнок' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-SON-04",
+        "phrase": "Тишина помогает крепкому сну.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Сну' is the dative form, the thing helped, governed by 'помогает'. The fleeting 'о' drops, and 'крепкому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-EMOTION-SON-05",
+        "phrase": "Он наслаждался спокойным сном.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Сном' is instrumental because 'наслаждаться' governs the instrumental case. The fleeting 'о' drops, and 'спокойным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EMOTION-SON-06",
+        "phrase": "Во сне я летал над городом.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Во сне' uses the prepositional form 'сне' after 'во' to mean in a dream. The fleeting 'о' drops, and 'я' is the subject of 'летал'."
+      },
+      {
+        "id": "NN-EMOTION-SON-07",
+        "phrase": "Здоровый сон очень важен.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сон' is the masculine nominative subject. 'Здоровый' is the agreeing adjective and 'важен' is the short-form predicate adjective describing it."
+      },
+      {
+        "id": "NN-EMOTION-SON-08",
+        "phrase": "Мне часто снятся плохие сны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Сны' is the nominative plural subject of 'снятся', which agrees in the plural. 'Плохие' agrees and 'мне' is the dative experiencer."
+      },
+      {
+        "id": "NN-EMOTION-SON-09",
+        "phrase": "Я не помню своих снов.",
+        "fullAnalysis": "Strategic focus: Genitive plural object. 'Снов' is the genitive plural after the negated 'не помню'. 'Своих' agrees in the genitive plural, and 'я' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-SON-10",
+        "phrase": "Бабушка погрузилась в глубокий сон.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Сон' is the accusative after 'в', expressing falling into sleep. 'Глубокий' agrees and 'бабушка' is the nominative subject of 'погрузилась'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-UROVEN",
+    "label": "Уровень",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for уровень (level).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-UROVEN-01",
+        "phrase": "Его уровень очень высокий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Уровень' stays in the nominative as the subject. 'Высокий' is the agreeing masculine adjective, and 'очень' intensifies. Note the fleeting vowel 'е' that stays only in the nominative."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-02",
+        "phrase": "Мы повысили уровень знаний.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Уровень' is the accusative direct object of 'повысили', identical to the nominative because the fleeting vowel is kept here too. 'Знаний' is the genitive plural complement. A progress phrase."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-03",
+        "phrase": "Цена зависит от уровня сервиса.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Уровня' is the genitive required by 'от'; the fleeting 'е' drops, leaving 'уровн-'. 'Сервиса' is a further genitive complement. A pricing-logic sentence."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-04",
+        "phrase": "К новому уровню готовы немногие.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Уровню' is the dative governed by 'к'; the fleeting vowel drops, giving 'уровн-'. 'Новому' agrees in the masculine dative. A readiness statement."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-05",
+        "phrase": "Он доволен своим уровнем.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Уровнем' is the instrumental required by 'доволен'; the fleeting 'е' drops before the ending. 'Своим' agrees in the masculine instrumental. A satisfaction phrase."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-06",
+        "phrase": "На этом уровне всё сложнее.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На уровне' uses the prepositional 'уровне', where the fleeting vowel stays. 'Этом' agrees in the masculine prepositional, and 'всё сложнее' is the predicate. A staged-difficulty phrase."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-07",
+        "phrase": "Вода поднялась выше уровня моря.",
+        "fullAnalysis": "Strategic focus: Genitive after 'выше'. 'Уровня' is the genitive governed by 'выше'; the fleeting 'е' drops. 'Моря' is a further genitive complement. A natural measurement phrase."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-08",
+        "phrase": "В игре есть десять уровней.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Уровней' is the genitive plural required after 'десять'. 'В игре' is the prepositional location. Shows the plural with the soft-sign ending."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-09",
+        "phrase": "Эти уровни слишком трудные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Уровни' is the nominative plural as the subject. 'Эти' and 'трудные' agree in the plural, and 'слишком' intensifies. Shows the plural form clearly."
+      },
+      {
+        "id": "NN-STRUCT-UROVEN-10",
+        "phrase": "Мы прошли все уровни игры.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Уровни' is the accusative plural object of 'прошли', identical to the nominative plural for this inanimate noun. 'Все' agrees, and 'игры' is genitive. A completion phrase."
+      }
+    ]
+  }
+]

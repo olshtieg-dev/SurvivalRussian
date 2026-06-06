@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-UDOVOLSTVIE",
+    "label": "Удовольствие",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for удовольствие (pleasure).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-01",
+        "phrase": "Это было настоящее удовольствие.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Удовольствие' is the neuter noun in the nominative as the predicate. 'Настоящее' is the agreeing neuter adjective, and 'было' marks the past tense."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-02",
+        "phrase": "Музыка доставляет мне большое удовольствие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Удовольствие' is the accusative direct object of 'доставляет'. 'Большое' agrees in the neuter, and 'мне' is the dative recipient of the pleasure."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-03",
+        "phrase": "Он читает книги ради удовольствия.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Удовольствия' is the genitive form required by 'ради', expressing reading for the sake of pleasure. 'Книги' stays accusative as the object read."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-04",
+        "phrase": "Дети кричали от удовольствия.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Удовольствия' is the genitive form after 'от', expressing the cause of the shouting. 'Дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-05",
+        "phrase": "Я с удовольствием тебе помогу.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Удовольствием' is the instrumental form in the fixed phrase 'с удовольствием', a polite way to agree gladly. 'Тебе' is the dative recipient of help."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-06",
+        "phrase": "Мы говорили о простых удовольствиях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Удовольствиях' is the prepositional plural after 'о'. 'Простых' is the agreeing plural adjective, naming the everyday pleasures discussed."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-07",
+        "phrase": "В жизни много маленьких удовольствий.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Удовольствий' is the genitive plural required by 'много'. 'Маленьких' agrees in the genitive plural, and 'в жизни' gives the setting."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-08",
+        "phrase": "Удовольствие от работы очень важно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Удовольствие' stays nominative as the subject. 'От работы' specifies its source, and 'важно' is the neuter short-form predicate."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-09",
+        "phrase": "Она поёт для своего удовольствия.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Удовольствия' is the genitive form after 'для', expressing singing for her own pleasure. 'Своего' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EMOTION-UDOVOLSTVIE-10",
+        "phrase": "Какое удовольствие гулять здесь!",
+        "fullAnalysis": "Strategic focus: Nominative exclamation. 'Удовольствие' is nominative in an exclamatory phrase. 'Какое' is the agreeing neuter interrogative-exclamative, expressing delight in walking here."
+      }
+    ]
+  }
+]

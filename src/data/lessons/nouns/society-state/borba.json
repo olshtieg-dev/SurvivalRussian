@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-BORBA",
+    "label": "Борьба",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for борьба (struggle).",
+    "missions": [
+      {
+        "id": "NN-STATE-BORBA-01",
+        "phrase": "Эта борьба была очень тяжёлой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Борьба' stays in the nominative case as the subject. 'Эта' points at a specific one, and 'тяжёлой' is the instrumental predicate after the past tense 'была'."
+      },
+      {
+        "id": "NN-STATE-BORBA-02",
+        "phrase": "Народ начал борьбу за свободу.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Борьбу' is the accusative object of 'начал'. 'За свободу' uses 'за' with the accusative to express the goal, and 'народ' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-BORBA-03",
+        "phrase": "Результат борьбы был неизвестен.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Борьбы' is the genitive form showing the outcome of the struggle. 'Результат' is the nominative subject, and 'неизвестен' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-STATE-BORBA-04",
+        "phrase": "Он посвятил жизнь борьбе за права.",
+        "fullAnalysis": "Strategic focus: Dative after посвятить. 'Борьбе' is in the dative case as what the life was devoted to. 'Жизнь' is the accusative object, and 'за права' marks the cause."
+      },
+      {
+        "id": "NN-STATE-BORBA-05",
+        "phrase": "Они победили упорной борьбой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Борьбой' is in the instrumental case showing the means by which they won. 'Упорной' is the agreeing feminine adjective, and 'победили' is the plural verb."
+      },
+      {
+        "id": "NN-STATE-BORBA-06",
+        "phrase": "Все говорят о борьбе с бедностью.",
+        "fullAnalysis": "Strategic focus: Prepositional after о. 'О борьбе' uses the prepositional 'борьбе' to name the topic. 'С бедностью' is instrumental after 'с', showing what the struggle is against."
+      },
+      {
+        "id": "NN-STATE-BORBA-07",
+        "phrase": "Политическая борьба продолжается каждый год.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Борьба' is the nominative subject of 'продолжается'. 'Политическая' is the agreeing feminine adjective, and 'каждый год' is an accusative time expression."
+      },
+      {
+        "id": "NN-STATE-BORBA-08",
+        "phrase": "Мы устали от долгой борьбы.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Борьбы' is in the genitive case required by 'от' to express the cause of tiredness. 'Долгой' is the agreeing feminine adjective, and 'мы устали' is the subject and verb."
+      },
+      {
+        "id": "NN-STATE-BORBA-09",
+        "phrase": "В борьбе важна выдержка.",
+        "fullAnalysis": "Strategic focus: Prepositional of circumstance. 'В борьбе' uses the prepositional 'борьбе' to mean within the struggle. 'Выдержка' is the nominative subject, and 'важна' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-STATE-BORBA-10",
+        "phrase": "Эту борьбу никто не забудет.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Борьбу' is the accusative object of 'забудет'. 'Эту' agrees in the feminine accusative, and 'никто не' forms the negative subject construction."
+      }
+    ]
+  }
+]

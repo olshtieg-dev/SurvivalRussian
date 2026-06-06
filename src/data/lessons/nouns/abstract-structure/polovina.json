@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-POLOVINA",
+    "label": "Половина",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for половина (half).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-POLOVINA-01",
+        "phrase": "Половина работы уже готова.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Половина' is feminine nominative as the subject of 'готова'. 'Работы' is the genitive showing what half it is."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-02",
+        "phrase": "Я съел половину яблока.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Половину' is the feminine accusative direct object of 'съел'. 'Яблока' is the genitive marking the whole."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-03",
+        "phrase": "Больше половины людей согласны.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity word. 'Половины' is the feminine genitive after 'больше'. 'Людей' is a second genitive naming the whole group."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-04",
+        "phrase": "Он отдал половину зарплаты семье.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Половину' is the feminine accusative object of 'отдал'. 'Зарплаты' is genitive, and 'семье' is the dative recipient."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-05",
+        "phrase": "Мы остались довольны второй половиной.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Половиной' is the instrumental form after 'довольны', which governs the instrumental. 'Второй' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-06",
+        "phrase": "В первой половине дня было тихо.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В половине' uses the prepositional form after 'в'. 'Первой' agrees in the feminine, and 'дня' is the genitive whole."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-07",
+        "phrase": "Мы встретимся в половине шестого.",
+        "fullAnalysis": "Strategic focus: Prepositional in time idiom. 'В половине' uses the prepositional form to tell time, meaning at half past five. A practical everyday pattern."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-08",
+        "phrase": "Обе половины комнаты светлые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Половины' is the nominative plural as the subject. 'Обе' and 'светлые' agree in the plural, describing both halves."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-09",
+        "phrase": "Без второй половины задача неполная.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Половины' is the feminine genitive after 'без'. 'Второй' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STRUCT-POLOVINA-10",
+        "phrase": "Сколько стоит половина торта?",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Половина' is feminine nominative as the subject of the price question. 'Торта' is the genitive marking the whole cake."
+      }
+    ]
+  }
+]

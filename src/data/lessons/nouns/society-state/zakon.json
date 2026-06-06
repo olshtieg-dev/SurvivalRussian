@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ZAKON",
+    "label": "Закон",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for закон (law).",
+    "missions": [
+      {
+        "id": "NN-STATE-ZAKON-01",
+        "phrase": "Этот закон вступил в силу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Закон' is masculine nominative, the subject that came into effect. 'Этот' is the agreeing masculine demonstrative, and 'вступил в силу' is a fixed phrase meaning to take effect."
+      },
+      {
+        "id": "NN-STATE-ZAKON-02",
+        "phrase": "Парламент принял новый закон.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Закон' is the accusative direct object of 'принял'. Since закон is inanimate masculine, the accusative looks identical to the nominative. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-STATE-ZAKON-03",
+        "phrase": "Нарушение закона очень опасно.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Закона' is genitive after the noun 'нарушение', expressing a breach of the law. The hard masculine genitive singular takes the ending -а."
+      },
+      {
+        "id": "NN-STATE-ZAKON-04",
+        "phrase": "Все должны подчиняться закону.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Закону' is dative, governed by 'подчиняться', which requires the dative for the thing one submits to. 'Все' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-ZAKON-05",
+        "phrase": "Мы живём по закону.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Закону' is dative after 'по', here meaning in accordance with the law. The preposition 'по' commonly governs the dative case."
+      },
+      {
+        "id": "NN-STATE-ZAKON-06",
+        "phrase": "Полиция следит за законом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Законом' is instrumental after 'следить за', meaning to keep watch over the law. The hard masculine instrumental singular ends in -ом."
+      },
+      {
+        "id": "NN-STATE-ZAKON-07",
+        "phrase": "В законе есть серьёзная ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Законе' is prepositional after 'в', locating something within the law. The hard masculine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-STATE-ZAKON-08",
+        "phrase": "Эти законы давно устарели.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Законы' is the nominative plural subject, with the stressed masculine plural ending -ы. 'Эти' is the agreeing plural demonstrative, and 'устарели' agrees in the plural."
+      },
+      {
+        "id": "NN-STATE-ZAKON-09",
+        "phrase": "Депутаты обсуждают новые законы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Законы' is the accusative plural object of 'обсуждают'. As an inanimate noun, its accusative plural matches the nominative plural. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-STATE-ZAKON-10",
+        "phrase": "Без законов общество не выживет.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Законов' is genitive plural after 'без', which always governs the genitive. The hard masculine genitive plural takes the ending -ов."
+      }
+    ]
+  }
+]

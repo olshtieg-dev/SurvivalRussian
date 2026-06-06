@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-INTERES",
+    "label": "Интерес",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for интерес (interest).",
+    "missions": [
+      {
+        "id": "NN-MIND-INTERES-01",
+        "phrase": "Его интерес быстро пропал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Интерес' stays in the nominative as the subject of 'пропал'. 'Его' is the unchanging possessive, and 'быстро' adds manner. A statement about waning interest."
+      },
+      {
+        "id": "NN-MIND-INTERES-02",
+        "phrase": "Книга вызвала большой интерес.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Интерес' is the accusative direct object of 'вызвала', identical to the nominative for this inanimate masculine noun. 'Большой' agrees, and 'книга' is the subject. A common collocation."
+      },
+      {
+        "id": "NN-MIND-INTERES-03",
+        "phrase": "У меня нет интереса к спорту.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Интереса' is the genitive after 'нет'. 'К спорту' is the dative naming what the interest would be toward. The frame 'у меня' shows whose interest. A common negation."
+      },
+      {
+        "id": "NN-MIND-INTERES-04",
+        "phrase": "Он слушал с большим интересом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Интересом' is the instrumental after 'с' to describe how he listened. 'Большим' agrees in the masculine instrumental. A frequent adverbial idiom."
+      },
+      {
+        "id": "NN-MIND-INTERES-05",
+        "phrase": "В этом нет никакого интереса.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Интереса' is the genitive after 'нет', strengthened by 'никакого' in the masculine genitive. 'В этом' is the prepositional frame. A dismissive phrase."
+      },
+      {
+        "id": "NN-MIND-INTERES-06",
+        "phrase": "Я отношусь к этому с интересом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Интересом' is the instrumental describing the attitude. 'К этому' is the dative governed by 'относиться к'. A useful pattern for expressing attitude."
+      },
+      {
+        "id": "NN-MIND-INTERES-07",
+        "phrase": "Этот вопрос потерял интерес.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Интерес' is the accusative direct object of 'потерял', identical to the nominative for this masculine noun. 'Этот вопрос' is the nominative subject. A figurative use."
+      },
+      {
+        "id": "NN-MIND-INTERES-08",
+        "phrase": "У детей разные интересы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Интересы' is the nominative plural meaning hobbies or pursuits, the subject of the sentence. 'Разные' agrees in the plural, and 'у детей' frames possession. Shows the plural."
+      },
+      {
+        "id": "NN-MIND-INTERES-09",
+        "phrase": "Мы защищаем общие интересы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Интересы' is the accusative plural object of 'защищаем', identical to the nominative plural for this inanimate noun. 'Общие' agrees in the plural. A civic phrase."
+      },
+      {
+        "id": "NN-MIND-INTERES-10",
+        "phrase": "Это в твоих интересах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural in a set phrase. 'Интересах' is the prepositional plural after 'в' in the idiom meaning in your interest. 'Твоих' agrees in the plural. A high-frequency expression."
+      }
+    ]
+  }
+]

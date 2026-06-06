@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-LYUBOV",
+    "label": "Любовь",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for любовь (love).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-LYUBOV-01",
+        "phrase": "Любовь делает людей счастливыми.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Любовь' is a feminine -ь noun in the nominative as the subject of 'делает'. 'Людей' is the accusative object, and 'счастливыми' is the instrumental result."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-02",
+        "phrase": "Она чувствует настоящую любовь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Любовь' is the accusative direct object of 'чувствует'; the feminine -ь form matches the nominative. 'Настоящую' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-03",
+        "phrase": "В этом доме нет любви.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Любви' is genitive after 'нет'. Note the fleeting vowel: 'любовь' loses the о, giving 'любви'. 'В этом доме' sets the prepositional location."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-04",
+        "phrase": "Он ждёт любви всю жизнь.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Любви' is genitive after 'ждёт', which can govern the genitive for abstract things. The fleeting о drops out, and 'всю жизнь' marks the duration."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-05",
+        "phrase": "Мы благодарны судьбе за любовь.",
+        "fullAnalysis": "Strategic focus: Accusative after за. 'Любовь' is accusative governed by 'за', meaning gratitude for. The feminine -ь form is unchanged, and 'судьбе' is the dative thanked."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-06",
+        "phrase": "Он гордится своей любовью.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Любовью' is the instrumental governed by 'гордится', which takes the instrumental. The -ь feminine ends in -ью, and 'своей' agrees in the instrumental."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-07",
+        "phrase": "Они часто говорят о любви.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Любви' follows 'о' in the prepositional, naming the topic. The fleeting о disappears giving 'любви', and 'часто' adds frequency."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-08",
+        "phrase": "Я верю в любовь без условий.",
+        "fullAnalysis": "Strategic focus: Accusative after в. 'Любовь' is accusative after 'в' in the idiom 'верить в', to believe in. The feminine -ь form stays, and 'без условий' adds a genitive qualifier."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-09",
+        "phrase": "Благодаря любви мы остались вместе.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. 'Любви' is dative governed by 'благодаря', meaning thanks to. The fleeting о drops, and the phrase explains why they stayed together."
+      },
+      {
+        "id": "NN-EMOTION-LYUBOV-10",
+        "phrase": "Любовь матери очень сильная.",
+        "fullAnalysis": "Strategic focus: Nominative with genitive modifier. 'Любовь' is nominative as the subject, while 'матери' is genitive specifying a mother's love. 'Сильная' is the agreeing feminine predicate adjective."
+      }
+    ]
+  }
+]

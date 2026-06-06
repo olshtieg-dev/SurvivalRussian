@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-TEMNOTA",
+    "label": "Темнота",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for темнота (darkness).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-TEMNOTA-01",
+        "phrase": "Темнота наступила быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Темнота' is feminine nominative as the subject of 'наступила', which agrees in the feminine past tense. Describes nightfall."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-02",
+        "phrase": "Дети боятся темноты.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Темноты' is the feminine genitive form after 'боятся', which governs the genitive. A common childhood fear."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-03",
+        "phrase": "Я ничего не вижу в темноте.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В темноте' uses the prepositional form 'темноте' after 'в' to express location. The negation 'ничего' adds emphasis."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-04",
+        "phrase": "Он привык к темноте.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Темноте' is the dative form after 'к', expressing what he got used to. A natural pattern with привыкнуть."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-05",
+        "phrase": "Комната была наполнена темнотой.",
+        "fullAnalysis": "Strategic focus: Instrumental of content. 'Темнотой' is the instrumental form naming what the room was filled with. A vivid descriptive phrase."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-06",
+        "phrase": "Мы вышли в полную темноту.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Темноту' is the feminine accusative after 'в' showing motion into darkness. 'Полную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-07",
+        "phrase": "Из темноты послышался шорох.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Темноты' is the genitive form after 'из', marking where the rustle came from. An atmospheric sentence."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-08",
+        "phrase": "Темнота скрыла его лицо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Темнота' is the feminine nominative subject of 'скрыла', which agrees in the feminine. 'Его лицо' is the accusative object."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-09",
+        "phrase": "После темноты приятно увидеть свет.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Темноты' is the genitive form required after 'после'. The sentence contrasts darkness with returning light."
+      },
+      {
+        "id": "NN-EMOTION-TEMNOTA-10",
+        "phrase": "Почему ты сидишь в темноте?",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В темноте' uses the prepositional form 'темноте' after 'в'. The question asks why someone sits in the dark."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SUDBA",
+    "label": "Судьба",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for судьба (fate).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SUDBA-01",
+        "phrase": "У каждого своя судьба.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Судьба' stays in the nominative as the subject. 'Своя' is the agreeing feminine reflexive possessive, and 'у каждого' frames the idea. A proverbial statement."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-02",
+        "phrase": "Я не выбирал такую судьбу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Судьбу' is the accusative direct object of 'выбирал'. 'Такую' agrees in the feminine accusative, and 'не' negates the verb. A reflective phrase."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-03",
+        "phrase": "Это зависит от судьбы.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Судьбы' is the genitive required by 'от' to mean depends on fate. 'Это' is the neuter subject. A common fatalistic pattern."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-04",
+        "phrase": "Он доверился своей судьбе.",
+        "fullAnalysis": "Strategic focus: Dative after 'довериться'. 'Судьбе' is the dative governed by 'довериться', the verb of entrusting oneself. 'Своей' agrees in the feminine dative. A poetic surrender phrase."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-05",
+        "phrase": "Она довольна своей судьбой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'довольна'. 'Судьбой' is the instrumental required by 'довольна'. 'Своей' agrees in the feminine instrumental. A contentment statement."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-06",
+        "phrase": "Мы говорим о его судьбе.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О судьбе' uses the prepositional 'судьбе' to mean about his fate. 'Его' is the unchanging possessive. A discussion pattern."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-07",
+        "phrase": "Судьба свела нас вместе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Судьба' is the nominative subject of 'свела', which agrees in the feminine. 'Нас вместе' completes the idiom for fate bringing people together. A romantic frame."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-08",
+        "phrase": "Я благодарю судьбу за встречу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Судьбу' is the accusative direct object of 'благодарю'. 'За встречу' is the accusative after 'за' naming the reason. A gratitude phrase."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-09",
+        "phrase": "Их судьбы были очень похожи.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Судьбы' is the nominative plural as the subject of 'были'. 'Их' is the unchanging possessive, and 'похожи' is the short-form predicate. Shows the plural form."
+      },
+      {
+        "id": "NN-EVENT-SUDBA-10",
+        "phrase": "Война изменила тысячи судеб.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Судеб' is the genitive plural after 'тысячи', with a fleeting vowel 'е' inserted into the stem. 'Война изменила' is the subject and verb. Shows the irregular genitive plural."
+      }
+    ]
+  }
+]

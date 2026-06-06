@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-PROTSESS",
+    "label": "Процесс",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for процесс (process).",
+    "missions": [
+      {
+        "id": "NN-EVENT-PROTSESS-01",
+        "phrase": "Этот процесс занимает много времени.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Процесс' is the masculine nominative subject of 'занимает'. 'Этот' points to a specific one, and the object phrase shows what it consumes."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-02",
+        "phrase": "Учёные изучают сложный процесс.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Процесс' is the masculine inanimate accusative direct object of 'изучают', matching the nominative. 'Сложный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-03",
+        "phrase": "Это часть большого процесса.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Процесса' is the masculine genitive after 'часть', expressing the part-whole link. 'Большого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-04",
+        "phrase": "Они подошли к процессу серьёзно.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Процессу' is the masculine dative governed by 'к', the thing approached. 'Серьёзно' adds the manner of their approach."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-05",
+        "phrase": "Он руководит этим процессом.",
+        "fullAnalysis": "Strategic focus: Instrumental after руководить. 'Процессом' is the masculine instrumental governed by 'руководит', which always demands that case. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-06",
+        "phrase": "Мы говорили о новом процессе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О процессе' uses the masculine prepositional after 'о' to mean discussing the process. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-07",
+        "phrase": "Все процессы идут по плану.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Процессы' is the nominative plural subject of 'идут', which agrees in the plural. 'Все' quantifies them and 'по плану' adds manner."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-08",
+        "phrase": "Завод автоматизировал многие процессы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Процессы' is the masculine inanimate accusative plural object of 'автоматизировал', matching the nominative. 'Многие' quantifies them."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-09",
+        "phrase": "В природе много медленных процессов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Процессов' is the masculine genitive plural required by 'много'. 'Медленных' agrees in the genitive plural, and the place phrase frames it."
+      },
+      {
+        "id": "NN-EVENT-PROTSESS-10",
+        "phrase": "В процессе работы он устал.",
+        "fullAnalysis": "Strategic focus: Prepositional in idiom. 'Процессе' is the prepositional after 'в', in the phrase 'в процессе', meaning during. 'Работы' is the genitive naming the activity."
+      }
+    ]
+  }
+]

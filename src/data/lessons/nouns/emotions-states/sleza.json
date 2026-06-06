@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SLEZA",
+    "label": "Слеза",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for слеза (tear).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SLEZA-01",
+        "phrase": "По щеке текла одна слеза.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Слеза' stays in the nominative case as the subject that flowed. 'Одна' agrees in the feminine, and 'по щеке' is the dative path of motion."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-02",
+        "phrase": "Она вытерла слезу рукой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Слезу' is the accusative direct object of 'вытерла'. 'Рукой' is the instrumental of the means, the hand used to wipe it."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-03",
+        "phrase": "На её лице не было ни слезинки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. The diminutive 'слезинки' is the genitive form in the negation 'не было ни', stressing the complete absence of tears on her face."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-04",
+        "phrase": "Его глаза наполнились слезами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Слезами' is the instrumental plural required by 'наполнились', the means of filling. 'Глаза' is the nominative plural subject."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-05",
+        "phrase": "Слёзы текли по её лицу.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Слёзы' is the nominative plural as the subject of 'текли'. The stem shifts to ё in the plural, and 'по лицу' is the dative path."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-06",
+        "phrase": "Он рассказывал об этом без слёз.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Слёз' is the genitive plural required by 'без', expressing telling the story without tears. 'Об этом' names the topic."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-07",
+        "phrase": "Я почти не вижу слёз.",
+        "fullAnalysis": "Strategic focus: Genitive plural after negation. 'Слёз' is the genitive plural required by the negated verb 'не вижу'. 'Почти' softens the statement of barely seeing tears."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-08",
+        "phrase": "Дети рады новым игрушкам до слёз.",
+        "fullAnalysis": "Strategic focus: Genitive in fixed phrase. 'Слёз' is the genitive plural in the idiom 'до слёз', expressing being moved to tears. 'Игрушкам' is the dative of what pleases the children."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-09",
+        "phrase": "В её слезах было много боли.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Слезах' is the prepositional plural after 'в', locating the pain within her tears. 'Боли' is the genitive after the quantity 'много'."
+      },
+      {
+        "id": "NN-EMOTION-SLEZA-10",
+        "phrase": "Она улыбалась сквозь слёзы.",
+        "fullAnalysis": "Strategic focus: Accusative plural after preposition. 'Слёзы' is the accusative plural after 'сквозь', expressing smiling through tears. 'Улыбалась' agrees in feminine past."
+      }
+    ]
+  }
+]

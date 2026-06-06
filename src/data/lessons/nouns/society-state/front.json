@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-FRONT",
+    "label": "Фронт",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for фронт (front).",
+    "missions": [
+      {
+        "id": "NN-STATE-FRONT-01",
+        "phrase": "Фронт находится далеко отсюда.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фронт' stays in the nominative as the subject of 'находится'. 'Далеко отсюда' gives the location relative to the speaker. A plain locational statement."
+      },
+      {
+        "id": "NN-STATE-FRONT-02",
+        "phrase": "Солдат отправили на фронт.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На фронт' uses the accusative after 'на' to express movement toward the front. 'Солдат' is the accusative object of the impersonal 'отправили'. A movement phrase."
+      },
+      {
+        "id": "NN-STATE-FRONT-03",
+        "phrase": "На фронте было очень тихо.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На фронте' uses the prepositional 'фронте' after 'на' to mean at the front. 'Было тихо' is an impersonal description. Contrasts with the accusative of motion."
+      },
+      {
+        "id": "NN-STATE-FRONT-04",
+        "phrase": "Письмо пришло с фронта.",
+        "fullAnalysis": "Strategic focus: Genitive of origin. 'Фронта' is the genitive after 'с', marking where the letter came from. 'Письмо' is the nominative subject of 'пришло'. A natural pairing with 'на фронт'."
+      },
+      {
+        "id": "NN-STATE-FRONT-05",
+        "phrase": "Они говорили о новом фронте.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О фронте' uses the prepositional 'фронте' to mean about the front. 'Новом' agrees in the masculine prepositional. A discussion pattern."
+      },
+      {
+        "id": "NN-STATE-FRONT-06",
+        "phrase": "Помощь нужна всему фронту.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Фронту' is the dative, the front that needs help. 'Всему' agrees in the masculine dative, and 'помощь нужна' frames the need. A supply-line phrase."
+      },
+      {
+        "id": "NN-STATE-FRONT-07",
+        "phrase": "Над фронтом летели самолёты.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Фронтом' is the instrumental required by 'над' to mean above the front. 'Самолёты' is the nominative plural subject of 'летели'. A spatial scene."
+      },
+      {
+        "id": "NN-STATE-FRONT-08",
+        "phrase": "Война велась на двух фронтах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Фронтах' is the prepositional plural after 'на', here counted by 'двух'. 'Война велась' is the passive subject phrase. Shows the plural form."
+      },
+      {
+        "id": "NN-STATE-FRONT-09",
+        "phrase": "Этот фронт держался долго.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фронт' is the nominative subject of 'держался'. 'Этот' points to a specific one, and 'долго' adds duration. A endurance-themed sentence."
+      },
+      {
+        "id": "NN-STATE-FRONT-10",
+        "phrase": "Мы открыли второй фронт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Фронт' is the accusative direct object of 'открыли', identical to the nominative for this inanimate masculine noun. 'Второй' is the agreeing ordinal. A strategic phrase."
+      }
+    ]
+  }
+]

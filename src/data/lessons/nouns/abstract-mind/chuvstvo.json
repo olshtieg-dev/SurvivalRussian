@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-CHUVSTVO",
+    "label": "Чувство",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for чувство (feeling).",
+    "missions": [
+      {
+        "id": "NN-MIND-CHUVSTVO-01",
+        "phrase": "Это странное чувство.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Чувство' is a neuter noun, here nominative as the predicate. 'Странное' is the agreeing neuter adjective. A natural way to label an emotion."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-02",
+        "phrase": "Я испытываю сильное чувство радости.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Чувство' is the accusative direct object of 'испытываю'; the neuter accusative matches the nominative. 'Сильное' agrees in neuter and 'радости' is genitive meaning a feeling of joy."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-03",
+        "phrase": "У меня нет чувства вины.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Чувства' is the genitive singular after 'нет', meaning I have no feeling. 'Вины' is also genitive, naming a sense of guilt."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-04",
+        "phrase": "Музыка дарит чувству свободу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Чувству' is the dative singular, the recipient of what 'дарит' gives. 'Свободу' is the accusative object, the freedom granted to feeling."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-05",
+        "phrase": "Он руководствуется чувством долга.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Чувством' is the instrumental singular required by 'руководствуется', meaning guided by a feeling. 'Долга' is genitive meaning a sense of duty."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-06",
+        "phrase": "В этом чувстве есть нежность.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В чувстве' uses the prepositional 'чувстве' after 'в', meaning within this feeling. 'Этом' agrees in the neuter prepositional and 'нежность' is the nominative subject."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-07",
+        "phrase": "Мы говорим о чувстве любви.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Чувстве' is prepositional after 'о', meaning speaking about a feeling. 'Любви' is genitive, naming the feeling of love."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-08",
+        "phrase": "У неё прекрасное чувство юмора.",
+        "fullAnalysis": "Strategic focus: Nominative in a fixed phrase. 'Чувство' is nominative in the idiom 'чувство юмора', a sense of humour. 'Прекрасное' is the agreeing neuter adjective and 'юмора' is genitive."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-09",
+        "phrase": "Его переполняют тёплые чувства.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Чувства' is the nominative plural, the subject of 'переполняют'. 'Тёплые' agrees in the plural and 'его' is the accusative object. This noun pluralizes readily as emotions."
+      },
+      {
+        "id": "NN-MIND-CHUVSTVO-10",
+        "phrase": "Не скрывай своих чувств.",
+        "fullAnalysis": "Strategic focus: Genitive plural under negation. 'Чувств' is the genitive plural after the negated imperative 'не скрывай'. 'Своих' agrees in the plural genitive, urging honesty about emotions."
+      }
+    ]
+  }
+]

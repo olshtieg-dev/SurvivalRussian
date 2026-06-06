@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-USLOVIE",
+    "label": "Условие",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for условие (condition).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-USLOVIE-01",
+        "phrase": "Это главное условие договора.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Условие' is a neuter -ие noun in the nominative, naming the key term. 'Главное' agrees in the neuter, and 'договора' is a genitive complement specifying which contract."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-02",
+        "phrase": "Мы приняли это условие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Условие' is the accusative direct object of 'приняли'. As a neuter inanimate noun, its accusative matches the nominative. 'Это' agrees in the neuter."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-03",
+        "phrase": "Без этого условия сделка невозможна.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Условия' is genitive after 'без', which always governs the genitive. 'Этого' agrees in the neuter genitive, ending in -ия for -ие nouns."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-04",
+        "phrase": "Мы согласились на это условие.",
+        "fullAnalysis": "Strategic focus: Accusative with preposition. 'Условие' is accusative after 'на' in the sense of agreeing to a term. 'Согласиться на' takes the accusative for what one consents to."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-05",
+        "phrase": "Мы добавили к договору новое условие.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative. 'Условие' is the accusative object of 'добавили', and 'к договору' is dative naming what it was added to. 'Новое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-06",
+        "phrase": "В этом условии есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Условии' is prepositional after 'в', locating something within the term. The -ие neuter takes the special prepositional ending -ии."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-07",
+        "phrase": "С таким условием я не согласен.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Условием' is instrumental after 'с', meaning with such a term. 'Таким' agrees in the neuter instrumental, ending in -ем for -ие nouns."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-08",
+        "phrase": "Все условия были выполнены вовремя.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Условия' is the nominative plural subject, with the neuter plural ending -ия. 'Все' agrees in the plural, and 'были выполнены' agrees in the plural."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-09",
+        "phrase": "Они изменили условия контракта.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Условия' is the accusative plural object of 'изменили'. As inanimate, its accusative plural matches the nominative plural. 'Контракта' is a genitive complement."
+      },
+      {
+        "id": "NN-STRUCT-USLOVIE-10",
+        "phrase": "Мы работаем в трудных условиях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Условиях' is prepositional plural after 'в', describing the circumstances of work. 'Трудных' agrees in the plural, and the -ие neuter plural prepositional ends in -иях."
+      }
+    ]
+  }
+]

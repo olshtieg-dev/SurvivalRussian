@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-REZULTAT",
+    "label": "Результат",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for результат (result).",
+    "missions": [
+      {
+        "id": "NN-EVENT-REZULTAT-01",
+        "phrase": "Результат оказался очень хорошим.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Результат' is the masculine nominative subject. 'Хорошим' is the instrumental predicate after 'оказался'. A clean model for reporting outcomes."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-02",
+        "phrase": "Мы получили отличный результат.",
+        "fullAnalysis": "Strategic focus: Accusative object. Inanimate 'результат' has an accusative identical to the nominative, here the direct object of 'получили'. 'Отличный' agrees in the masculine accusative. A common achievement statement."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-03",
+        "phrase": "Все ждали результата экзамена.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Результата' is the genitive governed by 'ждали', and 'экзамена' is the genitive of belonging. A natural anticipation pattern."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-04",
+        "phrase": "Мы рады такому результату.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Результату' is the dative governed by 'рады' (glad of). 'Такому' agrees in the masculine dative. A strong evaluation model."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-05",
+        "phrase": "Он доволен своим результатом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Результатом' is the instrumental governed by 'доволен' (satisfied with). 'Своим' agrees in the masculine instrumental. A natural satisfaction model."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-06",
+        "phrase": "В этом результате есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В этом результате' uses the prepositional 'результате' after 'в' to locate a flaw. 'Ошибка' is the nominative subject of 'есть'. A useful analytical pattern."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-07",
+        "phrase": "Учёные обсуждают новые результаты.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Результаты' is the accusative plural, the direct object of 'обсуждают'. 'Новые' agrees in the plural. A common academic collocation."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-08",
+        "phrase": "Без труда нет результата.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Результата' is the genitive required by 'нет'. 'Без труда' uses the genitive after 'без'. A proverbial cause-effect statement."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-09",
+        "phrase": "Это привело к хорошему результату.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'К хорошему результату' uses the dative 'результату' after 'к', governed by 'привело'. 'Хорошему' agrees in the masculine dative. A core consequence pattern."
+      },
+      {
+        "id": "NN-EVENT-REZULTAT-10",
+        "phrase": "Мы говорим о результатах работы.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О результатах' uses the prepositional plural 'результатах' after 'о', and 'работы' is the genitive of belonging. A useful discussion frame."
+      }
+    ]
+  }
+]

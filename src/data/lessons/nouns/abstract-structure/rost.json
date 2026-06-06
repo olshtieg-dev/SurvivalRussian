@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-ROST",
+    "label": "Рост",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for рост (growth; height).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-ROST-01",
+        "phrase": "Рост цен сильно нас беспокоит.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рост' is the masculine noun in the nominative as the subject that worries. 'Цен' is the genitive plural of belonging, and 'нас' is the accusative object."
+      },
+      {
+        "id": "NN-STRUCT-ROST-02",
+        "phrase": "Компания показала быстрый рост.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рост' is the accusative direct object of 'показала'. For inanimate masculine nouns the accusative matches the nominative, and 'быстрый' agrees with it."
+      },
+      {
+        "id": "NN-STRUCT-ROST-03",
+        "phrase": "Все ждут экономического роста.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Роста' is the genitive form required by 'ждут', the verb of waiting. 'Экономического' is the agreeing masculine genitive adjective."
+      },
+      {
+        "id": "NN-STRUCT-ROST-04",
+        "phrase": "Учёные говорят о росте населения.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О росте' uses the prepositional form after 'о' to mark the topic. 'Населения' is the genitive of belonging, the growth of the population."
+      },
+      {
+        "id": "NN-STRUCT-ROST-05",
+        "phrase": "Хорошая погода способствует росту растений.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Росту' is the dative form required by 'способствует', the verb of promoting. 'Растений' is the genitive plural of belonging."
+      },
+      {
+        "id": "NN-STRUCT-ROST-06",
+        "phrase": "Он гордится своим высоким ростом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Ростом' is the instrumental form required by 'гордится', here meaning bodily height. 'Высоким' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STRUCT-ROST-07",
+        "phrase": "Этот мальчик небольшого роста.",
+        "fullAnalysis": "Strategic focus: Genitive of description. 'Роста' is the genitive form in the descriptive phrase of height. 'Небольшого' agrees in the masculine genitive, characterising the boy."
+      },
+      {
+        "id": "NN-STRUCT-ROST-08",
+        "phrase": "В этом году мы видим рост продаж.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рост' is the accusative object of 'видим'. 'Продаж' is the genitive plural of belonging, and 'в этом году' gives the time frame."
+      },
+      {
+        "id": "NN-STRUCT-ROST-09",
+        "phrase": "Цены растут из-за роста спроса.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Роста' is the genitive form required by 'из-за', expressing the cause. 'Спроса' is a second genitive of belonging."
+      },
+      {
+        "id": "NN-STRUCT-ROST-10",
+        "phrase": "Девочка измеряет свой рост у стены.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рост' is the accusative object of 'измеряет', here bodily height. 'Свой' marks it as her own, and 'у стены' is the genitive location."
+      }
+    ]
+  }
+]

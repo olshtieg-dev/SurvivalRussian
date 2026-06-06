@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-VYKHOD",
+    "label": "Выход",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for выход (exit; way out).",
+    "missions": [
+      {
+        "id": "NN-EVENT-VYKHOD-01",
+        "phrase": "Выход находится справа от вас.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Выход' is the nominative subject of 'находится'. The phrase 'справа от вас' locates the exit, with 'вас' in the genitive after 'от'."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-02",
+        "phrase": "Мы наконец нашли выход.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine, 'выход' is unchanged in the accusative as the object of 'нашли'. 'Наконец' adds relief, fitting both literal and figurative senses."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-03",
+        "phrase": "Из этой ситуации нет выхода.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. The word 'нет' takes the genitive 'выхода', here meaning a way out. 'Из этой ситуации' uses the genitive after 'из'."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-04",
+        "phrase": "Все направились к выходу.",
+        "fullAnalysis": "Strategic focus: Dative after к. The preposition 'к' takes the dative, giving 'выходу'. 'Все' is the nominative subject heading toward the exit."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-05",
+        "phrase": "Он воспользовался единственным выходом.",
+        "fullAnalysis": "Strategic focus: Instrumental after воспользоваться. The verb 'воспользоваться' requires the instrumental, giving 'выходом'. 'Единственным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-06",
+        "phrase": "В этом выходе нет смысла.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional form 'выходе'. 'Нет смысла' uses the genitive for absence, judging the solution pointless."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-07",
+        "phrase": "Где находится запасной выход?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Выход' is the nominative subject of 'находится'. 'Запасной' is the agreeing masculine adjective meaning emergency exit."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-08",
+        "phrase": "Мы стояли у выхода долго.",
+        "fullAnalysis": "Strategic focus: Genitive after у. The preposition 'у' takes the genitive, giving 'выхода'. The clause places the subjects beside the exit, and 'долго' adds duration."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-09",
+        "phrase": "В театре несколько запасных выходов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after несколько. The quantity word 'несколько' takes the genitive plural 'выходов'. 'Запасных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EVENT-VYKHOD-10",
+        "phrase": "Это лучший выход из положения.",
+        "fullAnalysis": "Strategic focus: Nominative predicate in the figurative sense. 'Выход' is nominative as the predicate after 'это', meaning a way out. 'Из положения' is genitive, completing the idiom."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SITUATSIYA",
+    "label": "Ситуация",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for ситуация (situation).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SITUATSIYA-01",
+        "phrase": "Это очень сложная ситуация.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Ситуация' is the nominative as the predicate noun. 'Сложная' is the agreeing feminine adjective, and 'очень' intensifies. A clean descriptive statement."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-02",
+        "phrase": "Мы быстро исправили ситуацию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ситуацию' is the accusative direct object of 'исправили'. 'Быстро' adds manner, and 'мы' is the subject. A problem-solving phrase."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-03",
+        "phrase": "Выход из этой ситуации есть.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Ситуации' is the genitive required by 'из' to mean a way out of the situation. 'Этой' agrees in the feminine genitive. A reassuring phrase."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-04",
+        "phrase": "Решение зависит от ситуации.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Ситуации' is the genitive required by 'от' to mean depends on the situation. 'Решение' is the neuter nominative subject. A decision-logic sentence."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-05",
+        "phrase": "Он управляет сложной ситуацией.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'управлять'. 'Ситуацией' is the instrumental governed by 'управлять', the verb of managing. 'Сложной' agrees in the feminine instrumental. A control phrase."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-06",
+        "phrase": "Мы говорили о текущей ситуации.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О ситуации' uses the prepositional 'ситуации' to mean about the situation. 'Текущей' agrees in the feminine prepositional. A discussion pattern."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-07",
+        "phrase": "В этой ситуации лучше молчать.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В ситуации' uses the prepositional 'ситуации' after 'в' to set the circumstance. 'Этой' agrees, and 'лучше молчать' is the impersonal advice. A frequent frame."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-08",
+        "phrase": "Мы готовы к любой ситуации.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Ситуации' is the dative governed by 'к' after 'готовы'. 'Любой' agrees in the feminine dative. A readiness statement."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-09",
+        "phrase": "Такие ситуации бывают часто.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Ситуации' is the nominative plural as the subject of 'бывают'. 'Такие' agrees in the plural, and 'часто' adds frequency. Shows the plural form."
+      },
+      {
+        "id": "NN-EVENT-SITUATSIYA-10",
+        "phrase": "Я попадал в разные ситуации.",
+        "fullAnalysis": "Strategic focus: Accusative plural of direction. 'Ситуации' is the accusative plural after 'в' with the verb 'попадать в'. 'Разные' agrees in the plural. Shows the plural in an idiomatic motion frame."
+      }
+    ]
+  }
+]

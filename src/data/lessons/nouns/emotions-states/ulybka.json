@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-ULYBKA",
+    "label": "Улыбка",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for улыбка (smile).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-ULYBKA-01",
+        "phrase": "У неё очень добрая улыбка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Улыбка' stays in the nominative as the subject. 'Добрая' is the agreeing feminine adjective, and 'у неё' frames whose smile it is."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-02",
+        "phrase": "Я заметил его улыбку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Улыбку' is the accusative direct object of 'заметил'. 'Его' is the masculine possessive showing whose smile was noticed."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-03",
+        "phrase": "Без улыбки лицо кажется строгим.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Улыбки' is the genitive required by 'без'. 'Лицо' is the nominative subject, and 'строгим' is the instrumental predicate after 'кажется'."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-04",
+        "phrase": "Он ответил мне улыбкой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Улыбкой' is the instrumental expressing what he answered with. 'Мне' is the dative recipient, and 'он' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-05",
+        "phrase": "На её лице играет улыбка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Улыбка' is the nominative subject of 'играет'. 'На её лице' is a prepositional phrase of location showing where the smile appears."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-06",
+        "phrase": "Я рад твоей улыбке.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Улыбке' is the dative governed by 'рад'. 'Твоей' agrees in the feminine dative, expressing gladness at the smile."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-07",
+        "phrase": "В её улыбке столько тепла.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Улыбке' is the prepositional after 'в' showing where the warmth is. 'Её' agrees in the feminine, and 'столько тепла' is a genitive quantity."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-08",
+        "phrase": "Эта улыбка согревает всех.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Улыбка' is the nominative subject of 'согревает'. 'Эта' points to a specific smile, and 'всех' is the accusative object."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-09",
+        "phrase": "Дети встретили нас улыбками.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of means. 'Улыбками' is the instrumental plural expressing how the children greeted us. 'Нас' is the accusative object, and 'дети' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-ULYBKA-10",
+        "phrase": "Вокруг было много улыбок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Улыбок' is the genitive plural required by 'много'; the fleeting vowel -о- appears before -к. 'Вокруг' sets the setting."
+      }
+    ]
+  }
+]

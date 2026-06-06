@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-VNIMANIE",
+    "label": "Внимание",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for внимание (attention).",
+    "missions": [
+      {
+        "id": "NN-MIND-VNIMANIE-01",
+        "phrase": "Ваше внимание очень важно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. The neuter noun 'внимание' is nominative as the subject. 'Важно' is the neuter short predicate adjective agreeing with it, and 'ваше' is the possessive."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-02",
+        "phrase": "Учитель просит внимание класса.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate neuter, 'внимание' is unchanged in the accusative as the object of 'просит'. 'Класса' is genitive, showing whose attention."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-03",
+        "phrase": "Обрати на меня внимание!",
+        "fullAnalysis": "Strategic focus: Accusative in a set phrase. The idiom 'обратить внимание' keeps 'внимание' in the accusative. 'На меня' shows the target, and the imperative makes it a direct appeal."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-04",
+        "phrase": "Этой проблеме нужно больше внимания.",
+        "fullAnalysis": "Strategic focus: Genitive after a quantity word. 'Больше' requires the genitive, giving the neuter form 'внимания'. 'Этой проблеме' is dative, the recipient of the attention."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-05",
+        "phrase": "Он слушал с большим вниманием.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner with с. The preposition 'с' takes the instrumental, giving 'вниманием'. 'Большим' agrees in the neuter instrumental, describing how he listened."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-06",
+        "phrase": "В центре внимания была актриса.",
+        "fullAnalysis": "Strategic focus: Genitive in a fixed phrase. 'Центр внимания' uses the genitive 'внимания'. The whole phrase sits after 'в центре', a common idiom for being the focus."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-07",
+        "phrase": "Спасибо за внимание к деталям.",
+        "fullAnalysis": "Strategic focus: Accusative after за. The preposition 'за' here takes the accusative, giving 'внимание'. 'К деталям' is dative, naming what the attention is directed to."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-08",
+        "phrase": "Дети нуждаются во внимании родителей.",
+        "fullAnalysis": "Strategic focus: Prepositional after нуждаться в. The verb 'нуждаться' takes 'в' with the prepositional 'внимании'; the preposition appears as 'во' before the cluster. 'Родителей' is genitive."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-09",
+        "phrase": "Без внимания цветы быстро погибнут.",
+        "fullAnalysis": "Strategic focus: Genitive after без. The preposition 'без' takes the genitive 'внимания'. The clause warns of the result, with 'цветы' as the nominative subject."
+      },
+      {
+        "id": "NN-MIND-VNIMANIE-10",
+        "phrase": "Её внимание привлёк яркий свет.",
+        "fullAnalysis": "Strategic focus: Accusative object in inverted order. Here 'внимание' is the accusative object of 'привлёк', while 'яркий свет' is the nominative subject that did the attracting."
+      }
+    ]
+  }
+]

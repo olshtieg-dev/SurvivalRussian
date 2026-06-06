@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-CHERTA",
+    "label": "Черта",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for черта (trait; line).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-CHERTA-01",
+        "phrase": "Это очень хорошая черта.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Черта' is the feminine nominative noun describing a character trait. 'Хорошая' is the agreeing feminine adjective and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-02",
+        "phrase": "Я ценю эту черту характера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Черту' is the accusative direct object of 'ценю'. 'Эту' agrees in the feminine accusative and 'характера' is genitive showing a trait of character."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-03",
+        "phrase": "У него нет этой черты.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Черты' is the genitive after 'нет'. 'Этой' agrees in the feminine genitive, and 'у него' shows whose trait is lacking."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-04",
+        "phrase": "Доброте как черте всегда рады.",
+        "fullAnalysis": "Strategic focus: Dative apposition. 'Черте' is the dative form after 'как', agreeing with the dative 'доброте' it describes. 'Рады' takes the dative and 'всегда' adds frequency."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-05",
+        "phrase": "Он отличается одной важной чертой.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Чертой' is instrumental because 'отличаться' governs the instrumental case. 'Одной важной' agrees in the feminine instrumental and 'он' is the subject."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-06",
+        "phrase": "В этой черте видна его доброта.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В черте' uses the prepositional form 'черте' after 'в'. 'Этой' agrees and 'доброта' is the nominative subject seen in the trait."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-07",
+        "phrase": "Эта черта делает его особенным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Черта' is the feminine nominative subject of 'делает'. 'Особенным' is the instrumental complement describing the result, and 'его' is the accusative object."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-08",
+        "phrase": "У неё много прекрасных черт.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Черт' is the genitive plural required by 'много'. 'Прекрасных' agrees in the genitive plural, and 'у неё' shows whose traits."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-09",
+        "phrase": "Эти черты лица очень красивы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Черты' is the nominative plural subject. 'Лица' is genitive in the phrase for facial features and 'красивы' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-STRUCT-CHERTA-10",
+        "phrase": "Художник провёл прямую черту.",
+        "fullAnalysis": "Strategic focus: Accusative object, concrete sense. 'Черту' is the accusative object of 'провёл' in the literal meaning of drawing a line. 'Прямую' agrees and 'художник' is the subject."
+      }
+    ]
+  }
+]

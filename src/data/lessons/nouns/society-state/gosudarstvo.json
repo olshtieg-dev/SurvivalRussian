@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-GOSUDARSTVO",
+    "label": "Государство",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for государство (state).",
+    "missions": [
+      {
+        "id": "NN-STATE-GOSUDARSTVO-01",
+        "phrase": "Государство помогает своим гражданам.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Государство' is neuter nominative as the subject of 'помогает'. 'Своим гражданам' is the dative object, showing whom the state helps."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-02",
+        "phrase": "Мы любим наше государство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Государство' is neuter accusative, identical to the nominative here. It is the direct object of 'любим', and 'наше' agrees in the neuter."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-03",
+        "phrase": "Это закон нашего государства.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Государства' is the genitive form showing whose law it is. 'Нашего' agrees in the neuter genitive, modifying the noun."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-04",
+        "phrase": "Он служит своему государству.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Государству' is the dative form after 'служит', which governs the dative. 'Своему' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-05",
+        "phrase": "Армия управляется государством.",
+        "fullAnalysis": "Strategic focus: Instrumental agent. 'Государством' is the instrumental form naming the agent in this passive construction. The army is run by the state."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-06",
+        "phrase": "В нашем государстве живут разные народы.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В государстве' uses the prepositional form 'государстве' to express location. 'Нашем' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-07",
+        "phrase": "Многие государства входят в этот союз.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Государства' is the nominative plural as the subject of 'входят'. 'Многие' agrees in the plural, naming several countries."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-08",
+        "phrase": "В Европе много небольших государств.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Государств' is the genitive plural required after 'много'. 'Небольших' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-09",
+        "phrase": "Сильное государство защищает свой народ.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Государство' is neuter nominative as the subject. 'Сильное' is the agreeing neuter adjective describing it."
+      },
+      {
+        "id": "NN-STATE-GOSUDARSTVO-10",
+        "phrase": "Без государства трудно жить?",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Государства' is the genitive form required after 'без'. The question asks whether life is hard without a state."
+      }
+    ]
+  }
+]

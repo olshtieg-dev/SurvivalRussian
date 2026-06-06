@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-MIR",
+    "label": "Мир",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for мир (world; peace).",
+    "missions": [
+      {
+        "id": "NN-STATE-MIR-01",
+        "phrase": "Весь мир знает этот город.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мир' stays in the nominative as the subject of 'знает'. 'Весь' is the agreeing masculine determiner meaning the whole world. A natural way to claim something is famous everywhere."
+      },
+      {
+        "id": "NN-STATE-MIR-02",
+        "phrase": "Все люди хотят мир и покой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мир' is in the accusative as the thing wanted after 'хотят'; for this inanimate masculine noun the accusative matches the nominative. Here it carries the sense of peace, joined by 'и' to 'покой'."
+      },
+      {
+        "id": "NN-STATE-MIR-03",
+        "phrase": "Мы хотим мира на земле.",
+        "fullAnalysis": "Strategic focus: Genitive after a verb of desire. 'Мира' is the genitive singular, used after 'хотим' to express wanting peace as an abstract goal. 'На земле' is a prepositional phrase locating it on earth."
+      },
+      {
+        "id": "NN-STATE-MIR-04",
+        "phrase": "Война угрожает миру людей.",
+        "fullAnalysis": "Strategic focus: Dative object of threat. 'Миру' is the dative singular, the thing endangered by 'угрожает', which governs the dative. 'Людей' is genitive plural specifying whose world is at risk."
+      },
+      {
+        "id": "NN-STATE-MIR-05",
+        "phrase": "Учёный гордится своим открытым миром.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Миром' is the instrumental singular required by 'гордится'. 'Своим открытым' are the agreeing masculine instrumental modifiers describing the open world he discovered."
+      },
+      {
+        "id": "NN-STATE-MIR-06",
+        "phrase": "В этом мире всё быстро меняется.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В мире' uses the prepositional form 'мире' after 'в' to mean in this world. 'Этом' agrees in the masculine prepositional, and 'всё' is the subject that changes."
+      },
+      {
+        "id": "NN-STATE-MIR-07",
+        "phrase": "Они мечтают о мире без войны.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О мире' uses the prepositional 'мире' after 'о' to express dreaming about peace. 'Без войны' is a genitive phrase meaning without war."
+      },
+      {
+        "id": "NN-STATE-MIR-08",
+        "phrase": "Этот фильм известен во всём мире.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'во'. 'Мире' is prepositional after 'во', meaning across the whole world. 'Всём' agrees in the masculine prepositional, a fixed idiom for global fame."
+      },
+      {
+        "id": "NN-STATE-MIR-09",
+        "phrase": "Дипломат борется за мир между странами.",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. 'Мир' is accusative after 'за' in the sense of fighting for peace; the inanimate masculine accusative matches the nominative. 'Между странами' uses the instrumental for between countries."
+      },
+      {
+        "id": "NN-STATE-MIR-10",
+        "phrase": "Существуют ли другие миры?",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Миры' is the nominative plural, the subject of 'существуют'. 'Другие' is the agreeing plural adjective and 'ли' marks the question. This sense pluralizes naturally as separate worlds."
+      }
+    ]
+  }
+]

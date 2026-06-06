@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-KHARAKTER",
+    "label": "Характер",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for характер (character).",
+    "missions": [
+      {
+        "id": "NN-MIND-KHARAKTER-01",
+        "phrase": "У неё сильный характер.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Характер' is the nominative subject within the possession frame 'у неё'. 'Сильный' is the agreeing masculine adjective describing the trait."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-02",
+        "phrase": "Я хорошо знаю его характер.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine, 'характер' is unchanged in the accusative as the object of 'знаю'. 'Его' shows whose character, and 'хорошо' adds the degree."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-03",
+        "phrase": "У него нет твёрдого характера.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. The phrase 'нет' requires the genitive, giving 'характера'. 'Твёрдого' agrees in the masculine genitive, denying a firm character."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-04",
+        "phrase": "Благодаря характеру он добился успеха.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. The preposition 'благодаря' governs the dative 'характеру'. The clause credits the success to his character."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-05",
+        "phrase": "Она обладает спокойным характером.",
+        "fullAnalysis": "Strategic focus: Instrumental after обладать. The verb 'обладать' requires the instrumental, giving 'характером'. 'Спокойным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-06",
+        "phrase": "В его характере много упрямства.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional form 'характере'. 'Много упрямства' uses the genitive after a quantity word."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-07",
+        "phrase": "Характер человека виден в поступках.",
+        "fullAnalysis": "Strategic focus: Nominative subject with genitive modifier. 'Характер' is the nominative subject, and 'человека' is genitive, showing whose. 'Виден' is the short masculine predicate."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-08",
+        "phrase": "У них совершенно разные характеры.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Характеры' is the nominative plural in the possession frame 'у них'. 'Разные' agrees in the plural, and 'совершенно' intensifies the contrast."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-09",
+        "phrase": "У всех детей разные характеры.",
+        "fullAnalysis": "Strategic focus: Nominative plural with quantifier. 'Характеры' is nominative plural; 'у всех детей' puts both words in the genitive after the quantifier 'всех'."
+      },
+      {
+        "id": "NN-MIND-KHARAKTER-10",
+        "phrase": "Этот случай показал её характер.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Характер' is the accusative object of 'показал', unchanged because it is inanimate masculine. 'Этот случай' is the nominative subject."
+      }
+    ]
+  }
+]

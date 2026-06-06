@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-VRAG",
+    "label": "Враг",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for враг (enemy).",
+    "missions": [
+      {
+        "id": "NN-STATE-VRAG-01",
+        "phrase": "Враг подошёл к городу ночью.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Враг' stands in the nominative as the subject of 'подошёл'. The verb agrees in masculine gender, and 'к городу' names the direction of the advance."
+      },
+      {
+        "id": "NN-STATE-VRAG-02",
+        "phrase": "Мы наконец победили врага.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Враг' is animate masculine, so its accusative form 'врага' matches the genitive. It is the direct object of 'победили', and 'наконец' adds relief."
+      },
+      {
+        "id": "NN-STATE-VRAG-03",
+        "phrase": "Они боялись своего врага.",
+        "fullAnalysis": "Strategic focus: Genitive after a fear verb. 'Бояться' governs the genitive, so 'врага' is genitive. 'Своего' is the agreeing masculine genitive possessive, pointing back to the subject."
+      },
+      {
+        "id": "NN-STATE-VRAG-04",
+        "phrase": "Он не доверял своему врагу.",
+        "fullAnalysis": "Strategic focus: Dative after доверять. The verb 'доверять' takes the dative, so 'врагу' is dative. 'Своему' agrees in the masculine dative, and the negation strengthens the distrust."
+      },
+      {
+        "id": "NN-STATE-VRAG-05",
+        "phrase": "Солдаты сражались с врагом храбро.",
+        "fullAnalysis": "Strategic focus: Instrumental with с. The preposition 'с' here takes the instrumental, giving 'врагом'. It marks the party fought against, and 'храбро' describes the manner."
+      },
+      {
+        "id": "NN-STATE-VRAG-06",
+        "phrase": "В этом враге не было жалости.",
+        "fullAnalysis": "Strategic focus: Prepositional case. After 'в' the noun takes the prepositional form 'враге'. The phrase 'не было жалости' uses the genitive for absence, describing what the enemy lacked."
+      },
+      {
+        "id": "NN-STATE-VRAG-07",
+        "phrase": "Враги окружили нашу деревню.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Враги' is the nominative plural subject of 'окружили'. The verb agrees in the plural, and 'нашу деревню' is the accusative object."
+      },
+      {
+        "id": "NN-STATE-VRAG-08",
+        "phrase": "Мы должны знать своих врагов.",
+        "fullAnalysis": "Strategic focus: Accusative plural animate. Because 'враг' is animate, its accusative plural 'врагов' equals the genitive plural. 'Своих' agrees in the plural, and the phrase voices a maxim."
+      },
+      {
+        "id": "NN-STATE-VRAG-09",
+        "phrase": "У него было много врагов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. The quantity word 'много' requires the genitive plural 'врагов'. The frame 'у него было' expresses possession in the past."
+      },
+      {
+        "id": "NN-STATE-VRAG-10",
+        "phrase": "Страх делает людей врагами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural as predicate. 'Делать кого-то кем-то' puts the result in the instrumental, giving the plural 'врагами'. 'Людей' is the accusative object turned into enemies by fear."
+      }
+    ]
+  }
+]

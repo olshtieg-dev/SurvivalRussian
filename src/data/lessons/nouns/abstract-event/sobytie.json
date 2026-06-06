@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SOBYTIE",
+    "label": "Событие",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for событие (event).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SOBYTIE-01",
+        "phrase": "Это важное историческое событие.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Событие' is a neuter noun ending in -ие, here nominative as the predicate. 'Важное' and 'историческое' agree in the neuter, labelling a significant event."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-02",
+        "phrase": "Мы обсуждаем недавнее событие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Событие' is the accusative direct object of 'обсуждаем'; for this neuter noun the accusative matches the nominative. 'Недавнее' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-03",
+        "phrase": "Все ждут этого события.",
+        "fullAnalysis": "Strategic focus: Genitive after 'ждать'. 'События' is the genitive singular required by 'ждут', which often governs the genitive of abstract things. 'Этого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-04",
+        "phrase": "Газета посвящена этому событию.",
+        "fullAnalysis": "Strategic focus: Dative after 'посвящена'. 'Событию' is the dative singular required by 'посвящена', meaning dedicated to the event. 'Этому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-05",
+        "phrase": "Все были потрясены этим событием.",
+        "fullAnalysis": "Strategic focus: Instrumental of cause. 'Событием' is the instrumental singular after 'потрясены', meaning shaken by the event. 'Этим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-06",
+        "phrase": "В этом событии участвовали тысячи.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В событии' uses the prepositional 'событии' after 'в', meaning in this event. 'Этом' agrees in the neuter prepositional and 'тысячи' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-07",
+        "phrase": "Журналисты пишут о важном событии.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Событии' is prepositional after 'о', meaning writing about the event. 'Важном' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-08",
+        "phrase": "Свадьба стала главным событием года.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate after 'стать'. 'Событием' is the instrumental singular after 'стала', meaning became the main event. 'Главным' agrees in the neuter instrumental and 'года' is genitive."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-09",
+        "phrase": "В городе происходят важные события.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'События' is the nominative plural, the subject of 'происходят'. 'Важные' agrees in the plural. This noun pluralizes readily as events."
+      },
+      {
+        "id": "NN-EVENT-SOBYTIE-10",
+        "phrase": "Газета сообщает о последних событиях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Событиях' is the prepositional plural after 'о', meaning about the latest events. 'Последних' agrees in the plural prepositional, a natural news phrase."
+      }
+    ]
+  }
+]

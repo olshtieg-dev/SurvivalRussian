@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-MERA",
+    "label": "Мера",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for мера (measure).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-MERA-01",
+        "phrase": "Эта мера оказалась эффективной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мера' is the feminine nominative subject. 'Эффективной' is the instrumental predicate after 'оказалась'. A clean model for policy language."
+      },
+      {
+        "id": "NN-STRUCT-MERA-02",
+        "phrase": "Власти приняли срочную меру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Меру' is the feminine accusative, the direct object of 'приняли'. 'Срочную' agrees in the feminine accusative. A common administrative pattern."
+      },
+      {
+        "id": "NN-STRUCT-MERA-03",
+        "phrase": "Нужно знать чувство меры.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Меры' is the genitive in the fixed phrase 'чувство меры', a sense of proportion. 'Нужно' adds obligation. A useful idiomatic model."
+      },
+      {
+        "id": "NN-STRUCT-MERA-04",
+        "phrase": "Они отнеслись к мере серьёзно.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'К мере' uses the dative 'мере' after 'к', governed by 'отнестись'. 'Серьёзно' adds the manner. A natural attitude-toward pattern."
+      },
+      {
+        "id": "NN-STRUCT-MERA-05",
+        "phrase": "Мы довольны новой мерой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Мерой' is the instrumental governed by 'довольны' (satisfied with). 'Новой' agrees in the feminine instrumental. A strong evaluation model."
+      },
+      {
+        "id": "NN-STRUCT-MERA-06",
+        "phrase": "В этой мере есть смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В этой мере' uses the prepositional 'мере' after 'в' to locate a quality. 'Смысл' is the nominative subject of 'есть'. A reflective evaluative pattern."
+      },
+      {
+        "id": "NN-STRUCT-MERA-07",
+        "phrase": "Правительство приняло строгие меры.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Меры' is the accusative plural, the direct object of 'приняло'. 'Строгие' agrees in the plural. The most common collocation for this noun."
+      },
+      {
+        "id": "NN-STRUCT-MERA-08",
+        "phrase": "Без меры всё становится вредным.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Без меры' uses the genitive 'меры' after 'без', meaning without moderation. 'Всё' is the nominative subject. A wise idiomatic pattern."
+      },
+      {
+        "id": "NN-STRUCT-MERA-09",
+        "phrase": "Мы говорим о новых мерах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О новых мерах' uses the prepositional plural 'мерах' after 'о' to express the topic. 'Новых' agrees in the plural. A useful discussion frame."
+      },
+      {
+        "id": "NN-STRUCT-MERA-10",
+        "phrase": "Здоровье важнее любой меры.",
+        "fullAnalysis": "Strategic focus: Genitive of comparison. 'Меры' is the genitive after the comparative 'важнее'. 'Любой' agrees in the feminine genitive. A natural comparison pattern."
+      }
+    ]
+  }
+]

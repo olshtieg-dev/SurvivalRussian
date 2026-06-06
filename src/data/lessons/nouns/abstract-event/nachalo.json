@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-NACHALO",
+    "label": "Начало",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for начало (beginning).",
+    "missions": [
+      {
+        "id": "NN-EVENT-NACHALO-01",
+        "phrase": "Это хорошее начало.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Начало' is a neuter noun in the nominative. 'Хорошее' is the agreeing neuter adjective, a clean model for evaluating a start."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-02",
+        "phrase": "Я пропустил начало фильма.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Начало' is the accusative direct object of 'пропустил'; neuter nouns share nominative and accusative forms. 'Фильма' is genitive showing the start of what."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-03",
+        "phrase": "Мы ждём начала концерта.",
+        "fullAnalysis": "Strategic focus: Genitive after verb of waiting. 'Начала' is genitive because 'ждать' often governs the genitive for awaited events. 'Концерта' is also genitive, the start of what."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-04",
+        "phrase": "К началу урока все собрались.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Началу' is the dative form required by 'к', expressing a deadline toward the start. 'Урока' is genitive and 'все' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-05",
+        "phrase": "Этот день стал началом дружбы.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Началом' is the instrumental complement of 'стал', a common pattern with 'стать'. 'Дружбы' is genitive and 'день' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-06",
+        "phrase": "В начале года было холодно.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В начале' uses the prepositional form 'начале' after 'в' to mean at the start. 'Года' is genitive and 'было холодно' is the impersonal predicate."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-07",
+        "phrase": "Начало книги очень интересное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Начало' is the neuter nominative subject. 'Книги' is genitive showing the start of what, and 'интересное' is the agreeing neuter predicate adjective."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-08",
+        "phrase": "С самого начала всё пошло плохо.",
+        "fullAnalysis": "Strategic focus: Genitive in fixed phrase. 'Начала' is the genitive after 'с' in the set expression 'с самого начала', meaning from the very start. 'Всё' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-09",
+        "phrase": "Каждое утро это новое начало.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Начало' is the neuter nominative noun. 'Новое' agrees in neuter gender, and 'каждое утро' is a nominative time phrase identified with it."
+      },
+      {
+        "id": "NN-EVENT-NACHALO-10",
+        "phrase": "Это положило начало большой дружбе.",
+        "fullAnalysis": "Strategic focus: Accusative in fixed phrase. 'Начало' is the accusative object in the idiom 'положить начало', meaning to give rise to. 'Дружбе' is the dative recipient of that start."
+      }
+    ]
+  }
+]

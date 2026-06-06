@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-RYAD",
+    "label": "Ряд",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for ряд (row; series).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-RYAD-01",
+        "phrase": "Первый ряд уже занят.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ряд' is a masculine noun in the nominative as the subject. 'Первый' is the agreeing masculine ordinal, and 'занят' is the short predicate adjective."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-02",
+        "phrase": "Мы выбрали последний ряд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ряд' is the accusative direct object of 'выбрали'; the inanimate masculine keeps its base form. 'Последний' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-03",
+        "phrase": "В этом ряду нет свободных мест.",
+        "fullAnalysis": "Strategic focus: Prepositional with special ending. 'Ряду' follows 'в' in the locative -у form some masculine nouns take. 'Свободных мест' is a genitive plural after 'нет', denying empty seats."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-04",
+        "phrase": "Учитель стоит около первого ряда.",
+        "fullAnalysis": "Strategic focus: Genitive after около. 'Ряда' is genitive governed by 'около', meaning near. The masculine takes -а, and 'первого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-05",
+        "phrase": "По ряду прошёл шёпот.",
+        "fullAnalysis": "Strategic focus: Dative after по. 'Ряду' is dative governed by 'по', meaning along or through. The masculine takes -у, and 'шёпот' is the nominative subject that travelled."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-06",
+        "phrase": "Стулья стоят ровным рядом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Рядом' is the instrumental expressing the arrangement, in a row. 'Ровным' agrees in the masculine instrumental, describing how the chairs stand."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-07",
+        "phrase": "Это вызвало ряд серьёзных вопросов.",
+        "fullAnalysis": "Strategic focus: Accusative with genitive. 'Ряд' is the accusative object of 'вызвало', here meaning a series. 'Серьёзных вопросов' is genitive plural counted by the series."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-08",
+        "phrase": "В магазине длинные ряды полок.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ряды' is the nominative plural subject. The masculine takes -ы, 'длинные' agrees, and 'полок' is a genitive plural of shelves."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-09",
+        "phrase": "Дети сели в три ряда.",
+        "fullAnalysis": "Strategic focus: Genitive with numeral. 'Ряда' is genitive singular after 'три', as numbers two through four require. 'В три ряда' describes the seating arrangement."
+      },
+      {
+        "id": "NN-STRUCT-RYAD-10",
+        "phrase": "Целый ряд деревьев растёт у дороги.",
+        "fullAnalysis": "Strategic focus: Nominative subject with genitive. 'Ряд' is nominative as the subject of 'растёт', meaning a whole row. 'Деревьев' is a genitive plural counted by the row."
+      }
+    ]
+  }
+]

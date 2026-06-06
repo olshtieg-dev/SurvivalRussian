@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-DEISTVIE",
+    "label": "Действие",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for действие (action).",
+    "missions": [
+      {
+        "id": "NN-EVENT-DEISTVIE-01",
+        "phrase": "Это действие было правильным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Действие' is a neuter noun in -ие, here the nominative subject. 'Правильным' is the instrumental predicate after 'было', and 'это' points to a specific act."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-02",
+        "phrase": "Полиция остановила опасное действие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Действие' is the accusative direct object of 'остановила'; for this neuter noun the accusative matches the nominative. 'Опасное' agrees in neuter."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-03",
+        "phrase": "Результат этого действия неясен.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Действия' is the genitive showing whose result it is. 'Этого' agrees in the neuter genitive, and 'результат' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-04",
+        "phrase": "Он готов к решительному действию.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Действию' is the dative required by 'к', expressing readiness for action. 'Решительному' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-05",
+        "phrase": "Мы следим за каждым действием.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Действием' is the instrumental required by 'за' in the sense of watching. 'Каждым' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-06",
+        "phrase": "В этом действии есть смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Действии' is the prepositional after 'в'; neuter nouns in -ие take -ии. 'Этом' agrees in the neuter prepositional, and 'смысл' is the subject."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-07",
+        "phrase": "Каждое действие имеет последствия.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Действие' is the nominative subject of 'имеет'. 'Каждое' agrees in neuter, and 'последствия' is the accusative plural object."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-08",
+        "phrase": "Его действия привели к успеху.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Действия' is the nominative plural subject of 'привели'. 'Его' is the possessive, and 'к успеху' is a dative phrase showing the outcome."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-09",
+        "phrase": "Суд осудил эти действия.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Действия' is the accusative plural object of 'осудил'; for this neuter noun the plural accusative matches the nominative. 'Эти' agrees in plural."
+      },
+      {
+        "id": "NN-EVENT-DEISTVIE-10",
+        "phrase": "Мы говорим о его действиях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural after preposition. 'Действиях' is the prepositional plural after 'о' in the sense of discussing something. 'Его' is the possessive."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-SLAVA",
+    "label": "Слава",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for слава (glory).",
+    "missions": [
+      {
+        "id": "NN-STATE-SLAVA-01",
+        "phrase": "Его слава была заслуженной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Слава' is the feminine nominative subject of 'была'. 'Его' marks whose glory it is, and 'заслуженной' is the instrumental predicate adjective."
+      },
+      {
+        "id": "NN-STATE-SLAVA-02",
+        "phrase": "Спортсмен заслужил большую славу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Славу' is the feminine accusative direct object of 'заслужил'. 'Большую' agrees in the feminine accusative, describing the scale of the fame."
+      },
+      {
+        "id": "NN-STATE-SLAVA-03",
+        "phrase": "Он добился славы упорным трудом.",
+        "fullAnalysis": "Strategic focus: Genitive after добиться. 'Славы' is the genitive required by 'добился', which always takes that case for the goal achieved. The instrumental phrase names the means."
+      },
+      {
+        "id": "NN-STATE-SLAVA-04",
+        "phrase": "Он шёл к славе много лет.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К славе' uses the dative after 'к' to express moving toward fame as a goal. The time phrase stresses how long the path took."
+      },
+      {
+        "id": "NN-STATE-SLAVA-05",
+        "phrase": "Он наслаждается славой и успехом.",
+        "fullAnalysis": "Strategic focus: Instrumental after наслаждаться. 'Славой' is the feminine instrumental governed by 'наслаждается', joined by 'и' to 'успехом' in the same case."
+      },
+      {
+        "id": "NN-STATE-SLAVA-06",
+        "phrase": "Все мечтают о славе и деньгах.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О славе' uses the prepositional form after 'о' to express dreaming about glory. It is coordinated with 'деньгах' in the same case."
+      },
+      {
+        "id": "NN-STATE-SLAVA-07",
+        "phrase": "Слава приходит не сразу.",
+        "fullAnalysis": "Strategic focus: Nominative subject with verb. 'Слава' is the nominative subject of 'приходит', which agrees in the third person singular. The negated 'не сразу' qualifies the timing."
+      },
+      {
+        "id": "NN-STATE-SLAVA-08",
+        "phrase": "Эта песня принесла ему славу.",
+        "fullAnalysis": "Strategic focus: Accusative as result. 'Славу' is the accusative object of 'принесла', the thing the song brought. 'Ему' is the dative recipient who gained the fame."
+      },
+      {
+        "id": "NN-STATE-SLAVA-09",
+        "phrase": "У этого героя много славы.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Славы' is the genitive singular required by 'много'. 'У этого героя' frames who possesses it, a natural quantity pattern for abstracts."
+      },
+      {
+        "id": "NN-STATE-SLAVA-10",
+        "phrase": "Без славы он чувствовал себя свободным.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Славы' is the genitive required by the preposition 'без', expressing the absence of fame. The clause shows the resulting feeling."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SOSTOYANIE",
+    "label": "Состояние",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for состояние (condition; state).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-01",
+        "phrase": "Его состояние очень тяжёлое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Состояние' is a neuter noun in -ие, here the nominative subject. 'Тяжёлое' is the agreeing neuter predicate adjective, and 'очень' intensifies."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-02",
+        "phrase": "Врач проверил состояние больного.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Состояние' is the accusative direct object of 'проверил'; for this neuter noun the accusative matches the nominative. 'Больного' is a genitive modifier."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-03",
+        "phrase": "Улучшение состояния заняло неделю.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Состояния' is the genitive showing what improved. 'Улучшение' is the nominative subject, and 'неделю' is the accusative of duration."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-04",
+        "phrase": "Врачи следят за состоянием пациента.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Состоянием' is the instrumental required by 'за' in the sense of monitoring. 'Пациента' is a genitive modifier, and 'врачи' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-05",
+        "phrase": "Он находится в плохом состоянии.",
+        "fullAnalysis": "Strategic focus: Prepositional of state. 'Состоянии' is the prepositional after 'в'; neuter nouns in -ие take -ии. 'Плохом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-06",
+        "phrase": "Мы рады хорошему состоянию дороги.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Состоянию' is the dative governed by 'рады'. 'Хорошему' agrees in the neuter dative, and 'дороги' is a genitive modifier."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-07",
+        "phrase": "Это состояние быстро прошло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Состояние' is the nominative subject of 'прошло', which agrees in neuter gender. 'Это' points to a specific state, and 'быстро' adds manner."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-08",
+        "phrase": "Спокойное состояние помогает работать.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Состояние' is the nominative subject of 'помогает'. 'Спокойное' is the agreeing neuter adjective, and 'работать' is the infinitive complement."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-09",
+        "phrase": "Врачи описали разные состояния пациентов.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Состояния' is the accusative plural object of 'описали'; for this neuter noun the plural accusative matches the nominative. 'Разные' agrees in plural."
+      },
+      {
+        "id": "NN-EMOTION-SOSTOYANIE-10",
+        "phrase": "В таком состоянии трудно думать.",
+        "fullAnalysis": "Strategic focus: Prepositional of state. 'Состоянии' is the prepositional after 'в' describing the condition one is in. 'Таком' agrees in the neuter prepositional, and 'трудно думать' is impersonal."
+      }
+    ]
+  }
+]

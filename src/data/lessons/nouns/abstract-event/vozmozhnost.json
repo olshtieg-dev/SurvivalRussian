@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-VOZMOZHNOST",
+    "label": "Возможность",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for возможность (possibility).",
+    "missions": [
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-01",
+        "phrase": "У меня появилась хорошая возможность.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Возможность' is an -ость feminine noun in the nominative as the subject that appeared. 'Хорошая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-02",
+        "phrase": "Не упусти эту возможность.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Возможность' is the accusative direct object of 'не упусти'. For -ость feminines the accusative matches the nominative, and 'эту' agrees with it."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-03",
+        "phrase": "У нас нет такой возможности.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Возможности' is the genitive form required by 'нет'. 'Такой' agrees in the feminine genitive, denying that such a chance exists."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-04",
+        "phrase": "Мы долго думали о возможности переезда.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О возможности' uses the prepositional form after 'о' to mark the topic. 'Переезда' is the genitive of belonging, the possibility of moving."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-05",
+        "phrase": "Я рад этой новой возможности.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Возможности' is the dative form required by 'рад', the thing one is glad about. 'Новой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-06",
+        "phrase": "Он воспользовался удобной возможностью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Возможностью' is the instrumental form required by 'воспользовался', the verb of making use. 'Удобной' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-07",
+        "phrase": "Жизнь даёт нам много возможностей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Возможностей' is the genitive plural required by 'много'. 'Нам' is the dative recipient, the people given these chances."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-08",
+        "phrase": "Новые технологии открывают большие возможности.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Возможности' is the accusative plural object of 'открывают'. 'Большие' agrees in the plural, and 'технологии' is the nominative plural subject."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-09",
+        "phrase": "При первой возможности позвони мне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Возможности' is the prepositional form after 'при', the fixed phrase for at the first chance. 'Первой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-EVENT-VOZMOZHNOST-10",
+        "phrase": "Эта работа даёт возможность учиться.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Возможность' is the accusative object of 'даёт', followed by the infinitive 'учиться'. The job grants the chance to study."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-ZABOLEVANIE",
+    "label": "Заболевание",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for заболевание (disease).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-01",
+        "phrase": "Это серьёзное заболевание.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Заболевание' is a neuter -ие noun in the nominative as the predicate. 'Серьёзное' is the agreeing neuter adjective. A clean diagnostic statement."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-02",
+        "phrase": "Врач быстро вылечил заболевание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Заболевание' is the accusative direct object of 'вылечил', identical to the nominative for this neuter noun. 'Врач' is the subject, and 'быстро' adds manner. A treatment phrase."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-03",
+        "phrase": "У него нет серьёзного заболевания.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Заболевания' is the genitive after 'нет', and 'серьёзного' agrees in the neuter genitive. The frame 'у него' shows whose condition it is. A reassuring phrase."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-04",
+        "phrase": "Мы говорили о его заболевании.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'О заболевании' uses the neuter prepositional 'заболевании' to mean about the disease. 'Его' is the unchanging possessive. A consultation pattern."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-05",
+        "phrase": "Причиной стало редкое заболевание.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate inverted. 'Причиной' is the instrumental after 'стало', while 'заболевание' is the nominative subject. 'Редкое' agrees in neuter. A cause-and-effect frame."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-06",
+        "phrase": "Этому заболеванию подвержены дети.",
+        "fullAnalysis": "Strategic focus: Dative with 'подвержены'. 'Заболеванию' is the dative governed by 'подвержены' to mean susceptible to the disease. 'Этому' agrees in the neuter dative. A risk-group phrase."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-07",
+        "phrase": "Лечение зависит от заболевания.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Заболевания' is the genitive required by 'от' to mean depends on the disease. 'Лечение' is the neuter nominative subject. A medical-logic sentence."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-08",
+        "phrase": "Хронические заболевания требуют внимания.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Заболевания' is the nominative plural as the subject of 'требуют'. 'Хронические' agrees in the plural, and 'внимания' is genitive after 'требуют'. Shows the plural."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-09",
+        "phrase": "Врачи изучают новые заболевания.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Заболевания' is the accusative plural object of 'изучают', identical to the nominative plural for this inanimate neuter noun. 'Новые' agrees in the plural. A research phrase."
+      },
+      {
+        "id": "NN-EMOTION-ZABOLEVANIE-10",
+        "phrase": "Заболевание прошло без осложнений.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Заболевание' is the neuter nominative subject of 'прошло', which agrees in neuter. 'Без осложнений' is a genitive plural after 'без'. A recovery phrase."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-ZDOROVE",
+    "label": "Здоровье",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for здоровье (health).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-ZDOROVE-01",
+        "phrase": "Его здоровье намного улучшилось.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Здоровье' is a neuter noun ending in -ье, here nominative as the subject of 'улучшилось'. 'Его' is the possessive and 'намного' intensifies the improvement."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-02",
+        "phrase": "Спорт укрепляет здоровье человека.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Здоровье' is the accusative direct object of 'укрепляет'; for this neuter noun the accusative matches the nominative. 'Человека' is genitive specifying whose health."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-03",
+        "phrase": "У него нет крепкого здоровья.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Здоровья' is the genitive singular required after 'нет', meaning he has no strong health. 'Крепкого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-04",
+        "phrase": "Врачи помогают здоровью пациентов.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Здоровью' is the dative singular, the thing helped by 'помогают', which governs the dative. 'Пациентов' is genitive plural meaning the patients' health."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-05",
+        "phrase": "Он расплатился здоровьем за успех.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Здоровьем' is the instrumental singular after 'расплатился', meaning he paid with his health. 'За успех' is accusative showing what it bought."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-06",
+        "phrase": "В здоровье главное - движение.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В здоровье' uses the prepositional 'здоровье' after 'в', meaning in matters of health. The dash links it to the predicate 'движение' in the nominative."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-07",
+        "phrase": "Они заботятся о здоровье детей.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Здоровье' is prepositional after 'о', meaning caring about health. 'Детей' is genitive plural specifying the children's health."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-08",
+        "phrase": "За ваше здоровье!",
+        "fullAnalysis": "Strategic focus: Accusative after 'за'. 'Здоровье' is accusative after 'за' in the classic toast; the neuter accusative matches the nominative. 'Ваше' is the agreeing neuter possessive."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-09",
+        "phrase": "Здоровье дороже денег.",
+        "fullAnalysis": "Strategic focus: Nominative in comparison. 'Здоровье' is nominative as the subject being compared. 'Дороже' is the comparative and 'денег' is genitive plural, the standard idiom that health is worth more than money."
+      },
+      {
+        "id": "NN-EMOTION-ZDOROVE-10",
+        "phrase": "Без здоровья ничего не радует.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Здоровья' is the genitive singular required by 'без', meaning without health. Note this abstract noun has no natural plural and is practised through varied case contexts instead."
+      }
+    ]
+  }
+]

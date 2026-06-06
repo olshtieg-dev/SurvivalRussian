@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-KACHESTVO",
+    "label": "Качество",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for качество (quality).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-KACHESTVO-01",
+        "phrase": "Качество этого товара очень высокое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Качество' is the neuter noun in the nominative as the subject. 'Товара' is the genitive of possession, and 'высокое' is the agreeing neuter predicate adjective."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-02",
+        "phrase": "Завод улучшил качество продукции.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Качество' is the accusative direct object of 'улучшил'. 'Продукции' is the genitive of belonging, the quality of the output."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-03",
+        "phrase": "Мы добиваемся высокого качества.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Качества' is the genitive form required by 'добиваемся', a verb that governs the genitive. 'Высокого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-04",
+        "phrase": "Покупатели судят о качестве по цене.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О качестве' uses the prepositional form after 'о' to mark what is judged. 'По цене' is the dative basis of the judgement."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-05",
+        "phrase": "Этот завод славится своим качеством.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Качеством' is the instrumental form required by 'славится', expressing what something is famous for. 'Своим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-06",
+        "phrase": "Он уделяет внимание качеству работы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Качеству' is the dative form in the phrase 'уделять внимание', the thing attention is paid to. 'Работы' is the genitive of belonging."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-07",
+        "phrase": "У него много хороших качеств.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Качеств' is the genitive plural required by 'много', here meaning personal traits. 'Хороших' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-08",
+        "phrase": "Мы ценим в людях лучшие качества.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Качества' is the accusative plural object of 'ценим'. 'Лучшие' agrees in the plural, and 'в людях' is the prepositional location."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-09",
+        "phrase": "Качества этих учеников очень разные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Качества' is the nominative plural as the subject. 'Учеников' is the genitive plural of possession, and 'разные' is the agreeing predicate adjective."
+      },
+      {
+        "id": "NN-STRUCT-KACHESTVO-10",
+        "phrase": "Доброта - его главное качество.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Качество' is nominative as the predicate noun after the dash. 'Главное' agrees in the neuter, and 'доброта' is the nominative subject identified."
+      }
+    ]
+  }
+]

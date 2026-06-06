@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-VLAST",
+    "label": "Власть",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for власть (power; authority).",
+    "missions": [
+      {
+        "id": "NN-STATE-VLAST-01",
+        "phrase": "Власть в стране меняется медленно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Власть' is a feminine -ь noun in the nominative as the subject of 'меняется'. 'В стране' is a prepositional location phrase, and 'медленно' modifies the verb."
+      },
+      {
+        "id": "NN-STATE-VLAST-02",
+        "phrase": "Народ хочет настоящую власть.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Власть' is the accusative direct object of 'хочет'; for feminine -ь nouns the accusative looks like the nominative. 'Настоящую' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-STATE-VLAST-03",
+        "phrase": "Он добивался власти много лет.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Власти' is the genitive after 'добивался', which governs the genitive. The -ь feminine takes -и in the genitive, and 'много лет' marks the long pursuit."
+      },
+      {
+        "id": "NN-STATE-VLAST-04",
+        "phrase": "Все боятся этой власти.",
+        "fullAnalysis": "Strategic focus: Genitive after fear. 'Власти' is genitive, governed by 'боятся', which takes a genitive object. 'Этой' is the agreeing feminine genitive demonstrative pointing to a specific regime."
+      },
+      {
+        "id": "NN-STATE-VLAST-05",
+        "phrase": "Люди не доверяют власти.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Власти' is the dative governed by 'доверяют', which requires the dative. The feminine -ь form ends in -и, and 'не' negates the trust."
+      },
+      {
+        "id": "NN-STATE-VLAST-06",
+        "phrase": "Он обладает огромной властью.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Властью' is the instrumental governed by 'обладает', which takes the instrumental. The -ь feminine ends in -ью, and 'огромной' agrees in the instrumental."
+      },
+      {
+        "id": "NN-STATE-VLAST-07",
+        "phrase": "Мы много говорим о власти.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Власти' follows 'о' in the prepositional, expressing the topic of discussion. The feminine -ь ending is -и, and 'много' adds frequency."
+      },
+      {
+        "id": "NN-STATE-VLAST-08",
+        "phrase": "При власти царя жизнь была трудной.",
+        "fullAnalysis": "Strategic focus: Prepositional with при. 'Власти' is prepositional after 'при', meaning under or during a rule. 'Царя' is genitive showing whose power, framing a historical condition."
+      },
+      {
+        "id": "NN-STATE-VLAST-09",
+        "phrase": "Власти города закрыли школу.",
+        "fullAnalysis": "Strategic focus: Nominative plural authorities. 'Власти' here is the nominative plural meaning the authorities, the subject of 'закрыли'. 'Города' is genitive showing which city, illustrating the common plural sense."
+      },
+      {
+        "id": "NN-STATE-VLAST-10",
+        "phrase": "Эта власть очень сильная.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Власть' is nominative as the subject. 'Сильная' is the agreeing feminine predicate adjective, intensified by 'очень', a clean model for description."
+      }
+    ]
+  }
+]

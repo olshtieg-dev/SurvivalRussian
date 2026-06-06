@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-ZVUK",
+    "label": "Звук",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for звук (sound).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-ZVUK-01",
+        "phrase": "Этот звук очень громкий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Звук' is the masculine nominative subject. 'Громкий' is the agreeing masculine adjective, intensified by 'очень'. A clean descriptive model."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-02",
+        "phrase": "Я услышал странный звук.",
+        "fullAnalysis": "Strategic focus: Accusative object. Inanimate 'звук' has an accusative identical to the nominative, here the direct object of 'услышал'. 'Странный' agrees in the masculine accusative. A common everyday report."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-03",
+        "phrase": "В комнате не было звука.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Звука' is the genitive required by the negative existential 'не было'. 'В комнате' is the prepositional location. A core negation pattern."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-04",
+        "phrase": "Дети радуются каждому новому звуку.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Звуку' is the dative governed by 'радуются'. 'Каждому новому' agrees in the masculine dative. Strong for emotional-reaction language."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-05",
+        "phrase": "Музыканты работают со звуком.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Со звуком' uses the instrumental 'звуком' after 'со' to express what they work with. The variant 'со' appears before the consonant cluster. A useful professional frame."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-06",
+        "phrase": "В этом звуке есть что-то знакомое.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В этом звуке' uses the prepositional 'звуке' after 'в' to locate a quality. 'Что-то знакомое' is the nominative subject. A subtle perceptual pattern."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-07",
+        "phrase": "Ночью слышны странные звуки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Звуки' is the nominative plural subject. 'Странные' agrees in the plural, 'слышны' is the short-form predicate. Good for plural practice."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-08",
+        "phrase": "Мы боимся резких звуков.",
+        "fullAnalysis": "Strategic focus: Genitive plural object. 'Звуков' is the genitive plural governed by 'боимся', as 'бояться' takes the genitive. 'Резких' agrees in the genitive plural. A strong fear-verb model."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-09",
+        "phrase": "Город полон городских звуков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'полон'. 'Звуков' is the genitive plural governed by 'полон', meaning full of. 'Городских' agrees in the genitive plural. A vivid descriptive pattern."
+      },
+      {
+        "id": "NN-EMOTION-ZVUK-10",
+        "phrase": "Она прислушалась к тихому звуку.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'К тихому звуку' uses the dative 'звуку' after 'к', governed by 'прислушаться'. 'Тихому' agrees in the masculine dative. A precise perceptual model."
+      }
+    ]
+  }
+]

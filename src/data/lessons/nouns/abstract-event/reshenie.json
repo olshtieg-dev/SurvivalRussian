@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-RESHENIE",
+    "label": "Решение",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for решение (decision).",
+    "missions": [
+      {
+        "id": "NN-EVENT-RESHENIE-01",
+        "phrase": "Это было правильное решение.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Решение' is the neuter nominative predicate noun after 'было'. 'Правильное' is the agreeing neuter adjective. A clean evaluative model."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-02",
+        "phrase": "Директор принял важное решение.",
+        "fullAnalysis": "Strategic focus: Accusative object. Neuter 'решение' has an accusative identical to the nominative, here the direct object of 'принял'. 'Важное' agrees in the neuter accusative. The standard collocation 'принять решение'."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-03",
+        "phrase": "Все ждали его решения.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Решения' is the genitive governed by 'ждали', and 'его' shows whose decision. A natural anticipation pattern."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-04",
+        "phrase": "Мы рады такому решению.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Решению' is the dative governed by 'рады' (glad of). 'Такому' agrees in the neuter dative. A strong evaluation model."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-05",
+        "phrase": "Он доволен своим решением.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Решением' is the instrumental governed by 'доволен' (satisfied with). 'Своим' agrees in the neuter instrumental. A natural satisfaction model."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-06",
+        "phrase": "В этом решении есть риск.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В этом решении' uses the prepositional 'решении' after 'в' to locate a quality. 'Риск' is the nominative subject of 'есть'. A useful analytical pattern."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-07",
+        "phrase": "Суд объявил свои решения.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Решения' is the accusative plural, the direct object of 'объявил'. 'Свои' agrees in the plural. Useful legal-formal vocabulary."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-08",
+        "phrase": "Без решения проблема остаётся.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Без решения' uses the genitive 'решения' after 'без' to express absence. 'Проблема' is the nominative subject. A strong cause-effect pattern."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-09",
+        "phrase": "Мы пришли к общему решению.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'К общему решению' uses the dative 'решению' after 'к' in the idiom 'прийти к решению'. 'Общему' agrees in the neuter dative. A core agreement pattern."
+      },
+      {
+        "id": "NN-EVENT-RESHENIE-10",
+        "phrase": "Я долго думаю об этом решении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об этом решении' uses the prepositional 'решении' after 'об' to express the topic of thought. 'Долго' adds duration. A reflective frame."
+      }
+    ]
+  }
+]

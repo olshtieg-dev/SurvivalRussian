@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-SLED",
+    "label": "След",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for след (trace).",
+    "missions": [
+      {
+        "id": "NN-EVENT-SLED-01",
+        "phrase": "На снегу остался чёткий след.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'След' is masculine nominative, the thing that remained. 'Чёткий' is the agreeing masculine adjective, and 'на снегу' locates the trace."
+      },
+      {
+        "id": "NN-EVENT-SLED-02",
+        "phrase": "Собака взяла свежий след.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'След' is the accusative direct object of 'взяла'. As an inanimate masculine noun, its accusative matches the nominative. 'Свежий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EVENT-SLED-03",
+        "phrase": "От него не осталось и следа.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Следа' is genitive in this fixed expression of total absence. 'Не осталось' governs the genitive, and the hard masculine ending is -а."
+      },
+      {
+        "id": "NN-EVENT-SLED-04",
+        "phrase": "Полиция идёт по следу преступника.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Следу' is dative after 'по', meaning along the trail. The preposition 'по' commonly governs the dative, and 'преступника' is a genitive complement."
+      },
+      {
+        "id": "NN-EVENT-SLED-05",
+        "phrase": "Он шёл по следу зверя.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Следу' is dative after 'по', describing movement along the track. 'Зверя' is a genitive complement naming whose trail it is."
+      },
+      {
+        "id": "NN-EVENT-SLED-06",
+        "phrase": "Эта рана осталась со следом.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Следом' is instrumental after 'со', meaning with a mark left behind. The hard masculine instrumental singular ends in -ом."
+      },
+      {
+        "id": "NN-EVENT-SLED-07",
+        "phrase": "В этом следе видна форма обуви.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Следе' is prepositional after 'в', locating something within the footprint. The hard masculine prepositional singular ends in -е."
+      },
+      {
+        "id": "NN-EVENT-SLED-08",
+        "phrase": "На песке видны чьи-то следы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Следы' is the nominative plural subject, with the stressed masculine plural ending -ы. 'Видны' agrees in the plural, and 'чьи-то' is the agreeing indefinite."
+      },
+      {
+        "id": "NN-EVENT-SLED-09",
+        "phrase": "Преступник замёл свои следы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Следы' is the accusative plural object of 'замёл'. As inanimate, its accusative plural matches the nominative plural. 'Свои' agrees in the plural."
+      },
+      {
+        "id": "NN-EVENT-SLED-10",
+        "phrase": "Мы не нашли никаких следов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Следов' is genitive plural after the negated 'не нашли', which takes the genitive. 'Никаких' agrees in the genitive plural, and the hard masculine ending is -ов."
+      }
+    ]
+  }
+]

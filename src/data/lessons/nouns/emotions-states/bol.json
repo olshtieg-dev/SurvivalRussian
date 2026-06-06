@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-BOL",
+    "label": "Боль",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for боль (pain).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-BOL-01",
+        "phrase": "Острая боль не проходит.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Боль' is a feminine -ь noun in the nominative, subject of 'не проходит'. 'Острая' is the agreeing feminine adjective describing the pain."
+      },
+      {
+        "id": "NN-EMOTION-BOL-02",
+        "phrase": "Он почувствовал сильную боль.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Боль' is the accusative direct object of 'почувствовал'; for these -ь feminines the accusative matches the nominative. 'Сильную' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EMOTION-BOL-03",
+        "phrase": "Лекарство от головной боли помогает.",
+        "fullAnalysis": "Strategic focus: Genitive after от. 'Боли' is the genitive of the -ь feminine after 'от', naming what the medicine is against. 'Головной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EMOTION-BOL-04",
+        "phrase": "Он привык к боли в спине.",
+        "fullAnalysis": "Strategic focus: Dative after к. 'Боли' is the dative after 'к', governed by 'привык', which takes that case for what one gets used to. The prepositional phrase locates the pain."
+      },
+      {
+        "id": "NN-EMOTION-BOL-05",
+        "phrase": "Она терпела с молчаливой болью.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Болью' is the feminine instrumental after 'с', expressing the manner in which she endured. 'Молчаливой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EMOTION-BOL-06",
+        "phrase": "Он рассказал о своей боли.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О боли' uses the prepositional form after 'о' to mean speaking about the pain. 'Своей' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-EMOTION-BOL-07",
+        "phrase": "Боли в груди стали сильнее.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Боли' is the nominative plural subject of 'стали', which agrees in the plural. The phrase 'в груди' locates the pains."
+      },
+      {
+        "id": "NN-EMOTION-BOL-08",
+        "phrase": "Врач спросил о моих болях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Болях' is the prepositional plural after 'о', the topic the doctor asked about. 'Моих' agrees in the plural prepositional."
+      },
+      {
+        "id": "NN-EMOTION-BOL-09",
+        "phrase": "У него много боли внутри.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Боли' is the genitive singular required by 'много'. 'У него' frames who carries it, suiting the abstract emotional sense."
+      },
+      {
+        "id": "NN-EMOTION-BOL-10",
+        "phrase": "Без боли не бывает роста.",
+        "fullAnalysis": "Strategic focus: Genitive after без. 'Боли' is the genitive required by 'без', marking the absence of pain. The proverb-like clause makes a memorable model."
+      }
+    ]
+  }
+]

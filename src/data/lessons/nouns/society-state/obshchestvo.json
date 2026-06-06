@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-OBSHCHESTVO",
+    "label": "Общество",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for общество (society).",
+    "missions": [
+      {
+        "id": "NN-STATE-OBSHCHESTVO-01",
+        "phrase": "Современное общество быстро меняется.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Общество' is the neuter nominative subject of 'меняется'. 'Современное' is the agreeing neuter adjective, and 'быстро' adds the manner. A clean model for talking about social change."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-02",
+        "phrase": "Учёные изучают наше общество.",
+        "fullAnalysis": "Strategic focus: Accusative object. Neuter 'общество' has an accusative identical to the nominative, here the direct object of 'изучают'. 'Наше' agrees in the neuter accusative. Useful for academic discussion."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-03",
+        "phrase": "Это проблема всего общества.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Общества' is the genitive showing whose problem it is. 'Всего' is the agreeing neuter genitive of 'весь'. A natural pattern for collective responsibility."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-04",
+        "phrase": "Они приносят пользу обществу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Обществу' is the dative, the beneficiary of 'приносят пользу'. The fixed phrase 'приносить пользу' governs the dative. Strong for civic-minded language."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-05",
+        "phrase": "Мы живём в свободном обществе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В обществе' uses the prepositional form 'обществе' after 'в' to express belonging to a society. 'Свободном' agrees in the neuter prepositional. A common social-context frame."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-06",
+        "phrase": "Интернет управляет современным обществом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Обществом' is the instrumental governed by 'управляет', which always takes that case. 'Современным' agrees in the neuter instrumental. Useful for cause-and-effect claims."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-07",
+        "phrase": "В обществе много разных людей.",
+        "fullAnalysis": "Strategic focus: Prepositional with quantity. 'В обществе' is the prepositional location, and 'много' governs the genitive plural 'людей'. A useful frame for describing social diversity."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-08",
+        "phrase": "Закон защищает интересы общества.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Общества' is the genitive specifying whose interests are meant. The plural accusative 'интересы' is the direct object of 'защищает'. Strong legal-civic vocabulary."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-09",
+        "phrase": "Он много думает об обществе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об обществе' uses the prepositional 'обществе' after 'об' to express the topic of thought. 'Много' adds frequency. A reflective conversational pattern."
+      },
+      {
+        "id": "NN-STATE-OBSHCHESTVO-10",
+        "phrase": "Семья - это основа общества.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Общества' is the genitive after 'основа', meaning the foundation of society. 'Семья' is the nominative subject. A natural model for definitional sentences."
+      }
+    ]
+  }
+]

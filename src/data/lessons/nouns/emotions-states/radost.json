@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-RADOST",
+    "label": "Радость",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for радость (joy).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-RADOST-01",
+        "phrase": "Её радость была искренней.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Радость' is a feminine -ость noun in the nominative as the subject. 'Искренней' is the instrumental predicate after 'была'."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-02",
+        "phrase": "Дети приносят родителям радость.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Радость' is the feminine accusative, identical to the nominative for -ость nouns. It is the object of 'приносят'."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-03",
+        "phrase": "В её глазах было много радости.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Радости' is the genitive form of the -ость noun, required after 'много'. The phrase paints an emotional picture."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-04",
+        "phrase": "Я не могу описать свою радость.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Радость' is the feminine accusative direct object of 'описать'. 'Свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-05",
+        "phrase": "Она плакала от радости.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Радости' is the genitive form after 'от', expressing the cause of crying. A very natural emotional idiom."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-06",
+        "phrase": "Он светился радостью.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Радостью' is the instrumental form of the -ость noun, describing what he glowed with. A vivid image of happiness."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-07",
+        "phrase": "В этой радости есть что-то детское.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В радости' uses the prepositional form 'радости' after 'в'. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-08",
+        "phrase": "Жизнь полна маленьких радостей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Радостей' is the genitive plural of the -ость noun, required after 'полна'. 'Маленьких' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-09",
+        "phrase": "Какая радость снова тебя видеть!",
+        "fullAnalysis": "Strategic focus: Nominative exclamation. 'Радость' is feminine nominative in this exclamatory phrase. 'Какая' agrees in the feminine, expressing delight."
+      },
+      {
+        "id": "NN-EMOTION-RADOST-10",
+        "phrase": "Радость помогает нам жить.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Радость' is the feminine nominative subject of 'помогает'. 'Нам' is the dative object, showing whom joy helps."
+      }
+    ]
+  }
+]

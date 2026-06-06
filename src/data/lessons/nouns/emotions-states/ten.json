@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-TEN",
+    "label": "Тень",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for тень (shadow).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-TEN-01",
+        "phrase": "На стене появилась тень.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тень' is a soft feminine noun in the nominative, the thing that appeared. 'Появилась' agrees in the feminine singular, and 'на стене' locates the event."
+      },
+      {
+        "id": "NN-EMOTION-TEN-02",
+        "phrase": "Дерево отбрасывает длинную тень.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тень' is the accusative direct object of 'отбрасывает'. As an inanimate soft feminine noun, its accusative matches the nominative. 'Длинную' shows the feminine accusative ending."
+      },
+      {
+        "id": "NN-EMOTION-TEN-03",
+        "phrase": "В саду совсем нет тени.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Тени' is genitive, required by 'нет' to express absence. The third-declension feminine genitive singular ends in -и."
+      },
+      {
+        "id": "NN-EMOTION-TEN-04",
+        "phrase": "Кошка спряталась в тени.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Тени' is prepositional after 'в', locating where the cat hid. For this soft feminine noun the prepositional singular ends in -и."
+      },
+      {
+        "id": "NN-EMOTION-TEN-05",
+        "phrase": "Мы отдыхали в прохладной тени.",
+        "fullAnalysis": "Strategic focus: Prepositional with adjective. 'Тени' is prepositional after 'в', and 'прохладной' is the agreeing feminine prepositional adjective. A natural way to talk about resting in the shade."
+      },
+      {
+        "id": "NN-EMOTION-TEN-06",
+        "phrase": "Дом стоит рядом с тенью.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Тенью' is instrumental after 'рядом с', meaning next to the shadow. The third-declension feminine instrumental singular ends in -ью."
+      },
+      {
+        "id": "NN-EMOTION-TEN-07",
+        "phrase": "Он боится своей собственной тени.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Тени' is genitive, governed by 'бояться', which requires the genitive for what one fears. 'Своей собственной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EMOTION-TEN-08",
+        "phrase": "Вечером тени становятся длиннее.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Тени' is the nominative plural subject, identical in form to the singular oblique cases. 'Становятся' agrees in the plural, and 'длиннее' is the comparative."
+      },
+      {
+        "id": "NN-EMOTION-TEN-09",
+        "phrase": "Дети любят ловить тени.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Тени' is the accusative plural object of 'ловить'. As inanimate, its accusative plural matches the nominative plural. 'Дети' is the nominative subject."
+      },
+      {
+        "id": "NN-EMOTION-TEN-10",
+        "phrase": "Мы вышли из тени деревьев.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Тени' is genitive singular after 'из', marking the place left behind. 'Деревьев' is a genitive plural complement specifying whose shade."
+      }
+    ]
+  }
+]
