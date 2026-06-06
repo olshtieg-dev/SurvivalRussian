@@ -4,9 +4,23 @@ Self-note for future Claude sessions. Owner is `fordted438@gmail.com`. Working d
 
 ## Pickup for next session (last touched 2026-06-05)
 
-On branch `main`, pushed to `origin/main`. **The 2026-06-05 session's work is committed as `9859f59`** ("feat(lessons): natural-sentence expansion, adverbs family, vocab fills"), parent `b32ba0f`. That single commit rolled up the lesson-phrase expansion, the per-form vocab fills, the new `adverbs/` family, AND the previous session's still-uncommitted lesson taxonomy (253 files). A follow-up doc commit records this hash. Start by re-orienting: read this file top-to-bottom, then `git status`/`git log` to confirm.
+On branch `main`, pushed to `origin/main`, **HEAD = `ba48d93`**. Everything below is committed and on GitHub; working tree is clean except the intentionally-untracked `vocabulary.json.bak.*` files. `vocabulary.json` is at **5591 entries**, **0 missing tokens corpus-wide**. Start by re-orienting: read this file top-to-bottom, then `git status`/`git log` to confirm.
 
-What went into this commit (working-tree snapshot at session end): ~88 modified tracked files + the new untracked taxonomy — including 158 untracked lesson `.json` files (98 of them the new `adverbs/`, the rest the prior session's binary-adjectives/comparisons/nouns/pro-forms additions) and 7 new `adverbs/**/index.js` files, plus `src/data/vocabulary.json` grown to **4618 entries**. The `.bak` files (`vocabulary.json.bak.pre-expand-fill`, `.bak.pre-adverb-fill`, and older ones) are intentionally untracked — confirm with the owner before adding them to git.
+**Commit sequence for the 2026-06-05 session (most recent last):**
+- `9859f59` — natural-sentence phrase expansion + `adverbs/` family (98 adverbs) + the prior session's whole uncommitted taxonomy + vocab fills (vocab → 4618).
+- `8ff4854` — doc: record the 9859f59 hash.
+- `3a8d71c` — verbs expanded 16 → 104 (88 new conjugation decks) + vocab fills (→ 5458).
+- `ba48d93` — adjectives binary-pair Batch 1: +15 pairs (20 → 50 adjectives), 5 thin pairs topped up to 10 + vocab fills (→ 5591).
+
+### >>> NEXT STEPS (staged; resume here) <<<
+
+Content-word buildout is mid-stream. Coverage now: **adverbs 98 ✅, verbs 104 ✅, adjectives 50 (25 pairs), nouns 40.** Do these in order; each step is one orchestrated pass (generate lessons via parallel subagents → per-form vocab fill → validate 0 missing tokens → commit). The owner commits per batch — **commit only when asked.**
+
+1. **Adjectives Batch 2 — ~14 more antonym pairs** (owner: "we will do batch 2 shortly after tokens are available"). Build into `binary-adjectives/` exactly like Batch 1 (regenerate `index.js`, 10 missions each, gender/number agreement + A-vs-B contrast). Pairs: глубокий/неглубокий, долгий/краткий (temporal — distinct from covered spatial короткий/длинный), частый/редкий, тихий/громкий, острый/тупой, весёлый/грустный, сухой/мокрый, прямой/кривой, счастливый/несчастный, старший/младший, правый/левый (relational), открытый/закрытый, крупный/мелкий, горячий/холодный (thermal — note холодный gets a 2nd card vs. covered тёплый/холодный). → brings adjectives to ~78.
+2. **Adjectives Batch 3 — ~12 standalone adjectives** (no clean antonym): главный, русский, общий, известный, целый, великий, нужный, готовый, возможный, необходимый + colors (красный, зелёный, синий, жёлтый, серый…). Needs a NEW `adjectives/` standalone family folder + registry wiring (mirror the `adverbs/` scaffold), OR a `binary-adjectives` sibling group — decide with owner. → adjectives ~90-97.
+3. **Nouns — 40 → 300+** (largest remaining). Extend `nouns/` with new semantic buckets (food, nature, time, people/roles, clothing, work/money, transport…). Pull most-common nouns from `russian-frequency-1-1000.json`; propose bucket list to owner first.
+
+Mechanics that worked (reuse): build a manifest in Node (transliterated filenames + ids), auto-/re-generate the group `index.js` from it (preserve exact export names when extending an existing family — see verbs/binary-adjectives), pass each subagent the exact manifest paths so filenames match imports with zero drift, then run the missing-token scan mirroring `page.js`'s `normalizeVocabularyKey` and fill via parallel subagents writing to separate `/tmp/*-out-N.json` (never edit `vocabulary.json` concurrently), merge in one Node pass.
 
 > **Note on the stale earlier snapshot:** a prior session's pickup text claimed "only CLAUDE.md is modified" — that was already wrong when picked up. The tree in fact held a whole new lesson taxonomy (binary-adjectives, comparisons, nouns/{abstract,body-person,household,motion-location}, spatial-motion, verbs/{first,second,mixed-conjugation,irregular}, pro-forms, lexical-sets, conversation) plus a grown vocabulary.json. Always trust `git status` over the prose snapshot.
 
@@ -47,7 +61,7 @@ Each target word gets its own lesson with **~10 example sentences** (missions) �
 
 **Repo state (as of 2026-06-05, committed `9859f59` + a doc follow-up, pushed to `origin/main`):**
 - Branch: `main`. (Other branches `stash`/`staging`/`testing` still exist; `main` is the active working branch.)
-- The taxonomy through the adverbs build + `vocabulary.json` at 4618 entries was committed as `9859f59` and pushed. **Then the verb expansion (16→104) landed as a new uncommitted diff** — 88 new `verbs/**/*.json`, the 4 regenerated `verbs/*/index.js`, and `vocabulary.json` now at **5458 entries**. Not yet committed. Intentionally-untracked `.bak` files now also include `vocabulary.json.bak.pre-verb-fill`. Re-confirm with `git status`.
+- Everything is committed/pushed through **`ba48d93`** (adverbs build `9859f59`, verbs `3a8d71c`, adjectives Batch 1 `ba48d93`). `vocabulary.json` = **5591 entries**, 0 missing tokens corpus-wide. Working tree clean except intentionally-untracked backups: `vocabulary.json.bak.{pre-expand-fill,pre-adverb-fill,pre-verb-fill,pre-adj-fill}` (confirm with owner before adding to git; a `*.bak` line in `.gitignore` would hide them). Next up: adjectives Batch 2 — see ">>> NEXT STEPS" in the Pickup section.
 - Backups from the 2026-06-05 work: `src/data/vocabulary.json.bak.pre-expand-fill` (pre first vocab fill), `src/data/vocabulary.json.bak.pre-adverb-fill` (pre adverb fill), and a full lessons-dir snapshot at `/tmp/lessons-backup-preexpand` (pre phrase-expansion; ephemeral — `/tmp`).
 - Untracked: `src/data/vocabulary.json.bak`, `src/data/vocabulary.json.syn-ant-clean.bak`, `src/data/lessons/frequency-gulag.json.bak` (owner-authored older backups, intentionally untracked).
 - Owner runs their own git workflow. **Do NOT commit unless explicitly asked.** Do not push unless asked.
