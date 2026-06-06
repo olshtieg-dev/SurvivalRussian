@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PAREN",
+    "label": "Парень",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for парень (guy).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PAREN-01",
+        "phrase": "Этот парень очень высокий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Парень' stays in the nominative case as the subject. 'Этот' points at a specific one, and 'высокий' is the agreeing masculine adjective describing him."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-02",
+        "phrase": "Я вчера встретил одного парня.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Парня' is the accusative direct object of 'встретил', matching the genitive form because the noun is animate masculine. Note the fleeting 'е' dropping from the stem."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-03",
+        "phrase": "У этого парня хорошая работа.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Парня' is genitive after 'у' in a possession frame, and 'этого' agrees in the genitive masculine. The fleeting vowel disappears in all oblique cases."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-04",
+        "phrase": "Я дала книгу этому парню.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Парню' is in the dative case as the person receiving the book. 'Этому' agrees in the dative masculine, and 'дала' shows a feminine giver."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-05",
+        "phrase": "Она танцует с этим парнем.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Парнем' is in the instrumental case after 'с' to express dancing together. 'Этим' agrees in the instrumental masculine."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-06",
+        "phrase": "Мы говорили о новом парне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О парне' uses the prepositional form after 'о' to express talking about him. 'Новом' agrees in the prepositional masculine, describing a recent acquaintance."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-07",
+        "phrase": "Молодые парни играют в футбол.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Парни' is the nominative plural subject of 'играют'. 'Молодые' agrees in the plural, and the sentence shows the group in action."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-08",
+        "phrase": "Он хороший парень и добрый.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Парень' is nominative as a predicate noun describing 'он'. 'Хороший' is the agreeing masculine adjective, and 'добрый' adds a coordinated trait."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-09",
+        "phrase": "Я вижу этих парней каждый день.",
+        "fullAnalysis": "Strategic focus: Accusative plural animate. 'Парней' is the accusative plural object of 'вижу', taking the genitive plural form because the noun is animate. 'Этих' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-PAREN-10",
+        "phrase": "Сколько парней было на вечеринке?",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Парней' is in the genitive plural after 'сколько', which governs the genitive of counted nouns. The question asks about the number of guys present."
+      }
+    ]
+  }
+]

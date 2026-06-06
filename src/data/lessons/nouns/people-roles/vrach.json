@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-VRACH",
+    "label": "Врач",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for врач (doctor).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-VRACH-01",
+        "phrase": "Наш врач очень внимательный человек.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Врач' is nominative as the subject. 'Наш' agrees in the masculine, and 'внимательный человек' is the predicate description. A natural way to praise a doctor."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-02",
+        "phrase": "Я давно знаю этого врача.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate masculine noun. 'Врача' takes the genitive-like accusative because врач is animate, so accusative equals genitive. 'Этого' agrees, and 'давно' adds duration."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-03",
+        "phrase": "В кабинете нет врача сейчас.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Врача' is genitive after 'нет', stating no doctor is present. 'В кабинете' sets the place and 'сейчас' the time. The standard negation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-04",
+        "phrase": "Я рассказал врачу о боли.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Врачу' is dative, the person I told something to. 'О боли' is prepositional, the topic. A key pattern for medical visits."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-05",
+        "phrase": "Я поговорил с врачом утром.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С врачом' uses the instrumental 'врачом' after 'с' to mean with the doctor. 'Утром' sets the time. Common for appointment talk."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-06",
+        "phrase": "Мы говорили о новом враче.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О враче' uses the prepositional form 'враче' after 'о' to mean about the doctor. 'Новом' agrees in the prepositional. Good for discussing staff."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-07",
+        "phrase": "Врачи спасают людей каждый день.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Врачи' is the nominative plural of врач, the subject of 'спасают'. 'Людей' is the accusative object, and 'каждый день' sets frequency. A statement of respect."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-08",
+        "phrase": "В больнице много опытных врачей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Врачей' is the genitive plural required by 'много'. 'Опытных' agrees in the genitive plural, and 'в больнице' sets the place. A core counting pattern."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-09",
+        "phrase": "Пациенты доверяют этим врачам.",
+        "fullAnalysis": "Strategic focus: Dative plural after 'доверяют'. 'Врачам' is the dative plural, the doctors trusted. 'Этим' agrees in the dative plural, and 'пациенты' is the subject. A clean trust pattern."
+      },
+      {
+        "id": "NN-PEOPLE-VRACH-10",
+        "phrase": "Моя сестра работает детским врачом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Врачом' is instrumental after 'работает', naming the profession. 'Детским' agrees in the instrumental. The standard way to state a job."
+      }
+    ]
+  }
+]

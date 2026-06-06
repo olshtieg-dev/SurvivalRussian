@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-GAZETA",
+    "label": "Газета",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for газета (newspaper).",
+    "missions": [
+      {
+        "id": "NN-COMMS-GAZETA-01",
+        "phrase": "На столе лежит свежая газета.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Газета' stays in the nominative as the subject of 'лежит'. 'Свежая' is the agreeing feminine adjective, and 'на столе' is the prepositional location."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-02",
+        "phrase": "Утром я читаю газету.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Газету' is the accusative direct object of 'читаю'. 'Утром' is an instrumental adverb of time, anchoring a daily routine."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-03",
+        "phrase": "Это статья из вчерашней газеты.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Газеты' is the genitive form after the preposition 'из', showing the source. 'Вчерашней' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-04",
+        "phrase": "Эта новость попала в газету.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Газету' is the accusative after 'в', marking the destination of the news. 'Новость' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-05",
+        "phrase": "Он работает над школьной газетой.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Газетой' is the instrumental form after 'над', expressing what one works on. 'Школьной' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-06",
+        "phrase": "Я прочитал об этом в газете.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В газете' uses the prepositional form after 'в' to express where something was read. 'Об этом' adds the topic."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-07",
+        "phrase": "Журналист отдал статью газете.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Газете' is the dative form marking the newspaper as the recipient. 'Статью' is the accusative object of 'отдал'."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-08",
+        "phrase": "В киоске продают разные газеты.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Газеты' is the accusative plural object of 'продают'; for inanimate nouns it equals the nominative plural. 'Разные' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-09",
+        "phrase": "Он подписан на несколько газет.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Газет' is the genitive plural required by 'несколько'. 'Подписан на' takes the accusative frame, with the count noun driving the genitive plural."
+      },
+      {
+        "id": "NN-COMMS-GAZETA-10",
+        "phrase": "Сегодня в киоске нет газеты.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Газеты' is the genitive form required after the negation 'нет'. 'В киоске' is the prepositional location, and 'сегодня' adds time."
+      }
+    ]
+  }
+]

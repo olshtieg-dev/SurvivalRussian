@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-NACHALNIK",
+    "label": "Начальник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for начальник (boss).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-NACHALNIK-01",
+        "phrase": "Мой начальник сегодня очень занят.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Начальник' stays in the nominative as the subject of the sentence. 'Мой' is the agreeing masculine possessive, and 'занят' is the short-form predicate adjective. A clean introduction."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-02",
+        "phrase": "Я давно знаю своего начальника.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Начальника' takes the -а ending because the noun is animate masculine, so its accusative copies the genitive. 'Своего' agrees in the animate masculine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-03",
+        "phrase": "Это кабинет нашего начальника.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Начальника' is the genitive showing whose office it is. 'Нашего' is the agreeing masculine genitive. A core possession pattern."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-04",
+        "phrase": "Я показал отчёт начальнику утром.",
+        "fullAnalysis": "Strategic focus: Dative indirect object. 'Начальнику' is the dative recipient of the report. The verb 'показал' takes a dative person, and 'отчёт' is the accusative thing shown."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-05",
+        "phrase": "Я говорил с начальником о работе.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Начальником' is the instrumental after the preposition 'с', meaning together with. 'О работе' adds the prepositional topic of the talk."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-06",
+        "phrase": "Все говорят о новом начальнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Начальнике' is the prepositional form after 'о', expressing the topic. 'Новом' agrees in the masculine prepositional. A natural office-gossip frame."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-07",
+        "phrase": "У начальника есть новая машина.",
+        "fullAnalysis": "Strategic focus: Genitive in a possession frame. 'Начальника' follows 'у' in the genitive to express possession. 'Новая машина' is the nominative thing possessed. The standard 'у кого есть' pattern."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-08",
+        "phrase": "На совещании были все начальники.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Начальники' is the nominative plural as the subject of 'были'. 'Все' quantifies them, and 'на совещании' gives the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-09",
+        "phrase": "Я уважаю своих начальников.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural equals genitive. 'Начальников' takes the genitive-plural -ов ending, which serves as the accusative because the noun is animate. 'Своих' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-NACHALNIK-10",
+        "phrase": "Он строгий, но справедливый начальник.",
+        "fullAnalysis": "Strategic focus: Nominative predicate noun. 'Начальник' is nominative as the predicate. 'Строгий' and 'справедливый' are agreeing masculine adjectives describing his style, joined by 'но'."
+      }
+    ]
+  }
+]

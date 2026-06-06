@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ISTORIYA",
+    "label": "История",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for история (history; story).",
+    "missions": [
+      {
+        "id": "NN-EDU-ISTORIYA-01",
+        "phrase": "Это очень интересная история.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'История' is in the nominative as the predicate noun. 'Интересная' is the agreeing feminine adjective, intensified by 'очень'. A natural reaction to a tale."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-02",
+        "phrase": "Я люблю историю России.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Историю' is the accusative object of 'люблю', the feminine ending shifting to -ю. 'России' is genitive, specifying which history."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-03",
+        "phrase": "У этой истории счастливый конец.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Истории' is genitive after 'у' to mark whose ending it is. 'Этой' agrees in feminine genitive, and 'счастливый конец' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-04",
+        "phrase": "Благодаря истории мы знаем прошлое.",
+        "fullAnalysis": "Strategic focus: Dative after a preposition. 'Истории' is dative because 'благодаря' governs that case, expressing thanks to history. 'Прошлое' is the accusative thing we know."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-05",
+        "phrase": "Я увлекаюсь древней историей.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Историей' is instrumental because 'увлекаться' governs that case. 'Древней' agrees in feminine instrumental, expressing a hobby or passion."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-06",
+        "phrase": "Мы говорим об этой истории.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об истории' uses the prepositional form after 'об' to mark the topic. 'Этой' agrees in feminine prepositional, naming the story discussed."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-07",
+        "phrase": "Расскажи мне эту историю.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Историю' is the accusative object of 'расскажи'. 'Эту' agrees in feminine accusative, and 'мне' is the dative recipient. A common request."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-08",
+        "phrase": "Бабушка рассказывает старые истории.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Истории' is the accusative plural, identical to the nominative for inanimate nouns. 'Старые' agrees in plural, and 'бабушка' is the subject."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-09",
+        "phrase": "Я знаю много интересных историй.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Историй' is the genitive plural with a zero ending because 'много' governs that case. 'Интересных' agrees in genitive plural."
+      },
+      {
+        "id": "NN-EDU-ISTORIYA-10",
+        "phrase": "История повторяется снова и снова.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'История' is the nominative subject of 'повторяется'. The reflexive verb agrees in feminine, and 'снова и снова' stresses the repetition. A common saying."
+      }
+    ]
+  }
+]

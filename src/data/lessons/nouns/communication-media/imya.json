@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-IMYA",
+    "label": "Имя",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for имя (name).",
+    "missions": [
+      {
+        "id": "NN-COMMS-IMYA-01",
+        "phrase": "Какое у тебя красивое имя!",
+        "fullAnalysis": "Strategic focus: Nominative exclamation. 'Имя' stays in the nominative case as the subject of praise. 'Красивое' is the agreeing neuter adjective, and 'какое' opens an exclamation."
+      },
+      {
+        "id": "NN-COMMS-IMYA-02",
+        "phrase": "Я не помню его имя.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Имя' is the accusative direct object of 'помню', identical to the nominative because the noun is neuter inanimate. The phrase admits forgetting."
+      },
+      {
+        "id": "NN-COMMS-IMYA-03",
+        "phrase": "Я не знаю имени этого человека.",
+        "fullAnalysis": "Strategic focus: Genitive case. 'Имени' is the irregular genitive of the -мя neuter noun, governed by the negated 'знаю'. Note the special '-ени' stem extension typical of this class."
+      },
+      {
+        "id": "NN-COMMS-IMYA-04",
+        "phrase": "К твоему имени я привык.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Имени' is the irregular dative of имя after 'к', expressing getting used to it. 'Твоему' agrees in the dative, and the '-ени' extension recurs in the oblique forms."
+      },
+      {
+        "id": "NN-COMMS-IMYA-05",
+        "phrase": "Документ подписан моим именем.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Именем' is the irregular instrumental of имя, expressing the means of signing. 'Моим' agrees in the instrumental, showing whose name is used."
+      },
+      {
+        "id": "NN-COMMS-IMYA-06",
+        "phrase": "Мы спорим о её имени.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об имени' uses the irregular prepositional form 'имени' after 'о' to express what is debated. The '-ени' extension marks this -мя noun class."
+      },
+      {
+        "id": "NN-COMMS-IMYA-07",
+        "phrase": "Эти имена очень редкие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Имена' is the irregular nominative plural of имя, with the stress shift and ending typical of -мя nouns. 'Редкие' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-IMYA-08",
+        "phrase": "Я записал все имена в тетрадь.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Имена' is the accusative plural object of 'записал', identical to the nominative plural because the noun is inanimate. 'Все' quantifies them."
+      },
+      {
+        "id": "NN-COMMS-IMYA-09",
+        "phrase": "Учитель не знает наших имён.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Имён' is the irregular genitive plural of имя, governed by the negated 'знает'. 'Наших' agrees in the genitive plural, and the form drops the stem extension."
+      },
+      {
+        "id": "NN-COMMS-IMYA-10",
+        "phrase": "Его зовут редким именем.",
+        "fullAnalysis": "Strategic focus: Instrumental of naming. 'Именем' is the instrumental of имя used with 'зовут' to express what someone is called. 'Редким' agrees in the instrumental, describing the rare name."
+      }
+    ]
+  }
+]

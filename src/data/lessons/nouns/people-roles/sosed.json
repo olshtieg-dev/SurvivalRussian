@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SOSED",
+    "label": "Сосед",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for сосед (neighbor).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SOSED-01",
+        "phrase": "Мой сосед очень добрый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сосед' is in the nominative as the subject. 'Мой' agrees in masculine nominative, and 'добрый' is the predicate adjective describing him."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-02",
+        "phrase": "Я давно знаю своего соседа.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Соседа' is animate masculine, so its accusative copies the genitive form. 'Своего' agrees, and 'давно' marks the long acquaintance."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-03",
+        "phrase": "У соседа большая собака.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Соседа' is genitive after 'у' to mark whose dog it is. 'Большая собака' is the nominative subject of the possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-04",
+        "phrase": "Я помогаю своему соседу.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Соседу' is the dative object of 'помогаю', the one helped. 'Своему' agrees in masculine dative. 'Помогать' always governs the dative."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-05",
+        "phrase": "Я познакомился с новым соседом.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Соседом' is instrumental because 'познакомиться с' governs that case. 'Новым' agrees in masculine instrumental. The standard way to say you met someone."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-06",
+        "phrase": "Мы говорим о нашем соседе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О соседе' uses the prepositional form after 'о' to mark the topic. 'Нашем' agrees in masculine prepositional, naming the neighbour discussed."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-07",
+        "phrase": "Наши соседи очень шумные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Соседи' is the irregular soft nominative plural acting as the subject. 'Наши' agrees, and 'шумные' is the predicate adjective in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-08",
+        "phrase": "Я пригласил всех соседей.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Соседей' is the irregular animate plural, so its accusative copies the genitive. 'Всех' agrees in the same form. Useful for invitations."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-09",
+        "phrase": "Я часто хожу к соседям.",
+        "fullAnalysis": "Strategic focus: Dative plural with direction. 'Соседям' is the dative plural after 'к' to express going to someone's place. 'Часто' marks how regularly the visits happen."
+      },
+      {
+        "id": "NN-PEOPLE-SOSED-10",
+        "phrase": "В нашем доме много соседей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Соседей' is the irregular genitive plural because 'много' governs that case. 'В нашем доме' sets the location."
+      }
+    ]
+  }
+]

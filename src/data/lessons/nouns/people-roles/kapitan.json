@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KAPITAN",
+    "label": "Капитан",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for капитан (captain).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KAPITAN-01",
+        "phrase": "Капитан стоит на мостике корабля.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Капитан' is the nominative subject of 'стоит'. 'На мостике' is a prepositional place phrase, and 'корабля' is genitive showing whose bridge."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-02",
+        "phrase": "Матросы уважают своего капитана.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Капитана' is the animate accusative object of 'уважают', matching the genitive form. 'Своего' agrees in masculine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-03",
+        "phrase": "Это приказ капитана корабля.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Капитана' is the genitive form showing whose order it is. 'Корабля' is a further genitive linking captain to ship."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-04",
+        "phrase": "Команда подчиняется капитану беспрекословно.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Капитану' is the dative form because 'подчиняться' governs the dative. 'Беспрекословно' describes how the team obeys."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-05",
+        "phrase": "Я разговаривал с капитаном вчера.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Капитаном' is the instrumental form marking the partner of conversation. 'Вчера' places the talk in past time."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-06",
+        "phrase": "Все говорят о новом капитане.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Капитане' is the prepositional form for the topic. 'Новом' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-07",
+        "phrase": "Два капитана спорили о маршруте.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Капитана' takes the genitive singular form required after 'два'. 'О маршруте' is the prepositional topic of their argument."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-08",
+        "phrase": "Капитаны кораблей встретились в порту.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Капитаны' is the nominative plural subject of 'встретились'. 'Кораблей' is genitive plural, and 'в порту' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-09",
+        "phrase": "Адмирал наградил храбрых капитанов.",
+        "fullAnalysis": "Strategic focus: Accusative plural animate. 'Капитанов' is the animate accusative plural, matching the genitive plural form. 'Храбрых' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-KAPITAN-10",
+        "phrase": "Капитан, корабль готов к отплытию!",
+        "fullAnalysis": "Strategic focus: Nominative as address. 'Капитан' is used in the nominative as a direct address. The clause 'корабль готов к отплытию' reports the ship's readiness with a dative goal."
+      }
+    ]
+  }
+]

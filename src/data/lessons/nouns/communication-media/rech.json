@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-RECH",
+    "label": "Речь",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for речь (speech).",
+    "missions": [
+      {
+        "id": "NN-COMMS-RECH-01",
+        "phrase": "Его речь была очень убедительной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Речь' is a feminine soft-sign noun, here nominative as the subject. 'Убедительной' is the instrumental predicate after 'была'. A natural evaluation of a talk."
+      },
+      {
+        "id": "NN-COMMS-RECH-02",
+        "phrase": "Президент произнёс важную речь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Речь' is the accusative direct object of 'произнёс'; this feminine noun looks the same as the nominative. 'Важную' agrees in the feminine accusative. A core public-speaking pattern."
+      },
+      {
+        "id": "NN-COMMS-RECH-03",
+        "phrase": "Я не понял смысла речи.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Речи' is the genitive form after 'смысла', showing the meaning of the speech. 'Не понял' is the negated verb. Good for talking about comprehension."
+      },
+      {
+        "id": "NN-COMMS-RECH-04",
+        "phrase": "Зал долго аплодировал этой речи.",
+        "fullAnalysis": "Strategic focus: Dative after 'аплодировал'. 'Речи' is dative, the speech that received applause. 'Этой' agrees in the dative, and 'долго' adds duration. A clean reaction pattern."
+      },
+      {
+        "id": "NN-COMMS-RECH-05",
+        "phrase": "Все были впечатлены его речью.",
+        "fullAnalysis": "Strategic focus: Instrumental of cause. 'Речью' is instrumental after 'впечатлены', the source of the impression. 'Его' marks whose speech. A useful pattern for reactions."
+      },
+      {
+        "id": "NN-COMMS-RECH-06",
+        "phrase": "Мы долго говорили о его речи.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О речи' uses the prepositional form 'речи' after 'о' to mean about the speech. 'Его' marks whose, and 'долго' adds duration. Good for discussion."
+      },
+      {
+        "id": "NN-COMMS-RECH-07",
+        "phrase": "Политические речи бывают скучными.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Речи' is the nominative plural of речь, the subject of 'бывают'. 'Политические' agrees in the plural, and 'скучными' is the instrumental predicate. A general statement."
+      },
+      {
+        "id": "NN-COMMS-RECH-08",
+        "phrase": "Мы услышали много красивых речей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Речей' is the genitive plural required by 'много'. 'Красивых' agrees in the genitive plural, and 'услышали' is the verb. A core counting pattern."
+      },
+      {
+        "id": "NN-COMMS-RECH-09",
+        "phrase": "Журналисты внимательно слушали обе речи.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Речи' is the accusative plural of an inanimate noun, matching the nominative plural. 'Обе' agrees, and 'журналисты' is the subject. A clean listening pattern."
+      },
+      {
+        "id": "NN-COMMS-RECH-10",
+        "phrase": "У этого оратора дар речи.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Речи' is genitive after 'дар', forming the idiom дар речи, a gift of speech. 'У этого оратора' marks the possessor. A useful fixed expression."
+      }
+    ]
+  }
+]

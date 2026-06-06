@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-DEVUSHKA",
+    "label": "Девушка",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for девушка (girl).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-01",
+        "phrase": "Эта девушка очень красивая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Девушка' stays in the nominative as the subject. 'Эта' points at her and 'красивая' is the agreeing feminine adjective. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-02",
+        "phrase": "Я хорошо знаю эту девушку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Девушку' is the accusative direct object of 'знаю'. 'Эту' agrees in the feminine accusative, and 'хорошо' shows the degree of acquaintance."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-03",
+        "phrase": "У этой девушки тёмные волосы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Девушки' is genitive after 'у', marking the possessor. 'Этой' agrees in the feminine genitive, and 'тёмные волосы' is the nominative thing possessed."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-04",
+        "phrase": "Я подарил девушке красивые цветы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Девушке' is the dative indirect object, the one receiving the gift. 'Красивые цветы' is the accusative thing given, and 'подарил' is the past-tense verb."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-05",
+        "phrase": "Он танцует с этой девушкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Девушкой' is instrumental after 'с', expressing accompaniment. 'Этой' agrees in the feminine instrumental, marking the dancing partner."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-06",
+        "phrase": "Мы говорим об этой девушке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Девушке' is prepositional after 'об', the topic of conversation. 'Этой' agrees in the feminine prepositional, and 'говорим' sets the discussion."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-07",
+        "phrase": "В классе много красивых девушек.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Девушек' is the genitive plural required by the quantity word 'много'; the stem takes a fleeting vowel. 'Красивых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-08",
+        "phrase": "Эти девушки учатся в университете.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Девушки' is the nominative plural subject of 'учатся'. 'Эти' agrees in the plural, and 'в университете' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-09",
+        "phrase": "Девушка читает интересную книгу.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Девушка' is the nominative subject of 'читает'. 'Интересную книгу' is the feminine accusative direct object, showing a full action sentence."
+      },
+      {
+        "id": "NN-PEOPLE-DEVUSHKA-10",
+        "phrase": "Я часто думаю об этой девушке.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'об'. 'Девушке' is prepositional, the object of one's thoughts. 'Часто' adds frequency, and 'этой' agrees in the feminine prepositional."
+      }
+    ]
+  }
+]

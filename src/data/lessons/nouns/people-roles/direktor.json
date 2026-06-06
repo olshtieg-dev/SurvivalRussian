@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-DIREKTOR",
+    "label": "Директор",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for директор (director).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-DIREKTOR-01",
+        "phrase": "Наш новый директор очень добрый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Директор' stays in the nominative as the subject. 'Новый' is the agreeing masculine adjective, and 'очень добрый' completes the description. A clear descriptive opener."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-02",
+        "phrase": "Сотрудники уважают своего директора.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Директора' is the accusative direct object of 'уважают'; as an animate masculine noun, its accusative copies the genitive form. 'Своего' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-03",
+        "phrase": "У директора сегодня важная встреча.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Директора' is genitive after the preposition 'у', marking whose meeting it is. 'Важная встреча' stays nominative as the subject. A natural workplace pattern."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-04",
+        "phrase": "Я написал письмо директору.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Директору' is in the dative as the addressee of 'написал письмо'. 'Письмо' is the accusative direct object. A core pattern for formal communication."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-05",
+        "phrase": "Я хочу поговорить с директором.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Директором' is instrumental after the preposition 'с', naming who the speaker wants to talk with. 'Поговорить с' is a fixed pattern for arranging a conversation."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-06",
+        "phrase": "Все говорят о новом директоре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Директоре' is the prepositional form after 'о', the topic of discussion. 'Новом' is the agreeing masculine prepositional adjective. A useful office-gossip template."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-07",
+        "phrase": "На совещании выступили директора школ.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Директора' is the irregular nominative plural with stressed ending, the subject of 'выступили'. 'Школ' is genitive plural showing whose directors. A precise model for the -а plural."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-08",
+        "phrase": "Министр собрал всех директоров.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Директоров' is the accusative plural of an animate noun, matching the genitive plural form. 'Всех' agrees in the same case. A clear model for animate plural objects."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-09",
+        "phrase": "Он работает директором завода.",
+        "fullAnalysis": "Strategic focus: Instrumental of profession. 'Директором' is instrumental after 'работает', the standard way to state someone's job. 'Завода' is genitive showing of what. A high-value career template."
+      },
+      {
+        "id": "NN-PEOPLE-DIREKTOR-10",
+        "phrase": "Я ещё не знаю нашего директора.",
+        "fullAnalysis": "Strategic focus: Accusative animate under negation. 'Директора' is the accusative object of the negated 'не знаю', keeping the genitive-matching animate form. 'Нашего' agrees, and 'ещё' adds a sense of not yet."
+      }
+    ]
+  }
+]

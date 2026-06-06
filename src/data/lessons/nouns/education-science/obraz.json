@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-OBRAZ",
+    "label": "Образ",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for образ (image; manner).",
+    "missions": [
+      {
+        "id": "NN-EDU-OBRAZ-01",
+        "phrase": "Этот образ очень яркий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Образ' is the nominative subject. 'Этот' agrees in the masculine nominative, 'яркий' is the predicate adjective, and 'очень' intensifies it. A simple model."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-02",
+        "phrase": "Художник создал прекрасный образ.",
+        "fullAnalysis": "Strategic focus: Accusative object, inanimate. 'Образ' is the accusative direct object of 'создал', identical to the nominative because the noun is inanimate. 'Прекрасный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-03",
+        "phrase": "У этого образа глубокий смысл.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Образа' is genitive in the 'у + genitive' frame, showing what has meaning. 'Этого' agrees in the masculine genitive, and 'смысл' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-04",
+        "phrase": "Писатель придал образу новую жизнь.",
+        "fullAnalysis": "Strategic focus: Dative object. The verb 'придать' takes a dative for what receives, so 'образу' is dative. 'Новую жизнь' is the accusative thing given. A model for breathing life into something."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-05",
+        "phrase": "Таким образом мы решили задачу.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Образом' is in the instrumental in the fixed phrase 'таким образом', meaning in this way. 'Таким' agrees in the masculine instrumental. A very common connector."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-06",
+        "phrase": "В этом образе скрыта печаль.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В образе' uses the prepositional form after 'в' to mark the location of meaning. 'Этом' agrees in the masculine prepositional, and 'печаль' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-07",
+        "phrase": "В книге яркие женские образы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Образы' is the nominative plural subject. 'Яркие' and 'женские' agree in the plural, and 'в книге' is prepositional. A model for the plural form."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-08",
+        "phrase": "Автор создал много сильных образов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Образов' is the genitive plural after the quantity word 'много'. 'Сильных' agrees in the genitive plural, and 'автор' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-09",
+        "phrase": "Мы говорим о литературных образах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Об образах' uses the prepositional plural after 'о' to mark the topic. 'Литературных' agrees in the prepositional plural. A model for discussing literary themes."
+      },
+      {
+        "id": "NN-EDU-OBRAZ-10",
+        "phrase": "Поэт работает над новыми образами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after над. The preposition 'над' governs the instrumental, so 'образами' is the instrumental plural, what the poet works on. 'Новыми' agrees in the same case."
+      }
+    ]
+  }
+]

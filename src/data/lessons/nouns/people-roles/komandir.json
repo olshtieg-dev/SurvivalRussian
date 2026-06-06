@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KOMANDIR",
+    "label": "Командир",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for командир (commander).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KOMANDIR-01",
+        "phrase": "Наш командир отдал чёткий приказ.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Командир' stays in the nominative as the subject of 'отдал'. 'Наш' is the agreeing masculine possessive, and 'приказ' is the accusative object. A clean introduction."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-02",
+        "phrase": "Солдаты уважают своего командира.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Командира' takes the -а ending because the noun is animate masculine, so its accusative copies the genitive. 'Своего' agrees in the animate masculine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-03",
+        "phrase": "Это палатка нашего командира.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Командира' is the genitive showing whose tent it is. 'Нашего' is the agreeing masculine genitive. A core possession pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-04",
+        "phrase": "Я доложил командиру о ситуации.",
+        "fullAnalysis": "Strategic focus: Dative indirect object. 'Командиру' is the dative recipient of the report. The verb 'доложил' takes a dative person, and 'о ситуации' adds the prepositional topic."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-05",
+        "phrase": "Я поехал на фронт с командиром.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Командиром' is the instrumental after the preposition 'с', meaning together with. 'На фронт' shows the accusative destination of motion."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-06",
+        "phrase": "В газете писали о командире.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Командире' is the prepositional form after 'о', expressing the topic written about. 'В газете' gives a second prepositional, this one of location."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-07",
+        "phrase": "У командира была важная задача.",
+        "fullAnalysis": "Strategic focus: Genitive in a possession frame. 'Командира' follows 'у' in the genitive to express possession. 'Важная задача' is the nominative thing possessed, with 'была' agreeing in the feminine."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-08",
+        "phrase": "На базу прибыли новые командиры.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Командиры' is the nominative plural as the subject of 'прибыли'. 'Новые' agrees as a plural adjective, and 'на базу' shows the accusative destination."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-09",
+        "phrase": "Солдаты слушают своих командиров.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural equals genitive. 'Командиров' takes the genitive-plural -ов ending, which serves as the accusative because the noun is animate. 'Своих' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-KOMANDIR-10",
+        "phrase": "Он смелый и опытный командир.",
+        "fullAnalysis": "Strategic focus: Nominative predicate noun. 'Командир' is nominative as the predicate. 'Смелый' and 'опытный' are agreeing masculine adjectives describing his qualities, joined by 'и'."
+      }
+    ]
+  }
+]

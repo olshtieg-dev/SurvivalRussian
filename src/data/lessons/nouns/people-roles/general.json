@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-GENERAL",
+    "label": "Генерал",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for генерал (general).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-GENERAL-01",
+        "phrase": "Этот генерал очень строгий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Генерал' stays in the nominative as the subject. 'Строгий' is the agreeing masculine adjective, and 'очень' intensifies it. A clean descriptive opener."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-02",
+        "phrase": "Солдаты увидели генерала издалека.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Генерала' is the accusative direct object of 'увидели'; as an animate masculine noun, its accusative copies the genitive form. 'Издалека' adds the vantage point."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-03",
+        "phrase": "У генерала много наград.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Генерала' is genitive after the preposition 'у', marking the owner. The quantity word 'много' also governs the genitive plural 'наград'. A natural pattern for describing achievements."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-04",
+        "phrase": "Солдаты подчиняются своему генералу.",
+        "fullAnalysis": "Strategic focus: Dative of subordination. 'Генералу' is dative after 'подчиняются', a verb that governs the dative. 'Своему' is the agreeing masculine dative adjective. A useful military and hierarchy pattern."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-05",
+        "phrase": "Президент встретился с генералом.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Генералом' is instrumental after the preposition 'с', naming who the president met with. 'Встретиться с' is a fixed pattern for arranged meetings."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-06",
+        "phrase": "В газете пишут о генерале.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Генерале' is the prepositional form after 'о', the topic being written about. 'В газете' is also prepositional, marking the location of the writing."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-07",
+        "phrase": "На параде выступали генералы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Генералы' is the nominative plural subject of 'выступали'. 'На параде' is prepositional, giving the setting. A good model for the regular masculine plural."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-08",
+        "phrase": "Журналисты пригласили двух генералов.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Генералов' is the accusative plural of an animate noun, matching the genitive plural form. The numeral 'двух' also takes this form. A precise model for animate counting."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-09",
+        "phrase": "Он стал генералом в сорок лет.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Генералом' is instrumental after 'стал', the standard pattern for becoming a rank or profession. 'В сорок лет' marks the age. A strong template for career milestones."
+      },
+      {
+        "id": "NN-PEOPLE-GENERAL-10",
+        "phrase": "Я никогда не видел этого генерала.",
+        "fullAnalysis": "Strategic focus: Accusative animate under negation. 'Генерала' is the accusative object of the negated 'не видел', and as an animate masculine noun it keeps the genitive-matching form. 'Никогда' reinforces the negation."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-NEMETS",
+    "label": "Немец",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for немец (German).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-NEMETS-01",
+        "phrase": "Этот немец говорит по-русски.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Немец' is in the nominative as the subject. 'Этот' agrees in masculine nominative, and 'говорит по-русски' describes his ability."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-02",
+        "phrase": "Я встретил одного немца.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Немца' is animate masculine with a fleeting vowel that drops, so its accusative copies the genitive. 'Одного' agrees in animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-03",
+        "phrase": "У этого немца красивый дом.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Немца' is genitive after 'у', the fleeting е dropping before the ending. 'Этого' agrees, and 'красивый дом' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-04",
+        "phrase": "Я показал немцу город.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Немцу' is the dative indirect object, the one shown around. 'Город' is the accusative thing shown. The fleeting е again drops in the dative."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-05",
+        "phrase": "Я работаю с этим немцем.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Немцем' is instrumental after 'с' to express working together. 'Этим' agrees in masculine instrumental; the fleeting е drops here too."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-06",
+        "phrase": "Мы говорили об этом немце.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об немце' uses the prepositional form after 'об' to mark the topic. 'Этом' agrees in masculine prepositional, naming the man discussed."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-07",
+        "phrase": "Немцы любят порядок и точность.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Немцы' is the nominative plural acting as the subject. 'Любят' agrees in the plural, and 'порядок и точность' are the accusative objects."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-08",
+        "phrase": "Я знаю многих немцев.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Немцев' is animate plural, so its accusative copies the genitive. 'Многих' agrees in the same animate form, marking a large group."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-09",
+        "phrase": "В нашем городе живёт много немцев.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Немцев' is genitive plural because 'много' governs that case. 'В нашем городе' sets the location, and 'живёт' is the verb."
+      },
+      {
+        "id": "NN-PEOPLE-NEMETS-10",
+        "phrase": "Он типичный вежливый немец.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Немец' is nominative as the predicate noun. 'Типичный' and 'вежливый' agree in masculine nominative, characterizing him."
+      }
+    ]
+  }
+]

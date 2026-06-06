@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-NAZVANIE",
+    "label": "Название",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for название (name; title).",
+    "missions": [
+      {
+        "id": "NN-COMMS-NAZVANIE-01",
+        "phrase": "У книги интересное название.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Название' stays in the nominative case as the subject. 'Интересное' is the agreeing neuter adjective, and 'у книги' frames whose title it is."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-02",
+        "phrase": "Я забыл название этого фильма.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Название' is the accusative direct object of 'забыл', identical to the nominative because the noun is neuter inanimate. The phrase admits forgetting a title."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-03",
+        "phrase": "Я не помню точного названия.",
+        "fullAnalysis": "Strategic focus: Genitive case. 'Названия' is the genitive form governed by the negated 'не помню'. 'Точного' agrees in the genitive neuter, marking the exact title."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-04",
+        "phrase": "Мы придумали хорошее название.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Название' is the accusative object of 'придумали', identical to the nominative for this neuter noun. 'Хорошее' agrees in the neuter form."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-05",
+        "phrase": "Магазин назвали смешным названием.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Названием' is in the instrumental case expressing what the shop was named with. 'Смешным' agrees in the instrumental neuter."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-06",
+        "phrase": "Мы спорим о названии команды.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О названии' uses the prepositional form after 'о' to express what is debated. 'Команды' is genitive, marking whose title is discussed."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-07",
+        "phrase": "Эти названия трудно запомнить.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Названия' is the nominative plural subject of the impersonal predicate. 'Эти' agrees in the plural, and 'трудно' evaluates the difficulty."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-08",
+        "phrase": "Я читаю названия всех улиц.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Названия' is the accusative plural object of 'читаю', identical to the nominative plural for this inanimate neuter noun. 'Всех улиц' is genitive plural."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-09",
+        "phrase": "В списке много новых названий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Названий' is in the genitive plural after 'много', which governs the genitive of counted items. 'Новых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-COMMS-NAZVANIE-10",
+        "phrase": "Дайте новое название этому проекту.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative. 'Название' is the accusative object of 'дайте', and 'этому проекту' is the dative recipient. 'Новое' agrees in the neuter accusative."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-YAZYK",
+    "label": "Язык",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for язык (language).",
+    "missions": [
+      {
+        "id": "NN-EDU-YAZYK-01",
+        "phrase": "Русский язык очень сложный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Язык' stays nominative as the subject. 'Русский' is the agreeing masculine adjective, and 'сложный' gives the predicate evaluation."
+      },
+      {
+        "id": "NN-EDU-YAZYK-02",
+        "phrase": "Я изучаю русский язык.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Язык' is the accusative direct object of 'изучаю'; masculine inanimate nouns keep the nominative form. 'Русский' agrees with it."
+      },
+      {
+        "id": "NN-EDU-YAZYK-03",
+        "phrase": "Без языка трудно жить за границей.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Языка' is genitive, governed by 'без' to express lacking the language. The infinitive 'жить' carries the impersonal statement."
+      },
+      {
+        "id": "NN-EDU-YAZYK-04",
+        "phrase": "Я учусь благодаря этому языку.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Языку' is dative, governed by 'благодаря'. 'Этому' agrees in the masculine dative, marking the means of learning."
+      },
+      {
+        "id": "NN-EDU-YAZYK-05",
+        "phrase": "Я свободно владею английским языком.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'владеть'. 'Языком' is instrumental, the case required by 'владеть'. 'Английским' agrees in the masculine instrumental, and 'свободно' adds degree."
+      },
+      {
+        "id": "NN-EDU-YAZYK-06",
+        "phrase": "Она хорошо говорит на русском языке.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'на'. 'Языке' is prepositional, governed by 'на' to express the medium of speech. 'Русском' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-EDU-YAZYK-07",
+        "phrase": "В Европе много разных языков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Языков' is the genitive plural required by 'много'. 'Разных' agrees in the genitive plural, and 'в Европе' is prepositional."
+      },
+      {
+        "id": "NN-EDU-YAZYK-08",
+        "phrase": "Эти языки очень похожи.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Языки' is the nominative plural subject. 'Эти' agrees in the plural, and 'похожи' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-EDU-YAZYK-09",
+        "phrase": "Я знаю три иностранных языка.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Языка' is the genitive singular required after 'три'. 'Иностранных' is genitive plural, and 'знаю' takes the count phrase as object."
+      },
+      {
+        "id": "NN-EDU-YAZYK-10",
+        "phrase": "Мы говорим о русском языке.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Языке' is prepositional, the topic of discussion. 'Русском' agrees in the masculine prepositional, and 'говорим' sets the conversation."
+      }
+    ]
+  }
+]

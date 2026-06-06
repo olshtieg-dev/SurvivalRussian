@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-TOVARISHCH",
+    "label": "Товарищ",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for товарищ (comrade).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-01",
+        "phrase": "Мой старый товарищ приехал вчера.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Товарищ' stays in the nominative case as the subject who arrived. 'Мой' and 'старый' are agreeing masculine modifiers, and 'приехал' agrees in masculine gender."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-02",
+        "phrase": "Я давно знаю этого товарища.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Товарища' is the accusative direct object of 'знаю', taking the genitive form because the noun is animate masculine. 'Этого' agrees in the accusative."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-03",
+        "phrase": "У этого товарища нет машины.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Товарища' is genitive after 'у' in a possession frame, and 'этого' agrees in the genitive masculine. The construction shows whose absence is described."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-04",
+        "phrase": "Я помогаю своему товарищу с работой.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Товарищу' is in the dative case as the person receiving help from 'помогаю'. 'Своему' agrees in the dative masculine, marking a reflexive possessor."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-05",
+        "phrase": "Я иду в кино с товарищем.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Товарищем' is in the instrumental case after 'с' to express going together. The preposition plus instrumental is the standard way to say with someone."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-06",
+        "phrase": "Мы часто говорим о товарище.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О товарище' uses the prepositional form 'товарище' after 'о' to express talking about him. 'Часто' adds frequency to the habitual action."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-07",
+        "phrase": "Все мои товарищи учатся в университете.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Товарищи' is the nominative plural subject of 'учатся'. 'Все мои' agree in the plural, and the sentence describes the group's activity."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-08",
+        "phrase": "Он настоящий товарищ и друг.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Товарищ' is nominative as a predicate noun describing 'он'. 'Настоящий' is the agreeing masculine adjective, and 'и друг' coordinates a second predicate noun."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-09",
+        "phrase": "Я звоню товарищу каждый вечер.",
+        "fullAnalysis": "Strategic focus: Dative with звонить. 'Товарищу' is in the dative case because 'звонить' governs the dative of the person called. 'Каждый вечер' marks the regular routine."
+      },
+      {
+        "id": "NN-PEOPLE-TOVARISHCH-10",
+        "phrase": "Без своих товарищей он скучает.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Товарищей' is in the genitive plural after 'без', and 'своих' agrees in the genitive plural. The phrase expresses missing the group of comrades."
+      }
+    ]
+  }
+]

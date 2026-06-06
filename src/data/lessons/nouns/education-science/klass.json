@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-KLASS",
+    "label": "Класс",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for класс (class).",
+    "missions": [
+      {
+        "id": "NN-EDU-KLASS-01",
+        "phrase": "Наш класс очень дружный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Класс' stays in the nominative as the subject. 'Наш' is the agreeing masculine possessive, and 'дружный' is the predicate adjective. A clean introduction to this masculine noun."
+      },
+      {
+        "id": "NN-EDU-KLASS-02",
+        "phrase": "Я вошёл в класс утром.",
+        "fullAnalysis": "Strategic focus: Accusative of destination. 'Класс' is the accusative after 'в' for motion into a place; masculine inanimate nouns keep the nominative form. 'Утром' sets the time."
+      },
+      {
+        "id": "NN-EDU-KLASS-03",
+        "phrase": "Это окно нашего класса.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Класса' is the genitive showing what the window belongs to. 'Нашего' is the agreeing masculine genitive. A core attribution pattern."
+      },
+      {
+        "id": "NN-EDU-KLASS-04",
+        "phrase": "Учитель помог всему классу.",
+        "fullAnalysis": "Strategic focus: Dative indirect object. 'Классу' is the dative recipient of the help, governed by 'помог'. 'Всему' agrees in the masculine dative. A useful collective pattern."
+      },
+      {
+        "id": "NN-EDU-KLASS-05",
+        "phrase": "Я доволен своим классом.",
+        "fullAnalysis": "Strategic focus: Instrumental after an adjective. 'Классом' is the instrumental governed by 'доволен', which takes the instrumental for the thing one is pleased with. 'Своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-EDU-KLASS-06",
+        "phrase": "В классе было много детей.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Классе' is the prepositional form after 'в', expressing location. 'Много детей' is a genitive-plural quantity phrase, and 'было' is the impersonal past."
+      },
+      {
+        "id": "NN-EDU-KLASS-07",
+        "phrase": "В классе нет свободного места.",
+        "fullAnalysis": "Strategic focus: Prepositional location with genitive absence. 'В классе' uses the prepositional for location, while 'нет свободного места' marks absence with the genitive. A natural everyday observation."
+      },
+      {
+        "id": "NN-EDU-KLASS-08",
+        "phrase": "В школе открыли новые классы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Классы' is the accusative plural of 'открыли'; as a masculine inanimate noun it keeps the nominative-plural form. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-EDU-KLASS-09",
+        "phrase": "Старшие классы пишут экзамен сегодня.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Классы' is the nominative plural as the subject of 'пишут'. 'Старшие' agrees as a plural adjective, and 'экзамен' is the accusative object."
+      },
+      {
+        "id": "NN-EDU-KLASS-10",
+        "phrase": "В нашей школе двенадцать классов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Классов' takes the genitive plural required after numbers from five upward, here 'двенадцать'. 'В нашей школе' sets the prepositional location."
+      }
+    ]
+  }
+]

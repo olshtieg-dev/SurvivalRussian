@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-POET",
+    "label": "Поэт",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for поэт (poet).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-POET-01",
+        "phrase": "Этот поэт написал много стихов.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поэт' stays in the nominative as the subject of 'написал'. 'Этот' is the agreeing masculine demonstrative, and 'много стихов' is a genitive-plural quantity phrase."
+      },
+      {
+        "id": "NN-PEOPLE-POET-02",
+        "phrase": "Все знают этого поэта.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Поэта' takes the -а ending because the noun is animate masculine, so its accusative copies the genitive. 'Этого' agrees in the animate masculine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-POET-03",
+        "phrase": "Это новая книга известного поэта.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Поэта' is the genitive showing whose book it is. 'Известного' is the agreeing masculine genitive adjective. A core attribution pattern."
+      },
+      {
+        "id": "NN-PEOPLE-POET-04",
+        "phrase": "Читатели написали письма поэту.",
+        "fullAnalysis": "Strategic focus: Dative indirect object. 'Поэту' is the dative recipient of the letters. 'Письма' is the accusative-plural thing written, and 'читатели' is the nominative-plural subject."
+      },
+      {
+        "id": "NN-PEOPLE-POET-05",
+        "phrase": "Я познакомился с молодым поэтом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Поэтом' is the instrumental after the preposition 'с', required by 'познакомиться'. 'Молодым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-POET-06",
+        "phrase": "Мы говорили о любимом поэте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Поэте' is the prepositional form after 'о', expressing the topic of conversation. 'Любимом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-POET-07",
+        "phrase": "У поэта был необычный талант.",
+        "fullAnalysis": "Strategic focus: Genitive in a possession frame. 'Поэта' follows 'у' in the genitive to express possession. 'Необычный талант' is the nominative thing possessed, with 'был' agreeing in the masculine."
+      },
+      {
+        "id": "NN-PEOPLE-POET-08",
+        "phrase": "На вечере выступали разные поэты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Поэты' is the nominative plural as the subject of 'выступали'. 'Разные' agrees as a plural adjective, and 'на вечере' gives the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-POET-09",
+        "phrase": "Я люблю русских поэтов девятнадцатого века.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural equals genitive. 'Поэтов' takes the genitive-plural -ов ending, which serves as the accusative because the noun is animate. 'Русских' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-POET-10",
+        "phrase": "Он очень талантливый и тонкий поэт.",
+        "fullAnalysis": "Strategic focus: Nominative predicate noun. 'Поэт' is nominative as the predicate. 'Талантливый' and 'тонкий' are agreeing masculine adjectives describing his gift, joined by 'и'."
+      }
+    ]
+  }
+]

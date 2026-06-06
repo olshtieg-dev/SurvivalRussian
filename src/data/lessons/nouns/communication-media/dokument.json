@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-DOKUMENT",
+    "label": "Документ",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for документ (document).",
+    "missions": [
+      {
+        "id": "NN-COMMS-DOKUMENT-01",
+        "phrase": "Этот документ очень важный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Документ' stays nominative as the subject. 'Этот' points at it, and 'важный' is the agreeing masculine adjective. A simple descriptive sentence."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-02",
+        "phrase": "Я подписал важный документ.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Документ' is the accusative direct object of 'подписал'; masculine inanimate nouns keep the nominative form. 'Важный' agrees with it."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-03",
+        "phrase": "У меня нет этого документа.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Документа' is the genitive required by 'нет' to express absence. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-04",
+        "phrase": "Я добавил подпись к документу.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Документу' is dative, governed by the preposition 'к', expressing addition to it. 'Подпись' is the accusative object added."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-05",
+        "phrase": "Я работаю над важным документом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'над'. 'Документом' is instrumental, governed by 'над' with 'работать'. 'Важным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-06",
+        "phrase": "В этом документе есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Документе' is prepositional after 'в', the location of the error. 'Этом' agrees in the masculine prepositional, and 'ошибка' is the subject."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-07",
+        "phrase": "Все документы лежат на столе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Документы' is the nominative plural subject of 'лежат'. 'Все' quantifies them, and 'на столе' is the prepositional location."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-08",
+        "phrase": "Мне нужно подписать много документов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Документов' is the genitive plural required by 'много'. 'Подписать' is the infinitive, and 'мне нужно' frames the obligation."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-09",
+        "phrase": "Я внимательно читаю этот документ.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Документ' is the accusative direct object of 'читаю'; the masculine inanimate form matches the nominative. 'Этот' agrees, and 'внимательно' adds manner."
+      },
+      {
+        "id": "NN-COMMS-DOKUMENT-10",
+        "phrase": "Мы говорим об этом документе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Документе' is prepositional after 'об', the topic of discussion. 'Этом' agrees in the masculine prepositional."
+      }
+    ]
+  }
+]

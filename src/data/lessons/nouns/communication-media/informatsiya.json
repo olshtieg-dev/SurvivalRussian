@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-INFORMATSIYA",
+    "label": "Информация",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for информация (information).",
+    "missions": [
+      {
+        "id": "NN-COMMS-INFORMATSIYA-01",
+        "phrase": "Эта информация очень важная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Информация' is the nominative subject. 'Эта' points at it, and 'важная' is the agreeing feminine predicate adjective."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-02",
+        "phrase": "Журналист проверил новую информацию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Информацию' is the accusative object of 'проверил'. 'Новую' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-03",
+        "phrase": "У нас нет точной информации.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Информации' is the genitive form required by 'нет'. 'Точной' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-04",
+        "phrase": "Аналитик доверяет этой информации.",
+        "fullAnalysis": "Strategic focus: Dative after 'доверять'. 'Информации' is the dative form because 'доверять' governs the dative. 'Этой' agrees in feminine dative."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-05",
+        "phrase": "Он делится информацией с коллегами.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'делиться'. 'Информацией' is the instrumental form because 'делиться' governs the instrumental. 'С коллегами' marks the recipients."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-06",
+        "phrase": "Мы говорим о свежей информации.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Информации' is the prepositional form for the topic. 'Свежей' is the agreeing feminine prepositional adjective."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-07",
+        "phrase": "Информация быстро распространяется в интернете.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Информация' is the nominative subject of 'распространяется'. 'В интернете' is a prepositional place phrase, and 'быстро' adds manner."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-08",
+        "phrase": "Я нашёл нужную информацию в книге.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Информацию' is the accusative object of 'нашёл'. 'Нужную' agrees in feminine accusative, and 'в книге' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-09",
+        "phrase": "Без информации мы не можем решить.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Информации' is the genitive form required by the preposition 'без'. The clause 'мы не можем решить' states the consequence."
+      },
+      {
+        "id": "NN-COMMS-INFORMATSIYA-10",
+        "phrase": "Сайт собирает информацию о пользователях.",
+        "fullAnalysis": "Strategic focus: Accusative object with topic phrase. 'Информацию' is the accusative object of 'собирает'. 'О пользователях' is a prepositional phrase naming the topic of the data."
+      }
+    ]
+  }
+]

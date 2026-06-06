@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KHOZYAIN",
+    "label": "Хозяин",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for хозяин (owner; host).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-01",
+        "phrase": "Хозяин дома встретил нас тепло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Хозяин' is nominative as the subject of 'встретил'. 'Дома' is genitive showing whose host he is, and 'тепло' describes the welcome. A natural host scene."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-02",
+        "phrase": "Мы поблагодарили хозяина за ужин.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate masculine noun. 'Хозяина' takes the genitive-like accusative because хозяин is animate, so accusative equals genitive. 'За ужин' gives the reason. A polite closing line."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-03",
+        "phrase": "В квартире нет хозяина сейчас.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Хозяина' is genitive after 'нет', stating no owner is present. 'В квартире' sets the place and 'сейчас' the time. The standard negation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-04",
+        "phrase": "Я отдал ключи хозяину квартиры.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Хозяину' is dative, the person to whom I gave the keys. 'Ключи' is the accusative object, and 'квартиры' is genitive. Useful for renting situations."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-05",
+        "phrase": "Собака всегда ходит за хозяином.",
+        "fullAnalysis": "Strategic focus: Instrumental after a preposition. 'За хозяином' uses the instrumental 'хозяином' after 'за' to mean following the owner. 'Всегда' adds habit. A vivid everyday image."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-06",
+        "phrase": "Мы говорили о новом хозяине.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О хозяине' uses the prepositional form 'хозяине' after 'о' to mean about the owner. 'Новом' agrees in the prepositional. Good for gossip and updates."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-07",
+        "phrase": "Хозяева магазина очень приветливые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Хозяева' is the irregular nominative plural of хозяин, the subject. 'Магазина' is genitive, and 'приветливые' is the agreeing plural adjective. Describes friendly owners."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-08",
+        "phrase": "Гости поблагодарили хозяев за вечер.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Хозяев' is the irregular accusative plural, matching the genitive plural because the noun is animate. 'За вечер' gives the reason. A natural thank-you."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-09",
+        "phrase": "Дом принадлежит этим хозяевам.",
+        "fullAnalysis": "Strategic focus: Dative plural after 'принадлежит'. 'Хозяевам' is the dative plural, the owners to whom the house belongs. 'Этим' agrees in the dative plural. A core ownership pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KHOZYAIN-10",
+        "phrase": "Он чувствует себя здесь хозяином.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Хозяином' is instrumental after 'чувствует себя', naming the role he feels. 'Здесь' sets the place. An idiomatic way to say he feels in charge."
+      }
+    ]
+  }
+]

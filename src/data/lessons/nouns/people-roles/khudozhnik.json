@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KHUDOZHNIK",
+    "label": "Художник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for художник (artist).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-01",
+        "phrase": "Этот художник очень талантливый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Художник' stays in the nominative as the subject. 'Талантливый' is the agreeing masculine adjective, and 'очень' intensifies the praise. A clean descriptive opener."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-02",
+        "phrase": "Я знаю этого художника лично.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Художника' is the accusative direct object of 'знаю'; as an animate masculine noun, its accusative copies the genitive form. 'Этого' agrees, and 'лично' adds nuance."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-03",
+        "phrase": "У художника много старых картин.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Художника' is genitive after the preposition 'у', marking the owner. The quantity word 'много' governs the genitive plural 'картин'. A natural pattern for describing a collection."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-04",
+        "phrase": "Я подарил художнику новые краски.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Художнику' is in the dative as the receiver of 'подарил'. 'Краски' is the accusative direct object. A core pattern for giving gifts."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-05",
+        "phrase": "Я разговаривал с известным художником.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Художником' is instrumental after the preposition 'с', naming who the speaker talked with. 'Известным' is the agreeing masculine instrumental adjective."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-06",
+        "phrase": "Все говорят об этом художнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Художнике' is the prepositional form after 'об', the topic of discussion. 'Этом' is the agreeing masculine prepositional pronoun. A useful pattern for describing fame."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-07",
+        "phrase": "На выставке работают молодые художники.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Художники' is the nominative plural subject of 'работают'. 'Молодые' is the agreeing plural adjective, and 'на выставке' gives the setting."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-08",
+        "phrase": "Музей пригласил местных художников.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Художников' is the accusative plural of an animate noun, matching the genitive plural form. 'Местных' agrees in the same case. A clear model for animate plural objects."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-09",
+        "phrase": "Он мечтает стать художником.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Художником' is instrumental after 'стать', the standard pattern for becoming a profession. 'Мечтает' frames it as a dream. A high-value aspiration template."
+      },
+      {
+        "id": "NN-PEOPLE-KHUDOZHNIK-10",
+        "phrase": "Эту картину написал великий художник.",
+        "fullAnalysis": "Strategic focus: Nominative subject with accusative object. 'Художник' is the nominative subject of 'написал', while 'картину' is the accusative direct object. 'Великий' agrees with the artist. A natural sentence about authorship."
+      }
+    ]
+  }
+]

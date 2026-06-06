@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-UCHITEL",
+    "label": "Учитель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for учитель (teacher).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-UCHITEL-01",
+        "phrase": "Наш учитель очень добрый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Учитель' stays in the nominative as the subject. 'Наш' is the agreeing masculine possessive, and 'добрый' is the predicate adjective."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-02",
+        "phrase": "Дети любят своего учителя.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate masculine noun. 'Учителя' is the accusative direct object of 'любят'; for animate nouns it takes the genitive ending. 'Своего' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-03",
+        "phrase": "Это стол нашего учителя.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Учителя' is the genitive form showing whose desk it is. 'Нашего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-04",
+        "phrase": "Ученики верят своему учителю.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Учителю' is the dative form required by 'верить', marking the one trusted. 'Своему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-05",
+        "phrase": "Я говорил с новым учителем.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Учителем' is the instrumental form after 'с', expressing with whom one spoke. 'Новым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-06",
+        "phrase": "Мы говорим о любимом учителе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об учителе' uses the prepositional form after 'о' to express the topic. 'Любимом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-07",
+        "phrase": "В школе работают хорошие учителя.",
+        "fullAnalysis": "Strategic focus: Nominative plural with irregular ending. 'Учителя' is the nominative plural subject of 'работают' with the stressed -я ending. 'Хорошие' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-08",
+        "phrase": "Мы поздравили всех учителей школы.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate nouns. 'Учителей' is the accusative plural equal to the genitive plural for animate nouns. 'Всех' agrees, and 'школы' is genitive showing affiliation."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-09",
+        "phrase": "Дети подарили цветы учителям.",
+        "fullAnalysis": "Strategic focus: Dative plural recipient. 'Учителям' is the dative plural marking those to whom flowers were given. 'Цветы' is the accusative object of 'подарили'."
+      },
+      {
+        "id": "NN-PEOPLE-UCHITEL-10",
+        "phrase": "Сегодня в классе нет учителя.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Учителя' is the genitive form required after the negation 'нет'. 'В классе' is the prepositional location, and 'сегодня' adds time."
+      }
+    ]
+  }
+]

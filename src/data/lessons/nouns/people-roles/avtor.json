@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-AVTOR",
+    "label": "Автор",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for автор (author).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-AVTOR-01",
+        "phrase": "Автор этой книги очень талантлив.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Автор' is the nominative subject. 'Этой книги' is a genitive phrase describing whose author, and 'талантлив' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-02",
+        "phrase": "Я хорошо знаю этого автора.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Автора' takes the accusative form, equal to the genitive for animate masculine nouns. 'Этого' agrees, and 'хорошо' adds degree."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-03",
+        "phrase": "Имя автора напечатано на обложке.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Автора' is genitive, showing whose name. 'Имя' is the nominative subject, and 'на обложке' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-04",
+        "phrase": "Я задал вопрос этому автору.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Автору' is the dative indirect object, the one questioned. 'Этому' agrees in the masculine dative, and 'вопрос' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-05",
+        "phrase": "Я встретился с известным автором.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Автором' is instrumental, the person met. 'Известным' agrees in the masculine instrumental, and 'встретился' governs this case."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-06",
+        "phrase": "Мы говорим об этом авторе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Авторе' is prepositional after 'об', the topic of conversation. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-07",
+        "phrase": "Все авторы пришли на встречу.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Авторы' is the nominative plural subject of 'пришли'. 'Все' quantifies them, and 'на встречу' is the accusative of direction."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-08",
+        "phrase": "В журнале много молодых авторов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Авторов' is the genitive plural required by 'много'. 'Молодых' agrees in the genitive plural, and 'в журнале' is prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-09",
+        "phrase": "Автор пишет новую статью.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Автор' is the nominative subject of 'пишет'. 'Новую статью' is the feminine accusative direct object of the verb."
+      },
+      {
+        "id": "NN-PEOPLE-AVTOR-10",
+        "phrase": "Я очень люблю этого автора.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Автора' is the accusative direct object of 'люблю', equal to the genitive for animates. 'Этого' agrees in the masculine animate accusative."
+      }
+    ]
+  }
+]

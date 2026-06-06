@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-NOMER",
+    "label": "Номер",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for номер (number).",
+    "missions": [
+      {
+        "id": "NN-COMMS-NOMER-01",
+        "phrase": "Это мой новый номер телефона.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Номер' stays in the nominative as the subject. 'Мой новый' agrees in masculine, and 'телефона' is genitive showing what kind of number. A common everyday sentence."
+      },
+      {
+        "id": "NN-COMMS-NOMER-02",
+        "phrase": "Я забыл твой номер.",
+        "fullAnalysis": "Strategic focus: Accusative inanimate object. 'Номер' is the accusative direct object of 'забыл'; as an inanimate masculine noun, its accusative looks identical to the nominative. 'Твой' agrees with it."
+      },
+      {
+        "id": "NN-COMMS-NOMER-03",
+        "phrase": "У меня нет твоего номера.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Номера' is genitive after the negated 'нет', which always governs the genitive. 'Твоего' agrees in the masculine genitive. A core pattern for saying you lack something."
+      },
+      {
+        "id": "NN-COMMS-NOMER-04",
+        "phrase": "Я рад этому номеру.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Номеру' is dative after the short adjective 'рад', which governs the dative. 'Этому' agrees in the masculine dative. A useful pattern for expressing satisfaction."
+      },
+      {
+        "id": "NN-COMMS-NOMER-05",
+        "phrase": "Я звоню по новому номеру.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Номеру' is dative after the preposition 'по', the standard pattern for calling by a number. 'Новому' agrees in the masculine dative. A high-value phone template."
+      },
+      {
+        "id": "NN-COMMS-NOMER-06",
+        "phrase": "Информация есть в этом номере журнала.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Номере' is the prepositional form after 'в', here meaning an issue of a magazine. 'Этом' agrees, and 'журнала' is genitive showing of what. A precise media-vocabulary sentence."
+      },
+      {
+        "id": "NN-COMMS-NOMER-07",
+        "phrase": "Эти номера легко запомнить.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Номера' is the irregular nominative plural with stressed ending, the subject of the sentence. 'Эти' agrees in plural. A good model for the -а plural pattern."
+      },
+      {
+        "id": "NN-COMMS-NOMER-08",
+        "phrase": "Я записал все важные номера.",
+        "fullAnalysis": "Strategic focus: Accusative inanimate plural. 'Номера' is the accusative plural; as an inanimate noun, the accusative copies the nominative plural form. 'Важные' agrees, and 'записал' is the verb of recording."
+      },
+      {
+        "id": "NN-COMMS-NOMER-09",
+        "phrase": "Я живу в номере на пятом этаже.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Номере' is prepositional after 'в', here meaning a hotel room. 'На пятом этаже' is also prepositional, giving the floor. A practical travel sentence."
+      },
+      {
+        "id": "NN-COMMS-NOMER-10",
+        "phrase": "Я пользуюсь старым номером.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Номером' is instrumental after 'пользуюсь', a verb that governs the instrumental. 'Старым' agrees in the masculine instrumental. A core pattern for using something."
+      }
+    ]
+  }
+]

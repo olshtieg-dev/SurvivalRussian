@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-GEROI",
+    "label": "Герой",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for герой (hero).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-GEROI-01",
+        "phrase": "Этот солдат настоящий герой.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Герой' is nominative as a predicate noun describing the soldier. 'Настоящий' is the agreeing masculine adjective emphasizing genuine heroism."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-02",
+        "phrase": "Все любят этого героя.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Героя' is the accusative direct object of 'любят', matching the genitive form because the noun is animate masculine. 'Этого' agrees in the accusative."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-03",
+        "phrase": "Мы ждём возвращения героя.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Героя' is in the genitive case marking whose return is awaited. The noun depends on 'возвращения', which itself is the genitive object of 'ждём'."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-04",
+        "phrase": "Город поставил памятник герою.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Герою' is in the dative case as the person honoured by the monument. The dative marks the beneficiary of the act of erecting a памятник."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-05",
+        "phrase": "Мальчик хочет стать героем.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Героем' is in the instrumental case after 'стать', which governs the instrumental of the resulting role. The construction expresses becoming someone."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-06",
+        "phrase": "В книге рассказывается о герое.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О герое' uses the prepositional form after 'о' to express what the book is about. The impersonal 'рассказывается' centres the topic on the hero."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-07",
+        "phrase": "Эти герои спасли много людей.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Герои' is the nominative plural subject of 'спасли'. 'Эти' agrees in the plural, and the sentence describes the group's brave deed."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-08",
+        "phrase": "Дети читают о любимом герое.",
+        "fullAnalysis": "Strategic focus: Prepositional with adjective. 'О герое' is prepositional after 'о', and 'любимом' agrees in the prepositional masculine. The phrase names a beloved character of a story."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-09",
+        "phrase": "Народ помнит своих героев.",
+        "fullAnalysis": "Strategic focus: Accusative plural animate. 'Героев' is the accusative plural object of 'помнит', taking the genitive plural form because the noun is animate. 'Своих' agrees in the same form."
+      },
+      {
+        "id": "NN-PEOPLE-GEROI-10",
+        "phrase": "У войны нет настоящих героев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Героев' is in the genitive plural after the negation 'нет', and 'настоящих' agrees in the genitive plural. The sentence makes a sweeping statement about war."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-GOSPODIN",
+    "label": "Господин",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for господин (gentleman; mister).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-GOSPODIN-01",
+        "phrase": "Этот господин ждёт у двери.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Господин' is the nominative subject of 'ждёт'. 'Этот' points at him, and 'у двери' is a genitive place phrase after 'у'."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-02",
+        "phrase": "Я вижу господина в коридоре.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Господина' is the animate accusative object of 'вижу', matching the genitive form. 'В коридоре' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-03",
+        "phrase": "Это машина известного господина.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Господина' is the genitive form showing whose car it is. 'Известного' is the agreeing masculine genitive adjective."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-04",
+        "phrase": "Официант принёс господину меню.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Господину' is the dative form, the person receiving. 'Меню' is the indeclinable accusative object brought to him."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-05",
+        "phrase": "Она танцевала с этим господином.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Господином' is the instrumental form marking her dance partner. 'Этим' agrees in masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-06",
+        "phrase": "Мы поговорили о новом господине.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Господине' is the prepositional form for the topic. 'Новом' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-07",
+        "phrase": "Господа собрались в большом зале.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Господа' is the irregular nominative plural subject of 'собрались'. 'В большом зале' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-08",
+        "phrase": "Швейцар поприветствовал важных господ.",
+        "fullAnalysis": "Strategic focus: Accusative plural animate. 'Господ' is the animate accusative plural, matching the irregular genitive plural. 'Важных' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-09",
+        "phrase": "Слуга служил многим господам верно.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Господам' is the dative plural because 'служить' governs the dative. 'Многим' agrees in plural, and 'верно' adds manner."
+      },
+      {
+        "id": "NN-PEOPLE-GOSPODIN-10",
+        "phrase": "Господин, ваш стол уже готов.",
+        "fullAnalysis": "Strategic focus: Nominative as polite address. 'Господин' is used in the nominative to address someone respectfully. The clause 'ваш стол уже готов' reports that the table is ready."
+      }
+    ]
+  }
+]

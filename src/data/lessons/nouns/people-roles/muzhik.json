@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-MUZHIK",
+    "label": "Мужик",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for мужик (peasant; man).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-MUZHIK-01",
+        "phrase": "Этот мужик очень сильный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мужик' is in the nominative as the subject. 'Этот' agrees in masculine nominative, and 'сильный' is the predicate adjective. A colloquial word for a tough man."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-02",
+        "phrase": "Я знаю этого мужика.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Мужика' is animate masculine, so its accusative copies the genitive form. 'Этого' agrees in animate accusative, and 'знаю' takes the object."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-03",
+        "phrase": "У этого мужика большая борода.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Мужика' is genitive after 'у' to mark whose beard it is. 'Этого' agrees in masculine genitive, and 'большая борода' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-04",
+        "phrase": "Я помог старому мужику.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Мужику' is the dative object of 'помог', the one helped. 'Старому' agrees in masculine dative. The verb 'помочь' always governs the dative."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-05",
+        "phrase": "Я разговаривал с этим мужиком.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Мужиком' is instrumental after 'с' to express talking with someone. 'Этим' agrees in masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-06",
+        "phrase": "Все говорят об этом мужике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об мужике' uses the prepositional form after 'об' to mark the topic. 'Этом' agrees in masculine prepositional, naming the man discussed."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-07",
+        "phrase": "Мужики работают в поле.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мужики' is the nominative plural acting as the subject. 'Работают' agrees in the plural, and 'в поле' gives the location of the labour."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-08",
+        "phrase": "Я вижу нескольких мужиков.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Мужиков' is animate plural, so the accusative copies the genitive. 'Нескольких' agrees in the same animate form, marking an indefinite count."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-09",
+        "phrase": "В деревне много крепких мужиков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Мужиков' is genitive plural because 'много' governs that case. 'Крепких' agrees in genitive plural, and 'в деревне' sets the scene."
+      },
+      {
+        "id": "NN-PEOPLE-MUZHIK-10",
+        "phrase": "Он настоящий деревенский мужик.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Мужик' is nominative as the predicate noun after the implied copula. 'Настоящий' and 'деревенский' agree in masculine nominative, painting a rustic character."
+      }
+    ]
+  }
+]

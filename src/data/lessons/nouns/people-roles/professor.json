@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PROFESSOR",
+    "label": "Профессор",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for профессор (professor).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PROFESSOR-01",
+        "phrase": "Наш профессор очень умный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Профессор' stays in the nominative as the subject. 'Наш' is the agreeing masculine possessive, and 'умный' is the predicate adjective."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-02",
+        "phrase": "Студенты внимательно слушают профессора.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate masculine noun. 'Профессора' is the accusative direct object of 'слушают'; for animate nouns the accusative takes the genitive ending. 'Студенты' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-03",
+        "phrase": "Это книга нашего профессора.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Профессора' is the genitive form showing whose book it is. 'Нашего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-04",
+        "phrase": "Я задал вопрос профессору.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Профессору' is the dative form marking the person to whom the question is addressed. 'Вопрос' is the accusative object of 'задал'."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-05",
+        "phrase": "Я разговаривал с известным профессором.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Профессором' is the instrumental form after 'с', expressing with whom one spoke. 'Известным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-06",
+        "phrase": "Мы говорили о новом профессоре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О профессоре' uses the prepositional form after 'о' to express the topic. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-07",
+        "phrase": "На кафедре работают опытные профессора.",
+        "fullAnalysis": "Strategic focus: Nominative plural with irregular stress. 'Профессора' is the nominative plural subject of 'работают' with the stressed -а ending. 'Опытные' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-08",
+        "phrase": "Я знаю многих профессоров университета.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate nouns. 'Профессоров' is the accusative plural equal to the genitive plural for animate nouns. 'Многих' agrees, and 'университета' is genitive showing affiliation."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-09",
+        "phrase": "Студенты благодарны своим профессорам.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Профессорам' is the dative plural required by the short adjective 'благодарны'. 'Своим' agrees in the dative plural."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSOR-10",
+        "phrase": "В зале нет ни одного профессора.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Профессора' is the genitive form required after the negation 'нет'. 'Ни одного' reinforces the absence in the masculine genitive."
+      }
+    ]
+  }
+]

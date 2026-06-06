@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-GRAZHDANIN",
+    "label": "Гражданин",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for гражданин (citizen).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-01",
+        "phrase": "Каждый гражданин имеет свои права.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гражданин' is the nominative subject of 'имеет'. 'Каждый' agrees with it, and 'свои права' is the accusative plural object."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-02",
+        "phrase": "Полиция остановила одного гражданина.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Гражданина' is the animate accusative object of 'остановила', matching the genitive form. 'Одного' agrees in masculine accusative."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-03",
+        "phrase": "Это паспорт российского гражданина.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Гражданина' is the genitive form showing whose passport it is. 'Российского' is the agreeing masculine genitive adjective."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-04",
+        "phrase": "Государство помогает каждому гражданину.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Гражданину' is the dative form because 'помогать' governs the dative. 'Каждому' agrees in masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-05",
+        "phrase": "Чиновник говорил с гражданином вежливо.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Гражданином' is the instrumental form marking the conversation partner. 'Вежливо' describes the manner of speaking."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-06",
+        "phrase": "В газете пишут о честном гражданине.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Гражданине' is the prepositional form for the topic. 'Честном' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-07",
+        "phrase": "Граждане голосовали на выборах активно.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Граждане' is the irregular nominative plural subject of 'голосовали'. 'На выборах' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-08",
+        "phrase": "Закон защищает всех граждан страны.",
+        "fullAnalysis": "Strategic focus: Accusative plural animate. 'Граждан' is the animate accusative plural, matching the genitive plural. 'Всех' agrees, and 'страны' is genitive."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-09",
+        "phrase": "Власти обещали гражданам новые дороги.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Гражданам' is the dative plural, the recipients of the promise. 'Новые дороги' is the accusative plural object promised."
+      },
+      {
+        "id": "NN-PEOPLE-GRAZHDANIN-10",
+        "phrase": "Гражданин, предъявите ваши документы!",
+        "fullAnalysis": "Strategic focus: Nominative as formal address. 'Гражданин' is used in the nominative to address a person officially. The clause 'предъявите ваши документы' is an imperative demand."
+      }
+    ]
+  }
+]

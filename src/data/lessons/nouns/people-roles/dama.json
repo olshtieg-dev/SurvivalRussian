@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-DAMA",
+    "label": "Дама",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for дама (lady).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-DAMA-01",
+        "phrase": "Эта дама очень элегантная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дама' stays in the nominative case as the subject. 'Эта' points at a specific one, and 'элегантная' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-02",
+        "phrase": "Я вижу эту даму впервые.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Даму' is the accusative direct object of 'вижу'. 'Эту' agrees in the feminine accusative, and 'впервые' marks a first encounter."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-03",
+        "phrase": "Это сумка той дамы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дамы' is in the genitive case marking whose bag it is. 'Той' agrees in the genitive feminine, pointing to a specific lady."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-04",
+        "phrase": "Официант принёс кофе даме.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Даме' is in the dative case as the person receiving the coffee. The dative marks the beneficiary of the waiter's action."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-05",
+        "phrase": "Он танцует с красивой дамой.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Дамой' is in the instrumental case after 'с' to express dancing together. 'Красивой' agrees in the instrumental feminine."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-06",
+        "phrase": "Мы говорили об этой даме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об этой даме' uses the prepositional form after 'об' to express talking about her. 'Этой' agrees in the prepositional feminine."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-07",
+        "phrase": "Эти дамы пришли на бал.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Дамы' is the nominative plural subject of 'пришли'. 'Эти' agrees in the plural, and the sentence sets the ball scene."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-08",
+        "phrase": "Она настоящая дама и леди.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Дама' is nominative as a predicate noun describing 'она'. 'Настоящая' is the agreeing feminine adjective, and 'и леди' coordinates a second noun."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-09",
+        "phrase": "Я помогаю пожилой даме.",
+        "fullAnalysis": "Strategic focus: Dative with помогать. 'Даме' is in the dative case because 'помогать' governs the dative of the person helped. 'Пожилой' agrees in the dative feminine."
+      },
+      {
+        "id": "NN-PEOPLE-DAMA-10",
+        "phrase": "В зале не было свободных дам.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Дам' is in the genitive plural after the negation 'не было', and 'свободных' agrees in the genitive plural. The phrase reports an absence."
+      }
+    ]
+  }
+]

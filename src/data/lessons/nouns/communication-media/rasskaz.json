@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-RASSKAZ",
+    "label": "Рассказ",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for рассказ (story).",
+    "missions": [
+      {
+        "id": "NN-COMMS-RASSKAZ-01",
+        "phrase": "Этот рассказ очень интересный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рассказ' is the nominative subject. 'Этот' agrees in the masculine nominative, 'интересный' is the predicate adjective, and 'очень' intensifies it. A simple model."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-02",
+        "phrase": "Я прочитал короткий рассказ вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object, inanimate. 'Рассказ' is the accusative direct object of 'прочитал', identical to the nominative because the noun is inanimate. 'Короткий' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-03",
+        "phrase": "Я не помню конца рассказа.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Рассказа' is genitive expressing the ending of the story, dependent on 'конца'. The negated verb 'не помню' commonly governs the genitive object 'конца'."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-04",
+        "phrase": "Благодаря рассказу я понял всё.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. The preposition 'благодаря' governs the dative, so 'рассказу' is dative, naming the cause of understanding. A natural pattern for thanks to something."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-05",
+        "phrase": "Я доволен этим рассказом.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. The adjective 'доволен' governs the instrumental, so 'рассказом' is the instrumental object of satisfaction. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-06",
+        "phrase": "В этом рассказе много героев.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В рассказе' uses the prepositional form after 'в' to mark the setting. 'Этом' agrees in the masculine prepositional, and 'много героев' is a quantity with genitive plural."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-07",
+        "phrase": "Её рассказы всегда добрые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Рассказы' is the nominative plural subject. 'Её' is the possessive, 'добрые' is the predicate adjective in the plural, and 'всегда' adds constancy."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-08",
+        "phrase": "Я прочитал много интересных рассказов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Рассказов' is the genitive plural after the quantity word 'много'. 'Интересных' agrees in the genitive plural. A common reading-related pattern."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-09",
+        "phrase": "Дети учатся писать по рассказам.",
+        "fullAnalysis": "Strategic focus: Dative plural after по. The preposition 'по' governs the dative here, so 'рассказам' is the dative plural, naming what they learn from. A model for learning by means of texts."
+      },
+      {
+        "id": "NN-COMMS-RASSKAZ-10",
+        "phrase": "Мы наслаждались его рассказами весь вечер.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The verb 'наслаждаться' requires the instrumental, so 'рассказами' is the instrumental plural object of enjoyment. 'Весь вечер' is an accusative time span."
+      }
+    ]
+  }
+]

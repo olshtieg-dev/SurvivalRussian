@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-RAZGOVOR",
+    "label": "Разговор",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for разговор (conversation).",
+    "missions": [
+      {
+        "id": "NN-COMMS-RAZGOVOR-01",
+        "phrase": "Это был очень важный разговор.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Разговор' is the nominative subject of the past-tense 'был'. 'Важный' is the agreeing masculine adjective, and 'очень' intensifies the importance."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-02",
+        "phrase": "Я не хочу продолжать этот разговор.",
+        "fullAnalysis": "Strategic focus: Accusative object, inanimate. 'Разговор' is the accusative direct object of 'продолжать', identical to the nominative because the noun is inanimate. 'Этот' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-03",
+        "phrase": "После долгого разговора мы устали.",
+        "fullAnalysis": "Strategic focus: Genitive after после. The preposition 'после' governs the genitive, so 'разговора' is genitive. 'Долгого' agrees in the masculine genitive. A natural time-sequence pattern."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-04",
+        "phrase": "Он не придал значения разговору.",
+        "fullAnalysis": "Strategic focus: Dative object. The set phrase 'придать значения' takes a dative for what is undervalued, so 'разговору' is dative. A useful idiom for dismissing something."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-05",
+        "phrase": "Я доволен нашим разговором.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. The adjective 'доволен' governs the instrumental, so 'разговором' is the instrumental object of satisfaction. 'Нашим' agrees in the same case."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-06",
+        "phrase": "В нашем разговоре была одна проблема.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В разговоре' uses the prepositional form after 'в' to mark the setting. 'Нашем' agrees in the masculine prepositional, and 'проблема' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-07",
+        "phrase": "Наши разговоры всегда интересные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Разговоры' is the nominative plural subject. 'Наши' agrees in the plural, and 'интересные' is the predicate adjective. A model for the plural form."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-08",
+        "phrase": "У нас было много серьёзных разговоров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Разговоров' is the genitive plural after the quantity word 'много'. 'Серьёзных' agrees in the genitive plural, and 'было' is neuter with the quantity."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-09",
+        "phrase": "Я устал от этих разговоров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after от. The preposition 'от' governs the genitive, so 'разговоров' is the genitive plural. 'Этих' agrees in the genitive plural. A pattern for being tired of something."
+      },
+      {
+        "id": "NN-COMMS-RAZGOVOR-10",
+        "phrase": "Мы вернулись к старым разговорам.",
+        "fullAnalysis": "Strategic focus: Dative plural after к. The preposition 'к' governs the dative, so 'разговорам' is the dative plural. 'Старым' agrees in the dative plural. A model for returning to a topic."
+      }
+    ]
+  }
+]

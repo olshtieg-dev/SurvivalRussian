@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-IGRA",
+    "label": "Игра",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for игра (game).",
+    "missions": [
+      {
+        "id": "NN-EDU-IGRA-01",
+        "phrase": "Эта игра очень интересная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Игра' stays in the nominative case as the subject. 'Эта' points at a specific one, and 'интересная' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-EDU-IGRA-02",
+        "phrase": "Мы выиграли последнюю игру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Игру' is the accusative direct object of 'выиграли'. 'Последнюю' agrees in the feminine accusative, marking the final match."
+      },
+      {
+        "id": "NN-EDU-IGRA-03",
+        "phrase": "Правила этой игры очень простые.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Игры' is in the genitive case marking whose rules they are. 'Этой' agrees in the genitive feminine, linking the noun to 'правила'."
+      },
+      {
+        "id": "NN-EDU-IGRA-04",
+        "phrase": "Мы готовимся к новой игре.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Игре' is in the dative case after 'к', expressing preparation for the match. 'Новой' agrees in the dative feminine."
+      },
+      {
+        "id": "NN-EDU-IGRA-05",
+        "phrase": "Дети довольны новой игрой.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Игрой' is in the instrumental case after 'довольны', which governs the instrumental of the thing one is pleased with. 'Новой' agrees in the instrumental feminine."
+      },
+      {
+        "id": "NN-EDU-IGRA-06",
+        "phrase": "Мы говорим об этой игре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об этой игре' uses the prepositional form after 'об' to express what is discussed. 'Этой' agrees in the prepositional feminine."
+      },
+      {
+        "id": "NN-EDU-IGRA-07",
+        "phrase": "Эти игры очень популярны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Игры' is the nominative plural subject of the predicate 'популярны'. 'Эти' agrees in the plural, describing widely liked games."
+      },
+      {
+        "id": "NN-EDU-IGRA-08",
+        "phrase": "Дети любят разные игры.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Игры' is the accusative plural object of 'любят', identical to the nominative plural for this inanimate noun. 'Разные' agrees in the plural."
+      },
+      {
+        "id": "NN-EDU-IGRA-09",
+        "phrase": "В магазине много новых игр.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Игр' is the genitive plural after 'много', with a fleeting vowel dropping to leave a bare consonant cluster. 'Новых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EDU-IGRA-10",
+        "phrase": "Во время игры он травмировался.",
+        "fullAnalysis": "Strategic focus: Genitive in a time phrase. 'Игры' is in the genitive case after 'во время', a fixed phrase meaning during. The construction sets the moment of the injury."
+      }
+    ]
+  }
+]

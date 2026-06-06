@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-ZNAK",
+    "label": "Знак",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for знак (sign).",
+    "missions": [
+      {
+        "id": "NN-COMMS-ZNAK-01",
+        "phrase": "На дороге стоит дорожный знак.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Знак' stays in the nominative as the subject of 'стоит'. 'Дорожный' is the agreeing masculine adjective, and 'на дороге' is the prepositional location."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-02",
+        "phrase": "Водитель не заметил знак.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Знак' is the accusative direct object of 'заметил'; as an inanimate noun it matches the nominative form. 'Водитель' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-03",
+        "phrase": "Я не понял значения этого знака.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Знака' is the genitive form after 'значения', showing whose meaning. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-04",
+        "phrase": "Художник придал особый смысл знаку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Знаку' is the dative form marking the sign as what meaning is given to. 'Смысл' is the accusative object of 'придал'."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-05",
+        "phrase": "Она махнула рукой знаком приветствия.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Знаком' is the instrumental form expressing the means of greeting. 'Приветствия' is the genitive specifying the kind of sign."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-06",
+        "phrase": "Мы говорим об этом знаке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О знаке' uses the prepositional form after 'об' to express the topic. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-07",
+        "phrase": "Это хороший знак для нас.",
+        "fullAnalysis": "Strategic focus: Nominative as predicate. 'Знак' is nominative as the predicate noun. 'Хороший' is the agreeing masculine adjective, and 'для нас' shows the beneficiary."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-08",
+        "phrase": "На улице много дорожных знаков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Знаков' is the genitive plural required by 'много'. 'Дорожных' agrees in the genitive plural, and 'на улице' is the location."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-09",
+        "phrase": "Эти знаки запрещают парковку здесь.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Знаки' is the nominative plural subject of 'запрещают'. 'Эти' agrees in the plural, and 'парковку' is the accusative object."
+      },
+      {
+        "id": "NN-COMMS-ZNAK-10",
+        "phrase": "На этом перекрёстке нет знака.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Знака' is the genitive form required after the negation 'нет'. 'На перекрёстке' is the prepositional location."
+      }
+    ]
+  }
+]

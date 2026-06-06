@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-DOKTOR",
+    "label": "Доктор",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for доктор (doctor).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-DOKTOR-01",
+        "phrase": "Доктор сейчас очень занят.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Доктор' is the nominative subject of the sentence. 'Занят' is a short adjective agreeing in masculine gender, and 'очень' intensifies it. A simple subject model."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-02",
+        "phrase": "Я хочу видеть хорошего доктора.",
+        "fullAnalysis": "Strategic focus: Accusative object, animate. 'Доктора' is the accusative object of the infinitive 'видеть'. As an animate masculine noun, the accusative copies the genitive, and 'хорошего' agrees in that form."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-03",
+        "phrase": "У доктора много пациентов.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Доктора' is genitive in the 'у + genitive' frame. The quantity word 'много' then governs the genitive plural 'пациентов'. A natural way to describe a busy doctor."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-04",
+        "phrase": "Медсестра помогает доктору каждый день.",
+        "fullAnalysis": "Strategic focus: Dative object. The verb 'помогать' governs the dative, so 'доктору' is the dative person being helped. 'Каждый день' is an accusative time expression."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-05",
+        "phrase": "Я разговаривал с молодым доктором.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Доктором' is in the instrumental after the preposition 'с', meaning together with. 'Молодым' agrees in the masculine instrumental. Useful for describing a conversation."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-06",
+        "phrase": "Мы говорим о новом докторе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О докторе' uses the prepositional form after 'о' to mark the topic. 'Новом' is the agreeing masculine prepositional adjective."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-07",
+        "phrase": "В больнице работают опытные доктора.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Доктора' is the irregular nominative plural with a stressed ending, the subject of 'работают'. 'Опытные' agrees in the plural, and 'в больнице' is prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-08",
+        "phrase": "В городе мало хороших докторов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after мало. 'Докторов' is the genitive plural after the quantity word 'мало'. 'Хороших' agrees in the genitive plural, and 'в городе' is prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-09",
+        "phrase": "Пациенты доверяют своим докторам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The verb 'доверять' governs the dative, so 'докторам' is the dative plural object of trust. 'Своим' agrees in the same case and number."
+      },
+      {
+        "id": "NN-PEOPLE-DOKTOR-10",
+        "phrase": "Я горжусь нашими докторами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The verb 'гордиться' requires the instrumental, so 'докторами' is the instrumental plural object of pride. 'Нашими' agrees in the same case and number."
+      }
+    ]
+  }
+]

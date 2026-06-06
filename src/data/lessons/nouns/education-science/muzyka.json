@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-MUZYKA",
+    "label": "Музыка",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for музыка (music).",
+    "missions": [
+      {
+        "id": "NN-EDU-MUZYKA-01",
+        "phrase": "Эта музыка очень красивая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Музыка' is in the nominative as the subject. 'Эта' agrees in feminine nominative, and 'красивая' is the predicate adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-02",
+        "phrase": "Я слушаю классическую музыку.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Музыку' is the accusative object of 'слушаю', the feminine ending shifting to -у. 'Классическую' agrees in feminine accusative."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-03",
+        "phrase": "Вечер без музыки очень скучный.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Музыки' is genitive because 'без' governs that case, expressing absence. 'Вечер' is the nominative subject described as dull."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-04",
+        "phrase": "Благодаря музыке мне стало легче.",
+        "fullAnalysis": "Strategic focus: Dative after a preposition. 'Музыке' is dative because 'благодаря' governs that case, expressing thanks to the music. 'Мне' is the dative experiencer of 'стало легче'."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-05",
+        "phrase": "Я занимаюсь музыкой каждый день.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Музыкой' is instrumental because 'заниматься' governs that case. 'Каждый день' marks the regularity of the practice."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-06",
+        "phrase": "Мы говорим о современной музыке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О музыке' uses the prepositional form after 'о' to mark the topic. 'Современной' agrees in feminine prepositional, naming the kind discussed."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-07",
+        "phrase": "Я люблю музыку и танцы.",
+        "fullAnalysis": "Strategic focus: Accusative coordination. 'Музыку' is the accusative object of 'люблю', joined by 'и' to 'танцы'. The feminine ending shifts to -у. A natural list of interests."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-08",
+        "phrase": "Под музыку люди начали танцевать.",
+        "fullAnalysis": "Strategic focus: Accusative after a preposition. 'Музыку' is accusative because 'под' here governs that case, meaning to the sound of music. 'Люди' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-09",
+        "phrase": "Мне нравятся разные музыки народов мира.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Музыки' is the rarer nominative plural used for distinct musical traditions. 'Разные' agrees in plural, and 'мне' is the dative experiencer of 'нравятся'."
+      },
+      {
+        "id": "NN-EDU-MUZYKA-10",
+        "phrase": "Эта музыка напоминает мне детство.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Музыка' is the nominative subject of 'напоминает'. 'Эта' agrees in feminine, 'мне' is the dative experiencer, and 'детство' is the accusative object."
+      }
+    ]
+  }
+]

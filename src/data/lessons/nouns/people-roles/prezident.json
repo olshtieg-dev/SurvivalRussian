@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PREZIDENT",
+    "label": "Президент",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for президент (president).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PREZIDENT-01",
+        "phrase": "Новый президент выступил сегодня.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Президент' stays in the nominative case as the subject who spoke. 'Новый' is the agreeing masculine adjective, and 'сегодня' marks the time."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-02",
+        "phrase": "Народ выбрал нового президента.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Президента' is the accusative direct object of 'выбрал', matching the genitive form because the noun is animate masculine. 'Нового' agrees in the accusative."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-03",
+        "phrase": "Это решение президента страны.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Президента' is in the genitive case marking whose decision it is. The genitive links the noun to 'решение' as the source of the action."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-04",
+        "phrase": "Журналисты задали вопрос президенту.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Президенту' is in the dative case as the person addressed with the question. The dative marks the recipient of the inquiry."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-05",
+        "phrase": "Министр встретился с президентом.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Президентом' is in the instrumental case after 'с' to express meeting together. The construction is standard for a встреча between officials."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-06",
+        "phrase": "Газеты пишут о президенте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О президенте' uses the prepositional form after 'о' to express what the papers write about. The phrase reports media coverage."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-07",
+        "phrase": "Президенты встретились на саммите.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Президенты' is the nominative plural subject of 'встретились'. The sentence describes leaders gathering at a summit."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-08",
+        "phrase": "Он стал президентом в прошлом году.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Президентом' is in the instrumental case after 'стал', which governs the instrumental of the new role. The phrase marks when he took office."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-09",
+        "phrase": "Все слушают президента очень внимательно.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Президента' is the accusative object of 'слушают', taking the genitive form because the noun is animate. 'Внимательно' describes how they listen."
+      },
+      {
+        "id": "NN-PEOPLE-PREZIDENT-10",
+        "phrase": "У президента много важных дел.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Президента' is genitive after 'у' in a possession frame describing his many tasks. 'Много' governs the genitive plural 'дел'."
+      }
+    ]
+  }
+]

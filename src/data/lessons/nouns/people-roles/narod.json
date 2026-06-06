@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-NAROD",
+    "label": "Народ",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for народ (people).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-NAROD-01",
+        "phrase": "Русский народ очень гостеприимный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Народ' stays in the nominative case as the subject of the sentence. 'Русский' is the agreeing masculine adjective, and 'гостеприимный' is the predicate adjective describing the people."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-02",
+        "phrase": "На площади собрался весь народ.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Народ' is nominative as the subject of 'собрался', which agrees in masculine gender. 'Весь' means the whole crowd, and 'на площади' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-03",
+        "phrase": "Президент должен слушать народ.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Народ' is the accusative direct object of 'слушать'; as an inanimate-style collective it matches the nominative form. 'Президент' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-04",
+        "phrase": "Это голос нашего народа.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Народа' is the genitive form after 'голос', showing whose voice it is. 'Нашего' is the agreeing masculine genitive possessive."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-05",
+        "phrase": "Правительство служит своему народу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Народу' is the dative form required by 'служить', marking the people as the one served. 'Своему' is the agreeing masculine dative possessive."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-06",
+        "phrase": "Он гордится своим народом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Народом' is the instrumental form required by 'гордиться', expressing what one is proud of. 'Своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-07",
+        "phrase": "Мы говорим о своём народе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О народе' uses the prepositional form after 'о' to express the topic of speech. 'Своём' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-08",
+        "phrase": "В этом регионе живут разные народы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Народы' is the nominative plural subject of 'живут', referring to distinct peoples. 'Разные' is the agreeing plural adjective, and 'в регионе' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-09",
+        "phrase": "История многих народов очень интересна.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Народов' is the genitive plural after 'история', showing whose history. 'Многих' agrees in the genitive plural, and 'интересна' is the predicate."
+      },
+      {
+        "id": "NN-PEOPLE-NAROD-10",
+        "phrase": "Сколько народу пришло на концерт?",
+        "fullAnalysis": "Strategic focus: Partitive genitive. 'Народу' uses the colloquial partitive genitive form after 'сколько' to mean how many people. 'Пришло' agrees in the neuter, and 'на концерт' is the accusative direction."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-OFITSER",
+    "label": "Офицер",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for офицер (officer).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-OFITSER-01",
+        "phrase": "Молодой офицер вошёл в кабинет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Офицер' stays in the nominative as the subject of 'вошёл'. 'Молодой' is the agreeing masculine adjective, and 'в кабинет' is the accusative direction."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-02",
+        "phrase": "Солдаты уважают своего офицера.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate masculine noun. 'Офицера' is the accusative direct object of 'уважают'; for animate nouns it takes the genitive ending. 'Своего' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-03",
+        "phrase": "Это приказ нашего офицера.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Офицера' is the genitive form showing whose order it is. 'Нашего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-04",
+        "phrase": "Все подчиняются старшему офицеру.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Офицеру' is the dative form required by 'подчиняться', marking the one obeyed. 'Старшему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-05",
+        "phrase": "Генерал говорил с дежурным офицером.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Офицером' is the instrumental form after 'с', expressing with whom one spoke. 'Дежурным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-06",
+        "phrase": "Мы говорим о храбром офицере.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об офицере' uses the prepositional form after 'о' to express the topic. 'Храбром' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-07",
+        "phrase": "На параде стояли русские офицеры.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Офицеры' is the nominative plural subject of 'стояли'. 'Русские' agrees in the plural, and 'на параде' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-08",
+        "phrase": "Командир наградил отличившихся офицеров.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate nouns. 'Офицеров' is the accusative plural equal to the genitive plural for animate nouns. 'Отличившихся' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-09",
+        "phrase": "Награды вручили молодым офицерам.",
+        "fullAnalysis": "Strategic focus: Dative plural recipient. 'Офицерам' is the dative plural marking those to whom awards were given. 'Молодым' agrees in the dative plural, and 'награды' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-OFITSER-10",
+        "phrase": "В штабе нет ни одного офицера.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Офицера' is the genitive form required after the negation 'нет'. 'Ни одного' reinforces the absence in the masculine genitive."
+      }
+    ]
+  }
+]

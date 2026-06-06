@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ROMAN",
+    "label": "Роман",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for роман (novel).",
+    "missions": [
+      {
+        "id": "NN-EDU-ROMAN-01",
+        "phrase": "Этот роман очень длинный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Роман' stays in the nominative case as the subject. 'Этот' points at a specific one, and 'длинный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-EDU-ROMAN-02",
+        "phrase": "Я читаю новый роман сейчас.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Роман' is the accusative direct object of 'читаю', identical to the nominative because the noun is inanimate masculine. 'Новый' agrees in the accusative."
+      },
+      {
+        "id": "NN-EDU-ROMAN-03",
+        "phrase": "У меня нет этого романа.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Романа' is in the genitive case after 'нет', expressing absence. 'Этого' agrees in the genitive masculine, pointing to a specific book."
+      },
+      {
+        "id": "NN-EDU-ROMAN-04",
+        "phrase": "Этот фильм посвящён роману Толстого.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Роману' is in the dative case after 'посвящён', which governs the dative of the thing dedicated to. 'Толстого' is genitive marking authorship."
+      },
+      {
+        "id": "NN-EDU-ROMAN-05",
+        "phrase": "Я увлекаюсь этим романом.",
+        "fullAnalysis": "Strategic focus: Instrumental with увлекаться. 'Романом' is in the instrumental case because 'увлекаться' governs the instrumental. 'Этим' agrees in the instrumental masculine."
+      },
+      {
+        "id": "NN-EDU-ROMAN-06",
+        "phrase": "Мы говорим о новом романе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О романе' uses the prepositional form after 'о' to express what is discussed. 'Новом' agrees in the prepositional masculine."
+      },
+      {
+        "id": "NN-EDU-ROMAN-07",
+        "phrase": "Эти романы стали классикой.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Романы' is the nominative plural subject of 'стали'. 'Эти' agrees in the plural, and 'классикой' is the instrumental predicate after 'стали'."
+      },
+      {
+        "id": "NN-EDU-ROMAN-08",
+        "phrase": "Я люблю исторические романы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Романы' is the accusative plural object of 'люблю', identical to the nominative plural for this inanimate noun. 'Исторические' agrees in the plural."
+      },
+      {
+        "id": "NN-EDU-ROMAN-09",
+        "phrase": "В библиотеке много старых романов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Романов' is in the genitive plural after 'много', which governs the genitive of counted items. 'Старых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EDU-ROMAN-10",
+        "phrase": "Писатель закончил свой первый роман.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Роман' is the accusative object of 'закончил', identical to the nominative for this inanimate noun. 'Свой первый' agree in the masculine accusative."
+      }
+    ]
+  }
+]

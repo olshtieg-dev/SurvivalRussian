@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-TELEFON",
+    "label": "Телефон",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for телефон (telephone).",
+    "missions": [
+      {
+        "id": "NN-COMMS-TELEFON-01",
+        "phrase": "Мой телефон лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Телефон' is in the nominative as the subject. 'Мой' agrees in masculine nominative, and 'лежит на столе' gives its location."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-02",
+        "phrase": "Я купил новый телефон.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Телефон' is inanimate masculine, so its accusative matches the nominative. 'Новый' agrees, and 'купил' takes the direct object."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-03",
+        "phrase": "У меня нет телефона.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Телефона' is genitive because 'нет' requires that case to express absence. The possession frame 'у меня' shows whose phone is missing."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-04",
+        "phrase": "Благодаря телефону я не опоздал.",
+        "fullAnalysis": "Strategic focus: Dative after a preposition. 'Телефону' is dative because 'благодаря' governs that case, expressing thanks to the phone. A useful causal construction."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-05",
+        "phrase": "Я пользуюсь старым телефоном.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Телефоном' is instrumental because 'пользоваться' governs that case. 'Старым' agrees in masculine instrumental. A core verb-plus-instrumental pattern."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-06",
+        "phrase": "Я говорю по телефону с мамой.",
+        "fullAnalysis": "Strategic focus: Dative in a fixed phrase. 'По телефону' is the dative idiom meaning over the phone. 'С мамой' is instrumental, showing the conversation partner."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-07",
+        "phrase": "В моём телефоне мало памяти.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В телефоне' uses the prepositional form after 'в' to mark location. 'Моём' agrees, and 'мало памяти' describes the shortage of storage."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-08",
+        "phrase": "Эти телефоны очень дорогие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Телефоны' is the nominative plural acting as the subject. 'Эти' agrees, and 'дорогие' is the predicate adjective in the plural."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-09",
+        "phrase": "В магазине много новых телефонов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Телефонов' is genitive plural because 'много' governs that case. 'Новых' agrees in genitive plural, and 'в магазине' sets the place."
+      },
+      {
+        "id": "NN-COMMS-TELEFON-10",
+        "phrase": "Я ищу телефон в сумке.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Телефон' stays in the accusative, identical to the nominative because it is inanimate. 'Ищу' takes the object, and 'в сумке' marks where."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-NAUKA",
+    "label": "Наука",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for наука (science).",
+    "missions": [
+      {
+        "id": "NN-EDU-NAUKA-01",
+        "phrase": "Наука быстро развивается сегодня.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Наука' stays in the nominative as the subject of 'развивается'. 'Быстро' is the adverb of manner. A clean introduction to this feminine noun."
+      },
+      {
+        "id": "NN-EDU-NAUKA-02",
+        "phrase": "Я очень люблю науку.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Науку' is the accusative object of 'люблю'; hard feminine nouns take -у. 'Очень' intensifies the feeling. A common way to state an interest."
+      },
+      {
+        "id": "NN-EDU-NAUKA-03",
+        "phrase": "Это будущее современной науки.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Науки' is the genitive showing what the future belongs to. 'Современной' is the agreeing feminine genitive adjective. A core attribution pattern."
+      },
+      {
+        "id": "NN-EDU-NAUKA-04",
+        "phrase": "Он посвятил жизнь науке.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Науке' is the dative governed by 'посвятить', which dedicates something to a recipient. 'Жизнь' is the accusative thing devoted."
+      },
+      {
+        "id": "NN-EDU-NAUKA-05",
+        "phrase": "Он давно занимается наукой.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Наукой' is the instrumental governed by 'заниматься', which takes the instrumental for an activity. 'Давно' adds duration. A very reusable pattern."
+      },
+      {
+        "id": "NN-EDU-NAUKA-06",
+        "phrase": "Мы говорили о науке вчера.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Науке' is the prepositional form after 'о', expressing the topic of conversation. 'Вчера' sets the time. A natural discussion frame."
+      },
+      {
+        "id": "NN-EDU-NAUKA-07",
+        "phrase": "У этой науки долгая история.",
+        "fullAnalysis": "Strategic focus: Genitive in a possession frame. 'Науки' follows 'у' in the genitive to express possession. 'Долгая история' is the nominative thing possessed, and 'этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EDU-NAUKA-08",
+        "phrase": "Меня интересуют точные науки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Науки' is the nominative plural as the subject of 'интересуют'. 'Точные' agrees as a plural adjective, and 'меня' is the accusative experiencer."
+      },
+      {
+        "id": "NN-EDU-NAUKA-09",
+        "phrase": "Я изучаю разные науки в университете.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Науки' is the accusative plural of 'изучаю'; as an inanimate noun it keeps the nominative-plural form. 'Разные' agrees in the plural, and 'в университете' sets the location."
+      },
+      {
+        "id": "NN-EDU-NAUKA-10",
+        "phrase": "Биология - это интересная наука.",
+        "fullAnalysis": "Strategic focus: Nominative predicate noun. 'Наука' is nominative as the predicate after the linking dash. 'Интересная' is the agreeing feminine adjective. A clean model for defining a field."
+      }
+    ]
+  }
+]

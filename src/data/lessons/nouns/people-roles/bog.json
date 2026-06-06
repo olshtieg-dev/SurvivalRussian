@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-BOG",
+    "label": "Бог",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for бог (god).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-BOG-01",
+        "phrase": "Бог всё видит и знает.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бог' is the nominative subject of 'видит' and 'знает'. 'Всё' is the accusative object of both verbs. A common proverbial statement."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-02",
+        "phrase": "Многие люди верят в Бога.",
+        "fullAnalysis": "Strategic focus: Accusative after 'в'. 'Бог' is animate masculine, so its accusative 'Бога' matches the genitive form. 'Верить в' takes the accusative to express belief in someone."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-03",
+        "phrase": "Она молится Богу каждый вечер.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Богу' is the dative form because 'молиться' governs the dative of the addressee. 'Каждый вечер' is an accusative time phrase."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-04",
+        "phrase": "У них нет веры в Бога.",
+        "fullAnalysis": "Strategic focus: Accusative inside a prepositional phrase. 'Бога' is the animate accusative after 'в'. 'Нет веры' uses the genitive 'веры' under negation, while the belief object stays accusative."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-05",
+        "phrase": "Я говорю с Богом в молитве.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Богом' is the instrumental form expressing the partner of conversation. 'В молитве' is a prepositional phrase of manner."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-06",
+        "phrase": "Они рассказывают детям о Боге.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Боге' is the prepositional form for the topic of discussion. 'Детям' is the dative recipient of 'рассказывают'."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-07",
+        "phrase": "Древние боги жили на горе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Боги' is the nominative plural subject of 'жили'. 'Древние' is the agreeing plural adjective, and 'на горе' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-08",
+        "phrase": "Греки поклонялись многим богам.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Богам' is the dative plural because 'поклоняться' governs the dative. 'Многим' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-09",
+        "phrase": "Это храм древнего Бога.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Бога' is the genitive form showing whose temple it is. 'Древнего' is the agreeing masculine genitive adjective."
+      },
+      {
+        "id": "NN-PEOPLE-BOG-10",
+        "phrase": "Слава Богу, всё закончилось хорошо!",
+        "fullAnalysis": "Strategic focus: Dative in a fixed expression. 'Богу' is dative in the set phrase 'слава Богу' meaning thank goodness. The clause 'всё закончилось хорошо' explains the relief."
+      }
+    ]
+  }
+]

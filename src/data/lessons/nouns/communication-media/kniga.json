@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-KNIGA",
+    "label": "Книга",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for книга (book).",
+    "missions": [
+      {
+        "id": "NN-COMMS-KNIGA-01",
+        "phrase": "Эта книга очень интересная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Книга' is nominative as the subject. 'Эта' points at it and 'интересная' is the agreeing feminine adjective. A natural way to praise a book."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-02",
+        "phrase": "Я читаю новую книгу сейчас.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Книгу' is the accusative direct object of 'читаю'. 'Новую' agrees in the feminine accusative, and 'сейчас' adds immediacy. A core reading pattern."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-03",
+        "phrase": "У меня нет этой книги.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Книги' is genitive after 'нет', stating I do not have it. 'Этой' agrees in the genitive feminine, and 'у меня' marks the possessor. The standard negation pattern."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-04",
+        "phrase": "Я рад этой новой книге.",
+        "fullAnalysis": "Strategic focus: Dative after 'рад'. 'Книге' is dative, the thing I am glad about. 'Этой новой' agrees in the dative feminine. A useful pattern for expressing pleasure."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-05",
+        "phrase": "Я зачитываюсь этой книгой каждый вечер.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Книгой' is instrumental, governed by 'зачитываюсь', meaning to be absorbed in the book. 'Каждый вечер' sets frequency. A vivid reading habit."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-06",
+        "phrase": "Мы говорили об этой книге.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об этой книге' uses the prepositional form 'книге' after 'об' to mean about the book. 'Этой' agrees in the prepositional feminine. Good for discussion."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-07",
+        "phrase": "На полке стоят старые книги.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Книги' is the nominative plural of книга, the subject of 'стоят'. 'Старые' is the agreeing plural adjective, and 'на полке' tells where. A natural shelf scene."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-08",
+        "phrase": "В библиотеке много интересных книг.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Книг' is the genitive plural required by 'много', with a zero ending. 'Интересных' agrees in the genitive plural. A core counting pattern."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-09",
+        "phrase": "Я подарил детям новые книги.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Книги' is the accusative plural of an inanimate noun, matching the nominative plural. 'Новые' agrees, and 'детям' is the dative recipient. A clean giving pattern."
+      },
+      {
+        "id": "NN-COMMS-KNIGA-10",
+        "phrase": "Магазин полон новых книг.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'полон'. 'Книг' is the genitive plural required by 'полон', meaning full of. 'Новых' agrees in the genitive plural. A useful pattern for abundance."
+      }
+    ]
+  }
+]

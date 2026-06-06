@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-PRIMER",
+    "label": "Пример",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for пример (example).",
+    "missions": [
+      {
+        "id": "NN-EDU-PRIMER-01",
+        "phrase": "Это очень хороший пример.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Пример' is nominative as the predicate noun. 'Хороший' is the agreeing masculine adjective, and 'очень' intensifies. A natural way to praise an example."
+      },
+      {
+        "id": "NN-EDU-PRIMER-02",
+        "phrase": "Учитель привёл интересный пример.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пример' is the accusative direct object of 'привёл'; this inanimate masculine noun matches the nominative. 'Интересный' agrees, and 'учитель' is the subject. A core teaching pattern."
+      },
+      {
+        "id": "NN-EDU-PRIMER-03",
+        "phrase": "У меня нет хорошего примера.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Примера' is genitive after 'нет', stating none exists. 'Хорошего' agrees in the genitive masculine, and 'у меня' marks the possessor. The standard negation pattern."
+      },
+      {
+        "id": "NN-EDU-PRIMER-04",
+        "phrase": "Благодаря примеру я всё понял.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Примеру' is dative, governed by the preposition meaning thanks to. 'Всё понял' is the result. A useful pattern for crediting a cause."
+      },
+      {
+        "id": "NN-EDU-PRIMER-05",
+        "phrase": "Он стал примером для всех.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Примером' is instrumental after 'стал', naming what he became. 'Для всех' shows for whom. A common idiom for being a role model."
+      },
+      {
+        "id": "NN-EDU-PRIMER-06",
+        "phrase": "Расскажи мне о хорошем примере.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О примере' uses the prepositional form 'примере' after 'о' to mean about the example. 'Хорошем' agrees in the prepositional masculine. Good for requests."
+      },
+      {
+        "id": "NN-EDU-PRIMER-07",
+        "phrase": "В книге есть полезные примеры.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Примеры' is the nominative plural of пример, the subject of 'есть'. 'Полезные' is the agreeing plural adjective, and 'в книге' tells where. A natural reference."
+      },
+      {
+        "id": "NN-EDU-PRIMER-08",
+        "phrase": "Учитель привёл много новых примеров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Примеров' is the genitive plural required by 'много'. 'Новых' agrees in the genitive plural, and 'учитель' is the subject. A core counting pattern."
+      },
+      {
+        "id": "NN-EDU-PRIMER-09",
+        "phrase": "Студенты разбирают эти примеры внимательно.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Примеры' is the accusative plural of an inanimate noun, matching the nominative plural. 'Эти' agrees, and 'студенты' is the subject. A clean study pattern."
+      },
+      {
+        "id": "NN-EDU-PRIMER-10",
+        "phrase": "Бери с него пример!",
+        "fullAnalysis": "Strategic focus: Accusative in a set phrase. 'Пример' is the accusative object in the idiom брать пример с кого-то, to follow someone's example. 'С него' marks the model. A useful imperative expression."
+      }
+    ]
+  }
+]

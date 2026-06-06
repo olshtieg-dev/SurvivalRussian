@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-LEITENANT",
+    "label": "Лейтенант",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for лейтенант (lieutenant).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-LEITENANT-01",
+        "phrase": "Молодой лейтенант отдал приказ.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лейтенант' is nominative as the subject of 'отдал'. 'Молодой' agrees in the masculine, and 'приказ' is the accusative object. A natural command scene."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-02",
+        "phrase": "Солдаты уважают своего лейтенанта.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate masculine noun. 'Лейтенанта' takes the genitive-like accusative because the noun is animate, so accusative equals genitive. 'Своего' agrees with it as the object of respect."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-03",
+        "phrase": "В части нет лейтенанта сегодня.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Лейтенанта' is genitive after 'нет', stating no lieutenant is present. 'В части' sets the place and 'сегодня' the time. The standard negation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-04",
+        "phrase": "Сержант доложил лейтенанту обстановку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Лейтенанту' is dative, the officer reported to. 'Обстановку' is the accusative object, and 'сержант' is the subject. A clear chain-of-command pattern."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-05",
+        "phrase": "Мы встретились с лейтенантом утром.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С лейтенантом' uses the instrumental 'лейтенантом' after 'с' to mean with the lieutenant. 'Утром' sets the time. Common for meeting talk."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-06",
+        "phrase": "Все говорили о новом лейтенанте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О лейтенанте' uses the prepositional form 'лейтенанте' after 'о' to mean about the lieutenant. 'Новом' agrees in the prepositional. Good for discussion."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-07",
+        "phrase": "Лейтенанты собрались на совещание.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Лейтенанты' is the nominative plural, the subject of 'собрались'. 'На совещание' shows the destination in the accusative. A natural gathering scene."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-08",
+        "phrase": "В полку много молодых лейтенантов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Лейтенантов' is the genitive plural required by 'много'. 'Молодых' agrees in the genitive plural, and 'в полку' sets the place. A core counting pattern."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-09",
+        "phrase": "Командир доверяет своим лейтенантам.",
+        "fullAnalysis": "Strategic focus: Dative plural after 'доверяет'. 'Лейтенантам' is the dative plural, the officers trusted. 'Своим' agrees in the dative plural, and 'командир' is the subject. A clean trust pattern."
+      },
+      {
+        "id": "NN-PEOPLE-LEITENANT-10",
+        "phrase": "Он служит уже два года лейтенантом.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Лейтенантом' is instrumental after 'служит', naming the rank in which he serves. 'Два года' gives the duration. The standard way to state a military role."
+      }
+    ]
+  }
+]

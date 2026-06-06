@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-ZNAKOMYI",
+    "label": "Знакомый",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for знакомый (acquaintance).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-01",
+        "phrase": "Это мой старый знакомый.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Знакомый' is a substantivized adjective in the nominative, naming the person. 'Мой' and 'старый' agree in masculine nominative. Useful for introductions."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-02",
+        "phrase": "Я встретил старого знакомого.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Знакомого' is animate masculine, so its accusative copies the genitive form. 'Встретил' takes the direct object, and 'старого' agrees the same way."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-03",
+        "phrase": "У моего знакомого большая машина.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Знакомого' is genitive after 'у' to mark whose car it is. 'Моего' agrees in masculine genitive, and 'большая машина' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-04",
+        "phrase": "Я позвонил своему знакомому.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Знакомому' is the dative object of 'позвонил', the person called. 'Своему' agrees in masculine dative. A standard phone-call pattern."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-05",
+        "phrase": "Я пришёл вместе со знакомым.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Знакомым' is instrumental after 'со' to express coming together with someone. 'Вместе' reinforces the togetherness."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-06",
+        "phrase": "Мы говорили о нашем знакомом.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О знакомом' uses the prepositional form after 'о' to mark the topic. 'Нашем' agrees in masculine prepositional, naming the person discussed."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-07",
+        "phrase": "Мои знакомые живут в городе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Знакомые' is the nominative plural acting as the subject. 'Мои' agrees, 'живут' is the plural verb, and 'в городе' gives the location."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-08",
+        "phrase": "Я пригласил всех своих знакомых.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Знакомых' is animate plural, so its accusative copies the genitive. 'Всех' and 'своих' agree in the same animate form. Useful for invitations."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-09",
+        "phrase": "У меня много знакомых в Москве.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Знакомых' is genitive plural because 'много' governs that case. 'В Москве' adds the place where they live."
+      },
+      {
+        "id": "NN-PEOPLE-ZNAKOMYI-10",
+        "phrase": "Я давно знаю этого знакомого.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Знакомого' is animate masculine, so the accusative copies the genitive form. 'Этого' agrees, and 'давно' marks the long acquaintance."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-OPYT",
+    "label": "Опыт",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for опыт (experience; experiment).",
+    "missions": [
+      {
+        "id": "NN-EDU-OPYT-01",
+        "phrase": "У него большой опыт работы.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Опыт' stays in the nominative as the subject. 'Большой' is the agreeing masculine adjective, and 'работы' is genitive showing of what. A natural sentence about a person's background."
+      },
+      {
+        "id": "NN-EDU-OPYT-02",
+        "phrase": "Я получил полезный опыт.",
+        "fullAnalysis": "Strategic focus: Accusative inanimate object. 'Опыт' is the accusative direct object of 'получил'; as an inanimate masculine noun, its accusative copies the nominative form. 'Полезный' agrees with it."
+      },
+      {
+        "id": "NN-EDU-OPYT-03",
+        "phrase": "У меня нет такого опыта.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Опыта' is genitive after the negated 'нет', which always governs the genitive. 'Такого' agrees in the masculine genitive. A core pattern for admitting a lack."
+      },
+      {
+        "id": "NN-EDU-OPYT-04",
+        "phrase": "Благодаря опыту он быстро справился.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Опыту' is dative after 'благодаря', which governs the dative to express thanks to something. 'Быстро справился' states the result. A useful cause-and-effect template."
+      },
+      {
+        "id": "NN-EDU-OPYT-05",
+        "phrase": "Учёный поделился своим опытом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Опытом' is instrumental after 'поделился', which governs the instrumental for sharing. 'Своим' is the agreeing masculine instrumental pronoun. A common professional sentence."
+      },
+      {
+        "id": "NN-EDU-OPYT-06",
+        "phrase": "Мы учимся на собственном опыте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Опыте' is the prepositional form after 'на', the basis on which one learns. 'Собственном' is the agreeing masculine prepositional adjective. A reflective, idiomatic pattern."
+      },
+      {
+        "id": "NN-EDU-OPYT-07",
+        "phrase": "Эти опыты прошли успешно.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Опыты' is the nominative plural subject, here in the sense of experiments. 'Эти' agrees in plural, and 'успешно' describes the outcome. A good science-lab sentence."
+      },
+      {
+        "id": "NN-EDU-OPYT-08",
+        "phrase": "Студенты проводят новые опыты.",
+        "fullAnalysis": "Strategic focus: Accusative inanimate plural. 'Опыты' is the accusative plural; as an inanimate noun, the accusative copies the nominative plural form. 'Новые' agrees, and 'проводят' is the verb of conducting."
+      },
+      {
+        "id": "NN-EDU-OPYT-09",
+        "phrase": "Результаты опытов очень интересные.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Опытов' is the genitive plural after 'результаты', expressing the results of the experiments. 'Результаты' stays nominative as the subject. A precise scientific sentence."
+      },
+      {
+        "id": "NN-EDU-OPYT-10",
+        "phrase": "Он работает с большим опытом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Опытом' is instrumental after the preposition 'с', describing how he works. 'Большим' is the agreeing masculine instrumental adjective. A useful pattern for describing competence."
+      }
+    ]
+  }
+]

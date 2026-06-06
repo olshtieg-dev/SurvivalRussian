@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-BUMAGA",
+    "label": "Бумага",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for бумага (paper).",
+    "missions": [
+      {
+        "id": "NN-COMMS-BUMAGA-01",
+        "phrase": "Эта бумага очень тонкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бумага' is the nominative subject of the sentence. 'Эта' points at it, and 'тонкая' is the agreeing feminine predicate adjective."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-02",
+        "phrase": "Я взял чистую бумагу со стола.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бумагу' is the accusative object of 'взял'. 'Чистую' agrees in feminine accusative, and 'со стола' is a genitive source phrase."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-03",
+        "phrase": "У меня нет белой бумаги.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Бумаги' is the genitive form required by 'нет'. 'Белой' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-04",
+        "phrase": "Художник рад новой бумаге.",
+        "fullAnalysis": "Strategic focus: Dative after 'рад'. 'Бумаге' is the dative form because 'рад' governs the dative. 'Новой' is the agreeing feminine dative adjective."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-05",
+        "phrase": "Стену накрыли плотной бумагой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Бумагой' is the instrumental form expressing what the wall was covered with. 'Плотной' agrees in feminine instrumental."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-06",
+        "phrase": "Он написал заметку на бумаге.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'на'. 'Бумаге' is the prepositional form for the surface written on. 'Заметку' is the accusative object of 'написал'."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-07",
+        "phrase": "Важные бумаги лежат в сейфе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Бумаги' is the nominative plural subject of 'лежат', here meaning documents. 'В сейфе' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-08",
+        "phrase": "Секретарь подписал все бумаги быстро.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Бумаги' is the accusative plural object of 'подписал'. 'Все' agrees in plural, and 'быстро' adds manner."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-09",
+        "phrase": "В шкафу полно старых бумаг.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Бумаг' is the genitive plural required by 'полно'. 'Старых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-COMMS-BUMAGA-10",
+        "phrase": "Дайте мне лист бумаги, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Genitive of material. 'Бумаги' is the genitive form after 'лист', expressing a sheet of paper. 'Мне' is the dative recipient of the request."
+      }
+    ]
+  }
+]

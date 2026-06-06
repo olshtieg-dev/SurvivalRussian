@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-LITERATURA",
+    "label": "Литература",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for литература (literature).",
+    "missions": [
+      {
+        "id": "NN-EDU-LITERATURA-01",
+        "phrase": "Русская литература очень богатая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Литература' is the nominative subject. 'Русская' is the agreeing feminine adjective, and 'богатая' is the predicate adjective."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-02",
+        "phrase": "Студенты изучают современную литературу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Литературу' is the accusative object of 'изучают'. 'Современную' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-03",
+        "phrase": "У него нет учебника по литературе.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Литературе' is the dative form after 'по', naming the subject area. 'Учебника' is genitive under the negation 'нет'."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-04",
+        "phrase": "Профессор посвятил жизнь литературе.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Литературе' is the dative form because 'посвятить' takes a dative goal. 'Жизнь' is the accusative object devoted."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-05",
+        "phrase": "Она увлекается классической литературой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'увлекаться'. 'Литературой' is the instrumental form because 'увлекаться' governs the instrumental. 'Классической' agrees in feminine instrumental."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-06",
+        "phrase": "Мы спорим о французской литературе.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Литературе' is the prepositional form for the topic. 'Французской' is the agreeing feminine prepositional adjective."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-07",
+        "phrase": "Литература помогает понять другую культуру.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Литература' is the nominative subject of 'помогает'. The infinitive 'понять' with 'другую культуру' in the accusative completes the thought."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-08",
+        "phrase": "Без литературы школа была бы скучной.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Литературы' is the genitive form required by the preposition 'без'. The clause expresses a hypothetical with 'была бы'."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-09",
+        "phrase": "В библиотеке много детской литературы.",
+        "fullAnalysis": "Strategic focus: Genitive after a quantity word. 'Литературы' is the genitive form required by 'много'. 'Детской' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-EDU-LITERATURA-10",
+        "phrase": "Эти литературы развивались по-разному.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Литературы' is the nominative plural subject of 'развивались', here meaning national literatures. 'Эти' agrees in plural, and 'по-разному' adds manner."
+      }
+    ]
+  }
+]

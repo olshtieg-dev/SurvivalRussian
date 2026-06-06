@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PISATEL",
+    "label": "Писатель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for писатель (writer).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PISATEL-01",
+        "phrase": "Этот писатель очень известный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Писатель' stays nominative as the subject. 'Этот' points at him, and 'известный' is the agreeing masculine adjective. A simple descriptive sentence."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-02",
+        "phrase": "Я знаю этого писателя лично.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Писателя' takes the accusative form, which equals the genitive for animate masculine nouns. 'Этого' agrees, and 'лично' adds emphasis."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-03",
+        "phrase": "Это книга известного писателя.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Писателя' is genitive, showing whose book it is. 'Известного' agrees in the masculine genitive, modifying the author."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-04",
+        "phrase": "Я написал письмо этому писателю.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Писателю' is the dative indirect object, the addressee of the letter. 'Этому' agrees in the masculine dative, and 'письмо' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-05",
+        "phrase": "Я познакомился с этим писателем.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Писателем' is instrumental, the person met. 'Этим' agrees in the masculine instrumental, and 'познакомился' governs this construction."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-06",
+        "phrase": "Мы говорим об этом писателе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Писателе' is prepositional after 'об', the topic of discussion. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-07",
+        "phrase": "Эти писатели живут в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Писатели' is the nominative plural subject of 'живут'. 'Эти' agrees in the plural, and 'в Москве' is the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-08",
+        "phrase": "На встрече было много писателей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Писателей' is the genitive plural required by 'много'. 'На встрече' is the prepositional location of the gathering."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-09",
+        "phrase": "Писатель пишет новый роман.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Писатель' is the nominative subject of 'пишет'. 'Новый роман' is the masculine accusative direct object of the verb."
+      },
+      {
+        "id": "NN-PEOPLE-PISATEL-10",
+        "phrase": "Я уважаю этого великого писателя.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Писателя' is the accusative direct object of 'уважаю', equal to the genitive for animates. 'Этого великого' agrees in the masculine animate accusative."
+      }
+    ]
+  }
+]

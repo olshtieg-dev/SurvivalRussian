@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-POLKOVNIK",
+    "label": "Полковник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for полковник (colonel).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-01",
+        "phrase": "Полковник вошёл в кабинет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Полковник' stays in the nominative as the subject of 'вошёл'. 'В кабинет' shows the accusative destination of motion into a place. A clean introduction."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-02",
+        "phrase": "Я встретил полковника на улице.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Полковника' takes the -а ending because the noun is animate masculine, so its accusative copies the genitive. 'На улице' adds the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-03",
+        "phrase": "Это приказ нашего полковника.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Полковника' is the genitive showing whose order it is. 'Нашего' is the agreeing masculine genitive. A core attribution pattern."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-04",
+        "phrase": "Я доложил полковнику о результатах.",
+        "fullAnalysis": "Strategic focus: Dative indirect object. 'Полковнику' is the dative recipient of the report. The verb 'доложил' takes a dative person, and 'о результатах' adds the prepositional-plural topic."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-05",
+        "phrase": "Я служил под началом с полковником.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Полковником' is the instrumental after the preposition 'с', meaning together with. The phrase 'под началом' frames the service relationship."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-06",
+        "phrase": "Все говорят о новом полковнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Полковнике' is the prepositional form after 'о', expressing the topic. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-07",
+        "phrase": "У полковника было важное задание.",
+        "fullAnalysis": "Strategic focus: Genitive in a possession frame. 'Полковника' follows 'у' in the genitive to express possession. 'Важное задание' is the nominative thing possessed, with 'было' agreeing in the neuter."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-08",
+        "phrase": "На параде стояли два полковника.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Полковника' follows 'два' and takes the genitive singular required after two, three, and four. 'На параде' sets the prepositional location."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-09",
+        "phrase": "Я знаю всех этих полковников.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural equals genitive. 'Полковников' takes the genitive-plural -ов ending, which serves as the accusative because the noun is animate. 'Всех этих' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-POLKOVNIK-10",
+        "phrase": "Он строгий и опытный полковник.",
+        "fullAnalysis": "Strategic focus: Nominative predicate noun. 'Полковник' is nominative as the predicate. 'Строгий' and 'опытный' are agreeing masculine adjectives describing his character, joined by 'и'."
+      }
+    ]
+  }
+]

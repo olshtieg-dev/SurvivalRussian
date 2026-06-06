@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-KARTA",
+    "label": "Карта",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for карта (map; card).",
+    "missions": [
+      {
+        "id": "NN-COMMS-KARTA-01",
+        "phrase": "На стене висит большая карта.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Карта' stays in the nominative as the subject of 'висит'. 'Большая' is the agreeing feminine adjective, and 'на стене' shows the place. A simple descriptive opener."
+      },
+      {
+        "id": "NN-COMMS-KARTA-02",
+        "phrase": "Я взял карту в дорогу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Карту' is the accusative direct object of 'взял'. The feminine ending shifts from -а to -у. 'В дорогу' explains the purpose. A practical travel sentence."
+      },
+      {
+        "id": "NN-COMMS-KARTA-03",
+        "phrase": "У меня нет карты города.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. 'Карты' is genitive after the negated 'нет', which always governs the genitive. 'Города' is also genitive showing of what. A core pattern for saying you lack something."
+      },
+      {
+        "id": "NN-COMMS-KARTA-04",
+        "phrase": "Я доверяю этой карте полностью.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Карте' is dative after 'доверяю', a verb that governs the dative. 'Этой' is the agreeing feminine dative pronoun, and 'полностью' adds emphasis."
+      },
+      {
+        "id": "NN-COMMS-KARTA-05",
+        "phrase": "Я расплатился картой в магазине.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Картой' is instrumental, expressing the means of payment, here a bank card. 'В магазине' is prepositional, giving the place. A high-value everyday shopping sentence."
+      },
+      {
+        "id": "NN-COMMS-KARTA-06",
+        "phrase": "На карте город отмечен красным.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Карте' is the prepositional form after 'на', the surface on which something is marked. 'Красным' is instrumental showing the colour. A useful map-reading pattern."
+      },
+      {
+        "id": "NN-COMMS-KARTA-07",
+        "phrase": "Эти карты очень подробные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Карты' is the nominative plural subject. 'Эти' agrees in plural, and 'подробные' is the agreeing plural adjective. A good model for the feminine plural."
+      },
+      {
+        "id": "NN-COMMS-KARTA-08",
+        "phrase": "Туристы купили старые карты.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Карты' is the accusative plural; for inanimate feminine nouns the accusative copies the nominative plural form. 'Старые' agrees, and 'купили' is the verb of buying."
+      },
+      {
+        "id": "NN-COMMS-KARTA-09",
+        "phrase": "Я положил деньги на карту.",
+        "fullAnalysis": "Strategic focus: Accusative with direction. 'Карту' is accusative after 'на' expressing motion toward, here adding money to a bank card. 'Деньги' is the accusative direct object. A practical banking sentence."
+      },
+      {
+        "id": "NN-COMMS-KARTA-10",
+        "phrase": "На столе лежат несколько карт.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Карт' is the genitive plural after 'несколько', which governs the genitive. 'На столе' is prepositional, giving the place. A clean model for the zero-ending feminine plural."
+      }
+    ]
+  }
+]

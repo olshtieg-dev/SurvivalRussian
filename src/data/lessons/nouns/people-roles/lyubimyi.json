@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-LYUBIMYI",
+    "label": "Любимый",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for любимый (beloved).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-01",
+        "phrase": "Мой любимый скоро придёт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Любимый' is a substantivized adjective acting as the nominative subject of 'придёт'. 'Мой' agrees in the masculine nominative, and 'скоро' marks the near future."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-02",
+        "phrase": "Я очень жду своего любимого.",
+        "fullAnalysis": "Strategic focus: Accusative object, animate. 'Любимого' is the accusative object of 'жду'. As an animate masculine noun built from an adjective, the accusative copies the genitive ending, and 'своего' agrees."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-03",
+        "phrase": "У моего любимого сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Любимого' is genitive in the 'у + genitive' frame, showing whose birthday it is. 'Моего' agrees in the masculine genitive. A warm everyday sentence."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-04",
+        "phrase": "Я купила подарок любимому.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Любимому' is the dative indirect object, the one the gift is for. 'Подарок' is the accusative thing bought, and the past-tense verb is feminine."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-05",
+        "phrase": "Я гуляю по парку с любимым.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Любимым' is in the instrumental after the preposition 'с', meaning together with. 'По парку' shows the path of the walk in the dative."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-06",
+        "phrase": "Она часто думает о любимом.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О любимом' uses the prepositional form after 'о' to express thinking about someone. 'Часто' adds frequency. A tender model for reflection."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-07",
+        "phrase": "Любимые всегда поддерживают нас.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Любимые' is the nominative plural subject of 'поддерживают'. 'Всегда' adds constancy, and 'нас' is the accusative object. A model for the plural form."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-08",
+        "phrase": "У многих людей нет любимых рядом.",
+        "fullAnalysis": "Strategic focus: Genitive plural after нет. The negative 'нет' governs the genitive, so 'любимых' is the genitive plural. 'Рядом' adds the sense of being nearby. A pattern for absence."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-09",
+        "phrase": "Мы доверяем своим любимым.",
+        "fullAnalysis": "Strategic focus: Dative plural. The verb 'доверять' governs the dative, so 'любимым' is the dative plural object of trust. 'Своим' agrees in the same case and number."
+      },
+      {
+        "id": "NN-PEOPLE-LYUBIMYI-10",
+        "phrase": "Мы гордимся своими любимыми.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The verb 'гордиться' requires the instrumental, so 'любимыми' is the instrumental plural object of pride. 'Своими' agrees in the same case and number."
+      }
+    ]
+  }
+]

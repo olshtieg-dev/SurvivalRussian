@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-GOST",
+    "label": "Гость",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for гость (guest).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-GOST-01",
+        "phrase": "Наш гость уже приехал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гость' is the nominative subject of 'приехал'. 'Наш' is the agreeing masculine possessive, and 'уже' adds that the arrival has happened. A clean subject model."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-02",
+        "phrase": "Мы встречаем дорогого гостя.",
+        "fullAnalysis": "Strategic focus: Accusative object, animate. 'Гостя' is the accusative direct object of 'встречаем'. As an animate masculine noun, the accusative copies the genitive, and 'дорогого' agrees in that form."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-03",
+        "phrase": "У гостя есть подарок для нас.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Гостя' is genitive in the 'у + genitive' frame showing who has the gift. 'Подарок' is the nominative thing possessed, and 'для нас' is also genitive."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-04",
+        "phrase": "Хозяйка предложила гостю чай.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Гостю' is the dative indirect object, the one offered tea. 'Чай' is the accusative thing offered, and 'хозяйка' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-05",
+        "phrase": "Я долго говорил с гостем.",
+        "fullAnalysis": "Strategic focus: Instrumental after с. 'Гостем' is in the instrumental after the preposition 'с', meaning together with. 'Долго' adds duration to the conversation. Useful for accompaniment."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-06",
+        "phrase": "Все спрашивают о новом госте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О госте' uses the prepositional form after 'о' to mark the topic. 'Новом' is the agreeing masculine prepositional adjective. A model for discussing a person."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-07",
+        "phrase": "Сегодня к нам пришли гости.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Гости' is the nominative plural subject of 'пришли'. The verb agrees in the plural, and 'к нам' shows direction toward the speakers. A very common everyday phrase."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-08",
+        "phrase": "В доме было много гостей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Гостей' is the genitive plural after the quantity word 'много'. 'В доме' is prepositional, and the past tense 'было' is neuter with a quantity expression."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-09",
+        "phrase": "Хозяин показал гостям свой сад.",
+        "fullAnalysis": "Strategic focus: Dative plural recipients. 'Гостям' is the dative plural, the people shown the garden. 'Свой сад' is the accusative object, and 'хозяин' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-GOST-10",
+        "phrase": "Мы рады нашим гостям.",
+        "fullAnalysis": "Strategic focus: Dative plural with adjective. The short adjective 'рады' governs the dative, so 'гостям' is the dative plural object of gladness. 'Нашим' agrees in the same case and number."
+      }
+    ]
+  }
+]

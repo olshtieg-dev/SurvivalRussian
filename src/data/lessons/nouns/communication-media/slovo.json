@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SLOVO",
+    "label": "Слово",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for слово (word).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SLOVO-01",
+        "phrase": "Это очень важное слово.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Слово' is the nominative predicate noun. 'Важное' is the agreeing neuter adjective, intensified by 'очень'. A clean descriptive sentence."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-02",
+        "phrase": "Я не знаю это слово.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Слово' is the accusative direct object of 'знаю'; neuter inanimate nouns keep the nominative form in the accusative. 'Это' agrees with it."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-03",
+        "phrase": "Я не помню этого слова.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Слова' is the genitive form, common after a negated verb like 'не помню'. 'Этого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-04",
+        "phrase": "Благодаря одному слову всё изменилось.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Слову' is dative, governed by the preposition 'благодаря'. 'Одному' agrees in the neuter dative, marking the single decisive word."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-05",
+        "phrase": "Начни ответ этим словом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Словом' is instrumental, the means of starting. 'Этим' agrees in the neuter instrumental, and 'начни' is the imperative."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-06",
+        "phrase": "В этом слове трудное ударение.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Слове' is prepositional after 'в', the location of the stress. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-07",
+        "phrase": "Эти слова звучат очень красиво.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Слова' is the nominative plural subject of 'звучат'; the stress shifts in the plural. 'Эти' agrees in the plural."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-08",
+        "phrase": "Я выучил много новых слов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Слов' is the zero-ending genitive plural required by 'много'. 'Новых' agrees in the genitive plural, and 'выучил' is past tense."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-09",
+        "phrase": "Скажи мне одно доброе слово.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Слово' is the accusative direct object of 'скажи'; the neuter form matches the nominative. 'Доброе' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-COMMS-SLOVO-10",
+        "phrase": "Мы говорим об этом слове.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Слове' is prepositional after 'об', the topic of discussion. 'Этом' agrees in the neuter prepositional."
+      }
+    ]
+  }
+]

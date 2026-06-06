@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-KARTINA",
+    "label": "Картина",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for картина (picture).",
+    "missions": [
+      {
+        "id": "NN-EDU-KARTINA-01",
+        "phrase": "На стене висит красивая картина.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Картина' stays in the nominative as the subject of 'висит'. 'Красивая' is the agreeing feminine adjective, and 'на стене' is the prepositional location."
+      },
+      {
+        "id": "NN-EDU-KARTINA-02",
+        "phrase": "Художник написал новую картину.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Картину' is the accusative direct object of 'написал'. 'Новую' agrees in the feminine accusative, and 'художник' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-KARTINA-03",
+        "phrase": "Это копия известной картины.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Картины' is the genitive form after 'копия', showing of what. 'Известной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EDU-KARTINA-04",
+        "phrase": "Музей посвятил выставку этой картине.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Картине' is the dative form required by 'посвятить', marking what the exhibition is dedicated to. 'Этой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-EDU-KARTINA-05",
+        "phrase": "Все восхищались этой картиной.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Картиной' is the instrumental form required by 'восхищаться', expressing what was admired. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EDU-KARTINA-06",
+        "phrase": "Мы долго говорили о картине.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О картине' uses the prepositional form after 'о' to express the topic. 'Долго' adds duration to the discussion."
+      },
+      {
+        "id": "NN-EDU-KARTINA-07",
+        "phrase": "На этой картине изображён лес.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Картине' is the prepositional form after 'на', marking where the forest is depicted. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-EDU-KARTINA-08",
+        "phrase": "В музее висят старинные картины.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Картины' is the nominative plural subject of 'висят'. 'Старинные' agrees in the plural, and 'в музее' is the prepositional location."
+      },
+      {
+        "id": "NN-EDU-KARTINA-09",
+        "phrase": "В галерее много дорогих картин.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Картин' is the genitive plural required by 'много'. 'Дорогих' agrees in the genitive plural, and 'в галерее' is the location."
+      },
+      {
+        "id": "NN-EDU-KARTINA-10",
+        "phrase": "В этом зале нет картины.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Картины' is the genitive form required after the negation 'нет'. 'В зале' is the prepositional location."
+      }
+    ]
+  }
+]

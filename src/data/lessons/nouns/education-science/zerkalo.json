@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-ZERKALO",
+    "label": "Зеркало",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for зеркало (mirror).",
+    "missions": [
+      {
+        "id": "NN-EDU-ZERKALO-01",
+        "phrase": "В ванной висит большое зеркало.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зеркало' stays in the nominative as the subject of 'висит', a neuter noun. 'Большое' is the agreeing neuter adjective, and 'в ванной' is the prepositional location."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-02",
+        "phrase": "Мальчик случайно разбил зеркало.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зеркало' is the accusative direct object of 'разбил'; as a neuter inanimate noun it matches the nominative form. 'Мальчик' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-03",
+        "phrase": "Это рама старого зеркала.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Зеркала' is the genitive form after 'рама', showing whose frame. 'Старого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-04",
+        "phrase": "Мастер подошёл к зеркалу.",
+        "fullAnalysis": "Strategic focus: Dative of direction with 'к'. 'Зеркалу' is the dative form after 'к', marking the destination of movement. 'Мастер' is the nominative subject."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-05",
+        "phrase": "Она любовалась собой перед зеркалом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'перед'. 'Зеркалом' is the instrumental form after 'перед', marking the location in front of which she stood. 'Собой' is the reflexive instrumental."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-06",
+        "phrase": "Я увидел отражение в зеркале.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В зеркале' uses the prepositional form after 'в' to express where the reflection appears. 'Отражение' is the accusative object of 'увидел'."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-07",
+        "phrase": "Это очень красивое зеркало.",
+        "fullAnalysis": "Strategic focus: Nominative as predicate. 'Зеркало' is nominative as the predicate noun. 'Красивое' is the agreeing neuter adjective, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-08",
+        "phrase": "В магазине продают большие зеркала.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Зеркала' is the accusative plural object of 'продают'; for neuter inanimate nouns it equals the nominative plural. 'Большие' agrees in the plural."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-09",
+        "phrase": "В доме много старинных зеркал.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantifier. 'Зеркал' is the genitive plural required by 'много', with the bare-stem ending typical of neuter nouns. 'Старинных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EDU-ZERKALO-10",
+        "phrase": "В этой комнате нет зеркала.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Зеркала' is the genitive form required after the negation 'нет'. 'В комнате' is the prepositional location."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-STATYA",
+    "label": "Статья",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for статья (article).",
+    "missions": [
+      {
+        "id": "NN-EDU-STATYA-01",
+        "phrase": "Эта статья очень полезная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Статья' is the nominative subject. 'Эта' agrees in the feminine nominative, 'полезная' is the predicate adjective, and 'очень' intensifies it. A simple model."
+      },
+      {
+        "id": "NN-EDU-STATYA-02",
+        "phrase": "Я уже прочитал эту статью.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Статью' is the accusative direct object of 'прочитал', with the feminine accusative ending. 'Эту' agrees in the feminine accusative, and 'уже' marks completion."
+      },
+      {
+        "id": "NN-EDU-STATYA-03",
+        "phrase": "У этой статьи нет автора.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Статьи' is genitive in the 'у + genitive' frame. The negative 'нет' then governs the genitive 'автора'. A pattern for an article lacking an author."
+      },
+      {
+        "id": "NN-EDU-STATYA-04",
+        "phrase": "Благодаря статье я многое узнал.",
+        "fullAnalysis": "Strategic focus: Dative after благодаря. The preposition 'благодаря' governs the dative, so 'статье' is dative, naming the source of knowledge. A natural pattern for thanks to something."
+      },
+      {
+        "id": "NN-EDU-STATYA-05",
+        "phrase": "Я доволен этой статьёй.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. The adjective 'доволен' governs the instrumental, so 'статьёй' is the instrumental object of satisfaction. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EDU-STATYA-06",
+        "phrase": "В этой статье много фактов.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В статье' uses the prepositional form after 'в' to mark the setting. 'Этой' agrees in the feminine prepositional, and 'много фактов' is a quantity with genitive plural."
+      },
+      {
+        "id": "NN-EDU-STATYA-07",
+        "phrase": "Эти статьи написаны хорошо.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Статьи' is the nominative plural subject. 'Эти' agrees in the plural, 'написаны' is a short passive participle, and 'хорошо' is the adverb. A plural model."
+      },
+      {
+        "id": "NN-EDU-STATYA-08",
+        "phrase": "Я прочитал много научных статей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after много. 'Статей' is the genitive plural with a fleeting vowel, used after the quantity word 'много'. 'Научных' agrees in the genitive plural. A common academic pattern."
+      },
+      {
+        "id": "NN-EDU-STATYA-09",
+        "phrase": "Редактор работает над новыми статьями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural after над. The preposition 'над' governs the instrumental, so 'статьями' is the instrumental plural, what the editor works on. 'Новыми' agrees in the same case."
+      },
+      {
+        "id": "NN-EDU-STATYA-10",
+        "phrase": "Мы говорим об этих статьях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Об статьях' uses the prepositional plural after 'об' to mark the topic. 'Этих' agrees in the prepositional plural. A model for discussing several texts."
+      }
+    ]
+  }
+]

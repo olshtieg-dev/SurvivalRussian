@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-KOROL",
+    "label": "Король",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for король (king).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-KOROL-01",
+        "phrase": "Король живёт в большом замке.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Король' is nominative as the subject of 'живёт'. 'В большом замке' is prepositional, telling where. A natural opening for a tale."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-02",
+        "phrase": "Народ любит своего короля.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate masculine noun. 'Короля' takes the genitive-like accusative because король is animate, so accusative equals genitive. 'Своего' agrees as the object of love."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-03",
+        "phrase": "В стране давно нет короля.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Короля' is genitive after 'нет', stating no king exists. 'В стране' sets the place and 'давно' the time span. The standard negation pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-04",
+        "phrase": "Слуга принёс королю письмо.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Королю' is dative, the king who receives the letter. 'Письмо' is the accusative object, and 'слуга' is the subject. A clear giving pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-05",
+        "phrase": "Рыцарь говорил с королём долго.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С королём' uses the instrumental 'королём' after 'с' to mean with the king. 'Долго' adds duration. Common for audience scenes."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-06",
+        "phrase": "Все говорили о старом короле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О короле' uses the prepositional form 'короле' after 'о' to mean about the king. 'Старом' agrees in the prepositional. Good for storytelling."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-07",
+        "phrase": "Короли собрались на большой совет.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Короли' is the nominative plural of король, the subject of 'собрались'. 'На совет' shows the destination in the accusative. A grand council scene."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-08",
+        "phrase": "История знает много великих королей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Королей' is the genitive plural required by 'много'. 'Великих' agrees in the genitive plural, and 'история' is the subject. A core counting pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-09",
+        "phrase": "Земли принадлежали разным королям.",
+        "fullAnalysis": "Strategic focus: Dative plural after 'принадлежали'. 'Королям' is the dative plural, the kings to whom the lands belonged. 'Разным' agrees in the dative plural. A core ownership pattern."
+      },
+      {
+        "id": "NN-PEOPLE-KOROL-10",
+        "phrase": "Со временем он стал королём.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Королём' is instrumental after 'стал', naming what he became. 'Со временем' adds the sense of gradual change. A clean predicate pattern."
+      }
+    ]
+  }
+]

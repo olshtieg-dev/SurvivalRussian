@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-DURAK",
+    "label": "Дурак",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for дурак (fool).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-DURAK-01",
+        "phrase": "Этот человек настоящий дурак.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Дурак' is the nominative predicate noun. 'Настоящий' is the agreeing masculine adjective intensifying the insult, with 'этот человек' as the subject."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-02",
+        "phrase": "Не слушай этого дурака.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Дурака' is the accusative object of 'не слушай', equal to the genitive for animate masculine nouns. 'Этого' agrees with it."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-03",
+        "phrase": "Это слова глупого дурака.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дурака' is genitive, marking whose words. 'Глупого' agrees in the masculine genitive, and 'слова' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-04",
+        "phrase": "Не верь этому дураку.",
+        "fullAnalysis": "Strategic focus: Dative object of 'верить'. 'Дураку' is the dative required by 'верить', the person not to be trusted. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-05",
+        "phrase": "Я не хочу говорить с дураком.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Дураком' is instrumental, the person not to speak with. 'Говорить с' governs this case, and 'не хочу' frames the refusal."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-06",
+        "phrase": "Все говорят об этом дураке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Дураке' is prepositional after 'об', the topic of gossip. 'Этом' agrees in the masculine prepositional, and 'все' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-07",
+        "phrase": "Эти дураки опять всё сломали.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Дураки' is the nominative plural subject of 'сломали'. 'Эти' agrees in the plural, and 'всё' is the accusative object."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-08",
+        "phrase": "В мире много таких дураков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Дураков' is the genitive plural required by 'много'. 'Таких' agrees in the genitive plural, and 'в мире' is prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-09",
+        "phrase": "Дурак опять забыл свои ключи.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Дурак' is the nominative subject of 'забыл'. 'Свои ключи' is the accusative plural direct object, and 'опять' adds repetition."
+      },
+      {
+        "id": "NN-PEOPLE-DURAK-10",
+        "phrase": "Я не люблю этого дурака.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Дурака' is the accusative direct object of 'люблю', equal to the genitive for animates. 'Этого' agrees in the masculine animate accusative."
+      }
+    ]
+  }
+]

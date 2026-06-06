@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-CHLEN",
+    "label": "Член",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for член (member).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-CHLEN-01",
+        "phrase": "Каждый член команды очень важен.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Член' stays in the nominative as the subject. 'Каждый' agrees in masculine, and 'команды' is genitive showing membership. A natural sentence about belonging."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-02",
+        "phrase": "Мы выбрали нового члена клуба.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Члена' is the accusative direct object of 'выбрали'; as an animate masculine noun, its accusative copies the genitive form. 'Нового' agrees in the same case."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-03",
+        "phrase": "У члена комитета есть голос.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Члена' is genitive after the preposition 'у', marking who has the right. 'Голос' stays nominative as the subject of 'есть'. A useful pattern for rights and roles."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-04",
+        "phrase": "Я доверяю каждому члену семьи.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Члену' is dative after 'доверяю', a verb that governs the dative. 'Каждому' agrees in the masculine dative. A warm template for trust within a group."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-05",
+        "phrase": "Я познакомился с новым членом.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Членом' is instrumental after the preposition 'с', naming who the speaker met. 'Познакомиться с' is a fixed pattern for first meetings. 'Новым' agrees in the instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-06",
+        "phrase": "Мы заботимся о каждом члене группы.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Члене' is the prepositional form after 'о', the object of care. 'Каждом' agrees in the masculine prepositional. A strong template for solidarity language."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-07",
+        "phrase": "Все члены семьи собрались вместе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Члены' is the nominative plural subject of 'собрались'. 'Все' agrees in plural, and 'семьи' is genitive showing the group. A natural family-gathering sentence."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-08",
+        "phrase": "Председатель поблагодарил всех членов.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Членов' is the accusative plural of an animate noun, matching the genitive plural form. 'Всех' agrees in the same case. A clear model for thanking a group."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-09",
+        "phrase": "Он стал членом партии давно.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Членом' is instrumental after 'стал', the standard pattern for joining or becoming part of something. 'Партии' is genitive, and 'давно' marks the distant past."
+      },
+      {
+        "id": "NN-PEOPLE-CHLEN-10",
+        "phrase": "Среди членов совета были учёные.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Членов' is genitive plural after 'среди', expressing among whom. 'Учёные' is nominative plural as the subject. A useful pattern for describing a body's composition."
+      }
+    ]
+  }
+]

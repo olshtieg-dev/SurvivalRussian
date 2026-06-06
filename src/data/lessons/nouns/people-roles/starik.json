@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-STARIK",
+    "label": "Старик",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for старик (old man).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-STARIK-01",
+        "phrase": "На скамейке сидит старый старик.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Старик' stays in the nominative as the subject of 'сидит'. 'Старый' is the agreeing masculine adjective, and 'на скамейке' shows the place. A simple descriptive opener."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-02",
+        "phrase": "Я часто вижу этого старика.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Старика' is the accusative direct object of 'вижу', and because the noun is animate masculine, the accusative matches the genitive form. 'Этого' agrees in the same case, and 'часто' adds frequency."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-03",
+        "phrase": "У старика нет своих детей.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Старика' is genitive after the preposition 'у', marking whose situation it is. The negated 'нет' also governs the genitive 'детей'. A natural pattern for talking about what someone lacks."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-04",
+        "phrase": "Я помог старому старику дойти домой.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Старику' is in the dative as the person helped by 'помог', a verb that governs the dative. 'Старому' is the agreeing masculine dative adjective. Useful for offers of help."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-05",
+        "phrase": "Я долго разговаривал со стариком.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Стариком' is instrumental after the preposition 'со', expressing who the speaker talked with. 'Долго' adds duration. A core pattern for conversation."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-06",
+        "phrase": "Мы заботимся о старике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Старике' is the prepositional form after 'о', expressing the object of care. 'Заботиться о' is a fixed pattern, making this a high-value template for relationships."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-07",
+        "phrase": "На лавочках сидят местные старики.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Старики' is the nominative plural subject of 'сидят'. 'Местные' is the agreeing plural adjective. A good model for the irregular plural stress and ending."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-08",
+        "phrase": "Я уважаю этих стариков.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Стариков' is the accusative plural of an animate noun, so it matches the genitive plural form. 'Этих' agrees in the same case, and 'уважаю' expresses respect."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-09",
+        "phrase": "Этот старик когда-то был врачом.",
+        "fullAnalysis": "Strategic focus: Nominative with instrumental predicate. 'Старик' is the nominative subject of the past tense 'был'. The profession 'врачом' appears in the instrumental, the standard pattern after past-tense быть."
+      },
+      {
+        "id": "NN-PEOPLE-STARIK-10",
+        "phrase": "Дети помогают старикам каждый день.",
+        "fullAnalysis": "Strategic focus: Dative plural recipient. 'Старикам' is the dative plural after 'помогают', which governs the dative. 'Каждый день' adds regularity. A warm everyday sentence about helping the elderly."
+      }
+    ]
+  }
+]

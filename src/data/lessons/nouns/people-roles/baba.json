@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-BABA",
+    "label": "Баба",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for баба (woman; peasant woman).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-BABA-01",
+        "phrase": "Эта баба живёт в деревне.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Баба' is the nominative subject of 'живёт'. 'Эта' points at her, and 'в деревне' is a prepositional place phrase."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-02",
+        "phrase": "Я встретил знакомую бабу вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бабу' is the accusative object of 'встретил'. 'Знакомую' agrees in the feminine accusative, and 'вчера' sets the past time."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-03",
+        "phrase": "Это корзина соседской бабы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Бабы' is the genitive form showing whose basket it is. 'Соседской' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-04",
+        "phrase": "Дети помогают старой бабе носить воду.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Бабе' is the dative form, the person helped. 'Старой' agrees in feminine dative, and 'носить воду' states the action."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-05",
+        "phrase": "Я разговаривал с этой бабой долго.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Бабой' is the instrumental form marking the conversation partner. 'Этой' agrees in feminine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-06",
+        "phrase": "В деревне говорят о деревенской бабе.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'о'. 'Бабе' is the prepositional form for the topic. 'Деревенской' is the agreeing feminine prepositional adjective."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-07",
+        "phrase": "Бабы работают в поле всё лето.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Бабы' is the nominative plural subject of 'работают'. 'В поле' is a prepositional place phrase, and 'всё лето' marks duration."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-08",
+        "phrase": "Он не боится сельских баб.",
+        "fullAnalysis": "Strategic focus: Genitive plural under negation. 'Баб' is the genitive plural required by 'бояться'. 'Сельских' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-09",
+        "phrase": "Мужики помогали бабам с урожаем.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Бабам' is the dative plural because 'помогать' governs the dative. 'С урожаем' is an instrumental phrase of accompaniment."
+      },
+      {
+        "id": "NN-PEOPLE-BABA-10",
+        "phrase": "Баба несёт тяжёлые вёдра домой.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Баба' is the nominative subject of 'несёт'. 'Тяжёлые вёдра' is the accusative plural object, and 'домой' shows direction."
+      }
+    ]
+  }
+]

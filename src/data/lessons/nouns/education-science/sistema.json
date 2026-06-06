@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EDU-SISTEMA",
+    "label": "Система",
+    "badge": "EDU",
+    "description": "A 10-sentence usage card for система (system).",
+    "missions": [
+      {
+        "id": "NN-EDU-SISTEMA-01",
+        "phrase": "Новая система работает очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Система' is nominative as the subject of 'работает'. 'Новая' is the agreeing feminine adjective, and 'очень быстро' describes the action. A natural tech statement."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-02",
+        "phrase": "Инженеры создали новую систему.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Систему' is the accusative direct object of 'создали'. 'Новую' agrees in the feminine accusative, and 'инженеры' is the subject. A core building pattern."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-03",
+        "phrase": "У этой системы много преимуществ.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Системы' is genitive after the possessive frame 'у', showing whose advantages. 'Этой' agrees in the genitive feminine, and 'много преимуществ' counts them. A clean description."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-04",
+        "phrase": "Мы доверяем этой новой системе.",
+        "fullAnalysis": "Strategic focus: Dative after 'доверяем'. 'Системе' is dative, the system trusted. 'Этой новой' agrees in the dative feminine. A useful pattern for reliance."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-05",
+        "phrase": "Мы пользуемся современной системой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'пользуемся'. 'Системой' is instrumental, governed by the verb meaning to use. 'Современной' agrees in the instrumental feminine. A core usage pattern."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-06",
+        "phrase": "Мы говорили об этой системе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об этой системе' uses the prepositional form 'системе' after 'об' to mean about the system. 'Этой' agrees in the prepositional feminine. Good for discussion."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-07",
+        "phrase": "Старые системы быстро устаревают.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Системы' is the nominative plural of система, the subject of 'устаревают'. 'Старые' is the agreeing plural adjective, and 'быстро' adds manner. A general observation."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-08",
+        "phrase": "В мире много разных систем.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a quantity word. 'Систем' is the genitive plural required by 'много', with a zero ending. 'Разных' agrees in the genitive plural, and 'в мире' sets the scope. A core counting pattern."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-09",
+        "phrase": "Компания обновляет свои системы регулярно.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Системы' is the accusative plural of an inanimate noun, matching the nominative plural. 'Свои' agrees, and 'компания' is the subject. A clean maintenance pattern."
+      },
+      {
+        "id": "NN-EDU-SISTEMA-10",
+        "phrase": "Это часть единой системы образования.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Системы' is genitive after 'часть', showing part of the system. 'Единой' agrees in the genitive feminine, and 'образования' specifies it. A useful structural phrase."
+      }
+    ]
+  }
+]

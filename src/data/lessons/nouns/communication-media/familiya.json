@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-FAMILIYA",
+    "label": "Фамилия",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for фамилия (surname).",
+    "missions": [
+      {
+        "id": "NN-COMMS-FAMILIYA-01",
+        "phrase": "Его фамилия очень редкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Фамилия' stays in the nominative as the subject. 'Редкая' is the agreeing feminine adjective, and 'очень' intensifies it. A clean introduction to this feminine noun."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-02",
+        "phrase": "Я забыл его фамилию.",
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Фамилию' is the accusative object of 'забыл'; feminine -ия nouns take -ию here. 'Его' is the unchanging possessive. A common everyday confession."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-03",
+        "phrase": "Я не помню её фамилии.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Фамилии' is the genitive used with the negated verb 'не помню'. Feminine -ия nouns take -ии in the genitive singular. 'Её' is the unchanging possessive."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-04",
+        "phrase": "Я не доверяю этой фамилии.",
+        "fullAnalysis": "Strategic focus: Dative after a verb. 'Фамилии' is the dative governed by 'доверять', which takes a dative object. 'Этой' agrees in the feminine dative, matching the -ия pattern."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-05",
+        "phrase": "Он гордится своей фамилией.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Фамилией' is the instrumental governed by 'гордиться', which takes the instrumental for the thing one is proud of. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-06",
+        "phrase": "В этой фамилии есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Фамилии' is the prepositional form after 'в'; feminine -ия nouns take -ии here. 'Ошибка' is the nominative subject of 'есть'."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-07",
+        "phrase": "Назовите вашу фамилию, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative in a request. 'Фамилию' is the accusative object of the imperative 'назовите'. 'Вашу' agrees in the feminine accusative, and 'пожалуйста' adds politeness."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-08",
+        "phrase": "В списке были незнакомые фамилии.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Фамилии' is the nominative plural as the subject of 'были'. 'Незнакомые' agrees as a plural adjective, and 'в списке' gives the prepositional location."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-09",
+        "phrase": "Я записал все эти фамилии.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Фамилии' is the accusative plural of 'записал'; as an inanimate noun it keeps the nominative-plural form. 'Все эти' agree in the plural."
+      },
+      {
+        "id": "NN-COMMS-FAMILIYA-10",
+        "phrase": "У многих студентов одинаковые фамилии.",
+        "fullAnalysis": "Strategic focus: Nominative plural with a possession frame. 'Фамилии' is the nominative-plural thing possessed. 'У многих студентов' uses the genitive plural after 'у', and 'одинаковые' agrees in the plural."
+      }
+    ]
+  }
+]
