@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-PRAVYI-LEVYI",
+    "label": "Правый / Левый",
+    "badge": "RIGHT/LEFT",
+    "description": "Правый vs левый: right (side)/left contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-PRAVYI-LEVYI-01",
+        "phrase": "Впереди будет правый поворот.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Правый' takes the masculine ending to match 'поворот'. The driving cue anchors the spatial form in a concrete direction."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-02",
+        "phrase": "У меня болит левая рука.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Левая' takes the feminine ending to match 'рука'. The body-part phrase grounds the spatial form in everyday speech."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-03",
+        "phrase": "Правое колено немного опухло.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Правое' takes the neuter ending to match 'колено'. The bodily detail makes the neuter spatial form concrete."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-04",
+        "phrase": "Левые двери открываются первыми.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Левые' takes the plural ending to match 'двери'. The everyday instruction fixes the plural spatial form in mind."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-05",
+        "phrase": "Правая нога устала больше левой.",
+        "fullAnalysis": "Strategic focus: Direct feminine contrast. 'Правая' is nominative for 'нога' while 'левой' is genitive after the comparative. The comparison pairs both spatial adjectives in one thought."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-06",
+        "phrase": "Повернись и подними левую ногу.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Левую' takes the feminine accusative ending to match the object 'ногу'. The exercise command shows the form in motion."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-07",
+        "phrase": "Напиши адрес в правом углу.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional agreement. After 'в', 'правом' takes the prepositional ending to match 'углу'. The practical instruction roots the spatial form in daily life."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-08",
+        "phrase": "Магазин стоит на левой стороне.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional agreement. After 'на', 'левой' takes the prepositional ending to match 'стороне'. The directions place the spatial form in an everyday route."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-09",
+        "phrase": "Возьми вилку в левую руку, а нож в правую.",
+        "fullAnalysis": "Strategic focus: Paired accusative contrast. Both 'левую' and 'правую' take feminine accusative endings to match 'руку'. The table-manners instruction sets the two directions side by side."
+      },
+      {
+        "id": "BA-PRAVYI-LEVYI-10",
+        "phrase": "Иди по правому берегу реки.",
+        "fullAnalysis": "Strategic focus: Masculine dative agreement. After 'по', 'правому' takes the dative ending to match 'берегу'. The route description anchors the spatial form along a riverside walk."
+      }
+    ]
+  }
+]

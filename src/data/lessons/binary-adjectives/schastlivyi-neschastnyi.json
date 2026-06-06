@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-SCHASTLIVYI-NESCHASTNYI",
+    "label": "Счастливый / Несчастный",
+    "badge": "HAPPY/UNHAPPY",
+    "description": "Счастливый vs несчастный: happy/unhappy contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-01",
+        "phrase": "Сегодня очень счастливый день.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Счастливый' takes the masculine ending to match 'день'. The everyday remark anchors the form in a common moment."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-02",
+        "phrase": "У неё была несчастная судьба.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Несчастная' takes the feminine ending to match 'судьба'. The sentence places the form in a reflective context."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-03",
+        "phrase": "У них счастливое детство.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Счастливое' takes the neuter ending to match 'детство'. The warm memory makes the neuter form concrete."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-04",
+        "phrase": "Счастливые дети играют во дворе.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Счастливые' takes the plural ending to match 'дети'. The lively image fixes the plural form in mind."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-05",
+        "phrase": "Счастливый человек помог несчастному другу.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Счастливый' is nominative for 'человек' while 'несчастному' is dative for the recipient 'другу'. One sentence pairs happy against unhappy."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-06",
+        "phrase": "Я так счастлив сегодня!",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'счастлив' states a present feeling of the subject and is very common in speech. Short forms suit a current emotional state."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-07",
+        "phrase": "Она была счастлива на свадьбе.",
+        "fullAnalysis": "Strategic focus: Short-form feminine predicate. 'Счастлива' is the feminine short form after past-tense 'была'. The celebration roots the form in an everyday occasion."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-08",
+        "phrase": "После аварии он чувствовал себя несчастным.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental in the predicate. After 'чувствовал себя', 'несчастным' takes the instrumental ending describing the subject. This shows the reflexive-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-09",
+        "phrase": "Без друзей они были несчастными.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'несчастными' takes the plural instrumental ending to match 'они'. The sentence extends the быть-plus-instrumental pattern into the plural."
+      },
+      {
+        "id": "BA-SCHASTLIVYI-NESCHASTNYI-10",
+        "phrase": "С тобой я намного счастливее.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Счастливее' is the comparative of 'счастливый' and stays the same for any gender. The warm statement shows the comparative in everyday use."
+      }
+    ]
+  }
+]

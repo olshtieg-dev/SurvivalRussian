@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-TIKHII-GROMKII",
+    "label": "Тихий / Громкий",
+    "badge": "QUIET/LOUD",
+    "description": "Тихий vs громкий: quiet/loud contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-TIKHII-GROMKII-01",
+        "phrase": "У соседей очень громкий телевизор.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Громкий' takes the masculine ending to match 'телевизор'. The everyday annoyance anchors the form in daily life."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-02",
+        "phrase": "В библиотеке очень тихая комната.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Тихая' takes the feminine ending to match 'комната'. The library scene fits the quiet sense of the adjective naturally."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-03",
+        "phrase": "Это место тихое и спокойное.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Тихое' takes the neuter ending to match 'место', here in its calm sense alongside 'спокойное'. The pairing shows тихий can mean peaceful as well as quiet."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-04",
+        "phrase": "На улице громкие звуки машин.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Громкие' takes the plural ending to match 'звуки'. The street noise fixes the plural form in a concrete scene."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-05",
+        "phrase": "Громкий ребёнок разбудил тихого соседа.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Громкий' is nominative for 'ребёнок' while 'тихого' is accusative for the animate 'соседа'. One sentence pairs loud against quiet."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-06",
+        "phrase": "Сделай музыку тише, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Тише' is the comparative of 'тихий' and stays the same for any gender. The polite request shows the comparative in a common command."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-07",
+        "phrase": "Её голос был очень тихим.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental in the predicate. After past-tense 'был', 'тихим' takes the instrumental ending to match 'голос'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-08",
+        "phrase": "Их аплодисменты были громкими.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'громкими' takes the plural instrumental ending to match 'аплодисменты'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-09",
+        "phrase": "Говори громче, я не слышу!",
+        "fullAnalysis": "Strategic focus: Comparative of the opposite adjective. 'Громче' is the comparative of 'громкий' and is invariable. The urgent request roots the form in everyday speech."
+      },
+      {
+        "id": "BA-TIKHII-GROMKII-10",
+        "phrase": "Утром в парке было тихо.",
+        "fullAnalysis": "Strategic focus: Adverbial short form. 'Тихо' works as a predicate describing the surroundings, the impersonal use of тихий. The morning scene shows its calm, quiet sense."
+      }
+    ]
+  }
+]

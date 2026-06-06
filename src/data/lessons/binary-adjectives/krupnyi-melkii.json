@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-KRUPNYI-MELKII",
+    "label": "Крупный / Мелкий",
+    "badge": "LARGE/SMALL",
+    "description": "Крупный vs мелкий: large-scale/small/fine/petty contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-KRUPNYI-MELKII-01",
+        "phrase": "Москва - крупный город.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Крупный' takes the masculine ending to match 'город' and here means large in scale. The phrase anchors the form in geography."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-02",
+        "phrase": "На пляже очень мелкий песок.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Мелкий' matches 'песок' and here means fine-grained rather than physically small. The beach scene grounds this distinct sense."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-03",
+        "phrase": "У меня только мелкие деньги.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Мелкие' matches 'деньги' and means small change in this everyday sense. The phrase shows the form in a common money context."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-04",
+        "phrase": "Это была крупная сумма.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Крупная' takes the feminine ending to match 'сумма' and means large in amount. The remark roots the feminine form in daily life."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-05",
+        "phrase": "Здесь крупное предприятие.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Крупное' takes the neuter ending to match 'предприятие' and means large-scale. The phrase makes the neuter form concrete."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-06",
+        "phrase": "В реке вода тут мелкая.",
+        "fullAnalysis": "Strategic focus: Feminine predicate adjective. 'Мелкая' describes 'вода' and here means shallow, a key extra sense of the word. The river scene fixes this meaning."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-07",
+        "phrase": "Крупный дождь сменился мелким.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Крупный' is nominative for 'дождь' while 'мелким' is instrumental after 'сменился'. The sentence pairs both adjectives in one change."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-08",
+        "phrase": "Не будь таким мелким человеком.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental with a figurative sense. 'Мелким' matches 'человеком' in the instrumental and here means petty. The advice shows the abstract use of the word."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-09",
+        "phrase": "В корзине лежат крупные яблоки.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Крупные' takes the plural ending to match 'яблоки' and means large in size. The kitchen image fixes the plural form."
+      },
+      {
+        "id": "BA-KRUPNYI-MELKII-10",
+        "phrase": "Этот шрифт мельче прежнего.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Мельче' is the comparative of 'мелкий' and stays the same for any gender. The sentence compares one font to another in fineness."
+      }
+    ]
+  }
+]

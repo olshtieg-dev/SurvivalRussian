@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-STARSHII-MLADSHII",
+    "label": "Старший / Младший",
+    "badge": "ELDER/YOUNGER",
+    "description": "Старший vs младший: elder/younger contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-STARSHII-MLADSHII-01",
+        "phrase": "Мой старший брат уже работает.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Старший' takes the masculine ending to match 'брат', marking him as the elder sibling. The family phrase introduces the seniority sense."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-02",
+        "phrase": "Моя младшая сестра ходит в школу.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Младшая' takes the feminine ending to match 'сестра', marking her as the younger sibling. The sentence roots the form in family life."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-03",
+        "phrase": "Младшие классы учатся утром.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Младшие' takes the plural ending to match 'классы', the lower grades at school. The phrase shows the rank sense in an everyday setting."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-04",
+        "phrase": "Старшее поколение помнит войну.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Старшее' takes the neuter ending to match 'поколение', the elder generation. The sentence fixes the neuter form in a clear context."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-05",
+        "phrase": "Старший сын помогает младшему.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Старший' is nominative for 'сын' while 'младшему' is dative standing in for the younger one. The pairing sets both ranks against each other."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-06",
+        "phrase": "Старшие дети присматривают за малышами.",
+        "fullAnalysis": "Strategic focus: Plural agreement used substantively. 'Старшие' matches 'дети' and means the older children. The sentence shows how the form names the elder ones."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-07",
+        "phrase": "Кто из них старше?",
+        "fullAnalysis": "Strategic focus: Comparative form as a question. 'Старше' is the comparative of 'старший' and stays the same for any gender. The question asks which of the two is older."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-08",
+        "phrase": "Он младший научный сотрудник.",
+        "fullAnalysis": "Strategic focus: Masculine agreement in a title. 'Младший' matches 'сотрудник' and marks a junior rank at work. The phrase shows the seniority sense beyond family."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-09",
+        "phrase": "Младшая дочь очень любознательна.",
+        "fullAnalysis": "Strategic focus: Feminine agreement naming the younger child. 'Младшая' matches 'дочь' and marks her as the younger daughter. The sentence keeps the rank in a family scene."
+      },
+      {
+        "id": "BA-STARSHII-MLADSHII-10",
+        "phrase": "Старшие всегда советуют младшим.",
+        "fullAnalysis": "Strategic focus: Plural substantive contrast. Both adjectives stand alone as nouns, 'старшие' as the elders in the nominative and 'младшим' as the younger ones in the dative. The proverb-like line pairs both ranks."
+      }
+    ]
+  }
+]

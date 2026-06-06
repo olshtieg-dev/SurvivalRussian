@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-DOLGII-KRATKII",
+    "label": "Долгий / Краткий",
+    "badge": "LONG/BRIEF",
+    "description": "Долгий vs краткий: long (in time)/brief contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-DOLGII-KRATKII-01",
+        "phrase": "Нас ждёт долгий путь домой.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement and temporal sense. 'Долгий' takes the masculine ending to match 'путь' and means long in time, not in distance. The travel phrase fixes the duration meaning."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-02",
+        "phrase": "Это была краткая встреча.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Краткая' takes the feminine ending to match 'встреча' and signals a brief, short-lived event. The sentence anchors the temporal sense in a everyday encounter."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-03",
+        "phrase": "У нас впереди долгое лето.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Долгое' takes the neuter ending to match 'лето' and describes a stretch of time. The seasonal image makes the neuter form concrete."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-04",
+        "phrase": "Были долгие зимние вечера.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Долгие' takes the plural ending to match 'вечера' and points to drawn-out time. The cosy scene fixes the plural temporal form."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-05",
+        "phrase": "После долгой дороги был краткий отдых.",
+        "fullAnalysis": "Strategic focus: Direct temporal contrast. 'Долгой' is feminine genitive after 'после' for 'дороги', while 'краткий' is masculine nominative for 'отдых'. The sentence pairs a lengthy journey against a brief rest."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-06",
+        "phrase": "Запомни этот краткий миг.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Краткий' matches the inanimate masculine 'миг', whose accusative equals the nominative. The phrase pins down the sense of a fleeting moment."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-07",
+        "phrase": "Лекция была краткой и ясной.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'краткой' takes the feminine instrumental ending to match 'лекция'. This shows the быть-plus-instrumental pattern with a temporal meaning."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-08",
+        "phrase": "Разговоры были долгими и тёплыми.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'долгими' takes the plural instrumental ending to match 'разговоры'. The sentence extends the duration sense into the plural."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-09",
+        "phrase": "Ответ был краток и точен.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'краток' states a present quality of 'ответ' with a vowel-fill 'о'. Short forms suit a clipped description of brevity."
+      },
+      {
+        "id": "BA-DOLGII-KRATKII-10",
+        "phrase": "Это путешествие оказалось дольше обычного.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Дольше' is the comparative of 'долгий' for duration and stays the same for any gender. The sentence compares this trip's length in time to the usual."
+      }
+    ]
+  }
+]

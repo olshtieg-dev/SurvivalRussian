@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-GORYACHII-KHOLODNYI",
+    "label": "Горячий / Холодный",
+    "badge": "HOT/COLD",
+    "description": "Горячий vs холодный: hot/cold contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-01",
+        "phrase": "Утром я пью горячий чай.",
+        "fullAnalysis": "Strategic focus: Masculine accusative agreement. 'Горячий' matches the inanimate masculine 'чай', whose accusative looks like the nominative. The breakfast scene anchors the thermal sense of the adjective."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-02",
+        "phrase": "В стакане холодная вода.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Холодная' takes the feminine ending to match 'вода'. The simple image fixes the cold sense in daily life."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-03",
+        "phrase": "Молоко уже совсем холодное.",
+        "fullAnalysis": "Strategic focus: Neuter predicate agreement. 'Холодное' matches the neuter 'молоко' as a predicate describing its temperature. The kitchen remark makes the neuter form concrete."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-04",
+        "phrase": "На плите стоят горячие кастрюли.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Горячие' takes the plural ending to match 'кастрюли'. The stove scene fixes the plural form in mind."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-05",
+        "phrase": "Он любит горячий суп, а не холодный.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Горячий' and 'холодный' both match the masculine 'суп', set against each other by 'а не'. One sentence pairs hot against cold."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-06",
+        "phrase": "Будь осторожен, чайник очень горячий!",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Горячий' follows the noun as a predicate describing 'чайник'. The warning roots the thermal form in daily life."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-07",
+        "phrase": "Суп был ещё горячим.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental in the predicate. After past-tense 'был', 'горячим' takes the instrumental ending to match 'суп'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-08",
+        "phrase": "Напитки были холодными.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'холодными' takes the plural instrumental ending to match 'напитки'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-09",
+        "phrase": "Этот кофе горячее, чем тот.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Горячее' is the comparative of 'горячий' and stays the same for any gender. The comparison uses 'чем' to set two drinks side by side."
+      },
+      {
+        "id": "BA-GORYACHII-KHOLODNYI-10",
+        "phrase": "Зимой вода в реке холоднее.",
+        "fullAnalysis": "Strategic focus: Comparative of the opposite adjective. 'Холоднее' is the comparative of 'холодный' and is invariable. The seasonal note roots the form in a familiar scene."
+      }
+    ]
+  }
+]

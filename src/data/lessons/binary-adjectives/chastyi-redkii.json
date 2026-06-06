@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-CHASTYI-REDKII",
+    "label": "Частый / Редкий",
+    "badge": "OFTEN/RARE",
+    "description": "Частый vs редкий: frequent/rare contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-CHASTYI-REDKII-01",
+        "phrase": "Зимой здесь частый снег.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Частый' takes the masculine ending to match 'снег'. The weather note anchors the form in a common seasonal observation."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-02",
+        "phrase": "У него редкая фамилия.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Редкая' takes the feminine ending to match 'фамилия'. The everyday remark roots the feminine form in daily speech."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-03",
+        "phrase": "Это редкое явление в природе.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Редкое' takes the neuter ending to match 'явление'. The phrase fixes the neuter form in a concrete observation."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-04",
+        "phrase": "У меня частые головные боли.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Частые' takes the plural ending to match 'боли'. The familiar complaint anchors the plural form."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-05",
+        "phrase": "Частые гости стали редкими.",
+        "fullAnalysis": "Strategic focus: Direct plural contrast. 'Частые' is plural nominative for 'гости' while 'редкими' is plural instrumental after 'стали'. The sentence pairs both adjectives in one shift."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-06",
+        "phrase": "Дожди этим летом очень редкие.",
+        "fullAnalysis": "Strategic focus: Plural predicate adjective. 'Редкие' follows the noun as a predicate describing 'дожди'. The everyday weather remark grounds the form."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-07",
+        "phrase": "Её визиты были редкими.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After past-tense 'были', 'редкими' takes the plural instrumental ending to match 'визиты'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-08",
+        "phrase": "В лесу растёт редкий цветок.",
+        "fullAnalysis": "Strategic focus: Masculine nominative in a sentence. 'Редкий' takes the masculine ending to match 'цветок'. The nature scene makes the masculine form concrete."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-09",
+        "phrase": "Такие случаи редки.",
+        "fullAnalysis": "Strategic focus: Short-form plural predicate. The short form 'редки' states a present quality of the subject 'случаи'. Short forms are typical when stating a general truth."
+      },
+      {
+        "id": "BA-CHASTYI-REDKII-10",
+        "phrase": "Письма от него стали реже.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Реже' is the comparative of 'редкий' and stays the same for any gender. The sentence compares the present frequency to the past."
+      }
+    ]
+  }
+]

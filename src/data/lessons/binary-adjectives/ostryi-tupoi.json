@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-OSTRYI-TUPOI",
+    "label": "Острый / Тупой",
+    "badge": "SHARP/BLUNT",
+    "description": "Острый vs тупой: sharp/blunt contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-OSTRYI-TUPOI-01",
+        "phrase": "У повара очень острый нож.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Острый' takes the masculine ending to match 'нож'. The kitchen image anchors the literal sharp sense in daily life."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-02",
+        "phrase": "Этот карандаш совсем тупой.",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Тупой' follows the noun as a predicate describing 'карандаш'. The everyday complaint roots the blunt sense in a familiar object."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-03",
+        "phrase": "У кошки острые когти.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Острые' takes the plural ending to match 'когти'. The vivid image fixes the sharp plural form in mind."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-04",
+        "phrase": "У этого ножа тупое лезвие.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Тупое' takes the neuter ending to match 'лезвие'. The concrete tool detail makes the neuter form clear."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-05",
+        "phrase": "Острый нож режет лучше тупого.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Острый' is nominative for 'нож' while 'тупого' is genitive of comparison standing in for the dull one. The pairing sets both adjectives against each other."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-06",
+        "phrase": "Мне нравится острая корейская еда.",
+        "fullAnalysis": "Strategic focus: Feminine nominative and the spicy sense. 'Острая' takes the feminine ending to match 'еда', here meaning spicy rather than sharp. The food context shows острый's everyday second meaning."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-07",
+        "phrase": "У неё острый ум.",
+        "fullAnalysis": "Strategic focus: Masculine agreement and the keen sense. 'Острый' matches 'ум' and here means keen or quick-witted. The phrase shows how острый extends to the mind."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-08",
+        "phrase": "Не задавай тупые вопросы!",
+        "fullAnalysis": "Strategic focus: Plural agreement and the colloquial sense. 'Тупые' matches 'вопросы' and here carries the informal meaning of dumb or stupid. The blunt phrasing fits casual speech."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-09",
+        "phrase": "Этот угол слишком острый.",
+        "fullAnalysis": "Strategic focus: Masculine geometric sense. 'Острый' matches 'угол' to mean an acute angle. The sentence shows острый's precise use in measurement."
+      },
+      {
+        "id": "BA-OSTRYI-TUPOI-10",
+        "phrase": "Этот нож острее старого.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Острее' is the comparative of 'острый' and stays the same for any gender. The sentence compares one knife with the old one."
+      }
+    ]
+  }
+]

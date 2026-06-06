@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-VESYOLYI-GRUSTNYI",
+    "label": "Весёлый / Грустный",
+    "badge": "MERRY/SAD",
+    "description": "Весёлый vs грустный: cheerful/sad contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-01",
+        "phrase": "У нас весёлый сосед.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Весёлый' takes the masculine ending to match 'сосед'. The everyday phrase anchors the form in a familiar context."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-02",
+        "phrase": "Сегодня играет грустная музыка.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Грустная' takes the feminine ending to match 'музыка'. The sentence places the form in a vivid everyday scene."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-03",
+        "phrase": "Это было весёлое лето.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Весёлое' takes the neuter ending to match 'лето'. The fond memory makes the neuter form concrete."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-04",
+        "phrase": "У клоуна грустные глаза.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Грустные' takes the plural ending to match 'глаза'. The vivid image fixes the plural form in mind."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-05",
+        "phrase": "Весёлый мальчик утешил грустную сестру.",
+        "fullAnalysis": "Strategic focus: Direct contrast across genders. 'Весёлый' is masculine nominative for 'мальчик' while 'грустную' is feminine accusative for 'сестру'. The scene pairs both adjectives in one action."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-06",
+        "phrase": "Этот фильм очень грустный.",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Грустный' follows the noun as a predicate describing 'фильм'. The everyday remark roots the form in daily life."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-07",
+        "phrase": "Её песня была весёлой.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'весёлой' takes the feminine instrumental ending to match 'песня'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-08",
+        "phrase": "Их лица были грустными.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'грустными' takes the plural instrumental ending to match 'лица'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-09",
+        "phrase": "Почему ты сегодня так грустен?",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'грустен' states a present mood of the subject with a vowel-fill 'е'. Short forms are typical when describing a current state."
+      },
+      {
+        "id": "BA-VESYOLYI-GRUSTNYI-10",
+        "phrase": "На вечеринке стало веселее.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Веселее' is the comparative of 'весёлый' and stays the same for any gender. The sentence reports a shift in the party's mood."
+      }
+    ]
+  }
+]

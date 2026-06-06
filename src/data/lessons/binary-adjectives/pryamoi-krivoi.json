@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-PRYAMOI-KRIVOI",
+    "label": "Прямой / Кривой",
+    "badge": "STRAIGHT/BENT",
+    "description": "Прямой vs кривой: straight/crooked contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-PRYAMOI-KRIVOI-01",
+        "phrase": "Перед нами длинный прямой путь.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Прямой' takes the masculine ending to match 'путь'. The travel image anchors the form in a concrete scene."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-02",
+        "phrase": "На столе лежит кривая ложка.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Кривая' takes the feminine ending to match 'ложка'. The household detail roots the feminine form in daily life."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-03",
+        "phrase": "У дома кривое крыльцо.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Кривое' takes the neuter ending to match 'крыльцо'. The everyday observation makes the neuter form concrete."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-04",
+        "phrase": "У старого забора кривые доски.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Кривые' takes the plural ending to match 'доски'. The vivid image fixes the plural form in mind."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-05",
+        "phrase": "Прямая дорога лучше кривой тропинки.",
+        "fullAnalysis": "Strategic focus: Direct feminine contrast. 'Прямая' is nominative for 'дорога' while 'кривой' is genitive for 'тропинки' after 'лучше'. The comparison pairs both adjectives in one thought."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-06",
+        "phrase": "Этот гвоздь совсем кривой.",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Кривой' follows the noun as a predicate describing 'гвоздь'. The everyday remark grounds the form in daily life."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-07",
+        "phrase": "Он дал мне прямой и честный ответ.",
+        "fullAnalysis": "Strategic focus: Figurative masculine sense. Here 'прямой' means direct or honest and matches 'ответ' in the masculine. The sentence shows the abstract use of the adjective."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-08",
+        "phrase": "Её спина всегда прямая.",
+        "fullAnalysis": "Strategic focus: Feminine predicate adjective. 'Прямая' follows the noun as a predicate describing 'спина'. The habitual remark fixes the feminine form."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-09",
+        "phrase": "Эта линия не совсем пряма.",
+        "fullAnalysis": "Strategic focus: Short-form feminine predicate. The short form 'пряма' states a present quality of the subject 'линия'. Short forms are typical when describing a current state."
+      },
+      {
+        "id": "BA-PRYAMOI-KRIVOI-10",
+        "phrase": "Эта улица прямее прежней.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Прямее' is the comparative of 'прямой' and stays the same for any gender. The sentence compares one street to another."
+      }
+    ]
+  }
+]

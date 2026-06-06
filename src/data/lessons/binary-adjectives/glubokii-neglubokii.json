@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-GLUBOKII-NEGLUBOKII",
+    "label": "Глубокий / Неглубокий",
+    "badge": "DEEP/SHALLOW",
+    "description": "Глубокий vs неглубокий: deep/shallow contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-01",
+        "phrase": "За домом течёт глубокий ручей.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Глубокий' takes the masculine ending to match 'ручей'. The outdoor scene anchors the form in a concrete observation."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-02",
+        "phrase": "Здесь неглубокая река.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Неглубокая' takes the feminine ending to match 'река'. The sentence places the form in a simple spatial remark."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-03",
+        "phrase": "В парке есть глубокое озеро.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Глубокое' takes the neuter ending to match 'озеро'. The everyday setting makes the neuter form concrete."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-04",
+        "phrase": "На берегу видны неглубокие лужи.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Неглубокие' takes the plural ending to match 'лужи'. The vivid image fixes the plural form in mind."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-05",
+        "phrase": "Глубокий колодец надёжнее неглубокого.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. 'Глубокий' is nominative for 'колодец' while 'неглубокого' is genitive after the comparative. The comparison pairs both adjectives in one thought."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-06",
+        "phrase": "Этот пруд совсем неглубокий.",
+        "fullAnalysis": "Strategic focus: Masculine predicate adjective. 'Неглубокий' follows the noun as a predicate describing 'пруд'. The everyday remark roots the form in daily life."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-07",
+        "phrase": "Её рана была глубокой.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'глубокой' takes the feminine instrumental ending to match 'рана'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-08",
+        "phrase": "Их знания были глубокими.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'глубокими' takes the plural instrumental ending to match 'знания'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-09",
+        "phrase": "У берега вода неглубока.",
+        "fullAnalysis": "Strategic focus: Short-form feminine predicate. The short form 'неглубока' states a present quality of 'вода'. Short forms are typical when describing a current state."
+      },
+      {
+        "id": "BA-GLUBOKII-NEGLUBOKII-10",
+        "phrase": "В середине озера вода глубже.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Глубже' is the comparative of 'глубокий' and stays the same for any gender. The sentence compares the centre of the lake to its edge."
+      }
+    ]
+  }
+]

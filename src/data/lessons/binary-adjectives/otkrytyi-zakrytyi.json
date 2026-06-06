@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-OTKRYTYI-ZAKRYTYI",
+    "label": "Открытый / Закрытый",
+    "badge": "OPEN/CLOSED",
+    "description": "Открытый vs закрытый: open/closed contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-01",
+        "phrase": "Магазин сегодня открытый.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Открытый', a participle-adjective from 'открыть', takes the masculine ending to match 'магазин'. The everyday remark anchors the form in daily errands."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-02",
+        "phrase": "Эта дверь была закрытая.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Закрытая', a participle-adjective from 'закрыть', takes the feminine ending to match 'дверь'. The sentence roots the form in a familiar household scene."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-03",
+        "phrase": "Окно было широко открытое.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Открытое' takes the neuter ending to match 'окно'. The image of fresh air makes the neuter participle-adjective concrete."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-04",
+        "phrase": "Все окна были закрытые.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Закрытые' takes the plural ending to match 'окна'. The everyday detail fixes the plural participle-adjective in mind."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-05",
+        "phrase": "Открытый банк работает, а закрытый отдыхает.",
+        "fullAnalysis": "Strategic focus: Direct masculine contrast. Both 'открытый' and 'закрытый' are nominative for the masculine 'банк'. The sentence pairs the open and closed participle-adjectives in one comparison."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-06",
+        "phrase": "Закрой открытую дверь.",
+        "fullAnalysis": "Strategic focus: Feminine accusative agreement. 'Открытую' matches the feminine 'дверь' as the object of 'закрой'. The short command keeps the participle-adjective practical."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-07",
+        "phrase": "Касса была закрытой до утра.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'закрытой' takes the feminine instrumental ending to match 'касса'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-08",
+        "phrase": "Двери были открытыми весь день.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'открытыми' takes the plural instrumental ending to match 'двери'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-09",
+        "phrase": "Вход открыт для всех гостей.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'открыт' states a present state of 'вход' without an ending. Short forms are typical for these participle-adjectives in the predicate."
+      },
+      {
+        "id": "BA-OTKRYTYI-ZAKRYTYI-10",
+        "phrase": "Музей закрыт по понедельникам.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'закрыт' states the current status of 'музей'. The schedule note shows how naturally the short participle-adjective works in everyday speech."
+      }
+    ]
+  }
+]

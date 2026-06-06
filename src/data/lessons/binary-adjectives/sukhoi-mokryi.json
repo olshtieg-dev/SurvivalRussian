@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BA-SUKHOI-MOKRYI",
+    "label": "Сухой / Мокрый",
+    "badge": "DRY/WET",
+    "description": "Сухой vs мокрый: dry/wet contrasts across genders and everyday scenes.",
+    "missions": [
+      {
+        "id": "BA-SUKHOI-MOKRYI-01",
+        "phrase": "На улице сухой тёплый воздух.",
+        "fullAnalysis": "Strategic focus: Masculine nominative agreement. 'Сухой' takes the masculine ending to match 'воздух'. The weather phrase anchors the form in a daily observation."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-02",
+        "phrase": "После дождя трава совсем мокрая.",
+        "fullAnalysis": "Strategic focus: Feminine nominative agreement. 'Мокрая' takes the feminine ending to match 'трава'. The rainy scene roots the form in a familiar outdoor moment."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-03",
+        "phrase": "Полотенце уже совсем сухое.",
+        "fullAnalysis": "Strategic focus: Neuter nominative agreement. 'Сухое' takes the neuter ending to match 'полотенце'. The household detail makes the neuter form concrete."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-04",
+        "phrase": "Мои ботинки совсем мокрые.",
+        "fullAnalysis": "Strategic focus: Plural nominative agreement. 'Мокрые' takes the plural ending to match 'ботинки'. The everyday complaint fixes the plural form in mind."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-05",
+        "phrase": "Возьми сухое полотенце, а мокрое повесь.",
+        "fullAnalysis": "Strategic focus: Direct neuter contrast. 'Сухое' and 'мокрое' both match the neuter 'полотенце', whose accusative equals the nominative. The instruction pairs both adjectives in one action."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-06",
+        "phrase": "Надень сухие носки.",
+        "fullAnalysis": "Strategic focus: Plural accusative agreement. 'Сухие' matches the inanimate plural 'носки', whose accusative equals the nominative. The short command keeps the form practical."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-07",
+        "phrase": "Дорога была мокрой и скользкой.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental in the predicate. After past-tense 'была', 'мокрой' takes the feminine instrumental ending to match 'дорога'. This shows the быть-plus-instrumental pattern."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-08",
+        "phrase": "Дрова были сухими и лёгкими.",
+        "fullAnalysis": "Strategic focus: Plural instrumental in the predicate. After 'были', 'сухими' takes the plural instrumental ending to match 'дрова'. The sentence extends the pattern into the plural."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-09",
+        "phrase": "Зонт промок, а плащ ещё сух.",
+        "fullAnalysis": "Strategic focus: Short-form masculine predicate. The short form 'сух' states a present quality of 'плащ' without an ending. Short forms are typical when describing a current state."
+      },
+      {
+        "id": "BA-SUKHOI-MOKRYI-10",
+        "phrase": "Сегодня погода суше, чем вчера.",
+        "fullAnalysis": "Strategic focus: Comparative form. 'Суше' is the comparative of 'сухой' and stays the same for any gender. The sentence compares today's weather to yesterday's."
+      }
+    ]
+  }
+]
