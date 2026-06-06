@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-MORE",
+    "label": "Море",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for море (sea).",
+    "missions": [
+      {
+        "id": "NN-NATURE-MORE-01",
+        "phrase": "Море сегодня очень спокойное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Море' is the neuter nominative subject. 'Спокойное' is the agreeing neuter adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-NATURE-MORE-02",
+        "phrase": "Я очень люблю море.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Море' is the accusative direct object of 'люблю'; the neuter form matches the nominative. A clean object example."
+      },
+      {
+        "id": "NN-NATURE-MORE-03",
+        "phrase": "Мы живём недалеко от моря.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Моря' is genitive after 'от' to express distance from the sea. 'Недалеко' adds the nearness."
+      },
+      {
+        "id": "NN-NATURE-MORE-04",
+        "phrase": "Мы идём к морю утром.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Морю' is the dative form after 'к' to show movement toward the sea. 'Утром' gives the time."
+      },
+      {
+        "id": "NN-NATURE-MORE-05",
+        "phrase": "Я люблю плавать в море.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Море' is the prepositional form after 'в' to mark location; the neuter ending stays -е. 'Плавать' is the infinitive."
+      },
+      {
+        "id": "NN-NATURE-MORE-06",
+        "phrase": "Корабль плывёт за море.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Море' is the accusative after 'за' to express movement beyond the sea. 'Корабль' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-MORE-07",
+        "phrase": "Над морем летают чайки.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Морем' is instrumental after 'над' to mean above the sea. 'Чайки' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-MORE-08",
+        "phrase": "Вода моря тёплая летом.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Моря' is genitive showing the water belongs to the sea. 'Вода' is the nominative subject, and 'летом' is instrumental of time."
+      },
+      {
+        "id": "NN-NATURE-MORE-09",
+        "phrase": "В России есть тёплые моря.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Моря' is the nominative plural with end stress. 'Тёплые' agrees in the plural, and 'в России' is prepositional."
+      },
+      {
+        "id": "NN-NATURE-MORE-10",
+        "phrase": "Дети играют у моря.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Моря' is genitive after 'у' to mean by the sea. 'Дети' is the nominative plural subject."
+      }
+    ]
+  }
+]

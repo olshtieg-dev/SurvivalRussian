@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-SVET",
+    "label": "Свет",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for свет (light).",
+    "missions": [
+      {
+        "id": "NN-NATURE-SVET-01",
+        "phrase": "В комнате горит яркий свет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Свет' is a masculine noun in the nominative as the subject of 'горит'. 'Яркий' is the agreeing masculine adjective, and 'в комнате' is prepositional of location."
+      },
+      {
+        "id": "NN-NATURE-SVET-02",
+        "phrase": "Выключи, пожалуйста, свет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Свет' is the accusative direct object of 'выключи'. For this inanimate masculine noun the accusative matches the nominative form."
+      },
+      {
+        "id": "NN-NATURE-SVET-03",
+        "phrase": "Без света трудно читать.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Света' is the genitive required by 'без' to express absence. The whole phrase explains why reading is hard."
+      },
+      {
+        "id": "NN-NATURE-SVET-04",
+        "phrase": "В подвале совсем нет света.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Света' is the genitive required by 'нет' to express absence. 'В подвале' is prepositional of location."
+      },
+      {
+        "id": "NN-NATURE-SVET-05",
+        "phrase": "Растения тянутся к свету.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К свету' uses the dative 'свету' after 'к' to show direction toward. 'Растения' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-SVET-06",
+        "phrase": "Комната залита тёплым светом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Светом' is the instrumental showing what fills the room. 'Тёплым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-NATURE-SVET-07",
+        "phrase": "Я работаю при дневном свете.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'при'. 'При свете' uses the prepositional 'свете' to mean by the light of. 'Дневном' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-NATURE-SVET-08",
+        "phrase": "При свете луны было красиво.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'при'. 'При свете' again uses the prepositional 'свете' to describe conditions. 'Луны' is the genitive of possession."
+      },
+      {
+        "id": "NN-NATURE-SVET-09",
+        "phrase": "На сцене зажглись яркие огни.",
+        "fullAnalysis": "Strategic focus: Plural with a related noun. 'Свет' rarely pluralizes, so everyday speech uses 'огни', the nominative plural of 'огонь', for multiple lights on stage."
+      },
+      {
+        "id": "NN-NATURE-SVET-10",
+        "phrase": "Я думаю о ярком свете звёзд.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О свете' uses the prepositional 'свете' after 'о' to name the topic. 'Звёзд' is the genitive plural showing the source."
+      }
+    ]
+  }
+]

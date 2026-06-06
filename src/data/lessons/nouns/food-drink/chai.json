@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-CHAI",
+    "label": "Чай",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for чай (tea).",
+    "missions": [
+      {
+        "id": "NN-FOOD-CHAI-01",
+        "phrase": "Этот чай очень горячий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Чай' is nominative as the subject. 'Этот' is the agreeing masculine determiner, and 'горячий' is the predicate adjective."
+      },
+      {
+        "id": "NN-FOOD-CHAI-02",
+        "phrase": "Я люблю зелёный чай.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Чай' is the accusative direct object of 'люблю'; this inanimate masculine noun looks identical to the nominative. 'Зелёный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-FOOD-CHAI-03",
+        "phrase": "Я выпил чашку чая.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Чая' is the partitive genitive after 'чашку' to mean a cup of tea. 'Чашку' itself is the accusative object."
+      },
+      {
+        "id": "NN-FOOD-CHAI-04",
+        "phrase": "Добавь сахар к чаю.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Чаю' is the dative form after 'к' to express adding to something. 'Сахар' is the accusative object of 'добавь'."
+      },
+      {
+        "id": "NN-FOOD-CHAI-05",
+        "phrase": "Я люблю пирог с чаем.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Чаем' is instrumental after 'с' to mean served with tea. 'Пирог' is the accusative object."
+      },
+      {
+        "id": "NN-FOOD-CHAI-06",
+        "phrase": "В чае много сахара.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Чае' is the prepositional form after 'в' to mark location inside. 'Много сахара' uses the genitive of quantity."
+      },
+      {
+        "id": "NN-FOOD-CHAI-07",
+        "phrase": "Чай давно остыл.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Чай' is nominative as the doer of 'остыл', which agrees in masculine gender. 'Давно' adds the time reference."
+      },
+      {
+        "id": "NN-FOOD-CHAI-08",
+        "phrase": "Хочешь чашку чаю?",
+        "fullAnalysis": "Strategic focus: Genitive partitive. 'Чаю' is the old partitive genitive in -у, still common with чай. 'Чашку' is the accusative object of 'хочешь'."
+      },
+      {
+        "id": "NN-FOOD-CHAI-09",
+        "phrase": "В магазине разные чаи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Чаи' is the nominative plural meaning kinds of tea. 'Разные' is the agreeing plural adjective, and 'в магазине' is prepositional."
+      },
+      {
+        "id": "NN-FOOD-CHAI-10",
+        "phrase": "Я каждое утро пью чай.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Чай' is the accusative object of 'пью', identical to the nominative for this inanimate noun. 'Каждое утро' gives the routine."
+      }
+    ]
+  }
+]

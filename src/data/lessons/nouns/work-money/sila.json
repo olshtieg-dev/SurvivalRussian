@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-SILA",
+    "label": "Сила",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for сила (force; strength).",
+    "missions": [
+      {
+        "id": "NN-WORK-SILA-01",
+        "phrase": "Его сила меня удивляет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сила' stays in the nominative case as the subject of 'удивляет'. 'Его' marks possession, and 'меня' is the accusative object."
+      },
+      {
+        "id": "NN-WORK-SILA-02",
+        "phrase": "Я чувствую новую силу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Силу' is the accusative direct object of 'чувствую'. 'Новую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-WORK-SILA-03",
+        "phrase": "У меня нет силы спорить.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет', the noun becomes genitive 'силы'. The infinitive 'спорить' explains what there is no strength for."
+      },
+      {
+        "id": "NN-WORK-SILA-04",
+        "phrase": "Благодаря силе воли он победил.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Силе' is the dative following 'благодаря', expressing the cause. 'Воли' is genitive, linking will to strength."
+      },
+      {
+        "id": "NN-WORK-SILA-05",
+        "phrase": "Он управляет силой ветра.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Силой' is the instrumental object that 'управляет' governs, expressing what is controlled. 'Ветра' is genitive of relation."
+      },
+      {
+        "id": "NN-WORK-SILA-06",
+        "phrase": "Мы говорим о силе духа.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О силе' uses the prepositional after 'о' to mark the topic. 'Духа' is genitive, forming the idiom strength of spirit."
+      },
+      {
+        "id": "NN-WORK-SILA-07",
+        "phrase": "Он работает изо всех сил.",
+        "fullAnalysis": "Strategic focus: Genitive plural idiom. 'Сил' is the genitive plural in the fixed phrase 'изо всех сил', meaning with all one's might. A high-frequency expression."
+      },
+      {
+        "id": "NN-WORK-SILA-08",
+        "phrase": "У природы огромные силы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Силы' is the nominative plural subject. 'Огромные' agrees in the plural, and 'у природы' uses the genitive to show possession."
+      },
+      {
+        "id": "NN-WORK-SILA-09",
+        "phrase": "Я верю в свои силы.",
+        "fullAnalysis": "Strategic focus: Accusative plural with 'в'. 'Силы' is the accusative plural after 'в' meaning belief in one's abilities. 'Свои' agrees in the plural."
+      },
+      {
+        "id": "NN-WORK-SILA-10",
+        "phrase": "Эта сила невероятно велика.",
+        "fullAnalysis": "Strategic focus: Nominative evaluation. 'Сила' is nominative as the subject. 'Эта' agrees in the feminine, and 'велика' is the short feminine adjective intensified by 'невероятно'."
+      }
+    ]
+  }
+]

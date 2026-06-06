@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-VOZRAST",
+    "label": "Возраст",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for возраст (age).",
+    "missions": [
+      {
+        "id": "NN-TIME-VOZRAST-01",
+        "phrase": "У него хороший возраст для спорта.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Возраст' is the masculine nominative subject. 'Хороший' is the agreeing masculine adjective, and 'для спорта' is the genitive of purpose."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-02",
+        "phrase": "Нельзя угадать её возраст.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Возраст' is the accusative direct object of 'угадать'; as an inanimate masculine noun its accusative matches the nominative. 'Её' shows whose age."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-03",
+        "phrase": "Дети разного возраста играли вместе.",
+        "fullAnalysis": "Strategic focus: Genitive of description. 'Возраста' is genitive describing the children. 'Разного' agrees in the masculine genitive, a common way to say of different ages."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-04",
+        "phrase": "Цена зависит от возраста.",
+        "fullAnalysis": "Strategic focus: Genitive with 'от'. 'Возраста' is genitive after 'от', marking what the price depends on. A practical pattern for conditions and discounts."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-05",
+        "phrase": "Я горжусь своим возрастом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Возрастом' is the instrumental case required by 'горжусь', the source of pride. 'Своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-06",
+        "phrase": "В этом возрасте дети быстро растут.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'в'. 'Возрасте' is the prepositional form after 'в', meaning at this age. 'В этом' agrees in the masculine prepositional, a common developmental phrase."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-07",
+        "phrase": "С возрастом приходит опыт.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Возрастом' is instrumental after 'с', meaning along with age. A familiar saying about experience growing over time."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-08",
+        "phrase": "Они одного возраста.",
+        "fullAnalysis": "Strategic focus: Genitive of characteristic. 'Возраста' is genitive describing a shared quality, meaning they are the same age. 'Одного' agrees in the masculine genitive, a tidy idiomatic structure."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-09",
+        "phrase": "Это книги для всех возрастов.",
+        "fullAnalysis": "Strategic focus: Genitive plural with 'для'. 'Возрастов' is the genitive plural after 'для', meaning for all ages. 'Всех' agrees in the genitive plural, common on packaging and signs."
+      },
+      {
+        "id": "NN-TIME-VOZRAST-10",
+        "phrase": "В разных возрастах люди думают иначе.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Возрастах' is the prepositional plural after 'в', meaning at different ages. 'Разных' agrees in the plural, a reflective generalization."
+      }
+    ]
+  }
+]

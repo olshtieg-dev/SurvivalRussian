@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-SEMYA",
+    "label": "Семья",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for семья (family).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-SEMYA-01",
+        "phrase": "Моя семья живёт в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Семья' stays in the nominative as the subject of 'живёт'. 'Моя' is the agreeing feminine possessive, and 'в Москве' gives the location."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-02",
+        "phrase": "Я очень люблю свою семью.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Семью' is the accusative direct object of 'люблю'. 'Свою' agrees in the feminine accusative, and 'очень' intensifies the feeling."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-03",
+        "phrase": "У нашей семьи большой дом.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Семьи' is the genitive form after 'у', showing whose house it is. 'Нашей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-04",
+        "phrase": "Я помогаю своей семье каждый день.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Семье' is the dative form, the recipient of 'помогаю'. 'Своей' agrees in the feminine dative, and 'каждый день' adds frequency."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-05",
+        "phrase": "Он гордится своей семьёй.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Семьёй' is the instrumental form required by 'гордится'. 'Своей' agrees in the feminine instrumental, expressing pride in one's family."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-06",
+        "phrase": "Мы часто говорим о семье.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О семье' uses the prepositional form 'семье' after 'о' to express talking about family. 'Часто' adds frequency."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-07",
+        "phrase": "В нашем доме две семьи.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Семьи' is the genitive singular form required after 'две'. The phrase counts how many families live in the house."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-08",
+        "phrase": "Эти семьи давно дружат.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Семьи' is the nominative plural subject of 'дружат'. 'Эти' agrees as the plural demonstrative, and 'давно' marks long duration."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-09",
+        "phrase": "У меня большая и дружная семья.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Семья' is nominative in the possession frame 'у меня'. 'Большая' and 'дружная' are coordinated feminine adjectives describing it."
+      },
+      {
+        "id": "NN-FAMILY-SEMYA-10",
+        "phrase": "Семья всегда поддержит тебя.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Семья' is the nominative subject of 'поддержит'. 'Всегда' adds reliability, and 'тебя' is the accusative object of the verb."
+      }
+    ]
+  }
+]

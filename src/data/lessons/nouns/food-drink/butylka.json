@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-BUTYLKA",
+    "label": "Бутылка",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for бутылка (bottle).",
+    "missions": [
+      {
+        "id": "NN-FOOD-BUTYLKA-01",
+        "phrase": "На столе стоит бутылка воды.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бутылка' is a feminine noun in the nominative as the subject of 'стоит'. 'Воды' is the genitive showing the contents, and 'на столе' is prepositional of location."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-02",
+        "phrase": "Я купил большую бутылку молока.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бутылку' is the accusative direct object of 'купил'. 'Большую' agrees in the feminine accusative, and 'молока' is genitive of contents."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-03",
+        "phrase": "В холодильнике нет бутылки.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Бутылки' is the genitive required by 'нет' to express absence. 'В холодильнике' is prepositional of location."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-04",
+        "phrase": "Я выпил половину бутылки сока.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Бутылки' is the genitive after 'половину' to show a part of the whole. 'Сока' is the partitive genitive of contents."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-05",
+        "phrase": "Дай ребёнку бутылку молока.",
+        "fullAnalysis": "Strategic focus: Dative recipient with accusative object. 'Ребёнку' is the dative recipient, while 'бутылку' is the accusative direct object of 'дай'."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-06",
+        "phrase": "Он открыл бутылку штопором.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Штопором' is the instrumental showing the tool used. 'Бутылку' remains the accusative direct object of 'открыл'."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-07",
+        "phrase": "Он пришёл с бутылкой вина.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'С бутылкой' uses the instrumental 'бутылкой' after 'с' to mean carrying along. 'Вина' is the genitive of contents."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-08",
+        "phrase": "В этой бутылке холодная вода.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В бутылке' uses the prepositional 'бутылке' after 'в' to say what is inside. 'Холодная вода' is the nominative subject."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-09",
+        "phrase": "На полке стоят пустые бутылки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Бутылки' is the nominative plural, the subject of 'стоят'. 'Пустые' agrees in the plural, and 'на полке' is prepositional of location."
+      },
+      {
+        "id": "NN-FOOD-BUTYLKA-10",
+        "phrase": "Я купил пять бутылок сока.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a number. 'Бутылок' is the genitive plural required after 'пять'. The fleeting vowel appears in the bare-stem plural, giving бутылок."
+      }
+    ]
+  }
+]

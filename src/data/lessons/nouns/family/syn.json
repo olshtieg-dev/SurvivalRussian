@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-SYN",
+    "label": "Сын",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for сын (son).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-SYN-01",
+        "phrase": "Мой сын учится в школе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сын' is the masculine nominative subject of 'учится'. 'Мой' agrees in masculine gender, and 'в школе' is the prepositional place where he studies."
+      },
+      {
+        "id": "NN-FAMILY-SYN-02",
+        "phrase": "Я очень люблю своего сына.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Сына' is the accusative direct object of 'люблю', and because 'сын' is animate the accusative copies the genitive ending. 'Своего' agrees in the animate masculine accusative."
+      },
+      {
+        "id": "NN-FAMILY-SYN-03",
+        "phrase": "У моего сына сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Сына' is genitive after 'у', marking whose birthday it is. 'Моего' agrees in the masculine genitive, framing a common family announcement."
+      },
+      {
+        "id": "NN-FAMILY-SYN-04",
+        "phrase": "Я купил сыну новую игрушку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Сыну' is the dative indirect object, the one receiving the gift. 'Новую игрушку' is the accusative thing bought, a clean give-something-to-someone pattern."
+      },
+      {
+        "id": "NN-FAMILY-SYN-05",
+        "phrase": "Мы гордимся своим сыном.",
+        "fullAnalysis": "Strategic focus: Instrumental after a verb. 'Сыном' is in the instrumental case required by 'гордимся'. 'Своим' agrees in the masculine instrumental, expressing family pride."
+      },
+      {
+        "id": "NN-FAMILY-SYN-06",
+        "phrase": "Мы много говорим о сыне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О сыне' uses the prepositional form 'сыне' after 'о' to mean talking about him. 'Много' adds frequency to the everyday conversation."
+      },
+      {
+        "id": "NN-FAMILY-SYN-07",
+        "phrase": "У них растут два сына.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'сына'. This counting pattern is essential for describing how many children a family has."
+      },
+      {
+        "id": "NN-FAMILY-SYN-08",
+        "phrase": "Её сыновья живут в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сыновья' is the irregular nominative plural of 'сын', the subject of 'живут'. 'Её' shows whose sons they are, and 'в Москве' is the prepositional place."
+      },
+      {
+        "id": "NN-FAMILY-SYN-09",
+        "phrase": "Она вырастила трёх сыновей одна.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Сыновей' is the genitive plural required after 'трёх'. 'Одна' stresses that she raised them alone, a strong sentence for the irregular plural stem."
+      },
+      {
+        "id": "NN-FAMILY-SYN-10",
+        "phrase": "Он стал хорошим сыном.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Сыном' is the instrumental predicate after 'стал', describing what he became. 'Хорошим' agrees in the masculine instrumental, a typical become-something structure."
+      }
+    ]
+  }
+]

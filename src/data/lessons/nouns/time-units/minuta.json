@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-MINUTA",
+    "label": "Минута",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for минута (minute).",
+    "missions": [
+      {
+        "id": "NN-TIME-MINUTA-01",
+        "phrase": "Каждая минута очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Минута' is the feminine nominative subject. 'Каждая' agrees in feminine gender, and 'важна' is the short adjective stressing its value."
+      },
+      {
+        "id": "NN-TIME-MINUTA-02",
+        "phrase": "Подожди одну минуту, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Минуту' is the accusative form expressing a span of time. 'Одну' agrees in the feminine accusative, an extremely common polite request."
+      },
+      {
+        "id": "NN-TIME-MINUTA-03",
+        "phrase": "У меня нет ни минуты.",
+        "fullAnalysis": "Strategic focus: Genitive in negation. 'Минуты' is the genitive form required after 'нет', reinforced by 'ни'. A natural way to say one has no time at all."
+      },
+      {
+        "id": "NN-TIME-MINUTA-04",
+        "phrase": "Я рад каждой свободной минуте.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Минуте' is the dative case after 'рад', the thing one is glad about. 'Каждой свободной' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-TIME-MINUTA-05",
+        "phrase": "Поезд опоздал на минуту.",
+        "fullAnalysis": "Strategic focus: Accusative with 'на'. 'Минуту' is accusative after 'на' to express by how much the train was late. A very common measurement-of-delay pattern."
+      },
+      {
+        "id": "NN-TIME-MINUTA-06",
+        "phrase": "Через минуту начнётся фильм.",
+        "fullAnalysis": "Strategic focus: Accusative with 'через'. 'Минуту' is accusative after 'через', meaning in one minute from now. A core future-time expression."
+      },
+      {
+        "id": "NN-TIME-MINUTA-07",
+        "phrase": "Мы поговорили за одну минуту.",
+        "fullAnalysis": "Strategic focus: Accusative with 'за'. 'Минуту' is accusative after 'за', expressing the time within which the action was completed. 'Одну' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-TIME-MINUTA-08",
+        "phrase": "Осталось всего две минуты.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'две' the noun takes the genitive singular 'минуты'. 'Осталось' is the impersonal verb, a tense countdown phrase."
+      },
+      {
+        "id": "NN-TIME-MINUTA-09",
+        "phrase": "Прошло несколько минут в тишине.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Минут' is the genitive plural required after 'несколько'. 'В тишине' is the prepositional setting, a quiet narrative line."
+      },
+      {
+        "id": "NN-TIME-MINUTA-10",
+        "phrase": "Я приду через пять минут.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. After 'пять' the noun takes the genitive plural 'минут'. 'Через' frames the near future, one of the most useful time phrases."
+      }
+    ]
+  }
+]

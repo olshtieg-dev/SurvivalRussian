@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-MASHINA",
+    "label": "Машина",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for машина (car; machine).",
+    "missions": [
+      {
+        "id": "NN-TRANS-MASHINA-01",
+        "phrase": "Эта машина очень быстрая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Машина' stays in the nominative as the subject. 'Эта' points at a specific car, and 'быстрая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-02",
+        "phrase": "Он недавно купил новую машину.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Машину' is the accusative direct object of 'купил'. 'Новую' agrees in the feminine accusative, and 'недавно' adds the time."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-03",
+        "phrase": "У меня нет своей машины.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Машины' is the genitive required by 'нет' to express having none. 'Своей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-04",
+        "phrase": "Этой старой машине нужен ремонт.",
+        "fullAnalysis": "Strategic focus: Dative subject of need. 'Машине' is the dative in the 'нужен' construction, marking what needs something. 'Этой старой' agrees with it."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-05",
+        "phrase": "Мы поехали в город машиной.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Машиной' is the instrumental expressing the means of travel. 'В город' is the destination."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-06",
+        "phrase": "В машине было очень тепло.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В машине' uses the prepositional form after 'в' to express location. 'Тепло' describes the condition inside."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-07",
+        "phrase": "Я жду тебя возле машины.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Машины' is the genitive form after 'возле', showing nearness. 'Тебя' is the accusative object of 'жду'."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-08",
+        "phrase": "На парковке стоят чужие машины.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Машины' is the nominative plural as the subject of 'стоят'. 'Чужие' agrees in the plural, and 'на парковке' sets the place."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-09",
+        "phrase": "На дороге много старых машин.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 'Машин' is the genitive plural after 'много'. 'Старых' agrees in the genitive plural, and 'на дороге' sets the place."
+      },
+      {
+        "id": "NN-TRANS-MASHINA-10",
+        "phrase": "Машина не завелась этим утром.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Машина' is nominative as the subject of 'завелась', which agrees in feminine gender. 'Этим утром' is the instrumental time phrase."
+      }
+    ]
+  }
+]

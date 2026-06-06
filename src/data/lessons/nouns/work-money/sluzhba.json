@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-SLUZHBA",
+    "label": "Служба",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for служба (service).",
+    "missions": [
+      {
+        "id": "NN-WORK-SLUZHBA-01",
+        "phrase": "Его служба началась рано утром.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Служба' is the feminine nominative subject of 'началась'. 'Его' shows whose service it is, and 'рано утром' gives the time."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-02",
+        "phrase": "Он любит свою службу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Службу' is the accusative direct object of 'любит', taking the regular feminine accusative ending. 'Свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-03",
+        "phrase": "У него нет времени из-за службы.",
+        "fullAnalysis": "Strategic focus: Genitive with 'из-за'. 'Службы' is genitive after the compound preposition 'из-за', marking the cause. A natural way to blame a busy schedule."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-04",
+        "phrase": "Он предан своей службе.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Службе' is the dative case after 'предан', the thing one is devoted to. 'Своей' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-05",
+        "phrase": "Он доволен своей службой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Службой' is the instrumental case required by 'доволен', the source of satisfaction. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-06",
+        "phrase": "Он сейчас на службе.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'на'. 'Службе' is the prepositional form after 'на', meaning at work or on duty. A short, very common everyday statement."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-07",
+        "phrase": "На службе он встретил друга.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'на'. 'Службе' is again the prepositional after 'на' marking the location. 'Друга' is the accusative animate object, a natural workplace anecdote."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-08",
+        "phrase": "Городские службы работают круглосуточно.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Службы' is the nominative plural, the subject of 'работают'. 'Городские' agrees in the plural, describing municipal services."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-09",
+        "phrase": "В городе много полезных служб.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Служб' is the genitive plural required after 'много'. 'Полезных' agrees in the genitive plural, and 'в городе' is the prepositional place."
+      },
+      {
+        "id": "NN-WORK-SLUZHBA-10",
+        "phrase": "Он пошёл на службу пешком.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Службу' is accusative after 'на', marking the destination. 'Пешком' is the adverb of manner, a routine commuting line."
+      }
+    ]
+  }
+]

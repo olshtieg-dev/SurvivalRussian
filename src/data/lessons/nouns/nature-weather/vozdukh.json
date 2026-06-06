@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-VOZDUKH",
+    "label": "Воздух",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for воздух (air).",
+    "missions": [
+      {
+        "id": "NN-NATURE-VOZDUKH-01",
+        "phrase": "Сегодня воздух очень свежий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Воздух' is the masculine nominative subject. 'Свежий' is the agreeing masculine adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-02",
+        "phrase": "Открой окно и впусти воздух.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Воздух' is the accusative direct object of 'впусти'. As an inanimate masculine noun it keeps the same form. 'Открой окно' sets up the action."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-03",
+        "phrase": "В горах нет загрязнённого воздуха.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Воздуха' is the genitive of 'воздух', required after 'нет'. 'Загрязнённого' agrees in the masculine genitive, marking absence."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-04",
+        "phrase": "Растениям нужно много чистого воздуха.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Воздуха' is the genitive of 'воздух' after 'много'. 'Чистого' agrees in the masculine genitive, and 'растениям' is the dative of need."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-05",
+        "phrase": "Мы дышим свежим воздухом.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Воздухом' is the masculine instrumental of 'воздух', required by 'дышим'. 'Свежим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-06",
+        "phrase": "Дети играют на свежем воздухе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Воздухе' is the prepositional of 'воздух' in the fixed phrase 'на свежем воздухе', meaning outdoors. 'Свежем' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-07",
+        "phrase": "Тёплый воздух поднимается вверх.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Воздух' is the masculine nominative subject of 'поднимается'. 'Тёплый' agrees in the masculine nominative, and 'вверх' gives direction."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-08",
+        "phrase": "Птицы летят высоко в воздухе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Воздухе' is the prepositional of 'воздух' after 'в'. 'Высоко' adds height, and 'птицы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-09",
+        "phrase": "Воздух в комнате стал душным.",
+        "fullAnalysis": "Strategic focus: Nominative with predicate instrumental. 'Воздух' is the nominative subject of 'стал'. 'Душным' is the instrumental predicate adjective, and 'в комнате' gives the location."
+      },
+      {
+        "id": "NN-NATURE-VOZDUKH-10",
+        "phrase": "Мне нравится горный воздух весной.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative experiencer. 'Воздух' is the nominative subject of 'нравится'. 'Горный' agrees in the masculine nominative, 'мне' is the dative experiencer, and 'весной' is an instrumental of time."
+      }
+    ]
+  }
+]

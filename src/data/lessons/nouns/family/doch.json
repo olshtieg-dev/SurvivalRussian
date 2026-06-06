@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-DOCH",
+    "label": "Дочь",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for дочь (daughter).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-DOCH-01",
+        "phrase": "Моя дочь учится в школе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дочь' is the nominative subject of 'учится'. 'Моя' is the agreeing feminine possessive, and 'в школе' gives the prepositional place of study."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-02",
+        "phrase": "Я очень люблю свою дочь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дочь' is the accusative direct object of 'люблю'. This third-declension noun keeps the same form 'дочь' in the accusative, and 'свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-03",
+        "phrase": "У моей дочери красивое имя.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дочери' is the irregular genitive of 'дочь' after 'у'. 'Моей' agrees in the feminine genitive, framing the possession of 'красивое имя'."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-04",
+        "phrase": "Я купил дочери новый телефон.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Дочери' is the irregular dative of 'дочь', marking the person who receives. 'Новый телефон' is the accusative gift, and 'купил' is the past-tense verb."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-05",
+        "phrase": "Мы гордимся своей дочерью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Дочерью' is the irregular instrumental of 'дочь', required by 'гордимся'. 'Своей' agrees in the feminine instrumental. A core pattern for pride."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-06",
+        "phrase": "Я часто думаю о дочери.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Дочери' is the irregular prepositional of 'дочь' after 'о'. 'Часто' adds frequency. Useful for talking about family members."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-07",
+        "phrase": "Дочь помогает маме на кухне.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дочь' is the nominative subject of 'помогает'. 'Маме' is the dative person helped, and 'на кухне' gives the prepositional location."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-08",
+        "phrase": "Я каждый день звоню дочери.",
+        "fullAnalysis": "Strategic focus: Dative with phoning. 'Дочери' is the irregular dative of 'дочь', because 'звонить' governs the dative. 'Каждый день' gives the frequency."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-09",
+        "phrase": "Наши дочери играют во дворе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Дочери' is the nominative plural of 'дочь' as the subject of 'играют'. 'Наши' agrees in the plural, and 'во дворе' gives the location."
+      },
+      {
+        "id": "NN-FAMILY-DOCH-10",
+        "phrase": "Родители любят своих дочерей.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Дочерей' is the accusative plural of the animate noun 'дочь', the object of 'любят'. 'Своих' agrees in the plural."
+      }
+    ]
+  }
+]

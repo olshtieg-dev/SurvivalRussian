@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-RUBL",
+    "label": "Рубль",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for рубль (ruble).",
+    "missions": [
+      {
+        "id": "NN-WORK-RUBL-01",
+        "phrase": "Российский рубль снова подорожал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рубль' stays in the nominative as the subject of 'подорожал'. 'Российский' is the agreeing masculine adjective, and 'снова' marks repetition."
+      },
+      {
+        "id": "NN-WORK-RUBL-02",
+        "phrase": "Дай мне один рубль, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рубль' is the accusative object of 'дай'; this inanimate masculine noun keeps the nominative form. 'Один' agrees with it."
+      },
+      {
+        "id": "NN-WORK-RUBL-03",
+        "phrase": "У меня нет ни рубля.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Рубля' is the genitive required by 'нет', strengthened by 'ни' to mean not a single one."
+      },
+      {
+        "id": "NN-WORK-RUBL-04",
+        "phrase": "Курс доллара к рублю растёт.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Рублю' is the dative form after 'к', expressing the rate relative to the ruble. 'Курс доллара' is the subject."
+      },
+      {
+        "id": "NN-WORK-RUBL-05",
+        "phrase": "Он расплатился последним рублём.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Рублём' is the instrumental expressing what he paid with. 'Последним' agrees with it in the instrumental."
+      },
+      {
+        "id": "NN-WORK-RUBL-06",
+        "phrase": "Все говорят о слабом рубле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О рубле' uses the prepositional form after 'о' to express the topic. 'Слабом' agrees in the prepositional."
+      },
+      {
+        "id": "NN-WORK-RUBL-07",
+        "phrase": "Хлеб стоит сорок два рубля.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'два', the noun takes 'рубля', the genitive singular used with two, three, and four. 'Хлеб' is the subject."
+      },
+      {
+        "id": "NN-WORK-RUBL-08",
+        "phrase": "В кошельке лежат последние рубли.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Рубли' is the nominative plural as the subject of 'лежат'. 'Последние' agrees in the plural, and 'в кошельке' sets the place."
+      },
+      {
+        "id": "NN-WORK-RUBL-09",
+        "phrase": "У меня осталось сто рублей.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a large number. After 'сто', the noun takes the genitive plural 'рублей'. 'У меня' shows whose money it is."
+      },
+      {
+        "id": "NN-WORK-RUBL-10",
+        "phrase": "Этот сувенир стоит один рубль.",
+        "fullAnalysis": "Strategic focus: Accusative of price. 'Рубль' is the accusative used to state the cost; with 'один' the form matches the nominative. 'Этот сувенир' is the subject."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-ZVEZDA",
+    "label": "Звезда",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for звезда (star).",
+    "missions": [
+      {
+        "id": "NN-NATURE-ZVEZDA-01",
+        "phrase": "На небе светит яркая звезда.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Звезда' stays in the nominative case as the subject of 'светит'. 'Яркая' is the agreeing feminine adjective, and 'на небе' gives the location."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-02",
+        "phrase": "Я вижу первую звезду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Звезду' is the accusative direct object of 'вижу'. 'Первую' agrees in the feminine accusative, marking the first star to appear."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-03",
+        "phrase": "Свет этой звезды очень слабый.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Звезды' is in the genitive case after 'свет', expressing whose light it is. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-04",
+        "phrase": "Мы летим к далёкой звезде.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К звезде' uses the dative form 'звезде' after 'к' to express direction. 'Далёкой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-05",
+        "phrase": "Он любовался яркой звездой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Звездой' is in the instrumental case required by 'любовался'. 'Яркой' agrees in the feminine instrumental, describing the bright star."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-06",
+        "phrase": "Мы говорили о новой звезде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О звезде' uses the prepositional form 'звезде' after 'о' to mark the topic. 'Новой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-07",
+        "phrase": "Эта звезда стала очень известной.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Звезда' is nominative as the subject of 'стала', here in the sense of a celebrity. 'Эта' points at a specific one."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-08",
+        "phrase": "Ночью на небе горят звёзды.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Звёзды' is the nominative plural of 'звезда', acting as the subject of 'горят'. 'Ночью' adds the instrumental time, and 'на небе' the place."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-09",
+        "phrase": "Дети рисуют много ярких звёзд.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Звёзд' is the genitive plural after 'много', expressing quantity. 'Ярких' agrees in the genitive plural, the object of 'рисуют'."
+      },
+      {
+        "id": "NN-NATURE-ZVEZDA-10",
+        "phrase": "Без звёзд ночное небо пустое.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Звёзд' uses the genitive plural after 'без' to express absence. 'Небо' is the nominative subject with the predicate 'пустое'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-NEDELYA",
+    "label": "Неделя",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for неделя (week).",
+    "missions": [
+      {
+        "id": "NN-TIME-NEDELYA-01",
+        "phrase": "Эта неделя была очень тяжёлой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Неделя' stays in the nominative as the subject. 'Эта' points at the current week, and 'тяжёлой' is the instrumental predicate after 'была'."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-02",
+        "phrase": "Я провёл всю неделю дома.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Неделю' is the accusative form expressing the span spent at home. 'Всю' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-03",
+        "phrase": "В начале недели было много работы.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Недели' is the genitive form after 'в начале', showing which part of the week. 'Много работы' is the genitive quantity."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-04",
+        "phrase": "К концу недели я очень устал.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Недели' is the genitive form after 'к концу', marking time toward the week's end. 'Устал' is the past-tense predicate."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-05",
+        "phrase": "Между неделей и месяцем большая разница.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Неделей' is the instrumental form after 'между', compared with 'месяцем'. 'Разница' is the nominative subject."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-06",
+        "phrase": "На прошлой неделе мы ездили в лес.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'На неделе' uses the prepositional form 'неделе' after 'на' to express when. 'Прошлой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-07",
+        "phrase": "Через неделю начнутся каникулы.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Неделю' is the accusative form after 'через', marking a future point in time. 'Каникулы' is the plural subject."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-08",
+        "phrase": "Я был в отпуске две недели.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Недели' is the genitive singular form required after 'две'. The phrase counts the length of the vacation."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-09",
+        "phrase": "Последние недели были очень холодными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Недели' is the nominative plural subject of 'были'. 'Последние' agrees as the plural adjective, and 'холодными' is the instrumental predicate."
+      },
+      {
+        "id": "NN-TIME-NEDELYA-10",
+        "phrase": "Прошло уже несколько недель.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Недель' is the genitive plural after 'несколько', expressing an indefinite count. 'Прошло' is the neuter past-tense verb."
+      }
+    ]
+  }
+]

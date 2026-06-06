@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-CHAS",
+    "label": "Час",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for час (hour).",
+    "missions": [
+      {
+        "id": "NN-TIME-CHAS-01",
+        "phrase": "Уже поздний час.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Час' is the masculine nominative subject. 'Поздний' is the agreeing adjective, and 'уже' adds the time nuance."
+      },
+      {
+        "id": "NN-TIME-CHAS-02",
+        "phrase": "Я ждал тебя целый час.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Час' is the accusative expressing how long the waiting lasted. 'Целый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-TIME-CHAS-03",
+        "phrase": "Прошло уже два часа.",
+        "fullAnalysis": "Strategic focus: Genitive after numeral. 'Часа' is the genitive singular required after 'два'. 'Прошло' is the neuter impersonal verb."
+      },
+      {
+        "id": "NN-TIME-CHAS-04",
+        "phrase": "К этому часу всё будет готово.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Часу' is the dative form after 'к' to express a deadline. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TIME-CHAS-05",
+        "phrase": "С каждым часом холодает.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Часом' is instrumental after 'с' to mean with each passing hour. 'Каждым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-TIME-CHAS-06",
+        "phrase": "В этом часе шестьдесят минут.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Часе' is the prepositional form after 'в' marking what the hour contains. 'Шестьдесят минут' uses the genitive plural."
+      },
+      {
+        "id": "NN-TIME-CHAS-07",
+        "phrase": "Я приду через час.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Час' is the accusative after 'через' to mean in an hour's time; the form matches the nominative. A very common phrase."
+      },
+      {
+        "id": "NN-TIME-CHAS-08",
+        "phrase": "Магазин работает круглые сутки и часы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Часы' is the nominative plural here meaning hours of operation. 'Круглые' agrees in the plural, and 'работает' is the verb."
+      },
+      {
+        "id": "NN-TIME-CHAS-09",
+        "phrase": "Мы работали несколько часов подряд.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 'Часов' is the genitive plural after 'несколько'. 'Подряд' adds the sense of continuity."
+      },
+      {
+        "id": "NN-TIME-CHAS-10",
+        "phrase": "Сейчас ровно один час.",
+        "fullAnalysis": "Strategic focus: Nominative for telling time. 'Час' is nominative singular after 'один' to state one o'clock. 'Ровно' means exactly."
+      }
+    ]
+  }
+]

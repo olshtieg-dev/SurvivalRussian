@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-POEZD",
+    "label": "Поезд",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for поезд (train).",
+    "missions": [
+      {
+        "id": "NN-TRANS-POEZD-01",
+        "phrase": "Поезд уже стоит на платформе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Поезд' stays in the nominative case as the subject of 'стоит'. 'Уже' marks completion, and 'на платформе' gives the prepositional location."
+      },
+      {
+        "id": "NN-TRANS-POEZD-02",
+        "phrase": "Мы ждём вечерний поезд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поезд' is inanimate masculine, so its accusative matches the nominative as the object of 'ждём'. 'Вечерний' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-TRANS-POEZD-03",
+        "phrase": "Я не успел до поезда.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Поезда' is in the genitive case after 'до', expressing reaching the train in time. The negated 'не успел' frames the missed connection."
+      },
+      {
+        "id": "NN-TRANS-POEZD-04",
+        "phrase": "Мы идём к нашему поезду.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К поезду' uses the dative form 'поезду' after 'к' to express direction. 'Нашему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TRANS-POEZD-05",
+        "phrase": "Я люблю путешествовать поездом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Поездом' is in the instrumental case expressing the means of travel without a preposition. The verb 'путешествовать' takes this naturally."
+      },
+      {
+        "id": "NN-TRANS-POEZD-06",
+        "phrase": "Мы познакомились в поезде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В поезде' uses the prepositional form 'поезде' after 'в' to express where the meeting happened. The verb 'познакомились' marks the event."
+      },
+      {
+        "id": "NN-TRANS-POEZD-07",
+        "phrase": "Этот поезд очень быстрый.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Поезд' is nominative as the subject. 'Быстрый' is the agreeing masculine predicate adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-TRANS-POEZD-08",
+        "phrase": "На вокзале стоят длинные поезда.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Поезда' is the nominative plural of 'поезд', acting as the subject of 'стоят'. 'Длинные' agrees in the plural, and 'на вокзале' gives the location."
+      },
+      {
+        "id": "NN-TRANS-POEZD-09",
+        "phrase": "Здесь много старых поездов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Поездов' is the genitive plural after 'много', expressing quantity. 'Старых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-TRANS-POEZD-10",
+        "phrase": "Мы опоздали на последний поезд.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'На поезд' uses the accusative form 'поезд' after 'на' with 'опоздали' to express missing it. 'Последний' agrees in the masculine accusative."
+      }
+    ]
+  }
+]

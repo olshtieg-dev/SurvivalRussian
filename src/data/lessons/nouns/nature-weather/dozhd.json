@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-DOZHD",
+    "label": "Дождь",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for дождь (rain).",
+    "missions": [
+      {
+        "id": "NN-NATURE-DOZHD-01",
+        "phrase": "На улице идёт сильный дождь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дождь' is a masculine noun in the nominative as the subject of 'идёт'. 'Сильный' agrees in the masculine, and 'на улице' is prepositional of location."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-02",
+        "phrase": "Синоптики обещают дождь завтра.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дождь' is the inanimate accusative direct object of 'обещают', matching the nominative form. 'Завтра' adds the time."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-03",
+        "phrase": "Сегодня нет дождя.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Дождя' is the genitive required by 'нет' to express absence. The soft -ь noun takes the -я genitive ending."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-04",
+        "phrase": "Земля влажная от дождя.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'От дождя' uses the genitive 'дождя' after 'от' to show the cause. A natural way to explain why the ground is wet."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-05",
+        "phrase": "Растения рады дождю.",
+        "fullAnalysis": "Strategic focus: Dative with 'рад'. 'Дождю' is the dative governed by the short adjective 'рады'. 'Растения' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-06",
+        "phrase": "Мы шли домой под дождём.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'под'. 'Под дождём' uses the instrumental 'дождём' after 'под' to mean walking in the rain. A vivid, common weather phrase."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-07",
+        "phrase": "Я люблю гулять под дождём.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'под'. 'Под дождём' again takes the instrumental 'дождём' to describe the conditions. The stress shifts to the ending in this form."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-08",
+        "phrase": "При дожде дорога становится скользкой.",
+        "fullAnalysis": "Strategic focus: Prepositional after 'при'. 'При дожде' uses the prepositional 'дожде' to mean under rainy conditions. 'Скользкой' is the instrumental predicate."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-09",
+        "phrase": "Осенью часто идут дожди.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Дожди' is the nominative plural of 'дождь', the subject of 'идут'. 'Осенью' is the instrumental used adverbially for season."
+      },
+      {
+        "id": "NN-NATURE-DOZHD-10",
+        "phrase": "Мы говорили о весенних дождях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О дождях' uses the prepositional plural 'дождях' after 'о' to name the topic. 'Весенних' agrees in the plural prepositional."
+      }
+    ]
+  }
+]

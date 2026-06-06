@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-SEKUNDA",
+    "label": "Секунда",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for секунда (second).",
+    "missions": [
+      {
+        "id": "NN-TIME-SEKUNDA-01",
+        "phrase": "Каждая секунда очень важна.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Секунда' stays in the nominative case as the subject. 'Каждая' agrees in the feminine, and 'важна' is the short feminine adjective."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-02",
+        "phrase": "Подожди одну секунду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Секунду' is the accusative direct object after 'подожди'. 'Одну' agrees in the feminine accusative. A very common spoken request."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-03",
+        "phrase": "Не теряй ни секунды.",
+        "fullAnalysis": "Strategic focus: Genitive with negation. 'Секунды' is genitive after the negated verb with 'ни', emphasising not a single second. A natural urgency phrase."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-04",
+        "phrase": "С каждой секундой становится холоднее.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Секундой' is the instrumental after 'с' in the idiom meaning with each passing second. 'Каждой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-05",
+        "phrase": "Я думаю о каждой секунде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О секунде' uses the prepositional after 'о' to mark the topic. 'Каждой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-06",
+        "phrase": "К концу секунды всё решилось.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Секунды' is genitive after 'концу', linking the end to the second. The phrase follows 'к', a dative preposition governing 'концу'."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-07",
+        "phrase": "За одну секунду многое меняется.",
+        "fullAnalysis": "Strategic focus: Accusative with 'за'. 'Секунду' is the accusative after 'за' to express a span of time. 'Одну' agrees, and 'многое' is the nominative subject."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-08",
+        "phrase": "В минуте шестьдесят секунд.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a number. 'Секунд' is the genitive plural required after 'шестьдесят'. 'В минуте' is prepositional, marking the unit."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-09",
+        "phrase": "Последние секунды тянулись долго.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Секунды' is the nominative plural subject of 'тянулись'. 'Последние' agrees, and 'долго' describes the slow feeling."
+      },
+      {
+        "id": "NN-TIME-SEKUNDA-10",
+        "phrase": "Я опоздал на несколько секунд.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Секунд' is the genitive plural required after the quantifier 'несколько'. 'На' frames the small delay."
+      }
+    ]
+  }
+]

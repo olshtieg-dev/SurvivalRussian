@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-SOLNTSE",
+    "label": "Солнце",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for солнце (sun).",
+    "missions": [
+      {
+        "id": "NN-NATURE-SOLNTSE-01",
+        "phrase": "Сегодня ярко светит солнце.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Солнце' is the neuter nominative subject of 'светит'. 'Ярко' is the adverb describing how it shines, a classic weather sentence."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-02",
+        "phrase": "Я люблю утреннее солнце.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Солнце' is the accusative direct object of 'люблю'; for neuter nouns the accusative looks identical to the nominative. 'Утреннее' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-03",
+        "phrase": "Цветы тянутся к солнцу.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'Солнцу' is the dative form after 'к', marking the direction the flowers reach toward. A natural image for the dative ending."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-04",
+        "phrase": "Без солнца растениям трудно.",
+        "fullAnalysis": "Strategic focus: Genitive with 'без'. 'Солнца' is genitive after 'без', expressing absence. 'Растениям' is the dative experiencer, a useful conditional-feeling pattern."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-05",
+        "phrase": "Земля освещается солнцем.",
+        "fullAnalysis": "Strategic focus: Instrumental of agent. 'Солнцем' is the instrumental case marking what lights the Earth in this passive construction. A clean model for the neuter instrumental ending."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-06",
+        "phrase": "Мы говорили о солнце и звёздах.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О солнце' uses the prepositional form 'солнце' after 'о'; for this neuter noun the prepositional matches the base form. Joined to 'звёздах' by 'и'."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-07",
+        "phrase": "На солнце очень жарко.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На солнце' uses the prepositional form after 'на' to mean in the sunshine. 'Жарко' is the impersonal weather predicate, a very common phrase."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-08",
+        "phrase": "Солнце скрылось за облаками.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Солнце' is the neuter nominative subject of 'скрылось', which agrees in neuter gender. 'За облаками' is the instrumental plural showing where it hid."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-09",
+        "phrase": "Дети играли под солнцем весь день.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'под'. 'Солнцем' is instrumental after 'под', describing the location below the sun. 'Весь день' gives the accusative span of time."
+      },
+      {
+        "id": "NN-NATURE-SOLNTSE-10",
+        "phrase": "Солнце уже высоко в небе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Солнце' is the neuter nominative subject. 'Высоко' is the adverb of position, and 'в небе' is the prepositional place, a calm descriptive line."
+      }
+    ]
+  }
+]

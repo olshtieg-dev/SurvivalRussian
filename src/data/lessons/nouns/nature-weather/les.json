@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-LES",
+    "label": "Лес",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for лес (forest).",
+    "missions": [
+      {
+        "id": "NN-NATURE-LES-01",
+        "phrase": "Этот лес очень густой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лес' stays in the nominative case as the subject. 'Этот' and 'густой' are the agreeing masculine forms, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-NATURE-LES-02",
+        "phrase": "Я люблю осенний лес.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine noun, 'лес' is identical in the accusative, here the object of 'люблю'. 'Осенний' agrees in the masculine."
+      },
+      {
+        "id": "NN-NATURE-LES-03",
+        "phrase": "Около леса течёт река.",
+        "fullAnalysis": "Strategic focus: Genitive after 'около'. 'Леса' is genitive following the preposition 'около', expressing nearness. 'Река' is the nominative subject of 'течёт'."
+      },
+      {
+        "id": "NN-NATURE-LES-04",
+        "phrase": "Мы идём к лесу пешком.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К лесу' uses the dative after 'к' to show movement towards the forest. 'Пешком' specifies on foot."
+      },
+      {
+        "id": "NN-NATURE-LES-05",
+        "phrase": "Над лесом летят птицы.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Лесом' is the instrumental form after 'над', expressing position above. 'Птицы' is the nominative plural subject of 'летят'."
+      },
+      {
+        "id": "NN-NATURE-LES-06",
+        "phrase": "В лесу много грибов.",
+        "fullAnalysis": "Strategic focus: Locative prepositional. 'В лесу' uses the special locative ending '-у' after 'в' to mark location. 'Грибов' is genitive plural after 'много'."
+      },
+      {
+        "id": "NN-NATURE-LES-07",
+        "phrase": "Мы вышли из леса вечером.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Леса' is genitive following the preposition 'из', expressing movement out of the forest. 'Вечером' is an instrumental adverb of time."
+      },
+      {
+        "id": "NN-NATURE-LES-08",
+        "phrase": "Я думаю о тёмном лесе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О лесе' uses the ordinary prepositional ending after 'о' to mark the topic of thought, distinct from the locative 'в лесу'. 'Тёмном' agrees."
+      },
+      {
+        "id": "NN-NATURE-LES-09",
+        "phrase": "Вокруг города растут леса.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Леса' is the nominative plural subject of 'растут'. 'Вокруг города' uses the genitive after 'вокруг' to mark surrounding area."
+      },
+      {
+        "id": "NN-NATURE-LES-10",
+        "phrase": "Я гуляю по тихим лесам.",
+        "fullAnalysis": "Strategic focus: Dative plural with 'по'. 'Лесам' is the dative plural after 'по', expressing movement through the forests. 'Тихим' agrees in the dative plural."
+      }
+    ]
+  }
+]

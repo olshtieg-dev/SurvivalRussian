@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-TSENA",
+    "label": "Цена",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for цена (price).",
+    "missions": [
+      {
+        "id": "NN-WORK-TSENA-01",
+        "phrase": "Цена здесь слишком высокая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Цена' is a feminine noun in the nominative as the subject. 'Высокая' is the agreeing feminine adjective, and 'слишком' marks the excess. A natural shopping complaint."
+      },
+      {
+        "id": "NN-WORK-TSENA-02",
+        "phrase": "Я узнал цену билета.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Цену' is the accusative direct object of 'узнал'; feminine -а nouns shift to -у in the accusative. 'Билета' is the genitive specifying the ticket's price."
+      },
+      {
+        "id": "NN-WORK-TSENA-03",
+        "phrase": "Из-за цены мы не купили.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Цены' is the genitive form after 'из-за', giving the reason we didn't buy. The whole frame is a common way to explain a refusal to purchase."
+      },
+      {
+        "id": "NN-WORK-TSENA-04",
+        "phrase": "Качество соответствует цене.",
+        "fullAnalysis": "Strategic focus: Dative with a verb. 'Цене' is the dative governed by 'соответствует', which requires that case for the thing matched. 'Качество' is the neuter subject. A useful evaluation phrase."
+      },
+      {
+        "id": "NN-WORK-TSENA-05",
+        "phrase": "Я доволен этой ценой.",
+        "fullAnalysis": "Strategic focus: Instrumental with an adjective. 'Ценой' is the instrumental governed by 'доволен', which takes that case for the thing one is satisfied with. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-WORK-TSENA-06",
+        "phrase": "Мы говорим о высокой цене.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Цене' is the prepositional form after 'о', the topic of discussion. 'Высокой' agrees in the feminine prepositional. A natural frame for haggling talk."
+      },
+      {
+        "id": "NN-WORK-TSENA-07",
+        "phrase": "Любой ценой я закончу работу.",
+        "fullAnalysis": "Strategic focus: Instrumental in a fixed phrase. 'Ценой' is the instrumental in the idiom 'любой ценой', meaning at any price or cost. 'Любой' agrees in the feminine instrumental. A strong expression of resolve."
+      },
+      {
+        "id": "NN-WORK-TSENA-08",
+        "phrase": "Это товар без указанной цены.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Цены' is the genitive after 'без', meaning lacking a price. 'Указанной' agrees in the feminine genitive. A practical phrase about an unmarked item."
+      },
+      {
+        "id": "NN-WORK-TSENA-09",
+        "phrase": "Цены в магазине заметно выросли.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Цены' is the nominative plural subject, with stress shifting in the plural. 'Выросли' is the plural verb, and 'заметно' marks the noticeable rise. A common economic remark."
+      },
+      {
+        "id": "NN-WORK-TSENA-10",
+        "phrase": "Они сравнивают цены разных магазинов.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Цены' is the accusative plural object of 'сравнивают'; inanimate plurals match the nominative plural. 'Разных магазинов' is the genitive specifying which prices."
+      }
+    ]
+  }
+]

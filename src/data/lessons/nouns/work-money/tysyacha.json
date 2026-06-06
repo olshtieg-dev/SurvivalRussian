@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-TYSYACHA",
+    "label": "Тысяча",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for тысяча (thousand).",
+    "missions": [
+      {
+        "id": "NN-WORK-TYSYACHA-01",
+        "phrase": "Одна тысяча это много денег.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тысяча' stays in the nominative as the subject. 'Одна' agrees in the feminine, and the sentence makes a simple statement."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-02",
+        "phrase": "Он заработал целую тысячу рублей.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тысячу' is the accusative object of 'заработал'. 'Целую' agrees in the feminine accusative, and 'рублей' is genitive plural after the number."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-03",
+        "phrase": "У меня нет даже тысячи.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Тысячи' is the genitive required by 'нет', emphasised by 'даже' to stress how little there is."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-04",
+        "phrase": "К тысяче добавили ещё немного.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Тысяче' is the dative form after 'к', expressing addition to the sum. 'Ещё немного' names the extra amount."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-05",
+        "phrase": "С каждой тысячей он становился счастливее.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Тысячей' is the instrumental after 'с', meaning 'with each thousand'. 'Каждой' agrees with it."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-06",
+        "phrase": "Речь идёт о большой тысяче.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О тысяче' uses the prepositional form after 'о' to express the topic. 'Большой' agrees in the prepositional."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-07",
+        "phrase": "Билет стоит почти две тысячи.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'две', the noun takes 'тысячи', the genitive singular used with two. 'Билет' is the subject."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-08",
+        "phrase": "На счёте лежат три тысячи.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'три', the noun appears as 'тысячи'. 'На счёте' sets the location of the money."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-09",
+        "phrase": "Тысячи людей вышли на площадь.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Тысячи' is the nominative plural as the subject of 'вышли'. 'Людей' is genitive plural, and 'на площадь' is the destination."
+      },
+      {
+        "id": "NN-WORK-TYSYACHA-10",
+        "phrase": "Он потратил несколько тысяч рублей.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 'Тысяч' is the genitive plural after 'несколько'. 'Рублей' follows as genitive plural too, naming the currency."
+      }
+    ]
+  }
+]

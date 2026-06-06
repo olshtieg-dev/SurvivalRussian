@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-VODKA",
+    "label": "Водка",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for водка (vodka).",
+    "missions": [
+      {
+        "id": "NN-FOOD-VODKA-01",
+        "phrase": "Эта водка слишком крепкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Водка' stays in the nominative as the subject. 'Эта' points at a specific bottle, and 'крепкая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-FOOD-VODKA-02",
+        "phrase": "Он купил водку в магазине.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Водку' is the accusative direct object of 'купил'. 'В магазине' shows where the purchase happened."
+      },
+      {
+        "id": "NN-FOOD-VODKA-03",
+        "phrase": "В холодильнике нет водки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Водки' is the genitive form required by 'нет' to express that there is none. 'В холодильнике' sets the location."
+      },
+      {
+        "id": "NN-FOOD-VODKA-04",
+        "phrase": "Он предпочитает пиво водке.",
+        "fullAnalysis": "Strategic focus: Dative in comparison. 'Водке' is the dative form used after 'предпочитать' to mark what is preferred less. A useful preference pattern."
+      },
+      {
+        "id": "NN-FOOD-VODKA-05",
+        "phrase": "Он закусывал водку солёным огурцом.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental. 'Водку' is the accusative object of 'закусывал', while 'солёным огурцом' is instrumental, naming what it was chased with."
+      },
+      {
+        "id": "NN-FOOD-VODKA-06",
+        "phrase": "Мы говорили о водке и истории.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О водке' uses the prepositional form after 'о' to express the topic. It is coordinated with 'истории' by 'и'."
+      },
+      {
+        "id": "NN-FOOD-VODKA-07",
+        "phrase": "Бутылка водки стоит дорого.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Водки' is the genitive after 'бутылка', describing what the bottle contains. 'Дорого' gives the price judgement."
+      },
+      {
+        "id": "NN-FOOD-VODKA-08",
+        "phrase": "На полке стояли разные водки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Водки' is the nominative plural as the subject of 'стояли'. 'Разные' agrees in the plural, naming different brands."
+      },
+      {
+        "id": "NN-FOOD-VODKA-09",
+        "phrase": "Налей мне немного водки, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Genitive of partitive. 'Водки' is the genitive after 'немного', expressing a small amount. 'Мне' is the dative recipient of the pour."
+      },
+      {
+        "id": "NN-FOOD-VODKA-10",
+        "phrase": "Водка стоит на праздничном столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Водка' is nominative as the subject of 'стоит'. 'На праздничном столе' is prepositional, setting the festive location."
+      }
+    ]
+  }
+]

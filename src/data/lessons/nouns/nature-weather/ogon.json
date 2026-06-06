@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-OGON",
+    "label": "Огонь",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for огонь (fire).",
+    "missions": [
+      {
+        "id": "NN-NATURE-OGON-01",
+        "phrase": "В камине горит яркий огонь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Огонь' stays in the nominative as the subject of 'горит'. 'Яркий' is the agreeing masculine adjective, and 'в камине' gives the location."
+      },
+      {
+        "id": "NN-NATURE-OGON-02",
+        "phrase": "Туристы быстро развели огонь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Огонь' is the accusative direct object of 'развели'; this inanimate masculine noun looks like the nominative. 'Туристы' is the plural subject."
+      },
+      {
+        "id": "NN-NATURE-OGON-03",
+        "phrase": "От огня идёт сильный жар.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Огня' is the genitive form required by 'от'. Note the dropped 'о' in the stem, and 'жар' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-OGON-04",
+        "phrase": "Дети радовались тёплому огню.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Огню' is the dative form after 'радовались', the thing the children were glad of. 'Тёплому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-NATURE-OGON-05",
+        "phrase": "Мы сидели перед огнём.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Огнём' is the instrumental form after 'перед', expressing position in front. 'Мы' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-OGON-06",
+        "phrase": "В огне сгорели старые письма.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В огне' uses the prepositional form 'огне' after 'в' to express location. 'Письма' is the neuter plural subject."
+      },
+      {
+        "id": "NN-NATURE-OGON-07",
+        "phrase": "Без огня в лесу темно и холодно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Огня' is the genitive form required by 'без', dropping the stem vowel. The phrase describes the campsite without fire."
+      },
+      {
+        "id": "NN-NATURE-OGON-08",
+        "phrase": "Огонь быстро распространился по дому.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Огонь' is the nominative subject of 'распространился'. 'По дому' is the dative complement showing the spread."
+      },
+      {
+        "id": "NN-NATURE-OGON-09",
+        "phrase": "Огни большого города красиво светятся.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Огни' is the nominative plural subject of 'светятся'. 'Большого города' is the genitive complement, and 'красиво' adds manner."
+      },
+      {
+        "id": "NN-NATURE-OGON-10",
+        "phrase": "Не подходи близко к огню.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Огню' is the dative form after 'к', marking movement toward the fire. 'Близко' adds proximity to the warning."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-VECHER",
+    "label": "Вечер",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for вечер (evening).",
+    "missions": [
+      {
+        "id": "NN-TIME-VECHER-01",
+        "phrase": "Сегодня вечер очень тёплый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вечер' is masculine and stays nominative as the subject. 'Тёплый' is the agreeing masculine adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-TIME-VECHER-02",
+        "phrase": "Я люблю тихий зимний вечер.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вечер' is the inanimate accusative object of 'люблю', identical to the nominative. 'Тихий зимний' are the agreeing masculine adjectives."
+      },
+      {
+        "id": "NN-TIME-VECHER-03",
+        "phrase": "До вечера ещё далеко.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Вечера' is genitive after 'до' to mean until evening. The phrase expresses that there is still a long time to wait."
+      },
+      {
+        "id": "NN-TIME-VECHER-04",
+        "phrase": "К вечеру стало прохладно.",
+        "fullAnalysis": "Strategic focus: Dative of time. 'Вечеру' is dative after 'к' meaning by evening. The impersonal 'стало прохладно' describes the weather turning cool."
+      },
+      {
+        "id": "NN-TIME-VECHER-05",
+        "phrase": "Мы наслаждались тихим вечером.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Вечером' is instrumental, governed by 'наслаждались'. 'Тихим' agrees in the masculine instrumental, expressing enjoyment of the evening."
+      },
+      {
+        "id": "NN-TIME-VECHER-06",
+        "phrase": "О вечере я вспоминаю с радостью.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Вечере' takes the prepositional form after 'о' to mean remembering about that evening. 'С радостью' adds the feeling."
+      },
+      {
+        "id": "NN-TIME-VECHER-07",
+        "phrase": "Вечером мы пойдём в театр.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Вечером' is the instrumental used adverbially to mean in the evening, a key Russian time pattern. 'В театр' shows the destination."
+      },
+      {
+        "id": "NN-TIME-VECHER-08",
+        "phrase": "Зимние вечера очень длинные.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Вечера' is the nominative plural subject, stressed on the ending. 'Зимние' agrees in the plural, and 'длинные' is the predicate adjective."
+      },
+      {
+        "id": "NN-TIME-VECHER-09",
+        "phrase": "Я помню те летние вечера.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Вечера' is the inanimate accusative plural object of 'помню', identical to the nominative plural. 'Те летние' are the agreeing modifiers."
+      },
+      {
+        "id": "NN-TIME-VECHER-10",
+        "phrase": "Добрый вечер, как ваши дела?",
+        "fullAnalysis": "Strategic focus: Nominative in a set greeting. 'Вечер' is nominative in the fixed greeting 'добрый вечер'. The question 'как ваши дела' completes a natural exchange."
+      }
+    ]
+  }
+]

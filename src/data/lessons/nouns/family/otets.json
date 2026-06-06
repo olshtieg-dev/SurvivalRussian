@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-OTETS",
+    "label": "Отец",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for отец (father).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-OTETS-01",
+        "phrase": "Мой отец работает в больнице.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отец' is masculine and stays in the nominative as the subject of 'работает'. 'Мой' is the agreeing masculine possessive, and 'в больнице' is prepositional of location."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-02",
+        "phrase": "Я очень люблю своего отца.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отца' is the accusative of the animate masculine 'отец' as the direct object of 'люблю'. Note the fleeting vowel: отец drops the 'е' to give отца."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-03",
+        "phrase": "У отца сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'У отца' uses the genitive 'отца' after 'у' to show whose birthday it is. The fleeting vowel drops again, giving the stem отц-."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-04",
+        "phrase": "У меня больше нет отца.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Отца' is the genitive required by 'нет' to express absence. 'Больше' adds the sense of no longer having one."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-05",
+        "phrase": "Я подарил отцу новые часы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Отцу' is the dative of 'отец', the recipient of the gift in 'подарил'. 'Новые часы' is the accusative plural direct object."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-06",
+        "phrase": "Я часто звоню отцу вечером.",
+        "fullAnalysis": "Strategic focus: Dative after 'звонить'. The verb 'звонить' governs the dative, so 'отцу' marks who is called. 'Часто' and 'вечером' add frequency and time."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-07",
+        "phrase": "Я горжусь своим отцом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. 'Отцом' is the instrumental of 'отец', required by the verb 'гордиться'. 'Своим' is the agreeing masculine instrumental possessive."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-08",
+        "phrase": "Я давно мечтаю об отце.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об отце' uses the prepositional 'отце' after 'об' to name the topic of longing. The fleeting vowel reappears here in the soft ending."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-09",
+        "phrase": "Наши отцы давно знакомы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Отцы' is the nominative plural of 'отец', the subject of 'знакомы'. 'Наши' agrees in the plural, showing the noun's plural form."
+      },
+      {
+        "id": "NN-FAMILY-OTETS-10",
+        "phrase": "Мы говорили о наших отцах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Об отцах' uses the prepositional plural 'отцах' after 'о' to name the topic of conversation. 'Наших' agrees in the plural prepositional."
+      }
+    ]
+  }
+]

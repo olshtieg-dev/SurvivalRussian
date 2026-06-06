@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-LETO",
+    "label": "Лето",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for лето (summer).",
+    "missions": [
+      {
+        "id": "NN-TIME-LETO-01",
+        "phrase": "Лето в этом году жаркое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лето' is the neuter nominative subject. 'Жаркое' is the agreeing neuter adjective describing it."
+      },
+      {
+        "id": "NN-TIME-LETO-02",
+        "phrase": "Я очень люблю лето.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лето' is the accusative direct object of 'люблю'; the neuter form matches the nominative. A clean object example."
+      },
+      {
+        "id": "NN-TIME-LETO-03",
+        "phrase": "Мы ждём конца лета.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Лета' is genitive showing whose end it is. 'Конца' is itself genitive after 'ждём', which governs the genitive."
+      },
+      {
+        "id": "NN-TIME-LETO-04",
+        "phrase": "К лету мы накопим денег.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Лету' is the dative form after 'к' to express a time goal. 'Денег' is the genitive of quantity."
+      },
+      {
+        "id": "NN-TIME-LETO-05",
+        "phrase": "Этим летом я еду на море.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Летом' is the instrumental used to mean in summer. 'Этим' agrees in the neuter instrumental, and 'на море' is the destination."
+      },
+      {
+        "id": "NN-TIME-LETO-06",
+        "phrase": "О прошлом лете много воспоминаний.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Лете' is the prepositional form after 'о' to give the topic. 'Прошлом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-TIME-LETO-07",
+        "phrase": "Лето быстро прошло.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лето' is nominative as the doer of 'прошло', which agrees in neuter gender. 'Быстро' adds the manner."
+      },
+      {
+        "id": "NN-TIME-LETO-08",
+        "phrase": "Я мечтаю о тёплом лете.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Лете' is prepositional after 'о' to mark what is dreamed about. 'Тёплом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-TIME-LETO-09",
+        "phrase": "Прошедшие лета были жаркими.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Лета' is the nominative plural meaning past summers. 'Прошедшие' agrees in the plural, and 'жаркими' is the instrumental predicate."
+      },
+      {
+        "id": "NN-TIME-LETO-10",
+        "phrase": "Целое лето шёл дождь.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Лето' is the accusative expressing how long the rain lasted; the neuter form matches the nominative. 'Целое' agrees with it."
+      }
+    ]
+  }
+]

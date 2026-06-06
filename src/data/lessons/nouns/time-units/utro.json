@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-UTRO",
+    "label": "Утро",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for утро (morning).",
+    "missions": [
+      {
+        "id": "NN-TIME-UTRO-01",
+        "phrase": "Утро было светлым и тёплым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Утро' stays in the nominative as the subject. 'Светлым' and 'тёплым' are instrumental predicate adjectives after past 'было'."
+      },
+      {
+        "id": "NN-TIME-UTRO-02",
+        "phrase": "Я люблю раннее зимнее утро.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Утро' is the accusative object of 'люблю'; this neuter noun keeps the same form. 'Раннее' and 'зимнее' agree with it."
+      },
+      {
+        "id": "NN-TIME-UTRO-03",
+        "phrase": "Я работаю до самого утра.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Утра' is the genitive form after 'до', expressing the time limit. 'Самого' emphasises right up to morning."
+      },
+      {
+        "id": "NN-TIME-UTRO-04",
+        "phrase": "Ближе к утру стало холоднее.",
+        "fullAnalysis": "Strategic focus: Dative of time approach. 'Утру' is the dative form after 'к', expressing approach toward morning. 'Холоднее' is the comparative result."
+      },
+      {
+        "id": "NN-TIME-UTRO-05",
+        "phrase": "Утром я пью крепкий кофе.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Утром' is the instrumental used adverbially to mean 'in the morning'. A core time expression."
+      },
+      {
+        "id": "NN-TIME-UTRO-06",
+        "phrase": "Мы поговорим об этом утром.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Утром' is again the instrumental meaning 'in the morning', setting when the conversation will happen. 'Об этом' names the topic."
+      },
+      {
+        "id": "NN-TIME-UTRO-07",
+        "phrase": "Каждое утро он делает зарядку.",
+        "fullAnalysis": "Strategic focus: Accusative of repeated time. 'Каждое утро' uses the accusative to express a regular morning habit. 'Зарядку' is the accusative object."
+      },
+      {
+        "id": "NN-TIME-UTRO-08",
+        "phrase": "С утра шёл сильный дождь.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Утра' is the genitive after 'с', meaning 'since morning'. 'Сильный дождь' is the subject."
+      },
+      {
+        "id": "NN-TIME-UTRO-09",
+        "phrase": "Зимние утра здесь очень тёмные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Утра' is the nominative plural as the subject. 'Зимние' agrees in the plural, and 'тёмные' is the predicate."
+      },
+      {
+        "id": "NN-TIME-UTRO-10",
+        "phrase": "Доброе утро, как ты спал?",
+        "fullAnalysis": "Strategic focus: Nominative in a greeting. 'Утро' is nominative in the fixed greeting 'доброе утро'. 'Доброе' agrees with it, and the question follows."
+      }
+    ]
+  }
+]

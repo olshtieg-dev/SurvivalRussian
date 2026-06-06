@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-BANK",
+    "label": "Банк",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for банк (bank).",
+    "missions": [
+      {
+        "id": "NN-WORK-BANK-01",
+        "phrase": "Рядом открылся новый банк.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Банк' is a masculine noun in the nominative as the subject of 'открылся'. 'Новый' agrees in the masculine, and 'рядом' adds location."
+      },
+      {
+        "id": "NN-WORK-BANK-02",
+        "phrase": "Я давно ищу надёжный банк.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Банк' is the inanimate accusative direct object of 'ищу', matching the nominative form. 'Надёжный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-WORK-BANK-03",
+        "phrase": "Возле банка большая очередь.",
+        "fullAnalysis": "Strategic focus: Genitive after 'возле'. 'Банка' is the genitive required by 'возле' to mean near the bank. 'Очередь' is the nominative subject."
+      },
+      {
+        "id": "NN-WORK-BANK-04",
+        "phrase": "В этом районе нет банка.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Банка' is the genitive required by 'нет' to express absence. 'В этом районе' is prepositional of location."
+      },
+      {
+        "id": "NN-WORK-BANK-05",
+        "phrase": "Я иду к банку за деньгами.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К банку' uses the dative 'банку' after 'к' to show the destination. 'За деньгами' is the instrumental of purpose."
+      },
+      {
+        "id": "NN-WORK-BANK-06",
+        "phrase": "Я доволен своим банком.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Банком' is the instrumental governed by the short adjective 'доволен'. 'Своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-WORK-BANK-07",
+        "phrase": "Я работаю в большом банке.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В банке' uses the prepositional 'банке' after 'в' to say where one works. 'Большом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-WORK-BANK-08",
+        "phrase": "Я храню деньги в банке.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В банке' again takes the prepositional 'банке' to mean inside the bank. 'Деньги' is the accusative plural object."
+      },
+      {
+        "id": "NN-WORK-BANK-09",
+        "phrase": "В городе открылись новые банки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Банки' is the nominative plural of 'банк', the subject of 'открылись'. 'Новые' agrees in the plural, and 'в городе' is prepositional of location."
+      },
+      {
+        "id": "NN-WORK-BANK-10",
+        "phrase": "Я сравнивал условия разных банков.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Банков' is the genitive plural of 'банк', showing whose conditions. 'Разных' agrees in the genitive plural."
+      }
+    ]
+  }
+]

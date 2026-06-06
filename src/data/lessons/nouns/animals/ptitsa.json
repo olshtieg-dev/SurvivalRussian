@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-PTITSA",
+    "label": "Птица",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for птица (bird).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-PTITSA-01",
+        "phrase": "Маленькая птица сидит на ветке.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Птица' stays in the nominative as the subject of 'сидит'. 'Маленькая' is the agreeing feminine adjective, and 'на ветке' gives the location."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-02",
+        "phrase": "Кошка поймала маленькую птицу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Птицу' is the accusative direct object of 'поймала'. 'Маленькую' agrees in the feminine accusative, and 'кошка' is the subject."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-03",
+        "phrase": "Перья этой птицы очень яркие.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Птицы' is the genitive form after the absent owner, showing whose feathers. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-04",
+        "phrase": "Дети дали птице немного хлеба.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Птице' is the dative form, the recipient of 'дали'. 'Немного хлеба' is the genitive quantity given to the bird."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-05",
+        "phrase": "Кот долго следил за птицей.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Птицей' is the instrumental form after 'за', the object of watching. 'Кот' is the nominative subject."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-06",
+        "phrase": "Мы говорили о редкой птице.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О птице' uses the prepositional form 'птице' after 'о' to express talking about something. 'Редкой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-07",
+        "phrase": "В небе летят большие птицы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Птицы' is the nominative plural subject of 'летят'. 'Большие' agrees as the plural adjective, and 'в небе' gives the location."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-08",
+        "phrase": "Зимой здесь нет птиц.",
+        "fullAnalysis": "Strategic focus: Genitive plural of absence. 'Птиц' is the genitive plural required by 'нет', signalling absence. 'Зимой' is the instrumental marking the season."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-09",
+        "phrase": "Эта птица поёт очень красиво.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Птица' is the nominative subject of 'поёт'. 'Эта' points at a specific one, and 'очень красиво' adds manner."
+      },
+      {
+        "id": "NN-ANIMAL-PTITSA-10",
+        "phrase": "Птица улетела далеко на юг.",
+        "fullAnalysis": "Strategic focus: Nominative subject with direction. 'Птица' is the nominative subject of 'улетела'. 'На юг' is the accusative of direction, and 'далеко' adds distance."
+      }
+    ]
+  }
+]

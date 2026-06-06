@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-DELO",
+    "label": "Дело",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for дело (matter; business).",
+    "missions": [
+      {
+        "id": "NN-WORK-DELO-01",
+        "phrase": "Это очень важное дело.",
+        "fullAnalysis": "Strategic focus: Nominative as predicate. 'Дело' is a neuter noun in the nominative as the predicate noun. 'Важное' agrees in the neuter, and 'очень' intensifies the importance."
+      },
+      {
+        "id": "NN-WORK-DELO-02",
+        "phrase": "Я закончил это трудное дело.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дело' is the neuter accusative direct object of 'закончил', matching the nominative form. 'Трудное' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-WORK-DELO-03",
+        "phrase": "Это не моего ума дело.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дело' is nominative here, but 'ума' is genitive in the set phrase meaning none of my business. A natural idiom for declining to judge."
+      },
+      {
+        "id": "NN-WORK-DELO-04",
+        "phrase": "У меня сегодня много дел.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Дел' is the bare-stem genitive plural of 'дело', required after 'много'. A high-frequency way to say you are busy."
+      },
+      {
+        "id": "NN-WORK-DELO-05",
+        "phrase": "Он подошёл к делу серьёзно.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К делу' uses the dative 'делу' after 'к' to mean approaching the matter. 'Серьёзно' is an adverb of manner."
+      },
+      {
+        "id": "NN-WORK-DELO-06",
+        "phrase": "Слова расходятся с делом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'С делом' uses the instrumental 'делом' after 'с' in a set phrase contrasting words and deeds. 'Слова' is the nominative plural subject."
+      },
+      {
+        "id": "NN-WORK-DELO-07",
+        "phrase": "Он занят важным делом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'занят'. 'Делом' is the instrumental governed by the short adjective 'занят'. 'Важным' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-WORK-DELO-08",
+        "phrase": "В этом деле нет ничего сложного.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В деле' uses the prepositional 'деле' after 'в' to mean in this matter. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-WORK-DELO-09",
+        "phrase": "У него всегда много важных дел.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Дел' is again the genitive plural of 'дело'. 'Важных' agrees in the genitive plural, describing his many tasks."
+      },
+      {
+        "id": "NN-WORK-DELO-10",
+        "phrase": "Мы говорили о наших делах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'О делах' uses the prepositional plural 'делах' after 'о' to name the topic. 'Наших' agrees in the plural prepositional."
+      }
+    ]
+  }
+]

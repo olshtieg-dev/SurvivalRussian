@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-KAMEN",
+    "label": "Камень",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for камень (stone).",
+    "missions": [
+      {
+        "id": "NN-NATURE-KAMEN-01",
+        "phrase": "На дороге лежит большой камень.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Камень' is a masculine noun in the nominative as the subject of 'лежит'. 'Большой' agrees in the masculine, and 'на дороге' is prepositional of location."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-02",
+        "phrase": "Мальчик бросил камень в воду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Камень' is the inanimate accusative direct object of 'бросил', matching the nominative form. 'В воду' shows the accusative of direction."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-03",
+        "phrase": "У этого камня острый край.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Камня' is the genitive after 'у' to show whose edge it is. The fleeting vowel drops: камень becomes камн- with the ending -я."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-04",
+        "phrase": "Здесь нет ни одного камня.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Камня' is the genitive required by 'нет' to express absence. The fleeting vowel drops again, giving камня."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-05",
+        "phrase": "Памятник сделан из камня.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Из камня' uses the genitive 'камня' after 'из' to show the material. A common pattern for what something is made of."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-06",
+        "phrase": "Он ударил по камню молотком.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'По камню' uses the dative 'камню' after 'по' to show the surface struck. 'Молотком' is the instrumental of means."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-07",
+        "phrase": "Я споткнулся о камень.",
+        "fullAnalysis": "Strategic focus: Accusative after 'о'. 'О камень' uses the accusative 'камень' after 'о' to mean stumbling against something. The inanimate accusative matches the nominative."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-08",
+        "phrase": "На камне сидела маленькая ящерица.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'На камне' uses the prepositional 'камне' after 'на' to say where the lizard sat. The fleeting vowel drops in this form too."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-09",
+        "phrase": "На берегу лежат большие камни.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Камни' is the nominative plural of 'камень', the subject of 'лежат'. 'Большие' agrees in the plural, and 'на берегу' is prepositional of location."
+      },
+      {
+        "id": "NN-NATURE-KAMEN-10",
+        "phrase": "Дети собирали красивые камни.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Камни' is the accusative plural of the inanimate 'камень', matching the nominative plural. 'Красивые' agrees in the plural."
+      }
+    ]
+  }
+]

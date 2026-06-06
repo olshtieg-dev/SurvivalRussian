@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-KOMPANIYA",
+    "label": "Компания",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for компания (company).",
+    "missions": [
+      {
+        "id": "NN-WORK-KOMPANIYA-01",
+        "phrase": "Наша компания быстро растёт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Компания' stays in the nominative case as the subject of 'растёт'. 'Наша' is the agreeing feminine possessive, and 'быстро' adds manner."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-02",
+        "phrase": "Он основал свою компанию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Компанию' is the accusative direct object of 'основал'. 'Свою' agrees in the feminine accusative, marking his own company."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-03",
+        "phrase": "Директор этой компании очень строгий.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Компании' is in the genitive case after 'директор', expressing whose director it is. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-04",
+        "phrase": "Он помогает молодой компании.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Компании' is in the dative case required by 'помогает'. 'Молодой' agrees in the feminine dative, describing the young firm."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-05",
+        "phrase": "Он гордится своей компанией.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Компанией' is in the instrumental case required by 'гордится'. 'Своей' agrees in the feminine instrumental, marking his own company."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-06",
+        "phrase": "Я работаю в большой компании.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В компании' uses the prepositional form 'компании' after 'в' to express the place of work. 'Большой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-07",
+        "phrase": "Эта компания очень известная.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Компания' is nominative as the subject. 'Известная' is the agreeing feminine predicate adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-08",
+        "phrase": "В городе работают крупные компании.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Компании' is the nominative plural of 'компания', acting as the subject of 'работают'. 'Крупные' agrees in the plural, and 'в городе' gives the place."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-09",
+        "phrase": "На рынке много новых компаний.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Компаний' is the genitive plural after 'много', expressing quantity. 'Новых' agrees in the genitive plural, and 'на рынке' gives the place."
+      },
+      {
+        "id": "NN-WORK-KOMPANIYA-10",
+        "phrase": "Мы заключили договор с компанией.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С компанией' uses the instrumental form 'компанией' after 'с' to express the partner. 'Договор' is the accusative object of 'заключили'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-MAMA",
+    "label": "Мама",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for мама (mom).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-MAMA-01",
+        "phrase": "Моя мама готовит вкусный обед.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мама' stays in the nominative case as the subject of 'готовит'. 'Моя' is the agreeing feminine possessive, and the sentence describes a familiar daily scene."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-02",
+        "phrase": "Я очень люблю свою маму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Маму' is the accusative direct object of 'люблю'. 'Свою' agrees in the feminine accusative, and 'очень' intensifies the affection."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-03",
+        "phrase": "Это подарок для мамы.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Мамы' is the genitive form after 'для', showing the recipient. A natural way to label a gift."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-04",
+        "phrase": "Я звоню маме каждый вечер.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Маме' is in the dative case as the recipient of the call after 'звоню'. 'Каждый вечер' shows the regular habit."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-05",
+        "phrase": "Я иду в магазин с мамой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Мамой' is the instrumental form after 'с', expressing accompaniment. A common pattern for doing things together."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-06",
+        "phrase": "Мы говорили о маме весь день.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О маме' uses the prepositional form after 'о' to express the topic of conversation. 'Весь день' adds duration."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-07",
+        "phrase": "У мамы сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'У мамы' uses the genitive after 'у' to show whose birthday it is. A frequent everyday construction."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-08",
+        "phrase": "Наши мамы давно дружат.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Мамы' is the nominative plural as the subject of 'дружат'. 'Наши' agrees in the plural, describing a long friendship."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-09",
+        "phrase": "Я помогаю маме на кухне.",
+        "fullAnalysis": "Strategic focus: Dative recipient of help. 'Маме' is the dative object of 'помогаю', since this verb governs the dative. 'На кухне' sets the location."
+      },
+      {
+        "id": "NN-FAMILY-MAMA-10",
+        "phrase": "Мама купила хлеб и молоко.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мама' is nominative as the subject of 'купила', which agrees in feminine gender. The objects 'хлеб' and 'молоко' are joined by 'и'."
+      }
+    ]
+  }
+]

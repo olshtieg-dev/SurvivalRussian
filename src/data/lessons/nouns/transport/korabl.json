@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-KORABL",
+    "label": "Корабль",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for корабль (ship).",
+    "missions": [
+      {
+        "id": "NN-TRANS-KORABL-01",
+        "phrase": "Большой корабль стоит в порту.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Корабль' stays in the nominative as the subject of 'стоит'. 'Большой' is the agreeing masculine adjective, and 'в порту' gives the location."
+      },
+      {
+        "id": "NN-TRANS-KORABL-02",
+        "phrase": "Моряки построили новый корабль.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Корабль' is the accusative direct object of 'построили'; this inanimate masculine noun looks like the nominative. 'Моряки' is the plural subject."
+      },
+      {
+        "id": "NN-TRANS-KORABL-03",
+        "phrase": "Капитан этого корабля очень опытный.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Корабля' is the genitive form, showing whose captain. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-TRANS-KORABL-04",
+        "phrase": "Этому кораблю нужен ремонт.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Кораблю' is the dative form, the thing that needs repair. 'Этому' agrees in the masculine dative, and 'ремонт' is the nominative subject."
+      },
+      {
+        "id": "NN-TRANS-KORABL-05",
+        "phrase": "Мы плыли на остров кораблём.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Кораблём' is the instrumental form expressing the means of travel. 'На остров' is the accusative of direction."
+      },
+      {
+        "id": "NN-TRANS-KORABL-06",
+        "phrase": "На корабле было много людей.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На корабле' uses the prepositional form 'корабле' after 'на' to express location. 'Много людей' is the genitive quantity."
+      },
+      {
+        "id": "NN-TRANS-KORABL-07",
+        "phrase": "Без корабля мы не доберёмся до острова.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Корабля' is the genitive form required by 'без'. The phrase states a condition for reaching the island."
+      },
+      {
+        "id": "NN-TRANS-KORABL-08",
+        "phrase": "В гавани стоят огромные корабли.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Корабли' is the nominative plural subject of 'стоят'. 'Огромные' agrees as the plural adjective, and 'в гавани' gives the location."
+      },
+      {
+        "id": "NN-TRANS-KORABL-09",
+        "phrase": "Я видел в море три корабля.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Корабля' is the genitive singular form required after 'три'. 'В море' is the prepositional location."
+      },
+      {
+        "id": "NN-TRANS-KORABL-10",
+        "phrase": "Корабль медленно подошёл к берегу.",
+        "fullAnalysis": "Strategic focus: Nominative subject with direction. 'Корабль' is the nominative subject of 'подошёл'. 'К берегу' is the dative of direction, and 'медленно' adds manner."
+      }
+    ]
+  }
+]

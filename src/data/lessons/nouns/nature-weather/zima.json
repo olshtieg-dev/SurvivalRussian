@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-ZIMA",
+    "label": "Зима",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for зима (winter).",
+    "missions": [
+      {
+        "id": "NN-NATURE-ZIMA-01",
+        "phrase": "В России зима очень холодная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зима' is the feminine nominative subject. 'Холодная' is the agreeing feminine adjective, and 'в России' gives the prepositional place."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-02",
+        "phrase": "Я очень люблю снежную зиму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зиму' is the accusative direct object of 'люблю'. 'Снежную' agrees in the feminine accusative. A natural way to state a seasonal preference."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-03",
+        "phrase": "Мы ждём начала зимы.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Зимы' is the genitive of 'зима' depending on 'начала'. The phrase 'ждём начала зимы' means we await the start of winter."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-04",
+        "phrase": "К зиме мы купили тёплые куртки.",
+        "fullAnalysis": "Strategic focus: Dative of time. 'Зиме' is the dative of 'зима' after 'к', meaning in preparation for winter. 'Тёплые куртки' is the accusative plural object."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-05",
+        "phrase": "Зимой дети катаются на коньках.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Зимой' is the instrumental of 'зима' used adverbially to mean in winter. 'Дети' is the subject and 'на коньках' gives the activity."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-06",
+        "phrase": "О зиме написано много стихов.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Зиме' is the prepositional of 'зима' after 'о'. The impersonal 'написано' reports that many poems exist on the topic."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-07",
+        "phrase": "Зима наступила очень рано.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зима' is the feminine nominative subject of 'наступила'. The verb agrees in feminine gender, and 'рано' adds timing."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-08",
+        "phrase": "Этой зимой выпало много снега.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Зимой' is the instrumental of 'зима' meaning this past winter. 'Этой' agrees in the feminine instrumental, and 'много снега' uses the genitive of quantity."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-09",
+        "phrase": "Последние зимы были очень тёплыми.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Зимы' is the nominative plural of 'зима' as the subject of 'были'. 'Последние' agrees in the plural, and 'тёплыми' is the instrumental predicate."
+      },
+      {
+        "id": "NN-NATURE-ZIMA-10",
+        "phrase": "Я помню холодные сибирские зимы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Зимы' is the accusative plural of the inanimate 'зима', the object of 'помню'. 'Холодные сибирские' agree in the plural."
+      }
+    ]
+  }
+]

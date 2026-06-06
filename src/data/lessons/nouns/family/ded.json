@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-DED",
+    "label": "Дед",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for дед (grandfather).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-DED-01",
+        "phrase": "Мой дед живёт в деревне.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дед' stays in the nominative case as the subject of 'живёт'. 'Мой' agrees in the masculine, and 'в деревне' is prepositional, marking location."
+      },
+      {
+        "id": "NN-FAMILY-DED-02",
+        "phrase": "Я часто вспоминаю деда.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an animate masculine noun, 'деда' takes the genitive-like accusative as the direct object of 'вспоминаю'. 'Часто' adds frequency."
+      },
+      {
+        "id": "NN-FAMILY-DED-03",
+        "phrase": "У деда есть старый дом.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'У деда' uses the genitive after 'у' to show who owns something. 'Дом' stays nominative as the thing possessed."
+      },
+      {
+        "id": "NN-FAMILY-DED-04",
+        "phrase": "Я звоню деду каждый вечер.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Деду' is the dative, the person being called. The verb 'звоню' governs the dative for the one phoned."
+      },
+      {
+        "id": "NN-FAMILY-DED-05",
+        "phrase": "Я люблю гулять с дедом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Дедом' is the instrumental form after 'с', expressing accompaniment. A warm way to describe spending time with one's grandfather."
+      },
+      {
+        "id": "NN-FAMILY-DED-06",
+        "phrase": "Мы говорим о деде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О деде' uses the prepositional after 'о' to mark the topic of conversation. A clean model for the prepositional masculine ending."
+      },
+      {
+        "id": "NN-FAMILY-DED-07",
+        "phrase": "Я еду к деду в гости.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К деду' uses the dative after 'к' to show movement towards a person. 'В гости' is a fixed phrase for visiting."
+      },
+      {
+        "id": "NN-FAMILY-DED-08",
+        "phrase": "Наши деды воевали на фронте.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Деды' is the nominative plural subject of 'воевали'. 'Наши' agrees in plural, and 'на фронте' is prepositional, marking place."
+      },
+      {
+        "id": "NN-FAMILY-DED-09",
+        "phrase": "У нас нет деда дома.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет', the noun becomes genitive 'деда'. The frame states that the grandfather is not at home."
+      },
+      {
+        "id": "NN-FAMILY-DED-10",
+        "phrase": "Этот старый дед всё помнит.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Дед' is nominative as the subject. 'Этот' and 'старый' are the agreeing masculine forms, and 'всё помнит' completes the praise of his memory."
+      }
+    ]
+  }
+]

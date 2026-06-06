@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-VODA",
+    "label": "Вода",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for вода (water).",
+    "missions": [
+      {
+        "id": "NN-FOOD-VODA-01",
+        "phrase": "Вода в реке очень холодная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вода' stays in the nominative as the subject. 'Холодная' is the agreeing feminine adjective, and 'в реке' gives the location."
+      },
+      {
+        "id": "NN-FOOD-VODA-02",
+        "phrase": "Я пью чистую воду каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Воду' is the accusative direct object of 'пью'. 'Чистую' agrees in the feminine accusative, and 'каждое утро' adds frequency."
+      },
+      {
+        "id": "NN-FOOD-VODA-03",
+        "phrase": "В стакане нет воды.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Воды' is the genitive form required by 'нет', signalling absence. 'В стакане' is the prepositional location."
+      },
+      {
+        "id": "NN-FOOD-VODA-04",
+        "phrase": "Цветы рады свежей воде.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Воде' is the dative form after 'рады', the thing the flowers are glad of. 'Свежей' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-FOOD-VODA-05",
+        "phrase": "Я мою руки тёплой водой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Водой' is the instrumental form, the means of washing. 'Тёплой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-FOOD-VODA-06",
+        "phrase": "Рыба живёт в воде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В воде' uses the prepositional form 'воде' after 'в' to express location. A simple, natural statement about where fish live."
+      },
+      {
+        "id": "NN-FOOD-VODA-07",
+        "phrase": "Дай мне немного воды, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Partitive genitive. 'Воды' is the genitive form after 'немного', expressing a quantity. A polite everyday request for some water."
+      },
+      {
+        "id": "NN-FOOD-VODA-08",
+        "phrase": "Без воды растения не растут.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Воды' is the genitive form required by 'без'. The phrase states a condition for plant growth."
+      },
+      {
+        "id": "NN-FOOD-VODA-09",
+        "phrase": "Эта вода совсем не вкусная.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Вода' is nominative as the subject. 'Эта' points at a specific one, and 'не вкусная' gives the negative judgement."
+      },
+      {
+        "id": "NN-FOOD-VODA-10",
+        "phrase": "На столе стоят бутылки с водой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'С водой' uses the instrumental form 'водой' after 'с' to describe the bottles' contents. 'Бутылки' is the nominative plural subject."
+      }
+    ]
+  }
+]

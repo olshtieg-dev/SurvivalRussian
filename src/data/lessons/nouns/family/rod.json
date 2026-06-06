@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-ROD",
+    "label": "Род",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for род (kin; lineage).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-ROD-01",
+        "phrase": "Наш род очень старый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Род' stays in the nominative case as the subject. 'Наш' is the agreeing masculine possessive, and 'старый' is the nominative predicate adjective."
+      },
+      {
+        "id": "NN-FAMILY-ROD-02",
+        "phrase": "Я хорошо знаю свой род.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Род' is inanimate masculine, so its accusative matches the nominative as the object of 'знаю'. 'Свой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-FAMILY-ROD-03",
+        "phrase": "История нашего рода очень длинная.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Рода' is in the genitive case after 'история', expressing whose history it is. 'Нашего' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-FAMILY-ROD-04",
+        "phrase": "Он принадлежит к древнему роду.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К роду' uses the dative form 'роду' after 'к' to express belonging. 'Древнему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-FAMILY-ROD-05",
+        "phrase": "Она гордится своим родом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Родом' is in the instrumental case required by 'гордится'. 'Своим' agrees in the masculine instrumental, marking her own lineage."
+      },
+      {
+        "id": "NN-FAMILY-ROD-06",
+        "phrase": "В нашем роду много врачей.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В роду' uses the prepositional form 'роду' after 'в' to locate the trait within the family. 'Много врачей' adds a genitive quantity."
+      },
+      {
+        "id": "NN-FAMILY-ROD-07",
+        "phrase": "Этот род известен своими традициями.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Род' is nominative as the subject of 'известен'. 'Этот' points to a specific lineage, and 'своими традициями' gives the instrumental cause of fame."
+      },
+      {
+        "id": "NN-FAMILY-ROD-08",
+        "phrase": "Старые роды часто хранят легенды.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Роды' is the nominative plural of 'род', acting as the subject of 'хранят'. 'Старые' agrees in the plural, and 'легенды' is the accusative plural object."
+      },
+      {
+        "id": "NN-FAMILY-ROD-09",
+        "phrase": "Я родом из небольшого города.",
+        "fullAnalysis": "Strategic focus: Instrumental of origin. 'Родом' is the instrumental form in the fixed idiom 'я родом из', stating where someone is from. 'Из города' gives the genitive source."
+      },
+      {
+        "id": "NN-FAMILY-ROD-10",
+        "phrase": "Без своего рода человек одинок.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Без рода' uses the genitive form 'рода' after 'без' to express being without one's kin. 'Своего' agrees in the masculine genitive."
+      }
+    ]
+  }
+]

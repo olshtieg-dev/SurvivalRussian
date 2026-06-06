@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-SESTRA",
+    "label": "Сестра",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for сестра (sister).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-SESTRA-01",
+        "phrase": "Моя сестра живёт в городе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сестра' is the feminine nominative subject of 'живёт'. 'Моя' agrees in feminine gender, and 'в городе' is the prepositional place where she lives."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-02",
+        "phrase": "Я давно не видел сестру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сестру' is the accusative direct object of 'видел', taking the regular feminine accusative ending. 'Давно не' stresses how long it has been."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-03",
+        "phrase": "У моей сестры есть машина.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Сестры' is genitive after 'у', marking the owner of the car. 'Моей' agrees in the feminine genitive, a basic possession frame."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-04",
+        "phrase": "Я позвонил сестре утром.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Сестре' is the dative object required by 'позвонил', the person being called. 'Утром' is an adverbial instrumental of time, a handy everyday line."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-05",
+        "phrase": "Я хожу в кино с сестрой.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Сестрой' is instrumental after 'с', meaning together with her. 'В кино' shows the destination, a natural plans-with-someone sentence."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-06",
+        "phrase": "Мама часто думает о сестре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О сестре' uses the prepositional form 'сестре' after 'о' to mean thinking about her. 'Часто' adds frequency to the reflection."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-07",
+        "phrase": "У меня две сестры.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'две' the noun takes the genitive singular 'сестры'. This counting pattern is essential when describing siblings."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-08",
+        "phrase": "Мои сёстры очень похожи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сёстры' is the nominative plural of 'сестра' with the stressed ё shift, the subject of the sentence. 'Похожи' is the short adjective describing them."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-09",
+        "phrase": "У меня нет старших сестёр.",
+        "fullAnalysis": "Strategic focus: Genitive plural in negation. 'Сестёр' is the genitive plural required after 'нет', with the irregular ё in the stem. 'Старших' agrees in the genitive plural, a key negative-existence pattern."
+      },
+      {
+        "id": "NN-FAMILY-SESTRA-10",
+        "phrase": "Она моя младшая сестра.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Сестра' is the nominative predicate noun identifying who she is. 'Младшая' is the agreeing feminine adjective, a simple introduction model."
+      }
+    ]
+  }
+]

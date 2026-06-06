@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-TRUBKA",
+    "label": "Трубка",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for трубка (pipe; receiver).",
+    "missions": [
+      {
+        "id": "NN-FOOD-TRUBKA-01",
+        "phrase": "Его трубка лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Трубка' stays in the nominative case as the subject of 'лежит'. 'Его' marks the owner, and 'на столе' gives the prepositional location."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-02",
+        "phrase": "Дедушка курит старую трубку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Трубку' is the accusative direct object of 'курит'. 'Старую' agrees in the feminine accusative, describing the old pipe."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-03",
+        "phrase": "У меня нет телефонной трубки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Трубки' is in the genitive case after 'нет', the standard negation of existence. 'Телефонной' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-04",
+        "phrase": "Он подошёл к телефонной трубке.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К трубке' uses the dative form 'трубке' after 'к' to express approaching. 'Телефонной' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-05",
+        "phrase": "Он говорил с трубкой в руке.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С трубкой' uses the instrumental form 'трубкой' after 'с' to describe holding it. 'В руке' gives the prepositional place."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-06",
+        "phrase": "Я слышу шум в трубке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'В трубке' uses the prepositional form 'трубке' after 'в' to locate the noise in the receiver. 'Шум' is the accusative object of 'слышу'."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-07",
+        "phrase": "Эта трубка очень дорогая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Трубка' is nominative as the subject. 'Дорогая' is the agreeing feminine predicate adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-08",
+        "phrase": "На полке стоят красивые трубки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Трубки' is the nominative plural of 'трубка', acting as the subject of 'стоят'. 'Красивые' agrees in the plural, and 'на полке' gives the location."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-09",
+        "phrase": "Он положил трубку и ушёл.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Трубку' is the accusative direct object of 'положил', here meaning he hung up the phone. The verb 'ушёл' continues the action."
+      },
+      {
+        "id": "NN-FOOD-TRUBKA-10",
+        "phrase": "Без трубки ему было скучно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Без трубки' uses the genitive form 'трубки' after 'без' to express absence. The impersonal 'ему было скучно' adds the dative experiencer."
+      }
+    ]
+  }
+]

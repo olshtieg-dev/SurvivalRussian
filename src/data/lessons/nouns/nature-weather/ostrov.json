@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-OSTROV",
+    "label": "Остров",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for остров (island).",
+    "missions": [
+      {
+        "id": "NN-NATURE-OSTROV-01",
+        "phrase": "Этот остров очень красивый.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Остров' is the masculine nominative subject. 'Этот' is the agreeing determiner, and 'красивый' is the predicate adjective."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-02",
+        "phrase": "Я хочу увидеть этот остров.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Остров' is the accusative object of 'увидеть'; this inanimate masculine noun matches the nominative. 'Этот' agrees in the accusative."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-03",
+        "phrase": "На берегу острова стоит маяк.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Острова' is genitive showing whose shore it is. 'Маяк' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-04",
+        "phrase": "Корабль плывёт к острову.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Острову' is the dative form after 'к' to show movement toward the island. 'Корабль' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-05",
+        "phrase": "Мы отдыхали на острове неделю.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Острове' is the prepositional form after 'на' to mark location. 'Неделю' is the accusative of duration."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-06",
+        "phrase": "Над островом летят птицы.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Островом' is instrumental after 'над' to mean above the island. 'Птицы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-07",
+        "phrase": "Мы доплыли до острова быстро.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Острова' is genitive after 'до' to express reaching the island. 'Быстро' adds the manner."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-08",
+        "phrase": "Остров находится в океане.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Остров' is nominative as the subject of 'находится'. 'В океане' is prepositional marking location."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-09",
+        "phrase": "В этом море много островов.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 'Островов' is the genitive plural after 'много'. 'В этом море' is prepositional marking location."
+      },
+      {
+        "id": "NN-NATURE-OSTROV-10",
+        "phrase": "Эти острова очень далеко.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Острова' is the nominative plural with end stress. 'Эти' agrees in the plural, and 'далеко' is the predicate adverb."
+      }
+    ]
+  }
+]

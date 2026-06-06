@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-REBYONOK",
+    "label": "Ребёнок",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for ребёнок (child).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-REBYONOK-01",
+        "phrase": "Этот ребёнок очень умный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ребёнок' stays in the nominative case as the subject. 'Этот' and 'умный' are the agreeing masculine forms, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-02",
+        "phrase": "Я вижу маленького ребёнка.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an animate masculine noun, 'ребёнка' takes the genitive-like accusative as the direct object of 'вижу'. Note the fleeting vowel dropping in 'ребёнка'. 'Маленького' agrees."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-03",
+        "phrase": "У нас нет ребёнка.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет', the noun becomes genitive 'ребёнка', with the fleeting 'о' dropping out. The frame 'у нас нет' states what is lacking."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-04",
+        "phrase": "Я дал игрушку ребёнку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Ребёнку' is the dative indirect object, the one receiving 'игрушку'. The dative marks who benefits from the action of 'дал'."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-05",
+        "phrase": "Мать гуляет с ребёнком.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Ребёнком' is the instrumental form after the preposition 'с', expressing accompaniment. A natural way to say someone is out with a child."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-06",
+        "phrase": "Мы говорим о ребёнке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О ребёнке' uses the prepositional form after 'о' to express the topic of conversation. Here the fleeting vowel stays in the stem."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-07",
+        "phrase": "В парке играют дети.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural of 'ребёнок' is the irregular 'дети', here the nominative subject of 'играют'. 'В парке' is prepositional, giving location."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-08",
+        "phrase": "У соседей трое детей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After numbers above four, the plural 'дети' becomes genitive 'детей'. The frame 'у соседей' expresses possession by the neighbours."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-09",
+        "phrase": "Я помогаю детям с уроками.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Детям' is the dative plural of 'дети', the recipients of help. 'Помогаю' governs the dative, and 'с уроками' is instrumental."
+      },
+      {
+        "id": "NN-FAMILY-REBYONOK-10",
+        "phrase": "Учительница работает с детьми.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Детьми' is the irregular instrumental plural of 'дети', used after 'с' to show accompaniment. A common pattern for describing work with children."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-MESYATS",
+    "label": "Месяц",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for месяц (month).",
+    "missions": [
+      {
+        "id": "NN-TIME-MESYATS-01",
+        "phrase": "Сейчас идёт последний месяц года.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Месяц' stays in the nominative case as the subject of 'идёт'. 'Последний' is the agreeing masculine adjective, and 'года' is a genitive of relation."
+      },
+      {
+        "id": "NN-TIME-MESYATS-02",
+        "phrase": "Я ждал этот месяц целый год.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Месяц' is inanimate masculine, so its accusative matches the nominative as the object of 'ждал'. 'Этот' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-TIME-MESYATS-03",
+        "phrase": "До конца месяца ещё далеко.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Месяца' is in the genitive case after 'конца', expressing the end of the month. 'До' governs the genitive 'конца'."
+      },
+      {
+        "id": "NN-TIME-MESYATS-04",
+        "phrase": "К следующему месяцу всё изменится.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'К месяцу' uses the dative form 'месяцу' after 'к' to express a deadline. 'Следующему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TIME-MESYATS-05",
+        "phrase": "Перед прошлым месяцем было тепло.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Месяцем' is in the instrumental case after 'перед' to express time before. 'Прошлым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-TIME-MESYATS-06",
+        "phrase": "В этом месяце много праздников.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В месяце' uses the prepositional form 'месяце' after 'в' to express when. 'Этом' agrees, and 'много праздников' adds a genitive quantity."
+      },
+      {
+        "id": "NN-TIME-MESYATS-07",
+        "phrase": "Этот месяц был очень тёплым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Месяц' is nominative as the subject of 'был'. 'Этот' points at a specific month, and 'тёплым' is the instrumental predicate after 'был'."
+      },
+      {
+        "id": "NN-TIME-MESYATS-08",
+        "phrase": "Прошли долгие зимние месяцы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Месяцы' is the nominative plural of 'месяц', acting as the subject of 'прошли'. 'Долгие зимние' agrees in the plural."
+      },
+      {
+        "id": "NN-TIME-MESYATS-09",
+        "phrase": "Я провёл там несколько месяцев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Месяцев' is the genitive plural after 'несколько', expressing quantity. The phrase states how long someone stayed there."
+      },
+      {
+        "id": "NN-TIME-MESYATS-10",
+        "phrase": "Через месяц начнётся новый сезон.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Через месяц' uses the accusative form 'месяц' after 'через' to express time forward. 'Новый сезон' is the nominative subject."
+      }
+    ]
+  }
+]

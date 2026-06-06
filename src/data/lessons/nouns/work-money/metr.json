@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-METR",
+    "label": "Метр",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for метр (meter).",
+    "missions": [
+      {
+        "id": "NN-WORK-METR-01",
+        "phrase": "Один метр равен ста сантиметрам.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Метр' stays in the nominative as the subject. 'Один' agrees as the masculine numeral, and 'ста сантиметрам' is the dative complement."
+      },
+      {
+        "id": "NN-WORK-METR-02",
+        "phrase": "Мне нужен один метр ткани.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Метр' is the accusative object of 'нужен' frame; this inanimate masculine noun looks like the nominative. 'Ткани' is the genitive material."
+      },
+      {
+        "id": "NN-WORK-METR-03",
+        "phrase": "До дома меньше метра.",
+        "fullAnalysis": "Strategic focus: Genitive after comparison. 'Метра' is the genitive form after 'меньше', expressing how little distance remains. 'До дома' marks the endpoint."
+      },
+      {
+        "id": "NN-WORK-METR-04",
+        "phrase": "Этому метру ткани я очень рад.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Метру' is the dative form after 'рад', the thing the speaker is glad of. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-WORK-METR-05",
+        "phrase": "Стена выше меня на метр.",
+        "fullAnalysis": "Strategic focus: Accusative of measure. 'Метр' is the accusative form after 'на', expressing the amount of difference. 'Стена' is the nominative subject."
+      },
+      {
+        "id": "NN-WORK-METR-06",
+        "phrase": "Речь идёт о квадратном метре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О метре' uses the prepositional form 'метре' after 'о' to express the topic. 'Квадратном' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-WORK-METR-07",
+        "phrase": "Я купил два метра верёвки.",
+        "fullAnalysis": "Strategic focus: Genitive after a numeral. 'Метра' is the genitive singular form required after 'два'. 'Верёвки' is the genitive material being measured."
+      },
+      {
+        "id": "NN-WORK-METR-08",
+        "phrase": "В рулоне пять метров ткани.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Метров' is the genitive plural after 'пять', counting the length. 'В рулоне' is the prepositional location."
+      },
+      {
+        "id": "NN-WORK-METR-09",
+        "phrase": "Эти метры стоят очень дорого.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Метры' is the nominative plural subject of 'стоят'. 'Эти' agrees as the plural demonstrative, and 'дорого' gives the price judgement."
+      },
+      {
+        "id": "NN-WORK-METR-10",
+        "phrase": "Этот стол длиной почти два метра.",
+        "fullAnalysis": "Strategic focus: Accusative of measure. 'Метра' is the genitive singular after 'два' within the measure phrase. 'Длиной' is the instrumental specifying dimension."
+      }
+    ]
+  }
+]

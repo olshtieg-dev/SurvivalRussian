@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-DYM",
+    "label": "Дым",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for дым (smoke).",
+    "missions": [
+      {
+        "id": "NN-NATURE-DYM-01",
+        "phrase": "Из трубы идёт дым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дым' is the masculine nominative subject of 'идёт'. 'Из трубы' is the genitive source after 'из', a vivid everyday image."
+      },
+      {
+        "id": "NN-NATURE-DYM-02",
+        "phrase": "Я чувствую дым на кухне.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дым' is the accusative direct object of 'чувствую'; as an inanimate masculine noun its accusative matches the nominative. 'На кухне' is the prepositional place."
+      },
+      {
+        "id": "NN-NATURE-DYM-03",
+        "phrase": "В комнате много дыма.",
+        "fullAnalysis": "Strategic focus: Genitive after a quantity word. 'Дыма' is the genitive required after 'много'. 'В комнате' is the prepositional place, a useful pattern for amounts."
+      },
+      {
+        "id": "NN-NATURE-DYM-04",
+        "phrase": "Мы радовались дыму из печи.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Дыму' is the dative case required by 'радовались', the thing they were glad about. 'Из печи' is the genitive source."
+      },
+      {
+        "id": "NN-NATURE-DYM-05",
+        "phrase": "Небо закрыто чёрным дымом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Дымом' is instrumental, marking what covers the sky. 'Чёрным' agrees in the masculine instrumental, a striking descriptive line."
+      },
+      {
+        "id": "NN-NATURE-DYM-06",
+        "phrase": "Мы говорили о дыме над городом.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О дыме' uses the prepositional form 'дыме' after 'о'. 'Над городом' is the instrumental of position, describing where the smoke hangs."
+      },
+      {
+        "id": "NN-NATURE-DYM-07",
+        "phrase": "В дыму было трудно дышать.",
+        "fullAnalysis": "Strategic focus: Locative prepositional in -у. 'Дым' takes the special locative ending 'дыму' after 'в' to mean inside the smoke. 'Трудно дышать' is the impersonal predicate."
+      },
+      {
+        "id": "NN-NATURE-DYM-08",
+        "phrase": "Дым медленно поднимался вверх.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дым' is the masculine nominative subject of 'поднимался'. 'Медленно' describes the manner and 'вверх' the direction, a calm narrative line."
+      },
+      {
+        "id": "NN-NATURE-DYM-09",
+        "phrase": "Город скрылся за дымом пожаров.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'за'. 'Дымом' is instrumental after 'за', showing what the city disappeared behind. 'Пожаров' is the genitive plural source of the smoke."
+      },
+      {
+        "id": "NN-NATURE-DYM-10",
+        "phrase": "Дым ел глаза и мешал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дым' is the masculine nominative subject of two verbs joined by 'и'. A natural way to describe the unpleasant effect of smoke."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-SNEG",
+    "label": "Снег",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for снег (snow).",
+    "missions": [
+      {
+        "id": "NN-NATURE-SNEG-01",
+        "phrase": "На улице идёт белый снег.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Снег' stays in the nominative case as the subject of 'идёт'. 'Белый' is the agreeing masculine adjective, and 'на улице' gives the location."
+      },
+      {
+        "id": "NN-NATURE-SNEG-02",
+        "phrase": "Дети любят первый снег.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Снег' is inanimate masculine, so its accusative matches the nominative as the object of 'любят'. 'Первый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-NATURE-SNEG-03",
+        "phrase": "Зимой много снега в горах.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Снега' is in the genitive case after 'много', expressing an amount. 'Зимой' is an instrumental time adverb, and 'в горах' gives the place."
+      },
+      {
+        "id": "NN-NATURE-SNEG-04",
+        "phrase": "Дети радуются первому снегу.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Снегу' is in the dative case required by 'радуются'. 'Первому' agrees in the masculine dative, describing the first snow of the season."
+      },
+      {
+        "id": "NN-NATURE-SNEG-05",
+        "phrase": "Дорога покрыта белым снегом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Снегом' is in the instrumental case expressing what covers the road. 'Белым' agrees in the masculine instrumental, and 'покрыта' is the short passive."
+      },
+      {
+        "id": "NN-NATURE-SNEG-06",
+        "phrase": "Дети играют в снегу весь день.",
+        "fullAnalysis": "Strategic focus: Locative prepositional. 'В снегу' uses the special locative form 'снегу' after 'в' to express playing in the snow. 'Весь день' adds the accusative duration."
+      },
+      {
+        "id": "NN-NATURE-SNEG-07",
+        "phrase": "Снег уже растаял на дорогах.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Снег' is nominative as the subject of 'растаял'. 'Уже' marks completion, and 'на дорогах' gives the prepositional plural location."
+      },
+      {
+        "id": "NN-NATURE-SNEG-08",
+        "phrase": "Зимой здесь часто идут снега.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Снега' is the nominative plural of 'снег', here meaning snowfalls, as the subject of 'идут'. 'Зимой' and 'часто' add time and frequency."
+      },
+      {
+        "id": "NN-NATURE-SNEG-09",
+        "phrase": "Мы долго гуляли по снегу.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'По снегу' uses the dative form 'снегу' after 'по' to express walking over the surface. 'Долго' adds duration to 'гуляли'."
+      },
+      {
+        "id": "NN-NATURE-SNEG-10",
+        "phrase": "Без снега зима кажется грустной.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Без снега' uses the genitive form 'снега' after 'без' to express absence. 'Зима' is the nominative subject of 'кажется'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-PRIKAZ",
+    "label": "Приказ",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for приказ (order, command).",
+    "missions": [
+      {
+        "id": "NN-WORK-PRIKAZ-01",
+        "phrase": "Это был строгий приказ.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Приказ' is the masculine nominative as the predicate noun. 'Строгий' is the agreeing adjective, and 'был' is the past copula."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-02",
+        "phrase": "Командир отдал приказ.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Приказ' is the accusative direct object of 'отдал'; this inanimate masculine noun matches the nominative. 'Командир' is the subject."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-03",
+        "phrase": "Мы ждём приказа начальника.",
+        "fullAnalysis": "Strategic focus: Genitive after verb. 'Приказа' is the genitive required by 'ждём'. 'Начальника' is itself genitive showing whose order it is."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-04",
+        "phrase": "Солдаты подчинились приказу.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Приказу' is the dative required by 'подчинились' meaning to obey. 'Солдаты' is the nominative plural subject."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-05",
+        "phrase": "Он недоволен этим приказом.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Приказом' is instrumental governed by 'недоволен'. 'Этим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-06",
+        "phrase": "В приказе всё ясно написано.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Приказе' is the prepositional form after 'в' to mark what is written inside. 'Ясно' adds the manner."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-07",
+        "phrase": "Мы действуем по приказу.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Приказу' is the dative after 'по' to mean according to the order. A common official formula."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-08",
+        "phrase": "Приказ вступил в силу сегодня.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Приказ' is nominative as the subject of 'вступил'. 'В силу' is a set accusative phrase meaning into force."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-09",
+        "phrase": "Начальник подписал новые приказы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Приказы' is the accusative plural object of 'подписал', matching the nominative plural. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-WORK-PRIKAZ-10",
+        "phrase": "В этих приказах много ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Приказах' is the prepositional plural after 'в' to mark location. 'Много ошибок' uses the genitive plural of quantity."
+      }
+    ]
+  }
+]

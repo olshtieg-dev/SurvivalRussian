@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-GOD",
+    "label": "Год",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for год (year).",
+    "missions": [
+      {
+        "id": "NN-TIME-GOD-01",
+        "phrase": "Прошёл целый год.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Год' is a masculine noun in the nominative as the subject of 'прошёл'. 'Целый' agrees in the masculine, stressing the full span of time."
+      },
+      {
+        "id": "NN-TIME-GOD-02",
+        "phrase": "Я жду этот год с нетерпением.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Год' is the inanimate accusative direct object of 'жду', matching the nominative form. 'С нетерпением' is the instrumental of manner."
+      },
+      {
+        "id": "NN-TIME-GOD-03",
+        "phrase": "Это было в начале года.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Года' is the genitive after 'начале' to mean the start of the year. 'В начале' is itself a prepositional phrase."
+      },
+      {
+        "id": "NN-TIME-GOD-04",
+        "phrase": "Прошло уже три года.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. 'Года' is the genitive singular required after 'три' (numbers two through four). A key rule for counting years."
+      },
+      {
+        "id": "NN-TIME-GOD-05",
+        "phrase": "К новому году все готовятся.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К году' uses the dative 'году' after 'к' to mean toward the new year. 'Новому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TIME-GOD-06",
+        "phrase": "С каждым годом город растёт.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'С годом' uses the instrumental 'годом' after 'с' in the set phrase meaning year by year. 'Каждым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-TIME-GOD-07",
+        "phrase": "В этом году я много путешествовал.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В году' uses the special prepositional 'году' after 'в' to mean during this year. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-TIME-GOD-08",
+        "phrase": "В прошлом году была холодная зима.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В году' again takes the locative 'году' to set the time frame. 'Прошлом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-TIME-GOD-09",
+        "phrase": "Прошло много долгих лет.",
+        "fullAnalysis": "Strategic focus: Suppletive plural genitive. The genitive plural of 'год' is the suppletive 'лет', borrowed from 'лето' and required after 'много'. A core irregular form."
+      },
+      {
+        "id": "NN-TIME-GOD-10",
+        "phrase": "Эти годы были очень счастливыми.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Годы' is the nominative plural of 'год', the subject of 'были'. 'Эти' agrees in the plural, and 'счастливыми' is the instrumental predicate."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-RODITEL",
+    "label": "Родитель",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for родитель (parent).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-RODITEL-01",
+        "phrase": "Каждый родитель любит детей.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Родитель' is nominative as the subject of 'любит'. 'Каждый' is the agreeing masculine determiner, and 'детей' is the accusative object."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-02",
+        "phrase": "Я уважаю своего родителя.",
+        "fullAnalysis": "Strategic focus: Accusative animate object. 'Родителя' is the accusative of this animate masculine noun, matching the genitive ending. 'Своего' agrees as the reflexive possessive."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-03",
+        "phrase": "Это совет одного родителя.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Родителя' is genitive showing whose advice it is. 'Одного' agrees in the masculine genitive, and 'совет' is nominative."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-04",
+        "phrase": "Я часто звоню родителям.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Родителям' is the dative plural required by 'звоню', which governs the dative. 'Часто' adds the frequency."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-05",
+        "phrase": "Он стал хорошим родителем.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Родителем' is instrumental after 'стал' to mark the resulting role. 'Хорошим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-06",
+        "phrase": "Мы говорим о моих родителях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Родителях' is the prepositional plural after 'о' to give the topic. 'Моих' agrees in the plural prepositional."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-07",
+        "phrase": "Родители ждут детей дома.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Родители' is the nominative plural subject of 'ждут'. 'Детей' is the accusative object and 'дома' marks location."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-08",
+        "phrase": "Я еду к родителям на выходные.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Родителям' is dative plural after 'к' to show movement toward people. 'На выходные' gives the timeframe."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-09",
+        "phrase": "У моего родителя есть машина.",
+        "fullAnalysis": "Strategic focus: Genitive in possession frame. 'Родителя' is genitive after 'у' to show the owner. 'Моего' agrees in the masculine genitive, and 'машина' is nominative."
+      },
+      {
+        "id": "NN-FAMILY-RODITEL-10",
+        "phrase": "Я живу с родителями.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Родителями' is instrumental plural after 'с' to mean living together with them. A common everyday statement."
+      }
+    ]
+  }
+]

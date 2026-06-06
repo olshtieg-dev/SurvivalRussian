@@ -46603,5 +46603,5676 @@
     "analysis": "Comparative of весёлый (adj., 'cheerful'); also adverbial 'more merrily'. Means 'more cheerful'.",
     "synonym": "радостнее",
     "antonym": "грустнее"
+  },
+  "навещаю": {
+    "cyrillic": "навещаю",
+    "literal": "I visit",
+    "natural": "I visit.",
+    "analysis": "1sg present of навещать (impf., 'to visit/call on someone'); paired perfective навестить.",
+    "synonym": "посещаю",
+    "antonym": " "
+  },
+  "деде": {
+    "cyrillic": "деде",
+    "literal": "grandfather",
+    "natural": "Grandfather.",
+    "analysis": "Prepositional sg. of дед (m. noun, 'grandfather'); used after о, в, на.",
+    "synonym": "дедушке",
+    "antonym": "бабушке",
+    "thumbnail": "null"
+  },
+  "дядей": {
+    "cyrillic": "дядей",
+    "literal": "uncle",
+    "natural": "Uncle.",
+    "analysis": "Instrumental sg. of дядя (m. noun, 'uncle'); soft-stem ending -ей.",
+    "synonym": " ",
+    "antonym": "тётей",
+    "thumbnail": "null"
+  },
+  "мужем": {
+    "cyrillic": "мужем",
+    "literal": "husband",
+    "natural": "Husband.",
+    "analysis": "Instrumental sg. of муж (m. noun, 'husband'); also means 'man' in archaic use.",
+    "synonym": "супругом",
+    "antonym": "женой",
+    "thumbnail": "null"
+  },
+  "папе": {
+    "cyrillic": "папе",
+    "literal": "dad",
+    "natural": "Dad.",
+    "analysis": "Dative/prepositional sg. of папа (m. noun, 'dad'); declines like a fem. noun in -а.",
+    "synonym": "отцу",
+    "antonym": "маме",
+    "thumbnail": "null"
+  },
+  "древнему": {
+    "cyrillic": "древнему",
+    "literal": "ancient",
+    "natural": "Ancient.",
+    "analysis": "Dative m./n. sg. of древний (adj., 'ancient/old'); soft-stem agreement.",
+    "synonym": "старинному",
+    "antonym": "новому"
+  },
+  "родителям": {
+    "cyrillic": "родителям",
+    "literal": "parents",
+    "natural": "Parents.",
+    "analysis": "Dative pl. of родитель (m. noun, 'parent'); typically used in plural for 'parents'.",
+    "synonym": " ",
+    "antonym": "детям"
+  },
+  "сыном": {
+    "cyrillic": "сыном",
+    "literal": "son",
+    "natural": "Son.",
+    "analysis": "Instrumental sg. of сын (m. noun, 'son'); irregular plural сыновья.",
+    "synonym": " ",
+    "antonym": "дочерью",
+    "thumbnail": "null"
+  },
+  "жёны": {
+    "cyrillic": "жёны",
+    "literal": "wives",
+    "natural": "Wives.",
+    "analysis": "Nominative pl. (or genitive sg.) of жена (f. noun, 'wife'); ё in stressed plural stem.",
+    "synonym": "супруги",
+    "antonym": "мужья",
+    "thumbnail": "null"
+  },
+  "пустые": {
+    "cyrillic": "пустые",
+    "literal": "empty",
+    "natural": "Empty.",
+    "analysis": "Nominative/accusative pl. of пустой (adj., 'empty/vacant'); also figurative 'meaningless'.",
+    "synonym": "порожние",
+    "antonym": "полные"
+  },
+  "масло": {
+    "cyrillic": "масло",
+    "literal": "butter; oil",
+    "natural": "Butter; oil.",
+    "analysis": "Nominative/accusative sg. of масло (n. noun, 'butter/oil'); covers cooking oil and dairy butter.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "рыбак": {
+    "cyrillic": "рыбак",
+    "literal": "fisherman",
+    "natural": "Fisherman.",
+    "analysis": "Nominative sg. of рыбак (m. noun, 'fisherman'); from рыба ('fish').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "стаканы": {
+    "cyrillic": "стаканы",
+    "literal": "glasses",
+    "natural": "Glasses.",
+    "analysis": "Nominative/accusative pl. of стакан (m. noun, 'drinking glass/tumbler').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "наслаждаемся": {
+    "cyrillic": "наслаждаемся",
+    "literal": "we enjoy",
+    "natural": "We enjoy.",
+    "analysis": "1pl present of наслаждаться (impf., 'to enjoy/delight in'); reflexive, governs instrumental.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "растения": {
+    "cyrillic": "растения",
+    "literal": "plants",
+    "natural": "Plants.",
+    "analysis": "Nominative/accusative pl. (or genitive sg.) of растение (n. noun, 'plant').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "плыла": {
+    "cyrillic": "плыла",
+    "literal": "she swam",
+    "natural": "She swam / was swimming.",
+    "analysis": "Past f. sg. of плыть (impf., 'to swim/sail'); unidirectional motion verb.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дереву": {
+    "cyrillic": "дереву",
+    "literal": "tree",
+    "natural": "Tree.",
+    "analysis": "Dative sg. of дерево (n. noun, 'tree'); irregular plural деревья.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "весенних": {
+    "cyrillic": "весенних",
+    "literal": "spring",
+    "natural": "Spring.",
+    "analysis": "Genitive/prepositional pl. of весенний (adj., 'spring/vernal'); from весна.",
+    "synonym": " ",
+    "antonym": "осенних"
+  },
+  "пожаров": {
+    "cyrillic": "пожаров",
+    "literal": "fires",
+    "natural": "Fires.",
+    "analysis": "Genitive pl. of пожар (m. noun, 'fire/conflagration'); a destructive blaze, not a campfire.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "заснеженные": {
+    "cyrillic": "заснеженные",
+    "literal": "snow-covered",
+    "natural": "Snow-covered.",
+    "analysis": "Nominative/accusative pl. of заснеженный (adj., 'snow-covered'); past passive participle of заснежить.",
+    "synonym": "снежные",
+    "antonym": " "
+  },
+  "собирали": {
+    "cyrillic": "собирали",
+    "literal": "gathered",
+    "natural": "Gathered / were gathering.",
+    "analysis": "Past pl. of собирать (impf., 'to gather/collect'); paired perfective собрать.",
+    "synonym": " ",
+    "antonym": "разбрасывали"
+  },
+  "зацвёл": {
+    "cyrillic": "зацвёл",
+    "literal": "bloomed",
+    "natural": "Bloomed / began to bloom.",
+    "analysis": "Past m. sg. of зацвести (perf., 'to start blooming'); inceptive за- prefix on цвести.",
+    "synonym": "расцвёл",
+    "antonym": "завял"
+  },
+  "ягоды": {
+    "cyrillic": "ягоды",
+    "literal": "berries",
+    "natural": "Berries.",
+    "analysis": "Nominative/accusative pl. (or genitive sg.) of ягода (f. noun, 'berry').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "тёмным": {
+    "cyrillic": "тёмным",
+    "literal": "dark",
+    "natural": "Dark.",
+    "analysis": "Instrumental m./n. sg. or dative pl. of тёмный (adj., 'dark'); keeps ё under stress.",
+    "synonym": "мрачным",
+    "antonym": "светлым"
+  },
+  "жар": {
+    "cyrillic": "жар",
+    "literal": "heat; fever",
+    "natural": "Heat; fever.",
+    "analysis": "Nominative/accusative sg. of жар (m. noun, 'heat/fever'); intense warmth or body temperature.",
+    "synonym": "зной",
+    "antonym": "холод"
+  },
+  "острова": {
+    "cyrillic": "острова",
+    "literal": "islands",
+    "natural": "Islands.",
+    "analysis": "Genitive sg. or nominative pl. of остров (m. noun, 'island'); stressed -а in plural.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "заботимся": {
+    "cyrillic": "заботимся",
+    "literal": "we care for",
+    "natural": "We care for / look after.",
+    "analysis": "1pl present of заботиться (impf., 'to care for/look after'); reflexive, governs о + prepositional.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "рек": {
+    "cyrillic": "рек",
+    "literal": "rivers",
+    "natural": "Rivers.",
+    "analysis": "Genitive pl. of река (f. noun, 'river').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "утреннее": {
+    "cyrillic": "утреннее",
+    "literal": "morning",
+    "natural": "Morning.",
+    "analysis": "Nominative/accusative n. sg. of утренний (adj., 'morning'); from утро.",
+    "synonym": " ",
+    "antonym": "вечернее"
+  },
+  "свету": {
+    "cyrillic": "свету",
+    "literal": "light",
+    "natural": "Light.",
+    "analysis": "Dative sg. of свет (m. noun, 'light'); also means 'world' in fixed expressions.",
+    "synonym": " ",
+    "antonym": "тьме"
+  },
+  "скосил": {
+    "cyrillic": "скосил",
+    "literal": "mowed",
+    "natural": "Mowed / cut down.",
+    "analysis": "Past m. sg. of скосить (perf., 'to mow/cut'); paired imperfective косить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "цветком": {
+    "cyrillic": "цветком",
+    "literal": "flower",
+    "natural": "Flower.",
+    "analysis": "Instrumental sg. of цветок (m. noun, 'flower'); fleeting vowel drops in oblique cases.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "клонится": {
+    "cyrillic": "клонится",
+    "literal": "it leans",
+    "natural": "It leans / bends.",
+    "analysis": "3sg present of клониться (impf., 'to lean/incline'); reflexive, of sun setting or plants bending.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "воздуха": {
+    "cyrillic": "воздуха",
+    "literal": "air",
+    "natural": "Air.",
+    "analysis": "Genitive sg. of воздух (m. noun, 'air'); also partitive воздуху.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "плодородная": {
+    "cyrillic": "плодородная",
+    "literal": "fertile",
+    "natural": "Fertile.",
+    "analysis": "Nominative f. sg. of плодородный (adj., 'fertile'); of soil/land.",
+    "synonym": " ",
+    "antonym": "бесплодная"
+  },
+  "выпало": {
+    "cyrillic": "выпало",
+    "literal": "fell out",
+    "natural": "Fell / fell out.",
+    "analysis": "Past n. sg. of выпасть (perf., 'to fall out/occur'); of snow falling or chance befalling.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "звездой": {
+    "cyrillic": "звездой",
+    "literal": "star",
+    "natural": "Star.",
+    "analysis": "Instrumental sg. of звезда (f. noun, 'star'); also a celebrity.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "серые": {
+    "cyrillic": "серые",
+    "literal": "gray",
+    "natural": "Gray.",
+    "analysis": "Nominative/accusative pl. of серый (adj., 'gray'); also figurative 'dull/nondescript'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "птицей": {
+    "cyrillic": "птицей",
+    "literal": "bird",
+    "natural": "Bird.",
+    "analysis": "Instrumental sg. of птица (f. noun, 'bird').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "часом": {
+    "cyrillic": "часом",
+    "literal": "hour",
+    "natural": "Hour.",
+    "analysis": "Instrumental sg. of час (m. noun, 'hour'); also colloquial 'by chance'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "новому": {
+    "cyrillic": "новому",
+    "literal": "new",
+    "natural": "New.",
+    "analysis": "Dative m./n. sg. of новый (adj., 'new'); also in по-новому ('in a new way').",
+    "synonym": "свежему",
+    "antonym": "старому"
+  },
+  "воспоминаний": {
+    "cyrillic": "воспоминаний",
+    "literal": "memories",
+    "natural": "Memories.",
+    "analysis": "Genitive pl. of воспоминание (n. noun, 'memory/recollection').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "месяцы": {
+    "cyrillic": "месяцы",
+    "literal": "months",
+    "natural": "Months.",
+    "analysis": "Nominative/accusative pl. of месяц (m. noun, 'month'); also means 'moon'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "концу": {
+    "cyrillic": "концу",
+    "literal": "end",
+    "natural": "End.",
+    "analysis": "Dative sg. of конец (m. noun, 'end'); fleeting vowel drops in oblique cases.",
+    "synonym": "финалу",
+    "antonym": "началу"
+  },
+  "секундой": {
+    "cyrillic": "секундой",
+    "literal": "second",
+    "natural": "Second.",
+    "analysis": "Instrumental sg. of секунда (f. noun, 'second' of time).",
+    "synonym": "мигом",
+    "antonym": " "
+  },
+  "сутками": {
+    "cyrillic": "сутками",
+    "literal": "days",
+    "natural": "Twenty-four-hour periods.",
+    "analysis": "Instrumental pl. of сутки (plurale tantum noun, '24-hour day/day-and-night').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "летние": {
+    "cyrillic": "летние",
+    "literal": "summer",
+    "natural": "Summer.",
+    "analysis": "Nominative/accusative pl. of летний (adj., 'summer'); from лето.",
+    "synonym": " ",
+    "antonym": "зимние"
+  },
+  "войн": {
+    "cyrillic": "войн",
+    "literal": "wars",
+    "natural": "Wars.",
+    "analysis": "Genitive pl. of война (f. noun, 'war').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "возрастах": {
+    "cyrillic": "возрастах",
+    "literal": "ages",
+    "natural": "Ages.",
+    "analysis": "Prepositional pl. of возраст (m. noun, 'age'); span of a person's years.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "гавани": {
+    "cyrillic": "гавани",
+    "literal": "harbor",
+    "natural": "Harbor.",
+    "analysis": "Genitive/dative/prepositional sg. or nominative pl. of гавань (f. noun, 'harbor/haven').",
+    "synonym": "порту",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "самолёта": {
+    "cyrillic": "самолёта",
+    "literal": "airplane",
+    "natural": "Airplane.",
+    "analysis": "Genitive sg. of самолёт (m. noun, 'airplane'); literally 'self-flyer'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "деньгами": {
+    "cyrillic": "деньгами",
+    "literal": "money",
+    "natural": "Money.",
+    "analysis": "Instrumental pl. of деньги (plurale tantum noun, 'money'); no singular sense.",
+    "synonym": "средствами",
+    "antonym": " "
+  },
+  "расходятся": {
+    "cyrillic": "расходятся",
+    "literal": "they disperse",
+    "natural": "They disperse / part ways.",
+    "analysis": "3pl present of расходиться (impf., 'to disperse/part'); reflexive, paired perfective разойтись.",
+    "synonym": " ",
+    "antonym": "сходятся"
+  },
+  "целого": {
+    "cyrillic": "целого",
+    "literal": "whole",
+    "natural": "Whole.",
+    "analysis": "Genitive/accusative m./n. sg. of целый (adj., 'whole/entire'); as noun 'the whole'.",
+    "synonym": "полного",
+    "antonym": "частичного"
+  },
+  "десятки": {
+    "cyrillic": "десятки",
+    "literal": "dozens",
+    "natural": "Dozens; tens.",
+    "analysis": "Nominative/accusative pl. of десяток (m. noun, 'group of ten'); fleeting vowel in plural.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дались": {
+    "cyrillic": "дались",
+    "literal": "came easily",
+    "natural": "Came / were given.",
+    "analysis": "Past pl. of даться (perf., 'to come/yield to someone'); reflexive, of skills coming easily.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "метру": {
+    "cyrillic": "метру",
+    "literal": "meter",
+    "natural": "Meter.",
+    "analysis": "Dative sg. of метр (m. noun, 'meter', unit of length).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "следит": {
+    "cyrillic": "следит",
+    "literal": "watches",
+    "natural": "Watches / follows.",
+    "analysis": "3sg present of следить (impf., 'to watch/keep track'); governs за + instrumental.",
+    "synonym": "наблюдает",
+    "antonym": " "
+  },
+  "вступил": {
+    "cyrillic": "вступил",
+    "literal": "entered; joined",
+    "natural": "Entered / joined.",
+    "analysis": "Past m. sg. of вступить (perf., 'to enter/join'); paired imperfective вступать.",
+    "synonym": "присоединился",
+    "antonym": "вышел"
+  },
+  "рубли": {
+    "cyrillic": "рубли",
+    "literal": "rubles",
+    "natural": "Rubles.",
+    "analysis": "Nominative/accusative pl. of рубль (m. noun, 'ruble', Russian currency).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "матча": {
+    "cyrillic": "матча",
+    "literal": "match",
+    "natural": "Match.",
+    "analysis": "Genitive sg. of матч (m. noun, 'match/game', sports contest).",
+    "synonym": "игры",
+    "antonym": " "
+  },
+  "изо": {
+    "cyrillic": "изо",
+    "literal": "out of",
+    "natural": "Out of; from.",
+    "analysis": "Preposition, variant of из ('out of/from') used before certain consonant clusters; governs genitive.",
+    "synonym": "из",
+    "antonym": " "
+  },
+  "полезных": {
+    "cyrillic": "полезных",
+    "literal": "useful",
+    "natural": "Useful.",
+    "analysis": "Genitive/prepositional pl. of полезный (adj., 'useful/beneficial'); from польза.",
+    "synonym": "нужных",
+    "antonym": "вредных"
+  },
+  "труды": {
+    "cyrillic": "труды",
+    "literal": "works; labors",
+    "natural": "Works; labors.",
+    "analysis": "Nominative/accusative pl. of труд (m. noun, 'labor/work'); plural often 'scholarly works'.",
+    "synonym": "работы",
+    "antonym": " "
+  },
+  "тысячи": {
+    "cyrillic": "тысячи",
+    "literal": "thousands",
+    "natural": "Thousands.",
+    "analysis": "Genitive sg. or nominative/accusative pl. of тысяча (f. noun/numeral, 'thousand').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "бабушку": {
+    "cyrillic": "бабушку",
+    "literal": "grandmother",
+    "natural": "Grandmother.",
+    "analysis": "Accusative sg. of бабушка (f. noun, 'grandmother'); direct-object form, ending -а becomes -у.",
+    "synonym": " ",
+    "antonym": "дедушку",
+    "thumbnail": "null"
+  },
+  "деды": {
+    "cyrillic": "деды",
+    "literal": "grandfathers",
+    "natural": "Grandfathers; forefathers.",
+    "analysis": "Nominative pl. of дед (m. noun, 'grandfather'); plural also connotes ancestors/forefathers.",
+    "synonym": "предки",
+    "antonym": "внуки",
+    "thumbnail": "null"
+  },
+  "мамой": {
+    "cyrillic": "мамой",
+    "literal": "mom",
+    "natural": "Mom.",
+    "analysis": "Instrumental sg. of мама (f. noun, 'mom'); used with с ('with mom') or as the by-whom agent.",
+    "synonym": " ",
+    "antonym": "папой",
+    "thumbnail": "null"
+  },
+  "муже": {
+    "cyrillic": "муже",
+    "literal": "husband",
+    "natural": "Husband.",
+    "analysis": "Prepositional sg. of муж (m. noun, 'husband'); appears after о/в, as in о муже ('about the husband').",
+    "synonym": "супруге",
+    "antonym": "жене",
+    "thumbnail": "null"
+  },
+  "папой": {
+    "cyrillic": "папой",
+    "literal": "dad",
+    "natural": "Dad.",
+    "analysis": "Instrumental sg. of папа (m. noun, 'dad'); declines like a fem. noun despite masculine gender.",
+    "synonym": "отцом",
+    "antonym": "мамой",
+    "thumbnail": "null"
+  },
+  "роду": {
+    "cyrillic": "роду",
+    "literal": "kin",
+    "natural": "Kin; clan; lineage.",
+    "analysis": "Dative/prepositional sg. of род (m. noun, 'kin/genus/gender'); also fixed в роду ('in the family line').",
+    "synonym": "семье",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "родителем": {
+    "cyrillic": "родителем",
+    "literal": "parent",
+    "natural": "Parent.",
+    "analysis": "Instrumental sg. of родитель (m. noun, 'parent'); by-whom/with-whom form.",
+    "synonym": " ",
+    "antonym": "ребёнком",
+    "thumbnail": "null"
+  },
+  "сыне": {
+    "cyrillic": "сыне",
+    "literal": "son",
+    "natural": "Son.",
+    "analysis": "Prepositional sg. of сын (m. noun, 'son'); appears after о/в, as in о сыне ('about the son').",
+    "synonym": " ",
+    "antonym": "дочери",
+    "thumbnail": "null"
+  },
+  "приготовила": {
+    "cyrillic": "приготовила",
+    "literal": "cooked",
+    "natural": "Cooked / prepared.",
+    "analysis": "Past f. sg. of приготовить (perf., 'to prepare/cook'); perfective of готовить, marking a completed act.",
+    "synonym": "сделала",
+    "antonym": " "
+  },
+  "бутылок": {
+    "cyrillic": "бутылок",
+    "literal": "bottles",
+    "natural": "Bottles.",
+    "analysis": "Genitive pl. of бутылка (f. noun, 'bottle'); fleeting vowel inserted: -лка becomes -лок.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "хлебу": {
+    "cyrillic": "хлебу",
+    "literal": "bread",
+    "natural": "Bread.",
+    "analysis": "Dative sg. of хлеб (m. noun, 'bread'); recipient/direction form, as in к хлебу ('toward the bread').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "поймал": {
+    "cyrillic": "поймал",
+    "literal": "caught",
+    "natural": "Caught.",
+    "analysis": "Past m. sg. of поймать (perf., 'to catch'); perfective of ловить, marking a single completed catch.",
+    "synonym": "схватил",
+    "antonym": "упустил"
+  },
+  "сок": {
+    "cyrillic": "сок",
+    "literal": "juice",
+    "natural": "Juice.",
+    "analysis": "Nominative/accusative sg. of сок (m. noun, 'juice'); inanimate, so accusative equals nominative.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "вином": {
+    "cyrillic": "вином",
+    "literal": "wine",
+    "natural": "Wine.",
+    "analysis": "Instrumental sg. of вино (n. noun, 'wine'); with-what/by-what form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "вкусная": {
+    "cyrillic": "вкусная",
+    "literal": "tasty",
+    "natural": "Tasty; delicious.",
+    "analysis": "Adjective вкусный 'tasty' (f. sg. nom.); agrees with a feminine noun. Comparative вкуснее.",
+    "synonym": " ",
+    "antonym": "невкусная"
+  },
+  "любовались": {
+    "cyrillic": "любовались",
+    "literal": "admired",
+    "natural": "Admired.",
+    "analysis": "Past pl. of любоваться (impf., reflexive, 'to admire'); takes instrumental object.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "деревьев": {
+    "cyrillic": "деревьев",
+    "literal": "trees",
+    "natural": "Trees.",
+    "analysis": "Genitive pl. of дерево (n. noun, 'tree'); irregular plural stem дерев- with -ьев ending.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "дождях": {
+    "cyrillic": "дождях",
+    "literal": "rains",
+    "natural": "Rains.",
+    "analysis": "Prepositional pl. of дождь (m. noun, 'rain'); appears after о/в, as in о дождях ('about the rains').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "мешал": {
+    "cyrillic": "мешал",
+    "literal": "hindered",
+    "natural": "Hindered; stirred.",
+    "analysis": "Past m. sg. of мешать (impf., 'to hinder' with dat., or 'to stir' with acc.); aspect imperfective.",
+    "synonym": "препятствовал",
+    "antonym": "помогал"
+  },
+  "альпинисты": {
+    "cyrillic": "альпинисты",
+    "literal": "climbers",
+    "natural": "Climbers; mountaineers.",
+    "analysis": "Nominative pl. of альпинист (m. noun, 'mountaineer/climber'); animate masculine.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "края": {
+    "cyrillic": "края",
+    "literal": "edge",
+    "natural": "Edge; region.",
+    "analysis": "Genitive sg. or nominative pl. of край (m. noun, 'edge/region/territory'); context disambiguates.",
+    "synonym": "окраина",
+    "antonym": "центр",
+    "thumbnail": "null"
+  },
+  "садовник": {
+    "cyrillic": "садовник",
+    "literal": "gardener",
+    "natural": "Gardener.",
+    "analysis": "Nominative sg. of садовник (m. noun, 'gardener'); animate masculine, derived from сад ('garden').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "густые": {
+    "cyrillic": "густые",
+    "literal": "thick",
+    "natural": "Thick; dense.",
+    "analysis": "Adjective густой 'thick/dense' (pl. nom.); of foliage, hair, fog. Comparative гуще.",
+    "synonym": "плотные",
+    "antonym": "редкие"
+  },
+  "небу": {
+    "cyrillic": "небу",
+    "literal": "sky",
+    "natural": "Sky.",
+    "analysis": "Dative sg. of небо (n. noun, 'sky'); direction/recipient form, as in по небу ('across the sky').",
+    "synonym": " ",
+    "antonym": "земле",
+    "thumbnail": "null"
+  },
+  "тёплому": {
+    "cyrillic": "тёплому",
+    "literal": "warm",
+    "natural": "Warm.",
+    "analysis": "Adjective тёплый 'warm' (m./n. sg. dat.); agrees with a dative masc./neut. noun. Comparative теплее.",
+    "synonym": " ",
+    "antonym": "холодному"
+  },
+  "маяк": {
+    "cyrillic": "маяк",
+    "literal": "lighthouse",
+    "natural": "Lighthouse.",
+    "analysis": "Nominative/accusative sg. of маяк (m. noun, 'lighthouse'); inanimate, so accusative equals nominative.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "природы": {
+    "cyrillic": "природы",
+    "literal": "nature",
+    "natural": "Nature.",
+    "analysis": "Genitive sg. of природа (f. noun, 'nature'); of-form, as in красота природы ('beauty of nature').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "впадают": {
+    "cyrillic": "впадают",
+    "literal": "flow into",
+    "natural": "Flow into; fall into.",
+    "analysis": "3pl present of впадать (impf., 'to flow into'); of rivers, with в + acc. Perfective впасть.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "тянутся": {
+    "cyrillic": "тянутся",
+    "literal": "stretch",
+    "natural": "Stretch; extend.",
+    "analysis": "3pl present of тянуться (impf., reflexive, 'to stretch/extend'); of landscapes or time.",
+    "synonym": "простираются",
+    "antonym": " "
+  },
+  "залита": {
+    "cyrillic": "залита",
+    "literal": "flooded",
+    "natural": "Flooded; bathed.",
+    "analysis": "Short past passive participle (f. sg.) of залить (perf., 'to flood/pour over'); залита светом ('bathed in light').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "траву": {
+    "cyrillic": "траву",
+    "literal": "grass",
+    "natural": "Grass.",
+    "analysis": "Accusative sg. of трава (f. noun, 'grass'); direct-object form, ending -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "пчела": {
+    "cyrillic": "пчела",
+    "literal": "bee",
+    "natural": "Bee.",
+    "analysis": "Nominative sg. of пчела (f. noun, 'bee'); animate feminine.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "качается": {
+    "cyrillic": "качается",
+    "literal": "sways",
+    "natural": "Sways; rocks.",
+    "analysis": "3sg present of качаться (impf., reflexive, 'to sway/rock'); intransitive motion back and forth.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дышим": {
+    "cyrillic": "дышим",
+    "literal": "we breathe",
+    "natural": "We breathe.",
+    "analysis": "1pl present of дышать (impf., 'to breathe'); second-conjugation verb.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "принадлежат": {
+    "cyrillic": "принадлежат",
+    "literal": "belong",
+    "natural": "Belong.",
+    "analysis": "3pl present of принадлежать (impf., 'to belong'); takes dative of owner.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сибирские": {
+    "cyrillic": "сибирские",
+    "literal": "Siberian",
+    "natural": "Siberian.",
+    "analysis": "Relative adjective сибирский 'Siberian' (pl. nom.); derived from Сибирь ('Siberia').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "известной": {
+    "cyrillic": "известной",
+    "literal": "famous",
+    "natural": "Famous; well-known.",
+    "analysis": "Adjective известный 'famous' (f. sg. gen./dat./instr./prep.); agrees with a feminine noun. Comparative известнее.",
+    "synonym": "знаменитой",
+    "antonym": "неизвестной"
+  },
+  "фермер": {
+    "cyrillic": "фермер",
+    "literal": "farmer",
+    "natural": "Farmer.",
+    "analysis": "Nominative sg. of фермер (m. noun, 'farmer'); animate masculine, a borrowing from English.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "редкой": {
+    "cyrillic": "редкой",
+    "literal": "rare",
+    "natural": "Rare; sparse.",
+    "analysis": "Adjective редкий 'rare/sparse' (f. sg. gen./dat./instr./prep.); agrees with a feminine noun. Comparative реже.",
+    "synonym": " ",
+    "antonym": "частой"
+  },
+  "холодает": {
+    "cyrillic": "холодает",
+    "literal": "getting cold",
+    "natural": "It is getting cold.",
+    "analysis": "3sg present of холодать (impf., 'to grow cold'); impersonal weather verb. Perfective похолодать.",
+    "synonym": " ",
+    "antonym": "теплеет"
+  },
+  "готовятся": {
+    "cyrillic": "готовятся",
+    "literal": "prepare",
+    "natural": "Prepare; get ready.",
+    "analysis": "3pl present of готовиться (impf., reflexive, 'to get ready'); takes к + dat.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "тёплом": {
+    "cyrillic": "тёплом",
+    "literal": "warm",
+    "natural": "Warm.",
+    "analysis": "Adjective тёплый 'warm' (m./n. sg. prep.); agrees with a prepositional masc./neut. noun. Comparative теплее.",
+    "synonym": " ",
+    "antonym": "холодном"
+  },
+  "месяцев": {
+    "cyrillic": "месяцев",
+    "literal": "months",
+    "natural": "Months.",
+    "analysis": "Genitive pl. of месяц (m. noun, 'month'); counting form, as in пять месяцев ('five months').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "неделей": {
+    "cyrillic": "неделей",
+    "literal": "week",
+    "natural": "Week.",
+    "analysis": "Instrumental sg. of неделя (f. noun, 'week'); with-what/by-what form.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "секунде": {
+    "cyrillic": "секунде",
+    "literal": "second",
+    "natural": "Second.",
+    "analysis": "Dative/prepositional sg. of секунда (f. noun, 'second' of time); recipient or after-о form.",
+    "synonym": "мгновению",
+    "antonym": " "
+  },
+  "сутках": {
+    "cyrillic": "сутках",
+    "literal": "day",
+    "natural": "Day; twenty-four hours.",
+    "analysis": "Prepositional of сутки (pl.-only noun, 'a 24-hour day'); appears in в сутках ('in a day').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "наступил": {
+    "cyrillic": "наступил",
+    "literal": "came",
+    "natural": "Came; arrived.",
+    "analysis": "Past m. sg. of наступить (perf., 'to set in/arrive', of time/season); also 'to step on'. Imperfective наступать.",
+    "synonym": "настал",
+    "antonym": " "
+  },
+  "развивается": {
+    "cyrillic": "развивается",
+    "literal": "develops",
+    "natural": "Develops.",
+    "analysis": "3sg present of развиваться (impf., reflexive, 'to develop'); intransitive growth/progress.",
+    "synonym": "растёт",
+    "antonym": " "
+  },
+  "порту": {
+    "cyrillic": "порту",
+    "literal": "port",
+    "natural": "Port; harbor.",
+    "analysis": "Prepositional sg. of порт (m. noun, 'port'); locative -у ending, as in в порту ('in the port').",
+    "synonym": "гавани",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "корабли": {
+    "cyrillic": "корабли",
+    "literal": "ships",
+    "natural": "Ships.",
+    "analysis": "Nominative/accusative pl. of корабль (m. noun, 'ship'); inanimate, so accusative equals nominative.",
+    "synonym": "суда",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "пассажиры": {
+    "cyrillic": "пассажиры",
+    "literal": "passengers",
+    "natural": "Passengers.",
+    "analysis": "Nominative pl. of пассажир (m. noun, 'passenger'); animate masculine.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "банком": {
+    "cyrillic": "банком",
+    "literal": "bank",
+    "natural": "Bank.",
+    "analysis": "Instrumental sg. of банк (m. noun, 'bank', financial); with-what/by-what form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "делом": {
+    "cyrillic": "делом",
+    "literal": "matter",
+    "natural": "Matter; affair; deed.",
+    "analysis": "Instrumental sg. of дело (n. noun, 'affair/business/deed'); also fixed в самом деле ('in fact').",
+    "synonym": "занятием",
+    "antonym": " "
+  },
+  "десятка": {
+    "cyrillic": "десятка",
+    "literal": "ten",
+    "natural": "Ten; group of ten.",
+    "analysis": "Genitive sg. of десяток (m. noun, 'a set of ten') or nom. of colloquial десятка ('a ten'); fleeting vowel dropped.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "пробежал": {
+    "cyrillic": "пробежал",
+    "literal": "ran",
+    "natural": "Ran; ran past.",
+    "analysis": "Past m. sg. of пробежать (perf., 'to run a distance/run past'); perfective with prefix про-.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "основал": {
+    "cyrillic": "основал",
+    "literal": "founded",
+    "natural": "Founded; established.",
+    "analysis": "Past m. sg. of основать (perf., 'to found/establish'); imperfective основывать.",
+    "synonym": "учредил",
+    "antonym": "разрушил"
+  },
+  "квадратном": {
+    "cyrillic": "квадратном",
+    "literal": "square",
+    "natural": "Square.",
+    "analysis": "Adjective квадратный 'square' (m./n. sg. prep.); agrees with a prepositional masc./neut. noun.",
+    "synonym": " ",
+    "antonym": "круглом"
+  },
+  "очередью": {
+    "cyrillic": "очередью",
+    "literal": "queue",
+    "natural": "Queue; turn; burst.",
+    "analysis": "Instrumental sg. of очередь (f. noun, 'queue/turn'); with-what form, as in в свою очередь ('in turn').",
+    "synonym": "чередой",
+    "antonym": " "
+  },
+  "приказы": {
+    "cyrillic": "приказы",
+    "literal": "orders",
+    "natural": "Orders; commands.",
+    "analysis": "Nominative/accusative pl. of приказ (m. noun, 'order/command'); inanimate, accusative equals nominative.",
+    "synonym": "распоряжения",
+    "antonym": " "
+  },
+  "сувенир": {
+    "cyrillic": "сувенир",
+    "literal": "souvenir",
+    "natural": "Souvenir.",
+    "analysis": "Nominative/accusative sg. of сувенир (m. noun, 'souvenir'); inanimate, accusative equals nominative.",
+    "synonym": "подарок",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "счета": {
+    "cyrillic": "счета",
+    "literal": "account",
+    "natural": "Account; bill.",
+    "analysis": "Genitive sg. of счёт (m. noun, 'account/bill/score'); ё-less spelling of the inflected form.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сил": {
+    "cyrillic": "сил",
+    "literal": "forces",
+    "natural": "Forces; strength.",
+    "analysis": "Genitive pl. of сила (f. noun, 'strength/force'); counting/quantity form, as in нет сил ('no strength').",
+    "synonym": "мощи",
+    "antonym": "слабости"
+  },
+  "служб": {
+    "cyrillic": "служб",
+    "literal": "services",
+    "natural": "Services.",
+    "analysis": "Genitive pl. of служба (f. noun, 'service/duty'); of-form for multiple agencies or church services.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "напрасны": {
+    "cyrillic": "напрасны",
+    "literal": "in vain",
+    "natural": "In vain; futile.",
+    "analysis": "Short-form adjective (pl.) of напрасный 'futile/vain'; predicative, as in усилия напрасны ('efforts are in vain').",
+    "synonym": "тщетны",
+    "antonym": " "
+  },
+  "тысяче": {
+    "cyrillic": "тысяче",
+    "literal": "thousand",
+    "natural": "Thousand.",
+    "analysis": "Dative/prepositional sg. of тысяча (f. numeral noun, 'thousand'); recipient or after-о form.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "бабушкой": {
+    "cyrillic": "бабушкой",
+    "literal": "grandmother",
+    "natural": "Grandmother.",
+    "analysis": "Instrumental sg. of бабушка (f. noun, 'grandmother'); the -ой ending marks accompaniment or means.",
+    "synonym": " ",
+    "antonym": "дедушкой",
+    "thumbnail": "null"
+  },
+  "воевали": {
+    "cyrillic": "воевали",
+    "literal": "fought",
+    "natural": "Fought / waged war.",
+    "analysis": "Past pl. of воевать (impf., 'to wage war, fight'); plural agreement, ongoing or repeated combat.",
+    "synonym": "сражались",
+    "antonym": " "
+  },
+  "дружат": {
+    "cyrillic": "дружат",
+    "literal": "are friends",
+    "natural": "Are friends.",
+    "analysis": "3pl present of дружить (impf., 'to be friends'); second-conjugation, denotes an ongoing friendship.",
+    "synonym": " ",
+    "antonym": "враждуют"
+  },
+  "мужья": {
+    "cyrillic": "мужья",
+    "literal": "husbands",
+    "natural": "Husbands.",
+    "analysis": "Nominative pl. of муж (m. noun, 'husband'); irregular plural with stem extension -ья.",
+    "synonym": " ",
+    "antonym": "жёны"
+  },
+  "велосипед": {
+    "cyrillic": "велосипед",
+    "literal": "bicycle",
+    "natural": "Bicycle.",
+    "analysis": "Nominative sg. of велосипед (m. noun, 'bicycle'); inanimate, regular hard-stem declension.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "гордится": {
+    "cyrillic": "гордится",
+    "literal": "is proud",
+    "natural": "Is proud.",
+    "analysis": "3sg present of гордиться (impf., reflexive, 'to be proud of'); governs instrumental of its object.",
+    "synonym": " ",
+    "antonym": "стыдится"
+  },
+  "моих": {
+    "cyrillic": "моих",
+    "literal": "my",
+    "natural": "My / mine.",
+    "analysis": "Genitive/prepositional/accusative-animate pl. of мой (possessive pronoun, 'my'); agrees with plural noun.",
+    "synonym": " ",
+    "antonym": "твоих"
+  },
+  "сыновья": {
+    "cyrillic": "сыновья",
+    "literal": "sons",
+    "natural": "Sons.",
+    "analysis": "Nominative pl. of сын (m. noun, 'son'); irregular plural with stem extension -овья.",
+    "synonym": " ",
+    "antonym": "дочери"
+  },
+  "бутылку": {
+    "cyrillic": "бутылку",
+    "literal": "bottle",
+    "natural": "Bottle.",
+    "analysis": "Accusative sg. of бутылка (f. noun, 'bottle'); direct-object form, nominative -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "сахар": {
+    "cyrillic": "сахар",
+    "literal": "sugar",
+    "natural": "Sugar.",
+    "analysis": "Nominative/accusative sg. of сахар (m. noun, 'sugar'); inanimate mass noun, hard-stem.",
+    "synonym": " ",
+    "antonym": "соль",
+    "thumbnail": "null"
+  },
+  "готовим": {
+    "cyrillic": "готовим",
+    "literal": "we cook",
+    "natural": "We cook / prepare.",
+    "analysis": "1pl present of готовить (impf., 'to cook, prepare'); second-conjugation with -в- stem.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "рыб": {
+    "cyrillic": "рыб",
+    "literal": "fish",
+    "natural": "Fish (plural).",
+    "analysis": "Genitive pl. of рыба (f. noun, 'fish'); zero-ending form used after numbers or for quantity.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "курит": {
+    "cyrillic": "курит",
+    "literal": "smokes",
+    "natural": "Smokes.",
+    "analysis": "3sg present of курить (impf., 'to smoke'); second-conjugation, habitual or ongoing action.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "заказал": {
+    "cyrillic": "заказал",
+    "literal": "ordered",
+    "natural": "Ordered.",
+    "analysis": "Past m. sg. of заказать (perf., 'to order'); perfective of заказывать, a completed order.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "водку": {
+    "cyrillic": "водку",
+    "literal": "vodka",
+    "natural": "Vodka.",
+    "analysis": "Accusative sg. of водка (f. noun, 'vodka'); direct-object form, nominative -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "крутым": {
+    "cyrillic": "крутым",
+    "literal": "steep; cool",
+    "natural": "Steep; cool.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of крутой (adj., 'steep; sheer; slang cool'); agrees with its noun.",
+    "synonym": " ",
+    "antonym": "пологим"
+  },
+  "теряют": {
+    "cyrillic": "теряют",
+    "literal": "lose",
+    "natural": "Lose.",
+    "analysis": "3pl present of терять (impf., 'to lose'); first-conjugation, ongoing or repeated action.",
+    "synonym": " ",
+    "antonym": "находят"
+  },
+  "дыма": {
+    "cyrillic": "дыма",
+    "literal": "smoke",
+    "natural": "Smoke.",
+    "analysis": "Genitive sg. of дым (m. noun, 'smoke'); marks absence, quantity, or possession.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "вдали": {
+    "cyrillic": "вдали",
+    "literal": "in the distance",
+    "natural": "In the distance.",
+    "analysis": "Adverb, 'far off, in the distance'; locational, often paired with от for 'far from'.",
+    "synonym": "далеко",
+    "antonym": "вблизи"
+  },
+  "покорили": {
+    "cyrillic": "покорили",
+    "literal": "conquered",
+    "natural": "Conquered / captivated.",
+    "analysis": "Past pl. of покорить (perf., 'to conquer, subdue, captivate'); completed act, plural agreement.",
+    "synonym": "завоевали",
+    "antonym": " "
+  },
+  "леса": {
+    "cyrillic": "леса",
+    "literal": "forest",
+    "natural": "Forest.",
+    "analysis": "Genitive sg. or nominative pl. of лес (m. noun, 'forest'); stressed-ending plural леса́.",
+    "synonym": "бора",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "подстриг": {
+    "cyrillic": "подстриг",
+    "literal": "trimmed",
+    "natural": "Trimmed / cut.",
+    "analysis": "Past m. sg. of подстричь (perf., 'to trim, cut hair'); completed act, zero past suffix after -г stem.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "кусты": {
+    "cyrillic": "кусты",
+    "literal": "bushes",
+    "natural": "Bushes.",
+    "analysis": "Nominative/accusative pl. of куст (m. noun, 'bush, shrub'); stressed-ending plural.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "чистым": {
+    "cyrillic": "чистым",
+    "literal": "clean",
+    "natural": "Clean.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of чистый (adj., 'clean, pure'); agrees with its noun.",
+    "synonym": " ",
+    "antonym": "грязным"
+  },
+  "огню": {
+    "cyrillic": "огню",
+    "literal": "fire",
+    "natural": "Fire.",
+    "analysis": "Dative sg. of огонь (m. noun, 'fire'); marks recipient or direction; fleeting vowel drops (огн-).",
+    "synonym": "пламени",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "острову": {
+    "cyrillic": "острову",
+    "literal": "island",
+    "natural": "Island.",
+    "analysis": "Dative sg. of остров (m. noun, 'island'); marks recipient or direction toward.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "гармонии": {
+    "cyrillic": "гармонии",
+    "literal": "harmony",
+    "natural": "Harmony.",
+    "analysis": "Genitive/dative/prepositional sg. of гармония (f. noun, 'harmony'); -ия noun with -ии oblique.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "купаются": {
+    "cyrillic": "купаются",
+    "literal": "bathe; swim",
+    "natural": "Bathe; swim.",
+    "analysis": "3pl present of купаться (impf., reflexive, 'to bathe, swim'); ongoing or habitual action.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "солнцу": {
+    "cyrillic": "солнцу",
+    "literal": "sun",
+    "natural": "Sun.",
+    "analysis": "Dative sg. of солнце (n. noun, 'sun'); marks recipient or direction toward.",
+    "synonym": " ",
+    "antonym": "луне",
+    "thumbnail": "null"
+  },
+  "тёплым": {
+    "cyrillic": "тёплым",
+    "literal": "warm",
+    "natural": "Warm.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of тёплый (adj., 'warm'); agrees with its noun.",
+    "synonym": " ",
+    "antonym": "холодным"
+  },
+  "травы": {
+    "cyrillic": "травы",
+    "literal": "grass",
+    "natural": "Grass.",
+    "analysis": "Genitive sg. or nominative/accusative pl. of трава (f. noun, 'grass, herb').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "цветке": {
+    "cyrillic": "цветке",
+    "literal": "flower",
+    "natural": "Flower.",
+    "analysis": "Prepositional sg. of цветок (m. noun, 'flower'); fleeting vowel drops (цветк-); used after в/о/на.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ветре": {
+    "cyrillic": "ветре",
+    "literal": "wind",
+    "natural": "Wind.",
+    "analysis": "Prepositional sg. of ветер (m. noun, 'wind'); fleeting vowel drops (ветр-); used after в/о/на.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "свежем": {
+    "cyrillic": "свежем",
+    "literal": "fresh",
+    "natural": "Fresh.",
+    "analysis": "Prepositional m./n. sg. of свежий (adj., 'fresh'); soft-stem adjective agreeing with its noun.",
+    "synonym": " ",
+    "antonym": "чёрством"
+  },
+  "государству": {
+    "cyrillic": "государству",
+    "literal": "state",
+    "natural": "State.",
+    "analysis": "Dative sg. of государство (n. noun, 'state, country'); marks recipient or beneficiary.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "первую": {
+    "cyrillic": "первую",
+    "literal": "first",
+    "natural": "First.",
+    "analysis": "Accusative f. sg. of первый (ordinal numeral/adj., 'first'); agrees with feminine direct object.",
+    "synonym": " ",
+    "antonym": "последнюю"
+  },
+  "рисуют": {
+    "cyrillic": "рисуют",
+    "literal": "draw; paint",
+    "natural": "Draw; paint.",
+    "analysis": "3pl present of рисовать (impf., 'to draw, paint'); first-conjugation with -ова-/-у- alternation.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "продал": {
+    "cyrillic": "продал",
+    "literal": "sold",
+    "natural": "Sold.",
+    "analysis": "Past m. sg. of продать (perf., 'to sell'); perfective of продавать, a completed sale.",
+    "synonym": " ",
+    "antonym": "купил"
+  },
+  "улетела": {
+    "cyrillic": "улетела",
+    "literal": "flew away",
+    "natural": "Flew away.",
+    "analysis": "Past f. sg. of улететь (perf., 'to fly away'); completed departure by air, feminine subject.",
+    "synonym": " ",
+    "antonym": "прилетела"
+  },
+  "часе": {
+    "cyrillic": "часе",
+    "literal": "hour",
+    "natural": "Hour.",
+    "analysis": "Prepositional sg. of час (m. noun, 'hour'); used after в/о/на for time references.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "годом": {
+    "cyrillic": "годом",
+    "literal": "year",
+    "natural": "Year.",
+    "analysis": "Instrumental sg. of год (m. noun, 'year'); marks means or time, e.g. 'with each year'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прошедшие": {
+    "cyrillic": "прошедшие",
+    "literal": "past; bygone",
+    "natural": "Past; bygone.",
+    "analysis": "Nominative/accusative pl. of прошедший (past active participle of пройти, 'having passed'); adjectival.",
+    "synonym": "минувшие",
+    "antonym": "будущие"
+  },
+  "сезон": {
+    "cyrillic": "сезон",
+    "literal": "season",
+    "natural": "Season.",
+    "analysis": "Nominative/accusative sg. of сезон (m. noun, 'season'); inanimate, regular hard-stem.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ездили": {
+    "cyrillic": "ездили",
+    "literal": "went; traveled",
+    "natural": "Went; traveled.",
+    "analysis": "Past pl. of ездить (impf., multidirectional 'to go by vehicle'); repeated or return trips.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "решилось": {
+    "cyrillic": "решилось",
+    "literal": "was resolved",
+    "natural": "Was resolved.",
+    "analysis": "Past n. sg. of решиться (perf., reflexive, 'to be resolved, decided'); completed, neuter subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дел": {
+    "cyrillic": "дел",
+    "literal": "affairs; deeds",
+    "natural": "Affairs; deeds.",
+    "analysis": "Genitive pl. of дело (n. noun, 'matter, affair, deed'); zero-ending form after quantity.",
+    "synonym": "забот",
+    "antonym": " "
+  },
+  "собор": {
+    "cyrillic": "собор",
+    "literal": "cathedral",
+    "natural": "Cathedral.",
+    "analysis": "Nominative/accusative sg. of собор (m. noun, 'cathedral'); inanimate, regular hard-stem.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "веками": {
+    "cyrillic": "веками",
+    "literal": "for centuries",
+    "natural": "For centuries.",
+    "analysis": "Instrumental pl. of век (m. noun, 'century, age'); adverbial sense 'over centuries'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "моряки": {
+    "cyrillic": "моряки",
+    "literal": "sailors",
+    "natural": "Sailors.",
+    "analysis": "Nominative pl. of моряк (m. noun, 'sailor'); animate, stressed-ending plural.",
+    "synonym": "матросы",
+    "antonym": " "
+  },
+  "поехали": {
+    "cyrillic": "поехали",
+    "literal": "set off",
+    "natural": "Set off / went.",
+    "analysis": "Past pl. of поехать (perf., 'to set off by vehicle'); completed start of a trip; colloquial 'let's go!'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "самолёту": {
+    "cyrillic": "самолёту",
+    "literal": "airplane",
+    "natural": "Airplane.",
+    "analysis": "Dative sg. of самолёт (m. noun, 'airplane'); marks recipient or direction toward.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "храню": {
+    "cyrillic": "храню",
+    "literal": "I keep; store",
+    "natural": "I keep; store.",
+    "analysis": "1sg present of хранить (impf., 'to keep, store, preserve'); second-conjugation.",
+    "synonym": "берегу",
+    "antonym": " "
+  },
+  "сложного": {
+    "cyrillic": "сложного",
+    "literal": "complex; difficult",
+    "natural": "Complex; difficult.",
+    "analysis": "Genitive m./n. sg. of сложный (adj., 'complex, complicated, difficult'); agrees with its noun.",
+    "synonym": "трудного",
+    "antonym": "простого"
+  },
+  "выросла": {
+    "cyrillic": "выросла",
+    "literal": "grew up",
+    "natural": "Grew up / grew.",
+    "analysis": "Past f. sg. of вырасти (perf., 'to grow up, increase'); completed growth, feminine subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "километру": {
+    "cyrillic": "километру",
+    "literal": "kilometer",
+    "natural": "Kilometer.",
+    "analysis": "Dative sg. of километр (m. noun, 'kilometer'); marks recipient or measure of progression.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "строгий": {
+    "cyrillic": "строгий",
+    "literal": "strict",
+    "natural": "Strict.",
+    "analysis": "Nominative m. sg. of строгий (adj., 'strict, stern'); velar-stem hard adjective.",
+    "synonym": " ",
+    "antonym": "мягкий"
+  },
+  "метре": {
+    "cyrillic": "метре",
+    "literal": "meter",
+    "natural": "Meter.",
+    "analysis": "Prepositional sg. of метр (m. noun, 'meter'); used after в/о/на for measure or location.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "очередях": {
+    "cyrillic": "очередях",
+    "literal": "queues; turns",
+    "natural": "Queues; turns.",
+    "analysis": "Prepositional pl. of очередь (f. noun, 'queue, line, turn'); soft-sign noun, used after в/о/на.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "приказах": {
+    "cyrillic": "приказах",
+    "literal": "orders",
+    "natural": "Orders; commands.",
+    "analysis": "Prepositional pl. of приказ (m. noun, 'order, command'); used after в/о/на.",
+    "synonym": "распоряжениях",
+    "antonym": " "
+  },
+  "принесите": {
+    "cyrillic": "принесите",
+    "literal": "bring",
+    "natural": "Bring.",
+    "analysis": "2pl imperative of принести (perf., 'to bring'); formal or plural command for a single completed act.",
+    "synonym": " ",
+    "antonym": "унесите"
+  },
+  "оплачены": {
+    "cyrillic": "оплачены",
+    "literal": "paid",
+    "natural": "Paid.",
+    "analysis": "Short-form pl. past passive participle of оплатить (perf., 'to pay for'); predicative 'are paid'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "невероятно": {
+    "cyrillic": "невероятно",
+    "literal": "incredibly",
+    "natural": "Incredibly.",
+    "analysis": "Adverb, 'incredibly, unbelievably', from невероятный; also predicative 'it is incredible'.",
+    "synonym": "удивительно",
+    "antonym": " "
+  },
+  "приносит": {
+    "cyrillic": "приносит",
+    "literal": "brings",
+    "natural": "Brings.",
+    "analysis": "3sg present of приносить (impf., 'to bring'); second-conjugation, ongoing or habitual action.",
+    "synonym": " ",
+    "antonym": "уносит"
+  },
+  "плоды": {
+    "cyrillic": "плоды",
+    "literal": "fruits",
+    "natural": "Fruits.",
+    "analysis": "Nominative/accusative pl. of плод (m. noun, 'fruit, result'); stressed-ending plural.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "добавили": {
+    "cyrillic": "добавили",
+    "literal": "added",
+    "natural": "Added.",
+    "analysis": "Past pl. of добавить (perf., 'to add'); perfective of добавлять, a completed addition.",
+    "synonym": " ",
+    "antonym": "убрали"
+  },
+  "вспоминали": {
+    "cyrillic": "вспоминали",
+    "literal": "remembered",
+    "natural": "Recalled; remembered.",
+    "analysis": "Past pl. of вспоминать (impf., 'to recall/recollect'); imperfective stresses repeated or ongoing recollection.",
+    "synonym": "помнили",
+    "antonym": "забывали"
+  },
+  "дочери": {
+    "cyrillic": "дочери",
+    "literal": "daughters",
+    "natural": "Daughters; daughter's.",
+    "analysis": "Of дочь (f. noun, 'daughter'); genitive/dative/prepositional sg. or nominative pl. — context disambiguates.",
+    "synonym": " ",
+    "antonym": "сыновья"
+  },
+  "помогаю": {
+    "cyrillic": "помогаю",
+    "literal": "I help",
+    "natural": "I help.",
+    "analysis": "1sg present of помогать (impf., 'to help'); takes dative object. Perfective counterpart помочь.",
+    "synonym": " ",
+    "antonym": "мешаю"
+  },
+  "жён": {
+    "cyrillic": "жён",
+    "literal": "wives",
+    "natural": "Wives'; of wives.",
+    "analysis": "Genitive pl. of жена (f. noun, 'wife'); zero-ending form with fill vowel ё.",
+    "synonym": "супруг",
+    "antonym": "мужей"
+  },
+  "умный": {
+    "cyrillic": "умный",
+    "literal": "smart",
+    "natural": "Smart; clever.",
+    "analysis": "Adjective (m. sg. nom.), 'intelligent/clever', from ум ('mind'). Comparative умнее.",
+    "synonym": "сообразительный",
+    "antonym": "глупый"
+  },
+  "врачей": {
+    "cyrillic": "врачей",
+    "literal": "doctors",
+    "natural": "Doctors'; of doctors.",
+    "analysis": "Genitive/accusative pl. of врач (m. noun, 'doctor/physician'); animate, so acc. = gen.",
+    "synonym": "докторов",
+    "antonym": " "
+  },
+  "дружная": {
+    "cyrillic": "дружная",
+    "literal": "close-knit",
+    "natural": "Close-knit; friendly.",
+    "analysis": "Adjective (f. sg. nom.) of дружный, 'harmonious/close-knit', from друг ('friend'); of a close group.",
+    "synonym": "сплочённая",
+    "antonym": " "
+  },
+  "вырастила": {
+    "cyrillic": "вырастила",
+    "literal": "raised",
+    "natural": "Raised; grew.",
+    "analysis": "Past f. sg. of вырастить (perf., 'to raise/grow'); perfective signals completed rearing or cultivation.",
+    "synonym": "воспитала",
+    "antonym": " "
+  },
+  "молока": {
+    "cyrillic": "молока",
+    "literal": "milk",
+    "natural": "Milk; of milk.",
+    "analysis": "Genitive sg. of молоко (n. noun, 'milk'); partitive/quantity form, e.g. стакан молока.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "пирог": {
+    "cyrillic": "пирог",
+    "literal": "pie",
+    "natural": "Pie.",
+    "analysis": "Nominative/accusative sg. of пирог (m. noun, 'pie/pastry'); inanimate, so acc. = nom.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "свежей": {
+    "cyrillic": "свежей",
+    "literal": "fresh",
+    "natural": "Fresh.",
+    "analysis": "Adjective (f. sg. gen./dat./instr./prep.) of свежий, 'fresh'; soft-stem oblique form.",
+    "synonym": "новой",
+    "antonym": "чёрствой"
+  },
+  "полезна": {
+    "cyrillic": "полезна",
+    "literal": "useful",
+    "natural": "Useful; beneficial.",
+    "analysis": "Short-form f. sg. of полезный, 'useful/healthy'; predicative, e.g. она полезна.",
+    "synonym": " ",
+    "antonym": "вредна"
+  },
+  "телефонной": {
+    "cyrillic": "телефонной",
+    "literal": "telephone",
+    "natural": "Telephone; phone.",
+    "analysis": "Adjective (f. sg. gen./dat./instr./prep.) of телефонный, 'telephone-', from телефон.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "белого": {
+    "cyrillic": "белого",
+    "literal": "white",
+    "natural": "White.",
+    "analysis": "Adjective (m./n. sg. gen./acc.) of белый, 'white'; animate masc. accusative or genitive.",
+    "synonym": " ",
+    "antonym": "чёрного"
+  },
+  "предпочитает": {
+    "cyrillic": "предпочитает",
+    "literal": "prefers",
+    "natural": "Prefers.",
+    "analysis": "3sg present of предпочитать (impf., 'to prefer'); perfective counterpart предпочесть.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "берегом": {
+    "cyrillic": "берегом",
+    "literal": "shore",
+    "natural": "Shore; bank.",
+    "analysis": "Instrumental sg. of берег (m. noun, 'shore/bank'); prepositional form is берегу (locative).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "листья": {
+    "cyrillic": "листья",
+    "literal": "leaves",
+    "natural": "Leaves.",
+    "analysis": "Nominative/accusative pl. of лист (m. noun) in the 'leaf' sense; irregular -ья plural.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "радовались": {
+    "cyrillic": "радовались",
+    "literal": "rejoiced",
+    "natural": "Rejoiced; were glad.",
+    "analysis": "Past pl. of радоваться (impf., reflexive, 'to be glad/rejoice'); takes dative of what gladdens.",
+    "synonym": " ",
+    "antonym": "огорчались"
+  },
+  "вершины": {
+    "cyrillic": "вершины",
+    "literal": "peaks",
+    "natural": "Peaks; summit's.",
+    "analysis": "Of вершина (f. noun, 'summit/peak'); genitive sg. or nominative/accusative pl.",
+    "synonym": "пики",
+    "antonym": "подножия"
+  },
+  "камня": {
+    "cyrillic": "камня",
+    "literal": "stone",
+    "natural": "Stone; of stone.",
+    "analysis": "Genitive sg. of камень (m. noun, 'stone'); fleeting vowel е drops in oblique cases.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "любуются": {
+    "cyrillic": "любуются",
+    "literal": "admire",
+    "natural": "They admire.",
+    "analysis": "3pl present of любоваться (impf., reflexive, 'to admire/gaze at'); takes instrumental object.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "куста": {
+    "cyrillic": "куста",
+    "literal": "bush",
+    "natural": "Bush; of a bush.",
+    "analysis": "Genitive sg. of куст (m. noun, 'bush/shrub'); inanimate.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "кустами": {
+    "cyrillic": "кустами",
+    "literal": "bushes",
+    "natural": "Bushes.",
+    "analysis": "Instrumental pl. of куст (m. noun, 'bush/shrub').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "небом": {
+    "cyrillic": "небом",
+    "literal": "sky",
+    "natural": "Sky.",
+    "analysis": "Instrumental sg. of небо (n. noun, 'sky/heaven'); e.g. под небом ('under the sky').",
+    "synonym": " ",
+    "antonym": "землёй",
+    "thumbnail": "null"
+  },
+  "огнём": {
+    "cyrillic": "огнём",
+    "literal": "fire",
+    "natural": "Fire.",
+    "analysis": "Instrumental sg. of огонь (m. noun, 'fire'); fleeting vowel о drops in oblique cases.",
+    "synonym": "пламенем",
+    "antonym": "водой",
+    "thumbnail": "null"
+  },
+  "острове": {
+    "cyrillic": "острове",
+    "literal": "island",
+    "natural": "Island.",
+    "analysis": "Prepositional sg. of остров (m. noun, 'island'); e.g. на острове ('on the island').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "природой": {
+    "cyrillic": "природой",
+    "literal": "nature",
+    "natural": "Nature.",
+    "analysis": "Instrumental sg. of природа (f. noun, 'nature'); e.g. любоваться природой.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "радуются": {
+    "cyrillic": "радуются",
+    "literal": "rejoice",
+    "natural": "They rejoice.",
+    "analysis": "3pl present of радоваться (impf., reflexive, 'to be glad/rejoice'); takes dative object.",
+    "synonym": " ",
+    "antonym": "огорчаются"
+  },
+  "растениям": {
+    "cyrillic": "растениям",
+    "literal": "plants",
+    "natural": "Plants; to plants.",
+    "analysis": "Dative pl. of растение (n. noun, 'plant').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "светом": {
+    "cyrillic": "светом",
+    "literal": "light",
+    "natural": "Light.",
+    "analysis": "Instrumental sg. of свет (m. noun, 'light'); also means 'world' in fixed phrases.",
+    "synonym": " ",
+    "antonym": "тьмой"
+  },
+  "корова": {
+    "cyrillic": "корова",
+    "literal": "cow",
+    "natural": "Cow.",
+    "analysis": "Nominative sg. of корова (f. noun, 'cow'); animate.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "букет": {
+    "cyrillic": "букет",
+    "literal": "bouquet",
+    "natural": "Bouquet.",
+    "analysis": "Nominative/accusative sg. of букет (m. noun, 'bouquet'); inanimate, so acc. = nom.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ветром": {
+    "cyrillic": "ветром",
+    "literal": "wind",
+    "natural": "Wind.",
+    "analysis": "Instrumental sg. of ветер (m. noun, 'wind'); fleeting vowel е drops in oblique cases.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "воздухе": {
+    "cyrillic": "воздухе",
+    "literal": "air",
+    "natural": "Air.",
+    "analysis": "Prepositional sg. of воздух (m. noun, 'air'); e.g. в воздухе ('in the air').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "падает": {
+    "cyrillic": "падает",
+    "literal": "falls",
+    "natural": "Falls.",
+    "analysis": "3sg present of падать (impf., 'to fall'); perfective counterpart упасть.",
+    "synonym": " ",
+    "antonym": "поднимается"
+  },
+  "звезду": {
+    "cyrillic": "звезду",
+    "literal": "star",
+    "natural": "Star.",
+    "analysis": "Accusative sg. of звезда (f. noun, 'star'); direct-object form, ending -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ярких": {
+    "cyrillic": "ярких",
+    "literal": "bright",
+    "natural": "Bright.",
+    "analysis": "Adjective (pl. gen./prep. or animate acc.) of яркий, 'bright/vivid'. Comparative ярче.",
+    "synonym": " ",
+    "antonym": "тусклых"
+  },
+  "двух": {
+    "cyrillic": "двух",
+    "literal": "two",
+    "natural": "Two; of two.",
+    "analysis": "Oblique form (gen./prep.) of numeral два/две ('two'); e.g. двух домов.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "кормлю": {
+    "cyrillic": "кормлю",
+    "literal": "I feed",
+    "natural": "I feed.",
+    "analysis": "1sg present of кормить (impf., 'to feed'); stem mutation м→мл in 1sg. Perfective накормить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "шестьдесят": {
+    "cyrillic": "шестьдесят",
+    "literal": "sixty",
+    "natural": "Sixty.",
+    "analysis": "Cardinal numeral 'sixty'; compound declining both halves (шестидесяти in oblique cases).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "путешествовал": {
+    "cyrillic": "путешествовал",
+    "literal": "traveled",
+    "natural": "Traveled.",
+    "analysis": "Past m. sg. of путешествовать (impf., 'to travel'); imperfective stressing the process of travelling.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "жаркими": {
+    "cyrillic": "жаркими",
+    "literal": "hot",
+    "natural": "Hot.",
+    "analysis": "Adjective (pl. instr.) of жаркий, 'hot' (of weather). Comparative жарче.",
+    "synonym": "знойными",
+    "antonym": "холодными"
+  },
+  "каждая": {
+    "cyrillic": "каждая",
+    "literal": "each",
+    "natural": "Each; every.",
+    "analysis": "Determiner-adjective (f. sg. nom.) of каждый, 'each/every'.",
+    "synonym": "всякая",
+    "antonym": " "
+  },
+  "начнутся": {
+    "cyrillic": "начнутся",
+    "literal": "will begin",
+    "natural": "Will begin.",
+    "analysis": "3pl future of начаться (perf., reflexive, 'to begin/start'); intransitive perfective of начинаться.",
+    "synonym": " ",
+    "antonym": "закончатся"
+  },
+  "секунд": {
+    "cyrillic": "секунд",
+    "literal": "seconds",
+    "natural": "Seconds; of seconds.",
+    "analysis": "Genitive pl. of секунда (f. noun, 'second'); used after numerals 5+.",
+    "synonym": "мгновений",
+    "antonym": " "
+  },
+  "делятся": {
+    "cyrillic": "делятся",
+    "literal": "share",
+    "natural": "They share; divide.",
+    "analysis": "3pl present of делиться (impf., reflexive, 'to share/be divided'); takes instrumental of what is shared.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "пережил": {
+    "cyrillic": "пережил",
+    "literal": "survived",
+    "natural": "Survived; lived through.",
+    "analysis": "Past m. sg. of пережить (perf., 'to live through/survive'); perfective of переживать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "спорта": {
+    "cyrillic": "спорта",
+    "literal": "sport",
+    "natural": "Sport; of sport.",
+    "analysis": "Genitive sg. of спорт (m. noun, 'sport'); e.g. вид спорта ('kind of sport').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "корабля": {
+    "cyrillic": "корабля",
+    "literal": "ship",
+    "natural": "Ship; of a ship.",
+    "analysis": "Genitive/accusative sg. of корабль (m. noun, 'ship'); soft-stem masc.",
+    "synonym": "судна",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "парковке": {
+    "cyrillic": "парковке",
+    "literal": "parking",
+    "natural": "Parking; parking lot.",
+    "analysis": "Dative/prepositional sg. of парковка (f. noun, 'parking/car park'); e.g. на парковке.",
+    "synonym": "стоянке",
+    "antonym": " "
+  },
+  "самолётом": {
+    "cyrillic": "самолётом",
+    "literal": "airplane",
+    "natural": "Airplane; by plane.",
+    "analysis": "Instrumental sg. of самолёт (m. noun, 'airplane'); means of transport, e.g. лететь самолётом.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "открылись": {
+    "cyrillic": "открылись",
+    "literal": "opened",
+    "natural": "Opened.",
+    "analysis": "Past pl. of открыться (perf., reflexive, 'to open'); intransitive, of things opening by themselves.",
+    "synonym": " ",
+    "antonym": "закрылись"
+  },
+  "делах": {
+    "cyrillic": "делах",
+    "literal": "affairs",
+    "natural": "Affairs; matters.",
+    "analysis": "Prepositional pl. of дело (n. noun, 'matter/affair/business'); e.g. в делах.",
+    "synonym": "вопросах",
+    "antonym": " "
+  },
+  "торгует": {
+    "cyrillic": "торгует",
+    "literal": "trades",
+    "natural": "Trades; sells.",
+    "analysis": "3sg present of торговать (impf., 'to trade/sell'); takes instrumental of goods sold.",
+    "synonym": "продаёт",
+    "antonym": " "
+  },
+  "устаю": {
+    "cyrillic": "устаю",
+    "literal": "I tire",
+    "natural": "I get tired.",
+    "analysis": "1sg present of уставать (impf., 'to get tired'); perfective counterpart устать.",
+    "synonym": " ",
+    "antonym": "отдыхаю"
+  },
+  "известная": {
+    "cyrillic": "известная",
+    "literal": "famous",
+    "natural": "Famous; well-known.",
+    "analysis": "Adjective (f. sg. nom.) of известный, 'famous/well-known'. Comparative известнее.",
+    "synonym": "знаменитая",
+    "antonym": "неизвестная"
+  },
+  "верёвки": {
+    "cyrillic": "верёвки",
+    "literal": "rope",
+    "natural": "Rope; ropes.",
+    "analysis": "Of верёвка (f. noun, 'rope/string'); genitive sg. or nominative/accusative pl.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "приказа": {
+    "cyrillic": "приказа",
+    "literal": "order",
+    "natural": "Order; command.",
+    "analysis": "Genitive sg. of приказ (m. noun, 'order/command'); e.g. без приказа.",
+    "synonym": "распоряжения",
+    "antonym": " "
+  },
+  "подорожал": {
+    "cyrillic": "подорожал",
+    "literal": "got pricier",
+    "natural": "Became more expensive.",
+    "analysis": "Past m. sg. of подорожать (perf., 'to rise in price'); from дорогой ('expensive').",
+    "synonym": " ",
+    "antonym": "подешевел"
+  },
+  "банковского": {
+    "cyrillic": "банковского",
+    "literal": "bank",
+    "natural": "Bank; banking.",
+    "analysis": "Adjective (m./n. sg. gen./acc.) of банковский, 'bank-/banking', from банк.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "проверяю": {
+    "cyrillic": "проверяю",
+    "literal": "I check",
+    "natural": "I check; verify.",
+    "analysis": "1sg present of проверять (impf., 'to check/verify'); perfective counterpart проверить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "велика": {
+    "cyrillic": "велика",
+    "literal": "big",
+    "natural": "Big; large; too big.",
+    "analysis": "Short-form f. sg. of великий/великий 'great' or велик 'too large'; predicative, e.g. юбка велика.",
+    "synonym": "большая",
+    "antonym": "мала"
+  },
+  "трудом": {
+    "cyrillic": "трудом",
+    "literal": "labor",
+    "natural": "Labor; with difficulty.",
+    "analysis": "Instrumental sg. of труд (m. noun, 'labor/work'); in с трудом means 'with difficulty'.",
+    "synonym": "работой",
+    "antonym": "отдыхом"
+  },
+  "цену": {
+    "cyrillic": "цену",
+    "literal": "price",
+    "natural": "Price.",
+    "analysis": "Accusative sg. of цена (f. noun, 'price/cost'); direct-object form, ending -а becomes -у.",
+    "synonym": "стоимость",
+    "antonym": " "
+  },
+  "тысячей": {
+    "cyrillic": "тысячей",
+    "literal": "thousand",
+    "natural": "Thousand; by a thousand.",
+    "analysis": "Instrumental sg. of тысяча (numeral-noun, 'thousand'); also spelled тысячью.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "подарил": {
+    "cyrillic": "подарил",
+    "literal": "gifted",
+    "natural": "Gave as a gift.",
+    "analysis": "Past m. sg. of подарить (perf., 'to give as a gift'); perfective of дарить, marking a completed act.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "гордимся": {
+    "cyrillic": "гордимся",
+    "literal": "we are proud",
+    "natural": "We are proud.",
+    "analysis": "1pl present of гордиться (impf., 'to be proud'); reflexive verb governing the instrumental.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "купила": {
+    "cyrillic": "купила",
+    "literal": "bought",
+    "natural": "Bought (she).",
+    "analysis": "Past f. sg. of купить (perf., 'to buy'); perfective of покупать, signaling a completed purchase.",
+    "synonym": "приобрела",
+    "antonym": "продала"
+  },
+  "отцу": {
+    "cyrillic": "отцу",
+    "literal": "to father",
+    "natural": "To the father.",
+    "analysis": "Dative sg. of отец (m. noun, 'father'); recipient form with fleeting vowel dropped (отец → отц-).",
+    "synonym": " ",
+    "antonym": "матери"
+  },
+  "игрушку": {
+    "cyrillic": "игрушку",
+    "literal": "toy",
+    "natural": "Toy.",
+    "analysis": "Accusative sg. of игрушка (f. noun, 'toy'); direct-object form, ending -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "традициями": {
+    "cyrillic": "традициями",
+    "literal": "traditions",
+    "natural": "Traditions.",
+    "analysis": "Instrumental pl. of традиция (f. noun, 'tradition'); often used with гордиться or as an accompaniment.",
+    "synonym": "обычаями",
+    "antonym": " "
+  },
+  "поддержит": {
+    "cyrillic": "поддержит",
+    "literal": "will support",
+    "natural": "Will support.",
+    "analysis": "3sg future of поддержать (perf., 'to support'); perfective of поддерживать, denoting a single completed act.",
+    "synonym": "поможет",
+    "antonym": " "
+  },
+  "трёх": {
+    "cyrillic": "трёх",
+    "literal": "three",
+    "natural": "Three.",
+    "analysis": "Genitive/prepositional form of три (numeral, 'three'); used after prepositions and in oblique cases.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "холодильнике": {
+    "cyrillic": "холодильнике",
+    "literal": "refrigerator",
+    "natural": "In the refrigerator.",
+    "analysis": "Prepositional sg. of холодильник (m. noun, 'refrigerator'); locative form after в.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "чае": {
+    "cyrillic": "чае",
+    "literal": "tea",
+    "natural": "In the tea.",
+    "analysis": "Prepositional sg. of чай (m. noun, 'tea'); locative form after в/о.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "радуется": {
+    "cyrillic": "радуется",
+    "literal": "rejoices",
+    "natural": "Is glad; rejoices.",
+    "analysis": "3sg present of радоваться (impf., 'to be glad'); reflexive verb governing the dative.",
+    "synonym": " ",
+    "antonym": "грустит"
+  },
+  "налил": {
+    "cyrillic": "налил",
+    "literal": "poured",
+    "natural": "Poured.",
+    "analysis": "Past m. sg. of налить (perf., 'to pour'); perfective of наливать, marking a completed pour.",
+    "synonym": " ",
+    "antonym": "вылил"
+  },
+  "трубки": {
+    "cyrillic": "трубки",
+    "literal": "tube",
+    "natural": "Of the tube; tubes.",
+    "analysis": "Genitive sg. or nominative/accusative pl. of трубка (f. noun, 'tube/pipe/receiver').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "грузинские": {
+    "cyrillic": "грузинские",
+    "literal": "Georgian",
+    "natural": "Georgian (plural).",
+    "analysis": "Nominative/accusative pl. of грузинский (relational adj., 'Georgian'); agrees with plural nouns.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "водке": {
+    "cyrillic": "водке",
+    "literal": "vodka",
+    "natural": "To/in the vodka.",
+    "analysis": "Dative or prepositional sg. of водка (f. noun, 'vodka'); oblique form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "отплыла": {
+    "cyrillic": "отплыла",
+    "literal": "sailed off",
+    "natural": "Sailed away.",
+    "analysis": "Past f. sg. of отплыть (perf., 'to sail away'); perfective of отплывать, marking departure by water.",
+    "synonym": " ",
+    "antonym": "приплыла"
+  },
+  "построен": {
+    "cyrillic": "построен",
+    "literal": "built",
+    "natural": "Is built.",
+    "analysis": "Short m. sg. passive participle of построить (perf., 'to build'); predicate form, 'has been built'.",
+    "synonym": "сооружён",
+    "antonym": "разрушен"
+  },
+  "дыму": {
+    "cyrillic": "дыму",
+    "literal": "smoke",
+    "natural": "In the smoke.",
+    "analysis": "Prepositional/locative sg. of дым (m. noun, 'smoke'); special -у locative after в.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "высокой": {
+    "cyrillic": "высокой",
+    "literal": "high",
+    "natural": "High; tall.",
+    "analysis": "Genitive/dative/instrumental/prepositional f. sg. of высокий (adj., 'tall/high').",
+    "synonym": " ",
+    "antonym": "низкой"
+  },
+  "сделан": {
+    "cyrillic": "сделан",
+    "literal": "made",
+    "natural": "Is made.",
+    "analysis": "Short m. sg. passive participle of сделать (perf., 'to make'); predicate form, 'has been made'.",
+    "synonym": "изготовлен",
+    "antonym": " "
+  },
+  "краем": {
+    "cyrillic": "краем",
+    "literal": "edge",
+    "natural": "With the edge.",
+    "analysis": "Instrumental sg. of край (m. noun, 'edge/region'); means/accompaniment form.",
+    "synonym": "углом",
+    "antonym": "центром"
+  },
+  "подкралась": {
+    "cyrillic": "подкралась",
+    "literal": "crept up",
+    "natural": "Crept up (she).",
+    "analysis": "Past f. sg. of подкрасться (perf., 'to creep up'); reflexive perfective marking a completed stealthy approach.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "грибов": {
+    "cyrillic": "грибов",
+    "literal": "mushrooms",
+    "natural": "Of mushrooms.",
+    "analysis": "Genitive pl. of гриб (m. noun, 'mushroom'); quantity/partitive form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "вечернее": {
+    "cyrillic": "вечернее",
+    "literal": "evening",
+    "natural": "Evening (neuter).",
+    "analysis": "Nominative/accusative n. sg. of вечерний (relational adj., 'evening'); agrees with neuter nouns.",
+    "synonym": " ",
+    "antonym": "утреннее"
+  },
+  "огне": {
+    "cyrillic": "огне",
+    "literal": "fire",
+    "natural": "In the fire.",
+    "analysis": "Prepositional sg. of огонь (m. noun, 'fire'); locative form with fleeting vowel dropped (огонь → огн-).",
+    "synonym": "пламени",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "островом": {
+    "cyrillic": "островом",
+    "literal": "island",
+    "natural": "With the island.",
+    "analysis": "Instrumental sg. of остров (m. noun, 'island'); means/accompaniment form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "невозможна": {
+    "cyrillic": "невозможна",
+    "literal": "impossible",
+    "natural": "Is impossible.",
+    "analysis": "Short f. sg. of невозможный (adj., 'impossible'); predicate form agreeing with a f. subject.",
+    "synonym": " ",
+    "antonym": "возможна"
+  },
+  "первому": {
+    "cyrillic": "первому",
+    "literal": "first",
+    "natural": "To the first.",
+    "analysis": "Dative m./n. sg. of первый (ordinal adj., 'first'); recipient/direction form.",
+    "synonym": " ",
+    "antonym": "последнему"
+  },
+  "освещается": {
+    "cyrillic": "освещается",
+    "literal": "is lit",
+    "natural": "Is illuminated.",
+    "analysis": "3sg present of освещаться (impf., 'to be lit'); reflexive/passive of освещать.",
+    "synonym": " ",
+    "antonym": "затемняется"
+  },
+  "дневном": {
+    "cyrillic": "дневном",
+    "literal": "daytime",
+    "natural": "Daytime (prep.).",
+    "analysis": "Prepositional m./n. sg. of дневной (relational adj., 'daytime'); locative agreement form.",
+    "synonym": " ",
+    "antonym": "ночном"
+  },
+  "покрыто": {
+    "cyrillic": "покрыто",
+    "literal": "covered",
+    "natural": "Is covered.",
+    "analysis": "Short n. sg. passive participle of покрыть (perf., 'to cover'); predicate form, 'has been covered'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "белых": {
+    "cyrillic": "белых",
+    "literal": "white",
+    "natural": "White (plural).",
+    "analysis": "Genitive/prepositional pl. of белый (adj., 'white'); oblique plural agreement form.",
+    "synonym": " ",
+    "antonym": "чёрных"
+  },
+  "дуют": {
+    "cyrillic": "дуют",
+    "literal": "blow",
+    "natural": "They blow.",
+    "analysis": "3pl present of дуть (impf., 'to blow'); used of wind (ветры дуют).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "душным": {
+    "cyrillic": "душным",
+    "literal": "stuffy",
+    "natural": "Stuffy; muggy.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of душный (adj., 'stuffy/muggy'); means/accompaniment form.",
+    "synonym": "жарким",
+    "antonym": "свежим"
+  },
+  "снежную": {
+    "cyrillic": "снежную",
+    "literal": "snowy",
+    "natural": "Snowy (acc.).",
+    "analysis": "Accusative f. sg. of снежный (relational adj., 'snowy'); direct-object agreement form.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "звезды": {
+    "cyrillic": "звезды",
+    "literal": "star",
+    "natural": "Of the star; stars.",
+    "analysis": "Genitive sg. or nominative/accusative pl. of звезда (f. noun, 'star').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ночное": {
+    "cyrillic": "ночное",
+    "literal": "nighttime",
+    "natural": "Nighttime (neuter).",
+    "analysis": "Nominative/accusative n. sg. of ночной (relational adj., 'nighttime'); agrees with neuter nouns.",
+    "synonym": " ",
+    "antonym": "дневное"
+  },
+  "лошадей": {
+    "cyrillic": "лошадей",
+    "literal": "horses",
+    "natural": "Of horses; horses.",
+    "analysis": "Genitive/accusative pl. of лошадь (f. noun, 'horse'); animate plural form.",
+    "synonym": "коней",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "собаке": {
+    "cyrillic": "собаке",
+    "literal": "dog",
+    "natural": "To/about the dog.",
+    "analysis": "Dative or prepositional sg. of собака (f. noun, 'dog'); oblique form.",
+    "synonym": "псу",
+    "antonym": "кошке",
+    "thumbnail": "null"
+  },
+  "круглые": {
+    "cyrillic": "круглые",
+    "literal": "round",
+    "natural": "Round (plural).",
+    "analysis": "Nominative/accusative pl. of круглый (adj., 'round'); agrees with plural nouns.",
+    "synonym": " ",
+    "antonym": "квадратные"
+  },
+  "долгих": {
+    "cyrillic": "долгих",
+    "literal": "long",
+    "natural": "Long (plural).",
+    "analysis": "Genitive/prepositional pl. of долгий (adj., 'long', of time); oblique plural agreement form.",
+    "synonym": "длительных",
+    "antonym": "коротких"
+  },
+  "целое": {
+    "cyrillic": "целое",
+    "literal": "whole",
+    "natural": "Whole (neuter).",
+    "analysis": "Nominative/accusative n. sg. of целый (adj., 'whole/entire'); agrees with neuter nouns.",
+    "synonym": "всё",
+    "antonym": "часть"
+  },
+  "минуты": {
+    "cyrillic": "минуты",
+    "literal": "minute",
+    "natural": "Of the minute; minutes.",
+    "analysis": "Genitive sg. or nominative/accusative pl. of минута (f. noun, 'minute').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "каникулы": {
+    "cyrillic": "каникулы",
+    "literal": "holidays",
+    "natural": "School holidays; vacation.",
+    "analysis": "Nominative/accusative pl. of каникулы (plurale tantum, 'school holidays/vacation'); no singular.",
+    "synonym": "отпуск",
+    "antonym": " "
+  },
+  "целые": {
+    "cyrillic": "целые",
+    "literal": "whole",
+    "natural": "Whole (plural).",
+    "analysis": "Nominative/accusative pl. of целый (adj., 'whole/entire'); agrees with plural nouns.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "светлым": {
+    "cyrillic": "светлым",
+    "literal": "bright",
+    "natural": "Bright; light.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of светлый (adj., 'bright/light'); means/accompaniment form.",
+    "synonym": " ",
+    "antonym": "тёмным"
+  },
+  "прошлого": {
+    "cyrillic": "прошлого",
+    "literal": "past",
+    "natural": "Past; last.",
+    "analysis": "Genitive/accusative m./n. sg. of прошлый (adj., 'past/last'); oblique agreement form.",
+    "synonym": "минувшего",
+    "antonym": "будущего"
+  },
+  "угадать": {
+    "cyrillic": "угадать",
+    "literal": "to guess",
+    "natural": "To guess (correctly).",
+    "analysis": "Infinitive of угадать (perf., 'to guess right'); perfective of угадывать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "опытный": {
+    "cyrillic": "опытный",
+    "literal": "experienced",
+    "natural": "Experienced.",
+    "analysis": "Adjective, 'experienced/skilled' (m. sg.); derived from опыт ('experience').",
+    "synonym": "умелый",
+    "antonym": "неопытный"
+  },
+  "завелась": {
+    "cyrillic": "завелась",
+    "literal": "started up",
+    "natural": "Started up (she/it).",
+    "analysis": "Past f. sg. of завестись (perf., 'to start up/appear'); reflexive, used of engines or animals.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "летать": {
+    "cyrillic": "летать",
+    "literal": "to fly",
+    "natural": "To fly (around).",
+    "analysis": "Infinitive of летать (impf., indeterminate 'to fly'); multidirectional counterpart of лететь.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "банки": {
+    "cyrillic": "банки",
+    "literal": "jar",
+    "natural": "Of the jar; jars.",
+    "analysis": "Genitive sg. or nominative/accusative pl. of банка (f. noun, 'jar/can').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "заработал": {
+    "cyrillic": "заработал",
+    "literal": "earned",
+    "natural": "Earned; started working.",
+    "analysis": "Past m. sg. of заработать (perf., 'to earn / to begin working'); perfective with ingressive sense.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "яйцами": {
+    "cyrillic": "яйцами",
+    "literal": "eggs",
+    "natural": "With eggs.",
+    "analysis": "Instrumental pl. of яйцо (n. noun, 'egg'); means/accompaniment form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "километром": {
+    "cyrillic": "километром",
+    "literal": "kilometer",
+    "natural": "By a kilometer.",
+    "analysis": "Instrumental sg. of километр (m. noun, 'kilometer'); means/measure form.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "компаний": {
+    "cyrillic": "компаний",
+    "literal": "companies",
+    "natural": "Of companies.",
+    "analysis": "Genitive pl. of компания (f. noun, 'company/firm; group').",
+    "synonym": "фирм",
+    "antonym": " "
+  },
+  "рулоне": {
+    "cyrillic": "рулоне",
+    "literal": "roll",
+    "natural": "In the roll.",
+    "analysis": "Prepositional sg. of рулон (m. noun, 'roll', e.g. of paper); locative form after в.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "начальника": {
+    "cyrillic": "начальника",
+    "literal": "boss",
+    "natural": "Of the boss.",
+    "analysis": "Genitive/accusative sg. of начальник (m. animate noun, 'boss/chief').",
+    "synonym": "шефа",
+    "antonym": "подчинённого"
+  },
+  "доллара": {
+    "cyrillic": "доллара",
+    "literal": "dollar",
+    "natural": "Of a dollar.",
+    "analysis": "Genitive sg. of доллар (m. noun, 'dollar'); also the form after два/три/четыре.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "счёта": {
+    "cyrillic": "счёта",
+    "literal": "account",
+    "natural": "Of the account; bill.",
+    "analysis": "Genitive sg. of счёт (m. noun, 'account/bill/score'); oblique form.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "удивляет": {
+    "cyrillic": "удивляет",
+    "literal": "surprises",
+    "natural": "Surprises; amazes.",
+    "analysis": "3sg present of удивлять (impf., 'to surprise'); imperfective of удивить.",
+    "synonym": "поражает",
+    "antonym": " "
+  },
+  "службу": {
+    "cyrillic": "службу",
+    "literal": "service",
+    "natural": "Service; duty.",
+    "analysis": "Accusative sg. of служба (f. noun, 'service/duty/job'); direct-object form.",
+    "synonym": "работу",
+    "antonym": " "
+  },
+  "труду": {
+    "cyrillic": "труду",
+    "literal": "labor",
+    "natural": "To labor; work.",
+    "analysis": "Dative sg. of труд (m. noun, 'labor/work'); recipient/direction form.",
+    "synonym": "работе",
+    "antonym": "отдыху"
+  },
+  "соответствует": {
+    "cyrillic": "соответствует",
+    "literal": "corresponds",
+    "natural": "Corresponds; matches.",
+    "analysis": "3sg present of соответствовать (impf., 'to correspond/match'); governs the dative.",
+    "synonym": " ",
+    "antonym": "противоречит"
+  },
+  "тысяч": {
+    "cyrillic": "тысяч",
+    "literal": "thousands",
+    "natural": "Of thousands.",
+    "analysis": "Genitive pl. of тысяча (f. noun/numeral, 'thousand'); quantity form after numerals.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "братом": {
+    "cyrillic": "братом",
+    "literal": "brother",
+    "natural": "Brother.",
+    "analysis": "Instrumental sg. of брат (m. noun, 'brother'); irregular plural братья.",
+    "synonym": " ",
+    "antonym": "сестрой",
+    "thumbnail": "null"
+  },
+  "дочерью": {
+    "cyrillic": "дочерью",
+    "literal": "daughter",
+    "natural": "Daughter.",
+    "analysis": "Instrumental sg. of дочь (f. noun, 'daughter'); stem extends to дочер- in oblique cases.",
+    "synonym": " ",
+    "antonym": "сыном",
+    "thumbnail": "null"
+  },
+  "матерью": {
+    "cyrillic": "матерью",
+    "literal": "mother",
+    "natural": "Mother.",
+    "analysis": "Instrumental sg. of мать (f. noun, 'mother'); stem extends to матер- in oblique cases.",
+    "synonym": " ",
+    "antonym": "отцом",
+    "thumbnail": "null"
+  },
+  "отцом": {
+    "cyrillic": "отцом",
+    "literal": "father",
+    "natural": "Father.",
+    "analysis": "Instrumental sg. of отец (m. noun, 'father'); fleeting vowel drops in oblique cases.",
+    "synonym": " ",
+    "antonym": "матерью",
+    "thumbnail": "null"
+  },
+  "ребёнку": {
+    "cyrillic": "ребёнку",
+    "literal": "child",
+    "natural": "Child.",
+    "analysis": "Dative sg. of ребёнок (m. noun, 'child'); suppletive plural дети.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "роды": {
+    "cyrillic": "роды",
+    "literal": "childbirth",
+    "natural": "Childbirth.",
+    "analysis": "Plural-form noun роды (m., 'childbirth, labour'); homographic with sg. forms of род ('kind').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "сестрой": {
+    "cyrillic": "сестрой",
+    "literal": "sister",
+    "natural": "Sister.",
+    "analysis": "Instrumental sg. of сестра (f. noun, 'sister'); irregular plural сёстры.",
+    "synonym": " ",
+    "antonym": "братом",
+    "thumbnail": "null"
+  },
+  "сыновей": {
+    "cyrillic": "сыновей",
+    "literal": "sons",
+    "natural": "Sons.",
+    "analysis": "Genitive/accusative pl. of сын (m. noun, 'son'); irregular plural stem сыновь-.",
+    "synonym": " ",
+    "antonym": "дочерей",
+    "thumbnail": "null"
+  },
+  "выпил": {
+    "cyrillic": "выпил",
+    "literal": "drank",
+    "natural": "Drank.",
+    "analysis": "Past m. sg. of выпить (perf., 'to drink up'); perfective of пить, marks completion.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "чаи": {
+    "cyrillic": "чаи",
+    "literal": "teas",
+    "natural": "Teas.",
+    "analysis": "Nominative pl. of чай (m. noun, 'tea'); plural denotes varieties or servings.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "рыбе": {
+    "cyrillic": "рыбе",
+    "literal": "fish",
+    "natural": "Fish.",
+    "analysis": "Dative/prepositional sg. of рыба (f. noun, 'fish').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "чистого": {
+    "cyrillic": "чистого",
+    "literal": "clean",
+    "natural": "Clean.",
+    "analysis": "Genitive/accusative m./n. sg. of чистый (adj., 'clean, pure'); comparative чище.",
+    "synonym": " ",
+    "antonym": "грязного"
+  },
+  "трубке": {
+    "cyrillic": "трубке",
+    "literal": "tube",
+    "natural": "Tube; receiver.",
+    "analysis": "Dative/prepositional sg. of трубка (f. noun, 'tube, pipe, phone receiver'); diminutive of труба.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "известны": {
+    "cyrillic": "известны",
+    "literal": "known",
+    "natural": "Known; well-known.",
+    "analysis": "Short-form pl. of известный (adj., 'known, famous'); predicative.",
+    "synonym": " ",
+    "antonym": "неизвестны"
+  },
+  "закусывал": {
+    "cyrillic": "закусывал",
+    "literal": "snacked",
+    "natural": "Snacked.",
+    "analysis": "Past m. sg. of закусывать (impf., 'to have a snack, eat with drink'); imperfective of закусить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "крутые": {
+    "cyrillic": "крутые",
+    "literal": "steep",
+    "natural": "Steep; cool.",
+    "analysis": "Nominative/accusative pl. of крутой (adj., 'steep; abrupt; slang cool'); comparative круче.",
+    "synonym": " ",
+    "antonym": "пологие"
+  },
+  "синоптики": {
+    "cyrillic": "синоптики",
+    "literal": "forecasters",
+    "natural": "Forecasters.",
+    "analysis": "Nominative pl. of синоптик (m. noun, 'weather forecaster').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "печи": {
+    "cyrillic": "печи",
+    "literal": "stove",
+    "natural": "Stove; oven.",
+    "analysis": "Genitive/dative/prepositional sg. or nominative pl. of печь (f. noun, 'stove, furnace').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "горе": {
+    "cyrillic": "горе",
+    "literal": "grief",
+    "natural": "Grief; sorrow.",
+    "analysis": "Nominative/accusative sg. of горе (n. noun, 'grief'); homographic with prep. sg. of гора ('mountain').",
+    "synonym": "печаль",
+    "antonym": "радость"
+  },
+  "камню": {
+    "cyrillic": "камню",
+    "literal": "stone",
+    "natural": "Stone.",
+    "analysis": "Dative sg. of камень (m. noun, 'stone'); fleeting vowel drops in oblique cases.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "крае": {
+    "cyrillic": "крае",
+    "literal": "edge",
+    "natural": "Edge; region.",
+    "analysis": "Prepositional sg. of край (m. noun, 'edge, border, territory'); locative край takes -ю in 'на краю'.",
+    "synonym": " ",
+    "antonym": "центре",
+    "thumbnail": "null"
+  },
+  "кусту": {
+    "cyrillic": "кусту",
+    "literal": "bush",
+    "natural": "Bush; shrub.",
+    "analysis": "Dative sg. of куст (m. noun, 'bush, shrub').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "лесе": {
+    "cyrillic": "лесе",
+    "literal": "forest",
+    "natural": "Forest; woods.",
+    "analysis": "Prepositional sg. of лес (m. noun, 'forest'); locative takes -у in 'в лесу'.",
+    "synonym": "бору",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "небеса": {
+    "cyrillic": "небеса",
+    "literal": "heavens",
+    "natural": "Heavens; skies.",
+    "analysis": "Nominative/accusative pl. of небо (n. noun, 'sky'); irregular plural stem небес-.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "сгорели": {
+    "cyrillic": "сгорели",
+    "literal": "burned down",
+    "natural": "Burned down.",
+    "analysis": "Past pl. of сгореть (perf., 'to burn up, be consumed by fire'); perfective of сгорать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "доплыли": {
+    "cyrillic": "доплыли",
+    "literal": "swam to",
+    "natural": "Swam to; reached.",
+    "analysis": "Past pl. of доплыть (perf., 'to swim/sail as far as'); perfective with до- marking arrival.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дарит": {
+    "cyrillic": "дарит",
+    "literal": "gives",
+    "natural": "Gives; presents.",
+    "analysis": "3sg present of дарить (impf., 'to give as a gift'); perfective подарить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "покрыта": {
+    "cyrillic": "покрыта",
+    "literal": "covered",
+    "natural": "Covered.",
+    "analysis": "Short-form f. sg. past passive participle of покрыть (perf., 'to cover'); predicative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "солнцем": {
+    "cyrillic": "солнцем",
+    "literal": "sun",
+    "natural": "Sun.",
+    "analysis": "Instrumental sg. of солнце (n. noun, 'sun'); silent л in pronunciation.",
+    "synonym": " ",
+    "antonym": "луной",
+    "thumbnail": "null"
+  },
+  "луны": {
+    "cyrillic": "луны",
+    "literal": "moon",
+    "natural": "Moon.",
+    "analysis": "Genitive sg. or nominative pl. of луна (f. noun, 'moon').",
+    "synonym": " ",
+    "antonym": "солнца",
+    "thumbnail": "null"
+  },
+  "травой": {
+    "cyrillic": "травой",
+    "literal": "grass",
+    "natural": "Grass.",
+    "analysis": "Instrumental sg. of трава (f. noun, 'grass, herb').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "цветов": {
+    "cyrillic": "цветов",
+    "literal": "flowers",
+    "natural": "Flowers; colours.",
+    "analysis": "Genitive pl. of цветок ('flower') or цвет ('colour'); both share the form цветов.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ветры": {
+    "cyrillic": "ветры",
+    "literal": "winds",
+    "natural": "Winds.",
+    "analysis": "Nominative pl. of ветер (m. noun, 'wind'); fleeting vowel drops in plural.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "горный": {
+    "cyrillic": "горный",
+    "literal": "mountain",
+    "natural": "Mountain; mountainous.",
+    "analysis": "Adjective m. sg. nom., 'mountain, mountainous' (from гора).",
+    "synonym": " ",
+    "antonym": "равнинный"
+  },
+  "зиме": {
+    "cyrillic": "зиме",
+    "literal": "winter",
+    "natural": "Winter.",
+    "analysis": "Dative/prepositional sg. of зима (f. noun, 'winter').",
+    "synonym": " ",
+    "antonym": "лету",
+    "thumbnail": "null"
+  },
+  "летим": {
+    "cyrillic": "летим",
+    "literal": "we fly",
+    "natural": "We fly; we are flying.",
+    "analysis": "1pl present of лететь (impf., unidirectional 'to fly'); multidirectional pair летать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "кормит": {
+    "cyrillic": "кормит",
+    "literal": "feeds",
+    "natural": "Feeds.",
+    "analysis": "3sg present of кормить (impf., 'to feed'); perfective накормить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "лошадях": {
+    "cyrillic": "лошадях",
+    "literal": "horses",
+    "natural": "Horses.",
+    "analysis": "Prepositional pl. of лошадь (f. noun, 'horse').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "мяса": {
+    "cyrillic": "мяса",
+    "literal": "meat",
+    "natural": "Meat.",
+    "analysis": "Genitive sg. of мясо (n. noun, 'meat').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "готовлюсь": {
+    "cyrillic": "готовлюсь",
+    "literal": "I prepare",
+    "natural": "I prepare; I'm getting ready.",
+    "analysis": "1sg present of готовиться (impf., reflexive 'to prepare oneself'); perfective подготовиться.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "жаркое": {
+    "cyrillic": "жаркое",
+    "literal": "hot",
+    "natural": "Hot; roast.",
+    "analysis": "N. sg. of жаркий (adj., 'hot'); substantivized as жаркое ('roast dish'); comparative жарче.",
+    "synonym": "горячее",
+    "antonym": "холодное"
+  },
+  "месяца": {
+    "cyrillic": "месяца",
+    "literal": "month",
+    "natural": "Month.",
+    "analysis": "Genitive sg. of месяц (m. noun, 'month; moon').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "каждой": {
+    "cyrillic": "каждой",
+    "literal": "each",
+    "natural": "Each; every.",
+    "analysis": "Genitive/dative/instr./prep. f. sg. of каждый (determiner, 'each, every').",
+    "synonym": "всякой",
+    "antonym": " "
+  },
+  "отпуске": {
+    "cyrillic": "отпуске",
+    "literal": "leave",
+    "natural": "Leave; vacation.",
+    "analysis": "Prepositional sg. of отпуск (m. noun, 'leave, holiday'); locative also отпуску in 'в отпуску'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "суток": {
+    "cyrillic": "суток",
+    "literal": "days",
+    "natural": "Days; 24-hour periods.",
+    "analysis": "Genitive pl. of сутки (plurale tantum, 'twenty-four-hour period').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "раннее": {
+    "cyrillic": "раннее",
+    "literal": "early",
+    "natural": "Early.",
+    "analysis": "N. sg. of ранний (adj., 'early'); soft-stem adjective; comparative раньше.",
+    "synonym": " ",
+    "antonym": "позднее"
+  },
+  "века": {
+    "cyrillic": "века",
+    "literal": "century",
+    "natural": "Century; age.",
+    "analysis": "Genitive sg. or nominative pl. of век (m. noun, 'century, age'); nom. pl. also века́.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "разного": {
+    "cyrillic": "разного",
+    "literal": "various",
+    "natural": "Various; different.",
+    "analysis": "Genitive/accusative m./n. sg. of разный (adj., 'different, various').",
+    "synonym": "различного",
+    "antonym": "одинакового"
+  },
+  "кораблю": {
+    "cyrillic": "кораблю",
+    "literal": "ship",
+    "natural": "Ship.",
+    "analysis": "Dative sg. of корабль (m. noun, 'ship, vessel').",
+    "synonym": "судну",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "вечерний": {
+    "cyrillic": "вечерний",
+    "literal": "evening",
+    "natural": "Evening.",
+    "analysis": "Adjective m. sg. nom., 'evening' (from вечер); soft-stem adjective.",
+    "synonym": " ",
+    "antonym": "утренний"
+  },
+  "аэропорту": {
+    "cyrillic": "аэропорту",
+    "literal": "airport",
+    "natural": "Airport.",
+    "analysis": "Prepositional/locative sg. of аэропорт (m. noun, 'airport'); locative takes stressed -у in 'в аэропорту'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "сравнивал": {
+    "cyrillic": "сравнивал",
+    "literal": "compared",
+    "natural": "Compared.",
+    "analysis": "Past m. sg. of сравнивать (impf., 'to compare'); perfective сравнить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "деньгам": {
+    "cyrillic": "деньгам",
+    "literal": "money",
+    "natural": "Money.",
+    "analysis": "Dative pl. of деньги (plurale tantum, 'money'); no singular in this sense.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "десятками": {
+    "cyrillic": "десятками",
+    "literal": "tens",
+    "natural": "Tens; dozens.",
+    "analysis": "Instrumental pl. of десяток (m. noun, 'group of ten'); idiomatic 'in tens, by the dozen'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "труднее": {
+    "cyrillic": "труднее",
+    "literal": "harder",
+    "natural": "Harder; more difficult.",
+    "analysis": "Comparative of трудный (adj., 'difficult') / трудно (adv.); invariable.",
+    "synonym": "сложнее",
+    "antonym": "легче"
+  },
+  "заключили": {
+    "cyrillic": "заключили",
+    "literal": "concluded",
+    "natural": "Concluded; enclosed.",
+    "analysis": "Past pl. of заключить (perf., 'to conclude, enclose, imprison'); perfective of заключать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "метров": {
+    "cyrillic": "метров",
+    "literal": "metres",
+    "natural": "Metres.",
+    "analysis": "Genitive pl. of метр (m. noun, 'metre').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "подчинились": {
+    "cyrillic": "подчинились",
+    "literal": "submitted",
+    "natural": "Submitted; obeyed.",
+    "analysis": "Past pl. of подчиниться (perf., reflexive 'to submit, obey'); perfective of подчиняться.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "рублю": {
+    "cyrillic": "рублю",
+    "literal": "rouble",
+    "natural": "Rouble.",
+    "analysis": "Dative sg. of рубль (m. noun, 'rouble'); homographic with 1sg of рубить ('to chop').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "счёте": {
+    "cyrillic": "счёте",
+    "literal": "account",
+    "natural": "Account; score; bill.",
+    "analysis": "Prepositional sg. of счёт (m. noun, 'account, score, bill'); fleeting vowel in oblique cases.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "силе": {
+    "cyrillic": "силе",
+    "literal": "strength",
+    "natural": "Strength; force.",
+    "analysis": "Dative/prepositional sg. of сила (f. noun, 'strength, force, power').",
+    "synonym": "мощи",
+    "antonym": "слабости"
+  },
+  "службы": {
+    "cyrillic": "службы",
+    "literal": "service",
+    "natural": "Service; duty.",
+    "analysis": "Genitive sg. or nominative pl. of служба (f. noun, 'service, employment, duty').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "добился": {
+    "cyrillic": "добился",
+    "literal": "achieved",
+    "natural": "Achieved; attained.",
+    "analysis": "Past m. sg. of добиться (perf., reflexive 'to achieve, obtain'); perfective of добиваться.",
+    "synonym": "достиг",
+    "antonym": " "
+  },
+  "ценой": {
+    "cyrillic": "ценой",
+    "literal": "price",
+    "natural": "Price; cost.",
+    "analysis": "Instrumental sg. of цена (f. noun, 'price'); idiomatic 'at the price of'.",
+    "synonym": "стоимостью",
+    "antonym": " "
+  },
+  "брате": {
+    "cyrillic": "брате",
+    "literal": "brother",
+    "natural": "Brother.",
+    "analysis": "Prepositional sg. of брат (m. noun, 'brother'); used after о/в, e.g. о брате 'about a brother'.",
+    "synonym": " ",
+    "antonym": "сестре",
+    "thumbnail": "null"
+  },
+  "дочерей": {
+    "cyrillic": "дочерей",
+    "literal": "daughters",
+    "natural": "Daughters.",
+    "analysis": "Genitive/accusative pl. of дочь (f. noun, 'daughter'); stem extends with -ер- in plural.",
+    "synonym": " ",
+    "antonym": "сыновей",
+    "thumbnail": "null"
+  },
+  "матерей": {
+    "cyrillic": "матерей",
+    "literal": "mothers",
+    "natural": "Mothers.",
+    "analysis": "Genitive/accusative pl. of мать (f. noun, 'mother'); stem extends with -ер- in plural.",
+    "synonym": " ",
+    "antonym": "отцов",
+    "thumbnail": "null"
+  },
+  "отцы": {
+    "cyrillic": "отцы",
+    "literal": "fathers",
+    "natural": "Fathers.",
+    "analysis": "Nominative pl. of отец (m. noun, 'father'); fleeting vowel -е- drops before the plural ending.",
+    "synonym": " ",
+    "antonym": "матери",
+    "thumbnail": "null"
+  },
+  "ребёнке": {
+    "cyrillic": "ребёнке",
+    "literal": "child",
+    "natural": "Child.",
+    "analysis": "Prepositional sg. of ребёнок (m. noun, 'child'); used after о/в, e.g. о ребёнке.",
+    "synonym": "дитяти",
+    "antonym": "взрослом",
+    "thumbnail": "null"
+  },
+  "хранят": {
+    "cyrillic": "хранят",
+    "literal": "keep, store",
+    "natural": "They keep / store.",
+    "analysis": "3pl present of хранить (impf., 'to keep/store/preserve').",
+    "synonym": "берегут",
+    "antonym": " "
+  },
+  "сёстры": {
+    "cyrillic": "сёстры",
+    "literal": "sisters",
+    "natural": "Sisters.",
+    "analysis": "Nominative pl. of сестра (f. noun, 'sister'); also genitive sg. with stress shift.",
+    "synonym": " ",
+    "antonym": "братья",
+    "thumbnail": "null"
+  },
+  "жену": {
+    "cyrillic": "жену",
+    "literal": "wife",
+    "natural": "Wife.",
+    "analysis": "Accusative sg. of жена (f. noun, 'wife'); direct-object form, ending -а becomes -у.",
+    "synonym": "супругу",
+    "antonym": "мужа",
+    "thumbnail": "null"
+  },
+  "половину": {
+    "cyrillic": "половину",
+    "literal": "half",
+    "natural": "Half.",
+    "analysis": "Accusative sg. of половина (f. noun, 'half'); direct-object form, ending -а becomes -у.",
+    "synonym": " ",
+    "antonym": "целое",
+    "thumbnail": "null"
+  },
+  "отрезал": {
+    "cyrillic": "отрезал",
+    "literal": "cut off",
+    "natural": "Cut off.",
+    "analysis": "Past m. sg. of отрезать (perf., 'to cut off'); perfective signaling a completed cut.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "рыбой": {
+    "cyrillic": "рыбой",
+    "literal": "fish",
+    "natural": "Fish.",
+    "analysis": "Instrumental sg. of рыба (f. noun, 'fish'); used for means/with, e.g. кормить рыбой.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "одним": {
+    "cyrillic": "одним",
+    "literal": "one",
+    "natural": "One.",
+    "analysis": "Instrumental m./n. sg. of один (numeral/pronoun, 'one'); agrees with instrumental noun.",
+    "synonym": "единственным",
+    "antonym": "многими"
+  },
+  "трубкой": {
+    "cyrillic": "трубкой",
+    "literal": "tube, pipe",
+    "natural": "Tube; pipe; receiver.",
+    "analysis": "Instrumental sg. of трубка (f. noun, 'tube/pipe/phone receiver'); diminutive of труба.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "мире": {
+    "cyrillic": "мире",
+    "literal": "world, peace",
+    "natural": "World; peace.",
+    "analysis": "Prepositional sg. of мир (m. noun, 'world' or 'peace'); used after о/в, e.g. в мире.",
+    "synonym": " ",
+    "antonym": "войне",
+    "thumbnail": "null"
+  },
+  "солёным": {
+    "cyrillic": "солёным",
+    "literal": "salty",
+    "natural": "Salty.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of солёный (adj., 'salty/salted').",
+    "synonym": " ",
+    "antonym": "пресным"
+  },
+  "тянулись": {
+    "cyrillic": "тянулись",
+    "literal": "stretched",
+    "natural": "Stretched; dragged on.",
+    "analysis": "Past pl. of тянуться (impf., 'to stretch/extend/drag on'); reflexive in -ся.",
+    "synonym": "простирались",
+    "antonym": " "
+  },
+  "обещают": {
+    "cyrillic": "обещают",
+    "literal": "promise",
+    "natural": "They promise.",
+    "analysis": "3pl present of обещать (impf./perf., 'to promise').",
+    "synonym": "клянутся",
+    "antonym": " "
+  },
+  "чёрным": {
+    "cyrillic": "чёрным",
+    "literal": "black",
+    "natural": "Black.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of чёрный (adj., 'black').",
+    "synonym": "тёмным",
+    "antonym": "белым"
+  },
+  "горой": {
+    "cyrillic": "горой",
+    "literal": "mountain",
+    "natural": "Mountain.",
+    "analysis": "Instrumental sg. of гора (f. noun, 'mountain'); used for means/with, e.g. за горой.",
+    "synonym": " ",
+    "antonym": "долиной",
+    "thumbnail": "null"
+  },
+  "молотком": {
+    "cyrillic": "молотком",
+    "literal": "hammer",
+    "natural": "Hammer.",
+    "analysis": "Instrumental sg. of молоток (m. noun, 'hammer'); used for means, e.g. бить молотком.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "лесов": {
+    "cyrillic": "лесов",
+    "literal": "forests",
+    "natural": "Forests.",
+    "analysis": "Genitive pl. of лес (m. noun, 'forest/woods').",
+    "synonym": " ",
+    "antonym": "полей",
+    "thumbnail": "null"
+  },
+  "кустом": {
+    "cyrillic": "кустом",
+    "literal": "bush",
+    "natural": "Bush; shrub.",
+    "analysis": "Instrumental sg. of куст (m. noun, 'bush/shrub'); used for means/with, e.g. за кустом.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "лесам": {
+    "cyrillic": "лесам",
+    "literal": "forests",
+    "natural": "Forests.",
+    "analysis": "Dative pl. of лес (m. noun, 'forest/woods'); indirect-object/along form.",
+    "synonym": " ",
+    "antonym": "полям",
+    "thumbnail": "null"
+  },
+  "любуемся": {
+    "cyrillic": "любуемся",
+    "literal": "admire",
+    "natural": "We admire.",
+    "analysis": "1pl present of любоваться (impf., 'to admire'); reflexive in -ся, takes instrumental.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "распространился": {
+    "cyrillic": "распространился",
+    "literal": "spread",
+    "natural": "Spread.",
+    "analysis": "Past m. sg. of распространиться (perf., 'to spread/disseminate'); reflexive in -ся.",
+    "synonym": "разошёлся",
+    "antonym": " "
+  },
+  "океане": {
+    "cyrillic": "океане",
+    "literal": "ocean",
+    "natural": "Ocean.",
+    "analysis": "Prepositional sg. of океан (m. noun, 'ocean'); used after о/в, e.g. в океане.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "фотографирую": {
+    "cyrillic": "фотографирую",
+    "literal": "photograph",
+    "natural": "I photograph.",
+    "analysis": "1sg present of фотографировать (impf., 'to photograph').",
+    "synonym": "снимаю",
+    "antonym": " "
+  },
+  "белым": {
+    "cyrillic": "белым",
+    "literal": "white",
+    "natural": "White.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of белый (adj., 'white').",
+    "synonym": "светлым",
+    "antonym": "чёрным"
+  },
+  "звёздах": {
+    "cyrillic": "звёздах",
+    "literal": "stars",
+    "natural": "Stars.",
+    "analysis": "Prepositional pl. of звезда (f. noun, 'star'); used after о/в, e.g. о звёздах.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "зажглись": {
+    "cyrillic": "зажглись",
+    "literal": "lit up",
+    "natural": "Lit up.",
+    "analysis": "Past pl. of зажечься (perf., 'to light up/ignite'); reflexive in -ся.",
+    "synonym": "загорелись",
+    "antonym": "погасли"
+  },
+  "качаются": {
+    "cyrillic": "качаются",
+    "literal": "sway, swing",
+    "natural": "They sway / swing.",
+    "analysis": "3pl present of качаться (impf., 'to sway/swing/rock'); reflexive in -ся.",
+    "synonym": "колышутся",
+    "antonym": " "
+  },
+  "дарят": {
+    "cyrillic": "дарят",
+    "literal": "give, gift",
+    "natural": "They give (as a gift).",
+    "analysis": "3pl present of дарить (impf., 'to give as a gift').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "борется": {
+    "cyrillic": "борется",
+    "literal": "fights",
+    "natural": "Fights; struggles.",
+    "analysis": "3sg present of бороться (impf., 'to fight/struggle'); reflexive in -ся.",
+    "synonym": "сражается",
+    "antonym": " "
+  },
+  "фермеры": {
+    "cyrillic": "фермеры",
+    "literal": "farmers",
+    "natural": "Farmers.",
+    "analysis": "Nominative pl. of фермер (m. noun, 'farmer').",
+    "synonym": "крестьяне",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "катаются": {
+    "cyrillic": "катаются",
+    "literal": "ride",
+    "natural": "They ride / roll.",
+    "analysis": "3pl present of кататься (impf., 'to ride/roll about for pleasure'); reflexive in -ся.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "далёкой": {
+    "cyrillic": "далёкой",
+    "literal": "distant",
+    "natural": "Distant; far.",
+    "analysis": "Genitive/dative/instr./prep. f. sg. of далёкий (adj., 'distant/far').",
+    "synonym": "дальней",
+    "antonym": "близкой"
+  },
+  "лошади": {
+    "cyrillic": "лошади",
+    "literal": "horse",
+    "natural": "Horse; horses.",
+    "analysis": "Genitive/dative/prep. sg. or nom./acc. pl. of лошадь (f. noun, 'horse').",
+    "synonym": "коня",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "поймала": {
+    "cyrillic": "поймала",
+    "literal": "caught",
+    "natural": "Caught.",
+    "analysis": "Past f. sg. of поймать (perf., 'to catch'); perfective of ловить, signaling a completed catch.",
+    "synonym": "схватила",
+    "antonym": "упустила"
+  },
+  "соседские": {
+    "cyrillic": "соседские",
+    "literal": "neighbors'",
+    "natural": "Neighbors'.",
+    "analysis": "Nom./acc. pl. of соседский (adj., 'belonging to the neighbors').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дню": {
+    "cyrillic": "дню",
+    "literal": "day",
+    "natural": "Day.",
+    "analysis": "Dative sg. of день (m. noun, 'day'); indirect-object form, fleeting -е- drops.",
+    "synonym": " ",
+    "antonym": "ночи",
+    "thumbnail": "null"
+  },
+  "лета": {
+    "cyrillic": "лета",
+    "literal": "summer",
+    "natural": "Summer.",
+    "analysis": "Genitive sg. of лето (n. noun, 'summer'); also nom./acc. pl. ('years').",
+    "synonym": " ",
+    "antonym": "зимы",
+    "thumbnail": "null"
+  },
+  "следующему": {
+    "cyrillic": "следующему",
+    "literal": "next",
+    "natural": "Next; following.",
+    "analysis": "Dative m./n. sg. of следующий (adj., 'next/following').",
+    "synonym": "будущему",
+    "antonym": "предыдущему"
+  },
+  "свободной": {
+    "cyrillic": "свободной",
+    "literal": "free",
+    "natural": "Free.",
+    "analysis": "Genitive/dative/instr./prep. f. sg. of свободный (adj., 'free/vacant').",
+    "synonym": "вольной",
+    "antonym": "занятой"
+  },
+  "недель": {
+    "cyrillic": "недель",
+    "literal": "weeks",
+    "natural": "Weeks.",
+    "analysis": "Genitive pl. of неделя (f. noun, 'week').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "следующим": {
+    "cyrillic": "следующим",
+    "literal": "next",
+    "natural": "Next; following.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of следующий (adj., 'next/following').",
+    "synonym": "будущим",
+    "antonym": "предыдущим"
+  },
+  "зимнее": {
+    "cyrillic": "зимнее",
+    "literal": "winter",
+    "natural": "Winter (adj.).",
+    "analysis": "Nom./acc. n. sg. of зимний (adj., 'wintry/winter-').",
+    "synonym": " ",
+    "antonym": "летнее"
+  },
+  "дошло": {
+    "cyrillic": "дошло",
+    "literal": "reached",
+    "natural": "Reached; got through.",
+    "analysis": "Past n. sg. of дойти (perf., 'to reach/arrive on foot'); perfective.",
+    "synonym": "достигло",
+    "antonym": " "
+  },
+  "возраста": {
+    "cyrillic": "возраста",
+    "literal": "age",
+    "natural": "Age.",
+    "analysis": "Genitive sg. of возраст (m. noun, 'age'); also nom./acc. pl.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "плыли": {
+    "cyrillic": "плыли",
+    "literal": "swam, sailed",
+    "natural": "Swam; sailed.",
+    "analysis": "Past pl. of плыть (impf., 'to swim/sail/float'); unidirectional motion verb.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "поезду": {
+    "cyrillic": "поезду",
+    "literal": "train",
+    "natural": "Train.",
+    "analysis": "Dative sg. of поезд (m. noun, 'train'); indirect-object/by form, e.g. по поезду.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "самолёты": {
+    "cyrillic": "самолёты",
+    "literal": "airplanes",
+    "natural": "Airplanes.",
+    "analysis": "Nom./acc. pl. of самолёт (m. noun, 'airplane').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "условия": {
+    "cyrillic": "условия",
+    "literal": "conditions",
+    "natural": "Conditions; terms.",
+    "analysis": "Nom./acc. pl. (or gen. sg.) of условие (n. noun, 'condition/term').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "расплатился": {
+    "cyrillic": "расплатился",
+    "literal": "paid off",
+    "natural": "Paid off; settled up.",
+    "analysis": "Past m. sg. of расплатиться (perf., 'to pay off/settle accounts'); reflexive in -ся.",
+    "synonym": "рассчитался",
+    "antonym": " "
+  },
+  "десятке": {
+    "cyrillic": "десятке",
+    "literal": "ten",
+    "natural": "Ten; group of ten.",
+    "analysis": "Prepositional sg. of десяток (m. noun, 'a ten/group of ten'); fleeting -о- drops.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "первом": {
+    "cyrillic": "первом",
+    "literal": "first",
+    "natural": "First.",
+    "analysis": "Prepositional m./n. sg. of первый (ordinal adj., 'first').",
+    "synonym": " ",
+    "antonym": "последнем"
+  },
+  "равен": {
+    "cyrillic": "равен",
+    "literal": "equal",
+    "natural": "Equal.",
+    "analysis": "Short-form m. sg. of равный (adj., 'equal'); predicate use, e.g. он равен.",
+    "synonym": "одинаков",
+    "antonym": " "
+  },
+  "метры": {
+    "cyrillic": "метры",
+    "literal": "meters",
+    "natural": "Meters.",
+    "analysis": "Nom./acc. pl. of метр (m. noun, 'meter').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "недоволен": {
+    "cyrillic": "недоволен",
+    "literal": "displeased",
+    "natural": "Displeased; dissatisfied.",
+    "analysis": "Short-form m. sg. of недовольный (adj., 'displeased'); predicate, takes instrumental.",
+    "synonym": " ",
+    "antonym": "доволен"
+  },
+  "последним": {
+    "cyrillic": "последним",
+    "literal": "last",
+    "natural": "Last; final.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of последний (adj., 'last/final').",
+    "synonym": "крайним",
+    "antonym": "первым"
+  },
+  "заплатил": {
+    "cyrillic": "заплатил",
+    "literal": "paid",
+    "natural": "Paid.",
+    "analysis": "Past m. sg. of заплатить (perf., 'to pay'); perfective of платить.",
+    "synonym": "оплатил",
+    "antonym": " "
+  },
+  "воли": {
+    "cyrillic": "воли",
+    "literal": "will, freedom",
+    "natural": "Will; freedom.",
+    "analysis": "Genitive/dative/prep. sg. of воля (f. noun, 'will/freedom'); e.g. без воли.",
+    "synonym": "свободы",
+    "antonym": "неволи"
+  },
+  "предан": {
+    "cyrillic": "предан",
+    "literal": "devoted",
+    "natural": "Devoted; loyal.",
+    "analysis": "Short-form m. sg. of преданный (adj., 'devoted/loyal'); predicate, takes dative.",
+    "synonym": "верен",
+    "antonym": " "
+  },
+  "тяжёлом": {
+    "cyrillic": "тяжёлом",
+    "literal": "heavy, hard",
+    "natural": "Heavy; difficult.",
+    "analysis": "Prepositional m./n. sg. of тяжёлый (adj., 'heavy/hard'); comparative тяжелее.",
+    "synonym": "трудном",
+    "antonym": "лёгком"
+  },
+  "закончу": {
+    "cyrillic": "закончу",
+    "literal": "finish",
+    "natural": "I will finish.",
+    "analysis": "1sg future of закончить (perf., 'to finish/complete').",
+    "synonym": "завершу",
+    "antonym": "начну"
+  },
+  "братья": {
+    "cyrillic": "братья",
+    "literal": "brothers",
+    "natural": "Brothers.",
+    "analysis": "Nominative pl. of брат (m. noun, 'brother'); irregular plural in -ья with stem softening.",
+    "synonym": " ",
+    "antonym": "сёстры"
+  },
+  "дядю": {
+    "cyrillic": "дядю",
+    "literal": "uncle",
+    "natural": "Uncle.",
+    "analysis": "Accusative sg. of дядя (m. noun, 'uncle'); animate masculine in -я takes -ю in accusative.",
+    "synonym": " ",
+    "antonym": "тётю"
+  },
+  "мужа": {
+    "cyrillic": "мужа",
+    "literal": "husband",
+    "natural": "Husband.",
+    "analysis": "Accusative/genitive sg. of муж (m. noun, 'husband'); animate noun, acc. = gen. ending -а.",
+    "synonym": "супруга",
+    "antonym": "жену"
+  },
+  "отцах": {
+    "cyrillic": "отцах",
+    "literal": "fathers",
+    "natural": "Fathers.",
+    "analysis": "Prepositional pl. of отец (m. noun, 'father'); fleeting vowel drops, ending -ах.",
+    "synonym": " ",
+    "antonym": "матерях"
+  },
+  "уроками": {
+    "cyrillic": "уроками",
+    "literal": "lessons",
+    "natural": "Lessons.",
+    "analysis": "Instrumental pl. of урок (m. noun, 'lesson'); ending -ами.",
+    "synonym": "занятиями",
+    "antonym": " "
+  },
+  "легенды": {
+    "cyrillic": "легенды",
+    "literal": "legends",
+    "natural": "Legends.",
+    "analysis": "Nominative/accusative pl. or genitive sg. of легенда (f. noun, 'legend'); ending -ы.",
+    "synonym": "предания",
+    "antonym": " "
+  },
+  "похожи": {
+    "cyrillic": "похожи",
+    "literal": "similar",
+    "natural": "Similar; alike.",
+    "analysis": "Short-form pl. of похожий (adj., 'similar'); predicative, used with на + acc.",
+    "synonym": "схожи",
+    "antonym": "различны"
+  },
+  "жены": {
+    "cyrillic": "жены",
+    "literal": "wife",
+    "natural": "Wife.",
+    "analysis": "Genitive sg. or nominative pl. of жена (f. noun, 'wife'); ending -ы.",
+    "synonym": "супруги",
+    "antonym": "мужа"
+  },
+  "сока": {
+    "cyrillic": "сока",
+    "literal": "juice",
+    "natural": "Juice.",
+    "analysis": "Genitive sg. of сок (m. noun, 'juice'); partitive/quantity form, ending -а.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "хлебе": {
+    "cyrillic": "хлебе",
+    "literal": "bread",
+    "natural": "Bread.",
+    "analysis": "Prepositional sg. of хлеб (m. noun, 'bread'); ending -е, used after о/в/на.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "костей": {
+    "cyrillic": "костей",
+    "literal": "bones",
+    "natural": "Bones.",
+    "analysis": "Genitive pl. of кость (f. noun, 'bone'); soft-stem feminine, ending -ей.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "стаканом": {
+    "cyrillic": "стаканом",
+    "literal": "glass",
+    "natural": "Glass; tumbler.",
+    "analysis": "Instrumental sg. of стакан (m. noun, 'drinking glass'); ending -ом.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "дорогая": {
+    "cyrillic": "дорогая",
+    "literal": "dear",
+    "natural": "Dear; expensive.",
+    "analysis": "F. sg. nominative of дорогой (adj., 'dear/expensive'); ending -ая.",
+    "synonym": "милая",
+    "antonym": "дешёвая"
+  },
+  "попробовали": {
+    "cyrillic": "попробовали",
+    "literal": "tried",
+    "natural": "Tried; tasted.",
+    "analysis": "Past pl. of попробовать (perf., 'to try/taste'); perfective of пробовать, completed attempt.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "огурцом": {
+    "cyrillic": "огурцом",
+    "literal": "cucumber",
+    "natural": "Cucumber.",
+    "analysis": "Instrumental sg. of огурец (m. noun, 'cucumber'); fleeting vowel drops, ending -ом.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "песчаный": {
+    "cyrillic": "песчаный",
+    "literal": "sandy",
+    "natural": "Sandy.",
+    "analysis": "M. sg. nominative of песчаный (adj., 'sandy'); relational adjective from песок.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "влажная": {
+    "cyrillic": "влажная",
+    "literal": "damp",
+    "natural": "Damp; humid.",
+    "analysis": "F. sg. nominative of влажный (adj., 'damp/humid'); ending -ая.",
+    "synonym": "сырая",
+    "antonym": "сухая"
+  },
+  "дымом": {
+    "cyrillic": "дымом",
+    "literal": "smoke",
+    "natural": "Smoke.",
+    "analysis": "Instrumental sg. of дым (m. noun, 'smoke'); ending -ом.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "закрывает": {
+    "cyrillic": "закрывает",
+    "literal": "closes",
+    "natural": "Closes; shuts.",
+    "analysis": "3sg present of закрывать (impf., 'to close/shut'); imperfective of закрыть.",
+    "synonym": " ",
+    "antonym": "открывает"
+  },
+  "камне": {
+    "cyrillic": "камне",
+    "literal": "stone",
+    "natural": "Stone.",
+    "analysis": "Prepositional sg. of камень (m. noun, 'stone'); fleeting vowel drops, ending -е.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "красивы": {
+    "cyrillic": "красивы",
+    "literal": "beautiful",
+    "natural": "Beautiful.",
+    "analysis": "Short-form pl. of красивый (adj., 'beautiful'); predicative form.",
+    "synonym": " ",
+    "antonym": "уродливы"
+  },
+  "заяц": {
+    "cyrillic": "заяц",
+    "literal": "hare",
+    "natural": "Hare.",
+    "analysis": "Nominative sg. of заяц (m. animate noun, 'hare/rabbit'); fleeting vowel in oblique cases (зайца).",
+    "synonym": "кролик",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "летают": {
+    "cyrillic": "летают",
+    "literal": "fly",
+    "natural": "Fly.",
+    "analysis": "3pl present of летать (impf., 'to fly'); multidirectional verb of motion.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ночным": {
+    "cyrillic": "ночным",
+    "literal": "nocturnal",
+    "natural": "Nocturnal; night.",
+    "analysis": "M./n. sg. instrumental of ночной (adj., 'nightly/nocturnal'); from ночь.",
+    "synonym": " ",
+    "antonym": "дневным"
+  },
+  "огни": {
+    "cyrillic": "огни",
+    "literal": "lights",
+    "natural": "Lights.",
+    "analysis": "Nominative/accusative pl. of огонь (m. noun, 'fire/light'); fleeting vowel drops, ending -и.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "островов": {
+    "cyrillic": "островов",
+    "literal": "islands",
+    "natural": "Islands.",
+    "analysis": "Genitive pl. of остров (m. noun, 'island'); ending -ов.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дикую": {
+    "cyrillic": "дикую",
+    "literal": "wild",
+    "natural": "Wild.",
+    "analysis": "F. sg. accusative of дикий (adj., 'wild'); ending -ую.",
+    "synonym": " ",
+    "antonym": "домашнюю"
+  },
+  "снегом": {
+    "cyrillic": "снегом",
+    "literal": "snow",
+    "natural": "Snow.",
+    "analysis": "Instrumental sg. of снег (m. noun, 'snow'); ending -ом.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "скрылось": {
+    "cyrillic": "скрылось",
+    "literal": "disappeared",
+    "natural": "Disappeared; hid.",
+    "analysis": "Past n. sg. reflexive of скрыться (perf., 'to disappear/hide'); perfective, completed.",
+    "synonym": "исчезло",
+    "antonym": "появилось"
+  },
+  "ярком": {
+    "cyrillic": "ярком",
+    "literal": "bright",
+    "natural": "Bright.",
+    "analysis": "M./n. sg. prepositional of яркий (adj., 'bright/vivid'); ending -ом.",
+    "synonym": " ",
+    "antonym": "тусклом"
+  },
+  "роса": {
+    "cyrillic": "роса",
+    "literal": "dew",
+    "natural": "Dew.",
+    "analysis": "Nominative sg. of роса (f. noun, 'dew'); ending -а.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "учителям": {
+    "cyrillic": "учителям",
+    "literal": "teachers",
+    "natural": "Teachers.",
+    "analysis": "Dative pl. of учитель (m. noun, 'teacher'); ending -ям.",
+    "synonym": "преподавателям",
+    "antonym": "ученикам"
+  },
+  "ветрами": {
+    "cyrillic": "ветрами",
+    "literal": "winds",
+    "natural": "Winds.",
+    "analysis": "Instrumental pl. of ветер (m. noun, 'wind'); fleeting vowel drops, ending -ами.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "земли": {
+    "cyrillic": "земли",
+    "literal": "earth",
+    "natural": "Earth; land.",
+    "analysis": "Genitive sg. or nominative pl. of земля (f. noun, 'earth/land'); ending -и.",
+    "synonym": "почвы",
+    "antonym": "неба"
+  },
+  "коньках": {
+    "cyrillic": "коньках",
+    "literal": "skates",
+    "natural": "Skates.",
+    "analysis": "Prepositional pl. of коньки (pl. noun, 'ice skates'); ending -ах, used as на коньках.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "звезде": {
+    "cyrillic": "звезде",
+    "literal": "star",
+    "natural": "Star.",
+    "analysis": "Dative/prepositional sg. of звезда (f. noun, 'star'); ending -е.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "любуется": {
+    "cyrillic": "любуется",
+    "literal": "admires",
+    "natural": "Admires.",
+    "analysis": "3sg present reflexive of любоваться (impf., 'to admire'); governs instrumental case.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "маленькую": {
+    "cyrillic": "маленькую",
+    "literal": "small",
+    "natural": "Small; little.",
+    "analysis": "F. sg. accusative of маленький (adj., 'small'); ending -ую.",
+    "synonym": "небольшую",
+    "antonym": "большую"
+  },
+  "лают": {
+    "cyrillic": "лают",
+    "literal": "bark",
+    "natural": "Bark.",
+    "analysis": "3pl present of лаять (impf., 'to bark'); of dogs.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дождливого": {
+    "cyrillic": "дождливого",
+    "literal": "rainy",
+    "natural": "Rainy.",
+    "analysis": "M./n. sg. genitive of дождливый (adj., 'rainy'); from дождь.",
+    "synonym": " ",
+    "antonym": "солнечного"
+  },
+  "лету": {
+    "cyrillic": "лету",
+    "literal": "summer",
+    "natural": "Summer.",
+    "analysis": "Dative sg. of лето (n. noun, 'summer'); ending -у.",
+    "synonym": " ",
+    "antonym": "зиме"
+  },
+  "месяцу": {
+    "cyrillic": "месяцу",
+    "literal": "month",
+    "natural": "Month.",
+    "analysis": "Dative sg. of месяц (m. noun, 'month/moon'); ending -у.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "минуте": {
+    "cyrillic": "минуте",
+    "literal": "minute",
+    "natural": "Minute.",
+    "analysis": "Dative/prepositional sg. of минута (f. noun, 'minute'); ending -е.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "поздней": {
+    "cyrillic": "поздней",
+    "literal": "late",
+    "natural": "Late.",
+    "analysis": "F. sg. genitive/dative/instr./prep. of поздний (adj., 'late'); soft-stem ending -ей.",
+    "synonym": " ",
+    "antonym": "ранней"
+  },
+  "суткам": {
+    "cyrillic": "суткам",
+    "literal": "days",
+    "natural": "Days; 24-hour periods.",
+    "analysis": "Dative of сутки (pl.-only noun, 'twenty-four-hour period'); ending -ам.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прохладно": {
+    "cyrillic": "прохладно",
+    "literal": "cool",
+    "natural": "Cool; chilly.",
+    "analysis": "Adverb/predicative from прохладный, 'cool'; impersonal weather use (на улице прохладно).",
+    "synonym": " ",
+    "antonym": "тепло"
+  },
+  "технологии": {
+    "cyrillic": "технологии",
+    "literal": "technology",
+    "natural": "Technology.",
+    "analysis": "Genitive/dative/prepositional sg. or nom./acc. pl. of технология (f. noun, 'technology'); ending -ии.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "зависит": {
+    "cyrillic": "зависит",
+    "literal": "depends",
+    "natural": "Depends.",
+    "analysis": "3sg present of зависеть (impf., 'to depend'); governs от + genitive.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "кораблём": {
+    "cyrillic": "кораблём",
+    "literal": "ship",
+    "natural": "Ship.",
+    "analysis": "Instrumental sg. of корабль (m. noun, 'ship'); soft-stem, stressed ending -ём.",
+    "synonym": "судном",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "путешествовать": {
+    "cyrillic": "путешествовать",
+    "literal": "to travel",
+    "natural": "To travel.",
+    "analysis": "Infinitive of путешествовать (impf., 'to travel/journey').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "надёжный": {
+    "cyrillic": "надёжный",
+    "literal": "reliable",
+    "natural": "Reliable; dependable.",
+    "analysis": "M. sg. nominative of надёжный (adj., 'reliable'); ending -ый.",
+    "synonym": "прочный",
+    "antonym": "ненадёжный"
+  },
+  "банков": {
+    "cyrillic": "банков",
+    "literal": "banks",
+    "natural": "Banks.",
+    "analysis": "Genitive pl. of банк (m. noun, 'bank'); ending -ов.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "наличными": {
+    "cyrillic": "наличными",
+    "literal": "cash",
+    "natural": "Cash.",
+    "analysis": "Instrumental pl. of наличные (substantivized adj., 'cash'); ending -ыми, as платить наличными.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "штук": {
+    "cyrillic": "штук",
+    "literal": "pieces",
+    "natural": "Pieces; items.",
+    "analysis": "Genitive pl. of штука (f. noun, 'piece/item'); counting word after numerals, ending -∅.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "километре": {
+    "cyrillic": "километре",
+    "literal": "kilometer",
+    "natural": "Kilometer.",
+    "analysis": "Prepositional sg. of километр (m. noun, 'kilometer'); ending -е.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сантиметрам": {
+    "cyrillic": "сантиметрам",
+    "literal": "centimeters",
+    "natural": "Centimeters.",
+    "analysis": "Dative pl. of сантиметр (m. noun, 'centimeter'); ending -ам.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "длиной": {
+    "cyrillic": "длиной",
+    "literal": "length",
+    "natural": "Length; long.",
+    "analysis": "Instrumental sg. of длина (f. noun, 'length'); measurement form (длиной в метр).",
+    "synonym": " ",
+    "antonym": "шириной"
+  },
+  "приказом": {
+    "cyrillic": "приказом",
+    "literal": "order",
+    "natural": "Order; command.",
+    "analysis": "Instrumental sg. of приказ (m. noun, 'order/command'); ending -ом.",
+    "synonym": "распоряжением",
+    "antonym": " "
+  },
+  "рублём": {
+    "cyrillic": "рублём",
+    "literal": "ruble",
+    "natural": "Ruble.",
+    "analysis": "Instrumental sg. of рубль (m. noun, 'ruble'); soft-stem, stressed ending -ём.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "счёту": {
+    "cyrillic": "счёту",
+    "literal": "account",
+    "natural": "Account; score.",
+    "analysis": "Dative sg. of счёт (m. noun, 'account/bill/score'); ending -у.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "управляет": {
+    "cyrillic": "управляет",
+    "literal": "manages",
+    "natural": "Manages; controls.",
+    "analysis": "3sg present of управлять (impf., 'to manage/control'); governs instrumental case.",
+    "synonym": "руководит",
+    "antonym": " "
+  },
+  "службе": {
+    "cyrillic": "службе",
+    "literal": "service",
+    "natural": "Service; duty.",
+    "analysis": "Dative/prepositional sg. of служба (f. noun, 'service/duty'); ending -е.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "труде": {
+    "cyrillic": "труде",
+    "literal": "labor",
+    "natural": "Labor; work.",
+    "analysis": "Prepositional sg. of труд (m. noun, 'labor/work'); ending -е.",
+    "synonym": "работе",
+    "antonym": "отдыхе"
+  },
+  "указанной": {
+    "cyrillic": "указанной",
+    "literal": "specified",
+    "natural": "Specified; indicated.",
+    "analysis": "F. sg. gen./dat./instr./prep. of указанный (past passive part. of указать, 'specified'); ending -ой.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "деду": {
+    "cyrillic": "деду",
+    "literal": "grandfather",
+    "natural": "Grandfather.",
+    "analysis": "Dative sg. of дед (m. noun, 'grandfather'); indirect-object form, 'to grandfather'.",
+    "synonym": "дедушке",
+    "antonym": "бабушке",
+    "thumbnail": "null"
+  },
+  "дяди": {
+    "cyrillic": "дяди",
+    "literal": "uncle",
+    "natural": "Uncle.",
+    "analysis": "Genitive sg. (or nom. pl.) of дядя (m. noun, 'uncle'); -я becomes -и.",
+    "synonym": " ",
+    "antonym": "тёти",
+    "thumbnail": "null"
+  },
+  "подруги": {
+    "cyrillic": "подруги",
+    "literal": "female friend",
+    "natural": "Girlfriend; female friend.",
+    "analysis": "Genitive sg. (or nom. pl.) of подруга (f. noun, 'female friend'); -а becomes -и.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "папу": {
+    "cyrillic": "папу",
+    "literal": "dad",
+    "natural": "Dad.",
+    "analysis": "Accusative sg. of папа (m. noun, 'dad'); direct-object form, -а becomes -у.",
+    "synonym": "отца",
+    "antonym": "маму",
+    "thumbnail": "null"
+  },
+  "детьми": {
+    "cyrillic": "детьми",
+    "literal": "children",
+    "natural": "Children.",
+    "analysis": "Instrumental pl. of дети (pl. noun, 'children'); irregular ending -ьми.",
+    "synonym": "ребятами",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "уважаю": {
+    "cyrillic": "уважаю",
+    "literal": "I respect",
+    "natural": "I respect.",
+    "analysis": "1sg present of уважать (impf., 'to respect, esteem').",
+    "synonym": "ценю",
+    "antonym": "презираю"
+  },
+  "старших": {
+    "cyrillic": "старших",
+    "literal": "elders",
+    "natural": "Elders; older ones.",
+    "analysis": "Genitive/accusative pl. of старший (adj. used as noun, 'elder/senior'); comparative of старый.",
+    "synonym": "взрослых",
+    "antonym": "младших"
+  },
+  "жене": {
+    "cyrillic": "жене",
+    "literal": "wife",
+    "natural": "Wife.",
+    "analysis": "Dative/prepositional sg. of жена (f. noun, 'wife'); -а becomes -е.",
+    "synonym": "супруге",
+    "antonym": "мужу",
+    "thumbnail": "null"
+  },
+  "штопором": {
+    "cyrillic": "штопором",
+    "literal": "corkscrew",
+    "natural": "Corkscrew.",
+    "analysis": "Instrumental sg. of штопор (m. noun, 'corkscrew'); 'with a corkscrew'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "неполный": {
+    "cyrillic": "неполный",
+    "literal": "incomplete",
+    "natural": "Incomplete; partial.",
+    "analysis": "Adjective, 'incomplete/not full' (m. sg.); negated form of полный.",
+    "synonym": "частичный",
+    "antonym": "полный"
+  },
+  "рынке": {
+    "cyrillic": "рынке",
+    "literal": "market",
+    "natural": "Market.",
+    "analysis": "Prepositional sg. of рынок (m. noun, 'market'); 'at the market', fleeting -о- drops.",
+    "synonym": "базаре",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "стаканов": {
+    "cyrillic": "стаканов",
+    "literal": "glasses",
+    "natural": "Glasses; tumblers.",
+    "analysis": "Genitive pl. of стакан (m. noun, 'drinking glass'); counted/quantity form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "красного": {
+    "cyrillic": "красного",
+    "literal": "red",
+    "natural": "Red.",
+    "analysis": "Genitive/accusative m.-n. sg. of красный (adj., 'red').",
+    "synonym": "алого",
+    "antonym": " "
+  },
+  "местные": {
+    "cyrillic": "местные",
+    "literal": "local",
+    "natural": "Local; locals.",
+    "analysis": "Nominative pl. of местный (adj., 'local'); from место.",
+    "synonym": "тутошние",
+    "antonym": "приезжие"
+  },
+  "праздничном": {
+    "cyrillic": "праздничном",
+    "literal": "festive",
+    "natural": "Festive; holiday.",
+    "analysis": "Prepositional m.-n. sg. of праздничный (adj., 'festive, holiday-'); from праздник.",
+    "synonym": "торжественном",
+    "antonym": "будничном"
+  },
+  "посадили": {
+    "cyrillic": "посадили",
+    "literal": "planted",
+    "natural": "Planted; seated.",
+    "analysis": "Past pl. of посадить (perf., 'to plant, to seat'); perfective of сажать/садить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дождю": {
+    "cyrillic": "дождю",
+    "literal": "rain",
+    "natural": "Rain.",
+    "analysis": "Dative sg. of дождь (m. noun, 'rain'); 'to/by the rain'.",
+    "synonym": "ливню",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "дыме": {
+    "cyrillic": "дыме",
+    "literal": "smoke",
+    "natural": "Smoke.",
+    "analysis": "Prepositional sg. of дым (m. noun, 'smoke'); 'in the smoke'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "горах": {
+    "cyrillic": "горах",
+    "literal": "mountains",
+    "natural": "Mountains.",
+    "analysis": "Prepositional pl. of гора (f. noun, 'mountain'); 'in the mountains'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ящерица": {
+    "cyrillic": "ящерица",
+    "literal": "lizard",
+    "natural": "Lizard.",
+    "analysis": "Nominative sg. of ящерица (f. noun, 'lizard').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "прилетели": {
+    "cyrillic": "прилетели",
+    "literal": "flew in",
+    "natural": "Flew in; arrived by air.",
+    "analysis": "Past pl. of прилететь (perf., 'to fly in, arrive flying'); perfective of прилетать.",
+    "synonym": " ",
+    "antonym": "улетели"
+  },
+  "кусте": {
+    "cyrillic": "кусте",
+    "literal": "bush",
+    "natural": "Bush; shrub.",
+    "analysis": "Prepositional sg. of куст (m. noun, 'bush'); 'in/on the bush'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "чайки": {
+    "cyrillic": "чайки",
+    "literal": "seagulls",
+    "natural": "Seagulls.",
+    "analysis": "Nominative pl. (or gen. sg.) of чайка (f. noun, 'seagull'); -а becomes -и.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "развели": {
+    "cyrillic": "развели",
+    "literal": "lit; bred",
+    "natural": "Lit; bred; diluted.",
+    "analysis": "Past pl. of развести (perf., 'to light a fire, breed, dilute'); perfective of разводить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "светятся": {
+    "cyrillic": "светятся",
+    "literal": "glow",
+    "natural": "They glow; shine.",
+    "analysis": "3pl present of светиться (impf., 'to glow, shine'); reflexive of светить.",
+    "synonym": "сияют",
+    "antonym": " "
+  },
+  "северную": {
+    "cyrillic": "северную",
+    "literal": "northern",
+    "natural": "Northern.",
+    "analysis": "Accusative f. sg. of северный (adj., 'northern'); from север.",
+    "synonym": " ",
+    "antonym": "южную"
+  },
+  "переплыли": {
+    "cyrillic": "переплыли",
+    "literal": "swam across",
+    "natural": "Swam across.",
+    "analysis": "Past pl. of переплыть (perf., 'to swim/sail across'); perfective of переплывать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "растаял": {
+    "cyrillic": "растаял",
+    "literal": "melted",
+    "natural": "Melted.",
+    "analysis": "Past m. sg. of растаять (perf., 'to melt, thaw'); perfective of таять.",
+    "synonym": " ",
+    "antonym": "замёрз"
+  },
+  "облаками": {
+    "cyrillic": "облаками",
+    "literal": "clouds",
+    "natural": "Clouds.",
+    "analysis": "Instrumental pl. of облако (n. noun, 'cloud'); 'with/by the clouds'.",
+    "synonym": "тучами",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "звёзд": {
+    "cyrillic": "звёзд",
+    "literal": "stars",
+    "natural": "Stars.",
+    "analysis": "Genitive pl. of звезда (f. noun, 'star'); counted/quantity form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "цветка": {
+    "cyrillic": "цветка",
+    "literal": "flower",
+    "natural": "Flower.",
+    "analysis": "Genitive sg. of цветок (m. noun, 'flower'); fleeting -о- drops.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "нежный": {
+    "cyrillic": "нежный",
+    "literal": "tender",
+    "natural": "Tender; gentle.",
+    "analysis": "Adjective, 'tender, gentle, delicate' (m. sg.).",
+    "synonym": "ласковый",
+    "antonym": "грубый"
+  },
+  "впусти": {
+    "cyrillic": "впусти",
+    "literal": "let in",
+    "natural": "Let in!",
+    "analysis": "2sg imperative of впустить (perf., 'to let in, admit'); perfective of впускать.",
+    "synonym": " ",
+    "antonym": "выпусти"
+  },
+  "богатая": {
+    "cyrillic": "богатая",
+    "literal": "rich",
+    "natural": "Rich; wealthy.",
+    "analysis": "Nominative f. sg. of богатый (adj., 'rich, wealthy').",
+    "synonym": "зажиточная",
+    "antonym": "бедная"
+  },
+  "написано": {
+    "cyrillic": "написано",
+    "literal": "written",
+    "natural": "Written; it is written.",
+    "analysis": "Short n. sg. past passive participle of написать (perf., 'to write').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "любовался": {
+    "cyrillic": "любовался",
+    "literal": "admired",
+    "natural": "Admired; gazed at.",
+    "analysis": "Past m. sg. of любоваться (impf., 'to admire, gaze with pleasure'); reflexive verb.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "лошадью": {
+    "cyrillic": "лошадью",
+    "literal": "horse",
+    "natural": "Horse.",
+    "analysis": "Instrumental sg. of лошадь (f. noun, 'horse'); soft-sign declension, 'with a horse'.",
+    "synonym": "конём",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "птице": {
+    "cyrillic": "птице",
+    "literal": "bird",
+    "natural": "Bird.",
+    "analysis": "Dative/prepositional sg. of птица (f. noun, 'bird'); -а becomes -е.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "прошло": {
+    "cyrillic": "прошло",
+    "literal": "passed",
+    "natural": "Passed; went by.",
+    "analysis": "Past n. sg. of пройти (perf., 'to pass, go by'); of time/events.",
+    "synonym": "миновало",
+    "antonym": " "
+  },
+  "вышло": {
+    "cyrillic": "вышло",
+    "literal": "came out",
+    "natural": "Came out; turned out.",
+    "analysis": "Past n. sg. of выйти (perf., 'to go out, come out, turn out'); perfective of выходить.",
+    "synonym": "получилось",
+    "antonym": " "
+  },
+  "накопим": {
+    "cyrillic": "накопим",
+    "literal": "we'll save up",
+    "natural": "We'll save up.",
+    "analysis": "1pl future of накопить (perf., 'to accumulate, save up'); perfective of копить.",
+    "synonym": " ",
+    "antonym": "растратим"
+  },
+  "месяцем": {
+    "cyrillic": "месяцем",
+    "literal": "month",
+    "natural": "Month.",
+    "analysis": "Instrumental sg. of месяц (m. noun, 'month'; also 'moon'); 'with/by a month'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "поговорили": {
+    "cyrillic": "поговорили",
+    "literal": "talked",
+    "natural": "Talked; had a chat.",
+    "analysis": "Past pl. of поговорить (perf., 'to talk a while'); delimitative perfective of говорить.",
+    "synonym": "побеседовали",
+    "antonym": " "
+  },
+  "теряй": {
+    "cyrillic": "теряй",
+    "literal": "lose",
+    "natural": "Lose!",
+    "analysis": "2sg imperative of терять (impf., 'to lose'); often negated as не теряй.",
+    "synonym": " ",
+    "antonym": "находи"
+  },
+  "решится": {
+    "cyrillic": "решится",
+    "literal": "will be decided",
+    "natural": "Will be resolved; will dare.",
+    "analysis": "3sg future of решиться (perf., 'to be decided; to dare'); reflexive of решить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "наслаждались": {
+    "cyrillic": "наслаждались",
+    "literal": "enjoyed",
+    "natural": "Enjoyed; savored.",
+    "analysis": "Past pl. of наслаждаться (impf., 'to enjoy, take delight in'); takes instrumental.",
+    "synonym": " ",
+    "antonym": "страдали"
+  },
+  "меняются": {
+    "cyrillic": "меняются",
+    "literal": "change",
+    "natural": "They change.",
+    "analysis": "3pl present of меняться (impf., 'to change, vary'); reflexive of менять.",
+    "synonym": "изменяются",
+    "antonym": " "
+  },
+  "возрастом": {
+    "cyrillic": "возрастом",
+    "literal": "age",
+    "natural": "Age.",
+    "analysis": "Instrumental sg. of возраст (m. noun, 'age'); 'with/by age'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "корабле": {
+    "cyrillic": "корабле",
+    "literal": "ship",
+    "natural": "Ship.",
+    "analysis": "Prepositional sg. of корабль (m. noun, 'ship'); 'on the ship'.",
+    "synonym": "судне",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "поездов": {
+    "cyrillic": "поездов",
+    "literal": "trains",
+    "natural": "Trains.",
+    "analysis": "Genitive pl. of поезд (m. noun, 'train'); counted/quantity form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "банка": {
+    "cyrillic": "банка",
+    "literal": "jar; bank",
+    "natural": "Jar; bank.",
+    "analysis": "Nominative sg. of банка (f. noun, 'jar, can'); or gen. sg. of банк (m., 'bank').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ума": {
+    "cyrillic": "ума",
+    "literal": "mind",
+    "natural": "Mind; wit.",
+    "analysis": "Genitive sg. of ум (m. noun, 'mind, intellect, wit').",
+    "synonym": "разума",
+    "antonym": " "
+  },
+  "деньгах": {
+    "cyrillic": "деньгах",
+    "literal": "money",
+    "natural": "Money.",
+    "analysis": "Prepositional pl. of деньги (pl. noun, 'money'); 'about/in money'.",
+    "synonym": "средствах",
+    "antonym": " "
+  },
+  "десятку": {
+    "cyrillic": "десятку",
+    "literal": "ten",
+    "natural": "Ten; a tenner.",
+    "analysis": "Accusative/dative sg. of десятка (f. noun, 'a ten, ten-unit note').",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "километров": {
+    "cyrillic": "километров",
+    "literal": "kilometers",
+    "natural": "Kilometers.",
+    "analysis": "Genitive pl. of километр (m. noun, 'kilometer'); counted/quantity form.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ткани": {
+    "cyrillic": "ткани",
+    "literal": "fabric",
+    "natural": "Fabric; tissue.",
+    "analysis": "Genitive/dative/prepositional sg. (or nom. pl.) of ткань (f. noun, 'fabric, tissue').",
+    "synonym": "материи",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "кассу": {
+    "cyrillic": "кассу",
+    "literal": "cash desk",
+    "natural": "Cash desk; box office.",
+    "analysis": "Accusative sg. of касса (f. noun, 'cash register, box office'); -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "приказе": {
+    "cyrillic": "приказе",
+    "literal": "order",
+    "natural": "Order; command.",
+    "analysis": "Prepositional sg. of приказ (m. noun, 'order, command'); 'in the order'.",
+    "synonym": "распоряжении",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "слабом": {
+    "cyrillic": "слабом",
+    "literal": "weak",
+    "natural": "Weak; faint.",
+    "analysis": "Prepositional m.-n. sg. of слабый (adj., 'weak, faint').",
+    "synonym": " ",
+    "antonym": "сильном"
+  },
+  "наличным": {
+    "cyrillic": "наличным",
+    "literal": "cash",
+    "natural": "Cash; on hand.",
+    "analysis": "Instrumental m.-n. sg. (or dat. pl.) of наличный (adj., 'cash, available on hand').",
+    "synonym": " ",
+    "antonym": "безналичным"
+  },
+  "силой": {
+    "cyrillic": "силой",
+    "literal": "force",
+    "natural": "Force; strength.",
+    "analysis": "Instrumental sg. of сила (f. noun, 'strength, force'); 'with/by force'.",
+    "synonym": "мощью",
+    "antonym": "слабостью",
+    "thumbnail": "null"
+  },
+  "службой": {
+    "cyrillic": "службой",
+    "literal": "service",
+    "natural": "Service; duty.",
+    "analysis": "Instrumental sg. of служба (f. noun, 'service, duty'); 'with/by service'.",
+    "synonym": "работой",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "создан": {
+    "cyrillic": "создан",
+    "literal": "created",
+    "natural": "Created; made.",
+    "analysis": "Short m. sg. past passive participle of создать (perf., 'to create, make').",
+    "synonym": " ",
+    "antonym": "разрушен"
+  },
+  "сравнивают": {
+    "cyrillic": "сравнивают",
+    "literal": "compare",
+    "natural": "They compare.",
+    "analysis": "3pl present of сравнивать (impf., 'to compare'); imperfective of сравнить.",
+    "synonym": "сопоставляют",
+    "antonym": " "
+  },
+  "дедом": {
+    "cyrillic": "дедом",
+    "literal": "grandfather",
+    "natural": "Grandfather.",
+    "analysis": "Instrumental sg. of дед (m. noun, 'grandfather'); used with prepositions like с or as agent/means.",
+    "synonym": " ",
+    "antonym": "бабушкой",
+    "thumbnail": "null"
+  },
+  "дяде": {
+    "cyrillic": "дяде",
+    "literal": "uncle",
+    "natural": "Uncle.",
+    "analysis": "Dative/prepositional sg. of дядя (m. noun, 'uncle'); soft-stem masculine declining like a feminine noun.",
+    "synonym": " ",
+    "antonym": "тёте",
+    "thumbnail": "null"
+  },
+  "мужу": {
+    "cyrillic": "мужу",
+    "literal": "husband",
+    "natural": "Husband.",
+    "analysis": "Dative sg. of муж (m. noun, 'husband'); indirect-object form, e.g. recipient of an action.",
+    "synonym": "супругу",
+    "antonym": "жене",
+    "thumbnail": "null"
+  },
+  "папы": {
+    "cyrillic": "папы",
+    "literal": "dad's",
+    "natural": "Dad's.",
+    "analysis": "Genitive sg. of папа (m. noun, 'dad'); possession/absence form, also nominative pl. 'dads'.",
+    "synonym": "отца",
+    "antonym": "мамы",
+    "thumbnail": "null"
+  },
+  "рода": {
+    "cyrillic": "рода",
+    "literal": "kind; clan",
+    "natural": "Kind; clan.",
+    "analysis": "Genitive sg. of род (m. noun, 'kind/genus/clan'); also grammatical gender. Possession/quantity form.",
+    "synonym": "вида",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "родителя": {
+    "cyrillic": "родителя",
+    "literal": "parent",
+    "natural": "Parent.",
+    "analysis": "Genitive/accusative sg. of родитель (m. noun, 'parent'); animate, so acc. matches gen.",
+    "synonym": " ",
+    "antonym": "ребёнка",
+    "thumbnail": "null"
+  },
+  "сыну": {
+    "cyrillic": "сыну",
+    "literal": "son",
+    "natural": "Son.",
+    "analysis": "Dative sg. of сын (m. noun, 'son'); indirect-object form indicating recipient.",
+    "synonym": " ",
+    "antonym": "дочери",
+    "thumbnail": "null"
+  },
+  "женой": {
+    "cyrillic": "женой",
+    "literal": "wife",
+    "natural": "Wife.",
+    "analysis": "Instrumental sg. of жена (f. noun, 'wife'); used with с or as means/agent.",
+    "synonym": "супругой",
+    "antonym": "мужем",
+    "thumbnail": "null"
+  },
+  "бутылкой": {
+    "cyrillic": "бутылкой",
+    "literal": "bottle",
+    "natural": "Bottle.",
+    "analysis": "Instrumental sg. of бутылка (f. noun, 'bottle'); used with с or as instrument.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "добавил": {
+    "cyrillic": "добавил",
+    "literal": "added",
+    "natural": "Added.",
+    "analysis": "Past m. sg. of добавить (perf., 'to add'); perfective signaling a completed addition.",
+    "synonym": "прибавил",
+    "antonym": "убрал",
+    "thumbnail": "null"
+  },
+  "озере": {
+    "cyrillic": "озере",
+    "literal": "lake",
+    "natural": "Lake.",
+    "analysis": "Prepositional sg. of озеро (n. noun, 'lake'); location form, e.g. на озере.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "помыл": {
+    "cyrillic": "помыл",
+    "literal": "washed",
+    "natural": "Washed.",
+    "analysis": "Past m. sg. of помыть (perf., 'to wash'); perfective of мыть, signaling a completed wash.",
+    "synonym": "вымыл",
+    "antonym": "испачкал",
+    "thumbnail": "null"
+  },
+  "бокал": {
+    "cyrillic": "бокал",
+    "literal": "wine glass",
+    "natural": "Wine glass.",
+    "analysis": "Nominative/accusative sg. of бокал (m. noun, 'wineglass/goblet'); inanimate, so acc. matches nom.",
+    "synonym": "стакан",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "воде": {
+    "cyrillic": "воде",
+    "literal": "water",
+    "natural": "Water.",
+    "analysis": "Dative/prepositional sg. of вода (f. noun, 'water'); location form, e.g. в воде.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "лодка": {
+    "cyrillic": "лодка",
+    "literal": "boat",
+    "natural": "Boat.",
+    "analysis": "Nominative sg. of лодка (f. noun, 'boat/small craft'); subject form.",
+    "synonym": "судно",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "подлетела": {
+    "cyrillic": "подлетела",
+    "literal": "flew up",
+    "natural": "Flew up.",
+    "analysis": "Past f. sg. of подлететь (perf., 'to fly up to/approach by air'); perfective with directional prefix под-.",
+    "synonym": " ",
+    "antonym": "улетела",
+    "thumbnail": "null"
+  },
+  "дожде": {
+    "cyrillic": "дожде",
+    "literal": "rain",
+    "natural": "Rain.",
+    "analysis": "Prepositional sg. of дождь (m. noun, 'rain'); location/topic form, e.g. о дожде, в дожде.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "скрылся": {
+    "cyrillic": "скрылся",
+    "literal": "disappeared",
+    "natural": "Disappeared; hid.",
+    "analysis": "Past m. sg. of скрыться (perf., 'to vanish/hide oneself'); reflexive perfective with -ся.",
+    "synonym": "исчез",
+    "antonym": "появился",
+    "thumbnail": "null"
+  },
+  "виднеются": {
+    "cyrillic": "виднеются",
+    "literal": "are visible",
+    "natural": "Are visible.",
+    "analysis": "3pl present of виднеться (impf., 'to be visible/show'); reflexive verb describing what can be seen.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "камни": {
+    "cyrillic": "камни",
+    "literal": "stones",
+    "natural": "Stones.",
+    "analysis": "Nominative/accusative pl. of камень (m. noun, 'stone'); inanimate plural.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "краёв": {
+    "cyrillic": "краёв",
+    "literal": "edges; regions",
+    "natural": "Edges; regions.",
+    "analysis": "Genitive pl. of край (m. noun, 'edge/region'); quantity/absence form, keeps ё.",
+    "synonym": "областей",
+    "antonym": "центров",
+    "thumbnail": "null"
+  },
+  "созрели": {
+    "cyrillic": "созрели",
+    "literal": "ripened",
+    "natural": "Ripened.",
+    "analysis": "Past pl. of созреть (perf., 'to ripen/mature'); perfective signaling completed ripening.",
+    "synonym": "поспели",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "неба": {
+    "cyrillic": "неба",
+    "literal": "sky",
+    "natural": "Sky.",
+    "analysis": "Genitive sg. of небо (n. noun, 'sky/heaven'); possession/absence form.",
+    "synonym": " ",
+    "antonym": "земли",
+    "thumbnail": "null"
+  },
+  "огня": {
+    "cyrillic": "огня",
+    "literal": "fire",
+    "natural": "Fire.",
+    "analysis": "Genitive sg. of огонь (m. noun, 'fire'); possession/absence form, e.g. без огня.",
+    "synonym": "пламени",
+    "antonym": "воды",
+    "thumbnail": "null"
+  },
+  "подходи": {
+    "cyrillic": "подходи",
+    "literal": "come closer",
+    "natural": "Come closer.",
+    "analysis": "Imperative sg. of подходить (impf., 'to approach'); command to draw near.",
+    "synonym": "приближайся",
+    "antonym": "отходи",
+    "thumbnail": " "
+  },
+  "природу": {
+    "cyrillic": "природу",
+    "literal": "nature",
+    "natural": "Nature.",
+    "analysis": "Accusative sg. of природа (f. noun, 'nature'); direct-object form, ending -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "широкую": {
+    "cyrillic": "широкую",
+    "literal": "wide",
+    "natural": "Wide.",
+    "analysis": "Accusative f. sg. of широкий (adj., 'wide/broad'); agrees with a feminine direct object.",
+    "synonym": "просторную",
+    "antonym": "узкую",
+    "thumbnail": " "
+  },
+  "дорогах": {
+    "cyrillic": "дорогах",
+    "literal": "roads",
+    "natural": "Roads.",
+    "analysis": "Prepositional pl. of дорога (f. noun, 'road'); location form, e.g. на дорогах.",
+    "synonym": "путях",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "подвале": {
+    "cyrillic": "подвале",
+    "literal": "basement",
+    "natural": "Basement.",
+    "analysis": "Prepositional sg. of подвал (m. noun, 'basement/cellar'); location form, e.g. в подвале.",
+    "synonym": "погребе",
+    "antonym": "чердаке",
+    "thumbnail": "null"
+  },
+  "зелёной": {
+    "cyrillic": "зелёной",
+    "literal": "green",
+    "natural": "Green.",
+    "analysis": "Genitive/dative/instr./prep. f. sg. of зелёный (adj., 'green'); agrees with a feminine noun, keeps ё.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "цветку": {
+    "cyrillic": "цветку",
+    "literal": "flower",
+    "natural": "Flower.",
+    "analysis": "Dative sg. of цветок (m. noun, 'flower'); indirect-object form, fleeting vowel о drops.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "ветра": {
+    "cyrillic": "ветра",
+    "literal": "wind",
+    "natural": "Wind.",
+    "analysis": "Genitive sg. of ветер (m. noun, 'wind'); possession/absence form, fleeting vowel е drops.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "загрязнённого": {
+    "cyrillic": "загрязнённого",
+    "literal": "polluted",
+    "natural": "Polluted.",
+    "analysis": "Genitive/accusative m. sg. of загрязнённый (adj./past pass. part., 'polluted'); from загрязнить, keeps ё.",
+    "synonym": "грязного",
+    "antonym": "чистого",
+    "thumbnail": " "
+  },
+  "семена": {
+    "cyrillic": "семена",
+    "literal": "seeds",
+    "natural": "Seeds.",
+    "analysis": "Nominative/accusative pl. of семя (n. noun, 'seed'); irregular plural with -ен- infix.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "стихов": {
+    "cyrillic": "стихов",
+    "literal": "poems; verses",
+    "natural": "Poems; verses.",
+    "analysis": "Genitive pl. of стих (m. noun, 'verse/poem'); quantity/absence form.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "яркой": {
+    "cyrillic": "яркой",
+    "literal": "bright",
+    "natural": "Bright.",
+    "analysis": "Genitive/dative/instr./prep. f. sg. of яркий (adj., 'bright/vivid'); agrees with a feminine noun.",
+    "synonym": " ",
+    "antonym": "тусклой",
+    "thumbnail": " "
+  },
+  "пасутся": {
+    "cyrillic": "пасутся",
+    "literal": "graze",
+    "natural": "Graze.",
+    "analysis": "3pl present of пастись (impf., 'to graze'); reflexive verb describing grazing animals.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "следил": {
+    "cyrillic": "следил",
+    "literal": "watched; tracked",
+    "natural": "Watched; tracked.",
+    "analysis": "Past m. sg. of следить (impf., 'to watch/track/follow'); ongoing observation, governs за + instr.",
+    "synonym": "наблюдал",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "часу": {
+    "cyrillic": "часу",
+    "literal": "hour; o'clock",
+    "natural": "Hour; o'clock.",
+    "analysis": "Locative/dative sg. of час (m. noun, 'hour'); used after в for time, e.g. в первом часу.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "нетерпением": {
+    "cyrillic": "нетерпением",
+    "literal": "impatience",
+    "natural": "Impatience.",
+    "analysis": "Instrumental sg. of нетерпение (n. noun, 'impatience'); used in с нетерпением, 'eagerly'.",
+    "synonym": " ",
+    "antonym": "терпением",
+    "thumbnail": " "
+  },
+  "лете": {
+    "cyrillic": "лете",
+    "literal": "summer",
+    "natural": "Summer.",
+    "analysis": "Prepositional sg. of лето (n. noun, 'summer'); time form, e.g. летом vs. о лете.",
+    "synonym": " ",
+    "antonym": "зиме",
+    "thumbnail": "null"
+  },
+  "праздников": {
+    "cyrillic": "праздников",
+    "literal": "holidays",
+    "natural": "Holidays.",
+    "analysis": "Genitive pl. of праздник (m. noun, 'holiday/celebration'); quantity/absence form.",
+    "synonym": " ",
+    "antonym": "будней",
+    "thumbnail": " "
+  },
+  "тишине": {
+    "cyrillic": "тишине",
+    "literal": "silence",
+    "natural": "Silence.",
+    "analysis": "Dative/prepositional sg. of тишина (f. noun, 'silence/quiet'); location form, e.g. в тишине.",
+    "synonym": "молчании",
+    "antonym": "шуме",
+    "thumbnail": " "
+  },
+  "секунды": {
+    "cyrillic": "секунды",
+    "literal": "seconds",
+    "natural": "Seconds.",
+    "analysis": "Genitive sg. or nom./acc. pl. of секунда (f. noun, 'second'); time unit, also used after numerals.",
+    "synonym": "мгновения",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "целыми": {
+    "cyrillic": "целыми",
+    "literal": "whole; entire",
+    "natural": "Whole; entire.",
+    "analysis": "Instrumental pl. of целый (adj., 'whole/entire'); e.g. целыми днями, 'for days on end'.",
+    "synonym": "всеми",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "вечере": {
+    "cyrillic": "вечере",
+    "literal": "evening",
+    "natural": "Evening.",
+    "analysis": "Prepositional sg. of вечер (m. noun, 'evening'); time form, e.g. о вечере, на вечере.",
+    "synonym": " ",
+    "antonym": "утре",
+    "thumbnail": "null"
+  },
+  "веком": {
+    "cyrillic": "веком",
+    "literal": "century; age",
+    "natural": "Century; age.",
+    "analysis": "Instrumental sg. of век (m. noun, 'century/age'); used with с or as means.",
+    "synonym": "столетием",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "возрастов": {
+    "cyrillic": "возрастов",
+    "literal": "ages",
+    "natural": "Ages.",
+    "analysis": "Genitive pl. of возраст (m. noun, 'age'); quantity/absence form, e.g. разных возрастов.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "доберёмся": {
+    "cyrillic": "доберёмся",
+    "literal": "we'll get there",
+    "natural": "We'll get there.",
+    "analysis": "1pl future of добраться (perf., 'to reach/make it'); reflexive perfective, keeps ё.",
+    "synonym": "доедем",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "прилёта": {
+    "cyrillic": "прилёта",
+    "literal": "arrival",
+    "natural": "Arrival.",
+    "analysis": "Genitive sg. of прилёт (m. noun, 'arrival by air'); possession/absence form, keeps ё.",
+    "synonym": "прибытия",
+    "antonym": "вылета",
+    "thumbnail": " "
+  },
+  "банку": {
+    "cyrillic": "банку",
+    "literal": "jar; can",
+    "natural": "Jar; can.",
+    "analysis": "Accusative sg. of банка (f. noun, 'jar/can'); direct-object form, ending -а becomes -у.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "делу": {
+    "cyrillic": "делу",
+    "literal": "matter; affair",
+    "natural": "Matter; affair.",
+    "analysis": "Dative sg. of дело (n. noun, 'matter/affair/business'); indirect-object form, e.g. по делу.",
+    "synonym": "вопросу",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "потратил": {
+    "cyrillic": "потратил",
+    "literal": "spent",
+    "natural": "Spent.",
+    "analysis": "Past m. sg. of потратить (perf., 'to spend/expend'); perfective of тратить, signaling a completed outlay.",
+    "synonym": "израсходовал",
+    "antonym": "сэкономил",
+    "thumbnail": " "
+  },
+  "продают": {
+    "cyrillic": "продают",
+    "literal": "sell",
+    "natural": "Sell.",
+    "analysis": "3pl present of продавать (impf., 'to sell'); ongoing/habitual selling.",
+    "synonym": "торгуют",
+    "antonym": "покупают",
+    "thumbnail": " "
+  },
+  "километры": {
+    "cyrillic": "километры",
+    "literal": "kilometers",
+    "natural": "Kilometers.",
+    "analysis": "Nominative/accusative pl. of километр (m. noun, 'kilometer'); distance unit.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "метра": {
+    "cyrillic": "метра",
+    "literal": "meter",
+    "natural": "Meter.",
+    "analysis": "Genitive sg. of метр (m. noun, 'meter'); length unit, also after numerals 2-4.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "подойдите": {
+    "cyrillic": "подойдите",
+    "literal": "come closer",
+    "natural": "Come closer.",
+    "analysis": "Imperative pl./polite of подойти (perf., 'to approach'); command to draw near.",
+    "synonym": "приблизьтесь",
+    "antonym": "отойдите",
+    "thumbnail": " "
+  },
+  "действуем": {
+    "cyrillic": "действуем",
+    "literal": "we act",
+    "natural": "We act.",
+    "analysis": "1pl present of действовать (impf., 'to act/operate'); ongoing action.",
+    "synonym": "поступаем",
+    "antonym": "бездействуем",
+    "thumbnail": " "
+  },
+  "рубле": {
+    "cyrillic": "рубле",
+    "literal": "ruble",
+    "natural": "Ruble.",
+    "analysis": "Prepositional sg. of рубль (m. noun, 'ruble'); currency unit, e.g. о рубле.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "счётом": {
+    "cyrillic": "счётом",
+    "literal": "score; account",
+    "natural": "Score; account.",
+    "analysis": "Instrumental sg. of счёт (m. noun, 'score/bill/account'); used with со or as means, keeps ё.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "духа": {
+    "cyrillic": "духа",
+    "literal": "spirit",
+    "natural": "Spirit.",
+    "analysis": "Genitive sg. of дух (m. noun, 'spirit/breath/ghost'); possession/absence form.",
+    "synonym": "души",
+    "antonym": "тела",
+    "thumbnail": " "
+  },
+  "круглосуточно": {
+    "cyrillic": "круглосуточно",
+    "literal": "around the clock",
+    "natural": "Around the clock.",
+    "analysis": "Adverb of time, from круглосуточный; '24 hours a day, nonstop'.",
+    "synonym": "постоянно",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "общим": {
+    "cyrillic": "общим",
+    "literal": "common; general",
+    "natural": "Common; general.",
+    "analysis": "Instrumental m./n. sg. or dative pl. of общий (adj., 'common/general/shared'); agrees with its noun.",
+    "synonym": "совместным",
+    "antonym": "частным",
+    "thumbnail": " "
+  },
+  "магазинов": {
+    "cyrillic": "магазинов",
+    "literal": "stores; shops",
+    "natural": "Stores; shops.",
+    "analysis": "Genitive pl. of магазин (m. noun, 'store/shop'); quantity/absence form.",
+    "synonym": "лавок",
+    "antonym": " ",
+    "thumbnail": " "
+  },
+  "кукла": {
+    "cyrillic": "кукла",
+    "literal": "doll",
+    "natural": "Doll.",
+    "analysis": "Nominative sg. of кукла (f. noun, 'doll'); also denotes a puppet or marionette.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "обе": {
+    "cyrillic": "обе",
+    "literal": "both",
+    "natural": "Both.",
+    "analysis": "Numeral/quantifier 'both' (f. form) of оба/обе; agrees with two feminine nouns; m./n. is оба.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "взрослые": {
+    "cyrillic": "взрослые",
+    "literal": "adults",
+    "natural": "Adults; grown-ups.",
+    "analysis": "Nominative pl. of взрослый (adj./noun, 'adult'); substantivized adjective denoting grown people.",
+    "synonym": " ",
+    "antonym": "дети"
+  },
+  "вблизи": {
+    "cyrillic": "вблизи",
+    "literal": "nearby",
+    "natural": "Nearby; close by.",
+    "analysis": "Adverb/preposition 'nearby, close', from близкий; with genitive means 'near (something)'.",
+    "synonym": "близко",
+    "antonym": "вдали"
+  },
+  "летает": {
+    "cyrillic": "летает",
+    "literal": "flies",
+    "natural": "Flies.",
+    "analysis": "3sg present of летать (impf., 'to fly'); indeterminate motion verb (repeated/multidirectional flight).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "поднимаются": {
+    "cyrillic": "поднимаются",
+    "literal": "rise",
+    "natural": "They rise; go up.",
+    "analysis": "3pl present of подниматься (impf., reflexive, 'to rise/climb'); perfective is подняться.",
+    "synonym": " ",
+    "antonym": "опускаются"
+  },
+  "таких": {
+    "cyrillic": "таких",
+    "literal": "such",
+    "natural": "Such; of such.",
+    "analysis": "Genitive/prepositional/accusative pl. of такой (demonstrative adj., 'such, this kind of').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "долгую": {
+    "cyrillic": "долгую",
+    "literal": "long",
+    "natural": "Long.",
+    "analysis": "Accusative f. sg. of долгий (adj., 'long' in duration); contrasts with длинный (long in extent).",
+    "synonym": "длительную",
+    "antonym": "короткую"
+  },
+  "катаемся": {
+    "cyrillic": "катаемся",
+    "literal": "we ride",
+    "natural": "We ride; go for a ride.",
+    "analysis": "1pl present of кататься (impf., reflexive, 'to ride/go for a ride'); used for skiing, skating, cycling.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "лыжах": {
+    "cyrillic": "лыжах",
+    "literal": "skis",
+    "natural": "Skis.",
+    "analysis": "Prepositional pl. of лыжа (f. noun, 'ski'); на лыжах = 'on skis, skiing'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "прошедших": {
+    "cyrillic": "прошедших",
+    "literal": "past",
+    "natural": "Past; elapsed.",
+    "analysis": "Genitive/prepositional pl. of прошедший (past active participle of пройти, 'past, bygone').",
+    "synonym": "прошлых",
+    "antonym": "будущих"
+  },
+  "тяжёлыми": {
+    "cyrillic": "тяжёлыми",
+    "literal": "heavy",
+    "natural": "Heavy.",
+    "analysis": "Instrumental pl. of тяжёлый (adj., 'heavy, hard'); also figuratively 'difficult, severe'.",
+    "synonym": " ",
+    "antonym": "лёгкими"
+  },
+  "температура": {
+    "cyrillic": "температура",
+    "literal": "temperature",
+    "natural": "Temperature.",
+    "analysis": "Nominative sg. of температура (f. noun, 'temperature'); also colloquially 'fever'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "упала": {
+    "cyrillic": "упала",
+    "literal": "fell",
+    "natural": "Fell.",
+    "analysis": "Past f. sg. of упасть (perf., 'to fall'); perfective of падать, signaling a completed fall/drop.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "одни": {
+    "cyrillic": "одни",
+    "literal": "alone",
+    "natural": "Alone; only.",
+    "analysis": "Nominative pl. of один ('one'); plural sense 'alone, on their own' or 'some, certain ones'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "охранник": {
+    "cyrillic": "охранник",
+    "literal": "guard",
+    "natural": "Guard; security guard.",
+    "analysis": "Nominative sg. of охранник (m. noun, 'guard'), from охранять ('to guard'); female form охранница.",
+    "synonym": "сторож",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "администратор": {
+    "cyrillic": "администратор",
+    "literal": "administrator",
+    "natural": "Administrator; manager.",
+    "analysis": "Nominative sg. of администратор (m. noun, 'administrator, manager'); also a receptionist or desk clerk.",
+    "synonym": "управляющий",
+    "antonym": " "
+  },
+  "стояло": {
+    "cyrillic": "стояло",
+    "literal": "stood",
+    "natural": "Stood; was standing.",
+    "analysis": "Past n. sg. of стоять (impf., 'to stand'); denotes a thing positioned/located somewhere.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "магазинах": {
+    "cyrillic": "магазинах",
+    "literal": "stores",
+    "natural": "Stores; shops.",
+    "analysis": "Prepositional pl. of магазин (m. noun, 'store, shop'); в магазинах = 'in the stores'.",
+    "synonym": " ",
+    "antonym": " ",
+    "thumbnail": "null"
+  },
+  "очередей": {
+    "cyrillic": "очередей",
+    "literal": "queues",
+    "natural": "Queues; lines.",
+    "analysis": "Genitive pl. of очередь (f. noun, 'queue, line, turn'); also means one's 'turn'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "двигается": {
+    "cyrillic": "двигается",
+    "literal": "moves",
+    "natural": "Moves; is moving.",
+    "analysis": "3sg present of двигаться (impf., reflexive, 'to move'); perfective двинуться.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "уважают": {
+    "cyrillic": "уважают",
+    "literal": "respect",
+    "natural": "They respect.",
+    "analysis": "3pl present of уважать (impf., 'to respect, esteem'); takes accusative object.",
+    "synonym": "ценят",
+    "antonym": "презирают"
+  },
+  "ценим": {
+    "cyrillic": "ценим",
+    "literal": "we value",
+    "natural": "We value; appreciate.",
+    "analysis": "1pl present of ценить (impf., 'to value, prize, appreciate'); takes accusative object.",
+    "synonym": "уважаем",
+    "antonym": " "
+  },
+  "успеха": {
+    "cyrillic": "успеха",
+    "literal": "success",
+    "natural": "Success.",
+    "analysis": "Genitive sg. of успех (m. noun, 'success'); желаю успеха = 'I wish you success'.",
+    "synonym": " ",
+    "antonym": "неудачи"
+  },
+  "тяжёлым": {
+    "cyrillic": "тяжёлым",
+    "literal": "heavy",
+    "natural": "Heavy.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of тяжёлый (adj., 'heavy, hard, difficult').",
+    "synonym": " ",
+    "antonym": "лёгким"
+  },
+  "раскрывается": {
+    "cyrillic": "раскрывается",
+    "literal": "opens up",
+    "natural": "Opens up; unfolds.",
+    "analysis": "3sg present of раскрываться (impf., reflexive, 'to open up, unfold, be revealed'); perfective раскрыться.",
+    "synonym": "открывается",
+    "antonym": "закрывается"
+  },
+  "изучают": {
+    "cyrillic": "изучают",
+    "literal": "study",
+    "natural": "They study.",
+    "analysis": "3pl present of изучать (impf., 'to study, learn in depth'); takes accusative object.",
+    "synonym": "учат",
+    "antonym": " "
+  },
+  "виды": {
+    "cyrillic": "виды",
+    "literal": "kinds; views",
+    "natural": "Kinds; types; views.",
+    "analysis": "Nominative/accusative pl. of вид (m. noun, 'kind, type, species; view, sight').",
+    "synonym": "типы",
+    "antonym": " "
+  },
+  "интереснее": {
+    "cyrillic": "интереснее",
+    "literal": "more interesting",
+    "natural": "More interesting.",
+    "analysis": "Comparative of интересный (adj., 'interesting') / интересно (adv.); 'more interesting(ly)'.",
+    "synonym": " ",
+    "antonym": "скучнее"
+  },
+  "привыкли": {
+    "cyrillic": "привыкли",
+    "literal": "got used to",
+    "natural": "Got used to; are accustomed.",
+    "analysis": "Past pl. of привыкнуть (perf., 'to get used to'); perfective of привыкать, takes к + dative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ежедневному": {
+    "cyrillic": "ежедневному",
+    "literal": "daily",
+    "natural": "Daily; everyday.",
+    "analysis": "Dative m./n. sg. of ежедневный (adj., 'daily, everyday'), from день ('day').",
+    "synonym": " ",
+    "antonym": " "
   }
 }

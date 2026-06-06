@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-DESYATOK",
+    "label": "Десяток",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for десяток (ten; dozen).",
+    "missions": [
+      {
+        "id": "NN-WORK-DESYATOK-01",
+        "phrase": "Целый десяток яиц лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Десяток' is the masculine nominative subject. 'Яиц' is the genitive plural after the quantity word, and 'на столе' is the prepositional place."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-02",
+        "phrase": "Я купил десяток яблок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Десяток' is the accusative direct object of 'купил'; as an inanimate masculine noun its accusative matches the nominative. 'Яблок' is the genitive plural counted."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-03",
+        "phrase": "У меня нет целого десятка.",
+        "fullAnalysis": "Strategic focus: Genitive in negation. 'Десятка' is the genitive form required after 'нет'. 'Целого' agrees in the masculine genitive, a tidy negative-existence pattern."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-04",
+        "phrase": "Цена за десяток выросла.",
+        "fullAnalysis": "Strategic focus: Accusative with 'за'. 'Десяток' is accusative after 'за', expressing the price per ten. A common market and pricing structure."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-05",
+        "phrase": "Он торгует яйцами десятками.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of manner. 'Десятками' is the instrumental plural meaning by the dozen. 'Яйцами' is also instrumental as the goods, a vivid trading phrase."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-06",
+        "phrase": "В десятке всего десять штук.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'в'. 'Десятке' is the prepositional form after 'в', meaning inside a ten-pack. 'Десять штук' uses the genitive plural after the numeral."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-07",
+        "phrase": "Я отдал десятку другу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Десятку' is the dative indirect object, the recipient gets a ten-pack. 'Другу' is also dative, an everyday give-something line."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-08",
+        "phrase": "На рынке продают два десятка яиц.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'десятка'. 'Яиц' is the genitive plural counted, a realistic market figure."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-09",
+        "phrase": "Прошли долгие десятки лет.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Десятки' is the nominative plural, the subject of 'прошли'. 'Долгие' agrees in the plural, and 'лет' is the genitive plural for years."
+      },
+      {
+        "id": "NN-WORK-DESYATOK-10",
+        "phrase": "В зале сидели десятки людей.",
+        "fullAnalysis": "Strategic focus: Nominative plural as quantity. 'Десятки' is the nominative plural meaning dozens of people. 'Людей' is the genitive plural counted, and 'в зале' is the prepositional place."
+      }
+    ]
+  }
+]

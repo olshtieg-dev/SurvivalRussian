@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-BABUSHKA",
+    "label": "Бабушка",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for бабушка (grandmother).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-BABUSHKA-01",
+        "phrase": "Моя бабушка живёт в деревне.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бабушка' stays in the nominative as the subject of 'живёт'. 'Моя' is the agreeing feminine possessive, and 'в деревне' shows the location."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-02",
+        "phrase": "Я часто навещаю свою бабушку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бабушку' is the accusative direct object of 'навещаю'. 'Свою' agrees in the feminine accusative, and 'часто' shows frequency."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-03",
+        "phrase": "У бабушки большой красивый сад.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'У бабушки' uses the genitive form after 'у' to show whose garden it is. The adjectives 'большой' and 'красивый' describe the сад."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-04",
+        "phrase": "Я пишу бабушке длинное письмо.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Бабушке' is in the dative case as the recipient of the letter after 'пишу'. 'Длинное' agrees with the accusative object 'письмо'."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-05",
+        "phrase": "Я пью чай с бабушкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Бабушкой' is the instrumental form after 'с', expressing accompaniment. A cosy everyday scene."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-06",
+        "phrase": "Мы вспоминали о бабушке вечером.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О бабушке' uses the prepositional form after 'о' to express the topic. 'Вечером' sets the time."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-07",
+        "phrase": "Бабушка печёт очень вкусные пироги.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бабушка' is nominative as the subject of 'печёт'. 'Вкусные пироги' is the accusative plural object, intensified by 'очень'."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-08",
+        "phrase": "В парке сидели две бабушки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'две', the noun takes the form 'бабушки', the genitive singular used with two. 'В парке' sets the location."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-09",
+        "phrase": "Я подарил бабушке тёплый платок.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Бабушке' is the dative recipient of the gift after 'подарил'. 'Тёплый платок' is the accusative object."
+      },
+      {
+        "id": "NN-FAMILY-BABUSHKA-10",
+        "phrase": "Наши бабушки любят гулять вместе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Бабушки' is the nominative plural as the subject of 'любят'. 'Наши' agrees in the plural, and 'вместе' adds togetherness."
+      }
+    ]
+  }
+]

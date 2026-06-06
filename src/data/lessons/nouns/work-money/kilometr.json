@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-KILOMETR",
+    "label": "Километр",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for километр (kilometer).",
+    "missions": [
+      {
+        "id": "NN-WORK-KILOMETR-01",
+        "phrase": "Впереди последний километр.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Километр' stays in the nominative case as the subject of the clause. 'Последний' is the agreeing masculine adjective, and 'впереди' sets the position."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-02",
+        "phrase": "Я пробежал один километр.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine noun, 'километр' is identical in the accusative, here the object of 'пробежал'. 'Один' agrees in the masculine."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-03",
+        "phrase": "До города ещё нет километра.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет', the noun becomes genitive 'километра'. 'До города' uses the genitive after 'до', marking the distance."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-04",
+        "phrase": "К каждому километру я устаю сильнее.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Километру' is the dative after 'к', here marking progression. 'Каждому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-05",
+        "phrase": "С каждым километром дорога труднее.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Километром' is the instrumental after 'с' in the idiom meaning with every kilometre. 'Каждым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-06",
+        "phrase": "Мы говорим о первом километре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О километре' uses the prepositional after 'о' to mark the topic. 'Первом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-07",
+        "phrase": "До финиша три километра.",
+        "fullAnalysis": "Strategic focus: Nominative plural after a small number. 'Километра' is the count form used after 'три'. 'До финиша' uses the genitive after 'до'."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-08",
+        "phrase": "Я прошёл десять километров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a number. 'Километров' is the genitive plural required after 'десять'. The verb 'прошёл' shows the distance covered."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-09",
+        "phrase": "Эти километры дались тяжело.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Километры' is the nominative plural subject of 'дались'. 'Эти' agrees, and 'тяжело' describes the difficulty."
+      },
+      {
+        "id": "NN-WORK-KILOMETR-10",
+        "phrase": "За несколько километров мы устали.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Километров' is the genitive plural required after the quantifier 'несколько'. 'За' frames the covered span."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-KHLEB",
+    "label": "Хлеб",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for хлеб (bread).",
+    "missions": [
+      {
+        "id": "NN-FOOD-KHLEB-01",
+        "phrase": "Свежий хлеб лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Хлеб' stays in the nominative case as the subject of 'лежит'. 'Свежий' is the agreeing masculine adjective, and 'на столе' is prepositional, marking location."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-02",
+        "phrase": "Я купил белый хлеб.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine noun, 'хлеб' is identical in the accusative, here the direct object of 'купил'. 'Белый' agrees."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-03",
+        "phrase": "У нас нет хлеба дома.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет', the noun becomes genitive 'хлеба'. The frame 'у нас нет' states what is lacking in the house."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-04",
+        "phrase": "Я отрезал кусок хлеба.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Хлеба' is genitive after 'кусок', expressing a piece of the whole. A common pattern for portions of mass nouns."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-05",
+        "phrase": "Я ем суп с хлебом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Хлебом' is the instrumental form after 'с', expressing what accompanies the meal. A natural way to describe eating bread alongside soup."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-06",
+        "phrase": "Мы говорим о хлебе и соли.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О хлебе' uses the prepositional after 'о' to mark the topic. The pairing with 'соли' echoes the traditional Russian welcome."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-07",
+        "phrase": "Без хлеба обед неполный.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Хлеба' is genitive following the preposition 'без', expressing absence. The sentence states that a meal feels incomplete without bread."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-08",
+        "phrase": "Я добавил масло к хлебу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К хлебу' uses the dative after 'к', here meaning adding butter to the bread. 'Масло' is the accusative object of 'добавил'."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-09",
+        "phrase": "В магазине разные хлеба.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Хлеба' is the nominative plural denoting kinds of bread, the subject of the clause. 'Разные' agrees, and 'в магазине' is prepositional."
+      },
+      {
+        "id": "NN-FOOD-KHLEB-10",
+        "phrase": "Этот хлеб очень вкусный.",
+        "fullAnalysis": "Strategic focus: Nominative evaluation. 'Хлеб' is nominative as the subject. 'Этот' and 'вкусный' are the agreeing masculine forms, and 'очень' intensifies the praise."
+      }
+    ]
+  }
+]

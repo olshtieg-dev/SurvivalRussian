@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-VEK",
+    "label": "Век",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for век (century).",
+    "missions": [
+      {
+        "id": "NN-TIME-VEK-01",
+        "phrase": "Наступил новый век.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Век' is a masculine noun in the nominative as the subject of 'наступил'. 'Новый' agrees in the masculine, marking the start of a century."
+      },
+      {
+        "id": "NN-TIME-VEK-02",
+        "phrase": "Этот собор пережил целый век.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Век' is the inanimate accusative direct object of 'пережил', matching the nominative. 'Целый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-TIME-VEK-03",
+        "phrase": "Это памятник прошлого века.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Века' is the genitive after 'памятник' to mean of the past century. 'Прошлого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-TIME-VEK-04",
+        "phrase": "До нашего века дошло мало книг.",
+        "fullAnalysis": "Strategic focus: Genitive after 'до'. 'До века' uses the genitive 'века' after 'до' to mean up to our century. 'Книг' is the genitive plural after 'мало'."
+      },
+      {
+        "id": "NN-TIME-VEK-05",
+        "phrase": "К концу века всё изменилось.",
+        "fullAnalysis": "Strategic focus: Genitive in a time frame. 'Века' is the genitive after 'концу' to mean by the end of the century. 'К концу' itself uses the dative."
+      },
+      {
+        "id": "NN-TIME-VEK-06",
+        "phrase": "Технологии меняются с каждым веком.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'С веком' uses the instrumental 'веком' after 'с' to mean with each century. 'Каждым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-TIME-VEK-07",
+        "phrase": "В двадцатом веке было много войн.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В веке' uses the prepositional 'веке' after 'в' to set the era. 'Двадцатом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-TIME-VEK-08",
+        "phrase": "В нашем веке развивается наука.",
+        "fullAnalysis": "Strategic focus: Prepositional of time. 'В веке' again takes the prepositional 'веке' to frame the present era. 'Нашем' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-TIME-VEK-09",
+        "phrase": "Прошли долгие века.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Века' is the nominative plural of 'век', the subject of 'прошли'. The plural takes the stressed -а ending typical of such masculine nouns."
+      },
+      {
+        "id": "NN-TIME-VEK-10",
+        "phrase": "Этот обычай живёт веками.",
+        "fullAnalysis": "Strategic focus: Instrumental plural of duration. 'Веками' is the instrumental plural of 'век', used adverbially to mean for centuries. A vivid way to express long duration."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-MUZH",
+    "label": "Муж",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for муж (husband).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-MUZH-01",
+        "phrase": "Мой муж работает в больнице.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Муж' stays in the nominative case as the subject of 'работает'. 'Мой' is the agreeing masculine possessive, and 'в больнице' gives the prepositional place of work."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-02",
+        "phrase": "Я очень люблю своего мужа.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мужа' is the animate accusative direct object of 'люблю', taking the genitive-style ending. 'Своего' agrees in the masculine accusative, marking the speaker's own husband."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-03",
+        "phrase": "У моей подруги нет мужа.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Мужа' is in the genitive case after 'нет', the standard negation of existence. The phrase states that the friend has no husband."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-04",
+        "phrase": "Я подарила мужу новые часы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Мужу' is in the dative case as the indirect object, the person receiving the gift. 'Новые часы' is the accusative direct object of 'подарила'."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-05",
+        "phrase": "Я иду в кино с мужем.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С мужем' uses the instrumental form 'мужем' after 'с' to express going together. 'В кино' gives the accusative destination."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-06",
+        "phrase": "Мы говорили о её муже.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О муже' uses the prepositional form 'муже' after 'о' to mark the topic of conversation. 'Её' shows whose husband is being discussed."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-07",
+        "phrase": "Её муж очень добрый человек.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Муж' is nominative as the subject, with 'добрый человек' as the nominative predicate. 'Очень' intensifies the description."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-08",
+        "phrase": "Все мужья ждали жён у входа.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Мужья' is the irregular nominative plural of 'муж', acting as the subject of 'ждали'. 'Жён' is the genitive-style animate accusative plural object."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-09",
+        "phrase": "Я давно знаю её мужа.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мужа' is the animate accusative direct object of 'знаю'. 'Давно' adds duration, and 'её' marks whose husband is meant."
+      },
+      {
+        "id": "NN-FAMILY-MUZH-10",
+        "phrase": "Без мужа ей было трудно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Без мужа' uses the genitive form 'мужа' after 'без' to express absence. The impersonal 'ей было трудно' adds the dative experiencer."
+      }
+    ]
+  }
+]

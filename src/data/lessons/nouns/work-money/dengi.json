@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-DENGI",
+    "label": "Деньги",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for деньги (money), a plural-only noun.",
+    "missions": [
+      {
+        "id": "NN-WORK-DENGI-01",
+        "phrase": "Деньги лежат на столе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Деньги' is a plurale tantum and serves as the nominative subject of 'лежат'. 'На столе' is prepositional marking location."
+      },
+      {
+        "id": "NN-WORK-DENGI-02",
+        "phrase": "Я заработал хорошие деньги.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Деньги' is the accusative direct object of 'заработал', identical to the nominative for this inanimate plural. 'Хорошие' agrees in the plural."
+      },
+      {
+        "id": "NN-WORK-DENGI-03",
+        "phrase": "У меня нет денег.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Денег' is the genitive plural required after 'нет'. The possession frame 'у меня' shows whose lack it is."
+      },
+      {
+        "id": "NN-WORK-DENGI-04",
+        "phrase": "Благодаря деньгам мы выжили.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Деньгам' is the dative plural after 'благодаря' to mean thanks to the money. A useful cause construction."
+      },
+      {
+        "id": "NN-WORK-DENGI-05",
+        "phrase": "Я расплатился деньгами наличными.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Деньгами' is the instrumental plural showing what was used to pay. 'Наличными' agrees in the instrumental."
+      },
+      {
+        "id": "NN-WORK-DENGI-06",
+        "phrase": "Мы говорим о деньгах постоянно.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Деньгах' is the prepositional plural after 'о' to give the topic. 'Постоянно' adds the frequency."
+      },
+      {
+        "id": "NN-WORK-DENGI-07",
+        "phrase": "Дай мне немного денег.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Денег' is the genitive plural after 'немного'. 'Мне' is the dative recipient of 'дай'."
+      },
+      {
+        "id": "NN-WORK-DENGI-08",
+        "phrase": "Эти деньги для тебя.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Деньги' is the nominative plural subject. 'Эти' agrees in the plural, and 'для тебя' uses the genitive pronoun."
+      },
+      {
+        "id": "NN-WORK-DENGI-09",
+        "phrase": "Я потратил все деньги вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Деньги' is the accusative object of 'потратил', matching the nominative form. 'Все' agrees in the plural, and 'вчера' gives the time."
+      },
+      {
+        "id": "NN-WORK-DENGI-10",
+        "phrase": "С деньгами всё проще.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Деньгами' is instrumental after 'с' to mean with money. 'Проще' is the comparative predicate."
+      }
+    ]
+  }
+]

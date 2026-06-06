@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-DEN",
+    "label": "День",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for день (day).",
+    "missions": [
+      {
+        "id": "NN-TIME-DEN-01",
+        "phrase": "Сегодня хороший день.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'День' stays in the nominative case as the subject. 'Хороший' is the agreeing masculine adjective, and 'сегодня' sets the time frame."
+      },
+      {
+        "id": "NN-TIME-DEN-02",
+        "phrase": "Я жду этот день.",
+        "fullAnalysis": "Strategic focus: Accusative object. As an inanimate masculine noun, 'день' is identical in the accusative, here the object of 'жду'. 'Этот' agrees in the masculine."
+      },
+      {
+        "id": "NN-TIME-DEN-03",
+        "phrase": "До конца дня далеко.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Дня' is genitive after 'конца', and the fleeting 'е' drops out of the stem. The whole phrase follows 'до', also a genitive preposition."
+      },
+      {
+        "id": "NN-TIME-DEN-04",
+        "phrase": "Я готовлюсь к этому дню.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Дню' is the dative after 'к', with the fleeting vowel dropped. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TIME-DEN-05",
+        "phrase": "Мы встретимся днём.",
+        "fullAnalysis": "Strategic focus: Instrumental of time. 'Днём' is the instrumental form used adverbially to mean during the day. A very common time expression in Russian."
+      },
+      {
+        "id": "NN-TIME-DEN-06",
+        "phrase": "Мы говорим о прошлом дне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О дне' uses the prepositional after 'о' to mark the topic, keeping the fleeting vowel. 'Прошлом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-TIME-DEN-07",
+        "phrase": "После дождливого дня вышло солнце.",
+        "fullAnalysis": "Strategic focus: Genitive after 'после'. 'Дня' is genitive following 'после', with the fleeting vowel dropped. 'Дождливого' agrees, and 'солнце' is the nominative subject."
+      },
+      {
+        "id": "NN-TIME-DEN-08",
+        "phrase": "В неделе семь дней.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a number. 'Дней' is the genitive plural required after 'семь'. 'В неделе' is prepositional, marking the timespan."
+      },
+      {
+        "id": "NN-TIME-DEN-09",
+        "phrase": "Эти дни были тёплыми.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Дни' is the nominative plural subject of 'были'. 'Эти' agrees, and 'тёплыми' is the instrumental plural predicate adjective."
+      },
+      {
+        "id": "NN-TIME-DEN-10",
+        "phrase": "За последние дни погода изменилась.",
+        "fullAnalysis": "Strategic focus: Accusative plural with 'за'. 'Дни' is the accusative plural after 'за' in a time span. 'Последние' agrees, and 'погода' is the nominative subject."
+      }
+    ]
+  }
+]

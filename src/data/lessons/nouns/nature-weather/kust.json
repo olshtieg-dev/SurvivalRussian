@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-KUST",
+    "label": "Куст",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for куст (bush).",
+    "missions": [
+      {
+        "id": "NN-NATURE-KUST-01",
+        "phrase": "Этот куст уже зацвёл.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Куст' stays in the nominative as the subject of 'зацвёл'. 'Этот' points at a specific bush, and 'уже' marks the change."
+      },
+      {
+        "id": "NN-NATURE-KUST-02",
+        "phrase": "Садовник подстриг высокий куст.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Куст' is the accusative direct object of 'подстриг'; for this inanimate masculine noun, the accusative matches the nominative. 'Высокий' agrees with it."
+      },
+      {
+        "id": "NN-NATURE-KUST-03",
+        "phrase": "Возле куста сидела маленькая птица.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Куста' is the genitive form after 'возле', showing nearness. The bird is the subject 'птица'."
+      },
+      {
+        "id": "NN-NATURE-KUST-04",
+        "phrase": "Кошка подкралась к кусту тихо.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Кусту' is the dative form after 'к', expressing movement toward the bush. 'Тихо' describes the manner."
+      },
+      {
+        "id": "NN-NATURE-KUST-05",
+        "phrase": "За кустом спрятался маленький заяц.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Кустом' is the instrumental after 'за', expressing position behind. 'Маленький заяц' is the subject."
+      },
+      {
+        "id": "NN-NATURE-KUST-06",
+        "phrase": "На кусте созрели красные ягоды.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На кусте' uses the prepositional form after 'на' to express location. 'Красные ягоды' is the subject."
+      },
+      {
+        "id": "NN-NATURE-KUST-07",
+        "phrase": "Мы посадили куст возле дома.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Куст' is the accusative object of 'посадили'. 'Возле дома' is a genitive phrase showing where it was planted."
+      },
+      {
+        "id": "NN-NATURE-KUST-08",
+        "phrase": "В саду растут густые кусты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кусты' is the nominative plural as the subject of 'растут'. 'Густые' agrees in the plural, and 'в саду' sets the location."
+      },
+      {
+        "id": "NN-NATURE-KUST-09",
+        "phrase": "Дети спрятались между кустами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. 'Кустами' is the instrumental plural after 'между', expressing position among the bushes. 'Дети' is the subject."
+      },
+      {
+        "id": "NN-NATURE-KUST-10",
+        "phrase": "Вдоль дороги растут низкие кусты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кусты' is the nominative plural as the subject of 'растут'. 'Низкие' agrees in the plural, and 'вдоль дороги' sets the path."
+      }
+    ]
+  }
+]

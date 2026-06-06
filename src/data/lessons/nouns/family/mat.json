@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-MAT",
+    "label": "Мать",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for мать (mother).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-MAT-01",
+        "phrase": "Моя мать работает в больнице.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мать' stays in the nominative as the subject of 'работает'. 'Моя' is the agreeing feminine possessive, and 'в больнице' gives the prepositional place of work."
+      },
+      {
+        "id": "NN-FAMILY-MAT-02",
+        "phrase": "Я очень люблю свою мать.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Мать' is the accusative direct object of 'люблю'. This third-declension noun keeps the same form 'мать' in the accusative, and 'свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-FAMILY-MAT-03",
+        "phrase": "У моей матери доброе сердце.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Матери' is the irregular genitive of 'мать' after 'у'. 'Моей' agrees in the feminine genitive, framing the possession of 'доброе сердце'."
+      },
+      {
+        "id": "NN-FAMILY-MAT-04",
+        "phrase": "Я подарил матери красивые цветы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Матери' is the irregular dative of 'мать', marking the person who receives. 'Красивые цветы' is the accusative gift, and 'подарил' is the past-tense verb."
+      },
+      {
+        "id": "NN-FAMILY-MAT-05",
+        "phrase": "Я горжусь своей матерью.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Матерью' is the irregular instrumental of 'мать', required by 'горжусь'. 'Своей' agrees in the feminine instrumental. A core pattern for pride and accompaniment."
+      },
+      {
+        "id": "NN-FAMILY-MAT-06",
+        "phrase": "Мы говорим о моей матери.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Матери' is the irregular prepositional of 'мать' after 'о'. 'Моей' agrees in the feminine prepositional. Useful for talking about people."
+      },
+      {
+        "id": "NN-FAMILY-MAT-07",
+        "phrase": "Мать готовит вкусный обед.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Мать' is the nominative subject of 'готовит'. 'Вкусный обед' is the accusative object, making a clean everyday sentence about cooking."
+      },
+      {
+        "id": "NN-FAMILY-MAT-08",
+        "phrase": "Я часто звоню своей матери.",
+        "fullAnalysis": "Strategic focus: Dative with phoning. 'Матери' is the irregular dative of 'мать', because 'звонить' governs the dative. 'Часто' adds frequency and 'своей' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-FAMILY-MAT-09",
+        "phrase": "Наши матери дружат много лет.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Матери' is the nominative plural of 'мать' as the subject of 'дружат'. 'Наши' agrees in the plural, and 'много лет' gives the duration."
+      },
+      {
+        "id": "NN-FAMILY-MAT-10",
+        "phrase": "Дети всегда слушают своих матерей.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Матерей' is the accusative plural of the animate noun 'мать', the object of 'слушают'. 'Своих' agrees in the plural, and 'всегда' adds frequency."
+      }
+    ]
+  }
+]

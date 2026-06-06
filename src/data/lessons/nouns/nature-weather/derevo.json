@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-DEREVO",
+    "label": "Дерево",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for дерево (tree).",
+    "missions": [
+      {
+        "id": "NN-NATURE-DEREVO-01",
+        "phrase": "В парке растёт высокое дерево.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дерево' is a neuter noun and stays nominative as the subject of 'растёт'. 'Высокое' is the agreeing neuter adjective, and 'в парке' gives the location."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-02",
+        "phrase": "Мы посадили дерево во дворе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дерево' is the inanimate neuter accusative object of 'посадили', identical to the nominative. 'Во дворе' is prepositional, naming where it was planted."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-03",
+        "phrase": "Около дерева стоит скамейка.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Дерева' is genitive after 'около' to mean near the tree. The sentence describes a simple spatial relationship."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-04",
+        "phrase": "Птица подлетела к дереву.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Дереву' is dative after 'к' showing movement toward the tree. 'Птица' is the nominative subject of 'подлетела'."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-05",
+        "phrase": "Под деревом лежит кошка.",
+        "fullAnalysis": "Strategic focus: Instrumental of place. 'Деревом' is instrumental after 'под' to mean under the tree. 'Кошка' is the nominative subject, a clear locative model."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-06",
+        "phrase": "Дети играют на дереве.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Дереве' takes the prepositional form after 'на' to mean up in the tree. 'Дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-07",
+        "phrase": "В саду много старых деревьев.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Деревьев' is the irregular genitive plural of 'дерево'. 'Старых' agrees, and 'в саду' names where they grow."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-08",
+        "phrase": "Осенью деревья теряют листья.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Деревья' is the irregular nominative plural and the subject of 'теряют'. 'Осенью' is an instrumental time word, and 'листья' is the accusative plural object."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-09",
+        "phrase": "Мы любим эти деревья в лесу.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Деревья' is the inanimate accusative plural object of 'любим', identical to the nominative plural. 'Эти' agrees, and 'в лесу' is prepositional."
+      },
+      {
+        "id": "NN-NATURE-DEREVO-10",
+        "phrase": "Этот дом построен из дерева.",
+        "fullAnalysis": "Strategic focus: Genitive of material. 'Дерева' is genitive after 'из', here meaning wood as a material. A useful pattern for describing what something is made of."
+      }
+    ]
+  }
+]

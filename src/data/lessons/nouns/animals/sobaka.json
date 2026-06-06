@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-SOBAKA",
+    "label": "Собака",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for собака (dog).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-SOBAKA-01",
+        "phrase": "Большая собака бежит по улице.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Собака' is feminine and stays nominative as the subject of 'бежит'. 'Большая' is the agreeing feminine adjective, and 'по улице' names the path."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-02",
+        "phrase": "Я каждый день кормлю собаку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Собаку' is the accusative direct object of 'кормлю', taking the -у ending. 'Каждый день' adds the routine, a practical pet-care line."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-03",
+        "phrase": "У моей собаки добрые глаза.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Собаки' is genitive after 'у' in the possession frame. 'Моей' agrees in the feminine genitive, marking whose eyes are described."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-04",
+        "phrase": "Я дал собаке немного мяса.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Собаке' is in the dative case as the recipient of 'дал'. 'Немного мяса' is the genitive of quantity for the food given."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-05",
+        "phrase": "Я гуляю в парке с собакой.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Собакой' is instrumental after 'с', meaning walking together with the dog. 'В парке' shows the location."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-06",
+        "phrase": "Мы говорили о новой собаке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Собаке' takes the prepositional form after 'о' to mean talking about the dog. 'Новой' agrees in the feminine prepositional case."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-07",
+        "phrase": "Дети любят свою собаку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Собаку' is the accusative direct object of 'любят'. 'Свою' agrees in the feminine accusative, and 'дети' is the nominative plural subject."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-08",
+        "phrase": "Во дворе бегают три собаки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Собаки' takes the genitive singular form required after 'три'. 'Во дворе' is prepositional, naming where they run."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-09",
+        "phrase": "Соседские собаки громко лают ночью.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Собаки' is the nominative plural subject of 'лают'. 'Соседские' agrees in the plural, and 'ночью' is an instrumental time word."
+      },
+      {
+        "id": "NN-ANIMAL-SOBAKA-10",
+        "phrase": "Я боюсь больших собак.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'бояться'. 'Собак' is genitive plural, governed by the verb 'боюсь'. 'Больших' agrees in the genitive plural, expressing fear of big dogs."
+      }
+    ]
+  }
+]

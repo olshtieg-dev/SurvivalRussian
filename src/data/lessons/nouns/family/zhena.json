@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-ZHENA",
+    "label": "Жена",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for жена (wife).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-ZHENA-01",
+        "phrase": "Моя жена работает в школе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Жена' is nominative as the subject of 'работает'. 'Моя' is the agreeing feminine possessive, and 'в школе' is prepositional for location."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-02",
+        "phrase": "Я люблю свою жену.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Жену' is the accusative direct object of 'люблю'. 'Свою' is the agreeing feminine reflexive possessive showing the wife belongs to the speaker."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-03",
+        "phrase": "Это подарок для жены.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Жены' is genitive after 'для' to mark the recipient. 'Подарок' stays nominative as the predicate noun being introduced."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-04",
+        "phrase": "Я купил жене красивые цветы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Жене' is in the dative case as the indirect object of 'купил'. 'Красивые цветы' is the accusative direct object that was bought."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-05",
+        "phrase": "Он гордится своей женой.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Женой' is instrumental, required by the verb 'гордится'. 'Своей' is the agreeing feminine reflexive possessive in the instrumental."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-06",
+        "phrase": "Мы говорим о моей жене.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Жене' is the prepositional form after 'о' to express the topic. 'Моей' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-07",
+        "phrase": "У жены сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive in possession frame. 'Жены' is genitive after 'у' to show whose birthday it is. 'Сегодня' adds the time reference."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-08",
+        "phrase": "Я иду в кино с женой.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Женой' is instrumental after 'с' to mean together with. 'В кино' shows the destination."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-09",
+        "phrase": "Наши жёны давно подруги.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Жёны' is the nominative plural subject, with the stem stress shift. 'Наши' is the agreeing plural possessive, and 'подруги' is the predicate."
+      },
+      {
+        "id": "NN-FAMILY-ZHENA-10",
+        "phrase": "Жена приготовила вкусный ужин.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Жена' is nominative as the doer of 'приготовила', which agrees in feminine gender. 'Вкусный ужин' is the accusative object."
+      }
+    ]
+  }
+]

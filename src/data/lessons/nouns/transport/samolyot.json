@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-SAMOLYOT",
+    "label": "Самолёт",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for самолёт (airplane).",
+    "missions": [
+      {
+        "id": "NN-TRANS-SAMOLYOT-01",
+        "phrase": "Большой самолёт летит над городом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Самолёт' is masculine and stays nominative as the subject of 'летит'. 'Большой' agrees, and 'над городом' uses the instrumental for location above."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-02",
+        "phrase": "Я вижу самолёт в небе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Самолёт' is the inanimate accusative object of 'вижу', identical to the nominative. 'В небе' is prepositional, naming where it is seen."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-03",
+        "phrase": "Мы ждём прилёта самолёта.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Самолёта' is genitive depending on the noun 'прилёта', meaning the arrival of the plane. A common airport phrase."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-04",
+        "phrase": "Пассажиры идут к самолёту.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Самолёту' is dative after 'к' showing movement toward the plane. 'Пассажиры' is the nominative plural subject."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-05",
+        "phrase": "Мы летим в Москву самолётом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Самолётом' is instrumental expressing the mode of transport, by plane. 'В Москву' is the accusative destination."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-06",
+        "phrase": "Я люблю летать на самолёте.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'на'. 'Самолёте' takes the prepositional form after 'на' for travelling by plane, the idiomatic transport pattern with 'на'."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-07",
+        "phrase": "В самолёте было много людей.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Самолёте' is prepositional after 'в' to mean inside the plane. 'Много людей' uses the genitive plural for quantity."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-08",
+        "phrase": "В аэропорту стоят большие самолёты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Самолёты' is the nominative plural subject of 'стоят'. 'Большие' agrees in the plural, and 'в аэропорту' is prepositional."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-09",
+        "phrase": "Я фотографирую самолёты каждый день.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Самолёты' is the inanimate accusative plural object of 'фотографирую', identical to the nominative plural. 'Каждый день' adds the routine."
+      },
+      {
+        "id": "NN-TRANS-SAMOLYOT-10",
+        "phrase": "Этот билет на ранний самолёт.",
+        "fullAnalysis": "Strategic focus: Accusative after a preposition. 'Самолёт' is accusative after 'на', here meaning a ticket for the early flight. 'Ранний' agrees in the masculine accusative."
+      }
+    ]
+  }
+]

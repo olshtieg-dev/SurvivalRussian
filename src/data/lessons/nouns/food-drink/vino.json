@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-VINO",
+    "label": "Вино",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for вино (wine).",
+    "missions": [
+      {
+        "id": "NN-FOOD-VINO-01",
+        "phrase": "Это вино очень вкусное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вино' is the neuter nominative subject. 'Вкусное' is the agreeing neuter adjective, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-FOOD-VINO-02",
+        "phrase": "Я люблю красное вино.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вино' is the accusative direct object of 'люблю'. As an inanimate neuter noun it keeps the same form, and 'красное' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-FOOD-VINO-03",
+        "phrase": "У нас нет красного вина.",
+        "fullAnalysis": "Strategic focus: Genitive of negation. 'Вина' is the genitive of 'вино', required after 'нет'. 'Красного' agrees in the neuter genitive, marking absence."
+      },
+      {
+        "id": "NN-FOOD-VINO-04",
+        "phrase": "Налей вина в мой бокал.",
+        "fullAnalysis": "Strategic focus: Partitive genitive. 'Вина' is the genitive of 'вино' expressing a portion to be poured. 'В мой бокал' gives the accusative destination of the pouring."
+      },
+      {
+        "id": "NN-FOOD-VINO-05",
+        "phrase": "Мы наслаждаемся хорошим вином.",
+        "fullAnalysis": "Strategic focus: Instrumental case. 'Вином' is the neuter instrumental of 'вино', required by 'наслаждаемся'. 'Хорошим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-FOOD-VINO-06",
+        "phrase": "В этом вине мало сахара.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Вине' is the prepositional of 'вино' after 'в'. 'Этом' agrees in the neuter prepositional, and 'мало сахара' uses the genitive of quantity."
+      },
+      {
+        "id": "NN-FOOD-VINO-07",
+        "phrase": "Вино стоит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вино' is the neuter nominative subject of 'стоит'. 'На столе' gives the prepositional location."
+      },
+      {
+        "id": "NN-FOOD-VINO-08",
+        "phrase": "Он заказал бутылку белого вина.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Вина' is the genitive of 'вино' after the measure word 'бутылку'. 'Белого' agrees in the neuter genitive. A natural ordering phrase."
+      },
+      {
+        "id": "NN-FOOD-VINO-09",
+        "phrase": "Грузинские вина известны во всём мире.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вина' is the nominative plural of 'вино' as the subject. 'Грузинские' agrees in the plural, and 'во всём мире' gives the prepositional scope."
+      },
+      {
+        "id": "NN-FOOD-VINO-10",
+        "phrase": "Мы попробовали разные местные вина.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Вина' is the accusative plural of the inanimate neuter 'вино', the object of 'попробовали'. 'Разные местные' agree in the plural."
+      }
+    ]
+  }
+]

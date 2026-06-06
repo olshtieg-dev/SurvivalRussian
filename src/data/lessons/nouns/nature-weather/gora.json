@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-GORA",
+    "label": "Гора",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for гора (mountain).",
+    "missions": [
+      {
+        "id": "NN-NATURE-GORA-01",
+        "phrase": "Эта гора очень высокая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гора' is the feminine nominative subject. 'Высокая' is the agreeing feminine adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-NATURE-GORA-02",
+        "phrase": "Мы видим красивую гору вдали.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Гору' is the accusative direct object of 'видим'. 'Красивую' agrees in the feminine accusative, and 'вдали' adds distance."
+      },
+      {
+        "id": "NN-NATURE-GORA-03",
+        "phrase": "С вершины горы видно море.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Горы' is the genitive of 'гора' after 'с вершины'. The impersonal 'видно' presents what can be seen, namely 'море'."
+      },
+      {
+        "id": "NN-NATURE-GORA-04",
+        "phrase": "Туристы идут к высокой горе.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Горе' is the dative of 'гора' after 'к', marking the goal of motion. 'Высокой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-NATURE-GORA-05",
+        "phrase": "Деревня лежит за высокой горой.",
+        "fullAnalysis": "Strategic focus: Instrumental with location. 'Горой' is the instrumental of 'гора' after 'за', meaning behind. 'Высокой' agrees in the feminine instrumental, and 'деревня' is the subject."
+      },
+      {
+        "id": "NN-NATURE-GORA-06",
+        "phrase": "На этой горе лежит снег.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Горе' is the prepositional of 'гора' after 'на'. 'Этой' agrees in the feminine prepositional, and 'снег' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-GORA-07",
+        "phrase": "Высокая гора закрывает солнце.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гора' is the feminine nominative subject of 'закрывает'. 'Высокая' agrees in the feminine nominative, and 'солнце' is the accusative object."
+      },
+      {
+        "id": "NN-NATURE-GORA-08",
+        "phrase": "Мы любим отдыхать в горах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Горах' is the prepositional plural of 'гора' after 'в', the fixed way to say in the mountains. 'Отдыхать' names the activity."
+      },
+      {
+        "id": "NN-NATURE-GORA-09",
+        "phrase": "Вдали виднеются заснеженные горы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Горы' is the nominative plural of 'гора' as the subject of 'виднеются'. 'Заснеженные' agrees in the plural, and 'вдали' adds distance."
+      },
+      {
+        "id": "NN-NATURE-GORA-10",
+        "phrase": "Альпинисты покорили эти высокие горы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Горы' is the accusative plural of the inanimate 'гора', the object of 'покорили'. 'Эти высокие' agree in the plural."
+      }
+    ]
+  }
+]

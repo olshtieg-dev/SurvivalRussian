@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-DYADYA",
+    "label": "Дядя",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for дядя (uncle).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-DYADYA-01",
+        "phrase": "Мой дядя живёт в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дядя' is a masculine noun despite its -я ending, and stays nominative as the subject. 'Мой' is the masculine possessive, and 'в Москве' is prepositional of location."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-02",
+        "phrase": "Я давно не видел дядю.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дядю' is the accusative of the animate 'дядя' as the object of 'видел'. The -я noun takes the -ю accusative ending."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-03",
+        "phrase": "У дяди большая машина.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'У дяди' uses the genitive 'дяди' after 'у' to show whose car it is. The -я ending becomes -и in the genitive."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-04",
+        "phrase": "У меня нет дяди.",
+        "fullAnalysis": "Strategic focus: Genitive after 'нет'. 'Дяди' is the genitive required by 'нет' to express absence, the same form as the possessive genitive."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-05",
+        "phrase": "Я написал письмо дяде.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Дяде' is the dative of 'дядя', the recipient of the letter. 'Письмо' is the accusative direct object of 'написал'."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-06",
+        "phrase": "Мы едем в гости к дяде.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'К дяде' uses the dative 'дяде' after 'к' to show the destination of a visit. A natural pattern for going to someone's place."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-07",
+        "phrase": "Я горжусь своим дядей.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. 'Дядей' is the instrumental of 'дядя', required by 'гордиться'. The soft -я ending gives the -ей instrumental."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-08",
+        "phrase": "Мы говорили о моём дяде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О дяде' uses the prepositional 'дяде' after 'о' to name the topic. 'Моём' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-09",
+        "phrase": "Мои дяди приехали из деревни.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Дяди' is the nominative plural of 'дядя', the subject of 'приехали'. 'Из деревни' is the genitive of origin."
+      },
+      {
+        "id": "NN-FAMILY-DYADYA-10",
+        "phrase": "Я люблю своих дядей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Дядей' is the accusative plural of the animate 'дядя', matching the genitive plural form. 'Своих' agrees in the animate plural."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-TSVETOK",
+    "label": "Цветок",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for цветок (flower).",
+    "missions": [
+      {
+        "id": "NN-NATURE-TSVETOK-01",
+        "phrase": "На окне стоит красивый цветок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Цветок' stays in the nominative as the subject of 'стоит'. 'Красивый' is the agreeing masculine adjective, and 'на окне' gives the location."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-02",
+        "phrase": "Я подарил маме красивый цветок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Цветок' is the accusative direct object of 'подарил'; this inanimate masculine noun looks like the nominative. 'Маме' is the dative recipient."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-03",
+        "phrase": "У этого цветка тонкий запах.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Цветка' is the genitive form after 'у', dropping the stem vowel. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-04",
+        "phrase": "Этому цветку нужна вода.",
+        "fullAnalysis": "Strategic focus: Dative case. 'Цветку' is the dative form, the thing that needs water. 'Этому' agrees in the masculine dative, and 'вода' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-05",
+        "phrase": "Бабочка села над цветком.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Цветком' is the instrumental form after 'над', expressing position above. 'Бабочка' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-06",
+        "phrase": "Пчела сидит на цветке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На цветке' uses the prepositional form 'цветке' after 'на' to express location. 'Пчела' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-07",
+        "phrase": "В саду растут красивые цветы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Цветы' is the irregular nominative plural subject of 'растут'. 'Красивые' agrees as the plural adjective, and 'в саду' gives the location."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-08",
+        "phrase": "Я купила букет белых цветов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Цветов' is the genitive plural after 'букет', showing what the bouquet is made of. 'Белых' agrees in the plural genitive."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-09",
+        "phrase": "Дети дарят учителям цветы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Цветы' is the accusative plural object of 'дарят'; the inanimate plural looks like the nominative. 'Учителям' is the dative recipient."
+      },
+      {
+        "id": "NN-NATURE-TSVETOK-10",
+        "phrase": "Этот цветок очень нежный и красивый.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Цветок' is nominative as the subject. 'Этот' points at a specific one, and 'нежный' and 'красивый' are coordinated masculine adjectives."
+      }
+    ]
+  }
+]

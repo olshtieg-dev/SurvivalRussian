@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-REKA",
+    "label": "Река",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for река (river).",
+    "missions": [
+      {
+        "id": "NN-NATURE-REKA-01",
+        "phrase": "Река течёт очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Река' stays in the nominative as the subject of 'течёт'. 'Очень быстро' describes the speed of the current."
+      },
+      {
+        "id": "NN-NATURE-REKA-02",
+        "phrase": "Мы переплыли широкую реку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Реку' is the accusative direct object of 'переплыли'. 'Широкую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-NATURE-REKA-03",
+        "phrase": "Вода в реке очень холодная.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В реке' uses the prepositional form after 'в' to express location. 'Холодная' agrees with the subject 'вода'."
+      },
+      {
+        "id": "NN-NATURE-REKA-04",
+        "phrase": "Туристы шли к реке через лес.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Реке' is the dative form after 'к', expressing movement toward the river. 'Через лес' shows the path."
+      },
+      {
+        "id": "NN-NATURE-REKA-05",
+        "phrase": "Мы любовались тихой рекой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Рекой' is the instrumental governed by 'любовались'. 'Тихой' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-NATURE-REKA-06",
+        "phrase": "На берегу реки растут деревья.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Реки' is the genitive after 'берег', showing whose bank it is. 'На берегу' sets the location."
+      },
+      {
+        "id": "NN-NATURE-REKA-07",
+        "phrase": "Мост построили через большую реку.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Реку' is the accusative after 'через', showing what the bridge spans. 'Большую' agrees with it."
+      },
+      {
+        "id": "NN-NATURE-REKA-08",
+        "phrase": "В этом крае много рек.",
+        "fullAnalysis": "Strategic focus: Genitive plural of quantity. 'Рек' is the genitive plural after 'много', expressing an indefinite number. 'В этом крае' sets the region."
+      },
+      {
+        "id": "NN-NATURE-REKA-09",
+        "phrase": "Все реки впадают в море.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Реки' is the nominative plural as the subject of 'впадают'. 'Все' quantifies them, and 'в море' is the goal."
+      },
+      {
+        "id": "NN-NATURE-REKA-10",
+        "phrase": "Дети купаются в реке летом.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В реке' uses the prepositional form after 'в' to show where the swimming happens. 'Летом' is the instrumental of time."
+      }
+    ]
+  }
+]

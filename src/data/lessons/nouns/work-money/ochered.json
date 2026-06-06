@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-OCHERED",
+    "label": "Очередь",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for очередь (queue; turn).",
+    "missions": [
+      {
+        "id": "NN-WORK-OCHERED-01",
+        "phrase": "Очередь была очень длинная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Очередь' is a feminine soft-sign noun in the nominative as the subject. 'Длинная' is the agreeing feminine adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-WORK-OCHERED-02",
+        "phrase": "Я занял очередь в кассу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Очередь' is the accusative direct object of 'занял'; feminine soft-sign nouns keep the same form in the accusative singular. A standard way to say you got in line."
+      },
+      {
+        "id": "NN-WORK-OCHERED-03",
+        "phrase": "Я стою в очереди уже час.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Очереди' is the prepositional form after 'в', meaning standing in line. 'Уже час' adds duration. A very common waiting-room phrase."
+      },
+      {
+        "id": "NN-WORK-OCHERED-04",
+        "phrase": "До нашей очереди далеко.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Очереди' is the genitive form after 'до', marking how far off our turn is. 'Нашей' agrees in the feminine genitive, and 'далеко' states the distance."
+      },
+      {
+        "id": "NN-WORK-OCHERED-05",
+        "phrase": "Сейчас твоя очередь говорить.",
+        "fullAnalysis": "Strategic focus: Nominative as 'turn'. 'Очередь' is nominative in the sense of one's turn. 'Твоя' agrees in the feminine, and 'говорить' is the infinitive naming the action. A natural game or meeting phrase."
+      },
+      {
+        "id": "NN-WORK-OCHERED-06",
+        "phrase": "Подойдите к очереди справа.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Очереди' is the dative form after 'к', marking the line approached. 'Справа' gives the direction. A practical instruction in a public place."
+      },
+      {
+        "id": "NN-WORK-OCHERED-07",
+        "phrase": "Он следит за очередью внимательно.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Очередью' is the instrumental form after 'за', meaning keeping an eye on the line. 'Внимательно' describes the careful watching."
+      },
+      {
+        "id": "NN-WORK-OCHERED-08",
+        "phrase": "Мы говорим об этой очереди.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Очереди' is the prepositional after 'об', the topic of discussion. 'Этой' agrees in the feminine prepositional, pointing at the specific line."
+      },
+      {
+        "id": "NN-WORK-OCHERED-09",
+        "phrase": "В магазине были длинные очереди.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Очереди' is the nominative plural subject. 'Длинные' agrees in the plural, and 'в магазине' locates them. The soft-sign plural matches the singular ending here."
+      },
+      {
+        "id": "NN-WORK-OCHERED-10",
+        "phrase": "Мы стояли в двух очередях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural with numeral. 'Очередях' is the prepositional plural after 'в', and 'двух' takes that case to count the lines. A clear example of the soft-sign plural."
+      }
+    ]
+  }
+]

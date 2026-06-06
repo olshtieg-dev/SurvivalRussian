@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-KRAI",
+    "label": "Край",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for край (edge; region).",
+    "missions": [
+      {
+        "id": "NN-NATURE-KRAI-01",
+        "phrase": "Это наш родной край.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Край' is the masculine nominative predicate noun meaning native region. 'Родной' is the agreeing masculine adjective, a warm way to name one's homeland."
+      },
+      {
+        "id": "NN-NATURE-KRAI-02",
+        "phrase": "Я очень люблю свой край.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Край' is the accusative direct object of 'люблю'; as an inanimate masculine noun its accusative matches the nominative. 'Свой' agrees in masculine gender."
+      },
+      {
+        "id": "NN-NATURE-KRAI-03",
+        "phrase": "Поставь чашку на край стола.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Край' is the accusative goal after 'на', meaning onto the edge. 'Стола' is the genitive showing whose edge, a concrete spatial line."
+      },
+      {
+        "id": "NN-NATURE-KRAI-04",
+        "phrase": "Мы доехали до края леса.",
+        "fullAnalysis": "Strategic focus: Genitive with 'до'. 'Края' is genitive after 'до', marking the limit reached. 'Леса' is a second genitive showing whose edge, a clean motion-to pattern."
+      },
+      {
+        "id": "NN-NATURE-KRAI-05",
+        "phrase": "Чашка стоит на самом краю.",
+        "fullAnalysis": "Strategic focus: Locative prepositional in -у. 'Край' takes the special locative ending 'краю' after 'на' to mean right at the edge. 'На самом' intensifies the precarious position."
+      },
+      {
+        "id": "NN-NATURE-KRAI-06",
+        "phrase": "Он живёт на краю города.",
+        "fullAnalysis": "Strategic focus: Locative prepositional in -у. 'Краю' is the special -у locative after 'на', meaning on the outskirts. 'Города' is the genitive showing whose edge."
+      },
+      {
+        "id": "NN-NATURE-KRAI-07",
+        "phrase": "Туристы любуются нашим краем.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Краем' is the instrumental case required by 'любуются', the region being admired. 'Нашим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-NATURE-KRAI-08",
+        "phrase": "В нашем крае много лесов.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'в'. 'Крае' is the standard prepositional form after 'в' describing where things are. 'Много лесов' uses the genitive plural after a quantity word."
+      },
+      {
+        "id": "NN-NATURE-KRAI-09",
+        "phrase": "Эти края очень красивы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Края' is the nominative plural of 'край', the subject. 'Эти' agrees in the plural and 'красивы' is the short adjective praising the region."
+      },
+      {
+        "id": "NN-NATURE-KRAI-10",
+        "phrase": "Птицы прилетели из далёких краёв.",
+        "fullAnalysis": "Strategic focus: Genitive plural with 'из'. 'Краёв' is the genitive plural after 'из', marking origin. 'Далёких' agrees in the genitive plural, a poetic way to say from faraway lands."
+      }
+    ]
+  }
+]

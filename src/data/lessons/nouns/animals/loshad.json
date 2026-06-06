@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ANIMAL-LOSHAD",
+    "label": "Лошадь",
+    "badge": "ANIMAL",
+    "description": "A 10-sentence usage card for лошадь (horse).",
+    "missions": [
+      {
+        "id": "NN-ANIMAL-LOSHAD-01",
+        "phrase": "Белая лошадь стоит у реки.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лошадь' stays in the nominative case as the subject of 'стоит'. 'Белая' is the agreeing feminine adjective, and 'у реки' gives the location."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-02",
+        "phrase": "Мальчик кормит свою лошадь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лошадь' is feminine of the soft type, so its accusative singular matches the nominative as the object of 'кормит'. 'Свою' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-03",
+        "phrase": "У соседа нет своей лошади.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Лошади' is in the genitive case after 'нет', the standard negation of existence. 'Своей' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-04",
+        "phrase": "Он дал лошади свежую воду.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Лошади' is in the dative case as the indirect object receiving the water. 'Свежую воду' is the accusative direct object of 'дал'."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-05",
+        "phrase": "Девочка любуется красивой лошадью.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Лошадью' is in the instrumental case required by 'любуется'. 'Красивой' agrees in the feminine instrumental, describing the beautiful horse."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-06",
+        "phrase": "Все говорят о новой лошади.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О лошади' uses the prepositional form 'лошади' after 'о' to mark the topic. 'Новой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-07",
+        "phrase": "Эта лошадь очень быстрая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Лошадь' is nominative as the subject. 'Быстрая' is the agreeing feminine predicate adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-08",
+        "phrase": "На поле пасутся серые лошади.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Лошади' is the nominative plural of 'лошадь', acting as the subject of 'пасутся'. 'Серые' agrees in the plural, and 'на поле' gives the location."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-09",
+        "phrase": "Фермер продал двух лошадей.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Лошадей' is the animate accusative plural, matching the genitive plural, as the object of 'продал'. 'Двух' agrees in the same case."
+      },
+      {
+        "id": "NN-ANIMAL-LOSHAD-10",
+        "phrase": "Они приехали в город на лошадях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'На лошадях' uses the prepositional plural 'лошадях' after 'на' to express the means of travel. 'В город' gives the accusative destination."
+      }
+    ]
+  }
+]

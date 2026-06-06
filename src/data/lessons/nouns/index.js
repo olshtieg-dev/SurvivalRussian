@@ -2,6 +2,13 @@ import { householdNounsLessonSets, householdNounsFolder } from './household';
 import { bodyPersonNounsLessonSets, bodyPersonNounsFolder } from './body-person';
 import { motionLocationNounsLessonSets, motionLocationNounsFolder } from './motion-location';
 import { abstractNounsLessonSets, abstractNounsFolder } from './abstract';
+import { familyNounsLessonSets, familyNounsFolder } from './family';
+import { foodDrinkNounsLessonSets, foodDrinkNounsFolder } from './food-drink';
+import { natureWeatherNounsLessonSets, natureWeatherNounsFolder } from './nature-weather';
+import { animalsNounsLessonSets, animalsNounsFolder } from './animals';
+import { timeUnitsNounsLessonSets, timeUnitsNounsFolder } from './time-units';
+import { transportNounsLessonSets, transportNounsFolder } from './transport';
+import { workMoneyNounsLessonSets, workMoneyNounsFolder } from './work-money';
 
 export const nounsFolderId = 'nouns';
 
@@ -10,7 +17,7 @@ export const nounsFolder = {
   label: 'Nouns',
   badge: 'NN',
   description: 'A noun library organized into semantic families. Each noun gets its own 10-sentence usage card.',
-  missionCountLabel: '4 noun groups',
+  missionCountLabel: '11 noun groups',
   isFolder: true,
 };
 
@@ -19,6 +26,13 @@ export const nounsGroupFolders = [
   bodyPersonNounsFolder,
   motionLocationNounsFolder,
   abstractNounsFolder,
+  familyNounsFolder,
+  foodDrinkNounsFolder,
+  natureWeatherNounsFolder,
+  animalsNounsFolder,
+  timeUnitsNounsFolder,
+  transportNounsFolder,
+  workMoneyNounsFolder,
 ];
 
 export const nounsLessonSets = [
@@ -26,4 +40,11 @@ export const nounsLessonSets = [
   ...bodyPersonNounsLessonSets,
   ...motionLocationNounsLessonSets,
   ...abstractNounsLessonSets,
+  ...familyNounsLessonSets,
+  ...foodDrinkNounsLessonSets,
+  ...natureWeatherNounsLessonSets,
+  ...animalsNounsLessonSets,
+  ...timeUnitsNounsLessonSets,
+  ...transportNounsLessonSets,
+  ...workMoneyNounsLessonSets,
 ];

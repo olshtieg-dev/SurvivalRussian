@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-NEBO",
+    "label": "Небо",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for небо (sky).",
+    "missions": [
+      {
+        "id": "NN-NATURE-NEBO-01",
+        "phrase": "Небо сегодня очень синее.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Небо' is the neuter nominative subject. 'Синее' is the agreeing neuter adjective, and 'очень' intensifies it."
+      },
+      {
+        "id": "NN-NATURE-NEBO-02",
+        "phrase": "Я люблю смотреть на небо.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Небо' is the accusative after 'на' to express looking at it; the neuter form matches the nominative. 'Смотреть' is the infinitive."
+      },
+      {
+        "id": "NN-NATURE-NEBO-03",
+        "phrase": "На небе нет ни облака.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Небе' is the prepositional form after 'на' for location. 'Нет ни облака' uses the genitive of negation."
+      },
+      {
+        "id": "NN-NATURE-NEBO-04",
+        "phrase": "Цвет неба становится тёмным.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Неба' is genitive showing the colour belongs to the sky. 'Цвет' is the nominative subject of 'становится'."
+      },
+      {
+        "id": "NN-NATURE-NEBO-05",
+        "phrase": "Птицы летят высоко в небе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Небе' is prepositional after 'в' to mark where the birds fly. 'Птицы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-NEBO-06",
+        "phrase": "Самолёт летит к небу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Небу' is the dative form after 'к' to express movement toward the sky. 'Самолёт' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-NEBO-07",
+        "phrase": "Под чистым небом приятно гулять.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Небом' is instrumental after 'под' to mean under the sky. 'Чистым' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-NATURE-NEBO-08",
+        "phrase": "Вечернее небо очень красивое.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Небо' is the neuter nominative subject. 'Вечернее' and 'красивое' both agree as neuter adjectives."
+      },
+      {
+        "id": "NN-NATURE-NEBO-09",
+        "phrase": "Над нами чистые небеса.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Небеса' is the irregular nominative plural of небо, common in poetic use. 'Чистые' agrees in the plural, and 'над нами' is instrumental."
+      },
+      {
+        "id": "NN-NATURE-NEBO-10",
+        "phrase": "Мы любуемся ночным небом.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Небом' is instrumental, required by 'любуемся' meaning to admire. 'Ночным' agrees in the neuter instrumental."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FAMILY-PAPA",
+    "label": "Папа",
+    "badge": "KIN",
+    "description": "A 10-sentence usage card for папа (dad).",
+    "missions": [
+      {
+        "id": "NN-FAMILY-PAPA-01",
+        "phrase": "Мой папа работает врачом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Папа' is grammatically masculine despite the -а ending and stays nominative as the subject. 'Мой' is the masculine modifier, and 'врачом' is the instrumental of profession."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-02",
+        "phrase": "Я очень люблю своего папу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Папу' is the accusative direct object of 'люблю', taking the -у ending of first-declension nouns. 'Своего' shows the masculine animate accusative."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-03",
+        "phrase": "У папы сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Папы' is genitive after 'у' in the possession frame. The phrase names whose birthday it is, a very common everyday context."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-04",
+        "phrase": "Я подарил папе новые часы.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Папе' is in the dative case as the recipient of the gift in 'подарил'. 'Новые часы' is the accusative thing given."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-05",
+        "phrase": "Я горжусь своим папой.",
+        "fullAnalysis": "Strategic focus: Instrumental complement. 'Папой' is the instrumental form required by 'горжусь'. 'Своим' agrees in the masculine instrumental, expressing pride in one's father."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-06",
+        "phrase": "Мы говорим о папе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Папе' takes the prepositional form after 'о' to mean talking about dad. A simple, reusable pattern for discussing family."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-07",
+        "phrase": "Папа купил мне велосипед.",
+        "fullAnalysis": "Strategic focus: Nominative subject with dative. 'Папа' is nominative as the doer of 'купил'. 'Мне' is the dative beneficiary, and 'велосипед' is the accusative object bought."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-08",
+        "phrase": "Я иду в кино с папой.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Папой' is instrumental after 'с', meaning going somewhere together with dad. 'В кино' shows the destination."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-09",
+        "phrase": "Это машина моего папы.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Папы' is genitive showing whose car it is. 'Моего' agrees in the masculine genitive, even though 'папа' looks feminine in form."
+      },
+      {
+        "id": "NN-FAMILY-PAPA-10",
+        "phrase": "Я жду папу у школы.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Папу' is the accusative direct object of 'жду'. 'У школы' uses the genitive to mark the place of waiting."
+      }
+    ]
+  }
+]

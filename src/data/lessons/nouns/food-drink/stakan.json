@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-STAKAN",
+    "label": "Стакан",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for стакан (glass).",
+    "missions": [
+      {
+        "id": "NN-FOOD-STAKAN-01",
+        "phrase": "На столе стоит чистый стакан.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Стакан' is masculine and stays nominative as the subject of 'стоит'. 'Чистый' is the agreeing masculine adjective, and 'на столе' gives the location."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-02",
+        "phrase": "Я взял стакан и налил воду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Стакан' is the inanimate accusative direct object of 'взял', identical to the nominative. The clause shows a natural sequence of actions."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-03",
+        "phrase": "В стакане нет воды.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Стакане' takes the prepositional form after 'в' to mean inside the glass. 'Воды' is genitive after the negative 'нет'."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-04",
+        "phrase": "Налей воду в стакан.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Стакан' is accusative after 'в' showing motion into the glass. The imperative 'налей' makes this a practical everyday command."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-05",
+        "phrase": "Дай мне стакан молока, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative object with genitive. 'Стакан' is the accusative object of 'дай', and 'молока' is the genitive of quantity meaning a glass of milk."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-06",
+        "phrase": "У меня нет чистого стакана.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Стакана' is genitive after 'нет' to express absence. 'Чистого' agrees in the masculine genitive, a core negation pattern."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-07",
+        "phrase": "Я выпил воду одним стаканом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Стаканом' is instrumental describing the means or measure of drinking. 'Одним' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-08",
+        "phrase": "На полке стоят пять стаканов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Стаканов' is the genitive plural required after 'пять'. 'На полке' is prepositional, naming where they stand."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-09",
+        "phrase": "Я помыл все стаканы после ужина.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Стаканы' is the inanimate accusative plural object of 'помыл', identical to the nominative plural. 'Все' agrees, and 'после ужина' sets the time."
+      },
+      {
+        "id": "NN-FOOD-STAKAN-10",
+        "phrase": "Этот сок в большом стакане.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Стакане' is prepositional after 'в', marking the container. 'Большом' agrees in the masculine prepositional case."
+      }
+    ]
+  }
+]

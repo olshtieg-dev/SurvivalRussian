@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-TRUD",
+    "label": "Труд",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for труд (labor).",
+    "missions": [
+      {
+        "id": "NN-WORK-TRUD-01",
+        "phrase": "Тяжёлый труд приносит результат.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Труд' is a masculine noun in the nominative as the subject. 'Тяжёлый' is the agreeing masculine adjective, and 'приносит результат' states what hard labor brings."
+      },
+      {
+        "id": "NN-WORK-TRUD-02",
+        "phrase": "Я уважаю честный труд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Труд' is the accusative direct object of 'уважаю'; inanimate masculine nouns keep the nominative form in the accusative. 'Честный' is the agreeing accusative adjective."
+      },
+      {
+        "id": "NN-WORK-TRUD-03",
+        "phrase": "Без труда ничего не выйдет.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Труда' is the genitive form of 'труд' after 'без', meaning without effort. The whole sentence echoes the proverb that nothing comes effortlessly."
+      },
+      {
+        "id": "NN-WORK-TRUD-04",
+        "phrase": "Я открыл дверь с трудом.",
+        "fullAnalysis": "Strategic focus: Instrumental in a fixed phrase. 'Трудом' is the instrumental in the set expression 'с трудом', meaning with difficulty. It modifies how I managed to open the door. A very common idiom."
+      },
+      {
+        "id": "NN-WORK-TRUD-05",
+        "phrase": "Благодаря труду он многого добился.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Труду' is the dative form after 'благодаря', meaning thanks to labor. 'Многого добился' states the achievement that resulted from the effort."
+      },
+      {
+        "id": "NN-WORK-TRUD-06",
+        "phrase": "Мы говорим о тяжёлом труде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Труде' is the prepositional form after 'о', the topic being discussed. 'Тяжёлом' agrees in the masculine prepositional. A natural frame for discussion."
+      },
+      {
+        "id": "NN-WORK-TRUD-07",
+        "phrase": "Этот сад создан общим трудом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Трудом' is the instrumental expressing the means by which the garden was created. 'Общим' agrees in the masculine instrumental, stressing shared effort."
+      },
+      {
+        "id": "NN-WORK-TRUD-08",
+        "phrase": "Он гордится своим трудом.",
+        "fullAnalysis": "Strategic focus: Instrumental with a verb. 'Трудом' is the instrumental governed by 'гордится', which requires that case for the thing one is proud of. 'Своим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-WORK-TRUD-09",
+        "phrase": "Все труды были не напрасны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Труды' is the nominative plural subject, here meaning efforts or labors. 'Все' agrees in the plural, and 'не напрасны' is the short-form predicate. A reflective closing line."
+      },
+      {
+        "id": "NN-WORK-TRUD-10",
+        "phrase": "Я ценю плоды твоего труда.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Труда' is the genitive showing whose fruits these are. 'Твоего' agrees in the masculine genitive, and 'плоды труда' is a natural idiom for the results of work."
+      }
+    ]
+  }
+]

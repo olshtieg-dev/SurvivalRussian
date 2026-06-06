@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TIME-SUTKI",
+    "label": "Сутки",
+    "badge": "TIME",
+    "description": "A 10-sentence usage card for сутки (day; 24 hours).",
+    "missions": [
+      {
+        "id": "NN-TIME-SUTKI-01",
+        "phrase": "Прошли целые сутки.",
+        "fullAnalysis": "Strategic focus: Nominative plurale tantum. 'Сутки' is a plurale tantum noun with no singular, here the nominative subject. 'Целые' agrees in the plural, and 'прошли' is the plural verb. It always means a full 24 hours."
+      },
+      {
+        "id": "NN-TIME-SUTKI-02",
+        "phrase": "Я ждал ровно сутки.",
+        "fullAnalysis": "Strategic focus: Accusative of duration. 'Сутки' is the accusative expressing how long I waited; its accusative matches the nominative. 'Ровно' stresses exactly one 24-hour period."
+      },
+      {
+        "id": "NN-TIME-SUTKI-03",
+        "phrase": "Магазин работает круглые сутки.",
+        "fullAnalysis": "Strategic focus: Accusative in a fixed phrase. 'Сутки' is accusative in the set expression 'круглые сутки', meaning around the clock. 'Круглые' agrees in the plural. A very common idiom."
+      },
+      {
+        "id": "NN-TIME-SUTKI-04",
+        "phrase": "Прошло двое суток без сна.",
+        "fullAnalysis": "Strategic focus: Genitive with a collective numeral. 'Суток' is the genitive plural required after the collective numeral 'двое', used because сутки has no singular. 'Без сна' adds the circumstance."
+      },
+      {
+        "id": "NN-TIME-SUTKI-05",
+        "phrase": "Я не спал почти трое суток.",
+        "fullAnalysis": "Strategic focus: Genitive after a collective numeral. 'Суток' is again the genitive plural after 'трое', the form used for counting сутки. 'Почти' softens the claim. A natural way to count multiple days."
+      },
+      {
+        "id": "NN-TIME-SUTKI-06",
+        "phrase": "За сутки многое изменилось.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Сутки' is accusative after 'за', marking the span within which change happened. 'Многое' is the neuter subject. A useful frame for reporting change."
+      },
+      {
+        "id": "NN-TIME-SUTKI-07",
+        "phrase": "К следующим суткам всё решится.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Суткам' is the dative plural after 'к', marking the time by which things resolve. 'Следующим' agrees in the dative plural. The only natural way to inflect this noun."
+      },
+      {
+        "id": "NN-TIME-SUTKI-08",
+        "phrase": "Дождь шёл целыми сутками.",
+        "fullAnalysis": "Strategic focus: Instrumental of duration. 'Сутками' is the instrumental plural expressing prolonged duration, 'for whole days on end'. 'Целыми' agrees in the instrumental plural. A vivid way to stress length."
+      },
+      {
+        "id": "NN-TIME-SUTKI-09",
+        "phrase": "В этих сутках было много дел.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Сутках' is the prepositional plural after 'в', locating the events in this 24-hour period. 'Этих' agrees in the prepositional plural. 'Много дел' fills the day."
+      },
+      {
+        "id": "NN-TIME-SUTKI-10",
+        "phrase": "Сутки делятся на день и ночь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сутки' is the nominative plurale tantum subject of 'делятся'. The reflexive verb shows division, and 'на день и ночь' names the two parts of a full day."
+      }
+    ]
+  }
+]
