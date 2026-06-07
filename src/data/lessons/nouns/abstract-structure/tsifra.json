@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-TSIFRA",
+    "label": "Цифра",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for цифра (digit, figure).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-TSIFRA-01",
+        "phrase": "Эта цифра очень большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Цифра' stays in the nominative as the subject. 'Эта' points to a specific figure, and 'большая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-02",
+        "phrase": "Напиши последнюю цифру здесь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Цифру' is the accusative direct object of 'напиши'. 'Последнюю' agrees in the feminine accusative, and 'здесь' marks the place."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-03",
+        "phrase": "Я не вижу первой цифры.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Цифры' takes the genitive because 'вижу' is negated by 'не'. 'Первой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-04",
+        "phrase": "В этой цифре есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Цифре' is the prepositional after 'в', naming where the error sits. 'Ошибка' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-05",
+        "phrase": "Учитель подошёл к цифре на доске.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Цифре' is the dative after 'к', showing where the teacher moved. 'На доске' adds the prepositional location."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-06",
+        "phrase": "Он обозначил результат цифрой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Цифрой' is the instrumental showing what marked the result. 'Результат' is the accusative object of 'обозначил'."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-07",
+        "phrase": "На экране светятся яркие цифры.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Цифры' is the nominative plural, the subject of 'светятся'. 'Яркие' agrees in plural, and 'на экране' locates them."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-08",
+        "phrase": "Ребёнок выучил все цифры.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Цифры' is the accusative plural object of 'выучил'. 'Все' agrees in plural, marking the whole set learned."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-09",
+        "phrase": "Без этой цифры расчёт неполный.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Цифры' takes the genitive after 'без', meaning without this figure. 'Расчёт' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-TSIFRA-10",
+        "phrase": "Какая цифра идёт после семи?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Цифра' is the nominative subject of 'идёт'. 'Какая' agrees in feminine, and 'после семи' takes the genitive."
+      }
+    ]
+  }
+]

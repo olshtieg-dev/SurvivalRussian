@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-GRIB",
+    "label": "Гриб",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for гриб (mushroom).",
+    "missions": [
+      {
+        "id": "NN-FOOD-GRIB-01",
+        "phrase": "Этот гриб совершенно несъедобный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гриб' is the masculine nominative subject. 'Этот' points at a specific one, and 'несъедобный' is the agreeing masculine predicate adjective."
+      },
+      {
+        "id": "NN-FOOD-GRIB-02",
+        "phrase": "Я нашёл большой гриб под деревом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Гриб' is the accusative direct object of 'нашёл'. As an inanimate masculine noun, its accusative equals the nominative. 'Под деревом' gives the location."
+      },
+      {
+        "id": "NN-FOOD-GRIB-03",
+        "phrase": "В лесу не было ни одного гриба.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Гриба' is genitive after the negated 'не было' and the phrase 'ни одного'. The masculine genitive singular ending is -а."
+      },
+      {
+        "id": "NN-FOOD-GRIB-04",
+        "phrase": "Суп пахнет грибом и зеленью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Грибом' is instrumental after 'пахнет', which governs the instrumental to name a smell. It is joined by 'и' to 'зеленью'."
+      },
+      {
+        "id": "NN-FOOD-GRIB-05",
+        "phrase": "На грибе сидела маленькая улитка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Грибе' is prepositional after 'на', describing where the snail sat. The masculine prepositional ending is -е."
+      },
+      {
+        "id": "NN-FOOD-GRIB-06",
+        "phrase": "Бабушка добавила к супу один гриб.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative. 'Гриб' is the accusative object of 'добавила', while 'к супу' is the dative goal. A natural cooking phrase."
+      },
+      {
+        "id": "NN-FOOD-GRIB-07",
+        "phrase": "Мы радовались каждому грибу в корзине.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Грибу' is dative after 'радоваться', which governs the dative. 'Каждому' agrees in the masculine dative, expressing joy at each find."
+      },
+      {
+        "id": "NN-FOOD-GRIB-08",
+        "phrase": "Дети собрали полную корзину грибов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Грибов' is genitive plural after 'корзину', a container word that governs the genitive of the contents. The masculine genitive plural ending is -ов."
+      },
+      {
+        "id": "NN-FOOD-GRIB-09",
+        "phrase": "Эти грибы растут только осенью.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Грибы' is the nominative plural subject of 'растут'. 'Эти' agrees in the plural, and 'осенью' is the instrumental of time."
+      },
+      {
+        "id": "NN-FOOD-GRIB-10",
+        "phrase": "Без грибов этот суп невкусный.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Грибов' is genitive plural governed by 'без'. Without the mushrooms the soup is tasteless, a clear conditional flavor."
+      }
+    ]
+  }
+]

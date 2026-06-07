@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SIGNAL",
+    "label": "Сигнал",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for сигнал (signal).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SIGNAL-01",
+        "phrase": "Здесь очень слабый сигнал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сигнал' is a masculine noun in the nominative, the subject of the sentence. 'Слабый' is the agreeing adjective, and 'очень' intensifies."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-02",
+        "phrase": "Я наконец поймал сигнал телефона.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сигнал' is the accusative direct object of 'поймал'; this inanimate masculine noun keeps the nominative form. 'Телефона' is a genitive modifier."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-03",
+        "phrase": "Здесь нет сигнала вообще.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'сигнала'. 'Вообще' strengthens the sense of complete absence, a common everyday complaint."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-04",
+        "phrase": "Я обрадовался этому сигналу.",
+        "fullAnalysis": "Strategic focus: Dative after the verb. 'Сигналу' is the dative form governed by 'обрадовался', which requires that case. 'Этому' agrees in the dative masculine."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-05",
+        "phrase": "Капитан управлял судном сигналом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Сигналом' is the instrumental form showing the means used. 'Судном' is another instrumental governed by 'управлял'."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-06",
+        "phrase": "Мы говорили о слабом сигнале.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'О слабом сигнале' uses the prepositional form after 'о' to name the topic. 'Слабом' agrees in the prepositional masculine."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-07",
+        "phrase": "Сигналы тревоги звучали всю ночь.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Сигналы' is the nominative plural, the subject of 'звучали', which agrees in the plural. 'Тревоги' is a genitive modifier."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-08",
+        "phrase": "Мы услышали три коротких сигнала.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'три' the noun takes the genitive singular 'сигнала', while 'коротких' stands in the genitive plural. A standard counting pattern."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-09",
+        "phrase": "Без сигнала рация бесполезна.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Сигнала' is the genitive form required by 'без'. The sentence shows that the device needs a signal to be useful."
+      },
+      {
+        "id": "NN-COMMS-SIGNAL-10",
+        "phrase": "Это самый чёткий сигнал станции.",
+        "fullAnalysis": "Strategic focus: Nominative superlative with genitive modifier. 'Сигнал' is the nominative predicate noun, 'самый чёткий' is the superlative phrase, and 'станции' is a genitive of belonging."
+      }
+    ]
+  }
+]

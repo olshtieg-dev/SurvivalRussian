@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-RAZVEDKA",
+    "label": "Разведка",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for разведка (intelligence, recon).",
+    "missions": [
+      {
+        "id": "NN-STATE-RAZVEDKA-01",
+        "phrase": "Военная разведка работает круглосуточно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Разведка' is a feminine noun in the nominative case, the subject of 'работает'. 'Военная' is the agreeing feminine adjective, and 'круглосуточно' tells how it operates."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-02",
+        "phrase": "Командир отправил разведку вперёд.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Разведку' is the accusative form, the direct object of 'отправил'. The noun is treated as inanimate here, and 'вперёд' gives the direction."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-03",
+        "phrase": "Данные от разведки оказались точными.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Разведки' is the genitive form after 'от', marking the source of the data. 'Данные' is the nominative plural subject."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-04",
+        "phrase": "Штаб доверяет разведке полностью.",
+        "fullAnalysis": "Strategic focus: Dative after доверять. 'Разведке' is the dative form required by 'доверяет', which governs the dative. 'Полностью' intensifies the trust."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-05",
+        "phrase": "Он много лет служил в разведке.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Разведке' is the prepositional form after 'в', describing where he served. 'Много лет' is the accusative phrase of duration."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-06",
+        "phrase": "Армия гордится своей разведкой.",
+        "fullAnalysis": "Strategic focus: Instrumental after гордиться. 'Разведкой' is the instrumental form required by 'гордится', which always governs the instrumental. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-07",
+        "phrase": "Ночные разведки приносили важные сведения.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Разведки' is the nominative plural, the subject of 'приносили'. 'Ночные' agrees in the plural, and 'сведения' is the accusative plural object."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-08",
+        "phrase": "Штаб планирует две разведки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after числительное. 'Разведки' is the genitive singular required after the numeral 'две'. The phrase is the object of 'планирует'."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-09",
+        "phrase": "Без разведки операция была невозможна.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Разведки' is the genitive form required by 'без', expressing the absence of reconnaissance. 'Операция' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-RAZVEDKA-10",
+        "phrase": "Солдаты вернулись с разведки усталыми.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Разведки' is the genitive form after 'с', meaning back from the reconnaissance. 'Усталыми' is the instrumental of state agreeing with the soldiers."
+      }
+    ]
+  }
+]

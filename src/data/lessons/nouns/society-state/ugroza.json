@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-UGROZA",
+    "label": "Угроза",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for угроза (threat).",
+    "missions": [
+      {
+        "id": "NN-STATE-UGROZA-01",
+        "phrase": "Это серьёзная угроза безопасности.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Угроза' is a feminine noun in the nominative as the predicate. 'Серьёзная' is the agreeing adjective, and 'безопасности' is the genitive showing what is threatened."
+      },
+      {
+        "id": "NN-STATE-UGROZA-02",
+        "phrase": "Полиция предотвратила страшную угрозу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Угрозу' is the feminine accusative direct object. 'Страшную' agrees in the accusative, and 'полиция' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-UGROZA-03",
+        "phrase": "Сейчас нет никакой угрозы.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'угрозы'. 'Никакой' agrees in the genitive, reinforcing the negation."
+      },
+      {
+        "id": "NN-STATE-UGROZA-04",
+        "phrase": "Город готовился к угрозе наводнения.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Угрозе' is the dative after 'к', the threat being prepared for. 'Наводнения' is the genitive specifying the danger."
+      },
+      {
+        "id": "NN-STATE-UGROZA-05",
+        "phrase": "Он напугал меня угрозой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Угрозой' is the instrumental naming what scared the speaker. 'Меня' is the accusative object of 'напугал'."
+      },
+      {
+        "id": "NN-STATE-UGROZA-06",
+        "phrase": "В этой угрозе была доля правды.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В угрозе' uses the prepositional form 'угрозе' after 'в' to locate the truth within. 'Доля правды' is the nominative phrase that existed there."
+      },
+      {
+        "id": "NN-STATE-UGROZA-07",
+        "phrase": "Страна живёт под угрозой войны.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'под'. 'Угрозой' is the instrumental after 'под', expressing living under threat. 'Войны' is the genitive naming the danger."
+      },
+      {
+        "id": "NN-STATE-UGROZA-08",
+        "phrase": "Эксперты обсудили новые угрозы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Угрозы' is the inanimate accusative plural, matching the nominative plural. 'Новые' agrees, and 'эксперты' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-UGROZA-09",
+        "phrase": "Эти угрозы всех очень напугали.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Угрозы' is the feminine nominative plural subject. 'Эти' agrees in the plural, and 'всех' is the accusative object of the verb."
+      },
+      {
+        "id": "NN-STATE-UGROZA-10",
+        "phrase": "Мир полон новых угроз.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'полон'. The short adjective 'полон' governs the genitive plural 'угроз'. 'Новых' agrees, and 'мир' is the nominative subject."
+      }
+    ]
+  }
+]

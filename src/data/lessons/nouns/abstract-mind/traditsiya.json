@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-TRADITSIYA",
+    "label": "Традиция",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for традиция (tradition).",
+    "missions": [
+      {
+        "id": "NN-MIND-TRADITSIYA-01",
+        "phrase": "Это старая семейная традиция.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Традиция' is the feminine nominative predicate noun. 'Старая' and 'семейная' agree in the feminine nominative, and 'это' introduces it. A clean descriptive statement."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-02",
+        "phrase": "Мы храним эту традицию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Традицию' is the feminine accusative direct object of 'храним'. 'Эту' agrees in the feminine accusative. A pattern for preserving customs."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-03",
+        "phrase": "У этой традиции долгая история.",
+        "fullAnalysis": "Strategic focus: Genitive possessor. 'Традиции' is the feminine genitive after 'у', marking the possessor. 'Этой' agrees in the feminine genitive, and 'долгая история' is the nominative subject."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-04",
+        "phrase": "Благодаря традиции люди собираются вместе.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Традиции' is the feminine dative after 'благодаря', expressing cause. 'Люди собираются вместе' reports the effect. A useful causal pattern."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-05",
+        "phrase": "Праздник связан с древней традицией.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Традицией' is the feminine instrumental after 'с', marking connection. 'Древней' agrees in the feminine instrumental, and 'связан' is the predicate."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-06",
+        "phrase": "В этой традиции есть глубокий смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Традиции' is the feminine prepositional after 'в', marking the context. 'Этой' agrees in the feminine prepositional, and 'есть глубокий смысл' is the predicate."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-07",
+        "phrase": "Эта традиция передаётся из поколения в поколение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Традиция' is the feminine nominative subject of 'передаётся'. The reflexive verb agrees with it, and the idiom 'из поколения в поколение' adds depth."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-08",
+        "phrase": "В нашей стране много красивых традиций.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Традиций' is the feminine genitive plural after the quantifier 'много'. 'Красивых' agrees in the genitive plural, and 'в нашей стране' gives the location."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-09",
+        "phrase": "Эти традиции очень древние.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Традиции' is the feminine nominative plural subject. 'Эти' and 'древние' agree in the plural, and 'очень' intensifies. A simple plural description."
+      },
+      {
+        "id": "NN-MIND-TRADITSIYA-10",
+        "phrase": "Мы рассказали детям о наших традициях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Традициях' is the feminine prepositional plural after 'о', marking the topic. 'Наших' agrees in the plural, and 'детям' is the dative recipient."
+      }
+    ]
+  }
+]

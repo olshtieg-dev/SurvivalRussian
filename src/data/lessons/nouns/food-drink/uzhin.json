@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-UZHIN",
+    "label": "Ужин",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for ужин (dinner).",
+    "missions": [
+      {
+        "id": "NN-FOOD-UZHIN-01",
+        "phrase": "Ужин уже почти готов.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ужин' is a masculine noun in the nominative case, the subject of the sentence. 'Готов' is the short-form adjective agreeing in the masculine, and 'почти' softens it."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-02",
+        "phrase": "Мама приготовила вкусный ужин.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ужин' is an inanimate masculine noun, so its accusative matches the nominative as the object of 'приготовила'. 'Вкусный' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-03",
+        "phrase": "После ужина мы пили чай.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Ужина' is the genitive form after 'после', marking the time after dinner. 'Чай' is the accusative object of 'пили'."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-04",
+        "phrase": "К ужину пришли все гости.",
+        "fullAnalysis": "Strategic focus: Dative after предлог. 'Ужину' is the dative form after 'к', expressing the occasion they arrived for. 'Гости' is the nominative plural subject of 'пришли'."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-05",
+        "phrase": "Мы остались довольны ужином.",
+        "fullAnalysis": "Strategic focus: Instrumental after довольны. 'Ужином' is the instrumental form required by the adjective 'довольны', which always governs the instrumental. The phrase expresses satisfaction."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-06",
+        "phrase": "На ужине было много блюд.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Ужине' is the prepositional form after 'на', describing where there were many dishes. 'Блюд' is genitive plural after 'много'."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-07",
+        "phrase": "Семейные ужины всегда проходят весело.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Ужины' is the nominative plural, the subject of 'проходят'. 'Семейные' agrees in the plural, and 'весело' describes how they go."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-08",
+        "phrase": "Ресторан предлагает романтические ужины.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Ужины' is the accusative plural, identical to the nominative for inanimate nouns, the object of 'предлагает'. 'Романтические' agrees in the plural."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-09",
+        "phrase": "Сегодня у нас нет ужина.",
+        "fullAnalysis": "Strategic focus: Genitive after отрицание. 'Ужина' is the genitive form required after the negation 'нет', expressing the absence of dinner. 'У нас' marks whose dinner is missing."
+      },
+      {
+        "id": "NN-FOOD-UZHIN-10",
+        "phrase": "Перед ужином он вымыл руки.",
+        "fullAnalysis": "Strategic focus: Instrumental after предлог. 'Ужином' is the instrumental form after 'перед', meaning before dinner. 'Руки' is the accusative plural object of 'вымыл'."
+      }
+    ]
+  }
+]

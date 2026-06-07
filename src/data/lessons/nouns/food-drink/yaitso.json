@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-YAITSO",
+    "label": "Яйцо",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for яйцо (egg).",
+    "missions": [
+      {
+        "id": "NN-FOOD-YAITSO-01",
+        "phrase": "На тарелке лежит варёное яйцо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Яйцо' is nominative as the subject of 'лежит'. 'Варёное' is the agreeing neuter adjective, and 'на тарелке' gives the location."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-02",
+        "phrase": "Я разбил одно яйцо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Яйцо' is the accusative direct object of 'разбил'; as a neuter noun its accusative equals the nominative. 'Одно' agrees in the neuter."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-03",
+        "phrase": "В холодильнике нет ни одного яйца.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Яйца' is genitive after 'нет', marking what is lacking. 'Ни одного' reinforces the complete absence."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-04",
+        "phrase": "Кот тянется к яйцу.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Яйцу' is dative after 'к', marking the thing reached toward. 'Кот' is the nominative subject of 'тянется'."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-05",
+        "phrase": "Она помазала тесто яйцом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Яйцом' is instrumental, the substance used to brush the dough. 'Тесто' is the accusative object of 'помазала'."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-06",
+        "phrase": "В этом яйце два желтка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Яйце' is prepositional after 'в', marking what contains the yolks. 'Желтка' is the genitive form after the numeral 'два'."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-07",
+        "phrase": "На завтрак я жарю яйцо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Яйцо' is the accusative direct object of 'жарю', identical to the nominative for neuter nouns. 'На завтрак' gives the occasion."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-08",
+        "phrase": "В корзине лежат свежие яйца.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Яйца' is the nominative plural subject of 'лежат', with stress shifting in the plural. 'Свежие' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-09",
+        "phrase": "Я купил десять яиц.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Яиц' is the irregular genitive plural required after 'десять', losing the stem ending. A key form to memorise."
+      },
+      {
+        "id": "NN-FOOD-YAITSO-10",
+        "phrase": "Это яйцо ещё сырое.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Яйцо' is nominative as the subject. 'Сырое' is the agreeing neuter predicate adjective, and 'ещё' adds the sense of 'still'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-PRIVET",
+    "label": "Привет",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for привет (hello, greeting).",
+    "missions": [
+      {
+        "id": "NN-COMMS-PRIVET-01",
+        "phrase": "Привет, как твои дела?",
+        "fullAnalysis": "Strategic focus: Nominative as a greeting. 'Привет' functions as an independent nominative interjection opening the conversation. 'Как твои дела' follows as the standard question. The most basic everyday opener."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-02",
+        "phrase": "Передай ему большой привет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Привет' is the accusative direct object of 'передай'; as an inanimate masculine noun its accusative equals the nominative. 'Большой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-03",
+        "phrase": "Я не получил от него привета.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Привета' is the genitive after the negated verb 'не получил'. 'От него' marks the source. A natural way to note a missing greeting."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-04",
+        "phrase": "Я обрадовался этому привету.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Привету' is the dative required by 'обрадовался'. 'Этому' agrees in the masculine dative. A pattern for verbs of emotional reaction."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-05",
+        "phrase": "Он встретил меня тёплым приветом.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner. 'Приветом' is the instrumental describing how he met me. 'Тёплым' agrees in the masculine instrumental. A warm, expressive sentence."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-06",
+        "phrase": "В его привете чувствовалась радость.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Привете' is the prepositional after 'в', marking where the feeling was sensed. 'Чувствовалась радость' is the subject and verb. An emotionally nuanced line."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-07",
+        "phrase": "Это был дружеский привет.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Привет' is the masculine nominative predicate noun. 'Дружеский' agrees in the masculine nominative, and 'это был' introduces it. A simple descriptive statement."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-08",
+        "phrase": "Я отправил всем горячие приветы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Приветы' is the inanimate accusative plural, identical to the nominative, as the object of 'отправил'. 'Горячие' agrees in the plural, and 'всем' is the recipient."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-09",
+        "phrase": "Мы получили много тёплых приветов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Приветов' is the genitive plural after the quantifier 'много'. 'Тёплых' agrees in the genitive plural, and 'получили' is the verb. A friendly summary."
+      },
+      {
+        "id": "NN-COMMS-PRIVET-10",
+        "phrase": "В её письмах всегда есть приветы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Приветы' is the nominative plural subject of 'есть'. 'В её письмах' is a prepositional-plural frame, and 'всегда' adds habituality. A warm closing thought."
+      }
+    ]
+  }
+]

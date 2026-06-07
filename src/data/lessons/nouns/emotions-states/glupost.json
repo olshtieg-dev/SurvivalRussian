@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-GLUPOST",
+    "label": "Глупость",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for глупость (foolishness).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-GLUPOST-01",
+        "phrase": "Это была полная глупость.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Глупость' is a feminine soft-sign noun in the nominative as the predicate after 'это была'. 'Полная' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-02",
+        "phrase": "Не говори такую глупость!",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Глупость' is the accusative direct object of the imperative 'не говори'; for this feminine noun the accusative equals the nominative. 'Такую' agrees in the accusative."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-03",
+        "phrase": "От этой глупости все устали.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Глупости' is genitive after 'от', marking the cause of tiredness. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-04",
+        "phrase": "К твоей глупости трудно привыкнуть.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Глупости' is dative after 'к', marking what is hard to get used to. 'Твоей' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-05",
+        "phrase": "Он удивил всех своей глупостью.",
+        "fullAnalysis": "Strategic focus: Instrumental means. 'Глупостью' is the instrumental naming what he surprised everyone with. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-06",
+        "phrase": "В этой глупости нет ничего смешного.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Глупости' is the prepositional form after 'в', locating the absence of humor within the foolishness. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-07",
+        "phrase": "Его глупость иногда раздражает.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Глупость' is the nominative subject of 'раздражает'. 'Его' is the possessive, and 'иногда' adds frequency."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-08",
+        "phrase": "Из-за глупости он потерял работу.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Глупости' is genitive after 'из-за', marking the reason he lost his job. A clean cause-and-effect phrase."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-09",
+        "phrase": "Он совершает одни глупости.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Глупости' is the accusative plural object of 'совершает', matching the nominative plural for this feminine noun. 'Одни' stresses he does nothing but foolish things."
+      },
+      {
+        "id": "NN-EMOTION-GLUPOST-10",
+        "phrase": "Такие глупости меня не удивляют.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Глупости' is the nominative plural subject of 'удивляют'. 'Такие' agrees in plural, and 'меня' is the accusative object."
+      }
+    ]
+  }
+]

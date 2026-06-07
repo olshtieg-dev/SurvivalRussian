@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-ZOLOTO",
+    "label": "Золото",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for золото (gold).",
+    "missions": [
+      {
+        "id": "NN-NATURE-ZOLOTO-01",
+        "phrase": "Это настоящее золото.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Золото' is a neuter noun in the nominative as the predicate. 'Настоящее' is the agreeing neuter adjective confirming it is real gold."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-02",
+        "phrase": "Они нашли чистое золото.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Золото' is the accusative direct object of 'нашли'. As an inanimate neuter noun it matches the nominative form, and 'чистое' agrees with it."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-03",
+        "phrase": "У них нет золота.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Золота' takes the genitive after 'нет', expressing that no gold is present. A core pattern for the negation of having."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-04",
+        "phrase": "Кольцо сделано из золота.",
+        "fullAnalysis": "Strategic focus: Genitive of material after 'из'. 'Золота' takes the genitive after 'из' to show what the ring is made of. A very common way to name materials."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-05",
+        "phrase": "Я расскажу тебе о золоте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О золоте' uses the prepositional form 'золоте' after 'о' to talk about gold. 'Тебе' is the dative listener in this offer."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-06",
+        "phrase": "Корону украсили золотом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Золотом' takes the instrumental to show what the crown was decorated with. A natural pattern for adornment and material."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-07",
+        "phrase": "Цена растёт благодаря золоту.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Золоту' takes the dative because 'благодаря' governs that case, meaning thanks to gold. A useful causal frame."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-08",
+        "phrase": "Без золота кольцо ничего не стоит.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Золота' takes the genitive because 'без' requires it, meaning without gold. The negation 'ничего не стоит' is standard usage."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-09",
+        "phrase": "В реке блестит золото.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Золото' is the nominative subject of 'блестит'. As a mass noun it usually stays singular, and 'в реке' gives the location."
+      },
+      {
+        "id": "NN-NATURE-ZOLOTO-10",
+        "phrase": "В музее много старинного золота.",
+        "fullAnalysis": "Strategic focus: Genitive after 'много'. 'Золота' takes the genitive after 'много'. As a mass noun it counts by quantity rather than plural, and 'старинного' agrees in the genitive."
+      }
+    ]
+  }
+]

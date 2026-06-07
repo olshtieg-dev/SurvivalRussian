@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-MEKHANIZM",
+    "label": "Механизм",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for механизм (mechanism).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-01",
+        "phrase": "Этот механизм работает очень тихо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Механизм' is a masculine noun in the nominative case, the subject of 'работает'. 'Этот' is the agreeing masculine pronoun, and 'тихо' describes how it works."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-02",
+        "phrase": "Я починил старый механизм часов.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Механизм' is an inanimate masculine noun, so its accusative matches the nominative as the direct object of 'починил'. 'Старый' agrees in the masculine, and 'часов' is genitive plural showing whose mechanism."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-03",
+        "phrase": "У этого механизма сложное устройство.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Механизма' is the genitive form after 'у', showing the mechanism as the possessor. 'Сложное устройство' is the nominative subject that belongs to it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-04",
+        "phrase": "Мастер дал механизму вторую жизнь.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Механизму' is the dative form, the indirect object receiving the action of 'дал'. The idiom 'вторую жизнь' is the accusative thing given."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-05",
+        "phrase": "Инженер управляет сложным механизмом.",
+        "fullAnalysis": "Strategic focus: Instrumental after глагол. 'Механизмом' is the instrumental form required by 'управляет', which always governs the instrumental. 'Сложным' is the agreeing masculine instrumental adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-06",
+        "phrase": "В этом механизме нет лишних деталей.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Механизме' is the prepositional form after 'в', describing where there are no extra parts. 'Деталей' is genitive plural required by the negation 'нет'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-07",
+        "phrase": "Эти механизмы давно устарели.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Механизмы' is the nominative plural, the subject of 'устарели'. 'Эти' agrees in the plural, and the verb takes the plural ending too."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-08",
+        "phrase": "Завод выпускает новые механизмы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Механизмы' is the accusative plural, identical to the nominative for inanimate nouns, as the direct object of 'выпускает'. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-09",
+        "phrase": "Без этого механизма дверь не откроется.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Механизма' is the genitive form required by 'без'. 'Этого' is the agreeing masculine genitive pronoun, and the clause explains a consequence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-MEKHANIZM-10",
+        "phrase": "Он разобрался в механизме за час.",
+        "fullAnalysis": "Strategic focus: Prepositional with разобраться. 'Механизме' is the prepositional form after 'в', the thing he figured out. 'За час' marks the time it took."
+      }
+    ]
+  }
+]

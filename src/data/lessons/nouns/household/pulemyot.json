@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PULEMYOT",
+    "label": "Пулемёт",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for пулемёт (machine gun).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-01",
+        "phrase": "Пулемёт стоял на высоком холме.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пулемёт' is the masculine nominative subject of 'стоял'. The verb agrees in masculine gender, and 'на высоком холме' gives the location. A clear scene-setting sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-02",
+        "phrase": "Солдат быстро зарядил пулемёт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пулемёт' is the accusative direct object of 'зарядил'; as an inanimate masculine noun its accusative matches the nominative. 'Быстро' describes the action."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-03",
+        "phrase": "У нас нет пулемёта.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Пулемёта' is the genitive after the negative 'нет'. The possession frame 'у нас' shows who lacks it. A concise statement of absence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-04",
+        "phrase": "К старому пулемёту подошёл командир.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Пулемёту' is the dative after 'к', marking the goal of motion. 'Старому' agrees in the masculine dative, and 'подошёл' agrees with the subject 'командир'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-05",
+        "phrase": "Он управлял тяжёлым пулемётом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Пулемётом' is the instrumental required by 'управлял'. 'Тяжёлым' agrees in the masculine instrumental. A pattern for verbs of operating equipment."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-06",
+        "phrase": "В этом пулемёте есть дефект.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Пулемёте' is the prepositional after 'в', showing location inside. 'Этом' agrees in the masculine prepositional, and 'есть дефект' states what is there."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-07",
+        "phrase": "Эти пулемёты уже старые.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Пулемёты' is the nominative plural subject. 'Эти' and 'старые' agree in the plural, and 'уже' adds a time nuance. A simple descriptive statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-08",
+        "phrase": "Завод выпускает новые пулемёты.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Пулемёты' is the inanimate accusative plural, identical to the nominative, as the object of 'выпускает'. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-09",
+        "phrase": "На складе много старых пулемётов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Пулемётов' is the genitive plural after the quantifier 'много'. 'Старых' agrees in the genitive plural, and 'на складе' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PULEMYOT-10",
+        "phrase": "На двух пулемётах закончились патроны.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Пулемётах' is the prepositional plural after 'на'. 'Двух' agrees in this oblique plural form, and 'закончились патроны' reports the result."
+      }
+    ]
+  }
+]

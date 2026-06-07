@@ -1,4 +1,5 @@
 import aktyorSet from './aktyor.json';
+import amerikanetsSet from './amerikanets.json';
 import artistSet from './artist.json';
 import avtorSet from './avtor.json';
 import babaSet from './baba.json';
@@ -10,6 +11,7 @@ import chinovnikSet from './chinovnik.json';
 import chitatelSet from './chitatel.json';
 import chlenSet from './chlen.json';
 import damaSet from './dama.json';
+import deputatSet from './deputat.json';
 import devchonkaSet from './devchonka.json';
 import devitsaSet from './devitsa.json';
 import devushkaSet from './devushka.json';
@@ -22,6 +24,7 @@ import geroiSet from './geroi.json';
 import gospodinSet from './gospodin.json';
 import gostSet from './gost.json';
 import grazhdaninSet from './grazhdanin.json';
+import imperatorSet from './imperator.json';
 import inspektorSet from './inspektor.json';
 import inzhenerSet from './inzhener.json';
 import kapitanSet from './kapitan.json';
@@ -58,16 +61,21 @@ import pisatelSet from './pisatel.json';
 import poetSet from './poet.json';
 import pokolenieSet from './pokolenie.json';
 import polkovnikSet from './polkovnik.json';
+import pomoshchnikSet from './pomoshchnik.json';
 import predsedatelSet from './predsedatel.json';
 import predstavitelSet from './predstavitel.json';
+import prestupnikSet from './prestupnik.json';
 import prezidentSet from './prezident.json';
 import priyatelSet from './priyatel.json';
+import professiyaSet from './professiya.json';
 import professorSet from './professor.json';
 import rabotnikSet from './rabotnik.json';
+import ranenyiSet from './ranenyi.json';
 import razvedchikSet from './razvedchik.json';
 import rukovoditelSet from './rukovoditel.json';
 import sekretarSet from './sekretar.json';
 import serzhantSet from './serzhant.json';
+import shefSet from './shef.json';
 import shkolnikSet from './shkolnik.json';
 import shofyorSet from './shofyor.json';
 import sledovatelSet from './sledovatel.json';
@@ -77,12 +85,17 @@ import sosedSet from './sosed.json';
 import spetsialistSet from './spetsialist.json';
 import starikSet from './starik.json';
 import starshinaSet from './starshina.json';
+import starushkaSet from './starushka.json';
 import stroiSet from './stroi.json';
 import studentSet from './student.json';
+import sudyaSet from './sudya.json';
 import sushchestvoSet from './sushchestvo.json';
+import svidetelSet from './svidetel.json';
 import tovarishchSet from './tovarishch.json';
 import trupSet from './trup.json';
 import tsarSet from './tsar.json';
+import tyotkaSet from './tyotka.json';
+import uchastnikSet from './uchastnik.json';
 import uchenikSet from './uchenik.json';
 import uchitelSet from './uchitel.json';
 import uchyonyiSet from './uchyonyi.json';
@@ -98,6 +111,7 @@ import znakomyiSet from './znakomyi.json';
 export const peopleRolesNounsFolderId = 'nouns-people-roles';
 const peopleRolesNounsData = [
   ...aktyorSet,
+  ...amerikanetsSet,
   ...artistSet,
   ...avtorSet,
   ...babaSet,
@@ -109,6 +123,7 @@ const peopleRolesNounsData = [
   ...chitatelSet,
   ...chlenSet,
   ...damaSet,
+  ...deputatSet,
   ...devchonkaSet,
   ...devitsaSet,
   ...devushkaSet,
@@ -121,6 +136,7 @@ const peopleRolesNounsData = [
   ...gospodinSet,
   ...gostSet,
   ...grazhdaninSet,
+  ...imperatorSet,
   ...inspektorSet,
   ...inzhenerSet,
   ...kapitanSet,
@@ -157,16 +173,21 @@ const peopleRolesNounsData = [
   ...poetSet,
   ...pokolenieSet,
   ...polkovnikSet,
+  ...pomoshchnikSet,
   ...predsedatelSet,
   ...predstavitelSet,
+  ...prestupnikSet,
   ...prezidentSet,
   ...priyatelSet,
+  ...professiyaSet,
   ...professorSet,
   ...rabotnikSet,
+  ...ranenyiSet,
   ...razvedchikSet,
   ...rukovoditelSet,
   ...sekretarSet,
   ...serzhantSet,
+  ...shefSet,
   ...shkolnikSet,
   ...shofyorSet,
   ...sledovatelSet,
@@ -176,12 +197,17 @@ const peopleRolesNounsData = [
   ...spetsialistSet,
   ...starikSet,
   ...starshinaSet,
+  ...starushkaSet,
   ...stroiSet,
   ...studentSet,
+  ...sudyaSet,
   ...sushchestvoSet,
+  ...svidetelSet,
   ...tovarishchSet,
   ...trupSet,
   ...tsarSet,
+  ...tyotkaSet,
+  ...uchastnikSet,
   ...uchenikSet,
   ...uchitelSet,
   ...uchyonyiSet,

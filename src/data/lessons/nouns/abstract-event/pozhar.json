@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-POZHAR",
+    "label": "Пожар",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for пожар (fire).",
+    "missions": [
+      {
+        "id": "NN-EVENT-POZHAR-01",
+        "phrase": "Большой пожар начался ночью.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пожар' stays in the nominative as the subject of 'начался'. 'Большой' is the agreeing masculine adjective, and 'ночью' fixes the time. A clean event card."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-02",
+        "phrase": "Пожарные быстро потушили пожар.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пожар' is an inanimate masculine noun, so its accusative matches the nominative as the object of 'потушили'. 'Быстро' adds the manner. A natural action pattern."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-03",
+        "phrase": "Из-за пожара сгорел старый дом.",
+        "fullAnalysis": "Strategic focus: Genitive with 'из-за'. 'Пожара' takes the genitive after the causal 'из-за' to mean because of the fire. 'Сгорел старый дом' is the result. A common cause pattern."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-04",
+        "phrase": "Люди бежали к пожару с вёдрами.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'К пожару' uses the dative form 'пожару' to show movement toward the fire. 'С вёдрами' is the instrumental of accompaniment. A natural motion-toward pattern."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-05",
+        "phrase": "Здание было уничтожено пожаром.",
+        "fullAnalysis": "Strategic focus: Instrumental of agent. 'Пожаром' takes the instrumental to express the means or agent of destruction with the passive 'было уничтожено'. 'Здание' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-06",
+        "phrase": "О пожаре сообщили по радио.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О пожаре' uses the prepositional 'пожаре' after 'о' to express reporting about the fire. 'По радио' gives the channel. A useful media pattern."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-07",
+        "phrase": "На складе случилось два пожара.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'два'. After the numeral 'два' the masculine noun takes the genitive singular 'пожара'. 'На складе' sets the place. A key number-noun rule."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-08",
+        "phrase": "Летом в лесу часто бывают пожары.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Пожары' is the nominative plural subject of 'бывают'. 'Часто' adds frequency, and 'в лесу' sets the place. A clean plural model."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-09",
+        "phrase": "Эти пожары уничтожили целые деревни.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject with accusative object. 'Пожары' is the nominative plural subject of 'уничтожили'. 'Эти' agrees, and 'целые деревни' is the accusative plural object."
+      },
+      {
+        "id": "NN-EVENT-POZHAR-10",
+        "phrase": "Спасатели борются с лесными пожарами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural with 'с'. 'С пожарами' uses the instrumental plural 'пожарами' after 'бороться с' to mean fighting the fires. 'Лесными' agrees in the plural."
+      }
+    ]
+  }
+]

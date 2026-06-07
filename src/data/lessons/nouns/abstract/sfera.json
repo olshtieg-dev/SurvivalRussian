@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-SFERA",
+    "label": "Сфера",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for сфера (sphere).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-SFERA-01",
+        "phrase": "Это совершенно новая сфера деятельности.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Сфера' is a feminine noun in the nominative as the predicate noun. 'Новая' agrees with it, and 'деятельности' is a genitive modifier."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-02",
+        "phrase": "Я изучаю эту сферу науки.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сферу' is the accusative direct object of 'изучаю', with the feminine ending in -у. 'Эту' agrees, and 'науки' is a genitive modifier."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-03",
+        "phrase": "У этой сферы большое будущее.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Сферы' is the genitive form after 'у' in the possession frame. 'Большое будущее' is the nominative subject describing what the sphere has."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-04",
+        "phrase": "Он работает в финансовой сфере.",
+        "fullAnalysis": "Strategic focus: Prepositional of domain. 'В финансовой сфере' uses the prepositional form after 'в' to name the field of work. A natural way to describe one's profession."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-05",
+        "phrase": "Государство уделяет внимание этой сфере.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Сфере' is the dative form, the indirect object receiving the attention in 'уделяет внимание'. 'Этой' agrees in the dative feminine."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-06",
+        "phrase": "Он гордится своей сферой работы.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Сферой' is the instrumental form governed by 'гордится', which requires that case. 'Своей' agrees in the instrumental feminine."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-07",
+        "phrase": "Реформы затронули многие сферы жизни.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Сферы' is the accusative plural object of 'затронули', matching the nominative plural form. 'Многие' agrees, and 'жизни' is a genitive modifier."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-08",
+        "phrase": "В экономике есть разные сферы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Сферы' is the nominative plural, the subject introduced by 'есть'. 'Разные' agrees in the plural, and 'в экономике' adds the location."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-09",
+        "phrase": "В стране много важных сфер.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Сфер' is the genitive plural with a zero ending, required by 'много'. 'Важных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-ABSTRACT-SFERA-10",
+        "phrase": "Это самая сложная сфера экономики.",
+        "fullAnalysis": "Strategic focus: Nominative superlative description. 'Сфера' is nominative as the predicate noun. 'Самая сложная' is the superlative feminine phrase, and 'экономики' is a genitive modifier."
+      }
+    ]
+  }
+]

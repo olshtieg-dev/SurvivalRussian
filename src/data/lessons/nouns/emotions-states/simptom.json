@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-SIMPTOM",
+    "label": "Симптом",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for симптом (symptom).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-SIMPTOM-01",
+        "phrase": "Это очень тревожный симптом.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Симптом' is a masculine noun in the nominative as the predicate noun. 'Тревожный' is the agreeing adjective, and 'очень' intensifies."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-02",
+        "phrase": "Врач заметил странный симптом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Симптом' is the accusative direct object of 'заметил'; this inanimate masculine noun keeps the nominative form. 'Странный' agrees with it."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-03",
+        "phrase": "У больного нет этого симптома.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'симптома'. 'Этого' agrees, and 'у больного' names whose condition is described."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-04",
+        "phrase": "Врач уделил внимание этому симптому.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Симптому' is the dative form receiving the attention in 'уделил внимание'. 'Этому' agrees in the dative masculine."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-05",
+        "phrase": "Болезнь сопровождается высокой температурой.",
+        "fullAnalysis": "Strategic focus: Symptom context with instrumental. The phrase introduces a symptom through 'сопровождается высокой температурой', where 'температурой' is the instrumental complement naming the accompanying sign."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-06",
+        "phrase": "Мы говорили об этом симптоме.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'Об этом симптоме' uses the prepositional form after 'об' to name the topic discussed. 'Этом' agrees in the prepositional masculine."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-07",
+        "phrase": "У него появились первые симптомы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Симптомы' is the nominative plural, the subject of 'появились', which agrees in the plural. 'Первые' agrees, and 'у него' names the patient."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-08",
+        "phrase": "Врач описал три главных симптома.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'три' the noun takes the genitive singular 'симптома', while 'главных' stands in the genitive plural. A standard counting pattern."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-09",
+        "phrase": "У гриппа много разных симптомов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Симптомов' is the genitive plural required by 'много'. 'Разных' agrees, and 'у гриппа' names what they belong to."
+      },
+      {
+        "id": "NN-EMOTION-SIMPTOM-10",
+        "phrase": "Это самый опасный симптом болезни.",
+        "fullAnalysis": "Strategic focus: Nominative superlative with genitive modifier. 'Симптом' is the nominative predicate noun, 'самый опасный' is the superlative phrase, and 'болезни' is a genitive modifier."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-STARUSHKA",
+    "label": "Старушка",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for старушка (old woman).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-STARUSHKA-01",
+        "phrase": "Старушка сидела на скамейке.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Старушка' is the feminine nominative subject of 'сидела'. The verb agrees in feminine gender, and 'на скамейке' gives the location. A gentle everyday scene."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-02",
+        "phrase": "Я увидел добрую старушку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Старушку' is the feminine accusative direct object of 'увидел'. 'Добрую' agrees in the feminine accusative. A clean transitive-verb pattern."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-03",
+        "phrase": "У старушки было много кошек.",
+        "fullAnalysis": "Strategic focus: Genitive possessor. 'Старушки' is the feminine genitive after 'у', marking the possessor. 'Было много кошек' describes what she had. A natural possession frame."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-04",
+        "phrase": "Я помог старушке перейти дорогу.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Старушке' is the feminine dative, the person helped by 'помог', which governs the dative. 'Перейти дорогу' states the action helped with. A kind everyday gesture."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-05",
+        "phrase": "Он долго говорил со старушкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Старушкой' is the feminine instrumental after 'с', marking the conversation partner. 'Долго' adds duration. The standard 'talk with someone' pattern."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-06",
+        "phrase": "О старушке заботятся соседи.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Старушке' is the feminine prepositional after 'о', marking who is cared about. 'Соседи' is the nominative subject of 'заботятся'. A warm community scene."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-07",
+        "phrase": "Старушки часто гуляют в парке.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Старушки' is the feminine nominative plural subject of 'гуляют'. 'Часто' adds frequency, and 'в парке' gives the location. A typical observation."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-08",
+        "phrase": "Я встретил двух весёлых старушек.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Старушек' is the accusative plural, which equals the genitive plural for animate nouns. 'Весёлых' and 'двух' agree in this form. An important animacy rule."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-09",
+        "phrase": "На рынке стояло несколько старушек.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Старушек' is the genitive plural after the quantifier 'несколько'; note the fleeting vowel giving the zero-ending stem. 'На рынке' sets the place."
+      },
+      {
+        "id": "NN-PEOPLE-STARUSHKA-10",
+        "phrase": "Дети помогали старушкам с покупками.",
+        "fullAnalysis": "Strategic focus: Dative plural. 'Старушкам' is the dative plural, the recipients of 'помогали', which governs the dative. 'С покупками' states what they were helped with. A heart-warming line."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-IMPERATOR",
+    "label": "Император",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for император (emperor).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-IMPERATOR-01",
+        "phrase": "Это был великий император.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Император' stays in the nominative as the predicate noun. 'Великий' is the agreeing masculine adjective, and 'был' marks the past."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-02",
+        "phrase": "Народ любил своего императора.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Императора' takes the accusative, which equals the genitive for animate masculine nouns. 'Своего' agrees in that animate accusative form."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-03",
+        "phrase": "У императора было много земель.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Императора' takes the genitive after 'у' to show who possessed the lands. 'Много земель' adds a genitive plural quantity."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-04",
+        "phrase": "Солдаты служили императору верно.",
+        "fullAnalysis": "Strategic focus: Dative after 'служить'. 'Императору' takes the dative because the verb 'служить' governs that case, meaning to serve the emperor. 'Верно' adds the manner."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-05",
+        "phrase": "Мы читали книгу об императоре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об императоре' uses the prepositional form after 'об' to talk about the emperor. A natural frame for discussing a historical figure."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-06",
+        "phrase": "Он стал великим императором.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'стать'. 'Императором' takes the instrumental because 'стать' governs that case, meaning to become emperor. 'Великим' agrees in the instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-07",
+        "phrase": "Письмо отправили к императору.",
+        "fullAnalysis": "Strategic focus: Dative direction after 'к'. 'Императору' takes the dative after 'к' to express direction toward the emperor. A useful pattern for sending and approaching."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-08",
+        "phrase": "Без императора страна ослабела.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Императора' takes the genitive because 'без' requires it, meaning without an emperor. A clear case of governed genitive."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-09",
+        "phrase": "Эти императоры правили долго.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Императоры' is the nominative plural subject of 'правили'. 'Эти' agrees in the plural, and 'долго' adds duration."
+      },
+      {
+        "id": "NN-PEOPLE-IMPERATOR-10",
+        "phrase": "История помнит многих императоров.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Императоров' takes the accusative, which equals the genitive plural for animate nouns. 'Многих' agrees in that animate plural form."
+      }
+    ]
+  }
+]

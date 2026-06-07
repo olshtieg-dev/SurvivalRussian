@@ -1,4 +1,7 @@
+import banyaSet from './banya.json';
+import bashnyaSet from './bashnya.json';
 import bazaSet from './baza.json';
+import bibliotekaSet from './biblioteka.json';
 import bolnitsaSet from './bolnitsa.json';
 import dalSet from './dal.json';
 import derevnyaSet from './derevnya.json';
@@ -10,6 +13,7 @@ import dvorSet from './dvor.json';
 import dvoretsSet from './dvorets.json';
 import etazhSet from './etazh.json';
 import glubinaSet from './glubina.json';
+import gorizontSet from './gorizont.json';
 import gorodSet from './gorod.json';
 import gostinitsaSet from './gostinitsa.json';
 import granitsaSet from './granitsa.json';
@@ -17,11 +21,14 @@ import institutSet from './institut.json';
 import izbaSet from './izba.json';
 import kabinetSet from './kabinet.json';
 import kanalSet from './kanal.json';
+import kholmSet from './kholm.json';
 import khramSet from './khram.json';
+import kladbishcheSet from './kladbishche.json';
 import klubSet from './klub.json';
 import komnataSet from './komnata.json';
 import konetsSet from './konets.json';
 import koridorSet from './koridor.json';
+import korpusSet from './korpus.json';
 import kryltsoSet from './kryltso.json';
 import kryshaSet from './krysha.json';
 import kukhnyaSet from './kukhnya.json';
@@ -36,14 +43,17 @@ import mostSet from './most.json';
 import muzeiSet from './muzei.json';
 import napravlenieSet from './napravlenie.json';
 import oblastSet from './oblast.json';
+import ogorodSet from './ogorod.json';
 import otdelSet from './otdel.json';
 import otdelenieSet from './otdelenie.json';
 import ozeroSet from './ozero.json';
 import parkSet from './park.json';
+import perekhodSet from './perekhod.json';
 import planetaSet from './planeta.json';
 import ploshchadSet from './ploshchad.json';
 import ploshchadkaSet from './ploshchadka.json';
 import podezdSet from './podezd.json';
+import podvalSet from './podval.json';
 import poleSet from './pole.json';
 import polosaSet from './polosa.json';
 import pomeshchenieSet from './pomeshchenie.json';
@@ -67,7 +77,9 @@ import rynokSet from './rynok.json';
 import sadSet from './sad.json';
 import seredinaSet from './seredina.json';
 import shkolaSet from './shkola.json';
+import shosseSet from './shosse.json';
 import shtabSet from './shtab.json';
+import skladSet from './sklad.json';
 import stantsiyaSet from './stantsiya.json';
 import stolitsaSet from './stolitsa.json';
 import storonaSet from './storona.json';
@@ -89,6 +101,7 @@ import vkhodSet from './vkhod.json';
 import vokzalSet from './vokzal.json';
 import vostokSet from './vostok.json';
 import vysotaSet from './vysota.json';
+import yamaSet from './yama.json';
 import yugSet from './yug.json';
 import zalSet from './zal.json';
 import zamokSet from './zamok.json';
@@ -99,7 +112,10 @@ import zonaSet from './zona.json';
 
 export const motionLocationNounsFolderId = 'nouns-motion-location';
 const motionLocationNounsData = [
+  ...banyaSet,
+  ...bashnyaSet,
   ...bazaSet,
+  ...bibliotekaSet,
   ...bolnitsaSet,
   ...dalSet,
   ...derevnyaSet,
@@ -111,6 +127,7 @@ const motionLocationNounsData = [
   ...dvoretsSet,
   ...etazhSet,
   ...glubinaSet,
+  ...gorizontSet,
   ...gorodSet,
   ...gostinitsaSet,
   ...granitsaSet,
@@ -118,11 +135,14 @@ const motionLocationNounsData = [
   ...izbaSet,
   ...kabinetSet,
   ...kanalSet,
+  ...kholmSet,
   ...khramSet,
+  ...kladbishcheSet,
   ...klubSet,
   ...komnataSet,
   ...konetsSet,
   ...koridorSet,
+  ...korpusSet,
   ...kryltsoSet,
   ...kryshaSet,
   ...kukhnyaSet,
@@ -137,14 +157,17 @@ const motionLocationNounsData = [
   ...muzeiSet,
   ...napravlenieSet,
   ...oblastSet,
+  ...ogorodSet,
   ...otdelSet,
   ...otdelenieSet,
   ...ozeroSet,
   ...parkSet,
+  ...perekhodSet,
   ...planetaSet,
   ...ploshchadSet,
   ...ploshchadkaSet,
   ...podezdSet,
+  ...podvalSet,
   ...poleSet,
   ...polosaSet,
   ...pomeshchenieSet,
@@ -168,7 +191,9 @@ const motionLocationNounsData = [
   ...sadSet,
   ...seredinaSet,
   ...shkolaSet,
+  ...shosseSet,
   ...shtabSet,
+  ...skladSet,
   ...stantsiyaSet,
   ...stolitsaSet,
   ...storonaSet,
@@ -190,6 +215,7 @@ const motionLocationNounsData = [
   ...vokzalSet,
   ...vostokSet,
   ...vysotaSet,
+  ...yamaSet,
   ...yugSet,
   ...zalSet,
   ...zamokSet,

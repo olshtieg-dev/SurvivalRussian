@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-DIVIZIYA",
+    "label": "Дивизия",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for дивизия (division).",
+    "missions": [
+      {
+        "id": "NN-STATE-DIVIZIYA-01",
+        "phrase": "На границе стоит танковая дивизия.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дивизия' stays in the nominative case as the feminine subject stationed at the border. 'Танковая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-02",
+        "phrase": "Командир построил всю дивизию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дивизию' is the accusative direct object of 'построил'. 'Всю' is the agreeing feminine accusative form."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-03",
+        "phrase": "Солдаты этой дивизии очень дисциплинированы.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дивизии' is the genitive form showing which division the soldiers belong to. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-04",
+        "phrase": "Штаб отдал приказ дивизии.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Дивизии' is the dative case marking the recipient of the order. The dative answers 'to whom' the command was given."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-05",
+        "phrase": "Генерал командует первой дивизией.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Дивизией' is the instrumental case required by the verb 'командовать'. 'Первой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-06",
+        "phrase": "Мы говорим о новой дивизии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О дивизии' uses the prepositional form 'дивизии' after 'о' to express talking about the division. 'Новой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-07",
+        "phrase": "Он служит в горной дивизии.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В дивизии' uses the prepositional form after 'в' to show where he serves. 'Горной' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-08",
+        "phrase": "На параде прошли три дивизии.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Дивизии' takes the genitive singular after 'три', as numerals two through four require. A core numeral pattern."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-09",
+        "phrase": "На учениях участвовали несколько дивизий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Дивизий' is the genitive plural after 'несколько'. The soft stem yields a zero ending with the inserted и. A key quantity pattern."
+      },
+      {
+        "id": "NN-STATE-DIVIZIYA-10",
+        "phrase": "Все дивизии готовы к манёврам.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Дивизии' is the nominative plural subject. 'Все' agrees in the plural, and 'готовы' is the short plural predicate adjective."
+      }
+    ]
+  }
+]

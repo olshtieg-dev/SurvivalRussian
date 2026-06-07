@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-VERYOVKA",
+    "label": "Верёвка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for верёвка (rope).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-01",
+        "phrase": "Эта верёвка слишком короткая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Верёвка' stays in the nominative as the subject. 'Короткая' is the agreeing feminine adjective, intensified by 'слишком'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-02",
+        "phrase": "Дай мне длинную верёвку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Верёвку' is the accusative direct object of 'дай'. 'Длинную' agrees in the feminine accusative, and 'мне' is the dative recipient."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-03",
+        "phrase": "У нас нет крепкой верёвки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Верёвки' takes the genitive after 'нет', expressing that none is available. 'Крепкой' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-04",
+        "phrase": "Бельё висит на верёвке.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Верёвке' is the prepositional form after 'на', marking where the laundry hangs. 'Бельё' is the nominative subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-05",
+        "phrase": "Он привязал лодку верёвкой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Верёвкой' is the instrumental showing what the boat was tied with. 'Лодку' is the accusative object of 'привязал'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-06",
+        "phrase": "Мы подошли к верёвке.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Верёвке' is the dative after 'к', showing movement toward the rope. The verb 'подошли' is the plural past."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-07",
+        "phrase": "В сарае висят разные верёвки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Верёвки' is the nominative plural, the subject of 'висят'. 'Разные' agrees in plural, and 'в сарае' locates them."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-08",
+        "phrase": "Я купил две новые верёвки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after number. After 'две' the noun 'верёвки' takes the genitive singular form. 'Новые' agrees in the special numeral phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-09",
+        "phrase": "Без верёвки мы не справимся.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Верёвки' takes the genitive after 'без', meaning without the rope. The clause stresses dependence on it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-VERYOVKA-10",
+        "phrase": "Верёвка лежит под столом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Верёвка' is the nominative subject of 'лежит'. 'Под столом' is an instrumental location phrase showing where it lies."
+      }
+    ]
+  }
+]

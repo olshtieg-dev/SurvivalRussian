@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SHEF",
+    "label": "Шеф",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for шеф (boss).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SHEF-01",
+        "phrase": "Наш шеф сегодня в хорошем настроении.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шеф' is nominative as the subject. 'Наш' is the agreeing masculine possessive, and 'в хорошем настроении' describes his mood."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-02",
+        "phrase": "Я давно знаю нашего шефа.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Шефа' takes the genitive-like accusative because it is animate masculine. 'Нашего' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-03",
+        "phrase": "У шефа сегодня важная встреча.",
+        "fullAnalysis": "Strategic focus: Genitive in a possession frame. 'Шефа' is genitive after 'у', marking whose meeting it is. 'Встреча' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-04",
+        "phrase": "Я позвонил шефу утром.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Шефу' is dative as the person called, governed by 'позвонил'. 'Утром' is an instrumental adverb of time."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-05",
+        "phrase": "Я говорил с шефом о зарплате.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Шефом' is instrumental after 'с', marking the person spoken with. 'О зарплате' is prepositional, naming the topic."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-06",
+        "phrase": "Мы говорим о новом шефе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Шефе' is prepositional after 'о', marking the topic of discussion. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-07",
+        "phrase": "Все сотрудники уважают своего шефа.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Шефа' uses the animate accusative, identical to the genitive. 'Своего' agrees, and 'сотрудники' is the nominative plural subject."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-08",
+        "phrase": "Шеф похвалил меня перед коллегами.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шеф' is nominative as the subject of 'похвалил'. 'Меня' is the accusative object, and 'перед коллегами' is instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-09",
+        "phrase": "В компании работают строгие шефы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Шефы' is the nominative plural subject of 'работают'. 'Строгие' is the agreeing plural adjective, and 'в компании' gives the setting."
+      },
+      {
+        "id": "NN-PEOPLE-SHEF-10",
+        "phrase": "Наш шеф очень требовательный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Шеф' is nominative as the subject. 'Требовательный' is the agreeing masculine predicate adjective, intensified by 'очень'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-AMERIKANETS",
+    "label": "Американец",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for американец (American).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-01",
+        "phrase": "Наш новый сосед американец.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Американец' is the nominative predicate noun identifying the neighbour. The fleeting vowel -е- appears in this base nominative form before the soft sign drops in other cases."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-02",
+        "phrase": "Я давно знаю одного американца.",
+        "fullAnalysis": "Strategic focus: Animate accusative equals genitive. 'Американца' is accusative, and because the noun is animate masculine it copies the genitive form. The fleeting -е- drops, giving the stem 'американц-'."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-03",
+        "phrase": "У этого американца хороший русский.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Американца' is genitive after 'у', expressing possession. The fleeting vowel disappears, and 'этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-04",
+        "phrase": "Я помог американцу найти дорогу.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Американцу' is dative after 'помочь', which governs the dative. The fleeting -е- drops and the masculine dative ending -у is added."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-05",
+        "phrase": "Она познакомилась с американцем в кафе.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Американцем' is instrumental governed by 'с'. The fleeting vowel drops, and the soft-stem masculine instrumental ending is -ем."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-06",
+        "phrase": "Мы много говорили об американце.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Американце' is prepositional after 'об', describing the topic of conversation. The fleeting -е- drops before the prepositional ending -е."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-07",
+        "phrase": "Этот американец работает в банке.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Американец' is the nominative subject of 'работает'. 'Этот' agrees in the masculine nominative, and the full fleeting-vowel form is preserved here."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-08",
+        "phrase": "На конференции было много американцев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Американцев' is genitive plural after 'много'. The fleeting vowel drops, and the soft-stem masculine genitive plural ending is -ев."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-09",
+        "phrase": "Эти американцы изучают русскую культуру.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Американцы' is the nominative plural subject of 'изучают'. The fleeting vowel drops in the plural stem, and 'эти' agrees in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-AMERIKANETS-10",
+        "phrase": "Я пригласил двух американцев на ужин.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural equals genitive. 'Американцев' is accusative plural and copies the genitive plural because the noun is animate. The numeral 'двух' also stands in the genitive."
+      }
+    ]
+  }
+]

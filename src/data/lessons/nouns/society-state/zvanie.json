@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ZVANIE",
+    "label": "Звание",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for звание (rank; title).",
+    "missions": [
+      {
+        "id": "NN-STATE-ZVANIE-01",
+        "phrase": "Его новое звание очень высокое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Звание' is the neuter nominative subject. 'Новое' and 'высокое' agree in the neuter nominative, and 'очень' intensifies. A clean evaluative statement."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-02",
+        "phrase": "Он получил высокое звание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Звание' is the neuter accusative direct object of 'получил'; for neuter nouns the accusative equals the nominative. 'Высокое' agrees in the neuter accusative."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-03",
+        "phrase": "У него нет воинского звания.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Звания' is the neuter genitive after the negative 'нет'. 'Воинского' agrees in the neuter genitive. A natural way to state a lack of rank."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-04",
+        "phrase": "Благодаря званию он получил уважение.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Званию' is the neuter dative after 'благодаря', expressing cause. 'Получил уважение' reports the result. A useful cause-and-effect pattern."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-05",
+        "phrase": "Он гордится своим званием.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Званием' is the neuter instrumental required by 'гордится'. 'Своим' agrees in the neuter instrumental. The standard 'proud of' construction."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-06",
+        "phrase": "В его звании есть привилегии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Звании' is the neuter prepositional after 'в', marking the context. 'Есть привилегии' states what comes with it. A clear topical pattern."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-07",
+        "phrase": "Ему присвоили звание капитана.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Звание' is the neuter accusative object of 'присвоили', and 'ему' is the dative recipient. 'Капитана' is a genitive specifying the rank. A formal ceremony pattern."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-08",
+        "phrase": "Эти звания дают много прав.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Звания' is the neuter nominative plural subject of 'дают'. 'Эти' agrees in the plural, and 'много прав' states the effect. A simple plural statement."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-09",
+        "phrase": "В армии много разных званий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Званий' is the neuter genitive plural after the quantifier 'много'; note the soft-stem ending in -ий. 'Разных' agrees, and 'в армии' sets the place."
+      },
+      {
+        "id": "NN-STATE-ZVANIE-10",
+        "phrase": "О новых званиях объявили вчера.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Званиях' is the neuter prepositional plural after 'о', marking the topic. 'Новых' agrees in the plural, and 'объявили' is the impersonal verb. A formal announcement line."
+      }
+    ]
+  }
+]

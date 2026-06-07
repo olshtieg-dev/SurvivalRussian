@@ -1,5 +1,6 @@
 import bykSet from './byk.json';
 import konSet from './kon.json';
+import korovaSet from './korova.json';
 import koshkaSet from './koshka.json';
 import kotSet from './kot.json';
 import lapaSet from './lapa.json';
@@ -19,6 +20,7 @@ export const animalsNounsFolderId = 'nouns-animals';
 const animalsNounsData = [
   ...bykSet,
   ...konSet,
+  ...korovaSet,
   ...koshkaSet,
   ...kotSet,
   ...lapaSet,

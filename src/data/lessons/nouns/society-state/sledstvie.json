@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-SLEDSTVIE",
+    "label": "Следствие",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for следствие (investigation).",
+    "missions": [
+      {
+        "id": "NN-STATE-SLEDSTVIE-01",
+        "phrase": "Это было долгое следствие.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Следствие' is a neuter noun in the nominative as the predicate. 'Долгое' is the agreeing neuter adjective, and 'было' marks the past."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-02",
+        "phrase": "Полиция начала новое следствие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Следствие' is the accusative direct object of 'начала'. As an inanimate neuter noun it equals the nominative, and 'новое' agrees with it."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-03",
+        "phrase": "Результат следствия удивил всех.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Следствия' takes the genitive to show whose result it is, the result of the investigation. A common pattern for linking nouns."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-04",
+        "phrase": "Журналисты пишут о следствии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О следствии' uses the prepositional form 'следствии' after 'о' to write about the investigation. A natural media frame."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-05",
+        "phrase": "Свидетель помог следствию.",
+        "fullAnalysis": "Strategic focus: Dative after 'помочь'. 'Следствию' takes the dative because the verb 'помочь' governs that case, meaning to help the investigation."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-06",
+        "phrase": "Следователь доволен следствием.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Следствием' takes the instrumental because 'доволен' governs that case, meaning satisfied with the investigation."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-07",
+        "phrase": "Благодаря следствию нашли преступника.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Следствию' takes the dative because 'благодаря' governs that case, meaning thanks to the investigation. A useful causal frame."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-08",
+        "phrase": "Без следствия дело не закроют.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Следствия' takes the genitive because 'без' requires it, meaning without an investigation. A clear governed genitive."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-09",
+        "phrase": "Эти следствия длились годами.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Следствия' is the nominative plural subject of 'длились'. 'Эти' agrees in the plural, and 'годами' adds duration."
+      },
+      {
+        "id": "NN-STATE-SLEDSTVIE-10",
+        "phrase": "В газете описали несколько следствий.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Следствий' takes the genitive plural because 'несколько' requires it. A natural quantity construction."
+      }
+    ]
+  }
+]

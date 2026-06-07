@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KOROBKA",
+    "label": "Коробка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for коробка (box).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-01",
+        "phrase": "На столе стоит большая коробка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Коробка' stays in the nominative case as the subject standing on the table. 'Большая' is the agreeing feminine adjective, and 'на столе' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-02",
+        "phrase": "Я открыл тяжёлую коробку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Коробку' is the accusative direct object of 'открыл'. 'Тяжёлую' is the agreeing feminine accusative adjective describing the box being opened."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-03",
+        "phrase": "В коробке лежат старые книги.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В коробке' uses the prepositional form 'коробке' after 'в' to show where the books lie. A natural way to describe contents of a container."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-04",
+        "phrase": "Я вынул вещи из коробки.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из коробки' uses the genitive form 'коробки' after 'из' to express taking things out of the box. The preposition 'из' governs the genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-05",
+        "phrase": "Я положил подарок в коробку.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В коробку' uses the accusative form after 'в' to show motion into the box. 'Подарок' is the accusative object being placed inside."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-06",
+        "phrase": "К этой коробке приклеена записка.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'К коробке' uses the dative form 'коробке' after 'к' to mark the surface the note is stuck to. 'Этой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-07",
+        "phrase": "Мы накрыли стол коробкой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Коробкой' is the instrumental case, the thing used to cover the table. The instrumental answers 'with what' the action is performed."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-08",
+        "phrase": "В углу стоят пустые коробки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Коробки' is the nominative plural subject standing in the corner. 'Пустые' is the agreeing plural adjective. Good practice for the plural form."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-09",
+        "phrase": "Сколько коробок нам ещё нужно?",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Коробок' is the genitive plural with a fleeting vowel, required after 'сколько'. A common pattern for counting and quantities."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KOROBKA-10",
+        "phrase": "Эта коробка слишком маленькая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Коробка' is nominative as the subject. 'Маленькая' is the agreeing feminine predicate adjective, intensified by 'слишком'. A clean descriptive model."
+      }
+    ]
+  }
+]

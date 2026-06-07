@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-ZARPLATA",
+    "label": "Зарплата",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for зарплата (salary).",
+    "missions": [
+      {
+        "id": "NN-WORK-ZARPLATA-01",
+        "phrase": "Моя зарплата выросла в этом году.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Зарплата' is the nominative subject of 'выросла'. 'Моя' is the agreeing feminine possessive, and 'в этом году' is the prepositional of time."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-02",
+        "phrase": "Компания повысила мне зарплату.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Зарплату' is the accusative direct object of 'повысила'. 'Мне' is the dative recipient, and 'компания' is the nominative subject."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-03",
+        "phrase": "Половину зарплаты он откладывает.",
+        "fullAnalysis": "Strategic focus: Genitive of part. 'Зарплаты' is the genitive after 'половину', marking the whole from which a part is taken. 'Он' is the nominative subject of 'откладывает'."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-04",
+        "phrase": "Все рады новой зарплате.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Зарплате' is the dative governed by 'рады', expressing what people are glad about. 'Новой' is the agreeing feminine adjective, and 'все' is the subject."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-05",
+        "phrase": "Он живёт на одну зарплату.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Зарплату' is the accusative after 'на' in this idiom for living on one income. 'Одну' agrees in feminine accusative, and 'он' is the subject."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-06",
+        "phrase": "Мы говорили о зарплате на встрече.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'Зарплате' is the prepositional after 'о', the topic of conversation. 'На встрече' is a second prepositional of location, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-07",
+        "phrase": "Зарплаты в этой фирме хорошие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Зарплаты' is the nominative plural subject. 'Хорошие' agrees with it in the plural, and 'в этой фирме' is the prepositional of location."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-08",
+        "phrase": "Без зарплаты трудно платить за квартиру.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Зарплаты' is the genitive after 'без', marking absence. 'За квартиру' is the accusative after 'за', and the clause is impersonal with 'трудно'."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-09",
+        "phrase": "Доволен ли ты своей зарплатой?",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Зарплатой' is the instrumental governed by 'доволен', expressing satisfaction with something. 'Своей' is the agreeing feminine possessive, and 'ли' marks the question."
+      },
+      {
+        "id": "NN-WORK-ZARPLATA-10",
+        "phrase": "Из зарплаты вычитают налоги.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Зарплаты' is the genitive after 'из', marking the source. 'Налоги' is the accusative plural object of 'вычитают' in this impersonal construction."
+      }
+    ]
+  }
+]

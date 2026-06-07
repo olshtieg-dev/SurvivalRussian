@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-KONTROL",
+    "label": "Контроль",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for контроль (control).",
+    "missions": [
+      {
+        "id": "NN-WORK-KONTROL-01",
+        "phrase": "На заводе строгий контроль.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Контроль' is nominative as the subject of this existential sentence. 'Строгий' is the agreeing masculine adjective, and 'на заводе' gives the setting."
+      },
+      {
+        "id": "NN-WORK-KONTROL-02",
+        "phrase": "Менеджер усилил контроль качества.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Контроль' is the accusative direct object of 'усилил'; as an inanimate masculine noun its accusative equals the nominative. 'Качества' is genitive."
+      },
+      {
+        "id": "NN-WORK-KONTROL-03",
+        "phrase": "Без контроля проект провалился.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Контроля' is genitive after 'без', marking the absence of oversight. 'Проект' is the nominative subject of 'провалился'."
+      },
+      {
+        "id": "NN-WORK-KONTROL-04",
+        "phrase": "Мы уделяем внимание контролю расходов.",
+        "fullAnalysis": "Strategic focus: Dative after the verb phrase. 'Контролю' is dative as the object of 'уделяем внимание'. 'Расходов' is the genitive plural specifying what is controlled."
+      },
+      {
+        "id": "NN-WORK-KONTROL-05",
+        "phrase": "Он занимается контролем бюджета.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Контролем' is instrumental, required by 'занимается'. 'Бюджета' is the genitive specifying the scope."
+      },
+      {
+        "id": "NN-WORK-KONTROL-06",
+        "phrase": "Завод работает под контролем государства.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'под'. 'Контролем' is instrumental after 'под', meaning under supervision. 'Государства' is the genitive naming the controller."
+      },
+      {
+        "id": "NN-WORK-KONTROL-07",
+        "phrase": "При контроле нашли ошибку.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'при'. 'Контроле' is prepositional after 'при', marking the circumstance during which something happened. 'Ошибку' is the accusative object."
+      },
+      {
+        "id": "NN-WORK-KONTROL-08",
+        "phrase": "Ситуация вышла из-под контроля.",
+        "fullAnalysis": "Strategic focus: Genitive in a fixed phrase. 'Контроля' is genitive after the compound preposition 'из-под' in the idiom for losing control. 'Ситуация' is the nominative subject."
+      },
+      {
+        "id": "NN-WORK-KONTROL-09",
+        "phrase": "Все товары прошли контроль.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Контроль' is the accusative object of 'прошли', identical to the nominative for inanimate masculine nouns. 'Товары' is the nominative plural subject."
+      },
+      {
+        "id": "NN-WORK-KONTROL-10",
+        "phrase": "Этот контроль очень важный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Контроль' is nominative as the subject. 'Важный' is the agreeing masculine predicate adjective, intensified by 'очень'."
+      }
+    ]
+  }
+]

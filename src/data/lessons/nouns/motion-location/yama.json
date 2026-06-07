@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-YAMA",
+    "label": "Яма",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for яма (pit, hole).",
+    "missions": [
+      {
+        "id": "NN-MOTION-YAMA-01",
+        "phrase": "Посреди дороги была глубокая яма.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Яма' is a feminine noun in the nominative as the subject. 'Глубокая' is the agreeing feminine adjective, and 'была' agrees in the past tense."
+      },
+      {
+        "id": "NN-MOTION-YAMA-02",
+        "phrase": "Рабочие выкопали большую яму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Яму' is the feminine accusative direct object. 'Большую' agrees in the accusative, and 'выкопали' is the past-tense plural verb."
+      },
+      {
+        "id": "NN-MOTION-YAMA-03",
+        "phrase": "Машина не объехала ямы.",
+        "fullAnalysis": "Strategic focus: Genitive under negation. After the negated verb 'не объехала' the object shifts to the genitive 'ямы'. 'Машина' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-YAMA-04",
+        "phrase": "Ребёнок упал в яму.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В яму' uses the accusative 'яму' after 'в' to express motion into the hole. 'Упал' shows the fall."
+      },
+      {
+        "id": "NN-MOTION-YAMA-05",
+        "phrase": "На дне ямы стояла вода.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Ямы' is the genitive linked to 'дне', the bottom of the pit. 'Вода' is the nominative subject standing there."
+      },
+      {
+        "id": "NN-MOTION-YAMA-06",
+        "phrase": "В яме спрятался напуганный кот.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В яме' uses the prepositional form 'яме' after 'в' to locate where the cat hid. 'Напуганный кот' is the nominative subject."
+      },
+      {
+        "id": "NN-MOTION-YAMA-07",
+        "phrase": "Он засыпал яму землёй.",
+        "fullAnalysis": "Strategic focus: Accusative object with instrumental means. 'Яму' is the accusative object, and 'землёй' is the instrumental naming what filled it. A clear two-case sentence."
+      },
+      {
+        "id": "NN-MOTION-YAMA-08",
+        "phrase": "На поле много глубоких ям.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Много' governs the genitive plural 'ям'. 'Глубоких' agrees, and 'на поле' gives the location."
+      },
+      {
+        "id": "NN-MOTION-YAMA-09",
+        "phrase": "На дороге появились новые ямы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ямы' is the feminine nominative plural subject. 'Новые' agrees in the plural, and 'появились' marks their appearance."
+      },
+      {
+        "id": "NN-MOTION-YAMA-10",
+        "phrase": "Мы обходили ямы стороной.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Ямы' is the inanimate accusative plural, matching the nominative plural. 'Стороной' is an instrumental adverb meaning 'around the side'."
+      }
+    ]
+  }
+]

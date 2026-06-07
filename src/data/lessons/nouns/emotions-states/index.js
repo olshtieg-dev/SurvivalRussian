@@ -1,16 +1,22 @@
 import bolSet from './bol.json';
 import boleznSet from './bolezn.json';
+import glupostSet from './glupost.json';
 import goreSet from './gore.json';
 import krasotaSet from './krasota.json';
 import lechenieSet from './lechenie.json';
 import lyubovSet from './lyubov.json';
 import napryazhenieSet from './napryazhenie.json';
 import nastroenieSet from './nastroenie.json';
+import obidaSet from './obida.json';
 import opasnostSet from './opasnost.json';
 import oshchushchenieSet from './oshchushchenie.json';
+import otdykhSet from './otdykh.json';
 import pokoiSet from './pokoi.json';
+import poteryaSet from './poterya.json';
+import prisutstvieSet from './prisutstvie.json';
 import radostSet from './radost.json';
 import schasteSet from './schaste.json';
+import simptomSet from './simptom.json';
 import slezaSet from './sleza.json';
 import smertSet from './smert.json';
 import somnenieSet from './somnenie.json';
@@ -32,6 +38,7 @@ import ulybkaSet from './ulybka.json';
 import uspekhSet from './uspekh.json';
 import uzhasSet from './uzhas.json';
 import vkusSet from './vkus.json';
+import volnenieSet from './volnenie.json';
 import vostorgSet from './vostorg.json';
 import vpechatlenieSet from './vpechatlenie.json';
 import zabolevanieSet from './zabolevanie.json';
@@ -44,17 +51,23 @@ export const emotionsNounsFolderId = 'nouns-emotions-states';
 const emotionsNounsData = [
   ...bolSet,
   ...boleznSet,
+  ...glupostSet,
   ...goreSet,
   ...krasotaSet,
   ...lechenieSet,
   ...lyubovSet,
   ...napryazhenieSet,
   ...nastroenieSet,
+  ...obidaSet,
   ...opasnostSet,
   ...oshchushchenieSet,
+  ...otdykhSet,
   ...pokoiSet,
+  ...poteryaSet,
+  ...prisutstvieSet,
   ...radostSet,
   ...schasteSet,
+  ...simptomSet,
   ...slezaSet,
   ...smertSet,
   ...somnenieSet,
@@ -76,6 +89,7 @@ const emotionsNounsData = [
   ...uspekhSet,
   ...uzhasSet,
   ...vkusSet,
+  ...volnenieSet,
   ...vostorgSet,
   ...vpechatlenieSet,
   ...zabolevanieSet,

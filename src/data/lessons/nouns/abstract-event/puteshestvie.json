@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-PUTESHESTVIE",
+    "label": "Путешествие",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for путешествие (journey).",
+    "missions": [
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-01",
+        "phrase": "Нас ждёт долгое путешествие.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Путешествие' is a neuter noun in the nominative, the subject of 'ждёт'. 'Долгое' is the agreeing neuter adjective, and 'нас' is the accusative object."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-02",
+        "phrase": "Мы планируем большое путешествие летом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Путешествие' is the accusative direct object of 'планируем'; neuter nouns keep the same form. 'Большое' agrees, and 'летом' tells when."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-03",
+        "phrase": "У меня нет денег для путешествия.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Путешествия' is the genitive form after 'для', expressing purpose. 'Нет денег' shows the obstacle, a practical everyday frame."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-04",
+        "phrase": "Мы готовимся к долгому путешествию.",
+        "fullAnalysis": "Strategic focus: Dative after the verb. 'Путешествию' is the dative form governed by 'готовимся к', meaning to prepare for something. 'Долгому' agrees in the dative neuter."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-05",
+        "phrase": "В путешествии мы встретили друзей.",
+        "fullAnalysis": "Strategic focus: Prepositional of setting. 'В путешествии' uses the prepositional form after 'в' to set the scene. 'Друзей' is the animate accusative plural object."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-06",
+        "phrase": "Я доволен этим путешествием.",
+        "fullAnalysis": "Strategic focus: Instrumental after the adjective. 'Путешествием' is the instrumental form required by 'доволен', meaning satisfied with something. 'Этим' agrees in the instrumental neuter."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-07",
+        "phrase": "Я люблю долгие путешествия по миру.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Путешествия' is the accusative plural object of 'люблю', matching the nominative plural. 'Долгие' agrees, and 'по миру' adds scope."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-08",
+        "phrase": "Эти путешествия были незабываемыми.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Путешествия' is the nominative plural, the subject of 'были'. 'Эти' agrees, and 'незабываемыми' is an instrumental predicate adjective."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-09",
+        "phrase": "У нас было много интересных путешествий.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Путешествий' is the genitive plural required by 'много'. 'Интересных' agrees in the genitive plural, and 'было' is the impersonal past."
+      },
+      {
+        "id": "NN-EVENT-PUTESHESTVIE-10",
+        "phrase": "Это самое лучшее путешествие жизни.",
+        "fullAnalysis": "Strategic focus: Nominative superlative with genitive modifier. 'Путешествие' is the nominative predicate noun, 'самое лучшее' is the superlative neuter phrase, and 'жизни' is a genitive modifier."
+      }
+    ]
+  }
+]

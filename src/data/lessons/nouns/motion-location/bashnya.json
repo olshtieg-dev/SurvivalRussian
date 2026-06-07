@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-BASHNYA",
+    "label": "Башня",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for башня (tower).",
+    "missions": [
+      {
+        "id": "NN-MOTION-BASHNYA-01",
+        "phrase": "Эта башня очень высокая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Башня' is the nominative subject of the sentence. 'Эта' and 'высокая' are the agreeing feminine demonstrative and adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-02",
+        "phrase": "Туристы фотографируют старую башню.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Башню' is the accusative direct object of 'фотографируют'. 'Старую' is the agreeing feminine accusative adjective, and 'туристы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-03",
+        "phrase": "Возле башни стоит маленькое кафе.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Башни' is the genitive after 'возле', marking proximity. 'Кафе' is the nominative subject of 'стоит', and 'маленькое' agrees with it in neuter gender."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-04",
+        "phrase": "Мы шли к высокой башне.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Башне' is the dative after 'к', expressing motion toward something. 'Высокой' is the agreeing feminine dative adjective, and 'мы шли' is the subject with verb."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-05",
+        "phrase": "За башней начинается старый парк.",
+        "fullAnalysis": "Strategic focus: Instrumental of location. 'Башней' is the instrumental after 'за', showing where the park begins. 'Парк' is the nominative subject, and 'старый' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-06",
+        "phrase": "На башне горят яркие огни.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Башне' is the prepositional after 'на', telling where the lights burn. 'Огни' is the nominative plural subject, and 'яркие' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-07",
+        "phrase": "В городе стоят древние башни.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Башни' is the nominative plural subject of 'стоят'. 'Древние' agrees with it in the plural, and 'в городе' is the prepositional of location."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-08",
+        "phrase": "Строители построили две новые башни.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две' the noun takes 'башни', the genitive singular form. 'Новые' agrees in the special numeral construction, and 'строители' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-09",
+        "phrase": "С башни видно весь город.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Башни' is the genitive after 'с', marking the vantage point. 'Весь город' is the accusative object of the impersonal 'видно'."
+      },
+      {
+        "id": "NN-MOTION-BASHNYA-10",
+        "phrase": "Башня была построена сто лет назад.",
+        "fullAnalysis": "Strategic focus: Nominative subject in passive. 'Башня' is the nominative subject of the passive 'была построена', which agrees with it in feminine gender. 'Сто лет назад' marks the time."
+      }
+    ]
+  }
+]

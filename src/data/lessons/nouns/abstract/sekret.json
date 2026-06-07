@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-SEKRET",
+    "label": "Секрет",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for секрет (secret).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-SEKRET-01",
+        "phrase": "Это большой секрет.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Секрет' is the masculine nominative predicate noun. 'Большой' agrees in the masculine nominative, and 'это' introduces it. A clean way to label something confidential."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-02",
+        "phrase": "Я знаю один секрет.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Секрет' is the accusative direct object of 'знаю'; as an inanimate masculine noun its accusative equals the nominative. 'Один' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-03",
+        "phrase": "У этого секрета нет разгадки.",
+        "fullAnalysis": "Strategic focus: Genitive possessor. 'Секрета' is the genitive after 'у', marking the possessor. 'Этого' agrees in the masculine genitive, and 'нет разгадки' states what it lacks."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-04",
+        "phrase": "Благодаря секрету он добился успеха.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Секрету' is the dative after 'благодаря', expressing cause. 'Добился успеха' reports the result. A useful pattern for explaining how something happened."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-05",
+        "phrase": "Он поделился со мной секретом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Секретом' is the instrumental required by 'поделился'. 'Со мной' marks the recipient. The standard verb-of-sharing construction."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-06",
+        "phrase": "В этом секрете нет ничего страшного.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Секрете' is the prepositional after 'в', showing the topic location. 'Этом' agrees in the masculine prepositional, and 'нет ничего страшного' reassures."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-07",
+        "phrase": "Между нами есть один секрет.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Секрет' is the nominative subject of 'есть'. 'Один' agrees in the masculine nominative, and 'между нами' frames it as shared. A natural conversational line."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-08",
+        "phrase": "У неё есть свои секреты.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Секреты' is the nominative plural subject of 'есть'. 'Свои' agrees in the plural as a possessive. A common way to acknowledge private matters."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-09",
+        "phrase": "Он хранит много чужих секретов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Секретов' is the genitive plural after the quantifier 'много'. 'Чужих' agrees in the genitive plural, and 'хранит' is the verb of keeping."
+      },
+      {
+        "id": "NN-ABSTRACT-SEKRET-10",
+        "phrase": "Мы говорили о наших секретах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Секретах' is the prepositional plural after 'о', marking the topic. 'Наших' agrees in the plural, and 'говорили' is the verb of discussion."
+      }
+    ]
+  }
+]

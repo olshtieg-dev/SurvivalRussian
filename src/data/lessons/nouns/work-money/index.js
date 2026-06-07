@@ -8,6 +8,7 @@ import firmaSet from './firma.json';
 import khozyaistvoSet from './khozyaistvo.json';
 import kilometrSet from './kilometr.json';
 import kompaniyaSet from './kompaniya.json';
+import kontrolSet from './kontrol.json';
 import kursSet from './kurs.json';
 import metrSet from './metr.json';
 import millionSet from './million.json';
@@ -29,6 +30,8 @@ import trudSet from './trud.json';
 import tsenaSet from './tsena.json';
 import tysyachaSet from './tysyacha.json';
 import zadachaSet from './zadacha.json';
+import zapasSet from './zapas.json';
+import zarplataSet from './zarplata.json';
 
 export const workMoneyNounsFolderId = 'nouns-work-money';
 const workMoneyNounsData = [
@@ -42,6 +45,7 @@ const workMoneyNounsData = [
   ...khozyaistvoSet,
   ...kilometrSet,
   ...kompaniyaSet,
+  ...kontrolSet,
   ...kursSet,
   ...metrSet,
   ...millionSet,
@@ -63,6 +67,8 @@ const workMoneyNounsData = [
   ...tsenaSet,
   ...tysyachaSet,
   ...zadachaSet,
+  ...zapasSet,
+  ...zarplataSet,
 ];
 
 export const workMoneyNounsFolder = {

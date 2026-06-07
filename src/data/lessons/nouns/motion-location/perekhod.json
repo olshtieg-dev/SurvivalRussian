@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PEREKHOD",
+    "label": "Переход",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for переход (crossing).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PEREKHOD-01",
+        "phrase": "Подземный переход совсем рядом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Переход' is a masculine noun in the nominative case, the subject of the sentence. 'Подземный' is the agreeing masculine adjective, and 'рядом' tells where it is."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-02",
+        "phrase": "Я заметил пешеходный переход впереди.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Переход' is an inanimate masculine noun, so its accusative equals the nominative as the object of 'заметил'. 'Пешеходный' agrees in the masculine."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-03",
+        "phrase": "Возле перехода стоит светофор.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Перехода' is the genitive form after 'возле', marking the location near it. 'Светофор' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-04",
+        "phrase": "К переходу ведёт узкая дорожка.",
+        "fullAnalysis": "Strategic focus: Dative after предлог. 'Переходу' is the dative form after 'к', the destination toward which the path leads. 'Дорожка' is the nominative subject of 'ведёт'."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-05",
+        "phrase": "Перед переходом она остановилась.",
+        "fullAnalysis": "Strategic focus: Instrumental after предлог. 'Переходом' is the instrumental form after 'перед', meaning in front of the crossing. The verb 'остановилась' agrees in feminine gender."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-06",
+        "phrase": "В переходе играл уличный музыкант.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Переходе' is the prepositional form after 'в', describing where the musician played. 'Музыкант' is the nominative subject of 'играл'."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-07",
+        "phrase": "Эти переходы всегда переполнены людьми.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Переходы' is the nominative plural, the subject of the sentence. 'Эти' agrees in the plural, and 'людьми' is the instrumental plural of agent."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-08",
+        "phrase": "Город построил новые переходы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Переходы' is the accusative plural, identical to the nominative for inanimate nouns, the object of 'построил'. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-09",
+        "phrase": "Без перехода улицу не пересечь.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Перехода' is the genitive form required by 'без', expressing the absence of a crossing. The infinitive 'не пересечь' states the consequence."
+      },
+      {
+        "id": "NN-MOTION-PEREKHOD-10",
+        "phrase": "Мы прошли через переход быстро.",
+        "fullAnalysis": "Strategic focus: Accusative after через. 'Переход' is the accusative form after 'через', the space passed through. 'Быстро' describes the manner of crossing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-LEKARSTVO",
+    "label": "Лекарство",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for лекарство (medicine).",
+    "missions": [
+      {
+        "id": "NN-EVENT-LEKARSTVO-01",
+        "phrase": "Это лекарство очень горькое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Лекарство' stays in the nominative as the subject. 'Это' points to a specific medicine, and 'горькое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-02",
+        "phrase": "Врач выписал новое лекарство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лекарство' is the accusative object of 'выписал'. As an inanimate neuter noun its accusative matches the nominative. 'Новое' agrees."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-03",
+        "phrase": "В аптеке нет этого лекарства.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Лекарства' takes the genitive after 'нет', expressing that none is in stock. 'Этого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-04",
+        "phrase": "Мы говорили об этом лекарстве.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Лекарстве' is the prepositional after 'об', naming the topic. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-05",
+        "phrase": "Благодаря лекарству ей стало легче.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Лекарству' is the dative after 'благодаря', expressing the cause of relief. 'Ей' is the dative experiencer."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-06",
+        "phrase": "Он лечится этим лекарством.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Лекарством' is the instrumental showing what he treats himself with. 'Этим' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-07",
+        "phrase": "На полке стоят разные лекарства.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Лекарства' is the nominative plural, the subject of 'стоят'. 'Разные' agrees in plural, and 'на полке' locates them."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-08",
+        "phrase": "Пациент принимает три лекарства.",
+        "fullAnalysis": "Strategic focus: Genitive singular after number. After 'три' the noun 'лекарства' takes the genitive singular form. 'Пациент' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-09",
+        "phrase": "Без лекарства боль не пройдёт.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Лекарства' takes the genitive after 'без', meaning without the medicine. 'Боль' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-LEKARSTVO-10",
+        "phrase": "Какое лекарство тебе помогает?",
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Лекарство' is the nominative subject of 'помогает'. 'Какое' agrees in neuter, and 'тебе' is the dative experiencer."
+      }
+    ]
+  }
+]

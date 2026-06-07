@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-VERTOLYOT",
+    "label": "Вертолёт",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for вертолёт (helicopter).",
+    "missions": [
+      {
+        "id": "NN-TRANS-VERTOLYOT-01",
+        "phrase": "Над городом летит военный вертолёт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Вертолёт' is a masculine noun in the nominative, the subject of 'летит'. 'Военный' agrees with it, and 'над городом' gives the location."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-02",
+        "phrase": "Я впервые увидел настоящий вертолёт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Вертолёт' is the accusative direct object of 'увидел'; this inanimate masculine noun keeps the nominative form. 'Впервые' adds the sense of a first time."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-03",
+        "phrase": "У нашего вертолёта мощный двигатель.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Вертолёта' is the genitive form after 'у' in the possession frame. 'Мощный двигатель' is the nominative subject describing what it has."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-04",
+        "phrase": "Пилот подошёл к вертолёту медленно.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К вертолёту' uses the dative after 'к' to show approach toward an object. 'Медленно' describes how the pilot moved."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-05",
+        "phrase": "Мы летели домой на вертолёте.",
+        "fullAnalysis": "Strategic focus: Prepositional of transport. 'На вертолёте' uses the prepositional form after 'на' to express the means of travel. 'Домой' tells the destination."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-06",
+        "phrase": "Раненых увезли вертолётом в больницу.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Вертолётом' is the instrumental form showing the vehicle used. 'В больницу' is an accusative of direction marking the destination."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-07",
+        "phrase": "Без вертолёта спасти их невозможно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Вертолёта' is the genitive form required by 'без'. The sentence stresses dependence on the machine for the rescue."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-08",
+        "phrase": "На аэродроме стоят новые вертолёты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вертолёты' is the nominative plural, the subject of 'стоят'. 'Новые' agrees in the plural, and 'на аэродроме' adds the location."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-09",
+        "phrase": "Армия купила пять новых вертолётов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after numeral. After 'пять' the noun takes the genitive plural 'вертолётов', and 'новых' agrees in the genitive plural. A standard counting pattern."
+      },
+      {
+        "id": "NN-TRANS-VERTOLYOT-10",
+        "phrase": "Это самый быстрый вертолёт армии.",
+        "fullAnalysis": "Strategic focus: Nominative superlative with genitive modifier. 'Вертолёт' is the nominative predicate noun, 'самый быстрый' is the superlative phrase, and 'армии' is a genitive of belonging."
+      }
+    ]
+  }
+]

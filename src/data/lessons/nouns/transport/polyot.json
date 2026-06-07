@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-POLYOT",
+    "label": "Полёт",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for полёт (flight).",
+    "missions": [
+      {
+        "id": "NN-TRANS-POLYOT-01",
+        "phrase": "Наш полёт был очень долгим.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Полёт' stays in the nominative as the subject. 'Был' agrees in masculine gender, and 'долгим' is the instrumental predicate adjective describing it."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-02",
+        "phrase": "Пилот отменил полёт из-за тумана.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Полёт' is the accusative direct object of 'отменил', matching the nominative for this inanimate masculine noun. 'Из-за тумана' gives the reason."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-03",
+        "phrase": "Мы ждём начала полёта.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Полёта' is the genitive form depending on 'начала', marking whose beginning. The verb 'ждём' governs the genitive object 'начала'."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-04",
+        "phrase": "Я готовлюсь к долгому полёту.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Полёту' is dative after 'к', marking the goal of preparation. 'Долгому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-05",
+        "phrase": "В полёте пассажиры спокойно спали.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Полёте' is the prepositional form after 'в', marking when and where the passengers slept. A natural in-flight scene."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-06",
+        "phrase": "Перед полётом мы выпили кофе.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Полётом' is instrumental after 'перед', marking what the coffee came before. A common pre-flight routine phrase."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-07",
+        "phrase": "Этот полёт стоил очень дорого.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Полёт' is the nominative subject of 'стоил'. 'Этот' points at a specific one, and 'дорого' states the high cost."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-08",
+        "phrase": "Я никогда не забуду этот полёт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Полёт' is the accusative object of 'забуду', identical to the nominative for this inanimate noun. 'Этот' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-09",
+        "phrase": "Все полёты сегодня задержаны.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Полёты' is the nominative plural subject. 'Все' agrees in plural, and 'задержаны' is the short passive participle stating they are delayed."
+      },
+      {
+        "id": "NN-TRANS-POLYOT-10",
+        "phrase": "Аэропорт отменил все вечерние полёты.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Полёты' is the accusative plural object of 'отменил', matching the nominative for this inanimate noun. 'Вечерние' agrees in plural."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-POSTUPOK",
+    "label": "Поступок",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for поступок (deed).",
+    "missions": [
+      {
+        "id": "NN-EVENT-POSTUPOK-01",
+        "phrase": "Это был очень смелый поступок.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Поступок' is the masculine nominative predicate noun. 'Смелый' is the agreeing masculine adjective, and the fleeting -о- appears in this base form."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-02",
+        "phrase": "Все осудили его поступок.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Поступок' is the accusative direct object of 'осудили'. As an inanimate masculine noun its accusative equals the nominative, keeping the fleeting -о-."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-03",
+        "phrase": "Никто не ожидал такого поступка.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Поступка' is genitive after the negated 'не ожидал'. The fleeting vowel drops, giving the stem 'поступк-' before the genitive ending -а."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-04",
+        "phrase": "Благодаря его поступку мы спаслись.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Поступку' is dative governed by 'благодаря', naming a favourable cause. The fleeting -о- drops and the dative ending -у is added."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-05",
+        "phrase": "Он гордится своим поступком.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Поступком' is instrumental after 'гордиться', which governs the instrumental. The fleeting vowel drops before the ending -ом."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-06",
+        "phrase": "В этом поступке видна настоящая доброта.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Поступке' is prepositional after 'в', describing what the deed reveals. The fleeting -о- drops before the prepositional ending -е."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-07",
+        "phrase": "Учитель похвалил ученика за поступок.",
+        "fullAnalysis": "Strategic focus: Accusative after preposition. 'Поступок' is accusative governed by 'за', expressing the reason for praise. The form keeps its fleeting vowel as an inanimate noun."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-08",
+        "phrase": "Его поступки всегда говорят правду.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Поступки' is the nominative plural subject of 'говорят'. The fleeting vowel drops in the plural stem, and 'его' marks possession."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-09",
+        "phrase": "Мы судим людей по их поступкам.",
+        "fullAnalysis": "Strategic focus: Dative plural after preposition. 'Поступкам' is dative plural governed by 'по', the basis for judgement. The fleeting vowel drops before the plural ending -ам."
+      },
+      {
+        "id": "NN-EVENT-POSTUPOK-10",
+        "phrase": "В жизни не было плохих поступков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after negation. 'Поступков' is genitive plural after the negated 'не было'. The fleeting vowel drops and the masculine genitive plural ending is -ов."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PECHAT",
+    "label": "Печать",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for печать (seal, stamp).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-01",
+        "phrase": "На документе стоит официальная печать.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Печать' stays in the nominative case as the subject of 'стоит'. 'Официальная' is the agreeing feminine adjective, and 'на документе' shows where the seal is."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-02",
+        "phrase": "Секретарь поставила печать на письмо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Печать' is the accusative direct object of 'поставила'. As a feminine soft-sign noun, its accusative looks identical to the nominative. 'На письмо' shows the destination."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-03",
+        "phrase": "На бланке не было печати.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Печати' is genitive after the negated 'не было', the standard pattern for something missing. The ending -и is the soft feminine genitive singular."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-04",
+        "phrase": "Без печати договор недействителен.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Печати' is genitive governed by 'без'. The sentence states that without a stamp the contract is invalid, a common bureaucratic phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-05",
+        "phrase": "Документ заверен печатью и подписью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Печатью' is instrumental, naming the means by which the document is certified. It is joined by 'и' to 'подписью', also instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-06",
+        "phrase": "Я долго искал нашу печать.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Печать' is the accusative direct object of 'искал'. 'Нашу' is the agreeing feminine accusative possessive, and 'долго' adds duration to the search."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-07",
+        "phrase": "На печати видна дата и название.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Печати' is prepositional after 'на', describing what is visible on the stamp. The soft feminine prepositional ending is -и here."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-08",
+        "phrase": "Дайте печать главному бухгалтеру.",
+        "fullAnalysis": "Strategic focus: Accusative with dative recipient. 'Печать' is the accusative object of 'дайте', while 'главному бухгалтеру' is the dative recipient. A natural office request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-09",
+        "phrase": "Все печати лежат в нижнем ящике.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Печати' is the nominative plural subject of 'лежат'. 'Все' quantifies the stamps, and 'в нижнем ящике' is the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHAT-10",
+        "phrase": "Мы подошли к печати очень внимательно.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Печати' is dative governed by 'к', here in the figurative sense of approaching the matter of the seal. The soft feminine dative ending is -и."
+      }
+    ]
+  }
+]

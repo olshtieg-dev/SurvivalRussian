@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-BIBLIOTEKA",
+    "label": "Библиотека",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for библиотека (library).",
+    "missions": [
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-01",
+        "phrase": "Наша библиотека работает до восьми.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Библиотека' is a feminine noun in the nominative, the subject of 'работает'. 'Наша' agrees with it, and 'до восьми' gives the closing time."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-02",
+        "phrase": "Я каждый день посещаю библиотеку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Библиотеку' is the accusative direct object of 'посещаю', with the feminine ending shifting to -у. 'Каждый день' adds frequency."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-03",
+        "phrase": "Я иду в библиотеку за книгой.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'В библиотеку' uses the accusative after 'в' to show motion toward a place. 'За книгой' explains the purpose of the trip."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-04",
+        "phrase": "Я весь день сижу в библиотеке.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'В библиотеке' uses the prepositional form after 'в' to show static location. 'Весь день' adds duration to the studying scene."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-05",
+        "phrase": "Я вышел из библиотеки поздно.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Из библиотеки' uses the genitive after 'из' to show motion out of a place. 'Поздно' tells when, completing a natural motion phrase."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-06",
+        "phrase": "Я подошёл к библиотеке вечером.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'К библиотеке' uses the dative after 'к' to show approach toward a place. 'Вечером' is an instrumental adverb of time."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-07",
+        "phrase": "Перед библиотекой стоит большой памятник.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'перед'. 'Библиотекой' is the instrumental form required by 'перед', showing position in front. 'Памятник' is the nominative subject of 'стоит'."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-08",
+        "phrase": "В городе много старых библиотек.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Библиотек' is the genitive plural with a zero ending, required by 'много'. 'Старых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-09",
+        "phrase": "Новые библиотеки открылись в районе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Библиотеки' is the nominative plural, the subject of 'открылись', which agrees in the plural. 'Новые' agrees, and 'в районе' locates them."
+      },
+      {
+        "id": "NN-MOTION-BIBLIOTEKA-10",
+        "phrase": "Это самая большая библиотека города.",
+        "fullAnalysis": "Strategic focus: Nominative with genitive modifier. 'Библиотека' is the nominative predicate noun, 'самая большая' is the superlative phrase, and 'города' is a genitive modifier showing belonging."
+      }
+    ]
+  }
+]

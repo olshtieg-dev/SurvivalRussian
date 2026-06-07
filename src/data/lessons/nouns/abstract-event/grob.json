@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-GROB",
+    "label": "Гроб",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for гроб (coffin).",
+    "missions": [
+      {
+        "id": "NN-EVENT-GROB-01",
+        "phrase": "В центре зала стоял гроб.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гроб' is an inanimate masculine noun in the nominative as the subject of 'стоял'. 'В центре зала' marks the location."
+      },
+      {
+        "id": "NN-EVENT-GROB-02",
+        "phrase": "Рабочие медленно несли гроб.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Гроб' is the accusative direct object of 'несли', matching the nominative for this inanimate masculine noun. 'Медленно' describes the manner."
+      },
+      {
+        "id": "NN-EVENT-GROB-03",
+        "phrase": "Крышка гроба была тёмной.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Гроба' is the genitive form marking whose lid. 'Была' agrees with the feminine subject 'крышка', and 'тёмной' is the instrumental predicate."
+      },
+      {
+        "id": "NN-EVENT-GROB-04",
+        "phrase": "Люди подходили к гробу попрощаться.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Гробу' is dative after 'к', marking the goal of motion. The infinitive 'попрощаться' states the purpose."
+      },
+      {
+        "id": "NN-EVENT-GROB-05",
+        "phrase": "В гробу лежали белые цветы.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Гробу' takes the special locative ending after 'в', marking where the flowers lay. 'Белые' agrees with the plural subject 'цветы'."
+      },
+      {
+        "id": "NN-EVENT-GROB-06",
+        "phrase": "Над гробом висела старая икона.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Гробом' is instrumental after 'над', placing the icon above the coffin. 'Старая' agrees with the feminine subject 'икона'."
+      },
+      {
+        "id": "NN-EVENT-GROB-07",
+        "phrase": "Перед гробом стояли родственники.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Гробом' is instrumental after 'перед', marking what the relatives stood before. A natural funeral scene."
+      },
+      {
+        "id": "NN-EVENT-GROB-08",
+        "phrase": "Этот гроб сделан из дуба.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Гроб' is the nominative subject. 'Этот' points at a specific one, 'сделан' is the short participle, and 'из дуба' marks the material."
+      },
+      {
+        "id": "NN-EVENT-GROB-09",
+        "phrase": "В мастерской стояли пустые гробы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Гробы' is the nominative plural subject of 'стояли'. 'Пустые' agrees in plural, and 'в мастерской' marks the location."
+      },
+      {
+        "id": "NN-EVENT-GROB-10",
+        "phrase": "Мастер делает гробы на заказ.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Гробы' is the accusative plural object of 'делает', matching the nominative for this inanimate noun. 'На заказ' means made to order."
+      }
+    ]
+  }
+]

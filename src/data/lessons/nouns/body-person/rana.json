@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-RANA",
+    "label": "Рана",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for рана (wound).",
+    "missions": [
+      {
+        "id": "NN-BODY-RANA-01",
+        "phrase": "Рана уже почти зажила.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Рана' is a feminine noun in the nominative case, the subject of 'зажила'. The verb agrees in feminine gender, and 'почти' softens the statement."
+      },
+      {
+        "id": "NN-BODY-RANA-02",
+        "phrase": "Врач осмотрел глубокую рану.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Рану' is the accusative form, the direct object of 'осмотрел'. 'Глубокую' is the agreeing feminine accusative adjective describing the wound."
+      },
+      {
+        "id": "NN-BODY-RANA-03",
+        "phrase": "Из раны течёт кровь.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Раны' is the genitive form after 'из', the source from which blood flows. 'Кровь' is the nominative subject of 'течёт'."
+      },
+      {
+        "id": "NN-BODY-RANA-04",
+        "phrase": "Медсестра уделила ране много внимания.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Ране' is the dative form, the thing toward which attention is directed by 'уделила'. 'Внимания' is genitive after the quantity word 'много'."
+      },
+      {
+        "id": "NN-BODY-RANA-05",
+        "phrase": "Он закрыл руку с раной бинтом.",
+        "fullAnalysis": "Strategic focus: Instrumental and prepositional. 'Раной' is the instrumental form after 'с', meaning the hand with the wound. 'Бинтом' is a second instrumental showing the means of covering it."
+      },
+      {
+        "id": "NN-BODY-RANA-06",
+        "phrase": "На ране осталась небольшая отметина.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Ране' is the prepositional form after 'на', describing where the mark remained. 'Отметина' is the nominative subject of 'осталась'."
+      },
+      {
+        "id": "NN-BODY-RANA-07",
+        "phrase": "Раны на руках долго не заживали.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Раны' is the nominative plural, the subject of 'не заживали'. The verb takes the plural form, and 'на руках' gives the location."
+      },
+      {
+        "id": "NN-BODY-RANA-08",
+        "phrase": "Солдат получил тяжёлые раны.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Раны' is the accusative plural, identical to the nominative for this inanimate noun, as the object of 'получил'. 'Тяжёлые' agrees in the plural."
+      },
+      {
+        "id": "NN-BODY-RANA-09",
+        "phrase": "У него нет ни одной раны.",
+        "fullAnalysis": "Strategic focus: Genitive after отрицание. 'Раны' is the genitive singular required after the negation 'нет ни одной'. The phrase emphasises the complete absence of wounds."
+      },
+      {
+        "id": "NN-BODY-RANA-10",
+        "phrase": "Она ухаживала за раной каждый день.",
+        "fullAnalysis": "Strategic focus: Instrumental with ухаживать. 'Раной' is the instrumental form required by 'ухаживать за', describing what she tended. 'Каждый день' marks the regularity."
+      }
+    ]
+  }
+]

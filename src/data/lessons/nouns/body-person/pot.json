@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-POT",
+    "label": "Пот",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for пот (sweat).",
+    "missions": [
+      {
+        "id": "NN-BODY-POT-01",
+        "phrase": "Холодный пот выступил на лбу.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пот' is the masculine nominative subject of 'выступил'. 'Холодный' is the agreeing masculine adjective, and 'на лбу' gives the prepositional location."
+      },
+      {
+        "id": "NN-BODY-POT-02",
+        "phrase": "Спортсмен вытер пот со лба.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пот' is the accusative direct object of 'вытер'. As an inanimate masculine noun, its accusative equals the nominative. 'Со лба' shows the source."
+      },
+      {
+        "id": "NN-BODY-POT-03",
+        "phrase": "От пота рубашка стала мокрой.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Пота' is genitive governed by 'от', expressing cause. The shirt became wet because of the sweat, a natural cause-and-effect phrase."
+      },
+      {
+        "id": "NN-BODY-POT-04",
+        "phrase": "После бега не осталось пота.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Пота' is genitive after the negated 'не осталось', the pattern for something no longer present. The masculine genitive ending is -а."
+      },
+      {
+        "id": "NN-BODY-POT-05",
+        "phrase": "Его лицо блестело от пота.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Пота' is genitive governed by 'от', naming the cause of the shine. A vivid description of physical effort."
+      },
+      {
+        "id": "NN-BODY-POT-06",
+        "phrase": "Он работал и обливался потом.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Потом' is instrumental in the idiom 'обливаться потом', to be drenched in sweat. The masculine instrumental ending is -ом."
+      },
+      {
+        "id": "NN-BODY-POT-07",
+        "phrase": "На поту блестели капли света.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Поту' is prepositional after 'на', describing the surface. This noun takes the -у ending in the locative prepositional, like 'в лесу'."
+      },
+      {
+        "id": "NN-BODY-POT-08",
+        "phrase": "Тренер не придал поту значения.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Поту' is dative in the idiom 'придать значения чему-то', though here it functions as the dative complement. The masculine dative ending is -у."
+      },
+      {
+        "id": "NN-BODY-POT-09",
+        "phrase": "Капли пота текли по спине.",
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Пота' is genitive after 'капли', a quantity word that governs the genitive. The drops of sweat run down the back."
+      },
+      {
+        "id": "NN-BODY-POT-10",
+        "phrase": "Весь пот мгновенно высох на ветру.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Пот' is the nominative subject of 'высох'. 'Весь' quantifies it, and 'на ветру' uses the locative -у ending for the wind."
+      }
+    ]
+  }
+]

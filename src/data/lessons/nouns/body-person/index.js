@@ -22,10 +22,13 @@ import litsoSet from './litso.json';
 import lobSet from './lob.json';
 import lokotSet from './lokot.json';
 import mozgSet from './mozg.json';
+import nervSet from './nerv.json';
 import nogaSet from './noga.json';
 import nosSet from './nos.json';
 import paletsSet from './palets.json';
 import plechoSet from './plecho.json';
+import potSet from './pot.json';
+import ranaSet from './rana.json';
 import rotSet from './rot.json';
 import rukaSet from './ruka.json';
 import rukavSet from './rukav.json';
@@ -68,10 +71,13 @@ const bodyPersonNounsData = [
   ...lobSet,
   ...lokotSet,
   ...mozgSet,
+  ...nervSet,
   ...nogaSet,
   ...nosSet,
   ...paletsSet,
   ...plechoSet,
+  ...potSet,
+  ...ranaSet,
   ...rotSet,
   ...rukaSet,
   ...rukavSet,

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-OTDYKH",
+    "label": "Отдых",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for отдых (rest).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-OTDYKH-01",
+        "phrase": "Хороший отдых очень важен.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Отдых' is the masculine nominative subject. 'Хороший' is the agreeing adjective, and 'важен' is the short masculine predicate adjective intensified by 'очень'."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-02",
+        "phrase": "Все заслужили хороший отдых.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Отдых' is the inanimate masculine accusative, equal to the nominative, as the object of 'заслужили'. 'Хороший' agrees with it, and 'все' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-03",
+        "phrase": "После отдыха я снова бодрый.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Отдыха' is the genitive after 'после', marking time. 'Я' is the nominative subject, and 'бодрый' is the predicate adjective."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-04",
+        "phrase": "Организм радуется отдыху.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Отдыху' is the dative governed by 'радуется', expressing what brings relief. 'Организм' is the nominative subject of the sentence."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-05",
+        "phrase": "Он наслаждается тихим отдыхом.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Отдыхом' is the instrumental governed by 'наслаждается', expressing what is enjoyed. 'Тихим' is the agreeing masculine adjective, and 'он' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-06",
+        "phrase": "Мы мечтаем об отдыхе у моря.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'Отдыхе' is the prepositional after 'об', the object of dreaming. 'У моря' is the genitive of location, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-07",
+        "phrase": "Короткие отдыхи помогают сосредоточиться.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Отдыхи' is the nominative plural subject of 'помогают'. 'Короткие' agrees with it in the plural, and the infinitive 'сосредоточиться' completes the meaning."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-08",
+        "phrase": "Без отдыха человек быстро устаёт.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Отдыха' is the genitive after 'без', marking absence. 'Человек' is the nominative subject, and 'быстро' is the adverb modifying 'устаёт'."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-09",
+        "phrase": "Врач советует больше отдыха.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Отдыха' is the genitive after 'больше', expressing a greater amount. 'Врач' is the nominative subject of 'советует'."
+      },
+      {
+        "id": "NN-EMOTION-OTDYKH-10",
+        "phrase": "На отдыхе мы много гуляли.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Отдыхе' is the prepositional after 'на', meaning during the vacation. 'Мы' is the subject, and 'много' modifies the verb 'гуляли'."
+      }
+    ]
+  }
+]

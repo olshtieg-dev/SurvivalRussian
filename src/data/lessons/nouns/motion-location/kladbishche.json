@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KLADBISHCHE",
+    "label": "Кладбище",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for кладбище (cemetery).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KLADBISHCHE-01",
+        "phrase": "Старое кладбище находится за городом.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Кладбище' is the neuter nominative subject of 'находится'. 'Старое' is the agreeing neuter adjective, and 'за городом' gives the location."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-02",
+        "phrase": "Мы посетили кладбище в воскресенье.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Кладбище' is the accusative direct object of 'посетили'. Neuter nouns keep the same form in nominative and accusative, so the ending stays -е."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-03",
+        "phrase": "Возле кладбища стоит старая церковь.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Кладбища' is genitive governed by 'возле', meaning near. The neuter genitive singular ending is -а here."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-04",
+        "phrase": "Дорога вела к кладбищу через лес.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Кладбищу' is dative governed by 'к', expressing direction toward. The road led to the cemetery, a natural motion phrase."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-05",
+        "phrase": "За кладбищем начинается тёмный лес.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Кладбищем' is instrumental governed by 'за', marking location behind. The neuter instrumental ending is -ем."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-06",
+        "phrase": "На кладбище было очень тихо.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Кладбище' is prepositional after 'на', describing where it was quiet. The neuter prepositional ending coincides with the nominative -е."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-07",
+        "phrase": "Бабушка идёт на кладбище каждый месяц.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Кладбище' is accusative after 'на' expressing motion toward. With motion verbs 'на' takes the accusative, here unchanged in form for this neuter noun."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-08",
+        "phrase": "В городе несколько старых кладбищ.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Кладбищ' is genitive plural after 'несколько', which governs the genitive. This neuter noun drops to a zero ending in the genitive plural."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-09",
+        "phrase": "Эти кладбища очень старые и заброшенные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Кладбища' is the nominative plural subject. 'Эти' agrees in the plural, and the predicate adjectives describe their abandoned state."
+      },
+      {
+        "id": "NN-MOTION-KLADBISHCHE-10",
+        "phrase": "Они шли по кладбищу очень медленно.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Кладбищу' is dative governed by 'по', describing movement across the surface. They walked through the cemetery slowly."
+      }
+    ]
+  }
+]

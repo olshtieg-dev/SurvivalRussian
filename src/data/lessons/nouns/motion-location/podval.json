@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-PODVAL",
+    "label": "Подвал",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for подвал (basement).",
+    "missions": [
+      {
+        "id": "NN-MOTION-PODVAL-01",
+        "phrase": "Подвал был тёмным и сырым.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Подвал' is the masculine nominative subject. 'Был' agrees in masculine gender, and 'тёмным' and 'сырым' are instrumental predicate adjectives describing it. A vivid descriptive sentence."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-02",
+        "phrase": "Мы убрали весь подвал вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Подвал' is the accusative direct object of 'убрали'; as an inanimate masculine noun its accusative equals the nominative. 'Весь' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-03",
+        "phrase": "В нашем доме нет подвала.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Подвала' is the genitive after the negative 'нет'. 'В нашем доме' sets the place. A natural way to state a house lacks a basement."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-04",
+        "phrase": "К подвалу ведёт узкая лестница.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Подвалу' is the dative after 'к', marking the goal. 'Ведёт' agrees with the subject 'лестница', and 'узкая' describes it. A spatial-relation pattern."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-05",
+        "phrase": "Под подвалом проходит труба.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Подвалом' is the instrumental after 'под', expressing location beneath. 'Проходит труба' is the nominative subject and verb. A clear locational description."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-06",
+        "phrase": "В подвале хранятся старые вещи.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Подвале' is the prepositional after 'в', showing location inside. 'Хранятся' agrees with the plural subject 'вещи'. The core 'where things are kept' pattern."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-07",
+        "phrase": "Мы спустились в подвал за инструментами.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Подвал' is the accusative after 'в' to express motion into a place. 'Спустились' is the verb of downward motion, and 'за инструментами' gives the purpose."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-08",
+        "phrase": "Эти подвалы давно пустуют.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Подвалы' is the nominative plural subject of 'пустуют'. 'Эти' agrees in the plural, and 'давно' adds duration. A simple plural statement."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-09",
+        "phrase": "В этом районе много старых подвалов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Подвалов' is the genitive plural after the quantifier 'много'. 'Старых' agrees in the genitive plural, and 'в этом районе' gives the location."
+      },
+      {
+        "id": "NN-MOTION-PODVAL-10",
+        "phrase": "В подвалах было очень холодно.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Подвалах' is the prepositional plural after 'в'. The impersonal 'было холодно' describes the condition, and 'очень' intensifies it."
+      }
+    ]
+  }
+]

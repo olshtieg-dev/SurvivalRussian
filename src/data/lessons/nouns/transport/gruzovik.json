@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-TRANS-GRUZOVIK",
+    "label": "Грузовик",
+    "badge": "TRANS",
+    "description": "A 10-sentence usage card for грузовик (truck).",
+    "missions": [
+      {
+        "id": "NN-TRANS-GRUZOVIK-01",
+        "phrase": "Большой грузовик стоит у ворот.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Грузовик' is the masculine nominative subject of 'стоит'. 'Большой' is the agreeing masculine adjective, and 'у ворот' gives the location."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-02",
+        "phrase": "Водитель загнал грузовик во двор.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Грузовик' is the accusative direct object of 'загнал'. As an inanimate masculine noun, its accusative equals the nominative. 'Во двор' shows direction."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-03",
+        "phrase": "Без грузовика мы не перевезём мебель.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Грузовика' is genitive governed by 'без'. The masculine genitive ending is -а, and the sentence states a clear dependency."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-04",
+        "phrase": "К грузовику подошли двое рабочих.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Грузовику' is dative governed by 'к', expressing approach. Two workers came up to the truck, a natural motion phrase."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-05",
+        "phrase": "За грузовиком ехала маленькая машина.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Грузовиком' is instrumental governed by 'за', meaning behind in motion. The masculine instrumental ending is -ом."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-06",
+        "phrase": "В грузовике лежали тяжёлые коробки.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Грузовике' is prepositional after 'в', describing where the boxes lay. The masculine prepositional ending is -е."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-07",
+        "phrase": "Они доехали до склада на грузовике.",
+        "fullAnalysis": "Strategic focus: Prepositional of conveyance. 'Грузовике' is prepositional after 'на', the standard way to say by what vehicle one travels. They reached the warehouse by truck."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-08",
+        "phrase": "Во дворе стояли три новых грузовика.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Грузовика' takes the genitive singular after 'три', as numbers two through four require. The adjective 'новых' is in the genitive plural."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-09",
+        "phrase": "Эти грузовики возят товары каждый день.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Грузовики' is the nominative plural subject of 'возят'. 'Эти' agrees in the plural, and 'каждый день' adds frequency."
+      },
+      {
+        "id": "NN-TRANS-GRUZOVIK-10",
+        "phrase": "На складе не хватает грузовиков.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Грузовиков' is genitive plural after 'не хватает', which governs the genitive for shortage. The masculine genitive plural ending is -ов."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-RUZHYO",
+    "label": "Ружьё",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ружьё (rifle).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-01",
+        "phrase": "Это старое охотничье ружьё.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ружьё' is a neuter noun standing in the nominative as the subject. 'Старое' and 'охотничье' are agreeing neuter adjectives describing it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-02",
+        "phrase": "Дед чистит своё ружьё.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ружьё' is neuter, so its accusative equals the nominative. 'Своё' is the agreeing possessive, and 'чистит' is the present-tense verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-03",
+        "phrase": "У него нет ружья.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'ружья'. 'У него' marks the person who lacks it, a basic possession-negation frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-04",
+        "phrase": "Из ружья вылетела пуля.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Ружья' is the genitive after 'из', marking origin of motion. 'Пуля' is the nominative subject that flew out."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-05",
+        "phrase": "Охотник вернулся домой с ружьём.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'С ружьём' uses the instrumental 'ружьём' after 'с' to show what the hunter carried. 'Вернулся домой' frames the return."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-06",
+        "phrase": "Он подошёл к ружью осторожно.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Ружью' is the dative after 'к', marking the target of approach. 'Осторожно' adds the careful manner."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-07",
+        "phrase": "В ружье кончились патроны.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В ружье' uses the prepositional form 'ружье' after 'в' to locate where the cartridges ran out. 'Патроны' is the nominative plural subject."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-08",
+        "phrase": "На стене висят два ружья.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'два'. The numeral 'два' governs the genitive singular 'ружья'. 'На стене' gives the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-09",
+        "phrase": "В музее выставлены старинные ружья.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ружья' is the neuter nominative plural subject. 'Старинные' agrees in the plural, and 'в музее' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-RUZHYO-10",
+        "phrase": "Солдатам выдали новые ружья.",
+        "fullAnalysis": "Strategic focus: Accusative plural with dative recipient. 'Ружья' is the inanimate accusative plural, the things issued. 'Солдатам' is the dative recipient and 'новые' agrees with the rifles."
+      }
+    ]
+  }
+]

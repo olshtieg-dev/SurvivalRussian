@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-KONTAKT",
+    "label": "Контакт",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for контакт (contact).",
+    "missions": [
+      {
+        "id": "NN-COMMS-KONTAKT-01",
+        "phrase": "Между нами установился хороший контакт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Контакт' is the masculine nominative subject of 'установился'. 'Хороший' is the agreeing masculine adjective describing the connection."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-02",
+        "phrase": "Мы потеряли контакт с клиентом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Контакт' is the accusative direct object of 'потеряли'. As an inanimate masculine noun, its accusative equals the nominative. 'С клиентом' is instrumental."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-03",
+        "phrase": "Без контакта работа невозможна.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Контакта' is genitive governed by 'без'. The masculine genitive ending is -а, and the sentence states a clear dependency."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-04",
+        "phrase": "Благодаря контакту мы быстро договорились.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Контакту' is dative governed by 'благодаря', which expresses a favourable cause. The masculine dative ending is -у."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-05",
+        "phrase": "Они дорожат контактом с этой фирмой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Контактом' is instrumental after 'дорожить', which governs the instrumental. The masculine instrumental ending is -ом."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-06",
+        "phrase": "В контакте всегда есть взаимное доверие.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Контакте' is prepositional after 'в', describing the setting of trust. The masculine prepositional ending is -е."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-07",
+        "phrase": "Я хочу наладить контакт с коллегами.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Контакт' is the accusative direct object of 'наладить'. The infinitive expresses intention, and 'с коллегами' is the instrumental partner phrase."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-08",
+        "phrase": "У нас много контактов в этой стране.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Контактов' is genitive plural after 'много'. Here the plural carries the sense of business connections, with the masculine ending -ов."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-09",
+        "phrase": "Эти контакты очень важны для нас.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Контакты' is the nominative plural subject. 'Эти' agrees in the plural, and 'важны' is the short-form predicate adjective."
+      },
+      {
+        "id": "NN-COMMS-KONTAKT-10",
+        "phrase": "Запишите мой контакт в телефон.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Контакт' is the accusative direct object of 'запишите'. 'Мой' agrees in the masculine accusative, and 'в телефон' shows the destination."
+      }
+    ]
+  }
+]

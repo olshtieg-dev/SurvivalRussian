@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-BODY-NERV",
+    "label": "Нерв",
+    "badge": "BODY",
+    "description": "A 10-sentence usage card for нерв (nerve).",
+    "missions": [
+      {
+        "id": "NN-BODY-NERV-01",
+        "phrase": "Этот нерв отвечает за движение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Нерв' is the nominative subject of 'отвечает'. 'Этот' is the agreeing masculine demonstrative, and 'за движение' is the accusative after 'за'."
+      },
+      {
+        "id": "NN-BODY-NERV-02",
+        "phrase": "Врач случайно задел нерв.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Нерв' is the inanimate masculine accusative, identical to the nominative, as the direct object of 'задел'. 'Врач' is the nominative subject and 'случайно' is the adverb."
+      },
+      {
+        "id": "NN-BODY-NERV-03",
+        "phrase": "У него воспаление нерва в спине.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Нерва' is the genitive specifying which inflammation it is. 'Воспаление' is the nominative subject, and 'в спине' is the prepositional of location."
+      },
+      {
+        "id": "NN-BODY-NERV-04",
+        "phrase": "Лекарство помогает больному нерву.",
+        "fullAnalysis": "Strategic focus: Dative as recipient. 'Нерву' is the dative, the thing being helped by 'помогает'. 'Больному' is the agreeing masculine adjective, and 'лекарство' is the nominative subject."
+      },
+      {
+        "id": "NN-BODY-NERV-05",
+        "phrase": "Боль вызвана защемлённым нервом.",
+        "fullAnalysis": "Strategic focus: Instrumental of cause. 'Нервом' is the instrumental marking the agent of the passive 'вызвана'. 'Защемлённым' is the agreeing masculine adjective, and 'боль' is the nominative subject."
+      },
+      {
+        "id": "NN-BODY-NERV-06",
+        "phrase": "Доктор рассказал о зрительном нерве.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'Нерве' is the prepositional after 'о', the topic of the telling. 'Зрительном' is the agreeing masculine adjective, and 'доктор' is the nominative subject."
+      },
+      {
+        "id": "NN-BODY-NERV-07",
+        "phrase": "В руке проходят важные нервы.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Нервы' is the nominative plural subject of 'проходят'. 'Важные' agrees with it in the plural, and 'в руке' is the prepositional of location."
+      },
+      {
+        "id": "NN-BODY-NERV-08",
+        "phrase": "Холод раздражает нервы на коже.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Нервы' is the inanimate accusative plural, the object of 'раздражает'. 'Холод' is the nominative subject, and 'на коже' is the prepositional of location."
+      },
+      {
+        "id": "NN-BODY-NERV-09",
+        "phrase": "Эта боль идёт от нерва.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Нерва' is the genitive after 'от', marking the source of the pain. 'Боль' is the nominative subject, and 'эта' agrees with it in feminine gender."
+      },
+      {
+        "id": "NN-BODY-NERV-10",
+        "phrase": "Каждый нерв передаёт сигнал в мозг.",
+        "fullAnalysis": "Strategic focus: Nominative subject with object. 'Нерв' is the nominative subject of 'передаёт'. 'Каждый' agrees with it, 'сигнал' is the accusative object, and 'в мозг' is the accusative of direction."
+      }
+    ]
+  }
+]

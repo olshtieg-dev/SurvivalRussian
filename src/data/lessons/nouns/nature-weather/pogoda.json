@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-POGODA",
+    "label": "Погода",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for погода (weather).",
+    "missions": [
+      {
+        "id": "NN-NATURE-POGODA-01",
+        "phrase": "Сегодня очень хорошая погода.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Погода' stays in the nominative case as the feminine subject. 'Хорошая' is the agreeing feminine adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-NATURE-POGODA-02",
+        "phrase": "Я люблю тёплую летнюю погоду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Погоду' is the accusative direct object of 'люблю'. 'Тёплую летнюю' are the agreeing feminine accusative adjectives."
+      },
+      {
+        "id": "NN-NATURE-POGODA-03",
+        "phrase": "Из-за плохой погоды мы остались дома.",
+        "fullAnalysis": "Strategic focus: Genitive of cause. 'Погоды' is the genitive form after 'из-за' to express the reason. 'Плохой' agrees in the feminine genitive. A core cause pattern."
+      },
+      {
+        "id": "NN-NATURE-POGODA-04",
+        "phrase": "Мы говорим о погоде каждый день.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О погоде' uses the prepositional form 'погоде' after 'о' to express talking about the weather. The classic small-talk topic."
+      },
+      {
+        "id": "NN-NATURE-POGODA-05",
+        "phrase": "Благодаря погоде поездка удалась.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Погоде' is the dative form after 'благодаря', which governs the dative to express favourable cause."
+      },
+      {
+        "id": "NN-NATURE-POGODA-06",
+        "phrase": "Мы наслаждаемся прекрасной погодой.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Погодой' is the instrumental case required by 'наслаждаться'. 'Прекрасной' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-NATURE-POGODA-07",
+        "phrase": "При такой погоде лучше остаться.",
+        "fullAnalysis": "Strategic focus: Prepositional with условие. 'Погоде' uses the prepositional form after 'при' to mean 'in such weather'. 'Такой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-NATURE-POGODA-08",
+        "phrase": "В горах часто бывают плохие погоды.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Погоды' is the nominative plural subject describing recurring weather conditions. 'Плохие' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-NATURE-POGODA-09",
+        "phrase": "В прогнозе нет хороших погод.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Погод' is the genitive plural after 'нет' to express absence. 'Хороших' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-NATURE-POGODA-10",
+        "phrase": "Погода завтра будет тёплой.",
+        "fullAnalysis": "Strategic focus: Nominative subject with instrumental predicate. 'Погода' is the nominative subject, while 'тёплой' takes the instrumental as a predicate after 'будет'. A useful future-tense model."
+      }
+    ]
+  }
+]

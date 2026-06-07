@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PERO",
+    "label": "Перо",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for перо (feather; pen).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PERO-01",
+        "phrase": "На столе лежит белое перо.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Перо' stays in the nominative case as the neuter subject lying on the table. 'Белое' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-02",
+        "phrase": "Я нашёл красивое птичье перо.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Перо' is the accusative direct object of 'нашёл'; neuter nouns look identical in nominative and accusative. 'Птичье' agrees in the neuter."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-03",
+        "phrase": "Он пишет письмо старым пером.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Пером' is the instrumental case, the tool used for writing. 'Старым' agrees in the neuter instrumental. The instrumental answers 'with what'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-04",
+        "phrase": "У этого пера сломан кончик.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Пера' is the genitive form after 'у' to show whose tip is broken. 'Этого' agrees in the neuter genitive."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-05",
+        "phrase": "В чернилах испачкано перо.",
+        "fullAnalysis": "Strategic focus: Nominative with prepositional setting. 'Перо' is the nominative subject that got stained, while 'в чернилах' gives the prepositional context. A natural descriptive sentence."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-06",
+        "phrase": "Я подошёл к лёгкому перу.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Перу' is the dative form after 'к' marking the goal of motion. 'Лёгкому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-07",
+        "phrase": "Я часто думаю об этом пере.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О пере' uses the prepositional form 'пере' after 'об' to express thinking about the pen. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-08",
+        "phrase": "На земле лежали разноцветные перья.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Перья' is the irregular nominative plural of 'перо', the subject lying on the ground. 'Разноцветные' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-09",
+        "phrase": "Подушка сделана из мягких перьев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Перьев' is the genitive plural after 'из' showing the material. The irregular plural stem 'перь-' is required throughout the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PERO-10",
+        "phrase": "Это перо очень острое.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Перо' is nominative as the subject. 'Острое' is the agreeing neuter predicate adjective, intensified by 'очень'. A clean descriptive model."
+      }
+    ]
+  }
+]

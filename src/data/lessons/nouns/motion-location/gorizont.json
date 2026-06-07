@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-GORIZONT",
+    "label": "Горизонт",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for горизонт (horizon).",
+    "missions": [
+      {
+        "id": "NN-MOTION-GORIZONT-01",
+        "phrase": "Впереди виднелся ясный горизонт.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Горизонт' is nominative as the subject of 'виднелся'. 'Ясный' is the agreeing masculine adjective, and 'впереди' gives the orientation."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-02",
+        "phrase": "Моряки внимательно изучали горизонт.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Горизонт' is the accusative direct object of 'изучали'; as an inanimate masculine noun its accusative equals the nominative. 'Внимательно' is the adverb."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-03",
+        "phrase": "Солнце садится у горизонта.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Горизонта' is genitive after 'у', marking position by the horizon. 'Солнце' is the nominative subject of 'садится'."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-04",
+        "phrase": "Корабль плыл к горизонту.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Горизонту' is dative after 'к', marking movement toward the horizon. 'Корабль' is the nominative subject of 'плыл'."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-05",
+        "phrase": "Небо сливалось с горизонтом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Горизонтом' is instrumental after 'с', meaning to merge with the horizon. 'Небо' is the nominative subject of 'сливалось'."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-06",
+        "phrase": "На горизонте появился корабль.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Горизонте' is prepositional after 'на', marking where the ship appeared. 'Корабль' is the nominative subject of 'появился'."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-07",
+        "phrase": "Тучи собрались над горизонтом.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'над'. 'Горизонтом' is instrumental after 'над', marking position above the horizon. 'Тучи' is the nominative plural subject."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-08",
+        "phrase": "Самолёт летит за горизонт.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Горизонт' takes the accusative after 'за' to mark movement beyond the horizon. As an inanimate noun its accusative matches the nominative."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-09",
+        "phrase": "Путешествия открывают новые горизонты.",
+        "fullAnalysis": "Strategic focus: Accusative plural, figurative. 'Горизонты' is the accusative plural object of 'открывают'; for inanimate nouns the accusative plural matches the nominative. 'Новые' agrees in the plural."
+      },
+      {
+        "id": "NN-MOTION-GORIZONT-10",
+        "phrase": "Это очень широкий горизонт.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Горизонт' is nominative as the predicate noun. 'Широкий' is the agreeing masculine adjective, intensified by 'очень'."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KHOLM",
+    "label": "Холм",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for холм (hill).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KHOLM-01",
+        "phrase": "Впереди виднеется высокий холм.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Холм' stays in the nominative as the subject of 'виднеется'. 'Высокий' is the agreeing masculine adjective, and 'впереди' locates it ahead."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-02",
+        "phrase": "Мы поднимаемся на крутой холм.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Холм' is the accusative after 'на', marking the destination of the climb. 'Крутой' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-03",
+        "phrase": "С вершины холма видно море.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Холма' takes the genitive after 'с' meaning from the hill. 'Вершины' is also genitive, showing the top as the vantage point."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-04",
+        "phrase": "На холме стоит старая церковь.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Холме' is the prepositional after 'на', marking where the church stands. 'Старая' agrees with the feminine 'церковь'."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-05",
+        "phrase": "Дорога ведёт к зелёному холму.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Холму' is the dative after 'к', showing where the road leads. 'Зелёному' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-06",
+        "phrase": "За холмом начинается густой лес.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Холмом' is the instrumental after 'за', meaning beyond the hill. 'Лес' is the nominative subject of 'начинается'."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-07",
+        "phrase": "Вокруг города зелёные холмы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Холмы' is the nominative plural describing the landscape. 'Зелёные' agrees in plural, and 'вокруг города' takes the genitive."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-08",
+        "phrase": "Дети сбежали с холма вниз.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Холма' takes the genitive after 'с', marking the starting point of motion. 'Вниз' reinforces the downward direction."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-09",
+        "phrase": "Мы любовались далёкими холмами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural object. 'Холмами' is the instrumental plural required by 'любоваться'. 'Далёкими' agrees in the plural instrumental."
+      },
+      {
+        "id": "NN-MOTION-KHOLM-10",
+        "phrase": "Этот холм очень древний.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Холм' is the nominative subject. 'Этот' points to a specific hill, and 'древний' is the agreeing masculine predicate adjective."
+      }
+    ]
+  }
+]

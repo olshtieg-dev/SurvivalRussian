@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-ISKLYUCHENIE",
+    "label": "Исключение",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for исключение (exception).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-01",
+        "phrase": "Это редкое исключение из правила.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Исключение' is a neuter noun in the nominative as the predicate noun. 'Редкое' is the agreeing neuter adjective, and 'из правила' takes the genitive. A core defining phrase."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-02",
+        "phrase": "Учитель сделал важное исключение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Исключение' is a neuter noun whose accusative matches the nominative, the object of 'сделал'. 'Важное' agrees in the neuter accusative. A natural action pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-03",
+        "phrase": "Для тебя не будет исключения.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Исключения' takes the genitive after the negated 'не будет' to mark non-existence in the future. 'Для тебя' shows for whom. A useful negation frame."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-04",
+        "phrase": "Благодаря исключению он сдал экзамен.",
+        "fullAnalysis": "Strategic focus: Dative with 'благодаря'. 'Исключению' uses the dative form after 'благодаря' to mean thanks to the exception. 'Он сдал экзамен' is the result. A common cause pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-05",
+        "phrase": "Этот случай стал настоящим исключением.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Исключением' takes the instrumental after 'стал' to express becoming an exception. 'Настоящим' agrees in the neuter instrumental. A classic 'become' frame."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-06",
+        "phrase": "Об этом исключении знают все сотрудники.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об исключении' uses the prepositional 'исключении' after 'об' to express knowing about something. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-07",
+        "phrase": "Без исключений правило работает всегда.",
+        "fullAnalysis": "Strategic focus: Genitive plural with 'без'. 'Исключений' is the genitive plural after 'без' to mean without exceptions. 'Правило работает всегда' is the main clause. A useful absolute statement."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-08",
+        "phrase": "В законе есть несколько важных исключений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Исключений' takes the genitive plural after the quantity word 'несколько'. 'Важных' agrees, and 'в законе' sets the context."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-09",
+        "phrase": "Эти исключения только подтверждают правило.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Исключения' is the neuter nominative plural subject of 'подтверждают'. 'Эти' agrees in the plural, echoing a familiar proverb. A clean plural model."
+      },
+      {
+        "id": "NN-ABSTRACT-ISKLYUCHENIE-10",
+        "phrase": "Мы рассмотрели все возможные исключения.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Исключения' is the accusative plural of an inanimate neuter noun, the object of 'рассмотрели'. 'Все возможные' agrees in the plural. Strong for discussion language."
+      }
+    ]
+  }
+]

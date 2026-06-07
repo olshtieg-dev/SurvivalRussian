@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SUDYA",
+    "label": "Судья",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for судья (judge).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SUDYA-01",
+        "phrase": "Судья вошёл в зал суда.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Судья' is an animate masculine noun in the nominative as the subject of 'вошёл'. 'В зал суда' marks the destination of motion."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-02",
+        "phrase": "Все внимательно слушали судью.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Судью' is the accusative direct object of 'слушали'. For this animate masculine noun the accusative equals the genitive form."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-03",
+        "phrase": "Решение судьи было справедливым.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Судьи' is the genitive form marking whose decision it was. 'Было' agrees with the neuter subject 'решение', and 'справедливым' is the instrumental predicate."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-04",
+        "phrase": "Адвокат подошёл к судье.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Судье' is dative after 'к', marking the judge as the goal of motion. A natural courtroom phrase."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-05",
+        "phrase": "Свидетель говорил с судьёй спокойно.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Судьёй' is instrumental after 'с', marking the person spoken with. 'Спокойно' describes the manner of the conversation."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-06",
+        "phrase": "В этом судье много опыта.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Судье' is the prepositional form after 'в', here figuratively locating experience within the person. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-07",
+        "phrase": "Новый судья очень строгий и честный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Судья' is the nominative subject. 'Новый', 'строгий', and 'честный' are agreeing masculine adjectives describing him."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-08",
+        "phrase": "Судьи вынесли окончательное решение.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Судьи' is the nominative plural subject of 'вынесли'. 'Окончательное' agrees with the neuter object 'решение'."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-09",
+        "phrase": "Журналисты ждали судей у входа.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Судей' is the accusative plural object of 'ждали'; for animate nouns the accusative plural equals the genitive plural. 'У входа' marks the place."
+      },
+      {
+        "id": "NN-PEOPLE-SUDYA-10",
+        "phrase": "Мнения судей сильно различались.",
+        "fullAnalysis": "Strategic focus: Genitive plural of belonging. 'Судей' is the genitive plural marking whose opinions. 'Мнения' is the nominative plural subject, and 'различались' agrees with it."
+      }
+    ]
+  }
+]

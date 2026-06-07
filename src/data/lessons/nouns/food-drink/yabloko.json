@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-YABLOKO",
+    "label": "Яблоко",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for яблоко (apple).",
+    "missions": [
+      {
+        "id": "NN-FOOD-YABLOKO-01",
+        "phrase": "Это яблоко очень вкусное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Яблоко' is the neuter nominative subject. 'Это' and 'вкусное' are the agreeing neuter demonstrative and adjective, and 'очень' intensifies the praise."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-02",
+        "phrase": "Я ем красное яблоко.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Яблоко' is the neuter accusative, identical to the nominative, as the object of 'ем'. 'Красное' is the agreeing neuter adjective, and 'я' is the subject."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-03",
+        "phrase": "Половина яблока уже съедена.",
+        "fullAnalysis": "Strategic focus: Genitive of part. 'Яблока' is the genitive after 'половина', marking the whole from which a part is taken. 'Съедена' is the short feminine adjective agreeing with 'половина'."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-04",
+        "phrase": "Малыш потянулся к яблоку.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Яблоку' is the dative after 'к', expressing reaching toward something. 'Малыш' is the nominative subject of 'потянулся'."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-05",
+        "phrase": "Она угостила меня яблоком.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Яблоком' is the instrumental, the thing offered with 'угостила'. 'Меня' is the accusative recipient, and 'она' is the nominative subject."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-06",
+        "phrase": "В этом яблоке нет косточек.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Яблоке' is the prepositional after 'в', telling where the seeds are absent. 'Косточек' is the genitive after the negative 'нет'."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-07",
+        "phrase": "На столе лежат свежие яблоки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Яблоки' is the nominative plural subject of 'лежат'. 'Свежие' agrees with it in the plural, and 'на столе' is the prepositional of location."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-08",
+        "phrase": "Мама купила килограмм яблок.",
+        "fullAnalysis": "Strategic focus: Genitive plural after measure. 'Яблок' is the genitive plural after 'килограмм', a quantity word. 'Мама' is the nominative subject of 'купила'."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-09",
+        "phrase": "Дети моют яблоки перед обедом.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Яблоки' is the inanimate accusative plural, the object of 'моют'. 'Дети' is the nominative plural subject, and 'перед обедом' is the instrumental of time."
+      },
+      {
+        "id": "NN-FOOD-YABLOKO-10",
+        "phrase": "Без яблок пирог будет невкусным.",
+        "fullAnalysis": "Strategic focus: Genitive plural after preposition. 'Яблок' is the genitive plural after 'без', marking absence. 'Пирог' is the nominative subject, and 'невкусным' is the instrumental predicate after 'будет'."
+      }
+    ]
+  }
+]

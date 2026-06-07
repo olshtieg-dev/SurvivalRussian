@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-OGOROD",
+    "label": "Огород",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for огород (vegetable garden).",
+    "missions": [
+      {
+        "id": "NN-MOTION-OGOROD-01",
+        "phrase": "За домом большой огород.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Огород' is nominative as the subject of the existential sentence. 'Большой' is the agreeing masculine adjective, and 'за домом' gives the location."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-02",
+        "phrase": "Бабушка любит свой огород.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Огород' is the accusative direct object of 'любит'; as an inanimate masculine noun its accusative equals the nominative. 'Свой' agrees with it."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-03",
+        "phrase": "Около огорода растёт яблоня.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Огорода' is genitive after 'около', marking proximity. 'Яблоня' is the nominative subject of 'растёт'."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-04",
+        "phrase": "Дети бегут к огороду.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Огороду' is dative after 'к', marking movement toward the garden. 'Дети' is the nominative plural subject of 'бегут'."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-05",
+        "phrase": "Мы гордимся своим огородом.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Огородом' is instrumental, required by 'гордимся'. 'Своим' is the agreeing masculine instrumental possessive."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-06",
+        "phrase": "В огороде созрели помидоры.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Огороде' is prepositional after 'в', marking where the action happens. 'Помидоры' is the nominative plural subject of 'созрели'."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-07",
+        "phrase": "Летом я работаю в огороде.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Огороде' is prepositional after 'в', naming where the work happens. 'Летом' is an instrumental adverb of time."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-08",
+        "phrase": "Дед идёт на огород утром.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Огород' takes the accusative after 'на' to mark movement onto the plot. As an inanimate noun its accusative matches the nominative."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-09",
+        "phrase": "В деревне у всех огороды.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Огороды' is the nominative plural in this possession frame. 'У всех' names the owners, and 'в деревне' gives the setting."
+      },
+      {
+        "id": "NN-MOTION-OGOROD-10",
+        "phrase": "Соседи ухаживают за огородами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural with 'за'. 'Огородами' is the instrumental plural after 'за', meaning to tend to the gardens. 'Соседи' is the nominative plural subject."
+      }
+    ]
+  }
+]

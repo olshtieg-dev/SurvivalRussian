@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-SVIDETEL",
+    "label": "Свидетель",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for свидетель (witness).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-SVIDETEL-01",
+        "phrase": "В зале сидит главный свидетель.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Свидетель' stays in the nominative case as the masculine animate subject. 'Главный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-02",
+        "phrase": "Полиция вызвала важного свидетеля.",
+        "fullAnalysis": "Strategic focus: Accusative animate. 'Свидетеля' takes the accusative, which equals the genitive for animate masculine nouns. 'Важного' agrees in the animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-03",
+        "phrase": "У этого свидетеля надёжная память.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Свидетеля' is the genitive form after 'у' to show whose memory it is. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-04",
+        "phrase": "Судья верит этому свидетелю.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Свидетелю' is the dative case required by the verb 'верить'. 'Этому' agrees in the masculine dative. A core dative-verb pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-05",
+        "phrase": "Преступник стал главным свидетелем.",
+        "fullAnalysis": "Strategic focus: Instrumental predicate. 'Свидетелем' is the instrumental after 'стал' to mark the role he became. 'Главным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-06",
+        "phrase": "Все говорят об этом свидетеле.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О свидетеле' uses the prepositional form 'свидетеле' after 'об' to express talking about the witness. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-07",
+        "phrase": "Адвокат подошёл к свидетелю.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Свидетелю' is the dative form after 'к' marking the person approached. A natural courtroom motion expression."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-08",
+        "phrase": "В суде выступили три свидетеля.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. 'Свидетеля' takes the genitive singular after 'три', as numerals two through four require. A core numeral pattern."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-09",
+        "phrase": "Все свидетели рассказали правду.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Свидетели' is the nominative plural subject. 'Все' agrees in the plural, and 'рассказали' takes the plural verb ending."
+      },
+      {
+        "id": "NN-PEOPLE-SVIDETEL-10",
+        "phrase": "Полиция опросила всех свидетелей.",
+        "fullAnalysis": "Strategic focus: Accusative animate plural. 'Свидетелей' takes the accusative, which equals the genitive plural for animate nouns. 'Всех' agrees in the animate accusative plural."
+      }
+    ]
+  }
+]

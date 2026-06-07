@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-TYOTKA",
+    "label": "Тётка",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for тётка (aunt; woman).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-TYOTKA-01",
+        "phrase": "Моя тётка живёт в деревне.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тётка' is the nominative subject of 'живёт'. 'Моя' is the agreeing feminine possessive, and 'в деревне' is the prepositional of location."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-02",
+        "phrase": "Я давно не видел свою тётку.",
+        "fullAnalysis": "Strategic focus: Accusative of animate object. 'Тётку' is the accusative direct object of 'видел'. 'Свою' is the agreeing feminine accusative possessive, and the negation uses 'не'."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-03",
+        "phrase": "Это дом моей тётки.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Тётки' is the genitive marking whose house it is. 'Моей' is the agreeing feminine genitive possessive, and 'дом' is the nominative predicate."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-04",
+        "phrase": "Я позвонил своей тётке вчера.",
+        "fullAnalysis": "Strategic focus: Dative as recipient. 'Тётке' is the dative, the person called by 'позвонил'. 'Своей' is the agreeing feminine possessive, and 'вчера' is the time adverb."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-05",
+        "phrase": "Я давно знаком с этой тёткой.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Тёткой' is the instrumental after 'с', expressing acquaintance. 'Этой' is the agreeing feminine demonstrative, and 'знаком' is the short adjective."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-06",
+        "phrase": "Мы говорили о тётке весь вечер.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'Тётке' is the prepositional after 'о', the topic of conversation. 'Весь вечер' is the accusative of duration, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-07",
+        "phrase": "В очереди стояли две сердитые тётки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after numeral. After 'две' the noun takes 'тётки', the genitive singular form. 'Сердитые' agrees in the numeral construction, and 'в очереди' is the prepositional of location."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-08",
+        "phrase": "Я часто навещаю своих тёток.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate object. 'Тёток' is the animate accusative plural, equal to the genitive, as the object of 'навещаю'. 'Своих' agrees with it in the plural."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-09",
+        "phrase": "У тётки большой сад за домом.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Тётки' is the genitive after 'у', marking whose garden it is. 'Сад' is the nominative subject, 'большой' agrees with it, and 'за домом' is the instrumental of location."
+      },
+      {
+        "id": "NN-PEOPLE-TYOTKA-10",
+        "phrase": "Какая-то тётка спросила дорогу.",
+        "fullAnalysis": "Strategic focus: Nominative subject in colloquial sense. 'Тётка' is the nominative subject, used here informally to mean an unknown woman. 'Какая-то' agrees in feminine gender, and 'дорогу' is the accusative object."
+      }
+    ]
+  }
+]

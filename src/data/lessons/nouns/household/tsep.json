@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-TSEP",
+    "label": "Цепь",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for цепь (chain).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-TSEP-01",
+        "phrase": "Цепь на двери очень крепкая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Цепь' is a feminine third-declension noun in the nominative, the subject of the sentence. 'Крепкая' is the agreeing feminine adjective, and 'на двери' locates it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-02",
+        "phrase": "Я повесил цепь на велосипед.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Цепь' is the accusative direct object of 'повесил'; for this feminine noun the accusative matches the nominative. 'На велосипед' shows the destination."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-03",
+        "phrase": "У этой цепи нет замка.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Цепи' is the genitive form after 'у' in the possession frame. The negation 'нет замка' shows what is missing, a common everyday pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-04",
+        "phrase": "Я дал собаке новую цепь.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Цепь' is the accusative object of 'дал', 'собаке' is the dative recipient, and 'новую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-05",
+        "phrase": "Собака сидит на цепи во дворе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Цепи' is the prepositional form after 'на' showing location or state. 'Во дворе' adds the setting, a natural everyday scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-06",
+        "phrase": "Он закрыл дверь цепью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Цепью' is the instrumental form showing the tool used to close the door. This case answers how the action was carried out."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-07",
+        "phrase": "Цепи на воротах сильно заржавели.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Цепи' is the nominative plural, the subject of 'заржавели', which agrees in the plural. 'На воротах' locates them, and 'сильно' intensifies."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-08",
+        "phrase": "Мы купили две длинные цепи.",
+        "fullAnalysis": "Strategic focus: Numeral with genitive singular. After 'две' the feminine noun takes the genitive singular 'цепи', and 'длинные' stands in the plural form. A standard counting pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-09",
+        "phrase": "Без цепи велосипед легко украсть.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Цепи' is the genitive form required by 'без'. The sentence warns about an action, a practical everyday caution."
+      },
+      {
+        "id": "NN-HOUSEHOLD-TSEP-10",
+        "phrase": "Это самая прочная цепь в магазине.",
+        "fullAnalysis": "Strategic focus: Nominative superlative description. 'Цепь' is nominative as the predicate noun. 'Самая прочная' is the superlative feminine phrase, and 'в магазине' adds the prepositional location."
+      }
+    ]
+  }
+]

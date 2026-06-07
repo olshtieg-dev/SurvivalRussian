@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-NORMA",
+    "label": "Норма",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for норма (norm).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-NORMA-01",
+        "phrase": "Это совершенно нормальная норма.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Норма' stays in the nominative as the predicate noun. 'Нормальная' is the agreeing feminine adjective, reinforced by 'совершенно'."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-02",
+        "phrase": "Врач установил новую норму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Норму' is the accusative direct object of 'установил'. 'Новую' agrees in the feminine accusative, a natural pattern for setting a standard."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-03",
+        "phrase": "Это поведение выше нормы.",
+        "fullAnalysis": "Strategic focus: Genitive after 'выше'. 'Нормы' takes the genitive after the comparative 'выше' to mean above the norm. A useful frame for evaluation."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-04",
+        "phrase": "Результат соответствует норме.",
+        "fullAnalysis": "Strategic focus: Dative after 'соответствует'. 'Норме' takes the dative because the verb 'соответствовать' governs that case, meaning the result matches the norm."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-05",
+        "phrase": "Мы говорим о социальной норме.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О норме' uses the prepositional form 'норме' after 'о' to talk about the norm. 'Социальной' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-06",
+        "phrase": "Доктор доволен этой нормой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Нормой' takes the instrumental because 'доволен' governs that case. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-07",
+        "phrase": "Без нормы трудно оценить работу.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Нормы' takes the genitive because 'без' requires it, meaning without a standard. A clean example of governed genitive."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-08",
+        "phrase": "Температура в пределах нормы.",
+        "fullAnalysis": "Strategic focus: Genitive in a set phrase. 'Нормы' takes the genitive after 'в пределах', a common idiom meaning within the norm. Frequent in medical and technical speech."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-09",
+        "phrase": "Эти нормы давно устарели.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Нормы' is the nominative plural subject of 'устарели'. 'Эти' agrees in the plural, describing rules that have aged."
+      },
+      {
+        "id": "NN-ABSTRACT-NORMA-10",
+        "phrase": "В законе много строгих норм.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Норм' takes the genitive plural because 'много' requires it. 'Строгих' is the agreeing genitive plural adjective."
+      }
+    ]
+  }
+]

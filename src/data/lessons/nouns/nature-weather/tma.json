@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-TMA",
+    "label": "Тьма",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for тьма (darkness).",
+    "missions": [
+      {
+        "id": "NN-NATURE-TMA-01",
+        "phrase": "Вокруг стояла полная тьма.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Тьма' is the feminine nominative subject of 'стояла'. The verb agrees in feminine gender, and 'полная' is the agreeing feminine adjective. A vivid scene-setting line."
+      },
+      {
+        "id": "NN-NATURE-TMA-02",
+        "phrase": "Ночь принесла густую тьму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тьму' is the feminine accusative direct object of 'принесла'. 'Густую' agrees in the feminine accusative, and 'ночь' is the subject. A literary description."
+      },
+      {
+        "id": "NN-NATURE-TMA-03",
+        "phrase": "Он боится тьмы.",
+        "fullAnalysis": "Strategic focus: Genitive object. 'Тьмы' is the feminine genitive required by 'боится'. Verbs of fear govern the genitive. A concise, very common construction."
+      },
+      {
+        "id": "NN-NATURE-TMA-04",
+        "phrase": "К ночной тьме мы привыкли.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Тьме' is the feminine dative after 'к', marking what one gets used to. 'Ночной' agrees in the feminine dative, and 'привыкли' is the verb."
+      },
+      {
+        "id": "NN-NATURE-TMA-05",
+        "phrase": "Он шёл сквозь лес под тьмой.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Тьмой' is the feminine instrumental after 'под', expressing being covered by darkness. 'Шёл сквозь лес' describes the motion."
+      },
+      {
+        "id": "NN-NATURE-TMA-06",
+        "phrase": "Во тьме ничего не видно.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Тьме' is the feminine prepositional after 'во', showing location within. The impersonal 'ничего не видно' states the consequence. A natural everyday observation."
+      },
+      {
+        "id": "NN-NATURE-TMA-07",
+        "phrase": "Город погрузился в тьму.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Тьму' is the feminine accusative after 'в' to express transition into a state. 'Погрузился' agrees with the subject 'город'. A dramatic figurative pattern."
+      },
+      {
+        "id": "NN-NATURE-TMA-08",
+        "phrase": "Из тьмы вышла странная фигура.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Тьмы' is the feminine genitive after 'из', marking the source of motion. 'Вышла' agrees with the subject 'фигура'. A classic narrative line."
+      },
+      {
+        "id": "NN-NATURE-TMA-09",
+        "phrase": "Над городом сгущались вечерние тьмы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Тьмы' is the feminine nominative plural subject of 'сгущались'. The verb and 'вечерние' agree in the plural, and 'над городом' gives the location. A poetic plural use."
+      },
+      {
+        "id": "NN-NATURE-TMA-10",
+        "phrase": "Свеча немного рассеяла тьму.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Тьму' is the feminine accusative direct object of 'рассеяла'. 'Свеча' is the nominative subject, and 'немного' softens the effect. A gentle contrast of light and dark."
+      }
+    ]
+  }
+]

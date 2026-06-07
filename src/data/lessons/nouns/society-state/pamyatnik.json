@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-PAMYATNIK",
+    "label": "Памятник",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for памятник (monument).",
+    "missions": [
+      {
+        "id": "NN-STATE-PAMYATNIK-01",
+        "phrase": "На площади стоит старый памятник.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Памятник' is nominative as the subject of 'стоит'. 'Старый' is the agreeing masculine adjective, and 'на площади' gives the location."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-02",
+        "phrase": "Туристы фотографируют этот памятник.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Памятник' is the accusative direct object of 'фотографируют'; as an inanimate masculine noun its accusative equals the nominative. 'Этот' agrees with it."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-03",
+        "phrase": "Около памятника собралась толпа.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Памятника' is genitive after 'около', marking proximity. 'Толпа' is the nominative subject of 'собралась'."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-04",
+        "phrase": "Дети подошли к памятнику.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Памятнику' is dative after 'к', marking movement toward the monument. 'Дети' is the nominative plural subject of 'подошли'."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-05",
+        "phrase": "Мы любуемся красивым памятником.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Памятником' is instrumental, required by 'любуемся'. 'Красивым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-06",
+        "phrase": "На памятнике высечена дата.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Памятнике' is prepositional after 'на', marking where the date is carved. 'Дата' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-07",
+        "phrase": "Город поставил памятник поэту.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative dedicatee. 'Памятник' is the accusative object of 'поставил', matching the nominative. 'Поэту' is dative, the person honoured."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-08",
+        "phrase": "В парке стоят красивые памятники.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Памятники' is the nominative plural subject of 'стоят'. 'Красивые' is the agreeing plural adjective, and 'в парке' gives the setting."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-09",
+        "phrase": "В городе много старинных памятников.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Памятников' is the genitive plural required after the quantifier 'много'. 'Старинных' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-STATE-PAMYATNIK-10",
+        "phrase": "Этот памятник очень известный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Памятник' is nominative as the subject. 'Известный' is the agreeing masculine predicate adjective, intensified by 'очень'."
+      }
+    ]
+  }
+]

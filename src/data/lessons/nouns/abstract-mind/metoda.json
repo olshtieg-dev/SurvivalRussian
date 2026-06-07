@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MIND-METODA",
+    "label": "Метода",
+    "badge": "MIND",
+    "description": "A 10-sentence usage card for метода (method).",
+    "missions": [
+      {
+        "id": "NN-MIND-METODA-01",
+        "phrase": "У него своя особая метода.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Метода' stays in the nominative case as the feminine subject. 'Особая' is the agreeing feminine adjective. The form 'метода' is a colloquial feminine variant of 'метод'."
+      },
+      {
+        "id": "NN-MIND-METODA-02",
+        "phrase": "Учитель применяет старую методу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Методу' is the accusative direct object of 'применяет'. 'Старую' is the agreeing feminine accusative adjective."
+      },
+      {
+        "id": "NN-MIND-METODA-03",
+        "phrase": "От этой методы много пользы.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Методы' is the genitive form after 'от' to express the source of the benefit. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-MIND-METODA-04",
+        "phrase": "Он доверяет своей методе.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Методе' is the dative case required by the verb 'доверять'. 'Своей' agrees in the feminine dative. A core dative-verb pattern."
+      },
+      {
+        "id": "NN-MIND-METODA-05",
+        "phrase": "Студент работает новой методой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Методой' is the instrumental case, the means used for working. 'Новой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-MIND-METODA-06",
+        "phrase": "Мы спорим о его методе.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О методе' uses the prepositional form 'методе' after 'о' to express arguing about the method. A useful discussion pattern."
+      },
+      {
+        "id": "NN-MIND-METODA-07",
+        "phrase": "Благодаря новой методе он успел.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Методе' is the dative form after 'благодаря', which governs the dative to express favourable cause. 'Новой' agrees in the feminine dative."
+      },
+      {
+        "id": "NN-MIND-METODA-08",
+        "phrase": "В книге описаны разные методы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Методы' is the nominative plural subject described in the book. 'Разные' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-MIND-METODA-09",
+        "phrase": "Учёный изучил несколько методов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Методов' is the genitive plural required after 'несколько'. A core counting pattern."
+      },
+      {
+        "id": "NN-MIND-METODA-10",
+        "phrase": "Эта метода очень эффективна.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Метода' is nominative as the subject. 'Эффективна' is the short feminine predicate adjective agreeing with it, intensified by 'очень'."
+      }
+    ]
+  }
+]

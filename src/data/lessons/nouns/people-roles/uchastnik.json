@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-UCHASTNIK",
+    "label": "Участник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for участник (participant).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-01",
+        "phrase": "Каждый участник получил красивый значок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Участник' stays in the nominative as the subject of 'получил'. 'Каждый' agrees in the masculine, and 'значок' is the accusative object. A simple agentive card."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-02",
+        "phrase": "Жюри наградило лучшего участника.",
+        "fullAnalysis": "Strategic focus: Accusative of an animate noun. 'Участника' is the accusative, which for an animate masculine noun matches the genitive, as the object of 'наградило'. 'Лучшего' agrees in the masculine animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-03",
+        "phrase": "На встрече не было одного участника.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Участника' takes the genitive after 'не было' to mark non-presence. 'Одного' agrees in the masculine genitive. A standard negation frame."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-04",
+        "phrase": "Организатор помог новому участнику.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Участнику' takes the dative as the person helped by 'помог', a verb that governs the dative. 'Новому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-05",
+        "phrase": "Тренер доволен новым участником.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Участником' takes the instrumental required by the short adjective 'доволен'. 'Новым' agrees in the masculine instrumental. A useful evaluation frame."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-06",
+        "phrase": "Мы говорили о новом участнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об участнике' uses the prepositional 'участнике' after 'о' to express talking about the person. 'Новом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-07",
+        "phrase": "В конкурсе участвуют три новых участника.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'три'. After the numeral 'три' the noun takes the genitive singular 'участника'. 'Новых' agrees in the genitive plural with the counted set. A key number-noun rule."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-08",
+        "phrase": "Жюри поблагодарило всех участников.",
+        "fullAnalysis": "Strategic focus: Accusative plural of an animate noun. 'Участников' is the genitive-form accusative plural, as animate nouns take the genitive ending in the plural. 'Всех' agrees, the object of 'поблагодарило'."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-09",
+        "phrase": "Все участники пришли вовремя.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Участники' is the nominative plural subject of 'пришли'. 'Все' agrees in the plural, and 'вовремя' adds the manner. A clean plural model."
+      },
+      {
+        "id": "NN-PEOPLE-UCHASTNIK-10",
+        "phrase": "Организаторы раздали анкеты участникам.",
+        "fullAnalysis": "Strategic focus: Dative plural recipients. 'Участникам' is the dative plural marking the people who received the forms. 'Анкеты' is the accusative plural object. A useful give-to-many pattern."
+      }
+    ]
+  }
+]

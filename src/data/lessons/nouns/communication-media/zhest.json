@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-ZHEST",
+    "label": "Жест",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for жест (gesture).",
+    "missions": [
+      {
+        "id": "NN-COMMS-ZHEST-01",
+        "phrase": "Это был очень добрый жест.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Жест' is the nominative predicate noun after 'это был'. 'Добрый' is the agreeing masculine adjective describing the kind gesture."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-02",
+        "phrase": "Я заметил его странный жест.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Жест' is the accusative direct object of 'заметил', matching the nominative for this inanimate masculine noun. 'Странный' agrees in the accusative."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-03",
+        "phrase": "Смысл этого жеста мне непонятен.",
+        "fullAnalysis": "Strategic focus: Genitive of belonging. 'Жеста' is the genitive form marking whose meaning. 'Этого' agrees in the masculine genitive, and 'мне' is the dative experiencer."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-04",
+        "phrase": "Она ответила лёгким жестом руки.",
+        "fullAnalysis": "Strategic focus: Instrumental means. 'Жестом' is the instrumental naming how she answered. 'Лёгким' agrees in the masculine instrumental, and 'руки' is the genitive of the hand."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-05",
+        "phrase": "В этом жесте много тепла.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Жесте' is the prepositional form after 'в', here locating warmth within the gesture. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-06",
+        "phrase": "К этому жесту все отнеслись тепло.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Жесту' is dative after 'к', marking what people reacted to. 'Этому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-07",
+        "phrase": "Без слов, одним жестом он попрощался.",
+        "fullAnalysis": "Strategic focus: Instrumental means. 'Жестом' is the instrumental expressing the means of farewell. 'Одним' agrees in the masculine instrumental, contrasting with 'без слов'."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-08",
+        "phrase": "Этот жест означает согласие.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Жест' is the nominative subject of 'означает'. 'Этот' points at a specific one, and 'согласие' is the accusative object."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-09",
+        "phrase": "Его жесты были очень выразительными.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Жесты' is the nominative plural subject. 'Были' agrees in plural, and 'выразительными' is the instrumental predicate adjective."
+      },
+      {
+        "id": "NN-COMMS-ZHEST-10",
+        "phrase": "Актёр использует широкие жесты на сцене.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Жесты' is the accusative plural object of 'использует', matching the nominative for this inanimate noun. 'Широкие' agrees in plural."
+      }
+    ]
+  }
+]

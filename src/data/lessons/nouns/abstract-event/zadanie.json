@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-ZADANIE",
+    "label": "Задание",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for задание (task).",
+    "missions": [
+      {
+        "id": "NN-EVENT-ZADANIE-01",
+        "phrase": "Это задание очень сложное.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Задание' is nominative as the subject. 'Сложное' is the agreeing neuter predicate adjective, and 'это' points at the specific task."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-02",
+        "phrase": "Я уже выполнил это задание.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Задание' is the accusative direct object of 'выполнил'; as a neuter noun its accusative equals the nominative. 'Это' agrees in the neuter."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-03",
+        "phrase": "Без задания студенты скучают.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Задания' is genitive after 'без', marking absence. 'Студенты' is the nominative plural subject of 'скучают'."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-04",
+        "phrase": "Я приступил к новому заданию.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Заданию' is dative after 'к', governed by 'приступил'. 'Новому' agrees in the neuter dative."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-05",
+        "phrase": "Он справился с трудным заданием.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'с'. 'Заданием' is instrumental after 'с', governed by 'справился'. 'Трудным' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-06",
+        "phrase": "В задании была одна ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Задании' is prepositional after 'в', marking where the mistake was. 'Ошибка' is the nominative subject of 'была'."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-07",
+        "phrase": "Учитель дал нам трудное задание.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Задание' is the accusative object of 'дал', matching the nominative. 'Нам' is the dative recipient, and 'трудное' agrees."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-08",
+        "phrase": "На уроке мы получили задания.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Задания' is the accusative plural object of 'получили'; for neuter nouns the accusative plural matches the nominative. 'На уроке' gives the setting."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-09",
+        "phrase": "У меня много домашних заданий.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Заданий' is the genitive plural required after the quantifier 'много'. 'Домашних' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-EVENT-ZADANIE-10",
+        "phrase": "Новое задание кажется интересным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Задание' is nominative as the subject of 'кажется'. 'Новое' is the agreeing neuter adjective, and 'интересным' is the instrumental predicate."
+      }
+    ]
+  }
+]

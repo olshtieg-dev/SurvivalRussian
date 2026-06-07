@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PECHKA",
+    "label": "Печка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for печка (stove).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-01",
+        "phrase": "В углу стоит старая печка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Печка' stays in the nominative case as the subject of 'стоит'. 'Старая' is the agreeing feminine adjective, and 'в углу' locates it in the corner."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-02",
+        "phrase": "Дедушка топит печку дровами.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Печку' is the accusative direct object of 'топит'. 'Дровами' is the instrumental of means, showing what fuels the fire."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-03",
+        "phrase": "Возле печки очень тепло.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Печки' takes the genitive after 'возле', meaning near the stove. 'Очень тепло' describes the cosy warmth there."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-04",
+        "phrase": "Кот спит на тёплой печке.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Печке' is the prepositional form after 'на', marking where the cat sleeps. 'Тёплой' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-05",
+        "phrase": "Бабушка подошла к печке.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Печке' is the dative after 'к', showing movement toward the stove. The verb 'подошла' agrees in feminine gender."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-06",
+        "phrase": "За печкой лежат старые дрова.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Печкой' is the instrumental after 'за', meaning behind the stove. 'Дрова' is the nominative plural subject of 'лежат'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-07",
+        "phrase": "В деревне печки греют дома.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Печки' is the nominative plural, the subject of 'греют'. 'Дома' is the accusative plural object, the houses being heated."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-08",
+        "phrase": "Мы купили новую печку домой.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Печку' is the accusative object of 'купили'. 'Новую' agrees in the feminine accusative, and 'домой' marks the destination."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-09",
+        "phrase": "От печки идёт приятный дым.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Печки' takes the genitive after 'от', marking the origin of the smoke. 'Дым' is the nominative subject of 'идёт'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PECHKA-10",
+        "phrase": "Печка горит весь долгий вечер.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Печка' is the nominative subject of 'горит'. 'Весь долгий вечер' is an accusative time expression spanning the whole evening."
+      }
+    ]
+  }
+]

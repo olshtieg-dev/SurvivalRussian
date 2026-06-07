@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-POLZA",
+    "label": "Польза",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for польза (benefit).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-POLZA-01",
+        "phrase": "В этом есть большая польза.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Польза' stays in the nominative case as the feminine subject that exists. 'Большая' is the agreeing feminine adjective."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-02",
+        "phrase": "Спорт приносит огромную пользу.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Пользу' is the accusative direct object of 'приносит'. 'Огромную' is the agreeing feminine accusative adjective. A very common collocation."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-03",
+        "phrase": "От этой книги много пользы.",
+        "fullAnalysis": "Strategic focus: Genitive after quantity. 'Пользы' is the genitive form required after 'много'. 'От книги' adds the source of the benefit. A natural everyday pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-04",
+        "phrase": "Я работаю на пользу обществу.",
+        "fullAnalysis": "Strategic focus: Accusative in a set phrase. 'На пользу' is a fixed accusative expression meaning 'for the benefit of'. The noun follows 'на' in the accusative."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-05",
+        "phrase": "Мы говорим о пользе отдыха.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О пользе' uses the prepositional form 'пользе' after 'о' to express talking about the benefit. A useful discussion pattern."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-06",
+        "phrase": "Благодаря пользе спорта он здоров.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Пользе' is the dative form after 'благодаря', which always governs the dative to express cause or thanks."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-07",
+        "phrase": "Витамины полезны своей пользой.",
+        "fullAnalysis": "Strategic focus: Instrumental of respect. 'Пользой' is the instrumental case showing in what respect the vitamins are useful. 'Своей' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-08",
+        "phrase": "Эта диета без всякой пользы.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Пользы' is the genitive form after 'без' to express the absence of benefit. 'Всякой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-09",
+        "phrase": "Какая польза от этого решения?",
+        "fullAnalysis": "Strategic focus: Nominative in a question. 'Польза' is nominative as the subject of the question. 'Какая' agrees in the feminine nominative, asking about the benefit gained."
+      },
+      {
+        "id": "NN-ABSTRACT-POLZA-10",
+        "phrase": "Польза очевидна для всех нас.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Польза' is nominative as the subject. 'Очевидна' is the short feminine predicate adjective agreeing with it. A clean descriptive model."
+      }
+    ]
+  }
+]

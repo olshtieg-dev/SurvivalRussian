@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-SHAR",
+    "label": "Шар",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for шар (sphere, balloon).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-SHAR-01",
+        "phrase": "В небе летит красный шар.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шар' stays in the nominative case as the masculine subject flying in the sky. 'Красный' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-02",
+        "phrase": "Ребёнок надул большой шар.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шар' is the accusative direct object of 'надул'; this inanimate masculine noun matches its nominative form. 'Большой' agrees in the accusative."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-03",
+        "phrase": "У этого шара гладкая поверхность.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Шара' is the genitive form after 'у' to show whose surface it is. 'Этого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-04",
+        "phrase": "Кошка подкралась к шару.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Шару' is the dative form after 'к' marking the goal the cat crept toward. A natural motion expression."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-05",
+        "phrase": "Земля похожа на шар.",
+        "fullAnalysis": "Strategic focus: Accusative with preposition. 'На шар' uses the accusative after 'на' in the comparison 'похожа на'. The inanimate accusative matches the nominative."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-06",
+        "phrase": "Мальчик играет с воздушным шаром.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Шаром' is the instrumental form after 'с' to express playing together with the balloon. 'Воздушным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-07",
+        "phrase": "Мы говорим о земном шаре.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О шаре' uses the prepositional form 'шаре' after 'о' in the phrase 'земной шар', the globe. 'Земном' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-08",
+        "phrase": "Над городом летят яркие шары.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Шары' is the nominative plural subject flying over the city. 'Яркие' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-09",
+        "phrase": "Дети купили много шаров.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Шаров' is the genitive plural required after 'много'. A core counting pattern for masculine nouns."
+      },
+      {
+        "id": "NN-STRUCT-SHAR-10",
+        "phrase": "Этот шар совершенно круглый.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Шар' is nominative as the subject. 'Круглый' is the agreeing masculine predicate adjective, intensified by 'совершенно'. A clean descriptive model."
+      }
+    ]
+  }
+]

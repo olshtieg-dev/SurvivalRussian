@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-ZNAKOMSTVO",
+    "label": "Знакомство",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for знакомство (acquaintance).",
+    "missions": [
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-01",
+        "phrase": "Наше знакомство было случайным.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Знакомство' is the neuter nominative subject. 'Наше' is the agreeing neuter possessive, and 'случайным' is the instrumental predicate after the past-tense 'было'."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-02",
+        "phrase": "Я хорошо помню наше знакомство.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Знакомство' is the neuter accusative, equal to the nominative, as the object of 'помню'. 'Наше' agrees with it, and 'хорошо' is the adverb."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-03",
+        "phrase": "С момента знакомства прошёл год.",
+        "fullAnalysis": "Strategic focus: Genitive of relation. 'Знакомства' is the genitive specifying which moment it is. 'Год' is the nominative subject of 'прошёл', and 'с момента' is the genitive time frame."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-04",
+        "phrase": "Она рада нашему знакомству.",
+        "fullAnalysis": "Strategic focus: Dative after adjective. 'Знакомству' is the dative governed by 'рада', expressing what pleases her. 'Нашему' is the agreeing neuter possessive, and 'она' is the subject."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-05",
+        "phrase": "Мы довольны этим знакомством.",
+        "fullAnalysis": "Strategic focus: Instrumental after adjective. 'Знакомством' is the instrumental governed by 'довольны', expressing satisfaction. 'Этим' is the agreeing neuter demonstrative, and 'мы' is the subject."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-06",
+        "phrase": "Расскажи о вашем знакомстве.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'Знакомстве' is the prepositional after 'о', the topic of the request. 'Вашем' is the agreeing neuter possessive, and 'расскажи' is the imperative."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-07",
+        "phrase": "Новые знакомства всегда полезны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Знакомства' is the nominative plural subject. 'Новые' agrees with it in the plural, 'полезны' is the short plural predicate, and 'всегда' is the adverb."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-08",
+        "phrase": "Он легко заводит новые знакомства.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Знакомства' is the inanimate accusative plural, the object of 'заводит'. 'Новые' agrees with it, and 'легко' is the adverb."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-09",
+        "phrase": "После знакомства они стали друзьями.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Знакомства' is the genitive after 'после', marking time. 'Они' is the subject, and 'друзьями' is the instrumental predicate after 'стали'."
+      },
+      {
+        "id": "NN-EVENT-ZNAKOMSTVO-10",
+        "phrase": "Без знакомства трудно найти работу.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Знакомства' is the genitive after 'без', marking absence in the sense of connections. The clause is impersonal with 'трудно' and the infinitive 'найти'."
+      }
+    ]
+  }
+]

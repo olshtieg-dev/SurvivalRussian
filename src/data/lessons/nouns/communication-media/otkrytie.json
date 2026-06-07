@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-OTKRYTIE",
+    "label": "Открытие",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for открытие (discovery).",
+    "missions": [
+      {
+        "id": "NN-COMMS-OTKRYTIE-01",
+        "phrase": "Это великое научное открытие.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Открытие' is a neuter noun in the nominative as the predicate noun. 'Великое научное' are the agreeing neuter adjectives. A core defining phrase."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-02",
+        "phrase": "Учёные сделали важное открытие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Открытие' is a neuter noun whose accusative matches the nominative, the object of 'сделали'. 'Важное' agrees in the neuter accusative. A natural achievement pattern."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-03",
+        "phrase": "Без этого открытия не было бы прогресса.",
+        "fullAnalysis": "Strategic focus: Genitive with 'без'. 'Открытия' takes the genitive after 'без' to mean without the discovery. 'Этого' agrees in the neuter genitive. A useful conditional frame."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-04",
+        "phrase": "Газета посвятила статью открытию.",
+        "fullAnalysis": "Strategic focus: Dative with 'посвятить'. 'Открытию' takes the dative as the topic to which something is devoted. 'Статью' is the accusative object. A useful dedication pattern."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-05",
+        "phrase": "Он гордится своим открытием.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. 'Открытием' takes the instrumental required by the verb 'гордиться'. 'Своим' agrees in the neuter instrumental. A useful verb-government pattern."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-06",
+        "phrase": "В новости рассказали об открытии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об открытии' uses the prepositional 'открытии' after 'об' to express reporting about the discovery. 'В новости' sets the media context."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-07",
+        "phrase": "Это открытие изменило всю науку.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Открытие' is the neuter nominative subject of 'изменило'. 'Это' agrees in the neuter, and 'всю науку' is the accusative object. A strong impact statement."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-08",
+        "phrase": "В этом году было несколько открытий.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'несколько'. 'Открытий' takes the genitive plural after the quantity word 'несколько'. 'В этом году' sets the time. A key quantity pattern."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-09",
+        "phrase": "Эти открытия важны для медицины.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Открытия' is the neuter nominative plural subject. 'Эти' agrees in the plural, and 'важны для медицины' gives the relevance with a genitive complement."
+      },
+      {
+        "id": "NN-COMMS-OTKRYTIE-10",
+        "phrase": "Журналисты обсуждают новые открытия.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Открытия' is the accusative plural of an inanimate neuter noun, the object of 'обсуждают'. 'Новые' agrees in the plural. Strong for media discussion language."
+      }
+    ]
+  }
+]

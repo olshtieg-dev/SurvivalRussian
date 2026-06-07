@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-POTERYA",
+    "label": "Потеря",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for потеря (loss).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-POTERYA-01",
+        "phrase": "Эта потеря была очень тяжёлой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Потеря' is a feminine noun in the nominative case, the subject of the sentence. 'Тяжёлой' is the agreeing feminine instrumental predicate after 'была', and 'эта' points at it."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-02",
+        "phrase": "Он тяжело переживает потерю друга.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Потерю' is the accusative form, the direct object of 'переживает'. 'Друга' is the genitive showing whose loss, and 'тяжело' describes how he takes it."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-03",
+        "phrase": "После потери она долго плакала.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Потери' is the genitive form after 'после', marking the time after the loss. The verb 'плакала' agrees in feminine gender."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-04",
+        "phrase": "К потере привыкнуть невозможно.",
+        "fullAnalysis": "Strategic focus: Dative after предлог. 'Потере' is the dative form required by 'привыкнуть к', the thing one cannot get used to. 'Невозможно' states the impossibility."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-05",
+        "phrase": "Он смирился с этой потерей.",
+        "fullAnalysis": "Strategic focus: Instrumental after предлог. 'Потерей' is the instrumental form after 'с', required by 'смирился', meaning he came to terms with the loss. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-06",
+        "phrase": "В этой потере виноват не он.",
+        "fullAnalysis": "Strategic focus: Prepositional after предлог. 'Потере' is the prepositional form after 'в', the matter in which blame is assigned. 'Виноват' is the short-form adjective."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-07",
+        "phrase": "Военные потери оказались огромными.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Потери' is the nominative plural, the subject of the sentence. 'Военные' agrees in the plural, and 'огромными' is the instrumental predicate."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-08",
+        "phrase": "Компания понесла большие потери.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Потери' is the accusative plural, identical to the nominative for this inanimate noun, the object of 'понесла'. 'Большие' agrees in the plural."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-09",
+        "phrase": "Без потерь обойтись не удалось.",
+        "fullAnalysis": "Strategic focus: Genitive plural after предлог. 'Потерь' is the genitive plural required by 'без', expressing the absence of losses. The clause means they could not avoid them."
+      },
+      {
+        "id": "NN-EMOTION-POTERYA-10",
+        "phrase": "Мы говорили о тяжёлой потере.",
+        "fullAnalysis": "Strategic focus: Prepositional after предлог. 'Потере' is the prepositional form after 'о', the topic discussed. 'Тяжёлой' agrees in the feminine prepositional."
+      }
+    ]
+  }
+]

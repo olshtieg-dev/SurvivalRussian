@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-SHOSSE",
+    "label": "Шоссе",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for шоссе (highway).",
+    "missions": [
+      {
+        "id": "NN-MOTION-SHOSSE-01",
+        "phrase": "Это новое шоссе очень широкое.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Шоссе' is an indeclinable neuter noun, here the nominative subject. 'Новое' and 'широкое' are the agreeing neuter adjectives describing it."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-02",
+        "phrase": "Мы строим новое шоссе.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Шоссе' is the accusative direct object of 'строим'. As an indeclinable noun its form never changes, but 'новое' shows the neuter agreement."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-03",
+        "phrase": "Около шоссе стоит большой дом.",
+        "fullAnalysis": "Strategic focus: Genitive after 'около'. 'Шоссе' is genitive in meaning after 'около', though its indeclinable form stays the same. A natural way to give location near a road."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-04",
+        "phrase": "Машина едет по шоссе быстро.",
+        "fullAnalysis": "Strategic focus: Dative of route after 'по'. 'Шоссе' carries dative meaning after 'по' to show movement along the highway. The form stays fixed because the noun is indeclinable."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-05",
+        "phrase": "Авария случилась на шоссе ночью.",
+        "fullAnalysis": "Strategic focus: Prepositional location after 'на'. 'Шоссе' has prepositional meaning after 'на', marking where the accident happened. The indeclinable form does not change."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-06",
+        "phrase": "Мы гордимся новым шоссе.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордимся'. 'Шоссе' carries instrumental meaning because 'гордимся' governs that case. 'Новым' shows the neuter instrumental agreement on the adjective."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-07",
+        "phrase": "К шоссе ведёт узкая дорога.",
+        "fullAnalysis": "Strategic focus: Dative direction after 'к'. 'Шоссе' has dative meaning after 'к' to express direction toward the highway. The indeclinable noun keeps its single form."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-08",
+        "phrase": "Без шоссе сюда трудно доехать.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Шоссе' carries genitive meaning after 'без', and the form remains unchanged. A clear example that indeclinables rely on context for case."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-09",
+        "phrase": "В нашей стране много шоссе.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Шоссе' has genitive plural meaning after 'много'. Because it is indeclinable, singular and plural look identical and rely on context."
+      },
+      {
+        "id": "NN-MOTION-SHOSSE-10",
+        "phrase": "Новые шоссе соединяют города.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Шоссе' is the nominative plural subject of 'соединяют'. The plural adjective 'новые' signals the number, since the noun itself never changes."
+      }
+    ]
+  }
+]

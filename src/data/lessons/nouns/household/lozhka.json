@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-LOZHKA",
+    "label": "Ложка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ложка (spoon).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-01",
+        "phrase": "На столе лежит чистая ложка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ложка' is nominative as the subject of 'лежит'. 'Чистая' is the agreeing feminine adjective, and 'на столе' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-02",
+        "phrase": "Дай мне, пожалуйста, ложку.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ложку' is the accusative direct object of 'дай'. 'Мне' is the dative recipient, and 'пожалуйста' makes it a polite request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-03",
+        "phrase": "У меня нет чистой ложки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ложки' is the genitive after 'нет', marking what is lacking. 'Чистой' is the agreeing feminine genitive adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-04",
+        "phrase": "Он ест суп большой ложкой.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Ложкой' is instrumental, the tool used to eat. 'Большой' agrees in the feminine instrumental, and 'суп' is the accusative object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-05",
+        "phrase": "Положи сахар в кофе ложкой.",
+        "fullAnalysis": "Strategic focus: Instrumental tool. 'Ложкой' is instrumental, naming the implement for stirring. 'Сахар' is the accusative object and 'в кофе' marks the destination."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-06",
+        "phrase": "Я добавил мёд по ложке.",
+        "fullAnalysis": "Strategic focus: Dative with distributive 'по'. 'Ложке' takes the dative after 'по' in a measured sense. 'Мёд' is the accusative object of 'добавил'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-07",
+        "phrase": "На этой ложке странный рисунок.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Ложке' is prepositional after 'на', marking where the pattern is. 'Этой' agrees in the feminine prepositional, and 'странный рисунок' is nominative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-08",
+        "phrase": "В ящике лежат серебряные ложки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ложки' is the nominative plural subject of 'лежат'. 'Серебряные' is the agreeing plural adjective, and 'в ящике' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-09",
+        "phrase": "Я купил пять новых ложек.",
+        "fullAnalysis": "Strategic focus: Genitive plural after a numeral. 'Ложек' is the genitive plural required after 'пять', with a fleeting vowel inserted in the stem. 'Новых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LOZHKA-10",
+        "phrase": "Эта ложка слишком маленькая.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Ложка' is nominative as the subject. 'Маленькая' is the agreeing feminine predicate adjective, intensified by 'слишком'."
+      }
+    ]
+  }
+]

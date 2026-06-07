@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-DOLYA",
+    "label": "Доля",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for доля (share, portion).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-DOLYA-01",
+        "phrase": "Его доля прибыли довольно большая.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Доля' is a feminine noun in the nominative as the subject. 'Прибыли' is the genitive showing what the share is of, and 'большая' is the agreeing predicate adjective."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-02",
+        "phrase": "Каждый получил свою долю.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Долю' is the feminine accusative direct object. 'Свою' agrees in the accusative, and 'каждый' is the nominative subject."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-03",
+        "phrase": "У меня нет своей доли.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'доли'. 'Своей' agrees, and 'у меня' marks who lacks the share."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-04",
+        "phrase": "Он отказался от своей доли.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Доли' is the genitive after 'от', the thing renounced. 'Отказался' takes a genitive complement here."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-05",
+        "phrase": "В этом есть доля правды.",
+        "fullAnalysis": "Strategic focus: Nominative in an idiom. 'Доля' is the nominative subject of 'есть', and 'правды' is the genitive completing the set phrase meaning 'a grain of truth'."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-06",
+        "phrase": "Мы добавили к доле проценты.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Доле' is the dative after 'к', the share to which interest was added. 'Проценты' is the accusative plural object."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-07",
+        "phrase": "Я доволен своей долей.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Долей' is the instrumental required by the short adjective 'доволен'. 'Своей' agrees in the instrumental."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-08",
+        "phrase": "В её доле было много долгов.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В доле' uses the prepositional form 'доле' after 'в' to locate where the debts were. 'Долгов' is the genitive plural after 'много'."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-09",
+        "phrase": "Доли акций сильно подорожали.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Доли' is the feminine nominative plural subject. 'Акций' is the genitive plural showing what kind, and 'подорожали' agrees in the plural."
+      },
+      {
+        "id": "NN-ABSTRACT-DOLYA-10",
+        "phrase": "Они разделили имущество на доли.",
+        "fullAnalysis": "Strategic focus: Accusative plural after 'на'. 'Доли' is the accusative plural after 'на', the shares the property was split into. 'Имущество' is the accusative object."
+      }
+    ]
+  }
+]

@@ -1,19 +1,27 @@
 import avtomatSet from './avtomat.json';
 import biletSet from './bilet.json';
+import botinokSet from './botinok.json';
 import bryukiSet from './bryuki.json';
+import bumazhkaSet from './bumazhka.json';
 import chemodanSet from './chemodan.json';
 import divanSet from './divan.json';
 import doskaSet from './doska.json';
+import drovaSet from './drova.json';
 import dverSet from './dver.json';
+import dvertsaSet from './dvertsa.json';
 import ekranSet from './ekran.json';
 import fonarSet from './fonar.json';
 import formaSet from './forma.json';
+import instrumentSet from './instrument.json';
 import kameraSet from './kamera.json';
 import karmanSet from './karman.json';
+import khalatSet from './khalat.json';
 import kletkaSet from './kletka.json';
 import klyuchSet from './klyuch.json';
 import knizhkaSet from './knizhka.json';
 import koltsoSet from './koltso.json';
+import kompyuterSet from './kompyuter.json';
+import korobkaSet from './korobka.json';
 import kostyumSet from './kostyum.json';
 import kraskaSet from './kraska.json';
 import kresloSet from './kreslo.json';
@@ -23,7 +31,10 @@ import krugSet from './krug.json';
 import kurtkaSet from './kurtka.json';
 import kusokSet from './kusok.json';
 import lampaSet from './lampa.json';
+import listokSet from './listok.json';
+import lozhkaSet from './lozhka.json';
 import mechSet from './mech.json';
+import mekhanizmSet from './mekhanizm.json';
 import meshokSet from './meshok.json';
 import nozhSet from './nozh.json';
 import odeyaloSet from './odeyalo.json';
@@ -36,6 +47,9 @@ import palatkaSet from './palatka.json';
 import palkaSet from './palka.json';
 import paltoSet from './palto.json';
 import pasportSet from './pasport.json';
+import pechatSet from './pechat.json';
+import pechkaSet from './pechka.json';
+import peroSet from './pero.json';
 import pidzhakSet from './pidzhak.json';
 import pilaSet from './pila.json';
 import pistoletSet from './pistolet.json';
@@ -43,13 +57,17 @@ import plashchSet from './plashch.json';
 import plateSet from './plate.json';
 import platokSet from './platok.json';
 import podarokSet from './podarok.json';
+import podushkaSet from './podushka.json';
 import polSet from './pol.json';
 import portretSet from './portret.json';
 import postelSet from './postel.json';
 import poyasSet from './poyas.json';
+import pulemyotSet from './pulemyot.json';
 import pulyaSet from './pulya.json';
+import remenSet from './remen.json';
 import rubashkaSet from './rubashka.json';
 import ruchkaSet from './ruchka.json';
+import ruzhyoSet from './ruzhyo.json';
 import sapogSet from './sapog.json';
 import shinelSet from './shinel.json';
 import shkafSet from './shkaf.json';
@@ -71,8 +89,10 @@ import televizorSet from './televizor.json';
 import tochkaSet from './tochka.json';
 import toporSet from './topor.json';
 import trubaSet from './truba.json';
+import tsepSet from './tsep.json';
 import ustroistvoSet from './ustroistvo.json';
 import vedroSet from './vedro.json';
+import veryovkaSet from './veryovka.json';
 import vetkaSet from './vetka.json';
 import vorotSet from './vorot.json';
 import yashchikSet from './yashchik.json';
@@ -83,20 +103,28 @@ export const householdNounsFolderId = 'nouns-household';
 const householdNounsData = [
   ...avtomatSet,
   ...biletSet,
+  ...botinokSet,
   ...bryukiSet,
+  ...bumazhkaSet,
   ...chemodanSet,
   ...divanSet,
   ...doskaSet,
+  ...drovaSet,
   ...dverSet,
+  ...dvertsaSet,
   ...ekranSet,
   ...fonarSet,
   ...formaSet,
+  ...instrumentSet,
   ...kameraSet,
   ...karmanSet,
+  ...khalatSet,
   ...kletkaSet,
   ...klyuchSet,
   ...knizhkaSet,
   ...koltsoSet,
+  ...kompyuterSet,
+  ...korobkaSet,
   ...kostyumSet,
   ...kraskaSet,
   ...kresloSet,
@@ -106,7 +134,10 @@ const householdNounsData = [
   ...kurtkaSet,
   ...kusokSet,
   ...lampaSet,
+  ...listokSet,
+  ...lozhkaSet,
   ...mechSet,
+  ...mekhanizmSet,
   ...meshokSet,
   ...nozhSet,
   ...odeyaloSet,
@@ -119,6 +150,9 @@ const householdNounsData = [
   ...palkaSet,
   ...paltoSet,
   ...pasportSet,
+  ...pechatSet,
+  ...pechkaSet,
+  ...peroSet,
   ...pidzhakSet,
   ...pilaSet,
   ...pistoletSet,
@@ -126,13 +160,17 @@ const householdNounsData = [
   ...plateSet,
   ...platokSet,
   ...podarokSet,
+  ...podushkaSet,
   ...polSet,
   ...portretSet,
   ...postelSet,
   ...poyasSet,
+  ...pulemyotSet,
   ...pulyaSet,
+  ...remenSet,
   ...rubashkaSet,
   ...ruchkaSet,
+  ...ruzhyoSet,
   ...sapogSet,
   ...shinelSet,
   ...shkafSet,
@@ -154,8 +192,10 @@ const householdNounsData = [
   ...tochkaSet,
   ...toporSet,
   ...trubaSet,
+  ...tsepSet,
   ...ustroistvoSet,
   ...vedroSet,
+  ...veryovkaSet,
   ...vetkaSet,
   ...vorotSet,
   ...yashchikSet,

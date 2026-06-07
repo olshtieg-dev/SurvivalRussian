@@ -1,12 +1,15 @@
+import begSet from './beg.json';
 import bolshinstvoSet from './bolshinstvo.json';
 import budushcheeSet from './budushchee.json';
 import deistvieSet from './deistvie.json';
 import detstvoSet from './detstvo.json';
 import dobroSet from './dobro.json';
 import dvizhenieSet from './dvizhenie.json';
+import grobSet from './grob.json';
 import istochnikSet from './istochnik.json';
 import izmenenieSet from './izmenenie.json';
 import khodSet from './khod.json';
+import lekarstvoSet from './lekarstvo.json';
 import momentSet from './moment.json';
 import nachaloSet from './nachalo.json';
 import oshibkaSet from './oshibka.json';
@@ -16,10 +19,13 @@ import otsutstvieSet from './otsutstvie.json';
 import poiskSet from './poisk.json';
 import pomoshchSet from './pomoshch.json';
 import popytkaSet from './popytka.json';
+import postupokSet from './postupok.json';
+import pozharSet from './pozhar.json';
 import prichinaSet from './prichina.json';
 import priyomSet from './priyom.json';
 import problemaSet from './problema.json';
 import protsessSet from './protsess.json';
+import puteshestvieSet from './puteshestvie.json';
 import razvitieSet from './razvitie.json';
 import reaktsiyaSet from './reaktsiya.json';
 import reshenieSet from './reshenie.json';
@@ -42,18 +48,23 @@ import vozmozhnostSet from './vozmozhnost.json';
 import vstrechaSet from './vstrecha.json';
 import vykhodSet from './vykhod.json';
 import yavlenieSet from './yavlenie.json';
+import zadanieSet from './zadanie.json';
+import znakomstvoSet from './znakomstvo.json';
 
 export const abstractEventNounsFolderId = 'nouns-abstract-event';
 const abstractEventNounsData = [
+  ...begSet,
   ...bolshinstvoSet,
   ...budushcheeSet,
   ...deistvieSet,
   ...detstvoSet,
   ...dobroSet,
   ...dvizhenieSet,
+  ...grobSet,
   ...istochnikSet,
   ...izmenenieSet,
   ...khodSet,
+  ...lekarstvoSet,
   ...momentSet,
   ...nachaloSet,
   ...oshibkaSet,
@@ -63,10 +74,13 @@ const abstractEventNounsData = [
   ...poiskSet,
   ...pomoshchSet,
   ...popytkaSet,
+  ...postupokSet,
+  ...pozharSet,
   ...prichinaSet,
   ...priyomSet,
   ...problemaSet,
   ...protsessSet,
+  ...puteshestvieSet,
   ...razvitieSet,
   ...reaktsiyaSet,
   ...reshenieSet,
@@ -89,6 +103,8 @@ const abstractEventNounsData = [
   ...vstrechaSet,
   ...vykhodSet,
   ...yavlenieSet,
+  ...zadanieSet,
+  ...znakomstvoSet,
 ];
 
 export const abstractEventNounsFolder = {

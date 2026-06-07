@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-INSTRUMENT",
+    "label": "Инструмент",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for инструмент (tool).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-01",
+        "phrase": "Это очень полезный инструмент.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Инструмент' stays in the nominative as the predicate noun. 'Полезный' is the agreeing masculine adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-02",
+        "phrase": "Папа взял нужный инструмент.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Инструмент' is the accusative direct object of 'взял'. Being inanimate masculine, it keeps the nominative ending, and 'нужный' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-03",
+        "phrase": "У меня нет такого инструмента.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Инструмента' takes the genitive after 'нет'. 'Такого' is the agreeing masculine genitive form, saying no such tool is at hand."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-04",
+        "phrase": "Я работаю этим инструментом каждый день.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Инструментом' takes the instrumental to show the tool used for work. 'Этим' agrees in the masculine instrumental, a core pattern for instruments."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-05",
+        "phrase": "Расскажи мне об этом инструменте.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об инструменте' uses the prepositional form after 'об' to talk about the tool. 'Мне' is the dative listener in this request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-06",
+        "phrase": "Дай мне молоток как инструмент.",
+        "fullAnalysis": "Strategic focus: Nominative in comparison. 'Инструмент' stays nominative after 'как'. 'Мне' is the dative recipient of 'дай', a natural everyday request for a tool."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-07",
+        "phrase": "Без инструмента я ничего не сделаю.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Инструмента' takes the genitive because 'без' requires it. The double negation 'ничего не сделаю' is standard Russian usage."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-08",
+        "phrase": "В ящике лежат три инструмента.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'три' the noun takes the genitive singular 'инструмента'. 'Лежат' is the plural verb for the counted set."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-09",
+        "phrase": "Все инструменты лежат на столе.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Инструменты' is the nominative plural subject of 'лежат'. 'Все' agrees in the plural, and 'на столе' shows the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-INSTRUMENT-10",
+        "phrase": "В мастерской много старых инструментов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Инструментов' takes the genitive plural because 'много' requires it. 'Старых' is the agreeing genitive plural adjective."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-POMOSHCHNIK",
+    "label": "Помощник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for помощник (helper).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-01",
+        "phrase": "Мой новый помощник очень умный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Помощник' stays in the nominative as the subject. 'Мой новый' agree in masculine, and 'умный' is the predicate adjective."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-02",
+        "phrase": "Директор взял нового помощника.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Помощника' is the accusative object of 'взял'. Because it is an animate masculine noun, the accusative equals the genitive. 'Нового' agrees."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-03",
+        "phrase": "У меня нет помощника.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Помощника' takes the genitive after 'нет', expressing that no helper exists. The possession frame 'у меня' frames the lack."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-04",
+        "phrase": "Я рассказал о своём помощнике.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Помощнике' is the prepositional after 'о', expressing the topic. 'Своём' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-05",
+        "phrase": "Начальник доверяет своему помощнику.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Помощнику' is the dative governed by 'доверяет', naming whom he trusts. 'Своему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-06",
+        "phrase": "Он работает с надёжным помощником.",
+        "fullAnalysis": "Strategic focus: Instrumental of accompaniment. 'Помощником' is the instrumental after 'с', naming his companion at work. 'Надёжным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-07",
+        "phrase": "В офисе работают молодые помощники.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Помощники' is the nominative plural, the subject of 'работают'. 'Молодые' agrees in plural, and 'в офисе' locates them."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-08",
+        "phrase": "Мы пригласили двух новых помощников.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Помощников' is the accusative plural of 'приглашать', equal to the genitive for animate nouns. 'Двух новых' agree in this form."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-09",
+        "phrase": "Без помощника я не успею.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Помощника' takes the genitive after 'без', meaning without a helper. The clause stresses the need for assistance."
+      },
+      {
+        "id": "NN-PEOPLE-POMOSHCHNIK-10",
+        "phrase": "Этот помощник всегда готов помочь.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Помощник' is the nominative subject. 'Этот' points to a specific person, and 'готов помочь' describes his readiness."
+      }
+    ]
+  }
+]

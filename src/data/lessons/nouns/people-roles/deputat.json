@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-DEPUTAT",
+    "label": "Депутат",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for депутат (deputy).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-DEPUTAT-01",
+        "phrase": "Новый депутат выступил с речью.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Депутат' is an animate masculine noun in the nominative, the subject of 'выступил'. 'Новый' agrees with it, and 'с речью' is an instrumental phrase."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-02",
+        "phrase": "Мы давно знаем этого депутата.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Депутата' is the accusative object of 'знаем'; because the noun is animate masculine, the accusative copies the genitive. 'Этого' agrees, and 'давно' adds duration."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-03",
+        "phrase": "У этого депутата есть план.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Депутата' is the genitive form after 'у' in the possession frame. 'План' is the nominative subject introduced by 'есть'."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-04",
+        "phrase": "Избиратели написали письмо депутату.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Депутату' is the dative form, the recipient of the letter in 'написали письмо'. 'Избиратели' is the nominative plural subject."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-05",
+        "phrase": "Журналист говорил с депутатом долго.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'с'. 'Депутатом' is the instrumental form required by 'с' to mean speaking with someone. 'Долго' adds duration to the conversation."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-06",
+        "phrase": "Все говорят об этом депутате.",
+        "fullAnalysis": "Strategic focus: Prepositional of topic. 'Об этом депутате' uses the prepositional form after 'об' to name what people discuss. 'Все' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-07",
+        "phrase": "В парламенте сидят разные депутаты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Депутаты' is the nominative plural, the subject of 'сидят'. 'Разные' agrees in the plural, and 'в парламенте' adds the location."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-08",
+        "phrase": "Народ выбрал новых депутатов сегодня.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Депутатов' is the accusative plural of 'выбрал'; for animate nouns the accusative plural equals the genitive plural. 'Новых' agrees."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-09",
+        "phrase": "На встрече было много депутатов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Депутатов' is the genitive plural required by 'много'. 'На встрече' adds the location, and 'было' is the impersonal past."
+      },
+      {
+        "id": "NN-PEOPLE-DEPUTAT-10",
+        "phrase": "Это самый честный депутат города.",
+        "fullAnalysis": "Strategic focus: Nominative superlative with genitive modifier. 'Депутат' is the nominative predicate noun, 'самый честный' is the superlative phrase, and 'города' is a genitive of belonging."
+      }
+    ]
+  }
+]

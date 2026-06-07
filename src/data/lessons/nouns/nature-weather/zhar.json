@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-NATURE-ZHAR",
+    "label": "Жар",
+    "badge": "NATURE",
+    "description": "A 10-sentence usage card for жар (heat).",
+    "missions": [
+      {
+        "id": "NN-NATURE-ZHAR-01",
+        "phrase": "От печи шёл сильный жар.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Жар' is a masculine noun in the nominative as the subject. 'Сильный' is the agreeing adjective, and 'от печи' is the genitive source."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-02",
+        "phrase": "Я чувствую сильный жар лица.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Жар' is an inanimate masculine noun, so its accusative matches the nominative. 'Сильный' agrees, and 'лица' is the genitive showing the source."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-03",
+        "phrase": "У ребёнка нет жара.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'жара'. 'У ребёнка' marks whose fever is absent, a common medical phrase."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-04",
+        "phrase": "Больной весь горел в жару.",
+        "fullAnalysis": "Strategic focus: Prepositional with special ending. 'В жару' uses the locative form 'жару' after 'в', a special masculine ending meaning 'in a fever'. 'Больной' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-05",
+        "phrase": "Лекарство помогло от жара.",
+        "fullAnalysis": "Strategic focus: Genitive after 'от'. 'Жара' is the genitive after 'от', naming what the medicine relieved. 'Лекарство' is the nominative subject."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-06",
+        "phrase": "Мы радовались тёплому жару костра.",
+        "fullAnalysis": "Strategic focus: Dative after 'радоваться'. 'Жару' is the dative governed by 'радоваться'. 'Тёплому' agrees in the dative, and 'костра' is the genitive source."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-07",
+        "phrase": "Печь дышала жаром всю ночь.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Жаром' is the instrumental naming what the stove radiated. 'Всю ночь' is an accusative time expression."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-08",
+        "phrase": "В комнате стоял невыносимый жар.",
+        "fullAnalysis": "Strategic focus: Nominative subject with location. 'Жар' is again the nominative subject. 'Невыносимый' is the agreeing adjective, and 'в комнате' gives the prepositional location."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-09",
+        "phrase": "Угли отдавали последний жар.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Жар' is the inanimate accusative object, matching the nominative. 'Последний' agrees, and 'угли' is the nominative plural subject."
+      },
+      {
+        "id": "NN-NATURE-ZHAR-10",
+        "phrase": "От жаров пустыни трескалась земля.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'от'. 'Жаров' is the rare genitive plural after 'от', naming the desert heats. 'Земля' is the nominative subject that cracked."
+      }
+    ]
+  }
+]

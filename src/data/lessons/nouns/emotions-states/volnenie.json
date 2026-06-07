@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-VOLNENIE",
+    "label": "Волнение",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for волнение (agitation).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-VOLNENIE-01",
+        "phrase": "Сильное волнение охватило весь зал.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Волнение' is the neuter nominative subject of 'охватило'. 'Сильное' is the agreeing neuter adjective, and the verb agrees in the neuter past."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-02",
+        "phrase": "Она с трудом скрывала волнение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Волнение' is the accusative direct object of 'скрывала'. Neuter nouns keep the same form in nominative and accusative, so the ending stays -е."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-03",
+        "phrase": "От волнения у него дрожали руки.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Волнения' is genitive governed by 'от', expressing cause. His hands trembled because of the agitation, a vivid emotional phrase."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-04",
+        "phrase": "Благодаря волнению речь звучала искренне.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Волнению' is dative governed by 'благодаря', naming a favourable cause. The neuter dative ending is -ю."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-05",
+        "phrase": "Он дрожал от страха перед волнением.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Волнением' is instrumental governed by 'перед', meaning before in the face of. The neuter instrumental ending is -ем."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-06",
+        "phrase": "В волнении она забыла свои слова.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Волнении' is prepositional after 'в', describing the emotional state she was in. The neuter prepositional ending is -и here after the soft stem."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-07",
+        "phrase": "Его голос выдавал глубокое волнение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Волнение' is the accusative direct object of 'выдавал'. 'Глубокое' is the agreeing neuter adjective intensifying the feeling."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-08",
+        "phrase": "После экзамена не осталось волнения.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Волнения' is genitive after the negated 'не осталось', the pattern for something no longer present. The neuter genitive ending is -я."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-09",
+        "phrase": "Все волнения остались в прошлом.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Волнения' is the nominative plural subject of 'остались'. 'Все' quantifies the worries, and 'в прошлом' is the prepositional location."
+      },
+      {
+        "id": "NN-EMOTION-VOLNENIE-10",
+        "phrase": "Я понимаю твоё волнение перед концертом.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Волнение' is the accusative direct object of 'понимаю'. 'Твоё' agrees in the neuter accusative, and 'перед концертом' adds the cause."
+      }
+    ]
+  }
+]

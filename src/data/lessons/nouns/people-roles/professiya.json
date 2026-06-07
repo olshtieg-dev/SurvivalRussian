@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PROFESSIYA",
+    "label": "Профессия",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for профессия (profession).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-01",
+        "phrase": "Врач - это благородная профессия.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Профессия' is a feminine noun in the nominative as the predicate. 'Благородная' is the agreeing adjective, and 'врач' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-02",
+        "phrase": "Он выбрал интересную профессию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Профессию' is the feminine accusative direct object. 'Интересную' agrees in the accusative, and 'выбрал' is the past-tense verb."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-03",
+        "phrase": "У него нет постоянной профессии.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'профессии'. 'Постоянной' agrees in the genitive, marking the lacked steady trade."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-04",
+        "phrase": "Он работает по своей профессии.",
+        "fullAnalysis": "Strategic focus: Dative after 'по'. 'Профессии' is the dative after 'по', expressing working in one's field. 'Своей' agrees in the dative."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-05",
+        "phrase": "Я горжусь своей профессией.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'гордиться'. 'Профессией' is the instrumental governed by 'гордиться'. 'Своей' agrees in the instrumental."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-06",
+        "phrase": "Расскажи мне о своей профессии.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О профессии' uses the prepositional form 'профессии' after 'о' to express telling about it. 'Мне' is the dative listener."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-07",
+        "phrase": "Она мечтает о профессии актрисы.",
+        "fullAnalysis": "Strategic focus: Prepositional with genitive complement. 'О профессии' is prepositional after 'о', and 'актрисы' is the genitive naming the specific career. 'Мечтает' frames the dream."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-08",
+        "phrase": "Эти профессии очень востребованы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Профессии' is the feminine nominative plural subject. 'Эти' agrees in the plural, and 'востребованы' is the short-form predicate."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-09",
+        "phrase": "Он освоил две сложные профессии.",
+        "fullAnalysis": "Strategic focus: Special form after 'две'. The numeral 'две' takes the genitive singular 'профессии', while 'сложные' stands in the special nominative-plural adjective form. 'Освоил' is the verb."
+      },
+      {
+        "id": "NN-PEOPLE-PROFESSIYA-10",
+        "phrase": "В мире много редких профессий.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Много' governs the genitive plural 'профессий'. 'Редких' agrees in the genitive plural, and 'в мире' gives the location."
+      }
+    ]
+  }
+]

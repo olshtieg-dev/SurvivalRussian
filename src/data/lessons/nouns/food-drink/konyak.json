@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-FOOD-KONYAK",
+    "label": "Коньяк",
+    "badge": "FOOD",
+    "description": "A 10-sentence usage card for коньяк (cognac).",
+    "missions": [
+      {
+        "id": "NN-FOOD-KONYAK-01",
+        "phrase": "Этот коньяк очень дорогой.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Коньяк' stays in the nominative as the subject. 'Дорогой' is the agreeing masculine predicate adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-02",
+        "phrase": "Он заказал хороший коньяк.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Коньяк' is the accusative direct object of 'заказал'. As an inanimate masculine noun its accusative matches the nominative. 'Хороший' agrees."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-03",
+        "phrase": "Налей мне немного коньяку.",
+        "fullAnalysis": "Strategic focus: Partitive genitive. 'Коньяку' is the partitive genitive after 'немного', expressing a small amount. 'Мне' is the dative recipient of 'налей'."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-04",
+        "phrase": "В этом коньяке приятный аромат.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Коньяке' is the prepositional after 'в', marking what contains the aroma. 'Аромат' is the nominative subject."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-05",
+        "phrase": "Он отдал предпочтение французскому коньяку.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Коньяку' is the dative governed by 'отдал предпочтение', naming what he prefers. 'Французскому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-06",
+        "phrase": "Мы наслаждались старым коньяком.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Коньяком' is the instrumental required by 'наслаждались', naming the source of pleasure. 'Старым' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-07",
+        "phrase": "В магазине разные дорогие коньяки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Коньяки' is the nominative plural describing the assortment. 'Разные дорогие' agree in plural, and 'в магазине' locates them."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-08",
+        "phrase": "Без коньяка праздник не такой.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Коньяка' takes the genitive after 'без', meaning without the cognac. 'Праздник' is the nominative subject."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-09",
+        "phrase": "Запах коньяка наполнил комнату.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Коньяка' takes the genitive after 'запах', meaning the smell of the cognac. 'Комнату' is the accusative object."
+      },
+      {
+        "id": "NN-FOOD-KONYAK-10",
+        "phrase": "Коньяк стоит на верхней полке.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Коньяк' is the nominative subject of 'стоит'. 'На верхней полке' is a prepositional location phrase showing where the bottle sits."
+      }
+    ]
+  }
+]

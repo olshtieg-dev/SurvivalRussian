@@ -5,6 +5,7 @@ import interesSet from './interes.json';
 import kharakterSet from './kharakter.json';
 import lyubopytstvoSet from './lyubopytstvo.json';
 import mechtaSet from './mechta.json';
+import metodaSet from './metoda.json';
 import nadezhdaSet from './nadezhda.json';
 import ozhidanieSet from './ozhidanie.json';
 import pamyatSet from './pamyat.json';
@@ -17,6 +18,7 @@ import sposobnostSet from './sposobnost.json';
 import tainaSet from './taina.json';
 import talantSet from './talant.json';
 import teoriyaSet from './teoriya.json';
+import traditsiyaSet from './traditsiya.json';
 import umSet from './um.json';
 import veraSet from './vera.json';
 import vnimanieSet from './vnimanie.json';
@@ -36,6 +38,7 @@ const abstractMindNounsData = [
   ...kharakterSet,
   ...lyubopytstvoSet,
   ...mechtaSet,
+  ...metodaSet,
   ...nadezhdaSet,
   ...ozhidanieSet,
   ...pamyatSet,
@@ -48,6 +51,7 @@ const abstractMindNounsData = [
   ...tainaSet,
   ...talantSet,
   ...teoriyaSet,
+  ...traditsiyaSet,
   ...umSet,
   ...veraSet,
   ...vnimanieSet,

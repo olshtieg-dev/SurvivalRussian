@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-RADIO",
+    "label": "Радио",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for радио (radio).",
+    "missions": [
+      {
+        "id": "NN-COMMS-RADIO-01",
+        "phrase": "Старое радио снова работает.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Радио' is an indeclinable neuter noun standing in the nominative as the subject. 'Старое' is the agreeing neuter adjective, and 'работает' is the verb."
+      },
+      {
+        "id": "NN-COMMS-RADIO-02",
+        "phrase": "Я выключил радио на кухне.",
+        "fullAnalysis": "Strategic focus: Accusative object. Because 'радио' is indeclinable, its accusative looks the same. It serves as the direct object of 'выключил', with 'на кухне' giving the location."
+      },
+      {
+        "id": "NN-COMMS-RADIO-03",
+        "phrase": "В машине нет радио.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the indeclinable 'радио' keeps its form while functioning as a genitive. 'В машине' is the prepositional location."
+      },
+      {
+        "id": "NN-COMMS-RADIO-04",
+        "phrase": "Я услышал новость по радио.",
+        "fullAnalysis": "Strategic focus: Dative in a fixed phrase. 'По радио' uses 'радио' after 'по' in the dative sense, the standard way to say 'on the radio'. 'Новость' is the accusative object."
+      },
+      {
+        "id": "NN-COMMS-RADIO-05",
+        "phrase": "Он подошёл к радио и включил его.",
+        "fullAnalysis": "Strategic focus: Dative after 'к'. 'Радио' stands after 'к' in its dative role, the target of approach. 'Включил его' continues the action."
+      },
+      {
+        "id": "NN-COMMS-RADIO-06",
+        "phrase": "Мы слушали музыку на радио.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На радио' uses 'радио' after 'на' in its prepositional role, locating the music. 'Музыку' is the accusative object."
+      },
+      {
+        "id": "NN-COMMS-RADIO-07",
+        "phrase": "Из радио доносилась тихая мелодия.",
+        "fullAnalysis": "Strategic focus: Genitive after 'из'. 'Радио' stands after 'из' in its genitive sense, the source of the sound. 'Мелодия' is the nominative subject."
+      },
+      {
+        "id": "NN-COMMS-RADIO-08",
+        "phrase": "Он управлял самолётом по радио.",
+        "fullAnalysis": "Strategic focus: Dative of means in a phrase. 'По радио' again uses 'радио' after 'по' to express control by radio. 'Самолётом' is the instrumental object of 'управлял'."
+      },
+      {
+        "id": "NN-COMMS-RADIO-09",
+        "phrase": "В студии стоят разные радио.",
+        "fullAnalysis": "Strategic focus: Indeclinable plural. As an indeclinable noun, 'радио' keeps its form in the nominative plural too. 'Разные' shows the plurality, and 'в студии' is the location."
+      },
+      {
+        "id": "NN-COMMS-RADIO-10",
+        "phrase": "Они купили два новых радио.",
+        "fullAnalysis": "Strategic focus: Indeclinable noun after 'два'. The numeral 'два' would call for a genitive, but 'радио' stays unchanged. 'Новых' carries the plural marking instead."
+      }
+    ]
+  }
+]

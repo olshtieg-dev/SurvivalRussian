@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-RANENYI",
+    "label": "Раненый",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for раненый (wounded man).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-RANENYI-01",
+        "phrase": "Раненый лежит на земле.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Раненый' is a substantivized adjective in the nominative, the subject of 'лежит'. 'На земле' is a prepositional location phrase."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-02",
+        "phrase": "Врачи спасли раненого солдата.",
+        "fullAnalysis": "Strategic focus: Animate accusative. 'Раненого' is the accusative of this animate substantivized adjective, equal to the genitive. It agrees with the object 'солдата'."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-03",
+        "phrase": "Возле раненого стоит медсестра.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Раненого' takes the adjectival genitive after 'возле', meaning near the wounded man. 'Медсестра' is the nominative subject."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-04",
+        "phrase": "Они говорят о раненом.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Раненом' is the adjectival prepositional form after 'о', naming the topic of conversation."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-05",
+        "phrase": "Сестра помогает раненому бойцу.",
+        "fullAnalysis": "Strategic focus: Dative object. 'Раненому' is the adjectival dative governed by 'помогает', naming whom she helps. It agrees with 'бойцу'."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-06",
+        "phrase": "Доктор сидел рядом с раненым.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Раненым' is the adjectival instrumental after 'с', naming who he sat beside."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-07",
+        "phrase": "Раненые ждут своей очереди.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Раненые' is the nominative plural substantivized adjective, the subject of 'ждут'. 'Своей очереди' is genitive."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-08",
+        "phrase": "Машина увезла всех раненых.",
+        "fullAnalysis": "Strategic focus: Animate accusative plural. 'Раненых' is the accusative plural, equal to the genitive for animate nouns. 'Всех' agrees in this form."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-09",
+        "phrase": "У раненого нет сил.",
+        "fullAnalysis": "Strategic focus: Genitive possessor. 'Раненого' takes the adjectival genitive after 'у', framing whose strength is gone. 'Сил' is genitive after 'нет'."
+      },
+      {
+        "id": "NN-PEOPLE-RANENYI-10",
+        "phrase": "Этот раненый уже поправляется.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Раненый' is the nominative subject of 'поправляется'. 'Этот' points to a specific man, and 'уже' marks the recovery in progress."
+      }
+    ]
+  }
+]

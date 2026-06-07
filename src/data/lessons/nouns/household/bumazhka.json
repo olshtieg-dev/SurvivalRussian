@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-BUMAZHKA",
+    "label": "Бумажка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for бумажка (slip of paper).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-01",
+        "phrase": "На столе лежит маленькая бумажка.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бумажка' stays in the nominative as the subject of 'лежит'. 'Маленькая' is the agreeing feminine adjective, and 'на столе' marks the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-02",
+        "phrase": "Я нашёл какую-то бумажку дома.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бумажку' is the accusative direct object of 'нашёл'. 'Какую-то' agrees in the feminine accusative, marking an indefinite scrap of paper."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-03",
+        "phrase": "Без этой бумажки нельзя пройти.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Бумажки' is genitive after 'без'. 'Этой' agrees in the feminine genitive, showing that without this slip entry is impossible."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-04",
+        "phrase": "Дай мне эту бумажку, пожалуйста.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бумажку' is the accusative object of the imperative 'дай'. 'Эту' agrees in the feminine accusative, and 'мне' is the dative recipient."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-05",
+        "phrase": "Я записал номер на бумажке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Бумажке' is the prepositional form after 'на', marking the surface where the number was written. A common everyday note-taking phrase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-06",
+        "phrase": "Это всего лишь старая бумажка.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Бумажка' is the nominative predicate noun after 'это'. 'Старая' is the agreeing feminine adjective dismissing its value."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-07",
+        "phrase": "К бумажке прилипла жвачка.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Бумажке' is dative after 'к', marking what the gum stuck to. 'Прилипла' agrees with the feminine subject 'жвачка'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-08",
+        "phrase": "Он рисует ручкой на бумажке.",
+        "fullAnalysis": "Strategic focus: Instrumental and prepositional together. 'Ручкой' is the instrumental tool, while 'бумажке' is prepositional after 'на', naming the surface he draws on."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-09",
+        "phrase": "На полу валяются разные бумажки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Бумажки' is the nominative plural subject of 'валяются'. 'Разные' is the agreeing plural adjective describing scattered scraps on the floor."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BUMAZHKA-10",
+        "phrase": "Выброси эти бумажки в мусор.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Бумажки' is the accusative plural object of the imperative 'выброси'. 'Эти' agrees in plural, and 'в мусор' marks the destination."
+      }
+    ]
+  }
+]

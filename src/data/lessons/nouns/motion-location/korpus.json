@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-KORPUS",
+    "label": "Корпус",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for корпус (building, corps).",
+    "missions": [
+      {
+        "id": "NN-MOTION-KORPUS-01",
+        "phrase": "Новый корпус стоит за парком.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Корпус' stays in the nominative as the subject of 'стоит'. 'Новый' is the agreeing masculine adjective, and 'за парком' gives the location. A simple descriptive card."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-02",
+        "phrase": "Студенты ищут главный корпус университета.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Корпус' is an inanimate masculine noun, so its accusative matches the nominative as the object of 'ищут'. 'Главный' agrees, and 'университета' is the genitive of belonging."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-03",
+        "phrase": "Около старого корпуса растут деревья.",
+        "fullAnalysis": "Strategic focus: Genitive with 'около'. 'Корпуса' takes the genitive after 'около' to mean near the building. 'Старого' agrees in the masculine genitive. A common location pattern."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-04",
+        "phrase": "Мы подошли к новому корпусу.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'К корпусу' uses the dative form 'корпусу' to show movement toward the building. 'Новому' agrees in the masculine dative. A natural motion-toward pattern."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-05",
+        "phrase": "Перед главным корпусом стоят машины.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'перед'. 'Перед корпусом' uses the instrumental 'корпусом' to mean in front of the building. 'Главным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-06",
+        "phrase": "В этом корпусе находится библиотека.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В корпусе' uses the prepositional 'корпусе' to mean inside the building. 'Этом' agrees in the masculine prepositional, and 'находится библиотека' states what is there."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-07",
+        "phrase": "В кампусе построили три новых корпуса.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'три'. After the numeral 'три' the noun takes the genitive singular 'корпуса'. 'Новых' is genitive plural agreeing with the counted set. A key number-noun rule."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-08",
+        "phrase": "Университет открыл два новых корпуса.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'два'. After 'два' the masculine noun takes the genitive singular 'корпуса', the counted object of 'открыл'. 'Новых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-09",
+        "phrase": "Эти корпуса соединены тёплым переходом.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Корпуса' uses the stressed irregular nominative plural ending in -а as the subject. 'Эти' agrees in the plural, and 'соединены' is the short passive form."
+      },
+      {
+        "id": "NN-MOTION-KORPUS-10",
+        "phrase": "Между корпусами проходит узкая дорожка.",
+        "fullAnalysis": "Strategic focus: Instrumental plural with 'между'. 'Между корпусами' uses the instrumental plural 'корпусами' to mean between the buildings. 'Узкая дорожка' is the nominative subject."
+      }
+    ]
+  }
+]

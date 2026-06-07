@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-PEOPLE-PRESTUPNIK",
+    "label": "Преступник",
+    "badge": "PEOPLE",
+    "description": "A 10-sentence usage card for преступник (criminal).",
+    "missions": [
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-01",
+        "phrase": "Опасный преступник наконец пойман.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Преступник' is an animate masculine noun in the nominative case, the subject of the sentence. 'Опасный' is the agreeing masculine adjective, and 'пойман' is the short-form participle."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-02",
+        "phrase": "Полиция поймала опасного преступника.",
+        "fullAnalysis": "Strategic focus: Accusative of animate noun. 'Преступника' takes the genitive-like ending because it is animate masculine, serving as the direct object of 'поймала'. 'Опасного' agrees in the same animate accusative."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-03",
+        "phrase": "У преступника не было алиби.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Преступника' is the genitive form after 'у', marking the criminal as the possessor. 'Алиби' is the indeclinable subject of 'не было'."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-04",
+        "phrase": "Судья вынес преступнику приговор.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Преступнику' is the dative form, the indirect object receiving the sentence. 'Приговор' is the accusative thing handed down by the judge."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-05",
+        "phrase": "Свидетель столкнулся с преступником.",
+        "fullAnalysis": "Strategic focus: Instrumental after предлог. 'Преступником' is the instrumental form after 'с', required by 'столкнулся', meaning he ran into the criminal. The verb agrees in the masculine."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-06",
+        "phrase": "О преступнике писали все газеты.",
+        "fullAnalysis": "Strategic focus: Prepositional after предлог. 'Преступнике' is the prepositional form after 'о', the topic written about. 'Газеты' is the nominative plural subject of 'писали'."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-07",
+        "phrase": "Эти преступники давно скрылись.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Преступники' is the nominative plural, the subject of 'скрылись'. 'Эти' agrees in the plural, and 'давно' marks the time."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-08",
+        "phrase": "Полиция арестовала всех преступников.",
+        "fullAnalysis": "Strategic focus: Accusative plural of animate noun. 'Преступников' takes the genitive-plural ending because it is animate, serving as the object of 'арестовала'. 'Всех' agrees in the animate accusative plural."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-09",
+        "phrase": "Без преступника суд не начнётся.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Преступника' is the genitive form required by 'без', expressing the absence of the criminal. The clause states the consequence."
+      },
+      {
+        "id": "NN-PEOPLE-PRESTUPNIK-10",
+        "phrase": "Жители боятся опасных преступников.",
+        "fullAnalysis": "Strategic focus: Genitive plural after бояться. 'Преступников' is the genitive plural required by 'боятся', which governs the genitive. 'Опасных' agrees in the genitive plural."
+      }
+    ]
+  }
+]

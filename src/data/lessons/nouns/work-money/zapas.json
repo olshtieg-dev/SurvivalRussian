@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-WORK-ZAPAS",
+    "label": "Запас",
+    "badge": "WORK",
+    "description": "A 10-sentence usage card for запас (reserve, stock).",
+    "missions": [
+      {
+        "id": "NN-WORK-ZAPAS-01",
+        "phrase": "Наш запас воды почти закончился.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Запас' is a masculine noun in the nominative case, the subject of 'закончился'. 'Воды' is genitive showing what the reserve consists of."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-02",
+        "phrase": "Мы создали большой запас еды.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Запас' is an inanimate masculine noun, so its accusative equals the nominative as the object of 'создали'. 'Большой' agrees in the masculine, and 'еды' is genitive of content."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-03",
+        "phrase": "У нас не осталось запаса топлива.",
+        "fullAnalysis": "Strategic focus: Genitive after отрицание. 'Запаса' is the genitive form required after the negation 'не осталось', expressing the absence of a fuel reserve. 'Топлива' is a further genitive of content."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-04",
+        "phrase": "Благодаря запасу мы продержались зиму.",
+        "fullAnalysis": "Strategic focus: Dative after предлог. 'Запасу' is the dative form required by 'благодаря', expressing the reason they survived. 'Зиму' is the accusative of duration."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-05",
+        "phrase": "Они гордятся своим запасом знаний.",
+        "fullAnalysis": "Strategic focus: Instrumental after гордиться. 'Запасом' is the instrumental form required by 'гордятся', which always governs the instrumental. 'Знаний' is genitive plural of content."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-06",
+        "phrase": "В запасе ещё есть немного денег.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Запасе' is the prepositional form after 'в', describing what is held in reserve. 'Денег' is genitive plural after the quantity word 'немного'."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-07",
+        "phrase": "Зимние запасы хранятся в подвале.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Запасы' is the nominative plural, the subject of 'хранятся'. 'Зимние' agrees in the plural, and 'в подвале' gives the location."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-08",
+        "phrase": "Магазин пополнил свои запасы.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Запасы' is the accusative plural, identical to the nominative for inanimate nouns, the object of 'пополнил'. 'Свои' agrees in the plural."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-09",
+        "phrase": "Без запаса денег путешествовать опасно.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Запаса' is the genitive form required by 'без', expressing the lack of money in reserve. 'Денег' is genitive plural of content."
+      },
+      {
+        "id": "NN-WORK-ZAPAS-10",
+        "phrase": "Я держу лекарства про запас.",
+        "fullAnalysis": "Strategic focus: Accusative in idiom. 'Запас' is the accusative form in the fixed expression 'про запас', meaning kept in reserve. 'Лекарства' is the accusative plural object of 'держу'."
+      }
+    ]
+  }
+]

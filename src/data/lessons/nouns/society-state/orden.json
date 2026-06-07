@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-ORDEN",
+    "label": "Орден",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for орден (order, medal).",
+    "missions": [
+      {
+        "id": "NN-STATE-ORDEN-01",
+        "phrase": "Этот орден очень редкий.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Орден' is the masculine nominative subject. 'Этот' is the agreeing demonstrative, 'редкий' is the adjective, and 'очень' intensifies the description."
+      },
+      {
+        "id": "NN-STATE-ORDEN-02",
+        "phrase": "Солдат получил высокий орден.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Орден' is the inanimate masculine accusative, equal to the nominative, as the object of 'получил'. 'Высокий' agrees with it, and 'солдат' is the subject."
+      },
+      {
+        "id": "NN-STATE-ORDEN-03",
+        "phrase": "У ордена красивая лента.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Ордена' is the genitive after 'у', marking whose ribbon it is. 'Лента' is the nominative subject, and 'красивая' agrees with it."
+      },
+      {
+        "id": "NN-STATE-ORDEN-04",
+        "phrase": "Командир радовался новому ордену.",
+        "fullAnalysis": "Strategic focus: Dative after verb. 'Ордену' is the dative governed by 'радовался', expressing what brings joy. 'Новому' is the agreeing masculine adjective, and 'командир' is the subject."
+      },
+      {
+        "id": "NN-STATE-ORDEN-05",
+        "phrase": "Он гордится своим орденом.",
+        "fullAnalysis": "Strategic focus: Instrumental after verb. 'Орденом' is the instrumental governed by 'гордится', expressing the source of pride. 'Своим' is the agreeing masculine possessive, and 'он' is the subject."
+      },
+      {
+        "id": "NN-STATE-ORDEN-06",
+        "phrase": "На ордене выгравированы цифры.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Ордене' is the prepositional after 'на', telling where the numbers are. 'Цифры' is the nominative plural subject of the short passive 'выгравированы'."
+      },
+      {
+        "id": "NN-STATE-ORDEN-07",
+        "phrase": "В музее хранятся старинные ордена.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Ордена' is the nominative plural subject of 'хранятся', taking the stressed -а plural ending. 'Старинные' agrees with it, and 'в музее' is the prepositional of location."
+      },
+      {
+        "id": "NN-STATE-ORDEN-08",
+        "phrase": "Ветеран надел все свои ордена.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Ордена' is the inanimate accusative plural, the object of 'надел'. 'Все свои' agree with it in the plural, and 'ветеран' is the subject."
+      },
+      {
+        "id": "NN-STATE-ORDEN-09",
+        "phrase": "Без ордена парадный костюм неполный.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Ордена' is the genitive after 'без', marking absence. 'Костюм' is the nominative subject, 'парадный' agrees with it, and 'неполный' is the predicate adjective."
+      },
+      {
+        "id": "NN-STATE-ORDEN-10",
+        "phrase": "Президент вручил герою орден.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Орден' is the accusative object of 'вручил'. 'Герою' is the dative recipient, and 'президент' is the nominative subject."
+      }
+    ]
+  }
+]

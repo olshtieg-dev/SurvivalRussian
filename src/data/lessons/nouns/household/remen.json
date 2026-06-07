@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-REMEN",
+    "label": "Ремень",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ремень (belt).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-REMEN-01",
+        "phrase": "Этот кожаный ремень слишком длинный.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ремень' stays in the nominative as the subject. 'Этот' and 'кожаный' are agreeing masculine adjectives, and 'слишком длинный' gives the evaluation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-02",
+        "phrase": "Я купил новый ремень в магазине.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ремень' is an inanimate masculine noun, so its accusative matches the nominative. 'Новый' agrees in the accusative, and 'в магазине' names the place of the purchase."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-03",
+        "phrase": "У меня нет запасного ремня.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'ремня', with the fleeting vowel dropping. 'Запасного' is the agreeing masculine genitive adjective."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-04",
+        "phrase": "Затяни потуже на ремне пряжку.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На ремне' uses the prepositional form 'ремне' after 'на' to locate the buckle. 'Затяни' is an imperative and 'потуже' adds the manner."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-05",
+        "phrase": "Он держал брюки ремнём.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Ремнём' is the instrumental, naming the tool that held the trousers up. The ending shifts the stress, a typical pattern for this noun."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-06",
+        "phrase": "Я дал ремню новую дырку.",
+        "fullAnalysis": "Strategic focus: Dative recipient. 'Ремню' is the dative, the thing that received a new hole. 'Дал' takes a dative target, and 'новую дырку' is the accusative object."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-07",
+        "phrase": "В шкафу висят разные ремни.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ремни' is the nominative plural subject. 'Разные' agrees in the plural, and 'в шкафу' uses the prepositional location frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-08",
+        "phrase": "Магазин продаёт кожаные ремни.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Ремни' is the inanimate accusative plural, matching the nominative plural. 'Кожаные' agrees, naming the goods on sale."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-09",
+        "phrase": "У меня много старых ремней.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Много' governs the genitive plural 'ремней'. 'Старых' is the agreeing genitive plural adjective describing the collection."
+      },
+      {
+        "id": "NN-HOUSEHOLD-REMEN-10",
+        "phrase": "Пристегнитесь ремнём безопасности!",
+        "fullAnalysis": "Strategic focus: Instrumental in a fixed phrase. 'Ремнём' is the instrumental naming the means, with 'безопасности' in the genitive forming the term for seat belt. 'Пристегнитесь' is the polite imperative."
+      }
+    ]
+  }
+]

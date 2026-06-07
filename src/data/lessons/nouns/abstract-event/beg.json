@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EVENT-BEG",
+    "label": "Бег",
+    "badge": "CONCEPT",
+    "description": "A 10-sentence usage card for бег (running).",
+    "missions": [
+      {
+        "id": "NN-EVENT-BEG-01",
+        "phrase": "Утренний бег очень полезен.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Бег' is a masculine noun in the nominative case, the subject of the sentence. 'Утренний' is the agreeing masculine adjective, and 'полезен' is the short-form predicate."
+      },
+      {
+        "id": "NN-EVENT-BEG-02",
+        "phrase": "Тренер любит долгий бег.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Бег' is an inanimate masculine noun, so its accusative equals the nominative as the object of 'любит'. 'Долгий' agrees in the masculine."
+      },
+      {
+        "id": "NN-EVENT-BEG-03",
+        "phrase": "Во время бега он устал.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Бега' is the genitive form after 'во время', marking when he got tired. The verb 'устал' agrees in the masculine."
+      },
+      {
+        "id": "NN-EVENT-BEG-04",
+        "phrase": "Бегу он посвящает каждое утро.",
+        "fullAnalysis": "Strategic focus: Dative after посвящать. 'Бегу' is the dative form required by 'посвящает', the activity he devotes time to. 'Каждое утро' is the accusative of time."
+      },
+      {
+        "id": "NN-EVENT-BEG-05",
+        "phrase": "Он увлекается бегом по утрам.",
+        "fullAnalysis": "Strategic focus: Instrumental after увлекаться. 'Бегом' is the instrumental form required by 'увлекается', which always governs the instrumental. 'По утрам' marks the regular time."
+      },
+      {
+        "id": "NN-EVENT-BEG-06",
+        "phrase": "В беге важна правильная техника.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Беге' is the prepositional form after 'в', the activity in which technique matters. 'Техника' is the nominative subject."
+      },
+      {
+        "id": "NN-EVENT-BEG-07",
+        "phrase": "Конные бега начнутся в полдень.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Бега' is the special nominative plural meaning the races, the subject of 'начнутся'. 'Конные' agrees in the plural, and 'в полдень' gives the time."
+      },
+      {
+        "id": "NN-EVENT-BEG-08",
+        "phrase": "Зрители обожают конные бега.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Бега' is the accusative plural, identical to the nominative for this inanimate noun, the object of 'обожают'. 'Конные' agrees in the plural."
+      },
+      {
+        "id": "NN-EVENT-BEG-09",
+        "phrase": "Без бега он не может жить.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Бега' is the genitive form required by 'без', expressing the absence of running. The clause emphasises how essential it is to him."
+      },
+      {
+        "id": "NN-EVENT-BEG-10",
+        "phrase": "Он перешёл с бега на шаг.",
+        "fullAnalysis": "Strategic focus: Genitive after предлог. 'Бега' is the genitive form after 'с', marking what he switched from. 'На шаг' shows the accusative goal of the change."
+      }
+    ]
+  }
+]

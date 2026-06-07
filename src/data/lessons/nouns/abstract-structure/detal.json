@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-DETAL",
+    "label": "Деталь",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for деталь (detail; part).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-DETAL-01",
+        "phrase": "Эта деталь очень важная.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Деталь' is the feminine nominative subject. 'Эта' and 'важная' agree in the feminine nominative, and 'очень' intensifies. A clean evaluative statement."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-02",
+        "phrase": "Я заметил одну деталь.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Деталь' is the feminine accusative direct object of 'заметил'; for this soft-sign feminine noun the accusative equals the nominative. 'Одну' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-03",
+        "phrase": "Без этой детали мотор не работает.",
+        "fullAnalysis": "Strategic focus: Genitive with preposition. 'Детали' is the feminine genitive after 'без', marking absence. 'Этой' agrees in the feminine genitive, and 'мотор не работает' states the result."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-04",
+        "phrase": "К каждой детали нужно внимание.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Детали' is the feminine dative after 'к', marking the goal. 'Каждой' agrees in the feminine dative, and 'нужно внимание' states the requirement."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-05",
+        "phrase": "Он интересуется каждой деталью.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Деталью' is the feminine instrumental required by 'интересуется'. 'Каждой' agrees in the feminine instrumental. The standard 'interested in' construction."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-06",
+        "phrase": "В этой детали скрыта ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Детали' is the feminine prepositional after 'в', showing where the problem lies. 'Этой' agrees in the feminine prepositional, and 'скрыта ошибка' is the predicate."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-07",
+        "phrase": "Эти детали трудно найти.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Детали' is the feminine nominative plural subject. 'Эти' agrees in the plural, and 'трудно найти' is the impersonal predicate. A practical statement."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-08",
+        "phrase": "Мы обсудили все детали проекта.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Детали' is the inanimate accusative plural, identical to the nominative, as the object of 'обсудили'. 'Все' agrees in the plural, and 'проекта' is a genitive modifier."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-09",
+        "phrase": "В машине много мелких деталей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Деталей' is the feminine genitive plural after the quantifier 'много'. 'Мелких' agrees in the genitive plural, and 'в машине' gives the location."
+      },
+      {
+        "id": "NN-STRUCT-DETAL-10",
+        "phrase": "В деталях кроется главная идея.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Деталях' is the feminine prepositional plural after 'в'. 'Кроется главная идея' is the subject and verb. A reflective, idiomatic line."
+      }
+    ]
+  }
+]

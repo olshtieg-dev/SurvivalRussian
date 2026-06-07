@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-SKLAD",
+    "label": "Склад",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for склад (warehouse).",
+    "missions": [
+      {
+        "id": "NN-MOTION-SKLAD-01",
+        "phrase": "За домом стоит большой склад.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Склад' stays in the nominative case as the masculine subject standing behind the house. 'Большой' is the agreeing masculine adjective."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-02",
+        "phrase": "Мы построили новый склад.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Склад' is the accusative direct object of 'построили'; this inanimate masculine noun matches its nominative form. 'Новый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-03",
+        "phrase": "Все товары хранятся на складе.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На складе' uses the prepositional form 'складе' after 'на' to show where the goods are kept. A common storage expression."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-04",
+        "phrase": "Грузовик уехал со склада.",
+        "fullAnalysis": "Strategic focus: Genitive of source. 'Со склада' uses the genitive form 'склада' after 'со' to express leaving the warehouse. The preposition 'с' governs the genitive of departure."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-05",
+        "phrase": "Рабочие идут на склад утром.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'На склад' uses the accusative after 'на' to show motion toward the warehouse. The inanimate form matches the nominative."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-06",
+        "phrase": "К новому складу ведёт дорога.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'К складу' uses the dative form 'складу' after 'к' marking the goal the road leads to. 'Новому' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-07",
+        "phrase": "Завод управляет огромным складом.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Складом' is the instrumental case required by the verb 'управлять'. 'Огромным' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-08",
+        "phrase": "В городе много больших складов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after quantity. 'Складов' is the genitive plural required after 'много'. 'Больших' agrees in the genitive plural. A core counting pattern."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-09",
+        "phrase": "За рекой стоят старые склады.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Склады' is the nominative plural subject standing beyond the river. 'Старые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-MOTION-SKLAD-10",
+        "phrase": "Этот склад совсем пустой.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Склад' is nominative as the subject. 'Пустой' is the agreeing masculine predicate adjective, intensified by 'совсем'. A clean descriptive model."
+      }
+    ]
+  }
+]

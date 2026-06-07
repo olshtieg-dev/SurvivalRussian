@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-PRISUTSTVIE",
+    "label": "Присутствие",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for присутствие (presence).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-01",
+        "phrase": "Его присутствие меня успокаивает.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Присутствие' is nominative as the subject of 'успокаивает'. 'Его' is the agreeing possessive, and 'меня' is the accusative object."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-02",
+        "phrase": "Я почувствовал чьё-то присутствие.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Присутствие' is the accusative direct object of 'почувствовал'; as a neuter noun its accusative equals the nominative. 'Чьё-то' agrees in the neuter."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-03",
+        "phrase": "Без её присутствия дом пустой.",
+        "fullAnalysis": "Strategic focus: Genitive after a preposition. 'Присутствия' is genitive after 'без', marking absence. 'Её' agrees, and 'дом' is the nominative subject."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-04",
+        "phrase": "Мы рады вашему присутствию.",
+        "fullAnalysis": "Strategic focus: Dative after the adjective. 'Присутствию' is dative, governed by 'рады'. 'Вашему' agrees in the neuter dative, marking what pleases the speakers."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-05",
+        "phrase": "Он отличается спокойным присутствием духа.",
+        "fullAnalysis": "Strategic focus: Instrumental after the verb. 'Присутствием' is instrumental, required by 'отличается'. 'Спокойным' agrees, in the idiom 'присутствие духа' for composure."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-06",
+        "phrase": "При присутствии гостей мы молчали.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'при'. 'Присутствии' is prepositional after 'при', marking the circumstance. 'Гостей' is the genitive plural naming who was present."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-07",
+        "phrase": "В моём присутствии так не говорят.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Присутствии' is prepositional after 'в', meaning in someone's presence. 'Моём' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-08",
+        "phrase": "Её присутствие очень важно.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Присутствие' is nominative as the subject. 'Важно' is the neuter short-form predicate agreeing with it, intensified by 'очень'."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-09",
+        "phrase": "Я ценю эти редкие присутствия друзей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Присутствия' is the accusative plural object of 'ценю'; for neuter nouns the accusative plural matches the nominative. 'Редкие' agrees in the plural."
+      },
+      {
+        "id": "NN-EMOTION-PRISUTSTVIE-10",
+        "phrase": "Его постоянное присутствие меня радует.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Присутствие' is nominative as the subject of 'радует'. 'Постоянное' is the agreeing neuter adjective, and 'его' marks whose presence."
+      }
+    ]
+  }
+]

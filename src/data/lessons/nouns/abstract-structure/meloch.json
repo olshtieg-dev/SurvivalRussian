@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-MELOCH",
+    "label": "Мелочь",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for мелочь (trifle; change).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-MELOCH-01",
+        "phrase": "Это просто мелочь.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Мелочь' is a feminine soft-sign noun in the nominative as the predicate. 'Просто' downplays it, a natural way to dismiss something minor."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-02",
+        "phrase": "Не обращай внимания на мелочь.",
+        "fullAnalysis": "Strategic focus: Accusative after 'на'. 'Мелочь' is the accusative after 'на', the trifle to ignore. For this noun type the accusative equals the nominative form."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-03",
+        "phrase": "У меня нет мелочи.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. After 'нет' the noun takes the genitive 'мелочи'. Here the sense is small change, a very common phrase at the till."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-04",
+        "phrase": "Я заплатил за хлеб мелочью.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Мелочью' is the instrumental naming what the bread was paid with. 'За хлеб' uses the accusative of price."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-05",
+        "phrase": "Он дал мелочи нищему.",
+        "fullAnalysis": "Strategic focus: Genitive of part with dative recipient. 'Мелочи' is the partitive genitive, some change. 'Нищему' is the dative recipient who got it."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-06",
+        "phrase": "В этой мелочи есть глубокий смысл.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В мелочи' uses the prepositional form 'мелочи' after 'в' to locate the meaning within the trifle. 'Смысл' is the nominative subject."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-07",
+        "phrase": "Не придавай значения мелочи.",
+        "fullAnalysis": "Strategic focus: Dative in a fixed phrase. 'Мелочи' is the dative governed by 'придавать значения', the trifle one should not weight. 'Значения' is the genitive under negation."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-08",
+        "phrase": "Карманы были полны мелочи.",
+        "fullAnalysis": "Strategic focus: Genitive after 'полны'. The short adjective 'полны' governs the genitive 'мелочи', here meaning coins. 'Карманы' is the nominative plural subject."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-09",
+        "phrase": "Меня раздражают мелочи быта.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Мелочи' is the feminine nominative plural subject. 'Быта' is the genitive specifying daily trifles, and 'меня' is the accusative object."
+      },
+      {
+        "id": "NN-STRUCT-MELOCH-10",
+        "phrase": "Мы обсудили все мелочи проекта.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Мелочи' is the inanimate accusative plural, matching the nominative plural. 'Все' agrees, and 'проекта' is the genitive specifying the details."
+      }
+    ]
+  }
+]

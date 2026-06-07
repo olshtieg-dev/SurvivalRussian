@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-PROIZVEDENIE",
+    "label": "Произведение",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for произведение (work, opus).",
+    "missions": [
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-01",
+        "phrase": "Это известное произведение искусства.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Произведение' is a neuter noun in the nominative as the predicate. 'Известное' is the agreeing neuter adjective, and 'искусства' is a genitive complement."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-02",
+        "phrase": "Композитор написал новое произведение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Произведение' is the accusative direct object of 'написал'. As an inanimate neuter noun it equals the nominative, and 'новое' agrees with it."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-03",
+        "phrase": "Я не знаю этого произведения.",
+        "fullAnalysis": "Strategic focus: Genitive after negation. 'Произведения' takes the genitive after the negated 'не знаю'. 'Этого' is the agreeing neuter genitive form."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-04",
+        "phrase": "Критики говорят об этом произведении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об произведении' uses the prepositional form 'произведении' after 'об' to discuss the work. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-05",
+        "phrase": "Зрители восхищаются этим произведением.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'восхищаться'. 'Произведением' takes the instrumental because the verb governs that case, meaning to admire the work. 'Этим' agrees in the instrumental."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-06",
+        "phrase": "Благодаря этому произведению он прославился.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Произведению' takes the dative because 'благодаря' governs that case, meaning thanks to the work. 'Этому' agrees in the dative."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-07",
+        "phrase": "Без этого произведения концерт неполный.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Произведения' takes the genitive because 'без' requires it, meaning without this work. 'Этого' is the agreeing neuter genitive form."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-08",
+        "phrase": "Учитель посвятил урок этому произведению.",
+        "fullAnalysis": "Strategic focus: Dative after 'посвятить'. 'Произведению' takes the dative because 'посвятить' governs that case, meaning to devote a lesson to the work. A useful frame."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-09",
+        "phrase": "Его произведения переведены на многие языки.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Произведения' is the nominative plural subject. 'Его' shows the author, and 'переведены' is the short passive participle in the plural."
+      },
+      {
+        "id": "NN-COMMS-PROIZVEDENIE-10",
+        "phrase": "В сборнике много ранних произведений.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Произведений' takes the genitive plural because 'много' requires it. 'Ранних' is the agreeing genitive plural adjective."
+      }
+    ]
+  }
+]

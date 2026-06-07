@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-PODUSHKA",
+    "label": "Подушка",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for подушка (pillow).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-01",
+        "phrase": "Мягкая подушка лежит на кровати.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Подушка' stays in the nominative as the subject of 'лежит'. 'Мягкая' is the agreeing feminine adjective, and 'на кровати' gives the location. A simple descriptive card."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-02",
+        "phrase": "Я купил новую подушку вчера.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Подушку' is the accusative direct object of 'купил'. 'Новую' agrees in the feminine accusative, and 'вчера' marks the time. A core buying pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-03",
+        "phrase": "У меня нет удобной подушки.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Подушки' takes the genitive after 'нет' to mark non-existence. 'Удобной' agrees in the feminine genitive. A standard negation frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-04",
+        "phrase": "Я добавил наволочку к подушке.",
+        "fullAnalysis": "Strategic focus: Dative with 'к'. 'К подушке' uses the dative form 'подушке' to express adding something to the pillow. 'Наволочку' is the accusative object. A useful directional pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-05",
+        "phrase": "Кот спит под мягкой подушкой.",
+        "fullAnalysis": "Strategic focus: Instrumental with 'под'. 'Под подушкой' uses the instrumental 'подушкой' to express location underneath. 'Мягкой' agrees in the feminine instrumental. A common spatial frame."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-06",
+        "phrase": "На этой подушке очень удобно спать.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На подушке' uses the prepositional 'подушке' to mean resting on it. 'Этой' agrees in the feminine prepositional, and 'удобно спать' states the result."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-07",
+        "phrase": "На диване лежат две подушки.",
+        "fullAnalysis": "Strategic focus: Genitive singular after 'две'. After the numeral 'две' the feminine noun takes the genitive singular 'подушки'. 'На диване' sets the place. A key number-noun rule."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-08",
+        "phrase": "Я положил все подушки на пол.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Подушки' is the accusative plural of an inanimate noun, the object of 'положил'. 'Все' agrees in the plural, and 'на пол' shows direction."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-09",
+        "phrase": "Эти подушки слишком жёсткие.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Подушки' is the nominative plural subject. 'Эти' agrees in the plural, and 'слишком жёсткие' gives the evaluation. A clean plural model."
+      },
+      {
+        "id": "NN-HOUSEHOLD-PODUSHKA-10",
+        "phrase": "Без подушки мне трудно заснуть.",
+        "fullAnalysis": "Strategic focus: Genitive with 'без'. 'Без подушки' uses the genitive 'подушки' to express lacking the pillow. 'Мне трудно заснуть' uses the dative experiencer. A useful preposition pattern."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-ABSTRACT-FUNKTSIYA",
+    "label": "Функция",
+    "badge": "IDEA",
+    "description": "A 10-sentence usage card for функция (function).",
+    "missions": [
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-01",
+        "phrase": "Это очень важная функция программы.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Функция' is the nominative predicate noun after 'это'. 'Важная' is the agreeing feminine adjective, and 'программы' is the genitive of belonging."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-02",
+        "phrase": "Я не понимаю эту функцию.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Функцию' is the accusative direct object of 'понимаю'. 'Эту' agrees in the feminine accusative, marking the specific function not understood."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-03",
+        "phrase": "У этой функции нет смысла.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Функции' is the genitive form after 'у', marking whose. 'Этой' agrees in the feminine genitive, and 'нет смысла' states it makes no sense."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-04",
+        "phrase": "Мы добавили к функции новые параметры.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Функции' is dative after 'к', marking what the parameters were added to. 'Новые' agrees with the plural object 'параметры'."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-05",
+        "phrase": "В этой функции есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Функции' is the prepositional form after 'в', marking where the bug lives. 'Этой' agrees in the feminine prepositional."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-06",
+        "phrase": "Программа управляет этой функцией автоматически.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Функцией' is the instrumental required by 'управляет'. 'Этой' agrees in the feminine instrumental, and 'автоматически' adds the manner."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-07",
+        "phrase": "Эта функция работает очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Функция' is the nominative subject of 'работает'. 'Эта' points at a specific one, and 'быстро' describes its speed."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-08",
+        "phrase": "Без этой функции приложение бесполезно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Функции' is genitive after 'без'. 'Этой' agrees in the feminine genitive, showing the app is useless without it."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-09",
+        "phrase": "В программе есть новые функции.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Функции' is the nominative plural subject of the existential 'есть'. 'Новые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-ABSTRACT-FUNKTSIYA-10",
+        "phrase": "Разработчики добавили полезные функции недавно.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Функции' is the accusative plural object of 'добавили', matching the nominative for this inanimate noun. 'Полезные' agrees in plural."
+      }
+    ]
+  }
+]

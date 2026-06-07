@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-DVERTSA",
+    "label": "Дверца",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for дверца (small door).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-01",
+        "phrase": "Дверца шкафа снова открыта.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Дверца' stays in the nominative as the subject of the sentence. 'Шкафа' is the genitive showing whose door it is, and 'открыта' is the short feminine adjective agreeing with дверца."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-02",
+        "phrase": "Закрой, пожалуйста, дверцу холодильника.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Дверцу' is the accusative direct object of the imperative 'закрой'. 'Холодильника' is the genitive of possession, and 'пожалуйста' softens the request."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-03",
+        "phrase": "У этой дверцы сломалась ручка.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Дверцы' is the genitive after 'у', marking whose handle broke. 'Ручка' is the nominative subject of 'сломалась', which agrees with it in feminine gender."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-04",
+        "phrase": "Я подошёл к дверце машины.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Дверце' is the dative after the preposition 'к', expressing motion toward something. 'Машины' is the genitive of possession marking the car's door."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-05",
+        "phrase": "Кот спрятался за дверцей шкафа.",
+        "fullAnalysis": "Strategic focus: Instrumental with location. 'Дверцей' is the instrumental after 'за', showing where the cat hid. 'Шкафа' is the genitive of possession, and 'спрятался' is the past-tense verb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-06",
+        "phrase": "На дверце висит красивый магнит.",
+        "fullAnalysis": "Strategic focus: Prepositional of location. 'Дверце' is the prepositional after 'на', telling where the magnet hangs. 'Магнит' is the nominative subject, and 'красивый' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-07",
+        "phrase": "Все дверцы в кухне новые.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Дверцы' is the nominative plural as the subject. 'Все' and 'новые' agree with it in the plural, while 'в кухне' gives the prepositional location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-08",
+        "phrase": "Он покрасил дверцы шкафа белой краской.",
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Дверцы' is the accusative plural object of 'покрасил'. 'Шкафа' is the genitive of possession, and 'белой краской' is the instrumental of means."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-09",
+        "phrase": "Без дверцы шкаф выглядит странно.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Дверцы' is the genitive after 'без', marking absence. 'Шкаф' is the nominative subject of 'выглядит', and 'странно' is the adverb."
+      },
+      {
+        "id": "NN-HOUSEHOLD-DVERTSA-10",
+        "phrase": "Маленькая дверца ведёт в подвал.",
+        "fullAnalysis": "Strategic focus: Nominative subject with adjective. 'Дверца' is the nominative subject of 'ведёт'. 'Маленькая' is the agreeing feminine adjective, and 'в подвал' is the accusative of direction."
+      }
+    ]
+  }
+]

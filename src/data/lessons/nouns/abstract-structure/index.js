@@ -1,11 +1,13 @@
 import chastSet from './chast.json';
 import chertaSet from './cherta.json';
 import chisloSet from './chislo.json';
+import detalSet from './detal.json';
 import faktSet from './fakt.json';
 import glavaSet from './glava.json';
 import kachestvoSet from './kachestvo.json';
 import kolichestvoSet from './kolichestvo.json';
 import kuchaSet from './kucha.json';
+import melochSet from './meloch.json';
 import meraSet from './mera.json';
 import mnozhestvoSet from './mnozhestvo.json';
 import obstoyatelstvoSet from './obstoyatelstvo.json';
@@ -22,15 +24,18 @@ import raschyotSet from './raschyot.json';
 import raznitsaSet from './raznitsa.json';
 import rostSet from './rost.json';
 import ryadSet from './ryad.json';
+import sharSet from './shar.json';
 import shtukaSet from './shtuka.json';
 import skorostSet from './skorost.json';
 import soderzhanieSet from './soderzhanie.json';
 import sravnenieSet from './sravnenie.json';
 import sredaSet from './sreda.json';
 import sredstvoSet from './sredstvo.json';
+import strukturaSet from './struktura.json';
 import summaSet from './summa.json';
 import sushchnostSet from './sushchnost.json';
 import tipSet from './tip.json';
+import tsifraSet from './tsifra.json';
 import tsvetSet from './tsvet.json';
 import urovenSet from './uroven.json';
 import uslovieSet from './uslovie.json';
@@ -43,11 +48,13 @@ const abstractStructureNounsData = [
   ...chastSet,
   ...chertaSet,
   ...chisloSet,
+  ...detalSet,
   ...faktSet,
   ...glavaSet,
   ...kachestvoSet,
   ...kolichestvoSet,
   ...kuchaSet,
+  ...melochSet,
   ...meraSet,
   ...mnozhestvoSet,
   ...obstoyatelstvoSet,
@@ -64,15 +71,18 @@ const abstractStructureNounsData = [
   ...raznitsaSet,
   ...rostSet,
   ...ryadSet,
+  ...sharSet,
   ...shtukaSet,
   ...skorostSet,
   ...soderzhanieSet,
   ...sravnenieSet,
   ...sredaSet,
   ...sredstvoSet,
+  ...strukturaSet,
   ...summaSet,
   ...sushchnostSet,
   ...tipSet,
+  ...tsifraSet,
   ...tsvetSet,
   ...urovenSet,
   ...uslovieSet,

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-EMOTION-OBIDA",
+    "label": "Обида",
+    "badge": "EMOTION",
+    "description": "A 10-sentence usage card for обида (resentment).",
+    "missions": [
+      {
+        "id": "NN-EMOTION-OBIDA-01",
+        "phrase": "В его голосе была сильная обида.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Обида' stays in the nominative as the subject of 'была'. 'Сильная' is the agreeing feminine adjective, and 'в его голосе' gives the location. A clean emotional card."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-02",
+        "phrase": "Я не хочу копить старую обиду.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Обиду' is the accusative direct object of 'копить'. 'Старую' agrees in the feminine accusative, and 'не хочу' frames the intention. A natural emotional pattern."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-03",
+        "phrase": "В её словах не было обиды.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Обиды' takes the genitive after 'не было' to mark non-existence. 'В её словах' sets the context. A standard negation frame."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-04",
+        "phrase": "Из-за обиды он перестал звонить.",
+        "fullAnalysis": "Strategic focus: Genitive with 'из-за'. 'Обиды' takes the genitive after the causal 'из-за' to mean because of resentment. 'Он перестал звонить' is the result. A common cause pattern."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-05",
+        "phrase": "Он молчал с глубокой обидой.",
+        "fullAnalysis": "Strategic focus: Instrumental of manner with 'с'. 'С обидой' uses the instrumental 'обидой' to express the manner of feeling. 'Глубокой' agrees in the feminine instrumental. A useful expressive frame."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-06",
+        "phrase": "Мы долго говорили об этой обиде.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Об обиде' uses the prepositional 'обиде' after 'об' to express talking about the feeling. 'Этой' agrees in the feminine prepositional, and 'долго' adds duration."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-07",
+        "phrase": "Она простила другу его обиду.",
+        "fullAnalysis": "Strategic focus: Accusative object with dative recipient. 'Обиду' is the accusative direct object of 'простила'. 'Другу' is the dative of the person forgiven, and 'его' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-08",
+        "phrase": "Старые обиды мешают нам дружить.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Обиды' is the nominative plural subject of 'мешают'. 'Старые' agrees in the plural, and 'нам' is the dative of the affected people. A clean plural model."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-09",
+        "phrase": "Пора забыть все детские обиды.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Обиды' is the accusative plural of an inanimate noun, the object of 'забыть'. 'Все детские' agrees in the plural. Strong for reflective language."
+      },
+      {
+        "id": "NN-EMOTION-OBIDA-10",
+        "phrase": "Дети быстро забывают о своих обидах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Об обидах' uses the prepositional plural 'обидах' after 'о' to mean about their grievances. 'Своих' agrees in the plural. A useful pattern for habits."
+      }
+    ]
+  }
+]

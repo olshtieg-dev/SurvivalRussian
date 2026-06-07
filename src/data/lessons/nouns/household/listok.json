@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-LISTOK",
+    "label": "Листок",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for листок (leaf; sheet).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-01",
+        "phrase": "На столе лежит белый листок.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Листок' is a masculine noun in the nominative, the thing that lies there. 'Белый' is the agreeing adjective, and 'на столе' gives the location."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-02",
+        "phrase": "Дай мне чистый листок бумаги.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Листок' is the accusative direct object of 'дай'; this inanimate masculine noun keeps the nominative form. 'Бумаги' is a genitive of material."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-03",
+        "phrase": "У меня нет листка для записей.",
+        "fullAnalysis": "Strategic focus: Genitive with fleeting vowel. After 'нет' the noun takes the genitive 'листка', where the 'о' of 'листок' drops out. A classic fleeting-vowel pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-04",
+        "phrase": "Я записал номер на листке.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'На листке' uses the prepositional form, again dropping the fleeting 'о'. It shows where the number was written."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-05",
+        "phrase": "Учитель раздал детям по листку.",
+        "fullAnalysis": "Strategic focus: Dative with distributive 'по'. 'Листку' is the dative form after distributive 'по', meaning one sheet each. 'Детям' is the dative recipient of 'раздал'."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-06",
+        "phrase": "Он накрыл стол одним листком.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Листком' is the instrumental form showing the tool, again with the fleeting vowel gone. 'Одним' agrees in the instrumental."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-07",
+        "phrase": "Осенние листки кружатся по двору.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Листки' is the nominative plural, the subject of 'кружатся'. 'Осенние' agrees in the plural, painting a seasonal scene."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-08",
+        "phrase": "Я собрал много жёлтых листков.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Листков' is the genitive plural required by 'много', and 'жёлтых' agrees in the genitive plural. A standard quantity pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-09",
+        "phrase": "Без листка я ничего не помню.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Листка' is the genitive form required by 'без', with the fleeting vowel dropped. The sentence shows reliance on a note."
+      },
+      {
+        "id": "NN-HOUSEHOLD-LISTOK-10",
+        "phrase": "Это последний листок в блокноте.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Листок' is nominative as the predicate noun. 'Последний' is the agreeing adjective, and 'в блокноте' adds the prepositional location."
+      }
+    ]
+  }
+]

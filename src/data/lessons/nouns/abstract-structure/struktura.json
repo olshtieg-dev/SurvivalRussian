@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STRUCT-STRUKTURA",
+    "label": "Структура",
+    "badge": "STRUCT",
+    "description": "A 10-sentence usage card for структура (structure).",
+    "missions": [
+      {
+        "id": "NN-STRUCT-STRUKTURA-01",
+        "phrase": "Это очень сложная структура.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Структура' stays in the nominative as the predicate noun. 'Сложная' is the agreeing feminine adjective, intensified by 'очень'."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-02",
+        "phrase": "Инженеры изучают новую структуру.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Структуру' is the accusative direct object of 'изучают'. 'Новую' agrees in the feminine accusative, a natural pattern for analysis."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-03",
+        "phrase": "У этой структуры много частей.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Структуры' takes the genitive after 'у' to show what has many parts. 'Этой' agrees in the feminine genitive."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-04",
+        "phrase": "Мы говорим о структуре текста.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О структуре' uses the prepositional form 'структуре' after 'о' to discuss the structure. 'Текста' is a genitive complement."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-05",
+        "phrase": "Учёный доволен этой структурой.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Структурой' takes the instrumental because 'доволен' governs that case. 'Этой' agrees in the feminine instrumental."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-06",
+        "phrase": "Благодаря структуре проект понятен.",
+        "fullAnalysis": "Strategic focus: Dative after 'благодаря'. 'Структуре' takes the dative because 'благодаря' governs that case, meaning thanks to the structure. A useful causal frame."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-07",
+        "phrase": "Без структуры доклад непонятен.",
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Структуры' takes the genitive because 'без' requires it, meaning without structure. A clear governed genitive."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-08",
+        "phrase": "Автор придал тексту чёткую структуру.",
+        "fullAnalysis": "Strategic focus: Accusative with dative recipient. 'Структуру' is the accusative object of 'придал', while 'тексту' is the dative recipient. 'Чёткую' agrees in the feminine accusative."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-09",
+        "phrase": "Эти структуры очень разные.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Структуры' is the nominative plural subject. 'Эти' agrees in the plural, and 'разные' describes their difference."
+      },
+      {
+        "id": "NN-STRUCT-STRUKTURA-10",
+        "phrase": "В клетке много сложных структур.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Структур' takes the genitive plural because 'много' requires it. 'Сложных' is the agreeing genitive plural adjective."
+      }
+    ]
+  }
+]

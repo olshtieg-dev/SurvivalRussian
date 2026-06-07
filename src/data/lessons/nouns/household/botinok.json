@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-BOTINOK",
+    "label": "Ботинок",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for ботинок (boot, shoe).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-01",
+        "phrase": "Этот ботинок мне немного велик.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Ботинок' is the masculine nominative subject of the sentence. 'Этот' points at the specific shoe, and 'велик' is the short-form adjective stating it is too big. A natural fitting-room remark."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-02",
+        "phrase": "Я надел правый ботинок первым.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Ботинок' is the accusative direct object of 'надел'; as an inanimate masculine noun its accusative equals the nominative. 'Правый' agrees in the masculine accusative."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-03",
+        "phrase": "У меня нет второго ботинка.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Ботинка' is the genitive after the negative 'нет'. 'Второго' agrees in the masculine genitive. A common way to say one shoe is missing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-04",
+        "phrase": "К этому ботинку нужен новый шнурок.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Ботинку' is the dative after 'к', marking the shoe as the goal. 'Этому' agrees in the masculine dative, and 'нужен' introduces what it needs."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-05",
+        "phrase": "Что-то застряло под ботинком.",
+        "fullAnalysis": "Strategic focus: Instrumental with preposition. 'Ботинком' is the instrumental after 'под', expressing location underneath. 'Что-то' is the indefinite subject. A natural everyday observation."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-06",
+        "phrase": "В ботинке оказался маленький камень.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Ботинке' is the prepositional after 'в', showing location inside. 'Оказался' agrees with the masculine subject 'камень'. A familiar small annoyance."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-07",
+        "phrase": "Эти ботинки очень удобные.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Ботинки' is the nominative plural subject. 'Эти' and 'удобные' agree in the plural, and 'очень' intensifies the praise. The standard way to comment on footwear."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-08",
+        "phrase": "Я купил новые ботинки вчера.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Ботинки' is the inanimate accusative plural, identical to the nominative, as the object of 'купил'. 'Новые' agrees in the plural, and 'вчера' sets the time."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-09",
+        "phrase": "У меня две пары ботинок.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Ботинок' is the genitive plural after 'пары'. Note the zero ending typical of this masculine noun. A useful counting and inventory pattern."
+      },
+      {
+        "id": "NN-HOUSEHOLD-BOTINOK-10",
+        "phrase": "Грязь была на обоих ботинках.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. 'Ботинках' is the prepositional plural after 'на', showing location. 'Обоих' agrees in this oblique plural form. A natural way to describe dirty shoes."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-MOTION-BANYA",
+    "label": "Баня",
+    "badge": "MOVE",
+    "description": "A 10-sentence usage card for баня (bathhouse).",
+    "missions": [
+      {
+        "id": "NN-MOTION-BANYA-01",
+        "phrase": "Рядом с домом стоит баня.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Баня' stays in the nominative as the subject of 'стоит'. 'Рядом с домом' marks the location next to the house."
+      },
+      {
+        "id": "NN-MOTION-BANYA-02",
+        "phrase": "В субботу мы топим баню.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Баню' is the accusative direct object of 'топим'. 'В субботу' sets the time for heating the bathhouse."
+      },
+      {
+        "id": "NN-MOTION-BANYA-03",
+        "phrase": "После бани все пьют чай.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Бани' is the genitive form after 'после', marking what the tea follows. A classic Russian bathhouse ritual."
+      },
+      {
+        "id": "NN-MOTION-BANYA-04",
+        "phrase": "Мы идём в баню вечером.",
+        "fullAnalysis": "Strategic focus: Accusative of direction. 'Баню' is accusative after 'в' showing motion into the bathhouse. 'Вечером' gives the time of the visit."
+      },
+      {
+        "id": "NN-MOTION-BANYA-05",
+        "phrase": "В бане очень жарко и хорошо.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'Бане' is the prepositional form after 'в', marking where it is hot. The impersonal 'жарко' describes the inside conditions."
+      },
+      {
+        "id": "NN-MOTION-BANYA-06",
+        "phrase": "Дедушка идёт к бане с веником.",
+        "fullAnalysis": "Strategic focus: Dative after preposition. 'Бане' is dative after 'к', marking the bathhouse as the goal of motion. 'С веником' adds the traditional birch besom."
+      },
+      {
+        "id": "NN-MOTION-BANYA-07",
+        "phrase": "За баней растёт высокая берёза.",
+        "fullAnalysis": "Strategic focus: Instrumental after preposition. 'Баней' is instrumental after 'за', placing the birch tree behind the bathhouse. 'Высокая' agrees with the feminine subject."
+      },
+      {
+        "id": "NN-MOTION-BANYA-08",
+        "phrase": "Наша баня очень тёплая и уютная.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Баня' is the nominative subject. 'Тёплая' and 'уютная' are agreeing feminine adjectives describing it, joined by 'и'."
+      },
+      {
+        "id": "NN-MOTION-BANYA-09",
+        "phrase": "В деревне есть две старые бани.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. 'Бани' takes the genitive singular form after 'две', while 'старые' uses the plural adjective. A typical counting pattern."
+      },
+      {
+        "id": "NN-MOTION-BANYA-10",
+        "phrase": "Мы построили новые бани сами.",
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Бани' is the accusative plural object of 'построили', identical to the nominative for this inanimate noun. 'Новые' agrees in plural."
+      }
+    ]
+  }
+]

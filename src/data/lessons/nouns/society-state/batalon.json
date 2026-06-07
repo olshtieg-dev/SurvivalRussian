@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-STATE-BATALON",
+    "label": "Батальон",
+    "badge": "STATE",
+    "description": "A 10-sentence usage card for батальон (battalion).",
+    "missions": [
+      {
+        "id": "NN-STATE-BATALON-01",
+        "phrase": "Наш батальон стоит у реки.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Батальон' stays in the nominative as the subject of 'стоит'. 'Наш' agrees in masculine, and 'у реки' takes the genitive."
+      },
+      {
+        "id": "NN-STATE-BATALON-02",
+        "phrase": "Командир построил весь батальон.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Батальон' is the accusative object of 'построил'. As an inanimate masculine noun its accusative matches the nominative. 'Весь' agrees."
+      },
+      {
+        "id": "NN-STATE-BATALON-03",
+        "phrase": "В деревне нет целого батальона.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Батальона' takes the genitive after 'нет', expressing that none is present. 'Целого' agrees in the masculine genitive."
+      },
+      {
+        "id": "NN-STATE-BATALON-04",
+        "phrase": "Все говорят об этом батальоне.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'Батальоне' is the prepositional after 'об', naming the topic. 'Этом' agrees in the masculine prepositional."
+      },
+      {
+        "id": "NN-STATE-BATALON-05",
+        "phrase": "Приказ пришёл к нашему батальону.",
+        "fullAnalysis": "Strategic focus: Dative of direction. 'Батальону' is the dative after 'к', the recipient of the order. 'Нашему' agrees in the masculine dative."
+      },
+      {
+        "id": "NN-STATE-BATALON-06",
+        "phrase": "Он командует большим батальоном.",
+        "fullAnalysis": "Strategic focus: Instrumental object. 'Батальоном' is the instrumental governed by 'командует', naming what he commands. 'Большим' agrees in the masculine instrumental."
+      },
+      {
+        "id": "NN-STATE-BATALON-07",
+        "phrase": "Два батальона ушли на запад.",
+        "fullAnalysis": "Strategic focus: Genitive singular after number. After 'два' the noun 'батальона' takes the genitive singular form. 'На запад' marks the direction of motion."
+      },
+      {
+        "id": "NN-STATE-BATALON-08",
+        "phrase": "На параде маршируют целые батальоны.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Батальоны' is the nominative plural, the subject of 'маршируют'. 'Целые' agrees in plural, and 'на параде' locates them."
+      },
+      {
+        "id": "NN-STATE-BATALON-09",
+        "phrase": "Без батальона позиция уязвима.",
+        "fullAnalysis": "Strategic focus: Genitive after preposition. 'Батальона' takes the genitive after 'без', meaning without the battalion. 'Позиция' is the nominative subject."
+      },
+      {
+        "id": "NN-STATE-BATALON-10",
+        "phrase": "Этот батальон очень опытный.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Батальон' is the nominative subject. 'Этот' points to a specific unit, and 'опытный' is the agreeing masculine predicate adjective."
+      }
+    ]
+  }
+]

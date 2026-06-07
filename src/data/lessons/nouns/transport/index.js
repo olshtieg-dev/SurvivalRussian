@@ -1,6 +1,7 @@
 import avtobusSet from './avtobus.json';
 import avtomobilSet from './avtomobil.json';
 import batareyaSet from './batareya.json';
+import gruzovikSet from './gruzovik.json';
 import kabinaSet from './kabina.json';
 import kolesoSet from './koleso.json';
 import korablSet from './korabl.json';
@@ -9,16 +10,19 @@ import mashinaSet from './mashina.json';
 import motorSet from './motor.json';
 import poezdSet from './poezd.json';
 import poezdkaSet from './poezdka.json';
+import polyotSet from './polyot.json';
 import raketaSet from './raketa.json';
 import samolyotSet from './samolyot.json';
 import tankSet from './tank.json';
 import vagonSet from './vagon.json';
+import vertolyotSet from './vertolyot.json';
 
 export const transportNounsFolderId = 'nouns-transport';
 const transportNounsData = [
   ...avtobusSet,
   ...avtomobilSet,
   ...batareyaSet,
+  ...gruzovikSet,
   ...kabinaSet,
   ...kolesoSet,
   ...korablSet,
@@ -27,10 +31,12 @@ const transportNounsData = [
   ...motorSet,
   ...poezdSet,
   ...poezdkaSet,
+  ...polyotSet,
   ...raketaSet,
   ...samolyotSet,
   ...tankSet,
   ...vagonSet,
+  ...vertolyotSet,
 ];
 
 export const transportNounsFolder = {

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-HOUSEHOLD-KHALAT",
+    "label": "Халат",
+    "badge": "HOME",
+    "description": "A 10-sentence usage card for халат (robe).",
+    "missions": [
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-01",
+        "phrase": "Это мой новый халат.",
+        "fullAnalysis": "Strategic focus: Nominative predicate. 'Халат' stays in the nominative as the predicate noun. 'Мой' and 'новый' are the agreeing masculine forms, and 'это' introduces the statement."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-02",
+        "phrase": "Утром я надеваю тёплый халат.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Халат' is the accusative direct object of 'надеваю'. Inanimate masculine nouns keep the nominative ending, and 'тёплый' agrees with it."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-03",
+        "phrase": "У меня нет чистого халата.",
+        "fullAnalysis": "Strategic focus: Genitive of absence. 'Халата' takes the genitive after 'нет'. 'Чистого' is the agreeing masculine genitive adjective, expressing that no clean robe is available."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-04",
+        "phrase": "Карман на халате очень удобный.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'На халате' uses the prepositional form 'халате' after 'на' to show where the pocket is. A natural pattern for describing parts of clothing."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-05",
+        "phrase": "Она ходит по дому в халате.",
+        "fullAnalysis": "Strategic focus: Prepositional with 'в'. 'В халате' uses the prepositional 'халате' to describe what she is wearing. 'По дому' adds the everyday setting of moving around the house."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-06",
+        "phrase": "Я доволен своим новым халатом.",
+        "fullAnalysis": "Strategic focus: Instrumental after 'доволен'. 'Халатом' takes the instrumental because 'доволен' governs that case. 'Своим новым' are the agreeing masculine instrumental forms."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-07",
+        "phrase": "Бабушка подарила мне халат.",
+        "fullAnalysis": "Strategic focus: Accusative gift with dative. 'Халат' is the accusative object of 'подарила', and 'мне' is the dative recipient. A useful frame for giving and receiving."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-08",
+        "phrase": "В шкафу висят два халата.",
+        "fullAnalysis": "Strategic focus: Genitive singular after a numeral. After 'два' the noun takes the genitive singular 'халата'. 'Висят' is the plural verb agreeing with the counted set."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-09",
+        "phrase": "Мне нравятся мягкие халаты.",
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Халаты' is the nominative plural, the things that please. 'Мне' is the dative experiencer, and 'мягкие' agrees in the plural."
+      },
+      {
+        "id": "NN-HOUSEHOLD-KHALAT-10",
+        "phrase": "В магазине много красивых халатов.",
+        "fullAnalysis": "Strategic focus: Genitive plural after 'много'. 'Халатов' takes the genitive plural because 'много' requires it. 'Красивых' is the agreeing genitive plural adjective."
+      }
+    ]
+  }
+]

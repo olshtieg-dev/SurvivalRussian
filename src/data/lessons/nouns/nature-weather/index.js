@@ -26,6 +26,7 @@ import okeanSet from './okean.json';
 import osenSet from './osen.json';
 import ostrovSet from './ostrov.json';
 import pesokSet from './pesok.json';
+import pogodaSet from './pogoda.json';
 import prirodaSet from './priroda.json';
 import pyatnoSet from './pyatno.json';
 import pylSet from './pyl.json';
@@ -37,6 +38,7 @@ import solntseSet from './solntse.json';
 import svetSet from './svet.json';
 import taigaSet from './taiga.json';
 import tkanSet from './tkan.json';
+import tmaSet from './tma.json';
 import travaSet from './trava.json';
 import tsvetokSet from './tsvetok.json';
 import tumanSet from './tuman.json';
@@ -46,8 +48,10 @@ import veterSet from './veter.json';
 import volnaSet from './volna.json';
 import vozdukhSet from './vozdukh.json';
 import zemlyaSet from './zemlya.json';
+import zharSet from './zhar.json';
 import zhelezoSet from './zhelezo.json';
 import zimaSet from './zima.json';
+import zolotoSet from './zoloto.json';
 import zvezdaSet from './zvezda.json';
 
 export const natureWeatherNounsFolderId = 'nouns-nature-weather';
@@ -80,6 +84,7 @@ const natureWeatherNounsData = [
   ...osenSet,
   ...ostrovSet,
   ...pesokSet,
+  ...pogodaSet,
   ...prirodaSet,
   ...pyatnoSet,
   ...pylSet,
@@ -91,6 +96,7 @@ const natureWeatherNounsData = [
   ...svetSet,
   ...taigaSet,
   ...tkanSet,
+  ...tmaSet,
   ...travaSet,
   ...tsvetokSet,
   ...tumanSet,
@@ -100,8 +106,10 @@ const natureWeatherNounsData = [
   ...volnaSet,
   ...vozdukhSet,
   ...zemlyaSet,
+  ...zharSet,
   ...zhelezoSet,
   ...zimaSet,
+  ...zolotoSet,
   ...zvezdaSet,
 ];
 

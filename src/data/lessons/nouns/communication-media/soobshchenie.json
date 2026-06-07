@@ -1,0 +1,60 @@
+[
+  {
+    "id": "NN-COMMS-SOOBSHCHENIE",
+    "label": "Сообщение",
+    "badge": "COMMS",
+    "description": "A 10-sentence usage card for сообщение (message).",
+    "missions": [
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-01",
+        "phrase": "Пришло важное сообщение.",
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Сообщение' stays in the nominative case as the neuter subject that arrived. 'Важное' is the agreeing neuter adjective."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-02",
+        "phrase": "Я получил твоё сообщение.",
+        "fullAnalysis": "Strategic focus: Accusative object. 'Сообщение' is the accusative direct object of 'получил'; neuter nouns match nominative and accusative. 'Твоё' agrees in the neuter."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-03",
+        "phrase": "В этом сообщении есть ошибка.",
+        "fullAnalysis": "Strategic focus: Prepositional location. 'В сообщении' uses the prepositional form 'сообщении' after 'в' to show where the mistake is. 'Этом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-04",
+        "phrase": "Я не понял смысла сообщения.",
+        "fullAnalysis": "Strategic focus: Genitive of possession. 'Сообщения' is the genitive form expressing 'the meaning of the message'. A natural way to link two nouns."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-05",
+        "phrase": "Я добавил фото к сообщению.",
+        "fullAnalysis": "Strategic focus: Dative with preposition. 'Сообщению' is the dative form after 'к' marking what the photo is attached to. A common messaging expression."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-06",
+        "phrase": "Он ответил коротким сообщением.",
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Сообщением' is the instrumental case, the means used to reply. 'Коротким' agrees in the neuter instrumental."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-07",
+        "phrase": "Мы говорим о новом сообщении.",
+        "fullAnalysis": "Strategic focus: Prepositional case. 'О сообщении' uses the prepositional form after 'о' to express talking about the message. 'Новом' agrees in the neuter prepositional."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-08",
+        "phrase": "Утром приходят новые сообщения.",
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Сообщения' is the nominative plural subject that arrive. 'Новые' is the agreeing plural adjective."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-09",
+        "phrase": "У меня нет новых сообщений.",
+        "fullAnalysis": "Strategic focus: Genitive plural. 'Сообщений' is the genitive plural after 'нет' to express absence. 'Новых' agrees in the genitive plural."
+      },
+      {
+        "id": "NN-COMMS-SOOBSHCHENIE-10",
+        "phrase": "Это сообщение слишком длинное.",
+        "fullAnalysis": "Strategic focus: Nominative description. 'Сообщение' is nominative as the subject. 'Длинное' is the agreeing neuter predicate adjective, intensified by 'слишком'. A clean descriptive model."
+      }
+    ]
+  }
+]
