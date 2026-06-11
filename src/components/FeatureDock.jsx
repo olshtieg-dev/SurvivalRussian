@@ -2,7 +2,7 @@
 
 import React, { useEffect, useMemo, useState } from 'react';
 import { FlaskConical, Keyboard, Lock, MessageSquare, X } from 'lucide-react';
-import TypingTutorPanel from './TypingTutorPanel';
+import TypingTutorContainer from './TypingTutorContainer';
 import ChatroomPanel from './ChatroomPanel';
 import AiInputPanel from './AiInputPanel';
 
@@ -168,7 +168,7 @@ export default function FeatureDock() {
 
             {activeFeature.id === 'typing' ? (
               <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar p-6">
-                <TypingTutorPanel />
+                <TypingTutorContainer />
               </div>
             ) : activeFeature.id === 'chat' ? (
               <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar">
