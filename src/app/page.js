@@ -322,7 +322,15 @@ export default function Home() {
 
   useEffect(() => {
     const handleGlobalKeyDown = (e) => {
-      if (e.key === 'Enter' && canAdvanceMission) nextMission();
+      if (!canAdvanceMission) return;
+      if (e.key === 'Enter' || e.key === 'ArrowDown') {
+        // preventDefault stops the keypress from also activating whatever control
+        // button currently holds focus (Random, voice-mode toggle, etc.). Without
+        // this, an Enter after completing a lesson re-fires the focused button and
+        // hijacks the advance — the user sees the lesson "reset" instead of moving on.
+        e.preventDefault();
+        nextMission();
+      }
     };
 
     window.addEventListener('keydown', handleGlobalKeyDown);
