@@ -112493,5 +112493,101 @@
     "analysis": "Collective numeral, 'six (of)'; governs the genitive plural.",
     "synonym": " ",
     "antonym": " "
+  },
+  "бормочешь": {
+    "cyrillic": "бормочешь",
+    "literal": "you mutter",
+    "natural": "You mutter; you mumble.",
+    "analysis": "Verb, 2nd sg. present of 'бормотать' (impf., to mutter, mumble). Describes low, indistinct speech.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ваще": {
+    "cyrillic": "ваще",
+    "literal": "totally",
+    "natural": "Totally; at all (slang for вообще).",
+    "analysis": "Adv., colloquial spoken reduction of 'вообще' (totally, in general). Informal; recognition-band, write 'вообще' in neutral Russian.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "выручил": {
+    "cyrillic": "выручил",
+    "literal": "helped out",
+    "natural": "Helped out; saved the day.",
+    "analysis": "Verb, m. sg. past of 'выручить' (perf., to help out, bail someone out). Impf. partner 'выручать'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "глянуть": {
+    "cyrillic": "глянуть",
+    "literal": "to glance",
+    "natural": "To take a quick look.",
+    "analysis": "Verb, perfective infinitive; colloquial 'to take a quick look', semelfactive cf. neutral 'посмотреть'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "забей": {
+    "cyrillic": "забей",
+    "literal": "forget it",
+    "natural": "Forget it; drop it (slang).",
+    "analysis": "Verb, informal imperative of 'забить', here idiomatic 'forget it, drop it'. Slang; blunt between peers.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "мент": {
+    "cyrillic": "мент",
+    "literal": "cop",
+    "natural": "Cop (slang, derogatory).",
+    "analysis": "M. noun, slang and mildly derogatory for a police officer; neutral word 'полицейский'. Recognition-band.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "нормас": {
+    "cyrillic": "нормас",
+    "literal": "alright",
+    "natural": "Pretty good; decent (slang).",
+    "analysis": "Predicative/adv., playful colloquial extension of 'нормально' (fine, decent). Informal; recognition-band.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прив": {
+    "cyrillic": "прив",
+    "literal": "hi",
+    "natural": "Hi (texting shorthand).",
+    "analysis": "Interjection, chat-speak clip of 'привет' (hi). Texting shorthand; recognition-band, write the full form to be safe.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "спс": {
+    "cyrillic": "спс",
+    "literal": "thanks",
+    "natural": "Thanks (texting shorthand).",
+    "analysis": "Interjection, consonant-skeleton chat form of 'спасибо' (thanks). Texting shorthand; recognition-band.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "тачка": {
+    "cyrillic": "тачка",
+    "literal": "car",
+    "natural": "Car (slang); wheelbarrow.",
+    "analysis": "F. noun; literally 'wheelbarrow', slang for 'car'; neutral word 'машина'. Informal.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "тусили": {
+    "cyrillic": "тусили",
+    "literal": "hung out",
+    "natural": "Hung out; partied (slang).",
+    "analysis": "Verb, pl. past of 'тусить' (impf., to hang out, party); related noun 'тусовка'. Colloquial.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "хату": {
+    "cyrillic": "хату",
+    "literal": "place",
+    "natural": "Place; pad (slang for flat).",
+    "analysis": "F. noun, acc. sg. of 'хата'; slang for one's flat or place; neutral words 'квартира', 'дом'. Informal.",
+    "synonym": " ",
+    "antonym": " "
   }
 }

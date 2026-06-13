@@ -1,0 +1,148 @@
+{
+  "id": "quiz-participles",
+  "chunkId": "participles",
+  "label": "Participles",
+  "description": "A 20-question check on the participles lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Идущие домой дети громко смеются», what is «идущие»?",
+      "options": ["a past passive participle", "a present active participle", "a gerund", "a finite verb"],
+      "answer": 1,
+      "explain": "идущие is the present active participle of идти ('going/who are going'), agreeing with дети."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What does «читающий» mean in «Читающий мальчик сидит у окна»?",
+      "options": ["the boy who is reading", "the boy who was read to", "the boy who will read", "the book that is read"],
+      "answer": 0,
+      "explain": "читающий is the present active participle of читать and means the boy who is reading."
+    },
+    {
+      "id": "Q03",
+      "prompt": "Present active participles like читающий and идущий are built with which suffix?",
+      "options": ["-нн-", "-вш-", "-ущ-/-ющ- (or -ащ-/-ящ-)", "-т-"],
+      "answer": 2,
+      "explain": "The present active participle is built from the present stem plus -щ- (the -ущ/-ющ/-ащ/-ящ types)."
+    },
+    {
+      "id": "Q04",
+      "prompt": "The lessons say «Читающая девочка» can be reworded as which который-clause?",
+      "options": ["девочка, которую читают", "девочка, которая прочитала", "девочка, которая читает", "девочка, которая будет читать"],
+      "answer": 2,
+      "explain": "The lesson unfolds читающая девочка as девочка, которая читает — the girl who is reading."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Автор, написавший роман, дал интервью», «написавший» is what kind of participle?",
+      "options": ["present active", "past active", "present passive", "past passive"],
+      "answer": 1,
+      "explain": "написавший is the past active participle of написать — the one who wrote the novel."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Past active participles from a vowel-final past stem (написал, купил) use which suffix?",
+      "options": ["-вш-", "-ш-", "-ем-", "-нн-"],
+      "answer": 0,
+      "explain": "From the past stem ending in a vowel you drop -л and add -вш-, as in написавший, купивший."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Why is «пришедший» formed with -ш- and not -вш-?",
+      "options": ["because it is feminine", "because its past stem пришёл ends in a consonant", "because it is imperfective", "because it is a passive participle"],
+      "answer": 1,
+      "explain": "The past stem пришёл ends in a consonant, so the suffix is -ш-, giving пришедший."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What does «Сотрудник, ушедший на пенсию, счастлив» mean?",
+      "options": ["The employee going into retirement is happy.", "The employee who retired is happy.", "The employee who will retire is happy.", "The retired employee is being congratulated."],
+      "answer": 1,
+      "explain": "ушедший is the past active participle of уйти; the sentence means the employee who left/retired is happy."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Читаемый текст лежит на столе», «читаемый» is best understood as what?",
+      "options": ["the text that is being read", "the text that someone wrote", "the text that will be read", "the person who reads the text"],
+      "answer": 0,
+      "explain": "читаемый is the present passive participle of читать — the text that is being read."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Present passive participles like читаемый and изучаемый are built with which suffix?",
+      "options": ["-вш-", "-нн-", "-ем-/-им-", "-т-"],
+      "answer": 2,
+      "explain": "Present passive participles use -ем- (1st conjugation) or -им- (2nd conjugation), e.g. читаемый, любимый."
+    },
+    {
+      "id": "Q11",
+      "prompt": "The lessons note that «любимый» (from любить) has largely become which kind of word?",
+      "options": ["a finite verb", "an adverb", "a lexicalized adjective meaning 'favourite/beloved'", "a short-form participle"],
+      "answer": 2,
+      "explain": "любимый has lexicalized into the everyday adjective 'beloved/favourite'."
+    },
+    {
+      "id": "Q12",
+      "prompt": "In «Написанный другом текст был интересным», «написанный» is what kind of participle?",
+      "options": ["present active", "past active", "present passive", "past passive"],
+      "answer": 3,
+      "explain": "написанный is the past passive participle of написать — the text that was written."
+    },
+    {
+      "id": "Q13",
+      "prompt": "The past passive participle «написанный» (from написать) uses which suffix?",
+      "options": ["-нн-", "-щ-", "-им-", "-ш-"],
+      "answer": 0,
+      "explain": "написанный is formed from the stem написа- plus the suffix -нн- and an adjective ending."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Past passive participles «открытый» and «закрытый» take which suffix?",
+      "options": ["-нн-", "-енн-", "-т-", "-вш-"],
+      "answer": 2,
+      "explain": "открытый and закрытый are built from открыть/закрыть with the suffix -т-."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «Письмо было написано вчера вечером», «написано» is which form?",
+      "options": ["the long-form participle", "the short-form (predicative) participle with быть", "a present active participle", "a gerund"],
+      "answer": 1,
+      "explain": "The short form написано joins было to build a past passive: the letter was written."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «Эта книга написана известным писателем», what role does «писателем» play?",
+      "options": ["the object that was written", "the agent (by whom it was written), in the instrumental", "the place it was written", "another participle"],
+      "answer": 1,
+      "explain": "The instrumental писателем names the agent — the writer by whom the book was written."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «Построенная рабочими школа открылась осенью» mean?",
+      "options": ["The school built by the workers opened in autumn.", "The school that builds workers opened in autumn.", "The workers who built the school opened in autumn.", "The school being built will open in autumn."],
+      "answer": 0,
+      "explain": "построенная is the past passive participle of построить; the school built by the workers opened in autumn."
+    },
+    {
+      "id": "Q18",
+      "prompt": "In «Живущий рядом сосед очень добрый», which noun does «живущий» agree with, and in what gender/number/case?",
+      "options": ["сосед — masculine singular nominative", "сосед — feminine singular genitive", "рядом — neuter plural", "добрый — masculine accusative"],
+      "answer": 0,
+      "explain": "живущий is masculine singular nominative, agreeing with сосед — the neighbour who lives nearby."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Дверь открыта, можно входить смело», the short form «открыта» agrees with дверь in what way?",
+      "options": ["only in case", "only in feminine gender (and number)", "in nothing — it is invariable", "as a plural form"],
+      "answer": 1,
+      "explain": "The short predicative form открыта agrees only in feminine gender (and number) with дверь — the door is open."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «Уважаемые коллеги, начнём работу» show about «уважаемые»?",
+      "options": ["it is a finite verb", "it is a past active participle", "it has lexicalized as a fixed polite address ('dear colleagues')", "it is a short-form participle"],
+      "answer": 2,
+      "explain": "уважаемые has lexicalized into the fixed polite address meaning 'dear colleagues'."
+    }
+  ]
+}

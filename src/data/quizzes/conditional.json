@@ -1,0 +1,148 @@
+{
+  "id": "quiz-conditional",
+  "chunkId": "conditional",
+  "label": "Conditional (бы)",
+  "description": "A 20-question check on the conditional/subjunctive (бы) lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In standard conditional sentences, the particle бы always pairs with a verb in which form?",
+      "options": ["The past tense", "The present tense", "The future tense", "The imperative"],
+      "answer": 0,
+      "explain": "The lessons hammer that бы always combines with a past-tense verb form, as in «Если бы я знал, я бы тебе сказал»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What is бы grammatically?",
+      "options": ["A past-tense ending", "A mood particle (not a tense)", "A future-tense auxiliary", "A case marker"],
+      "answer": 1,
+      "explain": "The lessons state бы is a mood particle, not a tense, so the past verbs it joins signal irrealis rather than past time."
+    },
+    {
+      "id": "Q03",
+      "prompt": "«Если бы я знал, я бы тебе сказал.» What does this sentence express?",
+      "options": ["A polite request to be told something", "A plan for the future", "An unreal (counterfactual) situation: he did not know, so nothing was said", "A completed action in the past"],
+      "answer": 2,
+      "explain": "It is a full unreal conditional; both clauses use a past form with бы, marking the whole situation as counterfactual."
+    },
+    {
+      "id": "Q04",
+      "prompt": "«Если бы было время, мы бы погуляли.» Why are было and погуляли in the past form?",
+      "options": ["Because the walk actually happened yesterday", "Because бы always combines with a past-tense verb form, even when the meaning is timeless", "Because было is a noun here", "Because the sentence describes a habit"],
+      "answer": 1,
+      "explain": "The walk did not happen; the past forms are required by бы even though the meaning is timeless."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Choose the correct unreal conditional: «Если бы ты позвонил, я бы ___.»",
+      "options": ["приду", "приходи", "прийти", "пришла"],
+      "answer": 3,
+      "explain": "The result clause needs a past form with бы; «Если бы ты позвонил, я бы пришла» pairs two past verbs."
+    },
+    {
+      "id": "Q06",
+      "prompt": "«Я бы с радостью поехал с вами.» What kind of statement is this?",
+      "options": ["A statement that the speaker went with them", "A standalone 'would' statement (would gladly go) with no spoken if-clause", "A direct command to go", "A question about a past trip"],
+      "answer": 1,
+      "explain": "бы plus past поехал means 'would go'; it is a result clause with the if-clause left unspoken."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Было бы здорово увидеть тебя», what does было бы mean?",
+      "options": ["It was definitely", "It will be", "It would be (impersonal 'would be')", "Let it be"],
+      "answer": 2,
+      "explain": "Было is the neuter past of быть and бы makes it hypothetical, so было бы means 'it would be'."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which frame is the polite-request 'Could you...?' construction?",
+      "options": ["«Если бы она была здесь...»", "«Было бы скучно.»", "«Не могли бы вы открыть окно?»", "«Лучше бы я промолчал.»"],
+      "answer": 2,
+      "explain": "Не могли бы вы + infinitive is the core polite request; the past могли with бы turns a command into a courteous question."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Не могли бы вы повторить вопрос?», what does the conditional мood add?",
+      "options": ["Past time — it happened earlier", "Certainty — it is a firm command", "Doubt about whether the person exists", "Politeness — it softens a demand into a courteous question"],
+      "answer": 3,
+      "explain": "The lessons note бы here pairs with the past могли to build the conditional mood and make the request sound polite."
+    },
+    {
+      "id": "Q10",
+      "prompt": "A male speaker says «Я хотел бы заказать чашку кофе.» A female speaker would say:",
+      "options": ["Я хотел бы заказать чашку кофе.", "Я хотела бы заказать чашку кофе.", "Я хочу бы заказать чашку кофе.", "Я буду бы заказать чашку кофе."],
+      "answer": 1,
+      "explain": "бы pairs with a past form that agrees in gender, so a female speaker uses хотела, as in «Я хотела бы задать один вопрос»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "«Я хотел бы немного отдохнуть» is softer than which blunt alternative?",
+      "options": ["«Я хотел бы отдыхать»", "«Я хочу отдохнуть» (flat present)", "«Отдохнул бы я»", "«Если бы я отдохнул»"],
+      "answer": 1,
+      "explain": "The lessons contrast the polite past хотел + бы with the flat present 'я хочу отдохнуть'."
+    },
+    {
+      "id": "Q12",
+      "prompt": "«Мне хотелось бы услышать ваше мнение.» What is special about this impersonal frame?",
+      "options": ["хотелось is a future-tense form", "It is a direct order to give an opinion", "The experiencer is in the dative (мне) and хотелось stays neuter — the wish feels gently felt rather than willed", "мне is the grammatical subject in the nominative"],
+      "answer": 2,
+      "explain": "The dative мне marks the experiencer while the neuter impersonal хотелось carries бы, softening the wish."
+    },
+    {
+      "id": "Q13",
+      "prompt": "«Скорее бы наступило лето.» Even though it is about the future, why is наступило past?",
+      "options": ["Because summer already came", "Because наступило is present tense", "Because Скорее requires the past", "Because бы always pairs with a past-tense verb, regardless of meaning"],
+      "answer": 3,
+      "explain": "The lessons stress that even about the future, бы pairs with a past form — here наступило — to voice an impatient wish."
+    },
+    {
+      "id": "Q14",
+      "prompt": "«Лучше бы мы остались дома.» What does this express?",
+      "options": ["A firm decision to stay home tonight", "A preference with mild regret — staying home would have been better", "A polite request to be allowed to leave", "A simple statement that they stayed home"],
+      "answer": 1,
+      "explain": "бы pairs with past остались to wish things had gone otherwise; Лучше marks staying home as the preferable choice."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Which sentence is advice meaning 'if I were you, I would...'?",
+      "options": ["«Не могли бы вы помочь мне?»", "«Было бы неплохо отдохнуть.»", "«На твоём месте я бы согласился сразу.»", "«Скорее бы он вернулся домой.»"],
+      "answer": 2,
+      "explain": "На твоём месте я бы + past is the core advice frame: the speaker imagines standing in the listener's position."
+    },
+    {
+      "id": "Q16",
+      "prompt": "«Тебе бы отдохнуть пару дней.» Unlike most бы-frames, what verb form does this dative advice frame use?",
+      "options": ["The past tense (отдохнул)", "The imperative (отдохни)", "The present tense (отдыхаешь)", "The infinitive (отдохнуть)"],
+      "answer": 3,
+      "explain": "In this dative-experiencer impersonal frame, бы joins the infinitive (тебе бы + inf), not a past form — meaning 'you ought to rest'."
+    },
+    {
+      "id": "Q17",
+      "prompt": "«Ты бы позвонил маме вечером.» What does this frame express?",
+      "options": ["A strict command to call now", "A soft suggestion / nudge ('you might want to call')", "A statement that he called mom", "A question asking whether he called"],
+      "answer": 1,
+      "explain": "Ты бы + past позвонил proposes the call lightly as a gentle nudge rather than an order."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Fill in the advice frame: «На вашем месте я бы ___ договор.» (rereading the contract)",
+      "options": ["перечитаю", "перечитать", "перечитал", "перечитай"],
+      "answer": 2,
+      "explain": "The на месте frame uses a past form with бы; «На вашем месте я бы перечитал договор» supplies the past перечитал."
+    },
+    {
+      "id": "Q19",
+      "prompt": "Which sentence is a polite request, NOT a hypothetical or advice?",
+      "options": ["«Если бы они приехали, мы бы их встретили.»", "«На твоём месте я бы взяла отпуск.»", "«Ты бы сходил к врачу наконец.»", "«Не могли бы вы передать соль?»"],
+      "answer": 3,
+      "explain": "Не могли бы вы + infinitive is a polite request; the others are an unreal conditional and two pieces of advice."
+    },
+    {
+      "id": "Q20",
+      "prompt": "«Если бы ты меня слушал, ты бы понял.» What does this counterfactual imply about reality?",
+      "options": ["He listened and therefore understood", "The listening did not happen, so the understanding did not either", "He will listen and then understand", "He is being ordered to listen"],
+      "answer": 1,
+      "explain": "It is a reproach as unreal conditional: слушал and понял are both past + бы, so neither event actually happened."
+    }
+  ]
+}

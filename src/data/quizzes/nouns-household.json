@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-household",
+  "chunkId": "nouns-household",
+  "label": "Nouns — Household",
+  "description": "A 20-question check on household nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «ключ» mean?",
+      "options": ["door", "key", "knife", "box"],
+      "answer": 1,
+      "explain": "«Это мой ключ от машины» means 'This is my car key', so ключ is 'key'."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say 'door' in Russian?",
+      "options": ["дверь", "лампа", "кровать", "коробка"],
+      "answer": 0,
+      "explain": "Дверь is 'door', as in «Я тихо открыл входную дверь»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "What does «нож» mean?",
+      "options": ["sofa", "ring", "knife", "lamp"],
+      "answer": 2,
+      "explain": "«Этот нож очень острый» means 'This knife is very sharp', so нож is 'knife'."
+    },
+    {
+      "id": "Q04",
+      "prompt": "How would you say 'lamp' in Russian?",
+      "options": ["диван", "лампа", "кольцо", "нож"],
+      "answer": 1,
+      "explain": "Лампа is 'lamp', as in «На столе горит маленькая лампа»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What does «диван» mean?",
+      "options": ["box", "bed", "sofa", "key"],
+      "answer": 2,
+      "explain": "«В гостиной стоит большой диван» means 'There is a big sofa in the living room', so диван is 'sofa'."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What does «кольцо» mean?",
+      "options": ["ring", "box", "door", "lamp"],
+      "answer": 0,
+      "explain": "«Это золотое кольцо очень красивое» means 'This gold ring is very beautiful', so кольцо is 'ring'."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Я потерял ключ от двери», what case is «двери»?",
+      "options": ["nominative", "accusative", "genitive", "instrumental"],
+      "answer": 2,
+      "explain": "After the preposition «от», «двери» is genitive, marking the source the key belongs to."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «За дверью кто-то тихо стоял», what case is «дверью»?",
+      "options": ["genitive", "dative", "prepositional", "instrumental"],
+      "answer": 3,
+      "explain": "The distinctive «-ью» ending after «за» marks «дверью» as instrumental, meaning 'behind the door'."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Он открыл дверь ключом», what case is «ключом»?",
+      "options": ["instrumental", "accusative", "genitive", "dative"],
+      "answer": 0,
+      "explain": "«Ключом» is instrumental, naming the tool used to open the door."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Я весь день сижу на диване», what case is «диване»?",
+      "options": ["nominative", "prepositional", "dative", "genitive"],
+      "answer": 1,
+      "explain": "After «на» marking location, «диване» is prepositional, the standard way to say where you are sitting."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What is the genitive singular of «нож» (as in «На столе нет ___»)?",
+      "options": ["ножом", "ноже", "ножа", "ножу"],
+      "answer": 2,
+      "explain": "«На столе нет ножа» uses the genitive «ножа», required after «нет» to signal the knife is missing."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the instrumental singular of «лампа» (as in «Я освещаю стол ___»)?",
+      "options": ["лампе", "лампы", "лампу", "лампой"],
+      "answer": 3,
+      "explain": "«Лампой» is the instrumental, the means of lighting, as in «Я освещаю рабочий стол лампой»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What is the dative singular of «диван» (as in «Подойди к ___»)?",
+      "options": ["дивану", "дивана", "диваном", "диване"],
+      "answer": 0,
+      "explain": "After «к» showing motion toward, the dative is «дивану», as in «Подойди к дивану и сядь»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What gender is the noun «дверь»?",
+      "options": ["masculine", "feminine", "neuter", "plural-only"],
+      "answer": 1,
+      "explain": "«Дверь» is a feminine 3rd-declension noun; the adjective agrees as feminine in «Входная дверь снова громко скрипит»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What gender is the noun «ключ»?",
+      "options": ["feminine", "neuter", "masculine", "plural-only"],
+      "answer": 2,
+      "explain": "«Ключ» is masculine; «мой» agrees with it in «Это мой ключ от машины»."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What gender is the noun «кольцо»?",
+      "options": ["neuter", "masculine", "feminine", "plural-only"],
+      "answer": 0,
+      "explain": "«Кольцо» is neuter; the adjectives take neuter endings in «Это золотое кольцо очень красивое»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What is the nominative plural of «ключ» (as in «Вот мои ___ от дома»)?",
+      "options": ["ключа", "ключи", "ключей", "ключом"],
+      "answer": 1,
+      "explain": "The nominative plural is «ключи», as in «Вот мои ключи от дома»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the genitive plural of «коробка» (as in «Сколько ___ нам ещё нужно?»)?",
+      "options": ["коробки", "коробкой", "коробок", "коробке"],
+      "answer": 2,
+      "explain": "The genitive plural «коробок» has a fleeting vowel and is required after «сколько»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "«Серый кот спит под кроватью.» What is happening?",
+      "options": ["A grey cat is sleeping under the bed.", "A grey cat is sitting on the bed.", "A grey cat is jumping over the bed.", "A grey cat is hiding behind the door."],
+      "answer": 0,
+      "explain": "«Под кроватью» (instrumental) means 'under the bed', so the grey cat is sleeping under the bed."
+    },
+    {
+      "id": "Q20",
+      "prompt": "«Я положил подарок в коробку.» What is happening?",
+      "options": ["I took a gift out of the box.", "I put a gift into the box.", "A gift is lying on the box.", "I gave a gift to the box."],
+      "answer": 1,
+      "explain": "«В коробку» (accusative of direction after «в») marks motion into the box, so the gift is being put inside."
+    }
+  ]
+}

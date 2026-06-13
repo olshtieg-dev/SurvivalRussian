@@ -1,0 +1,198 @@
+{
+  "id": "quiz-motion-verbs",
+  "chunkId": "motion-verbs",
+  "label": "Motion Verbs",
+  "description": "A 20-question check on the motion-verb pair lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "Which verb correctly fills the gap: «Сейчас я ___ в школу» (one trip, happening right now, on foot)?",
+      "options": ["иду", "хожу", "еду", "бегаю"],
+      "answer": 0,
+      "explain": "Сейчас marks one trip in one direction now, so the determinate идти (иду) is required, as in «Сейчас я иду в школу.»"
+    },
+    {
+      "id": "Q02",
+      "prompt": "Which verb fits: «Каждый день я ___ в школу» (a daily habit on foot)?",
+      "options": ["иду", "хожу", "шёл", "бегу"],
+      "answer": 1,
+      "explain": "Каждый день signals a repeated habit, which selects the indeterminate ходить (хожу): «Каждый день я хожу в школу.»"
+    },
+    {
+      "id": "Q03",
+      "prompt": "What does «Вчера мы ходили в кино.» imply?",
+      "options": [
+        "We were walking toward the cinema and never arrived.",
+        "We go to the cinema every day.",
+        "We went to the cinema and came back — a completed round trip.",
+        "We will go to the cinema tomorrow."
+      ],
+      "answer": 2,
+      "explain": "Past indeterminate ходили describes a finished there-and-back trip: we went and returned."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Сейчас я еду на работу.», what is the speaker doing?",
+      "options": [
+        "Commuting habitually every morning.",
+        "Making one trip to work right now, by vehicle.",
+        "Walking to work on foot.",
+        "Describing the ability to drive."
+      ],
+      "answer": 1,
+      "explain": "Determinate еду (ехать) with сейчас names one ride in one direction happening now."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Which verb fits: «Каждое утро я ___ на метро» (a daily commute by vehicle)?",
+      "options": ["езжу", "еду", "иду", "лечу"],
+      "answer": 0,
+      "explain": "Каждое утро marks a habitual ride, selecting the indeterminate ездить (езжу): «Каждое утро я езжу на метро.»"
+    },
+    {
+      "id": "Q06",
+      "prompt": "Идти/ходить versus ехать/ездить: what is the core difference between the two pairs?",
+      "options": [
+        "Past versus present tense.",
+        "Singular versus plural subject.",
+        "On foot versus by vehicle.",
+        "Question versus statement."
+      ],
+      "answer": 2,
+      "explain": "Идти/ходить is movement on foot, while ехать/ездить is movement by vehicle."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Летом мы ездили на море.» describe?",
+      "options": [
+        "A single ride to the sea still in progress.",
+        "A completed round trip to the sea and back.",
+        "A habit of driving to work daily.",
+        "An ability to drive to the sea."
+      ],
+      "answer": 1,
+      "explain": "Past indeterminate ездили expresses a finished journey to the sea and back."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which verb fits: «Смотри, он ___ к автобусу» (running toward the bus right now)?",
+      "options": ["бежит", "бегает", "ходит", "ездит"],
+      "answer": 0,
+      "explain": "One run in one direction in progress takes the determinate бежать (бежит): «Смотри, он бежит к автобусу.»"
+    },
+    {
+      "id": "Q09",
+      "prompt": "Which verb fits: «Каждое утро я ___ в парке» (a daily jog)?",
+      "options": ["бегу", "бежишь", "бегаю", "иду"],
+      "answer": 2,
+      "explain": "Каждое утро marks a habitual, multi-directional jog, selecting the indeterminate бегать (бегаю)."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Why is «бегает» used in «Моя дочь хорошо бегает и плавает.»?",
+      "options": [
+        "It describes one run happening right now.",
+        "It describes a general ability or skill, not a single trip.",
+        "It marks a completed round trip.",
+        "It is a future-tense form."
+      ],
+      "answer": 1,
+      "explain": "Describing a general ability rather than one trip requires the indeterminate бегать (бегает)."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Which verb fits: «Сейчас я ___ в Москву» (one flight in progress now)?",
+      "options": ["еду", "хожу", "лечу", "летаю"],
+      "answer": 2,
+      "explain": "Сейчас fixes one flight in one direction, so the determinate лететь (лечу) is used: «Сейчас я лечу в Москву.»"
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which verb fits: «Каждый месяц я ___ в Берлин» (regular, recurring flights)?",
+      "options": ["лечу", "летишь", "летаю", "иду"],
+      "answer": 2,
+      "explain": "Каждый месяц signals habitual round-trip flights, selecting the indeterminate летать (летаю)."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «Летом мы летали в Турцию.» mean?",
+      "options": [
+        "We flew to Turkey and back — a completed round trip.",
+        "We are flying to Turkey right now.",
+        "We fly to Turkey every summer as a job.",
+        "We will fly to Turkey next summer."
+      ],
+      "answer": 0,
+      "explain": "Past indeterminate летали expresses a finished flight to Turkey and back."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Она всегда носит очки.», what does «носит» mean here?",
+      "options": [
+        "She is carrying glasses somewhere right now.",
+        "She carried glasses there and back.",
+        "She wears glasses — a constant habit.",
+        "She is able to carry glasses."
+      ],
+      "answer": 2,
+      "explain": "Носить also means 'to wear'; with всегда it describes a constant habit of wearing glasses."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Which verb fits: «Сейчас я ___ ребёнка на руках» (carrying the child right now, one direction)?",
+      "options": ["несу", "ношу", "вожу", "бегаю"],
+      "answer": 0,
+      "explain": "Сейчас pins one carrying act to this moment in one direction, selecting the determinate нести (несу)."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What does «водит» mean in «Мой брат хорошо водит машину.»?",
+      "options": [
+        "He is leading someone to a car right now.",
+        "He knows how to drive a car — a general skill.",
+        "He drove the car there and back yesterday.",
+        "He is walking toward the car."
+      ],
+      "answer": 1,
+      "explain": "The idiom водить машину means 'to drive a car'; here the indeterminate водит states a general skill, not one trip."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Which verb fits: «Сейчас я ___ собаку гулять» (taking the dog out right now, one outing)?",
+      "options": ["ношу", "езжу", "вожу", "веду"],
+      "answer": 3,
+      "explain": "Сейчас pins the leading to this moment and one outing, selecting the determinate вести (веду)."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Which verb fits: «Я обычно ___ собаку в парк» (a repeated, regular habit)?",
+      "options": ["веду", "вожу", "несу", "бегу"],
+      "answer": 1,
+      "explain": "Обычно marks a repeated round-trip habit, selecting the indeterminate водить (вожу)."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Я плыву к тому берегу.», what is happening?",
+      "options": [
+        "Swimming around generally as a pastime.",
+        "Describing the ability to swim.",
+        "One directed swim toward one goal, in progress.",
+        "A completed round trip across the river."
+      ],
+      "answer": 2,
+      "explain": "Determinate плыву (плыть) with the goal к берегу names one directed swim in progress."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Why is «плавать» used in «Моя сестра умеет хорошо плавать.»?",
+      "options": [
+        "It marks one swim toward a single goal right now.",
+        "It is a completed past round trip.",
+        "It indicates swimming against the current.",
+        "It expresses a general ability, which always takes the indeterminate."
+      ],
+      "answer": 3,
+      "explain": "Ability with no single direction selects the indeterminate плавать, used here as the infinitive after умеет."
+    }
+  ]
+}

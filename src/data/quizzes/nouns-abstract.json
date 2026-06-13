@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-abstract",
+  "chunkId": "nouns-abstract",
+  "label": "Nouns — Abstract",
+  "description": "A 20-question check on abstract nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Это очень хорошая идея.», what does «идея» mean?",
+      "options": ["plan", "idea", "answer", "opinion"],
+      "answer": 1,
+      "explain": "«Идея» is the feminine noun for idea, here praised as «очень хорошая»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say 'meaning of life' in Russian?",
+      "options": ["смысл жизни", "образ жизни", "цель жизни", "история жизни"],
+      "answer": 0,
+      "explain": "«Смысл жизни» is the set phrase 'meaning of life', as in «Он всю жизнь ищет смысл жизни»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "What gender is the noun «время» in «Время идёт очень быстро.»?",
+      "options": ["masculine", "feminine", "neuter", "it has no gender"],
+      "answer": 2,
+      "explain": "«Время» is a neuter -мя noun; the agreeing adjective is neuter, e.g. «свободное время»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «У меня совсем нет времени.», which case is «времени»?",
+      "options": ["nominative", "dative", "instrumental", "genitive"],
+      "answer": 3,
+      "explain": "«Нет» forces the genitive, and «время» takes the -ен- oblique stem to give «времени»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "The noun «жизнь» is feminine. What clue in its dictionary form signals this declension type?",
+      "options": ["it ends in -а", "it ends in a soft sign -ь", "it ends in -о", "it ends in -ие"],
+      "answer": 1,
+      "explain": "«Жизнь» is a 3rd-declension feminine noun ending in a soft sign, like «мысль» and «любовь»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Which form correctly completes «Каждый человек ищет смысл ___.» for 'the meaning of life'?",
+      "options": ["жизнь", "жизни", "жизнью", "жизней"],
+      "answer": 1,
+      "explain": "The genitive of relation gives «жизни», as in «смысл жизни» (the meaning of life)."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Это твой главный долг.» mean?",
+      "options": ["This is your main goal.", "This is your main idea.", "This is your main duty.", "This is your main fault."],
+      "answer": 2,
+      "explain": "«Долг» is the masculine noun for duty, framed here as «твой главный долг»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «Я очень ценю её любовь.», which case is «любовь»?",
+      "options": ["nominative", "accusative", "genitive", "instrumental"],
+      "answer": 1,
+      "explain": "«Любовь» is the direct object of «ценю»; for this 3rd-declension noun the accusative equals the nominative."
+    },
+    {
+      "id": "Q09",
+      "prompt": "How do you say 'I always tell the truth' — choose the correct object form: «Я всегда говорю ___.»",
+      "options": ["правда", "правды", "правде", "правду"],
+      "answer": 3,
+      "explain": "«Говорить» takes the accusative «правду», as in «он говорит правду»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Which sentence uses «правда» NOT as a noun but as a conversational tag meaning 'right?'",
+      "options": ["Это чистая правда.", "Сегодня очень холодно, правда?", "Я сказал ей всю правду.", "В его словах нет правды."],
+      "answer": 1,
+      "explain": "In «Сегодня очень холодно, правда?» the sentence-final «правда» works as 'right?', inviting agreement."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What does «Это очень важный вопрос.» mean?",
+      "options": ["This is a very important question.", "This is a very interesting answer.", "This is a very difficult duty.", "This is a very useful idea."],
+      "answer": 0,
+      "explain": "«Вопрос» is the masculine noun for question; «важный» agrees as masculine nominative."
+    },
+    {
+      "id": "Q12",
+      "prompt": "In «У меня к тебе много вопросов.», why is «вопросов» genitive plural?",
+      "options": ["because of the preposition «к»", "because «много» governs the genitive", "because it is the subject", "because of the preposition «у»"],
+      "answer": 1,
+      "explain": "The quantifier «много» requires the genitive plural «вопросов»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "How would you say 'answer' (the masculine noun) in Russian?",
+      "options": ["вопрос", "совет", "ответ", "повод"],
+      "answer": 2,
+      "explain": "«Ответ» means answer or reply, as in «Вот мой окончательный ответ»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Which form completes «Я давно жду твоего ___.» ('I have long awaited your answer')?",
+      "options": ["ответ", "ответу", "ответа", "ответом"],
+      "answer": 2,
+      "explain": "«Ждать» governs the genitive «ответа», a fixed everyday collocation."
+    },
+    {
+      "id": "Q15",
+      "prompt": "The noun «мнение» (opinion) takes neuter agreement. Which adjective form is correct?",
+      "options": ["личный мнение", "личная мнение", "личное мнение", "личные мнение"],
+      "answer": 2,
+      "explain": "«Мнение» is a neuter -ие noun, so it takes the neuter «личное», as in «моё личное мнение»."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What does «дружба» mean?",
+      "options": ["love", "truth", "thought", "friendship"],
+      "answer": 3,
+      "explain": "«Дружба» is the feminine noun for friendship, as in «Наша дружба очень крепкая»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "In «У меня нет ясной мысли.», which case is «мысли»?",
+      "options": ["genitive", "nominative plural", "dative", "instrumental"],
+      "answer": 0,
+      "explain": "«Нет» requires the genitive, so «мысль» becomes «мысли» (gen, dat and prep share this form)."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the irregular nominative plural of «время», seen in «Эти тяжёлые ___ наконец прошли.»?",
+      "options": ["времени", "времён", "временем", "времена"],
+      "answer": 3,
+      "explain": "«Времена» is the irregular nominative plural with end stress, e.g. «тяжёлые времена»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Несмотря ни на что, жизнь продолжается.», what does «жизнь» mean?",
+      "options": ["death", "fate", "luck", "life"],
+      "answer": 3,
+      "explain": "«Жизнь» is the feminine noun for life; here it is the subject of «продолжается»."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Без любви жизнь пуста.», why does «любовь» become «любви»?",
+      "options": ["it is nominative", "the preposition «без» takes the genitive, dropping the fleeting о", "it is the accusative object", "it is the instrumental form"],
+      "answer": 1,
+      "explain": "«Без» governs the genitive «любви», where the fleeting vowel о drops (любовь → любви)."
+    }
+  ]
+}

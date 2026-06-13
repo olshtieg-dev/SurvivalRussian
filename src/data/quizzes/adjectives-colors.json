@@ -1,0 +1,248 @@
+{
+  "id": "quiz-adjectives-colors",
+  "chunkId": "adjectives-colors",
+  "label": "Colors",
+  "description": "A 20-question check on color adjectives.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What color is «красный» in «На столе лежит красный карандаш»?",
+      "options": [
+        "red",
+        "green",
+        "yellow",
+        "grey"
+      ],
+      "answer": 0,
+      "explain": "Красный means 'red'; the sentence says a red pencil is lying on the table."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What does «зелёный» mean?",
+      "options": [
+        "blue",
+        "golden",
+        "green",
+        "red"
+      ],
+      "answer": 2,
+      "explain": "Зелёный means 'green', as in «На столе лежит зелёный карандаш» (a green pencil)."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'blue' in the sky-blue / light-blue sense in Russian?",
+      "options": [
+        "синий",
+        "голубой",
+        "серый",
+        "золотой"
+      ],
+      "answer": 1,
+      "explain": "Голубой is light/sky-blue, as in «Сегодня небо совсем голубое»; синий is the darker blue."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Над городом синее небо», what shade does «синий» name?",
+      "options": [
+        "pale sky-blue",
+        "dark blue",
+        "green",
+        "golden"
+      ],
+      "answer": 1,
+      "explain": "Синий is dark blue, distinct from the lighter голубой; here it describes the deep blue sky over the city."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Which form correctly completes «Красная ___ находится в Москве» (the famous square)?",
+      "options": [
+        "красный",
+        "красное",
+        "красная",
+        "красные"
+      ],
+      "answer": 2,
+      "explain": "Площадь is feminine, so the color takes the feminine ending: «Красная площадь»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What does «У неё красное платье» say in English?",
+      "options": [
+        "She has a red dress.",
+        "She has a green bag.",
+        "She bought a red car.",
+        "She put on a red hat."
+      ],
+      "answer": 0,
+      "explain": "Красное платье is the neuter form agreeing with платье (dress): 'she has a red dress'."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Pick the correct color form for «В саду растут ___ розы» (roses are plural).",
+      "options": [
+        "красная",
+        "красное",
+        "красный",
+        "красные"
+      ],
+      "answer": 3,
+      "explain": "Розы is plural, so the color takes the plural ending: «красные розы»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "How would you say 'yellow' in Russian?",
+      "options": [
+        "серый",
+        "жёлтый",
+        "зелёный",
+        "голубой"
+      ],
+      "answer": 1,
+      "explain": "Жёлтый means 'yellow', as in «На небе светит жёлтый месяц»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «Осенью падают жёлтые листья» mean?",
+      "options": [
+        "In autumn yellow leaves fall.",
+        "In spring green leaves appear.",
+        "In winter grey clouds drift.",
+        "In summer blue flowers bloom."
+      ],
+      "answer": 0,
+      "explain": "Жёлтые листья is 'yellow leaves'; the sentence describes them falling in autumn (осенью)."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Which form completes «На дереве висит ___ яблоко» (apple is neuter, yellow)?",
+      "options": [
+        "жёлтая",
+        "жёлтое",
+        "жёлтый",
+        "жёлтые"
+      ],
+      "answer": 1,
+      "explain": "Яблоко is neuter, so the color takes the neuter ending: «жёлтое яблоко»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What color is «серый» in «По двору ходит серый кот»?",
+      "options": [
+        "golden",
+        "blue",
+        "grey",
+        "red"
+      ],
+      "answer": 2,
+      "explain": "Серый means 'grey'; the sentence describes a grey cat walking through the courtyard."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What does «За окном плывут серые облака» say in English?",
+      "options": [
+        "Grey clouds drift past the window.",
+        "Green leaves appear in spring.",
+        "A grey cat walks through the yard.",
+        "Yellow tulips grow in the bed."
+      ],
+      "answer": 0,
+      "explain": "Серые облака means 'grey clouds'; they are drifting (плывут) past the window."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «золотой» mean?",
+      "options": [
+        "grey",
+        "golden",
+        "green",
+        "dark blue"
+      ],
+      "answer": 1,
+      "explain": "Золотой means 'golden' (and 'gold' as a material), as in «На пальце блестит золотой перстень»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Which form completes «Спортсмен завоевал ___ медаль» (medal is feminine accusative, golden)?",
+      "options": [
+        "золотой",
+        "золотое",
+        "золотые",
+        "золотую"
+      ],
+      "answer": 3,
+      "explain": "Медаль is feminine and is the direct object, so the color takes the feminine accusative ending: «золотую медаль»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «У него голубой шарф» and «Я купил синий костюм», which statement about голубой and синий is correct?",
+      "options": [
+        "Голубой is light/sky-blue and синий is dark blue.",
+        "Голубой is dark blue and синий is light blue.",
+        "Both mean exactly the same shade.",
+        "Голубой means green and синий means grey."
+      ],
+      "answer": 0,
+      "explain": "Russian splits blue into two basic colors: голубой (light/sky-blue) and синий (dark blue)."
+    },
+    {
+      "id": "Q16",
+      "prompt": "How would you say 'a green bag' (she has one), as in the lesson «У неё ___ сумка»?",
+      "options": [
+        "зелёное сумка",
+        "зелёный сумка",
+        "зелёная сумка",
+        "зелёные сумка"
+      ],
+      "answer": 2,
+      "explain": "Сумка is feminine, so 'green' agrees as «зелёная сумка»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Which color form is correct in «На небе ___ туча» (storm cloud is feminine, grey)?",
+      "options": [
+        "серый",
+        "серая",
+        "серое",
+        "серые"
+      ],
+      "answer": 1,
+      "explain": "Туча is feminine, so the color takes the feminine ending: «серая туча»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «Я люблю голубые глаза» mean?",
+      "options": [
+        "I love blue eyes.",
+        "I love green flowers.",
+        "I love a golden ring.",
+        "I love a grey suit."
+      ],
+      "answer": 0,
+      "explain": "Голубые глаза means 'light-blue eyes'; голубой is the typical color word for eyes here."
+    },
+    {
+      "id": "Q19",
+      "prompt": "Which form completes «На столе лежит ___ кольцо» (ring is neuter, golden)?",
+      "options": [
+        "золотая",
+        "золотой",
+        "золотые",
+        "золотое"
+      ],
+      "answer": 3,
+      "explain": "Кольцо is neuter, so 'golden' agrees as «золотое кольцо», a familiar collocation."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «Это зелёное яблоко очень кислое» say in English?",
+      "options": [
+        "This grey building is very old.",
+        "This green apple is very sour.",
+        "This red dress is very pretty.",
+        "This yellow apple is very sweet."
+      ],
+      "answer": 1,
+      "explain": "Зелёное яблоко is 'green apple' (neuter agreement with яблоко); кислое means 'sour'."
+    }
+  ]
+}

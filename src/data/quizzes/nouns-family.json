@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-family",
+  "chunkId": "nouns-family",
+  "label": "Nouns — Family",
+  "description": "A 20-question check on family nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «семья» mean?",
+      "options": ["family", "wife", "sister", "child"],
+      "answer": 0,
+      "explain": "«Моя семья живёт в Москве» means 'My family lives in Moscow', so семья is 'family'."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say 'brother' in Russian?",
+      "options": ["сестра", "брат", "сын", "отец"],
+      "answer": 1,
+      "explain": "Брат is 'brother', as in «Мой старший брат живёт в Москве»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "What case is «матерью» in «Я горжусь своей матерью»?",
+      "options": ["genitive", "dative", "instrumental", "prepositional"],
+      "answer": 2,
+      "explain": "The verb «горжусь» (I am proud of) takes the instrumental, so «матерью» is instrumental."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What is the genitive singular of «брат»?",
+      "options": ["брату", "братом", "брата", "братья"],
+      "answer": 2,
+      "explain": "«У моего брата есть машина» uses the genitive «брата» after «у»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What does «дочь» mean?",
+      "options": ["granddaughter", "daughter", "aunt", "wife"],
+      "answer": 1,
+      "explain": "«Моя дочь учится в школе» means 'My daughter studies at school'."
+    },
+    {
+      "id": "Q06",
+      "prompt": "How would you say 'I love my mom' in Russian?",
+      "options": ["Я очень люблю свою маму.", "Я очень люблю своя мама.", "Я очень люблю своей маме.", "Я очень люблю своей мамой."],
+      "answer": 0,
+      "explain": "«Люблю» takes a direct object, so the accusative «свою маму» is correct."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What case is «отцу» in «Я подарил отцу новые часы»?",
+      "options": ["accusative", "dative", "genitive", "instrumental"],
+      "answer": 1,
+      "explain": "«Отцу» is the dative recipient of the gift in «Я подарил отцу новые часы»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What is the nominative plural of «брат»?",
+      "options": ["браты", "братьев", "братья", "брата"],
+      "answer": 2,
+      "explain": "«Мои братья живут в другом городе» uses the irregular nominative plural «братья»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «муж» mean?",
+      "options": ["son", "husband", "uncle", "father"],
+      "answer": 1,
+      "explain": "«Мой муж работает в больнице» means 'My husband works at a hospital'."
+    },
+    {
+      "id": "Q10",
+      "prompt": "How would you say 'sister' in Russian?",
+      "options": ["сестра", "тётя", "дочка", "подруга"],
+      "answer": 0,
+      "explain": "Сестра is 'sister', as in «Моя сестра живёт в городе»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What is the genitive singular of «дочь»?",
+      "options": ["дочь", "дочери", "дочерью", "дочерей"],
+      "answer": 1,
+      "explain": "«У моей дочери красивое имя» uses the irregular genitive «дочери»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What gender is the noun «папа»?",
+      "options": ["feminine", "neuter", "masculine", "it has no gender"],
+      "answer": 2,
+      "explain": "Despite the -а ending, папа ('dad') is masculine: «Мой папа работает врачом»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "In «У соседей трое детей», what does «детей» mean?",
+      "options": ["of the parents", "of the children", "of the relatives", "of the sisters"],
+      "answer": 1,
+      "explain": "«Детей» is the genitive plural of ребёнок/дети; «трое детей» means 'three children'."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What case is «дедушке» in «Я часто звоню дедушке»?",
+      "options": ["dative", "genitive", "prepositional", "accusative"],
+      "answer": 0,
+      "explain": "The verb «звонить» governs the dative, so «дедушке» is dative."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does «родственник» mean?",
+      "options": ["parent", "relative", "grandfather", "neighbour"],
+      "answer": 1,
+      "explain": "«Мой близкий родственник живёт здесь» means 'My close relative lives here'."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What is the nominative plural of «сын»?",
+      "options": ["сыны", "сыновья", "сыновей", "сына"],
+      "answer": 1,
+      "explain": "«Её сыновья живут в Москве» uses the irregular nominative plural «сыновья»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "How would you say 'grandmother' in Russian?",
+      "options": ["бабушка", "тётя", "сестра", "мама"],
+      "answer": 0,
+      "explain": "Бабушка is 'grandmother', as in «Моя бабушка живёт в деревне»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What case is «семьёй» in «Он гордится своей семьёй»?",
+      "options": ["prepositional", "dative", "instrumental", "genitive"],
+      "answer": 2,
+      "explain": "«Гордится» (is proud of) takes the instrumental, so «семьёй» is instrumental."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Я подарила подруге красивый шарф», what does the sentence mean?",
+      "options": ["I gave my friend a beautiful scarf.", "My friend gave me a beautiful scarf.", "I bought a beautiful scarf with my friend.", "I told my friend about a beautiful scarf."],
+      "answer": 0,
+      "explain": "«Подруге» is the dative recipient and «красивый шарф» the gift, so it means 'I gave my friend a beautiful scarf'."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What is the genitive singular of «отец»?",
+      "options": ["отцу", "отца", "отцом", "отце"],
+      "answer": 1,
+      "explain": "«Я очень люблю своего отца» and «У отца сегодня день рождения» both use «отца» (the -е- drops out)."
+    }
+  ]
+}

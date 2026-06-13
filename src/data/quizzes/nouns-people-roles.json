@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-people-roles",
+  "chunkId": "nouns-people-roles",
+  "label": "Nouns — People & Roles",
+  "description": "A 20-question check on people and role nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Мой лучший друг живёт рядом.», what does «друг» mean?",
+      "options": ["friend", "doctor", "neighbour", "teacher"],
+      "answer": 0,
+      "explain": "«Друг» is the nominative subject and means 'friend'."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How do you say 'doctor' (the noun used in «Наш врач очень внимательный человек.»)?",
+      "options": ["сосед", "герой", "гость", "врач"],
+      "answer": 3,
+      "explain": "«Врач» is the word for 'doctor' shown in that sentence."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Я давно знаю своего друга.», which case is «друга»?",
+      "options": ["nominative", "dative", "accusative", "prepositional"],
+      "answer": 2,
+      "explain": "«Друга» is the accusative direct object of «знаю»; for animate masculine nouns it copies the genitive form."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Complete the irregular nominative plural: «Мои _____ приехали вчера вечером.» (friends)",
+      "options": ["други", "друзья", "друга", "другие"],
+      "answer": 1,
+      "explain": "Друг has the irregular nominative plural «друзья», as in «Мои друзья приехали вчера вечером.»"
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Я подарил другу хорошую книгу.», what role does «другу» play?",
+      "options": ["the object being given", "the place of the action", "the recipient (dative) of the gift", "the subject doing the giving"],
+      "answer": 2,
+      "explain": "«Другу» is dative, the friend who receives the gift of «подарил»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Why is the form «учителя» used in «Дети любят своего учителя.»?",
+      "options": ["it is the nominative plural", "it is the genitive of possession", "animate masculine accusative copies the genitive", "it is the instrumental of profession"],
+      "answer": 2,
+      "explain": "«Учителя» is the accusative object of «любят»; animate masculine nouns take the genitive-style ending."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «В школе работают хорошие учителя.», «учителя» is which form?",
+      "options": ["nominative plural (stressed -я ending)", "genitive singular", "dative singular", "accusative singular"],
+      "answer": 0,
+      "explain": "«Учителя» here is the irregular nominative plural with the stressed -я ending, subject of «работают»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Translate: «Он работает директором завода.»",
+      "options": ["He visits the factory director.", "He works as a factory director.", "He owns a factory.", "He talked with the director."],
+      "answer": 1,
+      "explain": "«Директором» is the instrumental of profession after «работает» — 'works as a director'."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Я познакомился с новым соседом.», which case is «соседом»?",
+      "options": ["genitive", "dative", "accusative", "instrumental"],
+      "answer": 3,
+      "explain": "«Соседом» is instrumental because «познакомиться с» governs the instrumental case."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What is the irregular nominative plural of сосед, as in «Наши _____ очень шумные.»?",
+      "options": ["соседы", "соседья", "соседи", "соседа"],
+      "answer": 2,
+      "explain": "Сосед takes the soft nominative plural «соседи», as in «Наши соседи очень шумные.»"
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «У мальчика нет велосипеда.», which case is «мальчика»?",
+      "options": ["genitive (after 'у')", "dative", "instrumental", "nominative"],
+      "answer": 0,
+      "explain": "«Мальчика» is genitive in the «у + genitive» possession frame, and «нет» then forces genitive «велосипеда»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What grammatical gender is «девушка» in «Эта девушка очень красивая.»?",
+      "options": ["masculine", "feminine", "neuter", "it has no gender"],
+      "answer": 1,
+      "explain": "«Девушка» is feminine; «эта» and «красивая» take feminine forms to agree."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Despite its -а ending, what gender is «мужчина» in «Этот мужчина очень высокий.»?",
+      "options": ["feminine", "neuter", "masculine", "both"],
+      "answer": 2,
+      "explain": "«Мужчина» is grammatically masculine, so «этот» and «высокий» take masculine forms."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Translate: «Мальчик хочет стать героем.»",
+      "options": ["The boy wants to become a hero.", "The boy remembers the hero.", "The hero helps the boy.", "The boy reads about a hero."],
+      "answer": 0,
+      "explain": "«Героем» is the instrumental after «стать», which governs the instrumental of the resulting role."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «Народ помнит своих героев.», why is «героев» used for the object?",
+      "options": ["it is nominative plural", "it is dative plural", "герой has no plural", "animate accusative plural copies the genitive plural"],
+      "answer": 3,
+      "explain": "«Героев» is the accusative plural of an animate noun, which equals the genitive plural form."
+    },
+    {
+      "id": "Q16",
+      "prompt": "Complete: «Народ любит своего _____.» (the king)",
+      "options": ["король", "королю", "королём", "короля"],
+      "answer": 3,
+      "explain": "«Короля» is the animate masculine accusative (= genitive form), the object of «любит»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "In «В армии много молодых солдат.», what is special about «солдат»?",
+      "options": ["it is nominative singular", "it is the dative plural", "it is the zero-ending genitive plural after «много»", "it is the instrumental singular"],
+      "answer": 2,
+      "explain": "«Солдат» is the zero-ending genitive plural required by the quantity word «много»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the irregular nominative plural of господин, as in «_____ собрались в большом зале.»?",
+      "options": ["господины", "господа", "господа́не", "господья"],
+      "answer": 1,
+      "explain": "Господин takes the irregular nominative plural «господа», as in «Господа собрались в большом зале.»"
+    },
+    {
+      "id": "Q19",
+      "prompt": "Translate: «Закон защищает всех граждан страны.»",
+      "options": ["The citizens obey the law of the land.", "The country gives citizens new roads.", "The citizen presents his documents.", "The law protects all the citizens of the country."],
+      "answer": 3,
+      "explain": "«Граждан» is the animate accusative plural (= genitive plural) object of «защищает» — 'protects all citizens'."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Эта женщина работает врачом.», which case is «врачом» and why?",
+      "options": ["nominative — it is the subject", "genitive — after a negation", "dative — recipient of an action", "instrumental — profession after «работает»"],
+      "answer": 3,
+      "explain": "«Врачом» is the instrumental of profession used after «работает» to state what she does."
+    }
+  ]
+}

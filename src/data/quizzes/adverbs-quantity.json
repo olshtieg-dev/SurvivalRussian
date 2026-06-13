@@ -1,0 +1,148 @@
+{
+  "id": "quiz-adverbs-quantity",
+  "chunkId": "adverbs-quantity",
+  "label": "Adverbs of Quantity",
+  "description": "A 20-question check on quantity adverbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «У меня много работы сегодня.» mean?",
+      "options": ["I have a lot of work today.", "I have little work today.", "I have a bit of work today.", "How much work do I have today?"],
+      "answer": 0,
+      "explain": "«Много» plus the genitive «работы» means a large amount of work."
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «У меня мало денег.», what case is «денег» in after «мало»?",
+      "options": ["Nominative", "Accusative", "Genitive", "Dative"],
+      "answer": 2,
+      "explain": "«Мало» governs the genitive, so «денег» (money) is genitive."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say \"He works very much / a lot\"?",
+      "options": ["Он очень много работает.", "Он мало работает.", "Он немного устал.", "Сколько он работает?"],
+      "answer": 0,
+      "explain": "«Он очень много работает.» attaches «много» to the verb «работает», intensified by «очень»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Choose the word that completes «У меня ___ денег.» to mean \"I have little money\":",
+      "options": ["мало", "много", "столько", "сколько"],
+      "answer": 0,
+      "explain": "«Мало» expresses scarcity, giving \"I have little money.\""
+    },
+    {
+      "id": "Q05",
+      "prompt": "What does «Сколько стоит этот билет?» ask?",
+      "options": ["How much does this ticket cost?", "Where is this ticket?", "Is this ticket expensive?", "How many tickets are there?"],
+      "answer": 0,
+      "explain": "«Сколько» with «стоит» is the standard way to ask how much something costs."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Which sentence means \"There are many people in the city\"?",
+      "options": ["В городе мало людей.", "В городе немного людей.", "В городе много людей.", "Сколько в городе людей?"],
+      "answer": 2,
+      "explain": "«В городе много людей.» uses «много» plus genitive plural «людей» for many people."
+    },
+    {
+      "id": "Q07",
+      "prompt": "«Дай мне немного воды.» means:",
+      "options": ["How much water?", "Give me a lot of water.", "Give me a little water.", "Give me no water."],
+      "answer": 2,
+      "explain": "«Немного» plus genitive «воды» requests a small, modest amount of water."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «У нас было много времени.», why is «было» neuter?",
+      "options": ["Because «время» is masculine", "Because the quantity expression behaves as neuter", "Because «много» is plural", "Because «нас» is neuter"],
+      "answer": 1,
+      "explain": "The «много времени» quantity expression behaves as a neuter subject, so the past «было» is neuter."
+    },
+    {
+      "id": "Q09",
+      "prompt": "How do you ask \"How old are you?\" using a quantity word?",
+      "options": ["Сколько у тебя времени?", "Сколько раз тебе повторять?", "Сколько тебе лет?", "Сколько это стоит?"],
+      "answer": 2,
+      "explain": "«Сколько тебе лет?» (literally how many years are to you) is the fixed way to ask someone's age."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What does «У него много друзей в школе.» say in English?",
+      "options": ["He has few friends at school.", "How many friends does he have at school?", "He has a couple of friends at school.", "He has many friends at school."],
+      "answer": 3,
+      "explain": "«Много друзей» with genitive plural «друзей» states he has a large number of friends."
+    },
+    {
+      "id": "Q11",
+      "prompt": "«Он мало спит ночью.» tells us that he:",
+      "options": ["sleeps a lot at night", "sleeps little at night", "does not sleep at all", "sleeps a bit better at night"],
+      "answer": 1,
+      "explain": "«Мало» attached to the verb «спит» means he sleeps little."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which word pairs with «сколько» in the correlative «Бери ___, сколько нужно.» (take as much as needed)?",
+      "options": ["много", "мало", "столько", "немного"],
+      "answer": 2,
+      "explain": "«Столько» pairs with «сколько» as a correlative meaning take as much as is needed."
+    },
+    {
+      "id": "Q13",
+      "prompt": "How would you say \"I read many books\"?",
+      "options": ["Я читаю мало книг.", "Сколько книг ты прочитал?", "Я читаю много книг.", "Я знаю немного историй."],
+      "answer": 2,
+      "explain": "«Я читаю много книг.» uses «много» plus genitive plural «книг» for a large quantity of books."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Я немного устал сегодня.», what does «немного» do?",
+      "options": ["Counts the days", "Softens the state to \"a little tired\"", "Asks how tired he is", "Means he is very tired"],
+      "answer": 1,
+      "explain": "Here «немного» works as a degree word, lessening «устал» to \"a little tired.\""
+    },
+    {
+      "id": "Q15",
+      "prompt": "«В этом году мало снега.» means:",
+      "options": ["There is a lot of snow this year.", "How much snow is there this year?", "There is so much snow this year.", "There is little snow this year."],
+      "answer": 3,
+      "explain": "«Мало» plus genitive singular «снега» says there is little snow."
+    },
+    {
+      "id": "Q16",
+      "prompt": "Pick the sentence that means \"Why do you spend so much money?\"",
+      "options": ["Сколько денег ты тратишь?", "У меня мало денег.", "Почему ты тратишь столько денег?", "Я трачу немного денег."],
+      "answer": 2,
+      "explain": "«Почему ты тратишь столько денег?» uses «столько» plus genitive «денег» with a tone of disapproval at the amount."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «Это слишком много для меня.» mean?",
+      "options": ["This is too much for me.", "This is too little for me.", "This is just enough for me.", "How much is this for me?"],
+      "answer": 0,
+      "explain": "Standing alone with «слишком», «много» means \"too much\"; no genitive noun is needed when the amount is clear."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Which sentence contrasts with «В классе сегодня мало учеников.» by stating there are MANY pupils?",
+      "options": ["В классе сегодня немного учеников.", "Сколько в классе учеников?", "В классе сегодня много учеников.", "В классе столько учеников."],
+      "answer": 2,
+      "explain": "Replacing «мало» (few) with «много» (many) flips the count to \"many pupils.\""
+    },
+    {
+      "id": "Q19",
+      "prompt": "How do you say \"Add a little salt to the soup\"?",
+      "options": ["Добавь много соли в суп.", "Сколько соли в супе?", "Добавь мало соли в суп.", "Добавь немного соли в суп."],
+      "answer": 3,
+      "explain": "«Добавь немного соли в суп.» uses «немного» plus genitive «соли» for a small portion of salt."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Дай мне столько же, пожалуйста.», what does «столько же» mean?",
+      "options": ["a little more", "much less", "the same amount", "how much"],
+      "answer": 2,
+      "explain": "«Столько же», with «же» marking equivalence, requests the same amount as something already mentioned."
+    }
+  ]
+}

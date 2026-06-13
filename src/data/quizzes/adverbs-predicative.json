@@ -1,0 +1,248 @@
+{
+  "id": "quiz-adverbs-predicative",
+  "chunkId": "adverbs-predicative",
+  "label": "Predicative Adverbs",
+  "description": "A 20-question check on predicative/impersonal state adverbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «Мне надо идти домой» mean in English?",
+      "options": [
+        "I went home.",
+        "Go home with me.",
+        "I want to stay home.",
+        "I need to go home."
+      ],
+      "answer": 3,
+      "explain": "«Надо» is the impersonal predicative of necessity, the dative «мне» names who must act, and the infinitive «идти» gives the action: 'I need to go home.'"
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «Тебе надо больше отдыхать», what case is «тебе» and what is its role?",
+      "options": [
+        "Nominative subject doing the resting",
+        "Dative experiencer who needs to act",
+        "Accusative object of the verb",
+        "Genitive showing possession"
+      ],
+      "answer": 1,
+      "explain": "Impersonal constructions with «надо» take a dative experiencer, so «тебе» marks the person who needs to rest."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'May I come in?' in Russian, as in the lesson?",
+      "options": [
+        "Мне войти?",
+        "Я войду.",
+        "Можно мне войти?",
+        "Нужно войти."
+      ],
+      "answer": 2,
+      "explain": "«Можно мне войти?» uses «можно» for permission with the dative «мне» and the infinitive «войти», the standard polite request at a doorway."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What does «Здесь можно курить?» ask?",
+      "options": [
+        "Is smoking allowed here?",
+        "Do you smoke here?",
+        "Where can I smoke?",
+        "Is it hard to smoke here?"
+      ],
+      "answer": 0,
+      "explain": "«Можно» is the impersonal predicative for what is permitted, so the question asks whether smoking is allowed here."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Which word in «Раньше здесь можно было плавать» marks the past tense?",
+      "options": [
+        "раньше",
+        "здесь",
+        "было",
+        "плавать"
+      ],
+      "answer": 2,
+      "explain": "The neuter «было» puts the impersonal «можно» into the past: swimming was once allowed here."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What does «Здесь невозможно работать» mean?",
+      "options": [
+        "It is necessary to work here.",
+        "You may work here.",
+        "Work is easy here.",
+        "It is impossible to work here."
+      ],
+      "answer": 3,
+      "explain": "«Невозможно» is the impersonal predicative meaning 'it is impossible', so working here cannot be done."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Complete the request for more tea: «Можно мне ещё ___?»",
+      "options": [
+        "чай",
+        "чаю",
+        "чая",
+        "чаем"
+      ],
+      "answer": 1,
+      "explain": "The lesson phrase «Можно мне ещё чаю?» uses the partitive genitive «чаю» to ask for a portion of tea."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What does «Мне трудно дышать здесь» mean?",
+      "options": [
+        "It is easy for me to breathe here.",
+        "I cannot breathe here.",
+        "It is hard for me to breathe here.",
+        "I do not breathe here."
+      ],
+      "answer": 2,
+      "explain": "«Трудно» means 'hard/difficult' with the dative experiencer «мне», so it is hard for me to breathe here."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Сначала всегда трудно», why is there no infinitive?",
+      "options": [
+        "An infinitive was accidentally dropped",
+        "«Трудно» can stand alone as a complete impersonal predicate",
+        "«Всегда» replaces the infinitive",
+        "Infinitives are never used with трудно"
+      ],
+      "answer": 1,
+      "explain": "«Трудно» works as a complete impersonal predicate on its own, stating the general truth that the start is always hard."
+    },
+    {
+      "id": "Q10",
+      "prompt": "How do you say 'I need to rest a little' (slightly formal), as in the lesson?",
+      "options": [
+        "Мне нужно отдохнуть немного.",
+        "Я отдыхаю немного.",
+        "Можно мне отдохнуть.",
+        "Трудно отдохнуть немного."
+      ],
+      "answer": 0,
+      "explain": "«Мне нужно отдохнуть немного» uses «нужно» (need) with the dative «мне» and the infinitive «отдохнуть»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Ей надо позвонить врачу», why are there two dative-like forms?",
+      "options": [
+        "Both name the experiencer",
+        "«Ей» is the experiencer; «врачу» is the dative object of «позвонить»",
+        "It is a grammatical error",
+        "Both are objects of «надо»"
+      ],
+      "answer": 1,
+      "explain": "«Ей» is the dative experiencer who must act, while «врачу» is a second dative governed by the verb «позвонить» (to call)."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which sentence correctly expresses 'It was impossible to fall asleep'?",
+      "options": [
+        "Невозможно уснуть.",
+        "Можно было уснуть.",
+        "Было невозможно уснуть.",
+        "Надо было уснуть."
+      ],
+      "answer": 2,
+      "explain": "«Было невозможно уснуть» uses neuter «было» to make «невозможно» past, with the infinitive «уснуть»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «Всё понятно, спасибо» convey?",
+      "options": [
+        "Nothing is clear, sorry.",
+        "Please explain it.",
+        "It is all difficult, thanks.",
+        "It is all clear, thank you."
+      ],
+      "answer": 3,
+      "explain": "«Понятно» is the impersonal predicative meaning 'clear/understood', so the phrase says it is all clear and thanks."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Объясни ещё раз, непонятно», what does «непонятно» mean?",
+      "options": [
+        "It is clear",
+        "It is not clear",
+        "Explain again",
+        "It is interesting"
+      ],
+      "answer": 1,
+      "explain": "The negated form «непонятно», written as one word, states that something is not clear, prompting another explanation."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does «Отсюда хорошо видно море» mean?",
+      "options": [
+        "The sea is far from here.",
+        "It is hard to see the sea from here.",
+        "The sea can be clearly seen from here.",
+        "We must look at the sea."
+      ],
+      "answer": 2,
+      "explain": "«Видно» is the impersonal predicative of visibility, with accusative «море» as what can be seen from this vantage point."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «В тумане ничего не видно», what is being said?",
+      "options": [
+        "Nothing can be seen in the fog.",
+        "Everything is visible in the fog.",
+        "The fog is beautiful.",
+        "We must wait for the fog."
+      ],
+      "answer": 0,
+      "explain": "The impersonal «видно» with «не» and «ничего» states that nothing can be seen, with «в тумане» giving the cause."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «Ладно, я согласен» express?",
+      "options": [
+        "No, I refuse.",
+        "Fine/okay, I agree.",
+        "It is difficult, I disagree.",
+        "Maybe I agree."
+      ],
+      "answer": 1,
+      "explain": "«Ладно» is a colloquial discourse word meaning 'fine/okay', here signalling that the speaker accepts the proposal."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Which sentence correctly grants permission to one person to rest today?",
+      "options": [
+        "Тебе надо отдохнуть сегодня.",
+        "Тебе можно отдохнуть сегодня.",
+        "Тебе трудно отдохнуть сегодня.",
+        "Тебе невозможно отдохнуть сегодня."
+      ],
+      "answer": 1,
+      "explain": "«Можно» grants permission, so «Тебе можно отдохнуть сегодня» means 'You may rest today'; «надо» would mean 'must' instead."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What does «Наверное, завтра будет дождь» mean?",
+      "options": [
+        "It will definitely rain tomorrow.",
+        "It probably will rain tomorrow.",
+        "It rained yesterday.",
+        "It must not rain tomorrow."
+      ],
+      "answer": 1,
+      "explain": "«Наверное» is a modal word meaning 'probably', hedging the prediction that it will rain tomorrow."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Видимо, придётся ждать», what does the sentence express?",
+      "options": [
+        "We definitely will not wait.",
+        "It is forbidden to wait.",
+        "Apparently we will have to wait.",
+        "It is easy to wait."
+      ],
+      "answer": 2,
+      "explain": "«Видимо» frames an inference ('apparently'), and impersonal «придётся» plus infinitive «ждать» states that waiting will be unavoidable."
+    }
+  ]
+}

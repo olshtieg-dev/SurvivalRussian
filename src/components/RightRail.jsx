@@ -4,9 +4,9 @@
 // Holds placeholders for the future Google login and curriculum systems.
 // Buttons are intentionally inert (disabled) until those systems are wired in.
 
-import { LogIn, GraduationCap } from 'lucide-react';
+import { LogIn, GraduationCap, ClipboardCheck } from 'lucide-react';
 
-export default function RightRail({ onOpenCurriculum }) {
+export default function RightRail({ onOpenCurriculum, onOpenQuiz, children }) {
   return (
     <aside className="w-20 border-l border-slate-800 bg-slate-950 flex flex-col items-center py-6 gap-6 z-50 shadow-2xl overflow-y-auto overflow-x-hidden custom-scrollbar">
       <div className="text-[10px] font-black rotate-180 [writing-mode:vertical-lr] tracking-[0.5em] opacity-70 text-slate-500">
@@ -33,7 +33,28 @@ export default function RightRail({ onOpenCurriculum }) {
         >
           <GraduationCap size={18} />
         </button>
+
+        <button
+          type="button"
+          onClick={onOpenQuiz}
+          title="Knowledge tests & review"
+          aria-label="Open knowledge tests and review"
+          className="w-10 h-10 rounded-xl flex items-center justify-center border border-amber-500/30 bg-amber-500/10 text-amber-300 transition-all hover:bg-amber-500/20 hover:text-white"
+        >
+          <ClipboardCheck size={18} />
+        </button>
       </div>
+
+      {children && (
+        <>
+          <div className="text-[10px] font-black rotate-180 [writing-mode:vertical-lr] tracking-[0.5em] opacity-70 text-slate-500">
+            TOOLS
+          </div>
+          <div className="flex flex-col items-center gap-4 w-full py-4 border-y border-slate-900/50">
+            {children}
+          </div>
+        </>
+      )}
 
       <div className="mt-auto text-[8px] text-slate-700 uppercase tracking-[0.4em] rotate-180 [writing-mode:vertical-lr]">
         Soon

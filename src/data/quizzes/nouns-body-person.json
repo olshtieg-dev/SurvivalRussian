@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-body-person",
+  "chunkId": "nouns-body-person",
+  "label": "Nouns — Body & Person",
+  "description": "A 20-question check on body and person nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Сегодня у меня сильно болит рука», what does «рука» mean?",
+      "options": ["hand / arm", "leg", "head", "eye"],
+      "answer": 0,
+      "explain": "«Рука» is the nominative subject of «болит» and names the hand or arm that hurts."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say \"head\" in Russian, as in «После работы у меня болит голова»?",
+      "options": ["нога", "голова", "рука", "лицо"],
+      "answer": 1,
+      "explain": "«Голова» means head, the nominative subject in «болит голова» (a standard way to report a headache)."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Ученик поднял руку и ответил», what case is «руку»?",
+      "options": ["nominative", "genitive", "accusative", "dative"],
+      "answer": 2,
+      "explain": "«Руку» is the accusative direct object of «поднял», marking the thing acted upon."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Choose the correct form: «Я всегда пишу правой ___» (I always write with my right hand).",
+      "options": ["рука", "руку", "руки", "рукой"],
+      "answer": 3,
+      "explain": "The instrumental «рукой» names the means by which the action is done — the tool you write with."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What is the gender of «лицо» (face), as in «У неё очень доброе лицо»?",
+      "options": ["masculine", "feminine", "neuter", "plural"],
+      "answer": 2,
+      "explain": "«Лицо» is neuter; its adjective «доброе» carries the neuter -ое ending."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What is the irregular nominative plural of «глаз» (eye), seen in «У неё красивые голубые ___»?",
+      "options": ["глазы", "глаза", "глазья", "глази"],
+      "answer": 1,
+      "explain": "«Глаз» has the irregular nominative plural «глаза», as in «красивые голубые глаза»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What is the irregular plural of «ухо» (ear), as in «У зайца длинные ___»?",
+      "options": ["ухи", "уха", "уши", "ушы"],
+      "answer": 2,
+      "explain": "«Ухо» takes the irregular plural stem уш-, giving «уши» (e.g. «У зайца длинные уши»)."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «Один человек — это ещё не люди», what is the plural of «человек»?",
+      "options": ["человеки", "человека", "люди", "человекы"],
+      "answer": 2,
+      "explain": "«Человек» has the suppletive plural «люди» (people), contrasted with the singular in this line."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Доктор быстро помог моей руке», what case is «руке» and why?",
+      "options": ["dative, because «помог» governs the dative", "accusative direct object", "genitive of possession", "instrumental of means"],
+      "answer": 0,
+      "explain": "«Помочь» governs the dative, so «руке» is the dative beneficiary of the action."
+    },
+    {
+      "id": "Q10",
+      "prompt": "How do you say \"person\" in Russian, as in «Этот человек живёт в соседнем доме»?",
+      "options": ["лицо", "человек", "голос", "тело"],
+      "answer": 1,
+      "explain": "«Человек» means person; here it is the nominative subject pointing at a specific individual."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Мне нравится цвет её глаз», what case is «глаз»?",
+      "options": ["nominative plural", "accusative plural", "genitive plural", "dative plural"],
+      "answer": 2,
+      "explain": "«Глаз» is the zero-ending genitive plural meaning \"of the eyes\", depending on «цвет»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which word completes «У меня болит левое ___» (My left ear hurts)?",
+      "options": ["ухо", "глаз", "зуб", "нос"],
+      "answer": 0,
+      "explain": "«Ухо» (ear) is the neuter nominative subject, agreeing with the neuter adjective «левое»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does the full sentence «У этого мастера золотые руки» mean idiomatically?",
+      "options": ["this master has gold rings", "this master is skilled and capable", "this master has injured hands", "this master is wealthy"],
+      "answer": 1,
+      "explain": "«Золотые руки» is a plural idiom naming a skilled, capable person — \"golden hands\"."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What is the gender of «кровь» (blood), as in «Анализ крови был хороший»?",
+      "options": ["masculine", "feminine (soft-sign)", "neuter", "plural only"],
+      "answer": 1,
+      "explain": "«Кровь» is a soft-sign feminine noun; its genitive is «крови», as in «анализ крови» (blood test)."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Choose the correct form: «Я плохо вижу левым ___» (I see poorly with my left eye).",
+      "options": ["глаз", "глаза", "глазу", "глазом"],
+      "answer": 3,
+      "explain": "The instrumental singular «глазом» names the means of seeing, agreeing with «левым»."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «У этого человека есть красивое имя», what case is «человека»?",
+      "options": ["nominative", "genitive (in the «у ... есть» frame)", "accusative", "dative"],
+      "answer": 1,
+      "explain": "The Russian possession frame «у ... есть» puts «человека» in the genitive."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «зуб» mean, as in «У меня очень болит зуб»?",
+      "options": ["tooth", "knee", "throat", "shoulder"],
+      "answer": 0,
+      "explain": "«Зуб» is a masculine noun meaning tooth, here the nominative subject of «болит»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "In «После работы у меня болят руки», why is the verb «болят» (not «болит»)?",
+      "options": ["because «руки» is genitive singular", "because «руки» is the nominative plural subject", "because the subject is «работа»", "because «у меня» requires a plural verb"],
+      "answer": 1,
+      "explain": "«Руки» is the nominative plural subject, so the verb «болят» agrees with it as plural."
+    },
+    {
+      "id": "Q19",
+      "prompt": "Choose the correct form: «У этого человека совсем нет ___» (This person has no heart at all).",
+      "options": ["сердце", "сердца", "сердцу", "сердцем"],
+      "answer": 1,
+      "explain": "«Нет» forces the genitive, so «сердце» becomes «сердца» — figuratively meaning heartless."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «После болезни он встал на ноги», what does the idiom mean?",
+      "options": ["he fell down", "he got back on his feet / recovered", "he broke his leg", "he stood on one foot"],
+      "answer": 1,
+      "explain": "«Встал на ноги» uses the plural accusative «ноги» and means to get on one's feet, literally and figuratively recovering."
+    }
+  ]
+}

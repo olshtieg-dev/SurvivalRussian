@@ -1,0 +1,148 @@
+{
+  "id": "quiz-verbs-first-conjugation",
+  "chunkId": "verbs-first-conjugation",
+  "label": "Verbs — 1st Conjugation",
+  "description": "A 20-question check on first-conjugation verbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "Complete: «Вечером я ___ интересную книгу.» (1st-person singular present of читать)",
+      "options": ["читаю", "читаешь", "читает", "читают"],
+      "answer": 0,
+      "explain": "The lesson sentence «Вечером я читаю интересную книгу.» uses читаю, the я-form with the -ю ending."
+    },
+    {
+      "id": "Q02",
+      "prompt": "«читаешь» in «Ты внимательно читаешь это письмо.» is which form?",
+      "options": ["1st-person plural", "2nd-person singular", "3rd-person plural", "imperative"],
+      "answer": 1,
+      "explain": "Читаешь shows the -ешь ending of the second-person singular (ты) in the first conjugation."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'I am writing a letter' as in the писать lesson?",
+      "options": ["Я пишет письмо.", "Я пишу письмо.", "Я писал письмо.", "Я пишешь письмо."],
+      "answer": 1,
+      "explain": "The lesson «Я пишу письмо своему другу.» uses пишу, the 1st-person singular with the с→ш stem mutation."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What does «Я ищу свои ключи уже час.» mean?",
+      "options": ["I found my keys an hour ago.", "I have been looking for my keys for an hour.", "I will look for my keys in an hour.", "I lost my keys an hour ago."],
+      "answer": 1,
+      "explain": "Искать is imperfective 'to look for'; ищу is the present-tense 1st-person singular, so the search is ongoing."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Complete: «Вчера вечером я ___ интересную книгу.» (masculine past, imperfective of читать)",
+      "options": ["читаю", "читал", "читала", "прочитал"],
+      "answer": 1,
+      "explain": "The lesson «Вчера вечером я читал интересную книгу.» uses читал, the masculine singular imperfective past."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «Вчера я наконец прочитал эту книгу», why is прочитал used instead of читал?",
+      "options": ["It is the feminine past form.", "It is the future tense.", "It is the imperative.", "It is perfective, marking a finished result."],
+      "answer": 3,
+      "explain": "Прочитал is the perfective прочитать, stressing completion ('наконец'), unlike imperfective читал for the process."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Which is the correct 3rd-person plural present of делать, as in «Сейчас они ___ сложную работу.»?",
+      "options": ["делаем", "делает", "делают", "делали"],
+      "answer": 2,
+      "explain": "The lesson «Сейчас они делают сложную работу.» uses делают, the они-form with the -ют ending."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What does the verb работать mean?",
+      "options": ["to rest", "to read", "to wait", "to work"],
+      "answer": 3,
+      "explain": "Работать means 'to work', as in «Я работаю в офисе каждый день.»"
+    },
+    {
+      "id": "Q09",
+      "prompt": "Complete: «Завтра я ___ читать новую книгу.» (imperfective compound future of читать)",
+      "options": ["прочитаю", "буду", "читал", "читаю"],
+      "answer": 1,
+      "explain": "Imperfective future is «буду + infinitive», as in «Завтра я буду читать новую книгу.»"
+    },
+    {
+      "id": "Q10",
+      "prompt": "«делаю» is which form of делать?",
+      "options": ["3rd-person singular present", "1st-person singular present", "masculine past", "2nd-person plural present"],
+      "answer": 1,
+      "explain": "Делаю is the я-form (1st-person singular present) with the -ю ending, as in «Сейчас я делаю домашнюю работу.»"
+    },
+    {
+      "id": "Q11",
+      "prompt": "How would you say 'I am waiting for you by the metro' from the ждать lesson?",
+      "options": ["Я жду тебя возле метро.", "Я ждал тебя возле метро.", "Я ждёшь тебя возле метро.", "Я буду ждать тебя дома."],
+      "answer": 0,
+      "explain": "The lesson «Я жду тебя возле метро.» uses жду, the present 1st-person singular of ждать on the stem жд-."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Complete: «Учитель ___ нам трудное задание.» (3rd-person singular present of давать)",
+      "options": ["даю", "даёшь", "дают", "даёт"],
+      "answer": 3,
+      "explain": "The lesson «Учитель даёт нам трудное задание.» uses даёт, the он-form with stressed -ёт."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What is the perfective partner of искать used in «Ищи внимательно, и обязательно найдёшь.»?",
+      "options": ["искать", "найти", "поискать", "вискать"],
+      "answer": 1,
+      "explain": "The lesson pairs imperfective искать with the perfective найти (future найдёшь)."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Which is the correct informal singular imperative of писать?",
+      "options": ["пиши", "пишу", "пишет", "писал"],
+      "answer": 0,
+      "explain": "The lesson «Пиши мне, когда будет время!» uses пиши, the informal command from the stem пиш-."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Complete: «Утром она долго ___ это письмо.» (feminine past, imperfective of читать)",
+      "options": ["читал", "читало", "читала", "читали"],
+      "answer": 2,
+      "explain": "The lesson «Утром она долго читала это письмо.» uses читала, the feminine singular past with the -а ending."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What does «Я даю тебе хороший совет.» mean?",
+      "options": ["I gave you good advice.", "I will give you good advice.", "Give me good advice.", "I am giving you good advice."],
+      "answer": 3,
+      "explain": "Даю is the present 1st-person singular of давать, so it means 'I am giving / I give you good advice.'"
+    },
+    {
+      "id": "Q17",
+      "prompt": "«пишем» in «Мы пишем тест по математике.» is which form?",
+      "options": ["1st-person plural present", "3rd-person plural present", "2nd-person singular present", "neuter past"],
+      "answer": 0,
+      "explain": "Пишем is the мы-form (1st-person plural present) ending in -ем on the stem пиш-."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Complete: «Завтра я ___ тебе ответ.» (perfective future, 1st-person, partner of давать)",
+      "options": ["даю", "давал", "дам", "даёт"],
+      "answer": 2,
+      "explain": "The lesson «Завтра я дам тебе ответ.» uses дам, the irregular perfective дать with future meaning."
+    },
+    {
+      "id": "Q19",
+      "prompt": "Which is the correct 1st-person singular present of искать (with stem mutation)?",
+      "options": ["искаю", "ищу", "ищет", "искал"],
+      "answer": 1,
+      "explain": "Искать mutates ск→щ in the present, giving ищу, as in «Я ищу свои ключи уже час.»"
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «Сначала делай уроки, потом гуляй.» tell one person to do?",
+      "options": ["Do your homework first, then go for a walk.", "He is doing his homework, then walking.", "We will do homework and walk.", "Did you do your homework and walk?"],
+      "answer": 0,
+      "explain": "Делай is the singular imperative of делать, so the sentence commands one person: do homework first, then walk."
+    }
+  ]
+}

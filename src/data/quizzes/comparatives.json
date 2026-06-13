@@ -1,0 +1,248 @@
+{
+  "id": "quiz-comparatives",
+  "chunkId": "comparatives",
+  "label": "Comparatives & Superlatives",
+  "description": "A 20-question check on comparatives and superlatives.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What is the simple comparative of «быстрый» (fast)?",
+      "options": [
+        "быстрее",
+        "самый быстрый",
+        "быстрый",
+        "быстро"
+      ],
+      "answer": 0,
+      "explain": "The comparative of «быстрый» is «быстрее», as in «Новый поезд быстрее старого» (the new train is faster than the old one)."
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «Мой брат старше меня», what does «старше» mean?",
+      "options": [
+        "the oldest",
+        "older",
+        "old",
+        "younger"
+      ],
+      "answer": 1,
+      "explain": "«Старше» is the comparative of «старый», so «Мой брат старше меня» means \"my brother is older than me.\""
+    },
+    {
+      "id": "Q03",
+      "prompt": "Which sentence correctly uses the «чем» construction for comparison?",
+      "options": [
+        "Сегодня погода суше, чем вчера.",
+        "Сегодня погода суше чем вчера который.",
+        "Сегодня погода самый сухой вчера.",
+        "Сегодня погода более суше, чем вчера."
+      ],
+      "answer": 0,
+      "explain": "«Сегодня погода суше, чем вчера» is the real lesson phrase: a comparative plus «чем» and a comma introduces the second item compared."
+    },
+    {
+      "id": "Q04",
+      "prompt": "«Москва — самый большой город России» translates as:",
+      "options": [
+        "Moscow is a bigger city than Russia.",
+        "Moscow is the biggest city in Russia.",
+        "Moscow is a very big city.",
+        "Moscow is bigger than a Russian city."
+      ],
+      "answer": 1,
+      "explain": "«самый большой» is the superlative \"the biggest\", so the phrase means \"Moscow is the biggest city in Russia.\""
+    },
+    {
+      "id": "Q05",
+      "prompt": "How would you say \"better\" (the comparative of «хороший»)?",
+      "options": [
+        "лучший",
+        "хорошо",
+        "более хорошо",
+        "лучше"
+      ],
+      "answer": 3,
+      "explain": "The comparative of «хороший» is the irregular form «лучше», as in «Эта идея намного лучше» (this idea is much better)."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «Этот чемодан тяжелее моего», the word «моего» shows that Russian can express \"than\" using:",
+      "options": [
+        "the genitive case (no «чем» needed)",
+        "the nominative case",
+        "the dative case",
+        "the instrumental case"
+      ],
+      "answer": 0,
+      "explain": "«тяжелее моего» uses the genitive of comparison: «моего» replaces «чем мой», so no «чем» is needed."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Which of these means \"the most beautiful\" (feminine)?",
+      "options": [
+        "красивее",
+        "более красивая",
+        "самая красивая",
+        "красивая"
+      ],
+      "answer": 2,
+      "explain": "The superlative uses «самый» agreeing in gender, so \"the most beautiful\" (feminine) is «самая красивая»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Complete the lesson phrase: «Эта задача более ___, чем та.»",
+      "options": [
+        "сложнее",
+        "сложная",
+        "самая сложная",
+        "сложно"
+      ],
+      "answer": 1,
+      "explain": "With «более» you use the plain adjective, not another comparative: «Эта задача более сложная, чем та» (this task is more complex than that one)."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «Эта гора выше соседней» mean?",
+      "options": [
+        "This mountain is the highest nearby.",
+        "This mountain is higher than the neighbouring one.",
+        "This mountain is near a high one.",
+        "This is a very high mountain."
+      ],
+      "answer": 1,
+      "explain": "«выше» is the comparative of «высокий», and «соседней» is genitive of comparison: \"this mountain is higher than the neighbouring one.\""
+    },
+    {
+      "id": "Q10",
+      "prompt": "Which form is the comparative of «медленный» (slow)?",
+      "options": [
+        "медленнее",
+        "медленно",
+        "самый медленный",
+        "более медленнее"
+      ],
+      "answer": 0,
+      "explain": "The comparative is «медленнее», as in «Не могли бы вы говорить медленнее?» (could you speak more slowly?)."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Их мама больше всего любит зелёный чай», the phrase «больше всего» means:",
+      "options": [
+        "more than everything / most of all",
+        "bigger than everyone",
+        "the biggest",
+        "more or less"
+      ],
+      "answer": 0,
+      "explain": "«больше всего» is the superlative-of-an-adverb pattern meaning \"most of all\": their mum likes green tea most of all."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which sentence shows a superlative (not a comparative)?",
+      "options": [
+        "Новый магазин больше старого.",
+        "Десятый этаж самый высокий.",
+        "Эта гора выше соседней.",
+        "Кофе сегодня крепче."
+      ],
+      "answer": 1,
+      "explain": "«Десятый этаж самый высокий» uses «самый», the superlative; the other three are comparatives (больше, выше, крепче)."
+    },
+    {
+      "id": "Q13",
+      "prompt": "How do you say \"my best friend\" as in the lessons?",
+      "options": [
+        "мой более хороший друг",
+        "мой самый друг",
+        "мой лучший друг",
+        "мой лучше друг"
+      ],
+      "answer": 2,
+      "explain": "The lessons use «Мой лучший друг живёт рядом»; «лучший» is the superlative adjective \"best.\""
+    },
+    {
+      "id": "Q14",
+      "prompt": "«Сегодня менее холодно, чем вчера» means:",
+      "options": [
+        "Today it is less cold than yesterday.",
+        "Today it is the coldest.",
+        "Today it is colder than yesterday.",
+        "Today it is very cold."
+      ],
+      "answer": 0,
+      "explain": "«менее» means \"less\", so «менее холодно, чем вчера» is \"less cold than yesterday.\""
+    },
+    {
+      "id": "Q15",
+      "prompt": "What is the comparative of «лёгкий» (light/easy) seen in «Новый телефон ___ старого»?",
+      "options": [
+        "лёгкий",
+        "легко",
+        "самый лёгкий",
+        "легче"
+      ],
+      "answer": 3,
+      "explain": "«Новый телефон легче старого» uses «легче», the comparative of «лёгкий», with genitive «старого» for \"than the old one.\""
+    },
+    {
+      "id": "Q16",
+      "prompt": "Which is the correct way to say \"a more convenient plan\" using «более»?",
+      "options": [
+        "более удобнее план",
+        "более удобный план",
+        "самый удобный план",
+        "удобнее план"
+      ],
+      "answer": 1,
+      "explain": "The lesson phrase is «Нам нужен более удобный план»: «более» plus the plain adjective «удобный», never doubled with a comparative."
+    },
+    {
+      "id": "Q17",
+      "prompt": "In «Брат выше ростом, чем сестра», the comparison is made with:",
+      "options": [
+        "a superlative «самый»",
+        "«чем» plus the nominative «сестра»",
+        "the dative case",
+        "the genitive of comparison only"
+      ],
+      "answer": 1,
+      "explain": "Here the «чем» construction is used: «выше … чем сестра», with «сестра» staying in the nominative after «чем»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Which sentence contains an error in comparative formation?",
+      "options": [
+        "Этот метод более эффективный.",
+        "Этот фильм менее интересный.",
+        "Сегодня он более активнее.",
+        "Сегодня он более активный."
+      ],
+      "answer": 2,
+      "explain": "«более активнее» wrongly combines «более» with a comparative; correct is «более активный» (one or the other, never both)."
+    },
+    {
+      "id": "Q19",
+      "prompt": "«После обеда ему стало хуже» — what does «хуже» mean?",
+      "options": [
+        "better",
+        "worse",
+        "the worst",
+        "louder"
+      ],
+      "answer": 1,
+      "explain": "«хуже» is the irregular comparative of «плохой», so «ему стало хуже» means \"he got worse.\""
+    },
+    {
+      "id": "Q20",
+      "prompt": "How would you say \"This task is more important\" using «более», as in the lessons?",
+      "options": [
+        "Это самая важная задача.",
+        "Это более важная задача.",
+        "Это важнее всего задача.",
+        "Это более важнее задача."
+      ],
+      "answer": 1,
+      "explain": "The real lesson phrase is «Это более важная задача» — «более» with the plain adjective «важная» for \"more important.\""
+    }
+  ]
+}

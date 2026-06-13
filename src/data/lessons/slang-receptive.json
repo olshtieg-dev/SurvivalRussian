@@ -1,0 +1,98 @@
+[
+  {
+    "id": "SR-01",
+    "band": "receptive",
+    "phrase": "Короче, давай встретимся завтра.",
+    "fullAnalysis": "Strategic focus: Discourse filler. 'Короче' literally means 'shorter', but in speech it works like 'anyway' or 'long story short', signalling the speaker is cutting to the point. Recognition band: learn to hear it as a verbal comma, not something you need to produce."
+  },
+  {
+    "id": "SR-02",
+    "band": "receptive",
+    "phrase": "Он типа извинился, но без души.",
+    "fullAnalysis": "Strategic focus: Hedging filler. 'Типа' means 'like' or 'sort of', softening a claim much as English 'like' does. Recognition band: extremely common in casual speech, but overusing it sounds juvenile, so know it rather than lean on it."
+  },
+  {
+    "id": "SR-03",
+    "band": "receptive",
+    "phrase": "Чё ты там бормочешь?",
+    "fullAnalysis": "Strategic focus: Spoken contraction. 'Чё' is how 'что' (what) is actually pronounced in relaxed speech and chat. Recognition band: useful for decoding fast speech, but write 'что' yourself to stay neutral."
+  },
+  {
+    "id": "SR-04",
+    "band": "receptive",
+    "phrase": "Мне ваще всё равно.",
+    "fullAnalysis": "Strategic focus: Clipped intensifier. 'Ваще' is the spoken squeeze of 'вообще' (in general / totally) and amplifies a statement. Recognition band: hear it as 'totally' or 'at all'; keep the full 'вообще' for your own output."
+  },
+  {
+    "id": "SR-05",
+    "band": "receptive",
+    "phrase": "Блин, я снова опоздал.",
+    "fullAnalysis": "Strategic focus: Soft expletive. 'Блин' literally means 'pancake' but works as a clean stand-in for a stronger curse, like 'darn' or 'shoot'. Recognition band: mild and very common, a filler reaction rather than something to build sentences around."
+  },
+  {
+    "id": "SR-06",
+    "band": "receptive",
+    "phrase": "Да ладно, ты серьёзно?",
+    "fullAnalysis": "Strategic focus: Disbelief marker. 'Да ладно' swings between 'no way, you're kidding' and 'come on, drop it', read entirely from tone. Recognition band: catch the reaction in conversation; intonation carries the meaning."
+  },
+  {
+    "id": "SR-07",
+    "band": "receptive",
+    "phrase": "Забей, это того не стоит.",
+    "fullAnalysis": "Strategic focus: Dismissal. 'Забей' is the informal imperative for 'forget it' or 'drop it', from 'забить'. Recognition band: friendly between peers but blunt, so recognise it well before you ever deploy it."
+  },
+  {
+    "id": "SR-08",
+    "band": "receptive",
+    "phrase": "У меня сейчас совсем нет бабок.",
+    "fullAnalysis": "Strategic focus: Slang noun. 'Бабки' is street slang for 'money'; the neutral word is 'деньги'. Recognition band: very common in casual talk, but use 'деньги' in anything polite or written."
+  },
+  {
+    "id": "SR-09",
+    "band": "receptive",
+    "phrase": "Смотри, какая у него тачка!",
+    "fullAnalysis": "Strategic focus: Slang noun. 'Тачка' is literally a 'wheelbarrow', but in slang it means 'car'; the neutral word is 'машина'. Recognition band: handy for decoding casual speech, reads as informal."
+  },
+  {
+    "id": "SR-10",
+    "band": "receptive",
+    "phrase": "Приходи ко мне на хату вечером.",
+    "fullAnalysis": "Strategic focus: Slang noun. 'Хата' is slang for someone's flat or place; neutral words are 'квартира' and 'дом'. Recognition band: friendly invitation slang; know it, but default to the neutral words yourself."
+  },
+  {
+    "id": "SR-11",
+    "band": "receptive",
+    "phrase": "На углу стоит мент.",
+    "fullAnalysis": "Strategic focus: Loaded slang noun. 'Мент' is slang for a police officer and is mildly derogatory; the neutral word is 'полицейский'. Recognition band: you will hear it, but it carries attitude, so do not produce it casually."
+  },
+  {
+    "id": "SR-12",
+    "band": "receptive",
+    "phrase": "Мы вчера тусили до утра.",
+    "fullAnalysis": "Strategic focus: Slang verb. 'Тусить' means to hang out or party; the related noun is 'тусовка'. Recognition band: ubiquitous among young people, comfortable to recognise and fairly safe to use among friends."
+  },
+  {
+    "id": "SR-13",
+    "band": "receptive",
+    "phrase": "Как дела? Да всё норм.",
+    "fullAnalysis": "Strategic focus: Clipped reply. 'Норм' is the chat-speak trim of 'нормально' (fine / okay). Recognition band: fine in texts to friends, but spell out 'нормально' when it matters."
+  },
+  {
+    "id": "SR-14",
+    "band": "receptive",
+    "phrase": "Фильм был нормас, можно глянуть.",
+    "fullAnalysis": "Strategic focus: Playful slang. 'Нормас' is a jokier stretch of 'нормально', meaning 'pretty good' or 'decent'. Recognition band: light and informal; decode it, keep it for friends."
+  },
+  {
+    "id": "SR-15",
+    "band": "receptive",
+    "phrase": "Прив, ты сегодня свободен?",
+    "fullAnalysis": "Strategic focus: Texting shorthand. 'Прив' is the chat clip of 'привет' (hi). Recognition band: instantly readable in messages, but write the full 'привет' to be safe."
+  },
+  {
+    "id": "SR-16",
+    "band": "receptive",
+    "phrase": "Спс за помощь, очень выручил!",
+    "fullAnalysis": "Strategic focus: Texting shorthand. 'Спс' is the consonant-skeleton chat form of 'спасибо' (thanks). Recognition band: ultra-casual; type the full 'спасибо' in anything beyond a quick message."
+  }
+]

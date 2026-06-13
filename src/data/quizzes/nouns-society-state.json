@@ -1,0 +1,248 @@
+{
+  "id": "quiz-nouns-society-state",
+  "chunkId": "nouns-society-state",
+  "label": "Nouns — Society & State",
+  "description": "A 20-question check on society and state nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «Государство помогает своим гражданам.» mean?",
+      "options": [
+        "The state betrays its citizens.",
+        "The state helps its citizens.",
+        "Citizens help the state.",
+        "The state ignores its citizens."
+      ],
+      "answer": 1,
+      "explain": "«Государство» is the nominative subject and «помогает своим гражданам» means it helps its citizens in the dative."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say «The court made a fair decision» in Russian?",
+      "options": [
+        "Суд нарушил справедливое решение.",
+        "Суд принял справедливое решение.",
+        "Суд ждал справедливого решения.",
+        "Суд боится справедливого решения."
+      ],
+      "answer": 1,
+      "explain": "The card uses «Суд принял справедливое решение.» with «суд» as the nominative subject of «принял»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Армия управляется государством.», what case is «государством»?",
+      "options": [
+        "Nominative (the subject)",
+        "Genitive (possession)",
+        "Instrumental (the agent)",
+        "Dative (the recipient)"
+      ],
+      "answer": 2,
+      "explain": "«Государством» is instrumental, naming the agent in this passive construction (run by the state)."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What is the gender of «власть» as in «Власть в стране меняется медленно.»?",
+      "options": [
+        "Feminine (a soft-sign -ь noun)",
+        "Masculine",
+        "Neuter",
+        "It has no gender"
+      ],
+      "answer": 0,
+      "explain": "«Власть» is a feminine noun ending in -ь, used here in the nominative as the subject."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Complete: «Без ___ общество не выживет.» (without laws)",
+      "options": [
+        "законы",
+        "законам",
+        "законе",
+        "законов"
+      ],
+      "answer": 3,
+      "explain": "The preposition «без» governs the genitive, so the genitive plural «законов» is required."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What does «Народ ненавидит любую войну.» mean?",
+      "options": [
+        "The people love any war.",
+        "The people fear a new war.",
+        "The people hate any war.",
+        "The people prepare for war."
+      ],
+      "answer": 2,
+      "explain": "«Войну» is the accusative object of «ненавидит» (hates), with «любую» agreeing in the feminine accusative."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Мы наконец победили врага.», why is the form «врага» used?",
+      "options": [
+        "It is genitive after a preposition.",
+        "It is dative after the verb.",
+        "It is animate masculine, so its accusative matches the genitive.",
+        "It is instrumental of means."
+      ],
+      "answer": 2,
+      "explain": "«Враг» is animate masculine, so its accusative object form «врага» matches the genitive."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which sentence correctly expresses the genitive of absence with «победа»?",
+      "options": [
+        "Команда одержала красивую победу.",
+        "Без победы команда расстроилась.",
+        "Все радуются нашей победе.",
+        "Мы гордимся этой победой."
+      ],
+      "answer": 1,
+      "explain": "«Без победы» uses the genitive «победы» after «без» to express absence."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «Полиция уже приехала на место.» mean?",
+      "options": [
+        "The police are about to leave the scene.",
+        "We called the police at night.",
+        "The criminal was detained by the police.",
+        "The police have already arrived at the scene."
+      ],
+      "answer": 3,
+      "explain": "«Полиция» is the feminine nominative subject of «приехала», and «на место» marks the destination (the scene)."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Which case is «свободу» in «Они борются за свободу.»?",
+      "options": [
+        "Genitive (after «без»)",
+        "Accusative (after «за»)",
+        "Dative (after «к»)",
+        "Prepositional (after «о»)"
+      ],
+      "answer": 1,
+      "explain": "The preposition «за» here governs the accusative, giving «свободу» in the sense of fighting for something."
+    },
+    {
+      "id": "Q11",
+      "prompt": "How would you say «The government passed a new law» in Russian?",
+      "options": [
+        "Правительство приняло новый закон.",
+        "Правительство критикует новый закон.",
+        "Народ критикует новое правительство.",
+        "Люди не доверяют правительству."
+      ],
+      "answer": 0,
+      "explain": "«Правительство приняло новый закон.» has neuter «правительство» as the nominative subject of «приняло»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the nominative plural of «закон», as in «Эти ___ давно устарели.»?",
+      "options": [
+        "законы",
+        "закона",
+        "законов",
+        "законам"
+      ],
+      "answer": 0,
+      "explain": "«Законы» is the nominative plural with the masculine -ы ending, the subject of «устарели»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «Преступник стал жертвой обстоятельств.» mean?",
+      "options": [
+        "The criminal found the only victim.",
+        "The criminal became a victim of circumstances.",
+        "The victim was left without help.",
+        "The city remembers the victims of war."
+      ],
+      "answer": 1,
+      "explain": "«Жертвой» is instrumental after «стал» (became), with «обстоятельств» the genitive plural completing the idiom."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Complete: «Они готовятся ___ войне.» (preparing for war)",
+      "options": [
+        "к",
+        "от",
+        "без",
+        "о"
+      ],
+      "answer": 0,
+      "explain": "The preposition «к» governs the dative «войне», expressing preparation toward something."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Which case is «обществом» in «Интернет управляет современным обществом.»?",
+      "options": [
+        "Nominative (the subject)",
+        "Accusative (the direct object)",
+        "Instrumental (governed by «управлять»)",
+        "Genitive (possession)"
+      ],
+      "answer": 2,
+      "explain": "The verb «управлять» always takes the instrumental, so «обществом» is instrumental here."
+    },
+    {
+      "id": "Q16",
+      "prompt": "How would you say «We are proud of our team» in Russian?",
+      "options": [
+        "Я горжусь нашей командой.",
+        "Тренер собрал новую команду.",
+        "Наша команда выиграла матч.",
+        "Он помогает своей команде."
+      ],
+      "answer": 0,
+      "explain": "«Я горжусь нашей командой.» uses instrumental «командой» because «гордиться» governs the instrumental."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «У него было много врагов.» mean?",
+      "options": [
+        "He defeated his enemy.",
+        "He did not trust his enemy.",
+        "He had many enemies.",
+        "Fear makes people enemies."
+      ],
+      "answer": 2,
+      "explain": "«Много» requires the genitive plural «врагов», and «у него было» expresses past possession (he had)."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the gender of «революция» as in «Революция изменила всю страну.»?",
+      "options": [
+        "Feminine",
+        "Masculine",
+        "Neuter",
+        "Plural only"
+      ],
+      "answer": 0,
+      "explain": "«Революция» is feminine, shown by the agreeing feminine past-tense verb «изменила»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "Complete: «В Европе много небольших ___.» (small states)",
+      "options": [
+        "государства",
+        "государству",
+        "государстве",
+        "государств"
+      ],
+      "answer": 3,
+      "explain": "After «много» the noun takes the genitive plural «государств», with «небольших» agreeing in the genitive plural."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «Страна живёт под угрозой войны.» mean?",
+      "options": [
+        "The country prevented a terrible threat.",
+        "There is no threat right now.",
+        "The country prepared for the threat of flooding.",
+        "The country lives under the threat of war."
+      ],
+      "answer": 3,
+      "explain": "«Под» here takes the instrumental «угрозой» (under threat), and «войны» is genitive naming the danger."
+    }
+  ]
+}

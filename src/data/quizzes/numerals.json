@@ -1,0 +1,148 @@
+{
+  "id": "quiz-numerals",
+  "chunkId": "numerals",
+  "label": "Numerals (Ordinal & Collective)",
+  "description": "A 20-question check on the ordinal and collective numeral lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Это мой первый рабочий день.», what does «первый» mean?",
+      "options": ["first", "second", "third", "fifth"],
+      "answer": 0,
+      "explain": "«Первый» is the ordinal 'first', here agreeing with masculine 'день' in the nominative singular."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Why is the ordinal «втором» used in «Она живёт на втором этаже.»?",
+      "options": ["It is plural to match many floors", "It agrees with masculine 'этаже' in the prepositional case after 'на'", "It is feminine to match 'она'", "It is in the genitive because of a date"],
+      "answer": 1,
+      "explain": "Floors use 'на' plus the prepositional case, so 'втором' agrees with masculine 'этаже' there."
+    },
+    {
+      "id": "Q03",
+      "prompt": "The ordinal «третий» is special because it has which kind of endings?",
+      "options": ["stressed endings", "soft endings", "no endings at all", "plural-only endings"],
+      "answer": 1,
+      "explain": "Among the ordinals 'третий' is unique with soft endings, e.g. «третьем», «третья», «третье»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Третья дверь была закрыта.», which form does the soft ordinal take to agree with feminine «дверь»?",
+      "options": ["третий", "третье", "третья", "третьего"],
+      "answer": 2,
+      "explain": "Soft-stem 'третий' takes the feminine ending -ья, giving «третья» to agree with feminine 'дверь'."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Третье окно выходит во двор.», «третье» is in this form because «окно» is which gender?",
+      "options": ["masculine", "feminine", "neuter", "plural"],
+      "answer": 2,
+      "explain": "'Третий' takes the neuter soft ending -ье to form «третье», agreeing with neuter 'окно'."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Like what part of speech do ordinal numerals such as «первый» and «пятый» decline?",
+      "options": ["like nouns", "like adjectives", "like verbs", "they never change"],
+      "answer": 1,
+      "explain": "Ordinals decline like adjectives, agreeing with their noun in gender, number and case."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Я прочитал вторую главу книги.», why is «вторую» used?",
+      "options": ["It agrees with feminine 'главу' in the accusative as a direct object", "It is masculine nominative", "It is a date in the genitive", "It marks a floor in the prepositional"],
+      "answer": 0,
+      "explain": "'Вторую' takes the feminine accusative ending -ую to agree with the direct object 'главу'."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «Дети сидят за первым столом.», the form «первым» is in which case after «за»?",
+      "options": ["nominative", "genitive", "instrumental", "prepositional"],
+      "answer": 2,
+      "explain": "'Первым' agrees with masculine 'столом' in the instrumental after 'за', using the ending -ым."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «Седьмой» mean in «Седьмой день недели - воскресенье.»?",
+      "options": ["sixth", "seventh", "eighth", "ninth"],
+      "answer": 1,
+      "explain": "«Седьмой» is the ordinal 'seventh', agreeing with masculine 'день' in the nominative."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Я взял книгу с девятой полки.», «девятой» is in the genitive after «с» and agrees with which word?",
+      "options": ["книгу", "полки", "я", "взял"],
+      "answer": 1,
+      "explain": "'Девятой' agrees with feminine 'полки' in the genitive after 'с'."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What does «Десятый» mean in «Десятый этаж самый высокий.»?",
+      "options": ["eighth", "ninth", "tenth", "twelfth"],
+      "answer": 2,
+      "explain": "«Десятый» is the ordinal 'tenth', agreeing with masculine 'этаж' in the nominative."
+    },
+    {
+      "id": "Q12",
+      "prompt": "When naming today's date, as in «Сегодня первое мая.», the ordinal is in which form?",
+      "options": ["neuter nominative (agreeing with the implied 'число')", "genitive plural", "masculine instrumental", "feminine accusative"],
+      "answer": 0,
+      "explain": "A bare date naming the day uses the neuter nominative ordinal «первое» for the implied 'число'; the month stays genitive."
+    },
+    {
+      "id": "Q13",
+      "prompt": "In «Концерт был третьего марта.», to say WHEN something happened the ordinal goes into which case?",
+      "options": ["nominative", "genitive", "dative", "prepositional"],
+      "answer": 1,
+      "explain": "To say when something happened, the ordinal takes the genitive: «третьего», with the month «марта» also genitive."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Экзамен будет двадцать второго июня.», which word of the compound ordinal declines?",
+      "options": ["only 'двадцать'", "only the last word 'второго'", "both words equally", "neither word changes"],
+      "answer": 1,
+      "explain": "Only the last word of a compound ordinal declines: «второго» takes the genitive while «двадцать» stays fixed."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Floors use «на» plus which case, as in «Мы живём на пятом этаже.»?",
+      "options": ["accusative", "genitive", "prepositional", "instrumental"],
+      "answer": 2,
+      "explain": "Floors use 'на' plus the prepositional case; «пятом» agrees with masculine 'этаже' in the prepositional."
+    },
+    {
+      "id": "Q16",
+      "prompt": "Collective numerals like «двое», «трое», «четверо» govern which case of the following noun?",
+      "options": ["nominative singular", "genitive plural", "dative singular", "instrumental plural"],
+      "answer": 1,
+      "explain": "Collective numerals govern the genitive plural, e.g. «двое детей», «трое друзей», «четверо студентов»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "In «У них двое детей.», the form «детей» is in which case?",
+      "options": ["nominative singular", "genitive plural", "accusative singular", "prepositional plural"],
+      "answer": 1,
+      "explain": "The collective «двое» governs the genitive plural, so 'дети' appears as genitive plural «детей»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "With plural-only nouns like «сутки» or «ножницы», as in «Мы ехали четверо суток.», collective numerals are:",
+      "options": ["forbidden", "obligatory", "optional and rare", "replaced by ordinals"],
+      "answer": 1,
+      "explain": "With pluralia tantum nouns like 'сутки' a collective is obligatory; «четверо» governs the genitive plural «суток»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In the predicative «Нас было трое.», what form does the past link verb take?",
+      "options": ["plural 'были'", "neuter singular 'было'", "feminine 'была'", "masculine 'был'"],
+      "answer": 1,
+      "explain": "Used standalone, «трое» counts the genitive 'нас' and the past link verb stays neuter singular «было»."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «Нас здесь только двое.» mean?",
+      "options": ["There are only two of us here", "We are leaving at two", "We live on the second floor", "We have two children"],
+      "answer": 0,
+      "explain": "Standalone «двое» with genitive 'нас' states the group size: 'there are only two of us here'."
+    }
+  ]
+}

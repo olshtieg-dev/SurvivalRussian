@@ -1,0 +1,148 @@
+{
+  "id": "quiz-verbs-second-conjugation",
+  "chunkId": "verbs-second-conjugation",
+  "label": "Verbs — 2nd Conjugation",
+  "description": "A 20-question check on second-conjugation verbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "Complete the sentence: «Мой брат всегда ___ правду.» (говорить, 3rd-person singular)",
+      "options": ["говорю", "говоришь", "говорит", "говорят"],
+      "answer": 2,
+      "explain": "Third-person singular of говорить takes the -ит ending, as in «Мой брат всегда говорит правду.»"
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «Ты всегда говоришь очень тихо.», what does the ending -ишь in говоришь mark?",
+      "options": ["First-person singular", "Second-person singular", "Third-person plural", "The past tense"],
+      "answer": 1,
+      "explain": "The -ишь ending is the second-person singular present, the hallmark of second-conjugation verbs like говорить."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say «I love you very much» in Russian?",
+      "options": ["Я очень люблю тебя.", "Ты очень любишь тебя.", "Я очень любит тебя.", "Я очень любить тебя."],
+      "answer": 0,
+      "explain": "The first-person singular of любить is люблю (with the epenthetic л), as in «Я очень люблю тебя.»"
+    },
+    {
+      "id": "Q04",
+      "prompt": "Why is the form люблю spelled with an extra л that любишь and любит lack?",
+      "options": ["It is a spelling error", "An epenthetic л (б→бл) appears only in the 1st-person singular", "Because it is past tense", "Because it is plural"],
+      "answer": 1,
+      "explain": "Любить inserts an epenthetic л (б→бл) only in the 1sg люблю; the other present forms keep the plain stem."
+    },
+    {
+      "id": "Q05",
+      "prompt": "«Я хожу в школу каждый день.» Which consonant mutation does хожу show?",
+      "options": ["с → ш", "д → ж", "т → ч", "no mutation"],
+      "answer": 1,
+      "explain": "Ходить mutates д → ж in the 1sg present, giving хожу against ходишь, ходит elsewhere."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Complete the sentence: «Я ___ тебя о помощи.» (просить, 1st-person singular)",
+      "options": ["просишь", "просит", "просим", "прошу"],
+      "answer": 3,
+      "explain": "Просить mutates с → ш in the 1sg, so «Я прошу тебя о помощи.» is correct."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Я отвечу тебе завтра утром.» mean?",
+      "options": ["I answered you yesterday morning.", "I will answer you tomorrow morning.", "You will answer me tomorrow morning.", "Answer me tomorrow morning."],
+      "answer": 1,
+      "explain": "Отвечу is the perfective simple future (1sg) of ответить, with т→ч mutation: it means 'I will answer'."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «Я отвечу тебе завтра утром.», the form отвечу comes from ответить via which mutation?",
+      "options": ["т → ч", "с → ш", "д → ж", "б → бл"],
+      "answer": 0,
+      "explain": "Ответить mutates the stem т to ч in the 1sg, giving отвечу; the т is restored in ответишь, ответит."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Бросить is perfective. In «Я брошу мяч высоко вверх.», what does брошу express?",
+      "options": ["A completed single throw in the future", "A repeated, ongoing throwing", "A past throw", "A command to throw"],
+      "answer": 0,
+      "explain": "As a perfective, брошу is a simple future marking one completed throw; the imperfective partner бросать marks repeated action."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What is the imperfective aspectual partner of perfective бросить?",
+      "options": ["бросать", "бросаться", "выбросить", "бросавший"],
+      "answer": 0,
+      "explain": "The lessons pair perfective бросить (one completed act) with imperfective бросать (repeated or ongoing action)."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Complete the sentence: «Птицы ___ в утреннем небе.» (кричать, 3rd-person plural)",
+      "options": ["кричат", "кричит", "кричишь", "кричу"],
+      "answer": 0,
+      "explain": "Кричать takes the -ат plural ending after the hushing ч (not -ят): «Птицы кричат в утреннем небе.»"
+    },
+    {
+      "id": "Q12",
+      "prompt": "Why does кричать end in -ат (кричат) rather than -ят in the 3rd-person plural?",
+      "options": ["It is a first-conjugation verb", "Because -ат is used after the hushing consonant ч", "Because it is feminine", "Because it is perfective"],
+      "answer": 1,
+      "explain": "After hushing consonants like ч (and ж), second-conjugation verbs spell the 3pl ending as -ат, as in кричат, лежат, спят."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Лежать ends in -ать, yet «Ты лежишь весь день в постели.» uses -ишь. What does this show?",
+      "options": ["Лежать is irregular and has no pattern", "Despite the -ать infinitive, лежать takes i-type (2nd-conjugation) endings", "Лежишь is a typo for лежаешь", "Лежать is first conjugation"],
+      "answer": 1,
+      "explain": "Лежать has an -ать infinitive but conjugates with i-type endings (-ишь, -ит, -ат), making it second conjugation."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What does «Книга лежит на столе.» mean?",
+      "options": ["The book is lying on the table.", "The book falls off the table.", "Put the book on the table.", "The book lay on the table."],
+      "answer": 0,
+      "explain": "Лежит is the 3sg present of лежать 'to lie'; the sentence describes where an object rests: 'The book is lying on the table.'"
+    },
+    {
+      "id": "Q15",
+      "prompt": "How would you say «I usually sleep eight hours» in Russian?",
+      "options": ["Я обычно спишь восемь часов.", "Я обычно сплю восемь часов.", "Я обычно спит восемь часов.", "Я обычно спать восемь часов."],
+      "answer": 1,
+      "explain": "The 1sg of спать is сплю (with inserted л after the labial), as in «Я обычно сплю восемь часов.»"
+    },
+    {
+      "id": "Q16",
+      "prompt": "Говорить has a suppletive perfective. Which form means 'tell me the truth' (perfective imperative)?",
+      "options": ["говори", "говорите", "сказал", "скажи"],
+      "answer": 3,
+      "explain": "The perfective сказать has the suppletive stem скаж-/сказ-; its imperative is скажи, as in «Прошу тебя, скажи мне правду.»"
+    },
+    {
+      "id": "Q17",
+      "prompt": "Верить governs which case for the person trusted, as in «Я ___ тебе всем сердцем.»?",
+      "options": ["accusative (тебя)", "genitive (тебя)", "dative (тебе)", "instrumental (тобой)"],
+      "answer": 2,
+      "explain": "Верить takes a dative object for the person trusted: «Я верю тебе всем сердцем.»"
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «Они всегда боялись перемен.» mean?",
+      "options": ["They always feared change.", "They are always afraid of change.", "Don't be afraid of change.", "We were always afraid of change."],
+      "answer": 0,
+      "explain": "Боялись is the plural past of reflexive бояться 'to be afraid'; перемен is the genitive object of fear: 'They always feared change.'"
+    },
+    {
+      "id": "Q19",
+      "prompt": "Бояться is reflexive. In «Я боюсь высоты.», what does the form боюсь consist of?",
+      "options": ["The 1sg ending -ю plus the reflexive particle -сь", "The past tense plus -ся", "A plural ending plus -те", "An imperative plus -сь"],
+      "answer": 0,
+      "explain": "Боюсь is the 1sg present (-ю) of бояться with the reflexive particle -сь attached; высоты is the genitive object of fear."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Complete the sentence: «Мы ___ вас остаться ненадолго.» (просить, 1st-person plural)",
+      "options": ["прошу", "просишь", "просим", "просят"],
+      "answer": 2,
+      "explain": "First-person plural of просить uses the -им ending: «Мы просим вас остаться ненадолго.»"
+    }
+  ]
+}

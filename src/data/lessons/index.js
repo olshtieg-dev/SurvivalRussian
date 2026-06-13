@@ -1,5 +1,6 @@
 import missionLessons from './mission.json';
 import slangLessons from './slang.json';
+import slangReceptiveLessons from './slang-receptive.json';
 import groceryLessons from './grocery-shopping.json';
 import kitchenLessons from './kitchen-cooking.json';
 import householdLessons from './household-items.json';
@@ -87,6 +88,18 @@ export const lessonSets = [
     badge: 'SL',
     description: 'Casual greetings and everyday conversation.',
     missions: slangLessons,
+  },
+  {
+    // band: 'receptive' — recognition-only set. Each mission also carries
+    // band:'receptive'. The flag is forward-looking metadata: the typing engine
+    // does not yet enforce read-only, so these are still typeable for now. When
+    // a read-only mode is wired, gate production on this flag (set or mission level).
+    id: 'slang-receptive',
+    label: 'Slang (Recognition)',
+    badge: 'SR',
+    band: 'receptive',
+    description: "Street slang to recognize, not produce — what it means when you hear it. Clean only, no мат.",
+    missions: slangReceptiveLessons,
   },
   {
     id: 'grocery',

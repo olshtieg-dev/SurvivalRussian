@@ -1,0 +1,248 @@
+{
+  "id": "quiz-nouns-abstract-event",
+  "chunkId": "nouns-abstract-event",
+  "label": "Nouns — Abstract (Events)",
+  "description": "A 20-question check on event and action nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «Наша встреча была очень тёплой» mean?",
+      "options": [
+        "Our meeting was very warm.",
+        "Our meeting will be very long.",
+        "Their meeting was very short.",
+        "My meeting was very cold."
+      ],
+      "answer": 0,
+      "explain": "«Встреча» is the nominative subject and 'тёплой' is the instrumental predicate after 'была', meaning the meeting was warm."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How do you say 'This is a serious problem' in Russian?",
+      "options": [
+        "Это серьёзная ошибка.",
+        "Это серьёзная проблема.",
+        "Это серьёзная причина.",
+        "Это серьёзная попытка."
+      ],
+      "answer": 1,
+      "explain": "«Проблема» is the feminine noun for 'problem', taking the agreeing feminine adjective 'серьёзная'."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Я перенёс важную встречу», what case is «встречу»?",
+      "options": [
+        "Nominative",
+        "Genitive",
+        "Accusative",
+        "Dative"
+      ],
+      "answer": 2,
+      "explain": "«Встречу» is the accusative direct object of 'перенёс', with the feminine -у accusative ending."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Choose the correct form: «Мы готовимся к завтрашней ___» (we are preparing for tomorrow's meeting).",
+      "options": [
+        "встрече",
+        "встречу",
+        "встречи",
+        "встречей"
+      ],
+      "answer": 0,
+      "explain": "The preposition 'к' requires the dative, giving «встрече»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What is the gender of «случай» (as in «Это редкий случай»)?",
+      "options": [
+        "Feminine",
+        "Masculine",
+        "Neuter",
+        "It has no gender"
+      ],
+      "answer": 1,
+      "explain": "«Случай» is a masculine noun ending in soft -й, taking the masculine adjective 'редкий'."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What does «Все ждут этого события» mean?",
+      "options": [
+        "Everyone remembers this event.",
+        "Everyone discussed this event.",
+        "Everyone is waiting for this event.",
+        "Everyone forgot this event."
+      ],
+      "answer": 2,
+      "explain": "«События» is the genitive after 'ждут', which governs the genitive of awaited things, so everyone awaits the event."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Директор принял важное решение», what case is «решение»?",
+      "options": [
+        "Accusative",
+        "Genitive",
+        "Prepositional",
+        "Instrumental"
+      ],
+      "answer": 0,
+      "explain": "Neuter «решение» is the accusative direct object of 'принял', identical to the nominative form."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which sentence correctly uses the genitive after «без» (without)?",
+      "options": [
+        "Без решению проблема остаётся.",
+        "Без решения проблема остаётся.",
+        "Без решением проблема остаётся.",
+        "Без решение проблема остаётся."
+      ],
+      "answer": 1,
+      "explain": "«Без» requires the genitive «решения», expressing absence in 'без решения' (without a decision)."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What is the genitive plural of «ошибка» in «В работе много мелких ___»?",
+      "options": [
+        "ошибков",
+        "ошибки",
+        "ошибок",
+        "ошибкам"
+      ],
+      "answer": 2,
+      "explain": "After 'много' the noun takes the genitive plural «ошибок», with a fleeting vowel before 'к'."
+    },
+    {
+      "id": "Q10",
+      "prompt": "How do you say 'The fire started at night' in Russian?",
+      "options": [
+        "Большой пожар начался ночью.",
+        "Большой случай начался ночью.",
+        "Большая встреча началась ночью.",
+        "Большое событие началось ночью."
+      ],
+      "answer": 0,
+      "explain": "«Пожар» (fire) is the masculine nominative subject of 'начался', meaning the fire began."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «На всякий случай возьми зонт», what does the phrase «на всякий случай» mean?",
+      "options": [
+        "in this case",
+        "in case of rain",
+        "just in case",
+        "by chance"
+      ],
+      "answer": 2,
+      "explain": "«На всякий случай» is a fixed idiom meaning 'just in case', with «случай» in the accusative after 'на'."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Choose the correct form: «Он наконец достиг своей ___» (he finally reached his goal).",
+      "options": [
+        "цель",
+        "цели",
+        "целью",
+        "целе"
+      ],
+      "answer": 1,
+      "explain": "The verb 'достиг' governs the genitive, and the feminine -ь noun «цель» takes -и, giving «цели»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What case is «попытки» in «После первой попытки он устал»?",
+      "options": [
+        "Genitive",
+        "Dative",
+        "Accusative",
+        "Instrumental"
+      ],
+      "answer": 0,
+      "explain": "The preposition 'после' requires the genitive «попытки», meaning 'after the attempt'."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What does «Из-за пожара сгорел старый дом» mean?",
+      "options": [
+        "Despite the fire, the old house survived.",
+        "Because of the fire, the old house burned down.",
+        "After the fire, they built an old house.",
+        "Near the fire stood an old house."
+      ],
+      "answer": 1,
+      "explain": "«Из-за» takes the genitive «пожара» to mean 'because of the fire', and the house burned down as a result."
+    },
+    {
+      "id": "Q15",
+      "prompt": "How do you say 'I made a stupid mistake' in Russian?",
+      "options": [
+        "Я сделал глупую попытку.",
+        "Я сделал глупую причину.",
+        "Я сделал глупую ошибку.",
+        "Я сделал глупую цель."
+      ],
+      "answer": 2,
+      "explain": "«Ошибку» is the accusative of «ошибка» (mistake), the direct object of 'сделал'."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «Он гордится своим поступком», what case is «поступком»?",
+      "options": [
+        "Genitive",
+        "Dative",
+        "Prepositional",
+        "Instrumental"
+      ],
+      "answer": 3,
+      "explain": "The verb 'гордиться' governs the instrumental, giving «поступком» (with the fleeting vowel dropped)."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Which word fills the gap: «Мы готовы к любой ___» (we are ready for any situation)?",
+      "options": [
+        "ситуации",
+        "ситуацию",
+        "ситуацией",
+        "ситуация"
+      ],
+      "answer": 0,
+      "explain": "The preposition 'к' requires the dative «ситуации» after 'готовы'."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «У нас нет такой возможности» mean?",
+      "options": [
+        "We have such a possibility.",
+        "We do not have such a possibility.",
+        "They want such a possibility.",
+        "We had such a possibility."
+      ],
+      "answer": 1,
+      "explain": "«Нет» takes the genitive «возможности» to deny existence, meaning there is no such chance."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What is the gender of «событие» (as in «Это важное историческое событие»)?",
+      "options": [
+        "Masculine",
+        "Feminine",
+        "Neuter",
+        "Plural only"
+      ],
+      "answer": 2,
+      "explain": "«Событие» is a neuter noun ending in -ие, taking the agreeing neuter adjectives 'важное' and 'историческое'."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What is the nominative plural of «путешествие» (journey)?",
+      "options": [
+        "путешествии",
+        "путешествий",
+        "путешествиям",
+        "путешествия"
+      ],
+      "answer": 3,
+      "explain": "The neuter plural is «путешествия», as in 'Эти путешествия были незабываемыми' (these journeys were unforgettable)."
+    }
+  ]
+}

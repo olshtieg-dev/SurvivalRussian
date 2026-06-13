@@ -1,0 +1,188 @@
+{
+  "id": "quiz-nouns-time-units",
+  "chunkId": "nouns-time-units",
+  "label": "Nouns — Time Units",
+  "description": "A 20-question check on time-unit nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «день» mean in «Сегодня хороший день»?",
+      "options": ["day", "week", "hour", "year"],
+      "answer": 0,
+      "explain": "«День» is the masculine noun for day, here the nominative subject of «Сегодня хороший день»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say 'week' in Russian?",
+      "options": ["час", "месяц", "минута", "неделя"],
+      "answer": 3,
+      "explain": "«Неделя» means week, as in «Эта неделя была очень тяжёлой»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "What gender is «ночь» in «Сегодня ночь очень тихая»?",
+      "options": ["masculine", "feminine", "neuter", "plural only"],
+      "answer": 1,
+      "explain": "«Ночь» is a feminine soft-sign noun, agreeing with the feminine adjective «тихая»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Мы встретимся днём», which case is «днём» and what does it express?",
+      "options": [
+        "genitive, possession",
+        "instrumental, time ('during the day')",
+        "dative, direction",
+        "prepositional, topic"
+      ],
+      "answer": 1,
+      "explain": "«Днём» is the instrumental used adverbially to mean 'during the day', a common time expression."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What does «Я приду через час» mean in English?",
+      "options": [
+        "I came an hour ago.",
+        "I wait an hour every day.",
+        "I left after an hour.",
+        "I will come in an hour."
+      ],
+      "answer": 3,
+      "explain": "«Через час» uses the accusative «час» after «через» to mean 'in an hour's time'."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «Прошло уже три года», why is the form «года» (not «год» or «годы») used?",
+      "options": [
+        "It is the genitive singular required after the number «три».",
+        "It is the nominative plural subject.",
+        "It is the dative after a preposition.",
+        "It is the instrumental of time."
+      ],
+      "answer": 0,
+      "explain": "Numbers two through four (here «три») take the genitive singular, giving «три года»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What is the suppletive genitive plural of «год» seen in «Прошло много долгих лет»?",
+      "options": ["годов", "годей", "лет", "годы"],
+      "answer": 2,
+      "explain": "«Год» borrows its genitive plural «лет» from «лето», required here after «много»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which form correctly fills the blank: «В прошлом ___ была холодная зима» (in the prepositional, meaning 'last year')?",
+      "options": ["год", "года", "году", "годом"],
+      "answer": 2,
+      "explain": "«Год» takes the special locative prepositional «году» after «в», as in «В прошлом году»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «Этим летом я еду на море» tell you about «летом»?",
+      "options": [
+        "It is genitive, marking possession.",
+        "It is the accusative direct object.",
+        "It is the nominative subject.",
+        "It is the instrumental meaning 'in summer'."
+      ],
+      "answer": 3,
+      "explain": "«Летом» is the instrumental of time meaning 'in summer', with «этим» agreeing in the neuter."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What gender is «лето» (summer)?",
+      "options": ["masculine", "feminine", "neuter", "it has no gender"],
+      "answer": 2,
+      "explain": "«Лето» is neuter, taking the agreeing neuter adjective «жаркое» in «Лето в этом году жаркое»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Подожди одну минуту, пожалуйста», what case is «минуту»?",
+      "options": ["nominative", "accusative", "genitive", "dative"],
+      "answer": 1,
+      "explain": "«Минуту» is the accusative of duration after «подожди», with «одну» agreeing in the feminine accusative."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which time noun completes «Магазин работает круглые ___», meaning 'around the clock'?",
+      "options": ["часы", "недели", "сутки", "минуты"],
+      "answer": 2,
+      "explain": "The fixed idiom is «круглые сутки», where «сутки» is a plurale tantum meaning a 24-hour period."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Why does «сутки» take «двое»/«трое» (e.g. «Прошло двое суток без сна») instead of «два»/«три»?",
+      "options": [
+        "Because «сутки» is feminine.",
+        "Because «сутки» is a plurale tantum with no singular, so it uses collective numerals.",
+        "Because «сутки» means 'two days' by itself.",
+        "Because collective numerals are used for all time nouns."
+      ],
+      "answer": 1,
+      "explain": "«Сутки» has no singular, so it is counted with collective numerals like «двое суток», «трое суток»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "How would you say 'in October' (a month) in Russian?",
+      "options": ["в октябрь", "в октябре", "октябрём", "до октября"],
+      "answer": 1,
+      "explain": "Months and years take «в» plus the prepositional, so 'in October' is «в октябре», as in «Мы встретимся в октябре»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «Желаю тебе спокойной ночи!», why is «ночи» in the genitive?",
+      "options": [
+        "It follows the preposition «в».",
+        "The verb «желаю» governs the genitive of the thing wished.",
+        "It is the nominative plural.",
+        "It marks duration."
+      ],
+      "answer": 1,
+      "explain": "«Желаю» takes the genitive of what is wished, giving «спокойной ночи» in this standard goodnight phrase."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What is the nominative plural of «вечер» (evening), as in «Зимние ___ очень длинные»?",
+      "options": ["вечеры", "вечера", "вечери", "вечеров"],
+      "answer": 1,
+      "explain": "«Вечер» takes the stressed plural ending «вечера», as in «Зимние вечера очень длинные»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «Доброе утро» mean, and what case is «утро» in?",
+      "options": [
+        "'Good evening', accusative",
+        "'Good morning', nominative",
+        "'Good night', genitive",
+        "'Good day', instrumental"
+      ],
+      "answer": 1,
+      "explain": "«Доброе утро» means 'good morning', with the neuter «утро» in the nominative in this fixed greeting."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Which numeral pattern is correct: «Я приду через ___» (in five minutes)?",
+      "options": ["пять минута", "пять минуту", "пять минут", "пять минуты"],
+      "answer": 2,
+      "explain": "After «пять» the noun takes the genitive plural, giving «пять минут» in «Я приду через пять минут»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What does «век» mean in «Наступил новый век»?",
+      "options": ["age (of a person)", "century", "moment", "season"],
+      "answer": 1,
+      "explain": "«Век» means century, here the masculine nominative subject of «Наступил новый век»."
+    },
+    {
+      "id": "Q20",
+      "prompt": "How many minutes does «В этом часе шестьдесят минут» say are in an hour, and which time noun is «час»?",
+      "options": [
+        "sixty minutes; «час» = hour",
+        "sixteen minutes; «час» = minute",
+        "sixty seconds; «час» = second",
+        "sixty hours; «час» = day"
+      ],
+      "answer": 0,
+      "explain": "«Час» means hour, and the sentence states there are sixty («шестьдесят») minutes in an hour."
+    }
+  ]
+}

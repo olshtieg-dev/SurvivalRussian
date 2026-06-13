@@ -1,0 +1,168 @@
+{
+  "id": "quiz-verbs-irregular",
+  "chunkId": "verbs-irregular",
+  "label": "Verbs — Irregular",
+  "description": "A 20-question check on irregular verbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "Why is there no verb in «Сейчас я дома и совсем один.»?",
+      "options": [
+        "Modern Russian has no present-tense form of быть, so the link is left silent.",
+        "The verb was accidentally dropped from the sentence.",
+        "Present быть is replaced by идти in this position.",
+        "A subject pronoun cannot take a verb in Russian."
+      ],
+      "answer": 0,
+      "explain": "Быть has a zero present tense: «я дома» simply drops the verb, leaving the subject-predicate link silent."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Which past form correctly fills the gap for a female 'ты': «Утром ты ___ очень занята.»?",
+      "options": ["был", "была", "было", "были"],
+      "answer": 1,
+      "explain": "Past быть agrees in gender, not person, so a female subject takes the feminine «была», as in «Утром ты была очень занята.»"
+    },
+    {
+      "id": "Q03",
+      "prompt": "What is the 3rd-person plural (они) future form of быть, as in «Через час они ___ здесь.»?",
+      "options": ["будут", "будет", "будете", "был"],
+      "answer": 0,
+      "explain": "The future of быть conjugates by person; the они-form is «будут», as in «Через час они будут здесь.»"
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Сегодня у меня есть свободное время.», what does «есть» mean?",
+      "options": [
+        "It is the verb 'to eat'.",
+        "It marks existence/possession — 'there is / I have'.",
+        "It is the past tense of быть.",
+        "It is an imperative meaning 'be!'."
+      ],
+      "answer": 1,
+      "explain": "«Есть» is the one surviving present form of быть, used for existence and the «у меня есть» possession frame."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Which is the correct 1sg form of perfective дать (future meaning), as in «Завтра я ___ тебе ответ.»?",
+      "options": ["даю", "дашь", "дам", "дал"],
+      "answer": 2,
+      "explain": "«Дам» is the irregular 1sg of perfective дать with future meaning: «Завтра я дам тебе ответ.»"
+    },
+    {
+      "id": "Q06",
+      "prompt": "Which is the correct они-form of дать, as in «Они ___ нам полезный совет.»?",
+      "options": ["дают", "дадут", "дадим", "даите"],
+      "answer": 1,
+      "explain": "The irregular 3pl of perfective дать is «дадут»: «Они дадут нам полезный совет.» (дают is the imperfective давать form)."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Давай поужинаем сегодня вместе.» mean?",
+      "options": [
+        "Give me dinner tonight.",
+        "Let's have dinner together tonight.",
+        "They gave us dinner together.",
+        "You always give dinners together."
+      ],
+      "answer": 1,
+      "explain": "«Давай» + a 1pl perfective forms the hortative 'let's…', so the sentence means 'let's have dinner together tonight'."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which form completes the feminine past in «Она ___ мне ключ от квартиры.»?",
+      "options": ["дал", "дало", "дала", "дали"],
+      "answer": 2,
+      "explain": "The feminine past of дать is end-stressed «дала́»: «Она дала мне ключ от квартиры.»"
+    },
+    {
+      "id": "Q09",
+      "prompt": "Which is the correct 1sg present of есть (to eat), as in «На обед я ___ горячий суп.»?",
+      "options": ["ем", "ешь", "едаю", "едим"],
+      "answer": 0,
+      "explain": "«Ем» is the irregular 1sg of есть; the stem has no normal vowel: «На обед я ем горячий суп.»"
+    },
+    {
+      "id": "Q10",
+      "prompt": "Which is the correct они-form of есть (to eat), as in «Они часто ___ свежую рыбу.»?",
+      "options": ["едают", "едят", "ест", "емут"],
+      "answer": 1,
+      "explain": "The 3pl of есть shifts to the plural stem ед-, giving «едят»: «Они часто едят свежую рыбу.»"
+    },
+    {
+      "id": "Q11",
+      "prompt": "In the plural, the present stem of есть changes. Which form is correct: «По выходным мы ___ мясо.»?",
+      "options": ["емим", "едим", "емем", "ешем"],
+      "answer": 1,
+      "explain": "The plural present of есть uses the ед- stem: 1pl is «едим», as in «По выходным мы едим мясо.»"
+    },
+    {
+      "id": "Q12",
+      "prompt": "How do you say 'Eat your soup while it's hot' (informal singular)? «___ свой суп, пока горячий.»",
+      "options": ["Ем", "Ешь", "Ел", "Едь"],
+      "answer": 1,
+      "explain": "The 2sg imperative of есть is «Ешь», identical to the present 2sg: «Ешь свой суп, пока горячий.»"
+    },
+    {
+      "id": "Q13",
+      "prompt": "Which is the correct 1sg present of идти, as in «После работы я ___ домой.»?",
+      "options": ["хожу", "иду", "шёл", "идём"],
+      "answer": 1,
+      "explain": "«Иду» is the irregular 1sg present of идти (present root ид-): «После работы я иду домой.»"
+    },
+    {
+      "id": "Q14",
+      "prompt": "The past tense of идти is suppletive. Which masculine past form is correct: «Старик ___ очень медленно.»?",
+      "options": ["идёл", "ишёл", "шёл", "идил"],
+      "answer": 2,
+      "explain": "Идти switches to the suppletive root ш- in the past: the masculine form is «шёл», as in «Старик шёл очень медленно.»"
+    },
+    {
+      "id": "Q15",
+      "prompt": "Which feminine suppletive past of идти fits: «Она ___ домой пешком.»?",
+      "options": ["шла", "идла", "шёла", "ходила"],
+      "answer": 0,
+      "explain": "The feminine suppletive past of идти is «шла» (root ш-, no и): «Она шла домой пешком.»"
+    },
+    {
+      "id": "Q16",
+      "prompt": "Which is the correct 1sg present of ехать (to go by vehicle): «Я ___ на работу на автобусе.»?",
+      "options": ["ехаю", "еду", "ездю", "иду"],
+      "answer": 1,
+      "explain": "The present of ехать sits on the ед- root, so the 1sg is «еду»: «Я еду на работу на автобусе.»"
+    },
+    {
+      "id": "Q17",
+      "prompt": "The past of ехать uses the infinitive stem ех-, not the present ед-. Which masculine past is correct: «Вчера я ___ домой два часа.»?",
+      "options": ["едал", "ехал", "едил", "ешёл"],
+      "answer": 1,
+      "explain": "The masculine past of ехать is built on the ех- stem: «ехал», as in «Вчера я ехал домой два часа.»"
+    },
+    {
+      "id": "Q18",
+      "prompt": "Ехать borrows its command from another stem. Which imperative is correct: «___ осторожно, дорога скользкая.»?",
+      "options": ["Едь", "Ехай", "Поезжай", "Иди"],
+      "answer": 2,
+      "explain": "Ехать has no native imperative; it borrows «поезжай» (or bare «езжай»): «Поезжай осторожно, дорога скользкая.»"
+    },
+    {
+      "id": "Q19",
+      "prompt": "Which perfective future form of пойти fits: «Вечером я обязательно ___ домой.»?",
+      "options": ["иду", "пойду", "пошёл", "пойдёт"],
+      "answer": 1,
+      "explain": "«Пойду» is the 1sg future of perfective пойти (prefix по- = onset/completion): «Вечером я обязательно пойду домой.»"
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «Его не будет в офисе завтра.» mean?",
+      "options": [
+        "He won't be in the office tomorrow.",
+        "He was not in the office yesterday.",
+        "He is not eating in the office tomorrow.",
+        "He gave the office to someone tomorrow."
+      ],
+      "answer": 0,
+      "explain": "«Не будет» negates the 3sg future of быть; with negation the subject goes genitive («его»), meaning 'he won't be there'."
+    }
+  ]
+}

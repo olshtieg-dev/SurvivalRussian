@@ -1,0 +1,148 @@
+{
+  "id": "quiz-binary-adjectives",
+  "chunkId": "binary-adjectives",
+  "label": "Adjective Antonym Pairs",
+  "description": "A 20-question check on antonym adjective pairs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What is the opposite of «большой»?",
+      "options": ["маленький", "огромный", "широкий", "длинный"],
+      "answer": 0,
+      "explain": "«Большой» (big) pairs with «маленький» (small); «огромный» is a same-polarity intensifier (huge)."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What is the opposite of «новый»?",
+      "options": ["молодой", "чистый", "свежий", "старый"],
+      "answer": 3,
+      "explain": "«Новый» (new) is opposed by «старый» (old), as in «Мы купили новый дом» versus «старый дом»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "What does «Сегодня дует сильный ветер.» mean in English?",
+      "options": ["A weak wind is blowing today.", "A cold wind is blowing today.", "A strong wind is blowing today.", "A warm wind is blowing today."],
+      "answer": 2,
+      "explain": "«Сильный» means strong, so the sentence describes a strong wind."
+    },
+    {
+      "id": "Q04",
+      "prompt": "How would you say \"a slow train\" in Russian, matching «Это очень медленный поезд.»?",
+      "options": ["быстрый поезд", "медленный поезд", "тихий поезд", "лёгкий поезд"],
+      "answer": 1,
+      "explain": "«Медленный» means slow; «быстрый» is its antonym (fast)."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What is the opposite of «хороший»?",
+      "options": ["добрый", "плохой", "сложный", "слабый"],
+      "answer": 1,
+      "explain": "«Хороший» (good) pairs with «плохой» (bad); «добрый» means kind, not the size of quality."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Which adjective best fits: «За окном дует ___ ветер.» (it is winter)?",
+      "options": ["тёплый", "горячий", "холодный", "сухой"],
+      "answer": 2,
+      "explain": "A wintry wind is «холодный» (cold), the antonym of «тёплый» (warm)."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Во дворе растёт высокое дерево.» mean in English?",
+      "options": ["A low tree grows in the yard.", "A tall tree grows in the yard.", "A wide tree grows in the yard.", "An old tree grows in the yard."],
+      "answer": 1,
+      "explain": "«Высокое» means tall/high; its antonym is «низкий» (low)."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What is the opposite of «светлый»?",
+      "options": ["тёмный", "чёрный", "грязный", "тихий"],
+      "answer": 0,
+      "explain": "«Светлый» (light/bright) is opposed by «тёмный» (dark), as in «светлая комната» versus «тёмная ночь»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Choose the correctly agreeing form: «В библиотеке очень ___ комната.»",
+      "options": ["тихий", "тихая", "тихое", "тихие"],
+      "answer": 1,
+      "explain": "«Комната» is feminine, so the adjective takes the feminine ending: «тихая»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What is the opposite of «чистый»?",
+      "options": ["сухой", "грязный", "пустой", "тонкий"],
+      "answer": 1,
+      "explain": "«Чистый» (clean) pairs with «грязный» (dirty), as in «чистый пол» versus «грязный пол»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What does «У ворот стоит злой пёс.» mean in English?",
+      "options": ["A kind dog stands by the gate.", "A big dog stands by the gate.", "An angry dog stands by the gate.", "A sad dog stands by the gate."],
+      "answer": 2,
+      "explain": "«Злой» means angry/mean; its antonym is «добрый» (kind)."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the opposite of «весёлый»?",
+      "options": ["злой", "грустный", "тихий", "слабый"],
+      "answer": 1,
+      "explain": "«Весёлый» (cheerful) pairs with «грустный» (sad), as in «весёлый мальчик» versus «грустная сестра»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "How would you say \"an empty bottle\" in Russian, matching «Эта бутылка совсем пустая.»?",
+      "options": ["полная бутылка", "пустая бутылка", "чистая бутылка", "лёгкая бутылка"],
+      "answer": 1,
+      "explain": "«Пустая» means empty; its antonym is «полный» (full)."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What is the opposite of «длинный»?",
+      "options": ["узкий", "тонкий", "низкий", "короткий"],
+      "answer": 3,
+      "explain": "«Длинный» (long) pairs with «короткий» (short), as in «длинная дорога» versus «короткий путь»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does «У меня очень тяжёлая сумка.» mean in English?",
+      "options": ["I have a very light bag.", "I have a very heavy bag.", "I have a very small bag.", "I have a very old bag."],
+      "answer": 1,
+      "explain": "«Тяжёлая» means heavy; its antonym is «лёгкий» (light)."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What is the opposite of «широкий»?",
+      "options": ["узкий", "тонкий", "низкий", "короткий"],
+      "answer": 0,
+      "explain": "«Широкий» (wide) pairs with «узкий» (narrow), as in «широкий проспект» versus «узкий коридор»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Which adjective best fits: «Это очень ___ вопрос.» (anyone can answer it easily)?",
+      "options": ["сложный", "простой", "тяжёлый", "длинный"],
+      "answer": 1,
+      "explain": "An easy question is «простой» (simple); its antonym is «сложный» (complex)."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the opposite of «мокрый»?",
+      "options": ["сухой", "чистый", "холодный", "тонкий"],
+      "answer": 0,
+      "explain": "«Мокрый» (wet) pairs with «сухой» (dry), as in «мокрое полотенце» versus «сухое полотенце»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What does «Латынь это мёртвый язык.» mean in English?",
+      "options": ["Latin is a living language.", "Latin is an old language.", "Latin is a dead language.", "Latin is a hard language."],
+      "answer": 2,
+      "explain": "«Мёртвый» means dead; its antonym is «живой» (living/alive)."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What is the opposite of «больной»?",
+      "options": ["слабый", "здоровый", "молодой", "сильный"],
+      "answer": 1,
+      "explain": "«Больной» (sick) pairs with «здоровый» (healthy), as in «больной мальчик» versus «здоровый ребёнок»."
+    }
+  ]
+}

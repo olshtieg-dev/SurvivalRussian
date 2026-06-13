@@ -1,0 +1,173 @@
+{
+  "id": "quiz-adverbs-time",
+  "chunkId": "adverbs-time",
+  "label": "Adverbs of Time",
+  "description": "A 20-question check on time and frequency adverbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «уже» mean in «Я уже сделал домашнее задание»?",
+      "options": ["already", "still", "soon", "again"],
+      "answer": 0,
+      "explain": "With a perfective past verb «уже» means already, marking the homework as finished."
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «Он ещё спит», what does «ещё» mean?",
+      "options": ["already", "still", "rarely", "finally"],
+      "answer": 1,
+      "explain": "With a present-tense verb «ещё» means still, signalling that the sleeping is ongoing."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'always' in Russian?",
+      "options": ["иногда", "часто", "всегда", "никогда"],
+      "answer": 2,
+      "explain": "«Всегда» means always, as in «Я всегда пью кофе утром»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What does «иногда» mean in «Иногда я гуляю по вечерам»?",
+      "options": ["always", "sometimes", "never", "often"],
+      "answer": 1,
+      "explain": "«Иногда» means sometimes, marking an action that happens now and then."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Which time adverb best fills the blank in «Я ___ хожу в библиотеку», meaning 'I often go to the library'?",
+      "options": ["часто", "завтра", "наконец", "однажды"],
+      "answer": 0,
+      "explain": "«Часто» means often and modifies «хожу» to say how regularly the trip happens."
+    },
+    {
+      "id": "Q06",
+      "prompt": "How would you say 'tomorrow' in Russian?",
+      "options": ["сегодня", "завтра", "вчера", "теперь"],
+      "answer": 1,
+      "explain": "«Завтра» means tomorrow, as in «Завтра у нас важный экзамен»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does the sentence «Наконец ты пришёл домой!» say in English?",
+      "options": [
+        "You finally came home!",
+        "You always come home!",
+        "You came home again!",
+        "You will come home soon!"
+      ],
+      "answer": 0,
+      "explain": "«Наконец» means finally or at last, expressing relief that he has come home."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In the pair «Сначала поедим, потом погуляем», what does «потом» mark?",
+      "options": [
+        "the first step in a sequence",
+        "what happens afterwards",
+        "something that never happens",
+        "a daily habit"
+      ],
+      "answer": 1,
+      "explain": "Paired with «сначала», «потом» marks the second step — what happens afterwards."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «обычно» mean in «Обычно я встаю в семь утра»?",
+      "options": ["finally", "usually", "suddenly", "rarely"],
+      "answer": 1,
+      "explain": "«Обычно» means usually, framing getting up at seven as the normal routine."
+    },
+    {
+      "id": "Q10",
+      "prompt": "How would you say 'recently' in Russian?",
+      "options": ["давно", "скоро", "недавно", "вскоре"],
+      "answer": 2,
+      "explain": "«Недавно» means recently, as in «Я недавно прочитал интересную книгу»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What does «давно» mean in «Я давно тебя не видел»?",
+      "options": ["for a long time", "recently", "right away", "tomorrow"],
+      "answer": 0,
+      "explain": "«Давно» means for a long time, stressing how long it has been since they met."
+    },
+    {
+      "id": "Q12",
+      "prompt": "In «Раньше он курил, а теперь нет», what does «теперь» express?",
+      "options": [
+        "now, after a change from before",
+        "a habit that happens often",
+        "an action set for tomorrow",
+        "something done long ago"
+      ],
+      "answer": 0,
+      "explain": "Paired with «раньше», «теперь» means now and completes a before-and-after contrast."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Which time adverb best fits «___ начнётся фильм», meaning 'The film will start soon'?",
+      "options": ["Долго", "Скоро", "Сразу", "Часто"],
+      "answer": 1,
+      "explain": "«Скоро» means soon and points to a near-future start of the film."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What does «сразу» mean in «Я сразу понял свою ошибку»?",
+      "options": ["slowly", "right away", "usually", "again"],
+      "answer": 1,
+      "explain": "«Сразу» means right away or at once, marking instant understanding of the mistake."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does the sentence «Ты опять опоздал на урок!» say in English?",
+      "options": [
+        "You were late for class again!",
+        "You are never late for class!",
+        "You are always early for class!",
+        "You will be late for class soon!"
+      ],
+      "answer": 0,
+      "explain": "«Опять» means again, marking a repeated lateness with a note of reproach."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What does «впервые» mean in «Я впервые увидел море»?",
+      "options": ["for a long time", "every time", "one more time", "for the first time"],
+      "answer": 3,
+      "explain": "«Впервые» means for the first time, marking a first-ever experience of the sea."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Both «уже» and «ещё» can appear in questions. Which is the standard way to ask 'Is the shop still open?'",
+      "options": [
+        "«Магазин уже открыт?»",
+        "«Магазин ещё открыт?»",
+        "«Магазин потом открыт?»",
+        "«Магазин давно открыт?»"
+      ],
+      "answer": 1,
+      "explain": "«Ещё» asks whether a state has not yet ended, so «Магазин ещё открыт?» means still open."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Which time adverb best fills the blank in «Однажды я встретил старого друга», meaning 'one day / once'?",
+      "options": ["Сегодня", "Всегда", "Однажды", "Сразу"],
+      "answer": 2,
+      "explain": "«Однажды» means once or one day, opening a single past event like a story."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In the sequence «Сначала позавтракай, затем иди гулять», what does «затем» mean?",
+      "options": ["then, after that", "at first", "never", "always"],
+      "answer": 0,
+      "explain": "«Затем» means then or after that, ordering the second action after breakfast."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Which of these is NOT a time or frequency adverb?",
+      "options": ["всегда", "иногда", "медленно", "часто"],
+      "answer": 2,
+      "explain": "«Медленно» means slowly (a manner adverb); the others — always, sometimes, often — are time/frequency adverbs."
+    }
+  ]
+}

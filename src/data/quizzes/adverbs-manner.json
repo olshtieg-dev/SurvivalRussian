@@ -1,0 +1,248 @@
+{
+  "id": "quiz-adverbs-manner",
+  "chunkId": "adverbs-manner",
+  "label": "Adverbs of Manner",
+  "description": "A 20-question check on manner adverbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Она очень хорошо готовит», what does хорошо tell us?",
+      "options": [
+        "How well she cooks",
+        "What she cooks",
+        "When she cooks",
+        "Where she cooks"
+      ],
+      "answer": 0,
+      "explain": "Хорошо means 'well' and modifies the verb готовит, describing the quality of the cooking."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Which adverb is the direct opposite of хорошо?",
+      "options": [
+        "тихо",
+        "плохо",
+        "спокойно",
+        "молча"
+      ],
+      "answer": 1,
+      "explain": "Хорошо (well) and плохо (badly) are antonyms, as in 'хорошо себя ведут' versus 'плохо себя ведут'."
+    },
+    {
+      "id": "Q03",
+      "prompt": "The manner adverb хорошо is built from which adjective?",
+      "options": [
+        "хороший",
+        "плохой",
+        "тихий",
+        "простой"
+      ],
+      "answer": 0,
+      "explain": "The -о manner adverb хорошо derives from the adjective хороший (good)."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What does «Он плохо водит машину» say in English?",
+      "options": [
+        "He drives the car carefully.",
+        "He drives the car badly.",
+        "He likes driving the car.",
+        "He drives the car quietly."
+      ],
+      "answer": 1,
+      "explain": "Плохо means 'badly' and modifies водит, rating the quality of the driving."
+    },
+    {
+      "id": "Q05",
+      "prompt": "How do you say 'He left the room silently' in Russian?",
+      "options": [
+        "Он громко вышел из комнаты.",
+        "Он спокойно вышел из комнаты.",
+        "Он молча вышел из комнаты.",
+        "Он тихо вышел из комнаты."
+      ],
+      "answer": 2,
+      "explain": "Молча means 'silently, without saying a word' and modifies вышел in «Он молча вышел из комнаты»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Fill the blank: «Она ___ говорила по телефону» (she spoke softly on the phone).",
+      "options": [
+        "тихо",
+        "плохо",
+        "правильно",
+        "точно"
+      ],
+      "answer": 0,
+      "explain": "Тихо means 'quietly/softly' and fits the manner of говорила in «Она тихо говорила по телефону»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Осторожно, пол очень мокрый!», осторожно used alone means:",
+      "options": [
+        "Quietly",
+        "Slowly",
+        "Watch out / careful",
+        "Quickly"
+      ],
+      "answer": 2,
+      "explain": "Standing alone, осторожно works as a one-word warning meaning 'careful' or 'watch out', followed by the reason."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What does «Он спокойно ответил на вопрос» mean?",
+      "options": [
+        "He answered the question calmly.",
+        "He answered the question quickly.",
+        "He refused to answer the question.",
+        "He answered the question loudly."
+      ],
+      "answer": 0,
+      "explain": "Спокойно means 'calmly' and modifies ответил, describing how he answered without agitation."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Fill the blank: «Дети ___ играли в углу» (the children played quietly in the corner).",
+      "options": [
+        "плохо",
+        "молча",
+        "точно",
+        "тихо"
+      ],
+      "answer": 3,
+      "explain": "Тихо (quietly) modifies играли in «Дети тихо играли в углу», conveying a peaceful, noiseless scene."
+    },
+    {
+      "id": "Q10",
+      "prompt": "How do you say 'Speak correctly in Russian' as in the lesson?",
+      "options": [
+        "Говори тихо по-русски.",
+        "Говори правильно по-русски.",
+        "Говори быстро по-русски.",
+        "Говори молча по-русски."
+      ],
+      "answer": 1,
+      "explain": "Правильно means 'correctly' and modifies the imperative говори in «Говори правильно по-русски»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Объясни мне это просто», what does просто convey?",
+      "options": [
+        "Explain it to me clearly/simply.",
+        "Explain it to me later.",
+        "Explain it to me again.",
+        "Explain it to me quietly."
+      ],
+      "answer": 0,
+      "explain": "Просто means 'simply' and modifies the command объясни, asking for a simple explanation."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which adverb means 'clearly' and fits «Он ___ объяснил новое правило»?",
+      "options": [
+        "ясно",
+        "плохо",
+        "молча",
+        "спокойно"
+      ],
+      "answer": 0,
+      "explain": "Ясно means 'clearly'; in «Он ясно объяснил новое правило» it modifies объяснил."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «Я точно знаю, что это правда» mean?",
+      "options": [
+        "I vaguely know that it is true.",
+        "I know for sure that it is true.",
+        "I do not know if it is true.",
+        "I quietly know that it is true."
+      ],
+      "answer": 1,
+      "explain": "Точно means 'exactly/for sure' and strengthens знаю, expressing certainty."
+    },
+    {
+      "id": "Q14",
+      "prompt": "The adverb осторожно is best translated as:",
+      "options": [
+        "calmly",
+        "correctly",
+        "silently",
+        "carefully"
+      ],
+      "answer": 3,
+      "explain": "Осторожно means 'carefully', as in «Он осторожно открыл старую дверь»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Fill the blank: «Она ___ слушала его рассказ» (she listened to his story without interrupting).",
+      "options": [
+        "громко",
+        "молча",
+        "плохо",
+        "правильно"
+      ],
+      "answer": 1,
+      "explain": "Молча means 'silently/without speaking'; «Она молча слушала его рассказ» stresses her quiet attention."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «Мне сегодня очень плохо», плохо expresses:",
+      "options": [
+        "that she cooks badly",
+        "that I feel very unwell today",
+        "that the weather is bad",
+        "that I work slowly"
+      ],
+      "answer": 1,
+      "explain": "Here плохо is an impersonal predicate with dative мне, meaning 'I feel unwell'."
+    },
+    {
+      "id": "Q17",
+      "prompt": "How would you say 'He answered all the questions correctly'?",
+      "options": [
+        "Он плохо ответил на все вопросы.",
+        "Он тихо ответил на все вопросы.",
+        "Он правильно ответил на все вопросы.",
+        "Он молча ответил на все вопросы."
+      ],
+      "answer": 2,
+      "explain": "Правильно means 'correctly'; «Он правильно ответил на все вопросы» matches the lesson sentence."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «Это действительно очень вкусно» mean?",
+      "options": [
+        "This is really very tasty.",
+        "This is probably tasty.",
+        "This is not tasty at all.",
+        "This was tasty yesterday."
+      ],
+      "answer": 0,
+      "explain": "Действительно means 'really/indeed' and intensifies the predicate вкусно."
+    },
+    {
+      "id": "Q19",
+      "prompt": "Which option best completes «Иди ___ по этой дороге» (walk carefully along this road)?",
+      "options": [
+        "осторожно",
+        "плохо",
+        "точно",
+        "просто"
+      ],
+      "answer": 0,
+      "explain": "Осторожно (carefully) modifies the command иди in «Иди осторожно по этой дороге», urging careful movement."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What is the manner adverb that means 'calmly' and appears in «Говори ___, всё будет хорошо»?",
+      "options": [
+        "громко",
+        "плохо",
+        "спокойно",
+        "странно"
+      ],
+      "answer": 2,
+      "explain": "Спокойно means 'calmly'; «Говори спокойно, всё будет хорошо» tells someone to speak in a calm way."
+    }
+  ]
+}

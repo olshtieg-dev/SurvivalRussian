@@ -1,0 +1,248 @@
+{
+  "id": "quiz-passive-voice",
+  "chunkId": "passive-voice",
+  "label": "Passive Voice",
+  "description": "A 20-question check on the passive-voice lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "Which passive construction does «Новый дом строится на нашей улице.» use?",
+      "options": [
+        "Reflexive -ся passive (verb + -ся)",
+        "Periphrastic быть + short past participle",
+        "An active sentence with no passive at all",
+        "Future passive with будет + participle"
+      ],
+      "answer": 0,
+      "explain": "Строится is строить plus -ся, the imperfective reflexive passive meaning 'is being built'."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What does «Книги продаются здесь каждый день.» mean?",
+      "options": [
+        "The books sell something every day",
+        "The books are being sold here every day",
+        "Someone buys books here every day",
+        "The books will be sold here tomorrow"
+      ],
+      "answer": 1,
+      "explain": "Продаются is продавать plus -ся, an imperfective reflexive passive: the books are the thing being sold."
+    },
+    {
+      "id": "Q03",
+      "prompt": "Which construction does «Этот дом был построен очень давно.» use?",
+      "options": [
+        "Reflexive -ся passive",
+        "Active voice (the house built something)",
+        "Periphrastic быть + short past passive participle",
+        "Present-tense reflexive passive"
+      ],
+      "answer": 2,
+      "explain": "Был построен pairs masculine был with the short participle построен — the periphrastic быть passive meaning 'was built'."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Этот роман написан известным автором.», what case is the agent известным автором in?",
+      "options": [
+        "Nominative",
+        "Genitive",
+        "Dative",
+        "Instrumental"
+      ],
+      "answer": 3,
+      "explain": "The passive agent — who did the action — stands in the instrumental case: автором tells us who wrote the novel."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Наш дом построен опытными рабочими.», the workers (рабочими) appear in the instrumental because they are the —",
+      "options": [
+        "agent who built the house",
+        "indirect object of the building",
+        "grammatical subject of the sentence",
+        "location where the house stands"
+      ],
+      "answer": 0,
+      "explain": "The doers of a passive action are named in the instrumental: рабочими are the agents who built the house."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Why is it была (not был) in «Эта книга была написана за месяц.»?",
+      "options": [
+        "Because быть is always feminine in the passive",
+        "Because the agent is feminine",
+        "Because книга is a feminine subject, so быть and the participle agree as feminine",
+        "Because the action is still ongoing"
+      ],
+      "answer": 2,
+      "explain": "In the быть passive, both была and the short participle написана agree with the feminine subject книга."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Which construction does «Магазин будет открыт завтра в девять.» express?",
+      "options": [
+        "A present reflexive -ся passive",
+        "A future periphrastic passive (будет + short participle)",
+        "An active future tense",
+        "A past быть passive"
+      ],
+      "answer": 1,
+      "explain": "Будет открыт uses future будет with the short participle открыт, meaning 'will be opened'."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «Завтрак был приготовлен моей мамой.», who or what is the agent, and in what case?",
+      "options": [
+        "завтрак, in the nominative",
+        "мамой, in the instrumental",
+        "мамой, in the genitive",
+        "завтрак, in the accusative"
+      ],
+      "answer": 1,
+      "explain": "Мамой stands in the instrumental as the one who prepared the breakfast — the passive agent."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Which sentence is a reflexive -ся passive (not a быть + participle passive)?",
+      "options": [
+        "Дверь была закрыта на ключ.",
+        "Все окна были вымыты к празднику.",
+        "Этот вопрос сейчас обсуждается комиссией.",
+        "Деньги были потеряны в дороге."
+      ],
+      "answer": 2,
+      "explain": "Обсуждается is обсуждать plus -ся, the reflexive passive; the other three use были/была plus a short participle."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Этот вопрос сейчас обсуждается комиссией.», the agent комиссией is in the instrumental and names —",
+      "options": [
+        "where the discussion happens",
+        "who is doing the discussing",
+        "what the question is about",
+        "when the discussion occurs"
+      ],
+      "answer": 1,
+      "explain": "Even in a reflexive -ся passive, the agent goes in the instrumental: комиссией is the commission doing the discussing."
+    },
+    {
+      "id": "Q11",
+      "prompt": "The active clause «Рабочие построили дом» becomes which passive?",
+      "options": [
+        "Дом был построен",
+        "Дом построил рабочих",
+        "Дом строит рабочими",
+        "Рабочие были построены"
+      ],
+      "answer": 0,
+      "explain": "The passive recasts дом as subject with был построен (быть + short participle); рабочие become the demoted agent."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which short participle form correctly agrees in «Эта картина ___ талантливым художником.»?",
+      "options": [
+        "нарисован",
+        "нарисовано",
+        "нарисована",
+        "нарисованы"
+      ],
+      "answer": 2,
+      "explain": "Картина is feminine, so the short participle takes the feminine -а ending: нарисована."
+    },
+    {
+      "id": "Q13",
+      "prompt": "In «Это письмо было написано вчера утром.», why is the participle написано (neuter)?",
+      "options": [
+        "Because the agent is neuter",
+        "Because письмо is a neuter subject",
+        "Because all past passives default to neuter",
+        "Because the action is in the future"
+      ],
+      "answer": 1,
+      "explain": "Письмо is neuter, so both было and написано take the neuter form to agree with it."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What does «Все окна были вымыты к празднику.» tell us?",
+      "options": [
+        "The windows washed themselves for the holiday",
+        "The windows will be washed for the holiday",
+        "All the windows were washed by the holiday",
+        "Someone is washing the windows now"
+      ],
+      "answer": 2,
+      "explain": "Были вымыты is the plural быть passive: the windows (окна) were the things washed, completed by the holiday."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «Письмо было прочитано моим другом.», the friend (другом) is in the instrumental as —",
+      "options": [
+        "the recipient of the letter",
+        "the agent who read the letter",
+        "the subject of the sentence",
+        "the place the letter was read"
+      ],
+      "answer": 1,
+      "explain": "Другом stands in the instrumental as the reader — the agent behind the passive action."
+    },
+    {
+      "id": "Q16",
+      "prompt": "Which plural short participle correctly fills «Деньги ___ в дороге.» (past passive)?",
+      "options": [
+        "был потерян",
+        "была потеряна",
+        "было потеряно",
+        "были потеряны"
+      ],
+      "answer": 3,
+      "explain": "Деньги is plural, so both the copula and participle take plural forms: были потеряны."
+    },
+    {
+      "id": "Q17",
+      "prompt": "How does «Свежий хлеб печётся рано утром.» form its passive?",
+      "options": [
+        "печь plus -ся (reflexive passive)",
+        "быть plus a short participle",
+        "будет plus a short participle",
+        "an active verb with no passive"
+      ],
+      "answer": 0,
+      "explain": "Печётся is печь plus -ся, the imperfective reflexive passive meaning 'is being baked'."
+    },
+    {
+      "id": "Q18",
+      "prompt": "In «Работа уже сделана и проверена.» there is no был/была. What does that signal?",
+      "options": [
+        "It is a future passive",
+        "It is a present-tense passive with a zero (unstated) copula",
+        "It is actually an active sentence",
+        "The participle is in the wrong case"
+      ],
+      "answer": 1,
+      "explain": "With no overt быть, the copula is zero: the short participles сделана и проверена give a present-state passive 'is done and checked'."
+    },
+    {
+      "id": "Q19",
+      "prompt": "The active clause «Маша написала письмо» turns into which passive?",
+      "options": [
+        "Письмо написало Машу",
+        "Письмо было написано",
+        "Маша была написана",
+        "Письмо пишет Машей"
+      ],
+      "answer": 1,
+      "explain": "Письмо rises to subject with было написано (быть + short participle); Маша becomes the implied agent."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Which sentence puts the agent in the instrumental case?",
+      "options": [
+        "Окна моются раз в неделю.",
+        "Новые слова запоминаются очень легко.",
+        "Эта газета читается миллионами людей.",
+        "Молоко продаётся в каждом магазине."
+      ],
+      "answer": 2,
+      "explain": "Only «миллионами людей» names an agent, and it stands in the instrumental as the readers behind the action."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-transport",
+  "chunkId": "nouns-transport",
+  "label": "Nouns — Transport",
+  "description": "A 20-question check on transport nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Эта машина очень быстрая.», what does «машина» mean?",
+      "options": ["car", "train", "boat", "rocket"],
+      "answer": 0,
+      "explain": "«Машина» means 'car' and here it is the nominative subject described as fast."
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «Поезд уже стоит на платформе.», what does «поезд» mean?",
+      "options": ["bus", "train", "plane", "truck"],
+      "answer": 1,
+      "explain": "«Поезд» means 'train', the nominative subject standing on the platform."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'helicopter' as in «Над городом летит военный вертолёт.»?",
+      "options": ["самолёт", "корабль", "вертолёт", "ракета"],
+      "answer": 2,
+      "explain": "«Вертолёт» means 'helicopter', the masculine subject flying over the city."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Which Russian word means 'airplane', as in «Я вижу самолёт в небе.»?",
+      "options": ["самолёт", "автобус", "грузовик", "лодка"],
+      "answer": 0,
+      "explain": "«Самолёт» means 'airplane', here the accusative object of «вижу»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Он недавно купил новую машину.», what case is «машину» and why?",
+      "options": ["nominative — it is the subject", "accusative — direct object of «купил»", "genitive — showing absence", "dative — indirect object"],
+      "answer": 1,
+      "explain": "«Машину» is the accusative direct object of «купил» (bought), with «новую» agreeing."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «У меня нет своей машины.», why does «машины» take the genitive?",
+      "options": ["it follows the preposition «в»", "it is the instrument of travel", "«нет» requires the genitive to express absence", "it is the plural subject"],
+      "answer": 2,
+      "explain": "«Нет» governs the genitive «машины» to express having none."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Choose the correct form: «Мы идём к нашему ____.» (train)",
+      "options": ["поезд", "поезда", "поезду", "поездом"],
+      "answer": 2,
+      "explain": "After «к» the noun takes the dative «поезду», as in «Мы идём к нашему поезду.»"
+    },
+    {
+      "id": "Q08",
+      "prompt": "Complete: «Я выхожу из ____ здесь.» (bus)",
+      "options": ["автобуса", "автобус", "автобусу", "автобусом"],
+      "answer": 0,
+      "explain": "«Из» governs the genitive «автобуса», as in «Я выхожу из автобуса здесь.»"
+    },
+    {
+      "id": "Q09",
+      "prompt": "What is the gender of «машина», as in «Эта машина очень быстрая.»?",
+      "options": ["masculine", "feminine", "neuter", "it has no gender"],
+      "answer": 1,
+      "explain": "«Машина» is feminine, which is why «эта» and «быстрая» take feminine endings."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What is the gender of «колесо», as seen in «Переднее колесо совсем спустило.»?",
+      "options": ["masculine", "feminine", "neuter", "plural only"],
+      "answer": 2,
+      "explain": "«Колесо» (wheel) is neuter, shown by the neuter adjective «переднее»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «На вокзале стоят длинные поезда.», what does «поезда» represent?",
+      "options": ["genitive singular", "nominative plural (trains)", "dative singular", "accusative singular"],
+      "answer": 1,
+      "explain": "«Поезда» is the nominative plural 'trains', the subject of «стоят»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which sentence uses «на» + prepositional to mean travelling 'by plane'?",
+      "options": ["«Я вижу самолёт в небе.»", "«Я люблю летать на самолёте.»", "«Мы ждём прилёта самолёта.»", "«Пассажиры идут к самолёту.»"],
+      "answer": 1,
+      "explain": "«Летать на самолёте» uses «на» + prepositional «самолёте» for travelling by plane."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Choose the form meaning 'by truck' in «Они доехали до склада на ____.»",
+      "options": ["грузовик", "грузовика", "грузовике", "грузовиком"],
+      "answer": 2,
+      "explain": "«На грузовике» uses «на» + prepositional «грузовике» to say 'by truck'."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «На дороге много старых машин.», what is «машин»?",
+      "options": ["genitive plural after «много»", "nominative singular", "accusative singular", "instrumental singular"],
+      "answer": 0,
+      "explain": "«Много» governs the genitive plural «машин» (of cars)."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does «лодка» mean, as in «На озере стоит старая лодка.»?",
+      "options": ["wheel", "boat", "ship", "rocket"],
+      "answer": 1,
+      "explain": "«Лодка» means 'boat'; «корабль» is the larger 'ship'."
+    },
+    {
+      "id": "Q16",
+      "prompt": "Read «В поезде десять вагонов.» — what does it say?",
+      "options": ["There are ten trains at the station.", "The train has ten cars.", "Ten passengers left the car.", "The train left in ten minutes."],
+      "answer": 1,
+      "explain": "«В поезде десять вагонов» means the train has ten cars («вагонов», genitive plural after «десять»)."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Read «Раненых увезли вертолётом в больницу.» — how were the wounded taken?",
+      "options": ["by bus", "by ship", "by helicopter", "by train"],
+      "answer": 2,
+      "explain": "«Вертолётом» is the instrumental of means: they were taken away by helicopter to the hospital."
+    },
+    {
+      "id": "Q18",
+      "prompt": "How do you say 'rocket', as in «Большая ракета стоит на старте.»?",
+      "options": ["ракета", "вагон", "танк", "мотор"],
+      "answer": 0,
+      "explain": "«Ракета» means 'rocket', the feminine subject standing at the launch pad."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Мы летим в Москву самолётом.», why is «самолётом» in the instrumental?",
+      "options": ["it follows «в»", "it expresses the means of travel (by plane)", "it shows possession", "it is the direct object"],
+      "answer": 1,
+      "explain": "The bare instrumental «самолётом» expresses the means of travel, 'by plane'."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Complete: «Без ____ мы не перевезём мебель.» (truck)",
+      "options": ["грузовик", "грузовику", "грузовиком", "грузовика"],
+      "answer": 3,
+      "explain": "«Без» governs the genitive «грузовика», as in «Без грузовика мы не перевезём мебель.»"
+    }
+  ]
+}

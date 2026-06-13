@@ -9,7 +9,10 @@ import RightRail from '../components/RightRail';
 import AdSlot from '../components/AdSlot';
 import OnboardingQuestionnaire from '../components/OnboardingQuestionnaire';
 import CurriculumPanel from '../components/CurriculumPanel';
+import QuizOverlay from '../components/QuizOverlay';
 import { useCurriculum } from '../hooks/useCurriculum';
+import { useQuizResults } from '../hooks/useQuizResults';
+import { quizzes } from '../data/quizzes';
 import SpeechInterface from '../components/SpeechInterface';
 import vocabularyData from '../data/vocabulary.json';
 import {
@@ -121,8 +124,10 @@ export default function Home() {
   const [lastPlayedIndex, setLastPlayedIndex] = useState(-1);
   const [voiceFeedback, setVoiceFeedback] = useState({ transcript: '', analysis: '' });
   const curriculum = useCurriculum();
+  const quizResults = useQuizResults();
   const [isCurriculumOpen, setIsCurriculumOpen] = useState(false);
   const [isQuestionnaireOpen, setIsQuestionnaireOpen] = useState(false);
+  const [isQuizOpen, setIsQuizOpen] = useState(false);
   const [typingTutorSignal, setTypingTutorSignal] = useState(0);
   const [activeWordKey, setActiveWordKey] = useState(() => {
     const initialLessonSet = getLessonSet(defaultLessonSetId);
@@ -389,6 +394,18 @@ export default function Home() {
     setIsCurriculumOpen(false);
   }, []);
 
+  // Which quiz chunks cover content the learner has actually studied (drives the "Studied"
+  // tag in the quiz list). A quiz chunkId matches a family folder id; recorded lesson sets
+  // carry the group folder id, which is prefixed by the family id.
+  const studiedChunkIds = new Set();
+  for (const setId of Object.keys(curriculum.records || {})) {
+    const grp = getLessonSet(setId)?.groupId;
+    if (!grp) continue;
+    for (const quiz of quizzes) {
+      if (grp === quiz.chunkId || grp.startsWith(`${quiz.chunkId}-`)) studiedChunkIds.add(quiz.chunkId);
+    }
+  }
+
   useEffect(() => {
     if (!isLessonSelectorOpen) return;
 
@@ -653,14 +670,7 @@ export default function Home() {
           </>
         )}
 
-        <FeatureDock
-          openSignal={typingTutorSignal}
-          openFeatureId="typing"
-          onFeatureClose={curriculum.refreshTypingStatus}
-        />
-
         <div className="mt-auto flex flex-col items-center gap-4">
-          <GameOverlay />
           <SuggestionShredder />
         </div>
       </aside>
@@ -719,7 +729,14 @@ export default function Home() {
         )}
       </div>
 
-      <RightRail onOpenCurriculum={openCurriculum} />
+      <RightRail onOpenCurriculum={openCurriculum} onOpenQuiz={() => setIsQuizOpen(true)}>
+        <FeatureDock
+          openSignal={typingTutorSignal}
+          openFeatureId="typing"
+          onFeatureClose={curriculum.refreshTypingStatus}
+        />
+        <GameOverlay />
+      </RightRail>
 
       {isQuestionnaireOpen && (
         <OnboardingQuestionnaire
@@ -748,6 +765,16 @@ export default function Home() {
             setIsCurriculumOpen(false);
           }}
           onClose={() => setIsCurriculumOpen(false)}
+        />
+      )}
+
+      {isQuizOpen && (
+        <QuizOverlay
+          quizzes={quizzes}
+          results={quizResults.results}
+          studiedChunkIds={studiedChunkIds}
+          onRecordResult={quizResults.recordResult}
+          onClose={() => setIsQuizOpen(false)}
         />
       )}
     </main>

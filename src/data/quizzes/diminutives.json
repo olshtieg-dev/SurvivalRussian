@@ -1,0 +1,148 @@
+{
+  "id": "quiz-diminutives",
+  "chunkId": "diminutives",
+  "label": "Diminutives & Augmentatives",
+  "description": "A 20-question check on the diminutives lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "The diminutive «домик» (little house) is formed from which base word?",
+      "options": ["дом", "день", "дым", "дочь"],
+      "answer": 0,
+      "explain": "The suffix -ик turns «дом» 'house' into «домик» 'little house'."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What base word does «чашечка» (little cup) come from?",
+      "options": ["час", "чашка", "чай", "чулок"],
+      "answer": 1,
+      "explain": "The suffix -ечка shrinks «чашка» 'cup' into «чашечка» 'little cup'."
+    },
+    {
+      "id": "Q03",
+      "prompt": "The affectionate «сынок» is formed from which word?",
+      "options": ["сон", "сыр", "сын", "сук"],
+      "answer": 2,
+      "explain": "The suffix -ок turns «сын» 'son' into «сынок», a warm, tender form of address."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Which suffix is AUGMENTATIVE, signalling large or coarse size?",
+      "options": ["-ик", "-очка", "-ище", "-ушка"],
+      "answer": 2,
+      "explain": "The suffix -ище is augmentative: «домище» means a 'huge house', not a small one."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «На холме стоит огромный домище», what does the suffix -ище add to «дом»?",
+      "options": ["smallness", "great, even excessive size", "affection only", "folksy warmth"],
+      "answer": 1,
+      "explain": "The augmentative -ище turns «дом» into «домище» 'huge house', stressing great size."
+    },
+    {
+      "id": "Q06",
+      "prompt": "The folksy «бабушка» (grandmother) is built from which base?",
+      "options": ["баба", "банка", "башня", "бумага"],
+      "answer": 0,
+      "explain": "The folksy suffix -ушка turns «баба» into «бабушка», a warm everyday kin term."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What base word does the augmentative «ручища» (huge hand) come from?",
+      "options": ["речка", "ручка", "рука", "роща"],
+      "answer": 2,
+      "explain": "The augmentative -ища makes «рука» 'hand, arm' into «ручища» 'huge hand'."
+    },
+    {
+      "id": "Q08",
+      "prompt": "The diminutive «садик» (little garden) is formed from which word?",
+      "options": ["сад", "суд", "сын", "сыр"],
+      "answer": 0,
+      "explain": "The suffix -ик makes «сад» 'garden' into «садик» 'little garden'."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Иди ко мне, моя лапонька», what does «лапонька» express?",
+      "options": ["a literal small paw", "a purely affectionate nickname ('darling')", "a huge paw", "an angry insult"],
+      "answer": 1,
+      "explain": "The suffix -онька turns «лапа» 'paw' into «лапонька» 'darling', a purely affectionate name with no literal meaning."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What base word does «звёздочка» (little star) come from?",
+      "options": ["звон", "зверь", "звезда", "земля"],
+      "answer": 2,
+      "explain": "The suffix -очка makes «звезда» 'star' into «звёздочка» 'little star'."
+    },
+    {
+      "id": "Q11",
+      "prompt": "The augmentative «голосище» is formed from which word?",
+      "options": ["голос", "голова", "голод", "город"],
+      "answer": 0,
+      "explain": "The augmentative -ище turns «голос» 'voice' into «голосище» 'mighty voice', stressing power and volume."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which suffix carries a folksy, fairy-tale or folk-song flavour?",
+      "options": ["-ик", "-ище", "-ушка", "-чик"],
+      "answer": 2,
+      "explain": "The suffix -ушка/-юшка is folksy: «избушка», «головушка», «соловушка» all have a rustic, lyrical feel."
+    },
+    {
+      "id": "Q13",
+      "prompt": "The diminutive «диванчик» (little sofa) is formed from which base?",
+      "options": ["диван", "двор", "диск", "дама"],
+      "answer": 0,
+      "explain": "The suffix -чик shrinks «диван» 'sofa' into «диванчик» 'little sofa' with a cosy nuance."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Спи спокойно, моя доченька», what does «доченька» mainly add to «дочь»?",
+      "options": ["large size", "coarse, rough tone", "deep affection rather than size", "literal smallness only"],
+      "answer": 2,
+      "explain": "The suffix -енька turns «дочь» 'daughter' into «доченька» 'dear daughter', adding deep affection rather than size."
+    },
+    {
+      "id": "Q15",
+      "prompt": "The folksy «избушка» (little hut) comes from which word?",
+      "options": ["изба", "икра", "игла", "икона"],
+      "answer": 0,
+      "explain": "The suffix -ушка turns «изба» 'peasant hut' into «избушка», a small, folksy, fairy-tale dwelling."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What base word does the diminutive «голосок» (little voice) come from?",
+      "options": ["город", "голова", "голос", "голод"],
+      "answer": 2,
+      "explain": "The suffix -ок shrinks «голос» 'voice' into «голосок», suggesting a thin, small, gentle sound."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Which suffix would you use to make «кот» 'cat' sound LARGE and rough («котище»)?",
+      "options": ["-ик", "-ище", "-очка", "-енька"],
+      "answer": 1,
+      "explain": "The augmentative -ище makes «кот» into «котище» 'huge cat', adding largeness with a rough, comic edge."
+    },
+    {
+      "id": "Q18",
+      "prompt": "The diminutive «пирожок» (little pie) is formed from which base word?",
+      "options": ["пирог", "перо", "порог", "парик"],
+      "answer": 0,
+      "explain": "The suffix -ок makes «пирог» 'pie' into «пирожок», naming a small hand pie with homely warmth."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Болит моя бедная головушка», the suffix -ушка on «голова» gives the word what colouring?",
+      "options": ["augmentative, huge size", "a folksy, lyrical, pitying tone", "a coarse, comic insult", "a precise, technical sense"],
+      "answer": 1,
+      "explain": "The suffix -ушка makes «голова» into «головушка», a folksy, lyrical, pitying form common in folk songs."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In the contrast «Не домик, а целый домище!», how do the two suffixes differ?",
+      "options": ["-ик means 'little', -ище means 'huge'", "-ик means 'huge', -ище means 'little'", "both mean 'little'", "both mean 'huge'"],
+      "answer": 0,
+      "explain": "The diminutive «домик» means a 'little house', while the augmentative «домище» means a 'huge house' — the suffixes reverse the size nuance."
+    }
+  ]
+}

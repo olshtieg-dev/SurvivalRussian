@@ -1,0 +1,248 @@
+{
+  "id": "quiz-adverbs-degree",
+  "chunkId": "adverbs-degree",
+  "label": "Adverbs of Degree",
+  "description": "A 20-question check on degree adverbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «Этот суп очень вкусный» mean in English?",
+      "options": [
+        "This soup is very tasty.",
+        "This soup is too tasty.",
+        "This soup is almost tasty.",
+        "This soup is barely tasty."
+      ],
+      "answer": 0,
+      "explain": "Очень intensifies the adjective вкусный toward the high end of the scale, giving very tasty."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Which degree adverb fits: «Этот кофе ___ горький» (this coffee is too bitter — an unwanted excess)?",
+      "options": [
+        "почти",
+        "слишком",
+        "довольно",
+        "слегка"
+      ],
+      "answer": 1,
+      "explain": "Слишком means too or excessively, marking горький as beyond the acceptable level."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say \"I almost finished the work\" in Russian?",
+      "options": [
+        "Я совсем закончил работу.",
+        "Я слишком закончил работу.",
+        "Я почти закончил работу.",
+        "Я едва закончил работу."
+      ],
+      "answer": 2,
+      "explain": "Почти means almost or nearly, marking закончил as not quite complete."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Он совсем не понимает меня», what does совсем не express?",
+      "options": [
+        "He understands me a little.",
+        "He almost understands me.",
+        "He understands me too well.",
+        "He does not understand me at all."
+      ],
+      "answer": 3,
+      "explain": "Paired with не, совсем не means not at all, a total negation."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Я купил только хлеб», what does только do?",
+      "options": [
+        "Restricts focus to хлеб — bread and nothing else was bought.",
+        "Marks bread as surprising, like even bread.",
+        "Says he almost bought bread.",
+        "Says he bought too much bread."
+      ],
+      "answer": 0,
+      "explain": "Только means only and restricts focus to the word right after it, here хлеб."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Which degree adverb is the odd one out — three mean roughly a small/slight degree, one does not?",
+      "options": [
+        "чуть",
+        "слегка",
+        "совершенно",
+        "едва"
+      ],
+      "answer": 2,
+      "explain": "Чуть, слегка and едва all mark a slight or minimal degree; совершенно means completely or utterly."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Это более или менее понятно» mean?",
+      "options": [
+        "This is exactly clear.",
+        "This is more or less clear.",
+        "This is not clear at all.",
+        "This is completely clear."
+      ],
+      "answer": 1,
+      "explain": "In the fixed phrase более или менее, более pairs with менее to mean more or less."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which adverb best fits a bookish, formal register meaning \"very/highly\" as a synonym of очень, e.g. «Это ___ интересный вопрос»?",
+      "options": [
+        "слишком",
+        "весьма",
+        "чуть",
+        "почти"
+      ],
+      "answer": 1,
+      "explain": "Весьма is a bookish, formal synonym of очень meaning very or highly."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Даже дети знают эту песню», what role does даже play?",
+      "options": [
+        "It restricts focus to children only.",
+        "It says almost all children know it.",
+        "It is a focus particle meaning even, marking children as the surprising case.",
+        "It negates the sentence."
+      ],
+      "answer": 2,
+      "explain": "Даже is a focus particle meaning even, signalling that the next item — дети — is surprising."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What does «Он чуть не опоздал на поезд» mean?",
+      "options": [
+        "He was a little late for the train.",
+        "He almost (nearly) missed the train.",
+        "He was only slightly late for the train.",
+        "He was definitely late for the train."
+      ],
+      "answer": 1,
+      "explain": "The set phrase чуть не before a verb means almost or nearly did — here a near-miss."
+    },
+    {
+      "id": "Q11",
+      "prompt": "How would you say \"This is a rather difficult question\" (moderate degree, not extreme)?",
+      "options": [
+        "Это слишком сложный вопрос.",
+        "Это совершенно сложный вопрос.",
+        "Это довольно сложный вопрос.",
+        "Это вовсе не сложный вопрос."
+      ],
+      "answer": 2,
+      "explain": "Довольно means rather or fairly, softening сложный to a moderate degree."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Which adverb signals emphatic negation and almost always pairs with не, as in «Я ___ не устал» (not tired at all)?",
+      "options": [
+        "вовсе",
+        "очень",
+        "именно",
+        "столь"
+      ],
+      "answer": 0,
+      "explain": "Вовсе almost always pairs with не; вовсе не means not at all and strengthens the denial."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «Я едва успел на поезд» mean?",
+      "options": [
+        "I easily caught the train.",
+        "I barely (only just) caught the train.",
+        "I almost missed but did not catch it.",
+        "I was too late for the train."
+      ],
+      "answer": 1,
+      "explain": "Едва means barely or only just; успел shows the success was very close to failing."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Именно это я хотел сказать», what does именно do?",
+      "options": [
+        "Softens the statement to merely.",
+        "Pinpoints это as exactly the thing meant.",
+        "Negates the statement.",
+        "Marks это as surprising."
+      ],
+      "answer": 1,
+      "explain": "Именно means exactly or precisely, singling out это as the very thing meant."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Which adverb is the bookish, literary equivalent of только, as in «Я ___ хотел спросить» (I merely wanted to ask)?",
+      "options": [
+        "сильно",
+        "лишь",
+        "почти",
+        "вполне"
+      ],
+      "answer": 1,
+      "explain": "Лишь means only or merely, a more literary equivalent of только."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What does «Ты совершенно прав» mean?",
+      "options": [
+        "You are almost right.",
+        "You are rather right.",
+        "You are barely right.",
+        "You are absolutely right."
+      ],
+      "answer": 3,
+      "explain": "Совершенно intensifies прав to an absolute degree, meaning absolutely right."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Which degree adverb fits a high-intensity reading: «Я ___ устал сегодня» (very much / heavily tired, common with verbs and pain)?",
+      "options": [
+        "слегка",
+        "сильно",
+        "почти",
+        "довольно"
+      ],
+      "answer": 1,
+      "explain": "Сильно means strongly or very much, marking intense, heavy tiredness."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «Я вполне доволен результатом» mean?",
+      "options": [
+        "I am quite (fully) satisfied with the result.",
+        "I am barely satisfied with the result.",
+        "I am too satisfied with the result.",
+        "I am not at all satisfied with the result."
+      ],
+      "answer": 0,
+      "explain": "Вполне means quite or fully, marking доволен as completely satisfied."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Мне особенно нравится зима», what does особенно express?",
+      "options": [
+        "Winter is the only season liked.",
+        "Winter especially stands out as a favourite.",
+        "Winter is almost liked.",
+        "Winter is not liked at all."
+      ],
+      "answer": 1,
+      "explain": "Особенно means especially, marking зима as standing out among others."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Which adverb is the bookish equivalent of так, meaning \"so / to such a degree\", as in «Почему ты ___ печален?»?",
+      "options": [
+        "столь",
+        "вовсе",
+        "чуть",
+        "почти"
+      ],
+      "answer": 0,
+      "explain": "Столь means so or to such a degree, a formal, literary equivalent of так."
+    }
+  ]
+}

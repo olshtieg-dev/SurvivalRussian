@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-emotions-states",
+  "chunkId": "nouns-emotions-states",
+  "label": "Nouns — Emotions & States",
+  "description": "A 20-question check on emotion and state nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «любовь» mean?",
+      "options": ["fear", "love", "joy", "doubt"],
+      "answer": 1,
+      "explain": "«Любовь» is the feminine noun for love, as in «Любовь делает людей счастливыми»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Which Russian noun means \"fear\"?",
+      "options": ["радость", "страсть", "страх", "обида"],
+      "answer": 2,
+      "explain": "«Страх» is the masculine noun for fear, as in «Меня охватил сильный страх»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «В этом доме нет любви», what case is «любви» and why?",
+      "options": ["nominative subject", "genitive after «нет»", "dative after a verb", "instrumental of manner"],
+      "answer": 1,
+      "explain": "«Нет» requires the genitive of absence, giving «любви» (the fleeting о drops out)."
+    },
+    {
+      "id": "Q04",
+      "prompt": "«Радость» is which gender?",
+      "options": ["feminine", "masculine", "neuter", "it has no gender"],
+      "answer": 0,
+      "explain": "«Радость» is a feminine -ость abstract noun, as seen in «Её радость была искренней»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Choose the correct form: «Она плакала ___ счастья.» (She cried from happiness.)",
+      "options": ["от", "о", "с", "без"],
+      "answer": 0,
+      "explain": "The genitive of cause uses «от», giving «Она плакала от счастья»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What does «счастье» mean?",
+      "options": ["sadness", "surprise", "happiness", "mood"],
+      "answer": 2,
+      "explain": "«Счастье» is the neuter noun for happiness, as in «Настоящее счастье найти трудно»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Он гордится своей любовью», why is «любовью» in the instrumental?",
+      "options": ["it follows the preposition «о»", "the verb «гордиться» governs the instrumental", "it is the direct object", "it shows absence"],
+      "answer": 1,
+      "explain": "«Гордиться» takes the instrumental, so love becomes «любовью» (the -ь feminine ends in -ью)."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which sentence correctly uses the genitive plural of «страх» (fear)?",
+      "options": ["«Все его страхи оказались напрасными.»", "«Он наконец избавился от страхов.»", "«Меня охватил сильный страх.»", "«В её глазах был страх.»"],
+      "answer": 1,
+      "explain": "«Избавиться от» governs the genitive plural, giving «страхов» in «Он наконец избавился от страхов»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «тоска» mean?",
+      "options": ["longing", "resentment", "passion", "doubt"],
+      "answer": 0,
+      "explain": "«Тоска» is the feminine noun for longing/melancholy, as in «Тоска по дому не проходит»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Я чувствую глубокую тоску внутри», what case is «тоску»?",
+      "options": ["nominative", "accusative", "genitive", "prepositional"],
+      "answer": 1,
+      "explain": "«Тоску» is the accusative direct object of «чувствую»; the feminine -а shifts to -у."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Which Russian noun means \"resentment\"?",
+      "options": ["сомнение", "обида", "удивление", "настроение"],
+      "answer": 1,
+      "explain": "«Обида» is the feminine noun for resentment/grievance, as in «В его голосе была сильная обида»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What does the fixed phrase «без сомнения» mean?",
+      "options": ["with surprise", "in a good mood", "without a doubt", "out of fear"],
+      "answer": 2,
+      "explain": "«Без сомнения» uses the genitive after «без» to mean \"without a doubt\", as in «Без сомнения, ты прав»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "«Сомнение» (doubt) is which gender?",
+      "options": ["feminine", "masculine", "neuter", "plural-only"],
+      "answer": 2,
+      "explain": "«Сомнение» is a neuter -ие noun, as in «Меня мучает одно сомнение»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What does «страсть» mean?",
+      "options": ["passion", "fear", "shadow", "joy"],
+      "answer": 0,
+      "explain": "«Страсть» is the feminine soft-sign noun for passion, as in «Его страсть к музыке огромна»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «Он отдался любимой страсти», what case is «страсти»?",
+      "options": ["nominative", "accusative", "dative", "instrumental"],
+      "answer": 2,
+      "explain": "The verb «отдаться» governs the dative, so passion becomes «страсти» in «Он отдался любимой страсти»."
+    },
+    {
+      "id": "Q16",
+      "prompt": "How would you say \"surprise\" in Russian?",
+      "options": ["настроение", "удивление", "сомнение", "обида"],
+      "answer": 1,
+      "explain": "«Удивление» is the neuter noun for surprise, as in «На его лице было удивление»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does the set phrase «к моему удивлению» mean?",
+      "options": ["to my surprise", "without my doubt", "in my mood", "from my fear"],
+      "answer": 0,
+      "explain": "«К удивлению» uses the dative after «к» to mean \"to (one's) surprise\", as in «К моему удивлению, он опоздал»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «настроение» mean?",
+      "options": ["mood", "longing", "love", "passion"],
+      "answer": 0,
+      "explain": "«Настроение» is the neuter noun for mood, as in «Сегодня хорошее настроение»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «У детей бывают разные настроения», what is «настроения»?",
+      "options": ["genitive singular", "accusative singular", "nominative plural subject", "dative singular"],
+      "answer": 2,
+      "explain": "«Настроения» is the neuter nominative plural subject of «бывают»; «разные» agrees in the plural."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Complete the toast: «Желаю тебе большого ___!» (I wish you great happiness!)",
+      "options": ["счастье", "счастья", "счастьем", "счастьи"],
+      "answer": 1,
+      "explain": "«Желать» governs the genitive of the thing wished, giving «счастья» in «Желаю тебе большого счастья!»."
+    }
+  ]
+}

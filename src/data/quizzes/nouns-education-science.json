@@ -1,0 +1,248 @@
+{
+  "id": "quiz-nouns-education-science",
+  "chunkId": "nouns-education-science",
+  "label": "Nouns — Education & Science",
+  "description": "A 20-question check on education and science nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «наука» mean in «Наука быстро развивается сегодня»?",
+      "options": [
+        "science",
+        "school",
+        "lesson",
+        "library"
+      ],
+      "answer": 0,
+      "explain": "Наука means 'science'; the sentence says science is developing quickly today."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What does «образование» mean in «Хорошее образование очень важно»?",
+      "options": [
+        "experience",
+        "education",
+        "language",
+        "history"
+      ],
+      "answer": 1,
+      "explain": "Образование means 'education', praised as very important in the sentence."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How do you say 'language' in Russian, as in «Русский язык очень сложный»?",
+      "options": [
+        "класс",
+        "роман",
+        "язык",
+        "опыт"
+      ],
+      "answer": 2,
+      "explain": "Язык means 'language'; the sentence calls the Russian language very complex."
+    },
+    {
+      "id": "Q04",
+      "prompt": "How do you say 'knowledge' in Russian, as in «Знание это настоящая сила»?",
+      "options": [
+        "знание",
+        "статья",
+        "культура",
+        "музыка"
+      ],
+      "answer": 0,
+      "explain": "Знание means 'knowledge', stated to be real power in this proverb-style sentence."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Я очень люблю науку», what case is «науку»?",
+      "options": [
+        "nominative",
+        "genitive",
+        "instrumental",
+        "accusative"
+      ],
+      "answer": 3,
+      "explain": "Науку is the accusative direct object of «люблю»; hard feminine nouns take -у."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «Он давно занимается наукой», what case is «наукой»?",
+      "options": [
+        "instrumental",
+        "dative",
+        "prepositional",
+        "genitive"
+      ],
+      "answer": 0,
+      "explain": "Наукой is the instrumental governed by «заниматься», which takes the instrumental for an activity."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «У него нет высшего образования», why is «образования» in the genitive?",
+      "options": [
+        "it follows the preposition «в»",
+        "it is the subject of the sentence",
+        "the negation «нет» demands the genitive",
+        "it is governed by «гордиться»"
+      ],
+      "answer": 2,
+      "explain": "After «нет» (there is no...), the noun «образования» stands in the genitive of negation."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which form correctly completes «Он гордится своим ___» (he is proud of his education)?",
+      "options": [
+        "образование",
+        "образованием",
+        "образования",
+        "образованию"
+      ],
+      "answer": 1,
+      "explain": "«Гордиться» governs the instrumental, so the form is «образованием»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Which form correctly completes «Я изучаю русский ___» (I am studying the Russian language)?",
+      "options": [
+        "языка",
+        "языке",
+        "язык",
+        "языком"
+      ],
+      "answer": 2,
+      "explain": "Masculine inanimate «язык» keeps the nominative form as the accusative object of «изучаю»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What is the gender of «наука»?",
+      "options": [
+        "masculine",
+        "feminine",
+        "neuter",
+        "it has no gender"
+      ],
+      "answer": 1,
+      "explain": "Наука is a feminine noun, as the lesson notes and its -а ending show."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What is the gender of «образование»?",
+      "options": [
+        "neuter",
+        "feminine",
+        "masculine",
+        "plural-only"
+      ],
+      "answer": 0,
+      "explain": "Образование is a neuter -ие noun, so its accusative matches the nominative."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the gender of «класс» in «Наш класс очень дружный»?",
+      "options": [
+        "feminine",
+        "neuter",
+        "masculine",
+        "plural-only"
+      ],
+      "answer": 2,
+      "explain": "Класс is a masculine noun, agreeing with the masculine possessive «наш»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "In «Меня интересуют точные науки», what form is «науки»?",
+      "options": [
+        "genitive singular",
+        "nominative plural",
+        "dative singular",
+        "instrumental plural"
+      ],
+      "answer": 1,
+      "explain": "Науки is the nominative plural subject of «интересуют» (the exact sciences interest me)."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Я знаю много интересных историй», why does «историй» have a zero ending?",
+      "options": [
+        "it is the dative after «к»",
+        "it is the genitive plural after the quantifier «много»",
+        "it is the instrumental singular",
+        "it is the nominative singular"
+      ],
+      "answer": 1,
+      "explain": "«Много» governs the genitive plural, and «историй» is that form with a zero ending."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does the full sentence «У этой истории счастливый конец» mean?",
+      "options": [
+        "This story is very long.",
+        "This story has a happy ending.",
+        "I love the history of Russia.",
+        "We are talking about this story."
+      ],
+      "answer": 1,
+      "explain": "«У этой истории счастливый конец» states that this story has a happy ending."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What does the full sentence «Без образования трудно найти работу» mean?",
+      "options": [
+        "Education opens new opportunities.",
+        "Without education it is hard to find work.",
+        "Good education is very important.",
+        "They invest money in education."
+      ],
+      "answer": 1,
+      "explain": "«Без образования трудно найти работу» means without education it is hard to find work."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «опыт» mean in «У него большой опыт работы»?",
+      "options": [
+        "salary",
+        "diploma",
+        "office",
+        "experience"
+      ],
+      "answer": 3,
+      "explain": "Опыт means 'experience'; the sentence says he has a lot of work experience."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «статья» mean in «Эта статья очень полезная»?",
+      "options": [
+        "article",
+        "lesson",
+        "novel",
+        "picture"
+      ],
+      "answer": 0,
+      "explain": "Статья means 'article'; the sentence calls this article very useful."
+    },
+    {
+      "id": "Q19",
+      "prompt": "How do you say 'novel' in Russian, as in «Этот роман очень длинный»?",
+      "options": [
+        "система",
+        "роман",
+        "игра",
+        "музыка"
+      ],
+      "answer": 1,
+      "explain": "Роман means 'novel'; the sentence says this novel is very long."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Я свободно владею английским языком», what case is «языком» and why?",
+      "options": [
+        "genitive, after «без»",
+        "prepositional, after «о»",
+        "instrumental, governed by «владеть»",
+        "accusative, the direct object"
+      ],
+      "answer": 2,
+      "explain": "«Владеть» governs the instrumental, so «языком» is instrumental (I have a fluent command of English)."
+    }
+  ]
+}

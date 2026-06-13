@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-motion-location",
+  "chunkId": "nouns-motion-location",
+  "label": "Nouns — Motion & Location",
+  "description": "A 20-question check on place and location nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Я давно живу в этом городе», what does the phrase mean?",
+      "options": ["I am driving into this city", "I have lived in this city for a long time", "I left this city long ago", "I love this city very much"],
+      "answer": 1,
+      "explain": "«в городе» is prepositional after «в», marking the static location where one lives."
+    },
+    {
+      "id": "Q02",
+      "prompt": "«Завтра мы едем в город» — what case is «город», and why?",
+      "options": ["Accusative, motion into a destination", "Prepositional, static location", "Genitive, origin point", "Dative, goal of approach"],
+      "answer": 0,
+      "explain": "After «в» with motion, «город» is accusative marking the destination entered, answering 'where to?'."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'It is very cold outside' using the street idiom from the lessons?",
+      "options": ["Очень холодно на улицу", "Очень холодно из улицы", "Очень холодно к улице", "Очень холодно на улице"],
+      "answer": 3,
+      "explain": "«на улице» is prepositional and idiomatically means 'outside', as in «Сегодня очень холодно на улице»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "In «Я осторожно перехожу улицу», what role does «улицу» play?",
+      "options": ["Prepositional location", "Genitive of possession", "Accusative direct object", "Dative of path"],
+      "answer": 2,
+      "explain": "«улицу» is the accusative direct object of «перехожу», with the feminine -у ending."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What is the grammatical gender of «место» (as in «Это очень хорошее место»)?",
+      "options": ["Plural only", "Feminine", "Masculine", "Neuter"],
+      "answer": 3,
+      "explain": "«место» is neuter, taking the neuter adjective ending in «хорошее место»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "«Пожалуйста, садись на место» vs «Я уже на месте» — what distinguishes them?",
+      "options": ["«на место» is accusative (motion onto), «на месте» is prepositional (location)", "They are identical in meaning", "«на место» is genitive, «на месте» is dative", "«на место» is plural, «на месте» is singular"],
+      "answer": 0,
+      "explain": "Same preposition «на» but «на место» (accusative) answers 'where to?' and «на месте» (prepositional) answers 'where?'."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «По дороге домой я купил хлеб», what does «по дороге» mean?",
+      "options": ["At the end of the road", "Across the road", "Beside the road", "On the way / along the road"],
+      "answer": 3,
+      "explain": "«по дороге» uses «по» + dative to mean 'on the way', one of the most reusable travel patterns."
+    },
+    {
+      "id": "Q08",
+      "prompt": "«Он приехал из далёкой страны» — what case is «страны» and what does «из» mark?",
+      "options": ["Accusative, destination", "Prepositional, location", "Genitive, origin/source", "Instrumental, accompaniment"],
+      "answer": 2,
+      "explain": "«из» takes the genitive «страны» to mark origin — where someone has come from."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Which sentence correctly expresses living IN a country (static location)?",
+      "options": ["Мы живём в красивую страну", "Мы живём из красивой страны", "Мы живём в красивой стране", "Мы живём к красивой стране"],
+      "answer": 2,
+      "explain": "«в красивой стране» uses the prepositional form «стране» after «в» for static residence."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «После работы я иду домой», what is «домой»?",
+      "options": ["Genitive of дом", "Prepositional of дом meaning 'at home'", "Nominative plural of дом", "A frozen adverb meaning 'homeward' (motion toward home)"],
+      "answer": 3,
+      "explain": "«домой» is an undeclined frozen adverb expressing motion toward home, contrasted with static «дома» (at home)."
+    },
+    {
+      "id": "Q11",
+      "prompt": "«Это очень старые дома» — what makes «дома́» tricky here?",
+      "options": ["It is the genitive singular", "It is the stressed-ending nominative plural, a homograph of adverb «дома» (at home), told apart by stress", "It is the dative of direction", "It is a frozen adverb meaning 'homeward'"],
+      "answer": 1,
+      "explain": "«дома́» is the stressed nominative plural of дом, written like the adverb «дома» (at home) but distinguished by stress."
+    },
+    {
+      "id": "Q12",
+      "prompt": "In «Дети играют в парке весь день», what case is «парке»?",
+      "options": ["Accusative (motion into)", "Genitive (proximity)", "Prepositional (location)", "Dative (movement around)"],
+      "answer": 2,
+      "explain": "After «в» meaning location the noun takes the prepositional «парке», so «в парке» = 'in the park'."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Translate «Давай пойдём в парк сегодня!» into English.",
+      "options": ["Let's leave the park today!", "Let's walk around the park today!", "Let's go to the park today!", "Let's meet behind the park today!"],
+      "answer": 2,
+      "explain": "«в парк» is accusative of direction after «в», so this is an invitation to go to the park."
+    },
+    {
+      "id": "Q14",
+      "prompt": "«Дети каждый день ходят в школу» uses «школу» (accusative). Which sentence instead shows location IN school?",
+      "options": ["Я учусь в новой школе", "Мы вернулись из школы поздно", "К школе ведёт длинная дорога", "Директор школы очень строгий"],
+      "answer": 0,
+      "explain": "«в новой школе» is prepositional, marking where the studying happens — location, not direction."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «В магазине нет свежего молока», what is the gender and case of «магазине»?",
+      "options": ["Masculine, prepositional", "Feminine, accusative", "Neuter, genitive", "Masculine, dative"],
+      "answer": 0,
+      "explain": "«магазин» is masculine; «в магазине» is the prepositional location form with the -е ending."
+    },
+    {
+      "id": "Q16",
+      "prompt": "«В доме пять светлых комнат» — why is «комнат» in this form?",
+      "options": ["It is nominative plural after «все»", "It is genitive plural (zero ending) required after the numeral «пять»", "It is instrumental plural after «между»", "It is accusative singular object"],
+      "answer": 1,
+      "explain": "«пять» governs the genitive plural «комнат», which here takes a zero ending."
+    },
+    {
+      "id": "Q17",
+      "prompt": "«Я долго любуюсь этой площадью» — what is special about «площадью»?",
+      "options": ["It is the genitive plural", "It is the instrumental with the distinctive -ью ending of 3rd-declension nouns", "It is the nominative singular", "It is the accusative of motion"],
+      "answer": 1,
+      "explain": "«площадь» is a 3rd-declension feminine noun whose instrumental takes the distinctive -ью ending, «площадью»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "In «Мы стоим на мосту и смотрим вниз», why is it «на мосту́» and not «на мосте»?",
+      "options": ["«мост» is feminine", "«мост» has a special stressed -у́ locative used after в/на for physical location", "«на мосту» is genitive", "It is a typo for «на мосте»"],
+      "answer": 1,
+      "explain": "«мост» takes a special stressed locative «на мосту́» for physical location, distinct from the regular -е prepositional («о мосте»)."
+    },
+    {
+      "id": "Q19",
+      "prompt": "«Туристы шли путём через густой лес» — what case is «путём»?",
+      "options": ["Nominative", "Genitive", "Instrumental (the special form of «путь»)", "Prepositional"],
+      "answer": 2,
+      "explain": "«путь» declines specially: its instrumental is «путём» (with required ё), here marking the route by which they moved."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Мне не нравится цвет этого угла», why is it «угла» and not «угола»?",
+      "options": ["«угол» is neuter", "The fleeting vowel о drops in the oblique singular stem угл-, giving «угла»", "It is the nominative plural", "«угла» is the instrumental form"],
+      "answer": 1,
+      "explain": "«угол» has a fleeting о that disappears in oblique singular forms, so the genitive is «угла», never «угола»."
+    }
+  ]
+}

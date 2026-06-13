@@ -1,0 +1,173 @@
+{
+  "id": "quiz-nouns-animals",
+  "chunkId": "nouns-animals",
+  "label": "Nouns — Animals",
+  "description": "A 20-question check on animal nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Наша кошка спит на диване.», what does «кошка» mean?",
+      "options": ["dog", "cat", "cow", "bird"],
+      "answer": 1,
+      "explain": "«Кошка» is the cat, here the nominative subject of «спит»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «В лесу живёт большой медведь.», what animal is «медведь»?",
+      "options": ["wolf", "bull", "bear", "elephant"],
+      "answer": 2,
+      "explain": "«Медведь» means bear, the nominative subject of «живёт»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How do you say 'wolf' to fill «В лесу живёт большой ___.»?",
+      "options": ["волк", "слон", "конь", "зверь"],
+      "answer": 0,
+      "explain": "«Волк» is the masculine nominative subject in «В лесу живёт большой волк.»"
+    },
+    {
+      "id": "Q04",
+      "prompt": "Which word means 'elephant', as in «Этот ___ очень большой.»?",
+      "options": ["медведь", "слон", "бык", "пёс"],
+      "answer": 1,
+      "explain": "«Слон» means elephant, the nominative subject in «Этот слон очень большой.»"
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Я вижу большого чёрного кота.», what case is «кота»?",
+      "options": ["nominative", "dative", "accusative", "prepositional"],
+      "answer": 2,
+      "explain": "«Кота» is the animate accusative direct object of «вижу», matching the genitive form."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «Фермер дал быку много сена.», what case is «быку»?",
+      "options": ["dative", "instrumental", "genitive", "accusative"],
+      "answer": 0,
+      "explain": "«Быку» is the dative indirect object — the bull receiving the hay."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Девочка играет с кошкой.», what case is «кошкой»?",
+      "options": ["genitive", "prepositional", "accusative", "instrumental"],
+      "answer": 3,
+      "explain": "«Кошкой» is instrumental after «с», marking the companion in the activity."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «В рассказе говорится о быке.», what case is «о быке»?",
+      "options": ["prepositional", "dative", "nominative", "instrumental"],
+      "answer": 0,
+      "explain": "«О быке» uses the prepositional after «о» to name the topic."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Choose the correct form: «Мальчик увидел старого ___.» (saw the old horse)",
+      "options": ["конь", "коня", "коню", "конём"],
+      "answer": 1,
+      "explain": "«Коня» is the animate accusative object of «увидел», equal to the genitive."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Choose the correct form: «У соседа нет ___.» (the neighbour has no cow)",
+      "options": ["корова", "корову", "коровы", "коровой"],
+      "answer": 2,
+      "explain": "After «нет», «коровы» takes the genitive of absence."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Choose the correct form: «Девочка любуется красивой ___.» (admires the horse)",
+      "options": ["лошадь", "лошади", "лошадью", "лошадей"],
+      "answer": 2,
+      "explain": "«Любуется» governs the instrumental, so «лошадью» is required."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What gender is «собака» in «Большая собака бежит по улице.»?",
+      "options": ["masculine", "feminine", "neuter", "no gender"],
+      "answer": 1,
+      "explain": "«Собака» is feminine, taking the agreeing feminine adjective «большая»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What gender is «конь» in «Это быстрый белый конь.»?",
+      "options": ["masculine", "feminine", "neuter", "plural only"],
+      "answer": 0,
+      "explain": "«Конь» is a soft-stem masculine noun with masculine adjectives «быстрый белый»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What is the nominative plural of «слон», as in «В Африке живут большие ___.»?",
+      "options": ["слоны", "слонов", "слона", "слоне"],
+      "answer": 0,
+      "explain": "«Слоны» is the nominative plural subject of «живут»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What is the nominative plural of «птица», as in «В небе летят большие ___.»?",
+      "options": ["птиц", "птице", "птицы", "птицей"],
+      "answer": 2,
+      "explain": "«Птицы» is the nominative plural subject of «летят»."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «Я люблю всех уличных котов.», why does «котов» take the genitive-plural ending?",
+      "options": [
+        "it is the subject",
+        "кот is animate, so accusative plural equals genitive plural",
+        "it follows the preposition «о»",
+        "it is the instrumental of accompaniment"
+      ],
+      "answer": 1,
+      "explain": "For animate nouns the accusative plural matches the genitive plural, giving «котов»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "In «Фермер продал двух лошадей.», what does «лошадей» tell us about animacy?",
+      "options": [
+        "лошадь is inanimate, so accusative equals nominative",
+        "лошадь is animate, so accusative plural equals genitive plural",
+        "лошадь has no plural form",
+        "лошадь is neuter"
+      ],
+      "answer": 1,
+      "explain": "«Лошадей» is the animate accusative plural, matching the genitive plural after «двух»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "In «Зимой медведи спят в берлоге.», what is happening?",
+      "options": [
+        "bears are eating in a field",
+        "a bear is hunting at the river",
+        "bears sleep in a den in winter",
+        "bears are running through the snow"
+      ],
+      "answer": 2,
+      "explain": "«Медведи спят в берлоге» means the bears sleep in a den, with «зимой» giving the season."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What does «Кот поймал маленькую мышь.» mean?",
+      "options": [
+        "The cat caught a small mouse.",
+        "The mouse caught a small cat.",
+        "The cat is afraid of the mouse.",
+        "The cat is sleeping on the couch."
+      ],
+      "answer": 0,
+      "explain": "«Кот» is the subject and «мышь» the accusative object of «поймал», so the cat caught the mouse."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Охотник взял двух псов.», why is «псов» used rather than «псы»?",
+      "options": [
+        "it is the nominative plural subject",
+        "пёс is animate, so the accusative plural equals the genitive plural «псов»",
+        "«взял» requires the dative",
+        "the fleeting ё is added in the plural"
+      ],
+      "answer": 1,
+      "explain": "After «двух» the animate noun takes the genitive plural «псов», which also serves as the accusative object of «взял»."
+    }
+  ]
+}

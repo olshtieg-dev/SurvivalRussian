@@ -1,0 +1,148 @@
+{
+  "id": "quiz-adverbs-place",
+  "chunkId": "adverbs-place",
+  "label": "Adverbs of Place",
+  "description": "A 20-question check on place and direction adverbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «домой» mean in «Я иду домой после работы»?",
+      "options": ["homeward, to home", "at home", "from home", "near home"],
+      "answer": 0,
+      "explain": "«Домой» is the directional form meaning homeward, used only with motion, as it marks the destination of «иду»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «Машина быстро проехала мимо», what does the standalone «мимо» mean?",
+      "options": ["around", "past, by", "toward", "back"],
+      "answer": 1,
+      "explain": "Standing alone with no noun, «мимо» means past or by, marking motion that passes a point without stopping."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'forward' as a direction of motion, as in «Сделай шаг ___»?",
+      "options": ["впереди", "назад", "вперёд", "вокруг"],
+      "answer": 2,
+      "explain": "«Вперёд» marks real forward motion, modifying «сделай» in «Сделай шаг вперёд»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "«Иди вперёд, я буду впереди» contrasts two adverbs. Which one marks a static position rather than motion?",
+      "options": ["впереди", "вперёд", "both mark motion", "neither marks position"],
+      "answer": 0,
+      "explain": "In this sentence «впереди» marks a static position in front, while «вперёд» marks motion forward."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What does «отсюда» mean in «Уходи отсюда прямо сейчас»?",
+      "options": ["to here", "here", "from here", "over there"],
+      "answer": 2,
+      "explain": "«Отсюда» marks the starting point of movement, meaning from this place, and answers откуда."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What does «вниз» mean in «Мы быстро спускаемся вниз по лестнице»?",
+      "options": ["upward", "downward", "around", "back"],
+      "answer": 1,
+      "explain": "«Вниз» is an adverb of direction marking downward movement, modifying «спускаемся» and answering куда."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Which adverb means 'upward' and fits «Мы поднимаемся ___ по лестнице»?",
+      "options": ["вниз", "вокруг", "назад", "вверх"],
+      "answer": 3,
+      "explain": "«Вверх» marks upward movement from low to high, modifying «поднимаемся»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What does this sentence say in English: «Сделай два шага назад»?",
+      "options": ["Take two steps forward.", "Take two steps back.", "Take two steps to the side.", "Take two steps down."],
+      "answer": 1,
+      "explain": "«Назад» means backwards, marking the direction of the steps away from the front."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «вокруг» mean in «Вокруг было очень тихо»?",
+      "options": ["all around", "ahead", "nearby", "above"],
+      "answer": 0,
+      "explain": "Standing alone, «вокруг» means all around, describing the silence on every side."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What does «прямо» mean in the directions «Идите прямо до светофора»?",
+      "options": ["turn left", "straight ahead", "back", "around"],
+      "answer": 1,
+      "explain": "«Прямо» means straight ahead and modifies «идите», the core word for giving walking directions."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What does «около» mean in «Дети играют около дома»?",
+      "options": ["inside the house", "around the house", "far from the house", "near the house"],
+      "answer": 3,
+      "explain": "Here «около» governs the genitive «дома» as a preposition meaning near, marking a static location beside the house."
+    },
+    {
+      "id": "Q12",
+      "prompt": "In «Положи книгу обратно на полку», what does «обратно» tell you?",
+      "options": ["to put it somewhere new", "to take it away", "to put it back to its place", "to leave it where it is"],
+      "answer": 2,
+      "explain": "«Обратно» marks moving the book back to its place, naming the reverse direction toward the original spot."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «вон» do in «Вон там стоит наш дом»?",
+      "options": ["points to a distant place", "denies the house exists", "marks motion toward home", "asks a question"],
+      "answer": 0,
+      "explain": "«Вон» is a demonstrative adverb directing attention to something far off, paired with «там»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Наша квартира этажом выше», what does «выше» mean?",
+      "options": ["one floor lower", "on the same floor", "far away", "one floor higher"],
+      "answer": 3,
+      "explain": "«Выше», the comparative of высоко, marks a higher position, here one floor up as measured by «этажом»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Which sentence correctly uses the DIRECTIONAL form to mean 'I'm going home'?",
+      "options": ["Я иду дома.", "Я иду домой.", "Я живу домой.", "Я отсюда дома."],
+      "answer": 1,
+      "explain": "«Домой» is the directional adverb used with motion, so «Я иду домой» is correct for going home."
+    },
+    {
+      "id": "Q16",
+      "prompt": "How would you tell someone to look downward, as in «Посмотри ___, там река»?",
+      "options": ["вверх", "вниз", "вокруг", "впереди"],
+      "answer": 1,
+      "explain": "«Вниз» shows the downward direction of looking after «посмотри» in «Посмотри вниз, там река»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does «впереди» mean in «Впереди я вижу большой мост»?",
+      "options": ["behind", "below", "around", "ahead, in front"],
+      "answer": 3,
+      "explain": "«Впереди» marks what lies in front, answering где and setting the scene before «я вижу»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Odd one out: three of these are directions of MOTION, but one names a static position. Which is the odd one out?",
+      "options": ["вперёд", "вверх", "впереди", "вниз"],
+      "answer": 2,
+      "explain": "«Впереди» names a static position in front, while «вперёд», «вверх» and «вниз» all mark directions of motion."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What does this sentence say in English: «Не смотри назад, смотри вперёд»?",
+      "options": ["Don't look up, look down.", "Don't look around, look ahead.", "Don't look back, look forward.", "Don't look here, look there."],
+      "answer": 2,
+      "explain": "«Назад» means look back and «вперёд» means look forward, capturing the contrast between the two directions."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Odd one out: which adverb does NOT express the idea of returning or going back?",
+      "options": ["назад", "обратно", "сюда", "вернуться назад"],
+      "answer": 2,
+      "explain": "«Назад» and «обратно» both mark motion back toward the origin, but «сюда» simply means to here, not a return."
+    }
+  ]
+}

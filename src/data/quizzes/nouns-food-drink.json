@@ -1,0 +1,248 @@
+{
+  "id": "quiz-nouns-food-drink",
+  "chunkId": "nouns-food-drink",
+  "label": "Nouns — Food & Drink",
+  "description": "A 20-question check on food and drink nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «хлеб» mean?",
+      "options": [
+        "bread",
+        "butter",
+        "mushroom",
+        "fish"
+      ],
+      "answer": 0,
+      "explain": "Хлеб means 'bread', as in «Свежий хлеб лежит на столе» (fresh bread is lying on the table)."
+    },
+    {
+      "id": "Q02",
+      "prompt": "What does «молоко» mean?",
+      "options": [
+        "wine",
+        "milk",
+        "water",
+        "meat"
+      ],
+      "answer": 1,
+      "explain": "Молоко means 'milk', as in «Я пью чай с молоком» (I drink tea with milk)."
+    },
+    {
+      "id": "Q03",
+      "prompt": "How would you say 'water' in Russian?",
+      "options": [
+        "вино",
+        "пиво",
+        "вода",
+        "чай"
+      ],
+      "answer": 2,
+      "explain": "Вода means 'water', as in «Вода в реке очень холодная» (the water in the river is very cold)."
+    },
+    {
+      "id": "Q04",
+      "prompt": "How would you say 'apple' in Russian?",
+      "options": [
+        "яблоко",
+        "яйцо",
+        "масло",
+        "мясо"
+      ],
+      "answer": 0,
+      "explain": "Яблоко means 'apple', as in «Я ем красное яблоко» (I am eating a red apple)."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What grammatical gender is «вода»?",
+      "options": [
+        "masculine",
+        "neuter",
+        "feminine",
+        "it has no gender"
+      ],
+      "answer": 2,
+      "explain": "Вода is feminine, shown by the agreeing feminine adjective in «Вода в реке очень холодная»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What grammatical gender is «вино»?",
+      "options": [
+        "neuter",
+        "masculine",
+        "feminine",
+        "plural only"
+      ],
+      "answer": 0,
+      "explain": "Вино is neuter, shown by the neuter adjective in «Это вино очень вкусное»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What grammatical gender is «хлеб»?",
+      "options": [
+        "feminine",
+        "neuter",
+        "masculine",
+        "indeclinable"
+      ],
+      "answer": 2,
+      "explain": "Хлеб is masculine, shown by the masculine adjective in «Свежий хлеб лежит на столе»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What is special about «кофе» grammatically?",
+      "options": [
+        "it is feminine",
+        "it is indeclinable (the form never changes)",
+        "it has no plural form",
+        "it is always genitive"
+      ],
+      "answer": 1,
+      "explain": "Кофе is an indeclinable masculine noun, so its form stays «кофе» in every case, as in «Я наслаждаюсь утренним кофе»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «В стакане нет воды», what case is «воды» and why?",
+      "options": [
+        "nominative, as the subject",
+        "genitive, required by «нет» (absence)",
+        "accusative, as the direct object",
+        "instrumental, showing means"
+      ],
+      "answer": 1,
+      "explain": "After «нет» the noun takes the genitive: «воды» marks the absence of water."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Я пью чистую воду каждое утро», what case is «воду»?",
+      "options": [
+        "accusative (direct object)",
+        "genitive (quantity)",
+        "dative (recipient)",
+        "prepositional (location)"
+      ],
+      "answer": 0,
+      "explain": "«Воду» is the accusative direct object of «пью» (I drink), with «чистую» agreeing in the feminine accusative."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Я мою руки тёплой водой», what case is «водой»?",
+      "options": [
+        "prepositional",
+        "dative",
+        "instrumental (means)",
+        "genitive"
+      ],
+      "answer": 2,
+      "explain": "«Водой» is the instrumental, the means of washing, with «тёплой» agreeing in the feminine instrumental."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the genitive singular of «хлеб» (as in «У нас нет ___ дома»)?",
+      "options": [
+        "хлебом",
+        "хлеба",
+        "хлебе",
+        "хлебу"
+      ],
+      "answer": 1,
+      "explain": "The masculine genitive singular is «хлеба», as in «У нас нет хлеба дома» (we have no bread at home)."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What is the instrumental singular of «молоко» (as in «Я пью чай с ___»)?",
+      "options": [
+        "молока",
+        "молоку",
+        "молоке",
+        "молоком"
+      ],
+      "answer": 3,
+      "explain": "The neuter instrumental singular is «молоком», as in «Я пью чай с молоком» (I drink tea with milk)."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What is the prepositional singular of «вино» (as in «В этом ___ мало сахара»)?",
+      "options": [
+        "вине",
+        "вина",
+        "вином",
+        "вину"
+      ],
+      "answer": 0,
+      "explain": "The neuter prepositional singular is «вине», as in «В этом вине мало сахара» (this wine has little sugar)."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What is the dative singular of «чай» (as in «Добавь сахар к ___»)?",
+      "options": [
+        "чая",
+        "чаем",
+        "чаю",
+        "чае"
+      ],
+      "answer": 2,
+      "explain": "The dative form is «чаю», as in «Добавь сахар к чаю» (add sugar to the tea)."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What is the genitive plural of «яйцо» (as in «Я купил десять ___»)?",
+      "options": [
+        "яйца",
+        "яиц",
+        "яйцов",
+        "яйцей"
+      ],
+      "answer": 1,
+      "explain": "The irregular genitive plural is «яиц», as in «Я купил десять яиц» (I bought ten eggs)."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What is the genitive plural of «гриб» (as in «Дети собрали корзину ___»)?",
+      "options": [
+        "грибы",
+        "гриба",
+        "грибов",
+        "грибам"
+      ],
+      "answer": 2,
+      "explain": "The masculine genitive plural is «грибов», as in «Дети собрали полную корзину грибов» (the children gathered a full basket of mushrooms)."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the nominative plural of «яблоко» (as in «На столе лежат свежие ___»)?",
+      "options": [
+        "яблоки",
+        "яблока",
+        "яблок",
+        "яблоке"
+      ],
+      "answer": 0,
+      "explain": "The neuter nominative plural is «яблоки», as in «На столе лежат свежие яблоки» (fresh apples are lying on the table)."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Бабушка добавила к супу один гриб», what does the sentence mean?",
+      "options": [
+        "Grandmother took one mushroom out of the soup.",
+        "Grandmother added one mushroom to the soup.",
+        "Grandmother cooked the soup without mushrooms.",
+        "Grandmother bought one mushroom for the soup."
+      ],
+      "answer": 1,
+      "explain": "«Добавила к супу один гриб» means she added one mushroom to the soup; «к супу» is the dative goal and «гриб» the accusative object."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «Без хлеба обед неполный», what is being said?",
+      "options": [
+        "Lunch is complete with bread.",
+        "Bread is served before lunch.",
+        "Without bread, lunch is incomplete.",
+        "There is no lunch without water."
+      ],
+      "answer": 2,
+      "explain": "«Без хлеба» (genitive after «без») means 'without bread', so the meal feels incomplete; «неполный» means 'incomplete'."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "quiz-possessives",
+  "chunkId": "possessives",
+  "label": "Possessives (свой)",
+  "description": "A 20-question check on the свой possessive lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does свой fundamentally point back to?",
+      "options": [
+        "The subject of the clause",
+        "The nearest noun before it",
+        "The speaker, always",
+        "The object of the verb"
+      ],
+      "answer": 0,
+      "explain": "Свой is the reflexive possessive: it refers back to the subject of the clause and agrees with the possessed noun."
+    },
+    {
+      "id": "Q02",
+      "prompt": "In «Он взял свою книгу», whose book did he take?",
+      "options": [
+        "Another man's book",
+        "His own book",
+        "A woman's book",
+        "The narrator's book"
+      ],
+      "answer": 1,
+      "explain": "Because the possessor он is the clause subject, свой is used and свою means his own book."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Он взял его книгу», whose book did he take?",
+      "options": [
+        "His own book",
+        "His own newest book",
+        "Nobody's in particular",
+        "Another man's book"
+      ],
+      "answer": 3,
+      "explain": "Его never refers back to the clause subject, so it marks a different man's book."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Fill the gap: «Она нашла ___ сумку.» — meaning she found HER OWN bag.",
+      "options": [
+        "её",
+        "свою",
+        "его",
+        "их"
+      ],
+      "answer": 1,
+      "explain": "Since она is both subject and owner, свой is required; свою agrees with feminine сумку."
+    },
+    {
+      "id": "Q05",
+      "prompt": "In «Она нашла её сумку», whose bag did she find?",
+      "options": [
+        "Her own bag",
+        "Another woman's bag",
+        "A man's bag",
+        "The group's bag"
+      ],
+      "answer": 1,
+      "explain": "Here the owner differs from the subject она, so её marks a different woman's bag; её cannot point back to the subject the way свой does."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Fill the gap: «Они помыли ___ машину.» — meaning they washed THEIR OWN car.",
+      "options": [
+        "их",
+        "его",
+        "свою",
+        "её"
+      ],
+      "answer": 2,
+      "explain": "The owners они are the clause subject, so свой is correct; свою means their own car and agrees with feminine машину."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Они помыли их машину», whose car did they wash?",
+      "options": [
+        "Their own car",
+        "Some other group's car",
+        "One man's car",
+        "One woman's car"
+      ],
+      "answer": 1,
+      "explain": "The possessor is not the subject они, so их refers to some other group's car; свой would have meant their own."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Why is свою correct, not её, in «Студент сдал свою работу»?",
+      "options": [
+        "Because работа is feminine",
+        "Because the subject студент is also the possessor",
+        "Because the verb is perfective",
+        "Because работа is in the accusative"
+      ],
+      "answer": 1,
+      "explain": "Since студент is both subject and possessor, свой is chosen over его."
+    },
+    {
+      "id": "Q09",
+      "prompt": "Свой agrees with which noun?",
+      "options": [
+        "The possessed noun, in gender, number and case",
+        "The subject, always",
+        "Whichever noun comes last",
+        "It never changes form"
+      ],
+      "answer": 0,
+      "explain": "Свой declines to match the possessed noun; e.g. своё matches neuter окно in «Я открыл своё окно»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Which form of свой fills «Я открыл ___ окно»?",
+      "options": [
+        "свой",
+        "свою",
+        "своё",
+        "свои"
+      ],
+      "answer": 2,
+      "explain": "Своё is the neuter accusative form, matching the neuter noun окно."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Which form fills «Мы пригласили ___ друзей» (animate plural accusative)?",
+      "options": [
+        "свои",
+        "своих",
+        "свою",
+        "своими"
+      ],
+      "answer": 1,
+      "explain": "Своих is the animate plural accusative form, agreeing with друзей."
+    },
+    {
+      "id": "Q12",
+      "prompt": "In «Я звоню своему брату», what case and gender is своему?",
+      "options": [
+        "Masculine dative",
+        "Masculine genitive",
+        "Feminine dative",
+        "Masculine instrumental"
+      ],
+      "answer": 0,
+      "explain": "Своему is the masculine dative form, matching брату."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Which form fills «Она гордится ___ дочерью» (feminine instrumental)?",
+      "options": [
+        "своей",
+        "свою",
+        "своего",
+        "своим"
+      ],
+      "answer": 0,
+      "explain": "Своей is the feminine instrumental form, agreeing with дочерью."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Which form fills «Я не нашёл ___ паспорта» (masculine genitive under negation)?",
+      "options": [
+        "свой",
+        "своего",
+        "своему",
+        "своим"
+      ],
+      "answer": 1,
+      "explain": "Своего is the masculine genitive form, agreeing with паспорта."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Which form fills «Он доволен ___ результатом» (masculine instrumental)?",
+      "options": [
+        "своего",
+        "своём",
+        "своей",
+        "своим"
+      ],
+      "answer": 3,
+      "explain": "Своим is the masculine instrumental form, agreeing with результатом."
+    },
+    {
+      "id": "Q16",
+      "prompt": "Which form fills «Мы заботимся о ___ детях» (plural prepositional after о)?",
+      "options": [
+        "своих",
+        "свои",
+        "своим",
+        "своими"
+      ],
+      "answer": 0,
+      "explain": "Своих is the plural prepositional form after о, agreeing with детях."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does the idiom «по-своему» in «Он всё делает по-своему» mean?",
+      "options": [
+        "By the way",
+        "In one's own way",
+        "On his own time",
+        "At the right moment"
+      ],
+      "answer": 1,
+      "explain": "По-своему is an adverbial idiom built on свой meaning acting in one's own way, on one's own terms."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «своими руками» in «Я построил дом своими руками» mean?",
+      "options": [
+        "With borrowed tools",
+        "With one's own hands, by oneself",
+        "In due course",
+        "Out of one's element"
+      ],
+      "answer": 1,
+      "explain": "Своими руками is a fixed phrase meaning the work was done personally, with one's own hands."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What does «в своё время» in «Всё придёт в своё время» mean?",
+      "options": [
+        "In due course, at the right moment",
+        "In its own way",
+        "Not oneself",
+        "By oneself"
+      ],
+      "answer": 0,
+      "explain": "В своё время is a set expression meaning at the right moment, in due course."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does the idiom «сам не свой» in «После новостей он был сам не свой» mean?",
+      "options": [
+        "Completely alone",
+        "One of a kind",
+        "Not oneself, out of sorts",
+        "Ill at ease in company"
+      ],
+      "answer": 2,
+      "explain": "Сам не свой is a fixed phrase describing being out of sorts or not oneself."
+    }
+  ]
+}

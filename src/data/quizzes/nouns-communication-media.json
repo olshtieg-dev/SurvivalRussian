@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-communication-media",
+  "chunkId": "nouns-communication-media",
+  "label": "Nouns — Communication & Media",
+  "description": "A 20-question check on communication and media nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Утром я читаю газету», what does «газету» mean?",
+      "options": ["the newspaper", "the book", "the magazine", "the letter"],
+      "answer": 0,
+      "explain": "«Газета» means newspaper, here in the accusative «газету» as the object of «читаю»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say \"telephone\" in Russian?",
+      "options": ["сигнал", "телефон", "звонок", "номер"],
+      "answer": 1,
+      "explain": "«Телефон» is the noun for telephone, as in «Мой телефон лежит на столе»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Это статья из вчерашней газеты», which case is «газеты»?",
+      "options": ["Nominative", "Accusative", "Genitive", "Instrumental"],
+      "answer": 2,
+      "explain": "The preposition «из» governs the genitive, giving «газеты» to show the source."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Choose the correct form: \"У меня нет ____.\" (I don't have a phone)",
+      "options": ["телефон", "телефону", "телефона", "телефоном"],
+      "answer": 2,
+      "explain": "Negation with «нет» requires the genitive «телефона», as in «У меня нет телефона»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What is the gender of «письмо»?",
+      "options": ["Masculine", "Feminine", "Neuter", "Plural-only"],
+      "answer": 2,
+      "explain": "«Письмо» is neuter, shown by the agreement «длинное письмо» and «Письмо лежало»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «Я доволен этим письмом», which case is «письмом»?",
+      "options": ["Genitive", "Dative", "Prepositional", "Instrumental"],
+      "answer": 3,
+      "explain": "The adjective «доволен» governs the instrumental, giving «письмом»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «книга» mean?",
+      "options": ["song", "book", "speech", "story"],
+      "answer": 1,
+      "explain": "«Книга» means book, as in «Эта книга очень интересная»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What is the genitive plural of «книга», as in «много интересных ___»?",
+      "options": ["книги", "книгам", "книг", "книгах"],
+      "answer": 2,
+      "explain": "After «много» the zero-ending genitive plural «книг» is used: «много интересных книг»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "How do you say \"surname\" in Russian?",
+      "options": ["имя", "фамилия", "название", "фраза"],
+      "answer": 1,
+      "explain": "«Фамилия» means surname, as in «Его фамилия очень редкая»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Он гордится своей фамилией», which case is «фамилией»?",
+      "options": ["Instrumental", "Dative", "Prepositional", "Accusative"],
+      "answer": 0,
+      "explain": "The verb «гордиться» takes the instrumental, giving «фамилией»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Я не знаю имени этого человека», which case is «имени»?",
+      "options": ["Nominative", "Accusative", "Genitive", "Instrumental"],
+      "answer": 2,
+      "explain": "«Имени» is the irregular genitive of the -мя noun «имя», governed by the negated «знаю»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the irregular nominative plural of «имя»?",
+      "options": ["имена", "имени", "имья", "имёны"],
+      "answer": 0,
+      "explain": "«Имя» has the irregular plural «имена», as in «Эти имена очень редкие»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «фильм» mean?",
+      "options": ["photograph", "film", "newspaper", "conversation"],
+      "answer": 1,
+      "explain": "«Фильм» means film, as in «Это очень интересный фильм»."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Все восхищались этим фильмом», which case is «фильмом»?",
+      "options": ["Genitive", "Dative", "Instrumental", "Prepositional"],
+      "answer": 2,
+      "explain": "The verb «восхищаться» governs the instrumental, giving «фильмом»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "Choose the correct accusative form: \"Я сделал эту ____ вчера.\" (photograph)",
+      "options": ["фотография", "фотографию", "фотографии", "фотографией"],
+      "answer": 1,
+      "explain": "Feminine -ия nouns take -ию in the accusative, giving «фотографию»."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «После долгого разговора мы устали», which case is «разговора»?",
+      "options": ["Nominative", "Genitive", "Dative", "Accusative"],
+      "answer": 1,
+      "explain": "The preposition «после» governs the genitive, giving «разговора»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What does the full sentence «Я наконец поймал сигнал телефона» mean?",
+      "options": ["I finally lost the phone signal", "I finally caught the phone signal", "I finally turned off the phone", "I finally called on the phone"],
+      "answer": 1,
+      "explain": "«Поймал сигнал» means caught the signal, with «телефона» (genitive) modifying it as the phone's signal."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the genitive plural of «песня», as in «много русских ___»?",
+      "options": ["песни", "песням", "песен", "песнями"],
+      "answer": 2,
+      "explain": "«Песен» is the genitive plural with a fleeting «е», as in «много русских песен»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Мы наслаждались его рассказами весь вечер», which case is «рассказами»?",
+      "options": ["Genitive plural", "Dative plural", "Instrumental plural", "Prepositional plural"],
+      "answer": 2,
+      "explain": "The verb «наслаждаться» requires the instrumental, so the plural «рассказами» is instrumental plural."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What gender is «речь», as in «Его речь была очень убедительной»?",
+      "options": ["Masculine", "Feminine", "Neuter", "Plural-only"],
+      "answer": 1,
+      "explain": "«Речь» is a feminine soft-sign noun, shown by «важную речь» and «убедительной»."
+    }
+  ]
+}

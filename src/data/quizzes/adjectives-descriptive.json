@@ -1,0 +1,248 @@
+{
+  "id": "quiz-adjectives-descriptive",
+  "chunkId": "adjectives-descriptive",
+  "label": "Descriptive Adjectives",
+  "description": "A 20-question check on descriptive adjectives.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «Это наш главный вопрос» mean in English?",
+      "options": [
+        "This is our main question.",
+        "This is our last question.",
+        "This is our only question.",
+        "This is our first question."
+      ],
+      "answer": 0,
+      "explain": "Главный means main or chief, and the masculine ending matches вопрос."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Pick the correctly-agreeing form: «Главн__ улица очень красивая» (улица is feminine).",
+      "options": [
+        "Главный",
+        "Главная",
+        "Главное",
+        "Главные"
+      ],
+      "answer": 1,
+      "explain": "Улица is feminine, so the adjective takes the feminine ending -ая: главная."
+    },
+    {
+      "id": "Q03",
+      "prompt": "Which form fits the neuter noun: «Это главн__ правило игры» (правило is neuter)?",
+      "options": [
+        "главный",
+        "главная",
+        "главное",
+        "главные"
+      ],
+      "answer": 2,
+      "explain": "Правило is neuter, so главный takes the neuter ending -ое: главное."
+    },
+    {
+      "id": "Q04",
+      "prompt": "How would you say \"She is a well-known singer\" in Russian?",
+      "options": [
+        "Она известный певица.",
+        "Она известное певица.",
+        "Она известная певица.",
+        "Она известные певица."
+      ],
+      "answer": 2,
+      "explain": "Певица is feminine, so известный takes the feminine ending -ая: известная певица."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What does «Обед уже готов» mean in English?",
+      "options": [
+        "Lunch is ready already.",
+        "Lunch is almost ready.",
+        "Lunch is being cooked.",
+        "Lunch is not ready yet."
+      ],
+      "answer": 0,
+      "explain": "Готов is the short-form masculine predicate stating that обед is in a ready state."
+    },
+    {
+      "id": "Q06",
+      "prompt": "A female speaker says she is ready to go to work. Which short form is correct: «Я готов__ идти на работу»?",
+      "options": [
+        "готов",
+        "готова",
+        "готово",
+        "готовы"
+      ],
+      "answer": 1,
+      "explain": "A female speaker uses the feminine short form готова."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Это известный русский писатель» mean in English?",
+      "options": [
+        "This is a famous Russian writer.",
+        "This is an old Russian writer.",
+        "This is a young Russian writer.",
+        "This is a poor Russian writer."
+      ],
+      "answer": 0,
+      "explain": "Известный means well-known or famous, and русский marks the writer as Russian."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Choose the form agreeing with the plural noun: «Это наши главн__ цели» (цели is plural).",
+      "options": [
+        "главный",
+        "главная",
+        "главное",
+        "главные"
+      ],
+      "answer": 3,
+      "explain": "Цели is plural, so the adjective takes the plural ending -ые: главные."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «У нас общий друг» mean in English?",
+      "options": [
+        "We have a new friend.",
+        "We have a mutual friend.",
+        "We have an old friend.",
+        "We have a best friend."
+      ],
+      "answer": 1,
+      "explain": "Общий means common or shared, so a общий друг is a mutual friend."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Why is it «У них общая цель» and not «общий цель»?",
+      "options": [
+        "цель is feminine, so the adjective takes -ая",
+        "цель is masculine, so the adjective takes -ая",
+        "цель is plural, so the adjective takes -ая",
+        "цель is neuter, so the adjective takes -ая"
+      ],
+      "answer": 0,
+      "explain": "Цель is a feminine noun, so общий agrees with the feminine ending -ая: общая."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What does «Он работал целый день» mean in English?",
+      "options": [
+        "He worked half a day.",
+        "He worked every day.",
+        "He worked a whole day.",
+        "He worked one more day."
+      ],
+      "answer": 2,
+      "explain": "Целый means whole or entire, and целый день is an accusative expression of duration."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Pick the feminine accusative form for duration: «Я ждал тебя цел__ неделю» (неделю is feminine accusative).",
+      "options": [
+        "целый",
+        "целую",
+        "целое",
+        "целые"
+      ],
+      "answer": 1,
+      "explain": "Неделю is feminine accusative, so целый takes the feminine accusative ending -ую: целую."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «Пушкин - великий поэт» mean in English?",
+      "options": [
+        "Pushkin is a great poet.",
+        "Pushkin is a famous poet.",
+        "Pushkin is a young poet.",
+        "Pushkin is a Russian poet."
+      ],
+      "answer": 0,
+      "explain": "Великий means great, and the masculine ending matches поэт."
+    },
+    {
+      "id": "Q14",
+      "prompt": "Choose the form agreeing with the neuter noun: «Это велик__ открытие науки» (открытие is neuter).",
+      "options": [
+        "великий",
+        "великая",
+        "великое",
+        "великие"
+      ],
+      "answer": 2,
+      "explain": "Открытие is neuter, so великий takes the neuter ending -ое: великое."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does «Это очень нужный совет» mean in English?",
+      "options": [
+        "This is a very useful piece of advice.",
+        "This is a very long piece of advice.",
+        "This is a very strange piece of advice.",
+        "This is a very simple piece of advice."
+      ],
+      "answer": 0,
+      "explain": "Нужный means needed or useful, and the masculine ending matches совет."
+    },
+    {
+      "id": "Q16",
+      "prompt": "How would you say \"This is a necessary step forward\" in Russian (шаг is masculine)?",
+      "options": [
+        "Это необходимая шаг вперёд.",
+        "Это необходимое шаг вперёд.",
+        "Это необходимый шаг вперёд.",
+        "Это необходимые шаг вперёд."
+      ],
+      "answer": 2,
+      "explain": "Шаг is masculine, so необходимый takes the masculine ending: необходимый шаг."
+    },
+    {
+      "id": "Q17",
+      "prompt": "Why does «Я встретил известного актёра» use the ending -ого?",
+      "options": [
+        "актёр is animate masculine in the accusative, which copies the genitive -ого",
+        "актёр is feminine in the accusative, taking -ого",
+        "актёр is neuter in the prepositional, taking -ого",
+        "актёр is plural in the dative, taking -ого"
+      ],
+      "answer": 0,
+      "explain": "For an animate masculine noun the accusative equals the genitive, so известный becomes известного."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does «Это единственный возможный вариант» mean in English?",
+      "options": [
+        "This is the only possible option.",
+        "This is the best possible option.",
+        "This is the last possible option.",
+        "This is the first possible option."
+      ],
+      "answer": 0,
+      "explain": "Возможный means possible, and with единственный the sentence names the only possible option."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Это вполне возможно», what does возможно mean?",
+      "options": [
+        "it is impossible",
+        "it is possible",
+        "it is necessary",
+        "it is ready"
+      ],
+      "answer": 1,
+      "explain": "Возможно is the neuter short form used impersonally to mean it is possible."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Pick the form agreeing with the plural noun: «Эти меры необходим__ для безопасности» (меры is plural, short form).",
+      "options": [
+        "необходим",
+        "необходима",
+        "необходимо",
+        "необходимы"
+      ],
+      "answer": 3,
+      "explain": "Меры is plural, so the short-form predicate takes the plural ending -ы: необходимы."
+    }
+  ]
+}

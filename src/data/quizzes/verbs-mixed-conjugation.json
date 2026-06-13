@@ -1,0 +1,148 @@
+{
+  "id": "quiz-verbs-mixed-conjugation",
+  "chunkId": "verbs-mixed-conjugation",
+  "label": "Verbs — Mixed Conjugation",
+  "description": "A 20-question check on mixed-conjugation verbs.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "«Я очень хочу горячий чай.» Which present-tense feature does хочу show?",
+      "options": ["The singular к→ч shift", "The plural хот- stem", "A past-tense ending", "An imperative stem"],
+      "answer": 0,
+      "explain": "Хочу is the first-person singular present, showing the к→ч singular stem that the plural forms lack."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Complete the second-person singular: «Ты ___ холодной воды?»",
+      "options": ["хотите", "хотят", "хотим", "хочешь"],
+      "answer": 3,
+      "explain": "Хочешь keeps the singular хоч- stem, as in «Ты хочешь холодной воды?»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "Why do «Мы хотим идти в парк сегодня.» and «Я очень хочу горячий чай.» use different verb stems?",
+      "options": ["Because the mixed verb switches between the singular хоч- and the plural хот- pattern", "Because one is past and one is present", "Because хотеть has no plural", "Because the subjects are different genders"],
+      "answer": 0,
+      "explain": "Хотеть is mixed: singular хочу/хочешь/хочет use хоч-, while plural хотим/хотите/хотят use хот-."
+    },
+    {
+      "id": "Q04",
+      "prompt": "«Они очень хотят помочь нам сегодня.» What does хотят tell you about the subject?",
+      "options": ["It is third-person plural", "It is first-person singular", "It is feminine past", "It is an imperative"],
+      "answer": 0,
+      "explain": "Хотят is the third-person plural хот- stem, contrasting with singular хочет."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What does «Я так хочу есть после тренировки.» idiomatically mean?",
+      "options": ["I want to leave", "I'm sleepy", "I'm thirsty", "I'm hungry"],
+      "answer": 3,
+      "explain": "Хочу есть literally is 'I want to eat' and reads idiomatically as 'I'm hungry'."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «Я хочу чаю с лимоном, пожалуйста.» why is чаю used instead of чай?",
+      "options": ["It is the plural of чай", "It is the special partitive genitive, 'some tea'", "It is a typo for чай", "It is the dative meaning 'to tea'"],
+      "answer": 1,
+      "explain": "Чаю is the partitive genitive 'some tea', contrasting with accusative чай (the tea as a whole)."
+    },
+    {
+      "id": "Q07",
+      "prompt": "What does «Я давно хотел крепкий чай.» express, and what does хотел signal?",
+      "options": ["Feminine past tense", "Masculine past tense", "Present desire, plural subject", "Perfective future"],
+      "answer": 1,
+      "explain": "Хотел is the masculine singular past; past forms drop the хочу/хотим mixed split entirely."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Complete the neuter past: «Растение явно ___ воды и света.»",
+      "options": ["хотел", "хотела", "хотело", "хотят"],
+      "answer": 2,
+      "explain": "Хотело agrees with the neuter subject растение; past tense marks only gender and number."
+    },
+    {
+      "id": "Q09",
+      "prompt": "«Я скоро захочу горячий чай.» What does the prefix за- do to хотеть here?",
+      "options": ["Makes it negative", "Forms the perfective future ('will want')", "Makes it plural", "Turns it into a noun"],
+      "answer": 1,
+      "explain": "Захочу is the perfective захотеть, 'I will want', with the за- prefix forming the perfective future."
+    },
+    {
+      "id": "Q10",
+      "prompt": "«После уроков я бегу домой.» Which stem does бегу use?",
+      "options": ["The г-stem", "The ж-stem of the middle persons", "A past stem", "The imperative stem бег-и"],
+      "answer": 0,
+      "explain": "Бегу uses the г-stem, unlike the ж of бежишь/бежит in the middle persons."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Complete: «Ты ___ слишком быстро для меня.»",
+      "options": ["бегу", "бегут", "беги", "бежишь"],
+      "answer": 3,
+      "explain": "Бежишь switches to the ж-stem of the middle persons, contrasting with the г of бегу."
+    },
+    {
+      "id": "Q12",
+      "prompt": "«Прохожие бегут от внезапного дождя.» Why does бегут use the г-stem?",
+      "options": ["Because it is third-person plural, which bookends the conjugation with бегу", "Because it is past tense", "Because it is an imperative", "Because the subject is singular"],
+      "answer": 0,
+      "explain": "Бегут returns to the г-stem matching бегу; the г bookends the conjugation бегу…бегут."
+    },
+    {
+      "id": "Q13",
+      "prompt": "«Скорее беги ко мне, не бойся!» What form is беги?",
+      "options": ["Third-person plural present", "First-person singular present", "The informal singular imperative", "A past-tense form"],
+      "answer": 2,
+      "explain": "Беги is the informal singular command, with the г-stem matching бегу and бегут."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What is the difference between бегите in «Ребята, бегите скорее за мной!» and the present бежите?",
+      "options": ["No difference; they are the same word", "Бегите is past; бежите is future", "Бегите is the imperative (г-stem); бежите is the present (ж-stem)", "Бегите is singular; бежите is plural"],
+      "answer": 2,
+      "explain": "Бегите is the plural imperative with the г-stem, distinct from the present бежите with the ж-stem."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «Сейчас я побегу в магазин за хлебом.» what does побегу express?",
+      "options": ["Imperfective past", "Perfective future with the г-stem", "An imperative", "Present habitual action"],
+      "answer": 1,
+      "explain": "Побегу is perfective and future at once, using the г-stem like бегу, with no буду needed."
+    },
+    {
+      "id": "Q16",
+      "prompt": "How do you say 'this summer I will run my first marathon' using the imperfective future?",
+      "options": ["Этим летом я побегу первый марафон.", "Этим летом я бегу первый марафон.", "Этим летом я бежал первый марафон.", "Этим летом я буду бежать первый марафон."],
+      "answer": 3,
+      "explain": "«Этим летом я буду бежать первый марафон.» joins буду with the infinitive for the imperfective future."
+    },
+    {
+      "id": "Q17",
+      "prompt": "«Мне очень хочется спать.» What kind of verb is хочется?",
+      "options": ["An impersonal verb fixed in the 3sg form with a dative experiencer", "A regular first-person verb", "A past-tense verb", "An imperative"],
+      "answer": 0,
+      "explain": "Хочется is the frozen 3sg of impersonal хотеться; there is no subject and the experiencer мне stands in the dative."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Complete the past of the impersonal verb: «Мне ___ пить весь день.»",
+      "options": ["хотел", "хотела", "хотелось", "хочется"],
+      "answer": 2,
+      "explain": "Хотелось is the neuter past, the only past form impersonal хотеться uses."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Ей хотелось плакать от радости.» why does the verb stay neuter хотелось even with a female experiencer?",
+      "options": ["Because radost is neuter", "Because impersonal хотеться agrees with nothing and stays neuter regardless of the feeler's gender", "Because it is a typo", "Because ей is neuter"],
+      "answer": 1,
+      "explain": "Хотеться is impersonal, so хотелось stays neuter no matter the experiencer; ей is just the dative of она."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «Мне не хочется никуда идти.» mean?",
+      "options": ["I want to go somewhere", "I don't feel like going anywhere", "I am going nowhere on purpose", "I felt like staying yesterday"],
+      "answer": 1,
+      "explain": "Не хочется negates the impersonal verb, the common way to say 'I don't feel like', reinforced by никуда."
+    }
+  ]
+}

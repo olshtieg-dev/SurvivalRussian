@@ -1,0 +1,148 @@
+{
+  "id": "quiz-gerunds",
+  "chunkId": "gerunds",
+  "label": "Gerunds (Деепричастия)",
+  "description": "A 20-question check on the gerunds lessons.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Читая письмо, она тихо улыбалась», what does the gerund читая mean?",
+      "options": ["while reading", "having read", "about to read", "the reader"],
+      "answer": 0,
+      "explain": "Читая is the imperfective gerund of читать and names an action happening at the same time as the main verb — she read while she smiled."
+    },
+    {
+      "id": "Q02",
+      "prompt": "An imperfective gerund such as читая or делая marks an action that happens…",
+      "options": ["after the main verb is finished", "before the main verb begins", "at the same time as the main verb", "only in the future"],
+      "answer": 2,
+      "explain": "The lessons stress that the imperfective gerund signals simultaneity — the action overlaps with the main verb, not sequence."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Купив билеты, мы пошли в кино», when did the buying happen relative to going to the cinema?",
+      "options": ["at the same time", "before going", "after going", "it never happened"],
+      "answer": 1,
+      "explain": "Купив is a perfective gerund, so it marks an action completed before the main verb — they bought the tickets, then went."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Why does the form stay читая in «Студенты молчали, читая трудный учебник» even though студенты is plural?",
+      "options": ["it agrees with a hidden singular noun", "gerunds are indeclinable and take no number ending", "the plural ending was dropped for style", "читая is actually singular here"],
+      "answer": 1,
+      "explain": "Gerunds are indeclinable: one fixed form serves every number, person and gender, unlike a participle which would agree."
+    },
+    {
+      "id": "Q05",
+      "prompt": "The same-subject rule the lessons stress means that…",
+      "options": ["the gerund and the main verb must be done by the same subject", "the gerund needs its own separate subject", "the subject must be plural", "the two verbs must be in the same tense"],
+      "answer": 0,
+      "explain": "As in «Читая эту книгу, я многое узнаю», the doer of the gerund must be the doer of the main verb; a gerund cannot take its own subject."
+    },
+    {
+      "id": "Q06",
+      "prompt": "Which suffix forms an imperfective gerund from a non-reflexive verb (e.g. делать → делая)?",
+      "options": ["-в", "-вши", "-я", "-ущий"],
+      "answer": 2,
+      "explain": "Imperfective gerunds are built from the present stem plus -я, as in делая from дела-ют."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Прочитав письмо, она заплакала», what does прочитав mean?",
+      "options": ["while reading", "reading aloud", "the reading", "having read"],
+      "answer": 3,
+      "explain": "Прочитав is the perfective gerund of прочитать — she finished reading, then cried."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Why is придя (from прийти) called an irregular perfective gerund?",
+      "options": ["it agrees with gender", "it takes -дя instead of the usual -в", "it has no subject", "it is actually imperfective"],
+      "answer": 1,
+      "explain": "Придя is irregular: instead of the usual perfective -в it takes a -дя ending on the perfective stem."
+    },
+    {
+      "id": "Q09",
+      "prompt": "The reflexive gerund улыбаясь (from улыбаться) keeps its reflexive marker as which ending?",
+      "options": ["-в", "-я", "-вшись", "-ясь"],
+      "answer": 3,
+      "explain": "Reflexive imperfective verbs keep the reflexive marker in the gerund as -ясь, not plain -я."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Возвращаясь домой, она купила хлеб», возвращаясь tells us she bought bread…",
+      "options": ["after she got home", "instead of going home", "while she was on the way home", "before she left"],
+      "answer": 2,
+      "explain": "Возвращаясь is an imperfective reflexive gerund — the buying happened simultaneously, on the way home."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Which suffix forms the reflexive perfective gerund вернувшись (from вернуться)?",
+      "options": ["-вшись", "-ясь", "-в", "-дя"],
+      "answer": 0,
+      "explain": "Reflexive verbs take -вшись for the perfective gerund, carrying the reflexive -ся, as in вернувшись."
+    },
+    {
+      "id": "Q12",
+      "prompt": "In «Сделав уроки, он пошёл гулять», what does сделав convey?",
+      "options": ["he did homework while walking", "he finished the homework, then went out", "he went out, then did homework", "he never finished the homework"],
+      "answer": 1,
+      "explain": "Сделав is a perfective gerund of сделать — the homework was completed first, then he went out."
+    },
+    {
+      "id": "Q13",
+      "prompt": "How does a participle like читающий differ from the gerund читая?",
+      "options": ["the participle inflects for gender, number and case; the gerund does not", "the participle is always plural", "they are identical in use", "the gerund inflects but the participle does not"],
+      "answer": 0,
+      "explain": "The lessons contrast the indeclinable gerund читая with the participle читающий, which agrees for gender, number and case."
+    },
+    {
+      "id": "Q14",
+      "prompt": "In «Завтра, читая доклад, я буду волноваться», why does читая stay unchanged even with a future main clause?",
+      "options": ["it becomes future too", "the gerund has no future form and keeps one shape", "it changes to a perfective gerund", "the comma cancels the tense"],
+      "answer": 1,
+      "explain": "The gerund has no future form; читая stays fixed while the reading and the worrying happen together."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «Написав письмо, он пошёл на почту», what does написав mean?",
+      "options": ["while writing", "the writer", "about to write", "having written"],
+      "answer": 3,
+      "explain": "Написав is the perfective gerund of написать — he finished the letter, then went to the post office."
+    },
+    {
+      "id": "Q16",
+      "prompt": "In «Он сидел в кресле, читая газету», how do сидел and читая relate?",
+      "options": ["reading came first, then sitting", "sitting came first, then reading", "both run alongside each other, one subject", "they have different subjects"],
+      "answer": 2,
+      "explain": "The imperfective gerund читая runs parallel to сидел; both actions belong to он and happen simultaneously."
+    },
+    {
+      "id": "Q17",
+      "prompt": "The set phrase «Говоря честно» works as a frozen connector meaning roughly…",
+      "options": ["frankly speaking", "having spoken", "while listening", "speaking loudly"],
+      "answer": 0,
+      "explain": "Говоря честно is an idiomatic gerund phrase meaning frankly speaking, fixed because gerunds are indeclinable."
+    },
+    {
+      "id": "Q18",
+      "prompt": "In «Увидев маму, ребёнок побежал к ней», what is the order of events?",
+      "options": ["he ran, then saw mama", "he saw mama, then ran to her", "he saw and ran at the same instant only", "he never saw mama"],
+      "answer": 1,
+      "explain": "Увидев is a perfective gerund — the child caught sight of mama first, then ran to her."
+    },
+    {
+      "id": "Q19",
+      "prompt": "In «Слушая музыку, она готовила ужин», what does слушая describe?",
+      "options": ["listening that finished before cooking", "listening happening while she cooked", "a command to listen", "the music itself"],
+      "answer": 1,
+      "explain": "Слушая is an imperfective gerund — she listened to music while cooking, the two actions overlapping."
+    },
+    {
+      "id": "Q20",
+      "prompt": "A perfective gerund like купив in «Купив квартиру, я плачу ипотеку» shows the buying as completed even though the main verb плачу is present. What does this tell us?",
+      "options": ["the perfective gerund means completion regardless of the main clause's tense", "the gerund forces the main verb into the past", "present main verbs cancel the gerund", "the buying is still ongoing"],
+      "answer": 0,
+      "explain": "A perfective gerund marks a finished prior action whatever the main tense — the flat is bought, and now I pay the mortgage."
+    }
+  ]
+}

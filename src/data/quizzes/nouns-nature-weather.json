@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-nature-weather",
+  "chunkId": "nouns-nature-weather",
+  "label": "Nouns — Nature & Weather",
+  "description": "A 20-question check on nature and weather nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «На улице идёт сильный дождь.», what does the noun «дождь» mean?",
+      "options": ["snow", "rain", "wind", "frost"],
+      "answer": 1,
+      "explain": "«Дождь» means 'rain', here the nominative subject of «идёт»."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Which Russian noun means 'snow', as in «На улице идёт белый снег.»?",
+      "options": ["лёд", "мороз", "снег", "туман"],
+      "answer": 2,
+      "explain": "«Снег» is 'snow', the masculine subject of «идёт» in that sentence."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Сегодня нет дождя.», which case is «дождя» and why?",
+      "options": ["genitive, required by «нет»", "accusative direct object", "dative after a short adjective", "instrumental of means"],
+      "answer": 0,
+      "explain": "«Нет» governs the genitive to express absence, giving «дождя»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What grammatical gender is the noun «солнце» («Сегодня ярко светит солнце.»)?",
+      "options": ["masculine", "feminine", "neuter", "it has no gender"],
+      "answer": 2,
+      "explain": "«Солнце» ('sun') is a neuter noun, the subject of «светит»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Complete the instrumental phrase: «Мы шли домой под ____.» (in the rain)",
+      "options": ["дождь", "дождя", "дождю", "дождём"],
+      "answer": 3,
+      "explain": "«Под» with location takes the instrumental, so «под дождём»."
+    },
+    {
+      "id": "Q06",
+      "prompt": "How do you say 'wind' in Russian, as in «Сегодня дует сильный ветер.»?",
+      "options": ["ветер", "вода", "вечер", "север"],
+      "answer": 0,
+      "explain": "«Ветер» is 'wind', the masculine nominative subject of «дует»."
+    },
+    {
+      "id": "Q07",
+      "prompt": "In «Мы переплыли широкую реку.», what case is «реку»?",
+      "options": ["nominative subject", "accusative direct object", "genitive of relation", "prepositional of location"],
+      "answer": 1,
+      "explain": "«Реку» is the accusative direct object of «переплыли», with «широкую» agreeing."
+    },
+    {
+      "id": "Q08",
+      "prompt": "Which sentence correctly uses the locative «в снегу» (playing in the snow)?",
+      "options": ["Дети играют в снеге весь день.", "Дети играют в снег весь день.", "Дети играют в снегу весь день.", "Дети играют в снега весь день."],
+      "answer": 2,
+      "explain": "«Снег» takes the special locative «-у» after «в», giving «в снегу»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What is the nominative plural of «гора» ('mountain'), as in «Вдали виднеются заснеженные ____.»?",
+      "options": ["горы", "горах", "гор", "горой"],
+      "answer": 0,
+      "explain": "The nominative plural of «гора» is «горы», the subject of «виднеются»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "In «Цветы тянутся к солнцу.», why is «солнцу» in the dative?",
+      "options": ["it is the direct object", "it follows «к», showing direction", "it expresses absence", "it is the instrument of the action"],
+      "answer": 1,
+      "explain": "«К» governs the dative to mark direction, so the flowers reach «к солнцу»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "What does «звезда» mean in «На небе светит яркая звезда.»?",
+      "options": ["moon", "cloud", "star", "sky"],
+      "answer": 2,
+      "explain": "«Звезда» is 'star', here the feminine nominative subject of «светит»."
+    },
+    {
+      "id": "Q12",
+      "prompt": "Choose the genitive plural to complete «Дети рисуют много ярких ____.» (stars)",
+      "options": ["звёзды", "звёзд", "звёздам", "звездой"],
+      "answer": 1,
+      "explain": "«Много» takes the genitive plural, and «звезда» gives «звёзд»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "Which noun is neuter and means 'sky', as in «Небо сегодня очень синее.»?",
+      "options": ["небо", "море", "облако", "дерево"],
+      "answer": 0,
+      "explain": "«Небо» ('sky') is the neuter subject; «синее» agrees as a neuter adjective."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What is unusual about «небеса» in «Над нами чистые небеса.»?",
+      "options": ["it is a genitive singular", "it is an irregular nominative plural of «небо»", "it is an instrumental form", "it is a diminutive"],
+      "answer": 1,
+      "explain": "«Небеса» is the irregular nominative plural of «небо», common in poetic use."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «На небе нет ни облака.», what does this sentence say?",
+      "options": ["The sky is full of clouds.", "There is not a single cloud in the sky.", "A cloud is rising in the sky.", "The cloud is behind the sun."],
+      "answer": 1,
+      "explain": "«Нет ни облака» uses the genitive of negation to say not one cloud is in the sky."
+    },
+    {
+      "id": "Q16",
+      "prompt": "How do you say 'frost' in Russian, as in «Сегодня на улице сильный мороз.»?",
+      "options": ["лёд", "холод", "мороз", "снег"],
+      "answer": 2,
+      "explain": "«Мороз» is 'frost', the masculine nominative subject of that weather sentence."
+    },
+    {
+      "id": "Q17",
+      "prompt": "In «Деревья покрыты белым морозом.», what case is «морозом»?",
+      "options": ["instrumental of means", "genitive of absence", "dative complement", "prepositional"],
+      "answer": 0,
+      "explain": "«Морозом» is the instrumental naming what covers the trees, with «белым» agreeing."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the irregular genitive plural of «дерево» in «В саду много старых ____.»?",
+      "options": ["деревов", "дерева", "деревьев", "деревей"],
+      "answer": 2,
+      "explain": "«Дерево» has the irregular genitive plural «деревьев», required after «много»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What does the full sentence «Семена лежат в земле.» mean?",
+      "options": ["The seeds are floating on the water.", "The seeds are lying in the soil.", "The seeds fell from the tree.", "The seeds grow toward the sun."],
+      "answer": 1,
+      "explain": "«В земле» is the prepositional of «земля» ('earth, soil'), so the seeds lie in the ground."
+    },
+    {
+      "id": "Q20",
+      "prompt": "In «От огня идёт сильный жар.», what happens to «огонь» in the genitive «огня»?",
+      "options": ["it gains an extra syllable", "the stem vowel «о» drops out", "the ending becomes «-ом»", "it stays identical to the nominative"],
+      "answer": 1,
+      "explain": "«Огонь» drops the fleeting stem vowel «о» in the genitive «огня» after «от»."
+    }
+  ]
+}

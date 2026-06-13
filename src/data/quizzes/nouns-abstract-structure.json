@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-abstract-structure",
+  "chunkId": "nouns-abstract-structure",
+  "label": "Nouns — Abstract (Structure)",
+  "description": "A 20-question check on structure and system nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «Это самая важная часть.», what does «часть» mean?",
+      "options": ["part", "hour", "happiness", "frequency"],
+      "answer": 0,
+      "explain": "«Часть» is a soft-sign feminine noun meaning 'part', here the nominative predicate."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say 'structure' in Russian, as in «Это очень сложная структура.»?",
+      "options": ["система", "структура", "строение", "статья"],
+      "answer": 1,
+      "explain": "«Структура» (structure) is the feminine headword of this card."
+    },
+    {
+      "id": "Q03",
+      "prompt": "In «Машина состоит из многих частей.», what case is «частей»?",
+      "options": ["nominative singular", "dative singular", "genitive plural", "instrumental singular"],
+      "answer": 2,
+      "explain": "The preposition «из» governs the genitive, here the plural «частей»."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What is the gender of «число» in «Семь - моё любимое число.»?",
+      "options": ["masculine", "feminine", "neuter", "it has no gender"],
+      "answer": 2,
+      "explain": "«Число» is a neuter noun, shown by the agreeing neuter adjective «любимое»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "Which sentence asks 'What is today's date?'",
+      "options": ["Какое сегодня число?", "Какая сумма нужна на ремонт?", "Какие виды чая ты любишь?", "Какая цифра идёт после семи?"],
+      "answer": 0,
+      "explain": "«Какое сегодня число?» is the standard way to ask the calendar date in Russian."
+    },
+    {
+      "id": "Q06",
+      "prompt": "In «В доме нет никакого порядка.», why is «порядка» in the genitive?",
+      "options": ["because «в» requires it", "because «нет» (absence) requires the genitive", "because it is plural", "because it is the subject"],
+      "answer": 1,
+      "explain": "«Нет» expresses absence and governs the genitive, giving «порядка» (the fleeting 'о' drops)."
+    },
+    {
+      "id": "Q07",
+      "prompt": "Choose the correct form: «В этом ___ нет свободных мест.» (using «ряд»).",
+      "options": ["ряд", "ряду", "ряда", "рядом"],
+      "answer": 1,
+      "explain": "Some masculine nouns take a special locative -у after «в», giving «в ряду»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What does «сумма» mean in «Это очень большая сумма денег.»?",
+      "options": ["bag", "sum / amount", "summary", "summer"],
+      "answer": 1,
+      "explain": "«Сумма» means a sum or amount, here a large amount of money."
+    },
+    {
+      "id": "Q09",
+      "prompt": "In «Стена покрашена синим цветом.», what case is «цветом»?",
+      "options": ["nominative", "genitive", "instrumental", "prepositional"],
+      "answer": 2,
+      "explain": "«Цветом» is instrumental, expressing the means by which the wall is painted."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Which option is the genitive plural of «цвет» (color), as in «много разных ___»?",
+      "options": ["цвета", "цветы", "цветов", "цветом"],
+      "answer": 2,
+      "explain": "«Много» requires the genitive plural «цветов»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "In «Правительство приняло строгие меры.», what does «меры» mean here?",
+      "options": ["measures (actions)", "borders", "seas", "moments"],
+      "answer": 0,
+      "explain": "«Меры» here is the accusative plural of «мера», meaning measures or actions taken."
+    },
+    {
+      "id": "Q12",
+      "prompt": "How do you say 'digit / figure' in Russian, as in «Эта цифра очень большая.»?",
+      "options": ["число", "цифра", "счёт", "знак"],
+      "answer": 1,
+      "explain": "«Цифра» is the feminine noun for a digit or figure."
+    },
+    {
+      "id": "Q13",
+      "prompt": "In «Я люблю вид из окна.», what does «вид» mean?",
+      "options": ["view", "video", "speed", "weight"],
+      "answer": 0,
+      "explain": "«Вид» here means 'view' (the scene from the window); it can also mean 'kind/type'."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What case does «любоваться» require, as in «Он любуется видом на море.»?",
+      "options": ["accusative", "genitive", "dative", "instrumental"],
+      "answer": 3,
+      "explain": "The verb «любоваться» governs the instrumental, giving «видом»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What does the fixed phrase «Средства массовой информации» mean?",
+      "options": ["mass media", "household goods", "public transport", "savings account"],
+      "answer": 0,
+      "explain": "«Средства массовой информации» is the standard Russian phrase for the mass media."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What gender is «средство» in «Это надёжное средство связи.»?",
+      "options": ["masculine", "feminine", "neuter", "plural only"],
+      "answer": 2,
+      "explain": "«Средство» is neuter, shown by the agreeing neuter adjective «надёжное»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "In «Я купил новую пару обуви.», what does «пара» mean?",
+      "options": ["pair", "steam", "park", "couple of words"],
+      "answer": 0,
+      "explain": "«Пара» means 'pair', here a pair of shoes («обуви» in the genitive)."
+    },
+    {
+      "id": "Q18",
+      "prompt": "Choose the correct accusative form: «Я прочитал первую ___ книги.» (using «часть»).",
+      "options": ["часть", "части", "частью", "частей"],
+      "answer": 0,
+      "explain": "Soft-sign feminine nouns keep the same form in the accusative singular, so «часть» is unchanged."
+    },
+    {
+      "id": "Q19",
+      "prompt": "How do you say 'level' in Russian, as in «Его уровень очень высокий.»?",
+      "options": ["порядок", "уровень", "размер", "степень"],
+      "answer": 1,
+      "explain": "«Уровень» (level) is a masculine noun with a fleeting 'е' that stays in the nominative."
+    },
+    {
+      "id": "Q20",
+      "prompt": "Which sentence correctly means 'These numbers are divisible by two'?",
+      "options": ["Дети учат большие числа.", "Эти числа делятся на два.", "Сумма этих чисел равна ста.", "Какое сегодня число?"],
+      "answer": 1,
+      "explain": "«Эти числа делятся на два.» uses «числа» as the nominative plural subject of «делятся»."
+    }
+  ]
+}

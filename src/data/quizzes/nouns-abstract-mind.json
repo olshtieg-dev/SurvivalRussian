@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-abstract-mind",
+  "chunkId": "nouns-abstract-mind",
+  "label": "Nouns — Abstract (Mind)",
+  "description": "A 20-question check on mind and thought nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "In «У него отличная память.», what does «память» mean?",
+      "options": ["memory", "thought", "mind", "habit"],
+      "answer": 0,
+      "explain": "«Память» is the soft-sign feminine noun meaning memory, here the thing possessed in the nominative."
+    },
+    {
+      "id": "Q02",
+      "prompt": "Which Russian noun means \"choice\"?",
+      "options": ["взгляд", "выбор", "интерес", "желание"],
+      "answer": 1,
+      "explain": "«Выбор» is the masculine noun for choice, as in «Я сделал свой выбор.»"
+    },
+    {
+      "id": "Q03",
+      "prompt": "What case is «памяти» in «У старика совсем нет памяти.»?",
+      "options": ["nominative", "accusative", "genitive", "instrumental"],
+      "answer": 2,
+      "explain": "After «нет» the noun stands in the genitive of negation, so «памяти» is genitive."
+    },
+    {
+      "id": "Q04",
+      "prompt": "Choose the correct form: «Он обладает прекрасной ___.» (память)",
+      "options": ["память", "памяти", "памятью", "памятей"],
+      "answer": 2,
+      "explain": "«Обладать» governs the instrumental, and soft-sign feminines take «-ью», giving «памятью»."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What gender is «мысль» (and «память», «способность»)?",
+      "options": ["masculine", "feminine", "neuter", "no fixed gender"],
+      "answer": 1,
+      "explain": "These soft-sign «-ь» nouns are feminine, like «память» and «способность» in the deck."
+    },
+    {
+      "id": "Q06",
+      "prompt": "How do you say \"dream\" (a cherished hope) in Russian?",
+      "options": ["мечта", "тайна", "воля", "вера"],
+      "answer": 0,
+      "explain": "«Мечта» means dream, as in «Это была моя главная мечта.»"
+    },
+    {
+      "id": "Q07",
+      "prompt": "What case is «мечту» in «Я наконец осуществил свою мечту.»?",
+      "options": ["nominative", "accusative", "dative", "genitive"],
+      "answer": 1,
+      "explain": "«Мечту» is the accusative direct object of «осуществил», with the feminine ending «-у»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "In «Музыка трогает мою душу.», what does «душа» mean?",
+      "options": ["soul", "faith", "will", "secret"],
+      "answer": 0,
+      "explain": "«Душа» means soul; in «душу» it is the accusative object of «трогает»."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What gender is «ум» in «Его ум работает очень быстро.»?",
+      "options": ["feminine", "neuter", "masculine", "plural-only"],
+      "answer": 2,
+      "explain": "«Ум» (mind) is a masculine noun and the nominative subject of «работает»."
+    },
+    {
+      "id": "Q10",
+      "prompt": "Choose the correct form: «В ___ он считает очень хорошо.» (ум, meaning \"in one's head\")",
+      "options": ["ум", "уме", "ума", "умом"],
+      "answer": 1,
+      "explain": "The idiom «в уме» (mentally) uses the prepositional, and the masculine takes «-е»."
+    },
+    {
+      "id": "Q11",
+      "prompt": "Which English meaning matches «надежда»?",
+      "options": ["habit", "hope", "interest", "ability"],
+      "answer": 1,
+      "explain": "«Надежда» is the hard feminine noun for hope, as in «У нас ещё есть надежда.»"
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the genitive plural in «Без надежд жить очень трудно.»?",
+      "options": ["надежда", "надежды", "надеждой", "надежд"],
+      "answer": 3,
+      "explain": "After «без» the genitive plural «надежд» appears with a bare-stem (zero) ending."
+    },
+    {
+      "id": "Q13",
+      "prompt": "How do you say \"faith\" in Russian?",
+      "options": ["вера", "воля", "тайна", "привычка"],
+      "answer": 0,
+      "explain": "«Вера» means faith, as in «Его вера очень крепкая.»"
+    },
+    {
+      "id": "Q14",
+      "prompt": "What case is «выбора» in «У меня нет другого выбора.»?",
+      "options": ["genitive", "dative", "instrumental", "prepositional"],
+      "answer": 0,
+      "explain": "«Нет» triggers the genitive of negation, so the masculine «выбор» becomes «выбора»."
+    },
+    {
+      "id": "Q15",
+      "prompt": "In «У детей разные интересы.», what does «интересы» mean here?",
+      "options": ["secrets", "abilities", "interests (hobbies)", "memories"],
+      "answer": 2,
+      "explain": "The nominative plural «интересы» means interests or pursuits."
+    },
+    {
+      "id": "Q16",
+      "prompt": "Choose the correct form: «Он курит просто по ___.» (привычка, meaning \"out of habit\")",
+      "options": ["привычка", "привычку", "привычке", "привычкой"],
+      "answer": 2,
+      "explain": "The phrase «по привычке» (out of habit) takes the dative, giving «привычке»."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What gender is «желание» in «У него большое желание учиться.»?",
+      "options": ["masculine", "feminine", "neuter", "feminine soft-sign"],
+      "answer": 2,
+      "explain": "«Желание» is a neuter «-ие» noun, taking the neuter adjective «большое»."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What does the full sentence «У него сильная воля.» mean?",
+      "options": ["He has a strong will.", "He has a good memory.", "He has a great mind.", "He has deep faith."],
+      "answer": 0,
+      "explain": "«Воля» means will, so «У него сильная воля.» says he has a strong will."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What case is «взгляд» in the set phrase «На мой взгляд, это ошибка.»?",
+      "options": ["nominative", "accusative", "genitive", "prepositional"],
+      "answer": 1,
+      "explain": "The idiom «на мой взгляд» (in my opinion) uses «взгляд» in the accusative after «на»."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What is the genitive plural in «У детей много разных способностей.»?",
+      "options": ["способность", "способности", "способностями", "способностей"],
+      "answer": 3,
+      "explain": "After «много» the genitive plural of «способность» is «способностей»."
+    }
+  ]
+}

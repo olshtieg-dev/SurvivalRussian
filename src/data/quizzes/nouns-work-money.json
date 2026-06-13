@@ -1,0 +1,148 @@
+{
+  "id": "quiz-nouns-work-money",
+  "chunkId": "nouns-work-money",
+  "label": "Nouns — Work & Money",
+  "description": "A 20-question check on work and money nouns.",
+  "questions": [
+    {
+      "id": "Q01",
+      "prompt": "What does «деньги» mean?",
+      "options": ["money", "price", "salary", "bank"],
+      "answer": 0,
+      "explain": "«Деньги лежат на столе» means 'The money is lying on the table', so деньги is 'money'."
+    },
+    {
+      "id": "Q02",
+      "prompt": "How would you say 'price' in Russian?",
+      "options": ["рубль", "цена", "труд", "банк"],
+      "answer": 1,
+      "explain": "Цена is 'price', as in «Цена здесь слишком высокая»."
+    },
+    {
+      "id": "Q03",
+      "prompt": "What case is «денег» in «У меня нет денег»?",
+      "options": ["nominative", "genitive", "dative", "instrumental"],
+      "answer": 1,
+      "explain": "After «нет» the noun takes the genitive of negation, so «денег» is genitive plural."
+    },
+    {
+      "id": "Q04",
+      "prompt": "What does «зарплата» mean?",
+      "options": ["firm", "percent", "salary", "ruble"],
+      "answer": 2,
+      "explain": "«Моя зарплата выросла в этом году» means 'My salary grew this year', so зарплата is 'salary'."
+    },
+    {
+      "id": "Q05",
+      "prompt": "What is the gender of «банк»?",
+      "options": ["masculine", "feminine", "neuter", "plural-only"],
+      "answer": 0,
+      "explain": "«Рядом открылся новый банк» uses the masculine adjective «новый», so банк is masculine."
+    },
+    {
+      "id": "Q06",
+      "prompt": "What case is «ценой» in «Я доволен этой ценой»?",
+      "options": ["genitive", "dative", "instrumental", "prepositional"],
+      "answer": 2,
+      "explain": "The adjective «доволен» governs the instrumental, so «ценой» is instrumental."
+    },
+    {
+      "id": "Q07",
+      "prompt": "How would you say 'ruble' in Russian?",
+      "options": ["рубль", "доллар", "процент", "счёт"],
+      "answer": 0,
+      "explain": "Рубль is 'ruble', as in «Российский рубль снова подорожал»."
+    },
+    {
+      "id": "Q08",
+      "prompt": "What is the genitive singular of «рубль» (as after «два»)?",
+      "options": ["рублю", "рубля", "рублём", "рублей"],
+      "answer": 1,
+      "explain": "«Хлеб стоит сорок два рубля» shows the genitive singular «рубля» used after два, три, четыре."
+    },
+    {
+      "id": "Q09",
+      "prompt": "What does «труд» mean?",
+      "options": ["labor", "company", "interest", "money"],
+      "answer": 0,
+      "explain": "«Тяжёлый труд приносит результат» means 'Hard labor brings results', so труд is 'labor'."
+    },
+    {
+      "id": "Q10",
+      "prompt": "What case is «фирме» in «Я работаю в большой фирме»?",
+      "options": ["accusative", "dative", "instrumental", "prepositional"],
+      "answer": 3,
+      "explain": "After «в» marking location the noun takes the prepositional, so «фирме» is prepositional."
+    },
+    {
+      "id": "Q11",
+      "prompt": "«Деньги» is a plurale tantum (plural-only) noun. Which sentence treats it as a plural subject?",
+      "options": ["Деньги лежат на столе.", "У меня нет денег.", "С деньгами всё проще.", "Дай мне немного денег."],
+      "answer": 0,
+      "explain": "«Деньги лежат на столе» uses the plural verb «лежат» with «деньги» as the nominative plural subject."
+    },
+    {
+      "id": "Q12",
+      "prompt": "What is the accusative singular of «цена»?",
+      "options": ["цены", "цене", "цену", "ценой"],
+      "answer": 2,
+      "explain": "«Я узнал цену билета» shows feminine -а shifting to -у in the accusative: «цену»."
+    },
+    {
+      "id": "Q13",
+      "prompt": "What does «процент» mean?",
+      "options": ["dollar", "percent", "account", "price"],
+      "answer": 1,
+      "explain": "«Банк снизил годовой процент» means 'The bank lowered the annual percent', so процент is 'percent'."
+    },
+    {
+      "id": "Q14",
+      "prompt": "What case is «труду» in «Благодаря труду он многого добился»?",
+      "options": ["genitive", "dative", "instrumental", "prepositional"],
+      "answer": 1,
+      "explain": "The preposition «благодаря» takes the dative, so «труду» is dative."
+    },
+    {
+      "id": "Q15",
+      "prompt": "What is the nominative plural of «банк»?",
+      "options": ["банка", "банки", "банков", "банке"],
+      "answer": 1,
+      "explain": "«В городе открылись новые банки» shows the nominative plural «банки»."
+    },
+    {
+      "id": "Q16",
+      "prompt": "What does «Половину зарплаты он откладывает» mean?",
+      "options": ["He spends his whole salary.", "He sets aside half of his salary.", "He doubled his salary.", "He lost half of his salary."],
+      "answer": 1,
+      "explain": "«Половину зарплаты он откладывает» means he sets aside (saves) half of his salary, with «зарплаты» in the genitive of part."
+    },
+    {
+      "id": "Q17",
+      "prompt": "What case is «процентов» in «Банк начислил пять процентов»?",
+      "options": ["nominative plural", "genitive plural", "accusative plural", "dative plural"],
+      "answer": 1,
+      "explain": "After «пять» the noun takes the genitive plural, so «процентов» is genitive plural."
+    },
+    {
+      "id": "Q18",
+      "prompt": "What is the genitive plural of «фирма» (as after «много»)?",
+      "options": ["фирмы", "фирм", "фирме", "фирмой"],
+      "answer": 1,
+      "explain": "«В городе много крупных фирм» shows the bare genitive plural «фирм» required by «много»."
+    },
+    {
+      "id": "Q19",
+      "prompt": "What is the gender of «цена»?",
+      "options": ["masculine", "feminine", "neuter", "plural-only"],
+      "answer": 1,
+      "explain": "«Цена здесь слишком высокая» uses the feminine adjective «высокая», so цена is feminine."
+    },
+    {
+      "id": "Q20",
+      "prompt": "What does «У меня нет ни рубля» mean?",
+      "options": ["I have one ruble.", "I don't have a single ruble.", "I need a ruble.", "I found a ruble."],
+      "answer": 1,
+      "explain": "«У меня нет ни рубля» means 'I don't have a single ruble', with «ни» strengthening the genitive of absence «рубля»."
+    }
+  ]
+}
