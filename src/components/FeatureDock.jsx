@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { FlaskConical, Keyboard, Lock, MessageSquare, X } from 'lucide-react';
 import TypingTutorContainer from './TypingTutorContainer';
 import ChatroomPanel from './ChatroomPanel';
@@ -72,13 +72,27 @@ const accentClasses = {
   },
 };
 
-export default function FeatureDock() {
+export default function FeatureDock({ openSignal = 0, openFeatureId = 'typing', onFeatureClose }) {
   const [activeFeatureId, setActiveFeatureId] = useState(null);
 
   const activeFeature = useMemo(
     () => featureDefinitions.find((feature) => feature.id === activeFeatureId) || null,
     [activeFeatureId]
   );
+
+  // Allow an external caller (e.g. the curriculum's typing-foundations stage) to pop
+  // open a feature. A new openSignal value triggers the open.
+  useEffect(() => {
+    if (openSignal > 0) setActiveFeatureId(openFeatureId);
+  }, [openSignal, openFeatureId]);
+
+  // Notify when a feature panel closes (any path) — the curriculum uses this to re-check
+  // whether the typing tutor was just finished.
+  const prevFeatureRef = useRef(null);
+  useEffect(() => {
+    if (prevFeatureRef.current && !activeFeatureId) onFeatureClose?.(prevFeatureRef.current);
+    prevFeatureRef.current = activeFeatureId;
+  }, [activeFeatureId, onFeatureClose]);
 
   useEffect(() => {
     if (typeof document === 'undefined') return undefined;

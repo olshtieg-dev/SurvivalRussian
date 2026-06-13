@@ -45,15 +45,38 @@ export function stageSetIds(stage, lessonSets) {
   return out;
 }
 
-// Is a lessonSet "done"? Done = every mission in it has been typed at least once.
+// --- Spaced repetition (Leitner-style) ----------------------------------------------
+// A set advances a "box" each time the learner completes a full pass over its missions.
+// The next review comes due after the box's interval. Box 0 = not yet learned.
+export const REVIEW_INTERVALS_MS = [0, 1, 3, 7, 21, 60].map((d) => d * 24 * 60 * 60 * 1000);
+
+export function intervalForBox(box) {
+  const i = Math.min(Math.max(box, 0), REVIEW_INTERVALS_MS.length - 1);
+  return REVIEW_INTERVALS_MS[i];
+}
+
+// Is a lessonSet "done" for forward progression? Done once a full pass is completed
+// (box > 0). Falls back to distinct-missions-seen for legacy records without a box.
 export function isSetDone(lessonSetId, records, lessonSets) {
   const rec = records?.[lessonSetId];
   if (!rec) return false;
+  if ((rec.box || 0) > 0) return true;
   const set = lessonSets.find((s) => s.id === lessonSetId);
   const total = set?.missions?.length || 0;
-  if (!total) return (rec.completions || 0) > 0;
+  if (!total) return false;
   const seen = Object.keys(rec.missions || {}).length;
   return seen >= total;
+}
+
+// Sets whose review interval has elapsed, most overdue first.
+export function dueReviews(records, now, lessonSets) {
+  return Object.entries(records || {})
+    .filter(
+      ([id, r]) =>
+        (r.box || 0) > 0 && r.dueAt && r.dueAt <= now && lessonSets.some((s) => s.id === id),
+    )
+    .sort((a, b) => (a[1].dueAt || 0) - (b[1].dueAt || 0))
+    .map(([id]) => id);
 }
 
 // Pick the next thing to serve.

@@ -123,6 +123,7 @@ export default function Home() {
   const curriculum = useCurriculum();
   const [isCurriculumOpen, setIsCurriculumOpen] = useState(false);
   const [isQuestionnaireOpen, setIsQuestionnaireOpen] = useState(false);
+  const [typingTutorSignal, setTypingTutorSignal] = useState(0);
   const [activeWordKey, setActiveWordKey] = useState(() => {
     const initialLessonSet = getLessonSet(defaultLessonSetId);
     return getStartingWordKey(initialLessonSet?.missions || []);
@@ -380,6 +381,13 @@ export default function Home() {
     selectLessonSet('random-vocab');
     setIsCurriculumOpen(false);
   }, [selectLessonSet]);
+
+  // Curriculum "typing foundations" stage → pop open the structured typing tutor (lives
+  // in the FeatureDock). Bumping the signal triggers FeatureDock to open it.
+  const launchTypingTutor = useCallback(() => {
+    setTypingTutorSignal((n) => n + 1);
+    setIsCurriculumOpen(false);
+  }, []);
 
   useEffect(() => {
     if (!isLessonSelectorOpen) return;
@@ -645,7 +653,11 @@ export default function Home() {
           </>
         )}
 
-        <FeatureDock />
+        <FeatureDock
+          openSignal={typingTutorSignal}
+          openFeatureId="typing"
+          onFeatureClose={curriculum.refreshTypingStatus}
+        />
 
         <div className="mt-auto flex flex-col items-center gap-4">
           <GameOverlay />
@@ -721,9 +733,11 @@ export default function Home() {
         <CurriculumPanel
           recommendation={curriculum.recommendation}
           reviewRecommendation={curriculum.reviewRecommendation}
+          dueCount={curriculum.dueCount}
           progress={curriculum.progress}
           records={curriculum.records}
           onStart={startRecommended}
+          onStartTyping={launchTypingTutor}
           onFreePlay={startFreePlay}
           onRedoQuestionnaire={() => {
             setIsCurriculumOpen(false);

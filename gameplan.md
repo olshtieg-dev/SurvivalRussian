@@ -109,9 +109,22 @@ guest/login handler — get the shell and the space right first.
   reps + last-seen. Completions logged from `page.js`'s mission-complete edge.
 - **CurriculumPanel.jsx**: shows the single recommendation (Start), Review + Free-play,
   the stage roadmap with progress bars, and "what you've worked on" incl. rep counts.
-- **Not yet**: typing-foundations stage currently falls back to Essentials (no deep-link
-  to the structured typing tutor yet); Google login still a placeholder; SRS is "oldest
-  unseen" not yet interval-based. These are the next increments.
+- **Typing-foundations deep-link** ✅ (2026-06-13): the typing-foundations recommendation
+  now opens the structured typing tutor (in `FeatureDock`, via an `openSignal` prop bumped
+  from `page.js`); "or start with Essentials" remains as a fallback.
+- **Interval-based SRS** ✅ (2026-06-13): Leitner boxes in `lib/curriculum/planner.js`
+  (`REVIEW_INTERVALS_MS` = 1/3/7/21/60 days). A set promotes a box each completed pass and
+  schedules `dueAt`; `dueReviews()` surfaces overdue sets, the panel's Review button shows
+  the **due count** and targets the most-overdue. Unit-tested.
+- **Out-of-the-nest bridge** ✅ (2026-06-13): the curriculum now reads the typing tutor's
+  graduation (`lib/curriculum/typingStatus.js` reuses the tutor's own `nextCodeToUnlock`:
+  graduated = adaptive phase + entire keyboard unlocked). When graduated it **auto-advances
+  the stored stage pointer past typing-foundations** and the recommendation skips it —
+  detected promptly on tutor close (`FeatureDock onFeatureClose` → `refreshTypingStatus`),
+  plus a 60s tick and a cross-tab `storage` listener. Verified the predicate can't misfire
+  for beginners (4 seed keys at start).
+- **Not yet**: Google login still a placeholder (premium/AI-perks tier); per-mission (vs
+  per-set) SRS granularity.
 
 ## Workstream 1 — Onboarding triage gate
 

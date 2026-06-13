@@ -14,9 +14,11 @@ function setLabel(id) {
 export default function CurriculumPanel({
   recommendation,
   reviewRecommendation,
+  dueCount = 0,
   progress,
   records,
   onStart,
+  onStartTyping,
   onFreePlay,
   onRedoQuestionnaire,
   onReset,
@@ -63,15 +65,22 @@ export default function CurriculumPanel({
                 <>
                   <p className="mt-2 text-base font-bold text-white">Typing foundations</p>
                   <p className="mt-1 text-xs text-slate-300">
-                    Build keyboard muscle memory first. You can still start with the gentlest
-                    word set below while you get comfortable.
+                    Build keyboard muscle memory first — the tutor walks you through the
+                    Russian layout one key at a time.
                   </p>
                   <button
                     type="button"
-                    onClick={() => onStart('essentials', rec.stageIndexResolved)}
+                    onClick={onStartTyping}
                     className="mt-4 w-full rounded-2xl bg-blue-600 px-4 py-3 text-[11px] font-black uppercase tracking-[0.24em] text-white hover:bg-blue-500 transition-all"
                   >
-                    Start with Essentials
+                    Open typing tutor
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => onStart('essentials', rec.stageIndexResolved)}
+                    className="mt-2 w-full text-[10px] font-semibold uppercase tracking-[0.2em] text-slate-400 hover:text-slate-200"
+                  >
+                    or start with Essentials
                   </button>
                 </>
               ) : (
@@ -97,9 +106,13 @@ export default function CurriculumPanel({
               <button
                 type="button"
                 onClick={() => onStart(review.lessonSetId)}
-                className="flex-1 rounded-xl border border-slate-800 bg-slate-900/60 px-4 py-2.5 text-[10px] font-black uppercase tracking-[0.2em] text-slate-300 hover:text-white hover:border-slate-700 transition-all"
+                className={`flex-1 rounded-xl border px-4 py-2.5 text-[10px] font-black uppercase tracking-[0.2em] transition-all ${
+                  dueCount > 0
+                    ? 'border-amber-500/40 bg-amber-500/10 text-amber-300 hover:bg-amber-500/20'
+                    : 'border-slate-800 bg-slate-900/60 text-slate-300 hover:text-white hover:border-slate-700'
+                }`}
               >
-                Review · {setLabel(review.lessonSetId)}
+                {dueCount > 0 ? `Review · ${dueCount} due` : `Review · ${setLabel(review.lessonSetId)}`}
               </button>
             )}
             <button
