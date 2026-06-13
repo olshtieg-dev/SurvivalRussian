@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-HYP-BYLOBY",
+    "label": "Было бы",
+    "badge": "WOULD BE",
+    "description": "A 10-sentence card for the impersonal frame Было бы + adjective or infinitive meaning it would be.",
+    "missions": [
+      {
+        "id": "BY-HYP-BYLOBY-01",
+        "phrase": "Было бы здорово увидеть тебя.",
+        "fullAnalysis": "Strategic focus: Impersonal would be. Было is the neuter past of быть and бы makes it hypothetical, so было бы means it would be. The short adverb здорово and the infinitive увидеть complete the wish."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-02",
+        "phrase": "Было бы неплохо отдохнуть.",
+        "fullAnalysis": "Strategic focus: Would be plus infinitive. The particle бы always combines with a past-tense verb form, here the neuter было. The infinitive отдохнуть names the imagined activity that would be nice."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-03",
+        "phrase": "Без тебя было бы скучно.",
+        "fullAnalysis": "Strategic focus: Counterfactual state. Было бы plus the short adjective скучно pictures an unreal boredom that your presence prevents. бы is a mood particle, not a tense, despite the past было."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-04",
+        "phrase": "Было бы лучше начать пораньше.",
+        "fullAnalysis": "Strategic focus: Hypothetical preference. Было бы лучше means it would be better, with the infinitive начать giving the imagined action. The neuter past было is fixed by бы."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-05",
+        "phrase": "Было бы интересно послушать его.",
+        "fullAnalysis": "Strategic focus: Would be interesting. The short adjective интересно follows было бы, and the infinitive послушать names what would be worth doing. The whole state is imagined, not real."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-06",
+        "phrase": "С ней было бы веселее.",
+        "fullAnalysis": "Strategic focus: Unreal comparative state. Было бы plus веселее frames a livelier situation that does not exist because she is absent. бы is mobile but stays attached to было here."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-07",
+        "phrase": "Было бы хорошо позвонить родителям.",
+        "fullAnalysis": "Strategic focus: Gentle would be good. Было бы хорошо plus the infinitive позвонить suggests a desirable but unrealized action. The past было carries the hypothetical mood through бы."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-08",
+        "phrase": "Здесь было бы тихо и спокойно.",
+        "fullAnalysis": "Strategic focus: Imagined calm. Было бы plus the short adjectives тихо and спокойно describes a peace that is only supposed, not actual. The neuter past pairs with бы as the frame requires."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-09",
+        "phrase": "Было бы трудно без вашей помощи.",
+        "fullAnalysis": "Strategic focus: Counterfactual difficulty. Было бы трудно imagines a hardship that your help removes. The hypothetical reading comes from бы, not from the past tense of было."
+      },
+      {
+        "id": "BY-HYP-BYLOBY-10",
+        "phrase": "Было бы прекрасно встретиться завтра.",
+        "fullAnalysis": "Strategic focus: Would be wonderful. The short adjective прекрасно sits after было бы, and the infinitive встретиться names the imagined meeting. бы fixes the verb in its past form to mark the wish."
+      }
+    ]
+  }
+]

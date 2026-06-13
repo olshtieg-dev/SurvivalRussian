@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-PERF-KUPIV",
+    "label": "Купив",
+    "badge": "HAVING BOUGHT",
+    "description": "A 10-sentence card for купив, the perfective gerund of купить.",
+    "missions": [
+      { "id": "GD-PERF-KUPIV-01", "phrase": "Купив билеты, мы пошли в кино.", "fullAnalysis": "Strategic focus: prior action, front position. Купив is the perfective gerund of купить, formed from the perfective stem plus -в. It marks an action completed before the main verb: we bought the tickets, then went to the cinema. The gerund clause leads, set off by a comma." },
+      { "id": "GD-PERF-KUPIV-02", "phrase": "Купив хлеб, она вернулась домой.", "fullAnalysis": "Strategic focus: completed then return. Купив reports the prior finished purchase (perfective stem + -в); the return followed. One subject does both: she bought, she came back." },
+      { "id": "GD-PERF-KUPIV-03", "phrase": "Купив машину, он будет ездить на работу.", "fullAnalysis": "Strategic focus: future main clause. The main verb is future (будет ездить), yet купив still fixes the earlier completed action. A perfective gerund orders events: buy first, then drive, one shared subject." },
+      { "id": "GD-PERF-KUPIV-04", "phrase": "Купив подарок, я спрятал его в шкаф.", "fullAnalysis": "Strategic focus: same-subject rule. The gerund and the main verb share one subject: I bought the gift, I hid it. Купив is indeclinable, so the link to the subject rests on meaning, not on any ending." },
+      { "id": "GD-PERF-KUPIV-05", "phrase": "Купив продукты, туристы вернулись в лагерь.", "fullAnalysis": "Strategic focus: plural subject, no agreement. The subject is plural (туристы), but купив takes no plural ending — gerunds never agree, unlike participles. Sequence: groceries bought, then back to camp." },
+      { "id": "GD-PERF-KUPIV-06", "phrase": "Она обрадовалась, купив новое платье.", "fullAnalysis": "Strategic focus: gerund in end position. The gerund clause follows the main verb here, but the order holds: she bought the dress first, then was glad. Купив keeps one fixed form wherever it stands." },
+      { "id": "GD-PERF-KUPIV-07", "phrase": "Купив квартиру, я плачу ипотеку.", "fullAnalysis": "Strategic focus: present main clause. The main verb is present (плачу), yet купив reports a finished prior action: the flat is bought, and now I pay the mortgage. A perfective gerund means completion whatever the main tense." },
+      { "id": "GD-PERF-KUPIV-08", "phrase": "Купив цветы, он позвонил в дверь.", "fullAnalysis": "Strategic focus: tight sequence. Купив (купить, perfective + -в) marks the flowers bought just before he rang the bell. The two actions form a clear before-then-after chain under one subject." },
+      { "id": "GD-PERF-KUPIV-09", "phrase": "Купив дом, они переехали в деревню.", "fullAnalysis": "Strategic focus: prior step then move. The house was bought before the move, and купив makes that order explicit. Past main verb with a perfective gerund, one subject throughout." },
+      { "id": "GD-PERF-KUPIV-10", "phrase": "Купив кофе, я сел у окна.", "fullAnalysis": "Strategic focus: everyday sequence. Купив names the completed prior act: the coffee was bought, then I sat by the window. The perfective gerund keeps the actions in order, both done by me." }
+    ]
+  }
+]

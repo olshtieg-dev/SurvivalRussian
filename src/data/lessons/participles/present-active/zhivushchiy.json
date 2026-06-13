@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRA-ZHIVUSHCHIY",
+    "label": "Живущий",
+    "badge": "LIVING",
+    "description": "A 10-sentence card for живущий, the present active participle of жить.",
+    "missions": [
+      { "id": "PT-PRA-ZHIVUSHCHIY-01", "phrase": "Живущий рядом сосед очень добрый.", "fullAnalysis": "Strategic focus: Masculine nominative. Живущий comes from жить via the present stem живут plus -щ- and an ending. It agrees with masculine сосед and means the neighbour who lives nearby." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-02", "phrase": "Живущая одна тётя редко звонит.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets живущая agree with тётя, marking the aunt who lives alone." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-03", "phrase": "Живущее в реке существо опасно.", "fullAnalysis": "Strategic focus: Neuter nominative. Живущее takes the neuter ending -ее to match the neuter noun существо, describing the creature living in the river." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-04", "phrase": "Живущие в городе друзья скучают.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие joins живущие to друзья, picking out the friends who live in the city." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-05", "phrase": "Я навещаю живущего далеко дядю.", "fullAnalysis": "Strategic focus: Masculine accusative. With the animate object дядю the participle takes -его, so живущего agrees in gender, number and case as the uncle I visit." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-06", "phrase": "Дом живущей здесь семьи стар.", "fullAnalysis": "Strategic focus: Feminine genitive. Живущей carries the feminine genitive ending to agree with семьи, marking whose house it is — the house of the family living here." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-07", "phrase": "Я пишу живущему за границей брату.", "fullAnalysis": "Strategic focus: Masculine dative. The dative object брату pulls живущему into the dative -ему ending, naming the brother who lives abroad and to whom I write." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-08", "phrase": "Я знаком с живущим напротив врачом.", "fullAnalysis": "Strategic focus: Masculine instrumental. After знаком с the noun врачом stands in the instrumental, and живущим takes the matching instrumental ending to agree with the doctor living opposite." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-09", "phrase": "Мы говорим о живущей рядом подруге.", "fullAnalysis": "Strategic focus: Feminine prepositional. The preposition о governs the prepositional case, so подруге and живущей both take prepositional endings as the friend we speak about." },
+      { "id": "PT-PRA-ZHIVUSHCHIY-10", "phrase": "Живущие в деревне люди встают рано.", "fullAnalysis": "Strategic focus: Plural nominative paraphrase. Живущие в деревне люди unfolds as люди, которые живут в деревне — people who live in the village. The participle folds that который-clause into one agreeing word." }
+    ]
+  }
+]

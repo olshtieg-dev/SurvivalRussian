@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRP-LYUBIMYY",
+    "label": "Любимый",
+    "badge": "BELOVED",
+    "description": "A 10-sentence card for любимый, the present passive participle of любить.",
+    "missions": [
+      { "id": "PT-PRP-LYUBIMYY-01", "phrase": "Любимый учитель вышел на пенсию.", "fullAnalysis": "Strategic focus: Masculine nominative. Любимый comes from любить — the second-conjugation form любим plus -ый. It agrees with masculine singular учитель and has lexicalized into the adjective beloved or favourite." },
+      { "id": "PT-PRP-LYUBIMYY-02", "phrase": "Любимая песня звучит по радио.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets любимая agree with песня. As a present passive participle it literally means the one being loved, but here it simply means favourite song." },
+      { "id": "PT-PRP-LYUBIMYY-03", "phrase": "Любимое блюдо стоит на столе.", "fullAnalysis": "Strategic focus: Neuter nominative. Любимое carries the neuter ending -ое to match блюдо. The -им- suffix marks the second conjugation, and the word names the dish that is loved." },
+      { "id": "PT-PRP-LYUBIMYY-04", "phrase": "Любимые книги стоят на полке.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ые lets любимые agree with книги. The participle declines like an ordinary adjective and means the beloved books." },
+      { "id": "PT-PRP-LYUBIMYY-05", "phrase": "Я перечитываю любимый роман снова.", "fullAnalysis": "Strategic focus: Masculine accusative. With the inanimate masculine object роман the participle keeps the form любимый as the novel I reread. Любимый роман equals роман, который любят — the novel that people love." },
+      { "id": "PT-PRP-LYUBIMYY-06", "phrase": "Это автор любимой книги дочери.", "fullAnalysis": "Strategic focus: Feminine genitive. Любимой takes the feminine genitive ending to agree with книги, marking the book that is loved as the source. The -им- suffix comes from the second-conjugation любим." },
+      { "id": "PT-PRP-LYUBIMYY-07", "phrase": "Мы рады любимому гостю сегодня.", "fullAnalysis": "Strategic focus: Masculine dative. The dative noun гостю pulls любимому into the dative -ому ending. The word names the cherished guest and behaves wholly like an adjective." },
+      { "id": "PT-PRP-LYUBIMYY-08", "phrase": "Она гордится любимым делом своим.", "fullAnalysis": "Strategic focus: Neuter instrumental. After гордится the noun делом stands in the instrumental, and любимым takes the matching neuter instrumental ending to agree with the work she loves." },
+      { "id": "PT-PRP-LYUBIMYY-09", "phrase": "Мы говорим о любимом городе.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition о governs the prepositional case, so городе and любимом both take prepositional endings and agree as the beloved city we discuss." },
+      { "id": "PT-PRP-LYUBIMYY-10", "phrase": "Любимые актёры собрались на сцене.", "fullAnalysis": "Strategic focus: Plural lexicalization. Любимые here is fully an adjective meaning favourite, formed from любим with -ые. It agrees with plural актёры and shows how the passive participle settled into everyday speech." }
+    ]
+  }
+]

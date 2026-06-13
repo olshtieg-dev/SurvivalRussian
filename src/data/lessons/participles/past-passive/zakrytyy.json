@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAP-ZAKRYTYY",
+    "label": "Закрытый",
+    "badge": "CLOSED",
+    "description": "A 10-sentence card for закрытый, the past passive participle of закрыть, with its short form закрыт.",
+    "missions": [
+      { "id": "PT-PAP-ZAKRYTYY-01", "phrase": "Закрытый на замок гараж пустовал.", "fullAnalysis": "Strategic focus: Masculine nominative long form. Закрытый comes from the perfective закрыть — the stem закры- plus the suffix -т- and an adjective ending. The long form agrees with masculine гараж." },
+      { "id": "PT-PAP-ZAKRYTYY-02", "phrase": "Закрытая дверь не пускала нас внутрь.", "fullAnalysis": "Strategic focus: Feminine nominative long form. The long participle takes -ая to agree with дверь. Закрытая дверь equals дверь, которую закрыли — the door that someone closed." },
+      { "id": "PT-PAP-ZAKRYTYY-03", "phrase": "Закрытое окно не пропускало шум.", "fullAnalysis": "Strategic focus: Neuter nominative long form. Закрытое carries the neuter ending -ое to match окно. The -т- suffix marks the result — the window that had been closed." },
+      { "id": "PT-PAP-ZAKRYTYY-04", "phrase": "Закрытые ставни делали комнату тёмной.", "fullAnalysis": "Strategic focus: Plural nominative long form. The plural ending -ые lets закрытые agree with ставни as the closed shutters that darkened the room." },
+      { "id": "PT-PAP-ZAKRYTYY-05", "phrase": "Магазин закрыт по воскресеньям всегда.", "fullAnalysis": "Strategic focus: Masculine short form. The short predicative form закрыт agrees only in masculine gender with магазин, with быть in the present understood. The shop is closed." },
+      { "id": "PT-PAP-ZAKRYTYY-06", "phrase": "Касса была закрыта на обед.", "fullAnalysis": "Strategic focus: Feminine short form with быть. The short form закрыта joins была to form a past passive: касса была закрыта. It reports that the till was shut." },
+      { "id": "PT-PAP-ZAKRYTYY-07", "phrase": "Все окна закрыты на ночь.", "fullAnalysis": "Strategic focus: Plural short form. The plural short form закрыты agrees with окна and predicates the result with быть understood. The windows are all shut." },
+      { "id": "PT-PAP-ZAKRYTYY-08", "phrase": "Я стучу в закрытую дверь долго.", "fullAnalysis": "Strategic focus: Feminine accusative long form. With the object дверь after в the participle takes the accusative -ую, so закрытую matches it in gender, number and case as the door that was closed." },
+      { "id": "PT-PAP-ZAKRYTYY-09", "phrase": "Мы стоим перед закрытыми воротами завода.", "fullAnalysis": "Strategic focus: Plural instrumental long form. After перед the noun воротами stands in the instrumental, and закрытыми takes the matching plural instrumental ending to agree with it." },
+      { "id": "PT-PAP-ZAKRYTYY-10", "phrase": "Свет не проникал из-за закрытого окна.", "fullAnalysis": "Strategic focus: Neuter genitive long form. Закрытого takes the neuter genitive ending to agree with окна after из-за, marking the cause — the window that was closed." }
+    ]
+  }
+]

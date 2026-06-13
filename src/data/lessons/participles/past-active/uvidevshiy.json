@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAA-UVIDEVSHIY",
+    "label": "Увидевший",
+    "badge": "WHO SAW",
+    "description": "A 10-sentence card for увидевший, the past active participle of увидеть.",
+    "missions": [
+      { "id": "PT-PAA-UVIDEVSHIY-01", "phrase": "Свидетель, увидевший аварию, дал показания.", "fullAnalysis": "Strategic focus: Masculine nominative. From the past stem увидел drop -л and add -вш-, giving увидевший. Masculine nominative, it agrees with свидетель and means свидетель, который увидел аварию." },
+      { "id": "PT-PAA-UVIDEVSHIY-02", "phrase": "Соседка, увидевшая дым, вызвала пожарных.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая gives увидевшая, agreeing with соседка. The vowel stem keeps the suffix -вш-." },
+      { "id": "PT-PAA-UVIDEVSHIY-03", "phrase": "Полиция ищет человека, увидевшего вора.", "fullAnalysis": "Strategic focus: Masculine accusative animate. With animate человека the participle takes the accusative form увидевшего. It agrees in gender, number and case with its head noun." },
+      { "id": "PT-PAA-UVIDEVSHIY-04", "phrase": "Существо, увидевшее свет, замерло на месте.", "fullAnalysis": "Strategic focus: Neuter nominative. The neuter ending -ее gives увидевшее, agreeing with существо. It paraphrases as существо, которое увидело свет." },
+      { "id": "PT-PAA-UVIDEVSHIY-05", "phrase": "Туристы, увидевшие горы, остановились.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие gives увидевшие, agreeing with туристы. Formed from увидел plus -вш-." },
+      { "id": "PT-PAA-UVIDEVSHIY-06", "phrase": "Мы говорим о мальчике, увидевшем чудо.", "fullAnalysis": "Strategic focus: Masculine prepositional. After о the prepositional ending -ем gives увидевшем, agreeing with мальчике. It means мальчик, который увидел чудо." },
+      { "id": "PT-PAA-UVIDEVSHIY-07", "phrase": "Поверь прохожему, увидевшему всё своими глазами.", "fullAnalysis": "Strategic focus: Masculine dative. The dative ending -ему gives увидевшему to agree with прохожему. The vowel stem увидел takes the suffix -вш-." },
+      { "id": "PT-PAA-UVIDEVSHIY-08", "phrase": "Я говорил с женщиной, увидевшей преступника.", "fullAnalysis": "Strategic focus: Feminine instrumental. After с the instrumental form увидевшей agrees with женщиной. It declines like an adjective and keeps its past active sense." },
+      { "id": "PT-PAA-UVIDEVSHIY-09", "phrase": "Девочке, увидевшей радугу, стало весело.", "fullAnalysis": "Strategic focus: Feminine dative. The participle увидевшей agrees in case with the dative девочке. It means девочке, которая увидела радугу." },
+      { "id": "PT-PAA-UVIDEVSHIY-10", "phrase": "Истории людей, увидевших море впервые.", "fullAnalysis": "Strategic focus: Plural genitive. The genitive plural form увидевших agrees with людей. Built from увидел, it points to those who already saw." }
+    ]
+  }
+]

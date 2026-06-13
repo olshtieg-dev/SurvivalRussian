@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRA-IDUSHCHIY",
+    "label": "Идущий",
+    "badge": "GOING",
+    "description": "A 10-sentence card for идущий, the present active participle of идти.",
+    "missions": [
+      { "id": "PT-PRA-IDUSHCHIY-01", "phrase": "Идущий впереди мужчина несёт сумку.", "fullAnalysis": "Strategic focus: Masculine nominative. Идущий comes from идти via the present stem идут plus -щ- and an ending. It agrees with masculine мужчина and means the man who is walking ahead." },
+      { "id": "PT-PRA-IDUSHCHIY-02", "phrase": "Идущая по улице девушка поёт.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets идущая agree with девушка, marking the girl who is walking down the street." },
+      { "id": "PT-PRA-IDUSHCHIY-03", "phrase": "Идущее к нам облако тёмное.", "fullAnalysis": "Strategic focus: Neuter nominative. Идущее takes the neuter ending -ее to match облако, describing the cloud moving toward us." },
+      { "id": "PT-PRA-IDUSHCHIY-04", "phrase": "Идущие домой дети громко смеются.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие joins идущие to дети, picking out the children who are walking home." },
+      { "id": "PT-PRA-IDUSHCHIY-05", "phrase": "Я обогнал идущего медленно старика.", "fullAnalysis": "Strategic focus: Masculine accusative. With the animate object старика the participle takes -его, so идущего agrees in gender, number and case as the old man I overtook." },
+      { "id": "PT-PRA-IDUSHCHIY-06", "phrase": "Шаги идущей сзади женщины слышны.", "fullAnalysis": "Strategic focus: Feminine genitive. Идущей carries the feminine genitive ending to agree with женщины, marking whose steps they are — the steps of the woman walking behind." },
+      { "id": "PT-PRA-IDUSHCHIY-07", "phrase": "Я помахал идущему навстречу другу.", "fullAnalysis": "Strategic focus: Masculine dative. The dative object другу pulls идущему into the dative -ему ending, naming the friend walking toward me whom I waved at." },
+      { "id": "PT-PRA-IDUSHCHIY-08", "phrase": "Я иду рядом с идущим солдатом.", "fullAnalysis": "Strategic focus: Masculine instrumental. After рядом с the noun солдатом stands in the instrumental, and идущим takes the matching instrumental ending to agree with the marching soldier." },
+      { "id": "PT-PRA-IDUSHCHIY-09", "phrase": "Мы говорим об идущем впереди поезде.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition об governs the prepositional case, so поезде and идущем both take prepositional endings as the train ahead we speak about." },
+      { "id": "PT-PRA-IDUSHCHIY-10", "phrase": "Идущие на работу люди торопятся.", "fullAnalysis": "Strategic focus: Plural nominative paraphrase. Идущие на работу люди unfolds as люди, которые идут на работу — people who are walking to work. The participle compresses that который-clause into one agreeing word." }
+    ]
+  }
+]

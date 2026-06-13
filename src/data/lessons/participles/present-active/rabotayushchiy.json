@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRA-RABOTAYUSHCHIY",
+    "label": "Работающий",
+    "badge": "WORKING",
+    "description": "A 10-sentence card for работающий, the present active participle of работать.",
+    "missions": [
+      { "id": "PT-PRA-RABOTAYUSHCHIY-01", "phrase": "Работающий отец вернётся поздно вечером.", "fullAnalysis": "Strategic focus: Masculine nominative. Работающий comes from работать via the present stem of работают plus -щ- and an ending. It agrees with masculine отец and means the father who is working." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-02", "phrase": "Работающая мать очень устала сегодня.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets работающая agree with мать, marking the mother who is working." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-03", "phrase": "Работающее радио мешает мне спать.", "fullAnalysis": "Strategic focus: Neuter nominative. Работающее takes the neuter ending -ее to match радио, describing the radio that keeps running and working." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-04", "phrase": "Работающие люди спешат на завод.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие joins работающие to люди, picking out the working people who hurry to the plant." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-05", "phrase": "Я уважаю работающего соседа давно.", "fullAnalysis": "Strategic focus: Masculine accusative. With the animate object соседа the participle takes -его, so работающего agrees in gender, number and case as the neighbour I respect." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-06", "phrase": "Зарплата работающей сестры выросла недавно.", "fullAnalysis": "Strategic focus: Feminine genitive. Работающей carries the feminine genitive ending to agree with сестры, marking whose salary it is — the salary of the working sister." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-07", "phrase": "Завод платит работающему инженеру хорошо.", "fullAnalysis": "Strategic focus: Masculine dative. The dative object инженеру pulls работающему into the dative -ему ending, naming the engineer who is working and being paid." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-08", "phrase": "Я доволен работающим помощником вполне.", "fullAnalysis": "Strategic focus: Masculine instrumental. After доволен the noun помощником stands in the instrumental, and работающим takes the matching instrumental ending to agree with the working assistant." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-09", "phrase": "Мы заботимся о работающей бабушке.", "fullAnalysis": "Strategic focus: Feminine prepositional. The preposition о governs the prepositional case, so бабушке and работающей both take prepositional endings as the grandmother we care about." },
+      { "id": "PT-PRA-RABOTAYUSHCHIY-10", "phrase": "Работающие машины шумят всю ночь.", "fullAnalysis": "Strategic focus: Plural nominative paraphrase. Работающие машины unfolds as машины, которые работают — machines that are working. The participle compresses that который-clause into one agreeing word." }
+    ]
+  }
+]

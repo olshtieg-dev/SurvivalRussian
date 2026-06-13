@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-PERF-UVIDEV",
+    "label": "Увидев",
+    "badge": "HAVING SEEN",
+    "description": "A 10-sentence card for увидев, the perfective gerund of увидеть.",
+    "missions": [
+      { "id": "GD-PERF-UVIDEV-01", "phrase": "Увидев маму, ребёнок побежал к ней.", "fullAnalysis": "Strategic focus: prior action, front position. Увидев is the perfective gerund of увидеть, formed from the perfective stem plus -в. It marks an action completed before the main verb: the child caught sight of mama, then ran to her. The gerund clause leads, set off by a comma." },
+      { "id": "GD-PERF-UVIDEV-02", "phrase": "Увидев аварию, она вызвала скорую.", "fullAnalysis": "Strategic focus: completed then reaction. Увидев reports the prior finished act of seeing (perfective stem + -в); the call followed. One subject does both: she saw, she called." },
+      { "id": "GD-PERF-UVIDEV-03", "phrase": "Увидев цену, мы откажемся от покупки.", "fullAnalysis": "Strategic focus: future main clause. The main verb is future (откажемся), yet увидев still fixes the earlier completed action. A perfective gerund orders events: see the price first, then refuse, one shared subject." },
+      { "id": "GD-PERF-UVIDEV-04", "phrase": "Увидев меня, он сразу замолчал.", "fullAnalysis": "Strategic focus: same-subject rule. The gerund and the main verb share one subject: HE saw me, HE fell silent. Увидев is indeclinable, so meaning, not an ending, ties it to он." },
+      { "id": "GD-PERF-UVIDEV-05", "phrase": "Увидев огонь, соседи позвали пожарных.", "fullAnalysis": "Strategic focus: plural subject, no agreement. The subject is plural (соседи), but увидев takes no plural ending — gerunds do not agree, unlike participles. Sequence: the fire spotted, then firefighters called." },
+      { "id": "GD-PERF-UVIDEV-06", "phrase": "Он растерялся, увидев такую толпу.", "fullAnalysis": "Strategic focus: gerund in end position. The gerund clause follows the main verb here, but the order stands: he saw the crowd first, then got flustered. Увидев keeps one fixed form wherever it appears." },
+      { "id": "GD-PERF-UVIDEV-07", "phrase": "Увидев результат, я радуюсь за тебя.", "fullAnalysis": "Strategic focus: present main clause. The main verb is present (радуюсь), yet увидев reports a finished prior action: the result is seen, and now I am glad for you. A perfective gerund means completion whatever the main tense." },
+      { "id": "GD-PERF-UVIDEV-08", "phrase": "Увидев знак, водитель сбавил скорость.", "fullAnalysis": "Strategic focus: tight sequence. Увидев (увидеть, perfective + -в) marks the sign seen just before he slowed down. The two actions form a clear before-then-after chain under one subject." },
+      { "id": "GD-PERF-UVIDEV-09", "phrase": "Увидев старого друга, она очень обрадовалась.", "fullAnalysis": "Strategic focus: prior trigger then feeling. The friend was seen before the joy, and увидев makes that order explicit. Past main verb with a perfective gerund, one subject throughout." },
+      { "id": "GD-PERF-UVIDEV-10", "phrase": "Увидев ошибку, учитель остановил ученика.", "fullAnalysis": "Strategic focus: everyday sequence. Увидев names the completed prior act: the mistake was spotted, then the pupil was stopped. The perfective gerund keeps the actions in order, both done by the teacher." }
+    ]
+  }
+]

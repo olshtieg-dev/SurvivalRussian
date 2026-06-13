@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRA-GOVORYASHCHIY",
+    "label": "Говорящий",
+    "badge": "SPEAKING",
+    "description": "A 10-sentence card for говорящий, the present active participle of говорить.",
+    "missions": [
+      { "id": "PT-PRA-GOVORYASHCHIY-01", "phrase": "Говорящий человек стоит у двери.", "fullAnalysis": "Strategic focus: Masculine nominative. Говорящий is built from говорить through the present stem of говорят plus -щ- and an ending. It agrees with masculine человек and means the man who is speaking." },
+      { "id": "PT-PRA-GOVORYASHCHIY-02", "phrase": "Говорящая женщина машет рукой.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets говорящая agree with женщина. It marks the woman who is talking at this moment." },
+      { "id": "PT-PRA-GOVORYASHCHIY-03", "phrase": "Говорящее радио стоит на полке.", "fullAnalysis": "Strategic focus: Neuter nominative. Говорящее takes the neuter ending -ее to match the neuter noun радио, describing the radio that is talking." },
+      { "id": "PT-PRA-GOVORYASHCHIY-04", "phrase": "Говорящие гости сидят за столом.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие joins говорящие to гости, picking out the guests who are talking around the table." },
+      { "id": "PT-PRA-GOVORYASHCHIY-05", "phrase": "Я слушаю говорящего гостя внимательно.", "fullAnalysis": "Strategic focus: Masculine accusative. With the animate object гостя the participle takes -его, so говорящего agrees in gender, number and case as the guest I am listening to." },
+      { "id": "PT-PRA-GOVORYASHCHIY-06", "phrase": "Голос говорящей женщины очень тихий.", "fullAnalysis": "Strategic focus: Feminine genitive. Говорящей carries the feminine genitive ending to agree with женщины, marking whose voice it is — the voice of the woman who is speaking." },
+      { "id": "PT-PRA-GOVORYASHCHIY-07", "phrase": "Мы верим говорящему другу всегда.", "fullAnalysis": "Strategic focus: Masculine dative. The dative object другу draws говорящему into the dative -ему ending, naming the friend who is speaking and whom we trust." },
+      { "id": "PT-PRA-GOVORYASHCHIY-08", "phrase": "Я любуюсь говорящим ребёнком сейчас.", "fullAnalysis": "Strategic focus: Masculine instrumental. After любуюсь the noun ребёнком is instrumental, and говорящим takes the matching instrumental ending to agree with the speaking child." },
+      { "id": "PT-PRA-GOVORYASHCHIY-09", "phrase": "Мы думаем о говорящем попугае.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition о governs the prepositional case, so попугае and говорящем both take prepositional endings as the parrot we think about." },
+      { "id": "PT-PRA-GOVORYASHCHIY-10", "phrase": "Говорящий по-русски турист спросил дорогу.", "fullAnalysis": "Strategic focus: Masculine nominative paraphrase. Говорящий по-русски турист unfolds as турист, который говорит по-русски — the tourist who speaks Russian. The participle folds that который-clause into one agreeing word." }
+    ]
+  }
+]

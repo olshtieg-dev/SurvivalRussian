@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-IMPF-GULYAYA",
+    "label": "Гуляя",
+    "badge": "WHILE STROLLING",
+    "description": "A 10-sentence card for гуляя, the imperfective gerund of гулять.",
+    "missions": [
+      { "id": "GD-IMPF-GULYAYA-01", "phrase": "Гуляя по парку, они говорили о планах.", "fullAnalysis": "Strategic focus: Front position. Гуляя is formed from the present stem of гулять (гуля-ют) plus -я. The fronted gerund names the action concurrent with the main verb говорили — they strolled while talking." },
+      { "id": "GD-IMPF-GULYAYA-02", "phrase": "Она напевала, гуляя вдоль реки.", "fullAnalysis": "Strategic focus: End position. Here гуляя closes the sentence and runs parallel to напевала. Both actions belong to the subject она and happen at the same time." },
+      { "id": "GD-IMPF-GULYAYA-03", "phrase": "Гуляя по лесу, ты дышишь свежим воздухом.", "fullAnalysis": "Strategic focus: Present tense. The main verb дышишь is present, and гуляя marks the simultaneous circumstance: strolling in the forest, you breathe fresh air. The gerund carries no tense ending." },
+      { "id": "GD-IMPF-GULYAYA-04", "phrase": "Гуляя вечером, человек отдыхает после работы.", "fullAnalysis": "Strategic focus: Same-subject rule. The one who strolls in гуляя must be the one who rests — a single subject человек. A gerund cannot introduce a separate doer of its own action." },
+      { "id": "GD-IMPF-GULYAYA-05", "phrase": "Гуляя в саду, мы встретим соседей.", "fullAnalysis": "Strategic focus: Future main clause. The main clause is future (встретим), but гуляя stays unchanged — gerunds have no future form. Strolling in the garden, we will meet the neighbours." },
+      { "id": "GD-IMPF-GULYAYA-06", "phrase": "Туристы фотографировали, гуляя по центру.", "fullAnalysis": "Strategic focus: Plural subject. Even with the plural subject туристы, the form stays гуляя — gerunds are indeclinable and take no number ending, unlike the participle гуляющие." },
+      { "id": "GD-IMPF-GULYAYA-07", "phrase": "Гуляя под дождём, она вспоминала юность.", "fullAnalysis": "Strategic focus: Past main clause. The finite verb вспоминала is past, yet гуляя marks concurrency: while strolling in the rain, she recalled her youth. The imperfective gerund signals overlap, not sequence." },
+      { "id": "GD-IMPF-GULYAYA-08", "phrase": "Гуляя медленно, дед опирался на трость.", "fullAnalysis": "Strategic focus: Manner of a parallel action. The gerund гуляя gives the simultaneous activity while дед leaned on his cane. One subject, дед, performs both verbs at the same time." },
+      { "id": "GD-IMPF-GULYAYA-09", "phrase": "Гуляя с собакой, мальчик слушает подкаст.", "fullAnalysis": "Strategic focus: Indeclinable form. With the masculine subject мальчик the gerund stays гуляя, taking no gender or case ending. A participle would inflect; the gerund holds one fixed shape always." },
+      { "id": "GD-IMPF-GULYAYA-10", "phrase": "Гуляя по набережной, влюблённые молчали.", "fullAnalysis": "Strategic focus: Two parallel actions. Влюблённые is the shared subject of both молчали and гуляя, the actions overlapping in time. The gerund compresses while they strolled into one indeclinable word." }
+    ]
+  }
+]

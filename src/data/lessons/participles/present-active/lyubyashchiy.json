@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRA-LYUBYASHCHIY",
+    "label": "Любящий",
+    "badge": "LOVING",
+    "description": "A 10-sentence card for любящий, the present active participle of любить.",
+    "missions": [
+      { "id": "PT-PRA-LYUBYASHCHIY-01", "phrase": "Любящий отец читает сыну сказку.", "fullAnalysis": "Strategic focus: Masculine nominative. Любящий comes from любить via the present stem of любят plus -щ- and an ending. It agrees with masculine отец and means the loving father." },
+      { "id": "PT-PRA-LYUBYASHCHIY-02", "phrase": "Любящая мать обнимает свою дочь.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets любящая agree with мать, marking the loving mother." },
+      { "id": "PT-PRA-LYUBYASHCHIY-03", "phrase": "Любящее сердце прощает любые ошибки.", "fullAnalysis": "Strategic focus: Neuter nominative. Любящее takes the neuter ending -ее to match сердце, describing the loving heart that forgives." },
+      { "id": "PT-PRA-LYUBYASHCHIY-04", "phrase": "Любящие родители всегда поддержат тебя.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие joins любящие to родители, picking out the loving parents who support you." },
+      { "id": "PT-PRA-LYUBYASHCHIY-05", "phrase": "Я ценю любящего меня мужа.", "fullAnalysis": "Strategic focus: Masculine accusative. With the animate object мужа the participle takes -его, so любящего agrees in gender, number and case as the husband who loves me." },
+      { "id": "PT-PRA-LYUBYASHCHIY-06", "phrase": "Забота любящей жены очень важна.", "fullAnalysis": "Strategic focus: Feminine genitive. Любящей carries the feminine genitive ending to agree with жены, marking whose care it is — the care of the loving wife." },
+      { "id": "PT-PRA-LYUBYASHCHIY-07", "phrase": "Я благодарен любящему деду навсегда.", "fullAnalysis": "Strategic focus: Masculine dative. The dative object деду pulls любящему into the dative -ему ending, naming the loving grandfather to whom I am grateful." },
+      { "id": "PT-PRA-LYUBYASHCHIY-08", "phrase": "Я живу с любящей бабушкой счастливо.", "fullAnalysis": "Strategic focus: Feminine instrumental. After живу с the noun бабушкой stands in the instrumental, and любящей takes the matching instrumental ending to agree with the loving grandmother." },
+      { "id": "PT-PRA-LYUBYASHCHIY-09", "phrase": "Мы говорим о любящем брате тепло.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition о governs the prepositional case, so брате and любящем both take prepositional endings as the loving brother we speak about." },
+      { "id": "PT-PRA-LYUBYASHCHIY-10", "phrase": "Любящие животных дети заводят собак.", "fullAnalysis": "Strategic focus: Plural nominative paraphrase. Любящие животных дети unfolds as дети, которые любят животных — children who love animals. The participle folds that который-clause into one agreeing word." }
+    ]
+  }
+]

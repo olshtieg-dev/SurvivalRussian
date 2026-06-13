@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAP-SDELANNYY",
+    "label": "Сделанный",
+    "badge": "DONE",
+    "description": "A 10-sentence card for сделанный, the past passive participle of сделать, with its short form сделан.",
+    "missions": [
+      { "id": "PT-PAP-SDELANNYY-01", "phrase": "Хорошо сделанный стол стоит дорого.", "fullAnalysis": "Strategic focus: Masculine nominative long form. Сделанный comes from the perfective сделать — the stem сдела- plus the suffix -нн- and an adjective ending. Here the long form agrees with masculine стол and means the table that was made well." },
+      { "id": "PT-PAP-SDELANNYY-02", "phrase": "Сделанная работа лежит на столе.", "fullAnalysis": "Strategic focus: Feminine nominative long form. The long participle takes the feminine ending -ая to agree with работа. Сделанная работа equals работа, которую сделали — the work that someone did." },
+      { "id": "PT-PAP-SDELANNYY-03", "phrase": "Сделанное вовремя задание радует всех.", "fullAnalysis": "Strategic focus: Neuter nominative long form. Сделанное carries the neuter ending -ое to match задание. The -нн- suffix marks the result of a completed action — the assignment that was done." },
+      { "id": "PT-PAP-SDELANNYY-04", "phrase": "Сделанные руками вещи особенно ценят.", "fullAnalysis": "Strategic focus: Plural nominative long form. The plural ending -ые lets сделанные agree with вещи. It picks out the things that were made by hand and are therefore valued." },
+      { "id": "PT-PAP-SDELANNYY-05", "phrase": "Работа уже сделана и проверена.", "fullAnalysis": "Strategic focus: Feminine short form. The short predicative form сделана is used with an implied быть and agrees only in feminine gender with работа. It states that the work is done." },
+      { "id": "PT-PAP-SDELANNYY-06", "phrase": "Всё было сделано вовремя вчера.", "fullAnalysis": "Strategic focus: Neuter short form with быть. The neuter short form сделано joins было to form a past passive: всё было сделано. It reports that everything had been done." },
+      { "id": "PT-PAP-SDELANNYY-07", "phrase": "Уроки сделаны, можно идти гулять.", "fullAnalysis": "Strategic focus: Plural short form. The plural short form сделаны agrees with уроки and predicates the result with быть understood in the present. The homework is finished." },
+      { "id": "PT-PAP-SDELANNYY-08", "phrase": "Я доволен сделанной тобой работой.", "fullAnalysis": "Strategic focus: Feminine instrumental long form. After доволен the noun работой stands in the instrumental, and сделанной takes the matching feminine instrumental ending to agree with it." },
+      { "id": "PT-PAP-SDELANNYY-09", "phrase": "Мы говорим о сделанном выборе спокойно.", "fullAnalysis": "Strategic focus: Masculine prepositional long form. The preposition о governs the prepositional case, so выборе and сделанном take prepositional endings and agree as the choice that was made." },
+      { "id": "PT-PAP-SDELANNYY-10", "phrase": "Я вижу аккуратно сделанную модель самолёта.", "fullAnalysis": "Strategic focus: Feminine accusative long form. With the inanimate object модель the participle takes the accusative -ую, so сделанную matches it in gender, number and case as the model that was built." }
+    ]
+  }
+]

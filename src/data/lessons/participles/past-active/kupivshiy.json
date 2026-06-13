@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAA-KUPIVSHIY",
+    "label": "Купивший",
+    "badge": "WHO BOUGHT",
+    "description": "A 10-sentence card for купивший, the past active participle of купить.",
+    "missions": [
+      { "id": "PT-PAA-KUPIVSHIY-01", "phrase": "Мужчина, купивший машину, очень рад.", "fullAnalysis": "Strategic focus: Masculine nominative. From the past stem купил drop -л and add -вш-, giving купивший. Masculine nominative, it agrees with мужчина and means мужчина, который купил машину." },
+      { "id": "PT-PAA-KUPIVSHIY-02", "phrase": "Покупательница, купившая платье, вернулась.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая gives купившая, agreeing with покупательница. The vowel stem keeps the suffix -вш-." },
+      { "id": "PT-PAA-KUPIVSHIY-03", "phrase": "Магазин ищет клиента, купившего телефон.", "fullAnalysis": "Strategic focus: Masculine accusative animate. With animate клиента the participle takes the accusative form купившего. It agrees in gender, number and case with its head noun." },
+      { "id": "PT-PAA-KUPIVSHIY-04", "phrase": "Лицо, купившее билет, должно его показать.", "fullAnalysis": "Strategic focus: Neuter nominative. The neuter ending -ее gives купившее, agreeing with лицо. It paraphrases as лицо, которое купило билет." },
+      { "id": "PT-PAA-KUPIVSHIY-05", "phrase": "Люди, купившие квартиры, въезжают завтра.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие gives купившие, agreeing with люди. Formed from купил plus -вш-." },
+      { "id": "PT-PAA-KUPIVSHIY-06", "phrase": "Мы говорим о соседе, купившем дачу.", "fullAnalysis": "Strategic focus: Masculine prepositional. After о the prepositional ending -ем gives купившем, agreeing with соседе. It means сосед, который купил дачу." },
+      { "id": "PT-PAA-KUPIVSHIY-07", "phrase": "Скидку дали покупателю, купившему два товара.", "fullAnalysis": "Strategic focus: Masculine dative. The dative ending -ему gives купившему to agree with покупателю. The vowel stem купил takes the suffix -вш-." },
+      { "id": "PT-PAA-KUPIVSHIY-08", "phrase": "Я говорю с женщиной, купившей картину.", "fullAnalysis": "Strategic focus: Feminine instrumental. After с the instrumental form купившей agrees with женщиной. It declines like an adjective and keeps its past active sense." },
+      { "id": "PT-PAA-KUPIVSHIY-09", "phrase": "Семье, купившей дом, помогли с переездом.", "fullAnalysis": "Strategic focus: Feminine dative. The participle купившей agrees in case with the dative семье. It means семье, которая купила дом." },
+      { "id": "PT-PAA-KUPIVSHIY-10", "phrase": "Список людей, купивших новые билеты.", "fullAnalysis": "Strategic focus: Plural genitive. The genitive plural form купивших agrees with людей. Built from купил, it points to those who already bought." }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-PERF-SDELAV",
+    "label": "Сделав",
+    "badge": "HAVING DONE",
+    "description": "A 10-sentence card for сделав, the perfective gerund of сделать.",
+    "missions": [
+      { "id": "GD-PERF-SDELAV-01", "phrase": "Сделав уроки, он пошёл гулять.", "fullAnalysis": "Strategic focus: prior action, front position. Сделав is the perfective gerund of сделать, built from the perfective stem plus -в. It marks an action finished before the main verb: he first completed the homework, then went out. The gerund clause sits in front, set off by the comma." },
+      { "id": "GD-PERF-SDELAV-02", "phrase": "Сделав ошибку, я сразу извинился.", "fullAnalysis": "Strategic focus: completed then reacted. Сделав signals a prior, completed action (perfective stem + -в): the mistake was made first, the apology followed. The form never changes for gender or number, so it works with any subject." },
+      { "id": "GD-PERF-SDELAV-03", "phrase": "Сделав заказ, мы будем ждать курьера.", "fullAnalysis": "Strategic focus: future main clause. The main verb is future (будем ждать), yet сделав still names the earlier completed step. A perfective gerund fixes sequence, not tense: order first, then wait. Same subject — we order, we wait." },
+      { "id": "GD-PERF-SDELAV-04", "phrase": "Сделав выбор, она больше не сомневалась.", "fullAnalysis": "Strategic focus: same-subject rule. The gerund's action and the main verb share one subject: SHE made the choice, SHE stopped doubting. Сделав (сделать, perfective stem + -в) is indeclinable, so only context — never an ending — ties it to она." },
+      { "id": "GD-PERF-SDELAV-05", "phrase": "Сделав паузу, учитель продолжил объяснять.", "fullAnalysis": "Strategic focus: brief prior act. Сделав reports an action completed just before the main one: the teacher paused, then resumed. The perfective gerund (-в suffix) always means the action is over before what follows begins." },
+      { "id": "GD-PERF-SDELAV-06", "phrase": "Он лёг спать, сделав всю работу.", "fullAnalysis": "Strategic focus: gerund in end position. Here the gerund clause follows the main verb, but the meaning is unchanged: the work was finished first, then he went to bed. Сделав stays one fixed form wherever it stands in the sentence." },
+      { "id": "GD-PERF-SDELAV-07", "phrase": "Сделав зарядку, дети сели завтракать.", "fullAnalysis": "Strategic focus: plural subject, no agreement. The subject is plural (дети), yet сделав takes no plural ending — gerunds are indeclinable, unlike participles, which would agree. Sequence: exercises finished, then breakfast." },
+      { "id": "GD-PERF-SDELAV-08", "phrase": "Сделав фотографию, турист улыбнулся.", "fullAnalysis": "Strategic focus: snapshot of sequence. Сделав (сделать, perfective + -в) marks the prior completed act: the photo was taken, then the smile came. The two actions belong to the same subject, the tourist." },
+      { "id": "GD-PERF-SDELAV-09", "phrase": "Сделав ремонт, они продали квартиру.", "fullAnalysis": "Strategic focus: prior cause of result. The renovation was completed before the sale, and сделав makes that order explicit. Past main verb (продали) with a perfective gerund gives a clean before-then-after chain, one subject throughout." },
+      { "id": "GD-PERF-SDELAV-10", "phrase": "Сделав домашнее задание, я отдыхаю.", "fullAnalysis": "Strategic focus: present main clause. The main verb is present (отдыхаю), but сделав still reports a finished prior action: the homework is done, and now I rest. A perfective gerund expresses completion regardless of the main clause's tense." }
+    ]
+  }
+]

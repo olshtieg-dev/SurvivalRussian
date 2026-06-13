@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAA-NAPISAVSHIY",
+    "label": "Написавший",
+    "badge": "WHO WROTE",
+    "description": "A 10-sentence card for написавший, the past active participle of написать.",
+    "missions": [
+      { "id": "PT-PAA-NAPISAVSHIY-01", "phrase": "Автор, написавший роман, дал интервью.", "fullAnalysis": "Strategic focus: Masculine nominative. From the past stem написал drop -л and add -вш-, giving написавший. Masculine nominative, it agrees with автор and means автор, который написал роман." },
+      { "id": "PT-PAA-NAPISAVSHIY-02", "phrase": "Студентка, написавшая эссе, получила пять.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая gives написавшая, agreeing with студентка. The vowel stem keeps the suffix -вш-." },
+      { "id": "PT-PAA-NAPISAVSHIY-03", "phrase": "Я знаю поэта, написавшего эти строки.", "fullAnalysis": "Strategic focus: Masculine accusative animate. With animate поэта the participle takes the accusative form написавшего. It agrees in gender, number and case with its head noun." },
+      { "id": "PT-PAA-NAPISAVSHIY-04", "phrase": "Лицо, написавшее жалобу, осталось неизвестным.", "fullAnalysis": "Strategic focus: Neuter nominative. The neuter ending -ее gives написавшее, agreeing with лицо. It paraphrases as лицо, которое написало жалобу." },
+      { "id": "PT-PAA-NAPISAVSHIY-05", "phrase": "Дети, написавшие письмо, ждали ответа.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие gives написавшие, agreeing with дети. Formed from написал plus -вш-." },
+      { "id": "PT-PAA-NAPISAVSHIY-06", "phrase": "Мы спорим о критике, написавшем статью.", "fullAnalysis": "Strategic focus: Masculine prepositional. After о the prepositional ending -ем gives написавшем, agreeing with критике. It means критик, который написал статью." },
+      { "id": "PT-PAA-NAPISAVSHIY-07", "phrase": "Премию дали учёному, написавшему книгу.", "fullAnalysis": "Strategic focus: Masculine dative. The dative ending -ему gives написавшему to agree with учёному. The vowel stem написал takes the suffix -вш-." },
+      { "id": "PT-PAA-NAPISAVSHIY-08", "phrase": "Я восхищаюсь девушкой, написавшей картину.", "fullAnalysis": "Strategic focus: Feminine instrumental. After восхищаться the instrumental form написавшей agrees with девушкой. It declines like an adjective and keeps its past active sense." },
+      { "id": "PT-PAA-NAPISAVSHIY-09", "phrase": "Команде, написавшей программу, выдали грант.", "fullAnalysis": "Strategic focus: Feminine dative. The participle написавшей agrees in case with the dative команде. It means команде, которая написала программу." },
+      { "id": "PT-PAA-NAPISAVSHIY-10", "phrase": "Имена студентов, написавших тест, на доске.", "fullAnalysis": "Strategic focus: Plural genitive. The genitive plural form написавших agrees with студентов. Built from написал, it points to those who already wrote." }
+    ]
+  }
+]

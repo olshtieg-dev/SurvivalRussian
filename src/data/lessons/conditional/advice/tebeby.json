@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-ADV-TEBEBY",
+    "label": "Тебе бы",
+    "badge": "YOU SHOULD",
+    "description": "A 10-sentence card for the dative advice frame Тебе/вам бы + infinitive.",
+    "missions": [
+      {
+        "id": "BY-ADV-TEBEBY-01",
+        "phrase": "Тебе бы отдохнуть пару дней.",
+        "fullAnalysis": "Strategic focus: Dative advice frame. The experiencer тебе stands in the dative, бы follows, and the verb appears as the infinitive отдохнуть. This impersonal pattern means you ought to rest, with no nominative subject at all."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-02",
+        "phrase": "Вам бы поговорить с начальником.",
+        "fullAnalysis": "Strategic focus: Polite вам variant. The formal dative вам plus бы plus the infinitive поговорить delivers respectful counsel. The frame carries an advisory force, suggesting the talk is something the listener really should do."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-03",
+        "phrase": "Тебе бы выспаться как следует.",
+        "fullAnalysis": "Strategic focus: Recommending sleep. In this dative-subject impersonal frame бы joins not a past form but the infinitive выспаться. The construction reads as a caring you ought to get a proper sleep."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-04",
+        "phrase": "Тебе бы поучиться у неё терпению.",
+        "fullAnalysis": "Strategic focus: Advice to learn. The dative experiencer тебе plus бы plus поучиться proposes that the listener should pick up patience from her. The suggestive tone is built into the frame itself."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-05",
+        "phrase": "Вам бы больше двигаться каждый день.",
+        "fullAnalysis": "Strategic focus: Health counsel. The frame вам бы plus the infinitive двигаться recommends more daily movement. There is no subject in the nominative, only the dative addressee, which is typical of this impersonal advice."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-06",
+        "phrase": "Тебе бы извиниться перед другом.",
+        "fullAnalysis": "Strategic focus: Suggesting an apology. The construction softly pushes the listener to make amends. Извиниться is the infinitive that бы governs here, since the dative frame pairs бы with the infinitive rather than a past verb."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-07",
+        "phrase": "Тебе бы сменить эту работу.",
+        "fullAnalysis": "Strategic focus: Advising a change. The dative тебе plus бы plus сменить hints the listener should leave the job. The frame expresses a recommendation, leaving the final decision with the listener."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-08",
+        "phrase": "Вам бы прочитать эту книгу обязательно.",
+        "fullAnalysis": "Strategic focus: Strong recommendation. Adding обязательно raises the advisory force of вам бы plus the infinitive прочитать, urging the reading without commanding it. The dative addressee carries the whole suggestion."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-09",
+        "phrase": "Тебе бы меньше волноваться по пустякам.",
+        "fullAnalysis": "Strategic focus: Counsel to worry less. The frame тебе бы plus the infinitive волноваться advises calm over trifles. The impersonal dative subject keeps the line gentle rather than blunt."
+      },
+      {
+        "id": "BY-ADV-TEBEBY-10",
+        "phrase": "Тебе бы позвонить родителям почаще.",
+        "fullAnalysis": "Strategic focus: Family advice. The dative experiencer тебе takes бы and the infinitive позвонить, suggesting more frequent calls home. The construction reads as you ought to, the hallmark of this dative frame."
+      }
+    ]
+  }
+]

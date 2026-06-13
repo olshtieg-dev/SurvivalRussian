@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-IMPF-DELAYA",
+    "label": "Делая",
+    "badge": "WHILE DOING",
+    "description": "A 10-sentence card for делая, the imperfective gerund of делать.",
+    "missions": [
+      { "id": "GD-IMPF-DELAYA-01", "phrase": "Делая уроки, мальчик слушал музыку.", "fullAnalysis": "Strategic focus: Front position. Делая comes from the present stem of делать (дела-ют) plus -я. The fronted gerund names the activity happening at the same time as the main verb слушал — he did homework while listening." },
+      { "id": "GD-IMPF-DELAYA-02", "phrase": "Она пела, делая зарядку у окна.", "fullAnalysis": "Strategic focus: End position. Here делая closes the sentence and runs parallel to пела. Both actions share the subject она and unfold together — singing and exercising at once." },
+      { "id": "GD-IMPF-DELAYA-03", "phrase": "Делая ошибки, мы постепенно учимся.", "fullAnalysis": "Strategic focus: Present tense. The main verb учимся is present, and делая marks the simultaneous circumstance: by making mistakes, we learn. The gerund itself shows no tense ending." },
+      { "id": "GD-IMPF-DELAYA-04", "phrase": "Делая выбор, помни о последствиях.", "fullAnalysis": "Strategic focus: Same-subject rule. The one who makes the choice in делая must be the one addressed by помни — a single implied subject ты. A gerund cannot introduce a separate doer of its own." },
+      { "id": "GD-IMPF-DELAYA-05", "phrase": "Делая ремонт, отец насвистывал старую мелодию.", "fullAnalysis": "Strategic focus: Past main clause. The finite verb насвистывал is past, yet делая marks concurrency: while doing repairs, he whistled. The imperfective gerund signals overlap, not a finished prior step." },
+      { "id": "GD-IMPF-DELAYA-06", "phrase": "Завтра, делая доклад, ты будешь нервничать.", "fullAnalysis": "Strategic focus: Future main clause. The main clause is future (будешь нервничать), but делая stays unchanged — gerunds have no future form. The doing and the nervousness will coincide." },
+      { "id": "GD-IMPF-DELAYA-07", "phrase": "Делая всё спокойно, она никогда не спешит.", "fullAnalysis": "Strategic focus: Indeclinable form. With the feminine subject она the gerund stays делая, taking no feminine or singular ending. A participle would inflect; the gerund keeps one fixed shape always." },
+      { "id": "GD-IMPF-DELAYA-08", "phrase": "Рабочие отдыхали, делая короткий перерыв.", "fullAnalysis": "Strategic focus: Plural subject. Even with the plural subject рабочие, делая does not change to a plural form. Indeclinability means one gerund serves every person and number." },
+      { "id": "GD-IMPF-DELAYA-09", "phrase": "Делая зарядку каждое утро, ты крепнешь.", "fullAnalysis": "Strategic focus: Habitual present. The main verb крепнешь describes a regular result, and делая gives the accompanying routine: doing exercises each morning, you grow stronger. Both verbs share the subject ты." },
+      { "id": "GD-IMPF-DELAYA-10", "phrase": "Делая покупки, она встретила старую подругу.", "fullAnalysis": "Strategic focus: Two parallel actions. Она is the shared subject of both делая and встретила, the actions overlapping in time. The gerund folds while she was shopping into a single indeclinable word." }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-HYP-YABY",
+    "label": "Я бы",
+    "badge": "WOULD",
+    "description": "A 10-sentence card for the standalone result frame … бы + past meaning would do.",
+    "missions": [
+      {
+        "id": "BY-HYP-YABY-01",
+        "phrase": "Я бы с радостью поехал с вами.",
+        "fullAnalysis": "Strategic focus: Standalone would-statement. The result clause бы plus past поехал means would go, with no spoken if-clause. The particle бы always combines with a past-tense verb form, so поехал reads as hypothetical, not past."
+      },
+      {
+        "id": "BY-HYP-YABY-02",
+        "phrase": "Ты бы лучше отдохнул немного.",
+        "fullAnalysis": "Strategic focus: Soft advice with would. бы plus the past отдохнул gives a gentle you would do better to rest. бы is a mood particle here, not a tense marker, and it sits before the verb after ты."
+      },
+      {
+        "id": "BY-HYP-YABY-03",
+        "phrase": "Он бы никогда так не поступил.",
+        "fullAnalysis": "Strategic focus: Hypothetical denial. бы plus past поступил denies an imagined action, he would never act that way. The particle is mobile and here follows the subject он."
+      },
+      {
+        "id": "BY-HYP-YABY-04",
+        "phrase": "Мы бы хотели заказать столик.",
+        "fullAnalysis": "Strategic focus: Polite would like. бы plus past хотели softens the request into we would like. The hypothetical framing makes it courteous rather than blunt."
+      },
+      {
+        "id": "BY-HYP-YABY-05",
+        "phrase": "Они бы давно всё закончили.",
+        "fullAnalysis": "Strategic focus: Would-have outcome. бы plus past закончили describes an unreal completion, they would have finished long ago. The same past form covers what English splits into would and would have."
+      },
+      {
+        "id": "BY-HYP-YABY-06",
+        "phrase": "Я бы на твоём месте промолчала.",
+        "fullAnalysis": "Strategic focus: Would in your place. The phrase на твоём месте supplies the implied condition, and бы plus past промолчала gives the would-result. бы directly precedes the verb after я."
+      },
+      {
+        "id": "BY-HYP-YABY-07",
+        "phrase": "Ты бы спросил у врача.",
+        "fullAnalysis": "Strategic focus: Suggestion as would. бы plus past спросил works as a mild you should ask. бы always pairs with this past form, even though the advice points to the future."
+      },
+      {
+        "id": "BY-HYP-YABY-08",
+        "phrase": "Она бы с удовольствием помогла.",
+        "fullAnalysis": "Strategic focus: Willing would-statement. бы plus past помогла means she would gladly help. The hypothetical mood, carried by бы, leaves the help imagined rather than done."
+      },
+      {
+        "id": "BY-HYP-YABY-09",
+        "phrase": "Мы бы остались ещё на день.",
+        "fullAnalysis": "Strategic focus: Conditional intention. бы plus past остались expresses we would stay another day, an outcome that depends on unspoken circumstances. бы follows the subject мы."
+      },
+      {
+        "id": "BY-HYP-YABY-10",
+        "phrase": "Я бы выпил чашку кофе.",
+        "fullAnalysis": "Strategic focus: Polite wish as would. бы plus past выпил frames a soft I would have a cup of coffee. The past form is required by бы and signals desire, not past action."
+      }
+    ]
+  }
+]

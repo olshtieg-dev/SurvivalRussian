@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-ADV-NATVOYOMMESTE",
+    "label": "На твоём месте",
+    "badge": "IF I WERE YOU",
+    "description": "A 10-sentence card for the advice frame На твоём месте я бы + past.",
+    "missions": [
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-01",
+        "phrase": "На твоём месте я бы согласился сразу.",
+        "fullAnalysis": "Strategic focus: Core advice frame. The speaker imagines standing in the listener's position and recommends a choice. The particle бы attaches to the past form согласился, the only verb shape it ever joins, giving gentle counsel rather than a command."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-02",
+        "phrase": "На вашем месте я бы подождал немного.",
+        "fullAnalysis": "Strategic focus: Polite вашем variant. The formal на вашем месте addresses someone with respect or distance. Бы plus the past подождал proposes patience as a course of action, softer than an outright instruction to wait."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-03",
+        "phrase": "На твоём месте я бы не спорил.",
+        "fullAnalysis": "Strategic focus: Negated advice. The recommendation here is to refrain. Не sits before the бы-bearing past form спорил, so the counsel is to avoid arguing. The frame keeps the tone advisory, not commanding."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-04",
+        "phrase": "На твоём месте я бы поговорил с врачом.",
+        "fullAnalysis": "Strategic focus: Practical suggestion. The speaker projects onto the listener's situation and recommends consulting a doctor. Поговорил is past, carrying бы, which is what marks the whole sentence as hypothetical advice."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-05",
+        "phrase": "На вашем месте я бы выбрал другой план.",
+        "fullAnalysis": "Strategic focus: Recommending an alternative. The advisory force of this frame lies in offering what the speaker would do if they faced the same choice. Выбрал is the past form to which бы must attach."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-06",
+        "phrase": "На твоём месте я бы извинилась первой.",
+        "fullAnalysis": "Strategic focus: Female speaker advising. The past form извинилась shows the speaker's own gender, since бы always sits with a past verb that agrees in gender and number. The advice is to apologize first."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-07",
+        "phrase": "На твоём месте я бы давно ушёл.",
+        "fullAnalysis": "Strategic focus: Emphatic counsel. Adding давно intensifies the suggestion, hinting the listener should have acted long ago. Ушёл is past plus бы, framing the departure as the speaker's imagined choice in that position."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-08",
+        "phrase": "На вашем месте я бы перечитал договор.",
+        "fullAnalysis": "Strategic focus: Cautious recommendation. The speaker steps into the listener's role and advises rereading the contract. The suggestive mood comes entirely from бы joined to the past перечитал."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-09",
+        "phrase": "На твоём месте я бы взяла отпуск.",
+        "fullAnalysis": "Strategic focus: Advising rest. Взяла is the feminine past, marking a female adviser. By imagining herself in the listener's place, she proposes taking leave, with бы supplying the advisory tone."
+      },
+      {
+        "id": "BY-ADV-NATVOYOMMESTE-10",
+        "phrase": "На твоём месте я бы попробовал ещё раз.",
+        "fullAnalysis": "Strategic focus: Encouragement to retry. The frame lets the speaker recommend a second attempt without ordering it. Попробовал stays past, the form бы requires, and the whole line reads as supportive counsel."
+      }
+    ]
+  }
+]

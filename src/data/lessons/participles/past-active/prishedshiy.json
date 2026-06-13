@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAA-PRISHEDSHIY",
+    "label": "Пришедший",
+    "badge": "WHO CAME",
+    "description": "A 10-sentence card for пришедший, the past active participle of прийти.",
+    "missions": [
+      { "id": "PT-PAA-PRISHEDSHIY-01", "phrase": "Гость, пришедший первым, сел у окна.", "fullAnalysis": "Strategic focus: Masculine nominative. The past stem пришёл ends in a consonant, so it takes -ш-, giving пришедший. Masculine nominative, it agrees with гость and means гость, который пришёл первым." },
+      { "id": "PT-PAA-PRISHEDSHIY-02", "phrase": "Женщина, пришедшая на встречу, опоздала.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая gives пришедшая, agreeing with женщина. Because the stem is consonantal, the suffix stays -ш-, not -вш-." },
+      { "id": "PT-PAA-PRISHEDSHIY-03", "phrase": "Мы встретили гостя, пришедшего из города.", "fullAnalysis": "Strategic focus: Masculine accusative animate. With animate гостя the participle takes the accusative form пришедшего. It agrees in gender, number and case with its head noun." },
+      { "id": "PT-PAA-PRISHEDSHIY-04", "phrase": "Письмо, пришедшее вчера, очень важное.", "fullAnalysis": "Strategic focus: Neuter nominative. The neuter ending -ее gives пришедшее, agreeing with письмо. It paraphrases as письмо, которое пришло вчера." },
+      { "id": "PT-PAA-PRISHEDSHIY-05", "phrase": "Люди, пришедшие на концерт, аплодировали.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие gives пришедшие, agreeing with люди. Formed from the consonant stem пришёл plus -ш-." },
+      { "id": "PT-PAA-PRISHEDSHIY-06", "phrase": "Мы говорим о госте, пришедшем вечером.", "fullAnalysis": "Strategic focus: Masculine prepositional. After о the prepositional ending -ем gives пришедшем, agreeing with госте. It means гость, который пришёл вечером." },
+      { "id": "PT-PAA-PRISHEDSHIY-07", "phrase": "Подойди к мужчине, пришедшему позже всех.", "fullAnalysis": "Strategic focus: Masculine dative. The dative ending -ему gives пришедшему to agree with мужчине. The -ш- suffix marks the consonantal past stem пришёл." },
+      { "id": "PT-PAA-PRISHEDSHIY-08", "phrase": "Я доволен другом, пришедшим на помощь.", "fullAnalysis": "Strategic focus: Masculine instrumental. After доволен the instrumental form пришедшим agrees with другом. It declines like an adjective and keeps its past active sense." },
+      { "id": "PT-PAA-PRISHEDSHIY-09", "phrase": "Девушке, пришедшей раньше, дали анкету.", "fullAnalysis": "Strategic focus: Feminine dative. The participle пришедшей agrees in case with the dative девушке. It means девушке, которая пришла раньше." },
+      { "id": "PT-PAA-PRISHEDSHIY-10", "phrase": "Это история солдат, пришедших с войны.", "fullAnalysis": "Strategic focus: Plural genitive. The genitive plural form пришедших agrees with солдат. Built from пришёл, it points to those who already arrived." }
+    ]
+  }
+]

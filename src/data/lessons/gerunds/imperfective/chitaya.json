@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-IMPF-CHITAYA",
+    "label": "Читая",
+    "badge": "WHILE READING",
+    "description": "A 10-sentence card for читая, the imperfective gerund of читать.",
+    "missions": [
+      { "id": "GD-IMPF-CHITAYA-01", "phrase": "Читая письмо, она тихо улыбалась.", "fullAnalysis": "Strategic focus: Front position. Читая is built from the present stem of читать (чита-ют) plus -я. The gerund clause stands in front and names what she did at the same time as smiling — she read while she smiled." },
+      { "id": "GD-IMPF-CHITAYA-02", "phrase": "Он сидел в кресле, читая газету.", "fullAnalysis": "Strategic focus: End position. Here читая closes the sentence and describes a second action running alongside the main verb сидел. Both actions belong to the same subject, он, and happen simultaneously." },
+      { "id": "GD-IMPF-CHITAYA-03", "phrase": "Читая медленно, ты лучше понимаешь текст.", "fullAnalysis": "Strategic focus: Present tense. The main clause is in the present (понимаешь), and читая marks the simultaneous condition: while you read slowly, you understand better. The gerund never changes form for tense." },
+      { "id": "GD-IMPF-CHITAYA-04", "phrase": "Читая эту книгу, я многое узнаю.", "fullAnalysis": "Strategic focus: Same-subject rule. The doer of читая must be the doer of the main verb: I read and I learn. The gerund cannot take its own separate subject, which is its core grammatical constraint." },
+      { "id": "GD-IMPF-CHITAYA-05", "phrase": "Студенты молчали, читая трудный учебник.", "fullAnalysis": "Strategic focus: Plural subject unchanged. Even with the plural subject студенты, the form stays читая — gerunds are indeclinable and take no number ending, unlike a participle, which would agree as читающие." },
+      { "id": "GD-IMPF-CHITAYA-06", "phrase": "Читая вслух, дети учат новые слова.", "fullAnalysis": "Strategic focus: Habitual present. The main verb учат is a general present, and читая gives the accompanying manner: reading aloud, the children learn. One fixed gerund form serves every subject and tense." },
+      { "id": "GD-IMPF-CHITAYA-07", "phrase": "Читая письмо матери, он вспомнил детство.", "fullAnalysis": "Strategic focus: Past main clause. The finite verb вспомнил is past, yet читая marks the action as concurrent with it: while reading, he remembered. Simultaneity, not sequence, is what the imperfective gerund conveys." },
+      { "id": "GD-IMPF-CHITAYA-08", "phrase": "Завтра, читая доклад, я буду волноваться.", "fullAnalysis": "Strategic focus: Future main clause. The main clause looks ahead (буду волноваться), but читая itself stays unchanged — the gerund has no future form. The reading and the worrying will happen together." },
+      { "id": "GD-IMPF-CHITAYA-09", "phrase": "Читая в темноте, ты портишь зрение.", "fullAnalysis": "Strategic focus: Indeclinable form. Whether the subject is masculine, feminine or plural, читая keeps one shape. Compare the participle читающий, which would inflect for gender, number and case — the gerund never does." },
+      { "id": "GD-IMPF-CHITAYA-10", "phrase": "Бабушка дремала, читая внукам сказку.", "fullAnalysis": "Strategic focus: Two parallel actions. Бабушка is the single shared subject of both дремала and читая, the two actions overlapping in time. The gerund compresses while she read into one indeclinable word." }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRP-NAZYVAEMYY",
+    "label": "Называемый",
+    "badge": "SO-CALLED",
+    "description": "A 10-sentence card for называемый, the present passive participle of называть.",
+    "missions": [
+      { "id": "PT-PRP-NAZYVAEMYY-01", "phrase": "Так называемый эксперт всех обманул.", "fullAnalysis": "Strategic focus: Masculine nominative. Называемый comes from называть — the first-conjugation form называем plus -ый. With так it forms the fixed phrase so-called and agrees with masculine эксперт." },
+      { "id": "PT-PRP-NAZYVAEMYY-02", "phrase": "Так называемая свобода оказалась мнимой.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets называемая agree with свобода. The -ем- suffix marks the first conjugation, and так называемая means the so-called freedom." },
+      { "id": "PT-PRP-NAZYVAEMYY-03", "phrase": "Так называемое чудо легко объяснимо.", "fullAnalysis": "Strategic focus: Neuter nominative. Называемое carries the neuter ending -ое to match чудо. As a present passive participle it means the thing being named, here the so-called miracle." },
+      { "id": "PT-PRP-NAZYVAEMYY-04", "phrase": "Так называемые друзья быстро исчезли.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ые lets называемые agree with друзья. The phrase так называемые is a lexicalized formula meaning so-called." },
+      { "id": "PT-PRP-NAZYVAEMYY-05", "phrase": "Мы посетили часто называемый адрес.", "fullAnalysis": "Strategic focus: Masculine accusative. With the inanimate masculine object адрес the participle keeps называемый as the address we visit. Называемый адрес equals адрес, который называют — the one people name." },
+      { "id": "PT-PRP-NAZYVAEMYY-06", "phrase": "Это итог так называемой реформы.", "fullAnalysis": "Strategic focus: Feminine genitive. Называемой takes the feminine genitive ending to agree with реформы, marking the so-called reform as the source of the outcome." },
+      { "id": "PT-PRP-NAZYVAEMYY-07", "phrase": "Мы не верим так называемому другу.", "fullAnalysis": "Strategic focus: Masculine dative. The dative noun другу pulls называемому into the dative -ому ending. The phrase names the so-called friend we distrust." },
+      { "id": "PT-PRP-NAZYVAEMYY-08", "phrase": "Он стал так называемым лидером группы.", "fullAnalysis": "Strategic focus: Masculine instrumental. After стал the predicate лидером stands in the instrumental, and называемым takes the matching instrumental ending to agree with the so-called leader." },
+      { "id": "PT-PRP-NAZYVAEMYY-09", "phrase": "Мы говорим о так называемом прогрессе.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition о governs the prepositional case, so прогрессе and называемом both take prepositional endings as the so-called progress we discuss." },
+      { "id": "PT-PRP-NAZYVAEMYY-10", "phrase": "Часто называемые причины кажутся надуманными.", "fullAnalysis": "Strategic focus: Plural nominative paraphrase. Часто называемые причины unfolds as причины, которые часто называют — reasons that people often name. The participle compresses that который-clause into one agreeing word." }
+    ]
+  }
+]

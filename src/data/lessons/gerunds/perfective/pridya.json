@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-PERF-PRIDYA",
+    "label": "Придя",
+    "badge": "HAVING ARRIVED",
+    "description": "A 10-sentence card for придя, the irregular perfective gerund of прийти.",
+    "missions": [
+      { "id": "GD-PERF-PRIDYA-01", "phrase": "Придя домой, он сразу лёг спать.", "fullAnalysis": "Strategic focus: irregular -дя form, front position. Придя is the perfective gerund of прийти. It is irregular: instead of the usual -в, it takes a -дя ending on the perfective stem. It marks a prior completed action — he arrived home, then went to bed." },
+      { "id": "GD-PERF-PRIDYA-02", "phrase": "Придя на работу, она включила компьютер.", "fullAnalysis": "Strategic focus: completed then next step. Придя reports the prior finished arrival; the rest followed. Note the irregular -дя suffix (not -в). One subject does both: she arrived, she switched on the computer." },
+      { "id": "GD-PERF-PRIDYA-03", "phrase": "Придя в гости, мы подарим цветы.", "fullAnalysis": "Strategic focus: future main clause. The main verb is future (подарим), yet придя still fixes the earlier completed arrival. A perfective gerund orders events regardless of tense: arrive first, then give flowers, one shared subject." },
+      { "id": "GD-PERF-PRIDYA-04", "phrase": "Придя на вокзал, я купил билет.", "fullAnalysis": "Strategic focus: same-subject rule. The gerund and the main verb share one subject: I arrived at the station, I bought a ticket. Придя is indeclinable, and its irregular -дя form stays fixed for any subject." },
+      { "id": "GD-PERF-PRIDYA-05", "phrase": "Придя в класс, ученики сели за парты.", "fullAnalysis": "Strategic focus: plural subject, no agreement. The subject is plural (ученики), but придя takes no plural ending — gerunds never agree, unlike participles. The irregular -дя form is the same for all. Sequence: arrived, then sat down." },
+      { "id": "GD-PERF-PRIDYA-06", "phrase": "Она устала, придя с долгой прогулки.", "fullAnalysis": "Strategic focus: gerund in end position. The gerund clause follows the main verb here, but the order holds: she arrived from the walk first, then felt tired. Придя keeps its one fixed -дя form wherever it stands." },
+      { "id": "GD-PERF-PRIDYA-07", "phrase": "Придя домой, я отдыхаю на диване.", "fullAnalysis": "Strategic focus: present main clause. The main verb is present (отдыхаю), yet придя reports a finished prior action: I have arrived home, and now I rest. The irregular perfective gerund still means completion." },
+      { "id": "GD-PERF-PRIDYA-08", "phrase": "Придя в магазин, он не нашёл хлеба.", "fullAnalysis": "Strategic focus: tight sequence. Придя (прийти) marks the arrival at the store just before the discovery. Built irregularly with -дя rather than -в, it still forms a clear before-then-after chain under one subject." },
+      { "id": "GD-PERF-PRIDYA-09", "phrase": "Придя на встречу, мы долго ждали.", "fullAnalysis": "Strategic focus: prior arrival then wait. The arrival came before the waiting, and придя makes that order explicit. Past main verb with this irregular -дя perfective gerund, one subject throughout." },
+      { "id": "GD-PERF-PRIDYA-10", "phrase": "Придя с мороза, дети пили горячий чай.", "fullAnalysis": "Strategic focus: everyday sequence. Придя names the completed prior act: the children came in from the cold, then drank hot tea. The irregular -дя gerund keeps the actions in order, all done by them." }
+    ]
+  }
+]

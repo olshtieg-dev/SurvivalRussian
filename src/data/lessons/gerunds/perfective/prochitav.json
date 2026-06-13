@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-PERF-PROCHITAV",
+    "label": "Прочитав",
+    "badge": "HAVING READ",
+    "description": "A 10-sentence card for прочитав, the perfective gerund of прочитать.",
+    "missions": [
+      { "id": "GD-PERF-PROCHITAV-01", "phrase": "Прочитав письмо, она заплакала.", "fullAnalysis": "Strategic focus: prior action, front position. Прочитав is the perfective gerund of прочитать, formed from the perfective stem plus -в. It names an action finished before the main verb: she finished reading, then cried. The gerund clause leads, set off by a comma." },
+      { "id": "GD-PERF-PROCHITAV-02", "phrase": "Прочитав книгу, я вернул её в библиотеку.", "fullAnalysis": "Strategic focus: completed then next step. Прочитав marks the prior completed reading (perfective stem + -в); only afterward came the return. The same subject does both: I read, I returned it." },
+      { "id": "GD-PERF-PROCHITAV-03", "phrase": "Прочитав статью, мы обсудим её завтра.", "fullAnalysis": "Strategic focus: future main clause. The main verb is future (обсудим), yet прочитав still fixes the earlier completed action. A perfective gerund orders events, not tenses: read first, discuss later, one shared subject." },
+      { "id": "GD-PERF-PROCHITAV-04", "phrase": "Прочитав инструкцию, он включил прибор.", "fullAnalysis": "Strategic focus: same-subject rule. Both actions belong to one subject: HE read the manual, HE switched on the device. Прочитав is indeclinable, so the link to он rests on meaning, not on any ending." },
+      { "id": "GD-PERF-PROCHITAV-05", "phrase": "Прочитав условие, ученики начали решать.", "fullAnalysis": "Strategic focus: plural subject, no agreement. The subject is plural (ученики), but прочитав takes no plural ending — gerunds never agree, unlike participles. Sequence: the problem read, then solving began." },
+      { "id": "GD-PERF-PROCHITAV-06", "phrase": "Она задумалась, прочитав эти строки.", "fullAnalysis": "Strategic focus: gerund in end position. The gerund clause comes after the main verb here, but the order of events holds: she read the lines first, then fell into thought. Прочитав stays one fixed form in any position." },
+      { "id": "GD-PERF-PROCHITAV-07", "phrase": "Прочитав отзывы, я понимаю твой выбор.", "fullAnalysis": "Strategic focus: present main clause. The main verb is present (понимаю), but прочитав reports a finished prior action: the reviews are read, and now I understand. A perfective gerund means completion whatever the main tense." },
+      { "id": "GD-PERF-PROCHITAV-08", "phrase": "Прочитав сообщение, он быстро ответил.", "fullAnalysis": "Strategic focus: tight sequence. Прочитав (прочитать, perfective + -в) marks the message read just before the reply. The two actions form a clear before-then-after chain under one subject." },
+      { "id": "GD-PERF-PROCHITAV-09", "phrase": "Прочитав договор, мы поставили подписи.", "fullAnalysis": "Strategic focus: prior condition for action. The contract was read in full before the signing, and прочитав makes that order explicit. Past main verb with a perfective gerund, same subject throughout." },
+      { "id": "GD-PERF-PROCHITAV-10", "phrase": "Прочитав рецепт, бабушка достала продукты.", "fullAnalysis": "Strategic focus: everyday sequence. Прочитав names the completed prior act: the recipe was read, then the ingredients came out. The perfective gerund keeps the actions in order, both done by grandmother." }
+    ]
+  }
+]

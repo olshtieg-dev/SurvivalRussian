@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAP-NAPISANNYY",
+    "label": "Написанный",
+    "badge": "WRITTEN",
+    "description": "A 10-sentence card for написанный, the past passive participle of написать, with its short form написан.",
+    "missions": [
+      { "id": "PT-PAP-NAPISANNYY-01", "phrase": "Написанный другом текст был интересным.", "fullAnalysis": "Strategic focus: Masculine nominative long form. Написанный comes from the perfective написать — the stem написа- plus the suffix -нн- and an adjective ending. The long form agrees with masculine текст." },
+      { "id": "PT-PAP-NAPISANNYY-02", "phrase": "Написанная вчера статья уже опубликована.", "fullAnalysis": "Strategic focus: Feminine nominative long form. The long participle takes -ая to agree with статья. Написанная статья equals статья, которую написали — the article that someone wrote." },
+      { "id": "PT-PAP-NAPISANNYY-03", "phrase": "Написанное письмо лежит на столе.", "fullAnalysis": "Strategic focus: Neuter nominative long form. Написанное carries the neuter ending -ое to match письмо. The -нн- suffix marks the finished result — the letter that was written." },
+      { "id": "PT-PAP-NAPISANNYY-04", "phrase": "Написанные ручкой буквы видны плохо.", "fullAnalysis": "Strategic focus: Plural nominative long form. The plural ending -ые lets написанные agree with буквы. It picks out the letters that were written with a pen." },
+      { "id": "PT-PAP-NAPISANNYY-05", "phrase": "Письмо было написано вчера вечером.", "fullAnalysis": "Strategic focus: Neuter short form with быть. The short form написано joins было to build a past passive: письмо было написано. It reports when the letter was written." },
+      { "id": "PT-PAP-NAPISANNYY-06", "phrase": "Эта книга написана известным писателем.", "fullAnalysis": "Strategic focus: Feminine short form. The short predicative form написана agrees only in feminine gender with книга, and писателем in the instrumental names the agent who wrote it." },
+      { "id": "PT-PAP-NAPISANNYY-07", "phrase": "Все письма написаны и отправлены.", "fullAnalysis": "Strategic focus: Plural short form. The plural short form написаны agrees with письма and predicates the result with быть understood. The letters are all written." },
+      { "id": "PT-PAP-NAPISANNYY-08", "phrase": "Я горжусь написанной мной книгой.", "fullAnalysis": "Strategic focus: Feminine instrumental long form. After горжусь the noun книгой stands in the instrumental, and написанной takes the matching feminine instrumental ending to agree with it." },
+      { "id": "PT-PAP-NAPISANNYY-09", "phrase": "Мы говорим о написанном недавно романе.", "fullAnalysis": "Strategic focus: Masculine prepositional long form. The preposition о governs the prepositional case, so романе and написанном take prepositional endings and agree as the novel that was written." },
+      { "id": "PT-PAP-NAPISANNYY-10", "phrase": "Я читаю написанную поэтом поэму внимательно.", "fullAnalysis": "Strategic focus: Feminine accusative long form. With the object поэму the participle takes the accusative -ую, so написанную matches it in gender, number and case as the poem that was written." }
+    ]
+  }
+]

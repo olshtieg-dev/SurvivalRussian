@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAP-PROCHITANNYY",
+    "label": "Прочитанный",
+    "badge": "READ",
+    "description": "A 10-sentence card for прочитанный, the past passive participle of прочитать, with its short form прочитан.",
+    "missions": [
+      { "id": "PT-PAP-PROCHITANNYY-01", "phrase": "Прочитанный роман стоит на полке.", "fullAnalysis": "Strategic focus: Masculine nominative long form. Прочитанный comes from the perfective прочитать — the stem прочита- plus the suffix -нн- and an adjective ending. The long form agrees with masculine роман." },
+      { "id": "PT-PAP-PROCHITANNYY-02", "phrase": "Прочитанная книга мне очень понравилась.", "fullAnalysis": "Strategic focus: Feminine nominative long form. The long participle takes -ая to agree with книга. Прочитанная книга equals книга, которую прочитали — the book that someone read." },
+      { "id": "PT-PAP-PROCHITANNYY-03", "phrase": "Прочитанное письмо лежало в ящике.", "fullAnalysis": "Strategic focus: Neuter nominative long form. Прочитанное carries the neuter ending -ое to match письмо. The -нн- suffix marks completion — the letter that had been read." },
+      { "id": "PT-PAP-PROCHITANNYY-04", "phrase": "Прочитанные книги вернули в библиотеку.", "fullAnalysis": "Strategic focus: Plural accusative long form. The plural ending -ые lets прочитанные agree with книги as the read books that were returned to the library." },
+      { "id": "PT-PAP-PROCHITANNYY-05", "phrase": "Эта книга уже прочитана мной.", "fullAnalysis": "Strategic focus: Feminine short form. The short predicative form прочитана agrees only in feminine gender with книга, with быть in the present understood. The book is finished." },
+      { "id": "PT-PAP-PROCHITANNYY-06", "phrase": "Письмо было прочитано вслух всем.", "fullAnalysis": "Strategic focus: Neuter short form with быть. The short form прочитано joins было to form a past passive: письмо было прочитано. It reports that the letter got read aloud." },
+      { "id": "PT-PAP-PROCHITANNYY-07", "phrase": "Все главы прочитаны к экзамену.", "fullAnalysis": "Strategic focus: Plural short form. The plural short form прочитаны agrees with главы and predicates the result with быть understood. The chapters are all read." },
+      { "id": "PT-PAP-PROCHITANNYY-08", "phrase": "Я доволен прочитанной недавно статьёй.", "fullAnalysis": "Strategic focus: Feminine instrumental long form. After доволен the noun статьёй stands in the instrumental, and прочитанной takes the matching feminine instrumental ending to agree with it." },
+      { "id": "PT-PAP-PROCHITANNYY-09", "phrase": "Мы говорим о прочитанном вчера рассказе.", "fullAnalysis": "Strategic focus: Masculine prepositional long form. The preposition о governs the prepositional case, so рассказе and прочитанном take prepositional endings and agree as the story that was read." },
+      { "id": "PT-PAP-PROCHITANNYY-10", "phrase": "Обложка прочитанной книги совсем потёрлась.", "fullAnalysis": "Strategic focus: Feminine genitive long form. Прочитанной takes the feminine genitive ending to agree with книги, marking whose cover it is — the cover of the book that was read." }
+    ]
+  }
+]

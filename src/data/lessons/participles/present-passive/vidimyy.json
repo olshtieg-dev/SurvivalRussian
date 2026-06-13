@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRP-VIDIMYY",
+    "label": "Видимый",
+    "badge": "VISIBLE",
+    "description": "A 10-sentence card for видимый, the present passive participle of видеть.",
+    "missions": [
+      { "id": "PT-PRP-VIDIMYY-01", "phrase": "Видимый берег приближается медленно.", "fullAnalysis": "Strategic focus: Masculine nominative. Видимый comes from видеть — the second-conjugation form видим plus -ый. It agrees with masculine берег and has lexicalized into the adjective visible." },
+      { "id": "PT-PRP-VIDIMYY-02", "phrase": "Видимая граница проходит по реке.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets видимая agree with граница. The -им- suffix marks the second conjugation, and the word means the visible boundary." },
+      { "id": "PT-PRP-VIDIMYY-03", "phrase": "Видимое пространство кажется огромным.", "fullAnalysis": "Strategic focus: Neuter nominative. Видимое carries the neuter ending -ое to match пространство. As a present passive participle it literally means the space that is seen." },
+      { "id": "PT-PRP-VIDIMYY-04", "phrase": "Видимые звёзды горят над горами.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ые lets видимые agree with звёзды. The participle declines like an adjective and names the visible stars." },
+      { "id": "PT-PRP-VIDIMYY-05", "phrase": "Мы изучаем видимый спектр света.", "fullAnalysis": "Strategic focus: Masculine accusative. With the inanimate masculine object спектр the participle keeps видимый as the spectrum we study. Видимый спектр equals спектр, который видят — the spectrum that people see." },
+      { "id": "PT-PRP-VIDIMYY-06", "phrase": "Это край видимой части луны.", "fullAnalysis": "Strategic focus: Feminine genitive. Видимой takes the feminine genitive ending to agree with части, marking the visible part of the moon as the source of the edge." },
+      { "id": "PT-PRP-VIDIMYY-07", "phrase": "Мы радуемся видимому прогрессу больного.", "fullAnalysis": "Strategic focus: Masculine dative. The dative noun прогрессу pulls видимому into the dative -ому ending. The word names the visible progress that gladdens us." },
+      { "id": "PT-PRP-VIDIMYY-08", "phrase": "Она довольна видимым результатом работы.", "fullAnalysis": "Strategic focus: Masculine instrumental. After довольна the noun результатом stands in the instrumental, and видимым takes the matching instrumental ending to agree with the visible result." },
+      { "id": "PT-PRP-VIDIMYY-09", "phrase": "Мы спорим о видимом мире.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition о governs the prepositional case, so мире and видимом both take prepositional endings and agree as the visible world we argue about." },
+      { "id": "PT-PRP-VIDIMYY-10", "phrase": "Видимые причины ссоры всем понятны.", "fullAnalysis": "Strategic focus: Plural lexicalization. Видимые here works as the adjective apparent, formed from видим with -ые. It agrees with plural причины and shows the participle fully settled into everyday vocabulary." }
+    ]
+  }
+]

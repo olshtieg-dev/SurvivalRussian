@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-IMPF-VOZVRASHCHAYAS",
+    "label": "Возвращаясь",
+    "badge": "WHILE RETURNING",
+    "description": "A 10-sentence card for возвращаясь, the imperfective gerund of возвращаться.",
+    "missions": [
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-01", "phrase": "Возвращаясь домой, она купила хлеб.", "fullAnalysis": "Strategic focus: Reflexive front position. Возвращаясь comes from the reflexive возвращаться (возвраща-ются) plus the reflexive gerund ending -ясь. The fronted gerund names what she did on the way home." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-02", "phrase": "Он звонил жене, возвращаясь с работы.", "fullAnalysis": "Strategic focus: End position. Here возвращаясь closes the sentence and runs parallel to звонил. Both actions belong to the subject он and happen at the same time." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-03", "phrase": "Возвращаясь поздно, ты будишь всю семью.", "fullAnalysis": "Strategic focus: Reflexive ending -ясь. Reflexive verbs keep their marker in the gerund as -ясь. Возвращаясь runs simultaneously with the present main verb будишь — returning late, you wake everyone." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-04", "phrase": "Возвращаясь из школы, дети заходят в магазин.", "fullAnalysis": "Strategic focus: Same-subject rule. The ones who return in возвращаясь must be the ones who stop at the shop — a single subject дети. A reflexive gerund still cannot introduce a separate doer." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-05", "phrase": "Возвращаясь вечером, мы увидим закат.", "fullAnalysis": "Strategic focus: Future main clause. The main clause is future (увидим), but возвращаясь stays unchanged — gerunds have no future form. Returning in the evening, we will see the sunset." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-06", "phrase": "Туристы устали, возвращаясь к отелю.", "fullAnalysis": "Strategic focus: Plural subject. Even with the plural subject туристы, the reflexive form stays возвращаясь — gerunds are indeclinable and take no number ending, unlike the participle возвращающиеся." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-07", "phrase": "Возвращаясь домой, он думал о встрече.", "fullAnalysis": "Strategic focus: Past main clause. The finite verb думал is past, yet возвращаясь marks concurrency: while returning home, he thought about the meeting. The imperfective gerund signals overlap, not sequence." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-08", "phrase": "Возвращаясь в город, я всегда волнуюсь.", "fullAnalysis": "Strategic focus: Present habitual. The main verb волнуюсь is a regular present, and возвращаясь gives the accompanying circumstance: returning to the city, I always feel anxious. Both verbs share the subject я." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-09", "phrase": "Возвращаясь со станции, бабушка несла сумку.", "fullAnalysis": "Strategic focus: Indeclinable form. With the feminine subject бабушка the gerund stays возвращаясь, taking no gender or case ending. The participle возвращающаяся would inflect; the gerund holds one fixed shape." },
+      { "id": "GD-IMPF-VOZVRASHCHAYAS-10", "phrase": "Возвращаясь домой, друзья тихо разговаривали.", "fullAnalysis": "Strategic focus: Two parallel actions. Друзья is the shared subject of both разговаривали and возвращаясь, the actions overlapping in time. The reflexive gerund folds while they returned into one indeclinable word." }
+    ]
+  }
+]

@@ -14,6 +14,9 @@ import { binaryAdjectivesLessonSets, binaryAdjectivesFolder } from './binary-adj
 import { adverbsLessonSets, adverbsFolder, adverbsGroupFolders } from './adverbs';
 import { adjectivesLessonSets, adjectivesFolder, adjectivesGroupFolders } from './adjectives';
 import { casesNounsLessonSets, casesNounsFolder, casesNounsGroupFolders } from './cases-nouns';
+import { participlesLessonSets, participlesFolder, participlesGroupFolders } from './participles';
+import { gerundsLessonSets, gerundsFolder, gerundsGroupFolders } from './gerunds';
+import { conditionalLessonSets, conditionalFolder, conditionalGroupFolders } from './conditional';
 import frequencyGulagLessons from './frequency-gulag.json';
 import vocabularyData from '../vocabulary.json';
 
@@ -134,6 +137,9 @@ export const lessonSets = [
   ...adverbsLessonSets,
   ...adjectivesLessonSets,
   ...casesNounsLessonSets,
+  ...participlesLessonSets,
+  ...gerundsLessonSets,
+  ...conditionalLessonSets,
 ];
 
 export const defaultLessonSetId = lessonSets[0]?.id || 'essentials';
@@ -156,6 +162,12 @@ export const lessonFolders = [
   ...adjectivesGroupFolders,
   casesNounsFolder,
   ...casesNounsGroupFolders,
+  participlesFolder,
+  ...participlesGroupFolders,
+  gerundsFolder,
+  ...gerundsGroupFolders,
+  conditionalFolder,
+  ...conditionalGroupFolders,
 ];
 
 export function getLessonSet(lessonSetId) {

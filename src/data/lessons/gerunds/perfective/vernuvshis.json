@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-PERF-VERNUVSHIS",
+    "label": "Вернувшись",
+    "badge": "HAVING RETURNED",
+    "description": "A 10-sentence card for вернувшись, the reflexive perfective gerund of вернуться.",
+    "missions": [
+      { "id": "GD-PERF-VERNUVSHIS-01", "phrase": "Вернувшись домой, он сразу позвонил маме.", "fullAnalysis": "Strategic focus: reflexive -вшись form, front position. Вернувшись is the perfective gerund of the reflexive verb вернуться. Reflexive verbs take -вшись, not plain -в. It marks a prior completed action — he returned home, then called his mother." },
+      { "id": "GD-PERF-VERNUVSHIS-02", "phrase": "Вернувшись из отпуска, она вышла на работу.", "fullAnalysis": "Strategic focus: completed then next step. Вернувшись reports the prior finished return; the rest followed. The -вшись suffix carries the reflexive -ся of вернуться. One subject does both: she returned, she went back to work." },
+      { "id": "GD-PERF-VERNUVSHIS-03", "phrase": "Вернувшись с моря, мы покажем фотографии.", "fullAnalysis": "Strategic focus: future main clause. The main verb is future (покажем), yet вернувшись still fixes the earlier completed return. A perfective gerund orders events regardless of tense: return first, then show photos, one shared subject." },
+      { "id": "GD-PERF-VERNUVSHIS-04", "phrase": "Вернувшись поздно, я тихо открыл дверь.", "fullAnalysis": "Strategic focus: same-subject rule. The gerund and the main verb share one subject: I returned late, I opened the door quietly. Вернувшись is indeclinable, and its reflexive -вшись form stays fixed for any subject." },
+      { "id": "GD-PERF-VERNUVSHIS-05", "phrase": "Вернувшись с прогулки, дети помыли руки.", "fullAnalysis": "Strategic focus: plural subject, no agreement. The subject is plural (дети), but вернувшись takes no plural ending — gerunds never agree, unlike participles. The reflexive -вшись form is the same for all. Sequence: returned, then washed hands." },
+      { "id": "GD-PERF-VERNUVSHIS-06", "phrase": "Она расстроилась, вернувшись к пустому дому.", "fullAnalysis": "Strategic focus: gerund in end position. The gerund clause follows the main verb here, but the order holds: she returned to the empty house first, then got upset. Вернувшись keeps its one fixed -вшись form wherever it stands." },
+      { "id": "GD-PERF-VERNUVSHIS-07", "phrase": "Вернувшись в город, я скучаю по деревне.", "fullAnalysis": "Strategic focus: present main clause. The main verb is present (скучаю), yet вернувшись reports a finished prior action: I have returned to the city, and now I miss the countryside. The reflexive perfective gerund still means completion." },
+      { "id": "GD-PERF-VERNUVSHIS-08", "phrase": "Вернувшись с работы, отец сел ужинать.", "fullAnalysis": "Strategic focus: tight sequence. Вернувшись (вернуться) marks the return from work just before dinner. Built with reflexive -вшись rather than plain -в, it still forms a clear before-then-after chain under one subject." },
+      { "id": "GD-PERF-VERNUVSHIS-09", "phrase": "Вернувшись из школы, она сделала уроки.", "fullAnalysis": "Strategic focus: prior return then task. The return came before the homework, and вернувшись makes that order explicit. Past main verb with this reflexive -вшись perfective gerund, one subject throughout." },
+      { "id": "GD-PERF-VERNUVSHIS-10", "phrase": "Вернувшись с рынка, мы приготовили обед.", "fullAnalysis": "Strategic focus: everyday sequence. Вернувшись names the completed prior act: we came back from the market, then cooked lunch. The reflexive -вшись gerund keeps the actions in order, all done by us." }
+    ]
+  }
+]

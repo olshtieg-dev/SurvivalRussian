@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-REQ-NEMOGLIBY",
+    "label": "Не могли бы",
+    "badge": "COULD YOU",
+    "description": "A 10-sentence card for the polite-request frame Не могли бы вы + infinitive.",
+    "missions": [
+      {
+        "id": "BY-REQ-NEMOGLIBY-01",
+        "phrase": "Не могли бы вы говорить медленнее?",
+        "fullAnalysis": "Strategic focus: Core polite request. The past form 'могли' carries the particle 'бы', and together they turn a demand into a courteous question. The infinitive 'говорить' names the requested action."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-02",
+        "phrase": "Не могли бы вы повторить вопрос?",
+        "fullAnalysis": "Strategic focus: бы plus past form. Here 'бы pairs with a past-tense verb', 'могли', never with a present or future one. This pairing is what builds the conditional mood and makes the request for a repeat sound polite."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-03",
+        "phrase": "Не могли бы вы открыть окно?",
+        "fullAnalysis": "Strategic focus: Softening versus imperative. Instead of the blunt 'откройте окно', the frame 'не могли бы вы' phrases the same need as a tentative question, so 'бы' softens the order into a polite invitation."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-04",
+        "phrase": "Не могли бы вы помочь мне?",
+        "fullAnalysis": "Strategic focus: Asking for help. The infinitive 'помочь' follows the frame, and the dative 'мне' marks the person who benefits. The past 'могли' with 'бы' keeps the appeal modest rather than demanding."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-05",
+        "phrase": "Не могли бы вы подождать минуту?",
+        "fullAnalysis": "Strategic focus: Requesting patience. The frame asks someone to wait, with 'минуту' giving the duration. The conditional 'могли бы' makes the request gentle, as if leaving the hearer free to decline."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-06",
+        "phrase": "Не могли бы вы передать соль?",
+        "fullAnalysis": "Strategic focus: Table request. A common dinner appeal where 'передать' names the action and 'соль' the object. The past 'могли' plus 'бы' replaces a curt command with a polite question."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-07",
+        "phrase": "Не могли бы вы показать дорогу?",
+        "fullAnalysis": "Strategic focus: Asking directions. The infinitive 'показать' carries the request and 'дорогу' the goal. The conditional frame keeps the appeal to a stranger courteous and unintrusive."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-08",
+        "phrase": "Не могли бы вы говорить тише?",
+        "fullAnalysis": "Strategic focus: Polite correction. Asking for quiet is delicate, so the frame 'не могли бы вы' wraps it in conditional politeness. The past 'могли' with 'бы' avoids the sharpness of a direct order."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-09",
+        "phrase": "Не могли бы вы написать адрес?",
+        "fullAnalysis": "Strategic focus: Requesting in writing. The infinitive 'написать' names the action and 'адрес' the content. The conditional 'могли бы' frames the request as a favour rather than an instruction."
+      },
+      {
+        "id": "BY-REQ-NEMOGLIBY-10",
+        "phrase": "Не могли бы вы закрыть дверь?",
+        "fullAnalysis": "Strategic focus: Everyday favour. The frame asks for the door to be shut, with 'закрыть' as the action verb. The past 'могли' bearing 'бы' turns a possible command into a measured, polite request."
+      }
+    ]
+  }
+]

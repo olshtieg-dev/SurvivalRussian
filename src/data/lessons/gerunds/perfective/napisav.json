@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-PERF-NAPISAV",
+    "label": "Написав",
+    "badge": "HAVING WRITTEN",
+    "description": "A 10-sentence card for написав, the perfective gerund of написать.",
+    "missions": [
+      { "id": "GD-PERF-NAPISAV-01", "phrase": "Написав письмо, он пошёл на почту.", "fullAnalysis": "Strategic focus: prior action, front position. Написав is the perfective gerund of написать, built from the perfective stem plus -в. It marks an action completed before the main verb: he finished the letter, then went to the post office. The gerund clause leads, set off by a comma." },
+      { "id": "GD-PERF-NAPISAV-02", "phrase": "Написав заявление, я отдал его секретарю.", "fullAnalysis": "Strategic focus: completed then handed over. Написав reports the prior finished writing (perfective stem + -в); the handing over followed. One subject does both: I wrote, I handed it in." },
+      { "id": "GD-PERF-NAPISAV-03", "phrase": "Написав отчёт, мы отправим его директору.", "fullAnalysis": "Strategic focus: future main clause. The main verb is future (отправим), yet написав still fixes the earlier completed action. A perfective gerund orders the events: write first, send later, one shared subject." },
+      { "id": "GD-PERF-NAPISAV-04", "phrase": "Написав сообщение, она убрала телефон.", "fullAnalysis": "Strategic focus: same-subject rule. The gerund and the main verb share one subject: SHE wrote the message, SHE put the phone away. Написав is indeclinable, so meaning, not an ending, ties it to она." },
+      { "id": "GD-PERF-NAPISAV-05", "phrase": "Написав диктант, школьники сдали тетради.", "fullAnalysis": "Strategic focus: plural subject, no agreement. The subject is plural (школьники), but написав takes no plural ending — gerunds do not agree, unlike participles. Sequence: dictation written, then notebooks handed in." },
+      { "id": "GD-PERF-NAPISAV-06", "phrase": "Он улыбнулся, написав последнюю строку.", "fullAnalysis": "Strategic focus: gerund in end position. The gerund clause follows the main verb here, but the order stands: he wrote the last line first, then smiled. Написав keeps one fixed form wherever it appears." },
+      { "id": "GD-PERF-NAPISAV-07", "phrase": "Написав статью, я чувствую облегчение.", "fullAnalysis": "Strategic focus: present main clause. The main verb is present (чувствую), yet написав reports a finished prior action: the article is written, and now I feel relief. A perfective gerund means completion whatever the main tense." },
+      { "id": "GD-PERF-NAPISAV-08", "phrase": "Написав адрес, курьер поехал дальше.", "fullAnalysis": "Strategic focus: tight sequence. Написав (написать, perfective + -в) marks the address written just before the departure. The two actions form a clean before-then-after chain under one subject." },
+      { "id": "GD-PERF-NAPISAV-09", "phrase": "Написав стихотворение, поэт прочитал его вслух.", "fullAnalysis": "Strategic focus: prior creation then act. The poem was completed before the reading, and написав makes that order explicit. Past main verb with a perfective gerund, one subject throughout." },
+      { "id": "GD-PERF-NAPISAV-10", "phrase": "Написав список, мама пошла в магазин.", "fullAnalysis": "Strategic focus: everyday sequence. Написав names the completed prior act: the list was written, then she went shopping. The perfective gerund keeps the actions in order, both done by mama." }
+    ]
+  }
+]

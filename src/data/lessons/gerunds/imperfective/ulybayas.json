@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-IMPF-ULYBAYAS",
+    "label": "Улыбаясь",
+    "badge": "SMILING",
+    "description": "A 10-sentence card for улыбаясь, the imperfective gerund of улыбаться.",
+    "missions": [
+      { "id": "GD-IMPF-ULYBAYAS-01", "phrase": "Улыбаясь, она открыла дверь гостям.", "fullAnalysis": "Strategic focus: Reflexive front position. Улыбаясь comes from the reflexive улыбаться (улыба-ются) plus the reflexive gerund ending -ясь. The fronted gerund names what she did while opening the door." },
+      { "id": "GD-IMPF-ULYBAYAS-02", "phrase": "Он отвечал, улыбаясь своим мыслям.", "fullAnalysis": "Strategic focus: End position. Here улыбаясь closes the sentence and runs parallel to отвечал. Both actions belong to the subject он and happen at the same moment." },
+      { "id": "GD-IMPF-ULYBAYAS-03", "phrase": "Улыбаясь, ты делаешь день светлее.", "fullAnalysis": "Strategic focus: Reflexive ending -ясь. Reflexive verbs keep their reflexive marker in the gerund as -ясь, not plain -я. Улыбаясь runs simultaneously with the present main verb делаешь — smiling, you brighten the day." },
+      { "id": "GD-IMPF-ULYBAYAS-04", "phrase": "Улыбаясь, человек располагает к себе других.", "fullAnalysis": "Strategic focus: Same-subject rule. The one who smiles in улыбаясь must be the one who wins others over — a single subject человек. A reflexive gerund still cannot introduce a separate doer." },
+      { "id": "GD-IMPF-ULYBAYAS-05", "phrase": "Улыбаясь, мы встретим первых посетителей.", "fullAnalysis": "Strategic focus: Future main clause. The main clause is future (встретим), but улыбаясь stays unchanged — gerunds have no future form. Smiling, we will greet the first visitors." },
+      { "id": "GD-IMPF-ULYBAYAS-06", "phrase": "Дети махали руками, улыбаясь камере.", "fullAnalysis": "Strategic focus: Plural subject. Even with the plural subject дети, the reflexive form stays улыбаясь — gerunds are indeclinable and take no number ending, unlike the participle улыбающиеся." },
+      { "id": "GD-IMPF-ULYBAYAS-07", "phrase": "Улыбаясь, бабушка вспоминала свою свадьбу.", "fullAnalysis": "Strategic focus: Past main clause. The finite verb вспоминала is past, yet улыбаясь marks concurrency: while smiling, she recalled her wedding. The imperfective gerund signals overlap, not sequence." },
+      { "id": "GD-IMPF-ULYBAYAS-08", "phrase": "Улыбаясь, продавец предлагает свежий хлеб.", "fullAnalysis": "Strategic focus: Present habitual. The main verb предлагает is a general present, and улыбаясь gives the accompanying manner: smiling, the seller offers fresh bread. The reflexive gerund keeps its single -ясь form." },
+      { "id": "GD-IMPF-ULYBAYAS-09", "phrase": "Улыбаясь, девочка протянула отцу рисунок.", "fullAnalysis": "Strategic focus: Indeclinable form. With the feminine subject девочка the gerund stays улыбаясь, taking no gender or case ending. The participle улыбающаяся would inflect; the gerund holds one fixed shape." },
+      { "id": "GD-IMPF-ULYBAYAS-10", "phrase": "Улыбаясь друг другу, они шли молча.", "fullAnalysis": "Strategic focus: Two parallel actions. Они is the shared subject of both шли and улыбаясь, the actions overlapping in time. The reflexive gerund folds while they smiled into one indeclinable word." }
+    ]
+  }
+]

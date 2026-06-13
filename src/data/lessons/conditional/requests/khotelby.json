@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-REQ-KHOTELBY",
+    "label": "Хотел бы",
+    "badge": "WOULD LIKE",
+    "description": "A 10-sentence card for the softened-wish frame Я (бы) хотел бы + infinitive or noun.",
+    "missions": [
+      {
+        "id": "BY-REQ-KHOTELBY-01",
+        "phrase": "Я хотел бы заказать чашку кофе.",
+        "fullAnalysis": "Strategic focus: Core polite wish. The past form 'хотел' carries 'бы', and the infinitive 'заказать' names the desired action. The conditional makes the order sound courteous rather than abrupt."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-02",
+        "phrase": "Я хотела бы задать один вопрос.",
+        "fullAnalysis": "Strategic focus: Feminine gender. A female speaker uses 'хотела', since 'бы pairs with a past-tense verb' that agrees in gender. The infinitive 'задать' names what she wishes to do."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-03",
+        "phrase": "Я хотел бы немного отдохнуть.",
+        "fullAnalysis": "Strategic focus: Softening versus blunt present. Instead of the flat 'я хочу отдохнуть', the past 'хотел' with 'бы' makes the wish tentative and polite, leaving room for the hearer's reaction."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-04",
+        "phrase": "Мы хотели бы забронировать столик.",
+        "fullAnalysis": "Strategic focus: Plural subject. With 'мы' the past form becomes 'хотели', still bearing 'бы'. The infinitive 'забронировать' states the request, kept courteous by the conditional mood."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-05",
+        "phrase": "Я хотела бы стакан воды.",
+        "fullAnalysis": "Strategic focus: Wish for a noun. Here the frame takes a noun, 'стакан воды', not an infinitive. The feminine past 'хотела' plus 'бы' softens the request into a polite expression of desire."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-06",
+        "phrase": "Я хотел бы поговорить с директором.",
+        "fullAnalysis": "Strategic focus: Requesting a meeting. The infinitive 'поговорить' names the aim and 'с директором' the person. The conditional 'хотел бы' frames the wish modestly rather than as a demand."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-07",
+        "phrase": "Я хотела бы научиться играть.",
+        "fullAnalysis": "Strategic focus: Aspirational wish. The feminine past 'хотела' carries 'бы', and the infinitive chain 'научиться играть' names the goal. The conditional gives the statement a gentle, hopeful tone."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-08",
+        "phrase": "Я хотел бы оплатить счёт картой.",
+        "fullAnalysis": "Strategic focus: Polite intention. The infinitive 'оплатить' states the action and 'картой' the means. The past 'хотел' with 'бы' makes the announced choice sound courteous rather than insistent."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-09",
+        "phrase": "Мы хотели бы остаться ещё немного.",
+        "fullAnalysis": "Strategic focus: Plural soft request. The form 'хотели' agrees with 'мы' and pairs with 'бы'. The infinitive 'остаться' names the wish, made tentative and polite by the conditional."
+      },
+      {
+        "id": "BY-REQ-KHOTELBY-10",
+        "phrase": "Я хотела бы билет до Москвы.",
+        "fullAnalysis": "Strategic focus: Buying with a noun. The frame takes the noun phrase 'билет до Москвы' directly. The feminine 'хотела' plus 'бы' turns a purchase into a courteous request at the counter."
+      }
+    ]
+  }
+]

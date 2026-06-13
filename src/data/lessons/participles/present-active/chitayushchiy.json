@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRA-CHITAYUSHCHIY",
+    "label": "Читающий",
+    "badge": "READING",
+    "description": "A 10-sentence card for читающий, the present active participle of читать.",
+    "missions": [
+      { "id": "PT-PRA-CHITAYUSHCHIY-01", "phrase": "Читающий мальчик сидит у окна.", "fullAnalysis": "Strategic focus: Masculine nominative. Читающий comes from читать — the present stem читаj- of читают plus -щ- and an adjective ending. Here it agrees with masculine singular nominative мальчик and means the boy who is reading." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-02", "phrase": "Читающая девочка не слышит нас.", "fullAnalysis": "Strategic focus: Feminine nominative. The participle takes the feminine ending -ая to agree with девочка. Читающая девочка equals девочка, которая читает — the girl who is reading right now." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-03", "phrase": "Читающее дитя забыло про обед.", "fullAnalysis": "Strategic focus: Neuter nominative. Читающее carries the neuter ending -ее to match the neuter noun дитя. The participle describes the child who is currently absorbed in reading." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-04", "phrase": "Читающие студенты молчат в зале.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие lets читающие agree with студенты. It picks out the students who are reading and therefore staying quiet." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-05", "phrase": "Я вижу читающего мальчика в парке.", "fullAnalysis": "Strategic focus: Masculine accusative. With the animate masculine object мальчика the participle takes -его, so читающего matches it in gender, number and case as the thing I see." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-06", "phrase": "Книга читающей девочки лежит здесь.", "fullAnalysis": "Strategic focus: Feminine genitive. Читающей takes the feminine genitive ending to agree with девочки, marking whose book it is — the book of the girl who is reading." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-07", "phrase": "Учитель помогает читающему ученику.", "fullAnalysis": "Strategic focus: Masculine dative. The dative object ученику pulls читающему into the dative -ему ending. The participle names the pupil who is reading and getting help." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-08", "phrase": "Я горжусь читающей внучкой каждый день.", "fullAnalysis": "Strategic focus: Feminine instrumental. After горжусь the noun внучкой stands in the instrumental, and читающей takes the matching feminine instrumental ending to agree with it." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-09", "phrase": "Мы говорим о читающем соседе.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition о governs the prepositional case, so both соседе and читающем take prepositional endings and agree as the neighbour we speak about." },
+      { "id": "PT-PRA-CHITAYUSHCHIY-10", "phrase": "Читающие люди живут дольше других.", "fullAnalysis": "Strategic focus: Plural nominative paraphrase. Читающие люди can be unfolded as люди, которые читают — people who read. The participle compresses that который-clause into one agreeing word." }
+    ]
+  }
+]

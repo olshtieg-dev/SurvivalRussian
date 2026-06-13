@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAP-POSTROENNYY",
+    "label": "Построенный",
+    "badge": "BUILT",
+    "description": "A 10-sentence card for построенный, the past passive participle of построить, with its short form построен.",
+    "missions": [
+      { "id": "PT-PAP-POSTROENNYY-01", "phrase": "Недавно построенный дом уже продан.", "fullAnalysis": "Strategic focus: Masculine nominative long form. Построенный comes from the perfective построить on -ить — the stem postroj plus the suffix -енн- and an adjective ending. The long form agrees with masculine дом." },
+      { "id": "PT-PAP-POSTROENNYY-02", "phrase": "Построенная рабочими школа открылась осенью.", "fullAnalysis": "Strategic focus: Feminine nominative long form. The long participle takes -ая to agree with школа. Построенная школа equals школа, которую построили — the school that someone built." },
+      { "id": "PT-PAP-POSTROENNYY-03", "phrase": "Построенное на холме здание видно издалека.", "fullAnalysis": "Strategic focus: Neuter nominative long form. Построенное carries the neuter ending -ое to match здание. The -енн- suffix from -ить marks the result — the building that was erected." },
+      { "id": "PT-PAP-POSTROENNYY-04", "phrase": "Построенные мосты соединили два берега.", "fullAnalysis": "Strategic focus: Plural nominative long form. The plural ending -ые lets построенные agree with мосты as the built bridges that joined the two banks." },
+      { "id": "PT-PAP-POSTROENNYY-05", "phrase": "Этот дом построен сто лет назад.", "fullAnalysis": "Strategic focus: Masculine short form. The short predicative form построен agrees only in masculine gender with дом, with быть understood. It states when the house was built." },
+      { "id": "PT-PAP-POSTROENNYY-06", "phrase": "Школа была построена за год.", "fullAnalysis": "Strategic focus: Feminine short form with быть. The short form построена joins была to form a past passive: школа была построена. It reports that the school got built." },
+      { "id": "PT-PAP-POSTROENNYY-07", "phrase": "Новые дома построены вдоль реки.", "fullAnalysis": "Strategic focus: Plural short form. The plural short form построены agrees with дома and predicates the result with быть understood. The new houses are built." },
+      { "id": "PT-PAP-POSTROENNYY-08", "phrase": "Я горжусь построенным отцом домом.", "fullAnalysis": "Strategic focus: Masculine instrumental long form. After горжусь the noun домом stands in the instrumental, and построенным takes the matching masculine instrumental ending to agree with it." },
+      { "id": "PT-PAP-POSTROENNYY-09", "phrase": "Мы говорим о построенном недавно стадионе.", "fullAnalysis": "Strategic focus: Masculine prepositional long form. The preposition о governs the prepositional case, so стадионе and построенном take prepositional endings and agree as the stadium that was built." },
+      { "id": "PT-PAP-POSTROENNYY-10", "phrase": "Я вижу построенную из кирпича стену.", "fullAnalysis": "Strategic focus: Feminine accusative long form. With the object стену the participle takes the accusative -ую, so построенную matches it in gender, number and case as the wall that was built." }
+    ]
+  }
+]

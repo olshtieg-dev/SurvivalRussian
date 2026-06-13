@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRP-UVAZHAEMYY",
+    "label": "Уважаемый",
+    "badge": "RESPECTED",
+    "description": "A 10-sentence card for уважаемый, the present passive participle of уважать.",
+    "missions": [
+      { "id": "PT-PRP-UVAZHAEMYY-01", "phrase": "Уважаемый профессор открыл собрание.", "fullAnalysis": "Strategic focus: Masculine nominative. Уважаемый comes from уважать — the first-conjugation form уважаем plus -ый. It agrees with masculine профессор and means the respected one, also a standard letter salutation." },
+      { "id": "PT-PRP-UVAZHAEMYY-02", "phrase": "Уважаемая гостья села в центре.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets уважаемая agree with гостья. The -ем- suffix marks the first conjugation, and the word names the honoured guest." },
+      { "id": "PT-PRP-UVAZHAEMYY-03", "phrase": "Уважаемое мнение звучит весомо.", "fullAnalysis": "Strategic focus: Neuter nominative. Уважаемое carries the neuter ending -ое to match мнение. As a present passive participle it means the opinion that is respected." },
+      { "id": "PT-PRP-UVAZHAEMYY-04", "phrase": "Уважаемые коллеги, начнём работу.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ые lets уважаемые agree with коллеги. This form has lexicalized as a fixed polite address meaning dear colleagues." },
+      { "id": "PT-PRP-UVAZHAEMYY-05", "phrase": "Я знаю уважаемого врача давно.", "fullAnalysis": "Strategic focus: Masculine accusative. With the animate masculine object врача the participle takes -ого, so уважаемого agrees as the doctor I know. Уважаемый врач equals врач, которого уважают." },
+      { "id": "PT-PRP-UVAZHAEMYY-06", "phrase": "Это слова уважаемого учёного.", "fullAnalysis": "Strategic focus: Masculine genitive. Уважаемого takes the masculine genitive ending to agree with учёного, marking the respected scholar as the source of the words." },
+      { "id": "PT-PRP-UVAZHAEMYY-07", "phrase": "Мы пишем письмо уважаемому судье.", "fullAnalysis": "Strategic focus: Masculine dative. The dative noun судье pulls уважаемому into the dative -ому ending. The word names the esteemed judge who receives the letter." },
+      { "id": "PT-PRP-UVAZHAEMYY-08", "phrase": "Она стала уважаемым человеком города.", "fullAnalysis": "Strategic focus: Masculine instrumental. After стала the predicate человеком stands in the instrumental, and уважаемым takes the matching instrumental ending to agree with it." },
+      { "id": "PT-PRP-UVAZHAEMYY-09", "phrase": "Мы говорим об уважаемой женщине.", "fullAnalysis": "Strategic focus: Feminine prepositional. The preposition об governs the prepositional case, so женщине and уважаемой both take prepositional endings as the respected woman we discuss." },
+      { "id": "PT-PRP-UVAZHAEMYY-10", "phrase": "Уважаемые читатели присылают много писем.", "fullAnalysis": "Strategic focus: Plural lexicalization. Уважаемые here is a polite adjective meaning dear, formed from уважаем with -ые. It agrees with plural читатели and shows the participle settled into everyday formulas." }
+    ]
+  }
+]

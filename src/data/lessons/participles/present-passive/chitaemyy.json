@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PRP-CHITAEMYY",
+    "label": "Читаемый",
+    "badge": "BEING READ",
+    "description": "A 10-sentence card for читаемый, the present passive participle of читать.",
+    "missions": [
+      { "id": "PT-PRP-CHITAEMYY-01", "phrase": "Читаемый текст лежит на столе.", "fullAnalysis": "Strategic focus: Masculine nominative. Читаемый comes from читать — the first-conjugation form читаем plus -ый. It agrees with masculine текст and means the text that is being read." },
+      { "id": "PT-PRP-CHITAEMYY-02", "phrase": "Читаемая лекция длится два часа.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая lets читаемая agree with лекция. The -ем- suffix marks the first conjugation, and the word names the lecture being read aloud." },
+      { "id": "PT-PRP-CHITAEMYY-03", "phrase": "Читаемое письмо взволновало всех.", "fullAnalysis": "Strategic focus: Neuter nominative. Читаемое carries the neuter ending -ое to match письмо. As a present passive participle it means the letter that is being read." },
+      { "id": "PT-PRP-CHITAEMYY-04", "phrase": "Читаемые газеты пахнут краской.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ые lets читаемые agree with газеты. The participle declines like an adjective and names the newspapers being read." },
+      { "id": "PT-PRP-CHITAEMYY-05", "phrase": "Мы обсуждаем широко читаемый журнал.", "fullAnalysis": "Strategic focus: Masculine accusative. With the inanimate masculine object журнал the participle keeps читаемый as the magazine we discuss. Читаемый журнал equals журнал, который читают — the one that people read." },
+      { "id": "PT-PRP-CHITAEMYY-06", "phrase": "Это автор часто читаемой книги.", "fullAnalysis": "Strategic focus: Feminine genitive. Читаемой takes the feminine genitive ending to agree with книги, marking the widely read book as the source. Here читаемый verges on the adjective popular." },
+      { "id": "PT-PRP-CHITAEMYY-07", "phrase": "Редактор рад легко читаемому шрифту.", "fullAnalysis": "Strategic focus: Masculine dative. The dative noun шрифту pulls читаемому into the dative -ому ending. The word names the easily readable font that pleases the editor." },
+      { "id": "PT-PRP-CHITAEMYY-08", "phrase": "Она восхищается часто читаемым автором.", "fullAnalysis": "Strategic focus: Masculine instrumental. After восхищается the noun автором stands in the instrumental, and читаемым takes the matching instrumental ending to agree with the widely read author." },
+      { "id": "PT-PRP-CHITAEMYY-09", "phrase": "Мы спорим о редко читаемом романе.", "fullAnalysis": "Strategic focus: Masculine prepositional. The preposition о governs the prepositional case, so романе and читаемом both take prepositional endings as the seldom-read novel we argue about." },
+      { "id": "PT-PRP-CHITAEMYY-10", "phrase": "Читаемые вслух стихи звучат живо.", "fullAnalysis": "Strategic focus: Plural nominative. Читаемые agrees with plural стихи through the ending -ые and means the verses being read aloud. The passive participle compresses стихи, которые читают into one word." }
+    ]
+  }
+]

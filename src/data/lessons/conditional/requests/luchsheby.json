@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-REQ-LUCHSHEBY",
+    "label": "Лучше бы",
+    "badge": "RATHER",
+    "description": "A 10-sentence card for the preference and impatience frames Лучше бы and Скорее бы.",
+    "missions": [
+      {
+        "id": "BY-REQ-LUCHSHEBY-01",
+        "phrase": "Лучше бы мы остались дома.",
+        "fullAnalysis": "Strategic focus: Preference with mild regret. The particle 'бы' pairs with the past 'остались' to express a wish that things had gone otherwise. 'Лучше' adds the sense that staying home would have been the better choice."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-02",
+        "phrase": "Скорее бы наступило лето.",
+        "fullAnalysis": "Strategic focus: бы plus past form. Even about the future, 'бы pairs with a past-tense verb', here 'наступило'. 'Скорее бы' turns this into an impatient wish for summer to arrive soon."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-03",
+        "phrase": "Лучше бы ты позвонил раньше.",
+        "fullAnalysis": "Strategic focus: Gentle reproach. The past 'позвонил' with 'бы' voices a softened regret about what was not done. 'Лучше' frames the earlier call as the preferable course, without a harsh accusation."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-04",
+        "phrase": "Скорее бы закончилась эта зима.",
+        "fullAnalysis": "Strategic focus: Impatience. 'Скорее бы' with the past 'закончилась' expresses eagerness for the winter to end. The conditional makes the longing softer than a flat statement of complaint."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-05",
+        "phrase": "Лучше бы я промолчал тогда.",
+        "fullAnalysis": "Strategic focus: Self-regret. The past 'промолчал' with 'бы' voices a wish to have stayed silent. 'Лучше' marks silence as the choice the speaker now prefers, in a tone of quiet regret."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-06",
+        "phrase": "Скорее бы он вернулся домой.",
+        "fullAnalysis": "Strategic focus: Anxious waiting. 'Скорее бы' with the past 'вернулся' expresses impatient hope for someone's return. The conditional softens the wish into longing rather than demand."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-07",
+        "phrase": "Лучше бы вы спросили меня.",
+        "fullAnalysis": "Strategic focus: Softened advice in hindsight. The past 'спросили' with 'бы' suggests the preferable action that was missed. 'Лучше' makes the point gently instead of blaming the hearer outright."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-08",
+        "phrase": "Скорее бы начались наши каникулы.",
+        "fullAnalysis": "Strategic focus: Eager anticipation. 'Скорее бы' with the past 'начались' voices impatience for the holidays to begin. The conditional keeps the wish warm and personal rather than blunt."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-09",
+        "phrase": "Лучше бы мы выбрали другой путь.",
+        "fullAnalysis": "Strategic focus: Regret over a choice. The past 'выбрали' with 'бы' frames a wish that a different road had been taken. 'Лучше' marks the alternative as preferable, softening the regret."
+      },
+      {
+        "id": "BY-REQ-LUCHSHEBY-10",
+        "phrase": "Скорее бы прошёл этот дождь.",
+        "fullAnalysis": "Strategic focus: Impatient wish. 'Скорее бы' with the past 'прошёл' expresses longing for the rain to stop soon. The conditional turns the complaint into a milder, hopeful wish."
+      }
+    ]
+  }
+]

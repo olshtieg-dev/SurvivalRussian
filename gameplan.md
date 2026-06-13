@@ -148,6 +148,15 @@ just a bigger pile of sentences.
 > checklist of what's demonstrated vs. missing — then we write sentences to fill the
 > *gaps*, rather than writing more sentences blindly. Vocabulary breadth is the
 > by-product; grammar-feature completeness is the goal.
+>
+> **✅ DONE 2026-06-12 — see [`grammar-coverage-audit.md`](grammar-coverage-audit.md).**
+> Audited all 1,308 files / 15,185 missions. Headline: the case system, agreement,
+> aspect, tense, imperative, negation, reflexives, and numeral-paucal are *exhaustive*
+> (Tier 1). The real gaps (Tier 3, near-zero) are **participles** (present-active: 0
+> in corpus), **gerunds/деепричастия** (3 incidental), **passive voice**,
+> **diminutive formation**, and **ordinal/collective numerals**; thin-but-present
+> (Tier 2) are **conditional `бы`** (~10) and the **motion-verb determinate/
+> indeterminate pair system**. Recommended gap-first build order is in the audit.
 
 **Plan:**
 - Keep the proven pipeline from `CLAUDE.md` (manifest → parallel-subagent lesson gen →

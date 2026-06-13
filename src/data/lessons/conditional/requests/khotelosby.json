@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-REQ-KHOTELOSBY",
+    "label": "Хотелось бы",
+    "badge": "I WISH",
+    "description": "A 10-sentence card for the impersonal wish frame (Мне) хотелось бы + infinitive.",
+    "missions": [
+      {
+        "id": "BY-REQ-KHOTELOSBY-01",
+        "phrase": "Мне хотелось бы немного отдохнуть.",
+        "fullAnalysis": "Strategic focus: Core impersonal wish. The dative 'мне' marks the experiencer while the impersonal 'хотелось' carries 'бы'. The infinitive 'отдохнуть' names the desire, framed as something gently felt rather than willed."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-02",
+        "phrase": "Мне хотелось бы вас поблагодарить.",
+        "fullAnalysis": "Strategic focus: бы plus past form. The neuter past 'хотелось' is the form 'бы pairs with a past-tense verb' requires. The dative experiencer 'мне' stays the grammatical owner of the wish to thank."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-03",
+        "phrase": "Нам хотелось бы узнать подробности.",
+        "fullAnalysis": "Strategic focus: Plural experiencer. The dative shifts to 'нам', yet the impersonal 'хотелось' stays neuter and bears 'бы'. The infinitive 'узнать' names what the speakers softly wish to learn."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-04",
+        "phrase": "Мне хотелось бы услышать ваше мнение.",
+        "fullAnalysis": "Strategic focus: Softening versus blunt present. Compared with the direct 'я хочу услышать', the impersonal 'хотелось бы' makes the wish delicate, as if the desire arose on its own."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-05",
+        "phrase": "Ему хотелось бы сменить работу.",
+        "fullAnalysis": "Strategic focus: Third-person experiencer. The dative 'ему' marks who feels the wish, while 'хотелось' stays impersonal and neuter with 'бы'. The infinitive 'сменить' states the quiet aspiration."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-06",
+        "phrase": "Мне хотелось бы жить у моря.",
+        "fullAnalysis": "Strategic focus: Wistful wish. The impersonal 'хотелось бы' with the infinitive 'жить' expresses a soft daydream. The dative 'мне' owns the feeling without claiming firm intention."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-07",
+        "phrase": "Нам хотелось бы больше времени.",
+        "fullAnalysis": "Strategic focus: Wish for a noun. Here the frame takes the noun phrase 'больше времени' instead of an infinitive. The neuter 'хотелось' plus 'бы' keeps the wish gentle and impersonal."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-08",
+        "phrase": "Мне хотелось бы верить вам.",
+        "fullAnalysis": "Strategic focus: Tentative trust. The infinitive 'верить' follows the frame, and the dative 'вам' marks its object. The impersonal 'хотелось бы' softens the statement into a careful, hopeful wish."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-09",
+        "phrase": "Ей хотелось бы научиться рисовать.",
+        "fullAnalysis": "Strategic focus: Feminine experiencer. The dative 'ей' marks who wishes, while 'хотелось' stays neuter and impersonal with 'бы'. The chain 'научиться рисовать' names the soft ambition."
+      },
+      {
+        "id": "BY-REQ-KHOTELOSBY-10",
+        "phrase": "Мне хотелось бы извиниться перед тобой.",
+        "fullAnalysis": "Strategic focus: Delicate apology. The impersonal 'хотелось бы' with the infinitive 'извиниться' makes the apology tentative and warm. The dative 'мне' owns the feeling without sounding forced."
+      }
+    ]
+  }
+]

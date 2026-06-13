@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAP-OTKRYTYY",
+    "label": "Открытый",
+    "badge": "OPENED",
+    "description": "A 10-sentence card for открытый, the past passive participle of открыть, with its short form открыт.",
+    "missions": [
+      { "id": "PT-PAP-OTKRYTYY-01", "phrase": "Открытый кем-то ящик стоял пустым.", "fullAnalysis": "Strategic focus: Masculine nominative long form. Открытый comes from the perfective открыть — the stem откры- plus the suffix -т- and an adjective ending. The long form agrees with masculine ящик." },
+      { "id": "PT-PAP-OTKRYTYY-02", "phrase": "Открытая настежь дверь хлопала на ветру.", "fullAnalysis": "Strategic focus: Feminine nominative long form. The long participle takes -ая to agree with дверь. Открытая дверь equals дверь, которую открыли — the door that someone opened." },
+      { "id": "PT-PAP-OTKRYTYY-03", "phrase": "Открытое окно впускало свежий воздух.", "fullAnalysis": "Strategic focus: Neuter nominative long form. Открытое carries the neuter ending -ое to match окно. The -т- suffix marks the result — the window that had been opened." },
+      { "id": "PT-PAP-OTKRYTYY-04", "phrase": "Открытые двери магазина манили прохожих.", "fullAnalysis": "Strategic focus: Plural nominative long form. The plural ending -ые lets открытые agree with двери as the opened doors of the shop." },
+      { "id": "PT-PAP-OTKRYTYY-05", "phrase": "Дверь открыта, можно входить смело.", "fullAnalysis": "Strategic focus: Feminine short form. The short predicative form открыта agrees only in feminine gender with дверь, with быть in the present understood. The door is open." },
+      { "id": "PT-PAP-OTKRYTYY-06", "phrase": "Музей был открыт для всех гостей.", "fullAnalysis": "Strategic focus: Masculine short form with быть. The short form открыт joins был to form a past passive: музей был открыт. It reports that the museum was open." },
+      { "id": "PT-PAP-OTKRYTYY-07", "phrase": "Все окна открыты ради свежести.", "fullAnalysis": "Strategic focus: Plural short form. The plural short form открыты agrees with окна and predicates the result with быть understood. The windows are all open." },
+      { "id": "PT-PAP-OTKRYTYY-08", "phrase": "Я вижу широко открытую входную дверь.", "fullAnalysis": "Strategic focus: Feminine accusative long form. With the object дверь the participle takes the accusative -ую, so открытую matches it in gender, number and case as the door that was opened." },
+      { "id": "PT-PAP-OTKRYTYY-09", "phrase": "Свежий ветер дул из открытого окна.", "fullAnalysis": "Strategic focus: Neuter genitive long form. Открытого takes the neuter genitive ending to agree with окна after из, marking the source — the window that was opened." },
+      { "id": "PT-PAP-OTKRYTYY-10", "phrase": "Мы стоим у открытой настежь калитки.", "fullAnalysis": "Strategic focus: Feminine genitive long form. After у the noun калитки stands in the genitive, and открытой takes the matching feminine genitive ending to agree with it." }
+    ]
+  }
+]

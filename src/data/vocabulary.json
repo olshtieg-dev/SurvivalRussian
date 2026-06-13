@@ -108229,5 +108229,3093 @@
     "analysis": "Nominative singular of feminine noun почта ('post office; mail').",
     "synonym": " ",
     "antonym": " "
+  },
+  "аварию": {
+    "cyrillic": "аварию",
+    "literal": "accident",
+    "natural": "An accident.",
+    "analysis": "Accusative f. sg. of авария ('accident, crash'). Direct object: увидеть аварию ('to see the accident').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "видимой": {
+    "cyrillic": "видимой",
+    "literal": "visible",
+    "natural": "Visible.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of видимый (present passive participle of видеть, 'visible'). Agrees with a fem. head, here genitive.",
+    "synonym": "заметной",
+    "antonym": "невидимой"
+  },
+  "вора": {
+    "cyrillic": "вора",
+    "literal": "thief",
+    "natural": "A thief.",
+    "analysis": "Gen./acc. m. sg. of вор ('thief'). Animate, so accusative copies genitive: искать вора ('to look for the thief').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "говорящая": {
+    "cyrillic": "говорящая",
+    "literal": "speaking",
+    "natural": "Speaking.",
+    "analysis": "Nom. f. sg. of говорящий (present active participle of говорить, 'speaking'). Agrees with a fem. nominative head.",
+    "synonym": " ",
+    "antonym": "молчащая"
+  },
+  "говорящий": {
+    "cyrillic": "говорящий",
+    "literal": "speaking",
+    "natural": "Speaking.",
+    "analysis": "Nom. m. sg. of говорящий (present active participle of говорить, 'speaking'). Agrees with a masc. nominative head.",
+    "synonym": " ",
+    "antonym": "молчащий"
+  },
+  "жалобу": {
+    "cyrillic": "жалобу",
+    "literal": "complaint",
+    "natural": "A complaint.",
+    "analysis": "Accusative f. sg. of жалоба ('complaint'). Direct object: написать жалобу ('to write a complaint').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "живущие": {
+    "cyrillic": "живущие",
+    "literal": "living",
+    "natural": "Those living.",
+    "analysis": "Nom. pl. of живущий (present active participle of жить, 'living'). Agrees with a plural nominative head.",
+    "synonym": "проживающие",
+    "antonym": " "
+  },
+  "закрытого": {
+    "cyrillic": "закрытого",
+    "literal": "closed",
+    "natural": "Closed.",
+    "analysis": "Gen./animate-acc. m./n. sg. of закрытый (past passive participle of закрыть, perf., 'closed'). Here genitive: из-за закрытого окна.",
+    "synonym": " ",
+    "antonym": "открытого"
+  },
+  "идущего": {
+    "cyrillic": "идущего",
+    "literal": "walking, going",
+    "natural": "Walking.",
+    "analysis": "Gen./animate-acc. m./n. sg. of идущий (present active participle of идти, 'walking'). Here animate acc.: обогнал идущего старика.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "идущим": {
+    "cyrillic": "идущим",
+    "literal": "walking, going",
+    "natural": "Walking.",
+    "analysis": "Instr. m./n. sg. (or dat. pl.) of идущий (present active participle of идти, 'walking'). Here instr.: рядом с идущим солдатом.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "изучаемый": {
+    "cyrillic": "изучаемый",
+    "literal": "studied",
+    "natural": "Studied.",
+    "analysis": "Nom./inanimate-acc. m. sg. of изучаемый (present passive participle of изучать, 'being studied'). Agrees with a masc. head.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "критике": {
+    "cyrillic": "критике",
+    "literal": "critic",
+    "natural": "The critic.",
+    "analysis": "Prep. m. sg. of критик ('critic'). Here prepositional: спорить о критике ('to argue about the critic').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "купившие": {
+    "cyrillic": "купившие",
+    "literal": "having bought",
+    "natural": "Those who bought.",
+    "analysis": "Nom. pl. of купивший (past active participle of купить, perf., 'who bought'). Agrees with a plural nominative head.",
+    "synonym": " ",
+    "antonym": "продавшие"
+  },
+  "любящей": {
+    "cyrillic": "любящей",
+    "literal": "loving",
+    "natural": "Loving.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of любящий (present active participle of любить, 'loving'). Here gen.: забота любящей жены.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "мнимой": {
+    "cyrillic": "мнимой",
+    "literal": "imaginary",
+    "natural": "Imaginary.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of мнимый (adj., 'imaginary, sham'). Here instr. predicate: оказалась мнимой.",
+    "synonym": "ложной",
+    "antonym": "настоящей"
+  },
+  "называемому": {
+    "cyrillic": "называемому",
+    "literal": "so-called",
+    "natural": "So-called.",
+    "analysis": "Dat. m./n. sg. of называемый (present passive participle of называть). In так называемому ('to the so-called').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "написавшей": {
+    "cyrillic": "написавшей",
+    "literal": "having written",
+    "natural": "Who wrote.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of написавший (past active participle of написать, perf., 'who wrote'). Here instr.: девушкой, написавшей.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "написанная": {
+    "cyrillic": "написанная",
+    "literal": "written",
+    "natural": "Written.",
+    "analysis": "Long nom. f. sg. of написанный (past passive participle of написать, perf., 'written'). Agrees with a fem. head.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "напротив": {
+    "cyrillic": "напротив",
+    "literal": "opposite",
+    "natural": "Opposite.",
+    "analysis": "Adverb/preposition ('opposite, across from'); with genitive as prep. Also 'on the contrary' as a discourse marker.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "объяснимо": {
+    "cyrillic": "объяснимо",
+    "literal": "explicable",
+    "natural": "Explainable.",
+    "analysis": "Short n. sg. of объяснимый (present passive participle of объяснить, 'explicable'). Predicative: чудо легко объяснимо.",
+    "synonym": "понятно",
+    "antonym": "необъяснимо"
+  },
+  "пахнут": {
+    "cyrillic": "пахнут",
+    "literal": "they smell",
+    "natural": "They smell.",
+    "analysis": "3pl present of пахнуть (impf., 'to smell of'). The source of the odour takes instrumental: пахнут краской.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "покупательница": {
+    "cyrillic": "покупательница",
+    "literal": "female customer",
+    "natural": "A customer.",
+    "analysis": "Nom. f. sg. of покупательница ('female buyer/customer'); feminine of покупатель.",
+    "synonym": " ",
+    "antonym": "продавщица"
+  },
+  "построенное": {
+    "cyrillic": "построенное",
+    "literal": "built",
+    "natural": "Built.",
+    "analysis": "Long nom./acc. n. sg. of построенный (past passive participle of построить, perf., 'built'). Agrees with a neut. head: здание.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "потёрлась": {
+    "cyrillic": "потёрлась",
+    "literal": "got worn",
+    "natural": "Got worn.",
+    "analysis": "Past f. sg. of потереться (perf., reflexive, 'to become worn/rubbed'). The -ся marks the intransitive sense.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "пришедшей": {
+    "cyrillic": "пришедшей",
+    "literal": "having arrived",
+    "natural": "Who came.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of пришедший (past active participle of прийти, perf., 'who arrived'). Here dat.: девушке, пришедшей.",
+    "synonym": " ",
+    "antonym": "ушедшей"
+  },
+  "проверена": {
+    "cyrillic": "проверена",
+    "literal": "checked",
+    "natural": "Checked.",
+    "analysis": "Short f. sg. past passive participle of проверить (perf., 'to check'). Predicative: работа проверена ('work is checked').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прохожих": {
+    "cyrillic": "прохожих",
+    "literal": "passers-by",
+    "natural": "Passers-by.",
+    "analysis": "Gen./acc. pl. of прохожий ('passer-by', substantivized adj.). Animate, so acc. copies gen.: манили прохожих.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прочитанный": {
+    "cyrillic": "прочитанный",
+    "literal": "read (finished)",
+    "natural": "Read.",
+    "analysis": "Long nom./inanimate-acc. m. sg. of прочитанный (past passive participle of прочитать, perf., 'read'). Agrees with a masc. head.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "работающего": {
+    "cyrillic": "работающего",
+    "literal": "working",
+    "natural": "Working.",
+    "analysis": "Gen./animate-acc. m./n. sg. of работающий (present active participle of работать, 'working'). Here animate acc.: уважаю работающего соседа.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "рабочему": {
+    "cyrillic": "рабочему",
+    "literal": "worker",
+    "natural": "The worker.",
+    "analysis": "Dat. m. sg. of рабочий ('worker', substantivized adj.). Here dat.: подойди к рабочему ('go up to the worker').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сделавшего": {
+    "cyrillic": "сделавшего",
+    "literal": "having done",
+    "natural": "Who did.",
+    "analysis": "Gen./animate-acc. m./n. sg. of сделавший (past active participle of сделать, perf., 'who did'). Here animate acc.: человека, сделавшего.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сделавших": {
+    "cyrillic": "сделавших",
+    "literal": "having done",
+    "natural": "Who did.",
+    "analysis": "Gen./acc. pl. of сделавший (past active participle of сделать, perf., 'who did'). Animate acc. copies gen.: людей, сделавших.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сделанный": {
+    "cyrillic": "сделанный",
+    "literal": "made",
+    "natural": "Made.",
+    "analysis": "Long nom./inanimate-acc. m. sg. of сделанный (past passive participle of сделать, perf., 'made'). Agrees with a masc. head: стол.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "стадионе": {
+    "cyrillic": "стадионе",
+    "literal": "stadium",
+    "natural": "The stadium.",
+    "analysis": "Prep. m. sg. of стадион ('stadium'). Here prepositional: о стадионе ('about the stadium').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "уважаемое": {
+    "cyrillic": "уважаемое",
+    "literal": "respected",
+    "natural": "Respected.",
+    "analysis": "Nom./acc. n. sg. of уважаемый (present passive participle of уважать, 'respected'). Agrees with a neut. head: мнение.",
+    "synonym": "почитаемое",
+    "antonym": " "
+  },
+  "увидевшего": {
+    "cyrillic": "увидевшего",
+    "literal": "having seen",
+    "natural": "Who saw.",
+    "analysis": "Gen./animate-acc. m./n. sg. of увидевший (past active participle of увидеть, perf., 'who saw'). Here animate acc.: человека, увидевшего.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "увидевших": {
+    "cyrillic": "увидевших",
+    "literal": "having seen",
+    "natural": "Who saw.",
+    "analysis": "Gen./acc. pl. of увидевший (past active participle of увидеть, perf., 'who saw'). Here gen.: истории людей, увидевших.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ушедшие": {
+    "cyrillic": "ушедшие",
+    "literal": "having left",
+    "natural": "Those who left.",
+    "analysis": "Nom. pl. of ушедший (past active participle of уйти, perf., 'who left'). Agrees with a plural nominative head: гости.",
+    "synonym": " ",
+    "antonym": "пришедшие"
+  },
+  "читаемом": {
+    "cyrillic": "читаемом",
+    "literal": "read",
+    "natural": "Being read.",
+    "analysis": "Prep. m./n. sg. of читаемый (present passive participle of читать, 'being read'). Here prep.: о читаемом романе.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "читающее": {
+    "cyrillic": "читающее",
+    "literal": "reading",
+    "natural": "Reading.",
+    "analysis": "Nom./acc. n. sg. of читающий (present active participle of читать, 'reading'). Agrees with a neut. head: дитя.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "эссе": {
+    "cyrillic": "эссе",
+    "literal": "essay",
+    "natural": "An essay.",
+    "analysis": "Noun, n., indeclinable ('essay'). Borrowed from French; identical in all cases and numbers.",
+    "synonym": "сочинение",
+    "antonym": " "
+  },
+  "благодарим": {
+    "cyrillic": "благодарим",
+    "literal": "we thank",
+    "natural": "We thank.",
+    "analysis": "1pl present of благодарить (impf., 'to thank'). Governs the accusative of the person thanked; за + acc. for the reason.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "видимом": {
+    "cyrillic": "видимом",
+    "literal": "visible",
+    "natural": "Visible.",
+    "analysis": "Prepositional m./n. sg. of видимый (present passive participle of видеть, 'to see'), used adjectivally: 'visible'. Agrees with a m./n. head.",
+    "synonym": " ",
+    "antonym": "невидимом"
+  },
+  "воскресеньям": {
+    "cyrillic": "воскресеньям",
+    "literal": "on Sundays",
+    "natural": "On Sundays.",
+    "analysis": "Dative pl. of воскресенье (n., 'Sunday'). The distributive по + dat. ('по воскресеньям') means 'on Sundays, every Sunday'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "говорящего": {
+    "cyrillic": "говорящего",
+    "literal": "speaking",
+    "natural": "Speaking.",
+    "analysis": "Genitive/accusative m./n. sg. of говорящий (present active participle of говорить, 'to speak'). Agrees with an animate masculine head in the accusative.",
+    "synonym": " ",
+    "antonym": "молчащего"
+  },
+  "говорящим": {
+    "cyrillic": "говорящим",
+    "literal": "speaking",
+    "natural": "Speaking.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of говорящий (present active participle of говорить, 'to speak'). Here instr., agreeing with a m./n. head.",
+    "synonym": " ",
+    "antonym": "молчащим"
+  },
+  "живо": {
+    "cyrillic": "живо",
+    "literal": "vividly",
+    "natural": "Vividly.",
+    "analysis": "Adverb / short n. sg. of живой ('lively, vivid'). As an adverb: 'vividly, briskly, animatedly'.",
+    "synonym": "ярко",
+    "antonym": "вяло"
+  },
+  "живущий": {
+    "cyrillic": "живущий",
+    "literal": "living",
+    "natural": "Living.",
+    "analysis": "Nominative m. sg. of живущий (present active participle of жить, 'to live'). Agrees with a m. sg. head: 'one who lives'.",
+    "synonym": "проживающий",
+    "antonym": " "
+  },
+  "закрытое": {
+    "cyrillic": "закрытое",
+    "literal": "closed",
+    "natural": "Closed.",
+    "analysis": "Nominative/accusative n. sg. of закрытый (past passive participle of закрыть, perf., 'to close'). Long form; agrees with a n. head.",
+    "synonym": "запертое",
+    "antonym": "открытое"
+  },
+  "идущее": {
+    "cyrillic": "идущее",
+    "literal": "going",
+    "natural": "Going.",
+    "analysis": "Nominative/accusative n. sg. of идущий (present active participle of идти, 'to go'). Agrees with a n. head: 'that which is going'.",
+    "synonym": "движущееся",
+    "antonym": " "
+  },
+  "изучаемая": {
+    "cyrillic": "изучаемая",
+    "literal": "being studied",
+    "natural": "Being studied.",
+    "analysis": "Nominative f. sg. of изучаемый (present passive participle of изучать, impf., 'to study'). Long form; agrees with a f. head: 'being studied'.",
+    "synonym": "исследуемая",
+    "antonym": " "
+  },
+  "изучаемым": {
+    "cyrillic": "изучаемым",
+    "literal": "being studied",
+    "natural": "Being studied.",
+    "analysis": "Instrumental m./n. sg. (or dative pl.) of изучаемый (present passive participle of изучать, impf., 'to study'). Here instr., agreeing with a m./n. head.",
+    "synonym": "исследуемым",
+    "antonym": " "
+  },
+  "купившая": {
+    "cyrillic": "купившая",
+    "literal": "who bought (f.)",
+    "natural": "Who bought.",
+    "analysis": "Nominative f. sg. of купивший (past active participle of купить, perf., 'to buy'). Agrees with a f. head: 'who bought'.",
+    "synonym": "приобретшая",
+    "antonym": "продавшая"
+  },
+  "купивший": {
+    "cyrillic": "купивший",
+    "literal": "who bought (m.)",
+    "natural": "Who bought.",
+    "analysis": "Nominative m. sg. of купивший (past active participle of купить, perf., 'to buy'). Agrees with a m. head: 'who bought'.",
+    "synonym": "приобретший",
+    "antonym": "продавший"
+  },
+  "любящем": {
+    "cyrillic": "любящем",
+    "literal": "loving",
+    "natural": "Loving.",
+    "analysis": "Prepositional m./n. sg. of любящий (present active participle of любить, 'to love'), used adjectivally: 'loving'. Agrees with a m./n. head.",
+    "synonym": "нежном",
+    "antonym": "ненавидящем"
+  },
+  "награду": {
+    "cyrillic": "награду",
+    "literal": "award, reward",
+    "natural": "An award.",
+    "analysis": "Accusative sg. of награда (f., 'award, reward'). Direct object of verbs like вручить, дать, получить.",
+    "synonym": "приз",
+    "antonym": "наказание"
+  },
+  "называемые": {
+    "cyrillic": "называемые",
+    "literal": "so-called",
+    "natural": "So-called.",
+    "analysis": "Nominative/accusative pl. of называемый (present passive participle of называть, impf., 'to call, name'). In 'так называемые' = 'so-called'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "написавшем": {
+    "cyrillic": "написавшем",
+    "literal": "who wrote",
+    "natural": "Who wrote.",
+    "analysis": "Prepositional m./n. sg. of написавший (past active participle of написать, perf., 'to write'). Agrees with a m./n. head: 'who wrote'.",
+    "synonym": "сочинившем",
+    "antonym": " "
+  },
+  "написанное": {
+    "cyrillic": "написанное",
+    "literal": "written",
+    "natural": "Written.",
+    "analysis": "Nominative/accusative n. sg. of написанный (past passive participle of написать, perf., 'to write'). Long form; agrees with a n. head.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "настежь": {
+    "cyrillic": "настежь",
+    "literal": "wide open",
+    "natural": "Wide open.",
+    "analysis": "Adverb, 'wide open' (of doors/windows). Fixed collocation with открыть/распахнуть: открыть дверь настежь.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "опоздала": {
+    "cyrillic": "опоздала",
+    "literal": "was late (f.)",
+    "natural": "She was late.",
+    "analysis": "Past f. sg. of опоздать (perf., 'to be late'). Takes на + acc. for the event: опоздать на встречу.",
+    "synonym": "задержалась",
+    "antonym": "успела"
+  },
+  "пенсию": {
+    "cyrillic": "пенсию",
+    "literal": "pension",
+    "natural": "A pension.",
+    "analysis": "Accusative sg. of пенсия (f., 'pension'). In 'уйти/выйти на пенсию' (na + acc.) = 'to retire'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "покупателю": {
+    "cyrillic": "покупателю",
+    "literal": "to the buyer",
+    "natural": "To the buyer.",
+    "analysis": "Dative sg. of покупатель (m., 'buyer, customer'). Indirect object: дать скидку покупателю.",
+    "synonym": "клиенту",
+    "antonym": "продавцу"
+  },
+  "построенном": {
+    "cyrillic": "построенном",
+    "literal": "built",
+    "natural": "Built.",
+    "analysis": "Prepositional m./n. sg. of построенный (past passive participle of построить, perf., 'to build'). Long form; agrees with a m./n. head.",
+    "synonym": "возведённом",
+    "antonym": "разрушенном"
+  },
+  "поэму": {
+    "cyrillic": "поэму",
+    "literal": "poem (narrative)",
+    "natural": "A poem.",
+    "analysis": "Accusative sg. of поэма (f., 'narrative poem'). Direct object: читать поэму. Cf. стихотворение for a short poem.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "пришедшем": {
+    "cyrillic": "пришедшем",
+    "literal": "who came",
+    "natural": "Who came.",
+    "analysis": "Prepositional m./n. sg. of пришедший (past active participle of прийти, perf., 'to come, arrive'). Agrees with a m./n. head.",
+    "synonym": "прибывшем",
+    "antonym": "ушедшем"
+  },
+  "прогрессе": {
+    "cyrillic": "прогрессе",
+    "literal": "progress",
+    "natural": "Progress.",
+    "analysis": "Prepositional sg. of прогресс (m., 'progress'). Used after о/в: говорить о прогрессе.",
+    "synonym": "развитии",
+    "antonym": "регрессе"
+  },
+  "прочитана": {
+    "cyrillic": "прочитана",
+    "literal": "has been read (f.)",
+    "natural": "Has been read.",
+    "analysis": "Short (predicative) f. sg. past passive participle of прочитать (perf., 'to read'). Used with быть. Cf. long form прочитанная.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прочитано": {
+    "cyrillic": "прочитано",
+    "literal": "has been read (n.)",
+    "natural": "Has been read.",
+    "analysis": "Short (predicative) n. sg. past passive participle of прочитать (perf., 'to read'). Used with быть. Cf. long form прочитанное.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "работающее": {
+    "cyrillic": "работающее",
+    "literal": "working, running",
+    "natural": "Working.",
+    "analysis": "Nominative/accusative n. sg. of работающий (present active participle of работать, 'to work'). Agrees with a n. head: 'working, running'.",
+    "synonym": "функционирующее",
+    "antonym": " "
+  },
+  "рабочими": {
+    "cyrillic": "рабочими",
+    "literal": "by workers",
+    "natural": "By workers.",
+    "analysis": "Instrumental pl. of рабочий (substantivized adj., m., 'worker'). Agent of a passive construction: построенная рабочими.",
+    "synonym": "трудящимися",
+    "antonym": " "
+  },
+  "сделавшее": {
+    "cyrillic": "сделавшее",
+    "literal": "which made",
+    "natural": "Which made.",
+    "analysis": "Nominative/accusative n. sg. of сделавший (past active participle of сделать, perf., 'to do, make'). Agrees with a n. head: 'which made'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сделанная": {
+    "cyrillic": "сделанная",
+    "literal": "done, made (f.)",
+    "natural": "Done.",
+    "analysis": "Nominative f. sg. of сделанный (past passive participle of сделать, perf., 'to do, make'). Long form; agrees with a f. head.",
+    "synonym": "выполненная",
+    "antonym": " "
+  },
+  "сделаны": {
+    "cyrillic": "сделаны",
+    "literal": "are done (pl.)",
+    "natural": "Are done.",
+    "analysis": "Short (predicative) pl. past passive participle of сделать (perf., 'to do, make'). Used with быть. Cf. long form сделанные.",
+    "synonym": "выполнены",
+    "antonym": " "
+  },
+  "стар": {
+    "cyrillic": "стар",
+    "literal": "old (m.)",
+    "natural": "Old.",
+    "analysis": "Short (predicative) m. sg. of старый ('old'). Predicate adjective: дом стар. Cf. long form старый.",
+    "synonym": "ветх",
+    "antonym": "молод"
+  },
+  "уважаемой": {
+    "cyrillic": "уважаемой",
+    "literal": "respected (f.)",
+    "natural": "Respected.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of уважаемый (present passive participle of уважать, used adjectivally: 'respected'). Agrees with a f. head.",
+    "synonym": "почтенной",
+    "antonym": " "
+  },
+  "увидевшее": {
+    "cyrillic": "увидевшее",
+    "literal": "which saw",
+    "natural": "Which saw.",
+    "analysis": "Nominative/accusative n. sg. of увидевший (past active participle of увидеть, perf., 'to see, catch sight of'). Agrees with a n. head.",
+    "synonym": "заметившее",
+    "antonym": " "
+  },
+  "ушедшая": {
+    "cyrillic": "ушедшая",
+    "literal": "who left (f.)",
+    "natural": "Who left.",
+    "analysis": "Nominative f. sg. of ушедший (past active participle of уйти, perf., 'to leave, go away'). Agrees with a f. head: 'who left'.",
+    "synonym": " ",
+    "antonym": "пришедшая"
+  },
+  "ушедший": {
+    "cyrillic": "ушедший",
+    "literal": "who left (m.)",
+    "natural": "Who left.",
+    "analysis": "Nominative m. sg. of ушедший (past active participle of уйти, perf., 'to leave, go away'). Agrees with a m. head: 'who left'.",
+    "synonym": " ",
+    "antonym": "пришедший"
+  },
+  "читаемому": {
+    "cyrillic": "читаемому",
+    "literal": "readable",
+    "natural": "Readable.",
+    "analysis": "Dative m./n. sg. of читаемый (present passive participle of читать, impf., 'to read'), used adjectivally: 'readable, legible'. Agrees with a m./n. head.",
+    "synonym": "разборчивому",
+    "antonym": " "
+  },
+  "читающей": {
+    "cyrillic": "читающей",
+    "literal": "reading (f.)",
+    "natural": "Reading.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of читающий (present active participle of читать, 'to read'). Here gen., agreeing with a f. head: 'of the reading (girl)'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "вернули": {
+    "cyrillic": "вернули",
+    "literal": "returned",
+    "natural": "They returned it.",
+    "analysis": "3pl past of вернуть (perf., 'to return/give back'). Past tense marks number, not person; subject understood from context.",
+    "synonym": "возвратили",
+    "antonym": "забрали"
+  },
+  "видимому": {
+    "cyrillic": "видимому",
+    "literal": "visible",
+    "natural": "Visible / apparent.",
+    "analysis": "Dat. m./n. sg. of видимый (present passive participle of видеть, 'visible/apparent'). Agrees with a dative masc./neut. head.",
+    "synonym": "заметному",
+    "antonym": "невидимому"
+  },
+  "впускало": {
+    "cyrillic": "впускало",
+    "literal": "let in",
+    "natural": "It let in.",
+    "analysis": "3sg n. past of впускать (impf., 'to let in/admit'). Neuter ending agrees with a neuter subject (окно).",
+    "synonym": "пропускало",
+    "antonym": "не пускало"
+  },
+  "говорящее": {
+    "cyrillic": "говорящее",
+    "literal": "talking",
+    "natural": "Talking.",
+    "analysis": "Nom./inanim-acc. n. sg. of говорящий (present active participle of говорить, 'speaking/talking'). Agrees with a neuter head.",
+    "synonym": " ",
+    "antonym": "молчащее"
+  },
+  "гостья": {
+    "cyrillic": "гостья",
+    "literal": "guest (f.)",
+    "natural": "A female guest.",
+    "analysis": "Nom. sg. of гостья (f. noun, 'female guest'); feminine counterpart of гость.",
+    "synonym": "посетительница",
+    "antonym": "хозяйка"
+  },
+  "живущая": {
+    "cyrillic": "живущая",
+    "literal": "living (f.)",
+    "natural": "Living / who lives.",
+    "analysis": "Nom. f. sg. of живущий (present active participle of жить, 'living/who lives'). Agrees with a feminine head.",
+    "synonym": "проживающая",
+    "antonym": " "
+  },
+  "живущим": {
+    "cyrillic": "живущим",
+    "literal": "living",
+    "natural": "To/with the one living.",
+    "analysis": "Dat. pl. or instr. m./n. sg. of живущий (present active participle of жить, 'living/who lives'). Here instr. m. sg., agreeing with врачом.",
+    "synonym": "проживающим",
+    "antonym": " "
+  },
+  "закрытую": {
+    "cyrillic": "закрытую",
+    "literal": "closed",
+    "natural": "Closed.",
+    "analysis": "Acc. f. sg. of закрытый (past passive participle of закрыть, perf., 'closed/shut'). Agrees with a feminine accusative head (дверь).",
+    "synonym": "запертую",
+    "antonym": "открытую"
+  },
+  "идущей": {
+    "cyrillic": "идущей",
+    "literal": "walking (f.)",
+    "natural": "Of the one walking.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of идущий (present active participle of идти, 'walking/going'). Here gen. f. sg., agreeing with женщины.",
+    "synonym": "шагающей",
+    "antonym": "стоящей"
+  },
+  "изучаемое": {
+    "cyrillic": "изучаемое",
+    "literal": "studied",
+    "natural": "Studied / being studied.",
+    "analysis": "Nom./inanim-acc. n. sg. of изучаемый (present passive participle of изучать, 'studied/being studied'). Agrees with a neuter head.",
+    "synonym": "исследуемое",
+    "antonym": " "
+  },
+  "калитки": {
+    "cyrillic": "калитки",
+    "literal": "wicket gate",
+    "natural": "Of the gate.",
+    "analysis": "Gen. sg. (or nom./acc. pl.) of калитка (f. noun, 'wicket gate'). Here gen. sg. after у ('by the gate').",
+    "synonym": "дверцы",
+    "antonym": " "
+  },
+  "купившего": {
+    "cyrillic": "купившего",
+    "literal": "who bought",
+    "natural": "Who bought.",
+    "analysis": "Genitive/accusative m./n. sg. of купивший (past active participle of купить, 'who bought'). Agrees with an animate masculine head in the accusative.",
+    "synonym": "приобретшего",
+    "antonym": "продавшего"
+  },
+  "купивших": {
+    "cyrillic": "купивших",
+    "literal": "who bought (pl.)",
+    "natural": "Of those who bought.",
+    "analysis": "Gen./acc. pl. of купивший (past active participle of купить, perf., 'who bought'). Here gen. pl., agreeing with людей.",
+    "synonym": "приобретших",
+    "antonym": "продавших"
+  },
+  "любящему": {
+    "cyrillic": "любящему",
+    "literal": "loving",
+    "natural": "To the loving one.",
+    "analysis": "Dat. m./n. sg. of любящий (present active participle of любить, 'loving'). Agrees with a dative masc. head (деду).",
+    "synonym": "обожающему",
+    "antonym": "ненавидящему"
+  },
+  "надуманными": {
+    "cyrillic": "надуманными",
+    "literal": "contrived",
+    "natural": "Far-fetched.",
+    "analysis": "Instr. pl. of надуманный (past passive participle of надумать, perf., 'contrived/far-fetched'). Predicate instr. after кажутся.",
+    "synonym": "вымышленными",
+    "antonym": "обоснованными"
+  },
+  "называемый": {
+    "cyrillic": "называемый",
+    "literal": "called",
+    "natural": "So-called.",
+    "analysis": "Nom. m. sg. of называемый (present passive participle of называть, 'called/named'). In так называемый = 'so-called'.",
+    "synonym": "именуемый",
+    "antonym": " "
+  },
+  "написавшему": {
+    "cyrillic": "написавшему",
+    "literal": "who wrote",
+    "natural": "To the one who wrote.",
+    "analysis": "Dat. m./n. sg. of написавший (past active participle of написать, perf., 'who wrote'). Agrees with a dative masc. head (учёному).",
+    "synonym": "сочинившему",
+    "antonym": " "
+  },
+  "написанной": {
+    "cyrillic": "написанной",
+    "literal": "written",
+    "natural": "Written.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of написанный (past passive participle of написать, perf., 'written'). Here instr. f. sg., agreeing with книгой.",
+    "synonym": "созданной",
+    "antonym": " "
+  },
+  "неизвестным": {
+    "cyrillic": "неизвестным",
+    "literal": "unknown",
+    "natural": "Unknown.",
+    "analysis": "Instr. m./n. sg. or dat. pl. of неизвестный (adj., 'unknown'). Here predicate instr. sg. after осталось.",
+    "synonym": "незнакомым",
+    "antonym": "известным"
+  },
+  "опубликована": {
+    "cyrillic": "опубликована",
+    "literal": "published",
+    "natural": "Has been published.",
+    "analysis": "Short (predicative) f. sg. past passive participle of опубликовать (perf., 'to publish'). Used with быть: 'is/was published'.",
+    "synonym": "издана",
+    "antonym": " "
+  },
+  "перечитываю": {
+    "cyrillic": "перечитываю",
+    "literal": "reread",
+    "natural": "I reread.",
+    "analysis": "1sg present of перечитывать (impf., 'to reread'). The prefix пере- conveys repetition/redoing the action.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "понятны": {
+    "cyrillic": "понятны",
+    "literal": "clear",
+    "natural": "Are clear.",
+    "analysis": "Short (predicative) pl. of понятный (adj., 'clear/understandable'). Predicate form: 'are clear/understandable'.",
+    "synonym": "ясны",
+    "antonym": "непонятны"
+  },
+  "построенную": {
+    "cyrillic": "построенную",
+    "literal": "built",
+    "natural": "Built.",
+    "analysis": "Acc. f. sg. of построенный (past passive participle of построить, perf., 'built'). Agrees with a feminine accusative head (стену).",
+    "synonym": "возведённую",
+    "antonym": "разрушенную"
+  },
+  "премию": {
+    "cyrillic": "премию",
+    "literal": "prize",
+    "natural": "A prize / bonus.",
+    "analysis": "Acc. sg. of премия (f. noun, 'prize/award/bonus'). Direct object of дали ('gave the prize').",
+    "synonym": "награду",
+    "antonym": "штраф"
+  },
+  "пришедшему": {
+    "cyrillic": "пришедшему",
+    "literal": "who came",
+    "natural": "To the one who came.",
+    "analysis": "Dat. m./n. sg. of пришедший (past active participle of прийти, perf., 'who came/arrived'). Agrees with a dative masc. head (мужчине).",
+    "synonym": "прибывшему",
+    "antonym": "ушедшему"
+  },
+  "прогрессу": {
+    "cyrillic": "прогрессу",
+    "literal": "progress",
+    "natural": "To progress.",
+    "analysis": "Dat. sg. of прогресс (m. noun, 'progress'). Dative as the object of радуемся ('we rejoice at progress').",
+    "synonym": "развитию",
+    "antonym": "регрессу"
+  },
+  "прочитанная": {
+    "cyrillic": "прочитанная",
+    "literal": "read",
+    "natural": "Read (through).",
+    "analysis": "Nom. f. sg. of прочитанный (past passive participle of прочитать, perf., 'read through'). Agrees with a feminine head (книга).",
+    "synonym": " ",
+    "antonym": "непрочитанная"
+  },
+  "прочитаны": {
+    "cyrillic": "прочитаны",
+    "literal": "read",
+    "natural": "Have been read.",
+    "analysis": "Short (predicative) pl. past passive participle of прочитать (perf., 'to read through'). Used with быть: 'are/were read'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "работающей": {
+    "cyrillic": "работающей",
+    "literal": "working (f.)",
+    "natural": "Of the one working.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of работающий (present active participle of работать, 'working'). Here gen. f. sg., agreeing with сестры.",
+    "synonym": "трудящейся",
+    "antonym": "отдыхающей"
+  },
+  "радуемся": {
+    "cyrillic": "радуемся",
+    "literal": "we rejoice",
+    "natural": "We are glad.",
+    "analysis": "1pl present of радоваться (impf., reflexive, 'to rejoice/be glad'). Governs the dative of what one is glad about.",
+    "synonym": "ликуем",
+    "antonym": "огорчаемся"
+  },
+  "сделавшей": {
+    "cyrillic": "сделавшей",
+    "literal": "who made (f.)",
+    "natural": "Of the one who made.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of сделавший (past active participle of сделать, perf., 'who made/did'). Here instr. f. sg., agreeing with сестрой.",
+    "synonym": "совершившей",
+    "antonym": " "
+  },
+  "сделанное": {
+    "cyrillic": "сделанное",
+    "literal": "done",
+    "natural": "Done.",
+    "analysis": "Nom./inanim-acc. n. sg. of сделанный (past passive participle of сделать, perf., 'done/made'). Agrees with a neuter head (задание).",
+    "synonym": "выполненное",
+    "antonym": "невыполненное"
+  },
+  "сзади": {
+    "cyrillic": "сзади",
+    "literal": "from behind",
+    "natural": "From behind.",
+    "analysis": "Adverb, 'behind/from behind'. Can also act as a preposition governing the genitive.",
+    "synonym": "позади",
+    "antonym": "спереди"
+  },
+  "строки": {
+    "cyrillic": "строки",
+    "literal": "lines",
+    "natural": "Lines (of text).",
+    "analysis": "Gen. sg. or nom./acc. pl. of строка (f. noun, 'line of text'). Here acc. pl., direct object of написавшего.",
+    "synonym": "строчки",
+    "antonym": " "
+  },
+  "уважаемому": {
+    "cyrillic": "уважаемому",
+    "literal": "respected",
+    "natural": "To the respected one.",
+    "analysis": "Dat. m./n. sg. of уважаемый (present passive participle of уважать, 'respected'). Agrees with a dative masc. head (судье).",
+    "synonym": "почитаемому",
+    "antonym": "презираемому"
+  },
+  "увидевшей": {
+    "cyrillic": "увидевшей",
+    "literal": "who saw (f.)",
+    "natural": "Of the one who saw.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of увидевший (past active participle of увидеть, perf., 'who saw'). Here instr. f. sg., agreeing with женщиной.",
+    "synonym": "заметившей",
+    "antonym": " "
+  },
+  "ушедшего": {
+    "cyrillic": "ушедшего",
+    "literal": "who left",
+    "natural": "Who left.",
+    "analysis": "Gen./acc. m./n. sg. of ушедший (past active participle of уйти, perf., 'who left/departed'). Agrees with an animate masc. acc. head (директора).",
+    "synonym": "покинувшего",
+    "antonym": "пришедшего"
+  },
+  "ушедших": {
+    "cyrillic": "ушедших",
+    "literal": "who left (pl.)",
+    "natural": "Of those who left.",
+    "analysis": "Gen./acc. pl. of ушедший (past active participle of уйти, perf., 'who left/departed'). Here gen. pl., agreeing with солдат.",
+    "synonym": "покинувших",
+    "antonym": "пришедших"
+  },
+  "читаемые": {
+    "cyrillic": "читаемые",
+    "literal": "read",
+    "natural": "Read / being read.",
+    "analysis": "Nom./inanim-acc. pl. of читаемый (present passive participle of читать, 'read/being read'). Agrees with a plural head (газеты).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "читающем": {
+    "cyrillic": "читающем",
+    "literal": "reading",
+    "natural": "About the one reading.",
+    "analysis": "Prep. m./n. sg. of читающий (present active participle of читать, 'reading'). Agrees with a prepositional masc. head (соседе).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "весомо": {
+    "cyrillic": "весомо",
+    "literal": "weightily",
+    "natural": "It carries weight.",
+    "analysis": "Adverb / short n. sg. of весомый ('weighty, significant'). Here adverbial, modifying звучит ('sounds weighty/significant').",
+    "synonym": "значительно",
+    "antonym": "легковесно"
+  },
+  "видимые": {
+    "cyrillic": "видимые",
+    "literal": "visible",
+    "natural": "Visible ones.",
+    "analysis": "Nom./inanim-acc. pl. of видимый (present passive participle of видеть, impf., 'visible/that can be seen'). Now lexicalized as adj.",
+    "synonym": "заметные",
+    "antonym": "невидимые"
+  },
+  "вспоминают": {
+    "cyrillic": "вспоминают",
+    "literal": "they recall",
+    "natural": "They remember.",
+    "analysis": "3pl present of вспоминать (impf., 'to recall, recollect'). Governs acc. of the thing remembered.",
+    "synonym": "помнят",
+    "antonym": "забывают"
+  },
+  "говорящей": {
+    "cyrillic": "говорящей",
+    "literal": "speaking (f.)",
+    "natural": "Of the speaking woman.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of говорящий (present active participle of говорить, impf., 'speaking/who speaks'). Here gen. agreeing with женщины.",
+    "synonym": "разговаривающей",
+    "antonym": "молчащей"
+  },
+  "грант": {
+    "cyrillic": "грант",
+    "literal": "grant",
+    "natural": "A grant.",
+    "analysis": "Nom./acc. sg. of грант (m. noun, 'grant, funding award'). Here acc. as object of выдали.",
+    "synonym": "субсидия",
+    "antonym": " "
+  },
+  "живущего": {
+    "cyrillic": "живущего",
+    "literal": "living (m.)",
+    "natural": "Living far away.",
+    "analysis": "Gen./anim-acc. m./n. sg. of живущий (present active participle of жить, impf., 'living/who lives'). Here acc. agreeing with дядю.",
+    "synonym": "проживающего",
+    "antonym": " "
+  },
+  "забыло": {
+    "cyrillic": "забыло",
+    "literal": "forgot (n.)",
+    "natural": "It forgot.",
+    "analysis": "N. sg. past of забыть (perf., 'to forget'). Agrees with neuter subject (дитя). Governs про + acc. or acc./o + prep.",
+    "synonym": "запамятовало",
+    "antonym": "вспомнило"
+  },
+  "закрытыми": {
+    "cyrillic": "закрытыми",
+    "literal": "closed (pl.)",
+    "natural": "With closed gates.",
+    "analysis": "Instr. pl. of закрытый (past passive participle of закрыть, perf., 'closed/shut'). Here instr. after перед, agreeing with воротами.",
+    "synonym": "запертыми",
+    "antonym": "открытыми"
+  },
+  "идущем": {
+    "cyrillic": "идущем",
+    "literal": "going (m./n.)",
+    "natural": "About the one going ahead.",
+    "analysis": "Prep. m./n. sg. of идущий (present active participle of идти, impf., 'going/who goes'). Here prep. agreeing with поезде.",
+    "synonym": "движущемся",
+    "antonym": "стоящем"
+  },
+  "изучаемой": {
+    "cyrillic": "изучаемой",
+    "literal": "studied (f.)",
+    "natural": "Of the studied area.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of изучаемый (present passive participle of изучать, impf., 'being studied'). Here gen. agreeing with местности.",
+    "synonym": "исследуемой",
+    "antonym": " "
+  },
+  "кем то": {
+    "cyrillic": "кем то",
+    "literal": "by someone",
+    "natural": "By someone.",
+    "analysis": "Instr. sg. of indefinite pronoun кто-то ('someone'). Instr. marks the agent ('by someone'). Properly hyphenated кем-то.",
+    "synonym": "кем-нибудь",
+    "antonym": "никем"
+  },
+  "купившее": {
+    "cyrillic": "купившее",
+    "literal": "having bought (n.)",
+    "natural": "The one that bought.",
+    "analysis": "Nom./acc. n. sg. of купивший (past active participle of купить, perf., 'who bought'). Here agreeing with neuter лицо.",
+    "synonym": "приобретшее",
+    "antonym": "продавшее"
+  },
+  "любые": {
+    "cyrillic": "любые",
+    "literal": "any",
+    "natural": "Any whatsoever.",
+    "analysis": "Nom./inanim-acc. pl. of определит. pronoun любой ('any, whichever'). Here acc. agreeing with ошибки.",
+    "synonym": "всякие",
+    "antonym": " "
+  },
+  "любящие": {
+    "cyrillic": "любящие",
+    "literal": "loving (pl.)",
+    "natural": "Loving ones.",
+    "analysis": "Nom./inanim-acc. pl. of любящий (present active participle of любить, impf., 'loving/who love'). Here nom. agreeing with родители.",
+    "synonym": "заботливые",
+    "antonym": "ненавидящие"
+  },
+  "называемая": {
+    "cyrillic": "называемая",
+    "literal": "so-called (f.)",
+    "natural": "So-called.",
+    "analysis": "Nom. f. sg. of называемый (present passive participle of называть, impf., 'so-called'). Often in так называемый. Agrees with свобода.",
+    "synonym": "именуемая",
+    "antonym": " "
+  },
+  "называемым": {
+    "cyrillic": "называемым",
+    "literal": "so-called (m./instr.)",
+    "natural": "A so-called one.",
+    "analysis": "Instr. m./n. sg. or dat. pl. of называемый (present passive participle of называть, impf., 'so-called'). Here instr. m. sg. after стал.",
+    "synonym": "именуемым",
+    "antonym": " "
+  },
+  "написавшие": {
+    "cyrillic": "написавшие",
+    "literal": "having written (pl.)",
+    "natural": "The ones who wrote.",
+    "analysis": "Nom./inanim-acc. pl. of написавший (past active participle of написать, perf., 'who wrote'). Here nom. agreeing with дети.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "написанном": {
+    "cyrillic": "написанном",
+    "literal": "written (m./n.)",
+    "natural": "About the written one.",
+    "analysis": "Prep. m./n. sg. of написанный (past passive participle of написать, perf., 'written'). Here prep. agreeing with романе.",
+    "synonym": "созданном",
+    "antonym": " "
+  },
+  "обложка": {
+    "cyrillic": "обложка",
+    "literal": "cover",
+    "natural": "A book cover.",
+    "analysis": "Nom. sg. of обложка (f. noun, 'cover, jacket' of a book). Subject of потёрлась.",
+    "synonym": "переплёт",
+    "antonym": " "
+  },
+  "открытого": {
+    "cyrillic": "открытого",
+    "literal": "open (m./n.)",
+    "natural": "Of the open window.",
+    "analysis": "Gen./anim-acc. m./n. sg. of открытый (past passive participle of открыть, perf., 'open/opened'). Here gen. after из, agreeing with окна.",
+    "synonym": "распахнутого",
+    "antonym": "закрытого"
+  },
+  "повторяем": {
+    "cyrillic": "повторяем",
+    "literal": "we repeat",
+    "natural": "We review.",
+    "analysis": "1pl present of повторять (impf., 'to repeat, revise'). Governs acc. of the material reviewed.",
+    "synonym": "повторяемся",
+    "antonym": " "
+  },
+  "попросили": {
+    "cyrillic": "попросили",
+    "literal": "asked (pl.)",
+    "natural": "They asked.",
+    "analysis": "Pl. past of попросить (perf., 'to ask, request'). Governs gen. or acc. of the thing requested (прощения).",
+    "synonym": "запросили",
+    "antonym": " "
+  },
+  "построенные": {
+    "cyrillic": "построенные",
+    "literal": "built (pl.)",
+    "natural": "Built ones.",
+    "analysis": "Nom./inanim-acc. pl. of построенный (past passive participle of построить, perf., 'built'). Here nom. agreeing with мосты.",
+    "synonym": "возведённые",
+    "antonym": "разрушенные"
+  },
+  "присылают": {
+    "cyrillic": "присылают",
+    "literal": "they send",
+    "natural": "They send.",
+    "analysis": "3pl present of присылать (impf., 'to send, dispatch'). Governs acc. of the thing sent.",
+    "synonym": "отправляют",
+    "antonym": "получают"
+  },
+  "пришедшие": {
+    "cyrillic": "пришедшие",
+    "literal": "having arrived (pl.)",
+    "natural": "Those who came.",
+    "analysis": "Nom./inanim-acc. pl. of пришедший (past active participle of прийти, perf., 'who came, arrived'). Here nom. agreeing with люди.",
+    "synonym": "прибывшие",
+    "antonym": "ушедшие"
+  },
+  "продан": {
+    "cyrillic": "продан",
+    "literal": "sold",
+    "natural": "It is sold.",
+    "analysis": "Short (predicative) m. sg. past passive participle of продать (perf., 'to sell'). Used with быть. Cf. long проданный.",
+    "synonym": " ",
+    "antonym": "куплен"
+  },
+  "прочитанное": {
+    "cyrillic": "прочитанное",
+    "literal": "read (n.)",
+    "natural": "The read letter.",
+    "analysis": "Nom./acc. n. sg. of прочитанный (past passive participle of прочитать, perf., 'read through'). Here agreeing with neuter письмо.",
+    "synonym": " ",
+    "antonym": "непрочитанное"
+  },
+  "прощает": {
+    "cyrillic": "прощает",
+    "literal": "forgives",
+    "natural": "It forgives.",
+    "analysis": "3sg present of прощать (impf., 'to forgive'). Governs dat. of person and acc. of thing forgiven.",
+    "synonym": "извиняет",
+    "antonym": "осуждает"
+  },
+  "работающему": {
+    "cyrillic": "работающему",
+    "literal": "working (m./n.)",
+    "natural": "To the working one.",
+    "analysis": "Dat. m./n. sg. of работающий (present active participle of работать, impf., 'working/who works'). Here dat. agreeing with инженеру.",
+    "synonym": "трудящемуся",
+    "antonym": "отдыхающему"
+  },
+  "раскрывают": {
+    "cyrillic": "раскрывают",
+    "literal": "they reveal",
+    "natural": "They reveal.",
+    "analysis": "3pl present of раскрывать (impf., 'to reveal, disclose'). Governs acc. of the thing revealed.",
+    "synonym": "открывают",
+    "antonym": "скрывают"
+  },
+  "сделавшем": {
+    "cyrillic": "сделавшем",
+    "literal": "having made (m./n.)",
+    "natural": "About the one who made it.",
+    "analysis": "Prep. m./n. sg. of сделавший (past active participle of сделать, perf., 'who made/did'). Here prep. agreeing with мастере.",
+    "synonym": "изготовившем",
+    "antonym": " "
+  },
+  "сделанной": {
+    "cyrillic": "сделанной",
+    "literal": "done (f.)",
+    "natural": "By the done work.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of сделанный (past passive participle of сделать, perf., 'done, made'). Here instr. agreeing with работой.",
+    "synonym": "выполненной",
+    "antonym": " "
+  },
+  "соединили": {
+    "cyrillic": "соединили",
+    "literal": "joined (pl.)",
+    "natural": "They connected.",
+    "analysis": "Pl. past of соединить (perf., 'to join, connect'). Governs acc. of the things joined.",
+    "synonym": "связали",
+    "antonym": "разъединили"
+  },
+  "стучу": {
+    "cyrillic": "стучу",
+    "literal": "I knock",
+    "natural": "I knock.",
+    "analysis": "1sg present of стучать (impf., 'to knock, bang'). Governs в + acc. for what is knocked on (в дверь).",
+    "synonym": "колочу",
+    "antonym": " "
+  },
+  "уважаемые": {
+    "cyrillic": "уважаемые",
+    "literal": "respected (pl.)",
+    "natural": "Dear (respected) ones.",
+    "analysis": "Nom./inanim-acc. pl. of уважаемый (present passive participle of уважать, impf., 'respected, esteemed'). Common in salutations.",
+    "synonym": "почтенные",
+    "antonym": "презираемые"
+  },
+  "увидевшем": {
+    "cyrillic": "увидевшем",
+    "literal": "having seen (m./n.)",
+    "natural": "About the one who saw.",
+    "analysis": "Prep. m./n. sg. of увидевший (past active participle of увидеть, perf., 'who saw, caught sight of'). Here prep. agreeing with мальчике.",
+    "synonym": "заметившем",
+    "antonym": " "
+  },
+  "ушедшее": {
+    "cyrillic": "ушедшее",
+    "literal": "departed (n.)",
+    "natural": "The departed one.",
+    "analysis": "Nom./acc. n. sg. of ушедший (past active participle of уйти, perf., 'who left, gone'). Here agreeing with neuter поколение.",
+    "synonym": "минувшее",
+    "antonym": "пришедшее"
+  },
+  "хлопала": {
+    "cyrillic": "хлопала",
+    "literal": "banged (f.)",
+    "natural": "It was banging.",
+    "analysis": "F. sg. past of хлопать (impf., 'to bang, slam, flap'). Agrees with f. subject (дверь).",
+    "synonym": "стучала",
+    "antonym": " "
+  },
+  "читаемый": {
+    "cyrillic": "читаемый",
+    "literal": "read (m.)",
+    "natural": "The text being read.",
+    "analysis": "Nom./inanim-acc. m. sg. of читаемый (present passive participle of читать, impf., 'being read, legible'). Here nom. agreeing with текст.",
+    "synonym": "читабельный",
+    "antonym": " "
+  },
+  "читающему": {
+    "cyrillic": "читающему",
+    "literal": "reading (m./n.)",
+    "natural": "To the reading one.",
+    "analysis": "Dat. m./n. sg. of читающий (present active participle of читать, impf., 'reading/who reads'). Here dat. agreeing with ученику.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "взволновало": {
+    "cyrillic": "взволновало",
+    "literal": "stirred, agitated",
+    "natural": "It moved everyone.",
+    "analysis": "N. sg. past tense of взволновать (perf., 'to stir/agitate emotionally'). Agrees with a neuter subject (письмо).",
+    "synonym": "потрясло",
+    "antonym": "успокоило"
+  },
+  "видимый": {
+    "cyrillic": "видимый",
+    "literal": "visible",
+    "natural": "Visible to the eye.",
+    "analysis": "Adjective (present passive participle of видеть), 'visible'. Declines like an adjective; often figurative ('apparent').",
+    "synonym": "заметный",
+    "antonym": "невидимый"
+  },
+  "встают": {
+    "cyrillic": "встают",
+    "literal": "they get up",
+    "natural": "They rise.",
+    "analysis": "3pl present of вставать (impf., 'to get up/rise'). Note the stem loses -ва- in the present tense (встаю, встаёшь).",
+    "synonym": "поднимаются",
+    "antonym": "ложатся"
+  },
+  "говорящем": {
+    "cyrillic": "говорящем",
+    "literal": "speaking, talking",
+    "natural": "About the talking one.",
+    "analysis": "Prep. m./n. sg. of говорящий (present active participle of говорить, impf., 'who speaks/talks'). Declines like an adjective.",
+    "synonym": "разговаривающем",
+    "antonym": "молчащем"
+  },
+  "даётся": {
+    "cyrillic": "даётся",
+    "literal": "is given; comes easily/hard",
+    "natural": "It comes to one.",
+    "analysis": "3sg present of даваться (impf., reflexive of давать, 'to be given'). Idiomatic: 'comes easily/hard to someone' (+ dat.).",
+    "synonym": "предоставляется",
+    "antonym": "отнимается"
+  },
+  "живущее": {
+    "cyrillic": "живущее",
+    "literal": "living, that lives",
+    "natural": "The living thing.",
+    "analysis": "N. nom./acc. sg. of живущий (present active participle of жить, impf., 'who/that lives'). Declines like an adjective.",
+    "synonym": "обитающее",
+    "antonym": "мёртвое"
+  },
+  "забыто": {
+    "cyrillic": "забыто",
+    "literal": "forgotten",
+    "natural": "It is forgotten.",
+    "analysis": "Short n. sg. past passive participle of забыть (perf., 'to forget'), 'forgotten'. Predicative; agrees with a neuter subject.",
+    "synonym": "позабыто",
+    "antonym": "запомнено"
+  },
+  "замерло": {
+    "cyrillic": "замерло",
+    "literal": "froze, went still",
+    "natural": "It froze still.",
+    "analysis": "N. sg. past tense of замереть (perf., 'to freeze/go still'). Agrees with a neuter subject (существо).",
+    "synonym": "застыло",
+    "antonym": "зашевелилось"
+  },
+  "идущему": {
+    "cyrillic": "идущему",
+    "literal": "walking, going",
+    "natural": "To the one walking.",
+    "analysis": "Dat. m./n. sg. of идущий (present active participle of идти, impf., 'who walks/goes'). Declines like an adjective.",
+    "synonym": "шагающему",
+    "antonym": "стоящему"
+  },
+  "изучаемом": {
+    "cyrillic": "изучаемом",
+    "literal": "being studied",
+    "natural": "About the studied one.",
+    "analysis": "Prep. m./n. sg. of изучаемый (present passive participle of изучать, impf., 'being studied'). Declines like an adjective.",
+    "synonym": "исследуемом",
+    "antonym": " "
+  },
+  "кирпича": {
+    "cyrillic": "кирпича",
+    "literal": "of brick",
+    "natural": "Of a brick.",
+    "analysis": "Genitive sg. of кирпич (m. noun, 'brick'). Used here after из 'out of' to denote material.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "купившей": {
+    "cyrillic": "купившей",
+    "literal": "who bought (f.)",
+    "natural": "The one who bought it.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of купивший (past active participle of купить, perf., 'who bought'). Declines like an adjective.",
+    "synonym": "приобретшей",
+    "antonym": "продавшей"
+  },
+  "любящая": {
+    "cyrillic": "любящая",
+    "literal": "loving (f.)",
+    "natural": "A loving woman.",
+    "analysis": "F. nom. sg. of любящий (present active participle of любить, impf., 'who loves'). Declines like an adjective.",
+    "synonym": "нежная",
+    "antonym": "ненавидящая"
+  },
+  "любящий": {
+    "cyrillic": "любящий",
+    "literal": "loving (m.)",
+    "natural": "A loving man.",
+    "analysis": "M. nom. sg. of любящий (present active participle of любить, impf., 'who loves'). Declines like an adjective.",
+    "synonym": "нежный",
+    "antonym": "ненавидящий"
+  },
+  "называемое": {
+    "cyrillic": "называемое",
+    "literal": "so-called",
+    "natural": "The so-called thing.",
+    "analysis": "N. nom./acc. sg. of называемый (present passive participle of называть, impf., 'called/named'). With так = 'so-called'.",
+    "synonym": "именуемое",
+    "antonym": " "
+  },
+  "написавшая": {
+    "cyrillic": "написавшая",
+    "literal": "who wrote (f.)",
+    "natural": "The one who wrote it.",
+    "analysis": "F. nom. sg. of написавший (past active participle of написать, perf., 'who wrote'). Declines like an adjective.",
+    "synonym": "сочинившая",
+    "antonym": " "
+  },
+  "написавший": {
+    "cyrillic": "написавший",
+    "literal": "who wrote (m.)",
+    "natural": "The one who wrote it.",
+    "analysis": "M. nom. sg. of написавший (past active participle of написать, perf., 'who wrote'). Declines like an adjective.",
+    "synonym": "сочинивший",
+    "antonym": " "
+  },
+  "написанную": {
+    "cyrillic": "написанную",
+    "literal": "written (f. acc.)",
+    "natural": "The written one.",
+    "analysis": "F. acc. sg. of написанный (past passive participle of написать, perf., 'written'). Declines like an adjective.",
+    "synonym": "созданную",
+    "antonym": " "
+  },
+  "обманул": {
+    "cyrillic": "обманул",
+    "literal": "deceived (m.)",
+    "natural": "He fooled them.",
+    "analysis": "M. sg. past tense of обмануть (perf., 'to deceive/fool'). Pairs with impf. обманывать.",
+    "synonym": "одурачил",
+    "antonym": " "
+  },
+  "открытой": {
+    "cyrillic": "открытой",
+    "literal": "open (f.)",
+    "natural": "By the open one.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of открытый (past passive participle of открыть, perf., 'opened/open'). Declines like an adjective.",
+    "synonym": "раскрытой",
+    "antonym": "закрытой"
+  },
+  "поддержат": {
+    "cyrillic": "поддержат",
+    "literal": "they will support",
+    "natural": "They will back you.",
+    "analysis": "3pl future of поддержать (perf., 'to support/back up'). Pairs with impf. поддерживать.",
+    "synonym": "помогут",
+    "antonym": "бросят"
+  },
+  "попрощалась": {
+    "cyrillic": "попрощалась",
+    "literal": "said goodbye (f.)",
+    "natural": "She said goodbye.",
+    "analysis": "F. sg. past tense of попрощаться (perf., reflexive, 'to say goodbye'). The -ся suffix marks the reciprocal sense.",
+    "synonym": "распрощалась",
+    "antonym": "поздоровалась"
+  },
+  "построенный": {
+    "cyrillic": "построенный",
+    "literal": "built",
+    "natural": "A built house.",
+    "analysis": "Long m. nom. sg. past passive participle of построить (perf., 'to build'), 'built'. Declines like an adjective.",
+    "synonym": "возведённый",
+    "antonym": "разрушенный"
+  },
+  "пришедшая": {
+    "cyrillic": "пришедшая",
+    "literal": "who came (f.)",
+    "natural": "The one who came.",
+    "analysis": "F. nom. sg. of пришедший (past active participle of прийти, 'who came'; -ш- stem from пришёл). Declines like an adjective.",
+    "synonym": "явившаяся",
+    "antonym": "ушедшая"
+  },
+  "пришедший": {
+    "cyrillic": "пришедший",
+    "literal": "who came (m.)",
+    "natural": "The one who came.",
+    "analysis": "M. nom. sg. of пришедший (past active participle of прийти, 'who came'; -ш- stem from пришёл). Declines like an adjective.",
+    "synonym": "явившийся",
+    "antonym": "ушедший"
+  },
+  "проникал": {
+    "cyrillic": "проникал",
+    "literal": "penetrated, came through (m.)",
+    "natural": "It came through.",
+    "analysis": "M. sg. past tense of проникать (impf., 'to penetrate/seep through'). Pairs with perf. проникнуть.",
+    "synonym": "просачивался",
+    "antonym": " "
+  },
+  "прочитанной": {
+    "cyrillic": "прочитанной",
+    "literal": "read (f.)",
+    "natural": "By the one read.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of прочитанный (past passive participle of прочитать, perf., 'read'). Declines like an adjective.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "пускала": {
+    "cyrillic": "пускала",
+    "literal": "let in (f.)",
+    "natural": "It let us in.",
+    "analysis": "F. sg. past tense of пускать (impf., 'to let in/allow through'). Pairs with perf. пустить.",
+    "synonym": "впускала",
+    "antonym": "задерживала"
+  },
+  "работающие": {
+    "cyrillic": "работающие",
+    "literal": "working (pl.)",
+    "natural": "The working people.",
+    "analysis": "Pl. nom. of работающий (present active participle of работать, impf., 'who works'). Declines like an adjective.",
+    "synonym": "трудящиеся",
+    "antonym": "отдыхающие"
+  },
+  "свежести": {
+    "cyrillic": "свежести",
+    "literal": "of freshness",
+    "natural": "For the freshness.",
+    "analysis": "Gen./dat./prep. sg. of свежесть (f. noun, 'freshness'). Here genitive after ради 'for the sake of'.",
+    "synonym": "прохлады",
+    "antonym": "затхлости"
+  },
+  "сделавшему": {
+    "cyrillic": "сделавшему",
+    "literal": "who made (m. dat.)",
+    "natural": "To the one who made it.",
+    "analysis": "Dat. m./n. sg. of сделавший (past active participle of сделать, perf., 'who made/did'). Declines like an adjective.",
+    "synonym": "изготовившему",
+    "antonym": " "
+  },
+  "сделанном": {
+    "cyrillic": "сделанном",
+    "literal": "made, done (prep.)",
+    "natural": "About the choice made.",
+    "analysis": "Prep. m./n. sg. of сделанный (past passive participle of сделать, perf., 'done/made'). Declines like an adjective.",
+    "synonym": "совершённом",
+    "antonym": " "
+  },
+  "соседка": {
+    "cyrillic": "соседка",
+    "literal": "neighbor (f.)",
+    "natural": "A woman neighbor.",
+    "analysis": "F. noun (nom. sg.), 'neighbor'. Female counterpart of сосед; -ка suffix marks the feminine.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "торопятся": {
+    "cyrillic": "торопятся",
+    "literal": "they hurry",
+    "natural": "They rush along.",
+    "analysis": "3pl present of торопиться (impf., reflexive, 'to hurry/rush'). The -ся suffix marks the intransitive sense.",
+    "synonym": "спешат",
+    "antonym": "медлят"
+  },
+  "уважаемый": {
+    "cyrillic": "уважаемый",
+    "literal": "respected, esteemed",
+    "natural": "An esteemed man.",
+    "analysis": "M. nom. sg. of уважаемый (present passive participle of уважать, impf., 'respected'). Also a formal salutation ('Dear...').",
+    "synonym": "почтенный",
+    "antonym": "презираемый"
+  },
+  "увидевшему": {
+    "cyrillic": "увидевшему",
+    "literal": "who saw (m. dat.)",
+    "natural": "To the one who saw it.",
+    "analysis": "Dat. m./n. sg. of увидевший (past active participle of увидеть, perf., 'who saw'). Declines like an adjective.",
+    "synonym": "заметившему",
+    "antonym": " "
+  },
+  "ушедшей": {
+    "cyrillic": "ушедшей",
+    "literal": "who left (f.)",
+    "natural": "The one who left.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of ушедший (past active participle of уйти, 'who left'; -ш- stem from ушёл). Declines like an adjective.",
+    "synonym": "покинувшей",
+    "antonym": "пришедшей"
+  },
+  "читаемая": {
+    "cyrillic": "читаемая",
+    "literal": "being read (f.)",
+    "natural": "The lecture being read.",
+    "analysis": "F. nom. sg. of читаемый (present passive participle of читать, impf., 'being read'). Declines like an adjective.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "читаемым": {
+    "cyrillic": "читаемым",
+    "literal": "read, popular (m. instr.)",
+    "natural": "By a much-read author.",
+    "analysis": "Instr. m./n. sg. (or dat. pl.) of читаемый (present passive participle of читать, impf., 'read/popular'). Declines like an adjective.",
+    "synonym": "популярным",
+    "antonym": " "
+  },
+  "читающие": {
+    "cyrillic": "читающие",
+    "literal": "reading (pl.)",
+    "natural": "The reading students.",
+    "analysis": "Pl. nom. of читающий (present active participle of читать, impf., 'who reads'). Declines like an adjective.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "видимая": {
+    "cyrillic": "видимая",
+    "literal": "visible",
+    "natural": "Visible.",
+    "analysis": "Nom. f. sg. of видимый (present passive participle of видеть, 'seen/visible'). Used adjectivally.",
+    "synonym": "заметная",
+    "antonym": "невидимая"
+  },
+  "видимым": {
+    "cyrillic": "видимым",
+    "literal": "visible",
+    "natural": "Visible.",
+    "analysis": "Instr. m./n. sg. (or dat. pl.) of видимый (present passive participle of видеть, 'visible/apparent').",
+    "synonym": "заметным",
+    "antonym": "невидимым"
+  },
+  "въезжают": {
+    "cyrillic": "въезжают",
+    "literal": "they move in",
+    "natural": "They move in.",
+    "analysis": "3rd pers. pl. present of въезжать (impf., 'to drive in / move into [a dwelling]').",
+    "synonym": "заселяются",
+    "antonym": "выезжают"
+  },
+  "говорящему": {
+    "cyrillic": "говорящему",
+    "literal": "speaking",
+    "natural": "To the one speaking.",
+    "analysis": "Dat. m./n. sg. of говорящий (present active participle of говорить, 'speaking/who speaks').",
+    "synonym": " ",
+    "antonym": "молчащему"
+  },
+  "девочке": {
+    "cyrillic": "девочке",
+    "literal": "girl",
+    "natural": "To the girl.",
+    "analysis": "Dat./prep. sg. of девочка (f. noun, 'girl'). Stem in -к-; dat. and prep. coincide.",
+    "synonym": " ",
+    "antonym": "мальчику"
+  },
+  "живущей": {
+    "cyrillic": "живущей",
+    "literal": "living",
+    "natural": "Living.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of живущий (present active participle of жить, 'living/who lives').",
+    "synonym": "проживающей",
+    "antonym": " "
+  },
+  "заводят": {
+    "cyrillic": "заводят",
+    "literal": "they get",
+    "natural": "They get [a pet].",
+    "analysis": "3rd pers. pl. present of заводить (impf., 'to acquire/get [an animal]; to start [a mechanism]').",
+    "synonym": "приобретают",
+    "antonym": " "
+  },
+  "зонты": {
+    "cyrillic": "зонты",
+    "literal": "umbrellas",
+    "natural": "Umbrellas.",
+    "analysis": "Nom./acc. pl. of зонт (m. noun, 'umbrella'). Inanimate, so acc. pl. matches nom.",
+    "synonym": "зонтики",
+    "antonym": " "
+  },
+  "идущие": {
+    "cyrillic": "идущие",
+    "literal": "walking",
+    "natural": "The ones walking.",
+    "analysis": "Nom./inanim.-acc. pl. of идущий (present active participle of идти, 'walking/going').",
+    "synonym": "шагающие",
+    "antonym": "стоящие"
+  },
+  "изучаемому": {
+    "cyrillic": "изучаемому",
+    "literal": "studied",
+    "natural": "To the studied [topic].",
+    "analysis": "Dat. m./n. sg. of изучаемый (present passive participle of изучать, 'being studied').",
+    "synonym": "исследуемому",
+    "antonym": " "
+  },
+  "клиента": {
+    "cyrillic": "клиента",
+    "literal": "client",
+    "natural": "The client.",
+    "analysis": "Gen./acc. sg. of клиент (m. animate noun, 'client/customer'). Animate, so acc. matches gen.",
+    "synonym": "покупателя",
+    "antonym": " "
+  },
+  "купившем": {
+    "cyrillic": "купившем",
+    "literal": "who bought",
+    "natural": "Who bought.",
+    "analysis": "Prep. m./n. sg. of купивший (past active participle of купить, 'who bought').",
+    "synonym": "приобретшем",
+    "antonym": "продавшем"
+  },
+  "любящего": {
+    "cyrillic": "любящего",
+    "literal": "loving",
+    "natural": "Loving.",
+    "analysis": "Gen./acc. m. sg. of любящий (present active participle of любить, 'loving/who loves').",
+    "synonym": " ",
+    "antonym": "ненавидящего"
+  },
+  "манили": {
+    "cyrillic": "манили",
+    "literal": "beckoned",
+    "natural": "Beckoned.",
+    "analysis": "Past pl. of манить (impf., 'to beckon/lure/entice'). Agrees with a plural subject.",
+    "synonym": "влекли, привлекали",
+    "antonym": "отталкивали"
+  },
+  "называемой": {
+    "cyrillic": "называемой",
+    "literal": "so-called",
+    "natural": "Called.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of называемый (present passive participle of называть, 'called/named').",
+    "synonym": "именуемой",
+    "antonym": " "
+  },
+  "написавшего": {
+    "cyrillic": "написавшего",
+    "literal": "who wrote",
+    "natural": "Who wrote.",
+    "analysis": "Gen./acc. m. sg. of написавший (past active participle of написать, 'who wrote').",
+    "synonym": "сочинившего",
+    "antonym": " "
+  },
+  "написавших": {
+    "cyrillic": "написавших",
+    "literal": "who wrote",
+    "natural": "Who wrote.",
+    "analysis": "Gen./acc./prep. pl. of написавший (past active participle of написать, 'who wrote').",
+    "synonym": "сочинивших",
+    "antonym": " "
+  },
+  "написанные": {
+    "cyrillic": "написанные",
+    "literal": "written",
+    "natural": "Written.",
+    "analysis": "Nom./inanim.-acc. pl. of написанный (past passive participle of написать, 'written'). -нн- type.",
+    "synonym": "записанные",
+    "antonym": " "
+  },
+  "обнимает": {
+    "cyrillic": "обнимает",
+    "literal": "embraces",
+    "natural": "Embraces.",
+    "analysis": "3rd pers. sg. present of обнимать (impf., 'to embrace/hug').",
+    "synonym": "обхватывает",
+    "antonym": "отталкивает"
+  },
+  "открытые": {
+    "cyrillic": "открытые",
+    "literal": "open",
+    "natural": "Open.",
+    "analysis": "Nom./inanim.-acc. pl. of открытый (past passive participle of открыть, 'opened/open'). -т- type.",
+    "synonym": "распахнутые",
+    "antonym": "закрытые"
+  },
+  "пожарных": {
+    "cyrillic": "пожарных",
+    "literal": "firefighters",
+    "natural": "Firefighters.",
+    "analysis": "Gen./acc./prep. pl. of пожарный (adjectival m. noun, 'firefighter'). Declines like an adjective.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "попугае": {
+    "cyrillic": "попугае",
+    "literal": "parrot",
+    "natural": "About the parrot.",
+    "analysis": "Prep. sg. of попугай (m. noun, 'parrot'). Soft stem in -й; prep. ending -е.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "построенным": {
+    "cyrillic": "построенным",
+    "literal": "built",
+    "natural": "Built.",
+    "analysis": "Instr. m./n. sg. (or dat. pl.) of построенный (past passive participle of построить, 'built'). -енн- type.",
+    "synonym": "возведённым",
+    "antonym": "разрушенным"
+  },
+  "пришедшего": {
+    "cyrillic": "пришедшего",
+    "literal": "who came",
+    "natural": "Who came.",
+    "analysis": "Gen./acc. m. sg. of пришедший (past active participle of прийти, 'who came/arrived').",
+    "synonym": "прибывшего",
+    "antonym": "ушедшего"
+  },
+  "пришедшим": {
+    "cyrillic": "пришедшим",
+    "literal": "who came",
+    "natural": "Who came.",
+    "analysis": "Instr. m./n. sg. (or dat. pl.) of пришедший (past active participle of прийти, 'who came').",
+    "synonym": "прибывшим",
+    "antonym": "ушедшим"
+  },
+  "пропускало": {
+    "cyrillic": "пропускало",
+    "literal": "let through",
+    "natural": "Let through.",
+    "analysis": "Past n. sg. of пропускать (impf., 'to let through/admit'). Agrees with a neuter subject.",
+    "synonym": "пускало",
+    "antonym": "задерживало"
+  },
+  "прочитанном": {
+    "cyrillic": "прочитанном",
+    "literal": "read",
+    "natural": "Read.",
+    "analysis": "Prep. m./n. sg. of прочитанный (past passive participle of прочитать, 'read [through]'). -нн- type.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "пустовал": {
+    "cyrillic": "пустовал",
+    "literal": "stood empty",
+    "natural": "Stood empty.",
+    "analysis": "Past m. sg. of пустовать (impf., 'to be empty / stand vacant'). Agrees with a masculine subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "работающий": {
+    "cyrillic": "работающий",
+    "literal": "working",
+    "natural": "Working.",
+    "analysis": "Nom. m. sg. of работающий (present active participle of работать, 'working/who works').",
+    "synonym": "трудящийся",
+    "antonym": "отдыхающий"
+  },
+  "священна": {
+    "cyrillic": "священна",
+    "literal": "sacred",
+    "natural": "Is sacred.",
+    "analysis": "Short f. sg. of священный (adj., 'sacred/holy'). Predicative; forms: священен, священна, священно, священны.",
+    "synonym": "свята",
+    "antonym": " "
+  },
+  "сделавшие": {
+    "cyrillic": "сделавшие",
+    "literal": "who made",
+    "natural": "Who made.",
+    "analysis": "Nom. pl. of сделавший (past active participle of сделать, 'who made/did').",
+    "synonym": "совершившие",
+    "antonym": " "
+  },
+  "сделанную": {
+    "cyrillic": "сделанную",
+    "literal": "made",
+    "natural": "Made.",
+    "analysis": "Acc. f. sg. of сделанный (past passive participle of сделать, 'made/done'). -нн- type.",
+    "synonym": "изготовленную",
+    "antonym": " "
+  },
+  "спектр": {
+    "cyrillic": "спектр",
+    "literal": "spectrum",
+    "natural": "Spectrum.",
+    "analysis": "Nom./acc. sg. of спектр (m. inanimate noun, 'spectrum/range'). Gen. sg. спектра.",
+    "synonym": "диапазон",
+    "antonym": " "
+  },
+  "уважаемая": {
+    "cyrillic": "уважаемая",
+    "literal": "respected",
+    "natural": "Respected.",
+    "analysis": "Nom. f. sg. of уважаемый (present passive participle of уважать, 'respected'). Also a polite address.",
+    "synonym": "почитаемая",
+    "antonym": " "
+  },
+  "уважаемым": {
+    "cyrillic": "уважаемым",
+    "literal": "respected",
+    "natural": "Respected.",
+    "analysis": "Instr. m./n. sg. (or dat. pl.) of уважаемый (present passive participle of уважать, 'respected').",
+    "synonym": "почитаемым",
+    "antonym": " "
+  },
+  "увидевшие": {
+    "cyrillic": "увидевшие",
+    "literal": "who saw",
+    "natural": "Who saw.",
+    "analysis": "Nom. pl. of увидевший (past active participle of увидеть, 'who saw/caught sight of').",
+    "synonym": "заметившие",
+    "antonym": " "
+  },
+  "ушедшем": {
+    "cyrillic": "ушедшем",
+    "literal": "who left",
+    "natural": "Who left.",
+    "analysis": "Prep. m./n. sg. of ушедший (past active participle of уйти, 'who left/went away').",
+    "synonym": "отбывшем",
+    "antonym": "пришедшем"
+  },
+  "читаемое": {
+    "cyrillic": "читаемое",
+    "literal": "read",
+    "natural": "Being read.",
+    "analysis": "Nom./acc. n. sg. of читаемый (present passive participle of читать, 'being read').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "читающая": {
+    "cyrillic": "читающая",
+    "literal": "reading",
+    "natural": "Reading.",
+    "analysis": "Nom. f. sg. of читающий (present active participle of читать, 'reading/who reads').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "читающий": {
+    "cyrillic": "читающий",
+    "literal": "reading",
+    "natural": "Reading.",
+    "analysis": "Nom. m. sg. of читающий (present active participle of читать, 'reading/who reads').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "видимое": {
+    "cyrillic": "видимое",
+    "literal": "visible (thing)",
+    "natural": "Visible.",
+    "analysis": "Nom./acc. n. sg. of видимый (present passive participle of видеть, 'visible/seen/being seen').",
+    "synonym": "заметное",
+    "antonym": "невидимое"
+  },
+  "внучкой": {
+    "cyrillic": "внучкой",
+    "literal": "granddaughter",
+    "natural": "Granddaughter.",
+    "analysis": "Instr. f. sg. of внучка ('granddaughter'); here 'in (a granddaughter)' as object of гордиться.",
+    "synonym": " ",
+    "antonym": "внуком"
+  },
+  "гараж": {
+    "cyrillic": "гараж",
+    "literal": "garage",
+    "natural": "Garage.",
+    "analysis": "Nom./acc. m. sg. of гараж ('garage'), inanimate masculine noun.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "говорящие": {
+    "cyrillic": "говорящие",
+    "literal": "talking (ones)",
+    "natural": "Talking.",
+    "analysis": "Nom./inanim-acc. pl. of говорящий (present active participle of говорить, 'talking/who speak').",
+    "synonym": "беседующие",
+    "antonym": "молчащие"
+  },
+  "девочки": {
+    "cyrillic": "девочки",
+    "literal": "of the girl",
+    "natural": "Of the girl.",
+    "analysis": "Gen. f. sg. (or nom./acc. pl.) of девочка ('girl'); here gen. sg. 'of the girl'.",
+    "synonym": " ",
+    "antonym": "мальчика"
+  },
+  "живущему": {
+    "cyrillic": "живущему",
+    "literal": "to the one living",
+    "natural": "To the one living.",
+    "analysis": "Dat. m./n. sg. of живущий (present active participle of жить, 'living/who lives').",
+    "synonym": "обитающему",
+    "antonym": " "
+  },
+  "загадочно": {
+    "cyrillic": "загадочно",
+    "literal": "mysteriously",
+    "natural": "Mysteriously.",
+    "analysis": "Adv. / short n. sg. of загадочный ('mysterious/enigmatic'); here predicative 'is mysterious'.",
+    "synonym": "таинственно",
+    "antonym": "понятно"
+  },
+  "идущая": {
+    "cyrillic": "идущая",
+    "literal": "walking (f.)",
+    "natural": "Walking.",
+    "analysis": "Nom. f. sg. of идущий (present active participle of идти, 'walking/going/who walks').",
+    "synonym": "шагающая",
+    "antonym": "стоящая"
+  },
+  "идущий": {
+    "cyrillic": "идущий",
+    "literal": "walking (m.)",
+    "natural": "Walking.",
+    "analysis": "Nom. m. sg. of идущий (present active participle of идти, 'walking/going/who walks').",
+    "synonym": "шагающий",
+    "antonym": "стоящий"
+  },
+  "изучаемые": {
+    "cyrillic": "изучаемые",
+    "literal": "studied (ones)",
+    "natural": "Studied.",
+    "analysis": "Nom./inanim-acc. pl. of изучаемый (present passive participle of изучать, 'being studied/studied').",
+    "synonym": "исследуемые",
+    "antonym": " "
+  },
+  "коллеге": {
+    "cyrillic": "коллеге",
+    "literal": "to the colleague",
+    "natural": "To the colleague.",
+    "analysis": "Dat./prep. sg. of коллега ('colleague'); here prep. 'about a colleague'.",
+    "synonym": "сослуживце",
+    "antonym": " "
+  },
+  "купившему": {
+    "cyrillic": "купившему",
+    "literal": "to the one who bought",
+    "natural": "To the one who bought.",
+    "analysis": "Dat. m./n. sg. of купивший (past active participle of купить, 'who bought/having bought').",
+    "synonym": "приобретшему",
+    "antonym": "продавшему"
+  },
+  "любящее": {
+    "cyrillic": "любящее",
+    "literal": "loving (n.)",
+    "natural": "Loving.",
+    "analysis": "Nom./acc. n. sg. of любящий (present active participle of любить, 'loving/who loves').",
+    "synonym": "нежное",
+    "antonym": "ненавидящее"
+  },
+  "местности": {
+    "cyrillic": "местности",
+    "literal": "of the terrain",
+    "natural": "Of the terrain.",
+    "analysis": "Gen./dat./prep. f. sg. (or nom./acc. pl.) of местность ('terrain/locality'); here gen. sg.",
+    "synonym": "территории",
+    "antonym": " "
+  },
+  "называемом": {
+    "cyrillic": "называемом",
+    "literal": "so-called",
+    "natural": "So-called.",
+    "analysis": "Prep. m./n. sg. of называемый (present passive participle of называть, 'called/being called').",
+    "synonym": "именуемом",
+    "antonym": " "
+  },
+  "написавшее": {
+    "cyrillic": "написавшее",
+    "literal": "that wrote (n.)",
+    "natural": "That wrote.",
+    "analysis": "Nom./acc. n. sg. of написавший (past active participle of написать, 'who wrote/having written').",
+    "synonym": "сочинившее",
+    "antonym": " "
+  },
+  "написана": {
+    "cyrillic": "написана",
+    "literal": "is written (f.)",
+    "natural": "Written.",
+    "analysis": "Short f. sg. of написанный (past passive participle of написать, 'written/has been written').",
+    "synonym": "сочинена",
+    "antonym": " "
+  },
+  "написанный": {
+    "cyrillic": "написанный",
+    "literal": "written (m.)",
+    "natural": "Written.",
+    "analysis": "Nom./inanim-acc. m. sg. of написанный (past passive participle of написать, 'written/finished writing').",
+    "synonym": "сочинённый",
+    "antonym": " "
+  },
+  "обогнал": {
+    "cyrillic": "обогнал",
+    "literal": "overtook (m.)",
+    "natural": "Overtook.",
+    "analysis": "Past m. sg. of обогнать ('to overtake/outrun'), perfective; 'overtook/passed'.",
+    "synonym": "опередил",
+    "antonym": "отстал"
+  },
+  "отправлены": {
+    "cyrillic": "отправлены",
+    "literal": "are sent (pl.)",
+    "natural": "Sent.",
+    "analysis": "Short pl. of отправленный (past passive participle of отправить, 'sent/have been sent').",
+    "synonym": "посланы",
+    "antonym": "получены"
+  },
+  "показания": {
+    "cyrillic": "показания",
+    "literal": "testimony",
+    "natural": "Testimony.",
+    "analysis": "Nom./acc. pl. (or gen. sg.) of показание ('testimony/reading'); here acc. pl. 'testimony'.",
+    "synonym": "свидетельства",
+    "antonym": " "
+  },
+  "построенная": {
+    "cyrillic": "построенная",
+    "literal": "built (f.)",
+    "natural": "Built.",
+    "analysis": "Nom. f. sg. of построенный (past passive participle of построить, 'built/constructed').",
+    "synonym": "возведённая",
+    "antonym": "разрушенная"
+  },
+  "построены": {
+    "cyrillic": "построены",
+    "literal": "are built (pl.)",
+    "natural": "Built.",
+    "analysis": "Short pl. of построенный (past passive participle of построить, 'built/have been built').",
+    "synonym": "возведены",
+    "antonym": "разрушены"
+  },
+  "пришедшее": {
+    "cyrillic": "пришедшее",
+    "literal": "that came (n.)",
+    "natural": "That came.",
+    "analysis": "Nom./acc. n. sg. of пришедший (past active participle of прийти, 'that came/having arrived').",
+    "synonym": "прибывшее",
+    "antonym": "ушедшее"
+  },
+  "пришедших": {
+    "cyrillic": "пришедших",
+    "literal": "of those who came",
+    "natural": "Of those who came.",
+    "analysis": "Gen./prep./anim-acc. pl. of пришедший (past active participle of прийти, 'who came/having arrived').",
+    "synonym": "прибывших",
+    "antonym": "ушедших"
+  },
+  "прохожему": {
+    "cyrillic": "прохожему",
+    "literal": "to the passerby",
+    "natural": "To the passerby.",
+    "analysis": "Dat. m. sg. of прохожий ('passerby'), substantivized adjective from проходить.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прочитанные": {
+    "cyrillic": "прочитанные",
+    "literal": "read (ones)",
+    "natural": "Read.",
+    "analysis": "Nom./inanim-acc. pl. of прочитанный (past passive participle of прочитать, 'read/finished reading').",
+    "synonym": "прочтённые",
+    "antonym": " "
+  },
+  "работающая": {
+    "cyrillic": "работающая",
+    "literal": "working (f.)",
+    "natural": "Working.",
+    "analysis": "Nom. f. sg. of работающий (present active participle of работать, 'working/who works').",
+    "synonym": "трудящаяся",
+    "antonym": "отдыхающая"
+  },
+  "работающим": {
+    "cyrillic": "работающим",
+    "literal": "with the working (one)",
+    "natural": "With the working one.",
+    "analysis": "Instr. m./n. sg. or dat. pl. of работающий (present active participle of работать, 'working/who works').",
+    "synonym": "трудящимся",
+    "antonym": "отдыхающим"
+  },
+  "сделавшая": {
+    "cyrillic": "сделавшая",
+    "literal": "that did (f.)",
+    "natural": "That did.",
+    "analysis": "Nom. f. sg. of сделавший (past active participle of сделать, 'who did/having done').",
+    "synonym": "выполнившая",
+    "antonym": " "
+  },
+  "сделавший": {
+    "cyrillic": "сделавший",
+    "literal": "that did (m.)",
+    "natural": "That did.",
+    "analysis": "Nom. m. sg. of сделавший (past active participle of сделать, 'who did/having done').",
+    "synonym": "выполнивший",
+    "antonym": " "
+  },
+  "сделанные": {
+    "cyrillic": "сделанные",
+    "literal": "made (ones)",
+    "natural": "Made.",
+    "analysis": "Nom./inanim-acc. pl. of сделанный (past passive participle of сделать, 'made/done').",
+    "synonym": "изготовленные",
+    "antonym": " "
+  },
+  "ставни": {
+    "cyrillic": "ставни",
+    "literal": "shutters",
+    "natural": "Shutters.",
+    "analysis": "Nom./acc. pl. of ставня/ставень ('shutter'); here 'shutters' as window coverings.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "уважаемого": {
+    "cyrillic": "уважаемого",
+    "literal": "respected (m.)",
+    "natural": "Respected.",
+    "analysis": "Gen./anim-acc. m./n. sg. of уважаемый (present passive participle of уважать, 'respected/esteemed').",
+    "synonym": "почитаемого",
+    "antonym": "презираемого"
+  },
+  "увидевшая": {
+    "cyrillic": "увидевшая",
+    "literal": "that saw (f.)",
+    "natural": "That saw.",
+    "analysis": "Nom. f. sg. of увидевший (past active participle of увидеть, 'who saw/having seen').",
+    "synonym": "заметившая",
+    "antonym": " "
+  },
+  "увидевший": {
+    "cyrillic": "увидевший",
+    "literal": "that saw (m.)",
+    "natural": "That saw.",
+    "analysis": "Nom. m. sg. of увидевший (past active participle of увидеть, 'who saw/having seen').",
+    "synonym": "заметивший",
+    "antonym": " "
+  },
+  "ушедшему": {
+    "cyrillic": "ушедшему",
+    "literal": "to the one who left",
+    "natural": "To the one who left.",
+    "analysis": "Dat. m./n. sg. of ушедший (past active participle of уйти, 'who left'; -ш- stem from ушёл).",
+    "synonym": "удалившемуся",
+    "antonym": "пришедшему"
+  },
+  "читаемой": {
+    "cyrillic": "читаемой",
+    "literal": "read (f.)",
+    "natural": "Read.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of читаемый (present passive participle of читать, 'read/being read').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "читающего": {
+    "cyrillic": "читающего",
+    "literal": "reading (one)",
+    "natural": "Reading.",
+    "analysis": "Gen./anim-acc. m./n. sg. of читающий (present active participle of читать, 'reading/who reads').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "шрифту": {
+    "cyrillic": "шрифту",
+    "literal": "to the font",
+    "natural": "To the font.",
+    "analysis": "Dat. m. sg. of шрифт ('font/typeface'), inanimate masculine noun.",
+    "synonym": "гарнитуре",
+    "antonym": " "
+  },
+  "акцентом": {
+    "cyrillic": "акцентом",
+    "literal": "with an accent",
+    "natural": "With an accent.",
+    "analysis": "Instrumental sg. of акцент (m. noun, 'accent'). Here governed by с ('with') describing manner of speech.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "включила": {
+    "cyrillic": "включила",
+    "literal": "turned on",
+    "natural": "She turned it on.",
+    "analysis": "Past f. sg. of включить (perf., 'to turn on/switch on'). Agrees with a feminine subject.",
+    "synonym": " ",
+    "antonym": "выключила"
+  },
+  "волноваться": {
+    "cyrillic": "волноваться",
+    "literal": "to worry",
+    "natural": "To be nervous.",
+    "analysis": "Infinitive of волноваться (impf., reflexive, 'to worry/be nervous'). The -ся marks the intransitive emotional state.",
+    "synonym": "переживать",
+    "antonym": "успокаиваться"
+  },
+  "встретим": {
+    "cyrillic": "встретим",
+    "literal": "we will meet",
+    "natural": "We will meet.",
+    "analysis": "1pl future of встретить (perf., 'to meet/encounter'). Takes a direct object in the accusative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "гуляя": {
+    "cyrillic": "гуляя",
+    "literal": "while strolling",
+    "natural": "While strolling.",
+    "analysis": "Imperfective gerund (деепричастие) of гулять, 'while strolling'. Indeclinable; marks an action simultaneous with the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дышишь": {
+    "cyrillic": "дышишь",
+    "literal": "you breathe",
+    "natural": "You breathe.",
+    "analysis": "2sg present of дышать (impf., 'to breathe'). Often pairs with instrumental for what is breathed (воздухом).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "задумалась": {
+    "cyrillic": "задумалась",
+    "literal": "fell to thinking",
+    "natural": "She grew pensive.",
+    "analysis": "Past f. sg. of задуматься (perf., reflexive, 'to become lost in thought'). The -ся marks the inward mental state.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "заходят": {
+    "cyrillic": "заходят",
+    "literal": "they drop in",
+    "natural": "They stop by.",
+    "analysis": "3pl present of заходить (impf., 'to drop in/stop by'). Governs в + acc. for the place entered.",
+    "synonym": "заглядывают",
+    "antonym": " "
+  },
+  "инструкцию": {
+    "cyrillic": "инструкцию",
+    "literal": "instruction",
+    "natural": "The instructions.",
+    "analysis": "Accusative sg. of инструкция (f. noun, 'instruction/manual'). Direct object of a transitive verb here.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "крепнешь": {
+    "cyrillic": "крепнешь",
+    "literal": "you grow stronger",
+    "natural": "You grow stronger.",
+    "analysis": "2sg present of крепнуть (impf., 'to grow stronger/firmer'). Intransitive; describes gradual strengthening.",
+    "synonym": "укрепляешься",
+    "antonym": "слабеешь"
+  },
+  "махали": {
+    "cyrillic": "махали",
+    "literal": "were waving",
+    "natural": "They waved.",
+    "analysis": "Past pl. of махать (impf., 'to wave'). Governs the instrumental for the body part waved (руками).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "мыслям": {
+    "cyrillic": "мыслям",
+    "literal": "to thoughts",
+    "natural": "To one's thoughts.",
+    "analysis": "Dative pl. of мысль (f. noun, 'thought'). Here the indirect object, e.g. of улыбаться + dat.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "написав": {
+    "cyrillic": "написав",
+    "literal": "having written",
+    "natural": "Having written.",
+    "analysis": "Perfective gerund (деепричастие) of написать, 'having written'. Indeclinable; marks an action completed before the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "несла": {
+    "cyrillic": "несла",
+    "literal": "was carrying",
+    "natural": "She carried it.",
+    "analysis": "Past f. sg. of нести (impf., unidirectional, 'to carry'). Agrees with a feminine subject; takes acc. object.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "опирался": {
+    "cyrillic": "опирался",
+    "literal": "leaned on",
+    "natural": "He leaned on it.",
+    "analysis": "Past m. sg. of опираться (impf., reflexive, 'to lean on'). Governs на + acc. for the support.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "отзывы": {
+    "cyrillic": "отзывы",
+    "literal": "reviews",
+    "natural": "The reviews.",
+    "analysis": "Accusative/nominative pl. of отзыв (m. noun, 'review/feedback'). Here the direct object of прочитать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "парты": {
+    "cyrillic": "парты",
+    "literal": "desks",
+    "natural": "School desks.",
+    "analysis": "Accusative pl. of парта (f. noun, 'school desk'). After за + acc. it denotes sitting down at desks.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "подкаст": {
+    "cyrillic": "подкаст",
+    "literal": "podcast",
+    "natural": "A podcast.",
+    "analysis": "Accusative sg. (= nom.) of подкаст (m. inanimate noun, 'podcast'). Direct object of слушать.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "покупки": {
+    "cyrillic": "покупки",
+    "literal": "purchases",
+    "natural": "The shopping.",
+    "analysis": "Accusative pl. of покупка (f. noun, 'purchase'). In делать покупки it means 'to do the shopping'.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "посетителей": {
+    "cyrillic": "посетителей",
+    "literal": "visitors",
+    "natural": "The visitors.",
+    "analysis": "Accusative/genitive pl. of посетитель (m. animate noun, 'visitor'). Animate, so acc. equals gen. form.",
+    "synonym": "гостей",
+    "antonym": " "
+  },
+  "приятные": {
+    "cyrillic": "приятные",
+    "literal": "pleasant",
+    "natural": "Pleasant ones.",
+    "analysis": "Accusative/nominative pl. of приятный (adj., 'pleasant/agreeable'). Agrees with a plural noun (слова).",
+    "synonym": "милые",
+    "antonym": "неприятные"
+  },
+  "прочитав": {
+    "cyrillic": "прочитав",
+    "literal": "having read",
+    "natural": "Having read.",
+    "analysis": "Perfective gerund (деепричастие) of прочитать, 'having read'. Indeclinable; marks an action completed before the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "разбудят": {
+    "cyrillic": "разбудят",
+    "literal": "they will wake",
+    "natural": "They will wake him.",
+    "analysis": "3pl future of разбудить (perf., 'to wake someone'). Transitive; takes an animate acc. object.",
+    "synonym": " ",
+    "antonym": "усыпят"
+  },
+  "растерялся": {
+    "cyrillic": "растерялся",
+    "literal": "got flustered",
+    "natural": "He was at a loss.",
+    "analysis": "Past m. sg. of растеряться (perf., reflexive, 'to become flustered/at a loss'). The -ся marks the inward reaction.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сделав": {
+    "cyrillic": "сделав",
+    "literal": "having done",
+    "natural": "Having done.",
+    "analysis": "Perfective gerund (деепричастие) of сделать, 'having done'. Indeclinable; marks an action completed before the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "строку": {
+    "cyrillic": "строку",
+    "literal": "line",
+    "natural": "A line.",
+    "analysis": "Accusative sg. of строка (f. noun, 'line of text'). Direct object of a transitive verb here.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "трость": {
+    "cyrillic": "трость",
+    "literal": "cane",
+    "natural": "A walking cane.",
+    "analysis": "Accusative sg. (= nom.) of трость (f. noun, 'cane/walking stick'). After на + acc. denotes the support leaned on.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "улыбаясь": {
+    "cyrillic": "улыбаясь",
+    "literal": "while smiling",
+    "natural": "While smiling.",
+    "analysis": "Imperfective reflexive gerund of улыбаться, 'while smiling' (-ясь). Indeclinable; action simultaneous with the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "будишь": {
+    "cyrillic": "будишь",
+    "literal": "you wake",
+    "natural": "You wake (someone) up.",
+    "analysis": "2sg present of будить (impf., 'to wake (someone) up'). Takes an animate accusative object.",
+    "synonym": "пробуждаешь",
+    "antonym": "усыпляешь"
+  },
+  "влюблённые": {
+    "cyrillic": "влюблённые",
+    "literal": "lovers",
+    "natural": "The lovers.",
+    "analysis": "Nom. pl. of влюблённый (substantivized adj., 'person in love, lover'). Past passive participle used as a noun.",
+    "synonym": "возлюбленные",
+    "antonym": " "
+  },
+  "вспоминала": {
+    "cyrillic": "вспоминала",
+    "literal": "she recalled",
+    "natural": "She was recalling.",
+    "analysis": "Past f. sg. of вспоминать (impf., 'to recall, reminisce'). Imperfective marks ongoing/repeated recollection.",
+    "synonym": "припоминала",
+    "antonym": "забывала"
+  },
+  "вязала": {
+    "cyrillic": "вязала",
+    "literal": "she knitted",
+    "natural": "She was knitting.",
+    "analysis": "Past f. sg. of вязать (impf., 'to knit, tie'). Imperfective marks the ongoing activity.",
+    "synonym": " ",
+    "antonym": "распускала"
+  },
+  "делая": {
+    "cyrillic": "делая",
+    "literal": "while doing",
+    "natural": "While doing.",
+    "analysis": "Imperfective gerund (деепричастие) of делать, 'while doing'. Indeclinable; action simultaneous with the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ездить": {
+    "cyrillic": "ездить",
+    "literal": "to ride/go (by vehicle)",
+    "natural": "To go by vehicle (repeatedly).",
+    "analysis": "Infinitive of ездить (impf., multidirectional motion by vehicle). Denotes habitual or repeated trips, vs. unidirectional ехать.",
+    "synonym": " ",
+    "antonym": "ходить"
+  },
+  "замолчал": {
+    "cyrillic": "замолчал",
+    "literal": "he fell silent",
+    "natural": "He fell silent.",
+    "analysis": "Past m. sg. of замолчать (perf., 'to fall silent'). The за- prefix marks the onset of the state.",
+    "synonym": "затих",
+    "antonym": "заговорил"
+  },
+  "звучишь": {
+    "cyrillic": "звучишь",
+    "literal": "you sound",
+    "natural": "You sound (a certain way).",
+    "analysis": "2sg present of звучать (impf., 'to sound, resound'). Often pairs with an adverb or instrumental describing the impression.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "ипотеку": {
+    "cyrillic": "ипотеку",
+    "literal": "mortgage",
+    "natural": "A mortgage.",
+    "analysis": "Acc. sg. of ипотека (f. noun, 'mortgage'). Direct object of paying or taking out a loan.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "купив": {
+    "cyrillic": "купив",
+    "literal": "having bought",
+    "natural": "Having bought.",
+    "analysis": "Perfective gerund (деепричастие) of купить, 'having bought'. Indeclinable; action completed before the main verb, same subject.",
+    "synonym": " ",
+    "antonym": "продав"
+  },
+  "мелодию": {
+    "cyrillic": "мелодию",
+    "literal": "melody",
+    "natural": "A melody.",
+    "analysis": "Acc. sg. of мелодия (f. noun, 'melody, tune'). Direct object of singing, playing, or whistling.",
+    "synonym": "напев",
+    "antonym": " "
+  },
+  "набережной": {
+    "cyrillic": "набережной",
+    "literal": "embankment",
+    "natural": "The embankment.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of набережная (substantivized adj., 'embankment, waterfront').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "насвистывал": {
+    "cyrillic": "насвистывал",
+    "literal": "he whistled",
+    "natural": "He was whistling (a tune).",
+    "analysis": "Past m. sg. of насвистывать (impf., 'to whistle a tune'). Imperfective marks the casual ongoing action.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "обрадовалась": {
+    "cyrillic": "обрадовалась",
+    "literal": "she was glad",
+    "natural": "She was delighted.",
+    "analysis": "Past f. sg. of обрадоваться (perf., reflexive, 'to be glad'). Governs dative for the cause of joy.",
+    "synonym": "возрадовалась",
+    "antonym": "расстроилась"
+  },
+  "отдыхаю": {
+    "cyrillic": "отдыхаю",
+    "literal": "I rest",
+    "natural": "I rest / I'm relaxing.",
+    "analysis": "1sg present of отдыхать (impf., 'to rest, relax'). Imperfective marks the ongoing or habitual state.",
+    "synonym": " ",
+    "antonym": "работаю"
+  },
+  "откажемся": {
+    "cyrillic": "откажемся",
+    "literal": "we will refuse",
+    "natural": "We'll decline.",
+    "analysis": "1pl future of отказаться (perf., reflexive, 'to refuse, decline'). Governs от + gen. for the thing declined.",
+    "synonym": " ",
+    "antonym": "согласимся"
+  },
+  "первых": {
+    "cyrillic": "первых",
+    "literal": "first",
+    "natural": "The first ones.",
+    "analysis": "Gen./acc./prep. pl. of первый (ordinal adj., 'first'). Here acc. pl. agreeing with an animate plural object.",
+    "synonym": " ",
+    "antonym": "последних"
+  },
+  "подписи": {
+    "cyrillic": "подписи",
+    "literal": "signatures",
+    "natural": "Signatures.",
+    "analysis": "Gen. sg. or nom./acc. pl. of подпись (f. noun, 'signature'). Here acc. pl., object of placing one's signature.",
+    "synonym": "автографы",
+    "antonym": " "
+  },
+  "помыли": {
+    "cyrillic": "помыли",
+    "literal": "they washed",
+    "natural": "They washed.",
+    "analysis": "Past pl. of помыть (perf., 'to wash'). The по- prefix marks the completed single act.",
+    "synonym": "вымыли",
+    "antonym": "испачкали"
+  },
+  "почту": {
+    "cyrillic": "почту",
+    "literal": "post office / mail",
+    "natural": "The post office.",
+    "analysis": "Acc. sg. of почта (f. noun, 'post office, mail'). Direction with на + acc. ('to the post office').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "продали": {
+    "cyrillic": "продали",
+    "literal": "they sold",
+    "natural": "They sold.",
+    "analysis": "Past pl. of продать (perf., 'to sell'). Perfective marks the completed transaction.",
+    "synonym": "сбыли",
+    "antonym": "купили"
+  },
+  "пустому": {
+    "cyrillic": "пустому",
+    "literal": "empty",
+    "natural": "(To the) empty.",
+    "analysis": "Dat. m./n. sg. of пустой (adj., 'empty'). Agrees with a dative masculine noun (e.g. дому).",
+    "synonym": " ",
+    "antonym": "полному"
+  },
+  "разговаривали": {
+    "cyrillic": "разговаривали",
+    "literal": "they talked",
+    "natural": "They were talking.",
+    "analysis": "Past pl. of разговаривать (impf., 'to talk, converse'). Imperfective marks the ongoing conversation.",
+    "synonym": "беседовали",
+    "antonym": "молчали"
+  },
+  "сбавил": {
+    "cyrillic": "сбавил",
+    "literal": "he reduced",
+    "natural": "He reduced (it).",
+    "analysis": "Past m. sg. of сбавить (perf., 'to reduce, lower'). Common with скорость ('to slow down').",
+    "synonym": "снизил",
+    "antonym": "прибавил"
+  },
+  "слушая": {
+    "cyrillic": "слушая",
+    "literal": "while listening",
+    "natural": "While listening.",
+    "analysis": "Imperfective gerund (деепричастие) of слушать, 'while listening'. Indeclinable; action simultaneous with the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "теряет": {
+    "cyrillic": "теряет",
+    "literal": "he/she loses",
+    "natural": "He/she loses.",
+    "analysis": "3sg present of терять (impf., 'to lose'). Imperfective marks ongoing or repeated loss.",
+    "synonym": "утрачивает",
+    "antonym": "находит"
+  },
+  "увидев": {
+    "cyrillic": "увидев",
+    "literal": "having seen",
+    "natural": "Having seen / on seeing.",
+    "analysis": "Perfective gerund (деепричастие) of увидеть, 'having seen'. Indeclinable; action completed before the main verb, same subject.",
+    "synonym": "заметив",
+    "antonym": " "
+  },
+  "читая": {
+    "cyrillic": "читая",
+    "literal": "while reading",
+    "natural": "While reading.",
+    "analysis": "Imperfective gerund (деепричастие) of читать, 'while reading'. Indeclinable; action simultaneous with the main verb, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "вернувшись": {
+    "cyrillic": "вернувшись",
+    "literal": "having returned",
+    "natural": "Having returned.",
+    "analysis": "Perfective reflexive gerund of вернуться, 'having returned' (-вшись). Indeclinable; prior action, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "возвращаясь": {
+    "cyrillic": "возвращаясь",
+    "literal": "while returning",
+    "natural": "While returning.",
+    "analysis": "Imperfective reflexive gerund of возвращаться, 'while returning' (-ясь). Indeclinable; simultaneous, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "встретила": {
+    "cyrillic": "встретила",
+    "literal": "met",
+    "natural": "She met.",
+    "analysis": "F. sg. past of встретить (perf., 'to meet').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "готовила": {
+    "cyrillic": "готовила",
+    "literal": "was cooking",
+    "natural": "She was cooking.",
+    "analysis": "F. sg. past of готовить (impf., 'to cook; to prepare').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "дремала": {
+    "cyrillic": "дремала",
+    "literal": "was dozing",
+    "natural": "She was dozing.",
+    "analysis": "F. sg. past of дремать (impf., 'to doze; to slumber').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "завтракать": {
+    "cyrillic": "завтракать",
+    "literal": "to have breakfast",
+    "natural": "To have breakfast.",
+    "analysis": "Impf. infinitive of завтракать, 'to have breakfast' (perf. позавтракать).",
+    "synonym": " ",
+    "antonym": "ужинать"
+  },
+  "запоминаешь": {
+    "cyrillic": "запоминаешь",
+    "literal": "you memorize",
+    "natural": "You memorize.",
+    "analysis": "2sg present of запоминать (impf., 'to memorize; to remember').",
+    "synonym": " ",
+    "antonym": "забываешь"
+  },
+  "извинился": {
+    "cyrillic": "извинился",
+    "literal": "apologized",
+    "natural": "He apologized.",
+    "analysis": "M. sg. past of извиниться (perf. reflexive, 'to apologize').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "кивает": {
+    "cyrillic": "кивает",
+    "literal": "nods",
+    "natural": "He nods.",
+    "analysis": "3sg present of кивать (impf., 'to nod').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "курьера": {
+    "cyrillic": "курьера",
+    "literal": "courier",
+    "natural": "Courier.",
+    "analysis": "Gen./acc. sg. of курьер (m. animate noun, 'courier; messenger').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "мнении": {
+    "cyrillic": "мнении",
+    "literal": "opinion",
+    "natural": "Opinion.",
+    "analysis": "Prep. sg. of мнение (n. noun, 'opinion; view').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "напевала": {
+    "cyrillic": "напевала",
+    "literal": "was humming",
+    "natural": "She was humming.",
+    "analysis": "F. sg. past of напевать (impf., 'to hum; to croon').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "неправду": {
+    "cyrillic": "неправду",
+    "literal": "untruth",
+    "natural": "Untruth.",
+    "analysis": "Acc. sg. of неправда (f. noun, 'untruth; lie; falsehood').",
+    "synonym": "ложь",
+    "antonym": "правду"
+  },
+  "объяснять": {
+    "cyrillic": "объяснять",
+    "literal": "to explain",
+    "natural": "To explain.",
+    "analysis": "Impf. infinitive of объяснять, 'to explain' (perf. объяснить).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "отелю": {
+    "cyrillic": "отелю",
+    "literal": "hotel",
+    "natural": "Hotel.",
+    "analysis": "Dat. sg. of отель (m. noun, 'hotel').",
+    "synonym": "гостинице",
+    "antonym": " "
+  },
+  "отправим": {
+    "cyrillic": "отправим",
+    "literal": "we will send",
+    "natural": "We will send.",
+    "analysis": "1pl future of отправить (perf., 'to send; to dispatch').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "подарим": {
+    "cyrillic": "подарим",
+    "literal": "we will give",
+    "natural": "We will give.",
+    "analysis": "1pl future of подарить (perf., 'to give as a gift').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "позвали": {
+    "cyrillic": "позвали",
+    "literal": "called",
+    "natural": "They called.",
+    "analysis": "Pl. past of позвать (perf., 'to call; to summon').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "портишь": {
+    "cyrillic": "портишь",
+    "literal": "you spoil",
+    "natural": "You spoil.",
+    "analysis": "2sg present of портить (impf., 'to spoil; to ruin; to damage').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "придя": {
+    "cyrillic": "придя",
+    "literal": "having arrived",
+    "natural": "Having arrived.",
+    "analysis": "Perfective gerund (деепричастие) of прийти, 'having arrived'. Irregular -дя form; indeclinable; prior action, same subject.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "протянула": {
+    "cyrillic": "протянула",
+    "literal": "held out",
+    "natural": "She held out.",
+    "analysis": "F. sg. past of протянуть (perf., 'to hold out; to extend').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "радуюсь": {
+    "cyrillic": "радуюсь",
+    "literal": "I rejoice",
+    "natural": "I rejoice.",
+    "analysis": "1sg present of радоваться (impf. reflexive, 'to rejoice; to be glad'). Cause takes the dative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "располагает": {
+    "cyrillic": "располагает",
+    "literal": "disposes",
+    "natural": "He disposes.",
+    "analysis": "3sg present of располагать (impf., 'to dispose; to win over'); располагать к себе = to endear oneself.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "свадьбу": {
+    "cyrillic": "свадьбу",
+    "literal": "wedding",
+    "natural": "Wedding.",
+    "analysis": "Acc. sg. of свадьба (f. noun, 'wedding').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сомневалась": {
+    "cyrillic": "сомневалась",
+    "literal": "doubted",
+    "natural": "She doubted.",
+    "analysis": "F. sg. past of сомневаться (impf. reflexive, 'to doubt; to hesitate'). Object takes в + prep.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "толпу": {
+    "cyrillic": "толпу",
+    "literal": "crowd",
+    "natural": "Crowd.",
+    "analysis": "Acc. sg. of толпа (f. noun, 'crowd; throng').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "улыбался": {
+    "cyrillic": "улыбался",
+    "literal": "was smiling",
+    "natural": "He was smiling.",
+    "analysis": "M. sg. past of улыбаться (impf. reflexive, 'to smile').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "юность": {
+    "cyrillic": "юность",
+    "literal": "youth",
+    "natural": "Youth.",
+    "analysis": "Nom./acc. sg. of юность (f. noun, 'youth; early years').",
+    "synonym": "молодость",
+    "antonym": "старость"
+  },
+  "вашей": {
+    "cyrillic": "вашей",
+    "literal": "your",
+    "natural": "Your.",
+    "analysis": "Gen./dat./instr./prep. f. sg. of possessive ваш ('your', formal/pl.); here gen. (без вашей помощи).",
+    "synonym": "твоей",
+    "antonym": " "
+  },
+  "выспаться": {
+    "cyrillic": "выспаться",
+    "literal": "to get enough sleep",
+    "natural": "To get enough sleep.",
+    "analysis": "Perfective infinitive (impf. высыпаться), 'to get enough sleep'. Reflexive.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "закрыть": {
+    "cyrillic": "закрыть",
+    "literal": "to close",
+    "natural": "To close.",
+    "analysis": "Perfective infinitive (impf. закрывать), 'to close/shut'.",
+    "synonym": "затворить",
+    "antonym": "открыть"
+  },
+  "извинилась": {
+    "cyrillic": "извинилась",
+    "literal": "apologized",
+    "natural": "Apologized.",
+    "analysis": "F. sg. past of извиниться (perf., 'to apologize'). Reflexive.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "наступило": {
+    "cyrillic": "наступило",
+    "literal": "came",
+    "natural": "Came; arrived.",
+    "analysis": "N. sg. past of наступить (perf., 'to set in/arrive', of time or seasons; impf. наступать).",
+    "synonym": "пришло",
+    "antonym": " "
+  },
+  "научиться": {
+    "cyrillic": "научиться",
+    "literal": "to learn",
+    "natural": "To learn (to do something).",
+    "analysis": "Perfective infinitive (impf. учиться), 'to learn'. Reflexive; takes a dependent infinitive or dat.",
+    "synonym": " ",
+    "antonym": "разучиться"
+  },
+  "неплохо": {
+    "cyrillic": "неплохо",
+    "literal": "not bad",
+    "natural": "Not bad; quite well.",
+    "analysis": "Adverb/predicative, 'not badly, quite well'; from негативированное плохо. Litotes for 'good'.",
+    "synonym": "хорошо",
+    "antonym": "плохо"
+  },
+  "пляж": {
+    "cyrillic": "пляж",
+    "literal": "beach",
+    "natural": "Beach.",
+    "analysis": "Nom./acc. sg. of пляж (m. noun, 'beach').",
+    "synonym": "взморье",
+    "antonym": " "
+  },
+  "поблагодарить": {
+    "cyrillic": "поблагодарить",
+    "literal": "to thank",
+    "natural": "To thank.",
+    "analysis": "Perfective infinitive (impf. благодарить), 'to thank'; person thanked takes accusative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "погуляли": {
+    "cyrillic": "погуляли",
+    "literal": "took a walk",
+    "natural": "Took a walk.",
+    "analysis": "Pl. past of погулять (perf., 'to take a walk for a while'; impf. гулять).",
+    "synonym": "прошлись",
+    "antonym": " "
+  },
+  "поел": {
+    "cyrillic": "поел",
+    "literal": "ate",
+    "natural": "Ate; had something to eat.",
+    "analysis": "M. sg. past of поесть (perf., 'to eat a bit/have a meal'; impf. есть).",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "попробовал": {
+    "cyrillic": "попробовал",
+    "literal": "tried",
+    "natural": "Tried.",
+    "analysis": "M. sg. past of попробовать (perf., 'to try/attempt'; impf. пробовать).",
+    "synonym": "попытался",
+    "antonym": " "
+  },
+  "послушать": {
+    "cyrillic": "послушать",
+    "literal": "to listen",
+    "natural": "To listen (for a while).",
+    "analysis": "Perfective infinitive (impf. слушать), 'to listen to'; object takes accusative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "потеплее": {
+    "cyrillic": "потеплее",
+    "literal": "a bit warmer",
+    "natural": "A bit warmer.",
+    "analysis": "Comparative of тёплый/тепло with по- ('a bit warmer'). Colloquial softener.",
+    "synonym": " ",
+    "antonym": "похолоднее"
+  },
+  "поучиться": {
+    "cyrillic": "поучиться",
+    "literal": "to study a bit",
+    "natural": "To study a little; to learn from.",
+    "analysis": "Perfective infinitive (impf. учиться), 'to study/learn for a while'. Reflexive; source takes у + gen.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "прочитать": {
+    "cyrillic": "прочитать",
+    "literal": "to read",
+    "natural": "To read (through).",
+    "analysis": "Perfective infinitive (impf. читать), 'to read through/finish reading'.",
+    "synonym": "прочесть",
+    "antonym": " "
+  },
+  "пустякам": {
+    "cyrillic": "пустякам",
+    "literal": "trifles",
+    "natural": "Trifles.",
+    "analysis": "Dat. pl. of пустяк (m. noun, 'trifle, nothing'); idiom волноваться по пустякам, 'to fret over trifles'.",
+    "synonym": "мелочам",
+    "antonym": " "
+  },
+  "сменить": {
+    "cyrillic": "сменить",
+    "literal": "to change",
+    "natural": "To change; to replace.",
+    "analysis": "Perfective infinitive (impf. сменять/менять), 'to change/swap'; object takes accusative.",
+    "synonym": "поменять",
+    "antonym": " "
+  },
+  "спорил": {
+    "cyrillic": "спорил",
+    "literal": "argued",
+    "natural": "Argued.",
+    "analysis": "M. sg. past of спорить (impf., 'to argue/dispute'; perf. поспорить); opponent takes с + instr.",
+    "synonym": " ",
+    "antonym": "соглашался"
+  },
+  "сходил": {
+    "cyrillic": "сходил",
+    "literal": "went",
+    "natural": "Went (and came back).",
+    "analysis": "M. sg. past of сходить (perf., 'to go somewhere and return'; impf. ходить); destination takes к + dat.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "терпению": {
+    "cyrillic": "терпению",
+    "literal": "patience",
+    "natural": "Patience.",
+    "analysis": "Dat. sg. of терпение (n. noun, 'patience'); here object of поучиться (learn patience from someone).",
+    "synonym": " ",
+    "antonym": " "
   }
 }

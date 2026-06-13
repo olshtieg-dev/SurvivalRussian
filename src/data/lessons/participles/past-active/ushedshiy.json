@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAA-USHEDSHIY",
+    "label": "Ушедший",
+    "badge": "WHO LEFT",
+    "description": "A 10-sentence card for ушедший, the past active participle of уйти.",
+    "missions": [
+      { "id": "PT-PAA-USHEDSHIY-01", "phrase": "Сотрудник, ушедший на пенсию, счастлив.", "fullAnalysis": "Strategic focus: Masculine nominative. The past stem ушёл ends in a consonant, so it takes -ш-, giving ушедший. Masculine nominative, it agrees with сотрудник and means сотрудник, который ушёл на пенсию." },
+      { "id": "PT-PAA-USHEDSHIY-02", "phrase": "Подруга, ушедшая раньше, не попрощалась.", "fullAnalysis": "Strategic focus: Feminine nominative. The feminine ending -ая gives ушедшая, agreeing with подруга. Because the stem is consonantal, the suffix stays -ш-, not -вш-." },
+      { "id": "PT-PAA-USHEDSHIY-03", "phrase": "Все вспоминают директора, ушедшего вчера.", "fullAnalysis": "Strategic focus: Masculine accusative animate. With animate директора the participle takes the accusative form ушедшего. It agrees in gender, number and case with its head noun." },
+      { "id": "PT-PAA-USHEDSHIY-04", "phrase": "Поколение, ушедшее в историю, не забыто.", "fullAnalysis": "Strategic focus: Neuter nominative. The neuter ending -ее gives ушедшее, agreeing with поколение. It paraphrases as поколение, которое ушло в историю." },
+      { "id": "PT-PAA-USHEDSHIY-05", "phrase": "Гости, ушедшие первыми, забыли зонты.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие gives ушедшие, agreeing with гости. Formed from the consonant stem ушёл plus -ш-." },
+      { "id": "PT-PAA-USHEDSHIY-06", "phrase": "Мы говорим о коллеге, ушедшем в отпуск.", "fullAnalysis": "Strategic focus: Masculine prepositional. After о the prepositional ending -ем gives ушедшем, agreeing with коллеге. It means коллега, который ушёл в отпуск." },
+      { "id": "PT-PAA-USHEDSHIY-07", "phrase": "Письмо отправили начальнику, ушедшему домой.", "fullAnalysis": "Strategic focus: Masculine dative. The dative ending -ему gives ушедшему to agree with начальнику. The -ш- suffix marks the consonantal past stem ушёл." },
+      { "id": "PT-PAA-USHEDSHIY-08", "phrase": "Я горжусь подругой, ушедшей с тяжёлой работы.", "fullAnalysis": "Strategic focus: Feminine instrumental. After гордиться the instrumental form ушедшей agrees with подругой. The participle declines like an adjective and keeps its past active sense." },
+      { "id": "PT-PAA-USHEDSHIY-09", "phrase": "Девушке, ушедшей последней, дали ключи.", "fullAnalysis": "Strategic focus: Feminine dative. The participle ушедшей agrees in case with the dative девушке. It means девушке, которая ушла последней." },
+      { "id": "PT-PAA-USHEDSHIY-10", "phrase": "Память солдат, ушедших на фронт, священна.", "fullAnalysis": "Strategic focus: Plural genitive. The genitive plural form ушедших agrees with солдат. Built from ушёл, it points to those who already left." }
+    ]
+  }
+]

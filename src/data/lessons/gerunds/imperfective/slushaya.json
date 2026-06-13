@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-IMPF-SLUSHAYA",
+    "label": "Слушая",
+    "badge": "WHILE LISTENING",
+    "description": "A 10-sentence card for слушая, the imperfective gerund of слушать.",
+    "missions": [
+      { "id": "GD-IMPF-SLUSHAYA-01", "phrase": "Слушая музыку, она готовила ужин.", "fullAnalysis": "Strategic focus: Front position. Слушая is formed from the present stem of слушать (слуша-ют) plus -я. The fronted gerund names the action concurrent with главный verb готовила — she listened while cooking." },
+      { "id": "GD-IMPF-SLUSHAYA-02", "phrase": "Он кивал, слушая рассказ друга.", "fullAnalysis": "Strategic focus: End position. Here слушая closes the sentence and runs parallel to кивал. Both actions belong to the subject он and happen at the same moment." },
+      { "id": "GD-IMPF-SLUSHAYA-03", "phrase": "Слушая внимательно, ты всё запоминаешь.", "fullAnalysis": "Strategic focus: Present tense. The main verb запоминаешь is present, and слушая marks the simultaneous manner: listening carefully, you remember everything. The gerund carries no tense ending." },
+      { "id": "GD-IMPF-SLUSHAYA-04", "phrase": "Слушая лекцию, студент делал заметки.", "fullAnalysis": "Strategic focus: Same-subject rule. The one who listens in слушая must be the one who takes notes — a single subject студент. A gerund cannot introduce a separate doer of its own action." },
+      { "id": "GD-IMPF-SLUSHAYA-05", "phrase": "Слушая новости, мы будем пить чай.", "fullAnalysis": "Strategic focus: Future main clause. The main clause is future (будем пить), but слушая stays unchanged — gerunds have no future form. Listening to the news, we will drink tea at the same time." },
+      { "id": "GD-IMPF-SLUSHAYA-06", "phrase": "Дети сидели тихо, слушая сказку.", "fullAnalysis": "Strategic focus: Plural subject. Even with the plural subject дети, the form stays слушая — gerunds are indeclinable and take no number ending, unlike the participle слушающие." },
+      { "id": "GD-IMPF-SLUSHAYA-07", "phrase": "Слушая дождь, она думала о лете.", "fullAnalysis": "Strategic focus: Past main clause. The finite verb думала is past, yet слушая marks concurrency: while listening to the rain, she thought of summer. The imperfective gerund signals overlap, not sequence." },
+      { "id": "GD-IMPF-SLUSHAYA-08", "phrase": "Слушая совет, не забывай о своём мнении.", "fullAnalysis": "Strategic focus: Imperative main clause. The main verb не забывай is a command addressed to ты, the same implied subject as слушая. The gerund keeps its single form regardless of the mood of the finite verb." },
+      { "id": "GD-IMPF-SLUSHAYA-09", "phrase": "Слушая жену, муж согласно кивает.", "fullAnalysis": "Strategic focus: Indeclinable form. With the masculine subject муж the gerund stays слушая, taking no gender or case ending. A participle would inflect; the gerund holds one fixed shape always." },
+      { "id": "GD-IMPF-SLUSHAYA-10", "phrase": "Бабушка вязала, слушая старое радио.", "fullAnalysis": "Strategic focus: Two parallel actions. Бабушка is the shared subject of both вязала and слушая, the actions overlapping in time. The gerund compresses while she listened into one indeclinable word." }
+    ]
+  }
+]

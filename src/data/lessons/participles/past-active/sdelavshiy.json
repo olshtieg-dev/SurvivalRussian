@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PT-PAA-SDELAVSHIY",
+    "label": "Сделавший",
+    "badge": "WHO DID",
+    "description": "A 10-sentence card for сделавший, the past active participle of сделать.",
+    "missions": [
+      { "id": "PT-PAA-SDELAVSHIY-01", "phrase": "Студент, сделавший всю работу, ушёл домой.", "fullAnalysis": "Strategic focus: Masculine nominative. Сделавший is built from the past stem сделал by dropping -л and adding -вш-. Here it is masculine nominative, agreeing with студент. It paraphrases as студент, который сделал всю работу." },
+      { "id": "PT-PAA-SDELAVSHIY-02", "phrase": "Девочка, сделавшая уроки, пошла гулять.", "fullAnalysis": "Strategic focus: Feminine nominative. The participle takes the feminine ending -ая, becoming сделавшая to agree with девочка. It declines like an adjective and means девочка, которая сделала уроки." },
+      { "id": "PT-PAA-SDELAVSHIY-03", "phrase": "Мы благодарим человека, сделавшего ремонт.", "fullAnalysis": "Strategic focus: Masculine accusative animate. With the animate noun человека the participle takes the genitive-like accusative form сделавшего. It agrees in gender, number and case with its head noun." },
+      { "id": "PT-PAA-SDELAVSHIY-04", "phrase": "Это дело, сделавшее его известным, забыто.", "fullAnalysis": "Strategic focus: Neuter nominative. The neuter ending -ее gives сделавшее, agreeing with дело. The participle still carries past meaning: дело, которое сделало его известным." },
+      { "id": "PT-PAA-SDELAVSHIY-05", "phrase": "Дети, сделавшие ошибку, попросили прощения.", "fullAnalysis": "Strategic focus: Plural nominative. The plural ending -ие produces сделавшие, agreeing with дети in number. It means дети, которые сделали ошибку." },
+      { "id": "PT-PAA-SDELAVSHIY-06", "phrase": "Я говорю о мастере, сделавшем стол.", "fullAnalysis": "Strategic focus: Masculine prepositional. After о the participle takes the prepositional ending -ем, giving сделавшем, agreeing with мастере. The который paraphrase is мастер, который сделал стол." },
+      { "id": "PT-PAA-SDELAVSHIY-07", "phrase": "Подойди к рабочему, сделавшему эту деталь.", "fullAnalysis": "Strategic focus: Masculine dative. The dative ending -ему gives сделавшему to agree with рабочему. Formed from the past stem сделал plus -вш-, it marks the one who already did the action." },
+      { "id": "PT-PAA-SDELAVSHIY-08", "phrase": "Горжусь сестрой, сделавшей такой выбор.", "fullAnalysis": "Strategic focus: Feminine instrumental. After гордиться the instrumental form сделавшей agrees with сестрой. It declines like a soft adjective and keeps its past active sense." },
+      { "id": "PT-PAA-SDELAVSHIY-09", "phrase": "Награду вручили команде, сделавшей проект.", "fullAnalysis": "Strategic focus: Feminine dative. The participle сделавшей agrees in case with the dative команде. It means команде, которая сделала проект." },
+      { "id": "PT-PAA-SDELAVSHIY-10", "phrase": "Без людей, сделавших это, нас бы не было.", "fullAnalysis": "Strategic focus: Plural genitive. After без the genitive plural form сделавших agrees with людей. Built from сделал, it points to those who already completed the action." }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-ADV-TYBY",
+    "label": "Ты бы",
+    "badge": "WHY NOT",
+    "description": "A 10-sentence card for the soft-suggestion frame Ты бы + past.",
+    "missions": [
+      {
+        "id": "BY-ADV-TYBY-01",
+        "phrase": "Ты бы позвонил маме вечером.",
+        "fullAnalysis": "Strategic focus: Soft suggestion frame. Ты бы plus the past позвонил proposes the call lightly, as a you might want to. The particle бы attaches to the past form, the only shape it joins, giving a nudge rather than an order."
+      },
+      {
+        "id": "BY-ADV-TYBY-02",
+        "phrase": "Ты бы отдохнул немного.",
+        "fullAnalysis": "Strategic focus: Gentle nudge to rest. The frame ты бы plus отдохнул suggests a break without insisting. Its advisory force is mild, closer to a friendly hint than a demand."
+      },
+      {
+        "id": "BY-ADV-TYBY-03",
+        "phrase": "Ты бы оделась потеплее.",
+        "fullAnalysis": "Strategic focus: Female addressee. The past form оделась shows the listener is female, since бы sits with a past verb that agrees in gender. The line softly advises dressing warmer."
+      },
+      {
+        "id": "BY-ADV-TYBY-04",
+        "phrase": "Ты бы спросил у него совета.",
+        "fullAnalysis": "Strategic focus: Suggesting to ask. Ты бы plus the past спросил recommends seeking his advice. The construction stays suggestive, presenting the idea as worth considering rather than required."
+      },
+      {
+        "id": "BY-ADV-TYBY-05",
+        "phrase": "Ты бы хоть поел перед дорогой.",
+        "fullAnalysis": "Strategic focus: Mild reproach. The word хоть adds a touch of reproach, hinting the listener neglected to eat. Поел is past plus бы, so the gentle scolding still runs through the suggestion frame."
+      },
+      {
+        "id": "BY-ADV-TYBY-06",
+        "phrase": "Ты бы извинился перед сестрой.",
+        "fullAnalysis": "Strategic focus: Suggesting an apology. The frame ты бы plus извинился pushes softly toward making amends. The bare ты бы construction leaves the choice open while clearly recommending it."
+      },
+      {
+        "id": "BY-ADV-TYBY-07",
+        "phrase": "Ты бы лучше промолчал тогда.",
+        "fullAnalysis": "Strategic focus: Reproach about the past. Лучше sharpens the hint that silence would have been wiser. Промолчал is the past form бы requires, and the line mixes mild reproof with advice."
+      },
+      {
+        "id": "BY-ADV-TYBY-08",
+        "phrase": "Ты бы записалась на курсы.",
+        "fullAnalysis": "Strategic focus: Encouraging enrollment. The feminine past записалась marks a female listener and proposes signing up for a course. The why-not tone comes from ты бы joined to that past form."
+      },
+      {
+        "id": "BY-ADV-TYBY-09",
+        "phrase": "Ты бы сходил к врачу наконец.",
+        "fullAnalysis": "Strategic focus: Overdue advice. Наконец signals the speaker thinks the visit is long due, lending a light reproach. Сходил carries бы, keeping the push gentle within the suggestion frame."
+      },
+      {
+        "id": "BY-ADV-TYBY-10",
+        "phrase": "Ты бы помог им с переездом.",
+        "fullAnalysis": "Strategic focus: Suggesting help. Ты бы plus the past помог proposes lending a hand with the move. The frame reads as a soft why not, presenting the help as a welcome option."
+      }
+    ]
+  }
+]

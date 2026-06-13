@@ -1,0 +1,20 @@
+[
+  {
+    "id": "GD-IMPF-GOVORYA",
+    "label": "Говоря",
+    "badge": "WHILE SPEAKING",
+    "description": "A 10-sentence card for говоря, the imperfective gerund of говорить.",
+    "missions": [
+      { "id": "GD-IMPF-GOVORYA-01", "phrase": "Говоря по телефону, она ходила по комнате.", "fullAnalysis": "Strategic focus: Front position. Говоря is formed from the present stem of говорить (говор-ят) plus -я. The fronted gerund names the action concurrent with the main verb ходила — she paced while talking." },
+      { "id": "GD-IMPF-GOVORYA-02", "phrase": "Он улыбался, говоря приятные слова.", "fullAnalysis": "Strategic focus: End position. Here говоря closes the sentence and runs parallel to улыбался. Both actions belong to the subject он and happen at the same moment." },
+      { "id": "GD-IMPF-GOVORYA-03", "phrase": "Говоря медленно, ты звучишь спокойнее.", "fullAnalysis": "Strategic focus: Present tense. The main verb звучишь is present, and говоря marks the simultaneous manner: speaking slowly, you sound calmer. The gerund carries no tense of its own." },
+      { "id": "GD-IMPF-GOVORYA-04", "phrase": "Говоря неправду, человек теряет доверие.", "fullAnalysis": "Strategic focus: Same-subject rule. The one who speaks in говоря must be the one who loses trust in the main clause — a single subject человек. The gerund cannot have a separate doer of its own." },
+      { "id": "GD-IMPF-GOVORYA-05", "phrase": "Говоря тихо, дети не разбудят отца.", "fullAnalysis": "Strategic focus: Future main clause. The main clause is future (не разбудят), but говоря stays unchanged — gerunds have no future form. Speaking quietly, they will avoid waking him." },
+      { "id": "GD-IMPF-GOVORYA-06", "phrase": "Депутаты спорили, говоря о новом законе.", "fullAnalysis": "Strategic focus: Plural subject. Even with the plural subject депутаты, the form stays говоря — gerunds are indeclinable and take no number ending, unlike the participle говорящие." },
+      { "id": "GD-IMPF-GOVORYA-07", "phrase": "Говоря это, она смотрела в окно.", "fullAnalysis": "Strategic focus: Past main clause. The finite verb смотрела is past, yet говоря marks concurrency: while saying this, she looked out the window. The imperfective gerund signals overlap, not sequence." },
+      { "id": "GD-IMPF-GOVORYA-08", "phrase": "Говоря честно, я очень устал сегодня.", "fullAnalysis": "Strategic focus: Fixed idiomatic form. Говоря честно works as a set phrase meaning frankly speaking, and the gerund stays unchanged whatever the subject. Its indeclinability is what lets it serve as such a frozen connector." },
+      { "id": "GD-IMPF-GOVORYA-09", "phrase": "Говоря с акцентом, он всё же понятен.", "fullAnalysis": "Strategic focus: Indeclinable form. With the masculine subject он the gerund stays говоря, taking no gender or case ending. A participle would inflect; the gerund holds one fixed shape always." },
+      { "id": "GD-IMPF-GOVORYA-10", "phrase": "Учитель ходил, говоря об истории России.", "fullAnalysis": "Strategic focus: Two parallel actions. Учитель is the shared subject of both ходил and говоря, the actions overlapping in time. The gerund compresses while he spoke into one indeclinable word." }
+    ]
+  }
+]

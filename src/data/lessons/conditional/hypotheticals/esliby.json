@@ -1,0 +1,60 @@
+[
+  {
+    "id": "BY-HYP-ESLIBY",
+    "label": "Если бы",
+    "badge": "IF (UNREAL)",
+    "description": "A 10-sentence card for the unreal conditional frame Если бы …, … бы.",
+    "missions": [
+      {
+        "id": "BY-HYP-ESLIBY-01",
+        "phrase": "Если бы я знал, я бы тебе сказал.",
+        "fullAnalysis": "Strategic focus: Full unreal conditional. Both clauses use a past-form verb with бы, marking the whole situation as counterfactual. The speaker did not know, so nothing was said. Here бы sits right after если and again after я."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-02",
+        "phrase": "Если бы было время, мы бы погуляли.",
+        "fullAnalysis": "Strategic focus: Hypothetical with no real time. The particle бы always combines with a past-tense verb form, so было and погуляли are both past though the meaning is timeless. The walk did not happen because the time was lacking."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-03",
+        "phrase": "Если бы ты позвонил, я бы пришла.",
+        "fullAnalysis": "Strategic focus: Unreal cause and result. Позвонил sets the imagined condition, пришла the imagined outcome, both past plus бы. The call never came, so the arrival is purely hypothetical."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-04",
+        "phrase": "Если бы он захотел, он бы остался.",
+        "fullAnalysis": "Strategic focus: Counterfactual choice. бы is a mood particle, not a tense, so the past verbs захотел and остался signal irrealis rather than past time. His staying is unreal because the wish was absent."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-05",
+        "phrase": "Если бы мы поехали раньше, успели бы.",
+        "fullAnalysis": "Strategic focus: Mobile бы in the result. The result clause drops its subject and places бы after the verb успели. The earlier departure is imagined, so making it on time is too."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-06",
+        "phrase": "Если бы она была здесь, всё было бы проще.",
+        "fullAnalysis": "Strategic focus: Two-clause irrealis with было бы. Each clause carries its own past form with бы, the hallmark of the unreal conditional. Her absence is the reason everything is harder."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-07",
+        "phrase": "Если бы у нас были деньги, мы бы купили дом.",
+        "fullAnalysis": "Strategic focus: Imagined possession and purchase. The condition были and the result купили are both past plus бы, framing money we do not have. Без денег the purchase stays hypothetical."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-08",
+        "phrase": "Если бы ты меня слушал, ты бы понял.",
+        "fullAnalysis": "Strategic focus: Reproach as unreal conditional. The two-clause structure pairs слушал with понял, each past plus бы. Since the listening did not happen, the understanding did not either."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-09",
+        "phrase": "Если бы погода была лучше, мы бы пошли на пляж.",
+        "fullAnalysis": "Strategic focus: Weather-based counterfactual. The imagined better weather licenses the imagined trip, была and пошли both past with бы. The actual weather blocks the beach outing."
+      },
+      {
+        "id": "BY-HYP-ESLIBY-10",
+        "phrase": "Если бы они приехали, мы бы их встретили.",
+        "fullAnalysis": "Strategic focus: Unreal arrival and welcome. Приехали and встретили are past forms carrying бы, so both events belong to an imagined world. They did not come, so no one met them."
+      }
+    ]
+  }
+]
