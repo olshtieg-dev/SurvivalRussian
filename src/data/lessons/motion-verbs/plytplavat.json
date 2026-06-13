@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MV-PLYTPLAVAT",
+    "label": "Плыть / Плавать",
+    "badge": "SWIMMING",
+    "description": "A 10-sentence card contrasting плыть (one trip, now) with плавать (habitual/round-trip and general ability).",
+    "missions": [
+      {
+        "id": "MV-PLYTPLAVAT-01",
+        "phrase": "Я плыву к тому берегу.",
+        "fullAnalysis": "Strategic focus: One trip now. Плыву is determinate, first-person of плыть. It names a single swimming act toward one goal, к берегу, the classic determinate trigger."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-02",
+        "phrase": "Моя сестра умеет хорошо плавать.",
+        "fullAnalysis": "Strategic focus: General ability. Плавать is the indeterminate infinitive after умеет. Ability with no single direction always selects the indeterminate member of the pair."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-03",
+        "phrase": "Смотри, лодка плывёт к нам.",
+        "fullAnalysis": "Strategic focus: One trip now. Плывёт is determinate, third-person of плыть. The scene shows one directed approach unfolding now, к нам, so the determinate form fits."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-04",
+        "phrase": "Каждое лето мы плаваем в озере.",
+        "fullAnalysis": "Strategic focus: Habitual activity. Плаваем is indeterminate, first-person plural of плавать. Каждое лето marks a repeated, multidirectional pastime, the core indeterminate trigger."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-05",
+        "phrase": "Сейчас рыба плывёт против течения.",
+        "fullAnalysis": "Strategic focus: Minimal pair, now. Плывёт is determinate; сейчас and the single line против течения pin one directed swim. Compare with плавать, which would mean swimming about generally."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-06",
+        "phrase": "Эта рыба плавает у самого дна.",
+        "fullAnalysis": "Strategic focus: Minimal pair, habit. Плавает is indeterminate, third-person of плавать. It describes habitual, undirected movement around one area, the mirror of the determinate плывёт above."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-07",
+        "phrase": "Вчера он плыл очень быстро.",
+        "fullAnalysis": "Strategic focus: One past trip. Плыл is the determinate masculine past of плыть. It describes one directed swim on a specific occasion, вчера, so the determinate past is correct."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-08",
+        "phrase": "В детстве я плавал каждый день.",
+        "fullAnalysis": "Strategic focus: Past habit. Плавал is the indeterminate masculine past of плавать. Каждый день across childhood marks repeated, undirected sessions, which selects the indeterminate form."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-09",
+        "phrase": "Куда плывёт этот большой пароход?",
+        "fullAnalysis": "Strategic focus: One trip now. Плывёт is determinate, third-person of плыть. The question куда asks about the single destination of a vessel sailing in progress, a determinate context."
+      },
+      {
+        "id": "MV-PLYTPLAVAT-10",
+        "phrase": "Дельфины часто плавают рядом с лодками.",
+        "fullAnalysis": "Strategic focus: Habitual activity. Плавают is indeterminate, third-person plural of плавать. Часто marks a repeated, multidirectional behaviour with no single goal, the indeterminate trigger."
+      }
+    ]
+  }
+]

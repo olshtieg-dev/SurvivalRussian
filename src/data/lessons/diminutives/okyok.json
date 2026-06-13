@@ -1,0 +1,60 @@
+[
+  {
+    "id": "DIM-OKYOK",
+    "label": "Ок / Ёк",
+    "badge": "LITTLE (M)",
+    "description": "A 10-sentence card for the diminutive suffix -ок/-ёк.",
+    "missions": [
+      {
+        "id": "DIM-OKYOK-01",
+        "phrase": "Иди сюда, мой милый сынок.",
+        "fullAnalysis": "Strategic focus: сынок from сын. The suffix -ок turns сын 'son' into сынок 'little son', adding warmth and tenderness rather than literal smallness."
+      },
+      {
+        "id": "DIM-OKYOK-02",
+        "phrase": "Это мой старый школьный дружок.",
+        "fullAnalysis": "Strategic focus: дружок from друг. The suffix -ок makes друг 'friend' into дружок 'dear little friend', conveying affection and familiar closeness."
+      },
+      {
+        "id": "DIM-OKYOK-03",
+        "phrase": "Издалека слышен тонкий голосок.",
+        "fullAnalysis": "Strategic focus: голосок from голос. The suffix -ок shrinks голос 'voice' into голосок 'little voice', suggesting a thin, small, gentle sound."
+      },
+      {
+        "id": "DIM-OKYOK-04",
+        "phrase": "Утром я пью горячий чаёк.",
+        "fullAnalysis": "Strategic focus: чаёк from чай. The suffix -ёк turns чай 'tea' into чаёк 'nice little tea', adding a cosy, indulgent, affectionate flavour."
+      },
+      {
+        "id": "DIM-OKYOK-05",
+        "phrase": "Бабушка испекла вкусный пирожок.",
+        "fullAnalysis": "Strategic focus: пирожок from пирог. The suffix -ок makes пирог 'pie' into пирожок 'little pie', naming a small hand pie with a homely warmth."
+      },
+      {
+        "id": "DIM-OKYOK-06",
+        "phrase": "Мы живём в тихом городке.",
+        "fullAnalysis": "Strategic focus: городок from город. The suffix -ок turns город 'city' into городок 'little town', marking a small settlement with a cosy nuance."
+      },
+      {
+        "id": "DIM-OKYOK-07",
+        "phrase": "Большой город, а наш — городок.",
+        "fullAnalysis": "Strategic focus: contrast город and городок. The plain город names a large city, while городок with -ок signals a small town; the pair shows the suffix adding smallness."
+      },
+      {
+        "id": "DIM-OKYOK-08",
+        "phrase": "Где же твой звонкий голосок?",
+        "fullAnalysis": "Strategic focus: голосок from голос. Here -ок gives голосок 'little voice' a tender, coaxing tone, often used when speaking to a child."
+      },
+      {
+        "id": "DIM-OKYOK-09",
+        "phrase": "Сынок, помоги мне на кухне.",
+        "fullAnalysis": "Strategic focus: сынок from сын. The suffix -ок makes сынок 'little son' a familiar, loving form of address rather than a comment on size."
+      },
+      {
+        "id": "DIM-OKYOK-10",
+        "phrase": "Возьми с собой ещё пирожок.",
+        "fullAnalysis": "Strategic focus: пирожок from пирог. The suffix -ок turns пирог 'pie' into пирожок 'little pie', emphasising the small, single serving offered with care."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "COL-DVOECHETVERO",
+    "label": "Двое – Четверо",
+    "badge": "COLLECTIVE 2–4",
+    "description": "A 10-sentence card for collective numerals two through four.",
+    "missions": [
+      {
+        "id": "COL-DVOECHETVERO-01",
+        "phrase": "У них двое детей.",
+        "fullAnalysis": "Strategic focus: Collective with genitive plural. 'Двое' is a collective numeral that governs the genitive plural, so 'детей' stands in the genitive plural rather than the usual count form."
+      },
+      {
+        "id": "COL-DVOECHETVERO-02",
+        "phrase": "Трое друзей пришли в гости.",
+        "fullAnalysis": "Strategic focus: Collective with people. 'Трое' governs the genitive plural 'друзей'; collective numerals are preferred with groups of people, and the verb takes the plural."
+      },
+      {
+        "id": "COL-DVOECHETVERO-03",
+        "phrase": "Четверо студентов сдали экзамен.",
+        "fullAnalysis": "Strategic focus: Collective subject. 'Четверо' requires the genitive plural 'студентов'; as a subject of people it pairs naturally with the plural verb 'сдали'."
+      },
+      {
+        "id": "COL-DVOECHETVERO-04",
+        "phrase": "Мы ехали четверо суток.",
+        "fullAnalysis": "Strategic focus: Pluralia tantum. With nouns that exist only in the plural, like 'сутки', collectives are obligatory; 'четверо' governs the genitive plural 'суток'."
+      },
+      {
+        "id": "COL-DVOECHETVERO-05",
+        "phrase": "В углу спали трое котят.",
+        "fullAnalysis": "Strategic focus: Young animals. Collectives may count young animals; 'трое' governs the genitive plural 'котят', and the plural verb 'спали' agrees with the group."
+      },
+      {
+        "id": "COL-DVOECHETVERO-06",
+        "phrase": "Двое мужчин ждали у входа.",
+        "fullAnalysis": "Strategic focus: Genitive plural government. 'Двое' takes the genitive plural 'мужчин'; collectives are common with male persons, with the verb in the plural."
+      },
+      {
+        "id": "COL-DVOECHETVERO-07",
+        "phrase": "Четверо рабочих чинят крышу.",
+        "fullAnalysis": "Strategic focus: Collective with workers. 'Четверо' governs the genitive plural 'рабочих'; the collective foregrounds the group acting together with a plural verb."
+      },
+      {
+        "id": "COL-DVOECHETVERO-08",
+        "phrase": "Трое ребят играют во дворе.",
+        "fullAnalysis": "Strategic focus: Informal group. 'Трое' governs the genitive plural 'ребят'; this collective is typical of colloquial counting of young people."
+      },
+      {
+        "id": "COL-DVOECHETVERO-09",
+        "phrase": "Я купил двое ножниц.",
+        "fullAnalysis": "Strategic focus: Pluralia tantum object. With plural-only 'ножницы' a collective is required; 'двое' governs the genitive plural 'ножниц' as a direct object."
+      },
+      {
+        "id": "COL-DVOECHETVERO-10",
+        "phrase": "Четверо солдат охраняли мост.",
+        "fullAnalysis": "Strategic focus: Collective with soldiers. 'Четверо' governs the genitive plural 'солдат'; the collective is standard for male persons acting as a unit."
+      }
+    ]
+  }
+]

@@ -124,10 +124,39 @@ in incidentally.
    `lessons/index.js`; vocab fill added **21 entries** (13,674 → 13,695), **0 missing
    tokens**. Live Turbopack build clean (HTTP 200). Backup: `vocabulary.json.bak.pre-conditional-fill`.
    Not yet committed (owner commits).
-4. **Motion-verb pair system** (extend `spatial-motion/`: идти↔ходить, ехать↔ездить,
-   нести↔носить; single-trip vs habitual vs round-trip; by-foot vs by-vehicle).
-5. **Diminutives** + **passive voice** + **ordinal/collective numerals** + **свой**
-   (smaller targeted decks).
+4. ~~**Motion-verb pair system**~~ ✅ **BUILT 2026-06-13** — new `motion-verbs/` family
+   (NOT folded into `spatial-motion/`, which turned out to be preposition-government, not
+   verb pairs; and `verbs/` only has single-verb conjugation decks). 7 determinate↔
+   indeterminate pair cards × 10 contrast sentences = **70 sentences**: идти↔ходить,
+   ехать↔ездить, бежать↔бегать, лететь↔летать, нести↔носить, вести↔водить, плыть↔плавать.
+   Every card teaches the choice (one-trip/in-progress vs habitual/round-trip) with
+   minimal-pair contrasts, past round-trip = indeterminate, and the носить='wear' /
+   водить машину='drive' idioms. Wired into `lessons/index.js`; vocab fill +**26 entries**
+   (13,695 → 13,721), **0 missing tokens**. Live build clean (HTTP 200).
+   Backup: `vocabulary.json.bak.pre-motion-fill`. Not yet committed (owner commits).
+5. ~~**Diminutives** + **passive voice** + **ordinal/collective numerals** + **свой**~~
+   ✅ **BUILT 2026-06-13** — four small families, **19 cards / 190 sentences**:
+   - `diminutives/` (6): -ик/-чик, -ок/-ёк, -очка/-ечка, affectionate -енька, folksy
+     -ушка, + augmentative -ище.
+   - `numerals/` (5, 2 groups): ordinals 1st–10th + dates/floors (genitive-date rule,
+     третий soft endings); collectives двое–четверо + genitive-plural governance.
+   - `possessives/` (4): свой basics, the свой-vs-его/её contrast (minimal pairs),
+     declension, idioms (по-своему, своими руками).
+   - `passive-voice/` (4): reflexive -ся passive, periphrastic быть + short participle,
+     instrumental agent, active↔passive transforms.
+   Wired into `lessons/index.js`; vocab fill +**121 entries** (13,721 → 13,842), **0
+   missing tokens**. Live build clean (HTTP 200). Backup: `vocabulary.json.bak.pre-smalldecks-fill`.
+
+---
+
+## Audit status: COMPLETE (2026-06-13)
+
+Every gap identified in this audit has been built. Across the session, **8 new grammar
+families** were added — participles, gerunds, conditional бы, motion-verb pairs,
+diminutives, numerals (ordinal/collective), possessives (свой), passive voice —
+totalling **70 cards / 700 new sentences** and **+533 vocab entries**
+(13,309 → 13,842), all at 0 missing tokens and verified compiling via the live
+Turbopack build. None committed (owner commits per batch).
 
 Each follows the proven `CLAUDE.md` pipeline (manifest → parallel-subagent gen →
 per-form vocab fill → 0-missing-token scan → commit when owner asks). Doing these

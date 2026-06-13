@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PASS-AGENTINSTR",
+    "label": "Кем сделано",
+    "badge": "BY-AGENT",
+    "description": "A 10-sentence card for the passive agent expressed in the instrumental case.",
+    "missions": [
+      { "id": "PASS-AGENTINSTR-01", "phrase": "Этот роман написан известным автором.", "fullAnalysis": "Strategic focus: Instrumental agent. This is passive voice with the short participle написан. The agent известным автором stands in the instrumental, naming who wrote the novel." },
+      { "id": "PASS-AGENTINSTR-02", "phrase": "Наш дом построен опытными рабочими.", "fullAnalysis": "Strategic focus: Plural instrumental agent. Построен is the short passive participle, the house was built. The doers рабочими sit in the instrumental as the agents of the building." },
+      { "id": "PASS-AGENTINSTR-03", "phrase": "Этот закон принят новым парламентом.", "fullAnalysis": "Strategic focus: Instrumental agent. Принят is the short participle of the perfective passive, was passed. The agent парламентом appears in the instrumental as the body that adopted the law." },
+      { "id": "PASS-AGENTINSTR-04", "phrase": "Эта картина нарисована талантливым художником.", "fullAnalysis": "Strategic focus: Instrumental agent. Нарисована is the feminine short participle, was painted. The agent художником stands in the instrumental, telling us who created the picture." },
+      { "id": "PASS-AGENTINSTR-05", "phrase": "Письмо было прочитано моим другом.", "fullAnalysis": "Strategic focus: Instrumental agent with быть. Было прочитано is the periphrastic passive, was read. The agent другом sits in the instrumental as the reader behind the action." },
+      { "id": "PASS-AGENTINSTR-06", "phrase": "Эта песня исполнена молодой певицей.", "fullAnalysis": "Strategic focus: Instrumental agent. Исполнена is the short passive participle, was performed. The agent певицей appears in the instrumental, naming who sang the song." },
+      { "id": "PASS-AGENTINSTR-07", "phrase": "Решение принято всеми членами совета.", "fullAnalysis": "Strategic focus: Plural instrumental agent. Принято is the neuter short participle, was made. The agent членами совета stands in the instrumental as those who took the decision." },
+      { "id": "PASS-AGENTINSTR-08", "phrase": "Этот мост спроектирован хорошим инженером.", "fullAnalysis": "Strategic focus: Instrumental agent. Спроектирован is the short passive participle, was designed. The agent инженером sits in the instrumental, marking who drew up the bridge." },
+      { "id": "PASS-AGENTINSTR-09", "phrase": "Договор подписан обоими директорами сегодня.", "fullAnalysis": "Strategic focus: Plural instrumental agent. Подписан is the short participle, was signed. The agents директорами stand in the instrumental as the ones who signed the contract." },
+      { "id": "PASS-AGENTINSTR-10", "phrase": "Эта статья переведена опытным переводчиком.", "fullAnalysis": "Strategic focus: Instrumental agent. Переведена is the feminine short participle, was translated. The agent переводчиком appears in the instrumental, naming who rendered the article." }
+    ]
+  }
+]

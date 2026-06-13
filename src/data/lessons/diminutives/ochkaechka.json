@@ -1,0 +1,60 @@
+[
+  {
+    "id": "DIM-OCHKAECHKA",
+    "label": "Очка / Ечка",
+    "badge": "SMALL (F)",
+    "description": "A 10-sentence card for the diminutive suffix -очка/-ечка.",
+    "missions": [
+      {
+        "id": "DIM-OCHKAECHKA-01",
+        "phrase": "Налей мне маленькую чашечку кофе.",
+        "fullAnalysis": "Strategic focus: чашечка from чашка. The suffix -ечка turns чашка 'cup' into чашечка 'little cup', adding smallness and a soft, polite tone."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-02",
+        "phrase": "Дай ребёнку чистую ложечку.",
+        "fullAnalysis": "Strategic focus: ложечка from ложка. The suffix -ечка shrinks ложка 'spoon' into ложечка 'little spoon', marking a small teaspoon with a gentle nuance."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-03",
+        "phrase": "На крыльце сидит пушистая кошечка.",
+        "fullAnalysis": "Strategic focus: кошечка from кошка. The suffix -ечка turns кошка 'cat' into кошечка 'little cat', conveying smallness and tender affection."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-04",
+        "phrase": "В небе горит яркая звёздочка.",
+        "fullAnalysis": "Strategic focus: звёздочка from звезда. The suffix -очка makes звезда 'star' into звёздочка 'little star', adding smallness and a fond, poetic feeling."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-05",
+        "phrase": "Поставь на стол чистую тарелочку.",
+        "fullAnalysis": "Strategic focus: тарелочка from тарелка. The suffix -очка shrinks тарелка 'plate' into тарелочка 'little plate', naming a small dish with a warm tone."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-06",
+        "phrase": "Она носит модную красную сумочку.",
+        "fullAnalysis": "Strategic focus: сумочка from сумка. The suffix -очка turns сумка 'bag' into сумочка 'little bag', marking a small handbag affectionately."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-07",
+        "phrase": "Большая чашка, а это чашечка.",
+        "fullAnalysis": "Strategic focus: contrast чашка and чашечка. The plain чашка names a full cup, while чашечка with -ечка signals a small one; the pair shows the suffix adding smallness."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-08",
+        "phrase": "Маленькая кошечка спит на диване.",
+        "fullAnalysis": "Strategic focus: кошечка from кошка. Here -ечка gives кошечка 'little cat' a doubly small, endearing quality reinforced by 'маленькая'."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-09",
+        "phrase": "Дочка нарисовала жёлтую звёздочку.",
+        "fullAnalysis": "Strategic focus: звёздочка from звезда. The suffix -очка turns звезда 'star' into звёздочка 'little star', here naming a small drawn shape with a tender feel."
+      },
+      {
+        "id": "DIM-OCHKAECHKA-10",
+        "phrase": "Возьми эту удобную дамскую сумочку.",
+        "fullAnalysis": "Strategic focus: сумочка from сумка. The suffix -очка makes сумка 'bag' into сумочка 'little bag', stressing its small, neat size with a pleasant nuance."
+      }
+    ]
+  }
+]

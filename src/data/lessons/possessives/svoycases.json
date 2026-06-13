@@ -1,0 +1,60 @@
+[
+  {
+    "id": "POS-SVOYCASES",
+    "label": "Своего / Своему",
+    "badge": "DECLINED",
+    "description": "A 10-sentence card for свой declined across genders and cases.",
+    "missions": [
+      {
+        "id": "POS-SVOYCASES-01",
+        "phrase": "Я звоню своему брату.",
+        "fullAnalysis": "Strategic focus: Masculine dative своему. Свой agrees with the possessed noun and points back to the subject. Своему is the masculine dative form, matching брату; since я am the caller, свой is used, not его."
+      },
+      {
+        "id": "POS-SVOYCASES-02",
+        "phrase": "Она гордится своей дочерью.",
+        "fullAnalysis": "Strategic focus: Feminine instrumental своей. Своей is the feminine instrumental form, agreeing with дочерью. The subject она is the possessor, so свой rather than её is required."
+      },
+      {
+        "id": "POS-SVOYCASES-03",
+        "phrase": "Мы заботимся о своих детях.",
+        "fullAnalysis": "Strategic focus: Plural prepositional своих. Своих is the plural prepositional form after о, agreeing with детях. Because мы are the subject and the parents, свой is used in place of их."
+      },
+      {
+        "id": "POS-SVOYCASES-04",
+        "phrase": "Он сделал это своими руками.",
+        "fullAnalysis": "Strategic focus: Plural instrumental своими. Своими is the plural instrumental form, agreeing with руками. The subject он acted, so свой points back to him."
+      },
+      {
+        "id": "POS-SVOYCASES-05",
+        "phrase": "Я не нашёл своего паспорта.",
+        "fullAnalysis": "Strategic focus: Masculine genitive своего. Своего is the masculine genitive form under negation, agreeing with паспорта. The same-subject rule applies, so свой replaces мой in the reflexive sense."
+      },
+      {
+        "id": "POS-SVOYCASES-06",
+        "phrase": "Она пишет письмо своей подруге.",
+        "fullAnalysis": "Strategic focus: Feminine dative своей. Своей is the feminine dative form, agreeing with подруге. Since она is the writer, свой is used instead of её."
+      },
+      {
+        "id": "POS-SVOYCASES-07",
+        "phrase": "Мы говорили о своём проекте.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional своём. Своём is the masculine prepositional form after о, agreeing with проекте. The subject мы own the project, so свой is correct."
+      },
+      {
+        "id": "POS-SVOYCASES-08",
+        "phrase": "Он доволен своим результатом.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental своим. Своим is the masculine instrumental form, agreeing with результатом. Because он is the subject and possessor, свой is used, not его."
+      },
+      {
+        "id": "POS-SVOYCASES-09",
+        "phrase": "Они помогают своим соседям.",
+        "fullAnalysis": "Strategic focus: Plural dative своим. Своим is the plural dative form, agreeing with соседям. The subject они are the helpers, so свой points back to them rather than их."
+      },
+      {
+        "id": "POS-SVOYCASES-10",
+        "phrase": "Я думаю о своей семье.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional своей. Своей is the feminine prepositional form after о, agreeing with семье. The subject я is the possessor, so свой is the reflexive choice."
+      }
+    ]
+  }
+]

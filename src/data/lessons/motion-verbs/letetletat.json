@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MV-LETETLETAT",
+    "label": "Лететь / Летать",
+    "badge": "FLYING",
+    "description": "A 10-sentence card contrasting лететь (one flight, in progress, one direction) with летать (habitual flying, round trips and general ability).",
+    "missions": [
+      { "id": "MV-LETETLETAT-01", "phrase": "Сейчас я лечу в Москву.", "fullAnalysis": "Strategic focus: One flight in progress. 'Лечу' is the determinate verb лететь in the first person, naming a single flight happening now. The marker сейчас fixes one trip in one direction, the determinate context." },
+      { "id": "MV-LETETLETAT-02", "phrase": "Каждый месяц я летаю в Берлин.", "fullAnalysis": "Strategic focus: Regular travel. 'Летаю' is the indeterminate verb летать in the first person. The marker каждый месяц signals habitual round-trip flights, which selects the indeterminate member." },
+      { "id": "MV-LETETLETAT-03", "phrase": "Смотри, самолёт летит над городом.", "fullAnalysis": "Strategic focus: Motion in progress. 'Летит' is the determinate third-person form of лететь, describing one plane flying over the city right now. A single flight underway selects the determinate verb." },
+      { "id": "MV-LETETLETAT-04", "phrase": "Летом мы летали в Турцию.", "fullAnalysis": "Strategic focus: Completed round trip. 'Летали' is the past indeterminate of летать. A finished flight to Turkey and back is expressed with the indeterminate past, not the determinate." },
+      { "id": "MV-LETETLETAT-05", "phrase": "Куда ты летишь на этой неделе?", "fullAnalysis": "Strategic focus: Direction of one flight. 'Летишь' is the determinate second-person form of лететь. The question куда asks the goal of a single planned flight in one direction, selecting the determinate verb." },
+      { "id": "MV-LETETLETAT-06", "phrase": "Птицы часто летают над озером.", "fullAnalysis": "Strategic focus: Multi-directional habit. 'Летают' is the indeterminate third-person plural of летать. The marker часто and the back-and-forth flight over the lake require the indeterminate member." },
+      { "id": "MV-LETETLETAT-07", "phrase": "Завтра мы летим домой.", "fullAnalysis": "Strategic focus: One planned flight. 'Летим' is the determinate first-person plural of лететь. A single planned flight home in one direction takes the determinate member." },
+      { "id": "MV-LETETLETAT-08", "phrase": "Раньше он летал на работу.", "fullAnalysis": "Strategic focus: Former habit. 'Летал' is the indeterminate masculine past of летать. The marker раньше frames a repeated past routine of commuting by plane, so the indeterminate past is used." },
+      { "id": "MV-LETETLETAT-09", "phrase": "Тогда она летела ночным рейсом.", "fullAnalysis": "Strategic focus: One flight in the past. 'Летела' is the determinate feminine past of лететь. It pictures a single flight unfolding at a definite moment in one direction, the determinate use in the past." },
+      { "id": "MV-LETETLETAT-10", "phrase": "Обычно я летаю, но сейчас лечу впервые.", "fullAnalysis": "Strategic focus: Habitual versus one trip minimal pair. 'Летаю' with обычно marks the habitual indeterminate, while 'лечу' with сейчас and впервые marks one determinate flight. The same scene shows both members side by side." }
+    ]
+  }
+]

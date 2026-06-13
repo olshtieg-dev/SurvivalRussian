@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PASS-REFLEXIVEPASSIVE",
+    "label": "Строится",
+    "badge": "-СЯ PASSIVE",
+    "description": "A 10-sentence card for the reflexive -ся passive construction.",
+    "missions": [
+      { "id": "PASS-REFLEXIVEPASSIVE-01", "phrase": "Новый дом строится на нашей улице.", "fullAnalysis": "Strategic focus: Imperfective reflexive passive. This is passive voice built with строить plus -ся, so строится means is being built. Дом is the grammatical subject yet the logical object of the building." },
+      { "id": "PASS-REFLEXIVEPASSIVE-02", "phrase": "Книги продаются здесь каждый день.", "fullAnalysis": "Strategic focus: Plural reflexive passive. Продаются is продавать plus -ся, the imperfective passive meaning are being sold. The books are the subject grammatically but the thing acted upon." },
+      { "id": "PASS-REFLEXIVEPASSIVE-03", "phrase": "Свежий хлеб печётся рано утром.", "fullAnalysis": "Strategic focus: Reflexive passive with ё. Печётся joins печь and -ся to say is being baked, the imperfective passive. Хлеб stands as subject while remaining the object of the baking." },
+      { "id": "PASS-REFLEXIVEPASSIVE-04", "phrase": "Этот вопрос сейчас обсуждается комиссией.", "fullAnalysis": "Strategic focus: Reflexive passive with instrumental agent. Обсуждается is обсуждать plus -ся, is being discussed. The agent комиссией stands in the instrumental, naming who does the discussing." },
+      { "id": "PASS-REFLEXIVEPASSIVE-05", "phrase": "Эта газета читается миллионами людей.", "fullAnalysis": "Strategic focus: Reflexive passive with agent. Читается comes from читать plus -ся and means is read. The agent миллионами людей sits in the instrumental as the readers behind the action." },
+      { "id": "PASS-REFLEXIVEPASSIVE-06", "phrase": "Окна моются раз в неделю.", "fullAnalysis": "Strategic focus: Plural reflexive passive. Моются is мыть plus -ся, the imperfective passive are washed. Окна serve as grammatical subject though they are what gets cleaned." },
+      { "id": "PASS-REFLEXIVEPASSIVE-07", "phrase": "Новые слова запоминаются очень легко.", "fullAnalysis": "Strategic focus: Reflexive passive. Запоминаются is запоминать plus -ся, meaning are memorized or stick in the mind. Слова are the subject yet the objects being learned." },
+      { "id": "PASS-REFLEXIVEPASSIVE-08", "phrase": "Молоко продаётся в каждом магазине.", "fullAnalysis": "Strategic focus: Reflexive passive with ё. Продаётся is продавать plus -ся, is sold. Молоко is the grammatical subject although it is the goods being sold by shops." },
+      { "id": "PASS-REFLEXIVEPASSIVE-09", "phrase": "Этот мост строится уже два года.", "fullAnalysis": "Strategic focus: Ongoing reflexive passive. Строится marks the imperfective passive, an action still in progress. Мост is the subject grammatically while remaining the thing being built." },
+      { "id": "PASS-REFLEXIVEPASSIVE-10", "phrase": "Письма пишутся и отправляются быстро.", "fullAnalysis": "Strategic focus: Paired reflexive passives. Пишутся and отправляются both add -ся to transitive verbs, forming the imperfective passive are written and are sent. Письма are subject yet the objects acted upon." }
+    ]
+  }
+]

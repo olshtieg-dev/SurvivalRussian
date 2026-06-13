@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ORD-PERVYYPYATYY",
+    "label": "Первый – Пятый",
+    "badge": "1ST–5TH",
+    "description": "A 10-sentence card for ordinal numerals first through fifth.",
+    "missions": [
+      {
+        "id": "ORD-PERVYYPYATYY-01",
+        "phrase": "Это мой первый рабочий день.",
+        "fullAnalysis": "Strategic focus: Masculine nominative. 'Первый' is an ordinal numeral that declines like an adjective and agrees with masculine 'день' in gender, number and case, here nominative singular."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-02",
+        "phrase": "Она живёт на втором этаже.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional. 'Втором' agrees with 'этаже' in the prepositional case after 'на', taking the hard adjective ending -ом for masculine ordinals."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-03",
+        "phrase": "Я сижу в третьем ряду.",
+        "fullAnalysis": "Strategic focus: Soft-stem ordinal. 'Третий' is unique among ordinals with soft endings; in the masculine prepositional it becomes 'третьем' with a soft -ьем, agreeing with 'ряду'."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-04",
+        "phrase": "Третья дверь была закрыта.",
+        "fullAnalysis": "Strategic focus: Feminine soft ordinal. The soft-stem 'третий' takes the feminine ending -ья, giving 'третья', which agrees with feminine 'дверь' in the nominative."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-05",
+        "phrase": "Третье окно выходит во двор.",
+        "fullAnalysis": "Strategic focus: Neuter soft ordinal. 'Третий' takes the neuter soft ending -ье to form 'третье', agreeing with neuter 'окно' in the nominative singular."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-06",
+        "phrase": "Мы встретились на четвёртой неделе.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional. 'Четвёртой' agrees with feminine 'неделе' in the prepositional after 'на', using the feminine ending -ой; note the ё in the stem."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-07",
+        "phrase": "Я прочитал вторую главу книги.",
+        "fullAnalysis": "Strategic focus: Feminine accusative. 'Вторую' agrees with feminine 'главу' in the accusative singular, taking the adjectival ending -ую as a direct object."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-08",
+        "phrase": "Пятый автобус уже ушёл.",
+        "fullAnalysis": "Strategic focus: Masculine nominative. 'Пятый' agrees with masculine 'автобус' in the nominative singular, declining like a hard-stem adjective."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-09",
+        "phrase": "Он пришёл без третьего звонка.",
+        "fullAnalysis": "Strategic focus: Soft-stem genitive. The soft ordinal 'третий' takes the masculine genitive -ьего after the preposition 'без', giving 'третьего', agreeing with 'звонка'."
+      },
+      {
+        "id": "ORD-PERVYYPYATYY-10",
+        "phrase": "Дети сидят за первым столом.",
+        "fullAnalysis": "Strategic focus: Masculine instrumental. 'Первым' agrees with masculine 'столом' in the instrumental after 'за', using the adjectival ending -ым."
+      }
+    ]
+  }
+]

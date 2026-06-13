@@ -1,0 +1,60 @@
+[
+  {
+    "id": "POS-SVOYVSEGO",
+    "label": "Свой / Его",
+    "badge": "OWN vs HIS",
+    "description": "A 10-sentence card contrasting свой with его, её and их.",
+    "missions": [
+      {
+        "id": "POS-SVOYVSEGO-01",
+        "phrase": "Он взял свою книгу.",
+        "fullAnalysis": "Strategic focus: Свой equals the subject. The possessor он is the clause subject, so свой is required; свою here means his own book. Свою agrees with feminine книгу."
+      },
+      {
+        "id": "POS-SVOYVSEGO-02",
+        "phrase": "Он взял его книгу.",
+        "fullAnalysis": "Strategic focus: Его equals someone else. The possessor is not the subject, so его points to another man's book. Unlike свой, его never refers back to the clause subject."
+      },
+      {
+        "id": "POS-SVOYVSEGO-03",
+        "phrase": "Она нашла свою сумку.",
+        "fullAnalysis": "Strategic focus: Свой equals the subject. Because она is both subject and owner, свой is used; свою means her own bag and agrees with feminine сумку."
+      },
+      {
+        "id": "POS-SVOYVSEGO-04",
+        "phrase": "Она нашла её сумку.",
+        "fullAnalysis": "Strategic focus: Её equals another woman. Here the owner differs from the subject она, so её marks a different woman's bag. Её cannot point back to the subject the way свой does."
+      },
+      {
+        "id": "POS-SVOYVSEGO-05",
+        "phrase": "Они помыли свою машину.",
+        "fullAnalysis": "Strategic focus: Свой equals the subject. The owners они are the clause subject, so свой is correct; свою means their own car and agrees with feminine машину."
+      },
+      {
+        "id": "POS-SVOYVSEGO-06",
+        "phrase": "Они помыли их машину.",
+        "fullAnalysis": "Strategic focus: Их equals other people. The possessor is not the subject они, so их refers to some other group's car. Свой would have meant their own; их signals a different owner."
+      },
+      {
+        "id": "POS-SVOYVSEGO-07",
+        "phrase": "Он позвонил своему другу.",
+        "fullAnalysis": "Strategic focus: Свой equals the subject. Since он is subject and possessor, свой is used; своему is masculine dative, agreeing with другу, and means his own friend."
+      },
+      {
+        "id": "POS-SVOYVSEGO-08",
+        "phrase": "Он позвонил его другу.",
+        "fullAnalysis": "Strategic focus: Его equals someone else. The owner differs from the subject, so его marks another man's friend. Его in the dative phrase points outside the clause subject, unlike свой."
+      },
+      {
+        "id": "POS-SVOYVSEGO-09",
+        "phrase": "Она любит свою сестру.",
+        "fullAnalysis": "Strategic focus: Свой equals the subject. The subject она is the possessor, so свой is required; свою is feminine accusative, agreeing with сестру, meaning her own sister."
+      },
+      {
+        "id": "POS-SVOYVSEGO-10",
+        "phrase": "Она любит её сестру.",
+        "fullAnalysis": "Strategic focus: Её equals another woman. The possessor is not the subject она, so её marks a different woman's sister. The contrast is the core rule: свой when subject equals possessor, его, её or их otherwise."
+      }
+    ]
+  }
+]

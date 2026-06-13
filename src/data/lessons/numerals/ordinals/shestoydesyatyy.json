@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ORD-SHESTOYDESYATYY",
+    "label": "Шестой – Десятый",
+    "badge": "6TH–10TH",
+    "description": "A 10-sentence card for ordinal numerals sixth through tenth.",
+    "missions": [
+      {
+        "id": "ORD-SHESTOYDESYATYY-01",
+        "phrase": "Шестой урок был очень трудным.",
+        "fullAnalysis": "Strategic focus: Masculine nominative. 'Шестой' is an ordinal that declines like a stressed-ending adjective and agrees with masculine 'урок' in the nominative singular."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-02",
+        "phrase": "Я живу в шестой квартире.",
+        "fullAnalysis": "Strategic focus: Feminine prepositional. 'Шестой' takes the feminine prepositional ending and agrees with 'квартире' after 'в', the stressed -ой serving both nominative and feminine oblique here."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-03",
+        "phrase": "Седьмой день недели - воскресенье.",
+        "fullAnalysis": "Strategic focus: Masculine nominative. 'Седьмой' agrees with masculine 'день' in the nominative singular; the dash links it to the predicate noun."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-04",
+        "phrase": "Мы спустились на седьмую палубу.",
+        "fullAnalysis": "Strategic focus: Feminine accusative. 'Седьмую' agrees with feminine 'палубу' in the accusative of direction after 'на', taking the adjectival ending -ую."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-05",
+        "phrase": "Восьмой вагон стоит впереди.",
+        "fullAnalysis": "Strategic focus: Masculine nominative. 'Восьмой' agrees with masculine 'вагон' in the nominative singular, declining like a stressed hard-stem adjective."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-06",
+        "phrase": "Она работает в восьмом кабинете.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional. 'Восьмом' agrees with masculine 'кабинете' in the prepositional after 'в', using the adjectival ending -ом."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-07",
+        "phrase": "Девятый класс закончил школу.",
+        "fullAnalysis": "Strategic focus: Masculine nominative. 'Девятый' agrees with masculine 'класс' in the nominative singular, taking the unstressed hard ending -ый."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-08",
+        "phrase": "Я взял книгу с девятой полки.",
+        "fullAnalysis": "Strategic focus: Feminine genitive. 'Девятой' agrees with feminine 'полки' in the genitive after 'с', taking the feminine oblique ending -ой."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-09",
+        "phrase": "Десятый этаж самый высокий.",
+        "fullAnalysis": "Strategic focus: Masculine nominative. 'Десятый' agrees with masculine 'этаж' in the nominative singular, declining like a hard-stem adjective."
+      },
+      {
+        "id": "ORD-SHESTOYDESYATYY-10",
+        "phrase": "Праздник был в десятом месяце.",
+        "fullAnalysis": "Strategic focus: Masculine prepositional. 'Десятом' agrees with masculine 'месяце' in the prepositional after 'в', taking the adjectival ending -ом."
+      }
+    ]
+  }
+]

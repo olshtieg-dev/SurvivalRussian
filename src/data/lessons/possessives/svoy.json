@@ -1,0 +1,60 @@
+[
+  {
+    "id": "POS-SVOY",
+    "label": "Свой",
+    "badge": "ONE'S OWN",
+    "description": "A 10-sentence card for the reflexive possessive свой.",
+    "missions": [
+      {
+        "id": "POS-SVOY-01",
+        "phrase": "Я взял свой зонт.",
+        "fullAnalysis": "Strategic focus: Masculine accusative свой. Свой is the reflexive possessive: it points back to the subject and agrees with the possessed noun. Here свой is inanimate masculine accusative, matching зонт, and marks the umbrella as belonging to the same person who took it."
+      },
+      {
+        "id": "POS-SVOY-02",
+        "phrase": "Она любит свою работу.",
+        "fullAnalysis": "Strategic focus: Feminine accusative свою. Because the possessor equals the clause subject, Russian uses свой rather than её. Свою agrees with feminine работу, naming the job as the subject's own."
+      },
+      {
+        "id": "POS-SVOY-03",
+        "phrase": "Мы пригласили своих друзей.",
+        "fullAnalysis": "Strategic focus: Animate plural accusative своих. Свой always refers to the subject; since мы are the hosts, своих is correct. The form своих agrees with the animate plural друзей."
+      },
+      {
+        "id": "POS-SVOY-04",
+        "phrase": "Он потерял свой ключ.",
+        "fullAnalysis": "Strategic focus: Masculine accusative свой. The subject он is also the possessor, so свой is used instead of его. Свой is inanimate masculine accusative, matching ключ."
+      },
+      {
+        "id": "POS-SVOY-05",
+        "phrase": "Дети моют свои руки.",
+        "fullAnalysis": "Strategic focus: Plural accusative свои. The same-subject rule applies: дети own the hands, so свои appears, not их. Свои agrees with the plural noun руки."
+      },
+      {
+        "id": "POS-SVOY-06",
+        "phrase": "Я открыл своё окно.",
+        "fullAnalysis": "Strategic focus: Neuter accusative своё. Свой agrees with the possessed noun in gender; своё is the neuter form, matching окно. The window belongs to the subject я."
+      },
+      {
+        "id": "POS-SVOY-07",
+        "phrase": "Студент сдал свою работу.",
+        "fullAnalysis": "Strategic focus: Feminine accusative свою. Since студент is both subject and possessor, свой is chosen over его. Свою agrees with feminine работу."
+      },
+      {
+        "id": "POS-SVOY-08",
+        "phrase": "Они продали свою машину.",
+        "fullAnalysis": "Strategic focus: Feminine accusative свою. Свой points back to the subject они, so свою replaces их. The form agrees with feminine машину."
+      },
+      {
+        "id": "POS-SVOY-09",
+        "phrase": "Я люблю свою семью.",
+        "fullAnalysis": "Strategic focus: Feminine accusative свою. The possessor is the subject я, so свой is used rather than мою here for the reflexive sense. Свою agrees with feminine семью."
+      },
+      {
+        "id": "POS-SVOY-10",
+        "phrase": "Кот ест свою еду.",
+        "fullAnalysis": "Strategic focus: Feminine accusative свою. The subject кот owns the food, so свой is correct instead of его. Свою agrees with the feminine noun еду."
+      }
+    ]
+  }
+]

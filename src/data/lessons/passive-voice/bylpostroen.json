@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PASS-BYLPOSTROEN",
+    "label": "Был построен",
+    "badge": "WAS DONE",
+    "description": "A 10-sentence card for the periphrastic быть plus short participle passive.",
+    "missions": [
+      { "id": "PASS-BYLPOSTROEN-01", "phrase": "Этот дом был построен очень давно.", "fullAnalysis": "Strategic focus: Masculine periphrastic passive. This is passive voice with быть plus the short participle, был построен meaning was built. Дом is the subject and the masculine был agrees with it." },
+      { "id": "PASS-BYLPOSTROEN-02", "phrase": "Это письмо было написано вчера утром.", "fullAnalysis": "Strategic focus: Neuter periphrastic passive. Было написано pairs neuter было with the short participle, the perfective passive was written. Письмо is the neuter subject acted upon." },
+      { "id": "PASS-BYLPOSTROEN-03", "phrase": "Работа уже сделана и проверена.", "fullAnalysis": "Strategic focus: Present zero copula passive. Сделана и проверена are short participles with no overt быть, so the present copula is zero. The feminine работа is done and checked." },
+      { "id": "PASS-BYLPOSTROEN-04", "phrase": "Магазин будет открыт завтра в девять.", "fullAnalysis": "Strategic focus: Future periphrastic passive. Будет открыт uses future будет with the short participle, will be opened. Магазин is the masculine subject of this perfective passive." },
+      { "id": "PASS-BYLPOSTROEN-05", "phrase": "Эта книга была написана за месяц.", "fullAnalysis": "Strategic focus: Feminine periphrastic passive. Была написана joins feminine была with the short participle, was written. Книга is the feminine subject acted upon by an unnamed author." },
+      { "id": "PASS-BYLPOSTROEN-06", "phrase": "Все окна были вымыты к празднику.", "fullAnalysis": "Strategic focus: Plural periphrastic passive. Были вымыты pairs plural были with the short participle, were washed. Окна are the plural subject undergoing the action." },
+      { "id": "PASS-BYLPOSTROEN-07", "phrase": "Дверь была закрыта на ключ.", "fullAnalysis": "Strategic focus: Feminine periphrastic passive. Была закрыта uses feminine была and the short participle, was locked. Дверь is the subject, the perfective result still in place." },
+      { "id": "PASS-BYLPOSTROEN-08", "phrase": "Этот вопрос будет решён очень скоро.", "fullAnalysis": "Strategic focus: Future periphrastic passive with ё. Будет решён combines future будет with the short participle, will be solved. Вопрос is the masculine subject of the perfective passive." },
+      { "id": "PASS-BYLPOSTROEN-09", "phrase": "Деньги были потеряны в дороге.", "fullAnalysis": "Strategic focus: Plural periphrastic passive. Были потеряны pairs plural были with the short participle, were lost. Деньги are the plural subject affected by the action." },
+      { "id": "PASS-BYLPOSTROEN-10", "phrase": "Завтрак был приготовлен моей мамой.", "fullAnalysis": "Strategic focus: Periphrastic passive with instrumental agent. Был приготовлен is быть plus the short participle, was prepared. The agent мамой stands in the instrumental as the one who cooked." }
+    ]
+  }
+]

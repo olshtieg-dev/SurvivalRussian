@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MV-BEZHATBEGAT",
+    "label": "Бежать / Бегать",
+    "badge": "RUNNING",
+    "description": "A 10-sentence card contrasting бежать (one run, in progress, one direction) with бегать (habitual running, round trips and general ability).",
+    "missions": [
+      { "id": "MV-BEZHATBEGAT-01", "phrase": "Смотри, он бежит к автобусу.", "fullAnalysis": "Strategic focus: One run in progress. 'Бежит' is the determinate verb бежать in the third person, showing one person running toward the bus right now. A single run in one direction selects the determinate member." },
+      { "id": "MV-BEZHATBEGAT-02", "phrase": "Каждое утро я бегаю в парке.", "fullAnalysis": "Strategic focus: Daily exercise. 'Бегаю' is the indeterminate verb бегать in the first person. The marker каждое утро signals a habitual, multi-directional jog, which selects the indeterminate member." },
+      { "id": "MV-BEZHATBEGAT-03", "phrase": "Сейчас я бегу домой за деньгами.", "fullAnalysis": "Strategic focus: One purposeful run. 'Бегу' is the determinate first-person form of бежать. The marker сейчас and the clear goal mark one trip in one direction, the determinate context." },
+      { "id": "MV-BEZHATBEGAT-04", "phrase": "Вчера дети бегали во дворе.", "fullAnalysis": "Strategic focus: Multi-directional past play. 'Бегали' is the indeterminate plural past of бегать. Running around the yard in many directions, with no single goal, takes the indeterminate past." },
+      { "id": "MV-BEZHATBEGAT-05", "phrase": "Спортсмен быстро бежит к финишу.", "fullAnalysis": "Strategic focus: One race in progress. 'Бежит' is the determinate third-person form of бежать, naming a single run toward the finish line in one direction. A focused trip underway selects the determinate verb." },
+      { "id": "MV-BEZHATBEGAT-06", "phrase": "Моя дочь хорошо бегает и плавает.", "fullAnalysis": "Strategic focus: General ability. 'Бегает' is the indeterminate third-person form of бегать. Describing a skill or general ability, rather than one trip, requires the indeterminate member." },
+      { "id": "MV-BEZHATBEGAT-07", "phrase": "Куда ты бежишь так рано?", "fullAnalysis": "Strategic focus: Direction of one run. 'Бежишь' is the determinate second-person form of бежать. The question куда asks the goal of a single run in one direction, selecting the determinate verb." },
+      { "id": "MV-BEZHATBEGAT-08", "phrase": "Раньше он бегал по утрам.", "fullAnalysis": "Strategic focus: Former habit. 'Бегал' is the indeterminate masculine past of бегать. The marker раньше and the routine по утрам frame repeated past jogging, so the indeterminate past is used." },
+      { "id": "MV-BEZHATBEGAT-09", "phrase": "Тогда она бежала под дождём.", "fullAnalysis": "Strategic focus: One run in the past. 'Бежала' is the determinate feminine past of бежать. It pictures a single run unfolding at a definite moment in one direction, the determinate use in the past." },
+      { "id": "MV-BEZHATBEGAT-10", "phrase": "Обычно я бегаю, но сейчас бегу домой.", "fullAnalysis": "Strategic focus: Habitual versus one trip minimal pair. 'Бегаю' with обычно marks the habitual indeterminate, while 'бегу' with сейчас marks one determinate run home. The same scene shows both members side by side." }
+    ]
+  }
+]

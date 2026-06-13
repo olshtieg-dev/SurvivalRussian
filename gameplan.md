@@ -21,6 +21,14 @@ structure, layered on top of what we already have.
   handler).** The right rail becomes the home of the curated lesson system + login,
   and absorbs some controls currently on the left, so the whole thing is focused and
   not scrolly. It is the **mirror opposite of the left rail.**
+  - **🟡 SCAFFOLDED 2026-06-13 (placeholders only):** `src/components/RightRail.jsx`
+    — mirrors the left rail's collapsed width (w-20), always visible, with inert
+    placeholder buttons for **Google login** (LogIn icon) and **curriculum**
+    (GraduationCap icon). `src/components/AdSlot.jsx` — two placeholder ad gutters
+    (160×600, `hidden 2xl:flex`) flanking the interlinear gloss box in `page.js` via a
+    `2xl:-mx-44` break-out so they sit in the gutter without shrinking the analysis.
+    **No real wiring** — no OAuth, no ad network, no curriculum routing yet; ready to
+    drop those in. Verified compiling (live build HTTP 200).
 - **STEP 2 — Finish the lesson sets into a truly extensive course.** Complete the
   subject-matter coverage so the corpus demonstrates *all* features of Russian while
   describing in detail what's happening in each sentence (the analysis box already
@@ -84,6 +92,26 @@ guest/login handler — get the shell and the space right first.
   space — settle the center/left/right geometry now so nothing has to move twice.**
 - Stats + SRS UI (WS2) will later live in this right rail too, but the rail/layout is
   built first as its own step.
+
+## Workstreams 1–3 — Onboarding + curriculum + record: 🟡 v1 WIRED 2026-06-13
+
+**Built this session** (`useCurriculum` + `lib/curriculum/` + two overlays, wired into
+`page.js` and the RightRail curriculum icon):
+- **Onboarding questionnaire** (`OnboardingQuestionnaire.jsx`): 3 required Qs (QWERTY
+  touch-type? type Russian? Russian level?) + optional goal → feeds the planner.
+- **Planner** (`lib/curriculum/{catalog,planner}.js`, pure + unit-tested): maps answers
+  to a stage track (typing-foundations → core-lexical → everyday-conversation →
+  building-blocks → grammar-depth → free-review), drops the learner at the right entry
+  point, and serves the next un-done lesson set without catalogue browsing. Review picks
+  the least-recently-seen set.
+- **Record** (`useCurriculum`): client-side localStorage (`survival-russian-curriculum-v1`),
+  one JSON-serializable payload = the future Google-sync object. Tracks per-set mission
+  reps + last-seen. Completions logged from `page.js`'s mission-complete edge.
+- **CurriculumPanel.jsx**: shows the single recommendation (Start), Review + Free-play,
+  the stage roadmap with progress bars, and "what you've worked on" incl. rep counts.
+- **Not yet**: typing-foundations stage currently falls back to Essentials (no deep-link
+  to the structured typing tutor yet); Google login still a placeholder; SRS is "oldest
+  unseen" not yet interval-based. These are the next increments.
 
 ## Workstream 1 — Onboarding triage gate
 

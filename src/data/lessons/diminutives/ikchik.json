@@ -1,0 +1,60 @@
+[
+  {
+    "id": "DIM-IKCHIK",
+    "label": "Ик / Чик",
+    "badge": "SMALL (M)",
+    "description": "A 10-sentence card for the diminutive suffix -ик/-чик.",
+    "missions": [
+      {
+        "id": "DIM-IKCHIK-01",
+        "phrase": "У леса стоит уютный домик.",
+        "fullAnalysis": "Strategic focus: домик from дом. The suffix -ик turns дом 'house' into домик 'little house', adding smallness and a cosy, affectionate tone to the building."
+      },
+      {
+        "id": "DIM-IKCHIK-02",
+        "phrase": "Поставь чашку на маленький столик.",
+        "fullAnalysis": "Strategic focus: столик from стол. The suffix -ик shrinks стол 'table' into столик 'little table', marking a small or low piece of furniture with a friendly note."
+      },
+      {
+        "id": "DIM-IKCHIK-03",
+        "phrase": "Большой дом, а рядом домик.",
+        "fullAnalysis": "Strategic focus: contrast дом and домик. The plain дом names a full-size house, while домик with -ик signals a small, modest one; the pair shows the suffix adding smallness directly."
+      },
+      {
+        "id": "DIM-IKCHIK-04",
+        "phrase": "За окном растёт зелёный садик.",
+        "fullAnalysis": "Strategic focus: садик from сад. The suffix -ик makes сад 'garden' into садик 'little garden', conveying a small plot and a warm, homely feeling."
+      },
+      {
+        "id": "DIM-IKCHIK-05",
+        "phrase": "Я потерял маленький ключик.",
+        "fullAnalysis": "Strategic focus: ключик from ключ. The suffix -ик turns ключ 'key' into ключик 'little key', stressing the small size of the object affectionately."
+      },
+      {
+        "id": "DIM-IKCHIK-06",
+        "phrase": "В углу стоит старый диванчик.",
+        "fullAnalysis": "Strategic focus: диванчик from диван. The suffix -чик shrinks диван 'sofa' into диванчик 'little sofa', adding smallness and a soft, cosy nuance."
+      },
+      {
+        "id": "DIM-IKCHIK-07",
+        "phrase": "Налей мне ещё стаканчик воды.",
+        "fullAnalysis": "Strategic focus: стаканчик from стакан. The suffix -чик turns стакан 'glass' into стаканчик 'little glass', marking a small portion with a casual, friendly tone."
+      },
+      {
+        "id": "DIM-IKCHIK-08",
+        "phrase": "Этот ключик открывает старый шкаф.",
+        "fullAnalysis": "Strategic focus: ключик from ключ. Again -ик gives ключик 'little key' a sense of smallness and care, here for an everyday household object."
+      },
+      {
+        "id": "DIM-IKCHIK-09",
+        "phrase": "Наш дачный домик совсем крошечный.",
+        "fullAnalysis": "Strategic focus: домик from дом. The suffix -ик paired with 'крошечный' doubles the sense of smallness, presenting дом 'house' as a tiny, beloved cottage."
+      },
+      {
+        "id": "DIM-IKCHIK-10",
+        "phrase": "Дедушка любит свой садик.",
+        "fullAnalysis": "Strategic focus: садик from сад. The suffix -ик turns сад 'garden' into садик 'little garden', expressing both modest size and the owner's fondness for it."
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MV-IDTIKHODIT",
+    "label": "Идти / Ходить",
+    "badge": "ON FOOT",
+    "description": "A 10-sentence card contrasting идти (one trip, in progress, now) with ходить (habitual movement and completed round trips on foot).",
+    "missions": [
+      { "id": "MV-IDTIKHODIT-01", "phrase": "Сейчас я иду в школу.", "fullAnalysis": "Strategic focus: One trip in progress. 'Иду' is the determinate verb идти in the first person, naming a single walk happening right now. The marker сейчас anchors one specific trip in one direction, which is exactly when Russian selects the determinate member." },
+      { "id": "MV-IDTIKHODIT-02", "phrase": "Каждый день я хожу в школу.", "fullAnalysis": "Strategic focus: Daily habit. 'Хожу' is the indeterminate verb ходить in the first person. The frequency marker каждый день signals a repeated, habitual action rather than one trip, so the indeterminate member is required." },
+      { "id": "MV-IDTIKHODIT-03", "phrase": "Смотри, вон идёт твой друг.", "fullAnalysis": "Strategic focus: Visible motion now. 'Идёт' is the determinate third-person form of идти, describing one person walking in view at this moment. A single observed trip in progress selects the determinate verb." },
+      { "id": "MV-IDTIKHODIT-04", "phrase": "Вчера мы ходили в кино.", "fullAnalysis": "Strategic focus: Completed round trip. 'Ходили' is the past indeterminate of ходить. A finished there-and-back trip to the cinema and home again is expressed with the indeterminate past, not the determinate." },
+      { "id": "MV-IDTIKHODIT-05", "phrase": "Мой сын уже ходит в садик.", "fullAnalysis": "Strategic focus: Regular attendance. 'Ходит' is the indeterminate third-person form. Attending kindergarten is a recurring habit over time, the classic context for the indeterminate member ходить." },
+      { "id": "MV-IDTIKHODIT-06", "phrase": "Куда ты идёшь так быстро?", "fullAnalysis": "Strategic focus: Direction of one trip. 'Идёшь' is the determinate second-person form of идти. The question куда asks the goal of a single ongoing walk in one direction, selecting the determinate verb." },
+      { "id": "MV-IDTIKHODIT-07", "phrase": "По выходным мы часто ходим в парк.", "fullAnalysis": "Strategic focus: Repeated outings. 'Ходим' is the indeterminate first-person plural of ходить. The markers по выходным and часто signal habitual round trips, which require the indeterminate member." },
+      { "id": "MV-IDTIKHODIT-08", "phrase": "Тогда он медленно шёл домой.", "fullAnalysis": "Strategic focus: One walk in the past. 'Шёл' is the determinate masculine past of идти. It pictures a single walk home unfolding at a definite moment, the determinate use in the past tense." },
+      { "id": "MV-IDTIKHODIT-09", "phrase": "Раньше она ходила на работу пешком.", "fullAnalysis": "Strategic focus: Former habit. 'Ходила' is the indeterminate feminine past of ходить. The marker раньше frames a repeated past routine of commuting, so the indeterminate past is used." },
+      { "id": "MV-IDTIKHODIT-10", "phrase": "Сейчас я иду туда первый раз.", "fullAnalysis": "Strategic focus: Determinate versus habitual minimal pair. 'Иду' is again the determinate идти, set against the habitual хожу seen earlier. Сейчас, туда and первый раз mark one trip in one direction, the determinate choice." }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "DIM-USHKA",
+    "label": "Ушка / Юшка",
+    "badge": "FOLKSY",
+    "description": "A 10-sentence card for the folksy suffix -ушка/-юшка.",
+    "missions": [
+      {
+        "id": "DIM-USHKA-01",
+        "phrase": "Моя бабушка печёт чудесные блины.",
+        "fullAnalysis": "Strategic focus: бабушка from баба. The folksy suffix -ушка turns баба into бабушка 'grandmother', a warm, everyday term of affection."
+      },
+      {
+        "id": "DIM-USHKA-02",
+        "phrase": "Наш дедушка любит рассказывать сказки.",
+        "fullAnalysis": "Strategic focus: дедушка from дед. The suffix -ушка softens дед 'grandfather' into дедушка, adding folksy warmth and familiarity."
+      },
+      {
+        "id": "DIM-USHKA-03",
+        "phrase": "В лесу стоит старая избушка.",
+        "fullAnalysis": "Strategic focus: избушка from изба. The suffix -ушка turns изба 'peasant hut' into избушка 'little hut', a small, folksy, fairy-tale dwelling."
+      },
+      {
+        "id": "DIM-USHKA-04",
+        "phrase": "Болит моя бедная головушка.",
+        "fullAnalysis": "Strategic focus: головушка from голова. The suffix -ушка makes голова 'head' into головушка, a folksy, lyrical, pitying form common in folk songs."
+      },
+      {
+        "id": "DIM-USHKA-05",
+        "phrase": "В саду поёт звонкий соловушка.",
+        "fullAnalysis": "Strategic focus: соловушка from соловей. The suffix -ушка turns соловей 'nightingale' into соловушка 'dear nightingale', a tender, folk-poetic diminutive."
+      },
+      {
+        "id": "DIM-USHKA-06",
+        "phrase": "Отрежь мне свежую краюшку хлеба.",
+        "fullAnalysis": "Strategic focus: краюшка from край. The suffix -юшка turns край 'edge, crust' into краюшка 'little crust', a homely, rustic word for a hunk of bread."
+      },
+      {
+        "id": "DIM-USHKA-07",
+        "phrase": "Изба большая, а эта избушка.",
+        "fullAnalysis": "Strategic focus: contrast изба and избушка. The plain изба names a full hut, while избушка with -ушка signals a small, folksy one; the pair shows the suffix adding smallness."
+      },
+      {
+        "id": "DIM-USHKA-08",
+        "phrase": "Бабушка и дедушка живут в деревне.",
+        "fullAnalysis": "Strategic focus: бабушка and дедушка from баба and дед. The suffix -ушка gives both kin terms their warm, folksy, everyday flavour."
+      },
+      {
+        "id": "DIM-USHKA-09",
+        "phrase": "Закружилась моя буйная головушка.",
+        "fullAnalysis": "Strategic focus: головушка from голова. Here -ушка lends головушка a lyrical, folk-song colouring, expressing emotion more than literal size."
+      },
+      {
+        "id": "DIM-USHKA-10",
+        "phrase": "Сядь на крылечко, послушай соловушку.",
+        "fullAnalysis": "Strategic focus: соловушка from соловей. The suffix -ушка makes соловушка 'dear nightingale' a tender, folksy name for the singing bird."
+      }
+    ]
+  }
+]

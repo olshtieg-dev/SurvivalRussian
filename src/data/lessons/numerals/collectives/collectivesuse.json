@@ -1,0 +1,60 @@
+[
+  {
+    "id": "COL-COLLECTIVESUSE",
+    "label": "Нас было трое",
+    "badge": "GROUPS",
+    "description": "A 10-sentence card for predicative and standalone collective numerals.",
+    "missions": [
+      {
+        "id": "COL-COLLECTIVESUSE-01",
+        "phrase": "Нас было трое.",
+        "fullAnalysis": "Strategic focus: Predicative collective. Used standalone, the collective 'трое' counts the group named by genitive 'нас'; the past-tense link verb stays neuter singular 'было'."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-02",
+        "phrase": "Их осталось пятеро.",
+        "fullAnalysis": "Strategic focus: Standalone with genitive. 'Пятеро' stands alone as the remaining count; it takes genitive 'их', and the verb 'осталось' is neuter singular by default."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-03",
+        "phrase": "В семье их четверо.",
+        "fullAnalysis": "Strategic focus: Group size statement. 'Четверо' predicatively states how many there are; genitive 'их' names the group, with no noun needed after the numeral."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-04",
+        "phrase": "Нас здесь только двое.",
+        "fullAnalysis": "Strategic focus: Limited group. 'Двое' stands alone with genitive 'нас'; the collective replaces the full noun phrase when the people are already known."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-05",
+        "phrase": "Их было шестеро на фотографии.",
+        "fullAnalysis": "Strategic focus: Past predicative. 'Шестеро' predicatively counts the genitive 'их'; the link verb 'было' stays neuter singular as is standard for such counts."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-06",
+        "phrase": "Сколько вас - четверо?",
+        "fullAnalysis": "Strategic focus: Counting question. The standalone 'четверо' answers a count; genitive 'вас' names the group, and no noun follows the collective."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-07",
+        "phrase": "На совещании нас было семеро.",
+        "fullAnalysis": "Strategic focus: Larger group past. 'Семеро' counts the genitive 'нас' predicatively; the neuter singular 'было' is the regular past link for collectives."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-08",
+        "phrase": "Их там осталось двое.",
+        "fullAnalysis": "Strategic focus: Remaining count. 'Двое' stands alone with genitive 'их'; 'осталось' stays neuter singular, foregrounding how many are left."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-09",
+        "phrase": "Нас собралось пятеро у костра.",
+        "fullAnalysis": "Strategic focus: Gathering count. 'Пятеро' counts the genitive 'нас'; the reflexive verb 'собралось' stays neuter singular as the group assembles."
+      },
+      {
+        "id": "COL-COLLECTIVESUSE-10",
+        "phrase": "В команде их было трое.",
+        "fullAnalysis": "Strategic focus: Team size. 'Трое' predicatively states the team count over genitive 'их'; the neuter singular 'было' marks the past collective statement."
+      }
+    ]
+  }
+]

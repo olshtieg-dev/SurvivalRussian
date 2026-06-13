@@ -1,0 +1,60 @@
+[
+  {
+    "id": "ORD-ORDINALYDATY",
+    "label": "Даты и этажи",
+    "badge": "DATES & FLOORS",
+    "description": "A 10-sentence card for ordinal numerals in dates, floors and order.",
+    "missions": [
+      {
+        "id": "ORD-ORDINALYDATY-01",
+        "phrase": "Сегодня первое мая.",
+        "fullAnalysis": "Strategic focus: Date in nominative. A bare date naming the day uses the neuter nominative ordinal 'первое', agreeing with the implied neuter 'число'; the month stays in the genitive."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-02",
+        "phrase": "Концерт был третьего марта.",
+        "fullAnalysis": "Strategic focus: Genitive date rule. To say when something happened, the ordinal goes into the genitive: 'третьего' shows the soft-stem genitive -ьего, and 'марта' stays genitive for the month."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-03",
+        "phrase": "Мы живём на пятом этаже.",
+        "fullAnalysis": "Strategic focus: Floor in prepositional. Floors use 'на' plus the prepositional case; 'пятом' agrees with masculine 'этаже' in the prepositional singular."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-04",
+        "phrase": "Она сидит в первом ряду.",
+        "fullAnalysis": "Strategic focus: Order in prepositional. Position in a row uses 'в' plus prepositional; 'первом' agrees with masculine 'ряду' in the prepositional singular."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-05",
+        "phrase": "Экзамен будет двадцать второго июня.",
+        "fullAnalysis": "Strategic focus: Genitive future date. Only the last word of a compound ordinal declines: 'второго' takes the genitive while 'двадцать' stays fixed, and 'июня' remains genitive."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-06",
+        "phrase": "Магазин находится на третьем этаже.",
+        "fullAnalysis": "Strategic focus: Soft-stem floor. The soft ordinal 'третий' becomes 'третьем' in the masculine prepositional, agreeing with 'этаже' after 'на'."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-07",
+        "phrase": "Завтра будет восьмое марта.",
+        "fullAnalysis": "Strategic focus: Naming a date. The named day takes the neuter nominative 'восьмое' for the implied 'число', while 'марта' stays in the genitive."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-08",
+        "phrase": "Он родился второго сентября.",
+        "fullAnalysis": "Strategic focus: Genitive birth date. 'When' a person was born uses the genitive ordinal 'второго' plus genitive month 'сентября', following the standard date rule."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-09",
+        "phrase": "Поезд стоит на четвёртом пути.",
+        "fullAnalysis": "Strategic focus: Platform in prepositional. 'Четвёртом' agrees with masculine 'пути' in the prepositional after 'на'; note the ё kept in the stem."
+      },
+      {
+        "id": "ORD-ORDINALYDATY-10",
+        "phrase": "Праздник прошёл девятого мая.",
+        "fullAnalysis": "Strategic focus: Genitive past date. The completed event takes the genitive ordinal 'девятого' with the genitive month 'мая', expressing the day on which it occurred."
+      }
+    ]
+  }
+]

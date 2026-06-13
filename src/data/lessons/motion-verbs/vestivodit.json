@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MV-VESTIVODIT",
+    "label": "Вести / Водить",
+    "badge": "LEADING",
+    "description": "A 10-sentence card contrasting вести (one trip, now) with водить (habitual/round-trip; водить машину = drive a car).",
+    "missions": [
+      {
+        "id": "MV-VESTIVODIT-01",
+        "phrase": "Я веду детей в школу.",
+        "fullAnalysis": "Strategic focus: One trip now. Веду is determinate, first-person of вести. It names a single leading act toward one destination, в школу, the classic determinate trigger."
+      },
+      {
+        "id": "MV-VESTIVODIT-02",
+        "phrase": "Мой брат хорошо водит машину.",
+        "fullAnalysis": "Strategic focus: Driving ability. Водит is indeterminate, third-person of водить, in the idiom водить машину, 'to drive a car'. It states a general skill, not one trip, so the indeterminate fits."
+      },
+      {
+        "id": "MV-VESTIVODIT-03",
+        "phrase": "Учитель ведёт класс на экскурсию.",
+        "fullAnalysis": "Strategic focus: One trip now. Ведёт is determinate, third-person of вести. One directed act of leading the class toward a single goal selects the determinate member."
+      },
+      {
+        "id": "MV-VESTIVODIT-04",
+        "phrase": "Она каждое утро водит дочку в сад.",
+        "fullAnalysis": "Strategic focus: Daily round-trips. Водит is indeterminate, third-person of водить. Каждое утро marks a repeated there-and-back routine, the core indeterminate trigger."
+      },
+      {
+        "id": "MV-VESTIVODIT-05",
+        "phrase": "Сейчас я веду собаку гулять.",
+        "fullAnalysis": "Strategic focus: Minimal pair, now. Веду is determinate; сейчас pins the leading to this moment and one outing. Compare with водить, which would mean walking the dog regularly."
+      },
+      {
+        "id": "MV-VESTIVODIT-06",
+        "phrase": "Я обычно вожу собаку в парк.",
+        "fullAnalysis": "Strategic focus: Minimal pair, habit. Вожу is indeterminate, first-person of водить. Обычно marks a repeated round-trip habit, the mirror of the determinate веду in the previous scene."
+      },
+      {
+        "id": "MV-VESTIVODIT-07",
+        "phrase": "Вчера отец вёл меня за руку.",
+        "fullAnalysis": "Strategic focus: One past trip. Вёл is the determinate masculine past of вести. It describes one directed leading act on a specific occasion, вчера, so the determinate past is correct."
+      },
+      {
+        "id": "MV-VESTIVODIT-08",
+        "phrase": "В молодости дед водил грузовик.",
+        "fullAnalysis": "Strategic focus: Past driving habit. Водил is the indeterminate masculine past of водить, the drive idiom водить грузовик. The long-ago span describes a habitual occupation, which selects the indeterminate form."
+      },
+      {
+        "id": "MV-VESTIVODIT-09",
+        "phrase": "Куда ты ведёшь нас сейчас?",
+        "fullAnalysis": "Strategic focus: One trip now. Ведёшь is determinate, second-person of вести. The question куда plus сейчас asks about one destination of a leading act in progress, a determinate context."
+      },
+      {
+        "id": "MV-VESTIVODIT-10",
+        "phrase": "Эта дорога ведёт к реке.",
+        "fullAnalysis": "Strategic focus: Fixed direction. Ведёт is determinate, third-person of вести. A road points along one constant line toward a single goal, к реке, so the determinate form names that one direction."
+      }
+    ]
+  }
+]

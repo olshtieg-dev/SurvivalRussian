@@ -5,6 +5,11 @@ import { ChevronUp, ChevronDown, Dice5, GitBranchPlus, VolumeX } from 'lucide-re
 import TypingEngine from '../components/TypingEngine';
 import MeaningCard from '../components/MeaningCard';
 import SentenceStructuralAnalysis from '../components/SentenceStructuralAnalysis';
+import RightRail from '../components/RightRail';
+import AdSlot from '../components/AdSlot';
+import OnboardingQuestionnaire from '../components/OnboardingQuestionnaire';
+import CurriculumPanel from '../components/CurriculumPanel';
+import { useCurriculum } from '../hooks/useCurriculum';
 import SpeechInterface from '../components/SpeechInterface';
 import vocabularyData from '../data/vocabulary.json';
 import {
@@ -115,6 +120,9 @@ export default function Home() {
   const [voiceMode, setVoiceMode] = useState('echo');
   const [lastPlayedIndex, setLastPlayedIndex] = useState(-1);
   const [voiceFeedback, setVoiceFeedback] = useState({ transcript: '', analysis: '' });
+  const curriculum = useCurriculum();
+  const [isCurriculumOpen, setIsCurriculumOpen] = useState(false);
+  const [isQuestionnaireOpen, setIsQuestionnaireOpen] = useState(false);
   const [activeWordKey, setActiveWordKey] = useState(() => {
     const initialLessonSet = getLessonSet(defaultLessonSetId);
     return getStartingWordKey(initialLessonSet?.missions || []);
@@ -336,6 +344,42 @@ export default function Home() {
     window.addEventListener('keydown', handleGlobalKeyDown);
     return () => window.removeEventListener('keydown', handleGlobalKeyDown);
   }, [canAdvanceMission, nextMission]);
+
+  // Curriculum record: log each completed mission (powers the adaptive plan + rep counts).
+  // Fires on the rising edge of completion; isMissionComplete resets on mission change.
+  useEffect(() => {
+    if (isMissionComplete && !isMorphologyActive && currentMission?.id) {
+      curriculum.recordMission(selectedLessonSetId, currentMission.id);
+    }
+  }, [isMissionComplete, currentMission?.id, selectedLessonSetId, isMorphologyActive, curriculum.recordMission]);
+
+  const openCurriculum = useCallback(() => {
+    if (curriculum.onboarded) setIsCurriculumOpen(true);
+    else setIsQuestionnaireOpen(true);
+  }, [curriculum.onboarded]);
+
+  const handleQuestionnaireSubmit = useCallback(
+    (answers) => {
+      curriculum.submitQuestionnaire(answers);
+      setIsQuestionnaireOpen(false);
+      setIsCurriculumOpen(true);
+    },
+    [curriculum],
+  );
+
+  const startRecommended = useCallback(
+    (lessonSetId, resolvedStageIndex) => {
+      if (typeof resolvedStageIndex === 'number') curriculum.syncStageIndex(resolvedStageIndex);
+      if (lessonSetId) selectLessonSet(lessonSetId);
+      setIsCurriculumOpen(false);
+    },
+    [curriculum, selectLessonSet],
+  );
+
+  const startFreePlay = useCallback(() => {
+    selectLessonSet('random-vocab');
+    setIsCurriculumOpen(false);
+  }, [selectLessonSet]);
 
   useEffect(() => {
     if (!isLessonSelectorOpen) return;
@@ -618,7 +662,15 @@ export default function Home() {
           />
         ) : (
           <div className="w-full max-w-4xl flex flex-col items-center gap-8 px-8">
-            <MeaningCard activeWord={resolvedActiveData} />
+            {/* Primary ad gutters — flank the top MeaningCard (the interlinear gloss
+                index card), where the eye sits while typing. Placeholders only. */}
+            <div className="w-full flex items-start justify-center gap-4 2xl:-mx-44">
+              <AdSlot label="AD" />
+              <div className="flex-1 min-w-0 flex justify-center">
+                <MeaningCard activeWord={resolvedActiveData} />
+              </div>
+              <AdSlot label="AD" />
+            </div>
 
             <TypingEngine
               key={`${selectedLessonSetId}-${missionIndex}`}
@@ -630,23 +682,60 @@ export default function Home() {
               activeData={resolvedActiveData}
             />
 
-            <div className="w-full">
-              <SentenceStructuralAnalysis sentenceData={currentMission} />
-              <div className={`transition-all duration-700 ${isMissionComplete ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-2 pointer-events-none h-0 overflow-hidden'}`}>
-                <div className="flex justify-center items-center gap-4 mt-8">
-                  <div className="h-[1px] w-20 bg-gradient-to-r from-transparent to-blue-500/50" />
-                  <p className="text-blue-400 font-mono text-[10px] animate-pulse tracking-[.5em] uppercase">
-                    {isRollingLessonSet && missionIndex === missions.length - 1
-                      ? 'Deck complete — press [Enter] or [Down] for a new shuffle'
-                      : 'Lesson complete — press [Enter] or [Down]'}
-                  </p>
-                  <div className="h-[1px] w-20 bg-gradient-to-l from-transparent to-blue-500/50" />
+            {/* Interlinear gloss box, flanked by ad gutters on very wide screens.
+                The negative margin lets the ads sit in the gutter without shrinking
+                the analysis. Ad slots are placeholders (see AdSlot) — not yet wired. */}
+            <div className="w-full flex items-start justify-center gap-4 2xl:-mx-44">
+              <AdSlot label="AD" />
+              <div className="flex-1 min-w-0">
+                <SentenceStructuralAnalysis sentenceData={currentMission} />
+                <div className={`transition-all duration-700 ${isMissionComplete ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-2 pointer-events-none h-0 overflow-hidden'}`}>
+                  <div className="flex justify-center items-center gap-4 mt-8">
+                    <div className="h-[1px] w-20 bg-gradient-to-r from-transparent to-blue-500/50" />
+                    <p className="text-blue-400 font-mono text-[10px] animate-pulse tracking-[.5em] uppercase">
+                      {isRollingLessonSet && missionIndex === missions.length - 1
+                        ? 'Deck complete — press [Enter] or [Down] for a new shuffle'
+                        : 'Lesson complete — press [Enter] or [Down]'}
+                    </p>
+                    <div className="h-[1px] w-20 bg-gradient-to-l from-transparent to-blue-500/50" />
+                  </div>
                 </div>
               </div>
+              <AdSlot label="AD" />
             </div>
           </div>
         )}
       </div>
+
+      <RightRail onOpenCurriculum={openCurriculum} />
+
+      {isQuestionnaireOpen && (
+        <OnboardingQuestionnaire
+          initial={curriculum.questionnaire}
+          onSubmit={handleQuestionnaireSubmit}
+          onClose={() => setIsQuestionnaireOpen(false)}
+        />
+      )}
+
+      {isCurriculumOpen && curriculum.onboarded && (
+        <CurriculumPanel
+          recommendation={curriculum.recommendation}
+          reviewRecommendation={curriculum.reviewRecommendation}
+          progress={curriculum.progress}
+          records={curriculum.records}
+          onStart={startRecommended}
+          onFreePlay={startFreePlay}
+          onRedoQuestionnaire={() => {
+            setIsCurriculumOpen(false);
+            setIsQuestionnaireOpen(true);
+          }}
+          onReset={() => {
+            curriculum.resetCurriculum();
+            setIsCurriculumOpen(false);
+          }}
+          onClose={() => setIsCurriculumOpen(false)}
+        />
+      )}
     </main>
   );
 }

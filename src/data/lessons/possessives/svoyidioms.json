@@ -1,0 +1,60 @@
+[
+  {
+    "id": "POS-SVOYIDIOMS",
+    "label": "По-своему",
+    "badge": "IDIOMS",
+    "description": "A 10-sentence card for fixed expressions built on свой.",
+    "missions": [
+      {
+        "id": "POS-SVOYIDIOMS-01",
+        "phrase": "Я построил дом своими руками.",
+        "fullAnalysis": "Strategic focus: Своими руками, by oneself. This fixed phrase uses the plural instrumental своими agreeing with руками and means done with one's own hands. Свой still points back to the subject я."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-02",
+        "phrase": "Всё придёт в своё время.",
+        "fullAnalysis": "Strategic focus: В своё время, in due course. The neuter accusative своё agrees with время in this set expression meaning at the right moment. The form is frozen but keeps its reflexive sense."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-03",
+        "phrase": "Он всё делает по-своему.",
+        "fullAnalysis": "Strategic focus: По-своему, in one's own way. This adverbial idiom is built on свой and means acting on one's own terms. It points back to the subject он, the same-subject logic of свой."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-04",
+        "phrase": "На вечеринке я был не в своей тарелке.",
+        "fullAnalysis": "Strategic focus: Не в своей тарелке, ill at ease. The feminine prepositional своей agrees with тарелке in this idiom meaning out of one's element. Literally not in one's own plate."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-05",
+        "phrase": "После новостей он был сам не свой.",
+        "fullAnalysis": "Strategic focus: Сам не свой, not oneself. This fixed phrase uses masculine свой to describe being out of sorts. It refers to the subject он, in line with the reflexive rule."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-06",
+        "phrase": "Этот мастер уникален в своём роде.",
+        "fullAnalysis": "Strategic focus: В своём роде, in its own way. The masculine prepositional своём agrees with роде in this idiom meaning one of a kind. The form stays reflexive to its subject."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-07",
+        "phrase": "Она сшила платье своими руками.",
+        "fullAnalysis": "Strategic focus: Своими руками, by oneself. The plural instrumental своими agrees with руками and signals work done personally. Свой points back to the subject она."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-08",
+        "phrase": "Мы поженимся в своё время.",
+        "fullAnalysis": "Strategic focus: В своё время, in due course. The neuter accusative своё agrees with время in this frozen idiom about timing. It stays tied to the subject мы."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-09",
+        "phrase": "Каждый понимает счастье по-своему.",
+        "fullAnalysis": "Strategic focus: По-своему, in one's own way. This adverb from свой means each in his own fashion. It refers back to the subject каждый, following the same-subject rule of свой."
+      },
+      {
+        "id": "POS-SVOYIDIOMS-10",
+        "phrase": "Сегодня я какой-то сам не свой.",
+        "fullAnalysis": "Strategic focus: Сам не свой, not oneself. The masculine свой in this idiom describes feeling off. It refers to the subject я, keeping the reflexive sense of свой."
+      }
+    ]
+  }
+]

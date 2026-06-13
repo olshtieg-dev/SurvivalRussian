@@ -1,0 +1,20 @@
+[
+  {
+    "id": "MV-EKHATEZDIT",
+    "label": "Ехать / Ездить",
+    "badge": "BY VEHICLE",
+    "description": "A 10-sentence card contrasting ехать (one trip, in progress, by vehicle) with ездить (habitual travel and completed round trips by vehicle).",
+    "missions": [
+      { "id": "MV-EKHATEZDIT-01", "phrase": "Сейчас я еду на работу.", "fullAnalysis": "Strategic focus: One trip by vehicle now. 'Еду' is the determinate verb ехать in the first person, naming a single ride happening right now. The marker сейчас fixes one trip in one direction, the determinate context." },
+      { "id": "MV-EKHATEZDIT-02", "phrase": "Каждое утро я езжу на метро.", "fullAnalysis": "Strategic focus: Daily commute. 'Езжу' is the indeterminate verb ездить in the first person. The marker каждое утро signals a repeated, habitual ride, which selects the indeterminate member." },
+      { "id": "MV-EKHATEZDIT-03", "phrase": "Куда ты едешь на машине?", "fullAnalysis": "Strategic focus: Direction of one ride. 'Едешь' is the determinate second-person form of ехать. The question куда asks the goal of a single ongoing trip by car, selecting the determinate verb." },
+      { "id": "MV-EKHATEZDIT-04", "phrase": "Летом мы ездили на море.", "fullAnalysis": "Strategic focus: Completed round trip. 'Ездили' is the past indeterminate of ездить. A finished journey to the sea and back is expressed with the indeterminate past, not the determinate." },
+      { "id": "MV-EKHATEZDIT-05", "phrase": "Этот поезд едет очень быстро.", "fullAnalysis": "Strategic focus: Motion in progress. 'Едет' is the determinate third-person form of ехать, describing one train moving right now in one direction. A single trip underway selects the determinate member." },
+      { "id": "MV-EKHATEZDIT-06", "phrase": "Он часто ездит в Москву по делам.", "fullAnalysis": "Strategic focus: Repeated business trips. 'Ездит' is the indeterminate third-person form of ездить. The marker часто signals recurring round trips, which require the indeterminate verb." },
+      { "id": "MV-EKHATEZDIT-07", "phrase": "Завтра мы едем в деревню.", "fullAnalysis": "Strategic focus: One planned trip. 'Едем' is the determinate first-person plural of ехать. A single planned journey in one direction, even in the future, takes the determinate member." },
+      { "id": "MV-EKHATEZDIT-08", "phrase": "В детстве я ездил к бабушке.", "fullAnalysis": "Strategic focus: Habitual past visits. 'Ездил' is the indeterminate masculine past of ездить. The marker в детстве frames repeated round trips to grandmother, so the indeterminate past is used." },
+      { "id": "MV-EKHATEZDIT-09", "phrase": "Тогда она ехала домой на такси.", "fullAnalysis": "Strategic focus: One ride in the past. 'Ехала' is the determinate feminine past of ехать. It pictures a single ride home unfolding at a definite moment, the determinate use in the past." },
+      { "id": "MV-EKHATEZDIT-10", "phrase": "Сейчас я еду туда первый раз.", "fullAnalysis": "Strategic focus: Determinate versus habitual minimal pair. 'Еду' is again the determinate ехать, set against the habitual езжу seen earlier. Сейчас, туда and первый раз mark one trip in one direction, the determinate choice." }
+    ]
+  }
+]

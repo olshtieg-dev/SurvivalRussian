@@ -1,0 +1,20 @@
+[
+  {
+    "id": "PASS-ACTIVEPASSIVE",
+    "label": "Актив и пассив",
+    "badge": "TRANSFORM",
+    "description": "A 10-sentence card pairing active clauses with their passive counterparts.",
+    "missions": [
+      { "id": "PASS-ACTIVEPASSIVE-01", "phrase": "Рабочие построили дом, и дом был построен быстро.", "fullAnalysis": "Strategic focus: Active to passive transform. The active clause has рабочие as subject; the passive recasts дом as subject with был построен, the быть plus short participle construction." },
+      { "id": "PASS-ACTIVEPASSIVE-02", "phrase": "Маша написала письмо, письмо было написано аккуратно.", "fullAnalysis": "Strategic focus: Active to passive transform. In the active Маша is the doer; the passive promotes письмо to subject and uses было написано, the periphrastic passive with быть and the short participle." },
+      { "id": "PASS-ACTIVEPASSIVE-03", "phrase": "Повар испёк хлеб, и хлеб был испечён утром.", "fullAnalysis": "Strategic focus: Active to passive transform. The active subject повар becomes the demoted agent; хлеб rises to subject with был испечён, the быть plus short participle passive." },
+      { "id": "PASS-ACTIVEPASSIVE-04", "phrase": "Студенты решили задачу, задача была решена легко.", "fullAnalysis": "Strategic focus: Active to passive transform. Active студенты act on задачу; the passive makes задача the subject with была решена, the periphrastic passive in the feminine." },
+      { "id": "PASS-ACTIVEPASSIVE-05", "phrase": "Инженер спроектировал мост, мост был спроектирован умело.", "fullAnalysis": "Strategic focus: Active to passive transform. The active subject инженер drops out; мост becomes subject with был спроектирован, быть plus the short passive participle." },
+      { "id": "PASS-ACTIVEPASSIVE-06", "phrase": "Художник нарисовал картину, картина была нарисована давно.", "fullAnalysis": "Strategic focus: Active to passive transform. Active художник is the agent; the passive raises картина to subject and uses была нарисована, the feminine periphrastic passive." },
+      { "id": "PASS-ACTIVEPASSIVE-07", "phrase": "Дети помыли окна, и окна были помыты чисто.", "fullAnalysis": "Strategic focus: Active to passive transform. The active subject дети yields to a plural passive; окна become subject with были помыты, the быть plus short participle construction." },
+      { "id": "PASS-ACTIVEPASSIVE-08", "phrase": "Директор подписал договор, договор был подписан сразу.", "fullAnalysis": "Strategic focus: Active to passive transform. Active директор signs; the passive turns договор into subject with был подписан, the periphrastic passive with быть." },
+      { "id": "PASS-ACTIVEPASSIVE-09", "phrase": "Мама приготовила обед, обед был приготовлен вкусно.", "fullAnalysis": "Strategic focus: Active to passive transform. The active subject мама becomes the implied agent; обед rises to subject with был приготовлен, быть plus the short participle." },
+      { "id": "PASS-ACTIVEPASSIVE-10", "phrase": "Учёные открыли закон, и закон был открыт недавно.", "fullAnalysis": "Strategic focus: Active to passive transform. Active учёные are the discoverers; the passive promotes закон to subject with был открыт, the periphrastic passive construction." }
+    ]
+  }
+]

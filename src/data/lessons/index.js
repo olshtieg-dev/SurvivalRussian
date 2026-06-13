@@ -17,6 +17,11 @@ import { casesNounsLessonSets, casesNounsFolder, casesNounsGroupFolders } from '
 import { participlesLessonSets, participlesFolder, participlesGroupFolders } from './participles';
 import { gerundsLessonSets, gerundsFolder, gerundsGroupFolders } from './gerunds';
 import { conditionalLessonSets, conditionalFolder, conditionalGroupFolders } from './conditional';
+import { motionVerbsLessonSets, motionVerbsFolder } from './motion-verbs';
+import { diminutivesLessonSets, diminutivesFolder } from './diminutives';
+import { numeralsLessonSets, numeralsFolder, numeralsGroupFolders } from './numerals';
+import { possessivesLessonSets, possessivesFolder } from './possessives';
+import { passiveVoiceLessonSets, passiveVoiceFolder } from './passive-voice';
 import frequencyGulagLessons from './frequency-gulag.json';
 import vocabularyData from '../vocabulary.json';
 
@@ -140,6 +145,11 @@ export const lessonSets = [
   ...participlesLessonSets,
   ...gerundsLessonSets,
   ...conditionalLessonSets,
+  ...motionVerbsLessonSets,
+  ...diminutivesLessonSets,
+  ...numeralsLessonSets,
+  ...possessivesLessonSets,
+  ...passiveVoiceLessonSets,
 ];
 
 export const defaultLessonSetId = lessonSets[0]?.id || 'essentials';
@@ -168,6 +178,12 @@ export const lessonFolders = [
   ...gerundsGroupFolders,
   conditionalFolder,
   ...conditionalGroupFolders,
+  motionVerbsFolder,
+  diminutivesFolder,
+  numeralsFolder,
+  ...numeralsGroupFolders,
+  possessivesFolder,
+  passiveVoiceFolder,
 ];
 
 export function getLessonSet(lessonSetId) {

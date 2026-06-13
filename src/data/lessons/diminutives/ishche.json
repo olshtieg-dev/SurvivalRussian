@@ -1,0 +1,60 @@
+[
+  {
+    "id": "DIM-ISHCHE",
+    "label": "Ище",
+    "badge": "BIG (AUG)",
+    "description": "A 10-sentence card for the augmentative suffix -ище/-ища.",
+    "missions": [
+      {
+        "id": "DIM-ISHCHE-01",
+        "phrase": "На холме стоит огромный домище.",
+        "fullAnalysis": "Strategic focus: домище from дом. The augmentative -ище turns дом 'house' into домище 'huge house', stressing great, even excessive size."
+      },
+      {
+        "id": "DIM-ISHCHE-02",
+        "phrase": "У кузнеца была могучая ручища.",
+        "fullAnalysis": "Strategic focus: ручища from рука. The augmentative -ища makes рука 'hand, arm' into ручища 'huge hand', a large and slightly coarse form."
+      },
+      {
+        "id": "DIM-ISHCHE-03",
+        "phrase": "У певца настоящий голосище.",
+        "fullAnalysis": "Strategic focus: голосище from голос. The augmentative -ище turns голос 'voice' into голосище 'mighty voice', emphasising great power and volume."
+      },
+      {
+        "id": "DIM-ISHCHE-04",
+        "phrase": "По двору ходит наглый котище.",
+        "fullAnalysis": "Strategic focus: котище from кот. The augmentative -ище makes кот 'cat' into котище 'huge cat', adding largeness with a rough, comic edge."
+      },
+      {
+        "id": "DIM-ISHCHE-05",
+        "phrase": "В руках борца чувствуется силища.",
+        "fullAnalysis": "Strategic focus: силища from сила. The augmentative -ища turns сила 'strength' into силища 'enormous strength', exaggerating power."
+      },
+      {
+        "id": "DIM-ISHCHE-06",
+        "phrase": "Из воды показалась длинная ножища.",
+        "fullAnalysis": "Strategic focus: ножища from нога. The augmentative -ища makes нога 'leg' into ножища 'huge leg', large and somewhat coarse in tone."
+      },
+      {
+        "id": "DIM-ISHCHE-07",
+        "phrase": "Не домик, а целый домище!",
+        "fullAnalysis": "Strategic focus: contrast домик and домище. The diminutive домик means a 'little house', while домище with -ище means a 'huge house'; the pair shows the augmentative reversing the size nuance."
+      },
+      {
+        "id": "DIM-ISHCHE-08",
+        "phrase": "Этот котище весит целых десять килограммов.",
+        "fullAnalysis": "Strategic focus: котище from кот. Again -ище gives котище 'huge cat' a sense of bulk and rough humour about the animal's size."
+      },
+      {
+        "id": "DIM-ISHCHE-09",
+        "phrase": "Дом большой, а это домище.",
+        "fullAnalysis": "Strategic focus: contrast дом and домище. The plain дом names a normal house, while домище with -ище signals an enormous one; the pair shows the augmentative adding largeness."
+      },
+      {
+        "id": "DIM-ISHCHE-10",
+        "phrase": "Его громкий голосище заполнил зал.",
+        "fullAnalysis": "Strategic focus: голосище from голос. The augmentative -ище makes голосище 'huge voice' fill the hall, underlining overwhelming size and force."
+      }
+    ]
+  }
+]

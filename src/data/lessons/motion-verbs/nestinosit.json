@@ -1,0 +1,60 @@
+[
+  {
+    "id": "MV-NESTINOSIT",
+    "label": "Нести / Носить",
+    "badge": "CARRYING",
+    "description": "A 10-sentence card contrasting нести (one trip, now) with носить (habitual/around; also 'to wear').",
+    "missions": [
+      {
+        "id": "MV-NESTINOSIT-01",
+        "phrase": "Я несу тяжёлую сумку домой.",
+        "fullAnalysis": "Strategic focus: One trip now. Несу is determinate, the first-person form of нести. It names a single carrying act in progress toward one goal, домой, which is the classic determinate trigger."
+      },
+      {
+        "id": "MV-NESTINOSIT-02",
+        "phrase": "Она всегда носит очки.",
+        "fullAnalysis": "Strategic focus: Wearing habit. Носит is indeterminate, third-person of носить, here in its 'to wear' sense. The adverb всегда marks a constant habit, which selects the indeterminate member."
+      },
+      {
+        "id": "MV-NESTINOSIT-03",
+        "phrase": "Смотри, официант несёт наш заказ.",
+        "fullAnalysis": "Strategic focus: One trip now. Несёт is determinate, third-person of нести. The scene shows one carrying act unfolding before our eyes, a single direction toward the table, so the determinate form fits."
+      },
+      {
+        "id": "MV-NESTINOSIT-04",
+        "phrase": "Почтальон каждый день носит письма.",
+        "fullAnalysis": "Strategic focus: Daily round-trips. Носит is indeterminate, third-person of носить. Каждый день signals repeated, multidirectional delivery rounds, the core indeterminate trigger."
+      },
+      {
+        "id": "MV-NESTINOSIT-05",
+        "phrase": "Сейчас я несу ребёнка на руках.",
+        "fullAnalysis": "Strategic focus: Minimal pair, now. Несу is determinate; сейчас pins the carrying to this moment and one direction. Compare with носить, which would mean carrying the child around habitually."
+      },
+      {
+        "id": "MV-NESTINOSIT-06",
+        "phrase": "Я часто ношу ребёнка на руках.",
+        "fullAnalysis": "Strategic focus: Minimal pair, habit. Ношу is indeterminate, first-person of носить. Часто marks a repeated habit with no single direction, the mirror of the determinate несу in the previous scene."
+      },
+      {
+        "id": "MV-NESTINOSIT-07",
+        "phrase": "Вчера он нёс цветы своей маме.",
+        "fullAnalysis": "Strategic focus: One past trip. Нёс is the determinate masculine past of нести. It describes one directed carrying act on a specific occasion, вчера, so the determinate past is correct."
+      },
+      {
+        "id": "MV-NESTINOSIT-08",
+        "phrase": "В детстве он носил длинные волосы.",
+        "fullAnalysis": "Strategic focus: Past wearing habit. Носил is the indeterminate masculine past of носить in its 'to wear' sense. The childhood span describes a lasting habitual state, which selects the indeterminate form."
+      },
+      {
+        "id": "MV-NESTINOSIT-09",
+        "phrase": "Куда ты несёшь эти коробки?",
+        "fullAnalysis": "Strategic focus: One trip now. Несёшь is determinate, second-person of нести. The question куда asks about one destination of a carrying act in progress, a determinate context."
+      },
+      {
+        "id": "MV-NESTINOSIT-10",
+        "phrase": "Зимой мы носим тёплые шапки.",
+        "fullAnalysis": "Strategic focus: Seasonal wearing. Носим is indeterminate, first-person plural of носить, again the 'to wear' sense. The recurring winter habit, with no single trip, calls for the indeterminate member."
+      }
+    ]
+  }
+]

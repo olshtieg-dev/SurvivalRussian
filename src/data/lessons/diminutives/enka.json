@@ -1,0 +1,60 @@
+[
+  {
+    "id": "DIM-ENKA",
+    "label": "Енька / Онька",
+    "badge": "DEAR",
+    "description": "A 10-sentence card for the affectionate suffix -енька/-онька.",
+    "missions": [
+      {
+        "id": "DIM-ENKA-01",
+        "phrase": "Спи спокойно, моя доченька.",
+        "fullAnalysis": "Strategic focus: доченька from дочь. The suffix -енька turns дочь 'daughter' into доченька 'dear daughter', adding deep affection rather than size."
+      },
+      {
+        "id": "DIM-ENKA-02",
+        "phrase": "Мой милый сыночек уже уснул.",
+        "fullAnalysis": "Strategic focus: сыночек from сын. The tender suffix builds сыночек 'dear little son' from сын 'son', conveying warmth and endearment."
+      },
+      {
+        "id": "DIM-ENKA-03",
+        "phrase": "В лесу прыгает серый заинька.",
+        "fullAnalysis": "Strategic focus: заинька from заяц. The suffix -инька turns заяц 'hare' into заинька 'dear little bunny', a folksy, affectionate pet name."
+      },
+      {
+        "id": "DIM-ENKA-04",
+        "phrase": "Иди ко мне, моя лапонька.",
+        "fullAnalysis": "Strategic focus: лапонька from лапа. The suffix -онька turns лапа 'paw' into лапонька 'sweetie', an endearing term used for a beloved person."
+      },
+      {
+        "id": "DIM-ENKA-05",
+        "phrase": "Какой же ты миленький щенок!",
+        "fullAnalysis": "Strategic focus: миленький from милый. The suffix -енький makes милый 'dear' into миленький 'cute little', intensifying tenderness toward the puppy."
+      },
+      {
+        "id": "DIM-ENKA-06",
+        "phrase": "К нам приехала добрая тётенька.",
+        "fullAnalysis": "Strategic focus: тётенька from тётя. The suffix -енька turns тётя 'aunt' into тётенька 'dear auntie', a warm, childlike, affectionate form."
+      },
+      {
+        "id": "DIM-ENKA-07",
+        "phrase": "Доченька, помоги маме накрыть стол.",
+        "fullAnalysis": "Strategic focus: доченька from дочь. Here -енька makes доченька 'dear daughter' a loving form of address, softening the request."
+      },
+      {
+        "id": "DIM-ENKA-08",
+        "phrase": "Моя дочь и моя доченька.",
+        "fullAnalysis": "Strategic focus: contrast дочь and доченька. The plain дочь simply names a daughter, while доченька with -енька adds strong affection; the pair shows the suffix's tender force."
+      },
+      {
+        "id": "DIM-ENKA-09",
+        "phrase": "Ты у меня самая лапонька.",
+        "fullAnalysis": "Strategic focus: лапонька from лапа. The suffix -онька transforms лапа 'paw' into лапонька 'darling', a purely affectionate nickname with no literal meaning."
+      },
+      {
+        "id": "DIM-ENKA-10",
+        "phrase": "Спасибо тебе, добрая тётенька.",
+        "fullAnalysis": "Strategic focus: тётенька from тётя. The suffix -енька gives тётенька 'dear auntie' a gentle, respectful warmth typical of a child's speech."
+      }
+    ]
+  }
+]
