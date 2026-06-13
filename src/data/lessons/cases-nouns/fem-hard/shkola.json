@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FH-SHKOLA",
+    "label": "Школа",
+    "badge": "FH",
+    "description": "Twelve-mission case drill for школа (school) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FH-SHKOLA-01",
+        "phrase": "Наша школа стоит рядом с парком.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form школа is the subject of стоит. First-declension feminine nouns in -а keep this bare ending in the nominative singular, naming who or what acts."
+      },
+      {
+        "id": "CN-FH-SHKOLA-02",
+        "phrase": "Мы идём из школы домой.",
+        "fullAnalysis": "Strategic focus: Genitive singular. After the preposition из marking motion out of, школа becomes школы. Hard feminines take the genitive singular ending -ы."
+      },
+      {
+        "id": "CN-FH-SHKOLA-03",
+        "phrase": "Дети идут по школе.",
+        "fullAnalysis": "Strategic focus: Dative singular. After the preposition по expressing movement around, школа appears as школе. The dative singular ending for first-declension feminines is -е."
+      },
+      {
+        "id": "CN-FH-SHKOLA-04",
+        "phrase": "Город построил новую школу.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of построил takes the accusative школу, where nominative -а becomes -у. Being inanimate, школа uses this dedicated -у form."
+      },
+      {
+        "id": "CN-FH-SHKOLA-05",
+        "phrase": "Он гордится своей школой.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордиться governs the instrumental, so школа becomes школой. The instrumental singular ending for hard feminines is -ой."
+      },
+      {
+        "id": "CN-FH-SHKOLA-06",
+        "phrase": "В нашей школе хорошие учителя.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. After в marking location inside, школа takes the prepositional школе. The prepositional singular ending -е coincides with the dative for first-declension feminines."
+      },
+      {
+        "id": "CN-FH-SHKOLA-07",
+        "phrase": "Эти школы открылись в сентябре.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is школы, where singular -а changes to the plural ending -ы. This -ы marks the nominative plural of hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-SHKOLA-08",
+        "phrase": "В деревне нет школ.",
+        "fullAnalysis": "Strategic focus: Genitive plural. Hard feminines drop the vowel in the genitive plural, leaving the zero-ending form школ. The negation нет plus genitive triggers it here."
+      },
+      {
+        "id": "CN-FH-SHKOLA-09",
+        "phrase": "Министерство помогает сельским школам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The verb помогать governs the dative, so the plural ending -ам gives школам, the recipient of help. The -ам ending is uniform for hard feminine plurals."
+      },
+      {
+        "id": "CN-FH-SHKOLA-10",
+        "phrase": "Власти открывают новые школы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Because школа is inanimate, the accusative plural copies the nominative plural школы rather than the genitive. The direct object of открывают stays школы."
+      },
+      {
+        "id": "CN-FH-SHKOLA-11",
+        "phrase": "Город гордится своими школами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The verb гордиться governs the instrumental, so the plural ending -ами produces школами. This -ами ending is regular across hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-SHKOLA-12",
+        "phrase": "В этих школах учатся тысячи детей.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в indicating location, the prepositional plural ending -ах gives школах. This ending is constant for hard feminines in the prepositional plural."
+      }
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-TT",
+    "label": "Travel & Transport",
+    "badge": "TT",
+    "description": "Buying tickets, taking taxis, trains and buses, and getting around while traveling.",
+    "missions": [
+      {
+        "id": "CV-TT-01",
+        "phrase": "Мне нужен один билет до Москвы.",
+        "fullAnalysis": "Strategic focus: buying a ticket. The line states the destination with до плюс родительный падеж. Билет means ticket, and нужен agrees with the masculine noun."
+      },
+      {
+        "id": "CV-TT-02",
+        "phrase": "Когда отправляется следующий поезд?",
+        "fullAnalysis": "Strategic focus: departure time. Отправляется means departs and is the key verb for trains and buses. Поезд means train, and следующий means next."
+      },
+      {
+        "id": "CV-TT-03",
+        "phrase": "С какой платформы идёт автобус?",
+        "fullAnalysis": "Strategic focus: finding the platform. Платформа means platform, here in the genitive after с. Идёт describes the bus going, with the correct ё in идёт."
+      },
+      {
+        "id": "CV-TT-04",
+        "phrase": "Отвезите меня в аэропорт, пожалуйста.",
+        "fullAnalysis": "Strategic focus: taking a taxi. Отвезите is a polite imperative meaning take me somewhere. Аэропорт means airport, used with в plus accusative."
+      },
+      {
+        "id": "CV-TT-05",
+        "phrase": "Где здесь ближайшая остановка автобуса?",
+        "fullAnalysis": "Strategic focus: finding the stop. Остановка means a bus stop, and ближайшая means nearest. Автобуса is genitive, showing the stop belongs to the bus."
+      },
+      {
+        "id": "CV-TT-06",
+        "phrase": "Сколько времени займёт дорога до вокзала?",
+        "fullAnalysis": "Strategic focus: trip length. Займёт means will take, asking about duration with сколько времени. Вокзал means the train station, here in the genitive."
+      },
+      {
+        "id": "CV-TT-07",
+        "phrase": "Это место свободно?",
+        "fullAnalysis": "Strategic focus: claiming a seat. Место means a seat or place, and свободно means free or unoccupied. This is a common question on trains and buses."
+      },
+      {
+        "id": "CV-TT-08",
+        "phrase": "Где я могу оставить свой багаж?",
+        "fullAnalysis": "Strategic focus: luggage. Багаж means luggage and stays singular in Russian. Оставить means to leave something, and могу means I can."
+      },
+      {
+        "id": "CV-TT-09",
+        "phrase": "Покажите мне расписание поездов.",
+        "fullAnalysis": "Strategic focus: checking the schedule. Расписание means timetable, and поездов is the genitive plural of поезд. Покажите is a polite imperative meaning show me."
+      },
+      {
+        "id": "CV-TT-10",
+        "phrase": "Я выхожу на следующей остановке.",
+        "fullAnalysis": "Strategic focus: getting off. Выхожу means I am getting off or out, the verb you use to signal your stop. На следующей остановке means at the next stop."
+      }
+    ]
+  }
+]

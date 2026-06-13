@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MA-STUDENT",
+    "label": "Студент",
+    "badge": "MA",
+    "description": "Twelve-mission case drill for студент (student) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MA-STUDENT-01",
+        "phrase": "Этот студент очень хорошо говорит.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form студент carries a zero ending and names the subject of the sentence. Here студент is the one doing the speaking, so it stays in the nominative as the grammatical subject."
+      },
+      {
+        "id": "CN-MA-STUDENT-02",
+        "phrase": "У студента нет учебника.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative студент adds -а to become студента. The construction нет plus possession with у both demand the genitive, so the absent owner of the textbook appears as студента."
+      },
+      {
+        "id": "CN-MA-STUDENT-03",
+        "phrase": "Преподаватель помогает студенту.",
+        "fullAnalysis": "Strategic focus: Dative singular. The ending shifts to -у, giving студенту. The verb помогать governs the dative, marking студенту as the recipient of the help."
+      },
+      {
+        "id": "CN-MA-STUDENT-04",
+        "phrase": "Я знаю этого студента давно.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of знать takes the accusative, but because студент is animate, the accusative copies the genitive: студента, not студент. Animacy is the reason the object ends in -а."
+      },
+      {
+        "id": "CN-MA-STUDENT-05",
+        "phrase": "Я разговаривал с этим студентом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The ending becomes -ом, producing студентом. The preposition с meaning together with requires the instrumental, marking студентом as the companion in the conversation."
+      },
+      {
+        "id": "CN-MA-STUDENT-06",
+        "phrase": "Мы говорили о новом студенте.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The ending is -е, giving студенте. The preposition о meaning about forces the prepositional, the case used for the topic of speech."
+      },
+      {
+        "id": "CN-MA-STUDENT-07",
+        "phrase": "Наши студенты пишут контрольную работу.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes -ы, giving студенты. As the doers of the writing, they stand in the nominative."
+      },
+      {
+        "id": "CN-MA-STUDENT-08",
+        "phrase": "В аудитории нет студентов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The genitive plural ending -ов yields студентов. The word нет signalling absence governs the genitive, so the missing people appear as студентов."
+      },
+      {
+        "id": "CN-MA-STUDENT-09",
+        "phrase": "Декан рассказал всё студентам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The plural dative ending -ам gives студентам. The verb рассказать marks the listeners as recipients, so they take the dative студентам."
+      },
+      {
+        "id": "CN-MA-STUDENT-10",
+        "phrase": "Профессор уважает своих студентов.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object of уважать would be accusative, but animacy makes the accusative plural copy the genitive plural: студентов. The -ов ending reflects this animate rule, not the bare nominative студенты."
+      },
+      {
+        "id": "CN-MA-STUDENT-11",
+        "phrase": "Я познакомился с этими студентами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ами produces студентами. The preposition с meaning with requires the instrumental, naming студентами as the people met."
+      },
+      {
+        "id": "CN-MA-STUDENT-12",
+        "phrase": "В фильме речь идёт о студентах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The prepositional plural ending -ах gives студентах. The preposition о meaning about governs the prepositional, marking студентах as the subject of the film."
+      }
+    ]
+  }
+]

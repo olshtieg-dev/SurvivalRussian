@@ -29,6 +29,31 @@
         "id": "CV-CH-05",
         "phrase": "Я весь день убираю на кухне.",
         "fullAnalysis": "Strategic focus: Room-based cleanup. 'Я убираю' is a broad, reusable cleaning verb, and 'на кухне' gives the location to make the chore realistic. This is a strong umbrella sentence for household cleaning."
+      },
+      {
+        "id": "CV-CH-06",
+        "phrase": "Мама стирает бельё в новой машине.",
+        "fullAnalysis": "Strategic focus: Laundry. 'Стирает' is the everyday verb for washing clothes, and 'бельё' is the standard noun for laundry and linens. The phrase в новой машине points to the washing machine and keeps the scene domestic."
+      },
+      {
+        "id": "CV-CH-07",
+        "phrase": "После стирки я глажу рубашки утром.",
+        "fullAnalysis": "Strategic focus: Ironing. 'Глажу' pairs naturally with laundry vocabulary, and 'рубашки' gives a concrete object to picture. The opener после стирки links this chore to the previous washing step in a realistic sequence."
+      },
+      {
+        "id": "CV-CH-08",
+        "phrase": "Я протираю пыль на всех полках.",
+        "fullAnalysis": "Strategic focus: Dusting. 'Протираю' is the verb for wiping surfaces, and 'пыль' is the key noun for dust around the home. The phrase на всех полках shows where the dusting happens and adds a useful location plural."
+      },
+      {
+        "id": "CV-CH-09",
+        "phrase": "Брат подметает пол на балконе.",
+        "fullAnalysis": "Strategic focus: Sweeping. 'Подметает' is the standard verb for sweeping with a broom, and 'пол' keeps the action concrete. Naming брат and the location на балконе spreads the chores across family members and rooms."
+      },
+      {
+        "id": "CV-CH-10",
+        "phrase": "После ужина надо вымыть кастрюли и сковородку.",
+        "fullAnalysis": "Strategic focus: Cooking cleanup. The perfective 'вымыть' frames a completed task, and 'кастрюли' with 'сковородку' add specific kitchen objects. The opener после ужина и надо make this a natural after-cooking chore."
       }
     ]
   }

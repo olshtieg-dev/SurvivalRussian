@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-AP",
+    "label": "Apologies & Politeness",
+    "badge": "AP",
+    "description": "Apologizing, excusing yourself, thanking, and softening requests politely.",
+    "missions": [
+      {
+        "id": "CV-AP-01",
+        "phrase": "Извините, я не хотел вас обидеть.",
+        "fullAnalysis": "Strategic focus: a sincere apology. The verb извините is the polite formal form for saying sorry. The phrase не хотел вас обидеть means did not want to offend you, softening the mistake."
+      },
+      {
+        "id": "CV-AP-02",
+        "phrase": "Простите, можно вас на минутку?",
+        "fullAnalysis": "Strategic focus: politely getting attention. Простите asks forgiveness for the interruption, and можно вас на минутку is a soft request meaning may I have you for a minute. This is a common opener before asking a stranger something."
+      },
+      {
+        "id": "CV-AP-03",
+        "phrase": "Прошу прощения за опоздание.",
+        "fullAnalysis": "Strategic focus: apologizing for being late. Прошу прощения is a more formal apology meaning I ask your forgiveness. The noun опоздание means lateness or a delay, and за marks what you are sorry for."
+      },
+      {
+        "id": "CV-AP-04",
+        "phrase": "Ничего страшного, не волнуйтесь.",
+        "fullAnalysis": "Strategic focus: reassuring someone who apologized. Ничего страшного means it is nothing serious or no problem. The imperative не волнуйтесь tells the person not to worry, a calm and polite reply."
+      },
+      {
+        "id": "CV-AP-05",
+        "phrase": "Это моя вина, я виноват.",
+        "fullAnalysis": "Strategic focus: taking responsibility. Моя вина means my fault, and виноват is the short adjective a man uses to say I am guilty or at fault. A woman would say виновата instead."
+      },
+      {
+        "id": "CV-AP-06",
+        "phrase": "Большое спасибо за вашу помощь!",
+        "fullAnalysis": "Strategic focus: thanking warmly. Большое спасибо means thank you very much, stronger than plain спасибо. The phrase за вашу помощь means for your help, naming what you are grateful for."
+      },
+      {
+        "id": "CV-AP-07",
+        "phrase": "Пожалуйста, не за что.",
+        "fullAnalysis": "Strategic focus: replying to thanks. Пожалуйста here means you are welcome, the same word also used for please. Не за что literally means nothing to thank for, a casual polite reply."
+      },
+      {
+        "id": "CV-AP-08",
+        "phrase": "Можно мне войти, пожалуйста?",
+        "fullAnalysis": "Strategic focus: asking permission politely. Можно мне means may I, and войти means to enter or come in. Adding пожалуйста softens the request and keeps the tone courteous."
+      },
+      {
+        "id": "CV-AP-09",
+        "phrase": "Не могли бы вы говорить медленнее?",
+        "fullAnalysis": "Strategic focus: softening a request. Не могли бы вы is a polite conditional meaning could you possibly. The verb говорить медленнее means to speak more slowly, a gentle way to ask for a favor."
+      },
+      {
+        "id": "CV-AP-10",
+        "phrase": "Извините за беспокойство, всё хорошо.",
+        "fullAnalysis": "Strategic focus: apologizing for the trouble. Извините за беспокойство means sorry for the bother, a polite phrase when you have taken someone's time. Всё хорошо reassures that everything is fine."
+      }
+    ]
+  }
+]

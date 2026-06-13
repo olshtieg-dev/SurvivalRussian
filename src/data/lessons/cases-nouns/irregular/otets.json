@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-IR-OTETS",
+    "label": "Отец",
+    "badge": "IR",
+    "description": "Twelve-mission case drill for отец (father) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-IR-OTETS-01",
+        "phrase": "Мой отец работает инженером.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form отец is the subject of the sentence. This masculine animate noun hides a fleeting vowel: the е between т and ц appears only in the nominative singular and drops out in every other case."
+      },
+      {
+        "id": "CN-IR-OTETS-02",
+        "phrase": "У отца сегодня день рождения.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The construction у плюс possession requires the genitive, giving отца. The fleeting vowel е drops here, so отец contracts to отц- before the ending -а."
+      },
+      {
+        "id": "CN-IR-OTETS-03",
+        "phrase": "Я помогаю отцу в саду.",
+        "fullAnalysis": "Strategic focus: Dative singular. The verb помогать governs the dative, producing отцу. Again the fleeting vowel disappears: the stem is отц- and the dative ending -у attaches to it."
+      },
+      {
+        "id": "CN-IR-OTETS-04",
+        "phrase": "Я очень уважаю своего отца.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The noun is animate, so the accusative copies the genitive, giving отца as the direct object of уважаю. The fleeting vowel drops here too, and the animate rule makes accusative equal genitive."
+      },
+      {
+        "id": "CN-IR-OTETS-05",
+        "phrase": "Я горжусь своим отцом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордиться governs the instrumental, yielding отцом. With the fleeting vowel gone, the stem отц- takes the instrumental ending -ом."
+      },
+      {
+        "id": "CN-IR-OTETS-06",
+        "phrase": "Мы часто говорим об отце.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition об (about) requires the prepositional case, giving отце. The fleeting vowel still drops, and the prepositional ending -е attaches to the contracted stem отц-."
+      },
+      {
+        "id": "CN-IR-OTETS-07",
+        "phrase": "Многие отцы пришли на праздник.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes отцы. The fleeting vowel drops throughout the plural, so the stem is отц- and the nominative plural ending is -ы."
+      },
+      {
+        "id": "CN-IR-OTETS-08",
+        "phrase": "На собрании было мало отцов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The quantifier мало forces the genitive plural отцов. With the fleeting vowel absent, the stem отц- takes the genitive plural ending -ов."
+      },
+      {
+        "id": "CN-IR-OTETS-09",
+        "phrase": "Школа благодарна всем отцам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The adjective благодарна governs the dative, here the plural отцам. The fleeting vowel stays dropped, and the dative plural ending -ам attaches to the stem отц-."
+      },
+      {
+        "id": "CN-IR-OTETS-10",
+        "phrase": "Дети любят своих отцов.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The noun is animate, so the accusative plural copies the genitive plural отцов as the direct object of любят. The fleeting vowel is gone and the animate rule makes accusative equal genitive in the plural too."
+      },
+      {
+        "id": "CN-IR-OTETS-11",
+        "phrase": "Мы встретились с молодыми отцами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition с (with) selects the instrumental plural отцами. With the fleeting vowel dropped, the stem отц- takes the instrumental plural ending -ами."
+      },
+      {
+        "id": "CN-IR-OTETS-12",
+        "phrase": "В наших отцах живёт мудрость.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The preposition в (in) marks the prepositional plural отцах. Like every oblique form, it rests on the contracted stem отц-, since the fleeting vowel of отец survives only in the nominative singular."
+      }
+    ]
+  }
+]

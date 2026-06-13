@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-IR-DOCH",
+    "label": "Дочь",
+    "badge": "IR",
+    "description": "Twelve-mission case drill for дочь (daughter) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-IR-DOCH-01",
+        "phrase": "Их дочь учится в университете.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form дочь is the subject of the sentence. Like мать, this third-declension feminine shows the bare stem only in the nominative and accusative singular; everywhere else the hidden -ер- segment appears."
+      },
+      {
+        "id": "CN-IR-DOCH-02",
+        "phrase": "У нашей дочери есть собака.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The construction у плюс possession sends the noun into the genitive, and the bare дочь expands to дочери. This is the -ер- insert surfacing, exactly as it does in the related noun мать."
+      },
+      {
+        "id": "CN-IR-DOCH-03",
+        "phrase": "Отец купил дочери новое платье.",
+        "fullAnalysis": "Strategic focus: Dative singular. As the recipient of the dress the noun takes the dative дочери, identical to the genitive in form. The dative ending attaches to the -ер- expanded stem дочер-, the irregular insert that defines this noun."
+      },
+      {
+        "id": "CN-IR-DOCH-04",
+        "phrase": "Родители очень любят свою дочь.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of любят the noun returns to the bare form дочь. Accusative singular is one of the two slots where this irregular feminine keeps the unexpanded stem and resists the -ер- insert."
+      },
+      {
+        "id": "CN-IR-DOCH-05",
+        "phrase": "Мать гордится своей дочерью.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордиться governs the instrumental, producing дочерью. The third-declension instrumental ending -ью combines with the -ер- expanded stem, giving the characteristic дочерью."
+      },
+      {
+        "id": "CN-IR-DOCH-06",
+        "phrase": "Мы много говорим о дочери.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о (about) requires the prepositional case, yielding дочери. Built on the -ер- expanded stem, this form coincides with the genitive and dative, so all three singular oblique forms read дочери."
+      },
+      {
+        "id": "CN-IR-DOCH-07",
+        "phrase": "Их дочери живут в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes the form дочери. The -ер- insert runs through the entire plural, so the stem is дочер- and the nominative plural ending -и gives дочери."
+      },
+      {
+        "id": "CN-IR-DOCH-08",
+        "phrase": "У них нет своих дочерей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The negation нет requires the genitive plural дочерей. The ending -ей attaches to the -ер- expanded stem, producing the irregular дочерей."
+      },
+      {
+        "id": "CN-IR-DOCH-09",
+        "phrase": "Мать звонит своим дочерям каждый вечер.",
+        "fullAnalysis": "Strategic focus: Dative plural. The verb звонить governs the dative, here the plural дочерям. The dative plural ending -ям rests on the -ер- expanded stem, keeping the insert visible across the plural."
+      },
+      {
+        "id": "CN-IR-DOCH-10",
+        "phrase": "Я давно знаю их дочерей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The noun is animate, so the accusative plural copies the genitive plural дочерей as the direct object of знаю. The animate rule and the -ер- insert together make accusative plural equal genitive plural here."
+      },
+      {
+        "id": "CN-IR-DOCH-11",
+        "phrase": "Родители гуляют с дочерьми в саду.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition с (with) selects the instrumental plural, and дочь takes the special ending -ьми, giving дочерьми. This is a second irregularity: unlike most nouns, дочь uses -ьми rather than -ями in the instrumental plural, layered on the -ер- expanded stem."
+      },
+      {
+        "id": "CN-IR-DOCH-12",
+        "phrase": "В наших дочерях вся наша надежда.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The preposition в (in) marks location and triggers the prepositional plural дочерях. Like every plural form, it sits on the -ер- expanded stem, the insert that sets дочь apart from a regular third-declension noun."
+      }
+    ]
+  }
+]

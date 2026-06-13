@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MS-SLOVAR",
+    "label": "Словарь",
+    "badge": "MS",
+    "description": "Twelve-mission case drill for словарь (dictionary) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MS-SLOVAR-01",
+        "phrase": "Этот словарь очень старый.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form ends in a soft sign, so словарь here is the bare subject of the sentence with no ending added. As the thing being described, it stands in the nominative, the case that names the doer or topic."
+      },
+      {
+        "id": "CN-MS-SLOVAR-02",
+        "phrase": "У меня нет словаря.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The soft stem replaces the final -ь with -я, giving словаря. The phrase нет plus a noun demands the genitive of absence, and soft masculine nouns take -я rather than the hard -а."
+      },
+      {
+        "id": "CN-MS-SLOVAR-03",
+        "phrase": "Я иду к словарю за помощью.",
+        "fullAnalysis": "Strategic focus: Dative singular. The -ь softens into the dative ending -ю, producing словарю. The preposition к, marking motion toward, governs the dative, and the soft stem gives -ю in place of the hard -у."
+      },
+      {
+        "id": "CN-MS-SLOVAR-04",
+        "phrase": "Я купил новый словарь вчера.",
+        "fullAnalysis": "Strategic focus: Accusative singular. Because словарь is inanimate, its accusative is identical to the nominative and the form stays словарь. It serves here as the direct object of купил, the thing acted upon."
+      },
+      {
+        "id": "CN-MS-SLOVAR-05",
+        "phrase": "Я пользуюсь толстым словарём каждый день.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The soft, end-stressed stem takes -ём, giving словарём. The verb пользоваться requires the instrumental of the tool used, and the stress on the ending forces ё rather than the unstressed е."
+      },
+      {
+        "id": "CN-MS-SLOVAR-06",
+        "phrase": "В этом словаре много слов.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The -ь is replaced by the prepositional ending -е, giving словаре. The preposition в, marking location, governs the prepositional, where soft and hard masculine nouns share the -е ending."
+      },
+      {
+        "id": "CN-MS-SLOVAR-07",
+        "phrase": "На полке стоят толстые словари.",
+        "fullAnalysis": "Strategic focus: Nominative plural. Soft masculine nouns form the plural in -и, so словарь becomes словари. As the subjects of стоят, they appear in the nominative plural, the listing form."
+      },
+      {
+        "id": "CN-MS-SLOVAR-08",
+        "phrase": "В библиотеке нет старых словарей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. Soft masculine nouns take the genitive plural ending -ей, giving словарей. The phrase нет of absence governs the genitive, and the soft stem selects -ей over the hard -ов."
+      },
+      {
+        "id": "CN-MS-SLOVAR-09",
+        "phrase": "Учитель раздал словарям ярлыки.",
+        "fullAnalysis": "Strategic focus: Dative plural. The dative plural ending -ям attaches to the soft stem, giving словарям. The dative marks the recipients to which the labels are assigned, and the soft stem gives -ям rather than -ам."
+      },
+      {
+        "id": "CN-MS-SLOVAR-10",
+        "phrase": "Я положил все словари на стол.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Since словарь is inanimate, the accusative plural matches the nominative plural, so the form stays словари. They function as the direct objects of положил."
+      },
+      {
+        "id": "CN-MS-SLOVAR-11",
+        "phrase": "Полка заставлена тяжёлыми словарями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ями attaches to the soft stem, giving словарями. The instrumental names what the shelf is filled with, and the soft stem selects -ями over the hard -ами."
+      },
+      {
+        "id": "CN-MS-SLOVAR-12",
+        "phrase": "В этих словарях я нашёл ответ.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The prepositional plural ending -ях attaches to the soft stem, giving словарях. The preposition в, marking location, governs the prepositional, and the soft stem gives -ях rather than -ах."
+      }
+    ]
+  }
+]

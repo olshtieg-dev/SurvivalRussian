@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MS-KON",
+    "label": "Конь",
+    "badge": "MS",
+    "description": "Twelve-mission case drill for конь (horse, steed) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MS-KON-01",
+        "phrase": "Белый конь стоит у реки.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form конь ends in a soft sign and takes no added ending as the subject. As the doer of стоит, it stands in the nominative, the naming form."
+      },
+      {
+        "id": "CN-MS-KON-02",
+        "phrase": "У соседа нет коня.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The soft stem replaces -ь with -я, giving коня. The phrase нет of absence governs the genitive, and the soft stem takes -я rather than the hard -а."
+      },
+      {
+        "id": "CN-MS-KON-03",
+        "phrase": "Мальчик подошёл к коню тихо.",
+        "fullAnalysis": "Strategic focus: Dative singular. The -ь softens into the dative ending -ю, producing коню. The preposition к, marking motion toward, governs the dative, and the soft stem gives -ю in place of -у."
+      },
+      {
+        "id": "CN-MS-KON-04",
+        "phrase": "Всадник оседлал коня быстро.",
+        "fullAnalysis": "Strategic focus: Accusative singular. Because конь is animate, its accusative copies the genitive form коня. It serves as the direct object of оседлал, and animacy is what selects the genitive-shaped ending."
+      },
+      {
+        "id": "CN-MS-KON-05",
+        "phrase": "Воин гордился своим конём.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The soft, end-stressed stem takes -ём, giving конём. The verb гордиться governs the instrumental, and the stress on the ending forces ё rather than the unstressed е."
+      },
+      {
+        "id": "CN-MS-KON-06",
+        "phrase": "В сказке речь идёт о коне.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The -ь is replaced by the prepositional ending -е, giving коне. The preposition о, marking the topic, governs the prepositional, where soft masculine nouns take -е."
+      },
+      {
+        "id": "CN-MS-KON-07",
+        "phrase": "На лугу пасутся быстрые кони.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The soft stem forms the plural in -и, so конь becomes кони. As the subjects of пасутся, they appear in the nominative plural, the listing form."
+      },
+      {
+        "id": "CN-MS-KON-08",
+        "phrase": "В деревне много сильных коней.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The soft stem takes the genitive plural ending -ей, giving коней. The quantity word много governs the genitive, and the soft stem selects -ей rather than -ов."
+      },
+      {
+        "id": "CN-MS-KON-09",
+        "phrase": "Конюх раздал коням свежее сено.",
+        "fullAnalysis": "Strategic focus: Dative plural. The dative plural ending -ям attaches to the soft stem, giving коням. The dative marks the recipients to whom the hay is given, and the soft stem gives -ям rather than -ам."
+      },
+      {
+        "id": "CN-MS-KON-10",
+        "phrase": "Казаки запрягли коней в телегу.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Because конь is animate, the accusative plural copies the genitive plural коней. They serve as the direct objects of запрягли, and animacy forces the genitive-shaped plural ending."
+      },
+      {
+        "id": "CN-MS-KON-11",
+        "phrase": "Поле было покрыто скачущими конями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ями attaches to the soft stem, giving конями. The instrumental names what the field is covered with, and the soft stem selects -ями over -ами."
+      },
+      {
+        "id": "CN-MS-KON-12",
+        "phrase": "На конях ехали усталые воины.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The prepositional plural ending -ях attaches to the soft stem, giving конях. The preposition на, marking the means of travel here, governs the prepositional, and the soft stem gives -ях rather than -ах."
+      }
+    ]
+  }
+]

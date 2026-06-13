@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MH-DOM",
+    "label": "Дом",
+    "badge": "MH",
+    "description": "Twelve-mission case drill for дом (house, home) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MH-DOM-01",
+        "phrase": "Этот дом стоит на холме.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form дом stays unchanged here because it is the subject of стоит, the thing doing the standing. Nominative is the default case for the doer of the action, so a hard masculine noun shows zero ending."
+      },
+      {
+        "id": "CN-MH-DOM-02",
+        "phrase": "Около дома растёт высокая берёза.",
+        "fullAnalysis": "Strategic focus: Genitive singular. Here дом becomes дома, with the ending -а. The preposition около (near) always governs the genitive, marking the spot the tree grows beside. Hard masculine nouns take -а in the genitive singular."
+      },
+      {
+        "id": "CN-MH-DOM-03",
+        "phrase": "Мы идём к дому по тропинке.",
+        "fullAnalysis": "Strategic focus: Dative singular. The form дом becomes дому with the ending -у. The preposition к (toward) requires the dative and points to the goal of motion. Dative marks the recipient or destination, and hard masculine nouns add -у."
+      },
+      {
+        "id": "CN-MH-DOM-04",
+        "phrase": "Я строю дом своими руками.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The form дом looks identical to the nominative because дом is inanimate, so its accusative equals the dictionary form. It is the direct object of строю (I build), the thing being acted upon."
+      },
+      {
+        "id": "CN-MH-DOM-05",
+        "phrase": "Над домом летит большая птица.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The form дом becomes домом, ending in -ом. The preposition над (above) takes the instrumental to show position over something. Hard masculine nouns form the instrumental singular with -ом."
+      },
+      {
+        "id": "CN-MH-DOM-06",
+        "phrase": "В нашем доме всегда тепло.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The form дом becomes доме with the ending -е. The preposition в (in) used for location answers где and requires the prepositional. Hard masculine nouns take -е here."
+      },
+      {
+        "id": "CN-MH-DOM-07",
+        "phrase": "На улице стоят новые дома.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural дома is the subject of стоят. Note the stress shift: дом is stressed on the root, but the plural дома carries end stress, which also distinguishes it from the genitive singular дома stressed on the first syllable."
+      },
+      {
+        "id": "CN-MH-DOM-08",
+        "phrase": "В этом районе много старых домов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form дом becomes домов with the ending -ов. The quantity word много (many) governs the genitive plural. Hard masculine nouns add -ов to form this case."
+      },
+      {
+        "id": "CN-MH-DOM-09",
+        "phrase": "Почтальон разносит письма по домам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The form дом becomes домам, ending in -ам. The preposition по (around, from one to another) takes the dative here. All plural datives end in -ам for hard nouns."
+      },
+      {
+        "id": "CN-MH-DOM-10",
+        "phrase": "Рабочие быстро построили новые дома.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The form дома equals the nominative plural because дом is inanimate, so the accusative plural copies the nominative. It is the direct object of построили (built)."
+      },
+      {
+        "id": "CN-MH-DOM-11",
+        "phrase": "Между домами растут старые липы.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The form дом becomes домами, ending in -ами. The preposition между (between) governs the instrumental. The plural instrumental ending -ами is uniform across genders."
+      },
+      {
+        "id": "CN-MH-DOM-12",
+        "phrase": "В деревенских домах топят печи.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The form дом becomes домах with the ending -ах. The preposition в for location requires the prepositional case. The plural ending -ах is the same for all hard nouns."
+      }
+    ]
+  }
+]

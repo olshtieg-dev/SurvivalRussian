@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FS-STANTSIYA",
+    "label": "Станция",
+    "badge": "FS",
+    "description": "Twelve-mission case drill for станция (station) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FS-STANTSIYA-01",
+        "phrase": "Эта станция совсем новая.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The base form станция is the subject of the sentence, so it stays in the nominative. Nouns in -ия keep that ending in the nominative singular."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-02",
+        "phrase": "Около станции стоит большое здание.",
+        "fullAnalysis": "Strategic focus: Genitive singular. After около the noun shifts to genitive станции. For -ия nouns the genitive ends in -ии, so the genitive collapses into the same form shared by the dative and prepositional singular."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-03",
+        "phrase": "К станции ведёт широкая дорога.",
+        "fullAnalysis": "Strategic focus: Dative singular. The preposition к governs the dative станции. The -ия pattern gives the dative ending -ии, making the dative singular identical to the genitive and prepositional singular."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-04",
+        "phrase": "Мы быстро нашли нужную станцию.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of нашли, станция takes the accusative станцию; nouns in -ия change -я to -ю in the accusative singular. This is the one oblique singular that differs from the -ии cluster."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-05",
+        "phrase": "Поезд остановился перед станцией.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The preposition перед requires the instrumental, so станция becomes станцией with the ending -ей. Stress stays on the stem, so the ending is -ей."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-06",
+        "phrase": "На станции было очень шумно.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Locative на takes the prepositional станции. The -ия pattern gives the prepositional ending -ии, so it matches the genitive and dative singular exactly."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-07",
+        "phrase": "Новые станции открылись в этом году.",
+        "fullAnalysis": "Strategic focus: Nominative plural. As the subject of открылись, the plural станции carries the nominative ending -ии instead of singular -ия. Soft nouns mark the nominative plural with -и."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-08",
+        "phrase": "В нашем городе нет таких станций.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After нет the noun goes to genitive plural станций, a zero ending where the -и- of the stem is retained before the final й. Nouns in -ия form the genitive plural in -ий."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-09",
+        "phrase": "По станциям объявили об изменениях.",
+        "fullAnalysis": "Strategic focus: Dative plural. The preposition по in its distributive sense governs the dative plural станциям, with the plural ending -ям after the stem. The plural endings are fully regular for -ия nouns."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-10",
+        "phrase": "Эти станции построили совсем недавно.",
+        "fullAnalysis": "Strategic focus: Accusative plural. As an inanimate direct object of построили, станции has an accusative plural identical to the nominative plural. Inanimate feminine nouns keep accusative plural equal to nominative plural."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-11",
+        "phrase": "Между станциями поезд идёт быстро.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition между governs the instrumental станциями, with the plural ending -ями. The instrumental plural ending is uniform across declensions."
+      },
+      {
+        "id": "CN-FS-STANTSIYA-12",
+        "phrase": "На дальних станциях поезд не стоит.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After на the noun takes the prepositional plural станциях, ending in -ях. The prepositional plural ending is the same for all genders."
+      }
+    ]
+  }
+]

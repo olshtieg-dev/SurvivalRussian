@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MS-MUZEY",
+    "label": "Музей",
+    "badge": "MS",
+    "description": "Twelve-mission case drill for музей (museum) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MS-MUZEY-01",
+        "phrase": "Это новый музей в центре.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form музей ends in -й and takes no added ending in the subject case. As the topic introduced by это, it stands in the nominative, the naming form."
+      },
+      {
+        "id": "CN-MS-MUZEY-02",
+        "phrase": "Мы вышли из музея поздно.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The -й is replaced by the soft genitive ending -я, giving музея. The preposition из, marking motion out of, governs the genitive, and -й stems take -я rather than -а."
+      },
+      {
+        "id": "CN-MS-MUZEY-03",
+        "phrase": "Мы идём к музею пешком.",
+        "fullAnalysis": "Strategic focus: Dative singular. The -й gives way to the dative ending -ю, producing музею. The preposition к, marking motion toward, governs the dative, where -й stems take -ю."
+      },
+      {
+        "id": "CN-MS-MUZEY-04",
+        "phrase": "Я хочу посетить этот музей.",
+        "fullAnalysis": "Strategic focus: Accusative singular. Because музей is inanimate, its accusative equals the nominative and the form stays музей. It serves as the direct object of посетить, the thing acted upon."
+      },
+      {
+        "id": "CN-MS-MUZEY-05",
+        "phrase": "Она интересуется этим музеем давно.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The -й takes the instrumental ending -ем, giving музеем. The verb интересоваться requires the instrumental, and since the ending is unstressed it is written -ем, not -ём."
+      },
+      {
+        "id": "CN-MS-MUZEY-06",
+        "phrase": "В музее открылась новая выставка.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The -й is replaced by the prepositional ending -е, giving музее. The preposition в, marking location, governs the prepositional, and -й stems take the -е ending."
+      },
+      {
+        "id": "CN-MS-MUZEY-07",
+        "phrase": "В нашем городе есть прекрасные музеи.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The -й stem forms the plural in -и, so музей becomes музеи. As the subjects of есть, they appear in the nominative plural, the listing form."
+      },
+      {
+        "id": "CN-MS-MUZEY-08",
+        "phrase": "В этом районе нет музеев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The -й stem takes the genitive plural ending -ев, giving музеев. The phrase нет of absence governs the genitive, and -й stems select -ев rather than the hard -ов."
+      },
+      {
+        "id": "CN-MS-MUZEY-09",
+        "phrase": "Город выделил музеям новые здания.",
+        "fullAnalysis": "Strategic focus: Dative plural. The dative plural ending -ям attaches to the -й stem, giving музеям. The dative marks the recipients to which the buildings were allotted."
+      },
+      {
+        "id": "CN-MS-MUZEY-10",
+        "phrase": "Туристы любят музеи и парки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Since музей is inanimate, the accusative plural matches the nominative plural, so the form stays музеи. They function as direct objects of любят."
+      },
+      {
+        "id": "CN-MS-MUZEY-11",
+        "phrase": "Город гордится своими музеями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ями attaches to the -й stem, giving музеями. The verb гордиться governs the instrumental, and the soft stem selects -ями over -ами."
+      },
+      {
+        "id": "CN-MS-MUZEY-12",
+        "phrase": "О лучших музеях пишут в газете.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The prepositional plural ending -ях attaches to the -й stem, giving музеях. The preposition о, marking the topic, governs the prepositional, and the soft stem gives -ях rather than -ах."
+      }
+    ]
+  }
+]

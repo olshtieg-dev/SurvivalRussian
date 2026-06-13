@@ -29,6 +29,31 @@
         "id": "CV-NV-05",
         "phrase": "Скажите, это далеко отсюда?",
         "fullAnalysis": "Strategic focus: Distance check. 'Это далеко' asks about distance in a very natural way, and 'отсюда' anchors the question to your current spot. This sentence helps you judge whether walking is realistic."
+      },
+      {
+        "id": "CV-NV-06",
+        "phrase": "На перекрёстке поверните направо.",
+        "fullAnalysis": "Strategic focus: Turning at a junction. 'На перекрёстке' names the crossroads where the action happens, and 'поверните направо' pairs with the налево command from earlier. Together направо and налево are the two turns you will use most often."
+      },
+      {
+        "id": "CV-NV-07",
+        "phrase": "Автобусная остановка совсем рядом.",
+        "fullAnalysis": "Strategic focus: Something is close by. 'Остановка' is the everyday word for a bus stop, and 'совсем рядом' reassures the listener that it is very near. This sentence is the natural opposite of asking whether a place is далеко."
+      },
+      {
+        "id": "CV-NV-08",
+        "phrase": "Идите через мост, потом прямо.",
+        "fullAnalysis": "Strategic focus: Crossing a landmark. 'Через мост' shows how to route someone across a bridge, and 'потом прямо' continues the walk straight afterward. Bridges and the word 'через' come up constantly when navigating a real city."
+      },
+      {
+        "id": "CV-NV-09",
+        "phrase": "Площадь находится близко, идти недолго.",
+        "fullAnalysis": "Strategic focus: Reassuring distance. 'Площадь' is a key orientation landmark in any Russian town, and 'близко' tells the listener it is nearby. The closing 'идти недолго' adds that the walk itself is short."
+      },
+      {
+        "id": "CV-NV-10",
+        "phrase": "Магазин на углу, не надо идти назад.",
+        "fullAnalysis": "Strategic focus: Locating a corner spot. 'На углу' places the shop right at the corner, a very common Russian way to give location. The reassurance 'не надо идти назад' uses 'назад' to confirm you do not have to turn back."
       }
     ]
   }

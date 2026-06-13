@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MA-SYN",
+    "label": "Сын",
+    "badge": "MA",
+    "description": "Twelve-mission case drill for сын (son) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MA-SYN-01",
+        "phrase": "Их сын учится в университете.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form сын has a zero ending and names the subject. Here сын is the one who studies, so it stands in the nominative as the grammatical subject."
+      },
+      {
+        "id": "CN-MA-SYN-02",
+        "phrase": "У соседа нет сына.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative сын adds -а to become сына. The word нет signalling absence governs the genitive, so the son the neighbour lacks appears as сына."
+      },
+      {
+        "id": "CN-MA-SYN-03",
+        "phrase": "Отец купил сыну велосипед.",
+        "fullAnalysis": "Strategic focus: Dative singular. The ending shifts to -у, giving сыну. The verb купить marks the beneficiary with the dative, so сыну is the one for whom the bicycle was bought."
+      },
+      {
+        "id": "CN-MA-SYN-04",
+        "phrase": "Мать любит своего сына.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of любить takes the accusative, but because сын is animate, the accusative copies the genitive: сына. Animacy is why the form ends in -а rather than staying сын."
+      },
+      {
+        "id": "CN-MA-SYN-05",
+        "phrase": "Я горжусь своим сыном.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The ending becomes -ом, producing сыном. The verb гордиться governs the instrumental, marking сыном as the source of the pride."
+      },
+      {
+        "id": "CN-MA-SYN-06",
+        "phrase": "Родители заботятся о сыне.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The ending is -е, giving сыне. The preposition о meaning about forces the prepositional, the case for the object of care described."
+      },
+      {
+        "id": "CN-MA-SYN-07",
+        "phrase": "Их сыновья уже взрослые.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural is irregular: the stem expands to сыновь- and takes -я, giving сыновья. As the subject of the description, they stand in the nominative."
+      },
+      {
+        "id": "CN-MA-SYN-08",
+        "phrase": "У них пятеро сыновей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The irregular soft stem сыновь- takes -ей, giving сыновей. The numeral пятеро governs the genitive plural, so the counted sons appear as сыновей."
+      },
+      {
+        "id": "CN-MA-SYN-09",
+        "phrase": "Мать пишет письма своим сыновьям.",
+        "fullAnalysis": "Strategic focus: Dative plural. The expanded stem сыновья- takes the dative ending -ям, producing сыновьям. The recipients of the letters stand in the dative."
+      },
+      {
+        "id": "CN-MA-SYN-10",
+        "phrase": "Они растят своих сыновей честными.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object would be accusative, but animacy makes the accusative plural copy the genitive plural: сыновей. The form matches the genitive, not the nominative сыновья, because the noun is animate."
+      },
+      {
+        "id": "CN-MA-SYN-11",
+        "phrase": "Отец рыбачит с сыновьями каждое лето.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The expanded stem сыновья- takes -ями, giving сыновьями. The preposition с meaning with requires the instrumental, naming сыновьями as the fishing companions."
+      },
+      {
+        "id": "CN-MA-SYN-12",
+        "phrase": "Она всегда рассказывает о сыновьях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The expanded stem сыновья- takes the prepositional ending -ях, giving сыновьях. The preposition о meaning about governs the prepositional, marking сыновьях as the topic."
+      }
+    ]
+  }
+]

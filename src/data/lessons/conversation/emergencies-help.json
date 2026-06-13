@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-EH",
+    "label": "Emergencies & Help",
+    "badge": "EH",
+    "description": "Asking for help, reporting a problem, and handling urgent situations.",
+    "missions": [
+      {
+        "id": "CV-EH-01",
+        "phrase": "Помогите мне, пожалуйста, это срочно!",
+        "fullAnalysis": "Strategic focus: calling for urgent help. The imperative помогите is the standard polite plural form for asking strangers to help. The word срочно signals that the situation is urgent and needs immediate attention."
+      },
+      {
+        "id": "CV-EH-02",
+        "phrase": "Вызовите врача, человеку плохо.",
+        "fullAnalysis": "Strategic focus: requesting a doctor. The imperative вызовите means call or summon, used here with врача, the accusative of врач, a doctor. Saying человеку плохо tells others that someone feels unwell."
+      },
+      {
+        "id": "CV-EH-03",
+        "phrase": "Скорая нужна как можно быстрее!",
+        "fullAnalysis": "Strategic focus: needing an ambulance. The noun скорая is the short form of скорая помощь, the ambulance service. The phrase как можно быстрее means as fast as possible and stresses urgency."
+      },
+      {
+        "id": "CV-EH-04",
+        "phrase": "Я потерялся и не знаю дорогу.",
+        "fullAnalysis": "Strategic focus: reporting being lost. The verb потерялся is the masculine past of потеряться, to get lost; a woman would say потерялась. Saying не знаю дорогу explains that you cannot find your way."
+      },
+      {
+        "id": "CV-EH-05",
+        "phrase": "Я потерял телефон и сумку.",
+        "fullAnalysis": "Strategic focus: reporting lost belongings. The verb потерял is the masculine past of потерять, to lose. Here телефон and сумку, the accusative of сумка, name the missing items."
+      },
+      {
+        "id": "CV-EH-06",
+        "phrase": "Позвоните в полицию, пожалуйста.",
+        "fullAnalysis": "Strategic focus: asking someone to call the police. The imperative позвоните means make a phone call, and в полицию, the accusative of полиция, names where the call goes. Adding пожалуйста keeps the request polite."
+      },
+      {
+        "id": "CV-EH-07",
+        "phrase": "Мне нужна помощь прямо сейчас.",
+        "fullAnalysis": "Strategic focus: stating an immediate need for help. The construction мне нужна помощь uses the noun помощь, help, in a need phrase. The words прямо сейчас mean right now and add urgency."
+      },
+      {
+        "id": "CV-EH-08",
+        "phrase": "Где ближайшая больница или аптека?",
+        "fullAnalysis": "Strategic focus: finding medical places. The adjective ближайшая means nearest and agrees with the feminine nouns больница, hospital, and аптека, pharmacy. This question helps you reach treatment or medicine quickly."
+      },
+      {
+        "id": "CV-EH-09",
+        "phrase": "Осторожно, здесь очень опасно!",
+        "fullAnalysis": "Strategic focus: warning of danger. The word осторожно means careful and is shouted to alert others. The predicative опасно means it is dangerous and describes the threat in the place здесь, here."
+      },
+      {
+        "id": "CV-EH-10",
+        "phrase": "Мне плохо, вызовите скорую помощь.",
+        "fullAnalysis": "Strategic focus: reporting feeling unwell. The phrase мне плохо says that you feel sick or faint. The imperative вызовите with скорую помощь, the accusative of скорая помощь, asks others to call an ambulance for you."
+      }
+    ]
+  }
+]

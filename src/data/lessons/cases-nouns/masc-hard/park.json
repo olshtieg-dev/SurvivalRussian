@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MH-PARK",
+    "label": "Парк",
+    "badge": "MH",
+    "description": "Twelve-mission case drill for парк (park) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MH-PARK-01",
+        "phrase": "Городской парк очень большой.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form парк stays unchanged because it is the subject, the thing described as large. Nominative names the topic of the sentence, and hard masculine nouns show a bare stem with no ending."
+      },
+      {
+        "id": "CN-MH-PARK-02",
+        "phrase": "Около парка стоит старая церковь.",
+        "fullAnalysis": "Strategic focus: Genitive singular. Here парк becomes парка, with the ending -а. The preposition около (near) governs the genitive, marking the spot beside which the church stands. The velar к takes -а normally in the singular."
+      },
+      {
+        "id": "CN-MH-PARK-03",
+        "phrase": "Дети бегут к парку играть.",
+        "fullAnalysis": "Strategic focus: Dative singular. The form парк becomes парку with the ending -у. The preposition к (toward) requires the dative to mark the goal of motion. Dative shows the destination, and hard masculine nouns add -у."
+      },
+      {
+        "id": "CN-MH-PARK-04",
+        "phrase": "Мы посетили новый парк.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The form парк matches the nominative because парк is inanimate, so its accusative copies the dictionary form. It is the direct object of посетили (visited), the thing being acted upon."
+      },
+      {
+        "id": "CN-MH-PARK-05",
+        "phrase": "За парком течёт небольшая река.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The form парк becomes парком, ending in -ом. The preposition за (behind) takes the instrumental to show position. Hard masculine nouns form the instrumental singular with -ом."
+      },
+      {
+        "id": "CN-MH-PARK-06",
+        "phrase": "В парке гуляют молодые мамы.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The form парк becomes парке with the ending -е. The preposition в (in) used for location answers где and requires the prepositional. Hard masculine nouns take -е here."
+      },
+      {
+        "id": "CN-MH-PARK-07",
+        "phrase": "В нашем районе есть парки.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural парки is the subject. The velar к cannot be followed by ы under the spelling rule, so the plural ending is -и, giving парки rather than паркы."
+      },
+      {
+        "id": "CN-MH-PARK-08",
+        "phrase": "В центре мало зелёных парков.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form парк becomes парков with the ending -ов. The quantity word мало (few) governs the genitive plural. Despite the velar к, the genitive plural is regular: парков."
+      },
+      {
+        "id": "CN-MH-PARK-09",
+        "phrase": "Туристы ходят по паркам столицы.",
+        "fullAnalysis": "Strategic focus: Dative plural. The form парк becomes паркам, ending in -ам. The preposition по (around, from one to another) takes the dative here. The plural dative ending -ам is uniform for hard nouns."
+      },
+      {
+        "id": "CN-MH-PARK-10",
+        "phrase": "Власти открыли новые парки.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The form парки equals the nominative plural because парк is inanimate, so the accusative plural copies the nominative. The velar к keeps the -и ending, and it is the direct object of открыли (opened)."
+      },
+      {
+        "id": "CN-MH-PARK-11",
+        "phrase": "Между парками проходит широкий бульвар.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The form парк becomes парками, ending in -ами. The preposition между (between) governs the instrumental. The plural instrumental ending -ами is shared across genders."
+      },
+      {
+        "id": "CN-MH-PARK-12",
+        "phrase": "В городских парках много фонтанов.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The form парк becomes парках with the ending -ах. The preposition в for location requires the prepositional case. The plural ending -ах is the same for all hard nouns."
+      }
+    ]
+  }
+]

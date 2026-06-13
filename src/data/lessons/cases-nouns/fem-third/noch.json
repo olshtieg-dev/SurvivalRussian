@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-F3-NOCH",
+    "label": "Ночь",
+    "badge": "F3",
+    "description": "Twelve-mission case drill for ночь (night) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-F3-NOCH-01",
+        "phrase": "Ночь была тёмной и тихой.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form ночь is the subject of the sentence, the thing being described, so it stays in its bare -ь shape. Third-declension feminine nouns show no ending in the nominative singular; the inflection only begins once the noun moves into the oblique cases."
+      },
+      {
+        "id": "CN-F3-NOCH-02",
+        "phrase": "Я не спал до поздней ночи.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The preposition до governs the genitive, and ночь shifts to ночи. The hallmark of the third declension is that genitive, dative, and prepositional singular all merge into this one -и form, so ночи here is spelled exactly like the dative and prepositional."
+      },
+      {
+        "id": "CN-F3-NOCH-03",
+        "phrase": "К ночи похолодало сильно.",
+        "fullAnalysis": "Strategic focus: Dative singular. The preposition к marks the time toward which things move and governs the dative, turning ночь into ночи. In the third declension the dative shares its -и ending with the genitive and prepositional singular; only the instrumental ночью stands apart with -ью."
+      },
+      {
+        "id": "CN-F3-NOCH-04",
+        "phrase": "Мы провели вместе всю ночь.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The phrase всю ночь is the direct object expressing duration, so ночь takes the accusative. Because ночь is an inanimate third-declension noun, its accusative is identical to the nominative — the bare -ь form, with no distinct object ending."
+      },
+      {
+        "id": "CN-F3-NOCH-05",
+        "phrase": "Ночью на улице совсем темно.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The bare instrumental ночью functions as a time adverb meaning 'at night', and the noun takes its distinctive -ью ending. This form is the one place the third declension breaks the pattern: while genitive, dative, and prepositional all share -и, the instrumental singular alone is -ью."
+      },
+      {
+        "id": "CN-F3-NOCH-06",
+        "phrase": "Я часто думаю о ночи.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о, marking the topic of thought, governs the prepositional, so ночь becomes ночи. This -и ending completes the singular trio — genitive, dative, and prepositional are all written ночи — while only the instrumental ночью differs."
+      },
+      {
+        "id": "CN-F3-NOCH-07",
+        "phrase": "Летние ночи такие короткие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. As the plural subject being described, ночь moves to the nominative plural ночи. The third-declension plural marks the nominative with -и, the same vowel seen in the singular obliques but now signalling plurality rather than case merger."
+      },
+      {
+        "id": "CN-F3-NOCH-08",
+        "phrase": "Здесь не бывает белых ночей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The verb of absence не бывает draws the genitive plural, and ночь takes the third-declension ending -ей to become ночей. This -ей is the regular genitive-plural marker for soft feminine nouns of this class, replacing the singular -и."
+      },
+      {
+        "id": "CN-F3-NOCH-09",
+        "phrase": "По ночам он много читает.",
+        "fullAnalysis": "Strategic focus: Dative plural. The preposition по with a habitual time sense governs the dative, and in the plural ночь takes the ending -ам, giving ночам. Unlike the singular, where the dative overlapped with genitive and prepositional, the plural cases are all distinct."
+      },
+      {
+        "id": "CN-F3-NOCH-10",
+        "phrase": "Зимой мы любим длинные ночи.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The phrase длинные ночи is the direct object of любим, so it takes the accusative plural. Since ночь is inanimate, its accusative plural matches the nominative plural ночи rather than the genitive."
+      },
+      {
+        "id": "CN-F3-NOCH-11",
+        "phrase": "Я наслаждаюсь тихими ночами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The verb наслаждаюсь governs the instrumental, and ночь takes the plural ending -ами to become ночами. The singular's special -ью yields in the plural to the ordinary -ами ending shared across the declensions."
+      },
+      {
+        "id": "CN-F3-NOCH-12",
+        "phrase": "В этих ночах есть особая тишина.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The locational в governs the prepositional, and ночь becomes ночах with the plural ending -ах. The singular merger of genitive, dative, and prepositional into -и does not carry over to the plural, where each case keeps its own ending."
+      }
+    ]
+  }
+]

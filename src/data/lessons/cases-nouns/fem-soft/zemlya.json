@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FS-ZEMLYA",
+    "label": "Земля",
+    "badge": "FS",
+    "description": "Twelve-mission case drill for земля (earth, land, ground) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FS-ZEMLYA-01",
+        "phrase": "Земля вращается вокруг солнца.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The base form земля is the subject of вращается, so it stays in the nominative. Soft feminine nouns in -я keep that ending in the nominative singular."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-02",
+        "phrase": "У нас нет своей земли.",
+        "fullAnalysis": "Strategic focus: Genitive singular. After нет the noun shifts to genitive земли, where the soft ending -я becomes -и. Negated existence with нет is a standard genitive trigger."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-03",
+        "phrase": "К этой земле они относятся бережно.",
+        "fullAnalysis": "Strategic focus: Dative singular. The preposition к governs the dative, turning земля into земле with the soft dative ending -е. The dative marks the entity toward which the attitude is directed."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-04",
+        "phrase": "Фермеры пашут землю весной.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of пашут, земля takes the accusative землю; soft feminine nouns change -я to -ю in the accusative singular."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-05",
+        "phrase": "Самолёт летит над землёй.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The preposition над requires the instrumental, so земля becomes землёй. Because земля is end-stressed, the ending is the stressed -ёй rather than -ей."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-06",
+        "phrase": "На земле лежал свежий снег.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Locative на takes the prepositional, and земля becomes земле with the soft ending -е, matching the dative form. The phrase на земле marks the location."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-07",
+        "phrase": "Эти земли принадлежат государству.",
+        "fullAnalysis": "Strategic focus: Nominative plural. As the subject of принадлежат, the plural земли carries the soft nominative ending -и instead of singular -я. Soft feminine nouns mark the nominative plural with -и."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-08",
+        "phrase": "В этом крае много плодородных земель.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After много the count noun goes to genitive plural земель, a zero ending where a fleeting е appears between the consonants. Quantity words like много govern the genitive plural."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-09",
+        "phrase": "По этим землям проходит граница.",
+        "fullAnalysis": "Strategic focus: Dative plural. The preposition по governs the dative plural землям, with the plural dative ending -ям after the soft stem. Here по marks the territory the border runs across."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-10",
+        "phrase": "Эти земли крестьяне обрабатывали веками.",
+        "fullAnalysis": "Strategic focus: Accusative plural. As an inanimate direct object of обрабатывали, земли has an accusative plural identical to the nominative plural. Inanimate feminine nouns keep accusative plural equal to nominative plural."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-11",
+        "phrase": "Между землями тянулась узкая река.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition между governs the instrumental, giving землями with the plural ending -ями after the soft stem. The instrumental plural ending is uniform across declensions."
+      },
+      {
+        "id": "CN-FS-ZEMLYA-12",
+        "phrase": "В дальних землях живут другие народы.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в the noun takes the prepositional plural землях, ending in -ях after the soft stem. The prepositional plural ending is the same for all genders."
+      }
+    ]
+  }
+]

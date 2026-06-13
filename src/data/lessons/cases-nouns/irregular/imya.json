@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-IR-IMYA",
+    "label": "Имя",
+    "badge": "IR",
+    "description": "Twelve-mission case drill for имя (name (first name)) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-IR-IMYA-01",
+        "phrase": "Моё имя очень редкое.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form имя is the subject of the sentence. Like время, this is a neuter -мя noun that keeps the bare stem only in the nominative and accusative singular and inserts a hidden -ен- segment in every other case."
+      },
+      {
+        "id": "CN-IR-IMYA-02",
+        "phrase": "Я не помню её имени.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The negated verb plus the object pulls the noun into the genitive, and имя expands to имени. This is the -ен- insert of -мя neuters surfacing with the ending -и."
+      },
+      {
+        "id": "CN-IR-IMYA-03",
+        "phrase": "Памятник посвящён имени поэта.",
+        "fullAnalysis": "Strategic focus: Dative singular. The noun takes the dative имени here, a form identical to the genitive. The dative attaches to the -ен- expanded stem имен-, the insert that makes this neuter irregular."
+      },
+      {
+        "id": "CN-IR-IMYA-04",
+        "phrase": "Ребёнок уже знает своё имя.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of знает the noun returns to the bare form имя. Accusative singular is one of the two slots where a -мя neuter shows no -ен- insert and keeps the unexpanded stem."
+      },
+      {
+        "id": "CN-IR-IMYA-05",
+        "phrase": "Назовите ребёнка красивым именем.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb назвать takes the instrumental for the name given, producing именем. The neuter instrumental ending -ем attaches to the -ен- expanded stem, giving the irregular именем."
+      },
+      {
+        "id": "CN-IR-IMYA-06",
+        "phrase": "Мы спорим о его имени.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о (about) requires the prepositional case, yielding имени. Built on the -ен- expanded stem, it matches the genitive and dative, so all three singular oblique forms read имени."
+      },
+      {
+        "id": "CN-IR-IMYA-07",
+        "phrase": "Эти имена давно вышли из моды.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes имена. The -ен- insert stays, and the neuter plural ending -а attaches to the expanded stem, giving имена with a stress shift to the ending."
+      },
+      {
+        "id": "CN-IR-IMYA-08",
+        "phrase": "В списке нет этих имён.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The negation нет requires the genitive plural имён. The -ен- expanded stem takes a zero ending with ё, producing the irregular имён."
+      },
+      {
+        "id": "CN-IR-IMYA-09",
+        "phrase": "Учитель учит детей разным именам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The verb учить governs the dative for what is taught, here the plural именам. The dative plural ending -ам rests on the -ен- expanded stem, keeping the insert visible across the plural."
+      },
+      {
+        "id": "CN-IR-IMYA-10",
+        "phrase": "Дети быстро запоминают новые имена.",
+        "fullAnalysis": "Strategic focus: Accusative plural. As the direct object of запоминают the inanimate noun copies the nominative plural, giving имена. The accusative equals the nominative for this inanimate neuter, both on the -ен- expanded stem."
+      },
+      {
+        "id": "CN-IR-IMYA-11",
+        "phrase": "Между этими именами есть связь.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition между selects the instrumental plural именами. The ending -ами attaches to the -ен- expanded stem, so the irregular insert carries through this form as well."
+      },
+      {
+        "id": "CN-IR-IMYA-12",
+        "phrase": "В старых именах слышна история.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The preposition в (in) marks the prepositional plural именах. Like every plural form, it sits on the -ен- expanded stem, the insert that classes имя among the -мя irregular neuters."
+      }
+    ]
+  }
+]

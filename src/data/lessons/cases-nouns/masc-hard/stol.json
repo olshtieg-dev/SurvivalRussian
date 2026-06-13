@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MH-STOL",
+    "label": "Стол",
+    "badge": "MH",
+    "description": "Twelve-mission case drill for стол (table) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MH-STOL-01",
+        "phrase": "Этот стол сделан из дуба.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form стол stays unchanged because it is the subject of the sentence, the thing that is made of oak. Nominative names the doer or topic, and hard masculine nouns show a bare stem with no ending."
+      },
+      {
+        "id": "CN-MH-STOL-02",
+        "phrase": "Кошка спит около стола.",
+        "fullAnalysis": "Strategic focus: Genitive singular. Here стол becomes стола, with stress moving onto the ending -а. The preposition около (near) governs the genitive. Note that стол shifts stress to the ending in all oblique cases, so it is стола, not стола."
+      },
+      {
+        "id": "CN-MH-STOL-03",
+        "phrase": "Я подошёл к столу за тарелкой.",
+        "fullAnalysis": "Strategic focus: Dative singular. The form стол becomes столу, with end stress and the ending -у. The preposition к (toward) requires the dative to mark the goal of motion. The stress stays on the ending throughout the oblique forms."
+      },
+      {
+        "id": "CN-MH-STOL-04",
+        "phrase": "Бабушка накрывает стол к ужину.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The form стол matches the nominative because стол is inanimate, so its accusative copies the dictionary form. It is the direct object of накрывает (sets, lays), the thing being prepared."
+      },
+      {
+        "id": "CN-MH-STOL-05",
+        "phrase": "Дети сидят рядом со столом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The form стол becomes столом, with end stress and the ending -ом. The preposition с, here in the form со before a cluster, takes the instrumental to mean alongside. Hard masculine nouns add -ом."
+      },
+      {
+        "id": "CN-MH-STOL-06",
+        "phrase": "На столе лежит свежая газета.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The form стол becomes столе, with end stress and the ending -е. The preposition на (on) used for location answers где and requires the prepositional. Hard masculine nouns take -е."
+      },
+      {
+        "id": "CN-MH-STOL-07",
+        "phrase": "В классе стоят длинные столы.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural столы is the subject of стоят. Hard masculine nouns form the nominative plural with -ы, and стол keeps its end stress throughout the plural as well."
+      },
+      {
+        "id": "CN-MH-STOL-08",
+        "phrase": "В зале не хватает столов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form стол becomes столов with the ending -ов. The negative quantity phrase не хватает (there are not enough) governs the genitive. Hard masculine nouns add -ов here."
+      },
+      {
+        "id": "CN-MH-STOL-09",
+        "phrase": "Официант разносит меню по столам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The form стол becomes столам, ending in -ам. The preposition по (around, from one to another) takes the dative. The plural dative ending -ам is uniform for hard nouns."
+      },
+      {
+        "id": "CN-MH-STOL-10",
+        "phrase": "Грузчики занесли тяжёлые столы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The form столы equals the nominative plural because стол is inanimate, so the accusative plural copies the nominative. It is the direct object of занесли (carried in)."
+      },
+      {
+        "id": "CN-MH-STOL-11",
+        "phrase": "Между столами трудно пройти.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The form стол becomes столами, ending in -ами. The preposition между (between) governs the instrumental. The plural instrumental ending -ами is shared across genders."
+      },
+      {
+        "id": "CN-MH-STOL-12",
+        "phrase": "На столах стояли вазы с цветами.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The form стол becomes столах with the ending -ах. The preposition на for location requires the prepositional case. The plural ending -ах is the same for all hard nouns."
+      }
+    ]
+  }
+]

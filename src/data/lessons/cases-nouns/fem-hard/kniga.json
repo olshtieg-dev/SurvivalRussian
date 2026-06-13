@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FH-KNIGA",
+    "label": "Книга",
+    "badge": "FH",
+    "description": "Twelve-mission case drill for книга (book) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FH-KNIGA-01",
+        "phrase": "Эта книга лежит на столе.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The nominative is the dictionary form книга, here the grammatical subject of лежит. First-declension feminine nouns in -а stay bare in the nominative singular and answer the question who or what is doing the action."
+      },
+      {
+        "id": "CN-FH-KNIGA-02",
+        "phrase": "У меня нет этой книги.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The ending shifts from nominative -а to книги, triggered here by the absence construction нет plus genitive. Note the velar spelling rule: because the stem ends in г, the genitive takes -и rather than -ы, giving книги."
+      },
+      {
+        "id": "CN-FH-KNIGA-03",
+        "phrase": "Я рад этой интересной книге.",
+        "fullAnalysis": "Strategic focus: Dative singular. Книга becomes книге, the dative form marking the thing one is glad about after рад. First-declension feminines take the dative singular ending -е, the recipient or experiencer case."
+      },
+      {
+        "id": "CN-FH-KNIGA-04",
+        "phrase": "Я читаю новую книгу.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of читаю takes the accusative книгу, where nominative -а changes to -у. Since книга is inanimate, this -у form is the dedicated accusative ending."
+      },
+      {
+        "id": "CN-FH-KNIGA-05",
+        "phrase": "Он интересуется этой книгой.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb интересоваться governs the instrumental, so книга becomes книгой. The instrumental singular ending for hard feminines is -ой, marking the thing one is interested in or the means of an action."
+      },
+      {
+        "id": "CN-FH-KNIGA-06",
+        "phrase": "В этой книге много картинок.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. After в expressing location within, книга takes the prepositional книге. For first-declension feminines the prepositional singular ending is -е, identical to the dative form."
+      },
+      {
+        "id": "CN-FH-KNIGA-07",
+        "phrase": "Эти книги стоят на полке.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is книги, where singular -а gives way to the plural ending -и. The velar г again forces -и over -ы, so the nominative plural is книги."
+      },
+      {
+        "id": "CN-FH-KNIGA-08",
+        "phrase": "В шкафу нет старых книг.",
+        "fullAnalysis": "Strategic focus: Genitive plural. Hard feminines form the genitive plural with a zero ending, dropping -а entirely to leave книг. The negation нет plus genitive governs the form here."
+      },
+      {
+        "id": "CN-FH-KNIGA-09",
+        "phrase": "Мы рады новым книгам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The plural dative ending -ам attaches to the stem, giving книгам, the things one is glad about after рады. The dative plural -ам is uniform across hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-KNIGA-10",
+        "phrase": "Я покупаю эти книги в магазине.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Because книга is inanimate, the accusative plural copies the nominative plural книги rather than the genitive. The direct object of покупаю therefore stays книги."
+      },
+      {
+        "id": "CN-FH-KNIGA-11",
+        "phrase": "Полки заставлены книгами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ами gives книгами, here the means filling the shelves in a passive construction. The -ами ending is regular for hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-KNIGA-12",
+        "phrase": "В этих книгах много полезного.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в marking location, the prepositional plural ending -ах produces книгах. This ending is constant for hard feminines in the prepositional plural."
+      }
+    ]
+  }
+]

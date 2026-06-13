@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-IR-MAT",
+    "label": "Мать",
+    "badge": "IR",
+    "description": "Twelve-mission case drill for мать (mother) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-IR-MAT-01",
+        "phrase": "Моя мать работает в больнице.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form мать is the grammatical subject doing the working here. This noun is a third-declension feminine that keeps the bare stem only in the nominative and accusative singular; every other case inserts the hidden -ер- segment."
+      },
+      {
+        "id": "CN-IR-MAT-02",
+        "phrase": "У моей матери доброе сердце.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The preposition у plus possession pulls the noun into the genitive, and the bare stem мать expands to матери. This is the -ер- insert at work: the hidden segment surfaces in every oblique case, producing мать → матери."
+      },
+      {
+        "id": "CN-IR-MAT-03",
+        "phrase": "Я подарил матери красивые цветы.",
+        "fullAnalysis": "Strategic focus: Dative singular. As the recipient of the gift the noun takes the dative, here identical to the genitive at матери. The form again shows the -ер- insertion that defines this irregular feminine, since the dative ending attaches to the expanded stem матер-."
+      },
+      {
+        "id": "CN-IR-MAT-04",
+        "phrase": "Я очень люблю свою мать.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of люблю the noun should take the accusative, and here it returns to the bare nominative form мать. Accusative singular is one of only two slots where this irregular feminine resists the -ер- insert and keeps the unexpanded stem."
+      },
+      {
+        "id": "CN-IR-MAT-05",
+        "phrase": "Мы гордимся нашей матерью.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордиться governs the instrumental, giving матерью. The third-declension instrumental ending -ью attaches to the -ер- expanded stem, so the irregular insert combines with the soft instrumental marker to produce матерью."
+      },
+      {
+        "id": "CN-IR-MAT-06",
+        "phrase": "Дети часто думают о матери.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о (about) requires the prepositional case, yielding матери. The form is built on the -ер- expanded stem just like the genitive and dative, which is why all three singular oblique forms of this noun coincide as матери."
+      },
+      {
+        "id": "CN-IR-MAT-07",
+        "phrase": "Молодые матери гуляют в парке.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes the form матери. The -ер- insert is present throughout the plural too, so the stem is матер- and the nominative plural ending is -и, producing матери."
+      },
+      {
+        "id": "CN-IR-MAT-08",
+        "phrase": "На площади собралось много матерей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The quantifier много forces the genitive plural матерей. The genitive plural ending -ей attaches to the -ер- expanded stem, giving the characteristic матерей of this irregular noun."
+      },
+      {
+        "id": "CN-IR-MAT-09",
+        "phrase": "Школа помогает молодым матерям.",
+        "fullAnalysis": "Strategic focus: Dative plural. The verb помогать governs the dative, here the plural матерям. Built on the -ер- expanded stem with the dative plural ending -ям, the form makes the hidden insert visible across all plural cases."
+      },
+      {
+        "id": "CN-IR-MAT-10",
+        "phrase": "Я хорошо знаю этих матерей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The noun is animate, so the accusative plural copies the genitive plural, giving матерей as the direct object of знаю. The animate rule combines with the -ер- insert here, making accusative plural identical to genitive plural матерей."
+      },
+      {
+        "id": "CN-IR-MAT-11",
+        "phrase": "Мы говорили с этими матерями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition с (with) selects the instrumental plural матерями. The instrumental plural ending -ями attaches to the -ер- expanded stem, so the irregular insert persists in this form as well."
+      },
+      {
+        "id": "CN-IR-MAT-12",
+        "phrase": "В этих матерях много любви.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The preposition в (in) marks location and triggers the prepositional plural матерях. Like every plural form, it rests on the -ер- expanded stem, the insert that distinguishes мать from a regular third-declension noun."
+      }
+    ]
+  }
+]

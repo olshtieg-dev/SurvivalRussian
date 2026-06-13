@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-IR-PUT",
+    "label": "Путь",
+    "badge": "IR",
+    "description": "Twelve-mission case drill for путь (way, path, route) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-IR-PUT-01",
+        "phrase": "Этот путь ведёт к реке.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form путь is the subject of the sentence. This noun is unique: it is masculine yet declines almost entirely like a third-declension feminine, so most singular forms end in -и rather than the masculine endings."
+      },
+      {
+        "id": "CN-IR-PUT-02",
+        "phrase": "У этого пути нет конца.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The construction у плюс possession requires the genitive, giving пути. Following the third-declension feminine pattern, the genitive ending is -и rather than the masculine -а, hence пути."
+      },
+      {
+        "id": "CN-IR-PUT-03",
+        "phrase": "Мы рады новому пути.",
+        "fullAnalysis": "Strategic focus: Dative singular. The adjective рады governs the dative, producing пути. Like a third-declension feminine, путь takes the dative ending -и, so the genitive, dative and prepositional singular all coincide as пути."
+      },
+      {
+        "id": "CN-IR-PUT-04",
+        "phrase": "Путешественник выбрал короткий путь.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of выбрал the inanimate noun copies the nominative, returning to путь. Accusative singular mirrors the nominative for this inanimate noun."
+      },
+      {
+        "id": "CN-IR-PUT-05",
+        "phrase": "Этим путём мы доберёмся быстрее.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The noun in the instrumental, путём, means by this route. This is the one masculine exception in its declension: instead of the feminine -ью, путь takes the masculine instrumental ending -ём, the detail that betrays its true gender."
+      },
+      {
+        "id": "CN-IR-PUT-06",
+        "phrase": "Мы говорили о долгом пути.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о (about) requires the prepositional case, giving пути. Following the third-declension feminine pattern, the ending is -и, so this form matches the genitive and dative as пути."
+      },
+      {
+        "id": "CN-IR-PUT-07",
+        "phrase": "Все пути ведут в Рим.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes пути. In the plural путь behaves like a regular soft masculine, so the nominative plural ending is -и, giving пути."
+      },
+      {
+        "id": "CN-IR-PUT-08",
+        "phrase": "В горах нет лёгких путей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The negation нет requires the genitive plural путей. Here путь takes the masculine genitive plural ending -ей, so the plural diverges from its feminine-like singular pattern."
+      },
+      {
+        "id": "CN-IR-PUT-09",
+        "phrase": "По разным путям шли караваны.",
+        "fullAnalysis": "Strategic focus: Dative plural. The preposition по governs the dative, here the plural путям. The dative plural ending -ям attaches to the stem пут-, following the ordinary soft-masculine plural pattern."
+      },
+      {
+        "id": "CN-IR-PUT-10",
+        "phrase": "Туристы исследуют горные пути.",
+        "fullAnalysis": "Strategic focus: Accusative plural. As the direct object of исследуют the inanimate noun copies the nominative plural, giving пути. The accusative equals the nominative for this inanimate noun in the plural."
+      },
+      {
+        "id": "CN-IR-PUT-11",
+        "phrase": "Между этими путями лежит лес.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition между selects the instrumental plural путями. The ending -ями attaches to the stem пут-, the regular soft-masculine instrumental plural, with no feminine quirk in the plural."
+      },
+      {
+        "id": "CN-IR-PUT-12",
+        "phrase": "На всех путях стояли указатели.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The preposition на marks the prepositional plural путях. In the plural путь declines as an ordinary soft masculine, so the ending is -ях, unlike its feminine-leaning singular."
+      }
+    ]
+  }
+]

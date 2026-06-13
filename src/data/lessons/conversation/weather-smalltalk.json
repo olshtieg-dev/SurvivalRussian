@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-WS",
+    "label": "Weather & Small Talk",
+    "badge": "WS",
+    "description": "Talking about the weather, the weekend, and light filler conversation.",
+    "missions": [
+      {
+        "id": "CV-WS-01",
+        "phrase": "Сегодня прекрасная погода, не правда ли?",
+        "fullAnalysis": "Strategic focus: opening weather small talk. Сегодня means today and погода means weather. The tag не правда ли invites the other person to agree."
+      },
+      {
+        "id": "CV-WS-02",
+        "phrase": "На улице идёт дождь и холодно.",
+        "fullAnalysis": "Strategic focus: rainy and cold weather. The phrase идёт дождь is the standard way to say it is raining, with ё in идёт. Холодно describes the cold feeling outside."
+      },
+      {
+        "id": "CV-WS-03",
+        "phrase": "Какое сегодня тёплое и солнечное утро!",
+        "fullAnalysis": "Strategic focus: a warm sunny morning. Тёплое carries the required ё and means warm, while солнечное relates to солнце, the sun. Какое opens an exclamation about the morning."
+      },
+      {
+        "id": "CV-WS-04",
+        "phrase": "Не забудь зонт, скоро будет дождь.",
+        "fullAnalysis": "Strategic focus: practical advice about rain. Зонт means umbrella and дождь means rain. The warning не забудь tells the listener not to forget it before it starts."
+      },
+      {
+        "id": "CV-WS-05",
+        "phrase": "Зимой часто идёт снег и дует ветер.",
+        "fullAnalysis": "Strategic focus: winter weather. Снег means snow and ветер means wind, with дует describing the wind blowing. Зимой sets the season as winter."
+      },
+      {
+        "id": "CV-WS-06",
+        "phrase": "Как ты провёл свои выходные?",
+        "fullAnalysis": "Strategic focus: asking about the weekend. Выходные means the weekend or days off, and провёл carries ё meaning spent or passed. This is a common friendly opener."
+      },
+      {
+        "id": "CV-WS-07",
+        "phrase": "Летом бывает очень жарко в городе.",
+        "fullAnalysis": "Strategic focus: hot summer weather. Жарко means hot and Летом means in summer. Бывает signals that this happens regularly in the city."
+      },
+      {
+        "id": "CV-WS-08",
+        "phrase": "Сегодня прохладно, но небо ясное.",
+        "fullAnalysis": "Strategic focus: a cool but clear day. Прохладно means cool and небо means sky, with ясное describing it as clear. The contrast но links the two observations."
+      },
+      {
+        "id": "CV-WS-09",
+        "phrase": "Да, погода сегодня действительно отличная.",
+        "fullAnalysis": "Strategic focus: agreeing about the weather. Да opens the agreement and погода means weather. Действительно отличная stresses that it is genuinely excellent."
+      },
+      {
+        "id": "CV-WS-10",
+        "phrase": "Надеюсь, в выходные будет тепло и ясно.",
+        "fullAnalysis": "Strategic focus: hoping for good weekend weather. Выходные means the weekend, тепло means warm, and ясно means clear. Надеюсь expresses the speaker's hope for the days ahead."
+      }
+    ]
+  }
+]

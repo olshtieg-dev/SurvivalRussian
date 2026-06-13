@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FS-TYOTYA",
+    "label": "Тётя",
+    "badge": "FS",
+    "description": "Twelve-mission case drill for тётя (aunt) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FS-TYOTYA-01",
+        "phrase": "Моя тётя работает врачом.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The base form тётя is the subject of работает, so it stays in the nominative. Soft feminine nouns in -я keep that ending in the nominative singular."
+      },
+      {
+        "id": "CN-FS-TYOTYA-02",
+        "phrase": "У моей тёти красивый сад.",
+        "fullAnalysis": "Strategic focus: Genitive singular. After у the noun shifts to genitive тёти, where the soft ending -я becomes -и. The possessive construction with у triggers the genitive."
+      },
+      {
+        "id": "CN-FS-TYOTYA-03",
+        "phrase": "Я подарил тёте красивый шарф.",
+        "fullAnalysis": "Strategic focus: Dative singular. The verb подарил takes a dative recipient, turning тётя into тёте with the soft dative ending -е. The dative names the person receiving the gift."
+      },
+      {
+        "id": "CN-FS-TYOTYA-04",
+        "phrase": "Вчера я встретил свою тётю.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of встретил, тётя takes the accusative тётю; soft feminine nouns change -я to -ю in the accusative singular. In the singular the animate accusative still uses the -ю form."
+      },
+      {
+        "id": "CN-FS-TYOTYA-05",
+        "phrase": "Я давно знаком с этой тётей.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The preposition с requires the instrumental, so тётя becomes тётей with the soft ending -ей. Stress stays on the stem, so the ending is -ей, not -ёй."
+      },
+      {
+        "id": "CN-FS-TYOTYA-06",
+        "phrase": "Мы говорили о моей тёте.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о takes the prepositional тёте with the soft ending -е, matching the dative form. The phrase о тёте marks the topic of conversation."
+      },
+      {
+        "id": "CN-FS-TYOTYA-07",
+        "phrase": "Все мои тёти живут в деревне.",
+        "fullAnalysis": "Strategic focus: Nominative plural. As the subject of живут, the plural тёти carries the soft nominative ending -и instead of singular -я. Soft feminine nouns mark the nominative plural with -и."
+      },
+      {
+        "id": "CN-FS-TYOTYA-08",
+        "phrase": "У меня нет других тётей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After нет the noun goes to genitive plural тётей, which takes the soft ending -ей rather than a bare zero ending. This genitive plural form will be reused for the animate accusative plural."
+      },
+      {
+        "id": "CN-FS-TYOTYA-09",
+        "phrase": "Я часто пишу письма тётям.",
+        "fullAnalysis": "Strategic focus: Dative plural. The recipients of пишу stand in the dative plural тётям, with the ending -ям after the soft stem. The dative names those to whom the letters are written."
+      },
+      {
+        "id": "CN-FS-TYOTYA-10",
+        "phrase": "На вокзале я встретил всех тётей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Тётя is animate, so the accusative plural equals the genitive plural тётей rather than the nominative plural тёти. This animate rule applies to all genders in the plural."
+      },
+      {
+        "id": "CN-FS-TYOTYA-11",
+        "phrase": "Я познакомился со всеми тётями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition с (here со) governs the instrumental тётями, with the plural ending -ями after the soft stem. The instrumental plural ending is uniform across declensions."
+      },
+      {
+        "id": "CN-FS-TYOTYA-12",
+        "phrase": "В моих тётях много доброты.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в the noun takes the prepositional plural тётях, ending in -ях after the soft stem. The prepositional plural ending is the same for all genders."
+      }
+    ]
+  }
+]

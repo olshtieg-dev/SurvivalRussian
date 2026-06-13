@@ -1,6 +1,5 @@
 import missionLessons from './mission.json';
 import slangLessons from './slang.json';
-import casesNounLessons from './cases-noun-conjugation.json';
 import groceryLessons from './grocery-shopping.json';
 import kitchenLessons from './kitchen-cooking.json';
 import householdLessons from './household-items.json';
@@ -14,6 +13,7 @@ import { comparisonsLessonSets, comparisonsFolder } from './comparisons';
 import { binaryAdjectivesLessonSets, binaryAdjectivesFolder } from './binary-adjectives';
 import { adverbsLessonSets, adverbsFolder, adverbsGroupFolders } from './adverbs';
 import { adjectivesLessonSets, adjectivesFolder, adjectivesGroupFolders } from './adjectives';
+import { casesNounsLessonSets, casesNounsFolder, casesNounsGroupFolders } from './cases-nouns';
 import frequencyGulagLessons from './frequency-gulag.json';
 import vocabularyData from '../vocabulary.json';
 
@@ -88,13 +88,6 @@ export const lessonSets = [
     missions: groceryLessons,
   },
   {
-    id: 'cases-nouns',
-    label: 'Cases & Nouns',
-    badge: 'CN',
-    description: 'Dense six-case noun drills packed into single passage missions.',
-    missions: casesNounLessons,
-  },
-  {
     id: 'kitchen',
     label: 'Kitchen & Cooking',
     badge: 'KT',
@@ -140,6 +133,7 @@ export const lessonSets = [
   ...binaryAdjectivesLessonSets,
   ...adverbsLessonSets,
   ...adjectivesLessonSets,
+  ...casesNounsLessonSets,
 ];
 
 export const defaultLessonSetId = lessonSets[0]?.id || 'essentials';
@@ -160,6 +154,8 @@ export const lessonFolders = [
   ...adverbsGroupFolders,
   adjectivesFolder,
   ...adjectivesGroupFolders,
+  casesNounsFolder,
+  ...casesNounsGroupFolders,
 ];
 
 export function getLessonSet(lessonSetId) {

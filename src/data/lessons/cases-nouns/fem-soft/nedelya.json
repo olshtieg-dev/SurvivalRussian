@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FS-NEDELYA",
+    "label": "Неделя",
+    "badge": "FS",
+    "description": "Twelve-mission case drill for неделя (week) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FS-NEDELYA-01",
+        "phrase": "Эта неделя была очень тяжёлой.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form неделя is the subject of была here, so it stays in the base nominative. Soft feminine nouns in -я keep that ending in the nominative singular and need no change."
+      },
+      {
+        "id": "CN-FS-NEDELYA-02",
+        "phrase": "У нас нет ни одной свободной недели.",
+        "fullAnalysis": "Strategic focus: Genitive singular. After нет the noun shifts from nominative неделя to genitive недели, with the soft ending -я giving way to -и. Negation of existence with нет is a classic genitive trigger."
+      },
+      {
+        "id": "CN-FS-NEDELYA-03",
+        "phrase": "К этой неделе мы закончим ремонт.",
+        "fullAnalysis": "Strategic focus: Dative singular. The preposition к governs the dative, turning неделя into неделе with the soft dative ending -е. Here it marks the time by which the action will be done."
+      },
+      {
+        "id": "CN-FS-NEDELYA-04",
+        "phrase": "Я жду эту неделю с нетерпением.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of жду, неделя takes the accusative неделю; soft feminine nouns change -я to -ю in the accusative singular. The inanimate noun shows a distinct accusative form."
+      },
+      {
+        "id": "CN-FS-NEDELYA-05",
+        "phrase": "Перед этой неделей я хорошо отдохнул.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The preposition перед requires the instrumental, so неделя becomes неделей with the soft ending -ей. Stress stays on the stem, so the ending is -ей, not -ёй."
+      },
+      {
+        "id": "CN-FS-NEDELYA-06",
+        "phrase": "На этой неделе у меня много дел.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Locative and temporal на takes the prepositional, and неделя becomes неделе with the soft ending -е, identical in form to the dative. The phrase на неделе fixes the time frame."
+      },
+      {
+        "id": "CN-FS-NEDELYA-07",
+        "phrase": "Последние недели пролетели незаметно.",
+        "fullAnalysis": "Strategic focus: Nominative plural. As the subject of пролетели, the plural недели carries the soft nominative ending -и instead of singular -я. Soft feminine nouns mark the nominative plural with -и."
+      },
+      {
+        "id": "CN-FS-NEDELYA-08",
+        "phrase": "Я не видел тебя несколько недель.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After несколько the count noun goes to genitive plural недель, which here is a zero ending with a soft sign marking the former soft stem. Quantity words like несколько govern the genitive plural."
+      },
+      {
+        "id": "CN-FS-NEDELYA-09",
+        "phrase": "По неделям он ездит в командировки.",
+        "fullAnalysis": "Strategic focus: Dative plural. The preposition по in its distributive sense takes the dative plural неделям, with the standard plural dative ending -ям after a soft stem. It conveys a recurring weekly pattern."
+      },
+      {
+        "id": "CN-FS-NEDELYA-10",
+        "phrase": "Эти недели я провёл в деревне.",
+        "fullAnalysis": "Strategic focus: Accusative plural. As an inanimate direct object of провёл, недели has an accusative plural that matches the nominative plural. Inanimate feminine nouns keep accusative plural equal to nominative plural."
+      },
+      {
+        "id": "CN-FS-NEDELYA-11",
+        "phrase": "Между неделями отдыха почти не было.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition между governs the instrumental, giving неделями with the regular plural ending -ями after the soft stem. The instrumental plural ending is uniform across declensions."
+      },
+      {
+        "id": "CN-FS-NEDELYA-12",
+        "phrase": "В этих неделях было много радости.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в the noun takes the prepositional plural неделях, ending in -ях after the soft stem. The prepositional plural ending is the same for all genders."
+      }
+    ]
+  }
+]

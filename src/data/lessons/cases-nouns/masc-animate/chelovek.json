@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MA-CHELOVEK",
+    "label": "Человек",
+    "badge": "MA",
+    "description": "Twelve-mission case drill for человек (person, human) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MA-CHELOVEK-01",
+        "phrase": "Этот человек стоит у двери.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form человек has a zero ending and names the subject. Here человек is the one who stands, so it remains in the nominative as the grammatical subject."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-02",
+        "phrase": "Без этого человека нам трудно.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative человек adds -а to become человека. The preposition без meaning without governs the genitive, marking человека as the one whose absence is felt."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-03",
+        "phrase": "Я помогаю пожилому человеку.",
+        "fullAnalysis": "Strategic focus: Dative singular. The ending shifts to -у, giving человеку. The verb помогать governs the dative, marking человеку as the recipient of the help."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-04",
+        "phrase": "Я хорошо знаю этого человека.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of знать takes the accusative, but because человек is animate, the accusative copies the genitive: человека. Animacy is why the form ends in -а rather than staying человек."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-05",
+        "phrase": "Я разговаривал с одним человеком.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The ending becomes -ом, producing человеком. The preposition с meaning together with requires the instrumental, naming человеком as the interlocutor."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-06",
+        "phrase": "Мы говорили об этом человеке.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The ending is -е, giving человеке. The preposition об meaning about forces the prepositional, the case for the topic of discussion."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-07",
+        "phrase": "На площади собрались люди.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural is suppletive: человек is replaced entirely by люди. As the ones who gathered, they stand in the nominative."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-08",
+        "phrase": "В зале было много людей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The suppletive stem люд- takes -ей, giving людей. The quantity word много governs the genitive plural, so the people counted appear as людей."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-09",
+        "phrase": "Врач помогает больным людям.",
+        "fullAnalysis": "Strategic focus: Dative plural. The suppletive stem люд- takes the dative ending -ям, producing людям. The verb помогать governs the dative, marking людям as the recipients of the care."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-10",
+        "phrase": "Я уважаю честных людей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object of уважать would be accusative, but animacy makes the accusative plural copy the genitive plural: людей. The form matches the genitive, not a nominative-style ending, because the noun is animate."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-11",
+        "phrase": "Я люблю работать с людьми.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental is irregular: the suppletive stem takes -ьми, giving людьми rather than the expected людями. The preposition с meaning with requires the instrumental, naming людьми as those worked alongside."
+      },
+      {
+        "id": "CN-MA-CHELOVEK-12",
+        "phrase": "Книга рассказывает о простых людях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The suppletive stem люд- takes the prepositional ending -ях, giving людях. The preposition о meaning about governs the prepositional, marking людях as the topic of the book."
+      }
+    ]
+  }
+]

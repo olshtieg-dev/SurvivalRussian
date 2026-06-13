@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-NT-MORE",
+    "label": "Море",
+    "badge": "NT",
+    "description": "Twelve-mission case drill for море (sea) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-NT-MORE-01",
+        "phrase": "Сегодня море совсем спокойное.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form море stands as the subject. Soft neuter nouns end in -е in the nominative, and for inanimate neuters this form also serves as the accusative."
+      },
+      {
+        "id": "CN-NT-MORE-02",
+        "phrase": "Этот дом стоит около моря.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative море shifts to моря. The preposition около governs the genitive; soft neuter -е nouns take -я in the genitive singular."
+      },
+      {
+        "id": "CN-NT-MORE-03",
+        "phrase": "Мы едем к морю на лето.",
+        "fullAnalysis": "Strategic focus: Dative singular. Море takes the dative ending морю. The preposition к, marking movement toward a goal, governs the dative; soft neuter nouns take -ю here."
+      },
+      {
+        "id": "CN-NT-MORE-04",
+        "phrase": "Я очень люблю наше море.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of люблю is море, identical to the nominative. For inanimate neuter nouns the accusative always matches the nominative."
+      },
+      {
+        "id": "CN-NT-MORE-05",
+        "phrase": "Корабль плывёт над морем.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The nominative море becomes морем. The preposition над, marking position above, governs the instrumental; soft neuter nouns take -ем."
+      },
+      {
+        "id": "CN-NT-MORE-06",
+        "phrase": "На море сегодня большие волны.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Море keeps its -е form after на, since soft neuter nouns already end in -е. The prepositional marks location and never appears without a preposition."
+      },
+      {
+        "id": "CN-NT-MORE-07",
+        "phrase": "Все южные моря очень тёплые.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is моря. Soft neuter nouns form the nominative plural in -я, shifting the stress onto the ending."
+      },
+      {
+        "id": "CN-NT-MORE-08",
+        "phrase": "В пустыне совсем нет морей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The soft stem yields морей rather than a zero ending. Negation нет triggers the genitive; soft neuter -е nouns take the -ей ending in the genitive plural."
+      },
+      {
+        "id": "CN-NT-MORE-09",
+        "phrase": "Реки текут к далёким морям.",
+        "fullAnalysis": "Strategic focus: Dative plural. Моря becomes морям. The preposition к governs the dative; the dative plural ending -ям follows soft stems for all genders."
+      },
+      {
+        "id": "CN-NT-MORE-10",
+        "phrase": "Мы изучаем северные моря.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object моря matches the nominative plural. Since море is inanimate, the accusative plural equals the nominative plural."
+      },
+      {
+        "id": "CN-NT-MORE-11",
+        "phrase": "Между двумя морями узкий пролив.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The plural моря takes the ending морями. The preposition между governs the instrumental; soft stems take -ями in the instrumental plural."
+      },
+      {
+        "id": "CN-NT-MORE-12",
+        "phrase": "В южных морях живут дельфины.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. Моря shifts to морях after в. The prepositional plural ending -ях follows soft stems for all genders and always requires a preposition."
+      }
+    ]
+  }
+]

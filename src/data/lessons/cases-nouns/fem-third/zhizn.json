@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-F3-ZHIZN",
+    "label": "Жизнь",
+    "badge": "F3",
+    "description": "Twelve-mission case drill for жизнь (life) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-F3-ZHIZN-01",
+        "phrase": "Жизнь идёт своим чередом.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form жизнь is the subject of the sentence, so it stays in its bare -ь shape. Third-declension feminine nouns carry no ending in the nominative singular; the inflection only begins once the noun enters the oblique cases."
+      },
+      {
+        "id": "CN-F3-ZHIZN-02",
+        "phrase": "В деревне нет ночной жизни.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The negation нет requires the genitive, and жизнь shifts to жизни. The signature of the third declension is that genitive, dative, and prepositional singular all merge into this single -и form, so жизни here is spelled exactly like the dative and prepositional."
+      },
+      {
+        "id": "CN-F3-ZHIZN-03",
+        "phrase": "Он рад спокойной жизни.",
+        "fullAnalysis": "Strategic focus: Dative singular. The short adjective рад governs the dative of what one is glad about, turning жизнь into жизни. In the third declension the dative shares its -и ending with the genitive and prepositional singular; only the instrumental жизнью stands apart with -ью."
+      },
+      {
+        "id": "CN-F3-ZHIZN-04",
+        "phrase": "Она прожила долгую жизнь.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The phrase долгую жизнь is the direct object of прожила, so жизнь takes the accusative. Because жизнь is an inanimate third-declension noun, its accusative is identical to the nominative — the bare -ь form, with no special object ending."
+      },
+      {
+        "id": "CN-F3-ZHIZN-05",
+        "phrase": "Он рискует своей жизнью каждый день.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb рискует governs the instrumental, and жизнь takes its distinctive ending to become жизнью. This -ью form is the one place the third declension breaks pattern: while genitive, dative, and prepositional all share -и, the instrumental singular alone is -ью."
+      },
+      {
+        "id": "CN-F3-ZHIZN-06",
+        "phrase": "Мы говорили о жизни долго.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о, marking the topic of conversation, governs the prepositional, so жизнь becomes жизни. This -и ending completes the singular trio — genitive, dative, and prepositional are all written жизни — while only the instrumental жизнью differs."
+      },
+      {
+        "id": "CN-F3-ZHIZN-07",
+        "phrase": "Человеческие жизни очень хрупкие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. As the plural subject being described, жизнь moves to the nominative plural жизни. The third-declension plural marks the nominative with -и, the same vowel seen in the singular obliques but here signalling plurality."
+      },
+      {
+        "id": "CN-F3-ZHIZN-08",
+        "phrase": "Война унесла много жизней.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The quantifier много draws the genitive plural, and жизнь takes the third-declension ending -ей to become жизней. This -ей is the regular genitive-plural marker for soft feminine nouns of this class, replacing the singular's -и."
+      },
+      {
+        "id": "CN-F3-ZHIZN-09",
+        "phrase": "Врачи возвращают людей к жизням.",
+        "fullAnalysis": "Strategic focus: Dative plural. The preposition к governs the dative, and in the plural жизнь takes the ending -ям, giving жизням. Unlike the singular, where dative coincided with genitive and prepositional, the plural cases are clearly distinct."
+      },
+      {
+        "id": "CN-F3-ZHIZN-10",
+        "phrase": "Спасатели спасли многие жизни.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The phrase многие жизни is the direct object of спасли, so it takes the accusative plural. Since жизнь is inanimate, its accusative plural matches the nominative plural жизни rather than the genitive."
+      },
+      {
+        "id": "CN-F3-ZHIZN-11",
+        "phrase": "Он пожертвовал своими жизнями ради дела.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The verb пожертвовал governs the instrumental, and жизнь takes the plural ending -ями to become жизнями. The singular's special -ью yields in the plural to the ordinary -ями ending shared across the declensions."
+      },
+      {
+        "id": "CN-F3-ZHIZN-12",
+        "phrase": "В чужих жизнях много тайн.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The locational в governs the prepositional, and жизнь becomes жизнях with the plural ending -ях. The singular merger of genitive, dative, and prepositional into -и does not carry into the plural, where each case keeps its own ending."
+      }
+    ]
+  }
+]

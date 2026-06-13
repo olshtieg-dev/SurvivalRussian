@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-PM",
+    "label": "Phone & Messaging",
+    "badge": "PM",
+    "description": "Calling, answering, leaving messages, and texting to stay in touch.",
+    "missions": [
+      {
+        "id": "CV-PM-01",
+        "phrase": "Алло, кто это говорит?",
+        "fullAnalysis": "Strategic focus: answering the phone. The greeting алло opens almost every call, and кто это говорит asks who is speaking. Use говорит when you cannot recognize the voice on the line."
+      },
+      {
+        "id": "CV-PM-02",
+        "phrase": "Извините, вас плохо слышно.",
+        "fullAnalysis": "Strategic focus: a bad connection. The impersonal слышно describes how audible the other person is, and плохо marks the poor signal. Извините softens the complaint about the call quality."
+      },
+      {
+        "id": "CV-PM-03",
+        "phrase": "Я перезвоню тебе через час.",
+        "fullAnalysis": "Strategic focus: promising to call back. The perfective перезвоню means I will call again, and через час sets the time. Use this to end a call politely when you are busy now."
+      },
+      {
+        "id": "CV-PM-04",
+        "phrase": "Можешь сейчас говорить по телефону?",
+        "fullAnalysis": "Strategic focus: checking if someone is free to talk. The verb говорить with по телефону asks about phone availability, and сейчас pins it to this moment. A common opener before discussing anything serious."
+      },
+      {
+        "id": "CV-PM-05",
+        "phrase": "Передай ему, что я звонил.",
+        "fullAnalysis": "Strategic focus: leaving a message. The imperative передай asks a third person to relay information, and что я звонил reports that the call happened. The past звонил shows the attempt was already made."
+      },
+      {
+        "id": "CV-PM-06",
+        "phrase": "Я напишу тебе сообщение позже.",
+        "fullAnalysis": "Strategic focus: texting instead of calling. The perfective напишу means I will write, and сообщение is the message itself. Adding позже promises contact later when there is more time."
+      },
+      {
+        "id": "CV-PM-07",
+        "phrase": "Сейчас он занят, перезвоните позже.",
+        "fullAnalysis": "Strategic focus: taking a call for a busy person. The adjective занят reports that he is occupied, and the polite imperative перезвоните asks the caller to try again. Use позже to suggest a better time."
+      },
+      {
+        "id": "CV-PM-08",
+        "phrase": "Связь очень плохая, давай напишем.",
+        "fullAnalysis": "Strategic focus: switching from call to text. The noun связь names the connection, and плохая marks it as weak. The suggestion давай напишем proposes messaging when the voice line fails."
+      },
+      {
+        "id": "CV-PM-09",
+        "phrase": "Подожди, не клади трубку!",
+        "fullAnalysis": "Strategic focus: keeping someone on the line. The noun трубка means the handset, and не клади трубку tells the other person not to hang up. Подожди asks them to wait a moment."
+      },
+      {
+        "id": "CV-PM-10",
+        "phrase": "Позвони мне, когда будешь свободен.",
+        "fullAnalysis": "Strategic focus: asking for a call back. The imperative позвони requests a call, and когда будешь свободен sets the condition of being free. A relaxed way to leave timing up to the other person."
+      }
+    ]
+  }
+]

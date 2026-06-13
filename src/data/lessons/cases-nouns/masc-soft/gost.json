@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MS-GOST",
+    "label": "Гость",
+    "badge": "MS",
+    "description": "Twelve-mission case drill for гость (guest) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MS-GOST-01",
+        "phrase": "Гость уже сидит за столом.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form гость ends in a soft sign and takes no added ending as the subject. As the doer of сидит, it stands in the nominative, the naming form."
+      },
+      {
+        "id": "CN-MS-GOST-02",
+        "phrase": "Мы ждём дорогого гостя.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The soft stem replaces -ь with -я, giving гостя. The verb ждать governs the genitive of an anticipated person, and the soft stem takes -я rather than the hard -а."
+      },
+      {
+        "id": "CN-MS-GOST-03",
+        "phrase": "Хозяйка улыбнулась гостю тепло.",
+        "fullAnalysis": "Strategic focus: Dative singular. The -ь softens into the dative ending -ю, producing гостю. The dative marks the person to whom the smile is directed, and the soft stem gives -ю in place of -у."
+      },
+      {
+        "id": "CN-MS-GOST-04",
+        "phrase": "Хозяин встретил гостя у двери.",
+        "fullAnalysis": "Strategic focus: Accusative singular. Because гость is animate, its accusative copies the genitive form гостя. It serves as the direct object of встретил, the person acted upon, and animacy is what selects the genitive-shaped ending."
+      },
+      {
+        "id": "CN-MS-GOST-05",
+        "phrase": "Я долго беседовал с гостем вечером.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The soft stem takes the instrumental ending -ем, giving гостем. The preposition с of accompaniment governs the instrumental, and since the ending is unstressed it is written -ем."
+      },
+      {
+        "id": "CN-MS-GOST-06",
+        "phrase": "Все говорили об этом госте.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The -ь is replaced by the prepositional ending -е, giving госте. The preposition об, marking the topic of speech, governs the prepositional, where soft masculine nouns take -е."
+      },
+      {
+        "id": "CN-MS-GOST-07",
+        "phrase": "Гости собрались в большой комнате.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The soft stem forms the plural in -и, so гость becomes гости. As the subjects of собрались, they appear in the nominative plural, the listing form."
+      },
+      {
+        "id": "CN-MS-GOST-08",
+        "phrase": "На празднике было много гостей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The soft stem takes the genitive plural ending -ей, giving гостей. The quantity word много governs the genitive, and the soft stem selects -ей rather than -ов."
+      },
+      {
+        "id": "CN-MS-GOST-09",
+        "phrase": "Официант принёс гостям горячий чай.",
+        "fullAnalysis": "Strategic focus: Dative plural. The dative plural ending -ям attaches to the soft stem, giving гостям. The dative marks the recipients to whom the tea is brought, and the soft stem gives -ям rather than -ам."
+      },
+      {
+        "id": "CN-MS-GOST-10",
+        "phrase": "Хозяева проводили гостей до ворот.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Because гость is animate, the accusative plural copies the genitive plural гостей. They serve as the direct objects of проводили, and animacy forces the genitive-shaped plural ending."
+      },
+      {
+        "id": "CN-MS-GOST-11",
+        "phrase": "Мы любовались нашими гостями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ями attaches to the soft stem, giving гостями. The verb любоваться governs the instrumental, and the soft stem selects -ями over -ами."
+      },
+      {
+        "id": "CN-MS-GOST-12",
+        "phrase": "В гостях у бабушки было весело.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The prepositional plural ending -ях attaches to the soft stem, giving гостях. The preposition в, here in the set phrase of visiting, governs the prepositional, and the soft stem gives -ях rather than -ах."
+      }
+    ]
+  }
+]

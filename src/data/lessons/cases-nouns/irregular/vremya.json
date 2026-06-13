@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-IR-VREMYA",
+    "label": "Время",
+    "badge": "IR",
+    "description": "Twelve-mission case drill for время (time) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-IR-VREMYA-01",
+        "phrase": "Время летит очень быстро.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form время is the subject of the sentence. This is a neuter noun ending in -мя, a small irregular class that keeps the bare stem only in the nominative and accusative singular and inserts a hidden -ен- segment elsewhere."
+      },
+      {
+        "id": "CN-IR-VREMYA-02",
+        "phrase": "У меня нет времени на отдых.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The negation нет requires the genitive, and время expands to времени. This is the -ен- insert characteristic of -мя neuters: the hidden segment surfaces and takes the ending -и."
+      },
+      {
+        "id": "CN-IR-VREMYA-03",
+        "phrase": "Уделите немного внимания времени.",
+        "fullAnalysis": "Strategic focus: Dative singular. The noun takes the dative времени as the indirect target here, a form identical to the genitive. The dative rests on the -ен- expanded stem времен-, the insert that defines this irregular neuter."
+      },
+      {
+        "id": "CN-IR-VREMYA-04",
+        "phrase": "Мы тратим время на разговоры.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of тратим the noun returns to the bare form время. Accusative singular is one of the two slots where a -мя neuter keeps the unexpanded stem and shows no -ен- insert."
+      },
+      {
+        "id": "CN-IR-VREMYA-05",
+        "phrase": "Со временем всё станет легче.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The phrase со временем (with time, eventually) uses the instrumental. The neuter instrumental ending -ем attaches to the -ен- expanded stem, producing временем — the irregular insert plus the regular neuter ending."
+      },
+      {
+        "id": "CN-IR-VREMYA-06",
+        "phrase": "Расскажите о времени и месте встречи.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о (about) requires the prepositional case, giving времени. Built on the -ен- expanded stem, it coincides with the genitive and dative, so all three singular oblique forms read времени."
+      },
+      {
+        "id": "CN-IR-VREMYA-07",
+        "phrase": "Настали трудные времена.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes времена. The -ен- insert remains, and the neuter plural ending -а attaches to the expanded stem, giving the irregular времена with a stress shift to the ending."
+      },
+      {
+        "id": "CN-IR-VREMYA-08",
+        "phrase": "Это память старых добрых времён.",
+        "fullAnalysis": "Strategic focus: Genitive plural. Possession plus the plural sense forces the genitive plural времён. The -ен- expanded stem takes a zero ending here with ё, yielding the irregular времён."
+      },
+      {
+        "id": "CN-IR-VREMYA-09",
+        "phrase": "По временам идёт сильный дождь.",
+        "fullAnalysis": "Strategic focus: Dative plural. The preposition по governs the dative, here the plural временам in the sense of at times. The dative plural ending -ам rests on the -ен- expanded stem, keeping the insert visible across the plural."
+      },
+      {
+        "id": "CN-IR-VREMYA-10",
+        "phrase": "Историки изучают древние времена.",
+        "fullAnalysis": "Strategic focus: Accusative plural. As the direct object of изучают the inanimate noun copies the nominative plural, giving времена. The accusative equals the nominative for this inanimate neuter, both built on the -ен- expanded stem."
+      },
+      {
+        "id": "CN-IR-VREMYA-11",
+        "phrase": "Между временами лежат века.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition между selects the instrumental plural временами. The ending -ами attaches to the -ен- expanded stem, so the irregular insert carries through this form too."
+      },
+      {
+        "id": "CN-IR-VREMYA-12",
+        "phrase": "В прежних временах было больше тишины.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The preposition в (in) marks the prepositional plural временах. Like every plural form, it sits on the -ен- expanded stem, the insert that marks время as a -мя irregular neuter."
+      }
+    ]
+  }
+]

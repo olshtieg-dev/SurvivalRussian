@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-IR-REBYONOK",
+    "label": "Ребёнок",
+    "badge": "IR",
+    "description": "Twelve-mission case drill for ребёнок (child) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-IR-REBYONOK-01",
+        "phrase": "Маленький ребёнок крепко спит.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form ребёнок is the subject of the sentence. This noun is doubly irregular: it declines normally in the singular but switches to a completely suppletive stem in the plural, where ребёнок is replaced by дети."
+      },
+      {
+        "id": "CN-IR-REBYONOK-02",
+        "phrase": "У ребёнка появились новые зубы.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The construction у плюс possession requires the genitive, giving ребёнка. The singular declines like a regular hard masculine, so the genitive ending -а attaches to the stem ребёнк-."
+      },
+      {
+        "id": "CN-IR-REBYONOK-03",
+        "phrase": "Мать поёт ребёнку колыбельную.",
+        "fullAnalysis": "Strategic focus: Dative singular. As the recipient of the lullaby the noun takes the dative ребёнку. In the singular ребёнок is fully regular, so the dative ending is -у on the stem ребёнк-."
+      },
+      {
+        "id": "CN-IR-REBYONOK-04",
+        "phrase": "Родители успокаивают плачущего ребёнка.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The noun is animate, so the accusative copies the genitive, giving ребёнка as the direct object of успокаивают. The animate rule makes accusative singular equal genitive singular here."
+      },
+      {
+        "id": "CN-IR-REBYONOK-05",
+        "phrase": "Бабушка гордится своим ребёнком.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордиться governs the instrumental, yielding ребёнком. The singular is regular, so the instrumental ending -ом attaches to the stem ребёнк-."
+      },
+      {
+        "id": "CN-IR-REBYONOK-06",
+        "phrase": "Все заботятся о ребёнке.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The preposition о (about) requires the prepositional case, giving ребёнке. The singular declines regularly, with the prepositional ending -е on the stem ребёнк-."
+      },
+      {
+        "id": "CN-IR-REBYONOK-07",
+        "phrase": "Дети играют во дворе.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject takes дети, a completely different word from the singular. This is the suppletive plural of ребёнок: instead of forming a plural from ребёнок, Russian substitutes the separate stem дет-."
+      },
+      {
+        "id": "CN-IR-REBYONOK-08",
+        "phrase": "У соседей много детей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The quantifier много forces the genitive plural детей. The suppletive plural stem дет- takes the genitive plural ending -ей, giving детей."
+      },
+      {
+        "id": "CN-IR-REBYONOK-09",
+        "phrase": "Учительница читает книгу детям.",
+        "fullAnalysis": "Strategic focus: Dative plural. As the recipients of the reading the noun takes the dative plural детям. Built on the suppletive stem дет-, the dative plural ending -ям gives детям."
+      },
+      {
+        "id": "CN-IR-REBYONOK-10",
+        "phrase": "Родители очень любят своих детей.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The noun is animate, so the accusative plural copies the genitive plural детей as the direct object of любят. The animate rule combines with the suppletive plural stem дет-, making accusative plural equal genitive plural."
+      },
+      {
+        "id": "CN-IR-REBYONOK-11",
+        "phrase": "Родители гуляют с детьми в парке.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition с (with) selects the instrumental plural, and the suppletive stem takes the special ending -ьми, giving детьми. This irregular -ьми, rather than the usual -ями, layers a second peculiarity on the suppletive plural."
+      },
+      {
+        "id": "CN-IR-REBYONOK-12",
+        "phrase": "В наших детях наше будущее.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The preposition в (in) marks the prepositional plural детях. Like every plural form, it rests on the suppletive stem дет-, the wholly different word that replaces ребёнок throughout the plural."
+      }
+    ]
+  }
+]

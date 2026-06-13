@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-RF",
+    "label": "Restaurant & Food",
+    "badge": "RF",
+    "description": "Ordering food, asking for the menu and the bill, and handling a meal out.",
+    "missions": [
+      {
+        "id": "CV-RF-01",
+        "phrase": "Здравствуйте, у вас есть свободный столик?",
+        "fullAnalysis": "Strategic focus: asking for a table. The phrase greets the staff and asks whether a free table (свободный столик) is available. Use this line when you walk into a restaurant or café."
+      },
+      {
+        "id": "CV-RF-02",
+        "phrase": "Принесите, пожалуйста, меню.",
+        "fullAnalysis": "Strategic focus: requesting the menu. The imperative принесите asks the waiter to bring something, and пожалуйста keeps it polite. Here you are asking for the меню before you order."
+      },
+      {
+        "id": "CV-RF-03",
+        "phrase": "Что вы можете порекомендовать?",
+        "fullAnalysis": "Strategic focus: asking for a recommendation. The verb порекомендовать means to recommend, and you ask what the waiter can suggest. This is useful when you do not know the local dishes."
+      },
+      {
+        "id": "CV-RF-04",
+        "phrase": "Я хочу заказать это блюдо.",
+        "fullAnalysis": "Strategic focus: ordering a dish. The verb заказать means to order, and блюдо is a dish or course. Point at the menu and use это to choose the item you want."
+      },
+      {
+        "id": "CV-RF-05",
+        "phrase": "Можно мне чашку кофе, пожалуйста?",
+        "fullAnalysis": "Strategic focus: ordering a drink. The frame можно мне asks for permission to have something, and чашку кофе is a cup of coffee. Swap кофе for чай or вода when you want a different напиток."
+      },
+      {
+        "id": "CV-RF-06",
+        "phrase": "Я не ем мясо.",
+        "fullAnalysis": "Strategic focus: stating a dietary need. The verb ем is the first-person form of есть, to eat, and мясо means meat. Use this short line to tell the waiter what you avoid."
+      },
+      {
+        "id": "CV-RF-07",
+        "phrase": "Дайте, пожалуйста, ещё одну вилку.",
+        "fullAnalysis": "Strategic focus: asking for tableware. The imperative дайте means give, and вилка is a fork. The word ещё asks for one more item when something is missing at your table."
+      },
+      {
+        "id": "CV-RF-08",
+        "phrase": "Это очень вкусно, спасибо!",
+        "fullAnalysis": "Strategic focus: complimenting the food. The adverb вкусно means tasty or delicious, and очень strengthens it. Say this to the waiter or cook to praise a блюдо you enjoyed."
+      },
+      {
+        "id": "CV-RF-09",
+        "phrase": "Принесите, пожалуйста, счёт.",
+        "fullAnalysis": "Strategic focus: asking for the bill. The noun счёт means the bill or check, and the imperative принесите asks the официант to bring it. Use this line when you are ready to finish the meal."
+      },
+      {
+        "id": "CV-RF-10",
+        "phrase": "Можно заплатить картой?",
+        "fullAnalysis": "Strategic focus: paying. The verb заплатить means to pay, and картой is the instrumental form of карта, a card. Ask this to check whether the restaurant accepts card payment."
+      }
+    ]
+  }
+]

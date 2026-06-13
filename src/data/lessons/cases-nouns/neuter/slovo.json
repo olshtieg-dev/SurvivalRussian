@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-NT-SLOVO",
+    "label": "Слово",
+    "badge": "NT",
+    "description": "Twelve-mission case drill for слово (word) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-NT-SLOVO-01",
+        "phrase": "Это очень доброе слово.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form слово stands as the subject after Это. Neuter nouns in -о take a bare nominative, and for inanimate neuters this form also serves as the accusative."
+      },
+      {
+        "id": "CN-NT-SLOVO-02",
+        "phrase": "Я не знаю этого слова.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative слово shifts to слова. The verb знать under negation takes the genitive; neuter -о nouns end in -а with stem stress preserved."
+      },
+      {
+        "id": "CN-NT-SLOVO-03",
+        "phrase": "Учитель учит детей новому слову.",
+        "fullAnalysis": "Strategic focus: Dative singular. Слово takes the dative ending слову. The verb учить (teach) governs the dative of the thing taught; neuter and masculine nouns share this -у ending."
+      },
+      {
+        "id": "CN-NT-SLOVO-04",
+        "phrase": "Скажи мне одно тёплое слово.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of скажи is слово, identical to the nominative. For inanimate neuter nouns the accusative always matches the nominative."
+      },
+      {
+        "id": "CN-NT-SLOVO-05",
+        "phrase": "Он начал речь добрым словом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The nominative слово becomes словом. The instrumental marks the means with which the speech began, taking the ending -ом."
+      },
+      {
+        "id": "CN-NT-SLOVO-06",
+        "phrase": "В этом слове трудное ударение.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Слово changes to слове after в. The prepositional, here marking the locus of difficulty, never appears without a preposition; neuter -о nouns take -е."
+      },
+      {
+        "id": "CN-NT-SLOVO-07",
+        "phrase": "Эти слова звучат красиво.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is слова. Neuter nouns form the nominative plural in -а, shifting the stress onto the ending."
+      },
+      {
+        "id": "CN-NT-SLOVO-08",
+        "phrase": "В песне почти нет слов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form слов is the bare stem with a zero ending. Negation нет triggers the genitive; neuter -о nouns typically drop the ending in the genitive plural."
+      },
+      {
+        "id": "CN-NT-SLOVO-09",
+        "phrase": "Не верь пустым словам его.",
+        "fullAnalysis": "Strategic focus: Dative plural. Слова becomes словам. The verb верить governs the dative of what one trusts; -ам is the dative plural ending shared by all genders."
+      },
+      {
+        "id": "CN-NT-SLOVO-10",
+        "phrase": "Я помню все его слова.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object слова matches the nominative plural. Since слово is inanimate, the accusative plural equals the nominative plural."
+      },
+      {
+        "id": "CN-NT-SLOVO-11",
+        "phrase": "Она убедила нас своими словами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The plural слова takes the ending словами. The instrumental marks the means of persuasion; -ами is the universal instrumental plural ending."
+      },
+      {
+        "id": "CN-NT-SLOVO-12",
+        "phrase": "В его словах много правды.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. Слова shifts to словах after в. The prepositional plural ending -ах applies across all genders and always requires a preposition."
+      }
+    ]
+  }
+]

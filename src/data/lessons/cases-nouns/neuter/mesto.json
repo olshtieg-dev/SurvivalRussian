@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-NT-MESTO",
+    "label": "Место",
+    "badge": "NT",
+    "description": "Twelve-mission case drill for место (place, spot, seat) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-NT-MESTO-01",
+        "phrase": "Это моё любимое место.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form место stands as the subject after Это. Neuter nouns in -о take a bare nominative, and for inanimate neuters this form doubles as the accusative."
+      },
+      {
+        "id": "CN-NT-MESTO-02",
+        "phrase": "Здесь нет свободного места.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative место shifts to места. The negation нет requires the genitive, which for neuter -о nouns ends in -а with the stem stress preserved."
+      },
+      {
+        "id": "CN-NT-MESTO-03",
+        "phrase": "Мы идём к месту встречи.",
+        "fullAnalysis": "Strategic focus: Dative singular. Место takes the dative ending месту. The preposition к, marking movement toward a goal, governs the dative; neuter and masculine nouns share this ending."
+      },
+      {
+        "id": "CN-NT-MESTO-04",
+        "phrase": "Я нашёл хорошее место быстро.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of нашёл is место, identical to the nominative. For inanimate neuter nouns the accusative always matches the nominative."
+      },
+      {
+        "id": "CN-NT-MESTO-05",
+        "phrase": "Мы гордимся этим местом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The nominative место becomes местом. The verb гордиться governs the instrumental of the thing one is proud of, so the noun carries the instrumental ending -ом."
+      },
+      {
+        "id": "CN-NT-MESTO-06",
+        "phrase": "На этом месте раньше был лес.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Место changes to месте after на. The prepositional marks location and never appears without a preposition; neuter -о nouns take -е."
+      },
+      {
+        "id": "CN-NT-MESTO-07",
+        "phrase": "Здесь есть свободные места.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is места. Neuter nouns form the nominative plural in -а, with the stress staying on the stem."
+      },
+      {
+        "id": "CN-NT-MESTO-08",
+        "phrase": "В зале не осталось мест.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form мест is the bare stem with a zero ending. Negation triggers the genitive; neuter -о nouns typically drop the ending entirely in the genitive plural."
+      },
+      {
+        "id": "CN-NT-MESTO-09",
+        "phrase": "Гости расходятся по своим местам.",
+        "fullAnalysis": "Strategic focus: Dative plural. Места becomes местам. The preposition по, here marking distribution across spots, governs the dative; -ам is the dative plural ending for all genders."
+      },
+      {
+        "id": "CN-NT-MESTO-10",
+        "phrase": "Зрители заняли все места.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object места matches the nominative plural. Since место is inanimate, the accusative plural equals the nominative plural."
+      },
+      {
+        "id": "CN-NT-MESTO-11",
+        "phrase": "Между двумя местами стоит лампа.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The plural места takes the ending местами. The preposition между governs the instrumental; -ами is the universal instrumental plural ending."
+      },
+      {
+        "id": "CN-NT-MESTO-12",
+        "phrase": "В разных местах растут цветы.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. Места shifts to местах after в. The prepositional plural ending -ах applies to all genders and always requires a preposition."
+      }
+    ]
+  }
+]

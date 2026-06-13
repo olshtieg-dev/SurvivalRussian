@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-NT-ZDANIE",
+    "label": "Здание",
+    "badge": "NT",
+    "description": "Twelve-mission case drill for здание (building) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-NT-ZDANIE-01",
+        "phrase": "Это здание очень старое.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form здание stands as the subject after Это. Neuter nouns in -ие take a bare nominative, and for inanimate neuters this form also serves as the accusative."
+      },
+      {
+        "id": "CN-NT-ZDANIE-02",
+        "phrase": "У этого здания красивый вход.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative здание shifts to здания. The possessive у governs the genitive; -ие nouns take -ия in the genitive singular."
+      },
+      {
+        "id": "CN-NT-ZDANIE-03",
+        "phrase": "Мы подошли к зданию музея.",
+        "fullAnalysis": "Strategic focus: Dative singular. Здание takes the dative ending зданию. The preposition к, marking movement toward a goal, governs the dative; -ие nouns take -ию here."
+      },
+      {
+        "id": "CN-NT-ZDANIE-04",
+        "phrase": "Рабочие строят новое здание.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of строят is здание, identical to the nominative. For inanimate neuter nouns the accusative always matches the nominative."
+      },
+      {
+        "id": "CN-NT-ZDANIE-05",
+        "phrase": "Перед зданием стоят машины.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The nominative здание becomes зданием. The preposition перед, marking position in front, governs the instrumental; -ие nouns take -ием."
+      },
+      {
+        "id": "CN-NT-ZDANIE-06",
+        "phrase": "В этом здании работает почта.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Здание changes to здании after в. The -ие type is special: its prepositional singular ends in -ии (здании), not the regular -ье, and it never appears without a preposition."
+      },
+      {
+        "id": "CN-NT-ZDANIE-07",
+        "phrase": "Эти здания очень высокие.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is здания. Soft neuter -ие nouns form the nominative plural in -ия, here written здания."
+      },
+      {
+        "id": "CN-NT-ZDANIE-08",
+        "phrase": "На этой улице много зданий.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form зданий ends in -ий, the regular genitive plural for -ие nouns. The quantifier много governs the genitive."
+      },
+      {
+        "id": "CN-NT-ZDANIE-09",
+        "phrase": "Туристы идут к старым зданиям.",
+        "fullAnalysis": "Strategic focus: Dative plural. Здания becomes зданиям. The preposition к governs the dative; the dative plural ending -ям follows the soft -ие stem."
+      },
+      {
+        "id": "CN-NT-ZDANIE-10",
+        "phrase": "Город ремонтирует старые здания.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object здания matches the nominative plural. Since здание is inanimate, the accusative plural equals the nominative plural."
+      },
+      {
+        "id": "CN-NT-ZDANIE-11",
+        "phrase": "Между зданиями растут деревья.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The plural здания takes the ending зданиями. The preposition между governs the instrumental; the soft stem takes -ями in the instrumental plural."
+      },
+      {
+        "id": "CN-NT-ZDANIE-12",
+        "phrase": "В этих зданиях живут люди.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. Здания shifts to зданиях after в. The prepositional plural ending -ях follows the soft stem and always requires a preposition."
+      }
+    ]
+  }
+]

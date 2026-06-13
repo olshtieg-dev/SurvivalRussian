@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FS-SEMYA",
+    "label": "Семья",
+    "badge": "FS",
+    "description": "Twelve-mission case drill for семья (family) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FS-SEMYA-01",
+        "phrase": "Наша семья живёт в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The base form семья is the subject of живёт, so it stays in the nominative. Soft feminine nouns in -ья keep that ending in the nominative singular."
+      },
+      {
+        "id": "CN-FS-SEMYA-02",
+        "phrase": "У этой семьи нет своей машины.",
+        "fullAnalysis": "Strategic focus: Genitive singular. After у the noun shifts to genitive семьи, where the soft ending -я becomes -и. The construction у семьи нет marks possession and absence with the genitive."
+      },
+      {
+        "id": "CN-FS-SEMYA-03",
+        "phrase": "Я часто звоню своей семье.",
+        "fullAnalysis": "Strategic focus: Dative singular. The verb звоню takes a dative recipient, turning семья into семье with the soft dative ending -е. The dative names the person or group being called."
+      },
+      {
+        "id": "CN-FS-SEMYA-04",
+        "phrase": "Он очень любит свою семью.",
+        "fullAnalysis": "Strategic focus: Accusative singular. As the direct object of любит, семья takes the accusative семью; soft feminine nouns change -я to -ю in the accusative singular."
+      },
+      {
+        "id": "CN-FS-SEMYA-05",
+        "phrase": "Он гордится своей семьёй.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордится governs the instrumental, so семья becomes семьёй. Because семья is end-stressed, the ending is the stressed -ёй rather than -ей."
+      },
+      {
+        "id": "CN-FS-SEMYA-06",
+        "phrase": "В нашей семье все любят музыку.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. After в the noun takes the prepositional семье with the soft ending -е, matching the dative form. The phrase в семье locates the situation within the family."
+      },
+      {
+        "id": "CN-FS-SEMYA-07",
+        "phrase": "Многие семьи приехали на праздник.",
+        "fullAnalysis": "Strategic focus: Nominative plural. As the subject of приехали, the plural семьи carries the soft nominative ending -и instead of singular -я. Soft feminine nouns mark the nominative plural with -и."
+      },
+      {
+        "id": "CN-FS-SEMYA-08",
+        "phrase": "В нашем доме живёт пять семей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. After the numeral пять the count noun goes to genitive plural семей, a zero ending where a fleeting е appears in place of the soft sign. Numbers above four govern the genitive plural."
+      },
+      {
+        "id": "CN-FS-SEMYA-09",
+        "phrase": "Государство помогает молодым семьям.",
+        "fullAnalysis": "Strategic focus: Dative plural. The verb помогает governs the dative, giving the plural recipient семьям with the ending -ям after the soft stem. The dative names those who receive help."
+      },
+      {
+        "id": "CN-FS-SEMYA-10",
+        "phrase": "Войну разлучила многие семьи навсегда.",
+        "fullAnalysis": "Strategic focus: Accusative plural. As an inanimate direct object, семьи has an accusative plural identical to the nominative plural. Although the word denotes people, semьи behaves as inanimate, so accusative plural equals nominative plural."
+      },
+      {
+        "id": "CN-FS-SEMYA-11",
+        "phrase": "Между семьями возникла крепкая дружба.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The preposition между governs the instrumental семьями, with the plural ending -ями after the soft stem. The instrumental plural ending is uniform across declensions."
+      },
+      {
+        "id": "CN-FS-SEMYA-12",
+        "phrase": "В этих семьях растёт много детей.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в the noun takes the prepositional plural семьях, ending in -ях after the soft stem. The prepositional plural ending is the same for all genders."
+      }
+    ]
+  }
+]

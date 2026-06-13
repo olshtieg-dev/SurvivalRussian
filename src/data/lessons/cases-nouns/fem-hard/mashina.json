@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FH-MASHINA",
+    "label": "Машина",
+    "badge": "FH",
+    "description": "Twelve-mission case drill for машина (car, machine) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FH-MASHINA-01",
+        "phrase": "Эта машина стоит у дома.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form машина serves as the subject of стоит. First-declension feminine nouns in -а keep this bare ending in the nominative singular, naming who or what performs the action."
+      },
+      {
+        "id": "CN-FH-MASHINA-02",
+        "phrase": "У соседа нет машины.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The ending changes from nominative -а to машины, here governed by the absence construction нет plus genitive. Hard feminines take the genitive singular ending -ы."
+      },
+      {
+        "id": "CN-FH-MASHINA-03",
+        "phrase": "Мы подошли к машине.",
+        "fullAnalysis": "Strategic focus: Dative singular. After the preposition к expressing motion toward, машина becomes машине. The dative singular ending for first-declension feminines is -е."
+      },
+      {
+        "id": "CN-FH-MASHINA-04",
+        "phrase": "Отец моет машину каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of моет takes the accusative машину, where nominative -а becomes -у. Being inanimate, машина uses this dedicated -у form for the accusative."
+      },
+      {
+        "id": "CN-FH-MASHINA-05",
+        "phrase": "Он гордится новой машиной.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордиться governs the instrumental, so машина appears as машиной. The instrumental singular ending for hard feminines is -ой."
+      },
+      {
+        "id": "CN-FH-MASHINA-06",
+        "phrase": "В машине играет музыка.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. After в marking location inside, машина takes the prepositional машине. The prepositional singular ending -е matches the dative for first-declension feminines."
+      },
+      {
+        "id": "CN-FH-MASHINA-07",
+        "phrase": "Эти машины едут по шоссе.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is машины, where singular -а changes to the plural ending -ы. This -ы marks the nominative plural of hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-MASHINA-08",
+        "phrase": "На улице нет машин.",
+        "fullAnalysis": "Strategic focus: Genitive plural. Hard feminines drop the vowel entirely in the genitive plural, leaving the zero-ending form машин. The negation нет plus genitive triggers it here."
+      },
+      {
+        "id": "CN-FH-MASHINA-09",
+        "phrase": "Завод поставляет детали машинам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The dative plural ending -ам attaches to the stem to give машинам, the recipient of the parts. The -ам ending is uniform for hard feminine plurals."
+      },
+      {
+        "id": "CN-FH-MASHINA-10",
+        "phrase": "Завод выпускает новые машины.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Because машина is inanimate, the accusative plural copies the nominative plural машины rather than the genitive. The direct object of выпускает stays машины."
+      },
+      {
+        "id": "CN-FH-MASHINA-11",
+        "phrase": "Дорога забита машинами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ами produces машинами, here the means clogging the road. This -ами ending is regular across hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-MASHINA-12",
+        "phrase": "В этих машинах удобные сиденья.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в indicating location, the prepositional plural ending -ах gives машинах. This ending is constant for hard feminines in the prepositional plural."
+      }
+    ]
+  }
+]

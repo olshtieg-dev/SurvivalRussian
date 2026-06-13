@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-BP",
+    "label": "Bank & Post Office",
+    "badge": "BP",
+    "description": "Errands at the bank and post office — money, cards, parcels, and forms.",
+    "missions": [
+      {
+        "id": "CV-BP-01",
+        "phrase": "Я хочу открыть новый счёт.",
+        "fullAnalysis": "Strategic focus: opening a bank account. The verb открыть means to open, and счёт is the bank account. This is the standard opening line at the bank counter."
+      },
+      {
+        "id": "CV-BP-02",
+        "phrase": "Можно снять деньги без карты?",
+        "fullAnalysis": "Strategic focus: withdrawing cash. The verb снять means to withdraw, деньги are the money, and карта is the card. Use this when you ask whether a withdrawal is possible without your card."
+      },
+      {
+        "id": "CV-BP-03",
+        "phrase": "Где здесь можно обменять валюту?",
+        "fullAnalysis": "Strategic focus: currency exchange. The verb обменять means to exchange and валюта is foreign currency. This question locates the exchange desk inside the bank."
+      },
+      {
+        "id": "CV-BP-04",
+        "phrase": "Моя карта не работает почему-то.",
+        "fullAnalysis": "Strategic focus: a card problem. The phrase не работает means does not work and почему-то means for some reason. Say this to flag a card that the machine refuses."
+      },
+      {
+        "id": "CV-BP-05",
+        "phrase": "Я перевёл деньги на ваш счёт.",
+        "fullAnalysis": "Strategic focus: confirming a transfer. The past-tense перевёл means transferred, and деньги go на счёт, onto the account. Note the ё in перевёл and счёт."
+      },
+      {
+        "id": "CV-BP-06",
+        "phrase": "Мне нужно отправить эту посылку.",
+        "fullAnalysis": "Strategic focus: sending a parcel. The verb отправить means to send and посылка is the parcel. This is the core line at the post office window."
+      },
+      {
+        "id": "CV-BP-07",
+        "phrase": "Сколько стоит марка на письмо?",
+        "fullAnalysis": "Strategic focus: asking about postage. The word марка is a stamp and письмо is a letter. Use сколько стоит to ask the price of the stamp."
+      },
+      {
+        "id": "CV-BP-08",
+        "phrase": "Я пришёл забрать свою посылку.",
+        "fullAnalysis": "Strategic focus: picking up a package. The verb забрать means to collect, and посылка is the parcel waiting for you. Say this when you arrive to claim a delivery."
+      },
+      {
+        "id": "CV-BP-09",
+        "phrase": "Помогите мне заполнить этот бланк.",
+        "fullAnalysis": "Strategic focus: filling out a form. The verb заполнить means to fill in and бланк is the form. Ask a clerk for help when the form is unclear."
+      },
+      {
+        "id": "CV-BP-10",
+        "phrase": "В какое окно мне встать?",
+        "fullAnalysis": "Strategic focus: finding the right window and queue. The word окно is the service window and встать here means to stand or join the line. Use this to ask where the очередь leads."
+      }
+    ]
+  }
+]

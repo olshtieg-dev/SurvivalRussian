@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-SM",
+    "label": "Shopping & Money",
+    "badge": "SM",
+    "description": "Buying things, asking prices, paying, and handling money in shops and markets.",
+    "missions": [
+      {
+        "id": "CV-SM-01",
+        "phrase": "Сколько стоит эта сумка?",
+        "fullAnalysis": "Strategic focus: asking a price. This is the core shopping question — стоит means costs and сколько means how much. Use it for any item by pointing and naming it, and listen for the number of рублей in the reply."
+      },
+      {
+        "id": "CV-SM-02",
+        "phrase": "У вас есть этот размер побольше?",
+        "fullAnalysis": "Strategic focus: asking about sizes. The word размер covers clothing and shoe sizes, and побольше softly asks for a bigger one. This phrase lets you check stock politely before deciding to buy."
+      },
+      {
+        "id": "CV-SM-03",
+        "phrase": "Можно примерить эту куртку?",
+        "fullAnalysis": "Strategic focus: trying things on. The verb примерить means to try on and is essential in any clothing store. Pair it with можно to make a natural, polite request to the assistant."
+      },
+      {
+        "id": "CV-SM-04",
+        "phrase": "Я возьму вот это, пожалуйста.",
+        "fullAnalysis": "Strategic focus: deciding to buy. Возьму literally means I will take and is the standard way Russians say I'll take it. Add вот это while pointing to make your choice unmistakable at the counter."
+      },
+      {
+        "id": "CV-SM-05",
+        "phrase": "Можно оплатить картой?",
+        "fullAnalysis": "Strategic focus: paying by card. The verb оплатить means to pay for and карта is a bank card. Asking this first avoids surprises when a small shop or market stall only takes наличные."
+      },
+      {
+        "id": "CV-SM-06",
+        "phrase": "У меня только наличные.",
+        "fullAnalysis": "Strategic focus: paying with cash. Наличные means cash and is useful at markets where cards are not accepted. The word только signals you have no other option, prompting the seller to adjust."
+      },
+      {
+        "id": "CV-SM-07",
+        "phrase": "Вы дали мне неправильную сдачу.",
+        "fullAnalysis": "Strategic focus: checking your change. Сдача is the change handed back after paying, and неправильную flags that it is wrong. Knowing this phrase protects you when counting coins quickly at the касса."
+      },
+      {
+        "id": "CV-SM-08",
+        "phrase": "На эти туфли есть скидка?",
+        "fullAnalysis": "Strategic focus: asking about discounts. The word скидка means discount or sale, common on tags and store windows. Asking directly can save money, especially on seasonal items like туфли."
+      },
+      {
+        "id": "CV-SM-09",
+        "phrase": "Это слишком дорого для меня.",
+        "fullAnalysis": "Strategic focus: reacting to a price. Дорого means expensive and слишком means too. This line politely signals that something is out of budget and often opens room to negotiate or look for cheaper options."
+      },
+      {
+        "id": "CV-SM-10",
+        "phrase": "Дайте чек, пожалуйста.",
+        "fullAnalysis": "Strategic focus: getting a receipt. The word чек means receipt and is needed for returns or expense records. The imperative дайте plus пожалуйста makes a short, polite request after paying."
+      }
+    ]
+  }
+]

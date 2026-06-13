@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FH-RABOTA",
+    "label": "Работа",
+    "badge": "FH",
+    "description": "Twelve-mission case drill for работа (work, job) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FH-RABOTA-01",
+        "phrase": "Эта работа очень нравится мне.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form работа is the subject of нравится. First-declension feminine nouns in -а keep this bare ending in the nominative singular, naming what performs or causes the action."
+      },
+      {
+        "id": "CN-FH-RABOTA-02",
+        "phrase": "Я вернулся домой с работы.",
+        "fullAnalysis": "Strategic focus: Genitive singular. After the preposition с marking motion from, работа becomes работы. Hard feminines take the genitive singular ending -ы."
+      },
+      {
+        "id": "CN-FH-RABOTA-03",
+        "phrase": "Я готовлюсь к новой работе.",
+        "fullAnalysis": "Strategic focus: Dative singular. After the preposition к expressing direction toward, работа appears as работе. The dative singular ending for first-declension feminines is -е."
+      },
+      {
+        "id": "CN-FH-RABOTA-04",
+        "phrase": "Я закончил эту работу вовремя.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of закончил takes the accusative работу, where nominative -а becomes -у. Being inanimate, работа uses this dedicated -у form."
+      },
+      {
+        "id": "CN-FH-RABOTA-05",
+        "phrase": "Он доволен своей работой.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The short adjective доволен governs the instrumental, so работа becomes работой. The instrumental singular ending for hard feminines is -ой."
+      },
+      {
+        "id": "CN-FH-RABOTA-06",
+        "phrase": "Я думаю о новой работе.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. After о meaning about, работа takes the prepositional работе. The prepositional singular ending -е matches the dative for first-declension feminines."
+      },
+      {
+        "id": "CN-FH-RABOTA-07",
+        "phrase": "Эти работы заняли весь день.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is работы, where singular -а changes to the plural ending -ы. This -ы marks the nominative plural of hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-RABOTA-08",
+        "phrase": "Сегодня у нас нет работ.",
+        "fullAnalysis": "Strategic focus: Genitive plural. Hard feminines drop the vowel in the genitive plural, leaving the zero-ending form работ. The negation нет plus genitive triggers it here."
+      },
+      {
+        "id": "CN-FH-RABOTA-09",
+        "phrase": "Учитель ставит оценки работам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The dative plural ending -ам attaches to the stem to give работам, the things receiving the grades. The -ам ending is uniform for hard feminine plurals."
+      },
+      {
+        "id": "CN-FH-RABOTA-10",
+        "phrase": "Жюри оценивает лучшие работы.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Because работа is inanimate, the accusative plural copies the nominative plural работы rather than the genitive. The direct object of оценивает stays работы."
+      },
+      {
+        "id": "CN-FH-RABOTA-11",
+        "phrase": "Стены увешаны детскими работами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The instrumental plural ending -ами produces работами, here the means covering the walls. This -ами ending is regular across hard feminine nouns."
+      },
+      {
+        "id": "CN-FH-RABOTA-12",
+        "phrase": "В этих работах много ошибок.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. After в indicating location, the prepositional plural ending -ах gives работах. This ending is constant for hard feminines in the prepositional plural."
+      }
+    ]
+  }
+]

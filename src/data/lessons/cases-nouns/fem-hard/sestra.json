@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-FH-SESTRA",
+    "label": "Сестра",
+    "badge": "FH",
+    "description": "Twelve-mission case drill for сестра (sister) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-FH-SESTRA-01",
+        "phrase": "Моя сестра живёт в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form сестра is the subject of живёт. First-declension feminine nouns in -а keep this bare ending in the nominative singular, naming who performs the action."
+      },
+      {
+        "id": "CN-FH-SESTRA-02",
+        "phrase": "У моей сестры двое детей.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The possessive construction у plus genitive turns сестра into сестры. Hard feminines take the genitive singular ending -ы."
+      },
+      {
+        "id": "CN-FH-SESTRA-03",
+        "phrase": "Я звоню сестре каждый вечер.",
+        "fullAnalysis": "Strategic focus: Dative singular. The verb звонить governs the dative recipient, so сестра becomes сестре. The dative singular ending for first-declension feminines is -е."
+      },
+      {
+        "id": "CN-FH-SESTRA-04",
+        "phrase": "Я давно не видел сестру.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of видел takes the accusative сестру, where nominative -а becomes -у. In the singular even animate feminines use this dedicated -у form, distinct from the genitive."
+      },
+      {
+        "id": "CN-FH-SESTRA-05",
+        "phrase": "Я горжусь своей сестрой.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The verb гордиться governs the instrumental, so сестра appears as сестрой. The instrumental singular ending for hard feminines is -ой."
+      },
+      {
+        "id": "CN-FH-SESTRA-06",
+        "phrase": "Я часто думаю о сестре.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. After о meaning about, сестра takes the prepositional сестре. The prepositional singular ending -е matches the dative for first-declension feminines."
+      },
+      {
+        "id": "CN-FH-SESTRA-07",
+        "phrase": "Мои сёстры приехали в гости.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is сёстры, an irregular form: a fleeting ё appears in the stem, and the ending shifts to -ы. The nominative plural of сестра is сёстры."
+      },
+      {
+        "id": "CN-FH-SESTRA-08",
+        "phrase": "У меня нет сестёр.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The genitive plural is the irregular сестёр, with an inserted fleeting vowel ё between the consonants and a zero ending. The negation нет plus genitive triggers it here."
+      },
+      {
+        "id": "CN-FH-SESTRA-09",
+        "phrase": "Я пишу письма сёстрам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The dative plural ending -ам attaches to the ё-stem to give сёстрам, the recipients of the letters. The fleeting ё of the plural stem stays where it is not at the very end."
+      },
+      {
+        "id": "CN-FH-SESTRA-10",
+        "phrase": "Я люблю своих сестёр.",
+        "fullAnalysis": "Strategic focus: Accusative plural. Because сестра is animate, the accusative plural equals the genitive plural сестёр rather than the nominative. The direct object of люблю therefore takes the form сестёр."
+      },
+      {
+        "id": "CN-FH-SESTRA-11",
+        "phrase": "Я живу вместе с сёстрами.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. After с meaning together with, the instrumental plural ending -ами produces сёстрами from the ё-stem. The -ами ending is regular even on this irregular plural stem."
+      },
+      {
+        "id": "CN-FH-SESTRA-12",
+        "phrase": "Мы говорили о моих сёстрах.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The prepositional plural ending -ах attaches to the ё-stem to give сёстрах. This ending is constant for hard feminines in the prepositional plural."
+      }
+    ]
+  }
+]

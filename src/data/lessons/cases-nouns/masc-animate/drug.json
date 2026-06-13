@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MA-DRUG",
+    "label": "Друг",
+    "badge": "MA",
+    "description": "Twelve-mission case drill for друг (friend) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MA-DRUG-01",
+        "phrase": "Мой лучший друг приехал вчера.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form друг has a zero ending and names the subject. Here друг is the one who arrived, so it stands in the nominative as the grammatical subject."
+      },
+      {
+        "id": "CN-MA-DRUG-02",
+        "phrase": "У моего друга красивый дом.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative друг adds -а to become друга. Possession with у demands the genitive, marking друга as the owner of the house."
+      },
+      {
+        "id": "CN-MA-DRUG-03",
+        "phrase": "Я позвонил другу вечером.",
+        "fullAnalysis": "Strategic focus: Dative singular. The ending shifts to -у, giving другу. The verb позвонить governs the dative, marking другу as the person called."
+      },
+      {
+        "id": "CN-MA-DRUG-04",
+        "phrase": "Я встретил друга на вокзале.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of встретить takes the accusative, but because друг is animate, the accusative copies the genitive: друга. Animacy is why the form ends in -а rather than staying друг."
+      },
+      {
+        "id": "CN-MA-DRUG-05",
+        "phrase": "Я иду в кино с другом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The ending becomes -ом, producing другом. The preposition с meaning together with requires the instrumental, naming другом as the companion."
+      },
+      {
+        "id": "CN-MA-DRUG-06",
+        "phrase": "Я часто думаю о друге.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The ending is -е, giving друге. The preposition о meaning about forces the prepositional, the case for the object of one's thoughts."
+      },
+      {
+        "id": "CN-MA-DRUG-07",
+        "phrase": "Мои друзья ждут меня внизу.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural is irregular: the stem softens to друзь- and takes -я, giving друзья. As the ones who wait, they stand in the nominative."
+      },
+      {
+        "id": "CN-MA-DRUG-08",
+        "phrase": "У меня здесь нет друзей.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The irregular plural stem gives the genitive друзей. The word нет signalling absence governs the genitive, marking the missing friends as друзей."
+      },
+      {
+        "id": "CN-MA-DRUG-09",
+        "phrase": "Я доверяю своим друзьям полностью.",
+        "fullAnalysis": "Strategic focus: Dative plural. The softened stem друзь- takes the dative ending -ям, producing друзьям. The verb доверять governs the dative, marking друзьям as those trusted."
+      },
+      {
+        "id": "CN-MA-DRUG-10",
+        "phrase": "Я пригласил всех друзей на праздник.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object of пригласить would be accusative, but animacy makes the accusative plural copy the genitive plural: друзей. The form matches the genitive, not the nominative друзья, because the noun is animate."
+      },
+      {
+        "id": "CN-MA-DRUG-11",
+        "phrase": "Я провожу выходные с друзьями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The softened stem друзь- takes -ями, giving друзьями. The preposition с meaning with requires the instrumental, naming друзьями as the company kept."
+      },
+      {
+        "id": "CN-MA-DRUG-12",
+        "phrase": "Мы говорили о старых друзьях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The softened stem друзь- takes the prepositional ending -ях, giving друзьях. The preposition о meaning about governs the prepositional, marking друзьях as the topic."
+      }
+    ]
+  }
+]

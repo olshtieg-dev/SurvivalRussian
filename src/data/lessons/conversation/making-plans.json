@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-MP",
+    "label": "Making Plans",
+    "badge": "MP",
+    "description": "Inviting, suggesting, agreeing on a time, and arranging to meet up.",
+    "missions": [
+      {
+        "id": "CV-MP-01",
+        "phrase": "Ты свободен сегодня вечером?",
+        "fullAnalysis": "Strategic focus: asking if someone is free. The phrase opens an invitation by checking availability. Свободен is the masculine short-form adjective for free, and сегодня вечером means this evening."
+      },
+      {
+        "id": "CV-MP-02",
+        "phrase": "Давай сходим завтра в кино.",
+        "fullAnalysis": "Strategic focus: suggesting an activity. Давай introduces a friendly proposal, while сходим is the perfective we-form for going somewhere and back. В кино names the cinema as the destination."
+      },
+      {
+        "id": "CV-MP-03",
+        "phrase": "Я приглашаю тебя в кафе.",
+        "fullAnalysis": "Strategic focus: extending an invitation. Приглашаю is the first-person present of приглашать, to invite. Тебя is the accusative of ты, and в кафе marks the café as the place."
+      },
+      {
+        "id": "CV-MP-04",
+        "phrase": "Когда тебе удобно встретиться?",
+        "fullAnalysis": "Strategic focus: agreeing on a time. The question asks when a meeting suits the other person. Удобно means convenient, and встретиться is the reflexive infinitive to meet up."
+      },
+      {
+        "id": "CV-MP-05",
+        "phrase": "Давай встретимся у входа в семь.",
+        "fullAnalysis": "Strategic focus: setting a place and time. Встретимся is the we-form for we will meet, у входа means by the entrance, and в семь spells out the hour seven."
+      },
+      {
+        "id": "CV-MP-06",
+        "phrase": "Свободна ли ты в субботу?",
+        "fullAnalysis": "Strategic focus: a polite yes-no question. The particle ли makes the question formal and tidy. Свободна is the feminine short form for free, and в субботу means on Saturday."
+      },
+      {
+        "id": "CV-MP-07",
+        "phrase": "Согласен, пойдём вместе гулять.",
+        "fullAnalysis": "Strategic focus: agreeing to a plan. Согласен is the masculine short form meaning I agree. Пойдём is the we-form let us go, and гулять is the infinitive to take a walk."
+      },
+      {
+        "id": "CV-MP-08",
+        "phrase": "Извини, сегодня я очень занят.",
+        "fullAnalysis": "Strategic focus: politely declining. Извини softens the refusal with an apology. Занят is the masculine short form for busy, explaining why today does not work."
+      },
+      {
+        "id": "CV-MP-09",
+        "phrase": "Во сколько тебе удобно завтра?",
+        "fullAnalysis": "Strategic focus: pinning down the time. Во сколько asks at what hour, and завтра means tomorrow. Удобно again checks what is convenient for the other person."
+      },
+      {
+        "id": "CV-MP-10",
+        "phrase": "Отлично, тогда до встречи вечером!",
+        "fullAnalysis": "Strategic focus: confirming the arrangement. Отлично signals enthusiastic agreement. До встречи is a farewell meaning until we meet, and вечером fixes the plan for the evening."
+      }
+    ]
+  }
+]

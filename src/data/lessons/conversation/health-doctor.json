@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-HD",
+    "label": "Health & Doctor",
+    "badge": "HD",
+    "description": "Describing how you feel, seeing a doctor, and getting medicine at the pharmacy.",
+    "missions": [
+      {
+        "id": "CV-HD-01",
+        "phrase": "Я сегодня плохо себя чувствую.",
+        "fullAnalysis": "Strategic focus: saying you feel unwell. This is the standard opener when describing poor health. The reflexive phrase чувствовать себя means to feel oneself, and плохо marks the bad state."
+      },
+      {
+        "id": "CV-HD-02",
+        "phrase": "У меня сильно болит голова.",
+        "fullAnalysis": "Strategic focus: head pain. The verb болит describes something hurting, with голова as the subject. Add сильно to stress that the pain is strong."
+      },
+      {
+        "id": "CV-HD-03",
+        "phrase": "У меня болит горло и кашель.",
+        "fullAnalysis": "Strategic focus: cold symptoms. Here горло names the throat and кашель names a cough. These two words together describe a typical простуда or cold."
+      },
+      {
+        "id": "CV-HD-04",
+        "phrase": "Кажется, у меня высокая температура.",
+        "fullAnalysis": "Strategic focus: fever. The noun температура means temperature, and высокая marks it as high, signalling a fever. Кажется softens the line to it seems."
+      },
+      {
+        "id": "CV-HD-05",
+        "phrase": "Мне нужно вызвать врача.",
+        "fullAnalysis": "Strategic focus: calling a doctor. The verb вызвать means to call or summon, and врача is the accusative of врач. Use this when you need medical help."
+      },
+      {
+        "id": "CV-HD-06",
+        "phrase": "Я хочу записаться на приём.",
+        "fullAnalysis": "Strategic focus: making an appointment. The reflexive verb записаться means to sign up, and приём names a doctor's reception or visit. This books a slot."
+      },
+      {
+        "id": "CV-HD-07",
+        "phrase": "Где здесь ближайшая аптека?",
+        "fullAnalysis": "Strategic focus: finding a pharmacy. The noun аптека means pharmacy, and ближайшая marks the nearest one. Где здесь asks where it is nearby."
+      },
+      {
+        "id": "CV-HD-08",
+        "phrase": "Дайте мне какое-нибудь лекарство.",
+        "fullAnalysis": "Strategic focus: asking for medicine. The noun лекарство means medicine, and дайте is the polite imperative give. Some pharmacies will instead offer таблетки or pills."
+      },
+      {
+        "id": "CV-HD-09",
+        "phrase": "Мне нужен отдых и покой.",
+        "fullAnalysis": "Strategic focus: needing rest. The noun отдых means rest and покой means calm. Saying мне нужен expresses what a sick person requires to recover."
+      },
+      {
+        "id": "CV-HD-10",
+        "phrase": "Сегодня я чувствую себя лучше.",
+        "fullAnalysis": "Strategic focus: feeling better. This reuses чувствовать себя but pairs it with лучше for improvement. It marks recovery after a простуда or illness."
+      }
+    ]
+  }
+]

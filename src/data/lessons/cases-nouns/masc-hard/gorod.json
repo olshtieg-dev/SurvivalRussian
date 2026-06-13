@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MH-GOROD",
+    "label": "Город",
+    "badge": "MH",
+    "description": "Twelve-mission case drill for город (city, town) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MH-GOROD-01",
+        "phrase": "Этот город очень древний.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form город stays unchanged because it is the subject, the thing described as ancient. Nominative names the topic of the sentence, and hard masculine nouns show a bare stem with no ending."
+      },
+      {
+        "id": "CN-MH-GOROD-02",
+        "phrase": "Мы доехали до города к вечеру.",
+        "fullAnalysis": "Strategic focus: Genitive singular. Here город becomes города, with the ending -а. The preposition до (up to, as far as) governs the genitive, marking the endpoint reached. Hard masculine nouns take -а, and the stress stays on the root."
+      },
+      {
+        "id": "CN-MH-GOROD-03",
+        "phrase": "Поезд приближается к городу.",
+        "fullAnalysis": "Strategic focus: Dative singular. The form город becomes городу with the ending -у. The preposition к (toward) requires the dative to mark the goal of motion. Dative shows the destination, and hard masculine nouns add -у."
+      },
+      {
+        "id": "CN-MH-GOROD-04",
+        "phrase": "Туристы любят этот город.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The form город matches the nominative because город is inanimate, so its accusative copies the dictionary form. It is the direct object of любят (love), the thing being acted upon."
+      },
+      {
+        "id": "CN-MH-GOROD-05",
+        "phrase": "Самолёт летит над городом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The form город becomes городом, ending in -ом. The preposition над (above) takes the instrumental to show position over something. Hard masculine nouns form the instrumental singular with -ом."
+      },
+      {
+        "id": "CN-MH-GOROD-06",
+        "phrase": "В этом городе много музеев.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The form город becomes городе with the ending -е. The preposition в (in) used for location answers где and requires the prepositional. Hard masculine nouns take -е here."
+      },
+      {
+        "id": "CN-MH-GOROD-07",
+        "phrase": "На севере есть красивые города.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural города is the subject. Note the stress shift: город is stressed on the root in the singular, but the plural города carries end stress, a regular pattern for this noun."
+      },
+      {
+        "id": "CN-MH-GOROD-08",
+        "phrase": "Я объехал много городов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form город becomes городов with the ending -ов. The quantity word много (many) governs the genitive plural. Hard masculine nouns add -ов to form this case."
+      },
+      {
+        "id": "CN-MH-GOROD-09",
+        "phrase": "Делегация ездит по городам страны.",
+        "fullAnalysis": "Strategic focus: Dative plural. The form город becomes городам, ending in -ам. The preposition по (around, from one to another) takes the dative here. The plural dative ending -ам is uniform for hard nouns."
+      },
+      {
+        "id": "CN-MH-GOROD-10",
+        "phrase": "Война разрушила многие города.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The form города equals the nominative plural because город is inanimate, so the accusative plural copies the nominative. It is the direct object of разрушила (destroyed)."
+      },
+      {
+        "id": "CN-MH-GOROD-11",
+        "phrase": "Между городами проложили шоссе.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The form город becomes городами, ending in -ами. The preposition между (between) governs the instrumental. The plural instrumental ending -ами is shared across genders."
+      },
+      {
+        "id": "CN-MH-GOROD-12",
+        "phrase": "В южных городах жарко летом.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The form город becomes городах with the ending -ах. The preposition в for location requires the prepositional case. The plural ending -ах is the same for all hard nouns."
+      }
+    ]
+  }
+]

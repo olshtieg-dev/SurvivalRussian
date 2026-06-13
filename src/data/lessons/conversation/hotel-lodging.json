@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-HL",
+    "label": "Hotel & Lodging",
+    "badge": "HL",
+    "description": "Checking in, asking about the room, and handling a hotel stay.",
+    "missions": [
+      {
+        "id": "CV-HL-01",
+        "phrase": "Здравствуйте, у меня есть бронь.",
+        "fullAnalysis": "Strategic focus: checking in with a reservation. The line opens with a greeting and states that a booking already exists. The key word бронь means reservation and is what the front desk needs first."
+      },
+      {
+        "id": "CV-HL-02",
+        "phrase": "Я хочу забронировать номер на ночь.",
+        "fullAnalysis": "Strategic focus: requesting a room for one night. The phrase asks to reserve a номер, which is the standard word for a hotel room. The phrase на ночь tells the staff the length of stay."
+      },
+      {
+        "id": "CV-HL-03",
+        "phrase": "Сколько стоит номер за ночь?",
+        "fullAnalysis": "Strategic focus: asking the nightly price. Сколько стоит is the everyday way to ask the cost of something. Here за ночь specifies that you want the price per night for the номер."
+      },
+      {
+        "id": "CV-HL-04",
+        "phrase": "Во сколько заселение и выезд?",
+        "fullAnalysis": "Strategic focus: check-in and checkout times. Заселение means check-in and выезд means departure or checkout. Во сколько asks at what time these happen."
+      },
+      {
+        "id": "CV-HL-05",
+        "phrase": "Завтрак входит в стоимость номера?",
+        "fullAnalysis": "Strategic focus: asking whether breakfast is included. Завтрак is breakfast and входит в стоимость means it is part of the price. This is a common question about what the room rate covers."
+      },
+      {
+        "id": "CV-HL-06",
+        "phrase": "Есть ли в номере бесплатный вайфай?",
+        "fullAnalysis": "Strategic focus: asking about internet access. Есть ли is a polite way to ask whether something is available. The line checks for бесплатный вайфай, meaning free wifi, in the номер."
+      },
+      {
+        "id": "CV-HL-07",
+        "phrase": "Можно ещё одно полотенце, пожалуйста?",
+        "fullAnalysis": "Strategic focus: requesting an extra towel. Можно asks for permission or service politely. Полотенце means towel and ещё одно means one more, a typical request during a stay."
+      },
+      {
+        "id": "CV-HL-08",
+        "phrase": "Где лифт на третий этаж?",
+        "fullAnalysis": "Strategic focus: finding your floor. Лифт means elevator and этаж means floor or storey. The line asks where to find the lift up to the room."
+      },
+      {
+        "id": "CV-HL-09",
+        "phrase": "В номере не работает кондиционер.",
+        "fullAnalysis": "Strategic focus: reporting a problem with the room. Не работает means something is not working. Here the guest tells the staff that the кондиционер, the air conditioner, in the номер is broken."
+      },
+      {
+        "id": "CV-HL-10",
+        "phrase": "Я потерял ключ от номера.",
+        "fullAnalysis": "Strategic focus: a lost key at checkout or during the stay. Ключ means key and от номера shows it belongs to the room. Потерял means lost, said by a male speaker reporting the problem."
+      }
+    ]
+  }
+]

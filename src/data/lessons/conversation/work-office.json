@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CV-WO",
+    "label": "Work & Office",
+    "badge": "WO",
+    "description": "Everyday workplace talk — meetings, tasks, colleagues, and schedules.",
+    "missions": [
+      {
+        "id": "CV-WO-01",
+        "phrase": "Доброе утро, я пришёл на работу.",
+        "fullAnalysis": "Strategic focus: arriving at the office. The line opens with a polite доброе утро and announces пришёл на работу. Use it when greeting colleagues at the start of the day."
+      },
+      {
+        "id": "CV-WO-02",
+        "phrase": "Совещание начнётся через десять минут.",
+        "fullAnalysis": "Strategic focus: announcing a meeting. The noun совещание names a formal work meeting and начнётся states when it starts. The time через десять минут keeps everyone on schedule."
+      },
+      {
+        "id": "CV-WO-03",
+        "phrase": "Коллега, ты можешь мне помочь?",
+        "fullAnalysis": "Strategic focus: asking a colleague for help. The address коллега opens a friendly request and помочь names the favour. Use this informal ты form with people you work alongside daily."
+      },
+      {
+        "id": "CV-WO-04",
+        "phrase": "Какой срок у этой задачи?",
+        "fullAnalysis": "Strategic focus: checking a deadline. The noun срок means deadline and задача names the assigned task. This question clarifies when work must be finished."
+      },
+      {
+        "id": "CV-WO-05",
+        "phrase": "Я отправлю вам документ сегодня.",
+        "fullAnalysis": "Strategic focus: promising to send a file. The verb отправлю is the future of отправить and документ names the file. The polite вам suits a message to a manager or client."
+      },
+      {
+        "id": "CV-WO-06",
+        "phrase": "Пойдём на обеденный перерыв вместе?",
+        "fullAnalysis": "Strategic focus: suggesting a lunch break. The noun перерыв means break and обеденный marks it as the lunch one. The invitation пойдём вместе keeps it casual and friendly."
+      },
+      {
+        "id": "CV-WO-07",
+        "phrase": "Начальник, можно задать вопрос?",
+        "fullAnalysis": "Strategic focus: addressing the boss. The noun начальник names the manager and можно softens the request. The phrase задать вопрос is the standard way to ask permission to speak."
+      },
+      {
+        "id": "CV-WO-08",
+        "phrase": "Извините, я сейчас очень занят.",
+        "fullAnalysis": "Strategic focus: declining politely. The opener извините apologises and занят states the speaker is busy. The marker сейчас limits the refusal to the present moment."
+      },
+      {
+        "id": "CV-WO-09",
+        "phrase": "Я уже закончил этот проект.",
+        "fullAnalysis": "Strategic focus: reporting a finished task. The verb закончил signals completion and проект names the long task. Use this to update a colleague or manager on your progress."
+      },
+      {
+        "id": "CV-WO-10",
+        "phrase": "Рабочий день закончился, я ухожу домой.",
+        "fullAnalysis": "Strategic focus: leaving for the day. The phrase рабочий день закончился marks the end of work and ухожу домой states the departure. This is a natural way to say goodbye at the office."
+      }
+    ]
+  }
+]

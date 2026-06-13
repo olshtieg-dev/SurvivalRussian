@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MH-MAGAZIN",
+    "label": "Магазин",
+    "badge": "MH",
+    "description": "Twelve-mission case drill for магазин (shop, store) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MH-MAGAZIN-01",
+        "phrase": "Новый магазин открылся вчера.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form магазин stays unchanged because it is the subject of открылся, the thing that opened. Nominative names the doer of the action, and hard masculine nouns show a bare stem with no ending."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-02",
+        "phrase": "Аптека находится около магазина.",
+        "fullAnalysis": "Strategic focus: Genitive singular. Here магазин becomes магазина, with the ending -а. The preposition около (near) governs the genitive, marking the location beside which the pharmacy stands. This noun declines fully regularly."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-03",
+        "phrase": "Мама идёт к магазину за хлебом.",
+        "fullAnalysis": "Strategic focus: Dative singular. The form магазин becomes магазину with the ending -у. The preposition к (toward) requires the dative to mark the goal of motion. Dative shows the destination, and hard masculine nouns add -у."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-04",
+        "phrase": "Они построили новый магазин.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The form магазин matches the nominative because магазин is inanimate, so its accusative copies the dictionary form. It is the direct object of построили (built), the thing being acted upon."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-05",
+        "phrase": "Перед магазином стоит очередь.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The form магазин becomes магазином, ending in -ом. The preposition перед (in front of) takes the instrumental to show position. Hard masculine nouns form the instrumental singular with -ом."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-06",
+        "phrase": "В этом магазине дешёвые овощи.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The form магазин becomes магазине with the ending -е. The preposition в (in) used for location answers где and requires the prepositional. Hard masculine nouns take -е here."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-07",
+        "phrase": "На этой улице есть магазины.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural магазины is the subject. Hard masculine nouns form the nominative plural with -ы, and this noun keeps its stable root stress in the plural."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-08",
+        "phrase": "В деревне нет больших магазинов.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form магазин becomes магазинов with the ending -ов. The negative existential нет (there is no) governs the genitive. Hard masculine nouns add -ов to form this case."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-09",
+        "phrase": "Курьер развозит товары по магазинам.",
+        "fullAnalysis": "Strategic focus: Dative plural. The form магазин becomes магазинам, ending in -ам. The preposition по (around, from one to another) takes the dative here. The plural dative ending -ам is uniform for hard nouns."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-10",
+        "phrase": "Фирма открыла новые магазины.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The form магазины equals the nominative plural because магазин is inanimate, so the accusative plural copies the nominative. It is the direct object of открыла (opened)."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-11",
+        "phrase": "Между магазинами есть кафе.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The form магазин becomes магазинами, ending in -ами. The preposition между (between) governs the instrumental. The plural instrumental ending -ами is shared across genders."
+      },
+      {
+        "id": "CN-MH-MAGAZIN-12",
+        "phrase": "В крупных магазинах большой выбор.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The form магазин becomes магазинах with the ending -ах. The preposition в for location requires the prepositional case. The plural ending -ах is the same for all hard nouns."
+      }
+    ]
+  }
+]

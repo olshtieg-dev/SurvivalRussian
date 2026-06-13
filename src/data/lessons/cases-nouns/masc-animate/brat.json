@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-MA-BRAT",
+    "label": "Брат",
+    "badge": "MA",
+    "description": "Twelve-mission case drill for брат (brother) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-MA-BRAT-01",
+        "phrase": "Мой старший брат работает врачом.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form брат has a zero ending and names the subject. Here брат is the one who works, so it stands in the nominative as the grammatical subject."
+      },
+      {
+        "id": "CN-MA-BRAT-02",
+        "phrase": "У моего брата есть машина.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative брат adds -а to become брата. Possession with у demands the genitive, marking брата as the owner of the car."
+      },
+      {
+        "id": "CN-MA-BRAT-03",
+        "phrase": "Я подарил брату новую книгу.",
+        "fullAnalysis": "Strategic focus: Dative singular. The ending shifts to -у, giving брату. The verb подарить marks the recipient with the dative, so брату receives the gift."
+      },
+      {
+        "id": "CN-MA-BRAT-04",
+        "phrase": "Я давно не видел брата.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of видеть takes the accusative, but because брат is animate, the accusative copies the genitive: брата. Animacy is why the form ends in -а rather than staying брат."
+      },
+      {
+        "id": "CN-MA-BRAT-05",
+        "phrase": "Я поехал в отпуск с братом.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The ending becomes -ом, producing братом. The preposition с meaning together with requires the instrumental, naming братом as the travelling companion."
+      },
+      {
+        "id": "CN-MA-BRAT-06",
+        "phrase": "Мама часто говорит о брате.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. The ending is -е, giving брате. The preposition о meaning about forces the prepositional, the case for the topic of conversation."
+      },
+      {
+        "id": "CN-MA-BRAT-07",
+        "phrase": "Мои братья живут в Москве.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural is irregular: the stem expands to брать- and takes -я, giving братья. As the ones who live, they stand in the nominative."
+      },
+      {
+        "id": "CN-MA-BRAT-08",
+        "phrase": "У меня нет родных братьев.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The irregular soft stem брать- takes -ев, giving братьев. The word нет signalling absence governs the genitive, marking the missing brothers as братьев."
+      },
+      {
+        "id": "CN-MA-BRAT-09",
+        "phrase": "Я написал письмо своим братьям.",
+        "fullAnalysis": "Strategic focus: Dative plural. The expanded stem братья- takes the dative ending -ям, producing братьям. The recipients of the letter stand in the dative."
+      },
+      {
+        "id": "CN-MA-BRAT-10",
+        "phrase": "Я очень люблю своих братьев.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object of любить would be accusative, but animacy makes the accusative plural copy the genitive plural: братьев. The form matches the genitive, not the nominative братья, because the noun is animate."
+      },
+      {
+        "id": "CN-MA-BRAT-11",
+        "phrase": "Я горжусь своими братьями.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The expanded stem братья- takes -ями, giving братьями. The verb гордиться governs the instrumental, marking братьями as the source of the pride."
+      },
+      {
+        "id": "CN-MA-BRAT-12",
+        "phrase": "Родители заботятся о своих братьях.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. The expanded stem братья- takes the prepositional ending -ях, giving братьях. The preposition о meaning about governs the prepositional, marking братьях as the topic."
+      }
+    ]
+  }
+]

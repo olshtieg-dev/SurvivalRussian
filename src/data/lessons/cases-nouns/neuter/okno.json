@@ -1,0 +1,70 @@
+[
+  {
+    "id": "CN-NT-OKNO",
+    "label": "Окно",
+    "badge": "NT",
+    "description": "Twelve-mission case drill for окно (window) — all six cases, singular and plural.",
+    "missions": [
+      {
+        "id": "CN-NT-OKNO-01",
+        "phrase": "Это окно очень большое.",
+        "fullAnalysis": "Strategic focus: Nominative singular. The dictionary form окно stands as the grammatical subject after Это. Neuter nouns in -о take a bare nominative, and for inanimate neuters this same form also serves as the accusative."
+      },
+      {
+        "id": "CN-NT-OKNO-02",
+        "phrase": "У этого окна нет шторы.",
+        "fullAnalysis": "Strategic focus: Genitive singular. The nominative окно shifts its ending to окна. The genitive is triggered here by the negation нет together with the possessive у; окно is end-stressed in the singular, so the stress falls on the ending."
+      },
+      {
+        "id": "CN-NT-OKNO-03",
+        "phrase": "Кот подошёл к окну тихо.",
+        "fullAnalysis": "Strategic focus: Dative singular. Окно takes the dative ending окну. The preposition к, signalling movement toward a goal, governs the dative. Neuter -о nouns share dative endings with masculine nouns."
+      },
+      {
+        "id": "CN-NT-OKNO-04",
+        "phrase": "Я мою окно каждое утро.",
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of мою appears as окно, identical to the nominative. For inanimate neuter nouns the accusative always equals the nominative, so no ending change occurs."
+      },
+      {
+        "id": "CN-NT-OKNO-05",
+        "phrase": "Под окном стоит старый стол.",
+        "fullAnalysis": "Strategic focus: Instrumental singular. The nominative окно becomes окном. The preposition под, marking a location underneath, takes the instrumental; the singular stress remains on the ending."
+      },
+      {
+        "id": "CN-NT-OKNO-06",
+        "phrase": "На окне лежит рыжая кошка.",
+        "fullAnalysis": "Strategic focus: Prepositional singular. Окно changes to окне after на. The prepositional, here marking location, is the only case that never appears without a preposition; neuter -о nouns take -е."
+      },
+      {
+        "id": "CN-NT-OKNO-07",
+        "phrase": "В доме большие светлые окна.",
+        "fullAnalysis": "Strategic focus: Nominative plural. The plural subject is окна. Neuter nouns form the nominative plural in -а, shifting the stress back onto the stem after the end-stressed singular."
+      },
+      {
+        "id": "CN-NT-OKNO-08",
+        "phrase": "В этой стене нет окон.",
+        "fullAnalysis": "Strategic focus: Genitive plural. The form окон has a bare stem with a fleeting vowel inserted between the consonants. Negation нет triggers the genitive; neuter -о nouns usually take a zero ending in the genitive plural."
+      },
+      {
+        "id": "CN-NT-OKNO-09",
+        "phrase": "Рабочие идут к окнам дома.",
+        "fullAnalysis": "Strategic focus: Dative plural. Окна becomes окнам. The preposition к governs the dative, and the dative plural ending -ам is shared across all genders."
+      },
+      {
+        "id": "CN-NT-OKNO-10",
+        "phrase": "Мы моем окна перед праздником.",
+        "fullAnalysis": "Strategic focus: Accusative plural. The direct object окна matches the nominative plural. Since окно is inanimate, the accusative plural equals the nominative plural with no separate ending."
+      },
+      {
+        "id": "CN-NT-OKNO-11",
+        "phrase": "За окнами шумит сильный дождь.",
+        "fullAnalysis": "Strategic focus: Instrumental plural. The plural окна takes the ending окнами. The preposition за, marking what lies beyond, governs the instrumental; -ами is the universal instrumental plural ending."
+      },
+      {
+        "id": "CN-NT-OKNO-12",
+        "phrase": "В окнах горит тёплый свет.",
+        "fullAnalysis": "Strategic focus: Prepositional plural. Окна shifts to окнах after в. The prepositional plural ending -ах appears for all genders and, like the singular, never stands without a preposition."
+      }
+    ]
+  }
+]
