@@ -38,7 +38,10 @@
       {
         "id": "VB-PONYAT-07",
         "phrase": "Она наконец поняла мою шутку.",
-        "fullAnalysis": "Strategic focus: Feminine past tense. 'Поняла' adds the feminine -а ending and shifts stress to the final syllable, a common irregularity. 'Наконец' marks the long-awaited result."
+        "fullAnalysis": "Strategic focus: Feminine past tense. 'Поняла' adds the feminine -а ending and shifts stress to the final syllable, a common irregularity. 'Наконец' marks the long-awaited result.",
+        "senses": {
+          "мою": "мою́"
+        }
       },
       {
         "id": "VB-PONYAT-08",

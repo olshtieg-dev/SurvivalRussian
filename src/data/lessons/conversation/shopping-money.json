@@ -8,7 +8,10 @@
       {
         "id": "CV-SM-01",
         "phrase": "Сколько стоит эта сумка?",
-        "fullAnalysis": "Strategic focus: asking a price. This is the core shopping question — стоит means costs and сколько means how much. Use it for any item by pointing and naming it, and listen for the number of рублей in the reply."
+        "fullAnalysis": "Strategic focus: asking a price. This is the core shopping question — стоит means costs and сколько means how much. Use it for any item by pointing and naming it, and listen for the number of рублей in the reply.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "CV-SM-02",

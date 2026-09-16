@@ -53,7 +53,10 @@
       {
         "id": "NN-HOUSEHOLD-KOSTYUM-10",
         "phrase": "Сколько стоит этот серый костюм?",
-        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Костюм' is nominative as the subject of 'стоит'. 'Серый' agrees in the masculine nominative, and 'сколько' opens the price question."
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Костюм' is nominative as the subject of 'стоит'. 'Серый' agrees in the masculine nominative, and 'сколько' opens the price question.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       }
     ]
   }

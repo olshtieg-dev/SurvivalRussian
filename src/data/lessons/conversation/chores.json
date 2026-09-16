@@ -8,7 +8,10 @@
       {
         "id": "CV-CH-01",
         "phrase": "Я сейчас мою посуду на кухне.",
-        "fullAnalysis": "Strategic focus: Dishwashing. 'Мою' is a very common first-person household verb, and 'посуду' is a practical object noun learners need constantly. The location на кухне makes the chore feel concrete."
+        "fullAnalysis": "Strategic focus: Dishwashing. 'Мою' is a very common first-person household verb, and 'посуду' is a practical object noun learners need constantly. The location на кухне makes the chore feel concrete.",
+        "senses": {
+          "мою": "мо́ю"
+        }
       },
       {
         "id": "CV-CH-02",

@@ -2,6 +2,37 @@
 
 import React, { useMemo } from 'react';
 import { BookOpen } from 'lucide-react';
+import vocabularyData from '../data/vocabulary.json';
+
+// --- Vocabulary lookup (mirrors normalizeVocabularyKey in page.js) ---------
+
+function normalizeVocabularyKey(text) {
+  if (typeof text !== 'string') return '';
+  return text
+    .normalize('NFC')
+    .toLowerCase()
+    .replace(/[\p{P}\p{S}]+/gu, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+const vocabularyLookup = new Map(
+  Object.keys(vocabularyData).map((key) => [normalizeVocabularyKey(key), key])
+);
+
+function lookupVocabulary(surface) {
+  const norm = normalizeVocabularyKey(surface);
+  if (!norm) return null;
+  const key = vocabularyLookup.get(norm);
+  return key ? vocabularyData[key] : null;
+}
+
+// Trim surrounding punctuation for display while keeping internal hyphens.
+function cleanSurface(surface) {
+  return surface.replace(/^[\p{P}\p{S}]+|[\p{P}\p{S}]+$/gu, '');
+}
+
+// --- fullAnalysis parsing (curated per-token gloss + strategic prose) -------
 
 function parseFullAnalysis(rawAnalysis) {
   const text = typeof rawAnalysis === 'string' ? rawAnalysis.trim() : '';
@@ -57,18 +88,56 @@ function parseTokenChunk(rawChunk) {
   return { token: chunk, tags: '' };
 }
 
-function classifyToken(tags) {
-  const t = tags.toLowerCase();
-  if (/\bverb\b|\b(1sg|2sg|3sg|1pl|2pl|3pl)\b|\bimpf\b|\bperf\b|\bpres\b|\bpast\b|\bfut\b|\binf\b|\bimp\b\.?/.test(t)) return 'verb';
-  if (/proper noun|\bnoun\b/.test(t)) return 'noun';
-  if (/\badj\b|adjective/.test(t)) return 'adj';
-  if (/\bprep\b|preposition/.test(t)) return 'prep';
-  if (/\bpron\b|pronoun/.test(t)) return 'pron';
-  if (/\bconj\b|conjunction/.test(t)) return 'conj';
-  if (/particle|\bptcl\b/.test(t)) return 'particle';
-  if (/adverb|\badv\b/.test(t)) return 'adv';
-  if (/numeral|\bnum\b/.test(t)) return 'num';
-  return 'other';
+// --- POS classification -----------------------------------------------------
+// Works on both curated per-token tags and vocabulary analysis prose, which
+// often name other parts of speech incidentally ("intensifies adjectives",
+// "with infinitive", "after prepositions"). Two rules keep it honest:
+//   1. Nominal / function-word keywords win over verb person-tense markers,
+//      so "1sg pers. pron." is a pronoun, not a verb. Among tier-1 keywords the
+//      earliest one in the text wins, since an entry leads with its own POS.
+//   2. An inflected form ("<case> of LEMMA") is classified by its lemma's own
+//      entry, so "Nom. f. sg. of хороший" is an adjective even though the rest
+//      of the sentence says "Modifies feminine nouns".
+
+function scanPos(text) {
+  const t = (text || '').toLowerCase();
+  const tier1 = [
+    ['conj', /\bconj\b|conjunction/],
+    ['pron', /\bpron\b|pronoun/],
+    ['particle', /\bparticle\b|\bptcl\b/],
+    ['num', /\bnum\b|numeral/],
+    ['prep', /preposition|\bprep\b/],
+    ['adv', /\badv\b|adverb/],
+    ['adj', /\badj\b|adjective/],
+    ['noun', /proper noun|\bnoun\b/],
+  ];
+  let best = null;
+  let bestIdx = Infinity;
+  for (const [pos, re] of tier1) {
+    const m = t.match(re);
+    if (m && m.index < bestIdx) {
+      bestIdx = m.index;
+      best = pos;
+    }
+  }
+  if (best) return best;
+  if (/\bverb\b|\b(1sg|2sg|3sg|1pl|2pl|3pl)\b|\bimpf\b|\bperf\b|present|\bpres\b|past|future|\bfut\b|infinitive|\binf\b|imperative|\bimp\b/.test(t)) {
+    return 'verb';
+  }
+  return null;
+}
+
+function classifyPos(rawTags) {
+  const text = rawTags || '';
+  const inflected = text.match(/\bof\s+([а-яё][а-яё-]*)/i);
+  if (inflected) {
+    const lemma = lookupVocabulary(inflected[1]);
+    if (lemma && lemma.analysis && lemma.analysis !== text) {
+      const fromLemma = scanPos(lemma.analysis);
+      if (fromLemma) return fromLemma;
+    }
+  }
+  return scanPos(text) || 'other';
 }
 
 const POS_STYLES = {
@@ -90,12 +159,50 @@ const POS_LABELS = {
   num: 'NUM', other: 'TOK',
 };
 
+// Build per-token chips from the raw phrase via the vocabulary. Used for every
+// lesson that does not ship a curated Per-token gloss.
+function buildTokensFromPhrase(phrase, focusNorm, senses) {
+  if (typeof phrase !== 'string') return [];
+  return phrase
+    .split(/\s+/)
+    .map((surface) => {
+      const norm = normalizeVocabularyKey(surface);
+      if (!norm) return null; // pure punctuation
+      // Stress-homograph override: use the mission's chosen sense entry.
+      const senseKey = senses && senses[norm];
+      const entry = (senseKey && vocabularyData[senseKey]) || lookupVocabulary(surface);
+      const display = entry?.cyrillic || cleanSurface(surface) || surface;
+      return {
+        token: display,
+        tags: entry?.literal || '',
+        pos: classifyPos(entry?.analysis || ''),
+        isFocus: Boolean(focusNorm) && norm === focusNorm,
+      };
+    })
+    .filter(Boolean);
+}
+
+// Word-by-word literal, joined from each token's gloss. Used as a fallback for
+// lessons that ship no authored `literal` field (everything but the gulag set).
+// Takes the first sense of multi-gloss entries ("still/more" -> "still").
+function buildLiteralFromTokens(tokens) {
+  const parts = tokens
+    .map((tk) => (tk.tags || '').split(/\s*\/\s*/)[0].trim())
+    .filter(Boolean);
+  if (!parts.length) return '';
+  const joined = parts.join(' ').replace(/\s+/g, ' ').trim();
+  const capped = joined.charAt(0).toUpperCase() + joined.slice(1);
+  return /[.?!]$/.test(capped) ? capped : `${capped}.`;
+}
+
 function stripFocusWordPrefix(blurb, focusWord) {
   if (!blurb || !focusWord) return blurb;
   const escaped = focusWord.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const re = new RegExp(`^${escaped}\\s+`, 'i');
   return blurb.replace(re, '').trim();
 }
+
+// --- Sub-renderers ----------------------------------------------------------
 
 function ProseAnalysis({ text }) {
   // Detect numbered list ("1. ... 2. ... 3. ...") and render as ordered list
@@ -141,7 +248,7 @@ function SectionLabel({ children, color = 'emerald' }) {
 }
 
 function PosLegend({ tokens }) {
-  const seen = new Set(tokens.map((tk) => classifyToken(tk.tags)));
+  const seen = new Set(tokens.map((tk) => tk.pos));
   const order = ['noun', 'verb', 'adj', 'pron', 'prep', 'conj', 'particle', 'adv', 'num', 'other'];
   const present = order.filter((pos) => seen.has(pos));
   if (present.length <= 1) return null;
@@ -157,15 +264,75 @@ function PosLegend({ tokens }) {
   );
 }
 
-export default function SentenceStructuralAnalysis({ sentenceData }) {
+function TokenChip({ tk }) {
+  return (
+    <div
+      className={`flex flex-col px-3 py-2 rounded-lg border max-w-[260px] ${POS_STYLES[tk.pos]} ${
+        tk.isFocus ? 'ring-2 ring-emerald-400/70 shadow-lg shadow-emerald-500/10' : ''
+      }`}
+    >
+      <div className="flex items-baseline justify-between gap-2">
+        <span className="text-base font-mono font-bold leading-tight break-words">
+          {tk.token}
+        </span>
+        <span className="text-[9px] font-mono uppercase tracking-wider opacity-60 flex-none">
+          {POS_LABELS[tk.pos]}
+        </span>
+      </div>
+      {tk.tags && (
+        <span className="text-[10px] font-mono leading-snug mt-1 opacity-80">
+          {tk.tags}
+        </span>
+      )}
+    </div>
+  );
+}
+
+// --- Main -------------------------------------------------------------------
+
+export default function SentenceStructuralAnalysis({ sentenceData, lessonLabel, lessonDescription }) {
   const rawAnalysis = sentenceData?.fullAnalysis || '';
+  const phrase = sentenceData?.phrase || '';
   const parsed = useMemo(() => parseFullAnalysis(rawAnalysis), [rawAnalysis]);
+
+  // Focus word: per-mission first, else the lesson card's target word (label),
+  // but only when the label is an actual Russian word we can gloss.
+  const missionFocus = sentenceData?.focusWord || sentenceData?.word || '';
+  const lessonFocus = useMemo(() => {
+    if (!lessonLabel || !/[а-яё]/i.test(lessonLabel)) return '';
+    const inVocab = lessonLabel
+      .split(/\s*\/\s*/)
+      .some((part) => lookupVocabulary(part));
+    return inVocab ? lessonLabel : '';
+  }, [lessonLabel]);
+  const focusWord = missionFocus || lessonFocus;
+  const focusNorm = normalizeVocabularyKey(focusWord.split(/\s*\/\s*/)[0] || '');
+
+  // Per-token chips: prefer the curated gloss, otherwise generate from vocab.
+  const tokens = useMemo(() => {
+    if (parsed.mode === 'per-token' && parsed.tokens.length > 0) {
+      return parsed.tokens.map((tk) => ({
+        token: tk.token,
+        tags: tk.tags,
+        pos: classifyPos(tk.tags),
+        isFocus: normalizeVocabularyKey(tk.token) === focusNorm && Boolean(focusNorm),
+      }));
+    }
+    return buildTokensFromPhrase(phrase, focusNorm, sentenceData?.senses);
+  }, [parsed, phrase, focusNorm, sentenceData?.senses]);
 
   if (!sentenceData) return null;
 
-  const focusWord = sentenceData.focusWord || sentenceData.word || '';
-  const literal = sentenceData.literal || '';
-  const blurb = stripFocusWordPrefix(parsed.focusBlurb || '', focusWord);
+  const curatedBlurb = stripFocusWordPrefix(parsed.focusBlurb || '', focusWord);
+  const focusEntry = focusWord ? lookupVocabulary(focusWord) : null;
+  const blurb = curatedBlurb || focusEntry?.natural || focusEntry?.literal || lessonDescription || '';
+  const literal =
+    sentenceData.literal ||
+    (parsed.mode !== 'per-token' ? buildLiteralFromTokens(tokens) : '');
+
+  const hasDeeperAnalysis =
+    (parsed.mode === 'per-token' && parsed.pedNote) ||
+    ((parsed.mode === 'strategic' || parsed.mode === 'prose') && parsed.text);
 
   return (
     <div className="w-full max-w-4xl mt-12 animate-in slide-in-from-bottom duration-700">
@@ -196,35 +363,15 @@ export default function SentenceStructuralAnalysis({ sentenceData }) {
           </section>
         )}
 
-        {parsed.mode === 'per-token' && parsed.tokens.length > 0 && (
+        {tokens.length > 0 && (
           <section>
             <SectionLabel color="blue">Per-token gloss</SectionLabel>
             <div className="flex flex-wrap gap-2">
-              {parsed.tokens.map((tk, i) => {
-                const pos = classifyToken(tk.tags);
-                return (
-                  <div
-                    key={i}
-                    className={`flex flex-col px-3 py-2 rounded-lg border max-w-[260px] ${POS_STYLES[pos]}`}
-                  >
-                    <div className="flex items-baseline justify-between gap-2">
-                      <span className="text-base font-mono font-bold leading-tight break-words">
-                        {tk.token}
-                      </span>
-                      <span className="text-[9px] font-mono uppercase tracking-wider opacity-60 flex-none">
-                        {POS_LABELS[pos]}
-                      </span>
-                    </div>
-                    {tk.tags && (
-                      <span className="text-[10px] font-mono leading-snug mt-1 opacity-80">
-                        {tk.tags}
-                      </span>
-                    )}
-                  </div>
-                );
-              })}
+              {tokens.map((tk, i) => (
+                <TokenChip key={i} tk={tk} />
+              ))}
             </div>
-            <PosLegend tokens={parsed.tokens} />
+            <PosLegend tokens={tokens} />
           </section>
         )}
 
@@ -237,7 +384,7 @@ export default function SentenceStructuralAnalysis({ sentenceData }) {
           </section>
         )}
 
-        {(parsed.mode === 'strategic' || parsed.mode === 'prose') && (
+        {(parsed.mode === 'strategic' || parsed.mode === 'prose') && parsed.text && (
           <section>
             <SectionLabel color="amber">Analysis</SectionLabel>
             <ProseAnalysis text={parsed.text} />

@@ -38,7 +38,10 @@
       {
         "id": "VB-VZYAT-07",
         "phrase": "Он взял мою книгу без спроса.",
-        "fullAnalysis": "Strategic focus: Masculine past tense. 'Взял' is the masculine singular past of perfective взять, built on the short past stem вз- with -л. It reports one completed taking fixed in the past."
+        "fullAnalysis": "Strategic focus: Masculine past tense. 'Взял' is the masculine singular past of perfective взять, built on the short past stem вз- with -л. It reports one completed taking fixed in the past.",
+        "senses": {
+          "мою": "мою́"
+        }
       },
       {
         "id": "VB-VZYAT-08",

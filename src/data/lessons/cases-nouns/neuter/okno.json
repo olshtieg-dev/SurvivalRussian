@@ -23,7 +23,10 @@
       {
         "id": "CN-NT-OKNO-04",
         "phrase": "Я мою окно каждое утро.",
-        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of мою appears as окно, identical to the nominative. For inanimate neuter nouns the accusative always equals the nominative, so no ending change occurs."
+        "fullAnalysis": "Strategic focus: Accusative singular. The direct object of мою appears as окно, identical to the nominative. For inanimate neuter nouns the accusative always equals the nominative, so no ending change occurs.",
+        "senses": {
+          "мою": "мо́ю"
+        }
       },
       {
         "id": "CN-NT-OKNO-05",

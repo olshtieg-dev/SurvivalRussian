@@ -38,7 +38,10 @@
       {
         "id": "AD-MANNER-DEISTVITELNO-07",
         "phrase": "Этот фильм действительно стоит посмотреть.",
-        "fullAnalysis": "Strategic focus: Genuine recommendation. 'Действительно' modifies 'стоит', confirming the film is truly worth watching. It boosts the strength of the advice."
+        "fullAnalysis": "Strategic focus: Genuine recommendation. 'Действительно' modifies 'стоит', confirming the film is truly worth watching. It boosts the strength of the advice.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "AD-MANNER-DEISTVITELNO-08",

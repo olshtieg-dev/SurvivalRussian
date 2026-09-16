@@ -68,7 +68,10 @@
       {
         "id": "LX-TY-13",
         "phrase": "Зачем ты берёшь мою книгу?",
-        "fullAnalysis": "Strategic focus: Taking an object. 'Берёшь' shows the second-person present of 'брать' with its -ёшь ending. 'Мою книгу' is the object being taken, and 'зачем' frames it as a real, slightly annoyed question."
+        "fullAnalysis": "Strategic focus: Taking an object. 'Берёшь' shows the second-person present of 'брать' with its -ёшь ending. 'Мою книгу' is the object being taken, and 'зачем' frames it as a real, slightly annoyed question.",
+        "senses": {
+          "мою": "мою́"
+        }
       },
       {
         "id": "LX-TY-14",

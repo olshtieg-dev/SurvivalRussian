@@ -53,7 +53,10 @@
       {
         "id": "NN-STRUCT-POLOVINA-10",
         "phrase": "Сколько стоит половина торта?",
-        "fullAnalysis": "Strategic focus: Nominative subject. 'Половина' is feminine nominative as the subject of the price question. 'Торта' is the genitive marking the whole cake."
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Половина' is feminine nominative as the subject of the price question. 'Торта' is the genitive marking the whole cake.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       }
     ]
   }

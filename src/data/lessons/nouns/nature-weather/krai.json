@@ -48,7 +48,10 @@
       {
         "id": "NN-NATURE-KRAI-09",
         "phrase": "Эти края очень красивы.",
-        "fullAnalysis": "Strategic focus: Nominative plural. 'Края' is the nominative plural of 'край', the subject. 'Эти' agrees in the plural and 'красивы' is the short adjective praising the region."
+        "fullAnalysis": "Strategic focus: Nominative plural. 'Края' is the nominative plural of 'край', the subject. 'Эти' agrees in the plural and 'красивы' is the short adjective praising the region.",
+        "senses": {
+          "края": "края́"
+        }
       },
       {
         "id": "NN-NATURE-KRAI-10",

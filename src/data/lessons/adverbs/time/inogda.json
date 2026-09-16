@@ -53,7 +53,10 @@
       {
         "id": "AD-TIME-INOGDA-10",
         "phrase": "Иногда стоит рискнуть.",
-        "fullAnalysis": "Strategic focus: Now and then. 'Иногда' qualifies a general maxim, modifying the predicate 'стоит рискнуть'. It says taking a risk is worthwhile in some situations, not always."
+        "fullAnalysis": "Strategic focus: Now and then. 'Иногда' qualifies a general maxim, modifying the predicate 'стоит рискнуть'. It says taking a risk is worthwhile in some situations, not always.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       }
     ]
   }

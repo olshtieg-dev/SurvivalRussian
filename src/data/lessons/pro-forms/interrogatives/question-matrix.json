@@ -274,7 +274,10 @@
       {
         "id": "PF-Q-SKOLKO-05",
         "phrase": "Сколько это всё стоит?",
-        "fullAnalysis": "Strategic focus: Price. 'Сколько' asks the amount and pairs with the verb 'стоит' to request a price. 'Это всё' bundles the items, giving the everyday checkout question."
+        "fullAnalysis": "Strategic focus: Price. 'Сколько' asks the amount and pairs with the verb 'стоит' to request a price. 'Это всё' bundles the items, giving the everyday checkout question.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "PF-Q-SKOLKO-06",
@@ -289,7 +292,10 @@
       {
         "id": "PF-Q-SKOLKO-08",
         "phrase": "Сколько стоит билет до Москвы?",
-        "fullAnalysis": "Strategic focus: Price. 'Сколько стоит' asks the cost, and the priced thing 'билет' stays nominative as the subject of 'стоит'. 'До Москвы' makes it a real ticket-counter question."
+        "fullAnalysis": "Strategic focus: Price. 'Сколько стоит' asks the cost, and the priced thing 'билет' stays nominative as the subject of 'стоит'. 'До Москвы' makes it a real ticket-counter question.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       }
     ]
   },

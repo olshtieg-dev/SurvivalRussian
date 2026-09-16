@@ -38,7 +38,10 @@
       {
         "id": "NN-WORK-TYSYACHA-07",
         "phrase": "Билет стоит почти две тысячи.",
-        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'две', the noun takes 'тысячи', the genitive singular used with two. 'Билет' is the subject."
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'две', the noun takes 'тысячи', the genitive singular used with two. 'Билет' is the subject.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "NN-WORK-TYSYACHA-08",

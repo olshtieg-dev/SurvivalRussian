@@ -13,7 +13,10 @@
       {
         "id": "NN-BODY-VOLOS-02",
         "phrase": "Утром я мою волосы.",
-        "fullAnalysis": "Strategic focus: Accusative plural. 'Волосы' is the accusative plural direct object of 'мою'; for this inanimate noun the accusative equals the nominative plural. 'Утром' adds the time. A daily-routine pattern."
+        "fullAnalysis": "Strategic focus: Accusative plural. 'Волосы' is the accusative plural direct object of 'мою'; for this inanimate noun the accusative equals the nominative plural. 'Утром' adds the time. A daily-routine pattern.",
+        "senses": {
+          "мою": "мо́ю"
+        }
       },
       {
         "id": "NN-BODY-VOLOS-03",

@@ -8,12 +8,18 @@
       {
         "id": "NN-MOTION-ZAMOK-01",
         "phrase": "Старый замок стоит на холме.",
-        "fullAnalysis": "Strategic focus: Nominative subject. 'Замок' is the masculine nominative subject of 'стоит'. 'Старый' is the agreeing masculine adjective, and 'на холме' is the prepositional location. A clean descriptive sentence."
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Замок' is the masculine nominative subject of 'стоит'. 'Старый' is the agreeing masculine adjective, and 'на холме' is the prepositional location. A clean descriptive sentence.",
+        "senses": {
+          "замок": "за́мок"
+        }
       },
       {
         "id": "NN-MOTION-ZAMOK-02",
         "phrase": "Туристы посетили древний замок.",
-        "fullAnalysis": "Strategic focus: Accusative object. 'Замок' is the accusative direct object of 'посетили'. Because it is an inanimate masculine noun, the accusative matches the nominative. 'Древний' agrees in the masculine accusative."
+        "fullAnalysis": "Strategic focus: Accusative object. 'Замок' is the accusative direct object of 'посетили'. Because it is an inanimate masculine noun, the accusative matches the nominative. 'Древний' agrees in the masculine accusative.",
+        "senses": {
+          "замок": "за́мок"
+        }
       },
       {
         "id": "NN-MOTION-ZAMOK-03",
@@ -53,7 +59,10 @@
       {
         "id": "NN-MOTION-ZAMOK-10",
         "phrase": "Этот замок больше соседнего.",
-        "fullAnalysis": "Strategic focus: Nominative comparison. 'Замок' stays nominative as the subject. 'Этот' points at a specific one, and 'больше соседнего' uses the genitive 'соседнего' in a comparison. Strong for comparative practice."
+        "fullAnalysis": "Strategic focus: Nominative comparison. 'Замок' stays nominative as the subject. 'Этот' points at a specific one, and 'больше соседнего' uses the genitive 'соседнего' in a comparison. Strong for comparative practice.",
+        "senses": {
+          "замок": "за́мок"
+        }
       }
     ]
   }

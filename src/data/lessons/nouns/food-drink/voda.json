@@ -28,7 +28,10 @@
       {
         "id": "NN-FOOD-VODA-05",
         "phrase": "Я мою руки тёплой водой.",
-        "fullAnalysis": "Strategic focus: Instrumental of means. 'Водой' is the instrumental form, the means of washing. 'Тёплой' agrees in the feminine instrumental."
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Водой' is the instrumental form, the means of washing. 'Тёплой' agrees in the feminine instrumental.",
+        "senses": {
+          "мою": "мо́ю"
+        }
       },
       {
         "id": "NN-FOOD-VODA-06",

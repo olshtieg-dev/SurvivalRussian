@@ -8,7 +8,10 @@
       {
         "id": "NN-HOUSEHOLD-BILET-01",
         "phrase": "Этот билет стоит очень дорого.",
-        "fullAnalysis": "Strategic focus: Nominative subject. 'Билет' stays in the nominative as the subject of 'стоит'. 'Этот' is the agreeing masculine demonstrative, and 'дорого' describes the price. A clean model for a masculine noun."
+        "fullAnalysis": "Strategic focus: Nominative subject. 'Билет' stays in the nominative as the subject of 'стоит'. 'Этот' is the agreeing masculine demonstrative, and 'дорого' describes the price. A clean model for a masculine noun.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "NN-HOUSEHOLD-BILET-02",

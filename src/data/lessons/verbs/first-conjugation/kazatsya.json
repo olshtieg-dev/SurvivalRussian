@@ -53,7 +53,10 @@
       {
         "id": "VB-KAZATSYA-10",
         "phrase": "Не стоит казаться лучше, чем ты есть.",
-        "fullAnalysis": "Strategic focus: Modal infinitive use, reflexive. 'Стоит' governs the bare infinitive 'казаться'. The phrase warns against seeming better than one really is."
+        "fullAnalysis": "Strategic focus: Modal infinitive use, reflexive. 'Стоит' governs the bare infinitive 'казаться'. The phrase warns against seeming better than one really is.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       }
     ]
   }

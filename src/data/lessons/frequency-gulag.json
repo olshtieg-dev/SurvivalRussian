@@ -1872,7 +1872,10 @@
       "word": "сколько",
       "phrase": "Сколько стоит этот красивый билет?",
       "fullAnalysis": "Focus word: сколько (interr./rel. quantifier, 'how many/much'; governs gen. of the counted noun). Per-token: Сколько (interr. quant., subject of impersonal predicate) | стоит (impf. pres. 3sg of стоить, 'costs') | этот (dem. pron., m.nom.sg., agrees with билет) | красивый (adj., m.nom.sg.) | билет (m. noun, nom.sg., subject). 'Сколько стоит + nom.' is the standard 'how much does X cost?' formula. Сколько here functions as a question word, not as a quantifier of a separate noun.",
-      "literal": "How much does this beautiful ticket cost?"
+      "literal": "How much does this beautiful ticket cost?",
+      "senses": {
+        "стоит": "сто́ит"
+      }
     },
     {
       "id": "FG-0235",
@@ -2424,7 +2427,10 @@
       "word": "тысяча",
       "phrase": "Эта книга стоит тысячу рублей.",
       "fullAnalysis": "Focus word: тысяча (f. noun, 'thousand'; declines like a regular f. noun). Per-token: Эта (dem. adj., f.nom.sg.) | книга (f. noun, nom.sg., subject) | стоит (3sg pres. of стоить, 'to cost') | тысячу (f. noun, acc.sg., direct object) | рублей (m. noun, gen.pl. of рубль). Numerals like тысяча govern gen.pl. for the counted noun.",
-      "literal": "This book costs a thousand rubles."
+      "literal": "This book costs a thousand rubles.",
+      "senses": {
+        "стоит": "сто́ит"
+      }
     },
     {
       "id": "FG-0304",
@@ -2752,7 +2758,10 @@
       "word": "пытаться",
       "phrase": "Не стоит пытаться обмануть его.",
       "fullAnalysis": "Focus word: пытаться (refl. impf. verb, 'to try/attempt'; perf. попытаться). Per-token: Не (neg. particle) | стоит (3sg pres. of стоить, here impersonal 'it's worth') | пытаться (refl. impf. inf., complement) | обмануть (perf. inf., 'to deceive') | его (3sg.m pers. pron., acc., direct object). 'Не стоит + inf.' is a common impersonal construction meaning 'it's not worth (doing)'.",
-      "literal": "It's not worth trying to deceive him."
+      "literal": "It's not worth trying to deceive him.",
+      "senses": {
+        "стоит": "сто́ит"
+      }
     },
     {
       "id": "FG-0345",
@@ -4760,7 +4769,10 @@
       "word": "кстати",
       "phrase": "Кстати, ты видел мою сестру?",
       "fullAnalysis": "Focus word: кстати (parenthetical adv., 'by the way'). Per-token: Кстати (parenthetical adv., topic shifter) | ты (2sg pers. pron., nom.) | видел (impf. past m.sg. of видеть, 'to see') | мою (poss. pron., f.acc.sg.) | сестру (f. noun, acc.sg. of сестра, animate, direct object). Кстати is set off by a comma; for f.sg. animate nouns ending in -а, acc. is -у.",
-      "literal": "By the way, have you seen my sister?"
+      "literal": "By the way, have you seen my sister?",
+      "senses": {
+        "мою": "мою́"
+      }
     },
     {
       "id": "FG-0596",
@@ -4912,7 +4924,10 @@
       "word": "сто",
       "phrase": "Билет стоит сто рублей.",
       "fullAnalysis": "Focus word: сто (cardinal numeral, '100'; nom./acc. сто, oblique ста). Per-token: Билет (m. noun, nom.sg., subject) | стоит (impf. 3sg.pres. of стоить, 'to cost') | сто (numeral, acc.sg.) | рублей (m. noun, gen.pl. of рубль). Numerals from пять upward in nom./acc. govern the genitive plural.",
-      "literal": "The ticket costs a hundred rubles."
+      "literal": "The ticket costs a hundred rubles.",
+      "senses": {
+        "стоит": "сто́ит"
+      }
     },
     {
       "id": "FG-0615",
@@ -5528,7 +5543,10 @@
       "word": "железный",
       "phrase": "У ворот стоит железный замок.",
       "fullAnalysis": "Focus word: железный (rel. adj., 'iron/made of iron'; standard hard adjective). Per-token: У (prep., + gen. for spatial proximity) | ворот (m. noun, gen.pl. of ворота, plurale tantum) | стоит (impf. 3sg.pres. of стоять, 'to stand') | железный (adj., m.nom.sg., agrees with замок) | замок (m. noun, nom.sg., subject). Ворота is plurale tantum: only plural forms, gen.pl. ворот.",
-      "literal": "There's an iron lock at the gate."
+      "literal": "There's an iron lock at the gate.",
+      "senses": {
+        "замок": "замо́к"
+      }
     },
     {
       "id": "FG-0692",

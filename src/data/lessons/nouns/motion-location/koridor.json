@@ -13,7 +13,10 @@
       {
         "id": "NN-MOTION-KORIDOR-02",
         "phrase": "Я мою коридор каждую субботу.",
-        "fullAnalysis": "Strategic focus: Accusative object. 'Коридор' is the accusative direct object of 'мою'; for this inanimate masculine noun the accusative equals the nominative. 'Каждую субботу' is an accusative time phrase."
+        "fullAnalysis": "Strategic focus: Accusative object. 'Коридор' is the accusative direct object of 'мою'; for this inanimate masculine noun the accusative equals the nominative. 'Каждую субботу' is an accusative time phrase.",
+        "senses": {
+          "мою": "мо́ю"
+        }
       },
       {
         "id": "NN-MOTION-KORIDOR-03",

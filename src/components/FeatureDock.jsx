@@ -1,10 +1,11 @@
 'use client';
 
 import React, { useEffect, useMemo, useRef, useState } from 'react';
-import { FlaskConical, Keyboard, Lock, MessageSquare, X } from 'lucide-react';
+import { FlaskConical, Keyboard, Lock, MessageSquare, ScrollText, X } from 'lucide-react';
 import TypingTutorContainer from './TypingTutorContainer';
 import ChatroomPanel from './ChatroomPanel';
 import AiInputPanel from './AiInputPanel';
+import PassageReader from './PassageReader';
 
 const featureDefinitions = [
   {
@@ -21,6 +22,16 @@ const featureDefinitions = [
       'Word replay after each small success to reinforce rhythm and recall.',
       'Designed to be simple on purpose, not clever.',
     ],
+  },
+  {
+    id: 'passages',
+    label: 'Passage Reader',
+    shortLabel: 'Read',
+    title: 'Open passage reader',
+    icon: ScrollText,
+    accent: 'emerald',
+    description:
+      'Type through whole paragraphs, book passages, and Russian Orthodox prayers with an interlinear English gloss under every word.',
   },
   {
     id: 'ai',
@@ -149,9 +160,11 @@ export default function FeatureDock({ openSignal = 0, openFeatureId = 'typing', 
               ? 'max-w-6xl'
               : activeFeature.id === 'chat'
                 ? 'max-w-6xl'
-                : activeFeature.id === 'ai'
-                  ? 'max-w-3xl'
-                  : 'max-w-lg'
+                : activeFeature.id === 'passages'
+                  ? 'max-w-5xl'
+                  : activeFeature.id === 'ai'
+                    ? 'max-w-3xl'
+                    : 'max-w-lg'
           }`}>
             <div className="flex items-center justify-between border-b border-slate-800 bg-slate-900/80 px-5 py-4">
               <div className="flex items-center gap-3">
@@ -187,6 +200,10 @@ export default function FeatureDock({ openSignal = 0, openFeatureId = 'typing', 
             ) : activeFeature.id === 'chat' ? (
               <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar">
                 <ChatroomPanel />
+              </div>
+            ) : activeFeature.id === 'passages' ? (
+              <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar">
+                <PassageReader />
               </div>
             ) : activeFeature.id === 'ai' ? (
               <div className="max-h-[calc(100vh-8rem)] overflow-y-auto custom-scrollbar p-6">

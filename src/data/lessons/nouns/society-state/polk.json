@@ -48,7 +48,10 @@
       {
         "id": "NN-STATE-POLK-09",
         "phrase": "На параде шли разные полки.",
-        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Полки' is the nominative plural subject of 'шли'. 'Разные' agrees, and 'на параде' is the prepositional location."
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Полки' is the nominative plural subject of 'шли'. 'Разные' agrees, and 'на параде' is the prepositional location.",
+        "senses": {
+          "полки": "полки́"
+        }
       },
       {
         "id": "NN-STATE-POLK-10",

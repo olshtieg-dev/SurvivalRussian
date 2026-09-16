@@ -28,7 +28,10 @@
       {
         "id": "NN-EVENT-OSHIBKA-05",
         "phrase": "Учитель указал на мою ошибку.",
-        "fullAnalysis": "Strategic focus: Accusative after 'указать на'. 'Ошибку' is the accusative governed by 'на', expressing what was pointed out. 'Мою' agrees in the feminine accusative."
+        "fullAnalysis": "Strategic focus: Accusative after 'указать на'. 'Ошибку' is the accusative governed by 'на', expressing what was pointed out. 'Мою' agrees in the feminine accusative.",
+        "senses": {
+          "мою": "мою́"
+        }
       },
       {
         "id": "NN-EVENT-OSHIBKA-06",

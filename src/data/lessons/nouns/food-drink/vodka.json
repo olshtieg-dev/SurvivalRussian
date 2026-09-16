@@ -38,7 +38,10 @@
       {
         "id": "NN-FOOD-VODKA-07",
         "phrase": "Бутылка водки стоит дорого.",
-        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Водки' is the genitive after 'бутылка', describing what the bottle contains. 'Дорого' gives the price judgement."
+        "fullAnalysis": "Strategic focus: Genitive of quantity. 'Водки' is the genitive after 'бутылка', describing what the bottle contains. 'Дорого' gives the price judgement.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "NN-FOOD-VODKA-08",

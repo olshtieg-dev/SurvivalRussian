@@ -66,11 +66,21 @@ function getStartingWordKey(missions) {
   return getVocabularyKeyForPhrase(phrase);
 }
 
-function getCursorWordKey(phrase, currentWordIndex = 0) {
+// Per-mission stress-homograph override: a mission may carry a `senses` map
+// { "<bare token>": "<accented vocabulary key>" } so a colliding spelling
+// (стоит = costs/stands) resolves to the correct sense in context.
+function resolveSenseKey(senses, word) {
+  if (!senses || typeof senses !== 'object') return '';
+  const key = senses[normalizeVocabularyKey(word)];
+  return key && vocabularyData[key] ? key : '';
+}
+
+function getCursorWordKey(phrase, currentWordIndex = 0, senses = null) {
   const wordsInPhrase = typeof phrase === 'string' ? phrase.split(' ') : [];
   const targetWord = wordsInPhrase[currentWordIndex] || wordsInPhrase[0] || '';
 
   return (
+    resolveSenseKey(senses, targetWord) ||
     findVocabularyKey(targetWord) ||
     normalizeVocabularyKey(targetWord) ||
     targetWord
@@ -121,6 +131,7 @@ export default function Home() {
   const [isMissionComplete, setIsMissionComplete] = useState(false);
   const [selectedMorphologyModuleId, setSelectedMorphologyModuleId] = useState(defaultMorphologyModuleId);
   const [voiceMode, setVoiceMode] = useState('echo');
+  const [voiceVolume, setVoiceVolume] = useState(1);
   const [lastPlayedIndex, setLastPlayedIndex] = useState(-1);
   const [voiceFeedback, setVoiceFeedback] = useState({ transcript: '', analysis: '' });
   const curriculum = useCurriculum();
@@ -158,9 +169,11 @@ export default function Home() {
     const nextMission = missionList[index] || {};
     const focusWord = nextMission.focusWord || nextMission.word || '';
     const nextPhrase = nextMission.phrase || '';
+    const senses = nextMission.senses;
     const nextWordKey = lessonSetId === frequencyGulagLessonSetId
-      ? getCursorWordKey(nextPhrase, 0)
-      : findVocabularyKey(focusWord) ||
+      ? getCursorWordKey(nextPhrase, 0, senses)
+      : resolveSenseKey(senses, nextPhrase.split(' ')[0] || '') ||
+        findVocabularyKey(focusWord) ||
         focusWord ||
         getVocabularyKeyForPhrase(nextPhrase) ||
         normalizeVocabularyKey(nextPhrase.split(' ')[0] || '') ||
@@ -276,6 +289,10 @@ export default function Home() {
           ['model', 'echo', 'silent'].includes(persistedState.voiceMode)
             ? persistedState.voiceMode
             : 'echo';
+        const restoredVoiceVolume =
+          typeof persistedState.voiceVolume === 'number'
+            ? Math.min(1, Math.max(0, persistedState.voiceVolume))
+            : 1;
         const restoredSurface =
           persistedState.activeSurface === 'morphology' ? 'morphology' : 'typing';
 
@@ -285,6 +302,7 @@ export default function Home() {
         setActiveSurface(restoredSurface);
         setSelectedMorphologyModuleId(restoredMorphologyModule.id);
         setVoiceMode(restoredVoiceMode);
+        setVoiceVolume(restoredVoiceVolume);
         setIsQuickGuideVisible(
           typeof persistedState.isQuickGuideVisible === 'boolean'
             ? persistedState.isQuickGuideVisible
@@ -317,6 +335,7 @@ export default function Home() {
           activeSurface,
           selectedMorphologyModuleId,
           voiceMode,
+          voiceVolume,
           isQuickGuideVisible,
         })
       );
@@ -332,6 +351,7 @@ export default function Home() {
     selectedLessonSetId,
     selectedMorphologyModuleId,
     voiceMode,
+    voiceVolume,
   ]);
 
   useEffect(() => {
@@ -429,6 +449,7 @@ export default function Home() {
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = 'ru-RU';
       utterance.rate = 0.85;
+      utterance.volume = voiceVolume;
       window.speechSynthesis.speak(utterance);
     }
   };
@@ -458,13 +479,15 @@ export default function Home() {
       }
     }
 
+    const senses = currentMission?.senses;
     if (selectedLessonSetId === frequencyGulagLessonSetId) {
-      const matchedWordKey = getCursorWordKey(currentPhrase, currentWordIndex);
+      const matchedWordKey = getCursorWordKey(currentPhrase, currentWordIndex, senses);
       if (matchedWordKey) {
         setActiveWordKey(matchedWordKey);
       }
     } else {
       const matchedWordKey =
+        resolveSenseKey(senses, targetWord) ||
         findVocabularyKey(currentPhrase) ||
         findVocabularyKey(targetWord) ||
         normalizeVocabularyKey(targetWord) ||
@@ -666,6 +689,21 @@ export default function Home() {
                   </button>
                 );
               })}
+
+              <div className="flex justify-center mt-1 h-24">
+                <input
+                  type="range"
+                  min={0}
+                  max={1}
+                  step={0.05}
+                  value={voiceVolume}
+                  onChange={(event) => setVoiceVolume(Number(event.target.value))}
+                  title={`Playback volume: ${Math.round(voiceVolume * 100)}%`}
+                  aria-label="Playback volume"
+                  style={{ writingMode: 'vertical-lr', direction: 'rtl' }}
+                  className="w-1 h-24 accent-blue-500 cursor-pointer"
+                />
+              </div>
             </div>
           </>
         )}
@@ -710,7 +748,11 @@ export default function Home() {
             <div className="w-full flex items-start justify-center gap-4 2xl:-mx-44">
               <AdSlot label="AD" />
               <div className="flex-1 min-w-0">
-                <SentenceStructuralAnalysis sentenceData={currentMission} />
+                <SentenceStructuralAnalysis
+                  sentenceData={currentMission}
+                  lessonLabel={currentLessonSet?.label}
+                  lessonDescription={currentLessonSet?.description}
+                />
                 <div className={`transition-all duration-700 ${isMissionComplete ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-2 pointer-events-none h-0 overflow-hidden'}`}>
                   <div className="flex justify-center items-center gap-4 mt-8">
                     <div className="h-[1px] w-20 bg-gradient-to-r from-transparent to-blue-500/50" />

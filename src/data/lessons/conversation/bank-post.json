@@ -38,7 +38,10 @@
       {
         "id": "CV-BP-07",
         "phrase": "Сколько стоит марка на письмо?",
-        "fullAnalysis": "Strategic focus: asking about postage. The word марка is a stamp and письмо is a letter. Use сколько стоит to ask the price of the stamp."
+        "fullAnalysis": "Strategic focus: asking about postage. The word марка is a stamp and письмо is a letter. Use сколько стоит to ask the price of the stamp.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "CV-BP-08",

@@ -8,7 +8,10 @@
       {
         "id": "AD-QUANTITY-SKOLKO-01",
         "phrase": "Сколько стоит этот билет?",
-        "fullAnalysis": "Strategic focus: Asking a price. 'Сколько' opens a question about quantity, here the cost of a ticket. With 'стоит' it forms the standard way to ask how much something costs."
+        "fullAnalysis": "Strategic focus: Asking a price. 'Сколько' opens a question about quantity, here the cost of a ticket. With 'стоит' it forms the standard way to ask how much something costs.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "AD-QUANTITY-SKOLKO-02",
@@ -28,7 +31,10 @@
       {
         "id": "AD-QUANTITY-SKOLKO-05",
         "phrase": "Я не знаю, сколько это стоит.",
-        "fullAnalysis": "Strategic focus: Embedded indirect question. 'Сколько' introduces a subordinate clause about the price after 'я не знаю'. As a connector it carries the question word into reported speech."
+        "fullAnalysis": "Strategic focus: Embedded indirect question. 'Сколько' introduces a subordinate clause about the price after 'я не знаю'. As a connector it carries the question word into reported speech.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "AD-QUANTITY-SKOLKO-06",

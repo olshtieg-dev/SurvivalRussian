@@ -18,7 +18,10 @@
       {
         "id": "CV-HL-03",
         "phrase": "Сколько стоит номер за ночь?",
-        "fullAnalysis": "Strategic focus: asking the nightly price. Сколько стоит is the everyday way to ask the cost of something. Here за ночь specifies that you want the price per night for the номер."
+        "fullAnalysis": "Strategic focus: asking the nightly price. Сколько стоит is the everyday way to ask the cost of something. Here за ночь specifies that you want the price per night for the номер.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "CV-HL-04",

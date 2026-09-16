@@ -13,7 +13,10 @@
       {
         "id": "NN-MIND-DUSHA-02",
         "phrase": "Музыка трогает мою душу.",
-        "fullAnalysis": "Strategic focus: Accusative direct object. 'Душу' is the accusative object of 'трогает'. 'Мою' agrees in the feminine accusative, and 'музыка' is the nominative subject."
+        "fullAnalysis": "Strategic focus: Accusative direct object. 'Душу' is the accusative object of 'трогает'. 'Мою' agrees in the feminine accusative, and 'музыка' is the nominative subject.",
+        "senses": {
+          "мою": "мою́"
+        }
       },
       {
         "id": "NN-MIND-DUSHA-03",

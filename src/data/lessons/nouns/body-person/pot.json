@@ -33,7 +33,10 @@
       {
         "id": "NN-BODY-POT-06",
         "phrase": "Он работал и обливался потом.",
-        "fullAnalysis": "Strategic focus: Instrumental of means. 'Потом' is instrumental in the idiom 'обливаться потом', to be drenched in sweat. The masculine instrumental ending is -ом."
+        "fullAnalysis": "Strategic focus: Instrumental of means. 'Потом' is instrumental in the idiom 'обливаться потом', to be drenched in sweat. The masculine instrumental ending is -ом.",
+        "senses": {
+          "потом": "по́том"
+        }
       },
       {
         "id": "NN-BODY-POT-07",

@@ -53,7 +53,10 @@
       {
         "id": "NN-HOUSEHOLD-PLATE-10",
         "phrase": "Сколько стоит это платье?",
-        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Платье' is the nominative subject of 'стоит'. 'Это' agrees in the neuter, and 'сколько' asks the price. A practical shopping question."
+        "fullAnalysis": "Strategic focus: Nominative subject in a question. 'Платье' is the nominative subject of 'стоит'. 'Это' agrees in the neuter, and 'сколько' asks the price. A practical shopping question.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       }
     ]
   }

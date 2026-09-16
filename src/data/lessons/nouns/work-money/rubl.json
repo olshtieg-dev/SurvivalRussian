@@ -38,7 +38,10 @@
       {
         "id": "NN-WORK-RUBL-07",
         "phrase": "Хлеб стоит сорок два рубля.",
-        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'два', the noun takes 'рубля', the genitive singular used with two, three, and four. 'Хлеб' is the subject."
+        "fullAnalysis": "Strategic focus: Genitive singular after a number. After 'два', the noun takes 'рубля', the genitive singular used with two, three, and four. 'Хлеб' is the subject.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "NN-WORK-RUBL-08",
@@ -53,7 +56,10 @@
       {
         "id": "NN-WORK-RUBL-10",
         "phrase": "Этот сувенир стоит один рубль.",
-        "fullAnalysis": "Strategic focus: Accusative of price. 'Рубль' is the accusative used to state the cost; with 'один' the form matches the nominative. 'Этот сувенир' is the subject."
+        "fullAnalysis": "Strategic focus: Accusative of price. 'Рубль' is the accusative used to state the cost; with 'один' the form matches the nominative. 'Этот сувенир' is the subject.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       }
     ]
   }

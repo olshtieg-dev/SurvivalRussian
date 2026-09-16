@@ -43,7 +43,10 @@
       {
         "id": "NN-NATURE-ZOLOTO-08",
         "phrase": "Без золота кольцо ничего не стоит.",
-        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Золота' takes the genitive because 'без' requires it, meaning without gold. The negation 'ничего не стоит' is standard usage."
+        "fullAnalysis": "Strategic focus: Genitive after 'без'. 'Золота' takes the genitive because 'без' requires it, meaning without gold. The negation 'ничего не стоит' is standard usage.",
+        "senses": {
+          "стоит": "сто́ит"
+        }
       },
       {
         "id": "NN-NATURE-ZOLOTO-09",

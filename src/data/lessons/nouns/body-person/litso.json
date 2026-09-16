@@ -13,7 +13,10 @@
       {
         "id": "NN-BODY-LITSO-02",
         "phrase": "Я каждое утро мою лицо.",
-        "fullAnalysis": "Strategic focus: Accusative object. 'Лицо' is the accusative direct object of 'мою'. Neuter inanimate nouns keep the nominative form in the accusative, and 'каждое утро' marks the routine."
+        "fullAnalysis": "Strategic focus: Accusative object. 'Лицо' is the accusative direct object of 'мою'. Neuter inanimate nouns keep the nominative form in the accusative, and 'каждое утро' marks the routine.",
+        "senses": {
+          "мою": "мо́ю"
+        }
       },
       {
         "id": "NN-BODY-LITSO-03",

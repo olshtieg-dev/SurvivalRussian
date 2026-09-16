@@ -39,7 +39,10 @@
     "id": "SR-07",
     "band": "receptive",
     "phrase": "Забей, это того не стоит.",
-    "fullAnalysis": "Strategic focus: Dismissal. 'Забей' is the informal imperative for 'forget it' or 'drop it', from 'забить'. Recognition band: friendly between peers but blunt, so recognise it well before you ever deploy it."
+    "fullAnalysis": "Strategic focus: Dismissal. 'Забей' is the informal imperative for 'forget it' or 'drop it', from 'забить'. Recognition band: friendly between peers but blunt, so recognise it well before you ever deploy it.",
+    "senses": {
+      "стоит": "сто́ит"
+    }
   },
   {
     "id": "SR-08",

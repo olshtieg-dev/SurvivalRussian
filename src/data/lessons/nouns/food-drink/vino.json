@@ -48,12 +48,18 @@
       {
         "id": "NN-FOOD-VINO-09",
         "phrase": "Грузинские вина известны во всём мире.",
-        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вина' is the nominative plural of 'вино' as the subject. 'Грузинские' agrees in the plural, and 'во всём мире' gives the prepositional scope."
+        "fullAnalysis": "Strategic focus: Nominative plural subject. 'Вина' is the nominative plural of 'вино' as the subject. 'Грузинские' agrees in the plural, and 'во всём мире' gives the prepositional scope.",
+        "senses": {
+          "вина": "ви́на"
+        }
       },
       {
         "id": "NN-FOOD-VINO-10",
         "phrase": "Мы попробовали разные местные вина.",
-        "fullAnalysis": "Strategic focus: Accusative plural object. 'Вина' is the accusative plural of the inanimate neuter 'вино', the object of 'попробовали'. 'Разные местные' agree in the plural."
+        "fullAnalysis": "Strategic focus: Accusative plural object. 'Вина' is the accusative plural of the inanimate neuter 'вино', the object of 'попробовали'. 'Разные местные' agree in the plural.",
+        "senses": {
+          "вина": "ви́на"
+        }
       }
     ]
   }

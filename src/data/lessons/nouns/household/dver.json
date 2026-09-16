@@ -53,7 +53,10 @@
       {
         "id": "NN-HOUSEHOLD-DVER-10",
         "phrase": "На двери висит тяжёлый замок.",
-        "fullAnalysis": "Strategic focus: Prepositional of location. 1. 'Двери' is prepositional after 'на', marking surface. 2. Same form as genitive and dative in this declension. 3. The static 'на' triggers the prepositional."
+        "fullAnalysis": "Strategic focus: Prepositional of location. 1. 'Двери' is prepositional after 'на', marking surface. 2. Same form as genitive and dative in this declension. 3. The static 'на' triggers the prepositional.",
+        "senses": {
+          "замок": "замо́к"
+        }
       },
       {
         "id": "NN-HOUSEHOLD-DVER-11",

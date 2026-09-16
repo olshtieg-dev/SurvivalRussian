@@ -1,57 +1,60 @@
 [
-    {
-        "id":  "GR-01",
-        "phrase":  "я еду в магазин на велосипеде мне нужна вода",
-        "fullAnalysis":  "Strategic focus: Logistics \u0026 Motion. 1. \u0027Еду\u0027 is a \u0027Determinate\u0027 verb of motion, used for a single trip by vehicle. 2. \u0027В магазин\u0027 uses the Accusative case to mark the destination. 3. \u0027На велосипеде\u0027 uses the Prepositional case to indicate the \u0027mode\u0027 of travel. 4. \u0027Нужна\u0027 is a short-form adjective matching the feminine gender of \u0027вода\u0027."
-    },
-    {
-        "id":  "GR-02",
-        "phrase":  "мне нужен пакет я плачу картой",
-        "fullAnalysis":  "Strategic focus: Retail Logistics. 1. \u0027Нужен\u0027 is the masculine form matching \u0027пакет\u0027. 2. \u0027Плачу\u0027 is the first-person \u0027I pay\u0027. 3. \u0027Картой\u0027 is the Instrumental case of \u0027карта\u0027. In Russian, when you use a tool (like a card or a pen), the word gets an \u0027-ой\u0027 or \u0027-ом\u0027 ending."
-    },
-    {
-        "id":  "GR-03",
-        "phrase":  "мне нужны яйца, хлеб и молоко",
-        "fullAnalysis":  "Strategic focus: Grocery List Building. 1. \u0027Мне нужны\u0027 uses the dative-needs pattern again, but here the predicate is plural because several items are required. 2. \u0027Яйца, хлеб и молоко\u0027 gives you a practical mixed shopping list with plural, masculine, and neuter nouns in one line. 3. This sentence trains the kind of compact store language you can actually say out loud while planning a quick grocery run."
-    },
-    {
-        "id":  "GR-04",
-        "phrase":  "скажите где отдел с овощами и фруктами",
-        "fullAnalysis":  "Strategic focus: In-Store Navigation. 1. \u0027Скажите\u0027 works as a polite request opener, much safer than a bare command when talking to staff. 2. \u0027Где отдел\u0027 asks for the location of a section inside the store. 3. \u0027С овощами и фруктами\u0027 uses the Instrumental plural after \u0027с\u0027 to describe the department by what it contains, which is a very natural Russian store pattern."
-    },
-    {
-        "id": "GR-05",
-        "phrase": "у вас есть свежее мясо и красная рыба",
-        "fullAnalysis": "Strategic focus: Inventory & Gender Agreement. 1. 'У вас есть' is the standard 'do you have' construction (At you there is). 2. 'Свежее' is the neuter adjective form matching 'мясо'. 3. 'Красная' is the feminine form matching 'рыба'. This trains the brain to switch gendered endings mid-sentence based on the noun that follows."
-    },
-    {
-        "id": "GR-06",
-        "phrase": "взвесьте пожалуйста один килограмм помидоров и огурцов",
-        "fullAnalysis": "Strategic focus: Weights & Genitive Plurals. 1. 'Взвесьте' is the formal imperative 'weigh', essential for the produce counter. 2. 'Килограмм' acts as a container word, triggering the Genitive case for the items. 3. 'Помидоров' and 'огурцов' demonstrate the masculine Genitive plural '-ов' ending, a high-frequency inflection point for learners."
-    },
-    {
-        "id": "GR-07",
-        "phrase": "где я могу найти корзины и тележки",
-        "fullAnalysis": "Strategic focus: Modal Navigation. 1. 'Где я могу' combines the question word with the first-person modal 'can'. 2. 'Найти' is the infinitive 'to find'. 3. 'Корзины и тележки' are Accusative plural direct objects. Learning the difference between a basket (корзина) and a trolley (тележка) is a basic survival tier requirement."
-    },
-    {
-        "id": "GR-08",
-        "phrase": "у меня есть скидочная карта и свой пакет",
-        "fullAnalysis": "Strategic focus: Possession & Reflexives. 1. 'У меня есть' marks the shift from 'at you' (GR-05) to 'at me'. 2. 'Скидочная' is the adjective form of 'скидка' (discount). 3. 'Свой пакет' uses the reflexive possessive 'one's own', which is the culturally correct way to say you brought your own bag rather than using 'мой'."
-    },
-    {
-        "id": "GR-09",
-        "phrase": "сколько стоит этот килограмм яблок и груш",
-        "fullAnalysis": "Strategic focus: Pricing Questions. 1. 'Сколько стоит' is the standard way to ask 'how much does it cost'. 2. 'Этот килограмм' uses the demonstrative 'this' to specify the quantity. 3. 'Яблок и груш' are Genitive plural, showing that the price is for a kilogram of these items."
-    },
-    {
-        "id": "GR-10",
-        "phrase": "я хочу купить свежий хлеб и вкусное молоко",
-        "fullAnalysis": "Strategic focus: Expressing Desires & Adjectives. 1. 'Я хочу купить' is a straightforward way to say 'I want to buy'. 2. 'Свежий' is the masculine adjective for 'fresh', matching 'хлеб'. 3. 'Вкусное' is the neuter adjective for 'tasty', matching 'молоко'. This sentence combines desire with descriptive adjectives, which is a common pattern in shopping conversations."
-    },
-    {
-        "id": "GR-11",
-        "phrase": "можете ли вы помочь мне найти отдел с молочными продуктами",
-        "fullAnalysis": "Strategic focus: Polite Requests & Department Navigation. 1. 'Можете ли вы' is a polite way to ask 'can you'. 2. 'Помочь мне найти' combines the verb 'help' with the infinitive 'to find'. 3. 'Отдел с молочными продуктами' uses the Instrumental case to describe the department by its contents, which is a common way to ask for specific sections in a store."
+  {
+    "id": "GR-01",
+    "phrase": "я еду в магазин на велосипеде мне нужна вода",
+    "fullAnalysis": "Strategic focus: Logistics & Motion. 1. 'Еду' is a 'Determinate' verb of motion, used for a single trip by vehicle. 2. 'В магазин' uses the Accusative case to mark the destination. 3. 'На велосипеде' uses the Prepositional case to indicate the 'mode' of travel. 4. 'Нужна' is a short-form adjective matching the feminine gender of 'вода'."
+  },
+  {
+    "id": "GR-02",
+    "phrase": "мне нужен пакет я плачу картой",
+    "fullAnalysis": "Strategic focus: Retail Logistics. 1. 'Нужен' is the masculine form matching 'пакет'. 2. 'Плачу' is the first-person 'I pay'. 3. 'Картой' is the Instrumental case of 'карта'. In Russian, when you use a tool (like a card or a pen), the word gets an '-ой' or '-ом' ending."
+  },
+  {
+    "id": "GR-03",
+    "phrase": "мне нужны яйца, хлеб и молоко",
+    "fullAnalysis": "Strategic focus: Grocery List Building. 1. 'Мне нужны' uses the dative-needs pattern again, but here the predicate is plural because several items are required. 2. 'Яйца, хлеб и молоко' gives you a practical mixed shopping list with plural, masculine, and neuter nouns in one line. 3. This sentence trains the kind of compact store language you can actually say out loud while planning a quick grocery run."
+  },
+  {
+    "id": "GR-04",
+    "phrase": "скажите где отдел с овощами и фруктами",
+    "fullAnalysis": "Strategic focus: In-Store Navigation. 1. 'Скажите' works as a polite request opener, much safer than a bare command when talking to staff. 2. 'Где отдел' asks for the location of a section inside the store. 3. 'С овощами и фруктами' uses the Instrumental plural after 'с' to describe the department by what it contains, which is a very natural Russian store pattern."
+  },
+  {
+    "id": "GR-05",
+    "phrase": "у вас есть свежее мясо и красная рыба",
+    "fullAnalysis": "Strategic focus: Inventory & Gender Agreement. 1. 'У вас есть' is the standard 'do you have' construction (At you there is). 2. 'Свежее' is the neuter adjective form matching 'мясо'. 3. 'Красная' is the feminine form matching 'рыба'. This trains the brain to switch gendered endings mid-sentence based on the noun that follows."
+  },
+  {
+    "id": "GR-06",
+    "phrase": "взвесьте пожалуйста один килограмм помидоров и огурцов",
+    "fullAnalysis": "Strategic focus: Weights & Genitive Plurals. 1. 'Взвесьте' is the formal imperative 'weigh', essential for the produce counter. 2. 'Килограмм' acts as a container word, triggering the Genitive case for the items. 3. 'Помидоров' and 'огурцов' demonstrate the masculine Genitive plural '-ов' ending, a high-frequency inflection point for learners."
+  },
+  {
+    "id": "GR-07",
+    "phrase": "где я могу найти корзины и тележки",
+    "fullAnalysis": "Strategic focus: Modal Navigation. 1. 'Где я могу' combines the question word with the first-person modal 'can'. 2. 'Найти' is the infinitive 'to find'. 3. 'Корзины и тележки' are Accusative plural direct objects. Learning the difference between a basket (корзина) and a trolley (тележка) is a basic survival tier requirement."
+  },
+  {
+    "id": "GR-08",
+    "phrase": "у меня есть скидочная карта и свой пакет",
+    "fullAnalysis": "Strategic focus: Possession & Reflexives. 1. 'У меня есть' marks the shift from 'at you' (GR-05) to 'at me'. 2. 'Скидочная' is the adjective form of 'скидка' (discount). 3. 'Свой пакет' uses the reflexive possessive 'one's own', which is the culturally correct way to say you brought your own bag rather than using 'мой'."
+  },
+  {
+    "id": "GR-09",
+    "phrase": "сколько стоит этот килограмм яблок и груш",
+    "fullAnalysis": "Strategic focus: Pricing Questions. 1. 'Сколько стоит' is the standard way to ask 'how much does it cost'. 2. 'Этот килограмм' uses the demonstrative 'this' to specify the quantity. 3. 'Яблок и груш' are Genitive plural, showing that the price is for a kilogram of these items.",
+    "senses": {
+      "стоит": "сто́ит"
     }
+  },
+  {
+    "id": "GR-10",
+    "phrase": "я хочу купить свежий хлеб и вкусное молоко",
+    "fullAnalysis": "Strategic focus: Expressing Desires & Adjectives. 1. 'Я хочу купить' is a straightforward way to say 'I want to buy'. 2. 'Свежий' is the masculine adjective for 'fresh', matching 'хлеб'. 3. 'Вкусное' is the neuter adjective for 'tasty', matching 'молоко'. This sentence combines desire with descriptive adjectives, which is a common pattern in shopping conversations."
+  },
+  {
+    "id": "GR-11",
+    "phrase": "можете ли вы помочь мне найти отдел с молочными продуктами",
+    "fullAnalysis": "Strategic focus: Polite Requests & Department Navigation. 1. 'Можете ли вы' is a polite way to ask 'can you'. 2. 'Помочь мне найти' combines the verb 'help' with the infinitive 'to find'. 3. 'Отдел с молочными продуктами' uses the Instrumental case to describe the department by its contents, which is a common way to ask for specific sections in a store."
+  }
 ]
