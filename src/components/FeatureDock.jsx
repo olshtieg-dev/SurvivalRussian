@@ -6,6 +6,7 @@ import TypingTutorContainer from './TypingTutorContainer';
 import ChatroomPanel from './ChatroomPanel';
 import AiInputPanel from './AiInputPanel';
 import PassageReader from './PassageReader';
+import AdSlot from './AdSlot';
 
 const featureDefinitions = [
   {
@@ -155,7 +156,13 @@ export default function FeatureDock({ openSignal = 0, openFeatureId = 'typing', 
             }
           }}
         >
-          <div className={`mx-auto mt-4 mb-8 w-full rounded-[1.75rem] border border-slate-800 bg-slate-950/95 shadow-2xl overflow-hidden ${
+          {/* Center the module panel and flank it with ad-gutter skyscrapers.
+              The gutters only appear at 2xl, where the panel leaves real blank
+              space on both sides; they stick while the module scrolls. Placeholders
+              (see AdSlot) — not yet wired to any ad network. */}
+          <div className="mx-auto flex items-start justify-center gap-4 2xl:gap-6">
+            <AdSlot label="AD" height={600} show="2xl" className="sticky top-6 mt-4" />
+            <div className={`mt-4 mb-8 w-full rounded-[1.75rem] border border-slate-800 bg-slate-950/95 shadow-2xl overflow-hidden ${
             activeFeature.id === 'typing'
               ? 'max-w-6xl'
               : activeFeature.id === 'chat'
@@ -233,6 +240,8 @@ export default function FeatureDock({ openSignal = 0, openFeatureId = 'typing', 
                 </div>
               </div>
             )}
+            </div>
+            <AdSlot label="AD" height={600} show="2xl" className="sticky top-6 mt-4" />
           </div>
         </div>
       )}

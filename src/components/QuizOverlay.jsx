@@ -5,6 +5,7 @@
 // the correct answers with explanations. Past scores are shown in the list.
 
 import { useState } from 'react';
+import AdSlot from './AdSlot';
 
 function ListView({ quizzes, results, studiedChunkIds, onStart, onClose }) {
   return (
@@ -161,7 +162,9 @@ export default function QuizOverlay({ quizzes, results, studiedChunkIds, onRecor
   const [active, setActive] = useState(null);
 
   return (
-    <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/70 backdrop-blur-sm p-6">
+    <div className="fixed inset-0 z-[100] flex items-center justify-center gap-4 2xl:gap-6 bg-black/70 backdrop-blur-sm p-6">
+      {/* Ad-gutter placeholders flanking the quiz card on very wide screens. */}
+      <AdSlot label="AD" height={600} show="2xl" />
       {active ? (
         <TakeView quiz={active} onFinish={onRecordResult} onExit={() => setActive(null)} />
       ) : (
@@ -173,6 +176,7 @@ export default function QuizOverlay({ quizzes, results, studiedChunkIds, onRecor
           onClose={onClose}
         />
       )}
+      <AdSlot label="AD" height={600} show="2xl" />
     </div>
   );
 }

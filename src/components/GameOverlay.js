@@ -3,6 +3,7 @@
 import dynamic from 'next/dynamic';
 import React, { useState } from 'react';
 import { Gamepad2, X } from 'lucide-react';
+import AdSlot from './AdSlot';
 
 const DurakBoard = dynamic(() => import('./DurakBoard'), {
   ssr: false,
@@ -13,11 +14,11 @@ const DurakBoard = dynamic(() => import('./DurakBoard'), {
   ),
 });
 
-const ChessPuzzleBoard = dynamic(() => import('./chess/ChessPuzzleBoard'), {
+const ChessHub = dynamic(() => import('./chess/ChessHub'), {
   ssr: false,
   loading: () => (
     <div className="flex h-full items-center justify-center rounded-[1.75rem] border border-slate-800 bg-slate-950/85 p-8 text-sm text-slate-400">
-      Loading chess puzzles...
+      Loading chess...
     </div>
   ),
 });
@@ -56,7 +57,7 @@ export default function GameOverlay() {
     chesspuzzles: {
       width: 560,
       height: 860,
-      title: 'CHESS PUZZLES',
+      title: 'CHESS',
     },
   };
 
@@ -83,8 +84,11 @@ export default function GameOverlay() {
         <div
           id="modal-overlay"
           onClick={(e) => e.target.id === 'modal-overlay' && closeGame()}
-          className="fixed inset-0 z-[100] flex items-center justify-center bg-slate-950/90 p-4 backdrop-blur-sm"
+          className="fixed inset-0 z-[100] flex items-center justify-center gap-4 2xl:gap-6 bg-slate-950/90 p-4 backdrop-blur-sm"
         >
+          {/* Ad-gutter skyscraper — flanks the game panel where the arcade leaves
+              blank space on wide screens. Placeholder (see AdSlot), 2xl only. */}
+          <AdSlot label="AD" height={600} show="2xl" />
           <div
             className="relative overflow-hidden rounded-2xl border border-slate-800 bg-slate-900 shadow-2xl transition-all duration-300 ease-in-out flex flex-col"
             style={{
@@ -151,9 +155,9 @@ export default function GameOverlay() {
                     className="group rounded-xl border border-slate-700 bg-slate-800/50 p-6 transition-all hover:border-indigo-500 hover:bg-indigo-600/20"
                   >
                     <span className="mb-2 block text-3xl">♟️</span>
-                    <span className="text-xs font-bold uppercase tracking-widest">Chess Puzzles</span>
+                    <span className="text-xs font-bold uppercase tracking-widest">Chess</span>
                     <span className="mt-2 block text-[10px] uppercase tracking-[0.2em] text-slate-500 group-hover:text-indigo-300">
-                      Forced-mate tactics
+                      Rated puzzles + play the engine
                     </span>
                   </button>
                 </div>
@@ -165,7 +169,7 @@ export default function GameOverlay() {
                 </div>
               ) : activeGame === 'chesspuzzles' ? (
                 <div className="flex-1 min-h-0 w-full overflow-y-auto">
-                  <ChessPuzzleBoard />
+                  <ChessHub />
                 </div>
               ) : (
                 <div
@@ -185,6 +189,7 @@ export default function GameOverlay() {
               )}
             </div>
           </div>
+          <AdSlot label="AD" height={600} show="2xl" />
         </div>
       )}
     </>

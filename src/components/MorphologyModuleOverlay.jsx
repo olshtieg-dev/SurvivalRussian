@@ -3,6 +3,7 @@
 import React from 'react';
 import { Blocks, GitBranchPlus, Sparkles, TreePine, X } from 'lucide-react';
 import { morphologyModules } from '../data/morphologyModules';
+import AdSlot from './AdSlot';
 
 const accentClasses = {
   emerald: {
@@ -45,7 +46,10 @@ export default function MorphologyModuleOverlay({
         }
       }}
     >
-      <div className="mx-auto mt-4 mb-8 w-full max-w-4xl overflow-hidden rounded-[1.75rem] border border-slate-800 bg-slate-950/95 shadow-2xl">
+      {/* Panel centered and flanked by ad-gutter skyscrapers at 2xl. Placeholders. */}
+      <div className="mx-auto flex items-start justify-center gap-4 2xl:gap-6">
+      <AdSlot label="AD" height={600} show="2xl" className="sticky top-6 mt-4" />
+      <div className="mt-4 mb-8 w-full max-w-4xl overflow-hidden rounded-[1.75rem] border border-slate-800 bg-slate-950/95 shadow-2xl">
         <div className="flex items-center justify-between border-b border-slate-800 bg-slate-900/80 px-5 py-4">
           <div className="flex items-center gap-3">
             <div className="inline-flex items-center gap-2 rounded-full border border-emerald-500/20 bg-emerald-500/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.3em] text-emerald-300">
@@ -134,6 +138,8 @@ export default function MorphologyModuleOverlay({
             })}
           </div>
         </div>
+      </div>
+      <AdSlot label="AD" height={600} show="2xl" className="sticky top-6 mt-4" />
       </div>
     </div>
   );

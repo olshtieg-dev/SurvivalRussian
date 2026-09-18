@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import { ChevronUp, ChevronDown, Dice5, GitBranchPlus, VolumeX } from 'lucide-react';
+import { Blocks, ChevronUp, ChevronDown, Dice5, GitBranchPlus, VolumeX } from 'lucide-react';
 import TypingEngine from '../components/TypingEngine';
 import MeaningCard from '../components/MeaningCard';
 import SentenceStructuralAnalysis from '../components/SentenceStructuralAnalysis';
@@ -204,7 +204,6 @@ export default function Home() {
   }, [resetSystem]);
 
   const openMorphologyModuleSelector = useCallback(() => {
-    setIsLessonSelectorOpen(true);
     setIsMorphologyModuleSelectorOpen(true);
   }, []);
 
@@ -578,11 +577,8 @@ export default function Home() {
           lessonFolders={lessonFolders}
           selectedLessonSetId={selectedLessonSetId}
           isOpen={isLessonSelectorOpen}
-          isMorphologyActive={isMorphologyActive}
-          activeMorphologyModuleLabel={activeMorphologyModule?.shortLabel || 'Open'}
           onToggle={() => setIsLessonSelectorOpen((open) => !open)}
           onSelectLessonSet={selectLessonSet}
-          onOpenMorphologyLab={openMorphologyModuleSelector}
         />
 
         {isLessonSelectorOpen && !isMorphologyActive && (
@@ -715,11 +711,17 @@ export default function Home() {
 
       <div className="flex-1 flex flex-col items-center overflow-y-auto z-10 py-10">
         {isMorphologyActive ? (
-          <MorphologyLabWorkspace
-            activeModule={activeMorphologyModule}
-            onOpenModuleSelector={openMorphologyModuleSelector}
-            onReturnToTyping={returnToTypingSurface}
-          />
+          // Morphology lab flanked by ad-gutter skyscrapers on very wide screens
+          // (the workspace caps at max-w-5xl, leaving blank space either side).
+          <div className="w-full flex items-start justify-center gap-4 2xl:gap-6">
+            <AdSlot label="AD" height={600} show="2xl" className="sticky top-6" />
+            <MorphologyLabWorkspace
+              activeModule={activeMorphologyModule}
+              onOpenModuleSelector={openMorphologyModuleSelector}
+              onReturnToTyping={returnToTypingSurface}
+            />
+            <AdSlot label="AD" height={600} show="2xl" className="sticky top-6" />
+          </div>
         ) : (
           <div className="w-full max-w-4xl flex flex-col items-center gap-8 px-8">
             {/* Primary ad gutters — flank the top MeaningCard (the interlinear gloss
@@ -777,6 +779,19 @@ export default function Home() {
           openFeatureId="typing"
           onFeatureClose={curriculum.refreshTypingStatus}
         />
+        <button
+          type="button"
+          onClick={openMorphologyModuleSelector}
+          title="Morphology Lab"
+          aria-label="Open Morphology Lab"
+          className={`w-10 h-10 rounded-xl flex items-center justify-center border transition-all duration-300 shadow-inner ${
+            isMorphologyActive
+              ? 'border-emerald-500/40 bg-emerald-600/15 text-emerald-200'
+              : 'border-slate-800 bg-slate-900 text-slate-500 hover:border-emerald-500 hover:text-emerald-300'
+          }`}
+        >
+          <Blocks size={18} />
+        </button>
         <GameOverlay />
       </RightRail>
 

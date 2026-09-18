@@ -5,6 +5,7 @@
 // they've drilled including repetitions. Driven entirely by useCurriculum.
 
 import { getLessonSet } from '../data/lessons';
+import AdSlot from './AdSlot';
 
 function setLabel(id) {
   if (!id) return '';
@@ -37,7 +38,9 @@ export default function CurriculumPanel({
     .sort((a, b) => b.lastSeen - a.lastSeen);
 
   return (
-    <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/70 backdrop-blur-sm p-6">
+    <div className="fixed inset-0 z-[100] flex items-center justify-center gap-4 2xl:gap-6 bg-black/70 backdrop-blur-sm p-6">
+      {/* Ad-gutter placeholders flanking the curriculum card on very wide screens. */}
+      <AdSlot label="AD" height={600} show="2xl" />
       <div className="w-full max-w-lg rounded-3xl border border-slate-800 bg-slate-950 shadow-2xl max-h-[90vh] overflow-y-auto custom-scrollbar">
         <div className="px-6 py-5 border-b border-slate-800 flex items-center justify-between">
           <div>
@@ -188,6 +191,7 @@ export default function CurriculumPanel({
           </button>
         </div>
       </div>
+      <AdSlot label="AD" height={600} show="2xl" />
     </div>
   );
 }
