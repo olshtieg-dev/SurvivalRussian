@@ -12,6 +12,10 @@ export const CASES = [
     triggers: [],
     triggerHint: 'dictionary form',
     color: 'sky',
+    sentence: 'Студе́нт чита́ет кни́гу.',
+    sentenceEn: 'The student is reading a book.',
+    sentenceFocus: 'Студе́нт',
+    usage: 'The naming case. It is the dictionary form and marks the doer of the verb — the one performing the action. It never follows a preposition.',
   },
   {
     key: 'gen',
@@ -22,6 +26,10 @@ export const CASES = [
     triggers: ['у', 'нет', 'от', 'до', 'из', 'без', 'для', 'около'],
     triggerHint: 'у меня нет …',
     color: 'emerald',
+    sentence: 'У меня́ нет вре́мени.',
+    sentenceEn: 'I have no time.',
+    sentenceFocus: 'вре́мени',
+    usage: 'The “of / not-any” case. It shows possession (кни́га бра́та — the brother’s book), absence after нет, quantities, and follows у, из, от, до, без, для.',
   },
   {
     key: 'dat',
@@ -32,6 +40,10 @@ export const CASES = [
     triggers: ['к', 'по'],
     triggerHint: 'иду к …',
     color: 'amber',
+    sentence: 'Я иду́ к врачу́.',
+    sentenceEn: 'I am going to the doctor.',
+    sentenceFocus: 'врачу́',
+    usage: 'The “to / for” case. It marks the recipient of giving, telling, or helping (даю́ дру́гу), the target of movement after к, and age/feeling statements (мне хо́лодно).',
   },
   {
     key: 'acc',
@@ -42,6 +54,10 @@ export const CASES = [
     triggers: ['в', 'на', 'через', 'про'],
     triggerHint: 'я вижу …',
     color: 'rose',
+    sentence: 'Я ви́жу ма́му.',
+    sentenceEn: 'I see mom.',
+    sentenceFocus: 'ма́му',
+    usage: 'The direct-object case — what the verb acts on (чита́ю кни́гу). It also marks motion-into after в / на (иду́ в шко́лу) and duration.',
   },
   {
     key: 'ins',
@@ -52,6 +68,10 @@ export const CASES = [
     triggers: ['с', 'за', 'под', 'над', 'перед', 'между'],
     triggerHint: 'с …',
     color: 'violet',
+    sentence: 'Я пишу́ ру́чкой.',
+    sentenceEn: 'I write with a pen.',
+    sentenceFocus: 'ру́чкой',
+    usage: 'The “by means of” case — the tool or manner of an action (е́ду по́ездом). It also marks accompaniment after с (с дру́гом) and follows под, над, за, ме́жду.',
   },
   {
     key: 'pre',
@@ -62,6 +82,10 @@ export const CASES = [
     triggers: ['в', 'на', 'о', 'при'],
     triggerHint: 'в …',
     color: 'blue',
+    sentence: 'Мы говори́м о кни́ге.',
+    sentenceEn: 'We are talking about the book.',
+    sentenceFocus: 'кни́ге',
+    usage: 'The only case that never stands alone. It marks static location after в / на (в шко́ле) and the topic of speech or thought after о (ду́маю о тебе́).',
   },
 ];
 

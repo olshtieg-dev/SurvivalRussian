@@ -1,10 +1,13 @@
 'use client';
 
 import React from 'react';
-import { Blocks, Dices, GitBranchPlus, TreePine } from 'lucide-react';
+import { Blocks, Compass, Dices, GitBranchPlus, Link2, TreePine, Waypoints } from 'lucide-react';
 import DeclensionExplorer from './morphology/DeclensionExplorer';
 import MorphemeRolodex from './morphology/MorphemeRolodex';
 import DeclensionDrill from './morphology/DeclensionDrill';
+import ConjugationExplorer from './morphology/ConjugationExplorer';
+import CaseTrainer from './morphology/CaseTrainer';
+import VerbGovernment from './morphology/VerbGovernment';
 
 const accentClasses = {
   emerald: {
@@ -19,12 +22,27 @@ const accentClasses = {
     badge: 'border-blue-500/20 bg-blue-500/10 text-blue-300',
     glow: 'shadow-[0_0_45px_rgba(37,99,235,0.08)]',
   },
+  rose: {
+    badge: 'border-rose-500/20 bg-rose-500/10 text-rose-300',
+    glow: 'shadow-[0_0_45px_rgba(244,63,94,0.08)]',
+  },
+  violet: {
+    badge: 'border-violet-500/20 bg-violet-500/10 text-violet-300',
+    glow: 'shadow-[0_0_45px_rgba(139,92,246,0.08)]',
+  },
+  sky: {
+    badge: 'border-sky-500/20 bg-sky-500/10 text-sky-300',
+    glow: 'shadow-[0_0_45px_rgba(14,165,233,0.08)]',
+  },
 };
 
 const iconMap = {
   trees: TreePine,
   rolodex: GitBranchPlus,
   wildcard: Dices,
+  conjugation: Waypoints,
+  'cases-meaning': Compass,
+  government: Link2,
 };
 
 // Each module id maps to its interactive surface.
@@ -32,6 +50,9 @@ const moduleComponents = {
   trees: DeclensionExplorer,
   rolodex: MorphemeRolodex,
   wildcard: DeclensionDrill,
+  conjugation: ConjugationExplorer,
+  'cases-meaning': CaseTrainer,
+  government: VerbGovernment,
 };
 
 export default function MorphologyLabWorkspace({

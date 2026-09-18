@@ -9,7 +9,7 @@ import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Chess } from 'chess.js';
 import { ArrowLeft, Cpu, Flag, RotateCcw } from 'lucide-react';
 import ChessBoardView from './ChessBoardView';
-import { AI_LEVELS, bestMove } from '../../lib/chessAI';
+import { AI_LEVELS, computeTimeBudget } from '../../lib/chessAI';
 
 const PROMO_GLYPH = { q: '♛', r: '♜', b: '♝', n: '♞' };
 const START_FEN = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1';
@@ -35,6 +35,8 @@ export default function PlayVsComputer({ onExit }) {
   const [pendingPromotion, setPendingPromotion] = useState(null);
   const [resigned, setResigned] = useState(false);
   const gameKey = useRef(0); // bumped on new game to cancel stale async AI replies
+  const workerRef = useRef(null); // the engine Web Worker (created client-side)
+  const requestRef = useRef(0); // monotonic id so a slow reply for an old position is ignored
 
   const level = useMemo(() => AI_LEVELS.find((l) => l.id === levelId) || AI_LEVELS[1], [levelId]);
   const game = useMemo(() => new Chess(fen), [fen]);
@@ -72,23 +74,62 @@ export default function PlayVsComputer({ onExit }) {
     return true;
   }, [fen]);
 
-  // Engine reply: whenever it's the computer's turn, think (off the paint frame)
-  // and play. `gameKey` guards against a reply landing after a new game / resign.
+  // The engine search runs in a Web Worker so a multi-second think never freezes
+  // the board. Created once on mount, torn down on unmount.
+  useEffect(() => {
+    const worker = new Worker(new URL('../../lib/chessAI.worker.js', import.meta.url));
+    workerRef.current = worker;
+    return () => { worker.terminate(); workerRef.current = null; };
+  }, []);
+
+  // Engine reply: whenever it's the computer's turn, ask the worker for a move and
+  // apply it when it replies. The per-request id + gameKey guard drop replies for a
+  // position that's been superseded (new game, resign, or a later turn).
   useEffect(() => {
     if (resigned || game.isGameOver()) return undefined;
     if (turn === humanColor) return undefined;
+    const worker = workerRef.current;
+    if (!worker) return undefined;
+
     const myKey = gameKey.current;
-    // Defer so the human's move + "thinking" status paint before the (blocking) search.
-    const timer = setTimeout(() => {
-      const move = bestMove(fen, { depth: level.depth, noise: level.noise, timeLimitMs: level.timeLimitMs });
-      if (gameKey.current !== myKey) return; // stale — a new game started
+    const requestFen = fen;
+    const reqId = (requestRef.current += 1);
+
+    const handleMessage = (event) => {
+      const { id, move } = event.data || {};
+      if (id !== reqId) return; // a newer request has superseded this one
+      worker.removeEventListener('message', handleMessage);
+      if (gameKey.current !== myKey) return; // a new game started while thinking
       if (!move) return;
-      const g = new Chess(fen);
-      g.move({ from: move.from, to: move.to, promotion: move.uci.slice(4) || undefined });
+      const g = new Chess(requestFen);
+      try {
+        g.move({ from: move.from, to: move.to, promotion: move.uci.slice(4) || undefined });
+      } catch (error) {
+        return;
+      }
       setFen(g.fen());
       setLastMove({ from: move.from, to: move.to });
+    };
+
+    worker.addEventListener('message', handleMessage);
+    // Adaptive budget: think longer late in the game / when behind (capped per level).
+    const engineColor = humanColor === 'w' ? 'b' : 'w';
+    const timeLimitMs = computeTimeBudget(level, requestFen, engineColor);
+    // Defer the post one frame so the human's move + "thinking" status paint first.
+    const timer = setTimeout(() => {
+      worker.postMessage({
+        id: reqId,
+        fen: requestFen,
+        depth: level.depth,
+        noise: level.noise,
+        timeLimitMs,
+      });
     }, 60);
-    return () => clearTimeout(timer);
+
+    return () => {
+      clearTimeout(timer);
+      worker.removeEventListener('message', handleMessage);
+    };
   }, [fen, turn, humanColor, level, resigned, game]);
 
   const handleSquareClick = useCallback((square) => {

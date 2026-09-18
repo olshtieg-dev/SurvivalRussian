@@ -119495,5 +119495,93 @@
     "analysis": "N. m., 'tongue, language; nation'; CS ъ-ending; = modern язык.",
     "synonym": " ",
     "antonym": " "
+  },
+  "гордилась": {
+    "cyrillic": "горди́лась",
+    "literal": "was proud",
+    "natural": "She was proud.",
+    "analysis": "Past f. sg. of гордиться (impf., reflexive 'to be proud of'). Governs the instrumental.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "гордись": {
+    "cyrillic": "горди́сь",
+    "literal": "be proud",
+    "natural": "Be proud.",
+    "analysis": "Imperative sg. of гордиться (impf., reflexive 'to be proud of'). Governs the instrumental.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "интересуйся": {
+    "cyrillic": "интересу́йся",
+    "literal": "take an interest",
+    "natural": "Take an interest.",
+    "analysis": "Imperative sg. of интересоваться (impf., reflexive 'to be interested in'). Governs the instrumental.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "интересуюсь": {
+    "cyrillic": "интересу́юсь",
+    "literal": "I am interested",
+    "natural": "I am interested.",
+    "analysis": "1sg present of интересоваться (impf., reflexive). Governs the instrumental.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "купит": {
+    "cyrillic": "ку́пит",
+    "literal": "will buy",
+    "natural": "He or she will buy.",
+    "analysis": "3sg of купить (perf., 'to buy'); perfective, so the present endings read as future.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "помогай": {
+    "cyrillic": "помога́й",
+    "literal": "help",
+    "natural": "Help.",
+    "analysis": "Imperative sg. of помогать (impf., 'to help'). Governs the dative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "помогала": {
+    "cyrillic": "помога́ла",
+    "literal": "was helping",
+    "natural": "She was helping.",
+    "analysis": "Past f. sg. of помогать (impf., 'to help'). Governs the dative.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "сахаром": {
+    "cyrillic": "са́харом",
+    "literal": "with sugar",
+    "natural": "With sugar.",
+    "analysis": "Instr. sg. of сахар (m., 'sugar'); instrumental of accompaniment after с.",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "строил": {
+    "cyrillic": "стро́ил",
+    "literal": "was building",
+    "natural": "He was building.",
+    "analysis": "Past m. sg. of строить (impf., 'to build').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "строит": {
+    "cyrillic": "стро́ит",
+    "literal": "builds",
+    "natural": "He or she builds.",
+    "analysis": "3sg present of строить (impf., 'to build').",
+    "synonym": " ",
+    "antonym": " "
+  },
+  "успехами": {
+    "cyrillic": "успе́хами",
+    "literal": "with successes",
+    "natural": "With successes.",
+    "analysis": "Instr. pl. of успех (m., 'success'); instrumental object of гордиться.",
+    "synonym": " ",
+    "antonym": " "
   }
 }

@@ -1,7 +1,7 @@
 'use client';
 
 import React from 'react';
-import { Blocks, GitBranchPlus, Sparkles, TreePine, X } from 'lucide-react';
+import { Blocks, Compass, GitBranchPlus, Link2, Sparkles, TreePine, Waypoints, X } from 'lucide-react';
 import { morphologyModules } from '../data/morphologyModules';
 import AdSlot from './AdSlot';
 
@@ -21,12 +21,30 @@ const accentClasses = {
     card: 'hover:border-blue-500/50 hover:bg-blue-500/10',
     active: 'border-blue-500/50 bg-blue-500/15 shadow-[0_0_24px_rgba(37,99,235,0.12)]',
   },
+  rose: {
+    badge: 'border-rose-500/20 bg-rose-500/10 text-rose-300',
+    card: 'hover:border-rose-500/50 hover:bg-rose-500/10',
+    active: 'border-rose-500/50 bg-rose-500/15 shadow-[0_0_24px_rgba(244,63,94,0.12)]',
+  },
+  violet: {
+    badge: 'border-violet-500/20 bg-violet-500/10 text-violet-300',
+    card: 'hover:border-violet-500/50 hover:bg-violet-500/10',
+    active: 'border-violet-500/50 bg-violet-500/15 shadow-[0_0_24px_rgba(139,92,246,0.12)]',
+  },
+  sky: {
+    badge: 'border-sky-500/20 bg-sky-500/10 text-sky-300',
+    card: 'hover:border-sky-500/50 hover:bg-sky-500/10',
+    active: 'border-sky-500/50 bg-sky-500/15 shadow-[0_0_24px_rgba(14,165,233,0.12)]',
+  },
 };
 
 const iconMap = {
   trees: TreePine,
   rolodex: GitBranchPlus,
   wildcard: Sparkles,
+  conjugation: Waypoints,
+  'cases-meaning': Compass,
+  government: Link2,
 };
 
 export default function MorphologyModuleOverlay({
